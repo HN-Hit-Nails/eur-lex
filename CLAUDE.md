@@ -47,7 +47,7 @@ aplicável (no máximo 3 perguntas) e vai directo aos artigos.
 | `catalogo/repertorio.md` | Árvore de áreas do repertório oficial do EUR-Lex, com contagens. |
 | `ordem-advogados/` | Regulação profissional dos advogados em Portugal (portal.oa.pt): `INDICE.md`; texto dos regulamentos e deliberações da Ordem em `regulamentos/` (tal como publicados, não consolidados); `pareceres.tsv` = **só o índice** dos pareceres (órgão, título, assunto, ligação), sem o texto. O Estatuto da Ordem (Lei n.º 145/2015) está em `legislacao-pt/lei-145-2015.md` (deontologia: título III, artigos 88.º e seguintes). |
 | `competencias/` | Competências profissionais (não é texto legal): profissões jurídicas e respectivas competências da classificação europeia ESCO (`esco-*.tsv`, `esco-competencias-gerais.md`) e `12-competencias-juristas.md` (cada competência com a fonte legal ou oficial que existe). |
-| `ferramentas/ue_ajustes.yaml` | Correcções manuais à lista de `ue/` quando o Cellar erra: actos acrescentados (ex.: recomendações do Conselho que o Cellar não marca como em vigor) e retirados (ex.: recomendação de 2006 substituída em 2018), cada um com a fonte. |
+| `ferramentas/ue_ajustes.yaml` | Correcções manuais à lista de `ue/` quando o Cellar erra: actos acrescentados à mão e retirados (ex.: recomendação de 2006 substituída em 2018), cada um com a fonte. As recomendações sem marca entram por uma regra automática (ver "Particularidades de `ue/`"). |
 | `ferramentas/eurlex.py` | Script que descarrega e converte. `ferramentas/nucleo.yaml` é a lista curada. |
 
 Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
@@ -137,9 +137,10 @@ por um profissional.
   deve ser confirmado no EUR-Lex. Atenção: o Cellar regista datas de aplicação diferida como datas
   de entrada em vigor; a nota indica as disposições que só se aplicam mais tarde.
 - **Recomendações:** desde 2017 o Cellar quase não marca recomendações como em vigor (em 2026-10-10:
-  669 recomendações de 2017 em diante sem marca). Só estão em `ue/` as que o Cellar marca e as
-  acrescentadas em `ferramentas/ue_ajustes.yaml`. Se a pergunta for sobre uma recomendação recente,
-  procura no catálogo do EUR-Lex e descarrega-a (`python3 ferramentas/eurlex.py obter <CELEX> …`).
+  669 recomendações de 2017 em diante sem marca). As que não têm marca nenhuma e não têm data de fim
+  de validade passada entram em `ue/` como `em vigor (por confirmar)` (regra automática em
+  `completo.py`); não são vinculativas e algumas podem ter sido substituídas sem o Cellar o registar —
+  diz isso ao utilizador. As marcadas "não em vigor" ficam de fora.
 - Os ficheiros de `ue/` não têm considerandos separados nem contexto: nos textos originais o
   preâmbulo vem na secção `## Preâmbulo`; nos consolidados não existe (está no JO).
 

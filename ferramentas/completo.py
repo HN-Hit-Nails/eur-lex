@@ -337,6 +337,29 @@ SELECT ?celex (STR(?eif) AS ?entrada) ?t ?dd WHERE {{
                              "repertorio": "", "eli": m.get("eli") or "", "estado": NAO_CONFIRMADO,
                              "nota_estado": " ".join(e["nota"].split()) + " Incluído por correcção manual "
                                             "(ferramentas/ue_ajustes.yaml)."}
+    # Recomendações que o Cellar não marca como em vigor nem como fora de vigor e sem fim de
+    # validade passado: entram como "em vigor (por confirmar)". Desde 2017 o Cellar quase não marca
+    # recomendações (em 2026-10-10: 669 de 2017 em diante sem marca, contra 2 com marca); sem esta
+    # regra ficavam todas de fora. Não inclui rectificações (CELEX com "R(").
+    recs = _paginar(eurlex.PREFIXOS + f"""
+SELECT DISTINCT ?celex WHERE {{
+  ?w cdm:resource_legal_id_celex ?celex .
+  FILTER(REGEX(STR(?celex), "^3[0-9]{{4}}H"))
+  FILTER NOT EXISTS {{ ?w cdm:resource_legal_in-force ?marca }}
+  FILTER NOT EXISTS {{ ?w cdm:resource_legal_date_end-of-validity ?fim . FILTER(?fim <= "{hoje}"^^xsd:date) }}
+}} ORDER BY ?celex""")
+    sem_marca = sorted({l["celex"] for l in recs} - set(actos) - set(retirados))
+    sem_marca = [c for c in sem_marca if "R(" not in c]
+    meta = metadados_basicos(sem_marca) if sem_marca else {}
+    for c in sem_marca:
+        m = meta.get(c, {})
+        actos[c] = {"celex": c, "titulo": eurlex.limpar_titulo(m.get("titulo") or ""),
+                    "data": (m.get("data") or "")[:10], "tipo": eurlex.nome_tipo(c), "repertorio": "",
+                    "eli": m.get("eli") or "", "estado": NAO_CONFIRMADO,
+                    "nota_estado": "recomendação que o Cellar não marca como em vigor (desde 2017 o Cellar quase "
+                                   "não marca recomendações) e sem data de fim de validade registada; incluída "
+                                   "automaticamente. Confirmar no EUR-Lex se continua em vigor."}
+
     saidos = [c for c in anteriores if c not in actos and c not in retirados]
     info = estado_cellar(saidos) if saidos else {}
     removidos = {c: f"{m} (correcção manual, ferramentas/ue_ajustes.yaml)"
@@ -377,6 +400,7 @@ SELECT ?celex (STR(?eif) AS ?entrada) ?t ?dd WHERE {{
     REMOVIDOS.write_text(json.dumps(removidos, ensure_ascii=False, indent=0), encoding="utf-8")
     n_fut = sum(1 for a in actos.values() if a["estado"] == "futuro")
     n_conf = sum(1 for a in actos.values() if a["estado"] == NAO_CONFIRMADO)
+    print(f"{len(sem_marca)} recomendações sem marca do Cellar incluídas como em vigor (por confirmar)")
     n_cons = sum(1 for a in actos.values() if a["versoes"])
     print(f"{len(actos)} actos ({n_fut} futuros, {n_conf} em vigor por confirmar no Cellar); "
           f"{n_cons} com versões consolidadas; {len(versoes)} versões; {len(removidos)} deixam de estar em vigor")
