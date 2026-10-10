@@ -1,0 +1,35 @@
+# Correcções manuais à lista de actos de ue/, quando os metadados do Cellar estão errados ou faltam.
+# Cada entrada tem de citar a fonte que a justifica. Aplicadas por completo.py em cada actualização.
+#
+# acrescentar: actos que o Cellar não marca como em vigor mas que não foram revogados. Entram como
+#   "em vigor (por confirmar)", com a nota no ficheiro. Desde 2017 o Cellar quase não marca
+#   recomendações como em vigor (medido em 2026-10-10: 669 recomendações de 2017 em diante sem marca
+#   e sem fim de validade, contra 2 com marca).
+# retirar: actos que o Cellar marca como em vigor mas que deixaram de vigorar.
+
+acrescentar:
+  - celex: 32018H0604(01)
+    nota: >-
+      Recomendação do Conselho publicada na série C do JO, que o Cellar não marca como em vigor.
+      Sem registo de revogação ou alteração no Cellar (verificado em 2026-10-10). Substitui a
+      recomendação de 2006 sobre o mesmo tema (32006H0962).
+  - celex: 32017H0615(01)
+    nota: >-
+      Recomendação do Conselho publicada na série C do JO, que o Cellar não marca como em vigor.
+      Sem registo de revogação ou alteração no Cellar (verificado em 2026-10-10).
+  - celex: 32020H1202(01)
+    nota: >-
+      Recomendação do Conselho publicada na série C do JO, que o Cellar não marca como em vigor.
+      Sem registo de revogação ou alteração no Cellar (verificado em 2026-10-10).
+  - celex: 32022H0627(02)
+    nota: >-
+      Recomendação do Conselho publicada na série C do JO, que o Cellar não marca como em vigor.
+      Sem registo de revogação ou alteração no Cellar (verificado em 2026-10-10).
+
+retirar:
+  - celex: 32006H0962
+    motivo: >-
+      substituída pela Recomendação do Conselho de 22 de maio de 2018 (32018H0604(01)), que diz:
+      «A presente recomendação substitui a recomendação do Parlamento Europeu e do Conselho, de 18 de
+      dezembro de 2006, sobre as competências essenciais para a aprendizagem ao longo da vida»
+      (o Cellar continua a marcá-la como em vigor e não regista a substituição)

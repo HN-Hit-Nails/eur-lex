@@ -337,6 +337,8 @@ def escrever_entrada(actos, curado):
         "Pesquisar epígrafes em toda a legislação: `rg -i 'direito de retratação' indice/artigos`. |",
         "| `corpus/INDICE.md` | Os actos curados (com considerandos, sínteses, transposição, jurisprudência). |",
         "| `legislacao-pt/INDICE.md` | Leis portuguesas por diretiva. |",
+        "| `ordem-advogados/INDICE.md` | Ordem dos Advogados: Estatuto, regulamentos e índice de pareceres. |",
+        "| `competencias/` | Competências das profissões jurídicas (ESCO) e lista com fontes (não é texto legal). |",
         "| `catalogo/legislacao-em-vigor.tsv` | Catálogo completo com ELI e ligações. |", "",
         "## Áreas (repertório oficial do EUR-Lex)", "",
     ]

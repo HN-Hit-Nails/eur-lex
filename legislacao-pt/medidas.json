@@ -4214,6 +4214,20 @@
   "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2023-211366691"
  },
  {
+  "chave": "lei-145-2015",
+  "tipo": "Lei",
+  "numero": "145/2015",
+  "data": "2015-09-09",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [],
+  "titulo": "Lei n.º 145/2015",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/lei/145-2015-70236273",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-105332944"
+ },
+ {
   "chave": "lei-16-2007",
   "tipo": "Lei",
   "numero": "16/2007",

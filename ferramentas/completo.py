@@ -189,6 +189,26 @@ def _paginar(consulta, passo=10000):
 
 NAO_CONFIRMADO = "em vigor (por confirmar)"
 REMOVIDOS = CACHE / "removidos.json"  # actos que saem de ue/ nesta actualização e porquê
+AJUSTES = RAIZ / "ferramentas" / "ue_ajustes.yaml"  # correcções manuais, cada uma com a fonte
+
+
+def metadados_basicos(celexes):
+    """Título (PT), data e ELI de cada CELEX (para actos acrescentados à mão)."""
+    res = {}
+    for i in range(0, len(celexes), 80):
+        valores = " ".join(eurlex._lit(c) for c in celexes[i:i + 80])
+        for l in eurlex.sparql(eurlex.PREFIXOS + f"""
+SELECT ?celex (SAMPLE(?t) AS ?titulo) (SAMPLE(STR(?dd)) AS ?data) (SAMPLE(STR(?eli)) AS ?eli) WHERE {{
+  VALUES ?c {{ {valores} }}
+  ?w cdm:resource_legal_id_celex ?c . BIND(STR(?c) AS ?celex)
+  OPTIONAL {{ ?w cdm:work_date_document ?dd }}
+  OPTIONAL {{ ?w cdm:resource_legal_eli ?eli }}
+  OPTIONAL {{ ?x cdm:expression_belongs_to_work ?w ;
+               cdm:expression_uses_language <http://publications.europa.eu/resource/authority/language/POR> ;
+               cdm:expression_title ?t }}
+}} GROUP BY ?celex"""):
+            res[l["celex"]] = l
+    return res
 
 
 def _marca(v):
@@ -303,9 +323,24 @@ SELECT ?celex (STR(?eif) AS ?entrada) ?t ?dd WHERE {{
             c = eurlex.ler_frontmatter(f).get("celex")
             if c:
                 anteriores[c] = str(f.relative_to(RAIZ))
-    saidos = [c for c in anteriores if c not in actos]
+    # Correcções manuais (ferramentas/ue_ajustes.yaml).
+    ajustes = eurlex.yaml.safe_load(AJUSTES.read_text(encoding="utf-8")) if AJUSTES.exists() else {}
+    retirados = {e["celex"]: " ".join(e["motivo"].split()) for e in ajustes.get("retirar") or []}
+    for c in retirados:
+        actos.pop(c, None)
+    novos = [e for e in ajustes.get("acrescentar") or [] if e["celex"] not in actos and e["celex"] not in retirados]
+    meta = metadados_basicos([e["celex"] for e in novos]) if novos else {}
+    for e in novos:
+        m = meta.get(e["celex"], {})
+        actos[e["celex"]] = {"celex": e["celex"], "titulo": eurlex.limpar_titulo(m.get("titulo") or ""),
+                             "data": (m.get("data") or "")[:10], "tipo": eurlex.nome_tipo(e["celex"]),
+                             "repertorio": "", "eli": m.get("eli") or "", "estado": NAO_CONFIRMADO,
+                             "nota_estado": " ".join(e["nota"].split()) + " Incluído por correcção manual "
+                                            "(ferramentas/ue_ajustes.yaml)."}
+    saidos = [c for c in anteriores if c not in actos and c not in retirados]
     info = estado_cellar(saidos) if saidos else {}
-    removidos = {}
+    removidos = {c: f"{m} (correcção manual, ferramentas/ue_ajustes.yaml)"
+                 for c, m in retirados.items() if c in anteriores}
     for c in saidos:
         prova = prova_cessacao(info.get(c), hoje, recente)
         if prova:
