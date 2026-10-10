@@ -84,7 +84,10 @@ A pasta **`ue/`** tem o texto integral, em português, de todos os actos que o C
 como em vigor (64 273 em 2026-10-10: tratados, acordos internacionais, regulamentos,
 diretivas, decisões, recomendações…), dos 44 já publicados que só entram em vigor depois
 dessa data e de 7 que, pelas datas do Cellar, já entraram em vigor mas que o Cellar ainda não
-marca como tal (`estado: em vigor (por confirmar)`, com o motivo no ficheiro). Para cada acto: a versão consolidada mais recente já aplicável ou, se não houver,
+marca como tal (`estado: em vigor (por confirmar)`, com o motivo no ficheiro). Entram também, como
+`em vigor (por confirmar)`, as recomendações que o Cellar não marca nem como em vigor nem como fora
+de vigor e que não têm data de fim de validade passada: desde 2017 o Cellar quase não marca
+recomendações, e sem isto ficavam de fora. Para cada acto: a versão consolidada mais recente já aplicável ou, se não houver,
 o texto original do Jornal Oficial; e, quando já existe, a versão consolidada futura
 (`<CELEX>.futuro.md`). Quando o Cellar não tem o acto em português (sobretudo decisões
 sobre concentrações de empresas, publicadas só na língua do processo), usa-se o inglês, o
@@ -102,9 +105,6 @@ encontrar problemas graves, a execução aparece como falhada no GitHub. Pode se
 
 - Legislação já revogada, propostas e trabalhos preparatórios, Jornal Oficial série C,
   perguntas parlamentares (o EUR-Lex tem ~1 milhão de documentos; aqui está o que vigora).
-- A maior parte das recomendações desde 2017: o Cellar não as marca como em vigor (669 de 2017
-  em diante, contadas em 2026-10-10). Estão só as que se acrescentaram à mão em
-  `ferramentas/ue_ajustes.yaml` (por exemplo, as competências essenciais de 2018).
 - Bases de dados jurídicas comerciais (ex.: BDJUR da Almedina): conteúdo pago e protegido.
 - Texto integral da jurisprudência do Tribunal de Justiça (só a lista por acto, no corpus
   curado; cada acórdão descarrega-se a pedido).

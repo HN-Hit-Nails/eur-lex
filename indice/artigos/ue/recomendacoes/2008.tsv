@@ -1,5 +1,8 @@
 celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32008H0098	Preâmbulo		18	66	795	ue/recomendacoes/2008/32008H0098.md
+32008H0103	Preâmbulo		20	52	1583	ue/recomendacoes/2008/32008H0103.md
+32008H0103	ANEXO I		120	309	1774	ue/recomendacoes/2008/32008H0103.md
+32008H0103	ANEXO II		311	348	251	ue/recomendacoes/2008/32008H0103.md
 32008H0115	Preâmbulo		18	36	277	ue/recomendacoes/2008/32008H0115.md
 32008H0116	Preâmbulo		18	36	340	ue/recomendacoes/2008/32008H0116.md
 32008H0117	Preâmbulo		18	36	337	ue/recomendacoes/2008/32008H0117.md
@@ -14,6 +17,7 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32008H0390	Preâmbulo		18	30	92	ue/recomendacoes/2008/32008H0390.md
 32008H0399	Preâmbulo		18	46	981	ue/recomendacoes/2008/32008H0399.md
 32008H0399	ANEXO		66	608	23596	ue/recomendacoes/2008/32008H0399.md
+32008H0404(01)	ANEXO	Comité de alto nível sobre destacamento de trabalhadores (a instituir): papel, tarefas e responsabilidades previstos	138	162	799	ue/recomendacoes/2008/32008H0404(01).md
 32008H0405	Preâmbulo		18	46	596	ue/recomendacoes/2008/32008H0405.md
 32008H0416	Preâmbulo		18	46	1166	ue/recomendacoes/2008/32008H0416.md
 32008H0416	ANEXO I		82	158	2768	ue/recomendacoes/2008/32008H0416.md
@@ -33,5 +37,8 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32008H0594	Preâmbulo		18	52	1772	ue/recomendacoes/2008/32008H0594.md
 32008H0653	Preâmbulo		18	34	396	ue/recomendacoes/2008/32008H0653.md
 32008H0653	ANEXO	Versão actualizada da Declaração Europeia de Princípios relativa à interface homem-máquina (IHM) para os sistemas de informação e comunicação instalados nos veí	63	1827	32195	ue/recomendacoes/2008/32008H0653.md
+32008H0850	Preâmbulo		20	70	2220	ue/recomendacoes/2008/32008H0850.md
+32008H0850	ANEXO I		194	280	1700	ue/recomendacoes/2008/32008H0850.md
+32008H0850	ANEXO II		282	368	916	ue/recomendacoes/2008/32008H0850.md
 32008H0867	Preâmbulo		18	40	881	ue/recomendacoes/2008/32008H0867.md
 32008H0956	Preâmbulo		18	48	838	ue/recomendacoes/2008/32008H0956.md
