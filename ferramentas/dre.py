@@ -323,8 +323,10 @@ def cmd_converter():
     medidas = json.loads((CACHE / "medidas.json").read_text(encoding="utf-8"))
     diretivas = diretivas_do_nucleo()
     SAIDA.mkdir(exist_ok=True)
+    import at_codigos  # códigos obtidos da AT (ferramentas/at_codigos.py): não são deste script
     for f in SAIDA.glob("*.md"):
-        f.unlink()
+        if f.stem not in at_codigos.CODIGOS:
+            f.unlink()
     resumo = []
     for m in medidas:
         if m["excluida"]:
@@ -438,6 +440,12 @@ def escrever_indice(resumo, diretivas):
                 extra = f", consolidado a {r['consolidada_de']}" if r.get("consolidada_de") else ""
                 ls.append(f"- [{r['titulo']}]({r['chave']}.md) — {r['estado']}{extra} — {r.get('sumario', '')[:200]}")
         ls.append("")
+    import at_codigos
+    ls += ["## Outras fontes", "", "Códigos obtidos da Autoridade Tributária e Aduaneira (Portal das Finanças), "
+           "porque o DRE não os tem disponíveis pelo ELI (`python3 ferramentas/at_codigos.py`):", ""]
+    for k, c in at_codigos.CODIGOS.items():
+        ls.append(f"- [{c['nome']}]({k}.md) — compilação actualizada da AT — {c['diploma']}")
+    ls.append("")
     (SAIDA / "INDICE.md").write_text("\n".join(ls), encoding="utf-8")
 
 

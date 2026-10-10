@@ -101,13 +101,31 @@ python3 ferramentas/procurar.py ler decreto-lei-24-2014 10
 Cita a lei portuguesa como regra aplicável e a diretiva como origem. Se o ficheiro diz
 `original (DRE)`, avisa que alterações posteriores não estão incorporadas.
 
+IVA em Portugal (taxas, isenções, faturação, listas I e II): `procurar.py artigos codigo-iva <palavra>`
+(compilação actualizada da AT; não é a publicação oficial — diz isso).
+
+## 5-A. Jurisprudência e orientações
+
+```bash
+python3 ferramentas/procurar.py juris <CELEX do acto>              # acórdãos que o interpretam (mais recentes primeiro)
+python3 ferramentas/procurar.py artigos 62014CJ0362                # partes do acórdão, com linhas e tokens
+python3 ferramentas/procurar.py ler 62014CJ0362 "questões prejudiciais"
+python3 ferramentas/procurar.py texto "<pergunta>" --fonte orientacoes   # Comissão (JO C) e CEPD
+python3 ferramentas/procurar.py texto "<pergunta>" --fonte juris
+```
+
+Num acórdão, a resposta do Tribunal está na parte final ("Pelos fundamentos expostos…"): lê essa
+parte primeiro. As orientações da Comissão e do CEPD **não são vinculativas** — cita-as como
+"segundo as orientações de…", com data, e diz que podem ter sido substituídas. Orientações do CEPD
+em inglês: diz que leste o texto em inglês.
+
 ## 6. Responder
 
 1. **Resposta curta primeiro** (sim/não/o que fazer/prazo).
 2. **Fundamento** com citação exacta: acto, artigo, n.º, alínea, versão (`versao_aplicavel_desde`
    ou `versao_consolidada_de`) e ficheiro:linhas.
 3. **Suposições** que fizeste e o que mudaria se fossem outras.
-4. **O que não verificaste** (lei nacional não incluída, orientações das autoridades, versões
+4. **O que não verificaste** (lei nacional não incluída, orientações das autoridades portuguesas, versões
    futuras, rectificações) — ver "Limites" no `CLAUDE.md`. Se o ficheiro tiver
    `estado: futuro` ou `estado: em vigor (por confirmar)`, di-lo e indica a `nota_estado`.
 5. Se houver coimas, contratos, declarações fiscais ou colocação de produtos no mercado: diz que

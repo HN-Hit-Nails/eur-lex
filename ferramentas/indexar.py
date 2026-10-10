@@ -121,6 +121,35 @@ def sumario(caminho):
     return res, sum(len(x) + 1 for x in linhas)
 
 
+def sumario_documento(caminho, max_linhas=300):
+    """Unidades de documentos sem artigos (acórdãos, conclusões, orientações): cada parte "## …";
+    partes longas, ou documentos sem partes, divididos em blocos de cerca de max_linhas linhas."""
+    linhas = caminho.read_text(encoding="utf-8").splitlines()
+    inicio = next((i for i, l in enumerate(linhas, 1) if l.startswith("## ")), 1)
+    cortes = [i for i, l in enumerate(linhas, 1) if l.startswith("## ") and i >= inicio] or [inicio]
+    res = []
+    for k, ini in enumerate(cortes):
+        fim = (cortes[k + 1] - 1) if k + 1 < len(cortes) else len(linhas)
+        nome = linhas[ini - 1][3:].strip() if linhas[ini - 1].startswith("## ") else "Texto"
+        partes = list(range(ini, fim + 1, max_linhas))
+        for j, a in enumerate(partes):
+            b = min(fim, a + max_linhas - 1)
+            if j + 1 < len(partes) and fim - b < max_linhas // 3:  # não deixar um bloco final minúsculo
+                b = fim
+            res.append({"unidade": nome[:100] + (f" (bloco {j + 1})" if len(partes) > 1 else ""), "epigrafe": "",
+                        "tipo": "parte", "ini": a, "fim": b, "chars": sum(len(x) + 1 for x in linhas[a - 1:b])})
+            if b == fim:
+                break
+    return res, sum(len(x) + 1 for x in linhas)
+
+
+DOCUMENTOS = {  # grupo do índice -> (pasta, padrão dos ficheiros, chave a partir do caminho)
+    "jurisprudencia": ("jurisprudencia", "*/*.md", lambda f: eurlex.ler_frontmatter(f).get("celex") or f.stem),
+    "orientacoes-comissao": ("orientacoes/comissao", "*/*.md", lambda f: eurlex.ler_frontmatter(f).get("celex") or f.stem),
+    "orientacoes-cepd": ("orientacoes/cepd", "*/*.md", lambda f: f.stem),
+}
+
+
 # ---------------------------------------------------------------------------
 # Recolha
 # ---------------------------------------------------------------------------
@@ -229,6 +258,13 @@ def construir(com_eurovoc=True):
             continue
         u, _ = sumario(f)
         escrever_artigos("legislacao-pt", f.stem, str(f.relative_to(RAIZ)), u)
+    # 4) jurisprudência e orientações (unidades = partes do documento)
+    for grupo, (pasta, padrao, chave) in DOCUMENTOS.items():
+        for f in sorted((RAIZ / pasta).glob(padrao)):
+            if ".parte-" in f.name:
+                continue
+            u, _ = sumario_documento(f)
+            escrever_artigos(grupo, chave(f), str(f.relative_to(RAIZ)), u)
     for fh, _ in escritores.values():
         fh.close()
 
@@ -326,7 +362,10 @@ def escrever_entrada(actos, curado):
         "5. **Não sabes o acto?** Pesquisa no texto: `python3 ferramentas/procurar.py texto \"<pergunta>\"` "
         "(devolve os artigos mais relevantes de toda a legislação; constrói o índice local na 1.ª vez).",
         "6. **Empresa em Portugal + diretiva**: `python3 ferramentas/procurar.py pt <CELEX da diretiva>` dá a "
-        "lei portuguesa que a transpõe.", "",
+        "lei portuguesa que a transpõe.",
+        "7. **Jurisprudência e orientações**: `python3 ferramentas/procurar.py juris <CELEX>` (acórdãos que "
+        "interpretam o acto) e `procurar.py texto \"<pergunta>\" --fonte orientacoes` (Comissão e CEPD; não "
+        "vinculativas).", "",
         "## Índices", "",
         "| Ficheiro | Para quê |", "|---|---|",
         "| `indice/actos.tsv` | Uma linha por acto: `celex`, `nome` popular, `titulo`, `tipo`, `data`, `estado`, "
@@ -336,7 +375,10 @@ def escrever_entrada(actos, curado):
         "| `indice/artigos/…/*.tsv` | Sumário de cada acto: unidade (artigo/anexo), epígrafe, linhas, tokens. "
         "Pesquisar epígrafes em toda a legislação: `rg -i 'direito de retratação' indice/artigos`. |",
         "| `corpus/INDICE.md` | Os actos curados (com considerandos, sínteses, transposição, jurisprudência). |",
-        "| `legislacao-pt/INDICE.md` | Leis portuguesas por diretiva. |",
+        "| `legislacao-pt/INDICE.md` | Leis portuguesas por diretiva; Código do IVA em `legislacao-pt/codigo-iva.md`. |",
+        "| `jurisprudencia/INDICE.tsv` | Acórdãos, despachos e conclusões dos actos curados (coluna `interpreta`). |",
+        "| `orientacoes/comissao/INDICE.tsv`, `orientacoes/cepd/INDICE.tsv` | Orientações da Comissão (JO C) e do "
+        "CEPD/EDPB. Não são legislação. |",
         "| `ordem-advogados/INDICE.md` | Ordem dos Advogados: Estatuto, regulamentos e índice de pareceres. |",
         "| `competencias/` | Competências das profissões jurídicas (ESCO) e lista com fontes (não é texto legal). |",
         "| `catalogo/legislacao-em-vigor.tsv` | Catálogo completo com ELI e ligações. |", "",

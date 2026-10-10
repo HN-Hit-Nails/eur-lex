@@ -6,10 +6,14 @@
   procurar.py ler <CELEX> <artigo>      texto de um artigo (ex.: 6, 6-A, "anexo I", preambulo)
   procurar.py texto "<pergunta>"        artigos mais relevantes em toda a legislação (BM25)
   procurar.py pt <CELEX>                leis portuguesas ligadas a uma diretiva/regulamento
+  procurar.py juris <CELEX>             acórdãos e conclusões que interpretam o acto (jurisprudencia/)
   procurar.py construir                 (re)constrói o índice de texto local (.cache/procurar.sqlite)
 
-<CELEX> pode ser também uma lei portuguesa pela chave (ex.: decreto-lei-24-2014).
-Opções comuns: --n N (resultados), --fonte ue|corpus|pt (texto), --tipo regulamentos|diretivas|…
+<CELEX> pode ser também uma lei portuguesa pela chave (ex.: decreto-lei-24-2014), um acórdão
+(ex.: 62014CJ0362), uma comunicação da Comissão (ex.: 52022XC0629(04)) ou uma orientação do CEPD pelo
+nome do ficheiro (ex.: guidelines-052020-on-consent-under-regulation-2016679); nestes, as unidades são
+as partes do documento (ou blocos de ~300 linhas), não artigos.
+Opções comuns: --n N (resultados), --fonte ue|corpus|pt|juris|orientacoes (texto), --tipo regulamentos|diretivas|…
 """
 
 import argparse
@@ -108,7 +112,11 @@ def unidades(chave, fonte=None):
     """Unidades (artigos/anexos) de um acto: do corpus curado se existir, senão de ue/; ou de uma
     lei portuguesa (chave tipo-numero-ano)."""
     if re.match(r"^[a-z]", chave):
-        grupos = ["legislacao-pt"]
+        grupos = ["legislacao-pt", "orientacoes-cepd"]
+    elif re.match(r"^6\d{4}[A-Z]{2}", chave):
+        grupos = ["jurisprudencia"]
+    elif re.match(r"^5\d{4}XC", chave):
+        grupos = ["orientacoes-comissao"]
     else:
         from completo import pasta
         grupos = ([] if fonte == "ue" else ["corpus"]) + ([] if fonte == "corpus" else [f"ue/{pasta(chave)}"])
@@ -182,6 +190,23 @@ def cmd_pt(celex):
         print(f"Nenhuma lei portuguesa registada para {celex} (o Cellar só regista transposição de diretivas).")
 
 
+def cmd_juris(celex, n=30):
+    """Acórdãos, despachos e conclusões que interpretam um acto (registo do Cellar), com ficheiro local."""
+    f = RAIZ / "jurisprudencia" / "INDICE.tsv"
+    if not f.exists():
+        print("Sem jurisprudencia/INDICE.tsv (python3 ferramentas/arquivo.py tudo jurisprudencia-curada).")
+        return
+    res = [j for j in ler_tsv(f) if celex in (j.get("interpreta") or "").split()]
+    res.sort(key=lambda j: j["data"], reverse=True)
+    for j in res[:n]:
+        print(f"{j['celex']} · {j['data']} · {j['tipo']} · {j['titulo'][:120]} · {j['ficheiro'] or 'sem texto PT'}")
+    if len(res) > n:
+        print(f"… e mais {len(res) - n} (--n {len(res)})")
+    if not res:
+        print(f"Nenhuma decisão registada no Cellar como interpretando {celex} entre as que estão em jurisprudencia/. "
+              "A lista completa (todas as decisões, não só as dos actos curados) está no repositório eur-lex-arquivo.")
+
+
 # ---------------------------------------------------------------------------
 # texto integral (SQLite FTS5, construído localmente)
 # ---------------------------------------------------------------------------
@@ -202,7 +227,8 @@ def cmd_construir():
     """)
     n = 0
     for f in sorted((IND / "artigos").rglob("*.tsv")):
-        fonte = "corpus" if f.stem == "corpus" else "pt" if f.stem == "legislacao-pt" else "ue"
+        fonte = {"corpus": "corpus", "legislacao-pt": "pt", "jurisprudencia": "juris",
+                 "orientacoes-comissao": "orientacoes", "orientacoes-cepd": "orientacoes"}.get(f.stem, "ue")
         cache = {}
         lote_m, lote_u = [], []
         for u in ler_tsv(f):
@@ -300,10 +326,10 @@ def main():
     import signal
     signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # permitir `| head` sem erro
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("comando", choices=["actos", "artigos", "ler", "texto", "pt", "construir"])
+    ap.add_argument("comando", choices=["actos", "artigos", "ler", "texto", "pt", "juris", "construir"])
     ap.add_argument("args", nargs="*")
     ap.add_argument("--n", type=int, default=None)
-    ap.add_argument("--fonte", choices=["ue", "corpus", "pt"])
+    ap.add_argument("--fonte", choices=["ue", "corpus", "pt", "juris", "orientacoes"])
     ap.add_argument("--tipo")
     a = ap.parse_args()
     if a.comando == "actos":
@@ -316,6 +342,8 @@ def main():
         cmd_texto(" ".join(a.args), a.n or 10, a.fonte, a.tipo)
     elif a.comando == "pt":
         cmd_pt(a.args[0])
+    elif a.comando == "juris":
+        cmd_juris(a.args[0], a.n or 30)
     elif a.comando == "construir":
         cmd_construir()
 

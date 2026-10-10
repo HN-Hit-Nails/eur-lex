@@ -176,8 +176,8 @@ python3 ferramentas/indexar.py && python3 ferramentas/verificar.py
   Jornal Oficial série C (só entram as recomendações).
 - Texto integral dos acórdãos do Tribunal de Justiça (só a lista por acto, no corpus curado; cada acórdão
   descarrega-se a pedido com `eurlex.py obter`).
-- Lei portuguesa que não seja de transposição das diretivas do corpus (ex.: Código do IVA, Código das
-  Sociedades Comerciais), salvo as listadas em `ferramentas/dre_extra.yaml`; diplomas regionais.
+- Lei portuguesa que não seja de transposição das diretivas do corpus (ex.: Código do IVA; o Código das
+  Sociedades Comerciais já está, como transposição da Diretiva (UE) 2017/1132), salvo as listadas em `ferramentas/dre_extra.yaml`; diplomas regionais.
 - Orientações e decisões de autoridades (Comissão, CEPD, CNPD, ASAE, AT, Infarmed…) e normas técnicas
   (EN, ISO) — muitas vezes são o que decide a prática.
 - Texto dos pareceres da Ordem dos Advogados (só o índice, com ligações).
