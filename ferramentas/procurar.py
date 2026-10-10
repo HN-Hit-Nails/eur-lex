@@ -72,10 +72,13 @@ def cmd_actos(consulta, n=15, tipo=None):
             encontrados += hit
         if not encontrados:
             continue
-        pont *= (encontrados / len(ts)) ** 2  # privilegia actos que têm todas as palavras
-        pont += 6 if a["curado"] else 0
-        pont += 3 if a["nome"] else 0  # actos com nome popular são os principais
-        pont += 2 if a["tipo"] in ("Regulamento", "Diretiva") else 0
+        cobertura = (encontrados / len(ts)) ** 2  # privilegia actos que têm todas as palavras
+        pont *= cobertura
+        # Bónus dos actos principais, proporcional à cobertura: antes era fixo e um acto curado com
+        # 1 de 5 palavras ficava à frente de um acto com as 5 no título.
+        bonus = (6 if a["curado"] else 0) + (3 if a["nome"] else 0) + \
+            (2 if a["tipo"] in ("Regulamento", "Diretiva") else 0)
+        pont += bonus * cobertura
         pont -= 2 if re.search(r"\bque altera\b|\balterando\b", a["titulo"]) else 0
         pont -= 1 if a["tipo"] == "Decisão sobre concentração" else 0
         res.append((pont, a))
