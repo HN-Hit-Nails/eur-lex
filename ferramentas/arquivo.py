@@ -148,7 +148,7 @@ def cmd_listas(col):
                 continue
             actos[c] = {"celex": c, "tipo": TIPOS_JURIS.get(c[5:7], "Jurisprudência"), "data": l.get("data", "")[:10],
                         "ecli": l.get("ecli", ""), "titulo": eurlex.limpar_titulo(l.get("titulo", "")),
-                        "interpreta": sorted(set(interp.get(c, "").split()))}
+                        "interpreta": sorted(set(interp.get(c, "").split()) - {c})}
         if so is not None:
             faltam = sorted(so - set(actos))
             (CACHE / col).mkdir(parents=True, exist_ok=True)
@@ -263,7 +263,7 @@ RE_PARTE_JURIS = re.compile(
     r"(O )?[Ll]itígio( no processo principal)?.{0,90}|Antecedentes do litígio.{0,60}|"
     r"Tramitação processual.{0,90}|Pedidos das partes.{0,60}|Quanto (à|ao|às|aos) .{3,120}|"
     r"Questões? prejudicia(l|is).{0,60}|Matéria de facto|Questão de direito|Os factos|"
-    r"Pelos fundamentos expostos.{0,160}|Decisão sobre as despesas|Despesas)$")
+    r"Pelos fundamentos expostos.{0,300}|Decisão sobre as despesas|Despesas)$")
 RE_PARTE_CONCL = re.compile(r"^((I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII)\.)\s+\S.{0,140}$")
 RE_SUB_CONCL = re.compile(r"^[A-H]\.\s+\S.{0,140}$")
 
@@ -276,6 +276,8 @@ def estruturar_juris(md):
     for linha in md.splitlines():
         if linha.startswith("#"):
             linha = "**" + linha.lstrip("#").strip() + "**"
+        elif re.match(r"^- (Pelos fundamentos expostos|Quanto às despesas)", linha) and len(linha) < 400:
+            linha = "## " + linha[2:].strip()
         elif len(linha) < 200 and not linha.startswith(("-", "|", ">")):
             s = linha.strip()
             if RE_PARTE_JURIS.match(s) or RE_PARTE_CONCL.match(s):
