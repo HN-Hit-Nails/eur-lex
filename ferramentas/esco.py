@@ -6,7 +6,7 @@ Europeia usada no Europass e no EURES (Decisão de Execução (UE) 2018/1020, em
 Conteúdo da UE reutilizável nos termos da licença CC BY 4.0 (aviso legal da Comissão, para onde o
 site da ESCO remete): © União Europeia, https://esco.ec.europa.eu.
 
-  python3 ferramentas/esco.py    escreve competencias/esco-*.tsv e competencias/esco-transversais.md
+  python3 ferramentas/esco.py    escreve competencias/esco-*.tsv e competencias/esco-competencias-gerais.md
 
 Grupos ISCO incluídos: 2611 (advogados), 2612 (juízes e magistrados), 2619 (outros especialistas em
 assuntos jurídicos), 3411 (técnicos de nível intermédio dos serviços jurídicos), com as
@@ -47,6 +47,20 @@ def pedir(tipo, uri):
                 print(f"  falhou {uri}: {e}", file=sys.stderr)
                 return None
             time.sleep(3 * (n + 1))
+
+
+# Nível de reutilização pelo identificador: o rótulo português da ESCO "Aptidões e competências
+# transversais" é o do nível cross-sector (em inglês "cross-sector skills and competences"), não o do
+# nível transversal — verificado na API em 2026-10-10 com "direito da família" e "gerir conflitos".
+NIVEIS = {"transversal": "transversal", "cross-sector": "intersectorial",
+          "sector-specific": "específica de um setor", "occupation-specific": "específica de uma profissão"}
+
+
+def nivel(d):
+    for x in (d or {}).get("_links", {}).get("hasReuseLevel", []) or []:
+        cod = (x.get("uri") or x.get("href") or "").rstrip("/").split("/")[-1]
+        return NIVEIS.get(cod, cod)
+    return ""
 
 
 def titulos(d, chave):
@@ -104,7 +118,7 @@ def main():
             for s in p["d"].get("_links", {}).get(rel, []):
                 c = competencias.get(s["uri"]) or {}
                 linhas.append([p["d"].get("title", ""), nome_rel, s.get("title", ""),
-                               "; ".join(titulos(c, "hasSkillType")), "; ".join(titulos(c, "hasReuseLevel")),
+                               "; ".join(titulos(c, "hasSkillType")), nivel(c),
                                "; ".join(titulos(c, "broaderHierarchyConcept") or titulos(c, "broaderSkill")),
                                s["uri"]])
     linhas.sort(key=lambda x: (x[0], x[1], x[2]))
@@ -113,26 +127,32 @@ def main():
         w.writerow(["profissao", "relacao", "competencia", "tipo", "nivel_reutilizacao", "grupo", "uri"])
         w.writerows(linhas)
 
-    # Competências transversais (as "soft skills") das profissões jurídicas, por grupo.
+    # Competências gerais (não específicas do Direito) das profissões jurídicas, por grupo:
+    # tipo "competência" (não "conhecimento") e nível transversal ou intersectorial.
     trans = collections.defaultdict(lambda: collections.defaultdict(set))
+    niveis = collections.Counter(l[4] for l in linhas)
     for l in linhas:
-        if "transversa" in l[4].lower():
+        if l[3] == "competência" and l[4] in ("transversal", "intersectorial"):
             trans[l[5] or "(sem grupo)"][l[2]].add(f"{l[0].split('/')[0]} ({l[1]})")
     hoje = dt.date.today().isoformat()
-    ls = ["# Competências transversais nas profissões jurídicas (ESCO)", "",
+    ls = ["# Competências gerais nas profissões jurídicas (ESCO)", "",
           f"Gerado por `python3 ferramentas/esco.py` em {hoje}. Fonte: ESCO, classificação europeia de competências e "
           "profissões (© União Europeia, CC BY 4.0, https://esco.ec.europa.eu). Não é texto legal.", "",
           f"{len(profissoes)} profissões dos grupos ISCO {', '.join(g[1:] for g in GRUPOS)} "
           f"(ver `esco-profissoes.tsv`) e {len(linhas)} ligações profissão–competência (ver `esco-competencias.tsv`). "
-          "Aqui ficam só as competências que a ESCO classifica como transversais (\"Aptidões e competências "
-          "transversais\"), agrupadas pelo conceito mais largo da hierarquia ESCO, com as profissões em que aparecem.", ""]
+          "Aqui ficam só as do tipo \"competência\" (não \"conhecimento\") com nível de reutilização transversal "
+          "ou intersectorial (as que servem em várias profissões, como comunicar, negociar ou gerir conflitos), "
+          "agrupadas pelo conceito mais largo da hierarquia ESCO, com as profissões em que aparecem.", "",
+          "Atenção: na versão portuguesa da ESCO, o nível intersectorial (cross-sector) tem o rótulo \"Aptidões e "
+          "competências transversais\"; aqui usa-se o identificador do nível, não o rótulo.", "",
+          "Ligações por nível de reutilização: " + "; ".join(f"{k or '(sem nível)'}: {v}" for k, v in niveis.most_common()) + ".", ""]
     for grupo in sorted(trans):
         ls += [f"## {grupo}", ""]
         for comp in sorted(trans[grupo]):
             profs = sorted(trans[grupo][comp])
             ls.append(f"- **{comp}** — {', '.join(profs[:8])}{' …' if len(profs) > 8 else ''}")
         ls.append("")
-    (SAIDA / "esco-transversais.md").write_text("\n".join(ls), encoding="utf-8")
+    (SAIDA / "esco-competencias-gerais.md").write_text("\n".join(ls), encoding="utf-8")
     print(f"{len(profissoes)} profissões, {len(competencias)} competências, {len(linhas)} ligações")
 
 

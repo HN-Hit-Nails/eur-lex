@@ -37,13 +37,20 @@ REGULAMENTOS = "/ordem/regras-profissionais/regulamentacao-aprovada-pela-oa/"
 _ultimo = [0.0]
 
 
+def seguro(url):
+    """URL com o caminho e a consulta codificados (o portal usa º, ª e acentos nos endereços)."""
+    p = urllib.parse.urlsplit(url)
+    return urllib.parse.urlunsplit((p.scheme, p.netloc, urllib.parse.quote(p.path, safe="/%:@!$&'()*+,;=-._~"),
+                                    urllib.parse.quote(p.query, safe="=&%/:+,;-._~"), ""))
+
+
 def obter(url, binario=False):
     espera = 1.0 - (time.time() - _ultimo[0])
     if espera > 0:
         time.sleep(espera)
     for n in range(3):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            req = urllib.request.Request(seguro(url), headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=60) as r:
                 dados = r.read()
             _ultimo[0] = time.time()
