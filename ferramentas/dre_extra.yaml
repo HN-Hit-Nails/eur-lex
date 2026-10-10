@@ -1,6 +1,7 @@
 # Diplomas portugueses a juntar além das medidas de transposição que o Cellar regista
 # (o Cellar só regista transposição de diretivas; a execução de regulamentos fica de fora).
-# Só entram aqui diplomas cuja relação com o acto da UE está confirmada numa fonte citada.
+# Só entram aqui diplomas cuja relação com o acto da UE está confirmada numa fonte citada, ou
+# diplomas nacionais pedidos expressamente pelo titular do repositório (o motivo fica na nota).
 
 diplomas:
   - tipo: Lei
@@ -11,3 +12,13 @@ diplomas:
       Assegura a execução, na ordem jurídica nacional, do RGPD (Regulamento (UE) 2016/679).
       Fonte da relação: aviso legal do próprio DRE (diariodarepublica.pt/dr/geral/avisos-legais),
       consultado em 2026-10-09.
+
+  - tipo: Lei
+    numero: 145/2015
+    data: '2015-09-09'
+    relacionado_com: []
+    nota: >-
+      Estatuto da Ordem dos Advogados: deveres deontológicos, incompatibilidades, publicidade,
+      honorários e inscrição. Pedido pelo titular do repositório em 2026-10-10. Publicação
+      indicada no portal da Ordem (portal.oa.pt/ordem/regras-profissionais/estatuto-da-ordem-dos-advogados):
+      Diário da República, Série I, n.º 176, de 2015-09-09.

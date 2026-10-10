@@ -2,7 +2,7 @@
 
 Diplomas que Portugal comunicou à Comissão Europeia como transpondo as diretivas do corpus (dados do Cellar), com o texto obtido no Diário da República Eletrónico. Gerado por `python3 ferramentas/dre.py tudo`.
 
-Estado: 123 original (DRE); 110 consolidado (DRE); 61 excluída; 19 revogado (texto não incluído).
+Estado: 123 original (DRE); 111 consolidado (DRE); 61 excluída; 19 revogado (texto não incluído).
 
 ## [31985L0374](../corpus/produtos-e-cosmeticos/) Responsabilidade por produtos defeituosos (antiga)
 
@@ -458,3 +458,4 @@ Estado: 123 original (DRE); 110 consolidado (DRE); 61 excluída; 19 revogado (te
 ## (sem diretiva — entrada manual)
 
 - [Lei n.º 58/2019](lei-58-2019.md) — original (DRE) — Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) 2016/679 do Parlamento e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tra
+- [Lei n.º 145/2015](lei-145-2015.md) — consolidado (DRE), consolidado a 2024-01-19 — Aprova o Estatuto da Ordem dos Advogados, em conformidade com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas prof

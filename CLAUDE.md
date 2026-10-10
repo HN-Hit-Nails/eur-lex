@@ -45,6 +45,9 @@ aplicável (no máximo 3 perguntas) e vai directo aos artigos.
 | `legislacao-pt/<tipo>-<numero>-<ano>.md` | Texto do diploma português obtido no Diário da República Eletrónico: versão consolidada do DRE quando existe (com a origem de cada alteração em linhas `> Alterado pelo/a …`), senão o texto original publicado. Diplomas revogados ficam só com metadados. |
 | `catalogo/legislacao-em-vigor.tsv` | Uma linha por cada um dos 64 273 actos marcados "em vigor" no Cellar em 2026-10-10 (tratados, acordos internacionais, regulamentos, diretivas, decisões…). Colunas: `celex`, `data`, `tipo`, `consolidado_ate` (data da versão consolidada mais recente, se houver), `repertorio` (códigos de área), `titulo` (PT), `eli`, `url`. Serve para descobrir o que existe; o texto só está no corpus para os actos do índice. |
 | `catalogo/repertorio.md` | Árvore de áreas do repertório oficial do EUR-Lex, com contagens. |
+| `ordem-advogados/` | Regulação profissional dos advogados em Portugal (portal.oa.pt): `INDICE.md`; texto dos regulamentos e deliberações da Ordem em `regulamentos/` (tal como publicados, não consolidados); `pareceres.tsv` = **só o índice** dos pareceres (órgão, título, assunto, ligação), sem o texto. O Estatuto da Ordem (Lei n.º 145/2015) está em `legislacao-pt/lei-145-2015.md` (deontologia: título III, artigos 88.º e seguintes). |
+| `competencias/` | Competências profissionais (não é texto legal): profissões jurídicas e respectivas competências da classificação europeia ESCO (`esco-*.tsv`, `esco-competencias-gerais.md`) e `12-competencias-juristas.md` (cada competência com a fonte legal ou oficial que existe). |
+| `ferramentas/ue_ajustes.yaml` | Correcções manuais à lista de `ue/` quando o Cellar erra: actos acrescentados (ex.: recomendações do Conselho que o Cellar não marca como em vigor) e retirados (ex.: recomendação de 2006 substituída em 2018), cada um com a fonte. |
 | `ferramentas/eurlex.py` | Script que descarrega e converte. `ferramentas/nucleo.yaml` é a lista curada. |
 
 Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
@@ -133,6 +136,10 @@ por um profissional.
   sem indicar fim de validade. O motivo está em `nota_estado`. Diz ao utilizador que o estado
   deve ser confirmado no EUR-Lex. Atenção: o Cellar regista datas de aplicação diferida como datas
   de entrada em vigor; a nota indica as disposições que só se aplicam mais tarde.
+- **Recomendações:** desde 2017 o Cellar quase não marca recomendações como em vigor (em 2026-10-10:
+  669 recomendações de 2017 em diante sem marca). Só estão em `ue/` as que o Cellar marca e as
+  acrescentadas em `ferramentas/ue_ajustes.yaml`. Se a pergunta for sobre uma recomendação recente,
+  procura no catálogo do EUR-Lex e descarrega-a (`python3 ferramentas/eurlex.py obter <CELEX> …`).
 - Os ficheiros de `ue/` não têm considerandos separados nem contexto: nos textos originais o
   preâmbulo vem na secção `## Preâmbulo`; nos consolidados não existe (está no JO).
 
@@ -175,6 +182,8 @@ python3 ferramentas/completo.py listas && python3 ferramentas/completo.py descar
 python3 ferramentas/completo.py actualizar              # só o que é novo ou mudou
 python3 ferramentas/indexar.py                          # índices (indice/, INDICE.md)
 python3 ferramentas/verificar.py                        # verificação de coerência (resultado em ue/ALTERACOES.md)
+python3 ferramentas/oa.py tudo                          # Ordem dos Advogados: regulamentos e índice de pareceres
+python3 ferramentas/esco.py                             # competências das profissões jurídicas (ESCO)
 python3 ferramentas/procurar.py construir               # índice de texto local (.cache/, não vai para o git)
 ```
 

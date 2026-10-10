@@ -77,7 +77,9 @@ async function tratar(context, tarefa) {
   const tarefas = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
   const paralelo = parseInt(process.argv[3] || '2', 10);
   fs.mkdirSync(CACHE, { recursive: true });
-  const browser = await chromium.launch();
+  // CHROMIUM_PATH: usar um Chromium já instalado quando a versão do Playwright não traz o seu
+  // (ex.: contentores com o browser pré-instalado noutra versão).
+  const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
   const context = await browser.newContext({ userAgent: UA, locale: 'pt-PT' });
   let i = 0;
   async function trabalhador() {

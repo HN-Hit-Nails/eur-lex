@@ -546,3 +546,23 @@
 - OK: 7 actos em vigor por confirmar no Cellar: 32026D2204, 32026D2261, 32026L0806, 32026R2245, 32026R2262, 32026R2269, 32026R2287
 - OK: consolidado_ate do catálogo coincide com as versões consolidadas em todos os actos
 - OK: 15 títulos de regulamentos/diretivas/decisões desde 2015 sem o número do acto (limite 50): 32015D1890, 32019D0485, 32019D1355, 32019D1721, 32019D2174
+
+## 2026-10-10
+
+- 4 actos novos ou com nova versão consolidada
+- 1 ficheiros removidos (actos que deixaram de estar em vigor)
+  - actualizado: 32017H0615(01)
+  - actualizado: 32018H0604(01)
+  - actualizado: 32020H1202(01)
+  - actualizado: 32022H0627(02)
+  - removido: ue/recomendacoes/2006/32006H0962.md (substituída pela Recomendação do Conselho de 22 de maio de 2018 (32018H0604(01)), que diz: «A presente recomendação substitui a recomendação do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, sobre as competências essenciais para a aprendizagem ao longo da vida» (o Cellar continua a marcá-la como em vigor e não regista a substituição) (correcção manual, ferramentas/ue_ajustes.yaml))
+
+### Verificação automática (2026-10-10)
+
+- **Aviso:** 1 actos 'em vigor (por confirmar)' há mais de 30 dias sem o Cellar os marcar: 32026L0806
+- OK: 64327 actos em ue/INDICE.tsv, todos com ficheiro, e nenhum ficheiro sem linha
+- OK: número de actos: 64327 no último commit, 64327 agora
+- OK: 1 actos saem por já não estarem em vigor, todos com prova: 32006H0962 (substituída pela Recomendação do Conselho de 22 de maio de 2018 (32018H0604(01)), que diz: «A presente recomendação substitui a recomendação do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, sobre as competências essenciais para a aprendizagem ao longo da vida» (o Cellar continua a marcá-la como em vigor e não regista a substituição) (correcção manual, ferramentas/ue_ajustes.yaml))
+- OK: 11 actos em vigor por confirmar no Cellar: 32017H0615(01), 32018H0604(01), 32020H1202(01), 32022H0627(02), 32026D2204, 32026D2261, 32026L0806, 32026R2245, 32026R2262, 32026R2269
+- OK: consolidado_ate do catálogo coincide com as versões consolidadas em todos os actos
+- OK: 15 títulos de regulamentos/diretivas/decisões desde 2015 sem o número do acto (limite 50): 32015D1890, 32019D0485, 32019D1355, 32019D1721, 32019D2174

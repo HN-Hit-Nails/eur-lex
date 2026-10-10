@@ -66,6 +66,13 @@ python3 ferramentas/procurar.py pt 32011L0083                    # lei portugues
   regulamentos, 1 305 diretivas, 17 490 decisões, 9 512 decisões sobre concentrações e
   outros), com título em PT, data, área do repertório oficial e ligação. Serve para saber
   o que existe e ir buscar o que faltar.
+- **`ordem-advogados/`** — regulação profissional dos advogados em Portugal, do portal da Ordem
+  dos Advogados: regulamentos e deliberações (texto tal como publicado) e um índice dos pareceres
+  (só título, assunto e ligação: o texto não foi copiado, por o portal reservar os direitos). O
+  Estatuto da Ordem (Lei n.º 145/2015) está em `legislacao-pt/`.
+- **`competencias/`** — competências profissionais das profissões jurídicas, da classificação
+  europeia ESCO (© União Europeia, CC BY 4.0), e uma lista de competências com a fonte legal ou
+  oficial de cada uma. Não é texto legal.
 - **`ferramentas/eurlex.py`** — o script que faz a extracção e a conversão; permite
   acrescentar qualquer acto ou acórdão pelo número CELEX.
 - **`CLAUDE.md`** — instruções para o Claude: como pesquisar, como citar e que limites
@@ -95,6 +102,10 @@ encontrar problemas graves, a execução aparece como falhada no GitHub. Pode se
 
 - Legislação já revogada, propostas e trabalhos preparatórios, Jornal Oficial série C,
   perguntas parlamentares (o EUR-Lex tem ~1 milhão de documentos; aqui está o que vigora).
+- A maior parte das recomendações desde 2017: o Cellar não as marca como em vigor (669 de 2017
+  em diante, contadas em 2026-10-10). Estão só as que se acrescentaram à mão em
+  `ferramentas/ue_ajustes.yaml` (por exemplo, as competências essenciais de 2018).
+- Bases de dados jurídicas comerciais (ex.: BDJUR da Almedina): conteúdo pago e protegido.
 - Texto integral da jurisprudência do Tribunal de Justiça (só a lista por acto, no corpus
   curado; cada acórdão descarrega-se a pedido).
 

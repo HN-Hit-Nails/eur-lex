@@ -68,6 +68,11 @@ jurisprudência em `corpus/`):
 Fora destes, `procurar.py actos` cobre os 64 mil actos em vigor (`ue/`), e `INDICE.md` tem
 as áreas do repertório oficial (`indice/temas/<cap>.md`).
 
+Advocacia e ética profissional em Portugal: Estatuto da Ordem dos Advogados (`procurar.py artigos
+lei-145-2015 <palavra>`; deontologia nos artigos 88.º e seguintes) e `ordem-advogados/` (regulamentos
+da Ordem; índice de pareceres — `rg -i '<palavra>' ordem-advogados/pareceres.tsv` e abrir a ligação).
+Competências profissionais: `competencias/` (ESCO e a lista com fontes; não é texto legal).
+
 ## 4. Ir ao artigo
 
 ```bash
