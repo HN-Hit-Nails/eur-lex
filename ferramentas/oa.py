@@ -102,15 +102,21 @@ def ligacoes(soup, prefixo):
 
 
 def pdfs(soup):
-    return [absoluto(a["href"]) for a in soup.find_all("a", href=True) if a["href"].lower().split("?")[0].endswith(".pdf")]
+    """PDFs ligados na página, sem repetições (algumas páginas ligam o mesmo PDF duas vezes)."""
+    res = [absoluto(a["href"]) for a in soup.find_all("a", href=True) if a["href"].lower().split("?")[0].endswith(".pdf")]
+    return list(dict.fromkeys(res))
 
 
 def percorrer(prefixo, max_paginas=4000):
     """Percorre uma secção do portal. O portal usa o mesmo cartão para subsecções e para actos:
     uma página com cartões é uma lista (percorre-se), uma página sem cartões é um acto (parecer ou
     regulamento) e dá-se-lhe o título e o assunto do cartão que levou a ela."""
-    vistos, fila, cartoes, actos = set(), [BASE + prefixo], {}, {}
-    while fila and len(vistos) < max_paginas:
+    vistos, fila, cartoes, actos, falhas = set(), [BASE + prefixo], {}, {}, []
+    while (fila or falhas) and len(vistos) < max_paginas:
+        if not fila:  # no fim, uma nova tentativa para cada página que falhou (o servidor corta ligações)
+            time.sleep(10)
+            fila, falhas = falhas, None
+            vistos -= set(fila)
         url = fila.pop(0)
         if url in vistos:
             continue
@@ -121,6 +127,8 @@ def percorrer(prefixo, max_paginas=4000):
             continue
         t = obter(url)
         if t is None:
+            if falhas is not None:
+                falhas.append(url)
             continue
         soup = BeautifulSoup(t, "lxml")
         its = itens(soup)
@@ -148,6 +156,31 @@ def nomes_orgaos():
     return nomes
 
 
+def periodo_legivel(x):
+    """'20232025' ou 'trienio-2023-2025' -> '2023-2025'; '2022' fica igual."""
+    m = re.fullmatch(r"(?:trienio-)?(\d{4})-?(\d{4})", x or "")
+    return f"{m.group(1)}-{m.group(2)}" if m else (x or "")
+
+
+ARQUIVO_ANTIGO = []  # ligações para o arquivo antigo (www.oa.pt) encontradas nas listas
+
+
+def filtrar_pareceres(linhas):
+    """Tira o que não é um parecer: ligações para fora do portal (o arquivo antigo em www.oa.pt fica
+    registado à parte) e páginas que não estão dentro da secção de um órgão."""
+    res = []
+    for l in linhas:
+        u = urllib.parse.urlsplit(l[4])
+        partes = caminho(l[4]).strip("/").split("/")
+        if u.netloc != "portal.oa.pt":
+            ARQUIVO_ANTIGO.append((l[2], l[4]))
+            continue
+        if len(partes) < 4:
+            continue
+        res.append([l[0], periodo_legivel(l[1])] + l[2:])
+    return res
+
+
 def cmd_pareceres():
     nomes = nomes_orgaos()
     lista, n_paginas = percorrer(PARECERES)
@@ -157,6 +190,7 @@ def cmd_pareceres():
         orgao = partes[2] if len(partes) > 2 else ""
         periodo = partes[3] if len(partes) > 4 else ""
         linhas.append([nomes.get(orgao, orgao), periodo, it["titulo"], it["assunto"], it["url"], " ".join(it["pdf"])])
+    linhas = filtrar_pareceres(linhas)
     SAIDA.mkdir(exist_ok=True)
     with open(SAIDA / "pareceres.tsv", "w", encoding="utf-8", newline="") as fh:
         w = csv.writer(fh, delimiter="\t", lineterminator="\n")
@@ -249,8 +283,11 @@ def cmd_indice():
     ls += ["", f"## Pareceres ({len(par)})", "",
            "Só o índice ([`pareceres.tsv`](pareceres.tsv): órgão, período, título, assunto, página e PDF). O texto "
            "não foi copiado: o portal indica \"Todos os direitos reservados\" e não há autorização para o "
-           "reproduzir. Para ler um parecer, abrir a ligação. Pesquisa: `rg -i 'incompatib' ordem-advogados/pareceres.tsv`.", ""]
+           "reproduzir. Para ler um parecer, abrir a ligação (nos mais antigos o texto está na própria página; nos "
+           "outros, no PDF indicado). Pesquisa: `rg -i 'incompatib' ordem-advogados/pareceres.tsv`.", ""]
     ls += [f"- {o or '(sem órgão)'}: {n}" for o, n in sorted(por_orgao.items(), key=lambda x: -x[1])]
+    antigos = ARQUIVO_ANTIGO or [("2016 a 2018", "http://www.oa.pt/cd/Conteudos/Pareceres/lista_pareceres.aspx?sidc=31846&idc=31847&idsc=116053&zdc=1")]
+    ls += ["", "Arquivo antigo (site www.oa.pt, não percorrido): " + "; ".join(f"[{t}]({u})" for t, u in antigos)]
     ls += ["", "## Outras referências (só ligações)", "",
            "- Código de Deontologia dos Advogados Europeus (CCBE) e Princípios Básicos das Nações Unidas relativos à "
            "função dos Advogados: https://portal.oa.pt/ordem/regras-profissionais/legislacao-internacional/",
