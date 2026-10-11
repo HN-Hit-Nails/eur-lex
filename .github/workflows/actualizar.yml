@@ -46,6 +46,15 @@ jobs:
           key: eurlex-html-${{ github.run_id }}
           restore-keys: eurlex-html-
 
+      # Jurisprudência, orientações da Comissão e PDFs do CEPD já obtidos (só se descarrega o que é novo).
+      - uses: actions/cache@v4
+        with:
+          path: |
+            .cache/arquivo
+            .cache/cepd
+          key: arquivo-${{ github.run_id }}
+          restore-keys: arquivo-
+
       - name: Catálogo da legislação em vigor
         # Se um passo falhar (ex.: serviço em baixo), os outros continuam e o que foi
         # actualizado é gravado; o ficheiro antigo fica onde a actualização falhou.
@@ -67,6 +76,20 @@ jobs:
       - name: Corpus curado (86 actos, contexto e ligações às leis portuguesas)
         continue-on-error: true
         run: python3 ferramentas/eurlex.py nucleo
+
+      - name: Código do IVA (compilação da AT)
+        continue-on-error: true
+        run: python3 ferramentas/at_codigos.py
+
+      - name: Jurisprudência dos actos curados e orientações da Comissão (JO C)
+        continue-on-error: true
+        run: |
+          python3 ferramentas/arquivo.py tudo jurisprudencia-curada
+          python3 ferramentas/arquivo.py tudo orientacoes
+
+      - name: Orientações do CEPD (EDPB)
+        continue-on-error: true
+        run: python3 ferramentas/cepd.py
 
       - name: Índices para consulta (indice/, INDICE.md)
         continue-on-error: true

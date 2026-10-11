@@ -18,6 +18,7 @@ python3 ferramentas/procurar.py artigos <CELEX> [palavra] # sumário: artigo —
 python3 ferramentas/procurar.py ler <CELEX> <n.º>         # só esse artigo
 python3 ferramentas/procurar.py texto "<pergunta>"        # artigos mais relevantes em toda a legislação
 python3 ferramentas/procurar.py pt <CELEX da diretiva>    # lei portuguesa que a transpõe
+python3 ferramentas/procurar.py juris <CELEX>            # acórdãos e conclusões que interpretam o acto
 ```
 
 Para perguntas de negócio ("posso…", "tenho de…", "que regras…") segue a skill
@@ -46,6 +47,10 @@ aplicável (no máximo 3 perguntas) e vai directo aos artigos.
 | `catalogo/legislacao-em-vigor.tsv` | Uma linha por cada um dos 64 273 actos marcados "em vigor" no Cellar em 2026-10-10 (tratados, acordos internacionais, regulamentos, diretivas, decisões…). Colunas: `celex`, `data`, `tipo`, `consolidado_ate` (data da versão consolidada mais recente, se houver), `repertorio` (códigos de área), `titulo` (PT), `eli`, `url`. Serve para descobrir o que existe; o texto só está no corpus para os actos do índice. |
 | `catalogo/repertorio.md` | Árvore de áreas do repertório oficial do EUR-Lex, com contagens. |
 | `ordem-advogados/` | Regulação profissional dos advogados em Portugal (portal.oa.pt): `INDICE.md`; texto dos regulamentos e deliberações da Ordem em `regulamentos/` (tal como publicados, não consolidados); `pareceres.tsv` = **só o índice** dos pareceres (órgão, título, assunto, ligação), sem o texto. O Estatuto da Ordem (Lei n.º 145/2015) está em `legislacao-pt/lei-145-2015.md` (deontologia: título III, artigos 88.º e seguintes). |
+| `legislacao-pt/codigo-iva.md` | Código do IVA (taxas, isenções, faturação, listas I e II), compilação actualizada da Autoridade Tributária (Portal das Finanças), porque o DRE não tem a consolidação disponível pelo ELI. Não é a publicação oficial. |
+| `jurisprudencia/<ano>/<CELEX>.md` | Texto integral, em português, dos acórdãos, despachos e conclusões de advogados-gerais do Tribunal de Justiça citados nos `.contexto.md` do corpus curado (os que interpretam os 86 actos). `jurisprudencia/INDICE.tsv` tem a coluna `interpreta` (actos interpretados). As disposições citadas no acórdão aparecem em **negrito**, não como `### Artigo`; as partes do acórdão (quadro jurídico, questões prejudiciais, decisão) como `##`. |
+| `orientacoes/comissao/<ano>/<CELEX>.md` | Comunicações da Comissão publicadas no JO C que explicam como aplicar o direito (orientações, guias — ex.: Guia Azul de 2022, `52022XC0629(04)` —, enquadramentos, perguntas e respostas). **Não são legislação**; podem ter sido substituídas. Selecção pelo título (ver `ferramentas/arquivo.py`). |
+| `orientacoes/cepd/<ano>/<nome>.md` | Diretrizes, recomendações, declarações e outras orientações do Comité Europeu para a Proteção de Dados (CEPD/EDPB) sobre o RGPD. Em português quando o CEPD publicou tradução; senão em inglês (indicado em `lingua`). Texto extraído do PDF. Índice em `orientacoes/cepd/INDICE.tsv`. |
 | `competencias/` | Competências profissionais (não é texto legal): profissões jurídicas e respectivas competências da classificação europeia ESCO (`esco-*.tsv`, `esco-competencias-gerais.md`) e `12-competencias-juristas.md` (cada competência com a fonte legal ou oficial que existe). |
 | `ferramentas/ue_ajustes.yaml` | Correcções manuais à lista de `ue/` quando o Cellar erra: actos acrescentados à mão e retirados (ex.: recomendação de 2006 substituída em 2018), cada um com a fonte. As recomendações sem marca entram por uma regra automática (ver "Particularidades de `ue/`"). |
 | `ferramentas/eurlex.py` | Script que descarrega e converte. `ferramentas/nucleo.yaml` é a lista curada. |
@@ -72,7 +77,9 @@ Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
    `python3 ferramentas/eurlex.py obter <CELEX> --area <area> --curto "<nome>"`.
 2. Vai ao artigo concreto (`grep -n "^### Artigo 6.º" corpus/dados-e-privacidade/32016R0679-rgpd.md`)
    e lê-o inteiro, incluindo definições (normalmente no artigo 2.º, 3.º ou 4.º) e exceções.
-   Usa os considerandos para a interpretação e o `.contexto.md` para a jurisprudência.
+   Usa os considerandos para a interpretação e o `.contexto.md` para a jurisprudência; o texto dos
+   acórdãos está em `jurisprudencia/` (`procurar.py juris <CELEX>`), e as orientações oficiais em
+   `orientacoes/` (`procurar.py texto "…" --fonte orientacoes`).
 3. **Cita sempre a fonte exacta**: acto, artigo, número e alínea, a versão usada
    (`versao_aplicavel_desde`) e o ficheiro. Ex.: "RGPD, artigo 6.º, n.º 1, alínea f)
    (versão consolidada de 2016-05-04, `corpus/dados-e-privacidade/32016R0679-rgpd.md`)".
@@ -104,7 +111,7 @@ Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
 - **Fiscalidade directa, segurança social, licenciamento, taxas de IVA concretas, prazos e
   procedimentos nacionais** são matéria nacional e, fora das leis de transposição, **não
   estão aqui**. A Diretiva IVA, por exemplo, fixa regras e limites; as taxas portuguesas
-  estão no Código do IVA, que não foi descarregado.
+  estão no Código do IVA (`legislacao-pt/codigo-iva.md`, compilação da AT, não oficial).
 - **Textos consolidados não têm valor jurídico** (aviso oficial do EUR-Lex): fazem fé os
   textos publicados no Jornal Oficial. Para decisões com consequências, confirmar no
   JO através de `url_eurlex`.
@@ -112,9 +119,16 @@ Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
   `versoes_futuras`, há alterações já publicadas que ainda não se aplicam — diz isso se a
   pergunta for sobre o futuro. Se a pergunta for sobre o passado, a versão do corpus pode
   não ser a aplicável nessa data.
-- **Orientações das autoridades** (Comissão, CEPD/EDPB, CNPD, ASAE, AT, Infarmed…) e
-  normas técnicas harmonizadas (EN/ISO) não estão aqui, e muitas vezes são o que decide a
-  prática.
+- **Orientações:** estão as da Comissão publicadas no JO C (`orientacoes/comissao/`) e as do CEPD
+  (`orientacoes/cepd/`). Não são vinculativas (quem interpreta o direito da UE é o Tribunal de
+  Justiça), mas as autoridades seguem-nas: cita-as como orientação, nunca como norma. **Não estão**
+  as das autoridades portuguesas (CNPD, ASAE, AT, Infarmed…) nem as que a Comissão só publica nos
+  seus sites; nem as normas técnicas harmonizadas (EN/ISO), que são vendidas e protegidas — em
+  `ue/` só estão as decisões que publicam as suas referências (procurar "normas harmonizadas").
+- **Jurisprudência:** em `jurisprudencia/` só estão as decisões ligadas aos 86 actos curados. A
+  restante (e a legislação que já não está em vigor, e as propostas da Comissão) é obtida com
+  `ferramentas/arquivo.py` para o repositório complementar `eur-lex-arquivo`; se não estiver
+  disponível, descarrega o acórdão com `python3 ferramentas/eurlex.py obter <CELEX> --area jurisprudencia`.
 
 Quando a resposta tiver consequências sérias (contratos, coimas, declarações fiscais,
 colocação de produtos no mercado), diz claramente que é uma leitura do texto legal da UE
@@ -149,7 +163,8 @@ por um profissional.
 `.github/workflows/actualizar.yml` corre às segundas-feiras: refaz o catálogo, descarrega os
 actos novos ou com nova versão consolidada, remove de `ue/` os que deixaram de vigorar (só com
 prova: data de fim de validade passada, ou marca "não em vigor" com mais de um ano), actualiza as
-leis portuguesas e o corpus curado, verifica a coerência dos dados (`ferramentas/verificar.py`) e
+leis portuguesas, o corpus curado, o Código do IVA, a jurisprudência dos actos curados e as orientações
+da Comissão e do CEPD, verifica a coerência dos dados (`ferramentas/verificar.py`) e
 faz commit. O que mudou e o resultado da verificação ficam em `ue/ALTERACOES.md`; se a
 verificação encontrar problemas graves, a execução falha no GitHub. Antes de responder sobre algo muito recente, vê a data do último commit
 ou o `obtido_em` do ficheiro.
@@ -185,6 +200,11 @@ python3 ferramentas/indexar.py                          # índices (indice/, IND
 python3 ferramentas/verificar.py                        # verificação de coerência (resultado em ue/ALTERACOES.md)
 python3 ferramentas/oa.py tudo                          # Ordem dos Advogados: regulamentos e índice de pareceres
 python3 ferramentas/esco.py                             # competências das profissões jurídicas (ESCO)
+python3 ferramentas/at_codigos.py                       # Código do IVA (Portal das Finanças)
+python3 ferramentas/cepd.py                             # orientações do CEPD/EDPB
+python3 ferramentas/arquivo.py tudo jurisprudencia-curada   # acórdãos dos actos curados
+python3 ferramentas/arquivo.py tudo orientacoes             # orientações da Comissão (JO C)
+python3 ferramentas/arquivo.py tudo revogada --raiz ../eur-lex-arquivo   # idem: jurisprudencia, propostas
 python3 ferramentas/procurar.py construir               # índice de texto local (.cache/, não vai para o git)
 ```
 
