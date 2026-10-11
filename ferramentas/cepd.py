@@ -119,6 +119,13 @@ def tratar(tipo, url):
         if u not in pdfs:
             pdfs.append(u)
     pdf, lingua = escolher_pdf(pdfs)
+    if not pdf:
+        # Diretrizes do antigo Grupo do Artigo 29.º assumidas pelo CEPD: o PDF está no site da Comissão.
+        for item in re.findall(r'href="(https://ec\.europa\.eu/newsroom/article29/item-detail\.cfm\?item_id=\d+)"', pag_pt + pag):
+            docs = re.findall(r'href="(https://ec\.europa\.eu/newsroom/[a-z_]+/document\.cfm\?doc_id=\d+)"', obter(item) or "")
+            if docs:
+                pdf, lingua = docs[0], "?"
+                break
     reg = {"nome": nome, "tipo": TIPOS[tipo], "titulo": titulo_pt or titulo_en, "titulo_en": titulo_en,
            "data": data, "pagina": url, "pdf": pdf or "", "lingua": lingua or "", "ficheiro": ""}
     if not pdf:
@@ -131,6 +138,10 @@ def tratar(tipo, url):
             return reg
         c.write_bytes(dados)
     texto = pdf_texto(c.read_bytes())
+    if lingua == "?":  # documento do site da Comissão sem língua no nome: estimar pelo texto
+        amostra = f" {texto[:20000].lower()} "
+        lingua = "pt" if amostra.count(" de ") + amostra.count(" que ") > 2 * amostra.count(" the ") else "en"
+        reg["lingua"] = lingua
     texto = re.sub(r"[ \t]+\n", "\n", texto).replace("\f", "\n")
     ano = (data or "0000")[:4]
     destino = SAIDA / ano / f"{nome}.md"

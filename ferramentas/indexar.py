@@ -121,25 +121,31 @@ def sumario(caminho):
     return res, sum(len(x) + 1 for x in linhas)
 
 
-def sumario_documento(caminho, max_linhas=300):
-    """Unidades de documentos sem artigos (acórdãos, conclusões, orientações): cada parte "## …";
-    partes longas, ou documentos sem partes, divididos em blocos de cerca de max_linhas linhas."""
+def sumario_documento(caminho, max_chars=12000):
+    """Unidades de documentos sem artigos (acórdãos, conclusões, orientações): cada título (## a ####)
+    abre uma unidade; unidades com mais de max_chars caracteres (≈3 000 tokens), ou documentos sem
+    títulos, são divididos em blocos nas linhas em branco."""
     linhas = caminho.read_text(encoding="utf-8").splitlines()
     inicio = next((i for i, l in enumerate(linhas, 1) if l.startswith("## ")), 1)
-    cortes = [i for i, l in enumerate(linhas, 1) if l.startswith("## ") and i >= inicio] or [inicio]
+    cortes = [i for i, l in enumerate(linhas, 1) if i >= inicio and re.match(r"^#{2,4} \S", l)] or [inicio]
     res = []
     for k, ini in enumerate(cortes):
         fim = (cortes[k + 1] - 1) if k + 1 < len(cortes) else len(linhas)
-        nome = linhas[ini - 1][3:].strip() if linhas[ini - 1].startswith("## ") else "Texto"
-        partes = list(range(ini, fim + 1, max_linhas))
-        for j, a in enumerate(partes):
-            b = min(fim, a + max_linhas - 1)
-            if j + 1 < len(partes) and fim - b < max_linhas // 3:  # não deixar um bloco final minúsculo
-                b = fim
-            res.append({"unidade": nome[:100] + (f" (bloco {j + 1})" if len(partes) > 1 else ""), "epigrafe": "",
+        cab = linhas[ini - 1]
+        nome = re.sub(r"^#+ ", "", cab).strip() if cab.startswith("#") else "Texto"
+        blocos, a, tam = [], ini, 0
+        for n in range(ini, fim + 1):
+            tam += len(linhas[n - 1]) + 1
+            if tam >= max_chars and not linhas[n - 1].strip() and n < fim:
+                blocos.append((a, n))
+                a, tam = n + 1, 0
+        if a <= fim:
+            blocos.append((a, fim))
+        if len(blocos) > 1 and sum(len(x) + 1 for x in linhas[blocos[-1][0] - 1:fim]) < max_chars // 4:
+            blocos[-2:] = [(blocos[-2][0], fim)]  # não deixar um bloco final minúsculo
+        for j, (a, b) in enumerate(blocos):
+            res.append({"unidade": nome[:100] + (f" (bloco {j + 1})" if len(blocos) > 1 else ""), "epigrafe": "",
                         "tipo": "parte", "ini": a, "fim": b, "chars": sum(len(x) + 1 for x in linhas[a - 1:b])})
-            if b == fim:
-                break
     return res, sum(len(x) + 1 for x in linhas)
 
 

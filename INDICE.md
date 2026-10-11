@@ -10,6 +10,7 @@ Gerado por `python3 ferramentas/indexar.py` em 2026-10-10. 65085 actos da UE (64
 4. **Lê só o artigo**: `python3 ferramentas/procurar.py ler <CELEX> 6` (ou `sed -n '<ini>,<fim>p' <ficheiro>` com as linhas do sumário).
 5. **Não sabes o acto?** Pesquisa no texto: `python3 ferramentas/procurar.py texto "<pergunta>"` (devolve os artigos mais relevantes de toda a legislação; constrói o índice local na 1.ª vez).
 6. **Empresa em Portugal + diretiva**: `python3 ferramentas/procurar.py pt <CELEX da diretiva>` dá a lei portuguesa que a transpõe.
+7. **Jurisprudência e orientações**: `python3 ferramentas/procurar.py juris <CELEX>` (acórdãos que interpretam o acto) e `procurar.py texto "<pergunta>" --fonte orientacoes` (Comissão e CEPD; não vinculativas).
 
 ## Índices
 
@@ -20,7 +21,9 @@ Gerado por `python3 ferramentas/indexar.py` em 2026-10-10. 65085 actos da UE (64
 | `indice/eurovoc.tsv` | Descritor temático EuroVoc → actos. Bom para sinónimos e temas transversais. |
 | `indice/artigos/…/*.tsv` | Sumário de cada acto: unidade (artigo/anexo), epígrafe, linhas, tokens. Pesquisar epígrafes em toda a legislação: `rg -i 'direito de retratação' indice/artigos`. |
 | `corpus/INDICE.md` | Os actos curados (com considerandos, sínteses, transposição, jurisprudência). |
-| `legislacao-pt/INDICE.md` | Leis portuguesas por diretiva. |
+| `legislacao-pt/INDICE.md` | Leis portuguesas por diretiva; Código do IVA em `legislacao-pt/codigo-iva.md`. |
+| `jurisprudencia/INDICE.tsv` | Acórdãos, despachos e conclusões dos actos curados (coluna `interpreta`). |
+| `orientacoes/comissao/INDICE.tsv`, `orientacoes/cepd/INDICE.tsv` | Orientações da Comissão (JO C) e do CEPD/EDPB. Não são legislação. |
 | `ordem-advogados/INDICE.md` | Ordem dos Advogados: Estatuto, regulamentos e índice de pareceres. |
 | `competencias/` | Competências das profissões jurídicas (ESCO) e lista com fontes (não é texto legal). |
 | `catalogo/legislacao-em-vigor.tsv` | Catálogo completo com ELI e ligações. |

@@ -3,13 +3,15 @@
 ## O que é
 
 Um repositório com **toda a legislação da União Europeia em vigor, em português** (65 085 actos), as
-**leis portuguesas que transpõem as principais diretivas** (253 diplomas), a regulação da **Ordem dos
+**leis portuguesas que transpõem as principais diretivas** (253 diplomas) e o **Código do IVA**, os
+**acórdãos do Tribunal de Justiça** que interpretam os actos mais usados (1 353), as **orientações da
+Comissão Europeia e do Comité Europeu para a Proteção de Dados** (2 805 + 81), a regulação da **Ordem dos
 Advogados** e dados sobre **competências profissionais**. Tudo em texto simples (Markdown), com
 índices e uma ferramenta de pesquisa que vai directa ao artigo certo, para que um agente de IA (ou uma
 pessoa) consiga encontrar, ler e citar a regra exacta gastando pouco.
 
 Vem das fontes oficiais: EUR-Lex/Cellar (Serviço das Publicações da UE), Diário da República
-Eletrónico, portal da Ordem dos Advogados e classificação europeia ESCO. Actualiza-se sozinho todas as
+Eletrónico, Portal das Finanças (AT), CEPD/EDPB, portal da Ordem dos Advogados e classificação europeia ESCO. Actualiza-se sozinho todas as
 segundas-feiras.
 
 ## Para que serve
@@ -98,10 +100,14 @@ Números de 2026-10-10 (contados nos ficheiros; actualizados pela actualização
 | [`legislacao-pt/`](legislacao-pt/INDICE.md) | Leis portuguesas que Portugal comunicou como transpondo as diretivas do corpus (e algumas mais, como o Estatuto da Ordem dos Advogados), do Diário da República Eletrónico. | 253 diplomas: 111 consolidados, 123 só o original, 19 revogados (só metadados); 61 medidas não obtidas, com o motivo no índice |
 | [`catalogo/`](catalogo/legislacao-em-vigor.tsv) | Catálogo de todos os actos que o Cellar marca como em vigor: título, data, tipo, área, ELI e ligação; árvore do repertório oficial em `repertorio.md`. | 64 273 actos |
 | `indice/` | Índices para pesquisar sem abrir textos: um acto por linha com nome popular, temas e descritores EuroVoc (`actos.tsv`); actos por área (`temas/`); descritor → actos (`eurovoc.tsv`); sumário de cada acto com as linhas e o tamanho de cada artigo (`artigos/`). | 65 085 actos; 20 áreas; 5 360 descritores; 644 ficheiros de sumário |
+| [`jurisprudencia/`](jurisprudencia/INDICE.tsv) | Texto integral, em português, dos acórdãos, despachos e conclusões de advogados-gerais do Tribunal de Justiça citados no corpus curado (os que interpretam os 86 actos), com os actos que cada um interpreta. | 1 353 documentos (58 MB); 104 citados sem texto em português |
+| [`orientacoes/comissao/`](orientacoes/comissao/INDICE.tsv) | Comunicações da Comissão no JO C que explicam como aplicar as regras (orientações, guias como o Guia Azul dos produtos, enquadramentos, perguntas e respostas). Não são legislação. | 2 805 documentos (104 MB) |
+| [`orientacoes/cepd/`](orientacoes/cepd/INDICE.tsv) | Diretrizes, recomendações e declarações do Comité Europeu para a Proteção de Dados sobre o RGPD (ex.: consentimento, cookies, encarregado de proteção de dados). | 92 no índice: 65 em português, 16 só em inglês, 11 só com ligação |
+| [`legislacao-pt/codigo-iva.md`](legislacao-pt/codigo-iva.md) | Código do IVA (taxas, isenções, faturação, listas I e II), compilação actualizada da Autoridade Tributária. | 123 artigos |
 | [`ordem-advogados/`](ordem-advogados/INDICE.md) | Regulação dos advogados em Portugal (portal.oa.pt): texto dos regulamentos e deliberações da Ordem; **índice** dos pareceres (sem o texto). | 60 regulamentos (59 com texto); 649 pareceres no índice |
 | [`competencias/`](competencias/12-competencias-juristas.md) | Competências profissionais (não é texto legal): profissões jurídicas e competências da classificação europeia ESCO; 12 competências para juristas com a fonte de cada uma. | 25 profissões; 866 ligações profissão–competência |
 | [`.claude/skills/consultar-legislacao/`](.claude/skills/consultar-legislacao/SKILL.md) | Skill para o Claude responder a perguntas de negócio com poucas perguntas e poucos tokens. | — |
-| `ferramentas/` | Os scripts (ver abaixo). | 14 ficheiros |
+| `ferramentas/` | Os scripts (ver abaixo). | 17 ficheiros |
 | [`.github/workflows/actualizar.yml`](.github/workflows/actualizar.yml) | Actualização automática semanal. | — |
 
 Tamanho: cerca de 2,2 GB de ficheiros (2,06 GB em `ue/`); cerca de 0,5 GB no GitHub, comprimido.
@@ -115,6 +121,9 @@ python3 ferramentas/procurar.py ler 32011L0083 9                 # só esse arti
 python3 ferramentas/procurar.py texto "prazo para devolver compra online"   # artigos mais relevantes de toda a legislação
 python3 ferramentas/procurar.py pt 32011L0083                    # leis portuguesas: … Decreto-Lei n.º 24/2014 …
 python3 ferramentas/procurar.py artigos lei-145-2015 segredo     # Estatuto da Ordem: Artigo 92.º — Segredo profissional
+python3 ferramentas/procurar.py juris 32016R0679                 # acórdãos que interpretam o RGPD (71), mais recentes primeiro
+python3 ferramentas/procurar.py texto "consentimento cookies" --fonte orientacoes   # orientações do CEPD e da Comissão
+python3 ferramentas/procurar.py artigos codigo-iva taxas         # Código do IVA: Artigo 18.º — Taxas do imposto
 ```
 
 Um regulamento inteiro pode ter 50 000+ tokens; o artigo que responde tem 200–2 000. A pesquisa por
@@ -138,8 +147,8 @@ publicados no Jornal Oficial e no Diário da República.
 
 `.github/workflows/actualizar.yml` corre todas as segundas-feiras (04:23 UTC) no GitHub Actions:
 refaz o catálogo, descarrega só os actos novos ou com nova versão, retira os que deixaram de vigorar
-(só com prova no Cellar: data de fim de validade passada, ou marca "não em vigor" há mais de um ano), actualiza as leis portuguesas e o corpus
-curado, refaz os índices, verifica a coerência dos dados e faz commit. O que mudou e o resultado da
+(só com prova no Cellar: data de fim de validade passada, ou marca "não em vigor" há mais de um ano), actualiza as leis portuguesas, o corpus
+curado, o Código do IVA, a jurisprudência dos actos curados e as orientações da Comissão e do CEPD, refaz os índices, verifica a coerência dos dados e faz commit. O que mudou e o resultado da
 verificação ficam em `ue/ALTERACOES.md`; se houver problemas graves, a execução aparece como falhada no
 GitHub. Pode ser lançada à mão em Actions → "Actualizar legislação" → Run workflow.
 
@@ -157,6 +166,9 @@ Não estão na actualização semanal (correm à mão): a Ordem dos Advogados (`
 | `verificar.py` | Verificação de coerência dos dados. |
 | `oa.py` | Ordem dos Advogados: regulamentos e índice de pareceres. |
 | `esco.py` | Competências das profissões jurídicas (ESCO). |
+| `arquivo.py` | Colecções do Cellar além de `ue/`: jurisprudência, orientações da Comissão (JO C), legislação que já não está em vigor, propostas. |
+| `cepd.py` | Orientações do CEPD/EDPB. |
+| `at_codigos.py` | Código do IVA a partir do Portal das Finanças. |
 | `nucleo.yaml` | Lista dos 86 actos curados. |
 | `dre_extra.yaml` | Leis portuguesas acrescentadas além das de transposição (com a fonte). |
 | `ue_ajustes.yaml` | Correcções manuais à lista de `ue/` quando o Cellar erra (com a fonte). |
@@ -172,14 +184,16 @@ python3 ferramentas/indexar.py && python3 ferramentas/verificar.py
 
 ## O que não está aqui
 
-- Legislação já revogada, propostas, trabalhos preparatórios, perguntas parlamentares e o resto do
-  Jornal Oficial série C (só entram as recomendações).
-- Texto integral dos acórdãos do Tribunal de Justiça (só a lista por acto, no corpus curado; cada acórdão
-  descarrega-se a pedido com `eurlex.py obter`).
-- Lei portuguesa que não seja de transposição das diretivas do corpus (ex.: Código do IVA; o Código das
-  Sociedades Comerciais já está, como transposição da Diretiva (UE) 2017/1132), salvo as listadas em `ferramentas/dre_extra.yaml`; diplomas regionais.
-- Orientações e decisões de autoridades (Comissão, CEPD, CNPD, ASAE, AT, Infarmed…) e normas técnicas
-  (EN, ISO) — muitas vezes são o que decide a prática.
+- Legislação que já não está em vigor, propostas da Comissão e a jurisprudência que não interpreta os
+  actos curados: são grandes (≈0,5 a 2 GB de texto cada) e vão para um repositório complementar
+  (`eur-lex-arquivo`, com `ferramentas/arquivo.py`). Trabalhos preparatórios, perguntas parlamentares e o
+  resto do Jornal Oficial série C não estão.
+- Lei portuguesa que não seja de transposição das diretivas do corpus, salvo o Código do IVA e as listadas
+  em `ferramentas/dre_extra.yaml` (o Código das Sociedades Comerciais já está, como transposição da
+  Diretiva (UE) 2017/1132); diplomas regionais.
+- Orientações das autoridades portuguesas (CNPD, ASAE, AT, Infarmed…) e as que a Comissão só publica nos
+  seus sites; normas técnicas (EN, ISO), que são vendidas e protegidas (em `ue/` estão as decisões que
+  publicam as referências das normas harmonizadas).
 - Texto dos pareceres da Ordem dos Advogados (só o índice, com ligações).
 - Bases de dados jurídicas comerciais (ex.: BDJUR da Almedina): conteúdo pago e protegido.
 
@@ -206,6 +220,15 @@ metadados.
 **Ordem dos Advogados** — portal.oa.pt, "© 2016, Ordem dos Advogados. Todos os direitos reservados".
 Incluídos os regulamentos e deliberações (actos oficiais, tal como publicados); dos pareceres, só o
 índice com ligações.
+
+**Autoridade Tributária e Aduaneira** — Código do IVA tal como publicado no Portal das Finanças
+(info.portaldasfinancas.gov.pt): compilação actualizada, sem valor oficial (faz fé o Diário da República).
+Obtido aí porque a consolidação do DRE não está acessível pelo identificador ELI. Não foi encontrado aviso
+de direitos no portal (não verificado em detalhe); aplica-se a mesma questão das consolidações do DRE.
+
+**CEPD / EDPB** — "The reuse of any information of this website is authorized for commercial and
+non-commercial purposes", com indicação da fonte e sem distorcer o sentido (edpb.europa.eu/copyright_en).
+As diretrizes do antigo Grupo do Artigo 29.º assumidas pelo CEPD vêm do site da Comissão Europeia.
 
 **ESCO** — classificação europeia de competências e profissões, © União Europeia, licença CC BY 4.0
 (aviso legal da Comissão Europeia), https://esco.ec.europa.eu.

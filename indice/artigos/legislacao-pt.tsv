@@ -1,4 +1,144 @@
 celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
+codigo-iva	Artigo 1.º	Incidência objectiva	166	274	2292	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 2.º	Incidência subjectiva	276	390	1961	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 3.º	Conceito de transmissão de bens	392	440	1316	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 4.º	Conceito de prestação de serviços	442	462	506	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 5.º	Conceito de importação de bens	464	474	209	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 6.º	Localização das operações	476	710	5176	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 6.º-A	Derrogação à regra de localização no Estado-Membro do adquirente	712	748	1042	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 7.º	Facto gerador e exigibilidade do imposto	750	826	1534	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 8.º	Exigibilidade do imposto em caso de obrigação de emitir factura	828	872	588	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 9.º	Isenções nas operações internas	878	1050	3588	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 10.º	Conceito de organismos sem finalidade lucrativa	1052	1064	219	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 11.º	Sujeição a imposto em caso de distorções da concorrência	1066	1080	135	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 12.º	Renúncia à isenção	1082	1124	707	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 13.º	Isenções nas importações	1128	1222	1616	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 14.º	Isenções nas exportações, operações assimiladas e transportes internacionais	1226	1330	2672	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 15.º	Isenções nas operações relacionadas com regimes suspensivos	1334	1424	1581	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 16.º	Valor tributável nas operações internas	1430	1538	2219	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 17.º	Valor tributável nas importações	1542	1562	542	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 18.º	Taxas do imposto	1566	1660	1013	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 19.º	Direito à dedução	1666	1754	993	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 20.º	Operações que conferem o direito à dedução	1756	1786	422	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 21.º	Exclusões do direito à dedução	1792	1868	1491	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 22.º	Momento e modalidades do exercício do direito à dedução	1870	1934	1470	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 23.º	Métodos de dedução relativa a bens de utilização mista	1936	1964	1027	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 24.º	Regularizações das deduções relativas a bens do activo imobilizado	1966	2004	1075	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 25.º	Regularizações relativas a bens do activo imobilizado por motivo de alteração da actividade ou imposição legal	2006	2026	512	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 26.º	Regularizações das deduções relativas a imóveis não utilizados em fins empresariais	2028	2038	288	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 27.º	Pagamento do imposto apurado pelo sujeito passivo	2042	2150	1273	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 28.º	Pagamento do imposto liquidado pela administração	2152	2240	1618	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 29.º	Obrigações em geral	2244	2408	2957	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 29.º-A	Declaração periódica automática	2410	2432	482	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 30.º	Representante fiscal	2434	2452	484	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 31.º	Declaração de início de actividade	2454	2480	266	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 32.º	Declaração de alterações	2482	2502	298	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 33.º	Declaração de cessação de actividade	2504	2510	96	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 34.º	Conceito de cessação de actividade	2512	2538	532	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 35.º	Apresentação das declarações	2540	2598	806	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 35.º-A	Delimitação de competências em matéria de faturação	2600	2654	606	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 36.º	Prazo de emissão e formalidades das facturas	2656	2780	1872	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 37.º	Repercussão do imposto	2782	2804	250	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 38.º	Facturação de mercadorias enviadas à consignação	2806	2832	258	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 39.º	Facturas emitidas por retalhistas e prestadores de serviços	2834	2840	124	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 40.º	Faturas simplificadas	2842	2920	925	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 41.º	Prazo de entrega da declaração periódica	2922	2974	1074	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 42.º	Conceito de volume de negócios	2976	2988	194	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 43.º	(revogado pelo art.º 199.º da Lei n.º 66-B/2012, de 31 de dezembro)	2990	2998	45	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 44.º	Requisitos da contabilidade	3000	3032	460	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 45.º	Registo das operações em caso de emissão de facturas	3034	3054	313	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 46.º	Registo das operações em caso de emissão de faturas simplificadas	3056	3092	601	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 47.º	(Revogado)	3094	3110	70	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 48.º	Registo das operações efectuadas ao sujeito passivo	3112	3130	322	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 49.º	Apuramento da base tributável nas facturas com imposto incluído	3132	3152	417	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 50.º	Registo das operações efetuadas por sujeitos passivos que não disponham de contabilidade organizada	3154	3190	518	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 51.º-A	Obrigação de conservação de registos pelas interfaces eletrónicas	3192	3206	270	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 51.º	Registo dos bens de investimento	3208	3252	368	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 52.º	Prazo de arquivo e conservação dos registos e documentos de suporte	3254	3300	487	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 52.º-A	Definições	3306	3324	216	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 52.º-B	Volume de negócios	3326	3346	260	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 53.º	Âmbito de aplicação no território nacional	3348	3428	1636	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 54.º	Passagem dos regimes de tributação ao regime especial de isenção	3430	3448	350	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 55.º	Opção pelo regime de tributação	3450	3472	438	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 56.º	Impedimentos	3474	3496	222	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 57.º	Obrigações declarativas e de faturação	3498	3526	183	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 58.º	Cessação do regime de isenção e período em que passa a ser devido o imposto	3528	3600	992	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 58.º-A	Aplicação do regime de isenção em outros Estados-Membros	3602	3650	945	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 58.º-B	Declaração trimestral	3652	3684	464	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 58.º-C	Outras obrigações	3686	3712	486	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 58.º-D	Desativação do número individual de identificação ou atualização da informação associada	3714	3734	326	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 59.º	Dispensa de obrigações	3736	3754	276	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 59.º-A	Âmbito de aplicação	3758	3776	261	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 59.º-B	Compensação forfetária	3778	3826	692	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 59.º-C	Opção pelo regime	3828	3838	266	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 59.º-D	Obrigações de faturação, obrigações declarativas e período em que passa a ser devido o imposto	3840	3870	467	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 59.º-E	Regime subsidiário	3872	3884	102	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 60.º	Âmbito de aplicação	3888	3916	728	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 61.º	Passagem do regime normal ao regime especial	3918	3928	313	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 62.º	Facturação	3930	3954	190	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 63.º	Renúncia	3956	3968	389	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 64.º	Mudança de regime	3970	3976	191	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 65.º	Registo das operações	3978	4006	320	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 66.º	Passagem compulsiva ao regime normal de tributação	4008	4012	105	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 67.º	Obrigações declarativas e de pagamento do imposto	4014	4046	637	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 68.º	Prazo de conservação dos livros, registos e documentos de suporte	4048	4052	73	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 69.º	Âmbito de aplicação	4056	4062	98	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 70.º	Valor tributável	4064	4074	204	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 71.º	Direito a dedução dos revendedores	4076	4084	144	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 72.º	Direito a dedução dos adquirentes	4086	4110	382	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 73.º	Registos das aquisições e vendas	4112	4118	89	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 74.º	Aquisições intracomunitárias	4120	4126	118	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 75.º	Exclusão dos regimes especiais	4128	4134	105	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 76.º	Centralização da escrita	4138	4166	203	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 77.º	Serviço de finanças competente	4168	4182	338	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º	Regularizações	4184	4276	2391	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º-A	Créditos de cobrança duvidosa ou incobráveis	4278	4378	1367	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º-B	Procedimento de regularização	4380	4438	1057	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º-C	Retificação a favor do Estado de dedução anteriormente efetuada	4440	4470	504	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º-D	Documentação de suporte	4472	4514	594	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 79.º	Responsabilidade solidária do adquirente	4516	4542	638	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 80.º	Responsabilidade solidária dos sujeitos passivos	4544	4558	450	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 80.º-A	Responsabilidade solidária das interfaces eletrónicas	4560	4576	508	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 80.º-B	Devedor do imposto	4578	4588	156	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 81.º	Volume de negócios dos sujeitos passivos que pratiquem operações isentas sem direito a dedução	4590	4608	218	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 82.º	Notificações	4610	4640	196	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 83.º	Recurso hierárquico	4642	4676	509	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 84.º	Entidades fiscalizadoras	4680	4686	130	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 85.º	Dever de colaboração	4688	4696	250	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 86.º	Presunção de aquisição e de transmissão de bens	4698	4704	130	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 87.º	Rectificação das declarações e liquidações adicionais	4706	4722	635	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 88.º	Liquidação oficiosa do imposto pelos serviços centrais	4724	4766	725	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 89.º	Liquidação oficiosa pelo chefe do serviço de finanças	4768	4788	183	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 90.º	Liquidação com base em presunções e métodos indirectos	4790	4798	193	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 91.º	Liquidação do imposto	4800	4806	105	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 92.º	Notificação de liquidações adicionais e de juros compensatórios	4808	4826	173	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 93.º	Notificação da compensação	4828	4838	293	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 94.º	Caducidade	4840	4898	561	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 95.º	Anualização das liquidações	4900	4906	88	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 96.º	Juros compensatórios e de mora	4908	4916	172	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 97.º	Recurso hierárquico, reclamação e impugnação	4920	4946	399	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 98.º	Revisão oficiosa e prazo do exercício do direito à dedução	4948	4966	258	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 99.º	Anulação da liquidação	4968	4976	185	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 100.º	Recibo da entrega de declarações	4980	4984	68	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 101.º	Remessa de declarações e documentos pelo correio e por transmissão electrónica	4986	4990	164	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 102.º	Procedimento a aplicar a bens provenientes ou com destino a territórios terceiros	4992	4996	138	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO A	(Revogado pela Lei n.º 66-B/2012, de 31 de dezembro, a vigorar a partir de 1 de abril de 2013)	5562	5600	354	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO B	(Revogado pela Lei n.º 66-B/2012, de 31 de dezembro, a vigorar a partiir de 1 de abril de 2013	5602	5624	244	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO C	(Aditado pelo artigo 3.º do Dec.Lei n.º 206/96, de 26 de Outubro)	5626	5716	588	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO D	Lista exemplificativa de prestações de serviços por via electrónica	5718	5736	288	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO E		5738	5752	364	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO F	Lista das atividades de produção agrícola	5754	5782	229	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO G	Lista das prestações de serviços agrícolas	5784	5932	2374	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO	(a que se refere o artigo 5.º do DL nº 130/03, de 28 de Junho)	5934	6030	2110	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 1.º		5940	5942	104	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 2.º		5944	5954	238	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 3.º		5956	5960	109	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 4.º		5962	5968	191	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 5.º		5970	5994	625	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 6.º		5996	6004	166	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 7.º		6006	6018	386	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 8.º		6020	6024	142	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 9.º		6026	6030	57	legislacao-pt/codigo-iva.md
 decreto-lei-1-2015	Artigo 1.º	Objeto	69	71	110	legislacao-pt/decreto-lei-1-2015.md
 decreto-lei-1-2015	Artigo 2.º	Redenominação	73	77	86	legislacao-pt/decreto-lei-1-2015.md
 decreto-lei-1-2015	Artigo 3.º	Aprovação dos estatutos da Autoridade de Supervisão de Seguros e Fundos de Pensões	79	81	64	legislacao-pt/decreto-lei-1-2015.md
