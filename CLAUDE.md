@@ -127,7 +127,8 @@ Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
   `ue/` só estão as decisões que publicam as suas referências (procurar "normas harmonizadas").
 - **Jurisprudência:** em `jurisprudencia/` só estão as decisões ligadas aos 86 actos curados. A
   restante (e a legislação que já não está em vigor, e as propostas da Comissão) é obtida com
-  `ferramentas/arquivo.py` para o repositório complementar `eur-lex-arquivo`; se não estiver
+  `ferramentas/arquivo.py` para o repositório complementar [`eur-lex-arquivo`](https://github.com/HNFerramentasHitNails/eur-lex-arquivo) (obtido em 2026-10-11, não actualizado
+  automaticamente; para o usar, cloná-lo ao lado deste: `git clone https://github.com/HNFerramentasHitNails/eur-lex-arquivo`); se não estiver
   disponível, descarrega o acórdão com `python3 ferramentas/eurlex.py obter <CELEX> --area jurisprudencia`.
 
 Quando a resposta tiver consequências sérias (contratos, coimas, declarações fiscais,
