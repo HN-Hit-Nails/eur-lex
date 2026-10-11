@@ -225,6 +225,8 @@ Incluídos os regulamentos e deliberações (actos oficiais, tal como publicados
 (info.portaldasfinancas.gov.pt): compilação actualizada, sem valor oficial (faz fé o Diário da República).
 Obtido aí porque a consolidação do DRE não está acessível pelo identificador ELI. Não foi encontrado aviso
 de direitos no portal (não verificado em detalhe); aplica-se a mesma questão das consolidações do DRE.
+Incluído neste repositório público por decisão do titular do repositório (2026-10-11), conhecendo esta
+questão; se a AT o pedir, retira-se.
 
 **CEPD / EDPB** — "The reuse of any information of this website is authorized for commercial and
 non-commercial purposes", com indicação da fonte e sem distorcer o sentido (edpb.europa.eu/copyright_en).
