@@ -204,7 +204,7 @@ def cmd_juris(celex, n=30):
         print(f"… e mais {len(res) - n} (--n {len(res)})")
     if not res:
         print(f"Nenhuma decisão registada no Cellar como interpretando {celex} entre as que estão em jurisprudencia/. "
-              "A lista completa (todas as decisões, não só as dos actos curados) está no repositório eur-lex-arquivo.")
+              "A lista completa (todas as decisões, não só as dos actos curados) está no repositório https://github.com/HNFerramentasHitNails/eur-lex-arquivo.")
 
 
 # ---------------------------------------------------------------------------

@@ -19,7 +19,7 @@ Colecções:
   propostas              propostas legislativas da Comissão (COM)
 
 As três últimas são grandes (≈0,5 a 2 GB de texto cada) e vão para outro repositório: indicar a
-pasta da cópia local com --raiz (ex.: --raiz ../eur-lex-arquivo).
+pasta da cópia local com --raiz (ex.: --raiz ../eur-lex-arquivo, clone de https://github.com/HNFerramentasHitNails/eur-lex-arquivo).
 
 Só se descarrega texto em português; os documentos sem texto em português ficam de fora (os que
 não estão na lista são contados no INDICE.md da colecção). Texto descarregado guardado comprimido

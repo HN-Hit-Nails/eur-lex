@@ -186,7 +186,7 @@ python3 ferramentas/indexar.py && python3 ferramentas/verificar.py
 
 - Legislação que já não está em vigor, propostas da Comissão e a jurisprudência que não interpreta os
   actos curados: são grandes (≈0,5 a 2 GB de texto cada) e vão para um repositório complementar
-  (`eur-lex-arquivo`, com `ferramentas/arquivo.py`). Trabalhos preparatórios, perguntas parlamentares e o
+  [`eur-lex-arquivo`](https://github.com/HNFerramentasHitNails/eur-lex-arquivo) (38 995 decisões, 48 579 actos que já não estão em vigor, 16 288 propostas; obtido com `ferramentas/arquivo.py` em 2026-10-11, sem actualização automática). Trabalhos preparatórios, perguntas parlamentares e o
   resto do Jornal Oficial série C não estão.
 - Lei portuguesa que não seja de transposição das diretivas do corpus, salvo o Código do IVA e as listadas
   em `ferramentas/dre_extra.yaml` (o Código das Sociedades Comerciais já está, como transposição da
