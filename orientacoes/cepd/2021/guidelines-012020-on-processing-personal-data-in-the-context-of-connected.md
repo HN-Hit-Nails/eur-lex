@@ -7,7 +7,7 @@ data: '2021-03-09'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-012020-on-processing-personal-data-in-the-context-of-connected_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2021-08/edpb_guidelines_202001_connected_vehicles_v2.0_adopted_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

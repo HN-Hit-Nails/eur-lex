@@ -7,7 +7,7 @@ data: '2020-07-07'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-52019-on-the-criteria-of-the-right-to-be-forgotten-in-the-search_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_201905_rtbfsearchengines_afterpublicconsultation_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

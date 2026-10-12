@@ -7,7 +7,7 @@ data: '2023-07-18'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/information-note-on-data-transfers-under-the-gdpr-to-the-united-states_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_informationnoteadequacydecisionus_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

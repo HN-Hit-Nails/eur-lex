@@ -1,7 +1,7 @@
 ---
 celex: 32010R0904
 parte: contexto
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Regulamento 32010R0904 — Cooperação administrativa IVA (OSS) — contexto

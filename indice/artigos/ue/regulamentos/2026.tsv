@@ -1371,10 +1371,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R0355	Artigo 3.º	Entrada em vigor e data de aplicação	36	46	92	ue/regulamentos/2026/32026R0355.md
 32026R0355	ANEXO I		48	53	654	ue/regulamentos/2026/32026R0355.md
 32026R0355	ANEXO II		55	66	712	ue/regulamentos/2026/32026R0355.md
-32026R0356	Preâmbulo		18	42	849	ue/regulamentos/2026/32026R0356.md
-32026R0356	Artigo 1.º	Autorização	46	48	72	ue/regulamentos/2026/32026R0356.md
-32026R0356	Artigo 2.º	Entrada em vigor	50	70	265	ue/regulamentos/2026/32026R0356.md
-32026R0356	ANEXO		72	82	710	ue/regulamentos/2026/32026R0356.md
 32026R0357	Preâmbulo		18	44	986	ue/regulamentos/2026/32026R0357.md
 32026R0357	Artigo 1.º		48	50	34	ue/regulamentos/2026/32026R0357.md
 32026R0357	Artigo 2.º		52	72	350	ue/regulamentos/2026/32026R0357.md
@@ -5450,46 +5446,46 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2079	Artigo 1.º	Autorização	46	48	72	ue/regulamentos/2026/32026R2079.md
 32026R2079	Artigo 2.º	Entrada em vigor	50	70	265	ue/regulamentos/2026/32026R2079.md
 32026R2079	ANEXO		72	79	910	ue/regulamentos/2026/32026R2079.md
-32026R2083	Preâmbulo		19	83	3738	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 1.º	Objeto e âmbito de aplicação	89	95	284	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 2.º	Definições	97	109	238	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 3.º	Plataforma de interoperabilidade central para a saúde digital	113	135	677	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 4.º	Catálogo de requisitos e especificações técnicas	137	151	330	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 5.º	Operações e gestão de «A Minha Saúde @ UE»	153	173	232	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 6.º	Alterações do catálogo de requisitos	175	191	368	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 7.º	Gestão da autorização para o intercâmbio transfronteiriço de dados de saúde eletrónicos pessoais	193	209	386	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 8.º	Condições para aderir e manter a ligação à «A Minha Saúde @ UE», verificações de conformidade e ensaios técnicos	211	225	654	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 9.º	Frequência das verificações de conformidade	227	235	146	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 10.º	Autorização para iniciar o intercâmbio de dados de saúde eletrónicos pessoais	237	245	145	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 11.º	Autorização para atualizar e prosseguir o intercâmbio de dados de saúde eletrónicos pessoais na sequência de uma atualização	247	259	293	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 12.º	Continuação do intercâmbio de dados de saúde eletrónicos pessoais na sequência de uma verificação de conformidade operacional	261	273	281	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 13.º	Incidentes significativos	275	291	482	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 14.º	Tratamento de dados pessoais em «A Minha Saúde @ UE»	295	303	156	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 15.º	Responsabilidades dos pontos de contacto nacionais para a saúde digital enquanto responsáveis conjuntos pelo tratamento	305	339	980	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 16.º	Responsabilidades da Comissão enquanto subcontratante	341	399	1386	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 17.º	Segurança de «A Minha Saúde @ UE»	401	403	40	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 18.º	Medidas transitórias	407	409	188	ue/regulamentos/2026/32026R2083.md
-32026R2083	Artigo 19.º	Entrada em vigor e data de aplicação	413	449	812	ue/regulamentos/2026/32026R2083.md
-32026R2084	Preâmbulo		19	47	1207	ue/regulamentos/2026/32026R2084.md
-32026R2084	Artigo 1.º	Renovação da autorização	51	53	66	ue/regulamentos/2026/32026R2084.md
-32026R2084	Artigo 2.º	Revogação	55	57	20	ue/regulamentos/2026/32026R2084.md
-32026R2084	Artigo 3.º	Medidas transitórias	59	65	367	ue/regulamentos/2026/32026R2084.md
-32026R2084	Artigo 4.º	Entrada em vigor	67	91	387	ue/regulamentos/2026/32026R2084.md
-32026R2084	ANEXO		93	114	2266	ue/regulamentos/2026/32026R2084.md
+32026R2083	Preâmbulo		18	82	3738	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 1.º	Objeto e âmbito de aplicação	88	94	284	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 2.º	Definições	96	108	238	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 3.º	Plataforma de interoperabilidade central para a saúde digital	112	134	677	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 4.º	Catálogo de requisitos e especificações técnicas	136	150	330	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 5.º	Operações e gestão de «A Minha Saúde @ UE»	152	172	232	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 6.º	Alterações do catálogo de requisitos	174	190	368	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 7.º	Gestão da autorização para o intercâmbio transfronteiriço de dados de saúde eletrónicos pessoais	192	208	386	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 8.º	Condições para aderir e manter a ligação à «A Minha Saúde @ UE», verificações de conformidade e ensaios técnicos	210	224	654	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 9.º	Frequência das verificações de conformidade	226	234	146	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 10.º	Autorização para iniciar o intercâmbio de dados de saúde eletrónicos pessoais	236	244	145	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 11.º	Autorização para atualizar e prosseguir o intercâmbio de dados de saúde eletrónicos pessoais na sequência de uma atualização	246	258	293	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 12.º	Continuação do intercâmbio de dados de saúde eletrónicos pessoais na sequência de uma verificação de conformidade operacional	260	272	281	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 13.º	Incidentes significativos	274	290	482	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 14.º	Tratamento de dados pessoais em «A Minha Saúde @ UE»	294	302	156	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 15.º	Responsabilidades dos pontos de contacto nacionais para a saúde digital enquanto responsáveis conjuntos pelo tratamento	304	338	980	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 16.º	Responsabilidades da Comissão enquanto subcontratante	340	398	1386	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 17.º	Segurança de «A Minha Saúde @ UE»	400	402	40	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 18.º	Medidas transitórias	406	408	188	ue/regulamentos/2026/32026R2083.md
+32026R2083	Artigo 19.º	Entrada em vigor e data de aplicação	412	448	812	ue/regulamentos/2026/32026R2083.md
+32026R2084	Preâmbulo		18	46	1207	ue/regulamentos/2026/32026R2084.md
+32026R2084	Artigo 1.º	Renovação da autorização	50	52	66	ue/regulamentos/2026/32026R2084.md
+32026R2084	Artigo 2.º	Revogação	54	56	20	ue/regulamentos/2026/32026R2084.md
+32026R2084	Artigo 3.º	Medidas transitórias	58	64	367	ue/regulamentos/2026/32026R2084.md
+32026R2084	Artigo 4.º	Entrada em vigor	66	90	387	ue/regulamentos/2026/32026R2084.md
+32026R2084	ANEXO		92	113	2266	ue/regulamentos/2026/32026R2084.md
 32026R2085	Preâmbulo		18	74	1855	ue/regulamentos/2026/32026R2085.md
 32026R2085	Artigo 1.º	Derrogação	78	86	230	ue/regulamentos/2026/32026R2085.md
 32026R2085	Artigo 2.º	Plano de fiscalização e relatórios	88	90	76	ue/regulamentos/2026/32026R2085.md
 32026R2085	Artigo 3.º	Entrada em vigor e período de aplicação	92	128	880	ue/regulamentos/2026/32026R2085.md
-32026R2086	Preâmbulo		19	47	988	ue/regulamentos/2026/32026R2086.md
-32026R2086	Artigo 1.º	Renovação da autorização	51	53	60	ue/regulamentos/2026/32026R2086.md
-32026R2086	Artigo 2.º	Revogação	55	57	30	ue/regulamentos/2026/32026R2086.md
-32026R2086	Artigo 3.º	Medidas transitórias	59	63	206	ue/regulamentos/2026/32026R2086.md
-32026R2086	Artigo 4.º	Entrada em vigor	65	89	438	ue/regulamentos/2026/32026R2086.md
-32026R2086	ANEXO		91	99	1245	ue/regulamentos/2026/32026R2086.md
-32026R2087	Preâmbulo		19	41	1086	ue/regulamentos/2026/32026R2087.md
-32026R2087	Artigo 1.º	Autorização	45	47	73	ue/regulamentos/2026/32026R2087.md
-32026R2087	Artigo 2.º	Entrada em vigor	49	67	199	ue/regulamentos/2026/32026R2087.md
-32026R2087	ANEXO		69	76	970	ue/regulamentos/2026/32026R2087.md
+32026R2086	Preâmbulo		18	46	988	ue/regulamentos/2026/32026R2086.md
+32026R2086	Artigo 1.º	Renovação da autorização	50	52	60	ue/regulamentos/2026/32026R2086.md
+32026R2086	Artigo 2.º	Revogação	54	56	30	ue/regulamentos/2026/32026R2086.md
+32026R2086	Artigo 3.º	Medidas transitórias	58	62	206	ue/regulamentos/2026/32026R2086.md
+32026R2086	Artigo 4.º	Entrada em vigor	64	88	438	ue/regulamentos/2026/32026R2086.md
+32026R2086	ANEXO		90	98	1245	ue/regulamentos/2026/32026R2086.md
+32026R2087	Preâmbulo		18	40	1086	ue/regulamentos/2026/32026R2087.md
+32026R2087	Artigo 1.º	Autorização	44	46	73	ue/regulamentos/2026/32026R2087.md
+32026R2087	Artigo 2.º	Entrada em vigor	48	66	199	ue/regulamentos/2026/32026R2087.md
+32026R2087	ANEXO		68	75	970	ue/regulamentos/2026/32026R2087.md
 32026R2088	Preâmbulo		18	371	11434	ue/regulamentos/2026/32026R2088.md
 32026R2088	Artigo 1.º		375	391	550	ue/regulamentos/2026/32026R2088.md
 32026R2088	Artigo 2.º		393	395	114	ue/regulamentos/2026/32026R2088.md
@@ -5499,15 +5495,15 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2089	Preâmbulo		18	88	2176	ue/regulamentos/2026/32026R2089.md
 32026R2089	Artigo 1.º		92	98	76	ue/regulamentos/2026/32026R2089.md
 32026R2089	Artigo 2.º		100	126	326	ue/regulamentos/2026/32026R2089.md
-32026R2090	Preâmbulo		19	45	1435	ue/regulamentos/2026/32026R2090.md
-32026R2090	Artigo 1.º	Autorização	49	51	70	ue/regulamentos/2026/32026R2090.md
-32026R2090	Artigo 2.º	Medidas transitórias	53	59	345	ue/regulamentos/2026/32026R2090.md
-32026R2090	Artigo 3.º	Entrada em vigor	61	79	188	ue/regulamentos/2026/32026R2090.md
-32026R2090	ANEXO		81	109	1638	ue/regulamentos/2026/32026R2090.md
-32026R2091	Preâmbulo		19	43	999	ue/regulamentos/2026/32026R2091.md
-32026R2091	Artigo 1.º	Autorização	47	49	69	ue/regulamentos/2026/32026R2091.md
-32026R2091	Artigo 2.º	Entrada em vigor	51	67	138	ue/regulamentos/2026/32026R2091.md
-32026R2091	ANEXO		69	76	728	ue/regulamentos/2026/32026R2091.md
+32026R2090	Preâmbulo		18	44	1435	ue/regulamentos/2026/32026R2090.md
+32026R2090	Artigo 1.º	Autorização	48	50	70	ue/regulamentos/2026/32026R2090.md
+32026R2090	Artigo 2.º	Medidas transitórias	52	58	345	ue/regulamentos/2026/32026R2090.md
+32026R2090	Artigo 3.º	Entrada em vigor	60	78	188	ue/regulamentos/2026/32026R2090.md
+32026R2090	ANEXO		80	108	1638	ue/regulamentos/2026/32026R2090.md
+32026R2091	Preâmbulo		18	42	999	ue/regulamentos/2026/32026R2091.md
+32026R2091	Artigo 1.º	Autorização	46	48	69	ue/regulamentos/2026/32026R2091.md
+32026R2091	Artigo 2.º	Entrada em vigor	50	66	138	ue/regulamentos/2026/32026R2091.md
+32026R2091	ANEXO		68	75	728	ue/regulamentos/2026/32026R2091.md
 32026R2093	Preâmbulo		18	44	1734	ue/regulamentos/2026/32026R2093.md
 32026R2093	Artigo 1.º	Objeto	48	54	258	ue/regulamentos/2026/32026R2093.md
 32026R2093	Artigo 2.º	Definições	56	68	214	ue/regulamentos/2026/32026R2093.md
@@ -5523,39 +5519,39 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2094	ANEXO		94	98	26	ue/regulamentos/2026/32026R2094.md
 32026R2094	ANEXO I	ZONAS SUBMETIDAS A RESTRIÇÕES I, II E III	100	3882	44446	ue/regulamentos/2026/32026R2094.md
 32026R2094	ANEXO II	ÁREAS ESTABELECIDAS A NÍVEL DA UNIÃO COMO ZONAS INFETADAS OU COMO ZONAS SUBMETIDAS A RESTRIÇÕES, INCLUINDO ZONAS DE PROTEÇÃO E DE VIGILÂNCIA	3884	3894	146	ue/regulamentos/2026/32026R2094.md
-32026R2096	Preâmbulo		19	39	576	ue/regulamentos/2026/32026R2096.md
-32026R2096	Artigo 1.º	Procedimento de adesão às redes de vigilância específicas	43	55	332	ue/regulamentos/2026/32026R2096.md
-32026R2096	Artigo 2.º	Pontos focais nacionais	57	69	269	ue/regulamentos/2026/32026R2096.md
-32026R2096	Artigo 3.º	Pontos de contacto operacionais nacionais	71	85	304	ue/regulamentos/2026/32026R2096.md
-32026R2096	Artigo 4.º	Secretariado do ECDC	87	101	304	ue/regulamentos/2026/32026R2096.md
-32026R2096	Artigo 5.º	Procedimentos técnicos de trabalho	103	111	271	ue/regulamentos/2026/32026R2096.md
-32026R2096	Artigo 6.º	Procedimentos administrativos	113	127	482	ue/regulamentos/2026/32026R2096.md
-32026R2096	Artigo 7.º	Avaliação periódica	129	131	54	ue/regulamentos/2026/32026R2096.md
-32026R2096	Artigo 8.º	Entrada em vigor	133	153	196	ue/regulamentos/2026/32026R2096.md
-32026R2097	Preâmbulo		19	71	2306	ue/regulamentos/2026/32026R2097.md
-32026R2097	Artigo 1.º		75	77	99	ue/regulamentos/2026/32026R2097.md
-32026R2097	Artigo 2.º		79	81	53	ue/regulamentos/2026/32026R2097.md
-32026R2097	Artigo 3.º		83	85	16	ue/regulamentos/2026/32026R2097.md
-32026R2097	Artigo 4.º		87	109	338	ue/regulamentos/2026/32026R2097.md
-32026R2097	ANEXO I	Doenças transmissíveis e problemas de saúde especiais conexos sujeitos a vigilância epidemiológica, conforme referido no artigo 1.º	111	233	449	ue/regulamentos/2026/32026R2097.md
-32026R2097	ANEXO II	Definições de casos para doenças transmissíveis e problemas de saúde especiais conexos sujeitos a vigilância epidemiológica, conforme referido no artigo 2.º	235	4822	45583	ue/regulamentos/2026/32026R2097.md
-32026R2098	Preâmbulo		19	43	920	ue/regulamentos/2026/32026R2098.md
-32026R2098	Artigo 1.º	Objeto e âmbito de aplicação	47	53	256	ue/regulamentos/2026/32026R2098.md
-32026R2098	Artigo 2.º	Definições	55	57	48	ue/regulamentos/2026/32026R2098.md
-32026R2098	Artigo 3.º	Requisitos relativos aos elementos de metadados mínimos	59	63	149	ue/regulamentos/2026/32026R2098.md
-32026R2098	Artigo 4.º	Entrada em vigor	65	81	130	ue/regulamentos/2026/32026R2098.md
-32026R2098	ANEXO		83	140	1536	ue/regulamentos/2026/32026R2098.md
-32026R2099	Preâmbulo		19	47	1931	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 1.º	Objeto	51	53	80	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 2.º	Definições	55	67	188	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 3.º	Conjuntos nacionais de atributos de cuidados de saúde de pessoas singulares	69	75	283	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 4.º	Identificação e autenticação de pessoas singulares para o intercâmbio transfronteiriço de dados de saúde eletrónicos pessoais	77	83	568	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 5.º	Requisitos para o intercâmbio transfronteiriço de atributos de cuidados de saúde de pessoas singulares	85	91	329	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 6.º	Identificação, autenticação e autorização dos profissionais de saúde e dos prestadores de cuidados de saúde para o intercâmbio transfronteiriço de dados de saúd	93	99	397	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 7.º	Requisitos para o intercâmbio de dados de identificação dos profissionais de saúde e dos prestadores de cuidados de saúde	101	103	178	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 8.º	Mecanismo de intercâmbio de dados de identificação através de «A Minha Saúde @ UE»	105	113	170	ue/regulamentos/2026/32026R2099.md
-32026R2099	Artigo 9.º	Entrada em vigor e aplicação	115	141	511	ue/regulamentos/2026/32026R2099.md
-32026R2099	ANEXO	Especificações técnicas para os dados de identificação dos profissionais de saúde e dos prestadores de cuidados de saúde a que se refere o artigo 7.º	143	169	489	ue/regulamentos/2026/32026R2099.md
+32026R2096	Preâmbulo		18	38	576	ue/regulamentos/2026/32026R2096.md
+32026R2096	Artigo 1.º	Procedimento de adesão às redes de vigilância específicas	42	54	332	ue/regulamentos/2026/32026R2096.md
+32026R2096	Artigo 2.º	Pontos focais nacionais	56	68	269	ue/regulamentos/2026/32026R2096.md
+32026R2096	Artigo 3.º	Pontos de contacto operacionais nacionais	70	84	304	ue/regulamentos/2026/32026R2096.md
+32026R2096	Artigo 4.º	Secretariado do ECDC	86	100	304	ue/regulamentos/2026/32026R2096.md
+32026R2096	Artigo 5.º	Procedimentos técnicos de trabalho	102	110	271	ue/regulamentos/2026/32026R2096.md
+32026R2096	Artigo 6.º	Procedimentos administrativos	112	126	482	ue/regulamentos/2026/32026R2096.md
+32026R2096	Artigo 7.º	Avaliação periódica	128	130	54	ue/regulamentos/2026/32026R2096.md
+32026R2096	Artigo 8.º	Entrada em vigor	132	152	196	ue/regulamentos/2026/32026R2096.md
+32026R2097	Preâmbulo		18	70	2306	ue/regulamentos/2026/32026R2097.md
+32026R2097	Artigo 1.º		74	76	99	ue/regulamentos/2026/32026R2097.md
+32026R2097	Artigo 2.º		78	80	53	ue/regulamentos/2026/32026R2097.md
+32026R2097	Artigo 3.º		82	84	16	ue/regulamentos/2026/32026R2097.md
+32026R2097	Artigo 4.º		86	108	338	ue/regulamentos/2026/32026R2097.md
+32026R2097	ANEXO I	Doenças transmissíveis e problemas de saúde especiais conexos sujeitos a vigilância epidemiológica, conforme referido no artigo 1.º	110	232	449	ue/regulamentos/2026/32026R2097.md
+32026R2097	ANEXO II	Definições de casos para doenças transmissíveis e problemas de saúde especiais conexos sujeitos a vigilância epidemiológica, conforme referido no artigo 2.º	234	4821	45583	ue/regulamentos/2026/32026R2097.md
+32026R2098	Preâmbulo		18	42	920	ue/regulamentos/2026/32026R2098.md
+32026R2098	Artigo 1.º	Objeto e âmbito de aplicação	46	52	256	ue/regulamentos/2026/32026R2098.md
+32026R2098	Artigo 2.º	Definições	54	56	48	ue/regulamentos/2026/32026R2098.md
+32026R2098	Artigo 3.º	Requisitos relativos aos elementos de metadados mínimos	58	62	149	ue/regulamentos/2026/32026R2098.md
+32026R2098	Artigo 4.º	Entrada em vigor	64	80	130	ue/regulamentos/2026/32026R2098.md
+32026R2098	ANEXO		82	139	1536	ue/regulamentos/2026/32026R2098.md
+32026R2099	Preâmbulo		18	46	1931	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 1.º	Objeto	50	52	80	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 2.º	Definições	54	66	188	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 3.º	Conjuntos nacionais de atributos de cuidados de saúde de pessoas singulares	68	74	283	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 4.º	Identificação e autenticação de pessoas singulares para o intercâmbio transfronteiriço de dados de saúde eletrónicos pessoais	76	82	568	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 5.º	Requisitos para o intercâmbio transfronteiriço de atributos de cuidados de saúde de pessoas singulares	84	90	329	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 6.º	Identificação, autenticação e autorização dos profissionais de saúde e dos prestadores de cuidados de saúde para o intercâmbio transfronteiriço de dados de saúd	92	98	397	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 7.º	Requisitos para o intercâmbio de dados de identificação dos profissionais de saúde e dos prestadores de cuidados de saúde	100	102	178	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 8.º	Mecanismo de intercâmbio de dados de identificação através de «A Minha Saúde @ UE»	104	112	170	ue/regulamentos/2026/32026R2099.md
+32026R2099	Artigo 9.º	Entrada em vigor e aplicação	114	140	511	ue/regulamentos/2026/32026R2099.md
+32026R2099	ANEXO	Especificações técnicas para os dados de identificação dos profissionais de saúde e dos prestadores de cuidados de saúde a que se refere o artigo 7.º	142	168	489	ue/regulamentos/2026/32026R2099.md
 32026R2101	Preâmbulo		18	678	34329	ue/regulamentos/2026/32026R2101.md
 32026R2101	Artigo 1.º		682	715	828	ue/regulamentos/2026/32026R2101.md
 32026R2101	Artigo 2.º		717	719	98	ue/regulamentos/2026/32026R2101.md
@@ -5570,9 +5566,9 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2104	Artigo 1.º		52	54	36	ue/regulamentos/2026/32026R2104.md
 32026R2104	Artigo 2.º		56	74	326	ue/regulamentos/2026/32026R2104.md
 32026R2104	ANEXO		76	100	438	ue/regulamentos/2026/32026R2104.md
-32026R2105	Preâmbulo		19	35	342	ue/regulamentos/2026/32026R2105.md
-32026R2105	Artigo 1.º		39	41	48	ue/regulamentos/2026/32026R2105.md
-32026R2105	Artigo 2.º		43	67	254	ue/regulamentos/2026/32026R2105.md
+32026R2105	Preâmbulo		18	34	342	ue/regulamentos/2026/32026R2105.md
+32026R2105	Artigo 1.º		38	40	48	ue/regulamentos/2026/32026R2105.md
+32026R2105	Artigo 2.º		42	66	254	ue/regulamentos/2026/32026R2105.md
 32026R2106	Preâmbulo		18	34	363	ue/regulamentos/2026/32026R2106.md
 32026R2106	Artigo 1.º		38	40	48	ue/regulamentos/2026/32026R2106.md
 32026R2106	Artigo 2.º		42	66	254	ue/regulamentos/2026/32026R2106.md
@@ -5901,24 +5897,24 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2120	Artigo 4.º	Medidas transitórias relacionadas com a retirada do mercado	75	81	184	ue/regulamentos/2026/32026R2120.md
 32026R2120	Artigo 5.º	Entrada em vigor	83	101	187	ue/regulamentos/2026/32026R2120.md
 32026R2120	ANEXO		103	129	1512	ue/regulamentos/2026/32026R2120.md
-32026R2128	Preâmbulo		19	45	1469	ue/regulamentos/2026/32026R2128.md
-32026R2128	Artigo 1.º	Autorização	49	51	71	ue/regulamentos/2026/32026R2128.md
-32026R2128	Artigo 2.º	Medidas transitórias	53	59	346	ue/regulamentos/2026/32026R2128.md
-32026R2128	Artigo 3.º	Entrada em vigor	61	79	187	ue/regulamentos/2026/32026R2128.md
-32026R2128	ANEXO		81	108	1558	ue/regulamentos/2026/32026R2128.md
+32026R2128	Preâmbulo		18	44	1469	ue/regulamentos/2026/32026R2128.md
+32026R2128	Artigo 1.º	Autorização	48	50	71	ue/regulamentos/2026/32026R2128.md
+32026R2128	Artigo 2.º	Medidas transitórias	52	58	346	ue/regulamentos/2026/32026R2128.md
+32026R2128	Artigo 3.º	Entrada em vigor	60	78	187	ue/regulamentos/2026/32026R2128.md
+32026R2128	ANEXO		80	107	1558	ue/regulamentos/2026/32026R2128.md
 32026R2129	Preâmbulo		19	49	1076	ue/regulamentos/2026/32026R2129.md
 32026R2129	Artigo 1.º	Renovação da autorização	53	55	69	ue/regulamentos/2026/32026R2129.md
 32026R2129	Artigo 2.º	Revogação	57	59	20	ue/regulamentos/2026/32026R2129.md
 32026R2129	Artigo 3.º	Medidas transitórias	61	65	241	ue/regulamentos/2026/32026R2129.md
 32026R2129	Artigo 4.º	Entrada em vigor	67	87	310	ue/regulamentos/2026/32026R2129.md
 32026R2129	ANEXO		89	96	861	ue/regulamentos/2026/32026R2129.md
-32026R2130	Preâmbulo		19	47	1668	ue/regulamentos/2026/32026R2130.md
-32026R2130	Artigo 1.º	Renovação da autorização	51	53	122	ue/regulamentos/2026/32026R2130.md
-32026R2130	Artigo 2.º	Autorização	55	57	78	ue/regulamentos/2026/32026R2130.md
-32026R2130	Artigo 3.º	Revogação	59	61	33	ue/regulamentos/2026/32026R2130.md
-32026R2130	Artigo 4.º	Medidas transitórias	63	67	335	ue/regulamentos/2026/32026R2130.md
-32026R2130	Artigo 5.º	Entrada em vigor	69	97	707	ue/regulamentos/2026/32026R2130.md
-32026R2130	ANEXO		99	106	736	ue/regulamentos/2026/32026R2130.md
+32026R2130	Preâmbulo		18	46	1668	ue/regulamentos/2026/32026R2130.md
+32026R2130	Artigo 1.º	Renovação da autorização	50	52	122	ue/regulamentos/2026/32026R2130.md
+32026R2130	Artigo 2.º	Autorização	54	56	78	ue/regulamentos/2026/32026R2130.md
+32026R2130	Artigo 3.º	Revogação	58	60	33	ue/regulamentos/2026/32026R2130.md
+32026R2130	Artigo 4.º	Medidas transitórias	62	66	335	ue/regulamentos/2026/32026R2130.md
+32026R2130	Artigo 5.º	Entrada em vigor	68	96	707	ue/regulamentos/2026/32026R2130.md
+32026R2130	ANEXO		98	105	736	ue/regulamentos/2026/32026R2130.md
 32026R2133	Preâmbulo		18	429	17556	ue/regulamentos/2026/32026R2133.md
 32026R2133	Artigo 1.º		433	449	858	ue/regulamentos/2026/32026R2133.md
 32026R2133	Artigo 2.º		451	455	76	ue/regulamentos/2026/32026R2133.md
@@ -6095,17 +6091,20 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2241	Artigo 1.º		39	41	37	ue/regulamentos/2026/32026R2241.md
 32026R2241	Artigo 2.º		43	59	203	ue/regulamentos/2026/32026R2241.md
 32026R2241	ANEXO		61	162	3018	ue/regulamentos/2026/32026R2241.md
-32026R2245	Preâmbulo		20	58	912	ue/regulamentos/2026/32026R2245.md
-32026R2245	Artigo 1.º		62	68	220	ue/regulamentos/2026/32026R2245.md
-32026R2245	Artigo 2.º		70	98	492	ue/regulamentos/2026/32026R2245.md
+32026R2245	Preâmbulo		18	56	912	ue/regulamentos/2026/32026R2245.md
+32026R2245	Artigo 1.º		60	66	220	ue/regulamentos/2026/32026R2245.md
+32026R2245	Artigo 2.º		68	96	492	ue/regulamentos/2026/32026R2245.md
 32026R2257	Preâmbulo		18	38	328	ue/regulamentos/2026/32026R2257.md
 32026R2257	Artigo 1.º		42	44	28	ue/regulamentos/2026/32026R2257.md
 32026R2257	Artigo 2.º		46	60	104	ue/regulamentos/2026/32026R2257.md
 32026R2257	ANEXO		62	82	3436	ue/regulamentos/2026/32026R2257.md
-32026R2262	Preâmbulo		20	38	245	ue/regulamentos/2026/32026R2262.md
-32026R2262	Artigo 1.º		42	44	30	ue/regulamentos/2026/32026R2262.md
-32026R2262	Artigo 2.º		46	60	104	ue/regulamentos/2026/32026R2262.md
-32026R2262	ANEXO		62	70	1519	ue/regulamentos/2026/32026R2262.md
+32026R2259	Preâmbulo		19	43	558	ue/regulamentos/2026/32026R2259.md
+32026R2259	Artigo 1.º		47	49	18	ue/regulamentos/2026/32026R2259.md
+32026R2259	Artigo 2.º		51	73	254	ue/regulamentos/2026/32026R2259.md
+32026R2262	Preâmbulo		18	36	245	ue/regulamentos/2026/32026R2262.md
+32026R2262	Artigo 1.º		40	42	30	ue/regulamentos/2026/32026R2262.md
+32026R2262	Artigo 2.º		44	58	104	ue/regulamentos/2026/32026R2262.md
+32026R2262	ANEXO		60	68	1519	ue/regulamentos/2026/32026R2262.md
 32026R2263	Preâmbulo		18	38	452	ue/regulamentos/2026/32026R2263.md
 32026R2263	Artigo 1.º		42	44	31	ue/regulamentos/2026/32026R2263.md
 32026R2263	Artigo 2.º		46	60	100	ue/regulamentos/2026/32026R2263.md
@@ -6119,17 +6118,21 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2268	Artigo 1.º		56	58	36	ue/regulamentos/2026/32026R2268.md
 32026R2268	Artigo 2.º		60	78	325	ue/regulamentos/2026/32026R2268.md
 32026R2268	ANEXO		80	150	1227	ue/regulamentos/2026/32026R2268.md
-32026R2269	Preâmbulo		20	58	1835	ue/regulamentos/2026/32026R2269.md
-32026R2269	Artigo 1.º	Medidas de liberalização do comércio	62	70	179	ue/regulamentos/2026/32026R2269.md
-32026R2269	Artigo 2.º	Condições para a concessão das medidas de liberalização do comércio	72	84	438	ue/regulamentos/2026/32026R2269.md
-32026R2269	Artigo 3.º	Suspensão temporária das medidas de liberalização do comércio	86	90	260	ue/regulamentos/2026/32026R2269.md
-32026R2269	Artigo 4.º	Medidas de salvaguarda	92	116	871	ue/regulamentos/2026/32026R2269.md
-32026R2269	Artigo 5.º	Procedimento de comité	118	126	211	ue/regulamentos/2026/32026R2269.md
-32026R2269	Artigo 6.º	Relatório sobre a aplicação das medidas de liberalização do comércio	128	130	79	ue/regulamentos/2026/32026R2269.md
-32026R2269	Artigo 7.º	Entrada em vigor e aplicação	132	168	652	ue/regulamentos/2026/32026R2269.md
-32026R2269	ANEXO I	Lista de produtos sujeitos a medidas de liberalização do comércio a que se refere o artigo 1.º, n.º 1, alínea a)	170	551	9796	ue/regulamentos/2026/32026R2269.md
-32026R2269	ANEXO II	Lista de produtos sujeitos a medidas de liberalização do comércio a que se refere o artigo 1.º, n.º 1, alínea b)	553	567	352	ue/regulamentos/2026/32026R2269.md
-32026R2287	Preâmbulo		20	36	267	ue/regulamentos/2026/32026R2287.md
-32026R2287	Artigo 1.º		40	42	31	ue/regulamentos/2026/32026R2287.md
-32026R2287	Artigo 2.º		44	60	134	ue/regulamentos/2026/32026R2287.md
-32026R2287	ANEXO		62	70	543	ue/regulamentos/2026/32026R2287.md
+32026R2269	Preâmbulo		18	56	1835	ue/regulamentos/2026/32026R2269.md
+32026R2269	Artigo 1.º	Medidas de liberalização do comércio	60	68	179	ue/regulamentos/2026/32026R2269.md
+32026R2269	Artigo 2.º	Condições para a concessão das medidas de liberalização do comércio	70	82	438	ue/regulamentos/2026/32026R2269.md
+32026R2269	Artigo 3.º	Suspensão temporária das medidas de liberalização do comércio	84	88	260	ue/regulamentos/2026/32026R2269.md
+32026R2269	Artigo 4.º	Medidas de salvaguarda	90	114	871	ue/regulamentos/2026/32026R2269.md
+32026R2269	Artigo 5.º	Procedimento de comité	116	124	211	ue/regulamentos/2026/32026R2269.md
+32026R2269	Artigo 6.º	Relatório sobre a aplicação das medidas de liberalização do comércio	126	128	79	ue/regulamentos/2026/32026R2269.md
+32026R2269	Artigo 7.º	Entrada em vigor e aplicação	130	166	652	ue/regulamentos/2026/32026R2269.md
+32026R2269	ANEXO I	Lista de produtos sujeitos a medidas de liberalização do comércio a que se refere o artigo 1.º, n.º 1, alínea a)	168	549	9796	ue/regulamentos/2026/32026R2269.md
+32026R2269	ANEXO II	Lista de produtos sujeitos a medidas de liberalização do comércio a que se refere o artigo 1.º, n.º 1, alínea b)	551	565	352	ue/regulamentos/2026/32026R2269.md
+32026R2271	Preâmbulo		19	37	240	ue/regulamentos/2026/32026R2271.md
+32026R2271	Artigo 1.º		41	43	30	ue/regulamentos/2026/32026R2271.md
+32026R2271	Artigo 2.º		45	59	105	ue/regulamentos/2026/32026R2271.md
+32026R2271	ANEXO		61	67	198	ue/regulamentos/2026/32026R2271.md
+32026R2287	Preâmbulo		18	34	267	ue/regulamentos/2026/32026R2287.md
+32026R2287	Artigo 1.º		38	40	31	ue/regulamentos/2026/32026R2287.md
+32026R2287	Artigo 2.º		42	58	134	ue/regulamentos/2026/32026R2287.md
+32026R2287	ANEXO		60	68	543	ue/regulamentos/2026/32026R2287.md

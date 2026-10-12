@@ -7,7 +7,7 @@ data: '2021-06-18'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/recommendation/recommendations-012020-on-measures-that-supplement-transfer-tools-to_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-04/edpb_recommendations_202001vo.2.0_supplementarymeasurestransferstools_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

@@ -7,7 +7,7 @@ data: '2020-07-17'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/statement/statement-on-the-court-of-justice-of-the-european-union-judgment-in-case-c_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_statement_20200717_cjeujudgmentc-311_18_pt_0.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

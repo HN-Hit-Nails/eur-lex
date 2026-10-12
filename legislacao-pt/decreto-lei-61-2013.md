@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2013-261156
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-119552364
 eli: https://data.dre.pt/eli/dec-lei/61/2013/p/cons/20260603/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Decreto-Lei n.º 61/2013

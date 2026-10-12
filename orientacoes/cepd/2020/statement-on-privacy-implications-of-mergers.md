@@ -7,7 +7,7 @@ data: '2020-02-19'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/statement/statement-on-privacy-implications-of-mergers_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_statement_2020_privacyimplicationsofmergers_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

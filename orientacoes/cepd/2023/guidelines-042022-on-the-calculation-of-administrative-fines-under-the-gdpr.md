@@ -7,7 +7,7 @@ data: '2023-05-24'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-042022-on-the-calculation-of-administrative-fines-under-the-gdpr_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-01/edpb_guidelines_042022_calculationofadministrativefines_pt_0.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

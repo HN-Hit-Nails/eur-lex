@@ -7,7 +7,7 @@ data: '2024-06-19'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-012023-on-article-37-law-enforcement-directive_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-06/edpb-guidelines-202301_art_37_led_final_0_en.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

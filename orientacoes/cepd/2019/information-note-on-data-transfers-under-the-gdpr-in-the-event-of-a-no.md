@@ -7,7 +7,7 @@ data: '2019-02-12'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/information-note-on-data-transfers-under-the-gdpr-in-the-event-of-a-no_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb-2019-02-12-infonote-nodeal-brexit-october_pt_0.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

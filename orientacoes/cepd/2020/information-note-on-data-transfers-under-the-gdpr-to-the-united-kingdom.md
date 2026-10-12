@@ -7,7 +7,7 @@ data: '2020-12-15'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/other-guidance/information-note-on-data-transfers-under-the-gdpr-to-the-united-kingdom_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_informationnote_20201215_transferstoukaftertransitionperiod_en.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

@@ -7,7 +7,7 @@ data: '2020-10-20'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-42019-on-article-25-data-protection-by-design-and-by-default_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2021-04/edpb_guidelines_201904_dataprotection_by_design_and_by_default_v2.0_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

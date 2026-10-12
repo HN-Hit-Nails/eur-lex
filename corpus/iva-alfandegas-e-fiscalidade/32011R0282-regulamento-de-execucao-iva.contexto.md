@@ -1,7 +1,7 @@
 ---
 celex: 32011R0282
 parte: contexto
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Regulamento 32011R0282 — Regulamento de Execução IVA — contexto

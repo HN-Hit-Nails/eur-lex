@@ -1,7 +1,7 @@
 ---
 celex: 32023R1114
 parte: contexto
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Regulamento 32023R1114 — Criptoativos (MiCA) — contexto

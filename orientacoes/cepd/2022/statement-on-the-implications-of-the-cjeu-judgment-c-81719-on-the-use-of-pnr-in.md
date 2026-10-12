@@ -7,7 +7,7 @@ data: '2022-12-13'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/statement/statement-on-the-implications-of-the-cjeu-judgment-c-81719-on-the-use-of-pnr-in_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-12/edpb_statement_20221213_on_the_pnr_judgement_en.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

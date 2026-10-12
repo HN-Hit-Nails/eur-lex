@@ -7,7 +7,7 @@ data: '2022-01-03'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-012021-on-examples-regarding-personal-data-breach-notification_en
 pdf: https://www.edpb.europa.eu/system/files/2026-04/edpb_guidelines_012021_pdbnotification_adopted_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

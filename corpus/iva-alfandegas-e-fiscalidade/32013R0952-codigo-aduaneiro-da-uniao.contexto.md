@@ -1,7 +1,7 @@
 ---
 celex: 32013R0952
 parte: contexto
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Regulamento 32013R0952 — Código Aduaneiro da União — contexto

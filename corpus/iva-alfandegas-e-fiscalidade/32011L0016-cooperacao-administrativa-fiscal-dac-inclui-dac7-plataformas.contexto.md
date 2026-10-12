@@ -1,7 +1,7 @@
 ---
 celex: 32011L0016
 parte: contexto
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Diretiva 32011L0016 — Cooperação administrativa fiscal (DAC, inclui DAC7 plataformas) — contexto

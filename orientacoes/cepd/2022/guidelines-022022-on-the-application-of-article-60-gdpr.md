@@ -7,7 +7,7 @@ data: '2022-03-14'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-022022-on-the-application-of-article-60-gdpr_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-10/guidelines_202202_on_the_application_of_article_60_gdpr_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

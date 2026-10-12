@@ -7,7 +7,7 @@ data: '2022-04-06'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/statement/statement-012022-on-the-announcement-of-an-agreement-in-principle-on-a-new_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-04/edpb_statement_202201_new_trans-atlantic_data_privacy_framework_en.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

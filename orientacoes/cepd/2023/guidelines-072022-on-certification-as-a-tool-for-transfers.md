@@ -7,7 +7,7 @@ data: '2023-02-24'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-072022-on-certification-as-a-tool-for-transfers_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2023-05/edpb_guidelines_07-2022_on_certification_as_a_tool_for_transfers_v2_pt_0.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

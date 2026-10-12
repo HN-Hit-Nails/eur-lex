@@ -7,7 +7,7 @@ data: '2020-05-04'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-052020-on-consent-under-regulation-2016679_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202005_consent_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

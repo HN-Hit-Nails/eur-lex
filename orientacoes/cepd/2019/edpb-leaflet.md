@@ -7,7 +7,7 @@ data: '2019-03-28'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/edpb-leaflet_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2021-04/edpb-leaflet-gdpr_and_your_rights_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

@@ -7,7 +7,7 @@ data: '2025-06-05'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-022024-on-article-48-gdpr_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2025-11/edpb_guidelines_202402_article48_v2_pt_0.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

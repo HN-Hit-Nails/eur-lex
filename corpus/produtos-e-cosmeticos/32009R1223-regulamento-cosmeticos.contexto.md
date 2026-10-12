@@ -1,7 +1,7 @@
 ---
 celex: 32009R1223
 parte: contexto
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Regulamento 32009R1223 — Regulamento Cosméticos — contexto

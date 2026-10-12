@@ -7,7 +7,7 @@ data: '2020-03-19'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/statement/statement-on-the-processing-of-personal-data-in-the-context-of-the-covid-19_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_statement_art_23gdpr_20200602_pt_1.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

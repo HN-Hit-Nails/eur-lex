@@ -1,7 +1,7 @@
 ---
 celex: 32008R1272
 parte: contexto
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Regulamento 32008R1272 — CLP (classificação e rotulagem de químicos) — contexto

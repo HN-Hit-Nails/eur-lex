@@ -1037,10 +1037,10 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D0490	Artigo 1.º		38	44	63	ue/decisoes/2026/32026D0490.md
 32026D0490	Artigo 2.º		46	58	120	ue/decisoes/2026/32026D0490.md
 32026D0490	ANEXO		60	95	3404	ue/decisoes/2026/32026D0490.md
-32026D04900	Preâmbulo		19	43	903	ue/decisoes/2026/32026D04900.md
-32026D04900	Artigo único		47	51	34	ue/decisoes/2026/32026D04900.md
-32026D04900	«Artigo 5.º	Pontos de contacto	53	59	138	ue/decisoes/2026/32026D04900.md
-32026D04900	«Artigo 16.º	Aplicabilidade	61	87	480	ue/decisoes/2026/32026D04900.md
+32026D04900	Preâmbulo		18	42	903	ue/decisoes/2026/32026D04900.md
+32026D04900	Artigo único		46	50	34	ue/decisoes/2026/32026D04900.md
+32026D04900	«Artigo 5.º	Pontos de contacto	52	58	138	ue/decisoes/2026/32026D04900.md
+32026D04900	«Artigo 16.º	Aplicabilidade	60	86	480	ue/decisoes/2026/32026D04900.md
 32026D0494	Preâmbulo		18	42	627	ue/decisoes/2026/32026D0494.md
 32026D0494	Artigo 1.º		46	66	262	ue/decisoes/2026/32026D0494.md
 32026D0494	Artigo 2.º		68	86	152	ue/decisoes/2026/32026D0494.md
@@ -1964,10 +1964,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D1059	Preâmbulo		18	38	350	ue/decisoes/2026/32026D1059.md
 32026D1059	Artigo 1.º		42	44	92	ue/decisoes/2026/32026D1059.md
 32026D1059	Artigo 2.º		46	64	151	ue/decisoes/2026/32026D1059.md
-32026D1060	Preâmbulo		18	44	494	ue/decisoes/2026/32026D1060.md
-32026D1060	Artigo 1.º		48	50	73	ue/decisoes/2026/32026D1060.md
-32026D1060	Artigo 2.º		52	54	14	ue/decisoes/2026/32026D1060.md
-32026D1060	Artigo 3.º		56	74	202	ue/decisoes/2026/32026D1060.md
 32026D1062	Preâmbulo		18	48	736	ue/decisoes/2026/32026D1062.md
 32026D1062	Artigo 1.º		52	54	32	ue/decisoes/2026/32026D1062.md
 32026D1062	Artigo 2.º		56	79	280	ue/decisoes/2026/32026D1062.md
@@ -4007,10 +4003,10 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2198	Preâmbulo		18	42	528	ue/decisoes/2026/32026D2198.md
 32026D2198	Artigo 1.º		46	58	118	ue/decisoes/2026/32026D2198.md
 32026D2198	Artigo 2.º		60	80	207	ue/decisoes/2026/32026D2198.md
-32026D2204	Preâmbulo		20	46	527	ue/decisoes/2026/32026D2204.md
-32026D2204	Artigo 1.º		50	52	71	ue/decisoes/2026/32026D2204.md
-32026D2204	Artigo 2.º		54	56	14	ue/decisoes/2026/32026D2204.md
-32026D2204	Artigo 3.º		58	76	204	ue/decisoes/2026/32026D2204.md
+32026D2204	Preâmbulo		18	44	527	ue/decisoes/2026/32026D2204.md
+32026D2204	Artigo 1.º		48	50	71	ue/decisoes/2026/32026D2204.md
+32026D2204	Artigo 2.º		52	54	14	ue/decisoes/2026/32026D2204.md
+32026D2204	Artigo 3.º		56	74	204	ue/decisoes/2026/32026D2204.md
 32026D2206	Preâmbulo		18	44	426	ue/decisoes/2026/32026D2206.md
 32026D2206	Artigo 1.º		48	50	48	ue/decisoes/2026/32026D2206.md
 32026D2206	Artigo 2.º		52	54	14	ue/decisoes/2026/32026D2206.md
@@ -4116,6 +4112,16 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2240	Artigo 2.º		99	101	49	ue/decisoes/2026/32026D2240.md
 32026D2240	Artigo 3.º		103	105	54	ue/decisoes/2026/32026D2240.md
 32026D2240	Artigo 4.º		107	127	222	ue/decisoes/2026/32026D2240.md
+32026D2242	Preâmbulo		19	41	364	ue/decisoes/2026/32026D2242.md
+32026D2242	Artigo 1.º		45	51	85	ue/decisoes/2026/32026D2242.md
+32026D2242	Artigo 2.º		53	69	138	ue/decisoes/2026/32026D2242.md
+32026D2243	Preâmbulo		20	42	418	ue/decisoes/2026/32026D2243.md
+32026D2243	Artigo 1.º		46	56	104	ue/decisoes/2026/32026D2243.md
+32026D2243	«Artigo 2.º	Mandato	58	66	134	ue/decisoes/2026/32026D2243.md
+32026D2243	Artigo 3.º	Salvaguardar os interesses da União no Mediterrâneo através de uma proteção e uma dissuasão credíveis	68	80	578	ue/decisoes/2026/32026D2243.md
+32026D2243	Artigo 4.º	Contribuição para a execução das resoluções do CSNU de apoio à paz e à estabilidade na Líbia	82	90	557	ue/decisoes/2026/32026D2243.md
+32026D2243	Artigo 5.º	Promoção de parcerias mediterrânicas através do reforço das capacidades e da formação, bem como a diplomacia naval, no quadro da abordagem integrada da União	92	126	1202	ue/decisoes/2026/32026D2243.md
+32026D2243	Artigo 2.º		128	146	191	ue/decisoes/2026/32026D2243.md
 32026D2244	Preâmbulo		18	64	1189	ue/decisoes/2026/32026D2244.md
 32026D2244	Artigo 1.º		68	72	60	ue/decisoes/2026/32026D2244.md
 32026D2244	Artigo 2.º		74	78	60	ue/decisoes/2026/32026D2244.md
@@ -4149,12 +4155,22 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2258	Artigo 1.º		42	48	64	ue/decisoes/2026/32026D2258.md
 32026D2258	Artigo 2.º		50	62	111	ue/decisoes/2026/32026D2258.md
 32026D2258	ANEXO		64	84	3436	ue/decisoes/2026/32026D2258.md
-32026D2261	Preâmbulo		20	38	205	ue/decisoes/2026/32026D2261.md
-32026D2261	Artigo 1.º		42	44	37	ue/decisoes/2026/32026D2261.md
-32026D2261	Artigo 2.º		46	48	28	ue/decisoes/2026/32026D2261.md
-32026D2261	Artigo 3.º		50	62	121	ue/decisoes/2026/32026D2261.md
-32026D2261	ANEXO		64	72	1536	ue/decisoes/2026/32026D2261.md
+32026D2261	Preâmbulo		18	36	205	ue/decisoes/2026/32026D2261.md
+32026D2261	Artigo 1.º		40	42	37	ue/decisoes/2026/32026D2261.md
+32026D2261	Artigo 2.º		44	46	28	ue/decisoes/2026/32026D2261.md
+32026D2261	Artigo 3.º		48	60	121	ue/decisoes/2026/32026D2261.md
+32026D2261	ANEXO		62	70	1536	ue/decisoes/2026/32026D2261.md
 32026D2264	Preâmbulo		18	36	372	ue/decisoes/2026/32026D2264.md
 32026D2264	Artigo 1.º		40	42	27	ue/decisoes/2026/32026D2264.md
 32026D2264	Artigo 2.º		44	56	124	ue/decisoes/2026/32026D2264.md
 32026D2264	ANEXO		58	66	360	ue/decisoes/2026/32026D2264.md
+32026D2272	Preâmbulo		19	35	190	ue/decisoes/2026/32026D2272.md
+32026D2272	Artigo 1.º		39	45	67	ue/decisoes/2026/32026D2272.md
+32026D2272	Artigo 2.º		47	59	108	ue/decisoes/2026/32026D2272.md
+32026D2272	ANEXO		61	67	205	ue/decisoes/2026/32026D2272.md
+32026D2276	Preâmbulo		20	46	568	ue/decisoes/2026/32026D2276.md
+32026D2276	Artigo 1.º		50	52	46	ue/decisoes/2026/32026D2276.md
+32026D2276	Artigo 2.º		54	70	94	ue/decisoes/2026/32026D2276.md
+32026D2277	Preâmbulo		19	35	166	ue/decisoes/2026/32026D2277.md
+32026D2277	Artigo 1.º		39	41	40	ue/decisoes/2026/32026D2277.md
+32026D2277	Artigo 2.º		43	59	127	ue/decisoes/2026/32026D2277.md

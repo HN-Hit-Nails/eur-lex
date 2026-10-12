@@ -1,7 +1,7 @@
 ---
 celex: 32023R0988
 parte: contexto
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 ---
 
 # Regulamento 32023R0988 — Regulamento Segurança Geral dos Produtos (GPSR) — contexto

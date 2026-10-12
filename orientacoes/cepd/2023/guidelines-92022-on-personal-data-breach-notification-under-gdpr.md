@@ -7,7 +7,7 @@ data: '2023-04-04'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-92022-on-personal-data-breach-notification-under-gdpr_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-10/edpb_guidelines_202209_personal_data_breach_notification_v2.0_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

@@ -7,7 +7,7 @@ data: '2019-03-13'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/statement/statement-22019-on-the-use-of-personal-data-in-the-course-of-political_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb-2019-03-13-statement-on-elections_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

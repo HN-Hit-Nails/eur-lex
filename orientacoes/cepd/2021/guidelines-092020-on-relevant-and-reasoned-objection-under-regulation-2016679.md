@@ -7,7 +7,7 @@ data: '2021-03-09'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-092020-on-relevant-and-reasoned-objection-under-regulation-2016679_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2021-06/edpb_guidelines_202009_rro_final_pt.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

@@ -7,7 +7,7 @@ data: '2020-06-02'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/statement/statement-on-restrictions-on-data-subject-rights-in-connection-to-the-state-of_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_statement_art_23gdpr_20200602_pt_2.pdf
-obtido_em: '2026-10-10'
+obtido_em: '2026-10-12'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

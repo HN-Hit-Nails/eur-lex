@@ -1080,3 +1080,54 @@
 - OK: 769 actos em vigor por confirmar no Cellar: 31962H0623(04), 31992H0241, 31992H0441, 31998H0257, 32001H0483, 32005H0292, 32005H0309, 32005H0601, 32006H0525(01), 32008H0103
 - OK: consolidado_ate do catálogo coincide com as versões consolidadas em todos os actos
 - OK: 15 títulos de regulamentos/diretivas/decisões desde 2015 sem o número do acto (limite 50): 32015D1890, 32019D0485, 32019D1355, 32019D1721, 32019D2174
+
+## 2026-10-12
+
+- 28 actos novos ou com nova versão consolidada
+- 8 ficheiros removidos (actos que deixaram de estar em vigor)
+  - actualizado: 32026D04900
+  - actualizado: 32026D2204
+  - actualizado: 32026D2242
+  - actualizado: 32026D2243
+  - actualizado: 32026D2261
+  - actualizado: 32026D2272
+  - actualizado: 32026D2276
+  - actualizado: 32026D2277
+  - actualizado: 32026M12550
+  - actualizado: 32026R2083
+  - actualizado: 32026R2084
+  - actualizado: 32026R2086
+  - actualizado: 32026R2087
+  - actualizado: 32026R2090
+  - actualizado: 32026R2091
+  - actualizado: 32026R2096
+  - actualizado: 32026R2097
+  - actualizado: 32026R2098
+  - actualizado: 32026R2099
+  - actualizado: 32026R2105
+  - actualizado: 32026R2128
+  - actualizado: 32026R2130
+  - actualizado: 32026R2245
+  - actualizado: 32026R2259
+  - actualizado: 32026R2262
+  - actualizado: 32026R2269
+  - actualizado: 32026R2271
+  - actualizado: 32026R2287
+  - removido: ue/decisoes/2026/32026D1060.md (fim de validade a 2026-10-09)
+  - removido: ue/regulamentos/2015/32015R1152.md (fim de validade a 2026-10-10)
+  - removido: ue/regulamentos/2013/32013R0667.md (fim de validade a 2026-10-10)
+  - removido: ue/regulamentos/2026/32026R0356.md (fim de validade a 2026-10-10)
+  - removido: ue/regulamentos/2017/32017R0211.md (fim de validade a 2023-07-19)
+  - removido: ue/regulamentos/2010/32010R1118.md (fim de validade a 2026-10-10)
+  - removido: ue/regulamentos/2021/32021R1413.md (fim de validade a 2026-10-10)
+  - removido: ue/regulamentos/2020/32020R1377.md (fim de validade a 2026-10-10)
+
+### Verificação automática (2026-10-12)
+
+- **Aviso:** 1 actos 'em vigor (por confirmar)' há mais de 30 dias sem o Cellar os marcar: 32026L0806
+- OK: 65085 actos em ue/INDICE.tsv, todos com ficheiro, e nenhum ficheiro sem linha
+- OK: número de actos: 65085 no último commit, 65085 agora
+- OK: 8 actos saem por já não estarem em vigor, todos com prova: 32010R1118 (fim de validade a 2026-10-10); 32013R0667 (fim de validade a 2026-10-10); 32015R1152 (fim de validade a 2026-10-10); 32017R0211 (fim de validade a 2023-07-19); 32020R1377 (fim de validade a 2026-10-10); 32021R1413 (fim de validade a 2026-10-10); 32026D1060 (fim de validade a 2026-10-09); 32026R0356 (fim de validade a 2026-10-10)
+- OK: 765 actos em vigor por confirmar no Cellar: 31962H0623(04), 31992H0241, 31992H0441, 31998H0257, 32001H0483, 32005H0292, 32005H0309, 32005H0601, 32006H0525(01), 32008H0103
+- OK: consolidado_ate do catálogo coincide com as versões consolidadas em todos os actos
+- OK: 15 títulos de regulamentos/diretivas/decisões desde 2015 sem o número do acto (limite 50): 32015D1890, 32019D0485, 32019D1355, 32019D1721, 32019D2174
