@@ -2310,6 +2310,23 @@
   "consolidada": null
  },
  {
+  "chave": "decreto-lei-28-2019",
+  "tipo": "Decreto-Lei",
+  "numero": "28/2019",
+  "data": "2019-02-15",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [
+   "32006L0112",
+   "32017L2455"
+  ],
+  "titulo": "Decreto-Lei n.º 28/2019",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-119662485"
+ },
+ {
   "chave": "decreto-lei-287-2003",
   "tipo": "Decreto-Lei",
   "numero": "287/2003",
