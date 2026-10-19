@@ -3,7 +3,7 @@
 ## O que é
 
 Um repositório com **toda a legislação da União Europeia em vigor, em português** (65 085 actos), as
-**leis portuguesas que transpõem as principais diretivas** (253 diplomas) e o **Código do IVA**, os
+**leis portuguesas que transpõem as principais diretivas** (254 diplomas) e o **Código do IVA**, os
 **acórdãos do Tribunal de Justiça** que interpretam os actos mais usados (1 353), as **orientações da
 Comissão Europeia e do Comité Europeu para a Proteção de Dados** (2 805 + 81), a regulação da **Ordem dos
 Advogados** e dados sobre **competências profissionais**. Tudo em texto simples (Markdown), com
@@ -97,7 +97,7 @@ Números de 2026-10-10 (contados nos ficheiros; actualizados pela actualização
 | [`ue/INDICE.tsv`](ue/INDICE.tsv) | Uma linha por acto de `ue/`: estado, tipo de texto, versão, ficheiro. | 65 085 linhas |
 | [`ue/ALTERACOES.md`](ue/ALTERACOES.md) | O que mudou em cada actualização e o resultado da verificação automática. | — |
 | [`corpus/`](corpus/INDICE.md) | 86 actos escolhidos por serem os que um negócio digital, de comércio electrónico ou de produtos encontra na prática (RGPD, Regulamento IA, DSA, consumidores, cosméticos, CLP/REACH, IVA, trabalho, marcas…), cada um com considerandos, sínteses oficiais, leis portuguesas de transposição e acórdãos do Tribunal de Justiça. | 86 actos em 10 áreas; 82 considerandos; 81 contextos; 81 sínteses |
-| [`legislacao-pt/`](legislacao-pt/INDICE.md) | Leis portuguesas que Portugal comunicou como transpondo as diretivas do corpus (e algumas mais, como o Estatuto da Ordem dos Advogados), do Diário da República Eletrónico. | 253 diplomas: 111 consolidados, 123 só o original, 19 revogados (só metadados); 61 medidas não obtidas, com o motivo no índice |
+| [`legislacao-pt/`](legislacao-pt/INDICE.md) | Leis portuguesas que Portugal comunicou como transpondo as diretivas do corpus (e algumas mais, como o Estatuto da Ordem dos Advogados), do Diário da República Eletrónico. | 254 diplomas: 112 consolidados, 123 só o original, 19 revogados (só metadados); 61 medidas não obtidas, com o motivo no índice |
 | [`catalogo/`](catalogo/legislacao-em-vigor.tsv) | Catálogo de todos os actos que o Cellar marca como em vigor: título, data, tipo, área, ELI e ligação; árvore do repertório oficial em `repertorio.md`. | 64 273 actos |
 | `indice/` | Índices para pesquisar sem abrir textos: um acto por linha com nome popular, temas e descritores EuroVoc (`actos.tsv`); actos por área (`temas/`); descritor → actos (`eurovoc.tsv`); sumário de cada acto com as linhas e o tamanho de cada artigo (`artigos/`). | 65 085 actos; 20 áreas; 5 360 descritores; 644 ficheiros de sumário |
 | [`jurisprudencia/`](jurisprudencia/INDICE.tsv) | Texto integral, em português, dos acórdãos, despachos e conclusões de advogados-gerais do Tribunal de Justiça citados no corpus curado (os que interpretam os 86 actos), com os actos que cada um interpreta. | 1 353 documentos (58 MB); 104 citados sem texto em português |

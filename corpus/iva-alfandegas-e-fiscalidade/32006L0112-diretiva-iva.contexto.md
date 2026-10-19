@@ -20,6 +20,12 @@ Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diret
 - 2007-12-31 — Ministério das Finanças e da Administração Pública-No uso da autorização legislativa concedida pelo n.º 2 do artigo 1.º da Lei n.º 65-A/2007, de 26 de Novembro, altera o Código do IVA e o Regime do IVA nas Transacções Intracomunitárias, transpondo para a ordem jurídica interna as Directivas n.os 2006/69/CE, do Conselho, de 24 de Julho, e 2006/112/CE, do Conselho, de 28 de Novembro. (CELEX 72006L0069PRT_152397) → texto: [`legislacao-pt/decreto-lei-393-2007.md`](../../legislacao-pt/decreto-lei-393-2007.md) (original (DRE))
 - 2007-12-31 — Ministério das Finanças e da Administração Pública-No uso da autorização legislativa concedida pelo n.º 2 do artigo 1.º da Lei n.º 65-A/2007, de 26 de Novembro, altera o Código do IVA e o Regime do IVA nas Transacções Intracomunitárias, transpondo para a ordem jurídica interna as Directivas n.os 2006/69/CE, do Conselho, de 24 de Julho, e 2006/112/CE, do Conselho, de 28 de Novembro. (CELEX 72006L0112PRT_152397) → texto: [`legislacao-pt/decreto-lei-393-2007.md`](../../legislacao-pt/decreto-lei-393-2007.md) (original (DRE))
 
+## Legislação portuguesa relacionada
+
+Diplomas portugueses ligados a este acto por uma fonte citada no próprio ficheiro (ex.: lei de execução de um regulamento).
+
+- [Decreto-Lei n.º 28/2019](../../legislacao-pt/decreto-lei-28-2019.md) (consolidado (DRE))
+
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (502)
 
 Para obter o texto de uma decisão: `python3 ferramentas/eurlex.py obter <CELEX> --area jurisprudencia`.
