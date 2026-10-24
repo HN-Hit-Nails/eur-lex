@@ -35,3 +35,25 @@ diplomas:
       Fonte da relação: o preâmbulo do próprio diploma, que acolhe o artigo 219.º-A da Diretiva
       2006/112/CE e transpõe a alínea 2) do artigo 1.º da Diretiva (UE) 2017/2455 (o Cellar não o
       regista como medida de transposição). Publicação: ELI data.dre.pt/eli/dec-lei/28/2019/02/15/p/dre.
+
+  - tipo: Decreto-Lei
+    numero: 156/2005
+    data: '2005-09-15'
+    relacionado_com: []
+    nota: >-
+      Livro de reclamações: obrigatoriedade de o disponibilizar a todos os fornecedores de bens ou
+      prestadores de serviços que tenham contacto com o público em geral. Pedido pelo titular do
+      repositório em 2026-10-24 (para o Belessa, que desenha os sites e o backoffice de clínicas).
+      Diploma nacional, sem relação com um acto da UE confirmada numa fonte. Publicação: ELI
+      data.dre.pt/eli/dec-lei/156/2005/09/15/p/dre.
+
+  - tipo: Lei
+    numero: 144/2015
+    data: '2015-09-08'
+    relacionado_com: [32013L0011]
+    nota: >-
+      Resolução alternativa de litígios de consumo. Pedido pelo titular do repositório em 2026-10-24
+      (para o Belessa). O Cellar não regista nenhuma medida portuguesa de transposição da Diretiva
+      2013/11/UE; fonte da relação: o sumário do próprio diploma no DRE («Transpõe a Diretiva
+      2013/11/UE […] sobre a resolução alternativa de litígios de consumo»), consultado em
+      2026-10-24. Publicação: ELI data.dre.pt/eli/lei/144/2015/09/08/p/dre.
