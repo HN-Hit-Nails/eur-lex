@@ -1514,6 +1514,20 @@
   "consolidada": null
  },
  {
+  "chave": "decreto-lei-156-2005",
+  "tipo": "Decreto-Lei",
+  "numero": "156/2005",
+  "data": "2005-09-15",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [],
+  "titulo": "Decreto-Lei n.º 156/2005",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34431675"
+ },
+ {
   "chave": "decreto-lei-162-2014",
   "tipo": "Decreto-Lei",
   "numero": "162/2014",
@@ -4229,6 +4243,22 @@
   "titulo": "Lei n.º 13/2023",
   "detalhe": "https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863",
   "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2023-211366691"
+ },
+ {
+  "chave": "lei-144-2015",
+  "tipo": "Lei",
+  "numero": "144/2015",
+  "data": "2015-09-08",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [
+   "32013L0011"
+  ],
+  "titulo": "Lei n.º 144/2015",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/lei/144-2015-70215248",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-119475005"
  },
  {
   "chave": "lei-145-2015",

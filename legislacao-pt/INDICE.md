@@ -2,7 +2,7 @@
 
 Diplomas que Portugal comunicou à Comissão Europeia como transpondo as diretivas do corpus (dados do Cellar), com o texto obtido no Diário da República Eletrónico. Gerado por `python3 ferramentas/dre.py tudo`.
 
-Estado: 123 original (DRE); 112 consolidado (DRE); 61 excluída; 19 revogado (texto não incluído).
+Estado: 123 original (DRE); 114 consolidado (DRE); 61 excluída; 19 revogado (texto não incluído).
 
 ## [31985L0374](../corpus/produtos-e-cosmeticos/) Responsabilidade por produtos defeituosos (antiga)
 
@@ -460,6 +460,8 @@ Estado: 123 original (DRE); 112 consolidado (DRE); 61 excluída; 19 revogado (te
 - [Lei n.º 58/2019](lei-58-2019.md) — original (DRE) — Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) 2016/679 do Parlamento e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tra
 - [Decreto-Lei n.º 28/2019](decreto-lei-28-2019.md) — consolidado (DRE), consolidado a 2025-03-27 — Procede à regulamentação das obrigações relativas ao processamento de faturas e outros documentos fiscalmente relevantes bem como das obrigações de conservação de livros, registos e respetivos documen
 - [Lei n.º 145/2015](lei-145-2015.md) — consolidado (DRE), consolidado a 2024-01-19 — Aprova o Estatuto da Ordem dos Advogados, em conformidade com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas prof
+- [Lei n.º 144/2015](lei-144-2015.md) — consolidado (DRE), consolidado a 2021-01-29 — Transpõe a Diretiva 2013/11/UE, do Parlamento Europeu e do Conselho, de 21 de maio de 2013, sobre a resolução alternativa de litígios de consumo, estabelece o enquadramento jurídico dos mecanismos de 
+- [Decreto-Lei n.º 156/2005](decreto-lei-156-2005.md) — consolidado (DRE), consolidado a 2026-05-22 — Estabelece a obrigatoriedade de disponibilização do livro de reclamações a todos os fornecedores de bens ou prestadores de serviços que tenham contacto com o público em geral
 
 ## Outras fontes
 

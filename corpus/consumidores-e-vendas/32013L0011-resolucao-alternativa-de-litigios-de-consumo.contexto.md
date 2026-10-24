@@ -18,6 +18,12 @@ Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diret
 
 - Nenhuma medida portuguesa registada no Cellar para esta diretiva.
 
+## Legislação portuguesa relacionada
+
+Diplomas portugueses ligados a este acto por uma fonte citada no próprio ficheiro (ex.: lei de execução de um regulamento).
+
+- [Lei n.º 144/2015](../../legislacao-pt/lei-144-2015.md) (consolidado (DRE))
+
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (2)
 
 Para obter o texto de uma decisão: `python3 ferramentas/eurlex.py obter <CELEX> --area jurisprudencia`.
