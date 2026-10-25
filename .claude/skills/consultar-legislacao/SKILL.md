@@ -7,7 +7,7 @@ description: Responder a perguntas sobre o que a lei da UE (e as leis portuguesa
 
 Objectivo: chegar ao artigo certo lendo o mínimo. Um regulamento inteiro pode custar 50 000+
 tokens; o artigo que responde custa normalmente 200–2 000. **Nunca abras um ficheiro de
-`ue/`, `corpus/` ou `legislacao-pt/` inteiro** — usa `ferramentas/procurar.py`.
+`ue/`, `corpus/`, `legislacao-pt/` ou `legislacao-es/` inteiro** — usa `ferramentas/procurar.py`.
 
 Responde em português de Portugal.
 
@@ -100,6 +100,10 @@ python3 ferramentas/procurar.py ler decreto-lei-24-2014 10
 
 Cita a lei portuguesa como regra aplicável e a diretiva como origem. Se o ficheiro diz
 `original (DRE)`, avisa que alterações posteriores não estão incorporadas.
+
+IVA em Espanha (lei, regulamento e modelo 303, texto do BOE em espanhol): `procurar.py artigos real-decreto-1624-1992 <palavra>`
+(também `ley-37-1992` e `orden-eha-3786-2008`; ver `legislacao-es/INDICE.md`). Cita o artigo em espanhol e
+diz que o texto consolidado do BOE não faz fé.
 
 IVA em Portugal (taxas, isenções, faturação, listas I e II): `procurar.py artigos codigo-iva <palavra>`
 (compilação actualizada da AT; não é a publicação oficial — diz isso).

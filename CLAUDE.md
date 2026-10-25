@@ -47,6 +47,7 @@ aplicável (no máximo 3 perguntas) e vai directo aos artigos.
 | `catalogo/legislacao-em-vigor.tsv` | Uma linha por cada um dos 64 273 actos marcados "em vigor" no Cellar em 2026-10-10 (tratados, acordos internacionais, regulamentos, diretivas, decisões…). Colunas: `celex`, `data`, `tipo`, `consolidado_ate` (data da versão consolidada mais recente, se houver), `repertorio` (códigos de área), `titulo` (PT), `eli`, `url`. Serve para descobrir o que existe; o texto só está no corpus para os actos do índice. |
 | `catalogo/repertorio.md` | Árvore de áreas do repertório oficial do EUR-Lex, com contagens. |
 | `ordem-advogados/` | Regulação profissional dos advogados em Portugal (portal.oa.pt): `INDICE.md`; texto dos regulamentos e deliberações da Ordem em `regulamentos/` (tal como publicados, não consolidados); `pareceres.tsv` = **só o índice** dos pareceres (órgão, título, assunto, ligação), sem o texto. O Estatuto da Ordem (Lei n.º 145/2015) está em `legislacao-pt/lei-145-2015.md` (deontologia: título III, artigos 88.º e seguintes). |
+| `legislacao-es/<chave>.md` | Normas espanholas do Boletín Oficial del Estado, versão consolidada do BOE, **em espanhol** (`ferramentas/boe.py`, lista em `NORMAS`). Por agora só o IVA: Ley 37/1992 (`ley-37-1992`), o Reglamento del IVA (`real-decreto-1624-1992`, artigos do regulamento depois de `## Anexo`) e a Orden do modelo 303 (`orden-eha-3786-2008`). Índice em `legislacao-es/INDICE.md`. |
 | `legislacao-pt/codigo-iva.md` | Código do IVA (taxas, isenções, faturação, listas I e II), compilação actualizada da Autoridade Tributária (Portal das Finanças), porque o DRE não tem a consolidação disponível pelo ELI. Não é a publicação oficial. |
 | `jurisprudencia/<ano>/<CELEX>.md` | Texto integral, em português, dos acórdãos, despachos e conclusões de advogados-gerais do Tribunal de Justiça citados nos `.contexto.md` do corpus curado (os que interpretam os 86 actos). `jurisprudencia/INDICE.tsv` tem a coluna `interpreta` (actos interpretados). As disposições citadas no acórdão aparecem em **negrito**, não como `### Artigo`; as partes do acórdão (quadro jurídico, questões prejudiciais, decisão) como `##`. |
 | `orientacoes/comissao/<ano>/<CELEX>.md` | Comunicações da Comissão publicadas no JO C que explicam como aplicar o direito (orientações, guias — ex.: Guia Azul de 2022, `52022XC0629(04)` —, enquadramentos, perguntas e respostas). **Não são legislação**; podem ter sido substituídas. Selecção pelo título (ver `ferramentas/arquivo.py`). |
@@ -111,7 +112,9 @@ Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
 - **Fiscalidade directa, segurança social, licenciamento, taxas de IVA concretas, prazos e
   procedimentos nacionais** são matéria nacional e, fora das leis de transposição, **não
   estão aqui**. A Diretiva IVA, por exemplo, fixa regras e limites; as taxas portuguesas
-  estão no Código do IVA (`legislacao-pt/codigo-iva.md`, compilação da AT, não oficial).
+  estão no Código do IVA (`legislacao-pt/codigo-iva.md`, compilação da AT, não oficial). De Espanha
+  só estão as normas do IVA em `legislacao-es/` (BOE consolidado, em espanhol; não tem valor jurídico,
+  faz fé o BOE); outra lei espanhola acrescenta-se a `NORMAS` em `ferramentas/boe.py`.
 - **Textos consolidados não têm valor jurídico** (aviso oficial do EUR-Lex): fazem fé os
   textos publicados no Jornal Oficial. Para decisões com consequências, confirmar no
   JO através de `url_eurlex`.

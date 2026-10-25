@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Índices para consulta rápida e barata (em tokens) por IA ou por pessoas.
 
-Gera, a partir do que está em ue/, corpus/ e legislacao-pt/:
+Gera, a partir do que está em ue/, corpus/, legislacao-pt/ e legislacao-es/:
 
   INDICE.md                         guia de entrada (curto) — por onde começar
   indice/actos.tsv                  uma linha por acto: nome popular, tipo, data, estado, temas,
@@ -258,12 +258,13 @@ def construir(com_eurovoc=True):
     for c, (f, fm) in curado.items():
         u, _ = sumario(f)
         escrever_artigos("corpus", c, str(f.relative_to(RAIZ)), u)
-    # 3) legislação portuguesa
-    for f in sorted((RAIZ / "legislacao-pt").glob("*.md")):
-        if f.name == "INDICE.md":
-            continue
-        u, _ = sumario(f)
-        escrever_artigos("legislacao-pt", f.stem, str(f.relative_to(RAIZ)), u)
+    # 3) legislação portuguesa e espanhola
+    for pasta in ("legislacao-pt", "legislacao-es"):
+        for f in sorted((RAIZ / pasta).glob("*.md")):
+            if f.name == "INDICE.md":
+                continue
+            u, _ = sumario(f)
+            escrever_artigos(pasta, f.stem, str(f.relative_to(RAIZ)), u)
     # 4) jurisprudência e orientações (unidades = partes do documento)
     for grupo, (pasta, padrao, chave) in DOCUMENTOS.items():
         for f in sorted((RAIZ / pasta).glob(padrao)):
@@ -382,6 +383,7 @@ def escrever_entrada(actos, curado):
         "Pesquisar epígrafes em toda a legislação: `rg -i 'direito de retratação' indice/artigos`. |",
         "| `corpus/INDICE.md` | Os actos curados (com considerandos, sínteses, transposição, jurisprudência). |",
         "| `legislacao-pt/INDICE.md` | Leis portuguesas por diretiva; Código do IVA em `legislacao-pt/codigo-iva.md`. |",
+        "| `legislacao-es/INDICE.md` | Normas espanholas do IVA (BOE consolidado, em espanhol). |",
         "| `jurisprudencia/INDICE.tsv` | Acórdãos, despachos e conclusões dos actos curados (coluna `interpreta`). |",
         "| `orientacoes/comissao/INDICE.tsv`, `orientacoes/cepd/INDICE.tsv` | Orientações da Comissão (JO C) e do "
         "CEPD/EDPB. Não são legislação. |",

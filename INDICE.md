@@ -22,6 +22,7 @@ Gerado por `python3 ferramentas/indexar.py` em 2026-10-12. 65085 actos da UE (64
 | `indice/artigos/…/*.tsv` | Sumário de cada acto: unidade (artigo/anexo), epígrafe, linhas, tokens. Pesquisar epígrafes em toda a legislação: `rg -i 'direito de retratação' indice/artigos`. |
 | `corpus/INDICE.md` | Os actos curados (com considerandos, sínteses, transposição, jurisprudência). |
 | `legislacao-pt/INDICE.md` | Leis portuguesas por diretiva; Código do IVA em `legislacao-pt/codigo-iva.md`. |
+| `legislacao-es/INDICE.md` | Normas espanholas do IVA (BOE consolidado, em espanhol). |
 | `jurisprudencia/INDICE.tsv` | Acórdãos, despachos e conclusões dos actos curados (coluna `interpreta`). |
 | `orientacoes/comissao/INDICE.tsv`, `orientacoes/cepd/INDICE.tsv` | Orientações da Comissão (JO C) e do CEPD/EDPB. Não são legislação. |
 | `ordem-advogados/INDICE.md` | Ordem dos Advogados: Estatuto, regulamentos e índice de pareceres. |

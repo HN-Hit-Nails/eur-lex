@@ -81,6 +81,10 @@ jobs:
         continue-on-error: true
         run: python3 ferramentas/at_codigos.py
 
+      - name: IVA de Espanha (BOE consolidado)
+        continue-on-error: true
+        run: python3 ferramentas/boe.py
+
       - name: Jurisprudência dos actos curados e orientações da Comissão (JO C)
         continue-on-error: true
         run: |

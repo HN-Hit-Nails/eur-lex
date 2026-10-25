@@ -1,0 +1,413 @@
+celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
+ley-37-1992	Preâmbulo		25	251	6671	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 1	Naturaleza del impuesto.	255	263	103	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 2	Normas aplicables.	265	269	114	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 3	Territorialidad.	271	291	566	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 4	Hecho imponible.	297	321	586	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 5	Concepto de empresario o profesional.	323	367	956	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 6	Concepto de edificaciones.	369	397	534	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 7	Operaciones no sujetas al impuesto.	399	517	2558	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 8	Concepto de entrega de bienes.	519	585	1507	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 8 bis	Entregas de bienes facilitadas a través de una interfaz digital.	587	597	288	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 9	Operaciones asimiladas a las entregas de bienes.	599	719	2944	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 9 bis	Acuerdo de ventas de bienes en consigna.	721	761	1175	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 10	Concepto de transformación.	763	765	66	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 11	Concepto de prestación de servicios.	767	809	647	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 12	Operaciones asimiladas a las prestaciones de servicios.	811	823	265	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 13	Hecho imponible.	827	871	1034	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 14	Adquisiciones no sujetas.	873	899	621	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 15	Concepto de adquisición intracomunitaria de bienes.	901	913	301	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 16	Operaciones asimiladas a las adquisiciones intracomunitarias de bienes.	915	937	571	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 17	Hecho imponible.	941	943	42	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 18	Concepto de importación de bienes.	945	973	913	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 19	Operaciones asimiladas a las importaciones de bienes.	975	1011	1364	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 20	Exenciones en operaciones interiores.	1017	1421	8697	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 20 bis	Exención de las entregas de bienes facilitadas a través de una interfaz digital.	1423	1427	137	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 21	Exenciones en las exportaciones de bienes.	1429	1489	1546	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 22	Exenciones en las operaciones asimiladas a las exportaciones.	1491	1655	4028	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 23	Exenciones relativas a las situaciones de depósito temporal y otras situaciones.	1657	1681	572	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 24	Exenciones relativas a regímenes aduaneros y fiscales.	1683	1741	1114	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 25	Exenciones en las entregas de bienes destinados a otro Estado miembro.	1743	1771	735	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 26	Exenciones en las adquisiciones intracomunitarias de bienes.	1775	1807	642	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 27	Importaciones de bienes cuya entrega en el interior estuviese exenta del impuesto.	1811	1843	806	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 28	Importaciones de bienes personales por traslado de residencia habitual.	1845	1887	956	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 29	Concepto de bienes personales.	1889	1893	137	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 30	Importaciones de bienes personales destinados al amueblamiento de una vivienda secundaria.	1895	1905	192	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 31	Importaciones de bienes personales por razón de matrimonio.	1907	1929	544	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 32	Importaciones de bienes personales por causa de herencia.	1931	1951	354	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 33	Importaciones de bienes muebles efectuadas por estudiantes.	1953	1965	249	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 34	Importaciones de bienes de escaso valor.	1967	1979	143	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 35	Importaciones de bienes en régimen de viajeros.	1981	2047	1328	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 36	Importaciones de pequeños envíos.	2049	2093	543	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 37	Importaciones de bienes con ocasión del traslado de la sede de actividad.	2095	2127	601	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 38	Bienes obtenidos por productores agrícolas o ganaderos en tierras situadas en terceros países.	2129	2139	260	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 39	Semillas, abonos y productos para el tratamiento del suelo y de los vegetales.	2141	2149	211	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 40	Importaciones de animales de laboratorio y sustancias biológicas y químicas destinados a la investigación.	2151	2155	188	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 41	Importaciones de sustancias terapéuticas de origen humano y de reactivos para la determinación de los grupos sanguíneos y de los tejidos humanos.	2157	2177	474	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 42	Importaciones de sustancias de referencia para el control de calidad de los medicamentos.	2179	2181	106	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 43	Importaciones de productos farmacéuticos utilizados con ocasión de competiciones deportivas internacionales.	2183	2185	110	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 44	Importaciones de bienes destinados a organismos caritativos o filantrópicos.	2187	2213	606	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 45	Bienes importados en beneficio de personas con minusvalía.	2215	2223	324	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 46	Importaciones de bienes en beneficio de las víctimas de catástrofes.	2225	2239	363	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 47	Importaciones de bienes efectuadas en el marco de ciertas relaciones internacionales.	2241	2267	735	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 48	Importaciones de bienes con fines de promoción comercial.	2269	2333	1294	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 49	Importaciones de bienes para ser objeto de exámenes, análisis o ensayos.	2335	2345	384	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 50	Importaciones de bienes destinados a los organismos competentes en materia de protección de la propiedad intelectual o industrial.	2347	2349	97	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 51	Importaciones de documentos de carácter turístico.	2351	2359	340	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 52	Importaciones de documentos diversos.	2361	2399	917	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 53	Importaciones de material audiovisual producido por la Organización de las Naciones Unidas.	2401	2435	861	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 54	Importaciones de objetos de colección o de arte.	2437	2441	135	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 55	Importaciones de materiales para el acondicionamiento y protección de mercancías.	2443	2449	136	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 56	Importaciones de bienes destinados al acondicionamiento o a la alimentación en ruta de animales.	2451	2453	90	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 57	Importaciones de carburantes y lubricantes.	2455	2479	686	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 58	Importaciones de ataúdes, materiales y objetos para cementerios.	2481	2485	230	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 59	Importaciones de productos de la pesca.	2487	2495	183	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 60	Importaciones de bienes en régimen diplomático o consular.	2497	2499	56	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 61	Importaciones de bienes destinados a organismos internacionales.	2501	2513	482	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 62	Importaciones de bienes destinados a la Organización del Tratado del Atlántico Norte y las fuerzas armadas en el ámbito de la política común de seguridad y defe	2515	2523	244	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 63	Reimportaciones de bienes.	2525	2527	72	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 64	Prestaciones de servicios relacionados con las importaciones.	2529	2533	106	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 65	Importaciones de bienes que se vinculen al régimen de depósito distinto del aduanero.	2535	2551	607	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 66	Exenciones en las importaciones de bienes para evitar la doble imposición.	2553	2577	671	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 67	Normas generales aplicables a las exenciones previstas en el presente capítulo.	2579	2583	102	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 68	Lugar de realización de las entregas de bienes.	2589	2681	2633	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 69	Lugar de realización de las prestaciones de servicios. Reglas generales.	2683	2765	1786	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 70	Lugar de realización de las prestaciones de servicios. Reglas especiales.	2767	2899	2657	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 71	Lugar de realización de las adquisiciones intracomunitarias de bienes.	2903	2907	198	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 72	Lugar de realización de los transportes intracomunitarios de bienes cuyo destinatario no sea un empresario o profesional actuando como tal.	2909	2925	302	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 73	Límite cuantitativo aplicable a las ventas a distancia intracomunitarias de bienes a que se refiere el artículo 68.Tres.a) y b) de esta ley, y a las prestacione	2931	2947	590	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 74	Lugar de realización de los servicios de mediación en los transportes intracomunitarios de bienes y en los servicios accesorios a dichos transportes.	2949	2953	80	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 75	Devengo del impuesto.	2959	3039	1952	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 76	Devengo del impuesto.	3043	3051	190	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 77	Devengo del impuesto.	3055	3061	182	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 78	Base imponible. Regla general.	3067	3133	1367	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 79	Base imponible. Reglas especiales.	3135	3215	2467	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 80	Modificación de la base imponible.	3217	3317	2881	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 81	Determinación de la base imponible.	3319	3329	278	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 82	Base imponible.	3333	3343	252	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 83	Base imponible.	3347	3399	1358	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 84	Sujetos pasivos.	3405	3529	2736	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 85	Sujetos pasivos.	3533	3535	52	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 86	Sujetos pasivos.	3539	3557	342	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 87	Responsables del impuesto.	3561	3609	1046	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 88	Repercusión del impuesto.	3613	3635	582	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 89	Rectificación de las cuotas impositivas repercutidas.	3637	3677	1212	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 90	Tipo impositivo general.	3681	3697	390	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 91	Tipos impositivos reducidos.	3699	3979	6594	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 92	Cuotas tributarias deducibles.	3985	4003	344	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 93	Requisitos subjetivos de la deducción.	4005	4033	991	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 94	Operaciones cuya realización origina el derecho a la deducción.	4035	4059	824	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 95	Limitaciones del derecho a deducir.	4061	4117	1368	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 96	Exclusiones y restricciones del derecho a deducir.	4119	4157	726	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 97	Requisitos formales de la deducción.	4159	4191	1002	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 98	Nacimiento del derecho a deducir.	4193	4209	432	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 99	Ejercicio del derecho a la deducción.	4211	4251	1286	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 100	Caducidad del derecho a la deducción.	4253	4259	159	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 101	Régimen de deducciones en sectores diferenciados de la actividad empresarial o profesional.	4261	4289	960	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 102	Regla de prorrata.	4291	4299	267	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 103	Clases de prorrata y criterios de aplicación.	4301	4313	202	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 104	La prorrata general.	4315	4379	1569	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 105	Procedimiento de la prorrata general.	4381	4397	594	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 106	La prorrata especial.	4399	4415	356	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 107	Regularización de deducciones por bienes de inversión.	4417	4441	851	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 108	Concepto de bienes de inversión.	4443	4457	219	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 109	Procedimiento para practicar la regularización de deducciones por bienes de inversión.	4459	4467	203	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 110	Entregas de bienes de inversión durante el período de regularización.	4469	4489	640	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 111	Deducciones de las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondient	4491	4517	927	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 112	Regularización de las deducciones de las cuotas soportadas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios corres	4519	4535	442	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 113	Regularización de las cuotas correspondientes a bienes de inversión, soportadas con anterioridad al inicio de la realización de las entregas de bienes o prestac	4537	4547	403	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 114	Rectificación de deducciones.	4549	4573	886	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 115	Supuestos generales de devolución.	4577	4603	768	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 116	Solicitud de devoluciones al fin de cada período de liquidación.	4605	4617	292	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 117	Devoluciones a exportadores en régimen de viajeros.	4619	4625	180	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 117 bis	Solicitudes de devolución de empresarios o profesionales establecidos en el territorio de aplicación del Impuesto, Islas Canarias, Ceuta y Melilla correspondien	4627	4637	326	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 118	Garantías de las devoluciones.	4639	4641	54	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 119	Régimen especial de devoluciones a empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto pero establecidos en la Comunidad, Is	4651	4711	2006	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 119 bis	Régimen especial de devoluciones a determinados empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto, ni en la Comunidad, Isl	4713	4737	852	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 120	Normas generales.	4743	4787	719	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 121	Determinación del volumen de operaciones.	4789	4807	461	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 122	Régimen simplificado.	4811	4847	834	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 123	Contenido del régimen simplificado.	4849	4893	1334	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 124	Ámbito subjetivo de aplicación.	4897	4931	720	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 125	Ámbito objetivo de aplicación.	4933	4937	132	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 126	Actividades excluidas del régimen especial de la agricultura, ganadería y pesca.	4939	4965	492	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 127	Servicios accesorios incluidos en el régimen especial.	4967	4973	251	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 128	Realización de actividades económicas en sectores diferenciados de la actividad empresarial o profesional.	4975	4979	174	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 129	Obligaciones de los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca.	4981	4997	340	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 130	Régimen de deducciones y compensaciones.	4999	5045	1306	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 131	Obligados al reintegro de las compensaciones.	5047	5053	170	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 132	Recursos.	5055	5057	81	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 133	Devolución de compensaciones indebidas.	5059	5063	90	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 134	Deducción de las compensaciones correspondientes al régimen especial de la agricultura, ganadería y pesca.	5065	5071	225	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 134 bis	Comienzo o cese en la aplicación del régimen especial de la agricultura, ganadería y pesca.	5073	5097	817	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 135	Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección.	5103	5129	639	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 136	Concepto de bienes usados, objetos de arte, antigüedades y objetos de colección y de sujeto pasivo revendedor.	5131	5175	1032	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 137	La base imponible.	5177	5223	1301	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 138	Repercusión del Impuesto.	5225	5231	160	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 139	Deducciones.	5233	5237	92	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140	Concepto de oro de inversión.	5243	5263	347	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 bis	Exenciones.	5265	5281	378	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 ter	Renuncia a la exención.	5283	5293	356	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 cuarter	Deducciones.	5295	5311	509	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 quinque	Sujeto pasivo.	5313	5317	99	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 sexies	Conservación de las facturas.	5319	5323	100	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 141	Régimen especial de las agencias de viajes.	5329	5345	345	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 142	Repercusión del impuesto	5347	5353	119	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 143	Exenciones.	5355	5361	179	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 144	Lugar de realización del hecho imponible.	5363	5369	148	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 145	La base imponible.	5371	5389	438	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 146	Deducciones.	5391	5397	120	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 147	Supuesto de no aplicación del régimen especial.	5399	5403	168	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 148	Régimen especial del recargo de equivalencia.	5411	5419	246	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 149	Concepto de comerciante minorista.	5421	5439	518	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 150	Régimen especial de determinación proporcional de las bases imponibles.	5441	5445	49	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 151	Exclusiones del régimen especial de determinación proporcional de las bases imponibles.	5447	5453	76	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 152	Contenido del régimen especial de determinación proporcional de las bases imponibles.	5455	5461	67	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 153	Régimen especial del recargo de equivalencia.	5463	5467	42	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 154	Contenido del régimen especial del recargo de equivalencia.	5469	5485	634	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 155	Comienzo o cese de actividades sujetas al régimen especial del recargo de equivalencia.	5487	5499	507	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 156	Recargo de equivalencia.	5501	5509	150	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 157	Supuestos de no aplicación del recargo de equivalencia.	5511	5521	201	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 158	Sujetos pasivos del recargo de equivalencia.	5523	5529	111	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 159	Repercusión del recargo de equivalencia.	5531	5533	72	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 160	Base imponible.	5535	5537	37	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 161	Tipos.	5539	5553	198	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 162	Liquidación e ingreso.	5555	5557	62	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163	Obligación de acreditar la sujeción al régimen especial del recargo de equivalencia.	5559	5561	116	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículos 163 bis a 163 quáter.		5569	5573	36	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 bis	Ambito de aplicación y definiciones.	5575	5607	756	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 ter	Obligaciones formales.	5609	5649	1353	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quáter	Derecho a la deducción de las cuotas soportadas.	5651	5663	354	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quinquies	Requisitos subjetivos del régimen especial del grupo de entidades.	5669	5695	801	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 sexies	Condiciones para la aplicación del régimen especial del grupo de entidades.	5697	5713	677	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 septies	Causas determinantes de la pérdida del derecho al régimen especial del grupo de entidades.	5715	5731	424	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 octies	Contenido del régimen especial del grupo de entidades.	5733	5755	995	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 nonies	Obligaciones específicas en el régimen especial del grupo de entidades.	5757	5823	2449	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 decies	Requisitos subjetivos de aplicación.	5829	5841	330	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 undecies	Condiciones para la aplicación del régimen especial del criterio de caja.	5843	5847	149	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 duodecies	Requisitos objetivos de aplicación.	5849	5869	349	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 terdecies	Contenido del régimen especial del criterio de caja.	5871	5893	579	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quaterdecies	Efectos de la renuncia o exclusión del régimen especial del criterio de caja.	5895	5899	115	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quinquiesdecies	Operaciones afectadas por el régimen especial del criterio de caja.	5901	5913	407	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 sexiesdecies	Efectos del auto de declaración del concurso.	5915	5927	442	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 septiesdecies	Definiciones y causas de exclusión.	5939	5983	797	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 octiesdecies	Ámbito de aplicación.	5985	6003	440	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 noniesdecies	Obligaciones formales.	6005	6047	1527	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 vicies	Derecho a la deducción de las cuotas soportadas.	6049	6071	1117	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 unvicies	Ámbito de aplicación.	6073	6107	1300	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 duovicies	Obligaciones formales.	6109	6153	1627	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 tervicies	Derecho a la deducción de las cuotas soportadas.	6155	6177	1143	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quatervicies	Prestaciones de servicios realizadas en el territorio de aplicación del impuesto por empresarios o profesionales establecidos en el mismo.	6179	6185	192	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quinvicies	Ámbito de aplicación.	6191	6237	1386	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 sexvivies	Artículo 163 sexvicies. Devengo.	6239	6243	98	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 septvicies	Obligaciones formales.	6245	6287	1615	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 octovicies	Derecho a la deducción de las cuotas soportadas.	6289	6309	1101	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 164	Obligaciones de los sujetos pasivos.	6319	6369	1198	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 165	Reglas especiales en materia de facturación.	6371	6395	552	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166	Obligaciones contables.	6397	6411	234	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166 bis	Registro de operaciones.	6425	6443	576	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166 ter	Definiciones.	6451	6481	655	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166 quater 	Artículo 166 quater. Obligaciones de proveedores de servicios de pago.	6483	6503	644	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166 quinquies	Ubicación del ordenante y beneficiario.	6505	6521	396	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 167	Liquidación del impuesto.	6525	6541	450	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 167 bis	Modalidad especial para la declaración y el pago del impuesto sobre el valor añadido sobre las importaciones.	6543	6575	816	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 167 ter	Liquidación provisional.	6577	6583	136	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 168	Liquidación provisional de oficio.	6585	6593	328	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 169	Suspensión del ingreso.	6597	6603	238	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 170	Infracciones.	6607	6643	928	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 171	Sanciones.	6645	6677	909	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional primera	Impuesto sobre Bienes Inmuebles.	6679	6699	834	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional segunda	Proyecto de Ley del Impuesto sobre Sociedades.	6701	6703	124	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional tercera	Texto refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.	6705	6709	212	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional cuarta	Delimitación de las referencias a los Impuestos Especiales.	6711	6723	251	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional quinta	Referencias del Impuesto sobre el Valor Añadido al Impuesto General Indirecto Canario.	6725	6731	204	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional sexta	Procedimientos administrativos y judiciales de ejecución forzosa.	6733	6751	401	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional séptima	Inclusión en los grupos de entidades de las fundaciones bancarias.	6753	6759	254	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional octava	Referencia normativa.	6761	6765	123	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria primera	Franquicias relativas a los viajeros procedentes de Canarias, Ceuta y Melilla.	6767	6769	132	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria segunda	Exenciones relativas a buques a la navegación marítima internacional.	6771	6775	182	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria tercera	Exenciones relativas a aeronaves dedicadas esencialmente a la navegación aérea internacional.	6777	6781	209	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria cuarta	Rectificación de cuotas impositivas repercutidas y deducciones.	6783	6785	104	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria quinta	Deducción en las adquisiciones utilizadas en autoconsumos.	6787	6789	104	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria sexta	Deducciones anteriores al inicio de la actividad.	6791	6797	169	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria séptima	Regularización de las deducciones efectuadas con anterioridad al inicio de la actividad.	6799	6803	193	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria octava	Renuncias y opciones en los regímenes especiales.	6805	6807	76	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria novena	Legislación aplicable a los bienes en áreas exentas o regímenes suspensivos.	6809	6811	111	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria décima	Operaciones asimiladas a las importaciones.	6813	6827	291	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria undécima	Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección.	6829	6847	393	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria duodécima	Devengo en las entregas de determinados medios de transporte.	6849	6851	134	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria decimotercera	Límites para la aplicación del régimen simplificado y del régimen especial de la agricultura, ganadería y pesca en los ejercicios 2016 a 2024.	6853	6883	664	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición derogatoria primera	Disposiciones que se derogan.	6885	6891	138	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición derogatoria segunda	Disposiciones que continuarán en vigor.	6893	6899	130	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición final primera	Modificaciones por Ley de Presupuestos.	6901	6913	153	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición final segunda	Habilitación normativa.	6915	6919	104	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición final tercera	Entrada en vigor de la Ley.	6921	6939	132	legislacao-es/ley-37-1992.md
+ley-37-1992	Anexo		6941	7289	7141	legislacao-es/ley-37-1992.md
+orden-eha-3786-2008	Preâmbulo		23	51	2413	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 1	Aprobación del modelo 303.	55	77	578	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 2	Aprobación del modelo 308.	79	103	806	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 3	Forma, procedimiento y condiciones generales de presentación del modelo 303.	105	115	415	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 4	Lugar y procedimiento de presentación del modelo 303 en impreso.	117	121	73	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 5	Forma y condiciones generales para la presentación telemática por Internet del modelo 303.	123	127	80	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 6	Procedimiento para la presentación telemática por Internet de las autoliquidaciones correspondientes al modelo 303.	129	133	86	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 7	Plazo de presentación del modelo 303.	135	145	480	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 8	Forma y lugar de presentación del modelo 308.	147	157	489	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 9	Condiciones generales para la presentación telemática por Internet del modelo 308.	159	177	858	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 10	Procedimiento para la presentación telemática por Internet de las autoliquidaciones correspondientes al modelo 308.	179	191	396	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Artículo 11	Plazos de presentación del modelo 308.	193	205	456	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Disposición transitoria única	Forma de presentación del modelo 308.	207	209	92	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Disposición derogatoria única	Derogación de modelos de declaración, y de las normas que regulan el lugar, forma y plazo de su presentación, así como las condiciones y procedimiento para su p	211	229	777	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Disposición final primera	Modificación de la Orden EHA/1274/2007, de 26 de abril, por la que se aprueban los modelos 036 de Declaración censal de alta, modificación y baja en el Censo de	231	243	415	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Disposición final segunda	Modificación de la Orden EHA/3434/2007, de 23 de noviembre, por la que se aprueban los modelos 322 de autoliquidación mensual, modelo individual, y 353 de autol	245	249	150	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Disposición final tercera	Modificación de la Orden EHA/3398/2006, de 26 de octubre, por la que se dictan medidas para el impulso y homogeneización de determinados aspectos en relación a 	251	261	407	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Disposición final cuarta	Modificación de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el	263	305	372	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Disposición final quinta	Entrada en vigor.	307	311	91	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Anexo I	Modelo 303 de autoliquidación del Impuesto sobre el Valor Añadido	313	351	838	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Anexo II		353	355	32	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Anexo III		357	357	3	legislacao-es/orden-eha-3786-2008.md
+orden-eha-3786-2008	Anexo IV		359	359	3	legislacao-es/orden-eha-3786-2008.md
+real-decreto-1624-1992	Preâmbulo		25	59	1113	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 1	Aprobación del Reglamento del Impuesto sobre el Valor Añadido.	63	65	48	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 2	Modificación del Real Decreto 1041/1990, de 27 de julio.	67	201	3406	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 3	Modificación del Real Decreto 338/1990, de 9 de marzo.	203	257	1188	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 4	Modificación del Real Decreto 2402/1985, de 18 de diciembre.	259	449	4482	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 5	Modificación del Real Decreto 1326/1987, de 11 de septiembre.	451	461	384	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 6	Representante autorizado y autoridad competente.	463	467	167	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición derogatoria única	Derogación normativa.	469	471	89	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición final única	Entrada en vigor.	473	479	70	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Anexo	REGLAMENTO DEL IMPUESTO SOBRE EL VALOR AÑADIDO	481	481	14	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 1	Intervención de manera indirecta por el vendedor en la expedición o el transporte.	487	493	204	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 1 bis	Entregas de bienes o prestaciones de servicios facilitadas a través de una interfaz digital.	495	499	193	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 2	Medios de transporte nuevos.	503	515	384	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 3	Opción por la tributación en el territorio de aplicación del Impuesto.	517	529	332	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 4	Concepto de precios autorizados a efectos de la exención de los servicios de hospitalización o asistencia sanitaria.	535	537	84	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 5	Reconocimiento de determinadas exenciones en operaciones interiores.	539	543	49	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 6	Calificación como entidad o establecimiento privado de carácter social.	545	553	248	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 7	Exenciones de las operaciones relativas a la educación y la enseñanza.	555	559	164	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 8	Aplicación de las exenciones en determinadas operaciones inmobiliarias.	561	571	344	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 8 bis	Operaciones relativas a los materiales de recuperación.	573	579	69	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 9	Exenciones relativas a las exportaciones.	583	713	3410	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 10	Exenciones en las operaciones asimiladas a las exportaciones:	715	783	2409	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 11	Exenciones relativas a la situación de depósito temporal.	787	801	294	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 12	Exenciones relativas a los regímenes aduaneros y fiscales.	803	823	522	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 13	Exenciones relativas a las entregas de bienes destinados a otro Estado miembro.	827	843	446	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 14	Importaciones de bienes cuya entrega en el interior estuviera exenta del Impuesto.	847	885	1114	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 15	Importaciones de bienes personales.	887	901	377	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 16	Importaciones de bienes por cese de las actividades en origen.	903	909	240	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 17	Exenciones condicionadas a autorización administrativa.	911	915	212	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 18	Reimportaciones de bienes exentas del Impuesto.	917	947	603	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 19	Prestaciones de servicios relacionados con las importaciones.	949	959	258	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 20	Importaciones de bienes que se vinculen al régimen de depósito distinto del aduanero.	961	973	182	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 21	Exenciones en las importaciones de bienes para evitar la doble imposición.	975	979	188	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 22	Opción por la no sujeción al Impuesto de determinadas entregas de bienes y prestaciones de servicios.	983	993	343	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 23	Reglas relacionadas con la localización de determinadas operaciones.	995	1009	398	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 23 bis	Devengo.	1015	1019	150	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 24	Modificación de la base imponible.	1023	1099	2314	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 24 bis	Base imponible para ciertas operaciones.	1101	1107	204	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 24 ter	Concepto de oro sin elaborar y de producto semielaborado de oro.	1109	1115	174	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 24 quater	Aplicación de las reglas de inversión del sujeto pasivo.	1117	1157	1098	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 24 quinquies	Concepto y obligaciones del empresario o profesional revendedor.	1159	1169	343	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 25	Normas especiales sobre repercusión.	1173	1181	173	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 26	Tipo impositivo reducido.	1185	1195	302	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 26 bis	Tipo impositivo reducido.	1197	1257	1786	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 27	Deducciones de las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondient	1263	1295	1100	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 28	Opción y solicitudes en materia de deducciones.	1297	1367	2484	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 29	Devoluciones de oficio.	1371	1373	76	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 30	Devoluciones al término de cada período de liquidación.	1375	1463	2765	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 30 bis	Devolución de cuotas deducibles a los sujetos pasivos que ejerzan la actividad de transporte de viajeros o de mercancías por carretera.	1465	1477	576	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 30 ter	Solicitudes de devolución de empresarios o profesionales establecidos en el territorio de aplicación del Impuesto, Islas Canarias, Ceuta y Melilla correspondien	1479	1495	469	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 31	Devoluciones a empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto pero establecidos en la Comunidad, Islas Canarias, Ceuta 	1497	1587	2645	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 31 bis	Devoluciones a determinados empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto ni en la Comunidad, Islas Canarias, Ceuta o 	1589	1639	1524	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 32	Devoluciones por entregas a título ocasional de medios de transporte nuevos.	1641	1647	254	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 33	Opción y renuncia a la aplicación de los regímenes especiales.	1659	1713	1755	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 34	Extensión subjetiva.	1721	1733	264	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 35	Renuncia al régimen simplificado.	1735	1745	172	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 36	Exclusión del régimen simplificado.	1747	1797	1350	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 37	Ámbito objetivo.	1799	1809	259	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 38	Contenido del régimen simplificado.	1811	1837	920	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 39	Periodificación de los ingresos.	1839	1851	310	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 40	Obligaciones formales.	1853	1867	450	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 41	Declaraciones-liquidaciones.	1869	1879	180	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 42	Aprobación de índices o módulos.	1881	1891	201	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 43	Ámbito subjetivo de aplicación.	1895	1931	1033	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 44	Concepto de explotación agrícola, forestal, ganadera o pesquera.	1933	1945	227	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 45	Actividades que no se considerarán procesos de transformación.	1947	1957	228	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 46	Servicios accesorios incluidos en el régimen especial.	1959	1979	286	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 47	Obligaciones formales.	1981	1993	386	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 48	Reintegro de las compensaciones.	1995	2009	501	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 49	Deducción de las compensaciones.	2011	2025	408	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 49 bis	Comienzo o cese en la aplicación del régimen especial.	2027	2039	442	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 50	Opción por la determinación de la base imponible mediante el margen de beneficio global.	2047	2065	767	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 51	Obligaciones formales y registrales específicas.	2067	2123	914	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 51 bis	Concepto de oro de inversión.	2125	2133	141	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 51 ter.	Renuncia a la exención.	2135	2141	282	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 51 quater.	Obligaciones registrales específicas.	2143	2147	127	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 52	Opción por la aplicación del régimen general del Impuesto.	2151	2155	217	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 53	Obligaciones registrales específicas.	2157	2159	68	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 54	Operaciones no calificadas como de transformación.	2169	2183	245	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 55	Obligaciones formales y registrales en los regímenes especiales del comercio minorista.	2185	2189	55	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 56	Exclusiones del régimen especial.	2195	2203	92	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 57	Contenido del régimen especial: Porcentaje aplicable en el primer año de ejercicio de la actividad de venta al por menor.	2205	2209	64	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 58	Obligaciones contables y registrales.	2211	2215	42	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 59	Requisitos de aplicación.	2221	2275	896	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 60	Comienzo o cese de actividades sujetas al régimen especial del recargo de equivalencia.	2277	2283	266	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61	Obligaciones formales y registrales del régimen especial del recargo de equivalencia.	2285	2327	932	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 bis	Información censal y definición de vinculación.	2329	2379	1704	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 ter	Declaraciones-liquidaciones.	2381	2401	780	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 quáter	Renuncia a las exenciones.	2403	2421	480	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 quinquies	Obligaciones formales específicas del régimen especial.	2423	2443	930	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 sexies	Procedimientos de control.	2445	2475	1031	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 septies	Opción por la aplicación del régimen especial del criterio de caja.	2481	2487	205	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 octies	Renuncia a la aplicación del régimen especial del criterio de caja.	2489	2495	142	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 nonies	Exclusión del régimen especial del criterio de caja.	2497	2507	276	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 decies	Obligaciones registrales específicas.	2509	2523	307	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 undecies	Obligaciones específicas de facturación.	2525	2531	282	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 duodecies	Definiciones.	2539	2551	172	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 terdecies	Opción y renuncia. Efectos.	2553	2587	1435	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 quaterdecies	Exclusión y efectos.	2589	2657	2274	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 quinquiesdecies	Obligaciones de información.	2659	2669	262	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 sexiesdecies	Obligaciones formales.	2671	2733	950	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 61 septiesdecies	Condiciones y requisitos para actuar como intermediario en el régimen de importación.	2735	2775	944	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 62	Libros registros del Impuesto sobre el Valor Añadido.	2779	2827	1408	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 62 bis	Registro de operaciones.	2829	2849	480	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 62 ter	Contenido de los registros de proveedores de servicios de pago.	2851	2887	1081	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 63	Libro registro de facturas expedidas.	2889	2963	2106	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 64	Libro registro de facturas recibidas.	2965	3027	1867	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 65	Libro Registro de bienes de inversión.	3029	3047	756	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 66	Libro Registro de determinadas operaciones intracomunitarias.	3049	3127	1704	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 67	Contenido de los documentos registrales.	3129	3139	225	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 68	Requisitos formales.	3141	3157	402	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 68 bis	Opción por la llevanza electrónica de los libros registro.	3159	3179	605	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 68 ter	Información a suministrar en relación con el periodo de tiempo anterior a la llevanza electrónica de los libros registros.	3181	3197	578	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 69	Plazos para las anotaciones registrales.	3199	3215	492	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 69 bis	Plazos para la remisión electrónica de los registros de facturación.	3217	3257	1391	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 70	Rectificación de las anotaciones registrales.	3259	3271	346	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 71	Liquidación del Impuesto. Normas generales.	3277	3399	3556	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 72	Recaudación del Impuesto. Normas generales.	3401	3403	77	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 73	Liquidación del impuesto en las importaciones.	3405	3441	1044	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 74	Recaudación del Impuesto en las importaciones.	3443	3511	1746	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 74 bis	Autoliquidaciones rectificativas.	3513	3549	1603	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 75	Supuestos de aplicación.	3553	3561	278	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 76	Procedimiento.	3563	3573	330	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 77	Efectos de la liquidación provisional de oficio.	3575	3579	148	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 78	Declaración recapitulativa.	3583	3587	104	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 79	Obligación de presentar la declaración recapitulativa.	3589	3639	1199	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 80	Contenido de la declaración recapitulativa.	3641	3689	1150	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 81	Lugar, forma y plazos de presentación de la declaración recapitulativa.	3691	3713	592	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 81 bis	Obligación de presentar la declaración relativa a los registros mantenidos por proveedores de servicios de pago, plazo, forma y modelo.	3719	3727	190	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 82	Obligaciones de los sujetos pasivos no establecidos.	3731	3751	558	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Artículo 83	Sujetos pasivos acogidos al régimen del recargo de equivalencia.	3755	3759	151	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición adicional primera	Revocación de renuncia a la estimación objetiva.	3761	3769	371	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición adicional segunda	Devoluciones a comerciantes minoristas en régimen especial del recargo de equivalencia, como consecuencia de la nueva regulación de los tipos reducidos del Impu	3771	3787	569	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición adicional tercera	Períodos de declaración.	3789	3791	85	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición adicional cuarta	Disposiciones que continúan en vigor.	3793	3809	358	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición adicional quinta	Procedimientos administrativos y judiciales de ejecución forzosa.	3811	3843	1262	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición adicional sexta	Obligación de gestión de determinadas tasas y precios, que constituyan contraprestación de operaciones realizadas por la Administración, sujetas al Impuesto sob	3845	3859	513	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición adicional séptima	Referencia normativa.	3861	3865	133	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición adicional octava	Recaudación en período ejecutivo de las cuotas del Impuesto sobre el Valor Añadido a la importación.	3867	3871	238	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición transitoria primera	Autorizaciones de declaraciones-liquidaciones conjuntas correspondientes a varios sujetos pasivos.	3873	3877	152	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición transitoria segunda	Entregas de bienes anteriores al año 1993.	3879	3881	83	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición transitoria tercera	Límites para la aplicación del régimen simplificado y el régimen especial de la agricultura, ganadería y pesca para el ejercicio 2017.	3883	3887	136	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición transitoria cuarta	Renuncia extraordinaria a la llevanza de los libros registro a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria y baja extraordi	3889	3903	297	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición transitoria quinta	Opción por llevar los libros registros a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria por los sujetos pasivos acogidos al ré	3905	3911	127	legislacao-es/real-decreto-1624-1992.md
+real-decreto-1624-1992	Disposición transitoria sexta	Procedimiento para la aplicación de la exención de las entregas de bienes en régimen de viajeros durante el ejercicio 2018.	3913	3917	135	legislacao-es/real-decreto-1624-1992.md

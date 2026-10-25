@@ -9,11 +9,12 @@
   procurar.py juris <CELEX>             acórdãos e conclusões que interpretam o acto (jurisprudencia/)
   procurar.py construir                 (re)constrói o índice de texto local (.cache/procurar.sqlite)
 
-<CELEX> pode ser também uma lei portuguesa pela chave (ex.: decreto-lei-24-2014), um acórdão
+<CELEX> pode ser também uma lei portuguesa pela chave (ex.: decreto-lei-24-2014), uma norma espanhola do
+BOE (ex.: real-decreto-1624-1992, em legislacao-es/), um acórdão
 (ex.: 62014CJ0362), uma comunicação da Comissão (ex.: 52022XC0629(04)) ou uma orientação do CEPD pelo
 nome do ficheiro (ex.: guidelines-052020-on-consent-under-regulation-2016679); nestes, as unidades são
 as partes do documento (ou blocos de ~300 linhas), não artigos.
-Opções comuns: --n N (resultados), --fonte ue|corpus|pt|juris|orientacoes (texto), --tipo regulamentos|diretivas|…
+Opções comuns: --n N (resultados), --fonte ue|corpus|pt|es|juris|orientacoes (texto), --tipo regulamentos|diretivas|…
 """
 
 import argparse
@@ -110,9 +111,9 @@ def _acto(celex):
 
 def unidades(chave, fonte=None):
     """Unidades (artigos/anexos) de um acto: do corpus curado se existir, senão de ue/; ou de uma
-    lei portuguesa (chave tipo-numero-ano)."""
+    lei portuguesa ou espanhola (chave tipo-numero-ano)."""
     if re.match(r"^[a-z]", chave):
-        grupos = ["legislacao-pt", "orientacoes-cepd"]
+        grupos = ["legislacao-pt", "legislacao-es", "orientacoes-cepd"]
     elif re.match(r"^6\d{4}[A-Z]{2}", chave):
         grupos = ["jurisprudencia"]
     elif re.match(r"^5\d{4}XC", chave):
@@ -160,6 +161,7 @@ def cmd_ler(chave, artigo, fonte=None):
     tipo, alvo = _alvo(artigo)
     for u in unidades(chave, fonte):
         nome = norm(u["unidade"]).replace(" ", "").replace(".o", "").replace("o-", "-")
+        nome = re.sub(r"^articulo", "artigo", nome)  # legislacao-es: «Artículo 71»
         nome = re.sub(r"^artigo(\d+)o?", r"artigo\1", nome)
         if nome == alvo or (tipo == "anexo" and nome == alvo) or (tipo == "outro" and alvo in nome):
             linhas = (RAIZ / u["ficheiro"]).read_text(encoding="utf-8").splitlines()
@@ -227,7 +229,7 @@ def cmd_construir():
     """)
     n = 0
     for f in sorted((IND / "artigos").rglob("*.tsv")):
-        fonte = {"corpus": "corpus", "legislacao-pt": "pt", "jurisprudencia": "juris",
+        fonte = {"corpus": "corpus", "legislacao-pt": "pt", "legislacao-es": "es", "jurisprudencia": "juris",
                  "orientacoes-comissao": "orientacoes", "orientacoes-cepd": "orientacoes"}.get(f.stem, "ue")
         cache = {}
         lote_m, lote_u = [], []
@@ -329,7 +331,7 @@ def main():
     ap.add_argument("comando", choices=["actos", "artigos", "ler", "texto", "pt", "juris", "construir"])
     ap.add_argument("args", nargs="*")
     ap.add_argument("--n", type=int, default=None)
-    ap.add_argument("--fonte", choices=["ue", "corpus", "pt", "juris", "orientacoes"])
+    ap.add_argument("--fonte", choices=["ue", "corpus", "pt", "es", "juris", "orientacoes"])
     ap.add_argument("--tipo")
     a = ap.parse_args()
     if a.comando == "actos":
