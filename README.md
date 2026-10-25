@@ -11,7 +11,7 @@ Advogados** e dados sobre **competências profissionais**. Tudo em texto simples
 pessoa) consiga encontrar, ler e citar a regra exacta gastando pouco.
 
 Vem das fontes oficiais: EUR-Lex/Cellar (Serviço das Publicações da UE), Diário da República
-Eletrónico, Portal das Finanças (AT), CEPD/EDPB, portal da Ordem dos Advogados e classificação europeia ESCO. Actualiza-se sozinho todas as
+Eletrónico, Portal das Finanças (AT), Boletín Oficial del Estado (BOE, só o IVA de Espanha), CEPD/EDPB, portal da Ordem dos Advogados e classificação europeia ESCO. Actualiza-se sozinho todas as
 segundas-feiras.
 
 ## Para que serve
@@ -103,6 +103,7 @@ Números de 2026-10-10 (contados nos ficheiros; actualizados pela actualização
 | [`jurisprudencia/`](jurisprudencia/INDICE.tsv) | Texto integral, em português, dos acórdãos, despachos e conclusões de advogados-gerais do Tribunal de Justiça citados no corpus curado (os que interpretam os 86 actos), com os actos que cada um interpreta. | 1 353 documentos (58 MB); 104 citados sem texto em português |
 | [`orientacoes/comissao/`](orientacoes/comissao/INDICE.tsv) | Comunicações da Comissão no JO C que explicam como aplicar as regras (orientações, guias como o Guia Azul dos produtos, enquadramentos, perguntas e respostas). Não são legislação. | 2 805 documentos (104 MB) |
 | [`orientacoes/cepd/`](orientacoes/cepd/INDICE.tsv) | Diretrizes, recomendações e declarações do Comité Europeu para a Proteção de Dados sobre o RGPD (ex.: consentimento, cookies, encarregado de proteção de dados). | 92 no índice: 65 em português, 16 só em inglês, 11 só com ligação |
+| [`legislacao-es/`](legislacao-es/INDICE.md) | Normas espanholas do IVA (Ley 37/1992, Reglamento del IVA e a Orden do modelo 303), consolidadas pelo Boletín Oficial del Estado, em espanhol. | 3 normas |
 | [`legislacao-pt/codigo-iva.md`](legislacao-pt/codigo-iva.md) | Código do IVA (taxas, isenções, faturação, listas I e II), compilação actualizada da Autoridade Tributária. | 123 artigos |
 | [`ordem-advogados/`](ordem-advogados/INDICE.md) | Regulação dos advogados em Portugal (portal.oa.pt): texto dos regulamentos e deliberações da Ordem; **índice** dos pareceres (sem o texto). | 60 regulamentos (59 com texto); 649 pareceres no índice |
 | [`competencias/`](competencias/12-competencias-juristas.md) | Competências profissionais (não é texto legal): profissões jurídicas e competências da classificação europeia ESCO; 12 competências para juristas com a fonte de cada uma. | 25 profissões; 866 ligações profissão–competência |
