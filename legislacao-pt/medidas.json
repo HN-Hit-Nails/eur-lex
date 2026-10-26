@@ -2794,6 +2794,20 @@
   "consolidada": null
  },
  {
+  "chave": "decreto-lei-398-1998",
+  "tipo": "Decreto-Lei",
+  "numero": "398/1998",
+  "data": "1998-12-17",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [],
+  "titulo": "Decreto-Lei n.º 398/98",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34438775"
+ },
+ {
   "chave": "decreto-lei-4-2015",
   "tipo": "Decreto-Lei",
   "numero": "4/2015",
@@ -2938,6 +2952,20 @@
   "titulo": "Decreto-Lei n.º 433/82",
   "detalhe": null,
   "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-34484875"
+ },
+ {
+  "chave": "decreto-lei-433-1999",
+  "tipo": "Decreto-Lei",
+  "numero": "433/1999",
+  "data": "1999-10-26",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [],
+  "titulo": "Decreto-Lei n.º 433/99",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34577575"
  },
  {
   "chave": "decreto-lei-441-1991",
@@ -4309,6 +4337,22 @@
   "titulo": "Lei n.º 16/2008",
   "detalhe": "https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532",
   "consolidada": null
+ },
+ {
+  "chave": "lei-16-2022",
+  "tipo": "Lei",
+  "numero": "16/2022",
+  "data": "2022-08-16",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [
+   "32018L1972"
+  ],
+  "titulo": "Lei n.º 16/2022",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-187527517"
  },
  {
   "chave": "lei-18-2016",
@@ -5774,21 +5818,5 @@
   "titulo": "Portaria n.º 57/2018",
   "detalhe": "https://diariodarepublica.pt/dr/detalhe/portaria/57-2018-114766031",
   "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-114946609"
- },
- {
-  "chave": "lei-16-2022",
-  "tipo": "Lei",
-  "numero": "16/2022",
-  "data": "2022-08-16",
-  "estado": "consolidado (DRE)",
-  "excluida": null,
-  "diretivas": [],
-  "celex_medidas": [],
-  "relacionado_com": [
-   "32018L1972"
-  ],
-  "titulo": "Lei n.º 16/2022",
-  "detalhe": "https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298",
-  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-187527517"
  }
 ]
