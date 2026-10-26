@@ -245,6 +245,7 @@ def _alteracao(t):
 
 
 ESTRUTURA = {"Livro", "Parte", "Título", "Capítulo", "Secção", "Subsecção", "Divisão", "Subdivisão"}
+FEMININOS = {"Parte", "Secção", "Subsecção", "Divisão", "Subdivisão"}
 
 
 def consolidada_md(dados):
@@ -261,6 +262,27 @@ def consolidada_md(dados):
         if prox > hoje:
             futuras.add(prox)
         pars = _texto_html(fv["Texto"])
+        # Revogação de um fragmento inteiro: o DRE devolve a versão com estado 4 e a descrição
+        # "Revogado pelo/a …", mas ainda com o texto antigo. Fica o título com "(revogado)" e a linha
+        # "> Revogado pelo/a …" diz por quem; o texto sai, salvo se uma nota condiciona a revogação.
+        # Se a revogação é futura, o texto vale até lá.
+        desde = (fv.get("DataEntradaVigor") or "")[:10]
+        if (fv.get("VersaoEstadoId") == 4
+                and (f.get("ConsolidacaoFragmento", {}).get("AssociacaoDescription") or "").startswith("Revogad")):
+            if desde > hoje:
+                futuras.add(desde)
+            else:
+                marca = "(revogada)" if tit.split(" ")[0] in FEMININOS else "(revogado)"
+                epi = f"{epi} {marca}" if epi else marca
+                if not tit.startswith("Artigo"):
+                    pars = []
+                elif f.get("Nota", {}).get("List"):
+                    # Uma nota no fragmento pode adiar ou condicionar os efeitos da revogação
+                    # (ex.: Lei n.º 16/2022, arts. 59.º a 65.º): o texto anterior fica, com o aviso.
+                    pars = ["[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; "
+                            "segue-se o texto anterior.]"] + pars
+                else:
+                    pars = ["[Revogado.]"]
         if tit == "Diploma":
             ls += pars
         elif tit.startswith("Artigo"):
