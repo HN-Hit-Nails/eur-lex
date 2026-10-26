@@ -4339,6 +4339,22 @@
   "consolidada": null
  },
  {
+  "chave": "lei-16-2022",
+  "tipo": "Lei",
+  "numero": "16/2022",
+  "data": "2022-08-16",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [
+   "32018L1972"
+  ],
+  "titulo": "Lei n.º 16/2022",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-187527517"
+ },
+ {
   "chave": "lei-18-2016",
   "tipo": "Lei",
   "numero": "18/2016",

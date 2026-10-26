@@ -2,7 +2,7 @@
 
 Diplomas que Portugal comunicou à Comissão Europeia como transpondo as diretivas do corpus (dados do Cellar), com o texto obtido no Diário da República Eletrónico. Gerado por `python3 ferramentas/dre.py tudo`.
 
-Estado: 123 original (DRE); 116 consolidado (DRE); 61 excluída; 19 revogado (texto não incluído).
+Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (texto não incluído).
 
 ## [31985L0374](../corpus/produtos-e-cosmeticos/) Responsabilidade por produtos defeituosos (antiga)
 
@@ -457,6 +457,7 @@ Estado: 123 original (DRE); 116 consolidado (DRE); 61 excluída; 19 revogado (te
 
 ## (sem diretiva — entrada manual)
 
+- [Lei n.º 16/2022](lei-16-2022.md) — consolidado (DRE), consolidado a 2026-01-14 — Aprova a Lei das Comunicações Eletrónicas, transpondo as Diretivas 98/84/CE, 2002/77/CE e (UE) 2018/1972, alterando as Leis n.os 41/2004, de 18 de agosto, e 99/2009, de 4 de setembro, e os Decretos-Le
 - [Lei n.º 58/2019](lei-58-2019.md) — original (DRE) — Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) 2016/679 do Parlamento e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tra
 - [Decreto-Lei n.º 28/2019](decreto-lei-28-2019.md) — consolidado (DRE), consolidado a 2025-03-27 — Procede à regulamentação das obrigações relativas ao processamento de faturas e outros documentos fiscalmente relevantes bem como das obrigações de conservação de livros, registos e respetivos documen
 - [Lei n.º 145/2015](lei-145-2015.md) — consolidado (DRE), consolidado a 2024-01-19 — Aprova o Estatuto da Ordem dos Advogados, em conformidade com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas prof
