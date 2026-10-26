@@ -5,7 +5,8 @@ dados abertos (https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/<
   python3 ferramentas/boe.py     escreve legislacao-es/<chave>.md e legislacao-es/INDICE.md
 
 Para uma empresa em Espanha, a regra aplicável é a lei espanhola (a Diretiva IVA só fixa os limites,
-por exemplo o art. 252.º: o prazo da declaração fixa-o cada Estado-Membro). Por agora, só o IVA.
+por exemplo o art. 252.º: o prazo da declaração fixa-o cada Estado-Membro). Por agora, o IVA e as
+leis gerais de que dependem os seus prazos (a Ley General Tributaria e a do procedimento administrativo).
 
 Texto em espanhol, sem tradução. Cada bloco do BOE traz as suas versões; usa-se a última já aplicável
 (`fecha_vigencia` até hoje) e as posteriores ficam anotadas. O texto consolidado do BOE não tem valor
@@ -33,6 +34,10 @@ NORMAS = {
                                        "vêm depois de `## Anexo`)."},
     "orden-eha-3786-2008": {"id": "BOE-A-2008-20953", "relacionado_com": ["32006L0112"],
                             "nota": "Aprova o modelo 303 (autoliquidação do IVA) e os seus prazos."},
+    "ley-58-2003": {"id": "BOE-A-2003-23186", "relacionado_com": [],
+                    "nota": "Ley General Tributaria (art. 7.º, n.º 2, e art. 97.º: o direito administrativo geral é supletivo)."},
+    "ley-39-2015": {"id": "BOE-A-2015-10565", "relacionado_com": [],
+                    "nota": "Procedimento administrativo comum (art. 30.º: cômputo dos prazos e o último dia inhábil)."},
 }
 _ultimo = [0.0]
 
@@ -86,7 +91,7 @@ def nota_visivel(bq, hoje):
 
 
 def md_bloco(bloco, versao, hoje):
-    tipo, titulo = bloco.get("tipo"), bloco.get("titulo") or ""
+    tipo, titulo = bloco.get("tipo"), re.sub(r"\s+", " ", bloco.get("titulo") or "").strip()  # o BOE às vezes usa \xa0
     out, cab = [], []
     for p in versao:
         cls = p.get("class") or ""
@@ -177,7 +182,7 @@ def main():
     linhas = ["# Legislação espanhola (BOE, consolidada)", "",
               "Normas espanholas obtidas do Boletín Oficial del Estado (texto consolidado, em espanhol). "
               "Gerado por `python3 ferramentas/boe.py`. Só o que já foi preciso: o IVA (lei, regulamento e "
-              "o modelo 303). Para outra norma, acrescenta-se a `NORMAS` em `ferramentas/boe.py`.", "",
+              "o modelo 303) e, para contar os prazos, a Ley General Tributaria e a Ley 39/2015. Para outra norma, acrescenta-se a `NORMAS` em `ferramentas/boe.py`.", "",
               "Consulta: `python3 ferramentas/procurar.py artigos real-decreto-1624-1992 plazo` e "
               "`python3 ferramentas/procurar.py ler real-decreto-1624-1992 71`.", ""]
     linhas += [f"- [{r['titulo'][:160]}]({r['chave']}.md) — consolidado até {r['actualizado']} — {r['nota']}"
