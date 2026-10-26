@@ -1,7 +1,7 @@
 ---
 celex: 32006L0054
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Diretiva 32006L0054 — Igualdade de género no emprego — contexto

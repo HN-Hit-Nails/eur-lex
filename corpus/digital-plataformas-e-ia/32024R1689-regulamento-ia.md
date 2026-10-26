@@ -21,7 +21,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024R1689
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02024R1689-20260727
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32024R1689 — Regulamento IA
@@ -33,6 +33,8 @@ obtido_em: '2026-10-12'
 > Aviso oficial dos textos consolidados: são um instrumento de documentação sem efeito jurídico. Fazem fé apenas os textos publicados no Jornal Oficial da União Europeia.
 
 **Considerandos (preâmbulo):** ficheiro `32024R1689-regulamento-ia.considerandos.md`.
+
+**Contexto** (sínteses oficiais, transposição em Portugal, jurisprudência do TJUE): ficheiro `32024R1689-regulamento-ia.contexto.md`.
 
 **EUR-Lex:** https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024R1689
 

@@ -381,13 +381,11 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32020R0213	Artigo 1.º		40	48	77	ue/regulamentos/2020/32020R0213.md
 32020R0213	Artigo 2.º		50	68	178	ue/regulamentos/2020/32020R0213.md
 32020R0213	ANEXO	«ANEXO IV	70	86	74	ue/regulamentos/2020/32020R0213.md
-32020R0217	Artigo 1.º	Alterações do Regulamento (CE) n.º 1272/2008	36	44	94	ue/regulamentos/2020/32020R0217.md
-32020R0217	Artigo 2.º	Retificação do Regulamento (CE) n.º 1272/2008	46	48	44	ue/regulamentos/2020/32020R0217.md
-32020R0217	Artigo 3.º	Entrada em vigor e aplicação	50	60	164	ue/regulamentos/2020/32020R0217.md
-32020R0217	ANEXO I		62	82	290	ue/regulamentos/2020/32020R0217.md
-32020R0217	ANEXO II		84	140	1431	ue/regulamentos/2020/32020R0217.md
-32020R0217	ANEXO III		142	208	2776	ue/regulamentos/2020/32020R0217.md
-32020R0217	ANEXO IV		210	217	305	ue/regulamentos/2020/32020R0217.md
+32020R0217	Artigo 1.º	Alterações do Regulamento (CE) n.º 1272/2008	28	36	94	ue/regulamentos/2020/32020R0217.md
+32020R0217	Artigo 2.º	Retificação do Regulamento (CE) n.º 1272/2008	38	40	44	ue/regulamentos/2020/32020R0217.md
+32020R0217	Artigo 3.º	Entrada em vigor e aplicação	42	56	167	ue/regulamentos/2020/32020R0217.md
+32020R0217	ANEXO III		58	123	2655	ue/regulamentos/2020/32020R0217.md
+32020R0217	ANEXO IV		125	132	305	ue/regulamentos/2020/32020R0217.md
 32020R0218	Preâmbulo		18	34	248	ue/regulamentos/2020/32020R0218.md
 32020R0218	Artigo 1.º		38	40	31	ue/regulamentos/2020/32020R0218.md
 32020R0218	Artigo 2.º		42	56	95	ue/regulamentos/2020/32020R0218.md
@@ -1463,99 +1461,99 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32020R0688	ANEXO VII	Requisitos de validade da vacinação antirrábica e medidas de mitigação dos riscos de outras doenças que não a raiva	2781	2839	1134	ue/regulamentos/2020/32020R0688.md
 32020R0688	ANEXO VIII		2841	2951	1359	ue/regulamentos/2020/32020R0688.md
 32020R0688	ANEXO IX		2953	3011	1231	ue/regulamentos/2020/32020R0688.md
-32020R0689	Artigo 1.º	Objeto e âmbito de aplicação	32	74	752	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 2.º	Definições	76	144	1622	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 3.º	Conceção da vigilância	152	208	771	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 4.º	População animal visada	210	234	474	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 5.º	Exclusão de determinados animais terrestres detidos da população animal visada	236	246	206	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 6.º	Métodos de diagnóstico	248	290	754	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 7.º	Contribuição dos controlos oficiais e de outras atividades oficiais para a vigilância da saúde animal	292	312	338	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 8.º	Critérios para a confirmação oficial de doenças listadas, com exceção das doenças de categoria A, e de determinadas doenças emergentes e subsequente confirmação	316	330	292	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 9.º	Definição de casos	332	352	501	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 10.º	Critérios e conteúdo dos programas de vigilância da União	356	368	294	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 11.º	Informações a incluir quando da apresentação de programas de vigilância da União e de relatórios sobre esses programas	370	392	417	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 12.º	Estratégia de controlo de doenças para a erradicação de doenças de categoria B e de categoria C dos animais terrestres	398	416	402	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 13.º	Âmbito territorial e populações animais	418	436	231	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 14.º	Metas finais e intermédias	438	446	204	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 15.º	Período de aplicação	448	452	161	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 16.º	Estratégia de controlo de doenças baseada no estatuto de indemnidade de doença a nível do estabelecimento	456	480	269	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 17.º	Populações animais visadas e adicionais para os programas de erradicação para determinadas doenças	482	500	229	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 18.º	Obrigações dos operadores relativamente aos programas de erradicação para determinadas doenças	502	532	505	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 19.º	Derrogação no que diz respeito à concessão do estatuto de indemnidade de doença aos estabelecimentos	534	544	195	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 20.º	Obrigação da autoridade competente de conceder, suspender e retirar o estatuto de indemnidade de doença	546	576	579	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 21.º	Medidas de controlo de doenças em caso de suspeita de determinadas doenças	578	594	318	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 22.º	Extensão das medidas de controlo de doenças em caso de suspeita de determinadas doenças	596	604	162	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 23.º	Derrogações das medidas de controlo de doenças em caso de suspeita de determinadas doenças	606	630	654	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 24.º	Confirmação oficial de determinadas doenças e medidas de controlo de doenças	632	646	298	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 25.º	Inquérito epidemiológico e investigações em caso de confirmação de determinadas doenças	648	664	288	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 26.º	Circulação de animais para ou a partir de estabelecimentos infetados	666	680	263	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 27.º	Realização de testes aos animais e retirada de animais dos estabelecimentos infetados	682	724	628	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 28.º	Gestão de produtos provenientes de estabelecimentos infetados	726	738	394	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 29.º	Derrogações da restrição de circulação de animais a partir de estabelecimentos infetados	740	766	631	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 30.º	Limpeza e desinfeção e outras medidas destinadas a impedir a propagação da infeção	768	786	447	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 31.º	Medidas de mitigação dos riscos para impedir a reinfeção	788	794	150	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 32.º	Estratégia de controlo de doenças dos programas de erradicação para a infeção pelo VRAI	798	818	338	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 33.º	População animal visada para os programas de erradicação para a infeção pelo VRAI	820	828	231	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 34.º	Obrigações da autoridade competente no contexto dos programas de erradicação para a infeção pelo VRAI	830	852	413	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 35.º	Medidas de controlo da doença em caso de suspeita de infeção pelo VRAI	854	862	158	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 36.º	Medidas de controlo da doença em caso de confirmação de infeção pelo VRAI	864	878	280	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 37.º	Estratégia de controlo de doenças dos programas de erradicação para a infeção pelo VFCO	882	916	478	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 38.º	Populações animais visadas e adicionais para os programas de erradicação para a infeção pelo VFCO	918	922	160	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 39.º	Obrigações dos operadores no contexto dos programas de erradicação para a infeção pelo VFCO	924	946	444	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 40.º	Obrigações da autoridade competente no contexto dos programas de erradicação para a infeção pelo VFCO	948	972	494	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 41.º	Medidas de controlo da doença em caso de suspeita de infeção pelo VFCO	974	986	292	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 42.º	Medidas de controlo da doença em caso de confirmação de infeção pelo VFCO	988	1010	482	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 43.º	Circulação de animais detidos e de produtos germinais da população animal visada para Estados-Membros ou zonas abrangidos por programas de erradicação para a in	1012	1046	802	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 44.º	Estabelecimento protegido de vetores	1048	1054	179	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 45.º	Circulação de animais através de Estados-Membros ou zonas abrangidos por programas de erradicação para a infeção pelo VFCO	1056	1064	297	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 46.º	Estratégia de controlo de doenças para a erradicação de doenças de categoria B e de categoria C dos animais aquáticos	1070	1084	382	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 47.º	Âmbito territorial e população animal	1086	1104	244	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 48.º	Metas finais e intermédias	1106	1116	290	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 49.º	Período de aplicação	1118	1134	249	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 50.º	Requisitos mínimos aplicáveis aos programas de erradicação	1138	1148	211	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 51.º	População animal a incluir nos programas de erradicação de doenças de categoria B e categoria C	1150	1160	270	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 52.º	Medidas a tomar nos Estados-Membros, zonas ou compartimentos abrangidos por programas de erradicação	1162	1184	394	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 53.º	Derrogação da classificação do estatuto sanitário dos estabelecimentos confinados	1186	1188	116	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 54.º	Vacinação	1190	1198	78	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 55.º	Medidas de controlo de doenças em caso de suspeita de determinadas doenças	1200	1214	320	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 56.º	Extensão das medidas de controlo de doenças em caso de suspeita de determinadas doenças	1216	1224	176	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 57.º	Derrogação das medidas de controlo de doenças em caso de suspeita de doença	1226	1250	624	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 58.º	Confirmação oficial de determinadas doenças e medidas de controlo de doenças	1252	1298	618	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 59.º	Inquérito epidemiológico e investigações em caso de confirmação de determinadas doenças	1300	1316	276	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 60.º	Circulação para ou a partir de um estabelecimento infetado e qualquer outro estabelecimento situado na zona submetida a restrições	1318	1330	361	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 61.º	Derrogações da restrição de circulação de animais e produtos de origem animal a partir de estabelecimentos infetados	1332	1376	1092	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 62.º	Retirada dos animais infetados	1378	1402	578	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 63.º	Limpeza e desinfeção	1404	1420	326	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 64.º	Vazio sanitário	1422	1452	491	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 65.º	Medidas de mitigação dos riscos para impedir a reinfeção	1454	1460	149	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 66.º	Critérios para a concessão do estatuto de indemnidade de doença	1466	1494	468	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 67.º	Estatuto de indemnidade de doença com base na ausência de espécies listadas	1496	1508	285	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 68.º	Estatuto de indemnidade de doença com base na incapacidade de sobrevivência do agente da doença	1510	1526	306	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 69.º	Estatuto de indemnidade de doença dos animais terrestres com base na incapacidade de sobrevivência de vetores listados para doenças listadas de animais terrestr	1528	1552	484	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 70.º	Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância	1554	1580	556	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 71.º	Estatuto de indemnidade de doença com base em programas de erradicação	1582	1590	230	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 72.º	Requisitos específicos de cada doença para a concessão do estatuto de indemnidade de doença	1592	1634	632	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 73.º	Critérios para a concessão do estatuto de indemnidade de doença aos compartimentos que mantêm animais de aquicultura	1638	1694	929	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 74.º	Estatuto de indemnidade de doença com base na ausência de espécies listadas	1696	1708	280	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 75.º	Estatuto de indemnidade de doença com base na incapacidade de sobrevivência do agente da doença	1710	1726	312	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 76.º	Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância	1728	1748	328	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 77.º	Estatuto de indemnidade de doença com base em programas de erradicação	1750	1758	230	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 78.º	Requisitos específicos de cada doença para a concessão do estatuto de indemnidade de doença	1760	1776	272	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 79.º	Requisitos específicos aplicáveis aos compartimentos que são independentes do estatuto sanitário das águas naturais circundantes	1778	1800	524	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 80.º	Disposições especiais aplicáveis aos compartimentos que incluem estabelecimentos individuais que iniciam ou reiniciam atividades de aquicultura e em que o estat	1802	1822	540	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 81.º	Critérios específicos em matéria de vigilância e de medidas de bioproteção para a manutenção do estatuto de indemnidade de doença	1826	1880	986	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 82.º	Suspensão, retirada e restabelecimento do estatuto de indemnidade de doença	1882	1902	456	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 83.º	Derrogações da aprovação pela Comissão para determinados estatutos de indemnidade de doença e determinados programas de erradicação relativos a doenças dos anim	1908	1926	664	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 84.º	Disposições transitórias respeitantes aos estatutos de indemnidade de doença existentes	1930	1986	1109	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 85.º	Disposições transitórias relativas aos programas de erradicação ou vigilância existentes	1988	2022	835	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 86.º	Revogação	2024	2048	110	ue/regulamentos/2020/32020R0689.md
-32020R0689	Artigo 87.º	Entrada em vigor e aplicação	2050	2056	89	ue/regulamentos/2020/32020R0689.md
-32020R0689	ANEXO I		2058	2116	1260	ue/regulamentos/2020/32020R0689.md
-32020R0689	ANEXO II		2118	2352	3165	ue/regulamentos/2020/32020R0689.md
-32020R0689	ANEXO III		2354	2468	1380	ue/regulamentos/2020/32020R0689.md
-32020R0689	ANEXO IV		2470	3578	20408	ue/regulamentos/2020/32020R0689.md
-32020R0689	ANEXO V		3580	4112	9316	ue/regulamentos/2020/32020R0689.md
-32020R0689	ANEXO VI		4114	5540	32734	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 1.º	Objeto e âmbito de aplicação	35	77	752	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 2.º	Definições	79	147	1622	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 3.º	Conceção da vigilância	155	211	771	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 4.º	População animal visada	213	237	474	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 5.º	Exclusão de determinados animais terrestres detidos da população animal visada	239	249	206	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 6.º	Métodos de diagnóstico	251	293	754	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 7.º	Contribuição dos controlos oficiais e de outras atividades oficiais para a vigilância da saúde animal	295	315	338	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 8.º	Critérios para a confirmação oficial de doenças listadas, com exceção das doenças de categoria A, e de determinadas doenças emergentes e subsequente confirmação	319	333	292	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 9.º	Definição de casos	335	355	501	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 10.º	Critérios e conteúdo dos programas de vigilância da União	359	371	294	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 11.º	Informações a incluir quando da apresentação de programas de vigilância da União e de relatórios sobre esses programas	373	395	417	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 12.º	Estratégia de controlo de doenças para a erradicação de doenças de categoria B e de categoria C dos animais terrestres	401	419	402	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 13.º	Âmbito territorial e populações animais	421	439	231	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 14.º	Metas finais e intermédias	441	449	204	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 15.º	Período de aplicação	451	455	161	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 16.º	Estratégia de controlo de doenças baseada no estatuto de indemnidade de doença a nível do estabelecimento	459	483	269	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 17.º	Populações animais visadas e adicionais para os programas de erradicação para determinadas doenças	485	503	229	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 18.º	Obrigações dos operadores relativamente aos programas de erradicação para determinadas doenças	505	535	505	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 19.º	Derrogação no que diz respeito à concessão do estatuto de indemnidade de doença aos estabelecimentos	537	547	195	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 20.º	Obrigação da autoridade competente de conceder, suspender e retirar o estatuto de indemnidade de doença	549	579	579	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 21.º	Medidas de controlo de doenças em caso de suspeita de determinadas doenças	581	597	318	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 22.º	Extensão das medidas de controlo de doenças em caso de suspeita de determinadas doenças	599	607	162	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 23.º	Derrogações das medidas de controlo de doenças em caso de suspeita de determinadas doenças	609	633	654	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 24.º	Confirmação oficial de determinadas doenças e medidas de controlo de doenças	635	649	298	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 25.º	Inquérito epidemiológico e investigações em caso de confirmação de determinadas doenças	651	667	288	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 26.º	Circulação de animais para ou a partir de estabelecimentos infetados	669	683	263	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 27.º	Realização de testes aos animais e retirada de animais dos estabelecimentos infetados	685	727	628	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 28.º	Gestão de produtos provenientes de estabelecimentos infetados	729	741	394	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 29.º	Derrogações da restrição de circulação de animais a partir de estabelecimentos infetados	743	769	631	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 30.º	Limpeza e desinfeção e outras medidas destinadas a impedir a propagação da infeção	771	789	447	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 31.º	Medidas de mitigação dos riscos para impedir a reinfeção	791	797	150	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 32.º	Estratégia de controlo de doenças dos programas de erradicação para a infeção pelo VRAI	801	821	338	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 33.º	População animal visada para os programas de erradicação para a infeção pelo VRAI	823	831	231	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 34.º	Obrigações da autoridade competente no contexto dos programas de erradicação para a infeção pelo VRAI	833	855	413	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 35.º	Medidas de controlo da doença em caso de suspeita de infeção pelo VRAI	857	865	158	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 36.º	Medidas de controlo da doença em caso de confirmação de infeção pelo VRAI	867	881	280	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 37.º	Estratégia de controlo de doenças dos programas de erradicação para a infeção pelo VFCO	885	919	478	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 38.º	Populações animais visadas e adicionais para os programas de erradicação para a infeção pelo VFCO	921	925	160	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 39.º	Obrigações dos operadores no contexto dos programas de erradicação para a infeção pelo VFCO	927	949	444	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 40.º	Obrigações da autoridade competente no contexto dos programas de erradicação para a infeção pelo VFCO	951	975	494	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 41.º	Medidas de controlo da doença em caso de suspeita de infeção pelo VFCO	977	989	292	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 42.º	Medidas de controlo da doença em caso de confirmação de infeção pelo VFCO	991	1013	482	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 43.º	Circulação de animais detidos e de produtos germinais da população animal visada para Estados-Membros ou zonas abrangidos por programas de erradicação para a in	1015	1049	802	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 44.º	Estabelecimento protegido de vetores	1051	1057	179	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 45.º	Circulação de animais através de Estados-Membros ou zonas abrangidos por programas de erradicação para a infeção pelo VFCO	1059	1067	297	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 46.º	Estratégia de controlo de doenças para a erradicação de doenças de categoria B e de categoria C dos animais aquáticos	1073	1087	382	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 47.º	Âmbito territorial e população animal	1089	1107	244	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 48.º	Metas finais e intermédias	1109	1119	290	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 49.º	Período de aplicação	1121	1137	249	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 50.º	Requisitos mínimos aplicáveis aos programas de erradicação	1141	1151	211	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 51.º	População animal a incluir nos programas de erradicação de doenças de categoria B e categoria C	1153	1163	270	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 52.º	Medidas a tomar nos Estados-Membros, zonas ou compartimentos abrangidos por programas de erradicação	1165	1187	394	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 53.º	Derrogação da classificação do estatuto sanitário dos estabelecimentos confinados	1189	1191	116	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 54.º	Vacinação	1193	1201	78	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 55.º	Medidas de controlo de doenças em caso de suspeita de determinadas doenças	1203	1217	320	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 56.º	Extensão das medidas de controlo de doenças em caso de suspeita de determinadas doenças	1219	1227	176	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 57.º	Derrogação das medidas de controlo de doenças em caso de suspeita de doença	1229	1253	624	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 58.º	Confirmação oficial de determinadas doenças e medidas de controlo de doenças	1255	1301	618	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 59.º	Inquérito epidemiológico e investigações em caso de confirmação de determinadas doenças	1303	1319	276	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 60.º	Circulação para ou a partir de um estabelecimento infetado e qualquer outro estabelecimento situado na zona submetida a restrições	1321	1333	361	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 61.º	Derrogações da restrição de circulação de animais e produtos de origem animal a partir de estabelecimentos infetados	1335	1379	1092	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 62.º	Retirada dos animais infetados	1381	1405	578	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 63.º	Limpeza e desinfeção	1407	1423	326	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 64.º	Vazio sanitário	1425	1455	491	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 65.º	Medidas de mitigação dos riscos para impedir a reinfeção	1457	1463	149	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 66.º	Critérios para a concessão do estatuto de indemnidade de doença	1469	1497	468	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 67.º	Estatuto de indemnidade de doença com base na ausência de espécies listadas	1499	1511	285	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 68.º	Estatuto de indemnidade de doença com base na incapacidade de sobrevivência do agente da doença	1513	1529	306	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 69.º	Estatuto de indemnidade de doença dos animais terrestres com base na incapacidade de sobrevivência de vetores listados para doenças listadas de animais terrestr	1531	1555	484	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 70.º	Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância	1557	1583	556	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 71.º	Estatuto de indemnidade de doença com base em programas de erradicação	1585	1593	230	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 72.º	Requisitos específicos de cada doença para a concessão do estatuto de indemnidade de doença	1595	1637	632	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 73.º	Critérios para a concessão do estatuto de indemnidade de doença aos compartimentos que mantêm animais de aquicultura	1641	1697	929	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 74.º	Estatuto de indemnidade de doença com base na ausência de espécies listadas	1699	1711	280	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 75.º	Estatuto de indemnidade de doença com base na incapacidade de sobrevivência do agente da doença	1713	1729	312	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 76.º	Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância	1731	1751	328	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 77.º	Estatuto de indemnidade de doença com base em programas de erradicação	1753	1761	230	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 78.º	Requisitos específicos de cada doença para a concessão do estatuto de indemnidade de doença	1763	1779	272	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 79.º	Requisitos específicos aplicáveis aos compartimentos que são independentes do estatuto sanitário das águas naturais circundantes	1781	1803	524	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 80.º	Disposições especiais aplicáveis aos compartimentos que incluem estabelecimentos individuais que iniciam ou reiniciam atividades de aquicultura e em que o estat	1805	1825	540	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 81.º	Critérios específicos em matéria de vigilância e de medidas de bioproteção para a manutenção do estatuto de indemnidade de doença	1829	1883	986	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 82.º	Suspensão, retirada e restabelecimento do estatuto de indemnidade de doença	1885	1905	456	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 83.º	Derrogações da aprovação pela Comissão para determinados estatutos de indemnidade de doença e determinados programas de erradicação relativos a doenças dos anim	1911	1929	664	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 84.º	Disposições transitórias respeitantes aos estatutos de indemnidade de doença existentes	1933	1989	1109	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 85.º	Disposições transitórias relativas aos programas de erradicação ou vigilância existentes	1991	2025	835	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 86.º	Revogação	2027	2051	110	ue/regulamentos/2020/32020R0689.md
+32020R0689	Artigo 87.º	Entrada em vigor e aplicação	2053	2059	89	ue/regulamentos/2020/32020R0689.md
+32020R0689	ANEXO I		2061	2119	1260	ue/regulamentos/2020/32020R0689.md
+32020R0689	ANEXO II		2121	2355	3165	ue/regulamentos/2020/32020R0689.md
+32020R0689	ANEXO III		2357	2471	1380	ue/regulamentos/2020/32020R0689.md
+32020R0689	ANEXO IV		2473	3581	20408	ue/regulamentos/2020/32020R0689.md
+32020R0689	ANEXO V		3583	4115	9316	ue/regulamentos/2020/32020R0689.md
+32020R0689	ANEXO VI		4117	5543	32734	ue/regulamentos/2020/32020R0689.md
 32020R0690	Artigo 1.º		28	30	61	ue/regulamentos/2020/32020R0690.md
 32020R0690	Artigo 2.º		32	34	62	ue/regulamentos/2020/32020R0690.md
 32020R0690	Artigo 3.º		36	42	81	ue/regulamentos/2020/32020R0690.md
@@ -2737,14 +2735,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32020R1079	Artigo 4.º	Notificação de constatações	76	84	314	ue/regulamentos/2020/32020R1079.md
 32020R1079	Artigo 5.º	Correção de dados	86	98	357	ue/regulamentos/2020/32020R1079.md
 32020R1079	Artigo 6.º	Entrada em vigor	100	118	314	ue/regulamentos/2020/32020R1079.md
-32020R1080	Artigo 1.º		34	58	646	ue/regulamentos/2020/32020R1080.md
-32020R1080	Artigo 2.º		60	68	252	ue/regulamentos/2020/32020R1080.md
-32020R1080	Artigo 3.º		70	74	62	ue/regulamentos/2020/32020R1080.md
-32020R1080	ANEXO 1		76	84	152	ue/regulamentos/2020/32020R1080.md
-32020R1081	Artigo 1.º		34	51	556	ue/regulamentos/2020/32020R1081.md
-32020R1081	Artigo 2.º		53	57	62	ue/regulamentos/2020/32020R1081.md
-32020R1081	ANEXO 1		59	67	79	ue/regulamentos/2020/32020R1081.md
-32020R1081	ANEXO 2		69	77	151	ue/regulamentos/2020/32020R1081.md
 32020R1082	Preâmbulo		18	36	279	ue/regulamentos/2020/32020R1082.md
 32020R1082	Artigo 1.º		40	42	31	ue/regulamentos/2020/32020R1082.md
 32020R1082	Artigo 2.º		44	60	118	ue/regulamentos/2020/32020R1082.md
@@ -3882,10 +3872,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32020R1511	Artigo 1.º		54	56	33	ue/regulamentos/2020/32020R1511.md
 32020R1511	Artigo 2.º		58	80	504	ue/regulamentos/2020/32020R1511.md
 32020R1511	ANEXO		82	138	869	ue/regulamentos/2020/32020R1511.md
-32020R1524	Preâmbulo		18	312	11672	ue/regulamentos/2020/32020R1524.md
-32020R1524	Artigo 1.º		316	322	264	ue/regulamentos/2020/32020R1524.md
-32020R1524	Artigo 2.º		324	326	70	ue/regulamentos/2020/32020R1524.md
-32020R1524	Artigo 3.º		328	364	679	ue/regulamentos/2020/32020R1524.md
 32020R1527	Preâmbulo		18	32	211	ue/regulamentos/2020/32020R1527.md
 32020R1527	Artigo 1.º		36	40	74	ue/regulamentos/2020/32020R1527.md
 32020R1527	Artigo 2.º		42	62	191	ue/regulamentos/2020/32020R1527.md
@@ -3901,11 +3887,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32020R1533	Preâmbulo		18	32	206	ue/regulamentos/2020/32020R1533.md
 32020R1533	Artigo 1.º		36	40	76	ue/regulamentos/2020/32020R1533.md
 32020R1533	Artigo 2.º		42	62	191	ue/regulamentos/2020/32020R1533.md
-32020R1534	Artigo 1.º		34	49	529	ue/regulamentos/2020/32020R1534.md
-32020R1534	Artigo 2.º		51	55	150	ue/regulamentos/2020/32020R1534.md
-32020R1534	Artigo 3.º		57	65	233	ue/regulamentos/2020/32020R1534.md
-32020R1534	Artigo 4.º		67	71	62	ue/regulamentos/2020/32020R1534.md
-32020R1534	ANEXO		73	109	323	ue/regulamentos/2020/32020R1534.md
 32020R1536	Preâmbulo		22	42	444	ue/regulamentos/2020/32020R1536.md
 32020R1536	Artigo 1.º		46	48	29	ue/regulamentos/2020/32020R1536.md
 32020R1536	Artigo 2.º		50	64	89	ue/regulamentos/2020/32020R1536.md

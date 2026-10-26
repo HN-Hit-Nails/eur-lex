@@ -1,7 +1,7 @@
 ---
 celex: 31985L0374
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Diretiva 31985L0374 — Responsabilidade por produtos defeituosos (antiga) — contexto

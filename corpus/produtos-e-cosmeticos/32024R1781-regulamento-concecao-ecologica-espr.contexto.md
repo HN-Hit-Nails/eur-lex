@@ -1,7 +1,7 @@
 ---
 celex: 32024R1781
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32024R1781 — Regulamento Conceção Ecológica (ESPR) — contexto

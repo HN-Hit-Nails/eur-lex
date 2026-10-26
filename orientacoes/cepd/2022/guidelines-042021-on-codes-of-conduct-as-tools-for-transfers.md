@@ -7,7 +7,7 @@ data: '2022-02-22'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-042021-on-codes-of-conduct-as-tools-for-transfers_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-10/edpb_guidelines_codes_conduct_transfers_after_public_consultation_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

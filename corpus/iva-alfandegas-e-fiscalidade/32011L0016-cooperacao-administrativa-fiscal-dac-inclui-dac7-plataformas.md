@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32011L0016
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02011L0016-20260101
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Diretiva 32011L0016 — Cooperação administrativa fiscal (DAC, inclui DAC7 plataformas)

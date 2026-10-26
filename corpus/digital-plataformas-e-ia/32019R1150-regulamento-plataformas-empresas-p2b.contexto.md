@@ -1,7 +1,7 @@
 ---
 celex: 32019R1150
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32019R1150 — Regulamento Plataformas-Empresas (P2B) — contexto

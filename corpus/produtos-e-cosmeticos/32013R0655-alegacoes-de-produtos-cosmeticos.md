@@ -14,7 +14,7 @@ repertorio:
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32013R0655
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32013R0655 — Alegações de produtos cosméticos

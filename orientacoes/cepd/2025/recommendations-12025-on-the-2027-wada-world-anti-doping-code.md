@@ -7,7 +7,7 @@ data: '2025-02-13'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/recommendation/recommendations-12025-on-the-2027-wada-world-anti-doping-code_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2025-08/edpb_recommendations_202501_wada_2027_world_anti-doping_code_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

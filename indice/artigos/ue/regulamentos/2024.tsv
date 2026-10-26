@@ -1992,26 +1992,25 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32024R1027	Artigo 1.º		52	54	32	ue/regulamentos/2024/32024R1027.md
 32024R1027	Artigo 2.º		56	76	400	ue/regulamentos/2024/32024R1027.md
 32024R1027	ANEXO		78	84	185	ue/regulamentos/2024/32024R1027.md
-32024R1028	Preâmbulo		18	110	11492	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 1.º	Objeto	116	118	112	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 2.º	Âmbito de aplicação	120	152	544	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 3.º	Definições	154	186	912	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 4.º	Procedimentos de registo	190	218	647	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 5.º	Informações a apresentar pelos anfitriões	220	270	1109	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 6.º	Verificação pelas autoridades competentes	272	300	1331	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 7.º	Conformidade desde a conceção	302	314	579	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 8.º	Outras obrigações das plataformas digitais de arrendamento de curta duração	316	318	206	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 9.º	Obrigação de as plataformas em linha de arrendamento de curta duração transmitirem os dados de atividade e os números de registo	322	328	373	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 10.º	Criação e funcionalidades dos pontos de entrada digitais únicos	330	356	862	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 11.º	Coordenação dos pontos de entrada digitais únicos	358	372	522	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 12.º	Acesso aos dados	374	392	708	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 13.º	Obrigações de informação	396	406	204	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 14.º	Acompanhamento	408	410	71	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 15.º	Execução	412	420	338	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 16.º	Comité	424	428	59	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 17.º	Alteração do Regulamento (UE) 2018/1724	430	449	309	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 18.º	Avaliação e reexame	451	467	490	ue/regulamentos/2024/32024R1028.md
-32024R1028	Artigo 19.º	Entrada em vigor e aplicação	469	539	1573	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 1.º		30	32	112	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 2.º		34	68	545	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 3.º		70	104	912	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 4.º		108	138	646	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 5.º		140	192	1109	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 6.º		194	224	1331	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 7.º		226	240	578	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 8.º		242	246	206	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 9.º		250	258	372	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 10.º		260	288	863	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 11.º		290	306	522	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 12.º		308	328	708	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 13.º		332	344	204	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 14.º		346	350	71	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 15.º		352	362	338	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 16.º		366	372	58	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 17.º		374	392	222	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 18.º		394	412	490	ue/regulamentos/2024/32024R1028.md
+32024R1028	Artigo 19.º		414	440	734	ue/regulamentos/2024/32024R1028.md
 32024R1030	Preâmbulo		18	38	536	ue/regulamentos/2024/32024R1030.md
 32024R1030	Artigo 1.º	Alterações do Regulamento (CE) n.º 748/2009	42	44	43	ue/regulamentos/2024/32024R1030.md
 32024R1030	Artigo 2.º	Entrada em vigor	46	64	222	ue/regulamentos/2024/32024R1030.md
@@ -3895,10 +3894,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32024R1475	Artigo 1.º-A		54	66	410	ue/regulamentos/2024/32024R1475.md
 32024R1475	Artigo 2.º		68	72	62	ue/regulamentos/2024/32024R1475.md
 32024R1475	ANEXO	PRODUTORES-EXPORTADORES DA RPC COLABORANTES, NÃO INCLUÍDOS NA AMOSTRA NO INQUÉRITO INICIAL	74	108	566	ue/regulamentos/2024/32024R1475.md
-32024R1481	Preâmbulo		18	44	794	ue/regulamentos/2024/32024R1481.md
-32024R1481	Artigo 1.º		48	52	99	ue/regulamentos/2024/32024R1481.md
-32024R1481	Artigo 2.º		54	76	411	ue/regulamentos/2024/32024R1481.md
-32024R1481	ANEXO		78	492	6991	ue/regulamentos/2024/32024R1481.md
 32024R1485	Artigo 1.º		45	97	1304	ue/regulamentos/2024/32024R1485.md
 32024R1485	Artigo 2.º		99	119	805	ue/regulamentos/2024/32024R1485.md
 32024R1485	Artigo 3.º		121	139	612	ue/regulamentos/2024/32024R1485.md
@@ -6439,21 +6434,20 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32024R2213	Artigo 1.º	Alterações do Regulamento de Execução (UE) 2021/404	54	56	49	ue/regulamentos/2024/32024R2213.md
 32024R2213	Artigo 2.º	Entrada em vigor e aplicabilidade	58	76	334	ue/regulamentos/2024/32024R2213.md
 32024R2213	ANEXO		78	98	308	ue/regulamentos/2024/32024R2213.md
-32024R2215	Preâmbulo		22	46	644	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 1.º	Objeto	50	62	164	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 2.º	Âmbito de aplicação	64	78	453	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 3.º	Certificados de pessoas singulares	80	110	1037	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 4.º	Certificação de pessoas singulares	112	124	354	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 5.º	Certificação de pessoas coletivas	126	128	42	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 6.º	Certificados de pessoas coletivas	130	144	267	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 7.º	Organismo de certificação	146	154	212	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 8.º	Organismo de avaliação	156	164	328	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 9.º	Condições de reconhecimento mútuo	166	172	222	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 10.º	Certificados, cursos de atualização ou processos de avaliação existentes	174	182	445	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 11.º		184	188	62	ue/regulamentos/2024/32024R2215.md
-32024R2215	Artigo 12.º		190	208	368	ue/regulamentos/2024/32024R2215.md
-32024R2215	ANEXO I	Requisitos mínimos relativos às habilitações e conhecimentos a avaliar pelos organismos de avaliação	210	380	7504	ue/regulamentos/2024/32024R2215.md
-32024R2215	ANEXO II		382	402	130	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 1.º	Objeto	24	36	164	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 2.º	Âmbito de aplicação	38	52	453	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 3.º	Certificados de pessoas singulares	54	84	1038	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 4.º	Certificação de pessoas singulares	86	98	354	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 5.º	Certificação de pessoas coletivas	100	102	42	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 6.º	Certificados de pessoas coletivas	104	118	267	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 7.º	Organismo de certificação	120	128	212	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 8.º	Organismo de avaliação	130	138	328	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 9.º	Condições de reconhecimento mútuo	140	146	222	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 10.º	Certificados, cursos de atualização ou processos de avaliação existentes	148	156	445	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 11.º		158	162	62	ue/regulamentos/2024/32024R2215.md
+32024R2215	Artigo 12.º		164	168	64	ue/regulamentos/2024/32024R2215.md
+32024R2215	ANEXO I	Requisitos mínimos relativos às habilitações e conhecimentos a avaliar pelos organismos de avaliação	170	337	7503	ue/regulamentos/2024/32024R2215.md
+32024R2215	ANEXO II		339	361	188	ue/regulamentos/2024/32024R2215.md
 32024R2216	Preâmbulo		18	42	588	ue/regulamentos/2024/32024R2216.md
 32024R2216	Artigo 1.º	Retificação do Regulamento de Execução (UE) 2021/2248	46	50	141	ue/regulamentos/2024/32024R2216.md
 32024R2216	Artigo 2.º	Alterações do Regulamento de Execução (UE) 2021/2248	52	63	223	ue/regulamentos/2024/32024R2216.md
@@ -7355,34 +7349,34 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32024R2640	Artigo 2.º		100	102	60	ue/regulamentos/2024/32024R2640.md
 32024R2640	Artigo 3.º		104	134	608	ue/regulamentos/2024/32024R2640.md
 32024R2640	ANEXO		136	530	8388	ue/regulamentos/2024/32024R2640.md
-32024R2642	Artigo 1.º		44	88	878	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 1.º-A		90	110	620	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 1.º-B		112	126	432	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 1.º-C		128	136	232	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 2.º		138	170	819	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 3.º		172	190	638	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 4.º		192	216	694	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 5.º		218	230	320	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 6.º		232	240	260	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 7.º		242	252	274	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 8.º		254	268	702	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 9.º		270	286	435	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 10.º		288	292	199	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 11.º		294	312	456	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 12.º		314	322	188	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 13.º		324	334	252	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 14.º		336	340	184	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 15.º		342	346	149	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 16.º		348	364	406	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 17.º		366	372	205	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 18.º		374	376	47	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 19.º		378	390	151	ue/regulamentos/2024/32024R2642.md
-32024R2642	Artigo 20.º		392	396	62	ue/regulamentos/2024/32024R2642.md
-32024R2642	ANEXO I	Lista de pessoas singulares e coletivas, entidades e organismos a que se refere o artigo 2.º	398	531	42631	ue/regulamentos/2024/32024R2642.md
-32024R2642	ANEXO II	Sítios Web para informações sobre as autoridades competentes e endereço para o envio de notificações à Comissão	533	647	609	ue/regulamentos/2024/32024R2642.md
-32024R2642	ANEXO III	Lista dos bens corpóreos a que se refere o artigo 1.º-A	649	651	19	ue/regulamentos/2024/32024R2642.md
-32024R2642	ANEXO IV	Lista de pessoas coletivas, entidades e organismos a que se refere o artigo 1.º-B	653	655	25	ue/regulamentos/2024/32024R2642.md
-32024R2642	ANEXO V	Lista de pessoas coletivas, entidades e organismos a que se refere o artigo 1.º-C	657	669	356	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 1.º		45	89	878	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 1.º-A		91	111	620	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 1.º-B		113	127	432	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 1.º-C		129	137	232	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 2.º		139	171	819	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 3.º		173	191	638	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 4.º		193	217	694	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 5.º		219	231	320	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 6.º		233	241	260	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 7.º		243	253	274	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 8.º		255	269	702	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 9.º		271	287	435	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 10.º		289	293	199	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 11.º		295	313	456	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 12.º		315	323	188	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 13.º		325	335	252	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 14.º		337	341	184	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 15.º		343	347	149	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 16.º		349	365	406	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 17.º		367	373	205	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 18.º		375	377	47	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 19.º		379	391	151	ue/regulamentos/2024/32024R2642.md
+32024R2642	Artigo 20.º		393	397	62	ue/regulamentos/2024/32024R2642.md
+32024R2642	ANEXO I	Lista de pessoas singulares e coletivas, entidades e organismos a que se refere o artigo 2.º	399	532	42631	ue/regulamentos/2024/32024R2642.md
+32024R2642	ANEXO II	Sítios Web para informações sobre as autoridades competentes e endereço para o envio de notificações à Comissão	534	648	609	ue/regulamentos/2024/32024R2642.md
+32024R2642	ANEXO III	Lista dos bens corpóreos a que se refere o artigo 1.º-A	650	652	19	ue/regulamentos/2024/32024R2642.md
+32024R2642	ANEXO IV	Lista de pessoas coletivas, entidades e organismos a que se refere o artigo 1.º-B	654	656	25	ue/regulamentos/2024/32024R2642.md
+32024R2642	ANEXO V	Lista de pessoas coletivas, entidades e organismos a que se refere o artigo 1.º-C	658	670	356	ue/regulamentos/2024/32024R2642.md
 32024R2649	Preâmbulo		18	34	280	ue/regulamentos/2024/32024R2649.md
 32024R2649	Artigo 1.º		38	40	14	ue/regulamentos/2024/32024R2649.md
 32024R2649	Artigo 2.º		42	62	238	ue/regulamentos/2024/32024R2649.md
@@ -8584,28 +8578,28 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32024R3024	ANEXO	«ANEXO VII	314	510	3329	ue/regulamentos/2024/32024R3024.md
 32024R3024	ANEXO VIII	MÓDULO PARA AS CONTAS DOS SUBSÍDIOS AMBIENTAIS E TRANSFERÊNCIAS SIMILARES	512	584	1307	ue/regulamentos/2024/32024R3024.md
 32024R3024	ANEXO IX	MÓDULO PARA AS CONTAS DOS ECOSSISTEMAS	586	738	3252	ue/regulamentos/2024/32024R3024.md
-32024R3084	Artigo 1.º	Objeto	35	39	84	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 2.º	Criação e utilização do sistema de informação	41	69	800	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 3.º	Definições	71	105	618	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 4.º	Apresentação das declarações de diligência devida	109	117	180	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 4.º-A	Apresentação, atualização e retirada das declarações simplificadas	119	135	488	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 5.º	Alteração e retirada das declarações de diligência devida	137	161	583	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 6.º	Perfis de risco	163	179	718	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 7.º	Atribuição e disponibilização de números de referência, identificadores de declaração e números de verificação	181	187	439	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 8.º	Rejeição das declarações de diligência devida e das declarações simplificadas	189	197	289	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 8.º-A	Agrupamento das declarações de diligência devida e das declarações simplificadas no sistema de informação	199	207	542	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 9.º	Funções e responsabilidades da Comissão	211	249	748	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 10.º	Direitos de acesso dos utilizadores do sistema de informação	251	269	291	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 11.º	Direitos de acesso dos intervenientes no sistema de informação	271	285	338	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 12.º	Tratamento dos dados pessoais no sistema de informação	289	319	888	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 13.º	Tratamento de dados pessoais pela Comissão	321	327	269	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 14.º	Responsabilidade conjunta pelo tratamento no sistema de informação	329	331	219	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 15.º	Segurança	333	349	297	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 15.º-A	Disposições de recurso	351	365	276	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 16.º	Confidencialidade	367	371	141	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 17.º	Tradução	375	379	162	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 18.º	Custos	381	385	134	ue/regulamentos/2024/32024R3084.md
-32024R3084	Artigo 19.º	Entrada em vigor	387	393	124	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 1.º	Objeto	32	36	84	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 2.º	Criação e utilização do sistema de informação	38	60	639	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 3.º	Definições	62	96	618	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 4.º	Apresentação das declarações de diligência devida	100	108	180	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 4.º-A	Apresentação, atualização e retirada das declarações simplificadas	110	126	488	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 5.º	Alteração e retirada das declarações de diligência devida	128	152	583	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 6.º	Perfis de risco	154	170	718	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 7.º	Atribuição e disponibilização de números de referência, identificadores de declaração e números de verificação	172	178	439	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 8.º	Rejeição das declarações de diligência devida e das declarações simplificadas	180	188	289	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 8.º-A	Agrupamento das declarações de diligência devida e das declarações simplificadas no sistema de informação	190	198	542	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 9.º	Funções e responsabilidades da Comissão	202	240	748	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 10.º	Direitos de acesso dos utilizadores do sistema de informação	242	260	291	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 11.º	Direitos de acesso dos intervenientes no sistema de informação	262	276	338	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 12.º	Tratamento dos dados pessoais no sistema de informação	280	310	888	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 13.º	Tratamento de dados pessoais pela Comissão	312	318	269	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 14.º	Responsabilidade conjunta pelo tratamento no sistema de informação	320	322	219	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 15.º	Segurança	324	340	297	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 15.º-A	Disposições de recurso	342	356	276	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 16.º	Confidencialidade	358	362	141	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 17.º	Tradução	366	370	162	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 18.º	Custos	372	376	134	ue/regulamentos/2024/32024R3084.md
+32024R3084	Artigo 19.º	Entrada em vigor	378	384	124	ue/regulamentos/2024/32024R3084.md
 32024R3085	Preâmbulo		18	86	5198	ue/regulamentos/2024/32024R3085.md
 32024R3085	Artigo 1.º	Alterações do Regulamento Delegado (UE) 2019/934	90	96	75	ue/regulamentos/2024/32024R3085.md
 32024R3085	Artigo 2.º	Disposições transitórias	98	100	69	ue/regulamentos/2024/32024R3085.md

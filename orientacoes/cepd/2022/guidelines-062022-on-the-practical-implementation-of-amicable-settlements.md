@@ -7,7 +7,7 @@ data: '2022-05-12'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-062022-on-the-practical-implementation-of-amicable-settlements_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-11/edpb_guidelines_202206_on_the_practical_implementation_of_amicable_settlements_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

@@ -16,7 +16,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34454975
 eli: https://data.dre.pt/eli/dec-lei/34/2008/p/cons/20260806/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Decreto-Lei n.º 34/2008
@@ -2228,8 +2228,6 @@ Para além dos (euro) 275 000, ao valor da taxa de justiça acresce, a final, po
 | Recursos de fixação de jurisprudência (artigos 437.º e 446.º do CPP) | 1 a 5 |
 | Recurso de revisão | 1 a 5 |
 | Impugnação judicial em processo contra-ordenacional | 1 a 5 |
-|  |  |
-|  |  |
 
 > Alterado pelo/a Artigo 5.º do/a Lei n.º 34/2026 - Diário da República n.º 143/2026, Série I de 2026-07-27, em vigor a partir de 2026-09-01.
 

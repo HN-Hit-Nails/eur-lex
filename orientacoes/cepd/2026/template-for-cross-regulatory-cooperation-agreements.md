@@ -7,7 +7,7 @@ data: '2026-07-07'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/other-guidance/template-for-cross-regulatory-cooperation-agreements_en
 pdf: https://www.edpb.europa.eu/system/files/2026-07/edpb_template_2026_cross-regulatory_cooperation_agreement_en.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

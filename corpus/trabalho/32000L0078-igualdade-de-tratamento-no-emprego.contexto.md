@@ -1,7 +1,7 @@
 ---
 celex: 32000L0078
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Diretiva 32000L0078 — Igualdade de tratamento no emprego — contexto
@@ -38,10 +38,11 @@ Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diret
 - 2004-07-29 — Assembleia da República - Regulamenta a Lei n.º 99/2003, de 27 de Agosto, que aprovou o Código do Trabalho (CELEX 71999L0038PRT_122828) → texto: [`legislacao-pt/lei-35-2004.md`](../../legislacao-pt/lei-35-2004.md) (revogado (texto não incluído))
 - 2003-08-27 — Decreto-Lei n° 99 de 27/8/2003 Diário da Repùblica I Serie A n° 197 de 27/8/2003 p. 5558 (CELEX 72000L0078PRT_113600) → não obtido do DRE: não encontrado no DRE pelo ELI
 
-## Jurisprudência do Tribunal de Justiça que interpreta este acto (113)
+## Jurisprudência do Tribunal de Justiça que interpreta este acto (114)
 
 Para obter o texto de uma decisão: `python3 ferramentas/eurlex.py obter <CELEX> --area jurisprudencia`.
 
+- 2026-06-04 — 62024CJ0312 ECLI:EU:C:2026:449 — Acórdão do Tribunal de Justiça (Quinta Secção) de 4 de junho de 2026. — CL contra Prokuratura na Republika Bulgaria. — Pedido de decisão prejudicial apresentado pelo Sofiyski rayonen sad. — Reenvio prejudicial — Proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais em matéria penal — Regulamento (UE) 2016/679 — Diretiva (UE) 2016/680 — Âmbito de aplicação — Tratamento dos dados recolhidos no âmbito de uma investigação dirigida contra um agente de polícia enquanto suspeito da prática de um crime — Registo dos dados relativos a essa investigação no processo pessoal do agente de polícia — Licitude do tratamento — Artigo 6.º, n.º 1, primeiro parágrafo, alínea c),…
 - 2026-03-17 — 62024CJ0258 ECLI:EU:C:2026:211 — Acórdão do Tribunal de Justiça (Grande Secção) de 17 de março de 2026. — Katholische Schwangerschaftsberatung contra JB. — Pedido de decisão prejudicial apresentado pelo Bundesarbeitsgericht. — Reenvio prejudicial — Política social — Diretiva 2000/78/CE — Igualdade de tratamento no emprego e na atividade profissional — Atividades profissionais de igrejas ou de outras organizações cuja ética é baseada na religião ou nas convicções — Associação que presta aconselhamento em matéria de gravidez às mulheres grávidas — Requisitos para o exercício de uma atividade profissional — Atitude de boa‑fé e de lealdade no âmbito da ética da Igreja ou da organização — Diferença de tratamento em razão da r…
 - 2026-03-12 — 62024CJ0597 ECLI:EU:C:2026:198 — Acórdão do Tribunal de Justiça (Décima Secção) de 12 de março de 2026. — C.M. contra Ministero dell’Istruzione e del Merito. — Pedido de decisão prejudicial apresentado pela Corte suprema di cassazione. — Reenvio prejudicial — Política social — Igualdade de tratamento em matéria de emprego e de trabalho — Diretiva 2000/78/CE — Proibição de discriminação em razão de uma deficiência — Artigo 2.º, n.º 2 — Direito de uma docente portadora de deficiência a ser transferida para uma determinada zona territorial — Artigo 5.º — Adaptações razoáveis para as pessoas deficientes — Prioridade na mobilidade dentro de uma mesma zona territorial em relação à mobilidade entre diferentes zonas territoriais…
 - 2026-03-05 — 62024CJ0757 ECLI:EU:C:2026:159 — Acórdão do Tribunal de Justiça (Nona Secção) de 5 de março de 2026. — SG contra Gemeinde Wien. — Pedido de decisão prejudicial apresentado pelo Arbeits- und Sozialgericht Wien. — Reenvio prejudicial — Política social — Igualdade de tratamento no emprego e na atividade profissional — Diretiva 2000/78/CE — Proibição de discriminação em razão da idade — Legislação regional relativa à remuneração dos agentes contratuais — Tomada em consideração dos períodos de emprego cumpridos antes dos 18 anos — Novo regime de remuneração que substitui uma legislação anterior declarada discriminatória. — Processo C-757/24.

@@ -7,7 +7,7 @@ data: '2023-06-20'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/template-complaint-form-and-template-acknowledgement-of-receipt_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-05/edpb_20230620_templatecomplaintform_pt_0.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

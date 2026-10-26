@@ -1,7 +1,7 @@
 ---
 celex: 32013R0952
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32013R0952 — Código Aduaneiro da União — contexto
@@ -12,11 +12,13 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 - Código Aduaneiro da União — [`_sinteses/12_2.md`](../_sinteses/12_2.md)
 
-## Jurisprudência do Tribunal de Justiça que interpreta este acto (29)
+## Jurisprudência do Tribunal de Justiça que interpreta este acto (31)
 
 Para obter o texto de uma decisão: `python3 ferramentas/eurlex.py obter <CELEX> --area jurisprudencia`.
 
+- 2026-06-03 — 62025TJ0224 ECLI:EU:T:2026:360 — Acórdão do Tribunal Geral (Quinta Secção, em formação de cinco juízes) de 3 de junho de 2026. — VÁM4ALL Kft. "felszámolás alatt" contra Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága. — Pedido de decisão prejudicial apresentado pela Kúria. — Reenvio prejudicial — União aduaneira — Código Aduaneiro da União — Método de determinação do valor aduaneiro — Valor transacional declarado — Artigo 15.º do Regulamento (UE) n.º 952/2013 — Artigo 140.º do Regulamento de Execução (UE) 2015/2447 — Métodos secundários — Artigo 74.º do Regulamento n.º 952/2013 — Método residual ou “fall back” — Artigo 144.º do Regulamento de Execução 2015/2447 — Importação de mercadorias a granel — Falta de prova …
 - 2026-05-13 — 62025TJ0150 ECLI:EU:T:2026:345 — Acórdão do Tribunal Geral (Quinta Secção Alargada) de 13 de maio de 2026. — Zollamt Österreich contra G GmbH. — Reenvio prejudicial — União Aduaneira — Código Aduaneiro da União — Direito de recurso — Artigo 44.º, n.º 4, do Regulamento (UE) n.º 952/2013 — Decisão relativa a informação pautal vinculativa — Recurso judicial — Retificação — Efeito retroativo. — Processo T-150/25.
+- 2026-04-15 — 62024TJ0589 ECLI:EU:T:2026:254 — Acórdão do Tribunal Geral (Secção que se pronuncia sobre pedidos prejudiciais) de 15 de abril de 2026. — A-GmbH contra Hauptzollamt C. — Pedido de decisão prejudicial apresentado pelo Bundesfinanzhof. — Reenvio prejudicial — União aduaneira — Código aduaneiro — Regime de aperfeiçoamento passivo — Autorização — Artigo 84.º, n.º 1, alínea b), quinto travessão, e artigo 85.º do Regulamento (CEE) n.º 2913/92 — Artigo 211.º, n.º 1, alínea a), do Regulamento (UE) n.º 952/2013 — Sujeição à exportação numa estância aduaneira não designada na autorização e situada num Estado‑Membro diferente daquele que concedeu a referida autorização — Constituição da dívida aduaneira por incumprimento — Isenção …
 - 2026-03-26 — 62023CJ0307 ECLI:EU:C:2026:246 — Acórdão do Tribunal de Justiça (Primeira Secção) de 26 de março de 2026. — G GmbH contra Hauptzollamt H. — Pedido de decisão prejudicial apresentado pelo Bundesfinanzhof. — Reenvio prejudicial — União aduaneira — Regulamento (CEE) n.º 2913/92 — Código Aduaneiro Comunitário — Procedimentos de importação e de exportação — Determinação do valor aduaneiro — Artigo 32.º, n.º 1, alínea a), subalínea ii), e alínea b), subalínea iv) — Ajustamento em função dos custos suportados pelo comprador — Custos induzidos por prestações imateriais de conceção de modelos de etiquetas coladas em latas de conserva alimentar — Conceito de “recipiente” — Prestações imateriais executadas no território da União Eu…
 - 2026-03-25 — 62025TJ0296 ECLI:EU:T:2026:218 — Acórdão do Tribunal Geral (Quinta Secção alargada) de 25 de março de 2026. — Direktor na TD Mitnitsa Burgas contra Lidikar OOD. — Pedido de decisão prejudicial apresentada por Varhoven administrativen sad. — Reenvio prejudicial — União aduaneira — Código Aduaneiro da União — Procedimentos de importação e de exportação — Importação de uma mercadoria a partir do Canadá — Método de determinação do valor aduaneiro — Preço declarado na exportação da mercadoria comunicado pelas autoridades canadianas no âmbito de um acordo internacional de cooperação aduaneira — Conceito de “dados disponíveis no território aduaneiro da União” — Meios razoáveis — Artigo 74.º, n.º 3, do Regulamento (UE) n.º 952/2…
 - 2026-01-29 — 62024CJ0072 ECLI:EU:C:2026:51 — Acórdão do Tribunal de Justiça (Quarta Secção) de 29 de janeiro de 2026. — HF e WI contra Anexartiti Archi Dimosion Esodon. — Pedidos de decisão prejudicial apresentados pelo Dioikitiko Protodikeio Thessalonikis. — Reenvio prejudicial — União Aduaneira — Regulamento (CEE) n.º 2913/92 — Código Aduaneiro Comunitário — Regulamento (UE) n.º 952/2013 — Código Aduaneiro da União — Importações de mercadorias — Valor aduaneiro — Subavaliação — Métodos secundários de determinação do valor aduaneiro — Método assente no “preço mínimo aceitável” calculado com base em valores estatísticos agregados estabelecidos à escala da União Europeia — Admissibilidade. — Processos apensos C-72/24 e C-73/24.

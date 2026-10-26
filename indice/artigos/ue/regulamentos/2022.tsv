@@ -781,11 +781,11 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32022R0188	Artigo 3.º		84	86	32	ue/regulamentos/2022/32022R0188.md
 32022R0188	Artigo 4.º		88	124	328	ue/regulamentos/2022/32022R0188.md
 32022R0188	ANEXO		126	164	2192	ue/regulamentos/2022/32022R0188.md
-32022R0191	Artigo 1.º		37	57	581	ue/regulamentos/2022/32022R0191.md
-32022R0191	Artigo 2.º		59	69	204	ue/regulamentos/2022/32022R0191.md
-32022R0191	Artigo 3.º		71	77	115	ue/regulamentos/2022/32022R0191.md
-32022R0191	Artigo 4.º		79	85	63	ue/regulamentos/2022/32022R0191.md
-32022R0191	ANEXO		87	201	1988	ue/regulamentos/2022/32022R0191.md
+32022R0191	Artigo 1.º		38	58	581	ue/regulamentos/2022/32022R0191.md
+32022R0191	Artigo 2.º		60	70	204	ue/regulamentos/2022/32022R0191.md
+32022R0191	Artigo 3.º		72	78	115	ue/regulamentos/2022/32022R0191.md
+32022R0191	Artigo 4.º		80	86	63	ue/regulamentos/2022/32022R0191.md
+32022R0191	ANEXO		88	204	2015	ue/regulamentos/2022/32022R0191.md
 32022R0192	Preâmbulo		18	46	1049	ue/regulamentos/2022/32022R0192.md
 32022R0192	Artigo 1.º	Alterações do Regulamento Delegado (UE) n.º 1151/2014	50	95	672	ue/regulamentos/2022/32022R0192.md
 32022R0192	Artigo 2.º	Entrada em vigor	97	115	265	ue/regulamentos/2022/32022R0192.md
@@ -802,12 +802,12 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32022R0194	Artigo 1.º		58	60	36	ue/regulamentos/2022/32022R0194.md
 32022R0194	Artigo 2.º		62	80	288	ue/regulamentos/2022/32022R0194.md
 32022R0194	ANEXO		82	168	2440	ue/regulamentos/2022/32022R0194.md
-32022R0195	Preâmbulo		18	50	1776	ue/regulamentos/2022/32022R0195.md
-32022R0195	Artigo 1.º	Alterações do Regulamento de Execução (UE) 2020/683	54	56	52	ue/regulamentos/2022/32022R0195.md
-32022R0195	Artigo 2.º	Retificações do Regulamento de Execução (UE) 2020/683	58	60	52	ue/regulamentos/2022/32022R0195.md
-32022R0195	Artigo 3.º	Entrada em vigor e aplicação	62	86	494	ue/regulamentos/2022/32022R0195.md
-32022R0195	ANEXO I		88	594	4990	ue/regulamentos/2022/32022R0195.md
-32022R0195	ANEXO II		596	789	1879	ue/regulamentos/2022/32022R0195.md
+32022R0195	Preâmbulo		22	54	1776	ue/regulamentos/2022/32022R0195.md
+32022R0195	Artigo 1.º	Alterações do Regulamento de Execução (UE) 2020/683	58	60	52	ue/regulamentos/2022/32022R0195.md
+32022R0195	Artigo 2.º	Retificações do Regulamento de Execução (UE) 2020/683	62	64	52	ue/regulamentos/2022/32022R0195.md
+32022R0195	Artigo 3.º	Entrada em vigor e aplicação	66	90	494	ue/regulamentos/2022/32022R0195.md
+32022R0195	ANEXO I		92	598	4990	ue/regulamentos/2022/32022R0195.md
+32022R0195	ANEXO II		600	793	1879	ue/regulamentos/2022/32022R0195.md
 32022R0196	Preâmbulo		18	56	1484	ue/regulamentos/2022/32022R0196.md
 32022R0196	Artigo 1.º		60	64	109	ue/regulamentos/2022/32022R0196.md
 32022R0196	Artigo 2.º		66	100	760	ue/regulamentos/2022/32022R0196.md
@@ -1085,12 +1085,8 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32022R0332	Artigo 1.º		58	60	42	ue/regulamentos/2022/32022R0332.md
 32022R0332	Artigo 2.º		62	76	92	ue/regulamentos/2022/32022R0332.md
 32022R0332	ANEXO		78	186	12716	ue/regulamentos/2022/32022R0332.md
-32022R0334	Preâmbulo		18	40	438	ue/regulamentos/2022/32022R0334.md
-32022R0334	Artigo 1.º		44	53	94	ue/regulamentos/2022/32022R0334.md
-32022R0334	«Artigo 3.º-D		55	63	274	ue/regulamentos/2022/32022R0334.md
-32022R0334	Artigo 3.º-E		65	79	365	ue/regulamentos/2022/32022R0334.md
-32022R0334	«Artigo 12.º		81	83	132	ue/regulamentos/2022/32022R0334.md
-32022R0334	Artigo 2.º		85	101	140	ue/regulamentos/2022/32022R0334.md
+32022R0334	Artigo 1.º		28	72	876	ue/regulamentos/2022/32022R0334.md
+32022R0334	Artigo 2.º		74	78	58	ue/regulamentos/2022/32022R0334.md
 32022R0336	Preâmbulo		18	56	1861	ue/regulamentos/2022/32022R0336.md
 32022R0336	Artigo 1.º		60	62	40	ue/regulamentos/2022/32022R0336.md
 32022R0336	Artigo 2.º		64	78	91	ue/regulamentos/2022/32022R0336.md
@@ -5335,33 +5331,33 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32022R2291	Artigo 1.º		46	48	30	ue/regulamentos/2022/32022R2291.md
 32022R2291	Artigo 2.º		50	68	115	ue/regulamentos/2022/32022R2291.md
 32022R2291	ANEXO		70	74	116	ue/regulamentos/2022/32022R2291.md
-32022R2292	Artigo 1.º	Objeto e âmbito de aplicação	32	72	1406	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 2.º	Definições	74	180	1916	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 3.º	Animais destinados à produção de géneros alimentícios e mercadorias que devem ser provenientes de países terceiros ou de regiões de países terceiros incluídos n	184	202	432	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 4.º	Requisitos adicionais aplicáveis à entrada na União de animais destinados à produção de géneros alimentícios e de mercadorias provenientes de um país terceiro o	204	224	646	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 5.º	Animais e produtos a que se aplicam os artigos 6.º a 12.°	226	248	367	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 6.º	Requisitos adicionais para a entrada na União de animais destinados à produção de géneros alimentícios, produtos de origem animal e produtos compostos no que di	250	262	596	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 7.º	Inclusão de um país terceiro numa lista de países terceiros que cumprem os requisitos da União em matéria de substâncias farmacologicamente ativas e respetivos 	264	266	190	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 8.º	Derrogação dos requisitos para a entrada na União de animais destinados à produção de géneros alimentícios, produtos de origem animal e produtos compostos	268	284	1052	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 9.º	Requisitos relativos à utilização de substâncias farmacologicamente ativas em animais destinados à produção de géneros alimentícios e aos resíduos dessas substâ	288	292	364	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 10.º	Requisitos relativos à proibição de determinadas substâncias	294	302	393	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 11.º	Requisitos relativos aos resíduos de pesticidas em produtos de origem animal e em produtos compostos	304	306	164	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 12.º	Requisitos relativos aos contaminantes em produtos de origem animal e em produtos compostos	308	310	153	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 13.º	Requisitos aplicáveis aos estabelecimentos	314	346	810	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 14.º	Estabelecimentos não sujeitos aos requisitos do artigo 13.º, n.º 1	348	364	144	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 15.º	Requisitos aplicáveis a remessas de carne fresca, carne picada, preparados de carne, carne separada mecanicamente, produtos à base de carne e matérias-primas de	368	384	322	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 16.º	Requisitos aplicáveis às remessas de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos	386	394	337	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 17.º	Listagem das zonas de produção	396	402	246	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 18.º	Requisitos especiais aplicáveis aos produtos da pesca	404	406	195	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 19.º	Requisitos especiais para a listagem de navios	408	426	623	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 20.º	Requisitos aplicáveis às remessas de produtos compostos	428	442	886	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 21.º	Certificados oficiais	446	498	1010	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 22.º	Atestado privado	500	552	904	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 23.º	Referências	556	558	35	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 24.º	Revogação	560	564	66	ue/regulamentos/2022/32022R2292.md
-32022R2292	Artigo 25.º	Entrada em vigor e aplicação	566	572	90	ue/regulamentos/2022/32022R2292.md
-32022R2292	ANEXO I		574	752	6478	ue/regulamentos/2022/32022R2292.md
-32022R2292	ANEXO II		754	795	1014	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 1.º	Objeto e âmbito de aplicação	33	73	1406	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 2.º	Definições	75	181	1916	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 3.º	Animais destinados à produção de géneros alimentícios e mercadorias que devem ser provenientes de países terceiros ou de regiões de países terceiros incluídos n	185	203	436	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 4.º	Requisitos adicionais aplicáveis à entrada na União de animais destinados à produção de géneros alimentícios e de mercadorias provenientes de um país terceiro o	205	225	646	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 5.º	Animais e produtos a que se aplicam os artigos 6.º a 12.°	227	257	449	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 6.º	Requisitos adicionais para a entrada na União de animais destinados à produção de géneros alimentícios, produtos de origem animal e produtos compostos no que di	259	271	596	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 7.º	Inclusão de um país terceiro numa lista de países terceiros que cumprem os requisitos da União em matéria de substâncias farmacologicamente ativas e respetivos 	273	275	190	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 8.º	Derrogação dos requisitos para a entrada na União de animais destinados à produção de géneros alimentícios, produtos de origem animal e produtos compostos	277	293	1052	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 9.º	Requisitos relativos à utilização de substâncias farmacologicamente ativas em animais destinados à produção de géneros alimentícios e aos resíduos dessas substâ	297	301	364	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 10.º	Requisitos relativos à proibição de determinadas substâncias	303	311	393	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 11.º	Requisitos relativos aos resíduos de pesticidas em produtos de origem animal e em produtos compostos	313	315	164	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 12.º	Requisitos relativos aos contaminantes em produtos de origem animal e em produtos compostos	317	319	153	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 13.º	Requisitos aplicáveis aos estabelecimentos	323	355	817	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 14.º	Estabelecimentos não sujeitos aos requisitos do artigo 13.º, n.º 1	357	373	144	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 15.º	Requisitos aplicáveis a remessas de carne fresca, carne picada, preparados de carne, carne separada mecanicamente, produtos à base de carne e matérias-primas de	377	393	322	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 16.º	Requisitos aplicáveis às remessas de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos	395	403	337	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 17.º	Listagem das zonas de produção	405	413	248	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 18.º	Requisitos especiais aplicáveis aos produtos da pesca	415	419	200	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 19.º	Requisitos especiais para a listagem de navios	421	439	623	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 20.º	Requisitos aplicáveis às remessas de produtos compostos	441	455	886	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 21.º	Certificados oficiais	459	511	1014	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 22.º	Atestado privado	513	565	904	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 23.º	Referências	569	571	35	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 24.º	Revogação	573	577	66	ue/regulamentos/2022/32022R2292.md
+32022R2292	Artigo 25.º	Entrada em vigor e aplicação	579	585	90	ue/regulamentos/2022/32022R2292.md
+32022R2292	ANEXO I		587	765	6478	ue/regulamentos/2022/32022R2292.md
+32022R2292	ANEXO II		767	808	1014	ue/regulamentos/2022/32022R2292.md
 32022R2293	Preâmbulo		18	50	1404	ue/regulamentos/2022/32022R2293.md
 32022R2293	Artigo 1.º	Alterações do Regulamento de Execução (UE) 2021/405	54	58	50	ue/regulamentos/2022/32022R2293.md
 32022R2293	«Artigo 2.º-A	Lista de países terceiros com planos de controlo aprovados de substâncias farmacologicamente ativas, pesticidas e contaminantes em determinados animais destinad	60	94	1408	ue/regulamentos/2022/32022R2293.md

@@ -7,7 +7,7 @@ data: '2019-06-04'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-12019-on-codes-of-conduct-and-monitoring-bodies-under-regulation_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_201901_v2.0_codesofconduct_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

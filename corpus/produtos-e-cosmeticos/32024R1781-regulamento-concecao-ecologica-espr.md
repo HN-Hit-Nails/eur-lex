@@ -19,7 +19,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024R1781
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02024R1781-20240628
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32024R1781 — Regulamento Conceção Ecológica (ESPR)

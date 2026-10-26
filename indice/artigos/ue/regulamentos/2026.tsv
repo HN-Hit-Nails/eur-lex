@@ -4345,6 +4345,28 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R1508	Preâmbulo		18	36	510	ue/regulamentos/2026/32026R1508.md
 32026R1508	Artigo 1.º		40	45	118	ue/regulamentos/2026/32026R1508.md
 32026R1508	Artigo 2.º		47	71	364	ue/regulamentos/2026/32026R1508.md
+32026R1512	Preâmbulo		19	43	900	ue/regulamentos/2026/32026R1512.md
+32026R1512	Artigo 1.º	Alterações do Regulamento de Execução (UE) 2017/394	47	51	50	ue/regulamentos/2026/32026R1512.md
+32026R1512	«Artigo 3.º	Procedimento para a prestação de informações	53	69	432	ue/regulamentos/2026/32026R1512.md
+32026R1512	Artigo 4.º	Prestação de informações nos termos do artigo 22.º, n.º 7, do Regulamento (UE) n.º 909/2014	71	85	340	ue/regulamentos/2026/32026R1512.md
+32026R1512	Artigo 2.º	Entrada em vigor	87	109	646	ue/regulamentos/2026/32026R1512.md
+32026R1512	ANEXO		111	113	3	ue/regulamentos/2026/32026R1512.md
+32026R1512	ANEXO II	Modelos para a apresentação de informações com vista à análise e avaliação	115	202	8894	ue/regulamentos/2026/32026R1512.md
+32026R1519	Preâmbulo		19	65	2768	ue/regulamentos/2026/32026R1519.md
+32026R1519	Artigo 1.º	Alterações do Regulamento Delegado (UE) 2017/392	69	111	890	ue/regulamentos/2026/32026R1519.md
+32026R1519	«Artigo 41.º	Informações periódicas relevantes para cada análise e avaliação	113	286	4084	ue/regulamentos/2026/32026R1519.md
+32026R1519	«Artigo 44.º	Informações a facultar às autoridades a que se refere o artigo 22.º, n.º 7, do Regulamento (UE) n.º 909/2014	288	315	550	ue/regulamentos/2026/32026R1519.md
+32026R1519	Artigo 2.º	Entrada em vigor e aplicação	317	345	574	ue/regulamentos/2026/32026R1519.md
+32026R1536	Preâmbulo		19	73	3444	ue/regulamentos/2026/32026R1536.md
+32026R1536	Artigo 1.º	Alterações ao Regulamento Delegado (UE) 2018/1229	77	127	1194	ue/regulamentos/2026/32026R1536.md
+32026R1536	«Artigo 3.º	Medidas relativas aos clientes não profissionais	129	172	594	ue/regulamentos/2026/32026R1536.md
+32026R1536	«Artigo 10.º	Liquidação parcial automática	174	186	227	ue/regulamentos/2026/32026R1536.md
+32026R1536	«Artigo 12.º	Funcionalidade automática de constituição de garantias	188	220	420	ue/regulamentos/2026/32026R1536.md
+32026R1536	«Artigo 14.º	Comunicação das falhas de liquidação	222	242	523	ue/regulamentos/2026/32026R1536.md
+32026R1536	«Artigo 23.º	Aplicação da liquidação parcial	244	254	235	ue/regulamentos/2026/32026R1536.md
+32026R1536	Artigo 2.º	Entrada em vigor e aplicação	256	278	478	ue/regulamentos/2026/32026R1536.md
+32026R1536	ANEXO I		280	749	18446	ue/regulamentos/2026/32026R1536.md
+32026R1536	ANEXO II		751	763	602	ue/regulamentos/2026/32026R1536.md
 32026R1540	Artigo 1.º		28	47	554	ue/regulamentos/2026/32026R1540.md
 32026R1540	Artigo 2.º		49	51	205	ue/regulamentos/2026/32026R1540.md
 32026R1540	Artigo 3.º		53	57	62	ue/regulamentos/2026/32026R1540.md
@@ -4537,80 +4559,80 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R1737	Artigo 1.º		48	52	97	ue/regulamentos/2026/32026R1737.md
 32026R1737	Artigo 2.º		54	70	154	ue/regulamentos/2026/32026R1737.md
 32026R1737	ANEXO	RESUMO DAS CARACTERÍSTICAS DO PRODUTO PARA UMA FAMÍLIA DE PRODUTOS BIOCIDAS (SPC BPF)	72	1142	18425	ue/regulamentos/2026/32026R1737.md
-32026R1738	Preâmbulo		18	274	30086	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 1.º	Objeto	280	282	150	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 2.º	Âmbito de aplicação	284	465	2610	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 3.º	Definições	467	573	3334	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 4.º	Potencial reutilização, reciclagem e valorização de veículos	577	601	538	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 5.º	Requisitos aplicáveis às substâncias presentes nos veículos	603	639	1403	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 6.º	Teor mínimo de material reciclado nos veículos	641	739	2928	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 7.º	Conceção que possibilite a remoção e a substituição de determinadas peças e componentes dos veículos	741	751	471	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 8.º	Obrigações gerais	755	767	450	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 9.º	Estratégia de circularidade	769	783	365	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 10.º	Declaração sobre o teor de material reciclado presente nos veículos	785	803	361	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 11.º	Informações sobre a remoção e substituição de peças, componentes e materiais presentes nos veículos	805	827	686	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 12.º	Rotulagem das peças, componentes e materiais presentes nos veículos	829	833	124	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 13.º	Passaporte digital de circularidade do veículo	835	883	965	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 14.º	Autoridade competente para a gestão de veículos em fim de vida	889	907	420	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 15.º	Instalações de tratamento autorizadas	909	925	576	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 16.º	Responsabilidade alargada do produtor	929	945	604	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 17.º	Organizações competentes em matéria de responsabilidade do produtor	947	959	506	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 18.º	Autorização para fins de cumprimento da responsabilidade alargada do produtor	961	975	1038	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 19.º	Registo	977	1025	1376	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 20.º	Responsabilidade financeira dos produtores	1027	1059	1176	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 21.º	Modulação de taxas	1061	1077	347	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 22.º	Mecanismo de repartição dos custos para os veículos que se tornam veículos em fim de vida noutro Estado-Membro	1079	1099	890	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 23.º	Recolha de veículos em fim de vida	1103	1135	965	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 24.º	Entrega de veículos em fim de vida	1137	1157	442	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 25.º	Certificado de destruição	1159	1169	371	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 26.º	Obrigações das instalações de tratamento autorizadas	1173	1203	781	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 27.º	Requisitos gerais aplicáveis ao retalhamento	1205	1219	507	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 28.º	Despoluição de veículos em fim de vida	1221	1233	392	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 29.º	Remoção obrigatória de peças e componentes para reutilização, refabrico, recondicionamento e reciclagem antes do retalhamento	1235	1249	624	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 30.º	Requisitos relativos às peças e componentes removidos	1251	1281	618	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 31.º	Comércio de peças e componentes usados, refabricados ou recondicionados	1283	1289	235	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 32.º	Reutilização, refabrico e recondicionamento de peças e componentes	1291	1305	344	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 33.º	Metas de reutilização, reciclagem e valorização	1307	1317	395	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 34.º	Proibição da deposição em aterro de resíduos não inertes	1319	1321	98	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 35.º	Transferências de veículos em fim de vida	1323	1327	229	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 36.º	Transferência de propriedade de veículos usados no território da União	1331	1339	302	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 37.º	Estatuto do veículo	1341	1347	277	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 38.º	Autoridade competente para a exportação de veículos usados para países terceiros	1351	1355	138	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 39.º	Controlos e requisitos aplicáveis à exportação de veículos usados	1357	1385	596	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 40.º	Verificação automatizada das informações sobre o estatuto do veículo	1387	1391	256	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 41.º	Gestão dos riscos e controlos aduaneiros	1393	1401	488	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 42.º	Suspensão	1403	1407	272	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 43.º	Autorização de saída para exportação	1409	1419	344	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 44.º	Recusa de autorização de saída para exportação	1421	1425	132	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 45.º	Cooperação entre autoridades e intercâmbio de informações	1427	1443	561	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 46.º	Sistemas eletrónicos	1445	1463	851	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 47.º	Inspeções	1467	1485	463	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 48.º	Cooperação em matéria de execução a nível nacional e entre Estados-Membros	1487	1495	561	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 49.º	Sanções	1497	1499	168	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 50.º	Comunicação de informações à Comissão	1501	1583	1554	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 51.º	Exercício da delegação	1587	1599	638	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 52.º	Procedimento de comité	1601	1605	74	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 53.º	Alteração do Regulamento (UE) 2023/1542	1609	1611	42	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 54.º	Alteração do Regulamento (UE) 2019/1020	1613	1615	34	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 55.º	Alteração dos Regulamentos (UE) 2018/858 e (UE) n.º 168/2013	1617	1619	59	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 56.º	Reexame	1623	1691	1847	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 57.º	Revogação e disposições transitórias	1693	1719	444	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 58.º	Aplicabilidade ao Reino Unido e no seu território no que diz respeito à Irlanda do Norte	1721	1735	385	ue/regulamentos/2026/32026R1738.md
-32026R1738	Artigo 59.º	Entrada em vigor e aplicação	1737	1837	3295	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO I	CRITÉRIOS PARA DETERMINAR SE UM VEÍCULO É UM VEÍCULO EM FIM DE VIDA	1839	1903	1138	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO II	CRITÉRIOS PARA RECONHECIMENTO DO ESTATUTO DE VEÍCULO DE INTERESSE CULTURAL ESPECIAL	1905	1927	526	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO III	CÁLCULO DAS TAXAS DE REUTILIZAÇÃO POTENCIAL, RECICLAGEM POTENCIAL E VALORIZAÇÃO POTENCIAL	1929	1962	855	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO IV	CONDIÇÕES E VALORES MÁXIMOS DE CONCENTRAÇÃO APLICÁVEIS À PRESENÇA DE CHUMBO, MERCÚRIO, CÁDMIO E CRÓMIO HEXAVALENTE NOS MATERIAIS, PEÇAS E COMPONENTES	1964	2019	3035	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO V	ESTRATÉGIA DE CIRCULARIDADE	2021	2126	1999	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO VII	REQUISITOS DE ROTULAGEM	2128	2140	189	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO VIII	REQUISITOS DE TRATAMENTO	2142	2288	4722	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO IX	INFORMAÇÕES PARA O REGISTO NO REGISTO DE PRODUTORES	2290	2326	880	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO X	CERTIFICADO DE DESTRUIÇÃO	2328	2359	384	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO XI	ALTERAÇÃO DO REGULAMENTO (UE) 2018/858 E DO REGULAMENTO (UE) N.º 168/2013	2361	2422	708	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO XII	ALTERAÇÃO DO REGULAMENTO (UE) 2023/1542	2424	2442	1385	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO XIII	CRITÉRIOS A CUMPRIR PELAS INSTALAÇÕES EM PAÍSES TERCEIROS QUE PRODUZEM MATERIAIS RECICLADOS	2444	2463	1400	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO XIV	REQUISITOS APLICÁVEIS ÀS AUDITORIAS, AOS CERTIFICADORES E AOS AUDITORES	2465	2484	752	ue/regulamentos/2026/32026R1738.md
-32026R1738	ANEXO XV	TABELAS DE CORRESPONDÊNCIA	2486	2641	1593	ue/regulamentos/2026/32026R1738.md
+32026R1738	Preâmbulo		22	278	30086	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 1.º	Objeto	284	286	150	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 2.º	Âmbito de aplicação	288	469	2610	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 3.º	Definições	471	577	3334	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 4.º	Potencial reutilização, reciclagem e valorização de veículos	581	605	538	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 5.º	Requisitos aplicáveis às substâncias presentes nos veículos	607	643	1403	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 6.º	Teor mínimo de material reciclado nos veículos	645	743	2928	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 7.º	Conceção que possibilite a remoção e a substituição de determinadas peças e componentes dos veículos	745	755	471	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 8.º	Obrigações gerais	759	771	450	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 9.º	Estratégia de circularidade	773	787	365	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 10.º	Declaração sobre o teor de material reciclado presente nos veículos	789	807	361	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 11.º	Informações sobre a remoção e substituição de peças, componentes e materiais presentes nos veículos	809	831	686	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 12.º	Rotulagem das peças, componentes e materiais presentes nos veículos	833	837	124	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 13.º	Passaporte digital de circularidade do veículo	839	887	965	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 14.º	Autoridade competente para a gestão de veículos em fim de vida	893	911	420	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 15.º	Instalações de tratamento autorizadas	913	929	576	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 16.º	Responsabilidade alargada do produtor	933	949	604	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 17.º	Organizações competentes em matéria de responsabilidade do produtor	951	963	506	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 18.º	Autorização para fins de cumprimento da responsabilidade alargada do produtor	965	979	1038	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 19.º	Registo	981	1029	1376	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 20.º	Responsabilidade financeira dos produtores	1031	1063	1176	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 21.º	Modulação de taxas	1065	1081	347	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 22.º	Mecanismo de repartição dos custos para os veículos que se tornam veículos em fim de vida noutro Estado-Membro	1083	1103	890	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 23.º	Recolha de veículos em fim de vida	1107	1139	965	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 24.º	Entrega de veículos em fim de vida	1141	1161	442	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 25.º	Certificado de destruição	1163	1173	371	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 26.º	Obrigações das instalações de tratamento autorizadas	1177	1207	781	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 27.º	Requisitos gerais aplicáveis ao retalhamento	1209	1223	507	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 28.º	Despoluição de veículos em fim de vida	1225	1237	392	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 29.º	Remoção obrigatória de peças e componentes para reutilização, refabrico, recondicionamento e reciclagem antes do retalhamento	1239	1253	624	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 30.º	Requisitos relativos às peças e componentes removidos	1255	1285	618	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 31.º	Comércio de peças e componentes usados, refabricados ou recondicionados	1287	1293	235	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 32.º	Reutilização, refabrico e recondicionamento de peças e componentes	1295	1309	344	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 33.º	Metas de reutilização, reciclagem e valorização	1311	1321	395	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 34.º	Proibição da deposição em aterro de resíduos não inertes	1323	1325	98	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 35.º	Transferências de veículos em fim de vida	1327	1331	229	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 36.º	Transferência de propriedade de veículos usados no território da União	1335	1343	302	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 37.º	Estatuto do veículo	1345	1351	277	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 38.º	Autoridade competente para a exportação de veículos usados para países terceiros	1355	1359	138	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 39.º	Controlos e requisitos aplicáveis à exportação de veículos usados	1361	1389	596	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 40.º	Verificação automatizada das informações sobre o estatuto do veículo	1391	1395	256	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 41.º	Gestão dos riscos e controlos aduaneiros	1397	1405	488	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 42.º	Suspensão	1407	1411	272	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 43.º	Autorização de saída para exportação	1413	1423	344	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 44.º	Recusa de autorização de saída para exportação	1425	1429	132	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 45.º	Cooperação entre autoridades e intercâmbio de informações	1431	1447	561	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 46.º	Sistemas eletrónicos	1449	1467	851	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 47.º	Inspeções	1471	1489	463	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 48.º	Cooperação em matéria de execução a nível nacional e entre Estados-Membros	1491	1499	561	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 49.º	Sanções	1501	1503	168	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 50.º	Comunicação de informações à Comissão	1505	1587	1554	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 51.º	Exercício da delegação	1591	1603	638	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 52.º	Procedimento de comité	1605	1609	74	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 53.º	Alteração do Regulamento (UE) 2023/1542	1613	1615	42	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 54.º	Alteração do Regulamento (UE) 2019/1020	1617	1619	34	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 55.º	Alteração dos Regulamentos (UE) 2018/858 e (UE) n.º 168/2013	1621	1623	59	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 56.º	Reexame	1627	1695	1847	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 57.º	Revogação e disposições transitórias	1697	1723	444	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 58.º	Aplicabilidade ao Reino Unido e no seu território no que diz respeito à Irlanda do Norte	1725	1739	385	ue/regulamentos/2026/32026R1738.md
+32026R1738	Artigo 59.º	Entrada em vigor e aplicação	1741	1841	3295	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO I	CRITÉRIOS PARA DETERMINAR SE UM VEÍCULO É UM VEÍCULO EM FIM DE VIDA	1843	1907	1138	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO II	CRITÉRIOS PARA RECONHECIMENTO DO ESTATUTO DE VEÍCULO DE INTERESSE CULTURAL ESPECIAL	1909	1931	526	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO III	CÁLCULO DAS TAXAS DE REUTILIZAÇÃO POTENCIAL, RECICLAGEM POTENCIAL E VALORIZAÇÃO POTENCIAL	1933	1966	855	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO IV	CONDIÇÕES E VALORES MÁXIMOS DE CONCENTRAÇÃO APLICÁVEIS À PRESENÇA DE CHUMBO, MERCÚRIO, CÁDMIO E CRÓMIO HEXAVALENTE NOS MATERIAIS, PEÇAS E COMPONENTES	1968	2023	3035	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO V	ESTRATÉGIA DE CIRCULARIDADE	2025	2130	1999	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO VII	REQUISITOS DE ROTULAGEM	2132	2144	189	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO VIII	REQUISITOS DE TRATAMENTO	2146	2292	4722	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO IX	INFORMAÇÕES PARA O REGISTO NO REGISTO DE PRODUTORES	2294	2330	880	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO X	CERTIFICADO DE DESTRUIÇÃO	2332	2363	384	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO XI	ALTERAÇÃO DO REGULAMENTO (UE) 2018/858 E DO REGULAMENTO (UE) N.º 168/2013	2365	2426	708	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO XII	ALTERAÇÃO DO REGULAMENTO (UE) 2023/1542	2428	2446	1385	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO XIII	CRITÉRIOS A CUMPRIR PELAS INSTALAÇÕES EM PAÍSES TERCEIROS QUE PRODUZEM MATERIAIS RECICLADOS	2448	2467	1400	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO XIV	REQUISITOS APLICÁVEIS ÀS AUDITORIAS, AOS CERTIFICADORES E AOS AUDITORES	2469	2488	752	ue/regulamentos/2026/32026R1738.md
+32026R1738	ANEXO XV	TABELAS DE CORRESPONDÊNCIA	2490	2645	1593	ue/regulamentos/2026/32026R1738.md
 32026R1739	Preâmbulo		18	118	8980	ue/regulamentos/2026/32026R1739.md
 32026R1739	Artigo 1.º	Alteração do Regulamento (UE) n.º 1308/2013	122	152	323	ue/regulamentos/2026/32026R1739.md
 32026R1739	Artigo 88.º-A	Menções facultativas para modalidades comerciais	156	182	921	ue/regulamentos/2026/32026R1739.md
@@ -4699,28 +4721,46 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R1761	Artigo 2.º		59	77	340	ue/regulamentos/2026/32026R1761.md
 32026R1761	ANEXO		79	85	38	ue/regulamentos/2026/32026R1761.md
 32026R1761	ANEXO I	Normas relativas à lastragem dos palangres	87	181	1247	ue/regulamentos/2026/32026R1761.md
-32026R1762	Preâmbulo		18	42	1228	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 1.º	Âmbito	46	52	83	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 2.º	Requisitos de homologação de emissões no que diz respeito ao sistema de travagem	54	66	212	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 3.º	Pedido de homologação de emissões do sistema de travagem	68	70	102	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 4.º	Disposições administrativas para a homologação de emissões de um sistema de travagem	72	78	253	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 5.º	Alterações das homologações de emissões	80	82	103	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 6.º	Conformidade da produção	84	88	118	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 7.º	Conformidade em circulação	90	94	250	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 8.º	Dispositivos manipuladores e estratégias manipuladoras para os sistemas de travagem	96	98	154	ue/regulamentos/2026/32026R1762.md
-32026R1762	Artigo 9.º	Entrada em vigor	100	132	944	ue/regulamentos/2026/32026R1762.md
-32026R1762	ANEXO I	Relatórios de ensaio referidos no artigo 4.º	134	154	316	ue/regulamentos/2026/32026R1762.md
-32026R1762	Apêndice 1	Relatório de ensaio da família de emissões dos cantos dos travões	156	160	86	ue/regulamentos/2026/32026R1762.md
-32026R1762	Apêndice 2	Relatório de ensaio do coeficiente da quota-parte individual da travagem por atrito (fator c)	162	166	114	ue/regulamentos/2026/32026R1762.md
-32026R1762	Apêndice 3	Relatório de demonstração da conformidade do modelo de veículo	168	170	54	ue/regulamentos/2026/32026R1762.md
-32026R1762	ANEXO II	Homologação	172	190	192	ue/regulamentos/2026/32026R1762.md
-32026R1762	Apêndice 1	MODELO de ficha de informações N.º	192	198	165	ue/regulamentos/2026/32026R1762.md
-32026R1762	Apêndice 2	MODELO DE CERTIFICADO DE HOMOLOGAÇÃO UE	200	276	631	ue/regulamentos/2026/32026R1762.md
-32026R1762	ANEXO III	PROCEDIMENTOS DE ENSAIO	278	293	140	ue/regulamentos/2026/32026R1762.md
-32026R1762	Apêndice 1	Eventos do ciclo de travagem WLTP	295	297	54	ue/regulamentos/2026/32026R1762.md
-32026R1762	Apêndice 2	Eventos de travagem do ciclo de travagem WLTP	299	301	64	ue/regulamentos/2026/32026R1762.md
-32026R1762	Apêndice 3	Método de medição e cálculo dos coeficientes da quota-parte da travagem por atrito específicos do veículo	303	305	104	ue/regulamentos/2026/32026R1762.md
-32026R1762	ANEXO IV	LISTA DE TRANSPARÊNCIA	307	326	268	ue/regulamentos/2026/32026R1762.md
+32026R1762	Preâmbulo		22	46	1228	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 1.º	Âmbito	50	56	83	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 2.º	Requisitos de homologação de emissões no que diz respeito ao sistema de travagem	58	70	212	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 3.º	Pedido de homologação de emissões do sistema de travagem	72	74	102	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 4.º	Disposições administrativas para a homologação de emissões de um sistema de travagem	76	82	253	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 5.º	Alterações das homologações de emissões	84	86	103	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 6.º	Conformidade da produção	88	92	118	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 7.º	Conformidade em circulação	94	98	250	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 8.º	Dispositivos manipuladores e estratégias manipuladoras para os sistemas de travagem	100	102	154	ue/regulamentos/2026/32026R1762.md
+32026R1762	Artigo 9.º	Entrada em vigor	104	136	944	ue/regulamentos/2026/32026R1762.md
+32026R1762	ANEXO I	Relatórios de ensaio referidos no artigo 4.º	138	158	316	ue/regulamentos/2026/32026R1762.md
+32026R1762	Apêndice 1	Relatório de ensaio da família de emissões dos cantos dos travões	160	164	86	ue/regulamentos/2026/32026R1762.md
+32026R1762	Apêndice 2	Relatório de ensaio do coeficiente da quota-parte individual da travagem por atrito (fator c)	166	170	114	ue/regulamentos/2026/32026R1762.md
+32026R1762	Apêndice 3	Relatório de demonstração da conformidade do modelo de veículo	172	174	54	ue/regulamentos/2026/32026R1762.md
+32026R1762	ANEXO II	Homologação	176	194	192	ue/regulamentos/2026/32026R1762.md
+32026R1762	Apêndice 1	MODELO de ficha de informações N.º	196	202	165	ue/regulamentos/2026/32026R1762.md
+32026R1762	Apêndice 2	MODELO DE CERTIFICADO DE HOMOLOGAÇÃO UE	204	280	631	ue/regulamentos/2026/32026R1762.md
+32026R1762	ANEXO III	PROCEDIMENTOS DE ENSAIO	282	297	140	ue/regulamentos/2026/32026R1762.md
+32026R1762	Apêndice 1	Eventos do ciclo de travagem WLTP	299	301	54	ue/regulamentos/2026/32026R1762.md
+32026R1762	Apêndice 2	Eventos de travagem do ciclo de travagem WLTP	303	305	64	ue/regulamentos/2026/32026R1762.md
+32026R1762	Apêndice 3	Método de medição e cálculo dos coeficientes da quota-parte da travagem por atrito específicos do veículo	307	309	104	ue/regulamentos/2026/32026R1762.md
+32026R1762	ANEXO IV	LISTA DE TRANSPARÊNCIA	311	330	268	ue/regulamentos/2026/32026R1762.md
+32026R1763	Preâmbulo		19	71	2676	ue/regulamentos/2026/32026R1763.md
+32026R1763	Artigo 1.º	Alterações do Regulamento Delegado (UE) 2017/583	75	81	54	ue/regulamentos/2026/32026R1763.md
+32026R1763	«Artigo 3.º	Ordens de volume elevado sobre derivados	83	115	644	ue/regulamentos/2026/32026R1763.md
+32026R1763	«Artigo 6.º	Categorias de instrumentos financeiros para os quais não existe um mercado líquido	117	155	648	ue/regulamentos/2026/32026R1763.md
+32026R1763	«Artigo 8.º	Publicação diferida de transações de derivados	157	191	1214	ue/regulamentos/2026/32026R1763.md
+32026R1763	«Artigo 13.º	Metodologia para determinar os limiares de transparência para os derivados de capital próprio	193	205	331	ue/regulamentos/2026/32026R1763.md
+32026R1763	«Artigo 14.º	Transações efetuadas por membros do SEBC que não são membros do Eurosistema e às quais se aplica a isenção prevista no artigo 1.º, n.º 6, do Regulamento (UE) n.	207	217	352	ue/regulamentos/2026/32026R1763.md
+32026R1763	Artigo 15.º	Transações efetuadas por membros do SEBC que não são membros do Eurosistema e às quais não se aplica a isenção prevista no artigo 1.º, n.º 6, do Regulamento (UE	219	229	255	ue/regulamentos/2026/32026R1763.md
+32026R1763	Artigo 16.º	Suspensão temporária das obrigações de transparência	231	251	746	ue/regulamentos/2026/32026R1763.md
+32026R1763	Artigo 2.º	Alterações do Regulamento Delegado (UE) 2017/2194	253	314	1379	ue/regulamentos/2026/32026R1763.md
+32026R1763	Artigo 3.º	Alterações do Regulamento Delegado (UE) 2025/1155	316	326	155	ue/regulamentos/2026/32026R1763.md
+32026R1763	«Artigo 6.º-A	Dados a transmitir aos CTP para derivados OTC	328	346	361	ue/regulamentos/2026/32026R1763.md
+32026R1763	«Artigo 8.º-A	Dados a divulgar pelos CTP para derivados OTC	348	364	256	ue/regulamentos/2026/32026R1763.md
+32026R1763	Artigo 4.º	Retificações do Regulamento Delegado (UE) 2017/587	366	376	140	ue/regulamentos/2026/32026R1763.md
+32026R1763	Artigo 5.º	Entrada em vigor e aplicação	378	408	1027	ue/regulamentos/2026/32026R1763.md
+32026R1763	ANEXO I		410	859	16518	ue/regulamentos/2026/32026R1763.md
+32026R1763	ANEXO II		861	928	2183	ue/regulamentos/2026/32026R1763.md
+32026R1763	ANEXO III		930	944	364	ue/regulamentos/2026/32026R1763.md
 32026R1764	Preâmbulo		18	54	1810	ue/regulamentos/2026/32026R1764.md
 32026R1764	Artigo 1.º		58	93	634	ue/regulamentos/2026/32026R1764.md
 32026R1764	«Artigo 10.º-A	Conformidade em circulação da durabilidade da bateria a bordo dos veículos	95	97	90	ue/regulamentos/2026/32026R1764.md
@@ -4747,6 +4787,9 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R1768	Artigo 3.º	Entrada em vigor	242	270	468	ue/regulamentos/2026/32026R1768.md
 32026R1768	ANEXO I		272	285	242	ue/regulamentos/2026/32026R1768.md
 32026R1768	ANEXO II	«ANEXO XVI	287	353	454	ue/regulamentos/2026/32026R1768.md
+32026R1770	Preâmbulo		19	47	1138	ue/regulamentos/2026/32026R1770.md
+32026R1770	Artigo 1.º		51	77	573	ue/regulamentos/2026/32026R1770.md
+32026R1770	Artigo 2.º		79	103	366	ue/regulamentos/2026/32026R1770.md
 32026R1772	Preâmbulo		18	42	1066	ue/regulamentos/2026/32026R1772.md
 32026R1772	Artigo 1.º	Autorização	46	48	72	ue/regulamentos/2026/32026R1772.md
 32026R1772	Artigo 2.º	Entrada em vigor	50	70	264	ue/regulamentos/2026/32026R1772.md
@@ -5161,13 +5204,13 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R1893	Preâmbulo		18	48	1070	ue/regulamentos/2026/32026R1893.md
 32026R1893	Artigo 1.º		52	54	27	ue/regulamentos/2026/32026R1893.md
 32026R1893	Artigo 2.º		56	88	740	ue/regulamentos/2026/32026R1893.md
-32026R1894	Preâmbulo		18	76	2837	ue/regulamentos/2026/32026R1894.md
-32026R1894	Artigo 1.º		80	94	478	ue/regulamentos/2026/32026R1894.md
-32026R1894	Artigo 2.º		96	100	118	ue/regulamentos/2026/32026R1894.md
-32026R1894	Artigo 3.º		102	104	86	ue/regulamentos/2026/32026R1894.md
-32026R1894	Artigo 4.º		106	136	410	ue/regulamentos/2026/32026R1894.md
-32026R1894	Artigo 5.º		138	158	385	ue/regulamentos/2026/32026R1894.md
-32026R1894	ANEXO	Montantes disponibilizados aos Estados-Membros, a que se refere o artigo 1.º, n.º 2	160	190	202	ue/regulamentos/2026/32026R1894.md
+32026R1894	Preâmbulo		22	80	2837	ue/regulamentos/2026/32026R1894.md
+32026R1894	Artigo 1.º		84	98	478	ue/regulamentos/2026/32026R1894.md
+32026R1894	Artigo 2.º		100	104	118	ue/regulamentos/2026/32026R1894.md
+32026R1894	Artigo 3.º		106	108	86	ue/regulamentos/2026/32026R1894.md
+32026R1894	Artigo 4.º		110	140	410	ue/regulamentos/2026/32026R1894.md
+32026R1894	Artigo 5.º		142	162	385	ue/regulamentos/2026/32026R1894.md
+32026R1894	ANEXO	Montantes disponibilizados aos Estados-Membros, a que se refere o artigo 1.º, n.º 2	164	194	202	ue/regulamentos/2026/32026R1894.md
 32026R1895	Preâmbulo		18	40	631	ue/regulamentos/2026/32026R1895.md
 32026R1895	Artigo 1.º		44	46	28	ue/regulamentos/2026/32026R1895.md
 32026R1895	Artigo 2.º		48	62	101	ue/regulamentos/2026/32026R1895.md
@@ -5864,50 +5907,50 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2108	Artigo 286.º	Data de adoção de determinados atos delegados e atos de execução	6299	6313	265	ue/regulamentos/2026/32026R2108.md
 32026R2108	Artigo 287.º	Entrada em vigor e aplicação	6315	6469	4136	ue/regulamentos/2026/32026R2108.md
 32026R2108	ANEXO	TABELA DE CORRESPONDÊNCIA	6471	7205	8730	ue/regulamentos/2026/32026R2108.md
-32026R2110	Preâmbulo		19	45	1426	ue/regulamentos/2026/32026R2110.md
-32026R2110	Artigo 1.º	Autorização	49	51	70	ue/regulamentos/2026/32026R2110.md
-32026R2110	Artigo 2.º	Medidas transitórias	53	59	341	ue/regulamentos/2026/32026R2110.md
-32026R2110	Artigo 3.º	Entrada em vigor	61	79	189	ue/regulamentos/2026/32026R2110.md
-32026R2110	ANEXO		81	88	918	ue/regulamentos/2026/32026R2110.md
+32026R2110	Preâmbulo		18	44	1426	ue/regulamentos/2026/32026R2110.md
+32026R2110	Artigo 1.º	Autorização	48	50	70	ue/regulamentos/2026/32026R2110.md
+32026R2110	Artigo 2.º	Medidas transitórias	52	58	341	ue/regulamentos/2026/32026R2110.md
+32026R2110	Artigo 3.º	Entrada em vigor	60	78	189	ue/regulamentos/2026/32026R2110.md
+32026R2110	ANEXO		80	87	918	ue/regulamentos/2026/32026R2110.md
 32026R2111	Preâmbulo		18	40	857	ue/regulamentos/2026/32026R2111.md
 32026R2111	Artigo 1.º		44	48	42	ue/regulamentos/2026/32026R2111.md
 32026R2111	Artigo 2.º		50	72	342	ue/regulamentos/2026/32026R2111.md
-32026R2113	Preâmbulo		19	45	1414	ue/regulamentos/2026/32026R2113.md
-32026R2113	Artigo 1.º	Autorização	49	51	70	ue/regulamentos/2026/32026R2113.md
-32026R2113	Artigo 2.º	Medidas transitórias	53	59	342	ue/regulamentos/2026/32026R2113.md
-32026R2113	Artigo 3.º	Entrada em vigor	61	79	188	ue/regulamentos/2026/32026R2113.md
-32026R2113	ANEXO		81	107	1502	ue/regulamentos/2026/32026R2113.md
-32026R2115	Preâmbulo		19	47	1083	ue/regulamentos/2026/32026R2115.md
-32026R2115	Artigo 1.º	Renovação da autorização	51	53	84	ue/regulamentos/2026/32026R2115.md
-32026R2115	Artigo 2.º	Revogação	55	57	20	ue/regulamentos/2026/32026R2115.md
-32026R2115	Artigo 3.º	Medidas transitórias	59	65	357	ue/regulamentos/2026/32026R2115.md
-32026R2115	Artigo 4.º	Entrada em vigor	67	87	322	ue/regulamentos/2026/32026R2115.md
-32026R2115	ANEXO		89	103	1570	ue/regulamentos/2026/32026R2115.md
-32026R2116	Preâmbulo		19	45	719	ue/regulamentos/2026/32026R2116.md
-32026R2116	Artigo 1.º		49	53	108	ue/regulamentos/2026/32026R2116.md
-32026R2116	Artigo 2.º		55	71	163	ue/regulamentos/2026/32026R2116.md
-32026R2116	ANEXO	RESUMO DAS CARACTERÍSTICAS DO PRODUTO PARA UMA FAMÍLIA DE PRODUTOS BIOCIDAS (SPC BPF)	73	6451	123124	ue/regulamentos/2026/32026R2116.md
+32026R2113	Preâmbulo		18	44	1414	ue/regulamentos/2026/32026R2113.md
+32026R2113	Artigo 1.º	Autorização	48	50	70	ue/regulamentos/2026/32026R2113.md
+32026R2113	Artigo 2.º	Medidas transitórias	52	58	342	ue/regulamentos/2026/32026R2113.md
+32026R2113	Artigo 3.º	Entrada em vigor	60	78	188	ue/regulamentos/2026/32026R2113.md
+32026R2113	ANEXO		80	106	1502	ue/regulamentos/2026/32026R2113.md
+32026R2115	Preâmbulo		18	46	1083	ue/regulamentos/2026/32026R2115.md
+32026R2115	Artigo 1.º	Renovação da autorização	50	52	84	ue/regulamentos/2026/32026R2115.md
+32026R2115	Artigo 2.º	Revogação	54	56	20	ue/regulamentos/2026/32026R2115.md
+32026R2115	Artigo 3.º	Medidas transitórias	58	64	357	ue/regulamentos/2026/32026R2115.md
+32026R2115	Artigo 4.º	Entrada em vigor	66	86	322	ue/regulamentos/2026/32026R2115.md
+32026R2115	ANEXO		88	102	1570	ue/regulamentos/2026/32026R2115.md
+32026R2116	Preâmbulo		18	44	719	ue/regulamentos/2026/32026R2116.md
+32026R2116	Artigo 1.º		48	52	108	ue/regulamentos/2026/32026R2116.md
+32026R2116	Artigo 2.º		54	70	163	ue/regulamentos/2026/32026R2116.md
+32026R2116	ANEXO	RESUMO DAS CARACTERÍSTICAS DO PRODUTO PARA UMA FAMÍLIA DE PRODUTOS BIOCIDAS (SPC BPF)	72	6450	123124	ue/regulamentos/2026/32026R2116.md
 32026R2118	Preâmbulo		18	56	1030	ue/regulamentos/2026/32026R2118.md
 32026R2118	Artigo 1.º		60	64	352	ue/regulamentos/2026/32026R2118.md
 32026R2118	Artigo 2.º		66	88	258	ue/regulamentos/2026/32026R2118.md
-32026R2120	Preâmbulo		19	55	1837	ue/regulamentos/2026/32026R2120.md
-32026R2120	Artigo 1.º	Autorização	59	61	70	ue/regulamentos/2026/32026R2120.md
-32026R2120	Artigo 2.º	Retirada do mercado	63	65	61	ue/regulamentos/2026/32026R2120.md
-32026R2120	Artigo 3.º	Medidas transitórias relacionadas com a autorização	67	73	352	ue/regulamentos/2026/32026R2120.md
-32026R2120	Artigo 4.º	Medidas transitórias relacionadas com a retirada do mercado	75	81	184	ue/regulamentos/2026/32026R2120.md
-32026R2120	Artigo 5.º	Entrada em vigor	83	101	187	ue/regulamentos/2026/32026R2120.md
-32026R2120	ANEXO		103	129	1512	ue/regulamentos/2026/32026R2120.md
+32026R2120	Preâmbulo		18	54	1837	ue/regulamentos/2026/32026R2120.md
+32026R2120	Artigo 1.º	Autorização	58	60	70	ue/regulamentos/2026/32026R2120.md
+32026R2120	Artigo 2.º	Retirada do mercado	62	64	61	ue/regulamentos/2026/32026R2120.md
+32026R2120	Artigo 3.º	Medidas transitórias relacionadas com a autorização	66	72	352	ue/regulamentos/2026/32026R2120.md
+32026R2120	Artigo 4.º	Medidas transitórias relacionadas com a retirada do mercado	74	80	184	ue/regulamentos/2026/32026R2120.md
+32026R2120	Artigo 5.º	Entrada em vigor	82	100	187	ue/regulamentos/2026/32026R2120.md
+32026R2120	ANEXO		102	128	1512	ue/regulamentos/2026/32026R2120.md
 32026R2128	Preâmbulo		18	44	1469	ue/regulamentos/2026/32026R2128.md
 32026R2128	Artigo 1.º	Autorização	48	50	71	ue/regulamentos/2026/32026R2128.md
 32026R2128	Artigo 2.º	Medidas transitórias	52	58	346	ue/regulamentos/2026/32026R2128.md
 32026R2128	Artigo 3.º	Entrada em vigor	60	78	187	ue/regulamentos/2026/32026R2128.md
 32026R2128	ANEXO		80	107	1558	ue/regulamentos/2026/32026R2128.md
-32026R2129	Preâmbulo		19	49	1076	ue/regulamentos/2026/32026R2129.md
-32026R2129	Artigo 1.º	Renovação da autorização	53	55	69	ue/regulamentos/2026/32026R2129.md
-32026R2129	Artigo 2.º	Revogação	57	59	20	ue/regulamentos/2026/32026R2129.md
-32026R2129	Artigo 3.º	Medidas transitórias	61	65	241	ue/regulamentos/2026/32026R2129.md
-32026R2129	Artigo 4.º	Entrada em vigor	67	87	310	ue/regulamentos/2026/32026R2129.md
-32026R2129	ANEXO		89	96	861	ue/regulamentos/2026/32026R2129.md
+32026R2129	Preâmbulo		18	48	1076	ue/regulamentos/2026/32026R2129.md
+32026R2129	Artigo 1.º	Renovação da autorização	52	54	69	ue/regulamentos/2026/32026R2129.md
+32026R2129	Artigo 2.º	Revogação	56	58	20	ue/regulamentos/2026/32026R2129.md
+32026R2129	Artigo 3.º	Medidas transitórias	60	64	241	ue/regulamentos/2026/32026R2129.md
+32026R2129	Artigo 4.º	Entrada em vigor	66	86	310	ue/regulamentos/2026/32026R2129.md
+32026R2129	ANEXO		88	95	861	ue/regulamentos/2026/32026R2129.md
 32026R2130	Preâmbulo		18	46	1668	ue/regulamentos/2026/32026R2130.md
 32026R2130	Artigo 1.º	Renovação da autorização	50	52	122	ue/regulamentos/2026/32026R2130.md
 32026R2130	Artigo 2.º	Autorização	54	56	78	ue/regulamentos/2026/32026R2130.md
@@ -5945,16 +5988,19 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2149	Artigo 1.º		52	54	36	ue/regulamentos/2026/32026R2149.md
 32026R2149	Artigo 2.º		56	74	326	ue/regulamentos/2026/32026R2149.md
 32026R2149	ANEXO		76	116	919	ue/regulamentos/2026/32026R2149.md
+32026R2152	Preâmbulo		18	36	1120	ue/regulamentos/2026/32026R2152.md
+32026R2152	Artigo 1.º	Montante da taxa de tratamento da União	40	42	47	ue/regulamentos/2026/32026R2152.md
+32026R2152	Artigo 2.º		44	70	327	ue/regulamentos/2026/32026R2152.md
 32026R2155	Preâmbulo		18	40	883	ue/regulamentos/2026/32026R2155.md
 32026R2155	Artigo 1.º		44	46	70	ue/regulamentos/2026/32026R2155.md
 32026R2155	Artigo 2.º		48	50	32	ue/regulamentos/2026/32026R2155.md
 32026R2155	Artigo 3.º		52	74	490	ue/regulamentos/2026/32026R2155.md
 32026R2155	ANEXO		76	82	89	ue/regulamentos/2026/32026R2155.md
-32026R2158	Preâmbulo		19	45	1788	ue/regulamentos/2026/32026R2158.md
-32026R2158	Artigo 1.º	Autorização	49	51	72	ue/regulamentos/2026/32026R2158.md
-32026R2158	Artigo 2.º	Medidas transitórias	53	59	386	ue/regulamentos/2026/32026R2158.md
-32026R2158	Artigo 3.º	Entrada em vigor	61	79	188	ue/regulamentos/2026/32026R2158.md
-32026R2158	ANEXO		81	159	4962	ue/regulamentos/2026/32026R2158.md
+32026R2158	Preâmbulo		18	44	1788	ue/regulamentos/2026/32026R2158.md
+32026R2158	Artigo 1.º	Autorização	48	50	72	ue/regulamentos/2026/32026R2158.md
+32026R2158	Artigo 2.º	Medidas transitórias	52	58	386	ue/regulamentos/2026/32026R2158.md
+32026R2158	Artigo 3.º	Entrada em vigor	60	78	188	ue/regulamentos/2026/32026R2158.md
+32026R2158	ANEXO		80	158	4962	ue/regulamentos/2026/32026R2158.md
 32026R2160	Preâmbulo		18	36	266	ue/regulamentos/2026/32026R2160.md
 32026R2160	Artigo 1.º		40	42	29	ue/regulamentos/2026/32026R2160.md
 32026R2160	Artigo 2.º		44	58	101	ue/regulamentos/2026/32026R2160.md
@@ -5966,20 +6012,20 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2165	Artigo 1.º		44	46	28	ue/regulamentos/2026/32026R2165.md
 32026R2165	Artigo 2.º		48	62	101	ue/regulamentos/2026/32026R2165.md
 32026R2165	ANEXO		64	70	746	ue/regulamentos/2026/32026R2165.md
-32026R2167	Preâmbulo		19	35	284	ue/regulamentos/2026/32026R2167.md
-32026R2167	Artigo 1.º		39	41	48	ue/regulamentos/2026/32026R2167.md
-32026R2167	Artigo 2.º		43	65	160	ue/regulamentos/2026/32026R2167.md
-32026R2168	Preâmbulo		19	35	292	ue/regulamentos/2026/32026R2168.md
-32026R2168	Artigo 1.º		39	41	51	ue/regulamentos/2026/32026R2168.md
-32026R2168	Artigo 2.º		43	65	160	ue/regulamentos/2026/32026R2168.md
+32026R2167	Preâmbulo		18	34	284	ue/regulamentos/2026/32026R2167.md
+32026R2167	Artigo 1.º		38	40	48	ue/regulamentos/2026/32026R2167.md
+32026R2167	Artigo 2.º		42	64	160	ue/regulamentos/2026/32026R2167.md
+32026R2168	Preâmbulo		18	34	292	ue/regulamentos/2026/32026R2168.md
+32026R2168	Artigo 1.º		38	40	51	ue/regulamentos/2026/32026R2168.md
+32026R2168	Artigo 2.º		42	64	160	ue/regulamentos/2026/32026R2168.md
 32026R2184	Preâmbulo		18	40	563	ue/regulamentos/2026/32026R2184.md
 32026R2184	Artigo 1.º		44	46	29	ue/regulamentos/2026/32026R2184.md
 32026R2184	Artigo 2.º		48	62	101	ue/regulamentos/2026/32026R2184.md
 32026R2184	ANEXO		64	103	11982	ue/regulamentos/2026/32026R2184.md
-32026R2188	Preâmbulo		19	55	2008	ue/regulamentos/2026/32026R2188.md
-32026R2188	Artigo 1.º		59	61	36	ue/regulamentos/2026/32026R2188.md
-32026R2188	Artigo 2.º		63	85	597	ue/regulamentos/2026/32026R2188.md
-32026R2188	ANEXO		87	126	917	ue/regulamentos/2026/32026R2188.md
+32026R2188	Preâmbulo		18	54	2008	ue/regulamentos/2026/32026R2188.md
+32026R2188	Artigo 1.º		58	60	36	ue/regulamentos/2026/32026R2188.md
+32026R2188	Artigo 2.º		62	84	597	ue/regulamentos/2026/32026R2188.md
+32026R2188	ANEXO		86	125	917	ue/regulamentos/2026/32026R2188.md
 32026R2191	Preâmbulo		18	36	287	ue/regulamentos/2026/32026R2191.md
 32026R2191	Artigo 1.º		40	46	70	ue/regulamentos/2026/32026R2191.md
 32026R2191	Artigo 2.º		48	62	104	ue/regulamentos/2026/32026R2191.md
@@ -5989,58 +6035,58 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2193	Artigo 1.º		42	44	28	ue/regulamentos/2026/32026R2193.md
 32026R2193	Artigo 2.º		46	60	102	ue/regulamentos/2026/32026R2193.md
 32026R2193	ANEXO		62	77	2506	ue/regulamentos/2026/32026R2193.md
-32026R2199	Preâmbulo		19	41	453	ue/regulamentos/2026/32026R2199.md
-32026R2199	Artigo 1.º		45	47	53	ue/regulamentos/2026/32026R2199.md
-32026R2199	Artigo 2.º		49	51	17	ue/regulamentos/2026/32026R2199.md
-32026R2199	Artigo 3.º		53	55	59	ue/regulamentos/2026/32026R2199.md
-32026R2199	Artigo 4.º		57	79	217	ue/regulamentos/2026/32026R2199.md
-32026R2201	Preâmbulo		19	47	832	ue/regulamentos/2026/32026R2201.md
-32026R2201	Artigo 1.º		51	57	69	ue/regulamentos/2026/32026R2201.md
-32026R2201	Artigo 2.º		59	81	426	ue/regulamentos/2026/32026R2201.md
-32026R2201	ANEXO	RESUMO DAS CARACTERÍSTICAS DO PRODUTO PARA UMA FAMÍLIA DE PRODUTOS BIOCIDAS (SPC BPF)	83	574	7246	ue/regulamentos/2026/32026R2201.md
-32026R2202	Preâmbulo		19	151	11307	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 1.º		155	159	32	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 1.º	Objeto	161	288	3075	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 3.º	Âmbito	290	320	790	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 3.º-A	Rótulo da União relativo aos Direitos dos Passageiros dos Transportes Aéreos	322	344	493	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 4.º	Recusa de embarque	346	368	948	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 5.º	Cancelamento	370	390	946	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 6.º	Atrasos	392	406	380	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 6.º-A	Atraso na pista	408	416	382	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 6.º-B	Perda de voo de ligação durante trajetos realizados no quadro de um único contrato de transporte aéreo	418	426	322	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 6.º-C	Circunstâncias extraordinárias	428	436	277	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 7.º	Direito a indemnização	438	476	1201	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 8.º	Direito a reembolso ou reencaminhamento	478	522	1596	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 8.º-A	Vales	524	552	755	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 9.º	Direito à assistência	554	584	836	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 10.º	Colocação em classe superior ou inferior	586	606	474	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 10.º-A	Planos de contingência do aeroporto	608	624	877	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 11.º	Passageiros com necessidades especiais	626	660	1212	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 11.º-A	Objeto pessoal e bagagem de mão	662	674	420	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 11.º-B	Cartões de embarque	676	688	405	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 12.º	Outros direitos	690	704	537	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 12.º-A	Correção de nomes	706	720	256	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 13.º	Direito de reparação	722	728	188	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 14.º	Obrigações de informar os passageiros	730	766	1471	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 15.º-A	Reclamação à transportadora aérea ou ao intermediário	768	782	419	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 16.º-H	Procedimento de comité	784	796	244	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 17.º	Avaliação e relatório	798	816	534	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 2.º		818	846	653	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 3.º		848	856	297	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 3.º-A		858	864	169	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 5.º		866	913	1326	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 6.º-A		915	929	1034	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 6.º-B		931	943	333	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 6.º-C		945	949	420	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 6.º-D		951	959	168	ue/regulamentos/2026/32026R2202.md
-32026R2202	«Artigo 7.º		961	969	96	ue/regulamentos/2026/32026R2202.md
-32026R2202	Artigo 3.º		971	1027	1308	ue/regulamentos/2026/32026R2202.md
-32026R2202	ANEXO I	«ANEXO	1029	1079	1188	ue/regulamentos/2026/32026R2202.md
-32026R2202	ANEXO II	«ANEXO	1081	1167	2488	ue/regulamentos/2026/32026R2202.md
-32026R2203	Preâmbulo		19	43	864	ue/regulamentos/2026/32026R2203.md
-32026R2203	Artigo 1.º		47	49	34	ue/regulamentos/2026/32026R2203.md
-32026R2203	Artigo 2.º		51	71	346	ue/regulamentos/2026/32026R2203.md
-32026R2203	ANEXO	RESUMO DAS CARACTERÍSTICAS DO PRODUTO PARA UMA FAMÍLIA DE PRODUTOS BIOCIDAS (SPC BPF)	73	651	8323	ue/regulamentos/2026/32026R2203.md
+32026R2199	Preâmbulo		18	40	453	ue/regulamentos/2026/32026R2199.md
+32026R2199	Artigo 1.º		44	46	53	ue/regulamentos/2026/32026R2199.md
+32026R2199	Artigo 2.º		48	50	17	ue/regulamentos/2026/32026R2199.md
+32026R2199	Artigo 3.º		52	54	59	ue/regulamentos/2026/32026R2199.md
+32026R2199	Artigo 4.º		56	78	217	ue/regulamentos/2026/32026R2199.md
+32026R2201	Preâmbulo		18	46	832	ue/regulamentos/2026/32026R2201.md
+32026R2201	Artigo 1.º		50	56	69	ue/regulamentos/2026/32026R2201.md
+32026R2201	Artigo 2.º		58	80	426	ue/regulamentos/2026/32026R2201.md
+32026R2201	ANEXO	RESUMO DAS CARACTERÍSTICAS DO PRODUTO PARA UMA FAMÍLIA DE PRODUTOS BIOCIDAS (SPC BPF)	82	573	7246	ue/regulamentos/2026/32026R2201.md
+32026R2202	Preâmbulo		18	150	11307	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 1.º		154	158	32	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 1.º	Objeto	160	287	3075	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 3.º	Âmbito	289	319	790	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 3.º-A	Rótulo da União relativo aos Direitos dos Passageiros dos Transportes Aéreos	321	343	493	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 4.º	Recusa de embarque	345	367	948	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 5.º	Cancelamento	369	389	946	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 6.º	Atrasos	391	405	380	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 6.º-A	Atraso na pista	407	415	382	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 6.º-B	Perda de voo de ligação durante trajetos realizados no quadro de um único contrato de transporte aéreo	417	425	322	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 6.º-C	Circunstâncias extraordinárias	427	435	277	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 7.º	Direito a indemnização	437	475	1201	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 8.º	Direito a reembolso ou reencaminhamento	477	521	1596	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 8.º-A	Vales	523	551	755	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 9.º	Direito à assistência	553	583	836	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 10.º	Colocação em classe superior ou inferior	585	605	474	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 10.º-A	Planos de contingência do aeroporto	607	623	877	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 11.º	Passageiros com necessidades especiais	625	659	1212	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 11.º-A	Objeto pessoal e bagagem de mão	661	673	420	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 11.º-B	Cartões de embarque	675	687	405	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 12.º	Outros direitos	689	703	537	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 12.º-A	Correção de nomes	705	719	256	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 13.º	Direito de reparação	721	727	188	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 14.º	Obrigações de informar os passageiros	729	765	1471	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 15.º-A	Reclamação à transportadora aérea ou ao intermediário	767	781	419	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 16.º-H	Procedimento de comité	783	795	244	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 17.º	Avaliação e relatório	797	815	534	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 2.º		817	845	653	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 3.º		847	855	297	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 3.º-A		857	863	169	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 5.º		865	912	1326	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 6.º-A		914	928	1034	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 6.º-B		930	942	333	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 6.º-C		944	948	420	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 6.º-D		950	958	168	ue/regulamentos/2026/32026R2202.md
+32026R2202	«Artigo 7.º		960	968	96	ue/regulamentos/2026/32026R2202.md
+32026R2202	Artigo 3.º		970	1026	1308	ue/regulamentos/2026/32026R2202.md
+32026R2202	ANEXO I	«ANEXO	1028	1078	1188	ue/regulamentos/2026/32026R2202.md
+32026R2202	ANEXO II	«ANEXO	1080	1166	2488	ue/regulamentos/2026/32026R2202.md
+32026R2203	Preâmbulo		18	42	864	ue/regulamentos/2026/32026R2203.md
+32026R2203	Artigo 1.º		46	48	34	ue/regulamentos/2026/32026R2203.md
+32026R2203	Artigo 2.º		50	70	346	ue/regulamentos/2026/32026R2203.md
+32026R2203	ANEXO	RESUMO DAS CARACTERÍSTICAS DO PRODUTO PARA UMA FAMÍLIA DE PRODUTOS BIOCIDAS (SPC BPF)	72	650	8323	ue/regulamentos/2026/32026R2203.md
 32026R2205	Preâmbulo		18	64	1893	ue/regulamentos/2026/32026R2205.md
 32026R2205	Artigo 1.º		68	70	116	ue/regulamentos/2026/32026R2205.md
 32026R2205	Artigo 2.º		72	84	250	ue/regulamentos/2026/32026R2205.md
@@ -6056,33 +6102,39 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2208	Artigo 4.º		94	108	296	ue/regulamentos/2026/32026R2208.md
 32026R2208	Artigo 5.º		110	136	652	ue/regulamentos/2026/32026R2208.md
 32026R2208	ANEXO	Lista de atos jurídicos da União referidos no artigo 2.º, n.º 1, que enumera as zonas regulamentadas	138	180	1042	ue/regulamentos/2026/32026R2208.md
-32026R2210	Preâmbulo		19	37	474	ue/regulamentos/2026/32026R2210.md
-32026R2210	Artigo 1.º		41	43	34	ue/regulamentos/2026/32026R2210.md
-32026R2210	Artigo 2.º		45	67	456	ue/regulamentos/2026/32026R2210.md
-32026R2210	ANEXO		69	264	2983	ue/regulamentos/2026/32026R2210.md
+32026R2210	Preâmbulo		18	36	474	ue/regulamentos/2026/32026R2210.md
+32026R2210	Artigo 1.º		40	42	34	ue/regulamentos/2026/32026R2210.md
+32026R2210	Artigo 2.º		44	66	456	ue/regulamentos/2026/32026R2210.md
+32026R2210	ANEXO		68	263	2983	ue/regulamentos/2026/32026R2210.md
 32026R2212	Preâmbulo		18	48	822	ue/regulamentos/2026/32026R2212.md
 32026R2212	Artigo 1.º		52	54	50	ue/regulamentos/2026/32026R2212.md
 32026R2212	Artigo 2.º		56	58	17	ue/regulamentos/2026/32026R2212.md
 32026R2212	Artigo 3.º		60	84	554	ue/regulamentos/2026/32026R2212.md
 32026R2212	ANEXO	Preços representativos, direitos de importação e direitos de importação adicionais dos melaços no setor do açúcar a partir de 1 de outubro de 2026	86	93	194	ue/regulamentos/2026/32026R2212.md
-32026R2214	Preâmbulo		19	43	565	ue/regulamentos/2026/32026R2214.md
-32026R2214	Artigo 1.º		47	49	14	ue/regulamentos/2026/32026R2214.md
-32026R2214	Artigo 2.º		51	71	341	ue/regulamentos/2026/32026R2214.md
+32026R2214	Preâmbulo		18	42	565	ue/regulamentos/2026/32026R2214.md
+32026R2214	Artigo 1.º		46	48	14	ue/regulamentos/2026/32026R2214.md
+32026R2214	Artigo 2.º		50	70	341	ue/regulamentos/2026/32026R2214.md
 32026R2220	Preâmbulo		18	52	1627	ue/regulamentos/2026/32026R2220.md
 32026R2220	Artigo 1.º	Alteração do Regulamento de Execução (UE) 2023/594	56	58	47	ue/regulamentos/2026/32026R2220.md
 32026R2220	Artigo 2.º	Entrada em vigor	60	78	297	ue/regulamentos/2026/32026R2220.md
 32026R2220	ANEXO		80	84	24	ue/regulamentos/2026/32026R2220.md
 32026R2220	ANEXO I	ZONAS SUBMETIDAS A RESTRIÇÕES I, II E III	86	3854	43374	ue/regulamentos/2026/32026R2220.md
-32026R2224	Preâmbulo		19	35	366	ue/regulamentos/2026/32026R2224.md
-32026R2224	Artigo 1.º		39	41	51	ue/regulamentos/2026/32026R2224.md
-32026R2224	Artigo 2.º		43	67	331	ue/regulamentos/2026/32026R2224.md
-32026R2226	Preâmbulo		19	35	313	ue/regulamentos/2026/32026R2226.md
-32026R2226	Artigo 1.º		39	41	47	ue/regulamentos/2026/32026R2226.md
-32026R2226	Artigo 2.º		43	65	160	ue/regulamentos/2026/32026R2226.md
+32026R2224	Preâmbulo		18	34	366	ue/regulamentos/2026/32026R2224.md
+32026R2224	Artigo 1.º		38	40	51	ue/regulamentos/2026/32026R2224.md
+32026R2224	Artigo 2.º		42	66	331	ue/regulamentos/2026/32026R2224.md
+32026R2226	Preâmbulo		18	34	313	ue/regulamentos/2026/32026R2226.md
+32026R2226	Artigo 1.º		38	40	47	ue/regulamentos/2026/32026R2226.md
+32026R2226	Artigo 2.º		42	64	160	ue/regulamentos/2026/32026R2226.md
 32026R2227	Preâmbulo		18	58	1716	ue/regulamentos/2026/32026R2227.md
 32026R2227	Artigo 1.º		62	64	36	ue/regulamentos/2026/32026R2227.md
 32026R2227	Artigo 2.º		66	84	325	ue/regulamentos/2026/32026R2227.md
 32026R2227	ANEXO		86	642	9536	ue/regulamentos/2026/32026R2227.md
+32026R2228	Preâmbulo		19	75	4489	ue/regulamentos/2026/32026R2228.md
+32026R2228	Artigo 1.º		79	81	36	ue/regulamentos/2026/32026R2228.md
+32026R2228	Artigo 2.º		83	105	549	ue/regulamentos/2026/32026R2228.md
+32026R2228	ANEXO		107	113	40	ue/regulamentos/2026/32026R2228.md
+32026R2228	ANEXO -I	Lista de países terceiros ou regiões de países terceiros com planos de controlo aprovados para determinados animais destinados à produção de géneros alimentício	115	226	2568	ue/regulamentos/2026/32026R2228.md
+32026R2228	ANEXO IX	Lista de países terceiros ou regiões de países terceiros autorizados para a entrada na União de remessas de determinados produtos da pesca, tal como referido no	228	345	1626	ue/regulamentos/2026/32026R2228.md
 32026R2238	Preâmbulo		18	52	1096	ue/regulamentos/2026/32026R2238.md
 32026R2238	Artigo 1.º		56	58	36	ue/regulamentos/2026/32026R2238.md
 32026R2238	Artigo 2.º		60	78	325	ue/regulamentos/2026/32026R2238.md
@@ -6094,13 +6146,29 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2245	Preâmbulo		18	56	912	ue/regulamentos/2026/32026R2245.md
 32026R2245	Artigo 1.º		60	66	220	ue/regulamentos/2026/32026R2245.md
 32026R2245	Artigo 2.º		68	96	492	ue/regulamentos/2026/32026R2245.md
+32026R2246	Preâmbulo		19	43	720	ue/regulamentos/2026/32026R2246.md
+32026R2246	Artigo 1.º		47	49	42	ue/regulamentos/2026/32026R2246.md
+32026R2246	Artigo 2.º		51	71	307	ue/regulamentos/2026/32026R2246.md
+32026R2246	ANEXO		73	78	298	ue/regulamentos/2026/32026R2246.md
+32026R2247	Preâmbulo		19	43	678	ue/regulamentos/2026/32026R2247.md
+32026R2247	Artigo 1.º		47	49	46	ue/regulamentos/2026/32026R2247.md
+32026R2247	Artigo 2.º		51	71	309	ue/regulamentos/2026/32026R2247.md
+32026R2247	ANEXO		73	78	290	ue/regulamentos/2026/32026R2247.md
+32026R2248	Preâmbulo		18	52	1344	ue/regulamentos/2026/32026R2248.md
+32026R2248	Artigo 1.º		56	58	39	ue/regulamentos/2026/32026R2248.md
+32026R2248	Artigo 2.º		60	80	405	ue/regulamentos/2026/32026R2248.md
+32026R2248	ANEXO	DEDUÇÕES DO ESFORÇO DE PESCA PARA O ANO DE 2026 REFERENTES ÀS UNIDADES POPULACIONAIS QUE FORAM OBJETO DE SOBREPESCA	82	90	837	ue/regulamentos/2026/32026R2248.md
+32026R2249	Preâmbulo		18	76	3159	ue/regulamentos/2026/32026R2249.md
+32026R2249	Artigo 1.º		80	82	39	ue/regulamentos/2026/32026R2249.md
+32026R2249	Artigo 2.º		84	108	579	ue/regulamentos/2026/32026R2249.md
+32026R2249	ANEXO	DEDUÇÕES DO ESFORÇO DE PESCA PARA O ANO DE 2026 REFERENTES ÀS UNIDADES POPULACIONAIS QUE FORAM OBJETO DE SOBREPESCA	110	118	916	ue/regulamentos/2026/32026R2249.md
 32026R2257	Preâmbulo		18	38	328	ue/regulamentos/2026/32026R2257.md
 32026R2257	Artigo 1.º		42	44	28	ue/regulamentos/2026/32026R2257.md
 32026R2257	Artigo 2.º		46	60	104	ue/regulamentos/2026/32026R2257.md
 32026R2257	ANEXO		62	82	3436	ue/regulamentos/2026/32026R2257.md
-32026R2259	Preâmbulo		19	43	558	ue/regulamentos/2026/32026R2259.md
-32026R2259	Artigo 1.º		47	49	18	ue/regulamentos/2026/32026R2259.md
-32026R2259	Artigo 2.º		51	73	254	ue/regulamentos/2026/32026R2259.md
+32026R2259	Preâmbulo		18	42	558	ue/regulamentos/2026/32026R2259.md
+32026R2259	Artigo 1.º		46	48	18	ue/regulamentos/2026/32026R2259.md
+32026R2259	Artigo 2.º		50	72	254	ue/regulamentos/2026/32026R2259.md
 32026R2262	Preâmbulo		18	36	245	ue/regulamentos/2026/32026R2262.md
 32026R2262	Artigo 1.º		40	42	30	ue/regulamentos/2026/32026R2262.md
 32026R2262	Artigo 2.º		44	58	104	ue/regulamentos/2026/32026R2262.md
@@ -6114,6 +6182,19 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2265	Artigo 2.º		47	49	81	ue/regulamentos/2026/32026R2265.md
 32026R2265	Artigo 3.º		51	69	177	ue/regulamentos/2026/32026R2265.md
 32026R2265	ANEXO		71	80	729	ue/regulamentos/2026/32026R2265.md
+32026R2266	Preâmbulo		19	63	3771	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 1.º	Âmbito de aplicação	67	69	72	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 2.º	Definições	71	81	156	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 3.º	Emissão e veracidade das cartas de condução móveis	83	89	212	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 4.º	Segurança e verificação das cartas de condução móveis	91	101	270	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 5.º	Aspeto visual das cartas de condução móveis	103	107	116	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 6.º	Validade técnica e gestão da validade das cartas de condução móveis	109	143	919	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 7.º	Notificações à Comissão	145	149	114	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 8.º	Normas técnicas, de segurança e de interoperabilidade operacional relativas à troca ou à substituição transfronteiriça de cartas de condução móveis	151	187	756	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 9.º	Especificações mínimas técnicas, de segurança e de interoperabilidade operacional relativas à troca de cartas de condução móveis emitidas por países terceiros	189	207	622	ue/regulamentos/2026/32026R2266.md
+32026R2266	Artigo 10.º	Entrada em vigor	209	235	647	ue/regulamentos/2026/32026R2266.md
+32026R2266	ANEXO I	Especificações técnicas a que se refere o artigo 3.º	237	323	2420	ue/regulamentos/2026/32026R2266.md
+32026R2266	ANEXO II	Notificações de informações sobre as autoridades emissoras de cartas de condução móveis e sobre os mecanismos que permitem a autenticação e validação de cartas 	325	345	540	ue/regulamentos/2026/32026R2266.md
 32026R2268	Preâmbulo		18	52	1175	ue/regulamentos/2026/32026R2268.md
 32026R2268	Artigo 1.º		56	58	36	ue/regulamentos/2026/32026R2268.md
 32026R2268	Artigo 2.º		60	78	325	ue/regulamentos/2026/32026R2268.md
@@ -6128,11 +6209,214 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2269	Artigo 7.º	Entrada em vigor e aplicação	130	166	652	ue/regulamentos/2026/32026R2269.md
 32026R2269	ANEXO I	Lista de produtos sujeitos a medidas de liberalização do comércio a que se refere o artigo 1.º, n.º 1, alínea a)	168	549	9796	ue/regulamentos/2026/32026R2269.md
 32026R2269	ANEXO II	Lista de produtos sujeitos a medidas de liberalização do comércio a que se refere o artigo 1.º, n.º 1, alínea b)	551	565	352	ue/regulamentos/2026/32026R2269.md
-32026R2271	Preâmbulo		19	37	240	ue/regulamentos/2026/32026R2271.md
-32026R2271	Artigo 1.º		41	43	30	ue/regulamentos/2026/32026R2271.md
-32026R2271	Artigo 2.º		45	59	105	ue/regulamentos/2026/32026R2271.md
-32026R2271	ANEXO		61	67	198	ue/regulamentos/2026/32026R2271.md
+32026R2270	Preâmbulo		18	46	646	ue/regulamentos/2026/32026R2270.md
+32026R2270	Artigo 1.º		50	52	55	ue/regulamentos/2026/32026R2270.md
+32026R2270	Artigo 2.º		54	72	217	ue/regulamentos/2026/32026R2270.md
+32026R2270	ANEXO		74	80	305	ue/regulamentos/2026/32026R2270.md
+32026R2271	Preâmbulo		18	36	240	ue/regulamentos/2026/32026R2271.md
+32026R2271	Artigo 1.º		40	42	30	ue/regulamentos/2026/32026R2271.md
+32026R2271	Artigo 2.º		44	58	105	ue/regulamentos/2026/32026R2271.md
+32026R2271	ANEXO		60	66	198	ue/regulamentos/2026/32026R2271.md
+32026R2278	Preâmbulo		18	52	1506	ue/regulamentos/2026/32026R2278.md
+32026R2278	Artigo 1.º		56	58	33	ue/regulamentos/2026/32026R2278.md
+32026R2278	Artigo 2.º		60	74	150	ue/regulamentos/2026/32026R2278.md
+32026R2278	ANEXO		76	109	2265	ue/regulamentos/2026/32026R2278.md
+32026R2280	Preâmbulo		18	182	12208	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 1.º	Objeto	188	192	228	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 2.º	Âmbito	194	218	691	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 3.º	Definições	220	262	1110	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 4.º	Direitos fundamentais	264	266	82	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 5.º	Decisão de regresso	272	314	1577	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 6.º	Exceções à obrigação de emitir uma decisão de regresso	316	330	517	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 7.º	Reconhecimento e execução de decisões de regresso emitidas por outro Estado-Membro	332	362	1012	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 8.º	Emissão de uma proibição de entrada	366	390	871	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 9.º	Revogação, suspensão ou redução da duração de uma proibição de entrada	392	402	466	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 10.º	Afastamento	406	436	1214	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 11.º	Condições para o adiamento do afastamento	438	466	481	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 12.º	Monitorização do afastamento	468	470	93	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 13.º	Regresso de nacionais de países terceiros que representem riscos para a segurança	472	504	938	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 14.º	Regresso a um país terceiro com o qual exista um acordo ou convénio	506	534	812	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 15.º	Interesse superior da criança	538	540	51	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 16.º	Avaliação da idade de menores	542	550	284	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 17.º	Regresso de menores não acompanhados	552	558	364	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 18.º	Obrigação de cooperação	562	618	1644	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 19.º	Risco de fuga	620	648	678	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 20.º	Disponibilidade para o procedimento de regresso	652	676	573	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 21.º	Medidas de investigação	678	692	396	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 22.º	Consequências do incumprimento da obrigação de cooperação	694	710	323	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 23.º	Alternativas à detenção	712	728	296	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 24.º	Direito à informação	734	748	487	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 25.º	Assistência jurídica e representação legal	750	782	1021	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 26.º	Direito a um recurso efetivo	786	794	243	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 27.º	Recurso para um órgão jurisdicional competente	796	806	460	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 28.º	Efeito suspensivo	808	814	418	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 29.º	Motivos de detenção	818	840	460	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 30.º	Período de detenção	842	864	633	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 31.º	Reapreciação das ordens de detenção	866	878	388	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 32.º	Condições de detenção	880	894	670	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 33.º	Condições de detenção de menores não acompanhados e famílias com menores	896	902	222	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 34.º	Readmissão	906	912	240	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 35.º	Dimensão externa e cooperação com países terceiros	914	918	241	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 36.º	Partilha de informações entre Estados-Membros	922	966	1055	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 37.º	Transferência de dados para países terceiros relativos a nacionais de países terceiros para efeitos de regresso, readmissão e reintegração	968	974	421	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 38.º	Transferência de dados para países terceiros relativos a condenações penais de nacionais de países terceiros para efeitos de regresso, readmissão e reintegração	976	990	707	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 39.º	Transferência de dados de saúde de nacionais de países terceiros para países terceiros para efeitos de execução da operação de regresso e da reintegração	992	1008	697	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 40.º	Componentes de um sistema comum de regresso	1012	1032	495	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 41.º	Autoridades competentes	1034	1036	54	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 42.º	Cooperação entre os Estados-Membros	1038	1058	345	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 43.º	Apoio da Frontex	1060	1064	130	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 44.º	Apoio ao regresso e à reintegração	1066	1090	655	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 45.º	Situações de emergência	1094	1100	345	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 46.º	Estatísticas	1102	1116	525	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 47.º	Procedimento de comité	1118	1122	105	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 48.º	Apresentação de relatórios	1124	1128	148	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 49.º	Revogação	1130	1134	105	ue/regulamentos/2026/32026R2280.md
+32026R2280	Artigo 50.º	Entrada em vigor e aplicação	1136	1232	3296	ue/regulamentos/2026/32026R2280.md
+32026R2280	ANEXO	Tabela de correspondência	1234	1282	625	ue/regulamentos/2026/32026R2280.md
+32026R2281	Preâmbulo		18	42	706	ue/regulamentos/2026/32026R2281.md
+32026R2281	Artigo 1.º		46	48	29	ue/regulamentos/2026/32026R2281.md
+32026R2281	Artigo 2.º		50	64	101	ue/regulamentos/2026/32026R2281.md
+32026R2281	ANEXO		66	1647	433878	ue/regulamentos/2026/32026R2281.md
 32026R2287	Preâmbulo		18	34	267	ue/regulamentos/2026/32026R2287.md
 32026R2287	Artigo 1.º		38	40	31	ue/regulamentos/2026/32026R2287.md
 32026R2287	Artigo 2.º		42	58	134	ue/regulamentos/2026/32026R2287.md
 32026R2287	ANEXO		60	68	543	ue/regulamentos/2026/32026R2287.md
+32026R2289	Preâmbulo		19	45	1167	ue/regulamentos/2026/32026R2289.md
+32026R2289	Artigo 1.º		49	51	31	ue/regulamentos/2026/32026R2289.md
+32026R2289	Artigo 2.º		53	85	570	ue/regulamentos/2026/32026R2289.md
+32026R2289	ANEXO		87	478	7832	ue/regulamentos/2026/32026R2289.md
+32026R2290	Preâmbulo		19	35	282	ue/regulamentos/2026/32026R2290.md
+32026R2290	Artigo 1.º		39	41	46	ue/regulamentos/2026/32026R2290.md
+32026R2290	Artigo 2.º		43	65	202	ue/regulamentos/2026/32026R2290.md
+32026R2292	Preâmbulo		18	42	615	ue/regulamentos/2026/32026R2292.md
+32026R2292	Artigo 1.º		46	48	31	ue/regulamentos/2026/32026R2292.md
+32026R2292	Artigo 2.º		50	64	101	ue/regulamentos/2026/32026R2292.md
+32026R2292	ANEXO		66	150	26320	ue/regulamentos/2026/32026R2292.md
+32026R2293	Preâmbulo		19	39	657	ue/regulamentos/2026/32026R2293.md
+32026R2293	Artigo 1.º		43	45	48	ue/regulamentos/2026/32026R2293.md
+32026R2293	Artigo 2.º		47	49	70	ue/regulamentos/2026/32026R2293.md
+32026R2293	Artigo 3.º		51	75	290	ue/regulamentos/2026/32026R2293.md
+32026R2298	Preâmbulo		19	51	950	ue/regulamentos/2026/32026R2298.md
+32026R2298	Artigo 1.º		55	57	32	ue/regulamentos/2026/32026R2298.md
+32026R2298	Artigo 2.º		59	61	31	ue/regulamentos/2026/32026R2298.md
+32026R2298	Artigo 3.º		63	83	260	ue/regulamentos/2026/32026R2298.md
+32026R2298	ANEXO I		85	264	2930	ue/regulamentos/2026/32026R2298.md
+32026R2298	ANEXO II		266	297	574	ue/regulamentos/2026/32026R2298.md
+32026R2299	Preâmbulo		19	61	2035	ue/regulamentos/2026/32026R2299.md
+32026R2299	Artigo 1.º		65	67	34	ue/regulamentos/2026/32026R2299.md
+32026R2299	Artigo 2.º		69	71	58	ue/regulamentos/2026/32026R2299.md
+32026R2299	Artigo 3.º		73	93	224	ue/regulamentos/2026/32026R2299.md
+32026R2299	ANEXO		95	489	5564	ue/regulamentos/2026/32026R2299.md
+32026R2301	Preâmbulo		19	35	352	ue/regulamentos/2026/32026R2301.md
+32026R2301	Artigo 1.º		39	41	45	ue/regulamentos/2026/32026R2301.md
+32026R2301	Artigo 2.º		43	67	226	ue/regulamentos/2026/32026R2301.md
+32026R2302	Preâmbulo		19	35	340	ue/regulamentos/2026/32026R2302.md
+32026R2302	Artigo 1.º		39	41	46	ue/regulamentos/2026/32026R2302.md
+32026R2302	Artigo 2.º		43	67	226	ue/regulamentos/2026/32026R2302.md
+32026R2307	Preâmbulo		19	35	280	ue/regulamentos/2026/32026R2307.md
+32026R2307	Artigo 1.º		39	41	45	ue/regulamentos/2026/32026R2307.md
+32026R2307	Artigo 2.º		43	65	159	ue/regulamentos/2026/32026R2307.md
+32026R2309	Preâmbulo		19	47	968	ue/regulamentos/2026/32026R2309.md
+32026R2309	Artigo 1.º		51	53	30	ue/regulamentos/2026/32026R2309.md
+32026R2309	Artigo 2.º		55	75	272	ue/regulamentos/2026/32026R2309.md
+32026R2309	ANEXO		77	89	484	ue/regulamentos/2026/32026R2309.md
+32026R2310	Preâmbulo		18	252	7554	ue/regulamentos/2026/32026R2310.md
+32026R2310	Artigo 1.º		256	260	316	ue/regulamentos/2026/32026R2310.md
+32026R2310	Artigo 2.º		262	312	1118	ue/regulamentos/2026/32026R2310.md
+32026R2311	Preâmbulo		18	591	15724	ue/regulamentos/2026/32026R2311.md
+32026R2311	Artigo 1.º		595	601	265	ue/regulamentos/2026/32026R2311.md
+32026R2311	Artigo 2.º		603	659	1161	ue/regulamentos/2026/32026R2311.md
+32026R2313	Preâmbulo		18	36	236	ue/regulamentos/2026/32026R2313.md
+32026R2313	Artigo 1.º		40	42	29	ue/regulamentos/2026/32026R2313.md
+32026R2313	Artigo 2.º		44	58	104	ue/regulamentos/2026/32026R2313.md
+32026R2313	ANEXO		60	67	69	ue/regulamentos/2026/32026R2313.md
+32026R2314	Preâmbulo		18	352	13456	ue/regulamentos/2026/32026R2314.md
+32026R2314	Artigo 1.º		356	360	314	ue/regulamentos/2026/32026R2314.md
+32026R2314	Artigo 2.º		362	440	1411	ue/regulamentos/2026/32026R2314.md
+32026R2318	Preâmbulo		18	36	236	ue/regulamentos/2026/32026R2318.md
+32026R2318	Artigo 1.º		40	42	31	ue/regulamentos/2026/32026R2318.md
+32026R2318	Artigo 2.º		44	58	105	ue/regulamentos/2026/32026R2318.md
+32026R2318	ANEXO		60	62	49	ue/regulamentos/2026/32026R2318.md
+32026R2319	Preâmbulo		18	44	570	ue/regulamentos/2026/32026R2319.md
+32026R2319	Artigo 1.º		48	62	196	ue/regulamentos/2026/32026R2319.md
+32026R2319	Artigo 2.º		64	86	217	ue/regulamentos/2026/32026R2319.md
+32026R2327	Preâmbulo		18	720	20347	ue/regulamentos/2026/32026R2327.md
+32026R2327	Artigo 1.º		724	739	560	ue/regulamentos/2026/32026R2327.md
+32026R2327	Artigo 2.º		741	745	149	ue/regulamentos/2026/32026R2327.md
+32026R2327	Artigo 3.º		747	755	233	ue/regulamentos/2026/32026R2327.md
+32026R2327	Artigo 4.º		757	857	1978	ue/regulamentos/2026/32026R2327.md
+32026R2327	ANEXO		859	893	233	ue/regulamentos/2026/32026R2327.md
+32026R2328	Preâmbulo		18	52	1380	ue/regulamentos/2026/32026R2328.md
+32026R2328	Artigo 1.º		56	58	36	ue/regulamentos/2026/32026R2328.md
+32026R2328	Artigo 2.º		60	80	460	ue/regulamentos/2026/32026R2328.md
+32026R2328	ANEXO		82	147	1124	ue/regulamentos/2026/32026R2328.md
+32026R2333	Preâmbulo		18	40	504	ue/regulamentos/2026/32026R2333.md
+32026R2333	Artigo 1.º		44	46	29	ue/regulamentos/2026/32026R2333.md
+32026R2333	Artigo 2.º		48	62	100	ue/regulamentos/2026/32026R2333.md
+32026R2333	ANEXO		64	88	3559	ue/regulamentos/2026/32026R2333.md
+32026R2336	Preâmbulo		19	35	340	ue/regulamentos/2026/32026R2336.md
+32026R2336	Artigo 1.º		39	41	45	ue/regulamentos/2026/32026R2336.md
+32026R2336	Artigo 2.º		43	67	226	ue/regulamentos/2026/32026R2336.md
+32026R2337	Preâmbulo		19	35	313	ue/regulamentos/2026/32026R2337.md
+32026R2337	Artigo 1.º		39	41	47	ue/regulamentos/2026/32026R2337.md
+32026R2337	Artigo 2.º		43	65	160	ue/regulamentos/2026/32026R2337.md
+32026R2338	Preâmbulo		19	35	259	ue/regulamentos/2026/32026R2338.md
+32026R2338	Artigo 1.º		39	41	14	ue/regulamentos/2026/32026R2338.md
+32026R2338	Artigo 2.º		43	63	198	ue/regulamentos/2026/32026R2338.md
+32026R2339	Preâmbulo		19	35	347	ue/regulamentos/2026/32026R2339.md
+32026R2339	Artigo 1.º		39	41	49	ue/regulamentos/2026/32026R2339.md
+32026R2339	Artigo 2.º		43	67	226	ue/regulamentos/2026/32026R2339.md
+32026R2340	Preâmbulo		19	49	1711	ue/regulamentos/2026/32026R2340.md
+32026R2340	Artigo 1.º	Não aprovação da extensão da utilização da substância de base	53	55	39	ue/regulamentos/2026/32026R2340.md
+32026R2340	Artigo 2.º	Entrada em vigor	57	83	534	ue/regulamentos/2026/32026R2340.md
+32026R2341	Preâmbulo		19	35	281	ue/regulamentos/2026/32026R2341.md
+32026R2341	Artigo 1.º		39	41	44	ue/regulamentos/2026/32026R2341.md
+32026R2341	Artigo 2.º		43	65	160	ue/regulamentos/2026/32026R2341.md
+32026R2342	Preâmbulo		18	38	422	ue/regulamentos/2026/32026R2342.md
+32026R2342	Artigo 1.º		42	69	328	ue/regulamentos/2026/32026R2342.md
+32026R2342	Artigo 2.º		71	93	317	ue/regulamentos/2026/32026R2342.md
+32026R2343	Preâmbulo		19	43	1144	ue/regulamentos/2026/32026R2343.md
+32026R2343	Artigo 1.º	Alterações do Regulamento Delegado (UE) n.º 149/2013	47	51	47	ue/regulamentos/2026/32026R2343.md
+32026R2343	«Artigo 11.º	[Artigo 4.º-A, n.º 4, do Regulamento (UE) n.º 648/2012]	53	65	131	ue/regulamentos/2026/32026R2343.md
+32026R2343	«Artigo 11.º-A	[Artigo 10.º, n.º 4, alínea b), do Regulamento (UE) n.º 648/2012]	67	81	229	ue/regulamentos/2026/32026R2343.md
+32026R2343	Artigo 11.º-B	[Artigo 10.º, n.º 4, alínea c), do Regulamento (UE) n.º 648/2012]	83	117	340	ue/regulamentos/2026/32026R2343.md
+32026R2343	Artigo 2.º	Entrada em vigor	119	143	480	ue/regulamentos/2026/32026R2343.md
+32026R2345	Preâmbulo		19	59	1080	ue/regulamentos/2026/32026R2345.md
+32026R2345	Artigo 1.º		63	67	240	ue/regulamentos/2026/32026R2345.md
+32026R2345	Artigo 2.º		69	91	260	ue/regulamentos/2026/32026R2345.md
+32026R2346	Preâmbulo		19	57	1010	ue/regulamentos/2026/32026R2346.md
+32026R2346	Artigo 1.º		61	65	133	ue/regulamentos/2026/32026R2346.md
+32026R2346	Artigo 2.º		67	91	408	ue/regulamentos/2026/32026R2346.md
+32026R2348	Preâmbulo		19	133	12730	ue/regulamentos/2026/32026R2348.md
+32026R2348	Artigo 1.º		137	139	33	ue/regulamentos/2026/32026R2348.md
+32026R2348	Artigo 2.º		141	207	2914	ue/regulamentos/2026/32026R2348.md
+32026R2348	ANEXO		209	265	994	ue/regulamentos/2026/32026R2348.md
+32026R2354	Preâmbulo		19	61	2249	ue/regulamentos/2026/32026R2354.md
+32026R2354	Artigo 1.º	Formatos para a comunicação de dados sobre os beneficiários efetivos	65	181	1707	ue/regulamentos/2026/32026R2354.md
+32026R2354	Artigo 2.º	Formatos para a comunicação de dados sobre pessoas coletivas	183	223	736	ue/regulamentos/2026/32026R2354.md
+32026R2354	Artigo 3.º	Formatos para a comunicação de dados sobre centros de interesses coletivos sem personalidade jurídica	225	325	1683	ue/regulamentos/2026/32026R2354.md
+32026R2354	Artigo 4.º	Formatos para a comunicação de dados sobre os representantes nomeados	327	361	644	ue/regulamentos/2026/32026R2354.md
+32026R2354	Artigo 5.º	Lista de verificação	363	385	364	ue/regulamentos/2026/32026R2354.md
+32026R2354	Artigo 6.º	Entrada em vigor e aplicação	387	411	529	ue/regulamentos/2026/32026R2354.md
+32026R2354	ANEXO I	Descrição da estrutura de propriedade e de controlo	413	441	502	ue/regulamentos/2026/32026R2354.md
+32026R2354	ANEXO II	Formato das datas	443	445	38	ue/regulamentos/2026/32026R2354.md
+32026R2354	ANEXO III	Formato dos endereços	447	463	83	ue/regulamentos/2026/32026R2354.md
+32026R2358	Preâmbulo		18	46	990	ue/regulamentos/2026/32026R2358.md
+32026R2358	Artigo 1.º		50	54	31	ue/regulamentos/2026/32026R2358.md
+32026R2358	«Artigo 8.º-A	Variedade	56	62	86	ue/regulamentos/2026/32026R2358.md
+32026R2358	Artigo 2.º		64	86	426	ue/regulamentos/2026/32026R2358.md
+32026R2358	ANEXO		88	90	3	ue/regulamentos/2026/32026R2358.md
+32026R2358	ANEXO I	CARACTERÍSTICAS DOS AZEITES	92	154	2501	ue/regulamentos/2026/32026R2358.md
+32026R2371	Preâmbulo		18	64	3190	ue/regulamentos/2026/32026R2371.md
+32026R2371	Artigo 1.º	Alteração do Regulamento de Execução (UE) 2023/594	68	70	47	ue/regulamentos/2026/32026R2371.md
+32026R2371	Artigo 2.º	Entrada em vigor	72	92	339	ue/regulamentos/2026/32026R2371.md
+32026R2371	ANEXO		94	98	24	ue/regulamentos/2026/32026R2371.md
+32026R2371	ANEXO I	ZONAS SUBMETIDAS A RESTRIÇÕES I, II E III	100	3834	43350	ue/regulamentos/2026/32026R2371.md
+32026R2384	Preâmbulo		18	34	269	ue/regulamentos/2026/32026R2384.md
+32026R2384	Artigo 1.º		38	40	31	ue/regulamentos/2026/32026R2384.md
+32026R2384	Artigo 2.º		42	58	134	ue/regulamentos/2026/32026R2384.md
+32026R2384	ANEXO		60	76	648	ue/regulamentos/2026/32026R2384.md
+32026R2388	Preâmbulo		18	34	268	ue/regulamentos/2026/32026R2388.md
+32026R2388	Artigo 1.º		38	40	31	ue/regulamentos/2026/32026R2388.md
+32026R2388	Artigo 2.º		42	60	134	ue/regulamentos/2026/32026R2388.md
+32026R2388	ANEXO		62	66	71	ue/regulamentos/2026/32026R2388.md

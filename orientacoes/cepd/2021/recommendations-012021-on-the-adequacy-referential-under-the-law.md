@@ -7,7 +7,7 @@ data: '2021-02-02'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/recommendation/recommendations-012021-on-the-adequacy-referential-under-the-law_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2021-05/recommendations012021onart.36led.pdf_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

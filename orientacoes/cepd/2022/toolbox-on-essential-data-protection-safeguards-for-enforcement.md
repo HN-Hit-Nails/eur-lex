@@ -7,7 +7,7 @@ data: '2022-03-14'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/toolbox-on-essential-data-protection-safeguards-for-enforcement_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-11/toolbox-safeguards-enforcement-cooperation-third-country-sas_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

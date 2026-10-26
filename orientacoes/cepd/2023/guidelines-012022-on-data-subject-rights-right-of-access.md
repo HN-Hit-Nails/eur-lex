@@ -7,7 +7,7 @@ data: '2023-04-17'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-012022-on-data-subject-rights-right-of-access_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-04/edpb_guidelines_202201_data_subject_rights_access_v2_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

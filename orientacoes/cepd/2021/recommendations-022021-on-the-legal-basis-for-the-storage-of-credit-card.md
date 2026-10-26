@@ -7,7 +7,7 @@ data: '2021-05-19'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/recommendation/recommendations-022021-on-the-legal-basis-for-the-storage-of-credit-card_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2021-07/recommendations022021_on_storage_of_credit_card_data_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

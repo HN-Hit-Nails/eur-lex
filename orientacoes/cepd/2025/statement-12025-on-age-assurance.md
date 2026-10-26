@@ -7,7 +7,7 @@ data: '2025-02-12'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/statement/statement-12025-on-age-assurance_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2025-07/edpb_statement_20250211ageassurance_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

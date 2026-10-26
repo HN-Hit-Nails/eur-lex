@@ -16,13 +16,14 @@ rectificacoes_nao_incorporadas:
 - 32023R2854R(03)
 - 32023R2854R(04)
 - 32023R2854R(05)
+- 32023R2854R(06)
 eli: http://data.europa.eu/eli/reg/2023/2854/oj
 repertorio:
 - 13.20.60 Tecnologias da informação, telecomunicações e processamento de dados
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32023R2854
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32023R2854 — Regulamento dos Dados (Data Act)
@@ -31,7 +32,7 @@ obtido_em: '2026-10-12'
 
 **Texto:** versão original publicada no Jornal Oficial.
 
-**Nota:** há rectificações publicadas no JO que este texto original não incorpora (32023R2854R(02), 32023R2854R(03), 32023R2854R(04), 32023R2854R(05)). Muitas rectificações dizem respeito só a algumas versões linguísticas; não foi verificado se alguma altera o texto português. Confirmar no EUR-Lex antes de citar um passo decisivo.
+**Nota:** há rectificações publicadas no JO que este texto original não incorpora (32023R2854R(02), 32023R2854R(03), 32023R2854R(04), 32023R2854R(05), 32023R2854R(06)). Muitas rectificações dizem respeito só a algumas versões linguísticas; não foi verificado se alguma altera o texto português. Confirmar no EUR-Lex antes de citar um passo decisivo.
 
 **Considerandos (preâmbulo):** ficheiro `32023R2854-regulamento-dos-dados-data-act.considerandos.md`.
 

@@ -274,13 +274,13 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32025D01609	Preâmbulo		18	34	238	ue/decisoes/2025/32025D01609.md
 32025D01609	Artigo 1.º		38	40	69	ue/decisoes/2025/32025D01609.md
 32025D01609	Artigo 2.º		42	60	131	ue/decisoes/2025/32025D01609.md
-32025D0165	Artigo 1.º		28	30	62	ue/decisoes/2025/32025D0165.md
-32025D0165	Artigo 2.º		32	36	66	ue/decisoes/2025/32025D0165.md
-32025D0165	Artigo 3.º		38	42	68	ue/decisoes/2025/32025D0165.md
-32025D0165	Artigo 4.º		44	46	31	ue/decisoes/2025/32025D0165.md
-32025D0165	ANEXO I		48	277	8301	ue/decisoes/2025/32025D0165.md
-32025D0165	ANEXO II		279	289	375	ue/decisoes/2025/32025D0165.md
-32025D0165	ANEXO III		291	297	132	ue/decisoes/2025/32025D0165.md
+32025D0165	Artigo 1.º		29	31	62	ue/decisoes/2025/32025D0165.md
+32025D0165	Artigo 2.º		33	37	66	ue/decisoes/2025/32025D0165.md
+32025D0165	Artigo 3.º		39	43	68	ue/decisoes/2025/32025D0165.md
+32025D0165	Artigo 4.º		45	47	31	ue/decisoes/2025/32025D0165.md
+32025D0165	ANEXO I		49	335	9484	ue/decisoes/2025/32025D0165.md
+32025D0165	ANEXO II		337	347	375	ue/decisoes/2025/32025D0165.md
+32025D0165	ANEXO III		349	355	132	ue/decisoes/2025/32025D0165.md
 32025D0166	Preâmbulo		18	40	407	ue/decisoes/2025/32025D0166.md
 32025D0166	Artigo 1.º		44	56	139	ue/decisoes/2025/32025D0166.md
 32025D0166	Artigo 2.º		58	78	206	ue/decisoes/2025/32025D0166.md
@@ -2329,7 +2329,7 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32025D1160	Artigo 2.º		45	65	444	ue/decisoes/2025/32025D1160.md
 32025D1160	Artigo 3.º		67	77	191	ue/decisoes/2025/32025D1160.md
 32025D1160	Artigo 4.º		79	83	21	ue/decisoes/2025/32025D1160.md
-32025D1160	ANEXO I		85	125	3152	ue/decisoes/2025/32025D1160.md
+32025D1160	ANEXO I		85	125	3684	ue/decisoes/2025/32025D1160.md
 32025D1160	ANEXO II		127	140	218	ue/decisoes/2025/32025D1160.md
 32025D1161	Preâmbulo		18	42	400	ue/decisoes/2025/32025D1161.md
 32025D1161	Artigo 1.º		46	62	376	ue/decisoes/2025/32025D1161.md
@@ -2967,8 +2967,8 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32025D1582	Artigo 2.º		39	45	74	ue/decisoes/2025/32025D1582.md
 32025D1582	Artigo 4.º		47	49	16	ue/decisoes/2025/32025D1582.md
 32025D1582	Artigo 5.º		51	55	20	ue/decisoes/2025/32025D1582.md
-32025D1582	ANEXO I	Zonas de proteção e de vigilância estabelecidas em redor dos focos confirmados	57	63	584	ue/decisoes/2025/32025D1582.md
-32025D1582	ANEXO II		65	77	102	ue/decisoes/2025/32025D1582.md
+32025D1582	ANEXO I	Zonas de proteção e de vigilância estabelecidas em redor dos focos confirmados	57	64	610	ue/decisoes/2025/32025D1582.md
+32025D1582	ANEXO II		66	78	102	ue/decisoes/2025/32025D1582.md
 32025D1705	Preâmbulo		18	38	282	ue/decisoes/2025/32025D1705.md
 32025D1705	Artigo 1.º		42	44	29	ue/decisoes/2025/32025D1705.md
 32025D1705	Artigo 2.º		46	58	73	ue/decisoes/2025/32025D1705.md
@@ -4342,9 +4342,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32025D2529	«Artigo 7.º		72	74	18	ue/decisoes/2025/32025D2529.md
 32025D2529	Artigo 2.º		76	78	22	ue/decisoes/2025/32025D2529.md
 32025D2529	Artigo 3.º		80	98	173	ue/decisoes/2025/32025D2529.md
-32025D2533	Preâmbulo		18	36	451	ue/decisoes/2025/32025D2533.md
-32025D2533	Artigo 1.º		40	42	77	ue/decisoes/2025/32025D2533.md
-32025D2533	Artigo 2.º		44	64	274	ue/decisoes/2025/32025D2533.md
 32025D2535	Preâmbulo		18	42	708	ue/decisoes/2025/32025D2535.md
 32025D2535	Artigo 1.º		46	48	98	ue/decisoes/2025/32025D2535.md
 32025D2535	Artigo 2.º		50	52	92	ue/decisoes/2025/32025D2535.md

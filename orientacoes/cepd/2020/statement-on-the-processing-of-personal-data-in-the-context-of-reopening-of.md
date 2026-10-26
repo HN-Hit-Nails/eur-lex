@@ -7,7 +7,7 @@ data: '2020-06-16'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/statement/statement-on-the-processing-of-personal-data-in-the-context-of-reopening-of_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_statementreopeningbordersanddataprotection_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

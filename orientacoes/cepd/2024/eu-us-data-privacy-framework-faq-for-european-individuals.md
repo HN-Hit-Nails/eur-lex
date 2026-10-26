@@ -7,7 +7,7 @@ data: '2024-07-16'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/eu-us-data-privacy-framework-faq-for-european-individuals_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_dpf_faq-for-individuals_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

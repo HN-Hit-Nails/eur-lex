@@ -7,7 +7,7 @@ data: '2020-07-22'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/information-note-on-bcrs-for-groups-of-undertakings-enterprises-which-have_en
 pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_informationnoteforgroupswithicoasbcrleadsa_20200722_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

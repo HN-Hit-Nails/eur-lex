@@ -7,7 +7,7 @@ data: '2018-04-11'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/article-29-working-party-guidelines-on-transparency-under-regulation-2016679_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2023-09/wp260rev01_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

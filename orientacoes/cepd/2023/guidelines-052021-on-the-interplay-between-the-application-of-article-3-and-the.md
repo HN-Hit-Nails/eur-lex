@@ -7,7 +7,7 @@ data: '2023-02-24'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-052021-on-the-interplay-between-the-application-of-article-3-and-the_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2023-09/edpb_guidelines_05-2021_interplay_between_the_application_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

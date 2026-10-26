@@ -1,7 +1,7 @@
 ---
 celex: 32014R0910
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32014R0910 — eIDAS (identificação e assinaturas eletrónicas) — contexto

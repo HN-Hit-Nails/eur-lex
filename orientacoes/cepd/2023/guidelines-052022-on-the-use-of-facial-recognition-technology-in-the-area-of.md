@@ -7,7 +7,7 @@ data: '2023-05-17'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-052022-on-the-use-of-facial-recognition-technology-in-the-area-of_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-05/edpb_guidelines_202304_frtlawenforcement_v2_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

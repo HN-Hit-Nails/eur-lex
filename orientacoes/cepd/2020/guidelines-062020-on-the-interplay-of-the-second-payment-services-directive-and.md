@@ -7,7 +7,7 @@ data: '2020-12-15'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-062020-on-the-interplay-of-the-second-payment-services-directive-and_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2021-06/edpb_guidelines_202006_psd2_afterpublicconsultation_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

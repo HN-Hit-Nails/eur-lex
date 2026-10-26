@@ -99,7 +99,7 @@ Estado: 123 original (DRE); 114 consolidado (DRE); 61 excluída; 19 revogado (te
 
 ## [32011L0065](../corpus/produtos-e-cosmeticos/) RoHS (substâncias perigosas em EEE)
 
-- [Decreto-Lei n.º 79/2013](decreto-lei-79-2013.md) — consolidado (DRE), consolidado a 2026-04-23 — Estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), transpondo a Diretiva n.º 2011/65/UE, do Parlamento Europeu e
+- [Decreto-Lei n.º 79/2013](decreto-lei-79-2013.md) — consolidado (DRE), consolidado a 2026-09-16 — Estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), transpondo a Diretiva n.º 2011/65/UE, do Parlamento Europeu e
 - Administrative measures 35/2013 — excluída: medida administrativa (tipo de acto não identificado)
 
 ## [32011L0083](../corpus/consumidores-e-vendas/) Direitos dos consumidores

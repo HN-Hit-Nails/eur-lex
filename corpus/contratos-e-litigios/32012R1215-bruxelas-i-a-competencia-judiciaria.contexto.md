@@ -1,7 +1,7 @@
 ---
 celex: 32012R1215
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32012R1215 — Bruxelas I-A (competência judiciária) — contexto
@@ -12,10 +12,11 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 - Competência dos tribunais em processos judiciais que envolvem diferentes países da UE — [`_sinteses/230203_1.md`](../_sinteses/230203_1.md)
 
-## Jurisprudência do Tribunal de Justiça que interpreta este acto (82)
+## Jurisprudência do Tribunal de Justiça que interpreta este acto (83)
 
 Para obter o texto de uma decisão: `python3 ferramentas/eurlex.py obter <CELEX> --area jurisprudencia`.
 
+- 2026-06-04 — 62024CJ0791 ECLI:EU:C:2026:444 — Acórdão do Tribunal de Justiça (Primeira Secção) de 4 de junho de 2026. — TERVE Production, spol. s r.o. contra Intesa Sanpaolo Holding International S.A. — Pedido de decisão prejudicial apresentado pelo Najvyšší súd Slovenskej republiky. — Reenvio prejudicial — Cooperação judiciária em matéria civil e comercial — Competência judiciária, reconhecimento e execução de decisões em matéria civil e comercial — Regulamento (UE) n.º 1215/2012 — Artigo 7.°, pontos 1 e 2 — Competências especiais — Matéria contratual — Não aprovação, pelo acionista maioritário de uma sociedade, do projeto de contrato de compra das ações detidas pelo acionista minoritário dessa sociedade — Pedido desse acionista min…
 - 2026-04-16 — 62023CJ0672 ECLI:EU:C:2026:293 — Acórdão do Tribunal de Justiça (Primeira Secção) de 16 de abril de 2026. — Electricity & Water Authority of the Government of Bahrain e o. contra Prysmian Netherlands BV e o. — Pedido de decisão prejudicial apresentada por Gerechtshof Amsterdam. — Reenvio prejudicial — Cooperação judiciária em matéria civil e comercial — Competência judiciária, reconhecimento e execução de decisões em matéria civil e comercial — Regulamento (UE) n.º 1215/2012 — Competências especiais — Artigo 8.°, ponto 1 — Pluralidade de demandados — Pedidos ligados por um “nexo tão estreito”, que há interesse em que sejam instruídos e julgados simultaneamente — Conceito de “nexo tão estreito” — Conceito de “demandado‑ân…
 - 2025-12-02 — 62024CJ0034 ECLI:EU:C:2025:936 — Acórdão do Tribunal de Justiça (Grande Secção) de 2 de dezembro de 2025. — Stichting Right to Consumer Justice e Stichting App Stores Claims contra Apple Distribution International Ltd e Apple Inc. — Pedido de decisão prejudicial apresentado pelo rechtbank Amsterdam. — Reenvio prejudicial — Competência judiciária, reconhecimento e execução de decisões em matéria civil e comercial — Regulamento (UE) n.º 1215/2012 — Artigo 7.º, ponto 2 — Competência especial em matéria extracontratual — Determinação da competência territorial de um órgão jurisdicional de um Estado‑Membro — Lugar onde ocorreu o facto danoso — Lugar da materialização do dano — Ação coletiva que visa a indemnização pelos danos…
 - 2025-10-30 — 62024CJ0398 ECLI:EU:C:2025:843 — Acórdão do Tribunal de Justiça (Sexta Secção) de 30 de outubro de 2025. — A contra B. — Pedido de decisão prejudicial apresentado pelo Riigikohus. — Reenvio prejudicial — Cooperação judiciária em matéria civil e comercial — Competência judiciária, reconhecimento e execução de decisões em matéria civil e comercial — Regulamento (UE) n.º 1215/2012 — Artigo 25.º, n.º 1 — Pacto atributivo de jurisdição — Substantivamente nulo nos termos do direito do Estado‑Membro a cujo tribunal se recorre — Conceito. — Processo C-398/24.

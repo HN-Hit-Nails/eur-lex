@@ -1,7 +1,7 @@
 ---
 celex: 31998L0006
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Diretiva 31998L0006 — Indicação dos preços — contexto

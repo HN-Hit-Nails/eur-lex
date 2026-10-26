@@ -5,7 +5,7 @@ texto: actualizado (compilação da AT, Portal das Finanças)
 relacionado_com: ['32006L0112']
 url: https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/codigo-do-iva-indice.aspx
 fonte: Autoridade Tributária e Aduaneira — Portal das Finanças
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Código do Imposto sobre o Valor Acrescentado (CIVA)

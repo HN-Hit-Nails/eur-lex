@@ -7,7 +7,7 @@ data: '2025-03-14'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/statement/statement-22025-on-the-implementation-of-the-pnr-directive-in-light-of-cjeu_en
 pdf: https://www.edpb.europa.eu/system/files/2026-07/edpb_statement_20250313_implementation-of-the-pnr-directive-in-light-of-the-cjeu-judgment_v.1.1_en.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

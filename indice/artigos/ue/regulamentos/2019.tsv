@@ -3707,81 +3707,84 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32019R0979	ANEXO V		489	519	398	ue/regulamentos/2019/32019R0979.md
 32019R0979	ANEXO VI		521	562	493	ue/regulamentos/2019/32019R0979.md
 32019R0979	ANEXO VII	DADOS LEGÍVEIS POR MÁQUINA A COMUNICAR À ESMA	564	636	4421	ue/regulamentos/2019/32019R0979.md
-32019R0980	Artigo 1.º	Definições	31	47	412	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 2.º	Documento de registo para valores mobiliários representativos de capital próprio	55	75	414	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 3.º	Documento de registo universal	77	83	61	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 5.º	Documento de registo para unidades de participação em organismos de investimento coletivo de tipo fechado	85	87	75	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 6.º	Documento de registo para certificados de depósito emitidos sobre ações	89	93	56	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 7.º	Documento de registo para valores mobiliários não representativos de capital próprio oferecidos no mercado de retalho	95	101	167	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 8.º	Documento de registo para valores mobiliários não representativos de capital próprio oferecidos no mercado grossista	103	123	319	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 10.º	Documento de registo para valores mobiliários respaldados por ativos	125	127	66	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 11.º	Documento de registo para valores mobiliários não representativos de capital próprio emitidos por países terceiros ou respetivas autoridades regionais ou locais	129	131	113	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 12.º	Nota para valores mobiliários representativos de capital próprio ou unidades de participação emitidas por organismos de investimento coletivo de tipo fechado	137	153	282	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 14.º	Nota para certificados de depósito emitidos sobre ações	155	159	56	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 15.º	Nota para valores mobiliários não representativos de capital próprio oferecidos no mercado de retalho	161	165	125	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 16.º	Nota para valores mobiliários não representativos de capital próprio oferecidos no mercado grossista	167	175	146	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 18.º	Historial financeiro complexo e compromisso financeiro significativo de emitentes de valores mobiliários representativos de capital próprio	179	201	492	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 19.º	Valores mobiliários passíveis de troca ou convertíveis em ações	203	213	316	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 20.º	Valores mobiliários que dão origem a obrigações de pagamento ou de entrega associadas a um ativo subjacente	215	225	348	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 21.º	Valores mobiliários respaldados por ativos	227	229	56	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 22.º	Garantias	231	233	58	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 23.º	Consentimento	235	241	148	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 24.º	Formato do prospeto	245	281	794	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 25.º	Formato do prospeto de base	283	323	856	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 26.º	Informações a incluir no prospeto de base e nas condições finais	325	347	440	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 27.º	Sumário do prospeto	349	357	162	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-A	Prospeto UE Complementar para valores mobiliários representativos de capital próprio	363	367	205	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-B	Prospeto de emissão UE Crescimento para valores mobiliários representativos de capital próprio	369	373	212	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-C	Prospeto UE Complementar para valores mobiliários não representativos de capital próprio	375	393	596	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-D	Prospeto de emissão UE Crescimento para valores mobiliários não representativos de capital próprio	395	397	119	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-E	Formato do prospeto UE Complementar para valores mobiliários representativos de capital próprio	401	413	255	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-F	Formato do prospeto de emissão UE Crescimento para valores mobiliários representativos de capital próprio	415	427	254	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-G	Formato do prospeto UE Complementar para valores mobiliários não representativos de capital próprio	429	457	596	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-H	Formato do prospeto de emissão UE Crescimento para valores mobiliários não representativos de capital próprio	459	473	315	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-I	Formato do prospeto de base UE Complementar	475	501	495	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-J	Formato do prospeto de base de emissão UE Crescimento	503	519	262	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-K	Lista de referências cruzadas	521	529	560	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 28.º-L	Sumário do prospeto UE Complementar e do prospeto de emissão UE Crescimento	531	539	241	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 35.º	Âmbito da verificação	543	545	100	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 36.º	Critérios para a verificação da completude da informação contida no prospeto	547	563	334	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 37.º	Critérios para a verificação da inteligibilidade da informação contida no prospeto	565	589	443	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 38.º	Critérios para a verificação da coerência da informação contida no prospeto	591	605	338	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 39.º	Verificação da informação contida no prospeto de emitentes especializados	607	609	74	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 40.º	Critérios adicionais para a verificação da completude, da coerência e da inteligibilidade da informação contida no prospeto	611	613	106	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 41.º	Abordagem proporcionada na verificação dos projetos de prospeto e na análise dos documentos de registo universais	615	625	550	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 42.º	Apresentação de um pedido de aprovação de um projeto de prospeto ou notificação de um documento de registo universal ou de alterações do mesmo	627	665	1220	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 43.º	Alterações ao projeto de prospeto durante o processo de aprovação	667	673	335	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 44.º	Apresentação do projeto final de prospeto para aprovação	675	679	166	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 45.º	Aviso de receção de um pedido de aprovação de um projeto de prospeto, ou da notificação de um documento de registo universal ou de uma alteração ao mesmo, e tra	681	695	630	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 46.º	Revogação	699	703	20	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 46.º-A	Prospetos aprovados entre 21 de julho de 2019 e16 de setembro de 2020	705	709	46	ue/regulamentos/2019/32019R0980.md
-32019R0980	Artigo 47.º	Entrada em vigor e aplicação	711	717	89	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 1		799	929	9524	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 2		931	942	422	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 4		944	990	4341	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 5		992	1002	296	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 6		1004	1079	4963	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 7		1081	1150	4074	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 9		1152	1198	3783	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 10		1200	1227	1791	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 11		1229	1318	5893	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 13		1320	1415	5985	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 14		1417	1500	4357	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 15		1502	1561	2597	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 17		1563	1606	1999	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 18		1608	1629	960	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 19		1631	1695	3578	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 20		1697	1709	880	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 21		1711	1723	444	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 22		1725	1745	631	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 28		1747	1765	170	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 29		1767	1783	75	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 30	PROSPETO UE COMPLEMENTAR PARA VALORES MOBILIÁRIOS REPRESENTATIVOS DE CAPITAL PRÓPRIO	1785	1860	4425	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 31	PROSPETO UE COMPLEMENTAR PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PRÓPRIO	1862	1941	4016	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 32	DOCUMENTO DE REGISTO UE COMPLEMENTAR PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PRÓPRIO	1943	1970	1775	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 33	NOTA UE COMPLEMENTAR PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PRÓPRIO	1972	2031	2642	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 34	PROSPETO DE EMISSÃO UE CRESCIMENTO PARA VALORES MOBILIÁRIOS REPRESENTATIVOS DE CAPITAL PRÓPRIO	2033	2125	5673	ue/regulamentos/2019/32019R0980.md
-32019R0980	ANEXO 35	PROSPETO DE EMISSÃO UE CRESCIMENTO PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PRÓPRIO	2127	2227	4928	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 1.º	Definições	34	56	492	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 2.º	Documento de registo para valores mobiliários representativos de capital próprio	64	84	374	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 3.º	Documento de registo universal	86	92	61	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 5.º	Documento de registo para unidades de participação em organismos de investimento coletivo de tipo fechado	94	96	75	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 6.º	Documento de registo para certificados de depósito emitidos sobre ações	98	104	59	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 7.º-A	Documento de registo para valores mobiliários não representativos de capital	106	120	303	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 10.º	Documento de registo para valores mobiliários respaldados por ativos	122	124	65	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 11.º	Documento de registo para valores mobiliários não representativos de capital emitidos por países terceiros ou respetivas autoridades regionais ou locais	126	130	108	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 12.º	Nota para valores mobiliários representativos de capital próprio ou unidades de participação emitidas por organismos de investimento coletivo de tipo fechado	136	152	246	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 14.º	Nota para certificados de depósito emitidos sobre ações	154	160	58	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 15.º-A	Nota para valores mobiliários não representativos de capital	162	176	254	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 18.º	Historial financeiro complexo e compromisso financeiro significativo de emitentes de valores mobiliários representativos de capital próprio	180	202	492	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 19.º	Valores mobiliários passíveis de troca ou convertíveis em ações	204	218	316	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 20.º	Valores mobiliários que dão origem a obrigações de pagamento ou de entrega associadas a um ativo subjacente	220	230	348	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 21.º	Valores mobiliários respaldados por ativos	232	234	56	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 22.º	Garantias	236	238	58	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 23.º	Consentimento	240	250	140	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 23.º-A	Valores mobiliários não representativos de capital publicitados como tendo em conta fatores ASG ou prosseguindo objetivos ASG	252	268	386	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 23.º-B	Circunstâncias conducentes à divulgação de informações adicionais	270	274	285	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 24.º	Formato do prospeto para valores mobiliários representativos de capital	280	326	817	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 24.º-A	Formato do prospeto para valores mobiliários não representativos de capital	328	366	761	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 25.º	Formato do prospeto de base	368	398	520	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 25.º-A	Lista de referências cruzadas	400	408	386	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 26.º	Informações a incluir no prospeto de base e nas condições finais	410	432	437	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 27.º	Sumário do prospeto	434	442	162	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-A	Prospeto UE Complementar para valores mobiliários representativos de capital próprio	448	452	205	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-B	Prospeto de emissão UE Crescimento para valores mobiliários representativos de capital próprio	454	458	212	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-C	Prospeto UE Complementar para valores mobiliários não representativos de capital próprio	460	478	596	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-D	Prospeto de emissão UE Crescimento para valores mobiliários não representativos de capital próprio	480	482	119	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-E	Formato do prospeto UE Complementar para valores mobiliários representativos de capital próprio	486	498	255	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-F	Formato do prospeto de emissão UE Crescimento para valores mobiliários representativos de capital próprio	500	512	254	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-G	Formato do prospeto UE Complementar para valores mobiliários não representativos de capital próprio	514	542	596	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-H	Formato do prospeto de emissão UE Crescimento para valores mobiliários não representativos de capital próprio	544	558	315	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-I	Formato do prospeto de base UE Complementar	560	586	495	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-J	Formato do prospeto de base de emissão UE Crescimento	588	604	262	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-K	Lista de referências cruzadas	606	614	560	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 28.º-L	Sumário do prospeto UE Complementar e do prospeto de emissão UE Crescimento	616	624	241	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 35.º	Âmbito da verificação	628	630	100	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 36.º	Critérios para a verificação da completude da informação contida no prospeto	632	648	334	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 37.º	Critérios para a verificação da inteligibilidade da informação contida no prospeto	650	678	432	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 38.º	Critérios para a verificação da coerência da informação contida no prospeto	680	694	338	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 39.º	Verificação da informação contida no prospeto de emitentes especializados	696	702	77	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 41.º	Abordagem proporcionada na verificação dos projetos de prospeto e na análise dos documentos de registo universais	704	714	550	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 42.º	Apresentação de um pedido de aprovação de um projeto de prospeto ou notificação de um documento de registo universal ou de alterações do mesmo	716	762	1226	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 43.º	Alterações ao projeto de prospeto durante o processo de aprovação	764	770	335	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 44.º	Apresentação do projeto final de prospeto para aprovação	772	776	166	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 45.º	Aviso de receção de um pedido de aprovação de um projeto de prospeto, ou da notificação de um documento de registo universal ou de uma alteração ao mesmo, e tra	778	794	632	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 45.º-A	Calendário para a aprovação de um prospeto	796	814	690	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 46.º	Revogação	818	822	20	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 46.º-A	Prospetos aprovados entre 21 de julho de 2019 e16 de setembro de 2020	824	828	46	ue/regulamentos/2019/32019R0980.md
+32019R0980	Artigo 47.º	Entrada em vigor e aplicação	830	838	90	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 1	DOCUMENTO DE REGISTO PARA VALORES MOBILIÁRIOS REPRESENTATIVOS DE CAPITAL	911	1002	7792	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 2		1004	1017	486	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 4		1019	1071	4344	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 5	DOCUMENTO DE REGISTO PARA CERTIFICADOS DE DEPÓSITO EMITIDOS SOBRE AÇÕES	1073	1085	301	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 7	DOCUMENTO DE REGISTO PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL	1087	1144	4594	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 9		1146	1196	3823	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 10		1198	1235	1802	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 11	NOTA PARA VALORES MOBILIÁRIOS REPRESENTATIVOS DE CAPITAL OU UNIDADES DE PARTICIPAÇÃO EMITIDAS POR ORGANISMOS DE INVESTIMENTO COLETIVO DE TIPO FECHADO	1237	1328	6008	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 13		1330	1430	5792	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 14	NOTA SOBRE VALORES MOBILIÁRIOS PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL	1432	1527	4878	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 15	PROSPETO PARA VALORES MOBILIÁRIOS REPRESENTATIVOS DE CAPITAL/PROSPETO UE OPI	1529	1700	12293	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 16	PROSPETO PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL	1702	1845	8866	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 17		1847	1891	1998	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 18		1893	1916	967	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 19		1918	1986	3535	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 20		1988	2000	880	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 21		2002	2014	444	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 22		2016	2036	631	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 23	VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PUBLICITADOS COMO TENDO EM CONTA FATORES ASG OU PROSSEGUINDO OBJETIVOS ASG	2038	2066	2622	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 28		2068	2092	182	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 29		2094	2110	75	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 30	PROSPETO UE COMPLEMENTAR PARA VALORES MOBILIÁRIOS REPRESENTATIVOS DE CAPITAL PRÓPRIO	2112	2187	4425	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 31	PROSPETO UE COMPLEMENTAR PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PRÓPRIO	2189	2270	4026	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 32	DOCUMENTO DE REGISTO UE COMPLEMENTAR PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PRÓPRIO	2272	2299	1775	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 33	NOTA UE COMPLEMENTAR PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PRÓPRIO	2301	2360	2642	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 34	PROSPETO DE EMISSÃO UE CRESCIMENTO PARA VALORES MOBILIÁRIOS REPRESENTATIVOS DE CAPITAL PRÓPRIO	2362	2454	5673	ue/regulamentos/2019/32019R0980.md
+32019R0980	ANEXO 35	PROSPETO DE EMISSÃO UE CRESCIMENTO PARA VALORES MOBILIÁRIOS NÃO REPRESENTATIVOS DE CAPITAL PRÓPRIO	2456	2558	5038	ue/regulamentos/2019/32019R0980.md
 32019R0981	Preâmbulo		18	114	6877	ue/regulamentos/2019/32019R0981.md
 32019R0981	Artigo 1.º	Alterações ao Regulamento Delegado (UE) 2015/35	118	153	700	ue/regulamentos/2019/32019R0981.md
 32019R0981	«Artigo 43.º	Disposições gerais	155	316	4582	ue/regulamentos/2019/32019R0981.md
@@ -4585,49 +4588,48 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32019R1150	Artigo 17.º	Códigos de conduta	443	449	249	ue/regulamentos/2019/32019R1150.md
 32019R1150	Artigo 18.º	Revisão	451	473	660	ue/regulamentos/2019/32019R1150.md
 32019R1150	Artigo 19.º	Entrada em vigor e aplicação	475	521	873	ue/regulamentos/2019/32019R1150.md
-32019R1154	Preâmbulo		18	70	2754	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 1.º	Objeto	76	78	69	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 2.º	Âmbito de aplicação	80	92	198	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 3.º	Objetivo	94	96	74	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 4.º	Relação com outro direito da União	98	106	82	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 5.º	Definições	108	146	667	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 6.º	Esforço de pesca	152	156	89	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 7.º	Atribuição de possibilidades de pesca	158	164	345	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 8.º	Limitações de capacidade	166	174	385	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 9.º	Planos de pesca anuais	176	180	183	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 10.º	Períodos de defeso	186	192	251	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 11.º	Tamanho mínimo de referência de conservação do espadarte do Mediterrâneo	196	204	196	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 12.º	Capturas acessórias incidentais de espadarte do Mediterrâneo de tamanho inferior ao tamanho mínimo de referência de conservação	206	208	152	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 13.º	Capturas acessórias	210	218	317	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 14.º	Características técnicas das artes de pesca	222	230	164	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 15.º	Autorizações de pesca	236	242	207	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 16.º	Informações sobre os navios autorizados a pescar espadarte do Mediterrâneo e atum-voador no ano em curso	244	258	470	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 17.º	Informações sobre os navios autorizados a dirigir a pesca ao espadarte do Mediterrâneo que utilizaram arpões ou palangres pelágicos durante o ano anterior	260	272	259	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 18.º	Sistema de monitorização dos navios	276	292	413	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 19.º	Fretamento de navios de pesca da União	294	296	40	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 20.º	Programas nacionais de observação científica para palangreiros pelágicos	298	322	742	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 21.º	Registo e declaração das capturas	326	358	645	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 22.º	Dados sobre a utilização da quota	360	364	122	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 23.º	Portos designados	368	374	188	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 24.º	Notificação prévia	376	390	387	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 25.º	Transbordos	392	396	106	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 26.º	Planos de inspeção anuais	400	408	203	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 27.º	Programa de Inspeção Internacional Conjunta da CICTA	410	420	547	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 28.º	Inspeções em caso de infrações	422	424	94	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 29.º	Medidas de gestão	428	436	366	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 30.º	Medidas de controlo	438	460	454	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 31.º	Relatório anual	464	472	235	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 32.º	Avaliação	474	476	54	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 33.º	Financiamento	478	480	68	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 34.º	Procedimento de alteração	482	502	384	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 35.º	Exercício da delegação	504	516	466	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 36.º	Procedimento de comité	518	522	84	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 37.º	Alterações do Regulamento (UE) 2017/2107	524	526	32	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 38.º	Alteração do Regulamento (CE) n.º 1967/2006	528	533	94	ue/regulamentos/2019/32019R1154.md
-32019R1154	Artigo 39.º		535	587	1320	ue/regulamentos/2019/32019R1154.md
-32019R1154	ANEXO I		589	656	3168	ue/regulamentos/2019/32019R1154.md
-32019R1154	ANEXO II		658	720	520	ue/regulamentos/2019/32019R1154.md
-32019R1154	ANEXO III		722	793	2925	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 1.º	Objeto	30	32	69	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 2.º	Âmbito de aplicação	34	46	198	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 3.º	Objetivo	48	50	74	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 4.º	Relação com outro direito da União	52	60	83	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 5.º	Definições	62	100	681	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 6.º	Esforço de pesca	106	110	89	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 7.º	Atribuição de possibilidades de pesca	112	118	345	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 8.º	Limitações de capacidade	120	128	385	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 9.º	Planos de pesca anuais	130	134	183	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 10.º	Períodos de defeso	140	146	251	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 11.º	Tamanho mínimo de referência de conservação do espadarte do Mediterrâneo	150	158	196	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 12.º	Capturas acessórias incidentais de espadarte do Mediterrâneo de tamanho inferior ao tamanho mínimo de referência de conservação	160	162	152	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 13.º	Capturas acessórias	164	172	317	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 14.º	Características técnicas das artes de pesca	176	188	215	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 15.º	Autorizações de pesca	194	200	207	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 16.º	Informações sobre os navios autorizados a pescar espadarte do Mediterrâneo e atum-voador no ano em curso	202	216	471	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 17.º	Informações sobre os navios autorizados a dirigir a pesca ao espadarte do Mediterrâneo que utilizaram arpões ou palangres pelágicos durante o ano anterior	218	230	259	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 18.º	Sistema de monitorização dos navios	234	250	413	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 19.º	Fretamento de navios de pesca da União	252	254	40	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 20.º	Programas nacionais de observação científica para palangreiros pelágicos	256	280	742	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 21.º	Registo e declaração das capturas	284	316	645	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 22.º	Dados sobre a utilização da quota	318	322	122	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 23.º	Portos designados	326	332	188	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 24.º	Notificação prévia	334	348	387	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 25.º	Transbordos	350	354	106	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 26.º	Planos de inspeção anuais	358	366	204	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 27.º	Programa de Inspeção Internacional Conjunta da CICTA	368	378	547	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 28.º	Inspeções em caso de infrações	380	382	94	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 29.º	Medidas de gestão	386	394	366	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 30.º	Medidas de controlo	396	418	454	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 31.º	Relatório anual	422	430	235	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 32.º	Avaliação	432	434	54	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 33.º	Financiamento	436	438	68	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 34.º	Procedimento de alteração	440	460	384	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 35.º	Exercício da delegação	462	474	466	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 36.º	Procedimento de comité	476	480	84	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 37.º	Alterações do Regulamento (UE) 2017/2107	482	484	32	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 38.º	Alteração do Regulamento (CE) n.º 1967/2006	486	490	90	ue/regulamentos/2019/32019R1154.md
+32019R1154	Artigo 39.º		492	496	64	ue/regulamentos/2019/32019R1154.md
+32019R1154	ANEXO I		498	678	3106	ue/regulamentos/2019/32019R1154.md
+32019R1154	ANEXO II		680	742	505	ue/regulamentos/2019/32019R1154.md
+32019R1154	ANEXO III		744	844	3064	ue/regulamentos/2019/32019R1154.md
 32019R1155	Preâmbulo		18	98	4406	ue/regulamentos/2019/32019R1155.md
 32019R1155	Artigo 1.º		102	467	6608	ue/regulamentos/2019/32019R1155.md
 32019R1155	«Artigo 25.º-A	Cooperação em matéria de readmissão	469	620	3358	ue/regulamentos/2019/32019R1155.md
@@ -6607,39 +6609,39 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32019R2035	ANEXO III	Meios de identificação de animais terrestres detidos	2337	2357	94	ue/regulamentos/2019/32019R2035.md
 32019R2035	ANEXO IV	REQUISITOS TÉCNICOS APLICÁVEIS AOS TRANSPÔNDERES UTILIZADOS NA IDENTIFICAÇÃO DE CÃES, GATOS E FURÕES	2359	2365	122	ue/regulamentos/2019/32019R2035.md
 32019R2035	ANEXO V	INFORMAÇÕES QUE DEVEM CONSTAR DO PASSAPORTE PARA CÃES, GATOS E FURÕES	2367	2411	923	ue/regulamentos/2019/32019R2035.md
-32019R2072	Artigo 1.º	Objeto	54	56	101	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 2.º	Definições	58	74	354	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 3.º	Lista de pragas de quarentena da União	76	80	119	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 4.º	Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas	82	84	76	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 5.º	Lista de pragas regulamentadas não sujeitas a quarentena da União e vegetais específicos para plantação, com categorias e limiares	86	90	190	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 6.º	Medidas para impedir a presença de RNQP em vegetais específicos para plantação	92	130	756	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 6.º-A	Isenções dos requisitos aplicáveis às RNQP para sementes específicas	132	172	838	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 7.º	Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países terceiros é proibida	174	182	244	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 8.º	Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros ou do território da União e requisitos especiais correspondentes para a su	184	200	458	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 9.º	Lista de vegetais, produtos vegetais e outros objetos cuja introdução em determinadas zonas protegidas é proibida	202	204	108	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 10.º	Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos especiais correspondentes para zonas proteg	206	208	116	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 11.º	Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou de expedição, para os quais são exigidos certificad	210	216	279	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 12.º	Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados países terceiros de origem ou de expediç	218	220	142	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 13.º	Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um passaporte fitossanitário	222	234	243	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 14.º	Lista de vegetais, produtos vegetais e outros objetos para cuja introdução e circulação em determinadas zonas protegidas é exigido um passaporte fitossanitário 	236	240	145	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 15.º	Revogação do Regulamento (CE) n.º 690/2008	242	244	26	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 16.º	Alteração do Regulamento de Execução (UE) 2018/2019	246	252	51	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 17.º	Medidas transitórias	254	258	304	ue/regulamentos/2019/32019R2072.md
-32019R2072	Artigo 18.º	Entrada em vigor e aplicação	260	266	90	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO I		268	352	841	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO II	Lista de pragas de quarentena da União e respetivos códigos atribuídos pela OEPP	354	601	6349	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO III	Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos	603	652	1816	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO IV		654	1125	12372	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO V	Medidas para impedir a presença de RNQP em vegetais específicos para plantação	1127	1627	34605	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO VI		1629	1663	3616	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO VII		1665	1870	67617	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO VIII		1872	1942	11175	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO IX		1944	1959	2082	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO X		1961	2037	13671	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO XI		2039	2170	23169	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO XII		2172	2215	4156	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO XIII		2217	2339	1580	ue/regulamentos/2019/32019R2072.md
-32019R2072	ANEXO XIV		2341	2412	1892	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 1.º	Objeto	52	54	101	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 2.º	Definições	56	72	354	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 3.º	Lista de pragas de quarentena da União	74	78	119	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 4.º	Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas	80	82	76	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 5.º	Lista de pragas regulamentadas não sujeitas a quarentena da União e vegetais específicos para plantação, com categorias e limiares	84	88	190	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 6.º	Medidas para impedir a presença de RNQP em vegetais específicos para plantação	90	128	756	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 6.º-A	Isenções dos requisitos aplicáveis às RNQP para sementes específicas	130	170	838	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 7.º	Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países terceiros é proibida	172	180	244	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 8.º	Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros ou do território da União e requisitos especiais correspondentes para a su	182	198	458	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 9.º	Lista de vegetais, produtos vegetais e outros objetos cuja introdução em determinadas zonas protegidas é proibida	200	202	108	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 10.º	Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos especiais correspondentes para zonas proteg	204	206	116	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 11.º	Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou de expedição, para os quais são exigidos certificad	208	214	279	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 12.º	Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados países terceiros de origem ou de expediç	216	218	142	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 13.º	Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um passaporte fitossanitário	220	232	243	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 14.º	Lista de vegetais, produtos vegetais e outros objetos para cuja introdução e circulação em determinadas zonas protegidas é exigido um passaporte fitossanitário 	234	238	145	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 15.º	Revogação do Regulamento (CE) n.º 690/2008	240	242	26	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 16.º	Alteração do Regulamento de Execução (UE) 2018/2019	244	250	51	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 17.º	Medidas transitórias	252	256	304	ue/regulamentos/2019/32019R2072.md
+32019R2072	Artigo 18.º	Entrada em vigor e aplicação	258	264	90	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO I		266	350	841	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO II	Lista de pragas de quarentena da União e respetivos códigos atribuídos pela OEPP	352	615	6250	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO III	Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos	617	666	1816	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO IV		668	1139	12372	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO V	Medidas para impedir a presença de RNQP em vegetais específicos para plantação	1141	1641	34605	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO VI		1643	1677	3769	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO VII		1679	1903	71922	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO VIII		1905	1981	12114	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO IX		1983	1998	2082	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO X		2000	2076	13671	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO XI		2078	2213	24000	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO XII		2215	2258	4156	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO XIII		2260	2388	1609	ue/regulamentos/2019/32019R2072.md
+32019R2072	ANEXO XIV		2390	2461	1892	ue/regulamentos/2019/32019R2072.md
 32019R2074	Artigo 1.º	Objeto e âmbito de aplicação	36	38	100	ue/regulamentos/2019/32019R2074.md
 32019R2074	Artigo 2.º	Controlos oficiais específicos de remessas de animais e mercadorias originárias da União e que regressem à União após recusa de entrada num país terceiro	40	64	743	ue/regulamentos/2019/32019R2074.md
 32019R2074	Artigo 3.º	Regras adicionais sobre controlos oficiais específicos de remessas de produtos de origem animal e de produtos compostos	66	100	822	ue/regulamentos/2019/32019R2074.md

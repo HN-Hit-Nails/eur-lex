@@ -7,7 +7,7 @@ data: '2026-01-22'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/other-guidance/eu-us-data-privacy-framework-template-complaint-form-for-submitting_en
 pdf: https://www.edpb.europa.eu/system/files/2026-04/dpf_template-complaint-form_commercial-complaints_v2_en_1.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

@@ -6,12 +6,12 @@ Classificação oficial do EUR-Lex ("Repertório da legislação em vigor"), tr�
 awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2,6
 ```
 
-- `01` Questões gerais, institucionais e financeiras — 2824 actos
+- `01` Questões gerais, institucionais e financeiras — 2835 actos
   - `01.07` Estatísticas — 129 actos
   - `01.10` Princípios, objetivos e competências consagrados nos tratados — 152 actos
   - `01.20` Disposições gerais — 54 actos
   - `01.30` Âmbito dos tratados — 20 actos
-  - `01.40` Disposições institucionais — 1600 actos
+  - `01.40` Disposições institucionais — 1610 actos
     - `01.40.10` Questões gerais — 149 actos
     - `01.40.20` Parlamento — 62 actos
     - `01.40.30` Conselho — 62 actos
@@ -19,25 +19,25 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `01.40.50` Tribunal de Justiça — 108 actos
     - `01.40.60` Tribunal de Contas — 26 actos
     - `01.40.65` Comité das Regiões Europeu — 60 actos
-    - `01.40.70` Comité Económico e Social — 15 actos
+    - `01.40.70` Comité Económico e Social — 16 actos
     - `01.40.75` Banco Central Europeu — 179 actos
     - `01.40.80` Banco Europeu de Investimento — 36 actos
     - `01.40.85` Instituto Monetário Europeu — 7 actos
     - `01.40.90` Comité Consultivo CECA — 16 actos
     - `01.40.95` Sistema Europeu de Bancos Centrais — 136 actos
   - `01.50` Administração e estatuto do pessoal — 267 actos
-  - `01.60` Disposições financeiras e orçamentais — 717 actos
+  - `01.60` Disposições financeiras e orçamentais — 718 actos
     - `01.60.10` Unidade de conta — 1 acto
     - `01.60.20` Orçamento — 283 actos
     - `01.60.30` Recursos próprios — 116 actos
     - `01.60.40` Comunidade Europeia do Carvão e do Aço (CECA) — 37 actos
     - `01.60.50` Outras receitas — 14 actos
     - `01.60.60` Controlo financeiro — 82 actos
-- `02` União aduaneira e livre circulação das mercadorias — 2394 actos
+- `02` União aduaneira e livre circulação das mercadorias — 2395 actos
   - `02.05` Questões gerais — 14 actos
   - `02.07` Estatísticas — 294 actos
-  - `02.10` Regulamentação aduaneira geral — 79 actos
-    - `02.10.10` Território aduaneiro comum — 63 actos
+  - `02.10` Regulamentação aduaneira geral — 80 actos
+    - `02.10.10` Território aduaneiro comum — 64 actos
     - `02.10.20` Apresentação na alfândega e desalfandegamento — 1 acto
     - `02.10.30` Definição de «declarante» — 1 acto
     - `02.10.40` Constituição, exigibilidade e extinção da dívida aduaneira — 0 actos
@@ -45,7 +45,7 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `02.10.60` Reembolso ou dispensa de pagamento dos direitos — 2 actos
     - `02.10.70` Cobrança «a posteriori» dos direitos — 1 acto
     - `02.10.80` Informações que vinculam a administração — 3 actos
-  - `02.20` Instrumentos aduaneiros de base — 559 actos
+  - `02.20` Instrumentos aduaneiros de base — 560 actos
     - `02.20.10` Pautas aduaneiras — 409 actos
     - `02.20.20` Valor aduaneiro — 0 actos
     - `02.20.30` Origem das mercadorias — 91 actos
@@ -65,7 +65,7 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `02.60.10` Resolução de litígios — 0 actos
     - `02.60.20` Prevenção das infrações ao direito comunitário — 29 actos
   - `02.70` Cooperação aduaneira internacional — 113 actos
-- `03` Agricultura — 8280 actos
+- `03` Agricultura — 8293 actos
   - `03.05` Questões gerais — 405 actos
   - `03.07` Estatísticas — 115 actos
   - `03.10` Disposições de base — 197 actos
@@ -87,22 +87,22 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
   - `03.40` Medidas monetárias — 110 actos
     - `03.40.10` Fixação de montantes compensatórios — 10 actos
     - `03.40.20` Outras medidas monetárias — 94 actos
-  - `03.50` Aproximação das legislações e medidas sanitárias — 5119 actos
-    - `03.50.10` Alimentos para animais — 1129 actos
+  - `03.50` Aproximação das legislações e medidas sanitárias — 5128 actos
+    - `03.50.10` Alimentos para animais — 1133 actos
     - `03.50.20` Fitossanidade — 1737 actos
-    - `03.50.30` Saúde animal e zootecnia — 2039 actos
+    - `03.50.30` Saúde animal e zootecnia — 2043 actos
     - `03.50.40` Sementes e propágulos — 274 actos
-  - `03.60` Produtos objeto de uma organização de mercado — 1685 actos
+  - `03.60` Produtos objeto de uma organização de mercado — 1689 actos
     - `03.60.05` Disposições que abrangem várias organizações de mercado — 177 actos
     - `03.60.51` Cereais — 148 actos
     - `03.60.52` Carne de suíno — 116 actos
     - `03.60.53` Ovos e aves de capoeira — 69 actos
-    - `03.60.54` Frutas e produtos hortícolas frescos — 150 actos
-    - `03.60.55` Vinho — 179 actos
+    - `03.60.54` Frutas e produtos hortícolas frescos — 151 actos
+    - `03.60.55` Vinho — 180 actos
     - `03.60.56` Produtos lácteos — 229 actos
     - `03.60.57` Carne de bovino — 217 actos
     - `03.60.58` Arroz — 45 actos
-    - `03.60.59` Matérias gordas — 65 actos
+    - `03.60.59` Matérias gordas — 67 actos
     - `03.60.60` Açúcar — 92 actos
     - `03.60.61` Plantas vivas e produtos da floricultura — 19 actos
     - `03.60.62` Forragens secas — 13 actos
@@ -122,13 +122,13 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `03.70.60` Algodão — 11 actos
     - `03.70.70` Outros produtos agrícolas — 1 acto
   - `03.80` Acordos com países terceiros — 165 actos
-- `04` Pescas — 1217 actos
+- `04` Pescas — 1219 actos
   - `04.05` Questões gerais, abastecimento e investigação — 24 actos
   - `04.07` Estatísticas — 9 actos
-  - `04.10` Política comum das pescas — 765 actos
+  - `04.10` Política comum das pescas — 767 actos
     - `04.10.10` Ações estruturais — 64 actos
     - `04.10.20` Organização de mercado — 93 actos
-    - `04.10.30` Conservação dos recursos — 544 actos
+    - `04.10.30` Conservação dos recursos — 546 actos
     - `04.10.40` Auxílios estatais — 14 actos
   - `04.20` Relações externas — 445 actos
     - `04.20.10` Relações multilaterais — 83 actos
@@ -159,18 +159,18 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `06.30.30` contratos públicos de fornecimento — 9 actos
     - `06.30.40` Contratos públicos de serviços — 8 actos
     - `06.30.50` Outros contratos públicos — 13 actos
-- `07` Política dos transportes — 1771 actos
+- `07` Política dos transportes — 1774 actos
   - `07.05` Questões gerais — 45 actos
   - `07.07` Estatísticas — 21 actos
   - `07.10` Infraestrutura de transportes — 89 actos
     - `07.10.10` Coordenação e investimento — 1 acto
     - `07.10.20` Apoio financeiro — 32 actos
     - `07.10.30` Tarifas aplicáveis aos utilizadores — 15 actos
-  - `07.20` Transportes terrestres — 616 actos
+  - `07.20` Transportes terrestres — 618 actos
     - `07.20.10` Regras de concorrência — 4 actos
     - `07.20.20` Intervenções estatais — 13 actos
     - `07.20.30` Funcionamento do mercado — 124 actos
-    - `07.20.40` Harmonização estrutural — 402 actos
+    - `07.20.40` Harmonização estrutural — 404 actos
     - `07.20.50` Transportes combinados — 9 actos
     - `07.20.60` Disposições CECA — 4 actos
   - `07.30` Transportes marítimos — 263 actos
@@ -179,33 +179,33 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `07.30.30` Segurança no mar — 138 actos
     - `07.30.40` Harmonização estrutural — 52 actos
     - `07.30.50` Relações internacionais — 45 actos
-  - `07.40` Transportes aéreos — 781 actos
+  - `07.40` Transportes aéreos — 782 actos
     - `07.40.10` Regras de concorrência — 18 actos
-    - `07.40.20` Funcionamento do mercado — 235 actos
+    - `07.40.20` Funcionamento do mercado — 236 actos
     - `07.40.30` Segurança aérea — 324 actos
     - `07.40.40` Harmonização estrutural — 8 actos
     - `07.40.50` Relações internacionais — 243 actos
-- `08` Política da concorrência — 11620 actos
-  - `08.10` Princípios de concorrência — 56 actos
+- `08` Política da concorrência — 11638 actos
+  - `08.10` Princípios de concorrência — 57 actos
   - `08.20` Práticas restritivas — 328 actos
     - `08.20.10` Acordos proibidos — 202 actos
     - `08.20.20` Acordos autorizados, isenções e certificados negativos — 84 actos
     - `08.20.30` Procedimentos de controlo — 27 actos
   - `08.30` Posições dominantes — 72 actos
-  - `08.40` Concentrações — 9666 actos
+  - `08.40` Concentrações — 9683 actos
   - `08.50` Aplicação das regras de concorrência às empresas públicas — 20 actos
   - `08.60` Auxílios estatais e outras subvenções — 1495 actos
   - `08.70` Práticas de dumping intracomunitário — 3 actos
   - `08.80` Obrigações das empresas — 7 actos
   - `08.90` Monopólios nacionais de caráter comercial — 8 actos
-- `09` Fiscalidade — 506 actos
+- `09` Fiscalidade — 507 actos
   - `09.10` Questões gerais — 16 actos
   - `09.20` Impostos diretos — 62 actos
     - `09.20.10` Imposto sobre o rendimento — 4 actos
     - `09.20.20` Imposto sobre as sociedades — 15 actos
     - `09.20.30` Eliminação da dupla tributação — 50 actos
-  - `09.30` Impostos indiretos — 374 actos
-    - `09.30.10` Imposto sobre o volume de negócios/IVA — 280 actos
+  - `09.30` Impostos indiretos — 375 actos
+    - `09.30.10` Imposto sobre o volume de negócios/IVA — 281 actos
     - `09.30.20` Impostos especiais de consumo — 86 actos
     - `09.30.30` Impostos sobre o capital e a transações de títulos — 1 acto
     - `09.30.40` Isenções fiscais aplicáveis aos particulares — 6 actos
@@ -223,21 +223,21 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `10.30.20` Instrumentos de política económica — 214 actos
     - `10.30.30` União económica e monetária — 608 actos
   - `10.40` Livre circulação de capitais — 141 actos
-- `11` Relações externas — 14838 actos
+- `11` Relações externas — 14845 actos
   - `11.10` Questões gerais — 17 actos
   - `11.20` Cooperação política europeia — 12 actos
-  - `11.30` Relações multilaterais — 1553 actos
+  - `11.30` Relações multilaterais — 1555 actos
     - `11.30.10` Relações no âmbito do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) — 290 actos
     - `11.30.20` Acordos internacionais sobre produtos de base — 100 actos
     - `11.30.30` Cooperação aduaneira multilateral — 71 actos
-    - `11.30.40` Cooperação com organizações internacionais e com organizações não governamentais — 522 actos
-    - `11.30.50` Cooperação multilateral no domínio dos transportes — 141 actos
+    - `11.30.40` Cooperação com organizações internacionais e com organizações não governamentais — 524 actos
+    - `11.30.50` Cooperação multilateral no domínio dos transportes — 142 actos
     - `11.30.60` Cooperação multilateral para a proteção do ambiente, da fauna e da flora selvagens e dos recursos naturais — 290 actos
     - `11.30.70` Outros domínios de cooperação multilateral — 187 actos
-  - `11.40` Acordos bilaterais com países terceiros — 11477 actos
-    - `11.40.10` Países europeus — 9460 actos
+  - `11.40` Acordos bilaterais com países terceiros — 11481 actos
+    - `11.40.10` Países europeus — 9463 actos
     - `11.40.20` Próximo e Médio Oriente — 200 actos
-    - `11.40.30` Grupo de Estados de África, das Caraíbas e do Pacífico (ACP) — 512 actos
+    - `11.40.30` Grupo de Estados de África, das Caraíbas e do Pacífico (ACP) — 513 actos
     - `11.40.40` América do Norte — 329 actos
     - `11.40.50` América Central e América Latina — 340 actos
     - `11.40.60` Países da Ásia — 530 actos
@@ -249,13 +249,13 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
   - `11.60` Política comercial — 1631 actos
     - `11.60.10` Questões gerais — 42 actos
     - `11.60.20` Prorrogação ou renovação de acordos com países de comércio de Estado — 2 actos
-    - `11.60.30` Regimes de trocas comerciais — 560 actos
-    - `11.60.40` Defesa comercial — 931 actos
+    - `11.60.30` Regimes de trocas comerciais — 561 actos
+    - `11.60.40` Defesa comercial — 930 actos
     - `11.60.50` Outras medidas de política comercial — 89 actos
     - `11.60.60` Estatísticas do comércio externo (Nimexe) — 0 actos
-  - `11.70` Política de desenvolvimento — 373 actos
+  - `11.70` Política de desenvolvimento — 374 actos
     - `11.70.10` Questões gerais — 40 actos
-    - `11.70.20` Ajuda aos países em desenvolvimento — 227 actos
+    - `11.70.20` Ajuda aos países em desenvolvimento — 228 actos
     - `11.70.30` Sistema de preferências generalizadas — 53 actos
     - `11.70.40` Associações — 72 actos
 - `12` Energia — 708 actos
@@ -280,9 +280,9 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `12.50.20` Comércio intracomunitário — 1 acto
     - `12.50.30` Outras medidas relativas ao petróleo ou ao gás — 27 actos
   - `12.60` Outras fontes de energia — 48 actos
-- `13` Política industrial e mercado interno — 4517 actos
-  - `13.10` Política industrial: aspetos gerais, programas, estatísticas e investigação — 275 actos
-    - `13.10.10` Questões gerais — 32 actos
+- `13` Política industrial e mercado interno — 4529 actos
+  - `13.10` Política industrial: aspetos gerais, programas, estatísticas e investigação — 276 actos
+    - `13.10.10` Questões gerais — 33 actos
     - `13.10.20` Programas e estatísticas — 88 actos
     - `13.10.30` Investigação e desenvolvimento tecnológico — 153 actos
   - `13.20` Política industrial: intervenções setoriais — 712 actos
@@ -293,7 +293,7 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `13.20.50` Couro, peles, calçado — 0 actos
     - `13.20.60` Tecnologias da informação, telecomunicações e processamento de dados — 556 actos
     - `13.20.70` Outros setores industriais — 36 actos
-  - `13.30` Mercado interno: aproximação das legislações — 3454 actos
+  - `13.30` Mercado interno: aproximação das legislações — 3464 actos
     - `13.30.05` Questões gerais, programas — 54 actos
     - `13.30.10` Veículos a motor — 363 actos
     - `13.30.11` Tratores agrícolas e florestais — 24 actos
@@ -305,10 +305,10 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `13.30.17` Têxteis — 7 actos
     - `13.30.18` Substâncias perigosas — 178 actos
     - `13.30.19` Fertilizantes — 32 actos
-    - `13.30.99` Outros setores de aproximação das legislações — 1302 actos
+    - `13.30.99` Outros setores de aproximação das legislações — 1312 actos
   - `13.40` Mercado interno: política das empresas — 60 actos
   - `13.50` Diversos — 0 actos
-  - `13.60` Redes transeuropeias — 86 actos
+  - `13.60` Redes transeuropeias — 87 actos
 - `14` Política regional e coordenação dos instrumentos estruturais — 555 actos
   - `14.07` Estatísticas — 56 actos
   - `14.10` Princípios gerais, programas e estatísticas — 39 actos
@@ -320,28 +320,28 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
     - `14.40.30` Empréstimos comunitários — 0 actos
   - `14.50` Coordenação dos instrumentos estruturais — 389 actos
   - `14.60` Fundo de Coesão Económica e Social — 11 actos
-- `15` Ambiente, consumidores e proteção da saúde — 5604 actos
+- `15` Ambiente, consumidores e proteção da saúde — 5615 actos
   - `15.07` Estatísticas — 39 actos
-  - `15.10` Ambiente — 1871 actos
+  - `15.10` Ambiente — 1877 actos
     - `15.10.10` Princípios gerais e programas — 193 actos
-    - `15.10.20` Poluição e efeitos nocivos — 1225 actos
-    - `15.10.30` Espaço, ambiente e recursos naturais — 326 actos
+    - `15.10.20` Poluição e efeitos nocivos — 1230 actos
+    - `15.10.30` Espaço, ambiente e recursos naturais — 328 actos
     - `15.10.40` Cooperação internacional — 192 actos
-  - `15.20` Consumidores — 3379 actos
+  - `15.20` Consumidores — 3384 actos
     - `15.20.10` Questões gerais — 15 actos
-    - `15.20.20` Informação, educação e representação dos consumidores — 2404 actos
+    - `15.20.20` Informação, educação e representação dos consumidores — 2408 actos
     - `15.20.30` Proteção da saúde e da segurança — 855 actos
-    - `15.20.40` Proteção dos interesses económicos — 112 actos
+    - `15.20.40` Proteção dos interesses económicos — 113 actos
   - `15.30` Proteção da saúde — 430 actos
   - `15.40` Proteção dos animais — 52 actos
-- `16` Ciência, Informação, Educação e Cultura — 766 actos
+- `16` Ciência, Informação, Educação e Cultura — 767 actos
   - `16.01` Questões gerais — 2 actos
   - `16.07` Estatísticas — 12 actos
   - `16.10` Ciência — 165 actos
     - `16.10.10` Princípios gerais — 33 actos
     - `16.10.20` Áreas de investigação — 124 actos
   - `16.20` Divulgação da informação — 272 actos
-  - `16.30` Educação e formação — 235 actos
+  - `16.30` Educação e formação — 236 actos
   - `16.40` Cultura — 124 actos
 - `17` Legislação aplicável às empresas — 221 actos
   - `17.01` Questões gerais — 1 acto
@@ -350,23 +350,23 @@ awk -F'\t' '$5 ~ /(^| )13\.30\.16/' catalogo/legislacao-em-vigor.tsv | cut -f1,2
   - `17.30` Direito económico e comercial — 18 actos
     - `17.30.10` Procedimentos comerciais — 1 acto
     - `17.30.20` Outras disposições económicas e comerciais — 16 actos
-- `18` Política Externa e de Segurança Comum — 3876 actos
-- `19` Espaço de liberdade, segurança e justiça — 1457 actos
+- `18` Política Externa e de Segurança Comum — 3902 actos
+- `19` Espaço de liberdade, segurança e justiça — 1461 actos
   - `19.01` Questões gerais — 31 actos
-  - `19.10` Livre circulação das pessoas — 753 actos
+  - `19.10` Livre circulação das pessoas — 755 actos
     - `19.10.10` Supressão dos controlos nas fronteiras internas — 92 actos
-    - `19.10.20` Passagem das fronteiras externas — 379 actos
+    - `19.10.20` Passagem das fronteiras externas — 381 actos
     - `19.10.30` Política de asilo — 128 actos
-    - `19.10.40` Imigração e direitos dos cidadãos de países terceiros — 102 actos
+    - `19.10.40` Imigração e direitos dos cidadãos de países terceiros — 103 actos
   - `19.20` Cooperação judiciária em matéria civil — 158 actos
-  - `19.30` Cooperação policial e judiciária em matéria penal e aduaneira — 487 actos
+  - `19.30` Cooperação policial e judiciária em matéria penal e aduaneira — 490 actos
     - `19.30.10` Cooperação policial — 145 actos
-    - `19.30.20` Cooperação judiciária em matéria penal — 170 actos
+    - `19.30.20` Cooperação judiciária em matéria penal — 172 actos
     - `19.30.30` Cooperação aduaneira — 18 actos
   - `19.40` Programas — 71 actos
   - `19.50` Relações externas — 47 actos
-- `20` Europa dos cidadãos — 156 actos
+- `20` Europa dos cidadãos — 157 actos
   - `20.01` Questões gerais — 1 acto
   - `20.07` Estatísticas — 2 actos
   - `20.10` Livre circulação das pessoas — 17 actos
-  - `20.20` Cidadania europeia — 138 actos
+  - `20.20` Cidadania europeia — 139 actos

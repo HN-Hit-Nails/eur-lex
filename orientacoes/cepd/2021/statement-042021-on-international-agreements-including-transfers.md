@@ -7,7 +7,7 @@ data: '2021-04-13'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/statement/statement-042021-on-international-agreements-including-transfers_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-05/edpb_statement042021_international_agreements_including_transfers_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

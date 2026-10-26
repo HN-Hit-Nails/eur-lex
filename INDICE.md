@@ -1,6 +1,6 @@
 # Índice — por onde começar
 
-Gerado por `python3 ferramentas/indexar.py` em 2026-10-12. 65085 actos da UE (64285 em vigor, 765 em vigor por confirmar no Cellar, 35 futuros), 86 no corpus curado, leis portuguesas de transposição em `legislacao-pt/`.
+Gerado por `python3 ferramentas/indexar.py` em 2026-10-26. 65200 actos da UE (64387 em vigor, 773 em vigor por confirmar no Cellar, 40 futuros), 86 no corpus curado, leis portuguesas de transposição em `legislacao-pt/`.
 
 ## Para gastar poucos tokens
 
@@ -31,26 +31,26 @@ Gerado por `python3 ferramentas/indexar.py` em 2026-10-12. 65085 actos da UE (64
 
 ## Áreas (repertório oficial do EUR-Lex)
 
-- [`01` Questões gerais, institucionais e financeiras](indice/temas/01.md) — 2824 actos
-- [`02` União aduaneira e livre circulação das mercadorias](indice/temas/02.md) — 2394 actos
-- [`03` Agricultura](indice/temas/03.md) — 8280 actos
-- [`04` Pescas](indice/temas/04.md) — 1217 actos
+- [`01` Questões gerais, institucionais e financeiras](indice/temas/01.md) — 2835 actos
+- [`02` União aduaneira e livre circulação das mercadorias](indice/temas/02.md) — 2395 actos
+- [`03` Agricultura](indice/temas/03.md) — 8293 actos
+- [`04` Pescas](indice/temas/04.md) — 1219 actos
 - [`05` Livre circulação dos trabalhadores e política social](indice/temas/05.md) — 1153 actos
 - [`06` Direito de estabelecimento e liberdade de prestação de serviços](indice/temas/06.md) — 1335 actos
-- [`07` Política dos transportes](indice/temas/07.md) — 1771 actos
-- [`08` Política da concorrência](indice/temas/08.md) — 11620 actos
-- [`09` Fiscalidade](indice/temas/09.md) — 506 actos
+- [`07` Política dos transportes](indice/temas/07.md) — 1774 actos
+- [`08` Política da concorrência](indice/temas/08.md) — 11638 actos
+- [`09` Fiscalidade](indice/temas/09.md) — 507 actos
 - [`10` Política económica e monetária e livre circulação de capitais](indice/temas/10.md) — 1341 actos
-- [`11` Relações externas](indice/temas/11.md) — 14838 actos
+- [`11` Relações externas](indice/temas/11.md) — 14845 actos
 - [`12` Energia](indice/temas/12.md) — 708 actos
-- [`13` Política industrial e mercado interno](indice/temas/13.md) — 4517 actos
+- [`13` Política industrial e mercado interno](indice/temas/13.md) — 4529 actos
 - [`14` Política regional e coordenação dos instrumentos estruturais](indice/temas/14.md) — 555 actos
-- [`15` Ambiente, consumidores e proteção da saúde](indice/temas/15.md) — 5604 actos
-- [`16` Ciência, Informação, Educação e Cultura](indice/temas/16.md) — 766 actos
+- [`15` Ambiente, consumidores e proteção da saúde](indice/temas/15.md) — 5615 actos
+- [`16` Ciência, Informação, Educação e Cultura](indice/temas/16.md) — 767 actos
 - [`17` Legislação aplicável às empresas](indice/temas/17.md) — 221 actos
-- [`18` Política Externa e de Segurança Comum](indice/temas/18.md) — 3876 actos
-- [`19` Espaço de liberdade, segurança e justiça](indice/temas/19.md) — 1457 actos
-- [`20` Europa dos cidadãos](indice/temas/20.md) — 156 actos
+- [`18` Política Externa e de Segurança Comum](indice/temas/18.md) — 3902 actos
+- [`19` Espaço de liberdade, segurança e justiça](indice/temas/19.md) — 1461 actos
+- [`20` Europa dos cidadãos](indice/temas/20.md) — 157 actos
 
 ## Actos curados mais pedidos
 
@@ -141,4 +141,4 @@ Gerado por `python3 ferramentas/indexar.py` em 2026-10-12. 65085 actos da UE (64
 - `12016M/TXT` TUE — `corpus/tratados/12016M_TXT-tue.md`
 - `12016P/TXT` Carta dos Direitos Fundamentais — `corpus/tratados/12016P_TXT-carta-dos-direitos-fundamentais.md`
 
-Tipos de acto: Decisão 17505; Regulamento 16277; Decisão sobre concentração 9513; Acordo internacional 9132; Tratado 7393; Recomendação 1306; Diretiva 1306; Outro acto 868; Acto complementar 710; Parecer 382; Acto interno de instituição ou órgão 154; Orientação (BCE) 130; Ação ou posição comum (PESC) 118; Resolução 104; Orçamento 73; Decisão-quadro 54; Decisão CECA 52; Recomendação CECA 8.
+Tipos de acto: Decisão 17553; Regulamento 16319; Decisão sobre concentração 9530; Acordo internacional 9132; Tratado 7393; Recomendação 1312; Diretiva 1307; Outro acto 868; Acto complementar 710; Parecer 382; Acto interno de instituição ou órgão 155; Orientação (BCE) 130; Ação ou posição comum (PESC) 118; Resolução 104; Orçamento 73; Decisão-quadro 54; Decisão CECA 52; Recomendação CECA 8.

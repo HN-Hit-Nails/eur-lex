@@ -14,7 +14,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-119662485
 eli: https://data.dre.pt/eli/dec-lei/28/2019/p/cons/20250327/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-19'
+obtido_em: '2026-10-26'
 ---
 
 # Decreto-Lei n.º 28/2019

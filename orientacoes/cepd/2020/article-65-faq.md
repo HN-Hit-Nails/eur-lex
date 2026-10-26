@@ -7,7 +7,7 @@ data: '2020-11-10'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/article-65-faq_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2021-09/20201110_art65_faq_pt.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

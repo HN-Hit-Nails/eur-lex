@@ -1,7 +1,7 @@
 ---
 celex: 32022R0720
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Regulamento 32022R0720 — Acordos verticais (distribuição) — contexto

@@ -7,7 +7,7 @@ data: '2018-05-25'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/data-protection-officer_en
 pdf: https://ec.europa.eu/newsroom/just/document.cfm?doc_id=44100
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

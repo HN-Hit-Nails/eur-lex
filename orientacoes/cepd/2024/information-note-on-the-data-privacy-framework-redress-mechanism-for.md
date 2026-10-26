@@ -7,7 +7,7 @@ data: '2024-04-24'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/other-guidance/information-note-on-the-data-privacy-framework-redress-mechanism-for_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-04/edpb_information-note_dpf-redress-mechanism-national-security-purposes_en.pdf
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

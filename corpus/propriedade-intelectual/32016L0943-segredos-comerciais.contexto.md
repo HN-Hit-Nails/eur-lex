@@ -1,7 +1,7 @@
 ---
 celex: 32016L0943
 parte: contexto
-obtido_em: '2026-10-12'
+obtido_em: '2026-10-26'
 ---
 
 # Diretiva 32016L0943 — Segredos comerciais — contexto
