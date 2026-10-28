@@ -37,8 +37,9 @@ ELI = "https://data.dre.pt/eli/"
 DRE = "https://diariodarepublica.pt"
 
 # Tipo de acto (como o Cellar o regista) -> acrónimo ELI do DRE. Confirmados com pedidos reais.
-# Decreto Regulamentar e Lei Orgânica ficam de fora: nenhum dos acrónimos testados resolveu.
-ACRONIMOS = {"Lei": "lei", "Decreto-Lei": "dec-lei", "Portaria": "port", "Decreto": "dec"}
+# Lei Orgânica fica de fora: nenhum dos acrónimos testados resolveu. O Decreto Regulamentar é `decregul`
+# (o ELI que a própria página consolidada do DRE mostra; confirmado a 2026-10-28 com o DR 25/2009).
+ACRONIMOS = {"Lei": "lei", "Decreto-Lei": "dec-lei", "Portaria": "port", "Decreto": "dec", "Decreto Regulamentar": "decregul"}
 # Códigos que o Cellar regista pela sigla: diploma que os aprova.
 CODIGOS = {"CT": ("Lei", "7/2009", "2009-02-12"), "CÓDIGO DO TRABALHO - CT": ("Lei", "7/2009", "2009-02-12"),
            "CC": ("Decreto-Lei", "47344/1966", "1966-11-25")}
@@ -158,9 +159,10 @@ def resolver(tipo, numero, data):
     return det, cons
 
 
-def cmd_medidas():
+def cmd_medidas(so=None):
     diretivas = diretivas_do_nucleo()
-    linhas = medidas_cellar(diretivas)
+    # Com `--so`, só a entrada manual pedida: não se pergunta nada ao Cellar.
+    linhas = [] if so else medidas_cellar(diretivas)
     medidas = {}
     for l in linhas:
         tipo, numero, data, motivo = normalizar(l.get("tipo"), l.get("num"), l.get("djo", ""),
@@ -182,6 +184,8 @@ def cmd_medidas():
                                        "excluida": None, "titulo_cellar": "", "diretivas": [], "celex_medidas": []})
             m.setdefault("relacionado_com", []).extend(e.get("relacionado_com", []))
             m["nota_extra"] = e.get("nota")
+    if so:
+        medidas = {k: v for k, v in medidas.items() if k == so}
     # resolução (com cache)
     CACHE.mkdir(parents=True, exist_ok=True)
     cache_res = CACHE / "resolucao.json"
@@ -341,14 +345,18 @@ def original_md(texto_formatado, texto):
     return "\n\n".join(out)
 
 
-def cmd_converter():
+def cmd_converter(so=None):
     medidas = json.loads((CACHE / "medidas.json").read_text(encoding="utf-8"))
     diretivas = diretivas_do_nucleo()
     SAIDA.mkdir(exist_ok=True)
     import at_codigos  # códigos obtidos da AT (ferramentas/at_codigos.py): não são deste script
-    for f in SAIDA.glob("*.md"):
-        if f.stem not in at_codigos.CODIGOS:
-            f.unlink()
+    if so:
+        # Só um diploma: não se apagam os outros nem se refaz o índice (a corrida semanal refá-lo).
+        medidas = [m for m in medidas if m["chave"] == so]
+    else:
+        for f in SAIDA.glob("*.md"):
+            if f.stem not in at_codigos.CODIGOS:
+                f.unlink()
     resumo = []
     for m in medidas:
         if m["excluida"]:
@@ -431,6 +439,8 @@ def cmd_converter():
                                                 encoding="utf-8")
         resumo.append({**m, "estado": texto, "titulo": titulo, "sumario": sumario, "vigencia": vig,
                        "consolidada_de": fm.get("versao_consolidada_de")})
+    if so:
+        return resumo
     escrever_indice(resumo, diretivas)
     (SAIDA / "medidas.json").write_text(json.dumps(
         [{k: r.get(k) for k in ("chave", "tipo", "numero", "data", "estado", "excluida", "diretivas",
@@ -468,6 +478,15 @@ def escrever_indice(resumo, diretivas):
     for k, c in at_codigos.CODIGOS.items():
         ls.append(f"- [{c['nome']}]({k}.md) — compilação actualizada da AT — {c['diploma']}")
     ls.append("")
+    # Os anexos que o DRE só tem no PDF (tabelas), escritos à mão em legislacao-pt/anexos/: não são gerados aqui.
+    anexos = sorted((SAIDA / "anexos").glob("*.md")) if (SAIDA / "anexos").exists() else []
+    if anexos:
+        ls += ["Anexos tirados do PDF da publicação original, porque o texto do DRE os mostra como «(ver documento "
+               "original)» (`legislacao-pt/anexos/`, escritos à mão):", ""]
+        for f in anexos:
+            t = re.search(r"^diploma: (.+)$", f.read_text(encoding="utf-8"), re.M)
+            ls.append(f"- [{t.group(1) if t else f.stem}](anexos/{f.name})")
+        ls.append("")
     (SAIDA / "INDICE.md").write_text("\n".join(ls), encoding="utf-8")
 
 
@@ -475,13 +494,14 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("passo", choices=["medidas", "obter", "converter", "tudo"])
     ap.add_argument("--paralelo", type=int, default=2)
+    ap.add_argument("--so", help="só a entrada de dre_extra.yaml com esta chave (ex.: decreto-regulamentar-25-2009)")
     a = ap.parse_args()
     if a.passo in ("medidas", "tudo"):
-        cmd_medidas()
+        cmd_medidas(a.so)
     if a.passo in ("obter", "tudo"):
         cmd_obter(a.paralelo)
     if a.passo in ("converter", "tudo"):
-        r = cmd_converter()
+        r = cmd_converter(a.so)
         print(f"{len(r)} medidas processadas")
 
 
