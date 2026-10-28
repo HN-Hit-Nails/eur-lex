@@ -462,6 +462,7 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 - [Decreto-Lei n.º 28/2019](decreto-lei-28-2019.md) — consolidado (DRE), consolidado a 2025-03-27 — Procede à regulamentação das obrigações relativas ao processamento de faturas e outros documentos fiscalmente relevantes bem como das obrigações de conservação de livros, registos e respetivos documen
 - [Lei n.º 145/2015](lei-145-2015.md) — consolidado (DRE), consolidado a 2024-01-19 — Aprova o Estatuto da Ordem dos Advogados, em conformidade com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas prof
 - [Lei n.º 144/2015](lei-144-2015.md) — consolidado (DRE), consolidado a 2021-01-29 — Transpõe a Diretiva 2013/11/UE, do Parlamento Europeu e do Conselho, de 21 de maio de 2013, sobre a resolução alternativa de litígios de consumo, estabelece o enquadramento jurídico dos mecanismos de 
+- [Decreto Regulamentar n.º 25/2009](decreto-regulamentar-25-2009.md) — consolidado (DRE), consolidado a 2015-04-22 — Estabelece o regime das depreciações e amortizações para efeitos do imposto sobre o rendimento das pessoas colectivas e revoga o Decreto Regulamentar n.º 2/90, de 12 de Janeiro
 - [Decreto-Lei n.º 156/2005](decreto-lei-156-2005.md) — consolidado (DRE), consolidado a 2026-05-22 — Estabelece a obrigatoriedade de disponibilização do livro de reclamações a todos os fornecedores de bens ou prestadores de serviços que tenham contacto com o público em geral
 - [Decreto-Lei n.º 433/99](decreto-lei-433-1999.md) — consolidado (DRE), consolidado a 2025-03-27 — Aprova o Código de Procedimento e de Processo Tributário
 - [Decreto-Lei n.º 398/98](decreto-lei-398-1998.md) — consolidado (DRE), consolidado a 2025-03-27 — Aprova a lei geral tributária que enuncia e define os princípios gerais que regem o direito fiscal português e os poderes da administração tributária e garantias dos contribuintes
@@ -471,3 +472,7 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 Códigos obtidos da Autoridade Tributária e Aduaneira (Portal das Finanças), porque o DRE não os tem disponíveis pelo ELI (`python3 ferramentas/at_codigos.py`):
 
 - [Código do Imposto sobre o Valor Acrescentado (CIVA)](codigo-iva.md) — compilação actualizada da AT — Decreto-Lei n.º 394-B/84, de 26 de dezembro (aprova o Código do IVA)
+
+Anexos tirados do PDF da publicação original, porque o texto do DRE os mostra como «(ver documento original)» (`legislacao-pt/anexos/`, escritos à mão):
+
+- [Decreto Regulamentar n.º 25/2009 — Tabela II (taxas genéricas)](anexos/decreto-regulamentar-25-2009-tabela-ii.md)
