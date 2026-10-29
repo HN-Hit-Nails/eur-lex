@@ -55,6 +55,9 @@ NORMAS = {
     "resolucion-aeat-2009-12-28": {"id": "BOE-A-2009-21051", "relacionado_com": [],
                                    "nota": "Cria a sede electrónica e o registo electrónico da AEAT (Quinto, n.º 2: aplica-se o "
                                            "calendário de dias inhábiles da AEAT; Tercero, a): publicado na própria sede)."},
+    "real-decreto-legislativo-2-2015": {"id": "BOE-A-2015-11430", "relacionado_com": ["32003L0088"],
+                                        "nota": "Aprova o Estatuto de los Trabajadores (o texto refundido vem depois de "
+                                                "`## TEXTO REFUNDIDO…`): art. 34.º, n.º 9, o registo diário da jornada e os quatro anos."},
 }
 _ultimo = [0.0]
 
