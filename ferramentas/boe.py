@@ -41,6 +41,14 @@ NORMAS = {
     "orden-eha-1658-2009": {"id": "BOE-A-2009-10326", "relacionado_com": [],
                             "nota": "Domiciliação bancária do pagamento das autoliquidações (art. 3.º e anexo II: os prazos de "
                                     "quem paga por débito directo, por modelo, o 303 incluído)."},
+    "ley-27-2014": {"id": "BOE-A-2014-12328", "relacionado_com": [],
+                    "nota": "Ley del Impuesto sobre Sociedades (art. 12.º, n.º 1, a): a tabela oficial de coeficientes de amortização)."},
+    "ley-35-2006": {"id": "BOE-A-2006-20764", "relacionado_com": [],
+                    "nota": "Ley del IRPF (art. 28.º: o rendimento das actividades económicas em estimação directa segue as regras "
+                            "do Impuesto sobre Sociedades; art. 30.º: a estimação directa simplificada)."},
+    "real-decreto-439-2007": {"id": "BOE-A-2007-6820", "relacionado_com": [],
+                              "nota": "Reglamento del IRPF (art. 30.º: as amortizações na estimação directa simplificada; os "
+                                      "artigos do regulamento vêm depois de `## Anexo`)."},
     "resolucion-aeat-2009-12-28": {"id": "BOE-A-2009-21051", "relacionado_com": [],
                                    "nota": "Cria a sede electrónica e o registo electrónico da AEAT (Quinto, n.º 2: aplica-se o "
                                            "calendário de dias inhábiles da AEAT; Tercero, a): publicado na própria sede)."},
@@ -106,10 +114,12 @@ def md_bloco(bloco, versao, hoje):
                 out += [f"> {texto(x)}" for x in p if texto(x)]
             continue
         if p.tag == "table":
-            for tr in p.iter("tr"):
-                cel = [texto(td) for td in tr if td.tag in ("td", "th")]
-                if any(cel):
-                    out.append("| " + " | ".join(cel) + " |")
+            # Uma tabela Markdown só se lê como tabela num bloco só, com a linha separadora depois da primeira fila.
+            filas = [c for tr in p.iter("tr") if any(c := [texto(td).replace("|", "\\|") for td in tr if td.tag in ("td", "th")])]
+            if filas:
+                n = max(len(f) for f in filas)
+                filas = [f + [""] * (n - len(f)) for f in filas]
+                out.append("\n".join(["| " + " | ".join(filas[0]) + " |", "|" + " --- |" * n] + ["| " + " | ".join(f) + " |" for f in filas[1:]]))
             continue
         t = texto(p)
         if not t:
@@ -188,7 +198,7 @@ def main():
     linhas = ["# Legislação espanhola (BOE, consolidada)", "",
               "Normas espanholas obtidas do Boletín Oficial del Estado (texto consolidado, em espanhol). "
               "Gerado por `python3 ferramentas/boe.py`. Só o que já foi preciso: o IVA (lei, regulamento e "
-              "o modelo 303) e, para contar os prazos, a Ley General Tributaria, a Ley 39/2015 e a Orden EHA/1658/2009 (débito directo) e a Resolución da AEAT de 28/12/2009 (a sede electrónica e o seu calendário). Para outra norma, acrescenta-se a `NORMAS` em `ferramentas/boe.py`.", "",
+              "o modelo 303) e, para contar os prazos, a Ley General Tributaria, a Ley 39/2015 e a Orden EHA/1658/2009 (débito directo) e a Resolución da AEAT de 28/12/2009 (a sede electrónica e o seu calendário); e, para as amortizações, a Ley do Impuesto sobre Sociedades e a lei e o regulamento do IRPF. Para outra norma, acrescenta-se a `NORMAS` em `ferramentas/boe.py`.", "",
               "Consulta: `python3 ferramentas/procurar.py artigos real-decreto-1624-1992 plazo` e "
               "`python3 ferramentas/procurar.py ler real-decreto-1624-1992 71`.", ""]
     linhas += [f"- [{r['titulo'][:160]}]({r['chave']}.md) — consolidado até {r['actualizado']} — {r['nota']}"
