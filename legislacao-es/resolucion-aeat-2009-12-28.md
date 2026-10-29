@@ -8,7 +8,7 @@ fonte: Agencia Estatal Boletín Oficial del Estado — API de dados abertos
 lingua: es
 consolidado_ate: '2025-12-19'
 versoes_futuras: []
-obtido_em: '2026-10-26'
+obtido_em: '2026-10-29'
 ---
 
 # Resolución de 28 de diciembre de 2009, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se crea la sede electrónica y se regulan los registros electrónicos de la Agencia Estatal de Administración Tributaria.
