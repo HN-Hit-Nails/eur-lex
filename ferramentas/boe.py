@@ -49,6 +49,9 @@ NORMAS = {
     "real-decreto-439-2007": {"id": "BOE-A-2007-6820", "relacionado_com": [],
                               "nota": "Reglamento del IRPF (art. 30.º: as amortizações na estimação directa simplificada; os "
                                       "artigos do regulamento vêm depois de `## Anexo`)."},
+    "orden-1998-03-27": {"id": "BOE-A-1998-7200", "relacionado_com": [],
+                         "nota": "Aprova a Tabla de Amortización Simplificada da estimação directa simplificada do IRPF "
+                                 "(Reglamento del IRPF, art. 30.º, 1.ª)."},
     "resolucion-aeat-2009-12-28": {"id": "BOE-A-2009-21051", "relacionado_com": [],
                                    "nota": "Cria a sede electrónica e o registo electrónico da AEAT (Quinto, n.º 2: aplica-se o "
                                            "calendário de dias inhábiles da AEAT; Tercero, a): publicado na própria sede)."},
@@ -198,7 +201,7 @@ def main():
     linhas = ["# Legislação espanhola (BOE, consolidada)", "",
               "Normas espanholas obtidas do Boletín Oficial del Estado (texto consolidado, em espanhol). "
               "Gerado por `python3 ferramentas/boe.py`. Só o que já foi preciso: o IVA (lei, regulamento e "
-              "o modelo 303) e, para contar os prazos, a Ley General Tributaria, a Ley 39/2015 e a Orden EHA/1658/2009 (débito directo) e a Resolución da AEAT de 28/12/2009 (a sede electrónica e o seu calendário); e, para as amortizações, a Ley do Impuesto sobre Sociedades e a lei e o regulamento do IRPF. Para outra norma, acrescenta-se a `NORMAS` em `ferramentas/boe.py`.", "",
+              "o modelo 303) e, para contar os prazos, a Ley General Tributaria, a Ley 39/2015 e a Orden EHA/1658/2009 (débito directo) e a Resolución da AEAT de 28/12/2009 (a sede electrónica e o seu calendário); e, para as amortizações, a Ley do Impuesto sobre Sociedades, a lei e o regulamento do IRPF e a tabela simplificada (Orden de 27/03/1998). Para outra norma, acrescenta-se a `NORMAS` em `ferramentas/boe.py`.", "",
               "Consulta: `python3 ferramentas/procurar.py artigos real-decreto-1624-1992 plazo` e "
               "`python3 ferramentas/procurar.py ler real-decreto-1624-1992 71`.", ""]
     linhas += [f"- [{r['titulo'][:160]}]({r['chave']}.md) — consolidado até {r['actualizado']} — {r['nota']}"
