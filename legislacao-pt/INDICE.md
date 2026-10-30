@@ -469,6 +469,7 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 - [Decreto-Lei n.º 396/2007](decreto-lei-396-2007.md) — consolidado (DRE), consolidado a 2026-10-22 — Estabelece o regime jurídico do Sistema Nacional de Qualificações e define as estruturas que regulam o seu funcionamento
 - [Portaria n.º 851/2010](portaria-851-2010.md) — consolidado (DRE), consolidado a 2013-06-26 — Regula o sistema de certificação de entidades formadoras previsto no n.º 2 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de Dezembro
 - [Portaria n.º 474/2010](portaria-474-2010.md) — original (DRE) — Estabelece o modelo de certificado de formação profissional que, no âmbito do Sistema Nacional de Qualificações, se destina a certificar a conclusão com aproveitamento de uma acção de formação certifi
+- [Portaria n.º 256/2005](portaria-256-2005.md) — original (DRE) — Aprova a actualização da Classificação Nacional das Áreas de Educação e Formação (CNAEF). Revoga a Portaria n.º 316/2001, de 2 de Abril
 
 ## Outras fontes
 
