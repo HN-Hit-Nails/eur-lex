@@ -466,6 +466,9 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 - [Decreto-Lei n.º 156/2005](decreto-lei-156-2005.md) — consolidado (DRE), consolidado a 2026-05-22 — Estabelece a obrigatoriedade de disponibilização do livro de reclamações a todos os fornecedores de bens ou prestadores de serviços que tenham contacto com o público em geral
 - [Decreto-Lei n.º 433/99](decreto-lei-433-1999.md) — consolidado (DRE), consolidado a 2025-03-27 — Aprova o Código de Procedimento e de Processo Tributário
 - [Decreto-Lei n.º 398/98](decreto-lei-398-1998.md) — consolidado (DRE), consolidado a 2025-03-27 — Aprova a lei geral tributária que enuncia e define os princípios gerais que regem o direito fiscal português e os poderes da administração tributária e garantias dos contribuintes
+- [Decreto-Lei n.º 396/2007](decreto-lei-396-2007.md) — consolidado (DRE), consolidado a 2026-10-22 — Estabelece o regime jurídico do Sistema Nacional de Qualificações e define as estruturas que regulam o seu funcionamento
+- [Portaria n.º 851/2010](portaria-851-2010.md) — consolidado (DRE), consolidado a 2013-06-26 — Regula o sistema de certificação de entidades formadoras previsto no n.º 2 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de Dezembro
+- [Portaria n.º 474/2010](portaria-474-2010.md) — original (DRE) — Estabelece o modelo de certificado de formação profissional que, no âmbito do Sistema Nacional de Qualificações, se destina a certificar a conclusão com aproveitamento de uma acção de formação certifi
 
 ## Outras fontes
 
