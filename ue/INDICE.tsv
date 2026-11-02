@@ -26531,7 +26531,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32002R0811	em vigor	original (JO)			4	ue/regulamentos/2002/32002R0811.md	||em vigor
 32002R0840	em vigor	original (JO)			7	ue/regulamentos/2002/32002R0840.md	||em vigor
 32002R0849	em vigor	original (JO)			3	ue/regulamentos/2002/32002R0849.md	||em vigor
-32002R0881	em vigor	consolidado	2026-09-22		284	ue/regulamentos/2002/32002R0881.md	02002R0881-20260922||em vigor
+32002R0881	em vigor	consolidado	2026-10-10		284	ue/regulamentos/2002/32002R0881.md	02002R0881-20261010||em vigor
 32002R0889	em vigor	original (JO)			17	ue/regulamentos/2002/32002R0889.md	02002R0889-20020530||em vigor
 32002R0894	em vigor	original (JO)			3	ue/regulamentos/2002/32002R0894.md	||em vigor
 32002R0905	em vigor	original (JO)			3	ue/regulamentos/2002/32002R0905.md	||em vigor
@@ -27403,7 +27403,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32003R1044	em vigor	original (JO)			5	ue/regulamentos/2003/32003R1044.md	||em vigor
 32003R1047	em vigor	original (JO)			6	ue/regulamentos/2003/32003R1047.md	||em vigor
 32003R1053	em vigor	original (JO)			5	ue/regulamentos/2003/32003R1053.md	||em vigor
-32003R1059	em vigor	consolidado	2024-01-01		71	ue/regulamentos/2003/32003R1059.md	02003R1059-20240101||em vigor
+32003R1059	em vigor	consolidado	2024-01-01	2027-01-01	71	ue/regulamentos/2003/32003R1059.md	02003R1059-20240101|02003R1059-20270101|em vigor
 32003R1083	em vigor	original (JO)			3	ue/regulamentos/2003/32003R1083.md	||em vigor
 32003R1111	em vigor	original (JO)			6	ue/regulamentos/2003/32003R1111.md	02003R1111-20030630||em vigor
 32003R1114	em vigor	original (JO)			6	ue/regulamentos/2003/32003R1114.md	||em vigor
@@ -28205,7 +28205,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32004R0065	em vigor	original (JO)			15	ue/regulamentos/2004/32004R0065.md	02004R0065-20040116||em vigor
 32004R0100	em vigor	original (JO)			3	ue/regulamentos/2004/32004R0100.md	||em vigor
 32004R0135	em vigor	original (JO)			3	ue/regulamentos/2004/32004R0135.md	||em vigor
-32004R0138	em vigor	consolidado	2022-05-02		371	ue/regulamentos/2004/32004R0138.md	02004R0138-20220502||em vigor
+32004R0138	em vigor	consolidado	2022-05-02	2028-01-01	372	ue/regulamentos/2004/32004R0138.md	02004R0138-20220502|02004R0138-20280101|em vigor
 32004R0139	em vigor	original (JO)			98	ue/regulamentos/2004/32004R0139.md	02004R0139-20040218||em vigor
 32004R0180	em vigor	original (JO)			6	ue/regulamentos/2004/32004R0180.md	||em vigor
 32004R0215	em vigor	original (JO)			6	ue/regulamentos/2004/32004R0215.md	||em vigor
@@ -33790,7 +33790,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32009R0988	em vigor	original (JO)			108	ue/regulamentos/2009/32009R0988.md	02009R0988-20091031||em vigor
 32009R0991	em vigor	original (JO)			2	ue/regulamentos/2009/32009R0991.md	||em vigor
 32009R1007	em vigor	consolidado	2015-10-18		22	ue/regulamentos/2009/32009R1007.md	02009R1007-20151018||em vigor
-32009R1010	em vigor	consolidado	2026-01-10		84	ue/regulamentos/2009/32009R1010.md	02009R1010-20260110||em vigor
+32009R1010	em vigor	consolidado	2026-01-10	2027-01-10	84	ue/regulamentos/2009/32009R1010.md	02009R1010-20260110|02009R1010-20270110|em vigor
 32009R1019	em vigor	original (JO)			8	ue/regulamentos/2009/32009R1019.md	||em vigor
 32009R1022	em vigor	original (JO)			5	ue/regulamentos/2009/32009R1022.md	||em vigor
 32009R1023	em vigor	original (JO)			51	ue/regulamentos/2009/32009R1023.md	||em vigor
@@ -33853,7 +33853,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32009R1220	em vigor	original (JO)			10	ue/regulamentos/2009/32009R1220.md	||em vigor
 32009R1221	em vigor	consolidado	2023-07-12		158	ue/regulamentos/2009/32009R1221.md	02009R1221-20230712||em vigor
 32009R1223	em vigor	consolidado	2026-05-18		660	ue/regulamentos/2009/32009R1223.md	02009R1223-20260518||em vigor
-32009R1224	em vigor	consolidado	2026-01-10		292	ue/regulamentos/2009/32009R1224.md	02009R1224-20260110||em vigor
+32009R1224	em vigor	consolidado	2026-01-10	2028-01-10	293	ue/regulamentos/2009/32009R1224.md	02009R1224-20260110|02009R1224-20280110|em vigor
 32009R1226	em vigor	consolidado	2010-01-01		24	ue/regulamentos/2009/32009R1226.md	02009R1226-20100101||em vigor
 32009R1227	em vigor	original (JO)			2	ue/regulamentos/2009/32009R1227.md	||em vigor
 32009R1232	em vigor	original (JO)			2	ue/regulamentos/2009/32009R1232.md	||em vigor
@@ -34993,7 +34993,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32010R1089	em vigor	consolidado	2023-11-19		622	ue/regulamentos/2010/32010R1089.md	02010R1089-20231119||em vigor
 32010R1092	em vigor	consolidado	2025-11-10		47	ue/regulamentos/2010/32010R1092.md	02010R1092-20251110||em vigor
 32010R1093	em vigor	consolidado	2025-12-31		218	ue/regulamentos/2010/32010R1093.md	02010R1093-20251231||em vigor
-32010R1094	em vigor	consolidado	2025-11-10		201	ue/regulamentos/2010/32010R1094.md	02010R1094-20251110||em vigor
+32010R1094	em vigor	consolidado	2025-11-10	2027-01-30	201	ue/regulamentos/2010/32010R1094.md	02010R1094-20251110|02010R1094-20270130|em vigor
 32010R1095	em vigor	consolidado	2025-11-10		206	ue/regulamentos/2010/32010R1095.md	02010R1095-20251110||em vigor
 32010R1096	em vigor	original (JO)			11	ue/regulamentos/2010/32010R1096.md	||em vigor
 32010R1098	em vigor	original (JO)			2	ue/regulamentos/2010/32010R1098.md	||em vigor
@@ -36742,7 +36742,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32012D0637	em vigor	original (JO)			63	ue/decisoes/2012/32012D0637.md	||em vigor
 32012D0638	em vigor	original (JO)			104	ue/decisoes/2012/32012D0638.md	||em vigor
 32012D0640	em vigor	original (JO)			3	ue/decisoes/2012/32012D0640.md	||em vigor
-32012D0642	em vigor	consolidado	2026-07-24		618	ue/decisoes/2012/32012D0642.md	02012D0642-20260724||em vigor
+32012D0642	em vigor	consolidado	2026-07-24		618	ue/decisoes/2012/32012D0642.md	02012D0642-20261015||em vigor
 32012D0643	em vigor	original (JO)			3	ue/decisoes/2012/32012D0643.md	||em vigor
 32012D0644	em vigor	original (JO)			3	ue/decisoes/2012/32012D0644.md	||em vigor
 32012D0645	em vigor	original (JO)			2	ue/decisoes/2012/32012D0645.md	||em vigor
@@ -37433,7 +37433,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32012R0642	em vigor	original (JO)			6	ue/regulamentos/2012/32012R0642.md	||em vigor
 32012R0643	em vigor	original (JO)			21	ue/regulamentos/2012/32012R0643.md	||em vigor
 32012R0646	em vigor	original (JO)			31	ue/regulamentos/2012/32012R0646.md	||em vigor
-32012R0648	em vigor	consolidado	2025-01-17		540	ue/regulamentos/2012/32012R0648.md	02012R0648-20250117||em vigor
+32012R0648	em vigor	consolidado	2025-01-17	2027-01-30	540	ue/regulamentos/2012/32012R0648.md	02012R0648-20250117|02012R0648-20270130|em vigor
 32012R0649	em vigor	consolidado	2026-10-01		166	ue/regulamentos/2012/32012R0649.md	02012R0649-20261001||em vigor
 32012R0650	em vigor	consolidado	2012-07-05		72	ue/regulamentos/2012/32012R0650.md	02012R0650-20120705||em vigor
 32012R0651	em vigor	consolidado	2012-07-27		10	ue/regulamentos/2012/32012R0651.md	02012R0651-20120727||em vigor
@@ -39250,7 +39250,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32014D0142	em vigor	original (JO)			44	ue/decisoes/2014/32014D0142.md	||em vigor
 32014D0143	em vigor	original (JO)			7	ue/decisoes/2014/32014D0143.md	||em vigor
 32014D0144	em vigor	original (JO)			6	ue/decisoes/2014/32014D0144.md	||em vigor
-32014D0145	em vigor	consolidado	2026-08-07		3466	ue/decisoes/2014/32014D0145.md	02014D0145-20261012||em vigor
+32014D0145	em vigor	consolidado	2026-08-07		3466	ue/decisoes/2014/32014D0145.md	02014D0145-20261015||em vigor
 32014D0146	em vigor	original (JO)			2	ue/decisoes/2014/32014D0146.md	||em vigor
 32014D0147	em vigor	original (JO)			4	ue/decisoes/2014/32014D0147.md	||em vigor
 32014D0148	em vigor	original (JO)			9	ue/decisoes/2014/32014D0148.md	02014D0148-20140319||em vigor
@@ -40333,7 +40333,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32014R0261	em vigor	original (JO)			10	ue/regulamentos/2014/32014R0261.md	||em vigor
 32014R0263	em vigor	original (JO)			45	ue/regulamentos/2014/32014R0263.md	||em vigor
 32014R0264	em vigor	original (JO)			8	ue/regulamentos/2014/32014R0264.md	||em vigor
-32014R0269	em vigor	consolidado	2026-08-07		3493	ue/regulamentos/2014/32014R0269.md	02014R0269-20261012||em vigor
+32014R0269	em vigor	consolidado	2026-08-07		3493	ue/regulamentos/2014/32014R0269.md	02014R0269-20261015||em vigor
 32014R0271	em vigor	original (JO)			5	ue/regulamentos/2014/32014R0271.md	||em vigor
 32014R0274	em vigor	original (JO)			2	ue/regulamentos/2014/32014R0274.md	||em vigor
 32014R0275	em vigor	original (JO)			10	ue/regulamentos/2014/32014R0275.md	02014R0275-20140320||em vigor
@@ -41240,7 +41240,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32015D1320	em vigor	original (JO)			5	ue/decisoes/2015/32015D1320.md	||em vigor
 32015D1321	em vigor	original (JO)			37	ue/decisoes/2015/32015D1321.md	||em vigor
 32015D1332	em vigor	original (JO)			7	ue/decisoes/2015/32015D1332.md	||em vigor
-32015D1333	em vigor	consolidado	2026-08-07		139	ue/decisoes/2015/32015D1333.md	02015D1333-20260807||em vigor
+32015D1333	em vigor	consolidado	2026-10-13		138	ue/decisoes/2015/32015D1333.md	02015D1333-20261013||em vigor
 32015D1335	em vigor	original (JO)			2	ue/decisoes/2015/32015D1335.md	||em vigor
 32015D1336	em vigor	original (JO)			7	ue/decisoes/2015/32015D1336.md	||em vigor
 32015D1337	em vigor	original (JO)			3	ue/decisoes/2015/32015D1337.md	||em vigor
@@ -42734,7 +42734,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32016D0838	em vigor	original (JO)			5	ue/decisoes/2016/32016D0838.md	||em vigor
 32016D0839	em vigor	original (JO)			5	ue/decisoes/2016/32016D0839.md	||em vigor
 32016D0845	em vigor	original (JO)			15	ue/decisoes/2016/32016D0845.md	||em vigor
-32016D0849	em vigor	consolidado	2025-12-17		250	ue/decisoes/2016/32016D0849.md	02016D0849-20251217||em vigor
+32016D0849	em vigor	consolidado	2026-10-12		258	ue/decisoes/2016/32016D0849.md	02016D0849-20261012||em vigor
 32016D0850	em vigor	original (JO)			14	ue/decisoes/2016/32016D0850.md	||em vigor
 32016D0851	em vigor	original (JO)			5	ue/decisoes/2016/32016D0851.md	||em vigor
 32016D0852	em vigor	original (JO)			6	ue/decisoes/2016/32016D0852.md	||em vigor
@@ -43530,7 +43530,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32016R0027	em vigor	original (JO)			15	ue/regulamentos/2016/32016R0027.md	||em vigor
 32016R0031	em vigor	original (JO)			3	ue/regulamentos/2016/32016R0031.md	||em vigor
 32016R0038	em vigor	original (JO)			5	ue/regulamentos/2016/32016R0038.md	||em vigor
-32016R0044	em vigor	consolidado	2026-06-16		113	ue/regulamentos/2016/32016R0044.md	02016R0044-20260616||em vigor
+32016R0044	em vigor	consolidado	2026-10-13		113	ue/regulamentos/2016/32016R0044.md	02016R0044-20261013||em vigor
 32016R0045	em vigor	original (JO)			3	ue/regulamentos/2016/32016R0045.md	||em vigor
 32016R0046	em vigor	original (JO)			26	ue/regulamentos/2016/32016R0046.md	||em vigor
 32016R0047	em vigor	original (JO)			10	ue/regulamentos/2016/32016R0047.md	||em vigor
@@ -45417,7 +45417,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32017R0725	em vigor	original (JO)			13	ue/regulamentos/2017/32017R0725.md	||em vigor
 32017R0735	em vigor	original (JO)			1385	ue/regulamentos/2017/32017R0735.md	02017R0735-20170428||em vigor
 32017R0736	em vigor	original (JO)			4	ue/regulamentos/2017/32017R0736.md	||em vigor
-32017R0745	em vigor	consolidado	2026-07-19		650	ue/regulamentos/2017/32017R0745.md	02017R0745-20260719||em vigor
+32017R0745	em vigor	consolidado	2026-07-19	2026-11-09	650	ue/regulamentos/2017/32017R0745.md	02017R0745-20260719|02017R0745-20261109|em vigor
 32017R0746	em vigor	consolidado	2025-01-10		562	ue/regulamentos/2017/32017R0746.md	02017R0746-20250110||em vigor
 32017R0747	em vigor	original (JO)			21	ue/regulamentos/2017/32017R0747.md	||em vigor
 32017R0749	em vigor	original (JO)			2	ue/regulamentos/2017/32017R0749.md	||em vigor
@@ -45899,7 +45899,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32017R2391	em vigor	original (JO)			16	ue/regulamentos/2017/32017R2391.md	||em vigor
 32017R2392	em vigor	original (JO)			35	ue/regulamentos/2017/32017R2392.md	||em vigor
 32017R2393	em vigor	original (JO)			136	ue/regulamentos/2017/32017R2393.md	||em vigor
-32017R2394	em vigor	consolidado	2026-07-31		74	ue/regulamentos/2017/32017R2394.md	02017R2394-20260731||em vigor
+32017R2394	em vigor	consolidado	2026-09-12		74	ue/regulamentos/2017/32017R2394.md	02017R2394-20260912||em vigor
 32017R2395	em vigor	original (JO)			26	ue/regulamentos/2017/32017R2395.md	||em vigor
 32017R2396	em vigor	original (JO)			75	ue/regulamentos/2017/32017R2396.md	||em vigor
 32017R2400	em vigor	consolidado	2026-01-01		1247	ue/regulamentos/2017/32017R2400.md	02017R2400-20260101||em vigor
@@ -47253,7 +47253,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32018R0969	em vigor	original (JO)			10	ue/regulamentos/2018/32018R0969.md	||em vigor
 32018R0973	em vigor	consolidado	2019-08-14		31	ue/regulamentos/2018/32018R0973.md	02018R0973-20190814||em vigor
 32018R0974	em vigor	original (JO)			31	ue/regulamentos/2018/32018R0974.md	||em vigor
-32018R0975	em vigor	consolidado	2025-10-01		104	ue/regulamentos/2018/32018R0975.md	02018R0975-20251001||em vigor
+32018R0975	em vigor	consolidado	2026-08-21		105	ue/regulamentos/2018/32018R0975.md	02018R0975-20260821||em vigor
 32018R0976	em vigor	original (JO)			5	ue/regulamentos/2018/32018R0976.md	||em vigor
 32018R0977	em vigor	original (JO)			3	ue/regulamentos/2018/32018R0977.md	||em vigor
 32018R0978	em vigor	original (JO)			11	ue/regulamentos/2018/32018R0978.md	||em vigor
@@ -48022,7 +48022,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32019D1712	em vigor	original (JO)			43	ue/decisoes/2019/32019D1712.md	||em vigor
 32019D1713	em vigor	original (JO)			6	ue/decisoes/2019/32019D1713.md	||em vigor
 32019D1719	em vigor	original (JO)			101	ue/decisoes/2019/32019D1719.md	||em vigor
-32019D1720	em vigor	consolidado	2025-10-01		42	ue/decisoes/2019/32019D1720.md	02019D1720-20251001||em vigor
+32019D1720	em vigor	consolidado	2026-10-13		42	ue/decisoes/2019/32019D1720.md	02019D1720-20261013||em vigor
 32019D1721	em vigor	original (JO)			2	ue/decisoes/2019/32019D1721.md	||em vigor
 32019D1722	em vigor	original (JO)			2	ue/decisoes/2019/32019D1722.md	||em vigor
 32019D1727	em vigor	original (JO)			71	ue/decisoes/2019/32019D1727.md	||em vigor
@@ -48047,7 +48047,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32019D1788	em vigor	original (JO)			4	ue/decisoes/2019/32019D1788.md	||em vigor
 32019D1789	em vigor	original (JO)			4	ue/decisoes/2019/32019D1789.md	||em vigor
 32019D1790	em vigor	original (JO)			3	ue/decisoes/2019/32019D1790.md	||em vigor
-32019D1798	em vigor	consolidado	2019-10-28		1	ue/decisoes/2019/32019D1798.md	02019D1798-20191028||em vigor
 32019D1800	em vigor	original (JO)			7	ue/decisoes/2019/32019D1800.md	||em vigor
 32019D1801	em vigor	original (JO)			6	ue/decisoes/2019/32019D1801.md	||em vigor
 32019D1803	em vigor	original (JO)			2	ue/decisoes/2019/32019D1803.md	||em vigor
@@ -49207,7 +49206,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32019R1704	em vigor	original (JO)			56	ue/regulamentos/2019/32019R1704.md	||em vigor
 32019R1705	em vigor	original (JO)			7	ue/regulamentos/2019/32019R1705.md	||em vigor
 32019R1715	em vigor	consolidado	2021-12-01		122	ue/regulamentos/2019/32019R1715.md	02019R1715-20211201||em vigor
-32019R1716	em vigor	consolidado	2025-10-01		51	ue/regulamentos/2019/32019R1716.md	02019R1716-20251001||em vigor
+32019R1716	em vigor	consolidado	2026-10-13		51	ue/regulamentos/2019/32019R1716.md	02019R1716-20261013||em vigor
 32019R1717	em vigor	original (JO)			2	ue/regulamentos/2019/32019R1717.md	||em vigor
 32019R1718	em vigor	original (JO)			22	ue/regulamentos/2019/32019R1718.md	||em vigor
 32019R1725	em vigor	original (JO)			2	ue/regulamentos/2019/32019R1725.md	||em vigor
@@ -50594,10 +50593,10 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32020R0673	em vigor	original (JO)			3	ue/regulamentos/2020/32020R0673.md	||em vigor
 32020R0683	em vigor	consolidado	2024-01-01		437	ue/regulamentos/2020/32020R0683.md	02020R0683-20240101||em vigor
 32020R0684	em vigor	original (JO)			3	ue/regulamentos/2020/32020R0684.md	||em vigor
-32020R0686	em vigor	consolidado	2023-04-10	2026-11-01	194	ue/regulamentos/2020/32020R0686.md	02020R0686-20230410|02020R0686-20261101|em vigor
-32020R0687	em vigor	consolidado	2026-05-12	2026-11-01	222	ue/regulamentos/2020/32020R0687.md	02020R0687-20260512|02020R0687-20261101|em vigor
-32020R0688	em vigor	consolidado	2026-04-22	2026-11-01	251	ue/regulamentos/2020/32020R0688.md	02020R0688-20260422|02020R0688-20261101|em vigor
-32020R0689	em vigor	consolidado	2026-04-22	2026-11-01	425	ue/regulamentos/2020/32020R0689.md	02020R0689-20260422|02020R0689-20261101|em vigor
+32020R0686	em vigor	consolidado	2026-11-01		194	ue/regulamentos/2020/32020R0686.md	02020R0686-20261101||em vigor
+32020R0687	em vigor	consolidado	2026-11-01		222	ue/regulamentos/2020/32020R0687.md	02020R0687-20261101||em vigor
+32020R0688	em vigor	consolidado	2026-11-01		222	ue/regulamentos/2020/32020R0688.md	02020R0688-20261101||em vigor
+32020R0689	em vigor	consolidado	2026-11-01		386	ue/regulamentos/2020/32020R0689.md	02020R0689-20261101||em vigor
 32020R0690	em vigor	consolidado	2024-08-19		3	ue/regulamentos/2020/32020R0690.md	02020R0690-20240819||em vigor
 32020R0691	em vigor	original (JO)			130	ue/regulamentos/2020/32020R0691.md	02020R0691-20200603||em vigor
 32020R0692	em vigor	consolidado	2026-08-12		446	ue/regulamentos/2020/32020R0692.md	02020R0692-20260812||em vigor
@@ -51446,7 +51445,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32021D1108	em vigor	original (JO)			18	ue/decisoes/2021/32021D1108.md	||em vigor
 32021D1111(01)	em vigor	original (JO)			15	ue/decisoes/2021/32021D1111(01).md	||em vigor
 32021D1113	em vigor	original (JO)			5	ue/decisoes/2021/32021D1113.md	||em vigor
-32021D1115(01)	em vigor	original (JO)			18	ue/decisoes/2021/32021D1115(01).md	||em vigor
+32021D1115(01)	em vigor	consolidado	2026-09-22		14	ue/decisoes/2021/32021D1115(01).md	02021D1115(01)-20260922||em vigor
 32021D1117	em vigor	original (JO)			4	ue/decisoes/2021/32021D1117.md	||em vigor
 32021D1125	em vigor	original (JO)			4	ue/decisoes/2021/32021D1125.md	||em vigor
 32021D1125(01)	em vigor	original (JO)			3	ue/decisoes/2021/32021D1125(01).md	||em vigor
@@ -51613,7 +51612,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32021D1803	em vigor	consolidado	2026-05-27		4	ue/decisoes/2021/32021D1803.md	02021D1803-20260527||em vigor
 32021D1815	em vigor	original (JO)			13	ue/decisoes/2021/32021D1815.md	||em vigor
 32021D1818	em vigor	original (JO)			2	ue/decisoes/2021/32021D1818.md	||em vigor
-32021D1822	em vigor	original (JO)			3	ue/decisoes/2021/32021D1822.md	||em vigor
 32021D1823	em vigor	original (JO)			3	ue/decisoes/2021/32021D1823.md	||em vigor
 32021D1825	em vigor	original (JO)			2	ue/decisoes/2021/32021D1825.md	||em vigor
 32021D1826	em vigor	original (JO)			1	ue/decisoes/2021/32021D1826.md	||em vigor
@@ -52405,9 +52403,9 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32021R0391	em vigor	original (JO)			22	ue/regulamentos/2021/32021R0391.md	||em vigor
 32021R0392	em vigor	original (JO)			57	ue/regulamentos/2021/32021R0392.md	||em vigor
 32021R0397	em vigor	original (JO)			3	ue/regulamentos/2021/32021R0397.md	||em vigor
-32021R0403	em vigor	consolidado — PDF	2024-05-16		334	ue/regulamentos/2021/32021R0403.md	02021R0403-20260422||em vigor
+32021R0403	em vigor	consolidado — PDF	2024-05-16		334	ue/regulamentos/2021/32021R0403.md	02021R0403-20261101||em vigor
 32021R0404	em vigor	consolidado	2026-10-22		1444	ue/regulamentos/2021/32021R0404.md	02021R0404-20261022||em vigor
-32021R0405	em vigor	consolidado	2026-09-03		89	ue/regulamentos/2021/32021R0405.md	02021R0405-20260903||em vigor
+32021R0405	em vigor	consolidado	2026-09-03	2026-11-04	89	ue/regulamentos/2021/32021R0405.md	02021R0405-20260903|02021R0405-20261104|em vigor
 32021R0407	em vigor	original (JO)			5	ue/regulamentos/2021/32021R0407.md	||em vigor
 32021R0413	em vigor	original (JO)			12	ue/regulamentos/2021/32021R0413.md	||em vigor
 32021R0418	em vigor	original (JO)			13	ue/regulamentos/2021/32021R0418.md	||em vigor
@@ -52507,7 +52505,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32021R0617	em vigor	original (JO)			41	ue/regulamentos/2021/32021R0617.md	||em vigor
 32021R0618	em vigor	consolidado	2021-04-16		31	ue/regulamentos/2021/32021R0618.md	02021R0618-20210416||em vigor
 32021R0619	em vigor	original (JO)			22	ue/regulamentos/2021/32021R0619.md	||em vigor
-32021R0620	em vigor	consolidado	2026-08-10	2026-11-01	63	ue/regulamentos/2021/32021R0620.md	02021R0620-20260810|02021R0620-20261101|em vigor
+32021R0620	em vigor	consolidado	2026-11-01		59	ue/regulamentos/2021/32021R0620.md	02021R0620-20261101||em vigor
 32021R0621	em vigor	original (JO)			4	ue/regulamentos/2021/32021R0621.md	||em vigor
 32021R0622	em vigor	consolidado	2026-03-31		32	ue/regulamentos/2021/32021R0622.md	02021R0622-20260331||em vigor
 32021R0628	em vigor	original (JO)			8	ue/regulamentos/2021/32021R0628.md	||em vigor
@@ -55777,7 +55775,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32023D2129	em vigor	original (JO)			2	ue/decisoes/2023/32023D2129.md	||em vigor
 32023D2132	em vigor	original (JO)			15	ue/decisoes/2023/32023D2132.md	||em vigor
 32023D2133	em vigor	consolidado	2023-10-17		11	ue/decisoes/2023/32023D2133.md	02023D2133-20231017||em vigor
-32023D2135	em vigor	consolidado	2026-07-15		63	ue/decisoes/2023/32023D2135.md	02023D2135-20260715||em vigor
+32023D2135	em vigor	consolidado	2026-10-10		64	ue/decisoes/2023/32023D2135.md	02023D2135-20261010||em vigor
 32023D2142	em vigor	original (JO)			6	ue/decisoes/2023/32023D2142.md	||em vigor
 32023D2143	em vigor	original (JO)			20	ue/decisoes/2023/32023D2143.md	||em vigor
 32023D2160	em vigor	original (JO)			133	ue/decisoes/2023/32023D2160.md	||em vigor
@@ -55803,7 +55801,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32023D2227	em vigor	original (JO)			2	ue/decisoes/2023/32023D2227.md	||em vigor
 32023D2228	em vigor	original (JO)			2	ue/decisoes/2023/32023D2228.md	||em vigor
 32023D2231	em vigor	original (JO)			2	ue/decisoes/2023/32023D2231.md	||em vigor
-32023D2287	em vigor	consolidado	2025-10-21		18	ue/decisoes/2023/32023D2287.md	02023D2287-20251021||em vigor
+32023D2287	em vigor	consolidado	2026-10-13		18	ue/decisoes/2023/32023D2287.md	02023D2287-20261013||em vigor
 32023D2296	em vigor	original (JO)			27	ue/decisoes/2023/32023D2296.md	||em vigor
 32023D2376	em vigor	original (JO)			25	ue/decisoes/2023/32023D2376.md	||em vigor
 32023D2377	em vigor	original (JO)			5	ue/decisoes/2023/32023D2377.md	02023D2377-20231003||em vigor
@@ -55873,7 +55871,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32023D2601	em vigor	original (JO)			17	ue/decisoes/2023/32023D2601.md	||em vigor
 32023D2608	em vigor	original (JO)			49	ue/decisoes/2023/32023D2608.md	||em vigor
 32023D2610	em vigor	original (JO)			3	ue/decisoes/2023/32023D2610.md	||em vigor
-32023D2619	em vigor	original (JO)			4	ue/decisoes/2023/32023D2619.md	||em vigor
 32023D2622	em vigor	original (JO)			12	ue/decisoes/2023/32023D2622.md	||em vigor
 32023D2626	em vigor	original (JO)			14	ue/decisoes/2023/32023D2626.md	||em vigor
 32023D2630	em vigor	original (JO)			14	ue/decisoes/2023/32023D2630.md	||em vigor
@@ -57726,7 +57723,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32024D1277	em vigor	original (JO)			5	ue/decisoes/2024/32024D1277.md	||em vigor
 32024D1278	em vigor	original (JO)			5	ue/decisoes/2024/32024D1278.md	||em vigor
 32024D1279	em vigor	original (JO)			27	ue/decisoes/2024/32024D1279.md	||em vigor
-32024D1283	em vigor	original (JO)			5	ue/decisoes/2024/32024D1283.md	||em vigor
 32024D1284	em vigor	original (JO)			6	ue/decisoes/2024/32024D1284.md	||em vigor
 32024D1285	em vigor	original (JO)			5	ue/decisoes/2024/32024D1285.md	||em vigor
 32024D1286	em vigor	original (JO)			18	ue/decisoes/2024/32024D1286.md	02024D1286-20240515||em vigor
@@ -58338,7 +58334,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32024L2823	em vigor	original (JO)			67	ue/diretivas/2024/32024L2823.md	02024L2823-20241118||em vigor
 32024L2831	em vigor	original (JO)			127	ue/diretivas/2024/32024L2831.md	02024L2831-20241111||em vigor
 32024L2839	em vigor	original (JO)			14	ue/diretivas/2024/32024L2839.md	02024L2839-20241107||em vigor
-32024L2841	em vigor	original (JO)			100	ue/diretivas/2024/32024L2841.md	||em vigor
+32024L2841	em vigor	consolidado	2024-11-14		49	ue/diretivas/2024/32024L2841.md	02024L2841-20241114||em vigor
 32024L2842	em vigor	original (JO)			15	ue/diretivas/2024/32024L2842.md	||em vigor
 32024L2853	em vigor	consolidado	2024-11-18		33	ue/diretivas/2024/32024L2853.md	02024L2853-20241118||em vigor
 32024L2881	em vigor	original (JO)			238	ue/diretivas/2024/32024L2881.md	02024L2881-20241120||em vigor
@@ -60547,7 +60543,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32025D2187	em vigor	original (JO)			216	ue/decisoes/2025/32025D2187.md	||em vigor
 32025D2197	em vigor	original (JO)			22	ue/decisoes/2025/32025D2197.md	||em vigor
 32025D2198	em vigor	original (JO)			16	ue/decisoes/2025/32025D2198.md	||em vigor
-32025D2204	em vigor	original (JO)			21	ue/decisoes/2025/32025D2204.md	||em vigor
 32025D2207	em vigor	original (JO)			2	ue/decisoes/2025/32025D2207.md	||em vigor
 32025D2208	em vigor	original (JO)			7	ue/decisoes/2025/32025D2208.md	||em vigor
 32025D2209	em vigor	original (JO)			4	ue/decisoes/2025/32025D2209.md	||em vigor
@@ -62709,7 +62704,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026D0922	em vigor	original (JO)			11	ue/decisoes/2026/32026D0922.md	||em vigor
 32026D0923	em vigor	original (JO)			39	ue/decisoes/2026/32026D0923.md	||em vigor
 32026D0924	em vigor	original (JO)			23	ue/decisoes/2026/32026D0924.md	||em vigor
-32026D0925	em vigor	original (JO)			3	ue/decisoes/2026/32026D0925.md	||em vigor
 32026D0927	em vigor	original (JO)			103	ue/decisoes/2026/32026D0927.md	||em vigor
 32026D0928	em vigor	original (JO)			4	ue/decisoes/2026/32026D0928.md	||em vigor
 32026D0961	em vigor	original (JO)			344	ue/decisoes/2026/32026D0961.md	||em vigor
@@ -62759,7 +62753,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026D1093	em vigor	original (JO)			3	ue/decisoes/2026/32026D1093.md	||em vigor
 32026D1096	em vigor	original (JO)			16	ue/decisoes/2026/32026D1096.md	||em vigor
 32026D1097	em vigor	original (JO)			3	ue/decisoes/2026/32026D1097.md	||em vigor
-32026D1099	em vigor	original (JO)			11	ue/decisoes/2026/32026D1099.md	||em vigor
+32026D1099	em vigor	consolidado	2026-05-18		34	ue/decisoes/2026/32026D1099.md	02026D1099-20260518||em vigor
 32026D1103	em vigor	original (JO)			5	ue/decisoes/2026/32026D1103.md	||em vigor
 32026D1104	em vigor	original (JO)			8	ue/decisoes/2026/32026D1104.md	||em vigor
 32026D1105	em vigor	original (JO)			10	ue/decisoes/2026/32026D1105.md	||em vigor
@@ -63027,6 +63021,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026D1944	em vigor	original (JO)			14	ue/decisoes/2026/32026D1944.md	||em vigor
 32026D1945	em vigor	original (JO)			15	ue/decisoes/2026/32026D1945.md	||em vigor
 32026D1947	em vigor	original (JO)			4	ue/decisoes/2026/32026D1947.md	||em vigor
+32026D1948	em vigor	original (JO)			13	ue/decisoes/2026/32026D1948.md	||em vigor
 32026D1949	em vigor	original (JO)			13	ue/decisoes/2026/32026D1949.md	||em vigor
 32026D1950	em vigor	original (JO)			7	ue/decisoes/2026/32026D1950.md	||em vigor
 32026D1953	em vigor	original (JO)			4	ue/decisoes/2026/32026D1953.md	||em vigor
@@ -63096,7 +63091,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026D2151	em vigor	original (JO)			6	ue/decisoes/2026/32026D2151.md	||em vigor
 32026D2153	em vigor	original (JO)			8	ue/decisoes/2026/32026D2153.md	||em vigor
 32026D2156	em vigor	original (JO)			5	ue/decisoes/2026/32026D2156.md	||em vigor
-32026D2157	em vigor	original (JO)			4	ue/decisoes/2026/32026D2157.md	||em vigor
 32026D2159	em vigor	original (JO)			3	ue/decisoes/2026/32026D2159.md	||em vigor
 32026D2161	em vigor	original (JO)			259	ue/decisoes/2026/32026D2161.md	||em vigor
 32026D2164	em vigor	original (JO)			5	ue/decisoes/2026/32026D2164.md	||em vigor
@@ -63151,7 +63145,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026D2243	em vigor	original (JO)			13	ue/decisoes/2026/32026D2243.md	||em vigor
 32026D2244	em vigor	original (JO)			7	ue/decisoes/2026/32026D2244.md	||em vigor
 32026D2251	em vigor	original (JO)			5	ue/decisoes/2026/32026D2251.md	||em vigor
-32026D2252	futuro	original (JO)			4	ue/decisoes/2026/32026D2252.md	||futuro
 32026D2253	em vigor	original (JO)			6	ue/decisoes/2026/32026D2253.md	||em vigor
 32026D2255	em vigor	original (JO)			7	ue/decisoes/2026/32026D2255.md	||em vigor
 32026D2256	em vigor	original (JO)			23	ue/decisoes/2026/32026D2256.md	||em vigor
@@ -63161,7 +63154,6 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026D2264	em vigor	original (JO)			4	ue/decisoes/2026/32026D2264.md	||em vigor
 32026D2267	em vigor	original (JO)			91	ue/decisoes/2026/32026D2267.md	||em vigor
 32026D2272	em vigor	original (JO)			3	ue/decisoes/2026/32026D2272.md	||em vigor
-32026D2273	futuro	original (JO)			4	ue/decisoes/2026/32026D2273.md	||futuro
 32026D2274	em vigor	original (JO)			5	ue/decisoes/2026/32026D2274.md	||em vigor
 32026D2275	em vigor	original (JO)			5	ue/decisoes/2026/32026D2275.md	||em vigor
 32026D2276	em vigor	original (JO)			3	ue/decisoes/2026/32026D2276.md	||em vigor
@@ -63197,10 +63189,38 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026D2355	em vigor	original (JO)			9	ue/decisoes/2026/32026D2355.md	||em vigor
 32026D2356	em vigor	original (JO)			8	ue/decisoes/2026/32026D2356.md	||em vigor
 32026D2357	em vigor	original (JO)			10	ue/decisoes/2026/32026D2357.md	||em vigor
-32026D2360	em vigor (por confirmar)	original (JO)			5	ue/decisoes/2026/32026D2360.md	||em vigor (por confirmar)
+32026D2360	em vigor	original (JO)			5	ue/decisoes/2026/32026D2360.md	||em vigor
+32026D2362	em vigor	original (JO)			3	ue/decisoes/2026/32026D2362.md	||em vigor
+32026D2363	em vigor	original (JO)			5	ue/decisoes/2026/32026D2363.md	||em vigor
+32026D2364	em vigor	original (JO)			8	ue/decisoes/2026/32026D2364.md	||em vigor
+32026D2365	em vigor	original (JO)			7	ue/decisoes/2026/32026D2365.md	||em vigor
+32026D2366	em vigor	original (JO)			12	ue/decisoes/2026/32026D2366.md	||em vigor
+32026D2367	em vigor	original (JO)			12	ue/decisoes/2026/32026D2367.md	||em vigor
+32026D2368	em vigor	original (JO)			5	ue/decisoes/2026/32026D2368.md	||em vigor
+32026D2369	em vigor	original (JO)			5	ue/decisoes/2026/32026D2369.md	||em vigor
+32026D2370	em vigor	original (JO)			7	ue/decisoes/2026/32026D2370.md	||em vigor
+32026D2372	em vigor	original (JO)			4	ue/decisoes/2026/32026D2372.md	||em vigor
 32026D2373	em vigor	original (JO)			5	ue/decisoes/2026/32026D2373.md	||em vigor
-32026D2392	em vigor (por confirmar)	original (JO)			5	ue/decisoes/2026/32026D2392.md	||em vigor (por confirmar)
-32026D2395	em vigor (por confirmar)	original (JO)			14	ue/decisoes/2026/32026D2395.md	||em vigor (por confirmar)
+32026D2375	em vigor	original (JO)			2	ue/decisoes/2026/32026D2375.md	||em vigor
+32026D2377	em vigor	original (JO)			5	ue/decisoes/2026/32026D2377.md	||em vigor
+32026D2378	em vigor	original (JO)			2	ue/decisoes/2026/32026D2378.md	||em vigor
+32026D2385	em vigor	original (JO)			5	ue/decisoes/2026/32026D2385.md	||em vigor
+32026D2386	em vigor	original (JO)			6	ue/decisoes/2026/32026D2386.md	||em vigor
+32026D2392	em vigor	original (JO)			5	ue/decisoes/2026/32026D2392.md	||em vigor
+32026D2395	em vigor	original (JO)			14	ue/decisoes/2026/32026D2395.md	||em vigor
+32026D2397	em vigor	original (JO)			2	ue/decisoes/2026/32026D2397.md	||em vigor
+32026D2402	futuro	original (JO)			13	ue/decisoes/2026/32026D2402.md	||futuro
+32026D2407	futuro	original (JO)			17	ue/decisoes/2026/32026D2407.md	||futuro
+32026D2410	em vigor	original (JO)			5	ue/decisoes/2026/32026D2410.md	||em vigor
+32026D2448	em vigor	original (JO)			5	ue/decisoes/2026/32026D2448.md	||em vigor
+32026D2449	em vigor	original (JO)			10	ue/decisoes/2026/32026D2449.md	||em vigor
+32026D2453	em vigor	original (JO)			6	ue/decisoes/2026/32026D2453.md	||em vigor
+32026D2455	em vigor	original (JO)			5	ue/decisoes/2026/32026D2455.md	||em vigor
+32026D2456	em vigor	original (JO)			5	ue/decisoes/2026/32026D2456.md	||em vigor
+32026D2457	em vigor	original (JO)			3	ue/decisoes/2026/32026D2457.md	||em vigor
+32026D2458	em vigor	original (JO)			8	ue/decisoes/2026/32026D2458.md	||em vigor
+32026D2471	em vigor	original (JO)			4	ue/decisoes/2026/32026D2471.md	||em vigor
+32026D2472	em vigor	original (JO)			5	ue/decisoes/2026/32026D2472.md	||em vigor
 32026H00707	em vigor (por confirmar)	original (JO)			1	ue/recomendacoes/2026/32026H00707.md	||em vigor (por confirmar)
 32026H01158	em vigor (por confirmar)	original (JO)			18	ue/recomendacoes/2026/32026H01158.md	||em vigor (por confirmar)
 32026H01687	em vigor (por confirmar)	original (JO)			43	ue/recomendacoes/2026/32026H01687.md	||em vigor (por confirmar)
@@ -63280,8 +63300,9 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026L1024	em vigor	original (JO)			88	ue/diretivas/2026/32026L1024.md	||em vigor
 32026L1194	em vigor	original (JO)			46	ue/diretivas/2026/32026L1194.md	||em vigor
 32026L1472	em vigor	original (JO)			111	ue/diretivas/2026/32026L1472.md	||em vigor
-32026L2250	futuro	original (JO)			8	ue/diretivas/2026/32026L2250.md	||futuro
+32026L2250	em vigor	original (JO)			8	ue/diretivas/2026/32026L2250.md	||em vigor
 32026L2325	futuro	original (JO)			109	ue/diretivas/2026/32026L2325.md	||futuro
+32026L2450	futuro	original (JO)			44	ue/diretivas/2026/32026L2450.md	||futuro
 32026M11295	em vigor	original (JO) — PDF — em eng			67	ue/concentracoes/2026/32026M11295.md	||em vigor
 32026M11942	em vigor	original (JO) — PDF — em eng			106	ue/concentracoes/2026/32026M11942.md	||em vigor
 32026M11952	em vigor	original (JO) — PDF — em eng			145	ue/concentracoes/2026/32026M11952.md	||em vigor
@@ -63426,6 +63447,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026M12358	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12358.md	||em vigor
 32026M12359	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12359.md	||em vigor
 32026M12360	em vigor	original (JO) — PDF — em eng			6	ue/concentracoes/2026/32026M12360.md	||em vigor
+32026M12362	em vigor	original (JO) — PDF — em eng			107	ue/concentracoes/2026/32026M12362.md	||em vigor
 32026M12363	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12363.md	||em vigor
 32026M12365	em vigor	original (JO) — PDF — em eng			4	ue/concentracoes/2026/32026M12365.md	||em vigor
 32026M12366	em vigor	original (JO) — PDF — em eng			6	ue/concentracoes/2026/32026M12366.md	||em vigor
@@ -63433,6 +63455,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026M12368	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12368.md	||em vigor
 32026M12369	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12369.md	||em vigor
 32026M12371	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12371.md	||em vigor
+32026M12372	em vigor	original (JO) — PDF — em eng			36	ue/concentracoes/2026/32026M12372.md	||em vigor
 32026M12373	em vigor	original (JO) — PDF — em eng			6	ue/concentracoes/2026/32026M12373.md	||em vigor
 32026M12374	em vigor	original (JO) — PDF — em deu			5	ue/concentracoes/2026/32026M12374.md	||em vigor
 32026M12375	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12375.md	||em vigor
@@ -63509,10 +63532,12 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026M12480	em vigor	original (JO) — PDF — em eng			4	ue/concentracoes/2026/32026M12480.md	||em vigor
 32026M12481	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12481.md	||em vigor
 32026M12483	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12483.md	||em vigor
+32026M12484	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12484.md	||em vigor
 32026M12485	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12485.md	||em vigor
 32026M12486	em vigor	original (JO) — PDF — em eng			4	ue/concentracoes/2026/32026M12486.md	||em vigor
 32026M12487	em vigor	original (JO) — PDF — em eng			6	ue/concentracoes/2026/32026M12487.md	||em vigor
 32026M12488	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12488.md	||em vigor
+32026M12490	em vigor	original (JO) — PDF — em eng			4	ue/concentracoes/2026/32026M12490.md	||em vigor
 32026M12491	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12491.md	||em vigor
 32026M12492	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12492.md	||em vigor
 32026M12493	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12493.md	||em vigor
@@ -63553,6 +63578,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026M12550	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12550.md	||em vigor
 32026M12551	em vigor	original (JO) — PDF — em eng			4	ue/concentracoes/2026/32026M12551.md	||em vigor
 32026M12553	em vigor	original (JO) — PDF — em eng			4	ue/concentracoes/2026/32026M12553.md	||em vigor
+32026M12562	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12562.md	||em vigor
 32026M12563	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12563.md	||em vigor
 32026M12565	em vigor	original (JO) — PDF — em eng			6	ue/concentracoes/2026/32026M12565.md	||em vigor
 32026M12567	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12567.md	||em vigor
@@ -63561,8 +63587,10 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026M12575	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12575.md	||em vigor
 32026M12578	em vigor	original (JO) — PDF — em eng			6	ue/concentracoes/2026/32026M12578.md	||em vigor
 32026M12583	em vigor	original (JO) — PDF — em fra			6	ue/concentracoes/2026/32026M12583.md	||em vigor
+32026M12586	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12586.md	||em vigor
 32026M12591	em vigor	original (JO) — PDF — em eng			4	ue/concentracoes/2026/32026M12591.md	||em vigor
 32026M12592	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12592.md	||em vigor
+32026M12595	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12595.md	||em vigor
 32026M12596	em vigor	original (JO) — PDF — em eng			6	ue/concentracoes/2026/32026M12596.md	||em vigor
 32026M12601	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12601.md	||em vigor
 32026M12602	em vigor	original (JO) — PDF — em eng			4	ue/concentracoes/2026/32026M12602.md	||em vigor
@@ -63575,6 +63603,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026M12632	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12632.md	||em vigor
 32026M12633	em vigor	original (JO) — PDF — em eng			6	ue/concentracoes/2026/32026M12633.md	||em vigor
 32026M12635	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12635.md	||em vigor
+32026M12641	em vigor	original (JO) — PDF — em eng			5	ue/concentracoes/2026/32026M12641.md	||em vigor
 32026O0689	em vigor	original (JO)			77	ue/orientacoes-bce/2026/32026O0689.md	||em vigor
 32026O0690	em vigor	original (JO)			7	ue/orientacoes-bce/2026/32026O0690.md	||em vigor
 32026O0691	em vigor	original (JO)			5	ue/orientacoes-bce/2026/32026O0691.md	||em vigor
@@ -64275,9 +64304,12 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026R1825	em vigor	original (JO)			17	ue/regulamentos/2026/32026R1825.md	||em vigor
 32026R1826	em vigor	original (JO)			69	ue/regulamentos/2026/32026R1826.md	||em vigor
 32026R1828	em vigor	original (JO)			9	ue/regulamentos/2026/32026R1828.md	||em vigor
+32026R1829	futuro	original (JO)			24	ue/regulamentos/2026/32026R1829.md	||futuro
 32026R1832	em vigor	original (JO)			16	ue/regulamentos/2026/32026R1832.md	||em vigor
 32026R1838	em vigor	original (JO)			3	ue/regulamentos/2026/32026R1838.md	||em vigor
 32026R1840	em vigor	original (JO)			22	ue/regulamentos/2026/32026R1840.md	||em vigor
+32026R1841	futuro	original (JO)			39	ue/regulamentos/2026/32026R1841.md	||futuro
+32026R1842	futuro	original (JO)			36	ue/regulamentos/2026/32026R1842.md	||futuro
 32026R1843	em vigor	original (JO)			281	ue/regulamentos/2026/32026R1843.md	||em vigor
 32026R1844	em vigor	original (JO)			18	ue/regulamentos/2026/32026R1844.md	||em vigor
 32026R1846	em vigor	original (JO)			21	ue/regulamentos/2026/32026R1846.md	||em vigor
@@ -64315,6 +64347,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026R1908	em vigor	original (JO)			171	ue/regulamentos/2026/32026R1908.md	||em vigor
 32026R1913	em vigor	original (JO)			15	ue/regulamentos/2026/32026R1913.md	||em vigor
 32026R1914	em vigor	original (JO)			243	ue/regulamentos/2026/32026R1914.md	||em vigor
+32026R1915	em vigor	original (JO)			11	ue/regulamentos/2026/32026R1915.md	||em vigor
 32026R1920	em vigor	original (JO)			3	ue/regulamentos/2026/32026R1920.md	||em vigor
 32026R1925	em vigor	consolidado	2026-08-07		5	ue/regulamentos/2026/32026R1925.md	02026R1925-20260807||em vigor
 32026R1926	em vigor	original (JO)			9	ue/regulamentos/2026/32026R1926.md	||em vigor
@@ -64389,7 +64422,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026R2105	em vigor	original (JO)			3	ue/regulamentos/2026/32026R2105.md	||em vigor
 32026R2106	em vigor	original (JO)			3	ue/regulamentos/2026/32026R2106.md	||em vigor
 32026R2107	em vigor	original (JO)			189	ue/regulamentos/2026/32026R2107.md	||em vigor
-32026R2108	em vigor	original (JO)			769	ue/regulamentos/2026/32026R2108.md	||em vigor
+32026R2108	em vigor	original (JO)			769	ue/regulamentos/2026/32026R2108.md	02026R2108-20260919||em vigor
 32026R2110	em vigor	original (JO)			12	ue/regulamentos/2026/32026R2110.md	||em vigor
 32026R2111	em vigor	original (JO)			5	ue/regulamentos/2026/32026R2111.md	||em vigor
 32026R2113	em vigor	original (JO)			15	ue/regulamentos/2026/32026R2113.md	||em vigor
@@ -64410,6 +64443,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026R2158	em vigor	original (JO)			31	ue/regulamentos/2026/32026R2158.md	||em vigor
 32026R2160	em vigor	original (JO)			257	ue/regulamentos/2026/32026R2160.md	||em vigor
 32026R2162	em vigor	original (JO)			7	ue/regulamentos/2026/32026R2162.md	||em vigor
+32026R2163	futuro	original (JO)			2342	ue/regulamentos/2026/32026R2163.md	||futuro
 32026R2165	em vigor	original (JO)			5	ue/regulamentos/2026/32026R2165.md	||em vigor
 32026R2167	em vigor	original (JO)			2	ue/regulamentos/2026/32026R2167.md	||em vigor
 32026R2168	em vigor	original (JO)			3	ue/regulamentos/2026/32026R2168.md	||em vigor
@@ -64432,17 +64466,17 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026R2227	em vigor	original (JO)			47	ue/regulamentos/2026/32026R2227.md	||em vigor
 32026R2228	futuro	original (JO)			38	ue/regulamentos/2026/32026R2228.md	||futuro
 32026R2238	em vigor	original (JO)			8	ue/regulamentos/2026/32026R2238.md	||em vigor
-32026R2241	futuro	original (JO)			15	ue/regulamentos/2026/32026R2241.md	||futuro
+32026R2241	em vigor	original (JO)			15	ue/regulamentos/2026/32026R2241.md	||em vigor
 32026R2245	em vigor	original (JO)			7	ue/regulamentos/2026/32026R2245.md	||em vigor
-32026R2246	futuro	original (JO)			6	ue/regulamentos/2026/32026R2246.md	||futuro
-32026R2247	futuro	original (JO)			6	ue/regulamentos/2026/32026R2247.md	||futuro
+32026R2246	em vigor	original (JO)			6	ue/regulamentos/2026/32026R2246.md	||em vigor
+32026R2247	em vigor	original (JO)			6	ue/regulamentos/2026/32026R2247.md	||em vigor
 32026R2248	em vigor	original (JO)			11	ue/regulamentos/2026/32026R2248.md	||em vigor
 32026R2249	em vigor	original (JO)			19	ue/regulamentos/2026/32026R2249.md	||em vigor
 32026R2257	em vigor	original (JO)			16	ue/regulamentos/2026/32026R2257.md	||em vigor
 32026R2259	em vigor	original (JO)			4	ue/regulamentos/2026/32026R2259.md	||em vigor
 32026R2262	em vigor	original (JO)			8	ue/regulamentos/2026/32026R2262.md	||em vigor
 32026R2263	em vigor	original (JO)			4	ue/regulamentos/2026/32026R2263.md	||em vigor
-32026R2265	futuro	original (JO)			6	ue/regulamentos/2026/32026R2265.md	||futuro
+32026R2265	em vigor	original (JO)			6	ue/regulamentos/2026/32026R2265.md	||em vigor
 32026R2266	futuro	original (JO)			44	ue/regulamentos/2026/32026R2266.md	||futuro
 32026R2268	em vigor	original (JO)			12	ue/regulamentos/2026/32026R2268.md	||em vigor
 32026R2269	em vigor	original (JO)			59	ue/regulamentos/2026/32026R2269.md	||em vigor
@@ -64458,6 +64492,7 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026R2293	futuro	original (JO)			5	ue/regulamentos/2026/32026R2293.md	||futuro
 32026R2298	futuro	original (JO)			20	ue/regulamentos/2026/32026R2298.md	||futuro
 32026R2299	futuro	original (JO)			32	ue/regulamentos/2026/32026R2299.md	||futuro
+32026R2300	futuro	original (JO)			458	ue/regulamentos/2026/32026R2300.md	||futuro
 32026R2301	futuro	original (JO)			3	ue/regulamentos/2026/32026R2301.md	||futuro
 32026R2302	futuro	original (JO)			3	ue/regulamentos/2026/32026R2302.md	||futuro
 32026R2307	futuro	original (JO)			2	ue/regulamentos/2026/32026R2307.md	||futuro
@@ -64479,14 +64514,33 @@ celex	estado	texto	versao	futuro	kb	ficheiro	assinatura
 32026R2341	futuro	original (JO)			2	ue/regulamentos/2026/32026R2341.md	||futuro
 32026R2342	em vigor	original (JO)			5	ue/regulamentos/2026/32026R2342.md	||em vigor
 32026R2343	futuro	original (JO)			10	ue/regulamentos/2026/32026R2343.md	||futuro
-32026R2345	futuro	original (JO)			7	ue/regulamentos/2026/32026R2345.md	||futuro
-32026R2346	futuro	original (JO)			7	ue/regulamentos/2026/32026R2346.md	||futuro
-32026R2348	futuro	original (JO)			69	ue/regulamentos/2026/32026R2348.md	||futuro
+32026R2345	em vigor	original (JO)			7	ue/regulamentos/2026/32026R2345.md	||em vigor
+32026R2346	em vigor	original (JO)			7	ue/regulamentos/2026/32026R2346.md	||em vigor
+32026R2348	em vigor	original (JO)			69	ue/regulamentos/2026/32026R2348.md	||em vigor
 32026R2354	futuro	original (JO)			35	ue/regulamentos/2026/32026R2354.md	||futuro
 32026R2358	em vigor	original (JO)			17	ue/regulamentos/2026/32026R2358.md	||em vigor
+32026R2359	em vigor	original (JO)			191	ue/regulamentos/2026/32026R2359.md	||em vigor
 32026R2371	em vigor	original (JO)			193	ue/regulamentos/2026/32026R2371.md	||em vigor
+32026R2374	em vigor	original (JO)			19	ue/regulamentos/2026/32026R2374.md	||em vigor
+32026R2376	futuro	original (JO)			78	ue/regulamentos/2026/32026R2376.md	||futuro
+32026R2379	futuro	original (JO)			3	ue/regulamentos/2026/32026R2379.md	||futuro
+32026R2380	futuro	original (JO)			3	ue/regulamentos/2026/32026R2380.md	||futuro
 32026R2384	em vigor	original (JO)			5	ue/regulamentos/2026/32026R2384.md	||em vigor
 32026R2388	em vigor	original (JO)			2	ue/regulamentos/2026/32026R2388.md	||em vigor
+32026R2389	futuro	original (JO)			63	ue/regulamentos/2026/32026R2389.md	||futuro
+32026R2390	em vigor	original (JO)			5	ue/regulamentos/2026/32026R2390.md	||em vigor
+32026R2391	em vigor	original (JO)			7	ue/regulamentos/2026/32026R2391.md	||em vigor
+32026R2393	em vigor	original (JO)			118	ue/regulamentos/2026/32026R2393.md	||em vigor
+32026R2396	em vigor	original (JO)			6	ue/regulamentos/2026/32026R2396.md	||em vigor
+32026R2398	em vigor	original (JO)			8	ue/regulamentos/2026/32026R2398.md	||em vigor
+32026R2399	futuro	original (JO)			16	ue/regulamentos/2026/32026R2399.md	||futuro
+32026R2400	futuro	original (JO)			5	ue/regulamentos/2026/32026R2400.md	||futuro
+32026R2403	em vigor	original (JO)			10	ue/regulamentos/2026/32026R2403.md	||em vigor
+32026R2408	futuro	original (JO)			18	ue/regulamentos/2026/32026R2408.md	||futuro
+32026R2412	futuro	original (JO)			12	ue/regulamentos/2026/32026R2412.md	||futuro
+32026R2446	futuro	original (JO)			3	ue/regulamentos/2026/32026R2446.md	||futuro
+32026R2466	em vigor	original (JO)			21	ue/regulamentos/2026/32026R2466.md	||em vigor
+32026R2470	futuro	original (JO)			4	ue/regulamentos/2026/32026R2470.md	||futuro
 32026Y00496	em vigor	original (JO)			8	ue/outros/2026/32026Y00496.md	||em vigor
 32026Y00497	em vigor	original (JO)			12	ue/outros/2026/32026Y00497.md	||em vigor
 41958A0201(01)	em vigor	original (JO)			7	ue/actos-complementares/1958/41958A0201(01).md	||em vigor

@@ -1,7 +1,7 @@
 ---
 celex: 32019L1152
 parte: contexto
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Diretiva 32019L1152 — Condições de trabalho transparentes e previsíveis — contexto
@@ -21,7 +21,7 @@ Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diret
 - 2016-12-29 — Decreto-Lei n.º 86-A/2016, de 29 de dezembro, Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29, páginas 33 - 40, Define o regime da formação profissional na Administração Pública (CELEX 72019L1152PRT_202304511) → texto: [`legislacao-pt/decreto-lei-86-a-2016.md`](../../legislacao-pt/decreto-lei-86-a-2016.md) (consolidado (DRE))
 - 2014-06-20 — Lei n.º 35/2014 - Lei Geral do Trabalho em Funções Públicas - LTFP (CELEX 72019L1152PRT_202304509) → texto: [`legislacao-pt/lei-35-2014.md`](../../legislacao-pt/lei-35-2014.md) (consolidado (DRE))
 - 2013-04-19 — Lei n.º 29/2013, de 19 de abril, Diário da República n.º 77/2013, Série I de 2013-04-19, páginas 2278 - 2284, Estabelece os princípios gerais aplicáveis à mediação realizada em Portugal, bem como os regimes jurídicos da mediação civil e comercial, dos mediadores e da mediação pública (CELEX 72019L1152PRT_202303105) → texto: [`legislacao-pt/lei-29-2013.md`](../../legislacao-pt/lei-29-2013.md) (original (DRE))
-- 2012-07-31 — Decreto Regulamentar n.º 47/2012, de 31 de julho, Aprova a orgânica da Autoridade para as Condições do Trabalho (CELEX 72019L1152PRT_202303104) → não obtido do DRE: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
+- 2012-07-31 — Decreto Regulamentar n.º 47/2012, de 31 de julho, Aprova a orgânica da Autoridade para as Condições do Trabalho (CELEX 72019L1152PRT_202303104) → texto: [`legislacao-pt/decreto-regulamentar-47-2012.md`](../../legislacao-pt/decreto-regulamentar-47-2012.md) (consolidado (DRE))
 - 2009-09-14 — Lei n.º 107/2009, Diário da República n.º 178/2009, Série I de 2009-09-14, Regime processual aplicável às contra-ordenações laborais e de segurança social (CELEX 72019L1152PRT_202303136) → texto: [`legislacao-pt/lei-107-2009.md`](../../legislacao-pt/lei-107-2009.md) (consolidado (DRE))
 - 2009-02-12 — Código do Trabalho - CT - Versão Consolidada (CELEX 72019L1152PRT_202302335) → texto: [`legislacao-pt/lei-7-2009.md`](../../legislacao-pt/lei-7-2009.md) (consolidado (DRE))
 - 1999-11-09 — Código de Processo do Trabalho - CPT (CELEX 72019L1152PRT_202303103) → texto: [`legislacao-pt/decreto-lei-480-1999.md`](../../legislacao-pt/decreto-lei-480-1999.md) (consolidado (DRE))

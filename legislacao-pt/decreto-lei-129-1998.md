@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34526475
 eli: https://data.dre.pt/eli/dec-lei/129/1998/p/cons/20190923/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 129/98
@@ -422,49 +422,35 @@ c) Instrumentos de gestão fiduciária e sucursais financeiras exteriores da Zon
 
 > Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
-### Artigo 16.º — Cartão de identificação
+### Artigo 16.º — Cartão de identificação (revogado)
 
-Qualquer entidade inscrita no FCPC pode solicitar a emissão de um cartão de identificação, com excepção das entidades referidas no n.º 1 do artigo 12.º, enquanto não se mostrar completamente regularizada a respectiva situação.
-
-> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
-
-### Artigo 17.º — Conteúdo do cartão
-
-1 - O cartão de identificação deve conter a indicação do NIPC, do nome, firma ou denominação, do domicílio ou sede, da natureza jurídica e da actividade principal, bem como o número do bilhete de identidade dos empresários individuais.
-
-2 - Os modelos de cartão de identificação devem ser diferentes para as pessoas colectivas, para os comerciantes e outros empresários individuais e para as restantes entidades.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
-### Artigo 18.º — Cartão provisório de identificação
+### Artigo 17.º — Conteúdo do cartão (revogado)
 
-1 - Às entidades que iniciaram o processo de constituição como pessoas colectivas ou entidades equiparadas, mas que ainda não tenham concluído as formalidades legais requeridas, pode ser emitido, a seu pedido, um cartão provisório de identificação.
+[Revogado.]
 
-2 - A emissão do cartão provisório de identificação pode ser solicitada simultaneamente com o pedido de certificado de admissibilidade de firma ou denominação.
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
-3 - Do cartão provisório de identificação deve constar o número provisório de identificação, o nome ou designação social do titular, a sede, a actividade económica e a data de emissão.
+### Artigo 18.º — Cartão provisório de identificação (revogado)
 
-4 - O número provisório de identificação é constituído de acordo com o disposto no artigo 13.º mas antecedido da letra «P».
-
-5 - O cartão provisório de identificação é válido durante o prazo de três meses contado a partir da data da sua emissão, podendo, porém, ser revalidado em caso de impossibilidade de conclusão do processo de constituição ou regularização não imputável ao seu titular.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
 > Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
 
-### Artigo 19.º — Recusa ou suspensão da emissão
+### Artigo 19.º — Recusa ou suspensão da emissão (revogado)
 
-1 - A emissão de cartão de identificação pode ser recusada ou suspensa em caso de existência de nulidades no processo legal de constituição da pessoa colectiva ou entidade a identificar.
-
-2 - No caso previsto no número anterior, pode ser emitido cartão provisório, renovável enquanto se mantiver, por razões alheias à vontade do seu titular, o motivo da recusa ou suspensão.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
-### Artigo 20.º — Actualização e substituição
+### Artigo 20.º — Actualização e substituição (revogado)
 
-1 - O cartão de identificação deve ser actualizado sempre que se verifiquem alterações nos elementos dele constantes e substituído nos casos de mau estado de conservação, perda, destruição ou extravio.
-
-2 - A actualização e substituição do cartão de identificação é pedida ao RNPC, em impresso próprio, directamente ou por intermédio das conservatórias do registo comercial ou de outras entidades para tal autorizadas.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
@@ -742,13 +728,9 @@ b) No âmbito geográfico do exercício das suas actividades estatutárias, nos 
 
 > Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
-### Artigo 41.º — Heranças indivisas
+### Artigo 41.º — Heranças indivisas (revogado)
 
-1 - As heranças indivisas, quando se comportem, na sua actividade, com características de permanência e relevância económica, podem adoptar uma firma ou denominação.
-
-2 - A firma ou denominação das heranças indivisas é constituída pelo nome ou firma do autor da sucessão, antecedido de «Herdeiros de» ou «Sucessores de» ou, em alternativa, seguido de «Herdeiros» ou «Sucessores».
-
-3 - O âmbito de uso exclusivo da firma da herança indivisa é o que correspondia à do autor da sucessão.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
@@ -832,17 +814,9 @@ Qualquer interessado pode solicitar informações sobre a viabilidade de firma o
 
 > Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
-### Artigo 48.º — Reserva de firma ou denominação
+### Artigo 48.º — Reserva de firma ou denominação (revogado)
 
-1 - No caso de, em primeira análise, a firma ou denominação proposta se mostrar construída nos termos legais e não susceptível de confusão com outra já registada, é admitida a sua reserva por quarenta e oito horas, fornecendo-se ao interessado um número de referência.
-
-2 - A reserva de firma ou denominação constitui mera presunção de não confundibilidade da firma ou denominação reservada com firmas e denominações anteriormente registadas ou licenciadas.
-
-3 - Pelo acto de reserva é devido o emolumento fixado na respectiva tabela.
-
-4 - A reserva caduca automaticamente se o pedido de certificado não for correctamente formalizado no prazo referido no n.º 1.
-
-5 - O posterior indeferimento do certificado por razões de confundibilidade implica a restituição do emolumento pago pela reserva.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
@@ -990,13 +964,9 @@ b) À fusão por incorporação que não implique alteração de denominação, 
 
 > Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
 
-### Artigo 57.º — Efeitos do certificado no registo de nome de estabelecimento
+### Artigo 57.º — Efeitos do certificado no registo de nome de estabelecimento (revogado)
 
-1 - A realização de registo de nome de estabelecimento deve ser precedida da exibição de certificado comprovativo de que não existe registo de firma ou denominação idêntica ou por tal forma semelhante que seja susceptível de confusão ou possa induzir em erro, face aos critérios constantes do presente diploma, sem prejuízo do disposto no número seguinte.
-
-2 - Não é exigível o certificado referido no número anterior no caso de o titular do estabelecimento provar a sua legitimidade para usar a firma ou denominação que pretende registar como componente do nome desse estabelecimento.
-
-3 - A emissão do certificado previsto no n.º 1 não envolve qualquer juízo sobre o mérito do pedido de registo do nome de estabelecimento.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
@@ -1012,9 +982,9 @@ c) No acto destinado à constituição ou modificação da pessoa colectiva tive
 
 > Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
-### Artigo 59.º — Anotação da exibição do certificado
+### Artigo 59.º — Anotação da exibição do certificado (revogado)
 
-O oficial público perante quem for exibido certificado de admissibilidade de firma ou denominação deve anotar esse facto no respectivo original, indicando o acto a que serviu de suporte, bem como a repartição e a data em que foi realizado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
@@ -1390,15 +1360,9 @@ h) Praticar outros actos que lhes sejam delegados pelos conservadores e pelos co
 
 3 - Aos oficiais dos registos e do notariado é aplicável o disposto no artigo 61.º do diploma referido no número anterior.
 
-### Artigo 82.º — Vencimentos dos conservadores
+### Artigo 82.º — Vencimentos dos conservadores (revogado)
 
-1 - Os conservadores auferem o ordenado correspondente à 1.ª classe.
-
-2 - Os conservadores auxiliares têm direito ao ordenado correspondente à 3.ª classe, salvo se for mais elevada a sua classe pessoal.
-
-3 - A participação emolumentar do director é apurada segundo as regras aplicáveis aos conservadores das conservatórias do registo comercial autonomizadas.
-
-4 - A participação emolumentar dos outros conservadores e dos conservadores auxiliares corresponde, respectivamente, a 85% e a 70% da participação emolumentar apurada para o director.
+[Revogado.]
 
 > Revogado pelo/a Artigo 14.º do/a Decreto-Lei n.º 145/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23, produz efeitos a partir de 2020-01-01
 
@@ -1444,23 +1408,15 @@ O RNPC pode prestar serviços, no âmbito da sua competência, a entidades públ
 
 > Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 
-### Artigo 89.º — Emolumentos
+### Artigo 89.º — Emolumentos (revogado)
 
-1 - As tabelas de emolumentos devidos por actos praticados ou por informações prestadas pelo RNPC são aprovadas por portaria do Ministro da Justiça.
-
-2 - À conta dos actos praticados ou das informações prestadas pelo RNPC é aplicável o disposto no artigo 133.º do Regulamento dos Serviços dos Registos e do Notariado, aprovado pelo Decreto n.º 55/80, de 8 de Outubro.
-
-3 - As quantias cobradas em excesso por erro dos serviços são oficiosamente restituídas.
-
-4 - As quantias remetidas em excesso por erro dos requerentes são-lhes restituídas, deduzidos os custos calculados para a restituição, se forem razoavelmente superiores a estes; em caso contrário, são contabilizadas como emolumentos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 29.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
 
-### Artigo 90.º — Isenção de emolumentos
+### Artigo 90.º — Isenção de emolumentos (revogado)
 
-1 - É isenta do pagamento de emolumentos a emissão de novo certificado de admissibilidade de firma ou denominação em consequência de manifesto erro do RNPC na atribuição de firma confundível ou se a firma atribuída for julgada confundível por decisão judicial.
-
-2 - Nos casos previstos no número anterior são também isentos de emolumentos a rectificação de escritura pública e os actos de registo relativos à correspondente alteração de firma ou denominação.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 

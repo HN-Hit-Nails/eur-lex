@@ -12043,6 +12043,16 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 62023CJ0582	Quanto à segunda questão		237	266	2185	jurisprudencia/2023/62023CJ0582.md
 62023CJ0582	Quanto às despesas		267	270	83	jurisprudencia/2023/62023CJ0582.md
 62023CJ0582	Pelos fundamentos expostos, o Tribunal de Justiça (Quarta Secção) declara:		271	293	476	jurisprudencia/2023/62023CJ0582.md
+62023CJ0590	Texto		18	69	684	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Quadro jurídico		70	71	5	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Direito da União		72	134	1544	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Direito alemão		135	144	251	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Litígio no processo principal e questões prejudiciais		145	197	3426	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Quanto às questões prejudiciais		198	199	9	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Quanto à primeira questão		200	255	3629	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Quanto à segunda questão		256	265	407	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Quanto às despesas		266	269	82	jurisprudencia/2023/62023CJ0590.md
+62023CJ0590	Pelos fundamentos expostos, o Tribunal de Justiça (Grande Secção) declara:		270	290	369	jurisprudencia/2023/62023CJ0590.md
 62023CJ0594	Texto		18	69	640	jurisprudencia/2023/62023CJ0594.md
 62023CJ0594	Quadro jurídico		70	71	5	jurisprudencia/2023/62023CJ0594.md
 62023CJ0594	Direito da União		72	161	1763	jurisprudencia/2023/62023CJ0594.md
@@ -13236,6 +13246,14 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 62024CJ0870	Quanto às questões prejudiciais (bloco 2)		335	362	1874	jurisprudencia/2024/62024CJ0870.md
 62024CJ0870	Quanto às despesas		363	366	83	jurisprudencia/2024/62024CJ0870.md
 62024CJ0870	Pelos fundamentos expostos, o Tribunal de Justiça (Nona Secção) declara:		367	387	404	jurisprudencia/2024/62024CJ0870.md
+62024CJ0901	Texto		18	67	633	jurisprudencia/2024/62024CJ0901.md
+62024CJ0901	Quadro jurídico		68	69	5	jurisprudencia/2024/62024CJ0901.md
+62024CJ0901	Direito da União		70	79	180	jurisprudencia/2024/62024CJ0901.md
+62024CJ0901	Direito polaco		80	139	1051	jurisprudencia/2024/62024CJ0901.md
+62024CJ0901	Litígio no processo principal e questão prejudicial		140	177	1625	jurisprudencia/2024/62024CJ0901.md
+62024CJ0901	Quanto à questão prejudicial		178	211	2638	jurisprudencia/2024/62024CJ0901.md
+62024CJ0901	Quanto às despesas		212	215	83	jurisprudencia/2024/62024CJ0901.md
+62024CJ0901	Pelos fundamentos expostos, o Tribunal de Justiça (Nona Secção) declara:		216	228	277	jurisprudencia/2024/62024CJ0901.md
 62024CJ0902	Texto		19	68	790	jurisprudencia/2024/62024CJ0902.md
 62024CJ0902	Quadro jurídico		69	70	5	jurisprudencia/2024/62024CJ0902.md
 62024CJ0902	Direito da União		71	82	250	jurisprudencia/2024/62024CJ0902.md
@@ -13257,6 +13275,20 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 62024CJ0903	Quanto à questão prejudicial		170	201	2057	jurisprudencia/2024/62024CJ0903.md
 62024CJ0903	Quanto às despesas		202	205	83	jurisprudencia/2024/62024CJ0903.md
 62024CJ0903	Pelos fundamentos expostos, o Tribunal de Justiça (Nona Secção) declara:		206	218	291	jurisprudencia/2024/62024CJ0903.md
+62024TJ0575	Texto		18	67	730	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quadro jurídico		68	69	5	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Direito da União		70	156	2062	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Litígio no processo principal e questões prejudiciais		157	197	2444	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto às questões prejudiciais		198	207	676	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto à existência de uma entrega de bens ou de uma prestação de serviços efetuadas a título oneros		208	221	1170	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto à sujeição ao IVA de uma associação incumbida de missão como a Digipolis		222	225	298	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto à realização de uma entrega de bens ou de uma prestação de serviços no âmbito de uma atividad		226	263	1917	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto ao exercício de uma atividade económica de modo independente		264	319	3218	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto à eventual incidência do estatuto para efeitos de IVA dos membros da associação incumbida de 		320	329	452	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto à interpretação do princípio da neutralidade do IVA		330	335	156	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto às eventuais consequências da teoria da «emanação» sobre a sujeição de uma associação incumbi		336	347	550	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Quanto às despesas		348	351	82	jurisprudencia/2024/62024TJ0575.md
+62024TJ0575	Pelos fundamentos expostos,		352	384	357	jurisprudencia/2024/62024TJ0575.md
 62024TJ0589	Texto		19	68	887	jurisprudencia/2024/62024TJ0589.md
 62024TJ0589	Quadro jurídico		69	256	3282	jurisprudencia/2024/62024TJ0589.md
 62024TJ0589	Litígio no processo principal e questões prejudiciais		257	291	2043	jurisprudencia/2024/62024TJ0589.md
@@ -13268,6 +13300,25 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 62024TJ0589	Quanto à terceira questão		362	371	544	jurisprudencia/2024/62024TJ0589.md
 62024TJ0589	Quanto às despesas		372	375	82	jurisprudencia/2024/62024TJ0589.md
 62024TJ0589	Pelos fundamentos expostos,		376	404	514	jurisprudencia/2024/62024TJ0589.md
+62024TJ0638	Texto		18	63	696	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Quadro jurídico		64	65	5	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Direito da União		66	101	610	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Direito austríaco		102	111	294	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Litígio no processo principal e questões prejudiciais		112	134	1574	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Quanto às questões prejudiciais		135	136	9	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Quanto à primeira questão		137	192	3637	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Quanto à segunda questão		193	196	32	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Quanto às despesas		197	200	83	jurisprudencia/2024/62024TJ0638.md
+62024TJ0638	Pelos fundamentos expostos,		201	227	302	jurisprudencia/2024/62024TJ0638.md
+62024TJ0643	Texto		18	65	810	jurisprudencia/2024/62024TJ0643.md
+62024TJ0643	Quadro jurídico		66	67	5	jurisprudencia/2024/62024TJ0643.md
+62024TJ0643	Direito da União		68	107	360	jurisprudencia/2024/62024TJ0643.md
+62024TJ0643	Direito nacional		108	169	1143	jurisprudencia/2024/62024TJ0643.md
+62024TJ0643	Litígio no processo principal e questões prejudiciais		170	192	1174	jurisprudencia/2024/62024TJ0643.md
+62024TJ0643	Quanto à admissibilidade do pedido de decisão prejudicial		193	206	707	jurisprudencia/2024/62024TJ0643.md
+62024TJ0643	Quanto ao mérito		207	260	3331	jurisprudencia/2024/62024TJ0643.md
+62024TJ0643	Quanto às despesas		261	264	83	jurisprudencia/2024/62024TJ0643.md
+62024TJ0643	Pelos fundamentos expostos,		265	295	346	jurisprudencia/2024/62024TJ0643.md
 62024TJ0646	Texto		18	65	793	jurisprudencia/2024/62024TJ0646.md
 62024TJ0646	Quadro jurídico		66	67	5	jurisprudencia/2024/62024TJ0646.md
 62024TJ0646	Direito da União		68	125	1348	jurisprudencia/2024/62024TJ0646.md
@@ -13287,6 +13338,15 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 62024TJ0657	Quanto às despesas		151	154	83	jurisprudencia/2024/62024TJ0657.md
 62024TJ0657	Pelos fundamentos expostos,		155	178	319	jurisprudencia/2024/62024TJ0657.md
 62024TJ0657	V. Di Bucci		179	185	22	jurisprudencia/2024/62024TJ0657.md
+62024TJ0689	Texto		18	29	202	jurisprudencia/2024/62024TJ0689.md
+62024TJ0689	I. S.A.		30	69	580	jurisprudencia/2024/62024TJ0689.md
+62024TJ0689	Quadro jurídico		70	71	5	jurisprudencia/2024/62024TJ0689.md
+62024TJ0689	Direito da União		72	109	782	jurisprudencia/2024/62024TJ0689.md
+62024TJ0689	Direito polaco		110	127	296	jurisprudencia/2024/62024TJ0689.md
+62024TJ0689	Litígio no processo principal e questão prejudicial		128	149	1388	jurisprudencia/2024/62024TJ0689.md
+62024TJ0689	Quanto à questão prejudicial		150	203	3862	jurisprudencia/2024/62024TJ0689.md
+62024TJ0689	Quanto às despesas		204	207	83	jurisprudencia/2024/62024TJ0689.md
+62024TJ0689	Pelos fundamentos expostos,		208	234	268	jurisprudencia/2024/62024TJ0689.md
 62025CJ0062	Texto		18	61	609	jurisprudencia/2025/62025CJ0062.md
 62025CJ0062	Quadro jurídico		62	63	5	jurisprudencia/2025/62025CJ0062.md
 62025CJ0062	Direito da União		64	94	459	jurisprudencia/2025/62025CJ0062.md

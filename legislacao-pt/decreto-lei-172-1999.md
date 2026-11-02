@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1999-323701
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34474875
 eli: https://data.dre.pt/eli/dec-lei/172/1999/p/cons/20040325/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 172/99
@@ -124,41 +124,27 @@ g) Critérios de rateio.
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25, em vigor a partir de 2004-03-30
 
-### Artigo 7.º — Vicissitudes dos activos subjacentes
+### Artigo 7.º — Vicissitudes dos activos subjacentes (revogado)
 
-1 - A Comissão do Mercado de Valores Mobiliários regulamentará:
-
-a) Os termos em que, nas deliberações de emissão de warrants autónomos, poderão ser previstas condições a aplicar caso se verifiquem vicissitudes relevantes em relação ao activo subjacente;
-
-b) Os termos em que poderá autorizar a liquidação financeira antecipada ou a alteração das condições de emissão em caso de verificação de alteração anormal de circunstâncias.
-
-2 - Antes de exercer a competência referida no n.º 1, a Comissão do Mercado de Valores Mobiliários solicitará parecer ao Banco de Portugal e ao Instituto de Gestão do Crédito Público quando o activo subjacente se encontre, de algum modo, relacionado com as respectivas atribuições.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25, em vigor a partir de 2004-03-30
 
-### Artigo 8.º — Menções obrigatórias
+### Artigo 8.º — Menções obrigatórias (revogado)
 
-Quando os warrants autónomos assumam forma titulada, os respectivos títulos devem conter, além das referidas nas alíneas a), c), d) e e) do artigo 5.º, as seguintes menções:
-
-a) A identificação completa da entidade emitente;
-
-b) A indicação do número de warrants que incorpora cada título;
-
-c) O número sequencial do título;
-
-d) As assinaturas de quem vincula a entidade emitente, que podem ser feitas por chancela.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25, em vigor a partir de 2004-03-30
 
-### Artigo 9.º — Exercício de direitos
+### Artigo 9.º — Exercício de direitos (revogado)
 
-O exercício de direitos inerentes a warrants autónomos é feito perante um intermediário financeiro autorizado pela Comissão do Mercado de Valores Mobiliários a proceder ao registo, guarda e administração de valores mobiliários designado por contrato entre este e a entidade emitente.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25, em vigor a partir de 2004-03-30
 
-### Artigo 10.º — Negociação em bolsa
+### Artigo 10.º — Negociação em bolsa (revogado)
 
-Os warrants autónomos podem ser admitidos à negociação em bolsa.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25, em vigor a partir de 2004-03-30
 
@@ -168,9 +154,9 @@ Os warrants autónomos podem ser admitidos à negociação em bolsa.
 
 2 - Aos warrants sobre acções próprias ou sobre valores mobiliários que confiram direito à sua subscrição, aquisição ou alienação aplicam-se, com as necessárias adaptações, os artigos 325.º-A, 366.º, 367.º, 368.º, 369.º, n.º 2, 370.º, 371.º, 372.º e 487.º do Código das Sociedades Comerciais.
 
-### Artigo 12.º — Qualificação da oferta
+### Artigo 12.º — Qualificação da oferta (revogado)
 
-Considerar-se-á pública a oferta de subscrição de warrants autónomos sobre acções ou sobre valores mobiliários que confiram direito à subscrição, aquisição ou alienação de acções sempre que a entidade emitente das acções seja sociedade de subscrição pública, ainda que a subscrição seja reservada aos respectivos accionistas.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25, em vigor a partir de 2004-03-30
 
@@ -206,21 +192,9 @@ b) Com as necessárias adaptações, os artigos 355.º a 359.º do Código das S
 
 Ficam isentas de quaisquer taxas e emolumentos todas as escrituras públicas e registos de alteração de contrato de sociedade que tenham por objecto, exclusivamente, introduzir a proibição ou as restrições previstas no n.º 1 do artigo 5.º ou a autorização prevista no n.º 2 do mesmo artigo e sejam efectuadas no prazo de cinco anos contados da data de entrada em vigor do presente decreto-lei.
 
-### Artigo 17.º — Alteração ao Código do Mercado de Valores Mobiliários
+### Artigo 17.º — Alteração ao Código do Mercado de Valores Mobiliários (revogado)
 
-Ao Código do Mercado de Valores Mobiliários, aprovado pelo Decreto-Lei n.º 142-A/91, de 10 de Abril, é aditado o artigo 157.º-A, com a seguinte redacção:
-
-«Artigo 157.º-A
-
-Apuramento do resultado de oferta pública de subscrição
-
-1 - Nos 10 dias subsequentes ao termo do prazo da oferta pública de subscrição, a entidade emitente deve comunicar à CMVM o apuramento do resultado daquela oferta e publicá-lo no boletim de cotações onde:
-
-a) A sociedade tenha valores mobiliários admitidos à negociação ou a emissão se destine a ser admitida à negociação;
-
-b) O activo subjacente se encontre admitido à cotação, no caso de emissão de warrants autónomos.
-
-2 - Tratando-se de emissões de warrants autónomos sobre valores mobiliários próprios, a CMVM enviará à conservatória do registo comercial competente a comunicação referida no número anterior acompanhada de declaração comprovativa do registo da emissão.»
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25, em vigor a partir de 2004-03-30
 

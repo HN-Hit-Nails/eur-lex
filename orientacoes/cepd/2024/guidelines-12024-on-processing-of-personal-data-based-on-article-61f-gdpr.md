@@ -7,7 +7,7 @@ data: '2024-10-09'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-12024-on-processing-of-personal-data-based-on-article-61f-gdpr_en
 pdf: https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202401_legitimateinterest_en.pdf
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

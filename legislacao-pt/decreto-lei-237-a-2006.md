@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-2006-216911
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34442175
 eli: https://data.dre.pt/eli/dec-lei/237-a/2006/p/cons/20250723/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 237-A/2006
@@ -1356,11 +1356,9 @@ Após a decisão que autorize o registo da nacionalidade ou conceda a nacionalid
 
 > Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 26/2022 - Diário da República n.º 55/2022, Série I de 2022-03-18, em vigor a partir de 2022-04-15
 
-### Artigo 49.º — Assentos de nacionalidade
+### Artigo 49.º — Assentos de nacionalidade (revogado)
 
-1 - Os assentos de nacionalidade são lavrados por transcrição, sem intervenção dos interessados.
-
-2 - Os registos de nascimento, ainda que atributivos da nacionalidade e os registos de nacionalidade são assinados por conservador ou por oficial dos registos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 26/2022 - Diário da República n.º 55/2022, Série I de 2022-03-18, em vigor a partir de 2022-04-15
 
@@ -1376,19 +1374,9 @@ Após a decisão que autorize o registo da nacionalidade ou conceda a nacionalid
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 26/2022 - Diário da República n.º 55/2022, Série I de 2022-03-18, em vigor a partir de 2022-04-15
 
-### Artigo 51.º — Requisitos dos assentos
+### Artigo 51.º — Requisitos dos assentos (revogado)
 
-O texto dos assentos de nacionalidade contém:
-
-a) Número de ordem, dia, mês e ano em que são lavrados, bem como a designação da conservatória;
-
-b) O nome completo, anterior e posterior à alteração da nacionalidade, quando diversos, data do nascimento, filiação, naturalidade e nacionalidade anterior do interessado, se conhecida;
-
-c) O número e ano do assento de nascimento do interessado e a indicação da conservatória em que se encontra, quando lavrado no registo civil português;
-
-d) O facto registado, o seu fundamento legal e os seus efeitos;
-
-e) A categoria do funcionário que os subscreve e a sua assinatura.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 26/2022 - Diário da República n.º 55/2022, Série I de 2022-03-18, em vigor a partir de 2022-04-15
 
@@ -1408,9 +1396,9 @@ c) A categoria e o nome do conservador de registos ou do oficial de registos que
 
 Nos registos de aquisição da nacionalidade, por naturalização, é mencionada a decisão que tenha concedido a nacionalidade e a respectiva data.
 
-### Artigo 54.º — Averbamentos ao assento de nascimento
+### Artigo 54.º — Averbamentos ao assento de nascimento (revogado)
 
-Sempre que sejam lavrados por assento, os registos de nacionalidade são averbados na sequência do assento de nascimento.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 26/2022 - Diário da República n.º 55/2022, Série I de 2022-03-18, em vigor a partir de 2022-04-15
 

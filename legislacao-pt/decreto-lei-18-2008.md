@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34455475
 eli: https://data.dre.pt/eli/dec-lei/18/2008/p/cons/20260904/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 18/2008
@@ -638,21 +638,9 @@ e) Contratos que se destinem à satisfação das necessidades dos serviços peri
 
 > Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 6.º — Restrição do âmbito de aplicação
+### Artigo 6.º — Restrição do âmbito de aplicação (revogado)
 
-1 - À formação de contratos a celebrar entre quaisquer entidades adjudicantes referidas no n.º 1 do artigo 2.º, a parte ii do presente Código só é aplicável quando o objecto de tais contratos abranja prestações típicas dos seguintes contratos:
-
-a) Empreitada de obras públicas;
-
-b) Concessão de obras públicas;
-
-c) Concessão de serviços públicos;
-
-d) Locação ou aquisição de bens móveis;
-
-e) Aquisição de serviços.
-
-2 - Quando a entidade adjudicante seja uma das referidas no n.º 2 do artigo 2.º ou o Banco de Portugal, a parte ii do presente Código só é aplicável à formação dos contratos cujo objecto abranja prestações típicas dos contratos enumerados no número anterior.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -890,17 +878,9 @@ Para a celebração de contratos de empreitadas de obras públicas pode adotar-s
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 22.º — Contratação de prestações do mesmo tipo em diferentes procedimentos
+### Artigo 22.º — Contratação de prestações do mesmo tipo em diferentes procedimentos (revogado)
 
-1 - Quando prestações do mesmo tipo, suscetíveis de constituírem objeto de um único contrato, sejam contratadas através de mais do que um procedimento, a escolha do procedimento a adotar deve ser efetuada tendo em conta:
-
-a) O somatório dos valores dos vários procedimentos, caso a formação de todos os contratos a celebrar ocorra em simultâneo; ou
-
-b) O somatório dos preços contratuais relativos a todos os contratos já celebrados e do valor de todos os procedimentos ainda em curso, quando a formação desses contratos ocorra ao longo do período de um ano, desde que a entidade adjudicante, aquando do lançamento do primeiro procedimento, devesse ter previsto a necessidade de lançamento dos procedimentos subsequentes.
-
-2 - As entidades adjudicantes ficam dispensadas do disposto no número anterior relativamente a procedimentos para a formação de contratos cujo valor seja inferior a (euro) 80 000, no caso de bens e serviços, ou a (euro) 1 000 000, no caso de empreitadas de obras públicas, e desde que o valor conjunto desses procedimentos não exceda 20 % do somatório calculado nos termos do número anterior.
-
-3 - (Revogado.)
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -966,9 +946,9 @@ A escolha do procedimento nos termos do disposto no presente capítulo permite a
 
 > Rectificado pelo/a Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28, em vigor a partir de 2008-07-30
 
-### Artigo 27.º-A — Consulta prévia
+### Artigo 27.º-A — Consulta prévia (revogado)
 
-Nas situações previstas nos artigos 24.º a 27.º, deve adotar-se o procedimento de consulta prévia sempre que o recurso a mais de uma entidade seja possível e compatível com o fundamento invocado para a adoção deste procedimento.
+[Revogado.]
 
 > Revogado pelo/a Artigo 26.º do/a Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21, em vigor a partir de 2021-06-20
 
@@ -990,21 +970,9 @@ Pode adoptar-se o concurso público ou o concurso limitado por prévia qualifica
 
 > Rectificado pelo/a Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28, em vigor a partir de 2008-07-30
 
-### Artigo 30.º — Escolha do diálogo concorrencial
+### Artigo 30.º — Escolha do diálogo concorrencial (revogado)
 
-1 - Pode adoptar-se o procedimento de diálogo concorrencial quando o contrato a celebrar, qualquer que seja o seu objecto, seja particularmente complexo, impossibilitando a adopção do concurso público ou do concurso limitado por prévia qualificação.
-
-2 - Para os efeitos do disposto no número anterior, consideram-se particularmente complexos os contratos relativamente aos quais seja objectivamente impossível:
-
-a) Definir a solução técnica mais adequada à satisfação das necessidades da entidade adjudicante;
-
-b) Definir os meios técnicos, de acordo com o disposto nas alíneas c) e d) do n.º 2 do artigo 49.º, aptos a concretizar a solução já definida pela entidade adjudicante; ou
-
-c) Definir, em termos suficientemente claros e precisos, a estrutura jurídica ou a estrutura financeira inerentes ao contrato a celebrar.
-
-3 - A impossibilidade objectiva referida no número anterior não pode, em qualquer caso, resultar da carência efectiva de apoios de ordem técnica, jurídica ou financeira de que a entidade adjudicante, usando da diligência devida, possa dispor.
-
-4 - A adopção do procedimento de diálogo concorrencial destina-se a permitir à entidade adjudicante debater, com os potenciais interessados na execução do contrato a celebrar, os aspectos referidos nas alíneas do n.º 2, com vista à sua definição.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -1702,25 +1670,15 @@ Sem prejuízo da possibilidade de fixação de um prazo superior no programa do 
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 82.º — Idioma dos documentos de habilitação
+### Artigo 82.º — Idioma dos documentos de habilitação (revogado)
 
-1 - Todos os documentos de habilitação do adjudicatário devem ser redigidos em língua portuguesa.
-
-2 - Quando, pela sua própria natureza ou origem, os documentos de habilitação estiverem redigidos em língua estrangeira, deve o adjudicatário fazê-los acompanhar de tradução devidamente legalizada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 83.º — Modo de apresentação dos documentos de habilitação
+### Artigo 83.º — Modo de apresentação dos documentos de habilitação (revogado)
 
-1 - O adjudicatário deve apresentar reprodução dos documentos de habilitação referidos no artigo 81.º através da plataforma electrónica utilizada pela entidade adjudicante ou, no caso de a mesma se encontrar indisponível, através de correio electrónico ou de outro meio de transmissão escrita e electrónica de dados.
-
-2 - Para efeitos do disposto na parte final do número anterior, a entidade adjudicante deve identificar, no convite ou programa do procedimento, o endereço de correio electrónico ou de outro meio de transmissão escrita e electrónica de dados, para o qual, com exclusão de qualquer outro, devem ser enviados os documentos de habilitação.
-
-3 - Quando os documentos a que se referem a alínea b) do n.º 1 e os n.os 2 a 4 do artigo 81.º se encontrem disponíveis na Internet, o adjudicatário pode, em substituição da apresentação da sua reprodução, indicar à entidade adjudicante o endereço do sítio onde aqueles podem ser consultados, bem como a informação necessária a essa consulta, desde que os referidos sítio e documentos dele constantes estejam redigidos em língua portuguesa.
-
-4 - Quando o adjudicatário tenha prestado consentimento, nos termos da lei, para que a entidade adjudicante consulte a informação relativa a qualquer dos documentos referidos na alínea b) do n.º 1 ou nos n.os 2 a 4 do artigo 81.º, é dispensada a sua apresentação nos termos do n.º 1 ou a indicação prevista no número anterior.
-
-5 - O órgão competente para a decisão de contratar pode sempre exigir ao adjudicatário, em prazo que fixar para o efeito, a apresentação dos originais de quaisquer documentos cuja reprodução tenha sido apresentada nos termos do disposto no n.º 1, em caso de dúvida fundada sobre o conteúdo ou a autenticidade destes, sendo aplicável, com as necessárias adaptações, o disposto no artigo 86.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -1736,19 +1694,9 @@ Sem prejuízo da possibilidade de fixação de um prazo superior no programa do 
 
 > Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 278/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02, em vigor a partir de 2009-10-07
 
-### Artigo 84.º — Apresentação dos documentos de habilitação por agrupamentos
+### Artigo 84.º — Apresentação dos documentos de habilitação por agrupamentos (revogado)
 
-1 - Quando o adjudicatário for um agrupamento de pessoas singulares ou colectivas:
-
-a) Os documentos previstos no n.º 1 do artigo 81.º devem ser apresentados por todos os seus membros;
-
-b) O documento referido no n.º 2 do artigo 81.º pode ser apresentado por apenas um dos seus membros, podendo ser substituído pela apresentação de vários alvarás ou títulos de registo dos seus membros que, em conjunto, contenham as habilitações adequadas e necessárias à execução da obra a realizar;
-
-c) Os documentos referidos nos n.os 4, 6, 7 e 8 do artigo 81.º devem ser apresentados por todos os seus membros cuja actividade careça da sua titularidade.
-
-2 - Sem prejuízo do disposto na alínea b) do número anterior, no caso de se tratar de um procedimento de formação de um contrato de empreitada ou de concessão de obras públicas, todos os membros do agrupamento concorrente que exerçam a actividade da construção devem apresentar o respectivo alvará ou título de registo emitido pelo Instituto da Construção e do Imobiliário, I. P.
-
-3 - É aplicável aos membros dos agrupamentos concorrentes o disposto no n.º 5 do artigo 81.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -2022,11 +1970,9 @@ h) O objecto do contrato e o respectivo preço contratual.
 
 3 - A entidade adjudicante deve enviar à Comissão Europeia, a pedido desta, um relatório contendo as informações sobre o procedimento e as decisões nele tomadas.
 
-### Artigo 108.º — Relatório de contratação
+### Artigo 108.º — Relatório de contratação (revogado)
 
-1 - A entidade adjudicante deve, no prazo de 10 dias a contar da data da celebração de um contrato de empreitada ou de concessão de obras públicas, enviar o respectivo relatório de contratação ao Instituto da Construção e do Imobiliário, I. P.
-
-2 - O modelo do relatório referido no número anterior é aprovado por portaria do ministro responsável pela área das obras públicas.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -2418,17 +2364,9 @@ b) O preço contratual não é passível de revisão.
 
 > Rectificado pelo/a Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28, em vigor a partir de 2008-07-30
 
-### Artigo 134.º — Devolução do preço pago pela disponibilização das peças do concurso
+### Artigo 134.º — Devolução do preço pago pela disponibilização das peças do concurso (revogado)
 
-O preço pago à entidade adjudicante pela disponibilização das peças do concurso é devolvido aos concorrentes que o requeiram quando:
-
-a) As respectivas propostas não sejam excluídas ou retiradas;
-
-b) O órgão competente para a decisão de contratar decida não adjudicar com fundamento no disposto nas alíneas c) e d) do n.º 1 do artigo 79.º;
-
-c) O órgão competente para a decisão de contratar revogar esta decisão com fundamento no n.º 2 do artigo 80.º;
-
-d) O concorrente fique objectivamente impedido de celebrar o contrato na sequência da rectificação ou da expressa aceitação de erros ou omissões das peças do concurso.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -3386,11 +3324,9 @@ c) O prazo de apresentação das propostas de projetos de investigação e desen
 
 ## Capítulo I — Concurso de concepção
 
-### Artigo 219.º — Âmbito
+### Artigo 219.º — Âmbito (revogado)
 
-1 - O concurso de conceção permite a seleção de um ou mais trabalhos de conceção, ao nível de programa base ou similar, designadamente nos domínios artístico, do ordenamento do território, do planeamento urbanístico, da arquitetura, da engenharia ou do processamento de dados.
-
-2 - Quando a entidade adjudicante pretenda adquirir por ajuste directo, adoptado ao abrigo do disposto na alínea g) do n.º 1 do artigo 27.º, planos, projectos ou quaisquer criações conceptuais que consistam na concretização ou no desenvolvimento dos trabalhos de concepção referidos no número anterior, deve previamente adoptar um concurso de concepção nos termos previstos no presente capítulo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -3556,251 +3492,109 @@ O concurso de conceção simplificado segue as formalidades determinadas nos res
 
 > Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 220.º — Modalidades do concurso de concepção
+### Artigo 220.º — Modalidades do concurso de concepção (revogado)
 
-1 - O concurso de concepção reveste a modalidade de concurso público.
-
-2 - Só pode ser adoptada a modalidade de concurso limitado por prévia qualificação quando a natureza dos trabalhos de concepção exija a avaliação da capacidade técnica dos candidatos.
-
-3 - Os requisitos mínimos da capacidade técnica referida no número anterior devem ser adequados à natureza dos trabalhos de concepção pretendidos e devem ser fixados de forma não discriminatória.
-
-4 - Às modalidades de concurso público e de concurso limitado por prévia qualificação não são aplicáveis as disposições previstas nos títulos anteriores.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 221.º — Início do concurso de concepção
+### Artigo 221.º — Início do concurso de concepção (revogado)
 
-1 - O concurso de concepção inicia-se com a decisão de seleccionar um ou mais trabalhos de concepção, a qual cabe ao órgão competente, por lei ou por delegação, para a decisão de autorizar a despesa relativa aos prémios a que os concorrentes tenham direito, podendo essa decisão estar implícita nesta última.
-
-2 - Quando o concurso de concepção não implique o pagamento de prémios aos concorrentes, a decisão de seleccionar um ou mais trabalhos de concepção cabe ao órgão da entidade adjudicante que for competente para o efeito nos termos da respectiva lei orgânica.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 222.º — Decisão de escolha da modalidade do concurso de concepção
+### Artigo 222.º — Decisão de escolha da modalidade do concurso de concepção (revogado)
 
-1 - A decisão de escolha da modalidade do concurso de concepção cabe ao órgão competente para a decisão prevista no artigo anterior.
-
-2 - A decisão de escolha da modalidade de concurso limitado por prévia qualificação deve ser fundamentada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 223.º — Agrupamento de entidades adjudicantes
+### Artigo 223.º — Agrupamento de entidades adjudicantes (revogado)
 
-As entidades adjudicantes podem agrupar-se com vista à adopção de um concurso de concepção, sendo aplicável, com as necessárias adaptações, o disposto nos n.os 1 a 3 do artigo 39.º
-
-> Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
-
-### Artigo 224.º — Anúncio do concurso de concepção
-
-1 - O concurso de concepção é publicitado no Diário da República através de anúncio conforme modelo aprovado por portaria dos ministros responsáveis pela edição do Diário da República e pelas áreas das finanças e das obras públicas.
-
-2 - O anúncio referido no número anterior ou um resumo dos seus elementos mais importantes pode ser posteriormente divulgado por qualquer outro meio considerado conveniente, nomeadamente através da sua publicação em plataforma electrónica utilizada pela entidade adjudicante.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 225.º — Anúncio no Jornal Oficial da União Europeia
+### Artigo 224.º — Anúncio do concurso de concepção (revogado)
 
-1 - Deve ainda ser publicado no Jornal Oficial da União Europeia um anúncio do concurso de concepção, conforme modelo constante do anexo xii do Regulamento (CE) n.º 1564/2005, da Comissão, de 7 de Setembro.
-
-2 - Não é obrigatória a publicação de anúncio no Jornal Oficial da União Europeia quando a entidade adjudicante não manifeste expressamente a intenção de, posteriormente, celebrar um contrato, por ajuste directo adoptado ao abrigo do disposto na alínea g) do n.º 1 do artigo 27.º, de aquisição do plano, do projecto ou da criação conceptual que consista na concretização ou no desenvolvimento do ou dos trabalhos de concepção seleccionados, e o montante da despesa autorizada para o pagamento dos prémios no âmbito do concurso de concepção seja inferior:
-
-a) Ao referido na alínea b) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, no caso de a entidade adjudicante ser uma das referidas nas alíneas b) a g) do n.º 1 e no n.º 2 do artigo 2.º;
-
-b) Ao referido na alínea a) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, no caso de a entidade adjudicante ser o Estado, excepto se se tratar de concursos de concepção que se refiram a serviços:
-
-i) De investigação e desenvolvimento;
-
-ii) De transmissão de programas televisivos e de emissões de rádio, serviços de interconexão e serviços integrados de telecomunicações;
-
-iii) Mencionados no anexo ii-B da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março;
-
-c) Ao referido na alínea a) do artigo 16.º da Directiva n.º 2004/17/CE, do Parlamento Europeu e do Conselho, de 31 de Março, no caso de a entidade adjudicante ser uma das referidas no n.º 1 do artigo 7.º, quando o concurso de concepção se referir a trabalhos de concepção que digam directa e principalmente respeito a uma ou a várias das actividades por ela exercidas nos sectores da água, da energia, dos transportes e dos serviços postais.
-
-3 - Nos casos previstos nas subalíneas i) a iii) da alínea b) do número anterior, é aplicável o disposto na alínea a) do mesmo número.
-
-4 - No caso de agrupamentos de entidades adjudicantes, é aplicável o disposto no n.º 2 em função do mais baixo dos valores neles referidos tendo em conta as entidades que o constituem.
-
-5 - O anúncio referido no n.º 1 deve ser enviado ao Serviço das Publicações Oficiais das Comunidades Europeias através de meios electrónicos, conforme formato e modalidades de transmissão indicados no portal da Internet http://simap.eu.int ou através de qualquer outro meio, caso em que o respectivo conteúdo deve limitar-se a cerca de 650 palavras.
-
-6 - Deve ser junto ao processo de concurso documento comprovativo da data do envio do anúncio para publicação no Jornal Oficial da União Europeia.
-
-7 - A publicação do anúncio no Jornal Oficial da União Europeia não dispensa a publicação do anúncio referido no n.º 1 do artigo anterior.
-
-8 - O envio para publicação dos anúncios referidos no número anterior deve ocorrer em simultâneo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 226.º — Termos de referência
+### Artigo 225.º — Anúncio no Jornal Oficial da União Europeia (revogado)
 
-1 - Nos concursos de concepção é aprovado um documento, designado termos de referência, que deve indicar:
-
-a) A identificação do concurso, bem como a respectiva modalidade escolhida;
-
-b) Uma descrição, tão completa quanto possível, das características, das particularidades, das referências e de quaisquer outros requisitos de natureza estética, funcional ou técnica que os trabalhos de concepção apresentados devem observar;
-
-c) A entidade adjudicante;
-
-d) O órgão que tomou a decisão de seleccionar um ou mais trabalhos de concepção e, no caso de esta ter sido tomada no uso de delegação ou subdelegação de competência, a qualidade em que aquele decidiu, com menção das decisões de delegação ou subdelegação e do local da respectiva publicação;
-
-e) A identidade dos membros, efectivos e suplentes, que compõem o júri e, quando for o caso, as respectivas habilitações profissionais específicas;
-
-f) As habilitações profissionais específicas de que os concorrentes devem ser titulares, se for o caso;
-
-g) Os documentos que materializam os trabalhos de concepção apresentados;
-
-h) O prazo e o local para a apresentação dos documentos referidos na alínea anterior;
-
-i) O critério de selecção, explicitando claramente os factores e eventuais subfactores que o densificam;
-
-j) O montante global dos eventuais prémios de participação a atribuir aos concorrentes cujos trabalhos de concepção apresentados não sejam excluídos;
-
-l) O número de trabalhos de concepção apresentados a seleccionar;
-
-m) O valor do prémio de consagração a atribuir a cada um dos concorrentes seleccionados;
-
-n) A intenção de celebrar, na sequência do concurso de concepção e por ajuste directo ao abrigo do disposto na alínea g) do n.º 1 do artigo 27.º, um contrato de prestação de serviços destinado a adquirir planos, projectos ou quaisquer criações conceptuais que consistam na concretização ou no desenvolvimento do ou dos trabalhos de concepção seleccionados neste concurso.
-
-2 - Quando for adoptada a modalidade de concurso limitado por prévia qualificação, os termos de referência devem ainda indicar:
-
-a) Os requisitos mínimos de capacidade técnica que os candidatos devem preencher;
-
-b) Os documentos destinados à qualificação dos candidatos;
-
-c) O prazo e o local para a apresentação das candidaturas.
-
-3 - Os termos de referência podem ainda conter quaisquer regras específicas sobre o concurso de concepção consideradas convenientes pela entidade adjudicante, desde que não tenham por efeito impedir, restringir ou falsear a concorrência, bem como ser acompanhados de quaisquer documentos complementares necessários à cabal descrição referida na alínea b) do n.º 1 ou indicar a entidade e o local onde esses documentos podem ser obtidos directamente pelos interessados.
-
-4 - Os termos de referência podem também prever a obrigatoriedade de apresentação dos trabalhos de concepção através de correio electrónico ou de outro meio de transmissão electrónica de dados, caso em que devem definir os termos a que deve obedecer essa apresentação por forma a garantir o anonimato previsto no artigo 228.º
-
-5 - As normas dos termos de referência prevalecem sobre quaisquer indicações constantes dos anúncios com elas desconformes.
-
-6 - Quando se verificar a situação prevista na alínea n) do n.º 1, os termos de referência devem ser acompanhados do caderno de encargos relativo ao procedimento de ajuste directo.
-
-7 - Aos termos de referência é aplicável, com as necessárias adaptações, o disposto nos n.os 1, 2 e 5 do artigo 133.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 227.º — Júri do concurso de concepção
+### Artigo 226.º — Termos de referência (revogado)
 
-1 - O júri do concurso de concepção, designado pelo órgão competente para a decisão prevista no artigo 221.º, é composto, em número ímpar, por um mínimo de três membros efectivos, um dos quais presidirá, e dois suplentes.
+[Revogado.]
 
-2 - Quando, nos termos de referência, for exigida aos concorrentes a titularidade de habilitações profissionais específicas, a maioria dos membros do júri deve ser titular da mesma habilitação.
+> Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-3 - Ao funcionamento do júri do concurso de concepção é aplicável o disposto no artigo 68.º
+### Artigo 227.º — Júri do concurso de concepção (revogado)
 
-4 - As deliberações do júri do concurso de concepção sobre a ordenação dos trabalhos de concepção apresentados ou sobre a exclusão dos mesmos por inobservância da descrição a que se refere a alínea b) do n.º 1 do artigo anterior têm carácter vinculativo para a entidade adjudicante, não podendo, em qualquer caso, ser alteradas depois de conhecida a identidade dos concorrentes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
 > Rectificado pelo/a Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28, em vigor a partir de 2008-07-30
 
-### Artigo 228.º — Anonimato
+### Artigo 228.º — Anonimato (revogado)
 
-1 - No concurso de concepção, qualquer que seja a modalidade adoptada, a identidade dos concorrentes autores dos trabalhos de concepção apresentados só pode ser conhecida e revelada depois de elaborado o relatório final do concurso.
-
-2 - A entidade adjudicante, o júri do concurso e os concorrentes devem praticar, ou abster-se de praticar, se for o caso, todos os actos necessários ao cumprimento do disposto no número anterior, nomeadamente no que respeita ao acesso aos documentos complementares referidos no n.º 3 do artigo 226.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 229.º — Apresentação dos trabalhos de concepção
+### Artigo 229.º — Apresentação dos trabalhos de concepção (revogado)
 
-Cada concorrente pode apresentar vários trabalhos de concepção.
-
-> Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
-
-### Artigo 230.º — Fixação dos prazos para a apresentação dos documentos
-
-O prazo para a apresentação dos documentos destinados à qualificação, quando a modalidade escolhida for a de concurso limitado por prévia qualificação, bem como o prazo para a apresentação dos documentos que materializam os trabalhos de concepção, são fixados livremente pela entidade adjudicante, tendo em conta o tempo necessário à respectiva elaboração, em função da natureza, das características e da complexidade inerentes ao concurso em causa.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 231.º — Regras do concurso público
+### Artigo 230.º — Fixação dos prazos para a apresentação dos documentos (revogado)
 
-1 - Quando a modalidade escolhida for a de concurso público, os documentos que materializam cada um dos trabalhos de concepção devem ser encerrados em invólucro opaco e fechado, no rosto do qual deve ser escrita apenas a palavra «Trabalho» e a designação do concurso.
+[Revogado.]
 
-2 - Em invólucro com as características indicadas no número anterior, deve ser encerrado um documento com a identificação e os contactos do concorrente, no rosto do qual deve ser escrita apenas a palavra «Concorrente» e a designação do concurso.
+> Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-3 - Os invólucros a que se referem os números anteriores são encerrados num outro, igualmente opaco e fechado, que se denomina «Invólucro exterior», indicando-se apenas a designação do concurso e da entidade adjudicante.
+### Artigo 231.º — Regras do concurso público (revogado)
 
-4 - Os documentos que materializam os trabalhos de concepção, bem como todos os invólucros referidos nos números anteriores, devem ser elaborados e apresentados de tal forma que fique assegurado o total e absoluto anonimato dos concorrentes, não podendo conter qualquer elemento que permita, de forma directa ou indirecta, identificar o seu autor ou autores.
-
-5 - O invólucro exterior pode ser entregue directamente ou enviado por correio registado, sem indicação do remetente, devendo, em qualquer caso, a respectiva recepção ocorrer dentro do prazo e no local fixados para a apresentação dos trabalhos de concepção.
-
-6 - A recepção dos invólucros exteriores deve ser registada, anotando-se a data e a hora em que os mesmos são recebidos e, no caso de entrega directa, deve ser apenas entregue ao seu portador um recibo comprovativo dessa entrega.
-
-7 - Depois do termo do prazo fixado para a apresentação dos trabalhos de concepção, o júri do concurso atribui um número a cada um dos invólucros exteriores, abre-os e escreve esse mesmo número nos respectivos invólucros referidos nos n.os 1 e 2.
-
-8 - O júri do concurso procede seguidamente à abertura dos invólucros que contêm os documentos que materializam os trabalhos de concepção apresentados pelos concorrentes, procedendo à sua apreciação e elaborando um relatório final, assinado por todos os seus membros, no qual deve indicar, fundamentadamente:
-
-a) A ordenação dos trabalhos de concepção apresentados, de acordo com o critério de selecção fixado nos termos de referência;
-
-b) A exclusão dos trabalhos de concepção:
-
-i) Cujos invólucros tenham sido apresentados após o termo do prazo fixado nos termos de referência;
-
-ii) Cujos documentos que os materializam, ou os invólucros referidos nos n.os 1 a 3, contenham qualquer elemento que permita, de forma directa ou indirecta, identificar o seu autor ou autores;
-
-iii) Que não observem a descrição a que se refere a alínea b) do n.º 1 do artigo 226.º
-
-9 - O júri do concurso só pode proceder à abertura dos invólucros referidos no n.º 2 depois de integralmente cumprido o disposto no número anterior.
-
-10 - No caso de os termos de referência preverem a obrigatoriedade de apresentação dos trabalhos de concepção através de correio electrónico ou de outro meio de transmissão electrónica de dados, o disposto nos números anteriores é aplicável com as necessárias adaptações.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
 > Rectificado pelo/a Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28, em vigor a partir de 2008-07-30
 
-### Artigo 232.º — Regras do concurso limitado por prévia qualificação
+### Artigo 232.º — Regras do concurso limitado por prévia qualificação (revogado)
 
-1 - Quando a modalidade escolhida for a de concurso limitado por prévia qualificação, os documentos destinados à qualificação devem ser encerrados em invólucro opaco e fechado, no rosto do qual deve ser escrita a palavra «Candidatura», o nome ou a denominação social do candidato, a designação do concurso e da entidade adjudicante.
-
-2 - O invólucro referido no número anterior pode ser entregue directamente ou enviado por correio registado, devendo, em qualquer caso, a respectiva recepção ocorrer dentro do prazo e no local fixados para a apresentação das candidaturas.
-
-3 - A recepção dos invólucros deve ser registada, anotando-se a data e a hora em que os mesmos são recebidos e, no caso de entrega directa, a identidade das pessoas que a efectuaram, sendo entregue a estas um recibo comprovativo dessa entrega.
-
-4 - Depois do termo do prazo fixado para a apresentação das candidaturas, o júri do concurso procede à sua apreciação, qualificando os candidatos que, tendo apresentado as respectivas candidaturas tempestivamente, cumpram os requisitos mínimos de capacidade técnica fixados nos termos de referência.
-
-5 - Efectuada a qualificação, o júri do concurso envia aos candidatos qualificados, em simultâneo, um convite à apresentação dos trabalhos de concepção de acordo com as regras fixadas nos termos de referência.
-
-6 - Cumprido o disposto no número anterior, o concurso de concepção prossegue os seus termos de acordo com o disposto no artigo anterior.
-
-7 - O relatório final do concurso deve ainda indicar, fundamentadamente, quais os candidatos a excluir, quer por não preencherem os requisitos mínimos de capacidade técnica exigidos nos termos de referência, quer por terem apresentado as respectivas candidaturas após o termo do prazo fixado para o efeito.
-
-8 - No caso de os termos de referência preverem a obrigatoriedade de apresentação dos trabalhos de concepção através de correio electrónico ou de outro meio de transmissão electrónica de dados, o disposto nos números anteriores é aplicável com as necessárias adaptações.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 233.º — Decisão de selecção e prémios
+### Artigo 233.º — Decisão de selecção e prémios (revogado)
 
-1 - O órgão competente para a decisão prevista no artigo 221.º selecciona um ou mais trabalhos de concepção, consoante o número fixado nos termos de referência do concurso, de acordo com o teor e as conclusões do relatório final, nomeadamente com as deliberações vinculativas tomadas pelo júri.
-
-2 - Da decisão de selecção deve também constar a atribuição dos prémios de consagração aos concorrentes seleccionados, bem como a atribuição dos eventuais prémios de participação.
-
-3 - A decisão de selecção referida nos números anteriores é notificada simultaneamente a todos os concorrentes e, quando a modalidade escolhida for a de concurso limitado por prévia qualificação, também aos candidatos excluídos.
-
-4 - Os concorrentes sobre cujos trabalhos de concepção recaia a decisão de selecção consideram-se seleccionados para efeitos do disposto na alínea g) do n.º 1 do artigo 27.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 234.º — Caducidade da decisão de selecção
+### Artigo 234.º — Caducidade da decisão de selecção (revogado)
 
-1 - Quando os termos de referência do concurso de concepção exigirem aos concorrentes a titularidade de habilitações profissionais específicas, os concorrentes seleccionados devem apresentar documentos comprovativos das mesmas no prazo de cinco dias a contar da notificação da decisão de selecção.
-
-2 - A decisão de selecção caduca se o concorrente seleccionado não apresentar os documentos referidos no número anterior no prazo nele fixado.
-
-3 - No caso previsto no número anterior, o órgão competente para a decisão prevista no artigo 221.º deve seleccionar o trabalho de concepção ordenado em lugar subsequente.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 235.º — Anúncio da decisão de selecção
+### Artigo 235.º — Anúncio da decisão de selecção (revogado)
 
-Quando o anúncio do concurso de concepção tenha sido publicado no Jornal Oficial da União Europeia, a entidade adjudicante deve enviar ao Serviço de Publicações Oficiais das Comunidades Europeias, no prazo de 30 dias após a decisão de selecção, um anúncio conforme modelo constante do anexo xiii do Regulamento (CE) n.º 1564/2005, da Comissão, de 7 de Setembro.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 236.º — Prevalência
+### Artigo 236.º — Prevalência (revogado)
 
-As normas constantes do presente capítulo relativas ao concurso de concepção prevalecem sobre quaisquer disposições dos termos de referência e respectivos documentos complementares com elas desconformes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -3836,17 +3630,9 @@ c) Apresentação e análise das propostas e adjudicação.
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 239.º — Instituição do sistema
+### Artigo 239.º — Instituição do sistema (revogado)
 
-1 - A decisão de instituir um sistema de aquisição dinâmico cabe ao órgão competente para a decisão de contratar e deve ser feita em simultâneo com a decisão de escolha do procedimento.
-
-2 - A escolha do procedimento nos termos do disposto no artigo 20.º só permite a celebração de contratos ao abrigo de um sistema de aquisição dinâmico enquanto o somatório dos respectivos preços contratuais seja inferior aos valores referidos naquele artigo.
-
-3 - A entidade adjudicante não pode instituir um sistema de aquisição dinâmico de modo a impedir, restringir ou falsear a concorrência.
-
-4 - Não podem ser cobradas aos interessados ou aos concorrentes quaisquer despesas relacionadas com a instituição ou a operatividade do sistema.
-
-5 - A instituição de um sistema de aquisição dinâmico rege-se, com as necessárias adaptações, pelas disposições que regulam o concurso público, em tudo o que não esteja especialmente previsto nos artigos seguintes e seja com eles compatível.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -3866,19 +3652,9 @@ c) Fornecer todas as informações necessárias ao acesso dos interessados ao si
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 241.º — Versões iniciais de proposta
+### Artigo 241.º — Versões iniciais de proposta (revogado)
 
-1 - Os interessados podem apresentar as respectivas versões iniciais de proposta desde a publicitação da instituição do sistema até ao prazo fixado para o efeito no anúncio simplificado previsto no artigo seguinte.
-
-2 - Até ao termo do prazo para a sua apresentação em versão definitiva, fixado no convite previsto no artigo 243.º, as versões iniciais de proposta podem ser continuamente alteradas.
-
-3 - No prazo de 15 dias a contar da recepção no sistema da versão inicial de proposta, bem como de cada alteração da mesma, a entidade adjudicante notifica o respectivo apresentante da sua aceitação ou rejeição.
-
-4 - São rejeitadas as propostas, tanto na versão inicial como na versão alterada, sempre que os respectivos atributos, termos ou condições violem o caderno de encargos.
-
-5 - Consideram-se rejeitadas as propostas, tanto na versão inicial como na versão alterada, relativamente às quais a entidade adjudicante não proceda à notificação prevista no n.º 3.
-
-6 - São admitidos no sistema todos os interessados que apresentem uma versão inicial de proposta, ou uma versão alterada da mesma, que não seja rejeitada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -3930,41 +3706,23 @@ A entidade adjudicante pode, durante a vigência do sistema de aquisição dinâ
 
 > Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 242.º — Anúncio simplificado
+### Artigo 242.º — Anúncio simplificado (revogado)
 
-1 - A celebração de um contrato ao abrigo de um sistema de aquisição dinâmico depende da publicação:
-
-a) De um anúncio simplificado no Diário da República, conforme modelo aprovado por portaria dos ministros responsáveis pela edição do Diário da República e pelas áreas das finanças e das obras públicas; e
-
-b) De um anúncio simplificado no Jornal Oficial da União Europeia, conforme modelo constante do anexo ix do Regulamento (CE) n.º 1564/2005, da Comissão, de 7 de Setembro, quando o anúncio com indicação expressa da instituição de um sistema de aquisição dinâmico tenha sido publicado no Jornal Oficial da União Europeia.
-
-2 - À publicação dos anúncios previstos no número anterior é aplicável, com as necessárias adaptações, o disposto nos artigos 130.º ou 131.º
-
-3 - Quando o anúncio com indicação expressa da instituição de um sistema de aquisição dinâmico seja publicado no Jornal Oficial da União Europeia, o anúncio simplificado só pode ser publicado decorridos, pelo menos, 40 dias a contar da data do envio daquele anúncio para publicação.
-
-4 - Todos os interessados em aceder ao sistema devem apresentar as respectivas versões iniciais de proposta no prazo mínimo de 15 dias a contar da data do envio do anúncio simplificado para publicação.
-
-5 - Às versões iniciais das propostas é aplicável o disposto nos n.os 3 a 6 do artigo anterior.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
 > Rectificado pelo/a Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28, em vigor a partir de 2008-07-30
 
-### Artigo 243.º — Convite
+### Artigo 243.º — Convite (revogado)
 
-1 - O procedimento de formação do contrato a celebrar ao abrigo de um sistema de aquisição dinâmico inicia-se com o envio, em simultâneo, a todos os concorrentes cujas versões iniciais de proposta foram aceites, de um convite a apresentar uma versão definitiva de proposta para o contrato a celebrar.
-
-2 - No convite, a entidade adjudicante deve indicar:
-
-a) O prazo para a apresentação das versões definitivas das propostas, que não pode ser inferior a cinco dias a contar da data do envio do convite;
-
-b) O modelo de avaliação das propostas, caso não conste do programa do procedimento.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 244.º — Avaliação das propostas e adjudicação
+### Artigo 244.º — Avaliação das propostas e adjudicação (revogado)
 
-Findo o prazo para a apresentação das versões definitivas das propostas, ao procedimento de formação do contrato a celebrar ao abrigo de um sistema de aquisição dinâmico é aplicável o disposto nos artigos 139.º e seguintes, no que diz respeito à avaliação das propostas, à preparação da adjudicação e à eventual fase de leilão electrónico.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -4394,27 +4152,9 @@ Quando a impugnação administrativa tiver por objecto a decisão de qualificaç
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 276.º — Contratos a celebrar por concessionários de obras públicas que não sejam entidades adjudicantes
+### Artigo 276.º — Contratos a celebrar por concessionários de obras públicas que não sejam entidades adjudicantes (revogado)
 
-1 - A intenção de celebrar contratos de empreitada de obras públicas cujo preço contratual seja igual ou superior ao valor referido na alínea a) do n.º 3 do artigo 474.º, por parte de concessionários de obras públicas que não sejam entidades adjudicantes, deve ser publicitada no Diário da República através de anúncio conforme modelo aprovado por portaria dos membros do Governo responsáveis pela edição do Diário da República e pelas áreas das finanças e das obras públicas.
-
-2 - Deve ainda ser publicado no Jornal Oficial da União Europeia um anúncio da intenção referida no n.º 1, conforme modelo constante do anexo II do Regulamento de Execução (UE) n.º 2015/1986, da Comissão, de 11 de novembro de 2015.
-
-3 - Aos anúncios referidos nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos n.os 5 a 7 do artigo 131.º
-
-4 - Os anúncios previstos nos n.os 1 e 2 não têm de ser publicados quando:
-
-a) Se verificar alguma das situações previstas nos artigos 24.º ou 25.º;
-
-b) O adjudicatário seja uma empresa associada do concessionário de obras públicas, nos termos do disposto no artigo 14.º
-
-c) O adjudicatário seja membro do agrupamento que apresentou a proposta adjudicada no procedimento de formação do contrato de concessão ou uma empresa associada a qualquer dos seus membros nos termos do disposto no artigo 14.º
-
-5 - Para efeitos da formação dos contratos de empreitada de obras públicas referidos no n.º 1, o concessionário não pode fixar um prazo para a apresentação de candidaturas inferior a 37 dias a contar da data do envio do anúncio referido no n.º 2, nem um prazo para a apresentação das propostas inferior a 40 dias a contar daquela mesma data ou do convite à apresentação de propostas.
-
-6 - Aos prazos mínimos previstos no número anterior são aplicáveis as reduções previstas no n.º 3 do artigo 136.º e no n.º 3 do artigo 174.º, consoante o caso.
-
-7 - Quando, por qualquer motivo, as peças do procedimento não sejam disponibilizadas no prazo máximo de três dias a contar da data da sua solicitação, o prazo fixado para a apresentação das candidaturas ou das propostas deve ser prorrogado, a pedido dos interessados, por período, no mínimo, equivalente ao do atraso verificado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -4426,11 +4166,9 @@ c) O adjudicatário seja membro do agrupamento que apresentou a proposta adjudic
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 149/2012 - Diário da República n.º 134/2012, Série I de 2012-07-12, em vigor a partir de 2012-08-11
 
-### Artigo 277.º — Contratos a celebrar por entidades beneficiárias de direitos especiais ou exclusivos no exercício de actividades de serviço público
+### Artigo 277.º — Contratos a celebrar por entidades beneficiárias de direitos especiais ou exclusivos no exercício de actividades de serviço público (revogado)
 
-1 - Na formação de contratos de locação ou de aquisição de bens móveis por entidades não referidas no artigo 2.º ou no n.º 1 do artigo 7.º às quais tenham sido atribuídos direitos especiais ou exclusivos no exercício de actividades de serviço público por uma das entidades adjudicantes neles referidas, devem aquelas respeitar o princípio da não discriminação em razão da nacionalidade.
-
-2 - No acto de atribuição dos direitos especiais ou exclusivos, as entidades adjudicantes devem mencionar a obrigação prevista no número anterior.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -4962,15 +4700,9 @@ c) Quando existam fortes indícios de que a cessão da posição contratual ou a
 
 > Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 319.º — Autorização à subcontratação pelo cocontratante na fase de execução
+### Artigo 319.º — Autorização à subcontratação pelo cocontratante na fase de execução (revogado)
 
-1 - Na fase de execução do contrato é admitida a subcontratação desde que autorizada pelo contraente público.
-
-2 - Para efeitos da autorização referida no número anterior, o cocontratante deve apresentar uma proposta fundamentada e instruída com todos os documentos comprovativos da verificação dos requisitos que seriam exigíveis para a autorização da subcontratação no próprio contrato, nos termos do disposto no artigo 318.º
-
-3 - O contraente público deve pronunciar-se sobre a proposta do cocontratante no prazo de 30 dias a contar da respetiva apresentação, desde que regularmente instruída.
-
-4 - Se o contraente público não efetuar nenhuma comunicação ao cocontratante dentro do prazo previsto no número anterior, considera-se que a proposta deste foi rejeitada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -5960,25 +5692,9 @@ A presente secção é aplicável, subsidiariamente, ao contrato de concessão d
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
-### Artigo 410.º-A — Valor do contrato de concessão
+### Artigo 410.º-A — Valor do contrato de concessão (revogado)
 
-1 - O valor de um contrato de concessão corresponde ao total do volume de negócios do concessionário gerado ao longo da duração do contrato, sem IVA, conforme estipulado no contrato, em contrapartida das obras e dos serviços que foram objeto da concessão, bem como dos fornecimentos relacionados com tais obras e serviços.
-
-2 - O valor do contrato deve ter em conta, nomeadamente, o seguinte:
-
-a) O valor de qualquer tipo de opção e eventuais prorrogações da duração da concessão;
-
-b) As receitas provenientes do pagamento de taxas pelos utilizadores das obras ou dos serviços distintas das cobradas em nome da entidade adjudicante;
-
-c) Os pagamentos ou qualquer vantagem financeira, independentemente da forma, que a entidade adjudicante ou qualquer outra autoridade pública proporcione ao concessionário, incluindo a compensação pelo cumprimento de uma obrigação de serviço público e os subsídios ao investimento público;
-
-d) O valor das subvenções ou de quaisquer outras vantagens financeiras, independentemente da forma, provenientes de terceiros pela execução da concessão;
-
-e) A receita da venda de ativos que façam parte do estabelecimento da concessão;
-
-f) O valor de todos os fornecimentos e serviços postos à disposição do concessionário pelas entidades adjudicantes, desde que sejam necessários à execução das obras ou à prestação dos serviços;
-
-g) Os prémios ou pagamentos a candidatos ou proponentes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -5998,15 +5714,9 @@ g) Os prémios ou pagamentos a candidatos ou proponentes.
 
 3 - Mediante acordo do concedente, a partilha de receita entre as partes pode ser substituída, total ou parcialmente, pela redução do valor das tarifas aplicadas pelo concessionário ou por outras contrapartidas, com expressão financeira, que beneficiem os utilizadores da obra ou dos serviços concedidos ou o próprio concedente.
 
-### Artigo 413.º — Partilha de riscos
+### Artigo 413.º — Partilha de riscos (revogado)
 
-1 - O contrato deve implicar uma significativa e efetiva transferência para o concessionário do risco de exploração dessas obras ou serviços, que se traduz no risco ligado à procura ou à oferta, ou a ambos.
-
-2 - Para efeitos do disposto no número anterior, considera-se que o concessionário assume o risco de exploração quando:
-
-a) Em condições normais de exploração, não há garantia de que recupere os investimentos efetuados ou as despesas suportadas no âmbito da exploração das obras ou dos serviços que são objeto da concessão; ou
-
-b) A parte do risco transferido para o concessionário envolve uma exposição real à imprevisibilidade do mercado, o que implica que quaisquer perdas potenciais por ele incorridas não sejam meramente nominais ou insignificantes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -6228,9 +5938,9 @@ Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros nest
 
 Entende-se por aquisição de bens móveis o contrato pelo qual um contraente público compra bens móveis a um fornecedor.
 
-### Artigo 438.º — Remissão
+### Artigo 438.º — Remissão (revogado)
 
-É aplicável aos contratos de aquisição de bens, com as necessárias adaptações, o disposto no capítulo sobre contratos de empreitadas de obras públicas no que respeita a trabalhos de suprimento de erros e omissões.
+[Revogado.]
 
 > Revogado pelo/a Artigo 26.º do/a Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21, em vigor a partir de 2021-06-20
 
@@ -6506,17 +6216,9 @@ O desrespeito, pelo infrator, da sanção prevista no artigo 460.º constitui cr
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 464.º-A — Proibição de participação decorrente de incumprimento contratual
+### Artigo 464.º-A — Proibição de participação decorrente de incumprimento contratual (revogado)
 
-1 - Pode ser aplicada sanção de proibição de participação em procedimentos de formação de contratos públicos, pelo prazo de um ano, às entidades que se encontrem em qualquer das seguintes situações:
-
-a) Incumprimento contratual que tenha dado origem, nos três últimos anos, à aplicação de sanções que tenham atingido os valores máximos aplicáveis nos termos dos n.os 2 e 3 do artigo 329.º;
-
-b) Incumprimento contratual que tenha sido objeto de duas resoluções sancionatórias nos três últimos anos com fundamento na alínea a) do n.º 1 do artigo 333.º, em qualquer das situações das alíneas b) a h) do n.º 1 do artigo 405.º e as constantes do artigo 423.º;
-
-2 - Para efeitos do disposto no número anterior, os contraentes públicos devem comunicar ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., as situações aí referidas, no prazo de 10 dias a contar da sua ocorrência.
-
-3 - A aplicação da sanção referida no presente artigo cabe ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., e é objeto de publicitação no portal dos contratos públicos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -6602,25 +6304,9 @@ O requerimento de tentativa de conciliação interrompe os prazos de prescriçã
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 149/2012 - Diário da República n.º 134/2012, Série I de 2012-07-12, em vigor a partir de 2012-08-11
 
-### Artigo 466.º — Observatório das obras públicas
+### Artigo 466.º — Observatório das obras públicas (revogado)
 
-1 - O observatório das obras públicas é um sistema de informação, a constituir por diploma próprio, que procede à organização de uma base de dados, ao tratamento e à divulgação dos respectivos dados estatísticos no domínio das empreitadas de obras públicas, cabendo-lhe monitorizar:
-
-a) A fase de formação dos contratos de empreitada e de concessão de obras públicas;
-
-b) A fase de execução dos contratos de empreitada de obras públicas;
-
-c) As empreitadas de obras públicas integradas em concessões.
-
-2 - Para efeitos do estabelecido no número anterior, devem ser comunicados ao Instituto da Construção e do Imobiliário, I. P.:
-
-a) Os factos que constituam contra-ordenação prevista e os factos passíveis de registo, de acordo com os artigos 23.º e seguintes do Decreto-Lei n.º 12/2004, de 9 de Janeiro, logo que a entidade adjudicante, o dono da obra ou o concessionário deles tome conhecimento;
-
-b) O relatório de contratação;
-
-c) O relatório final da obra;
-
-d) Os demais elementos previstos no capítulo i do título ii da parte iii do presente Código e outros a definir em legislação especial.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
@@ -6708,67 +6394,15 @@ Todas as quantias previstas no presente Código, bem como o valor estimado do co
 
 > Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 476.º — Resolução alternativa de litígios
+### Artigo 476.º — Resolução alternativa de litígios (revogado)
 
-1 - O recurso à arbitragem ou a outros meios de resolução alternativa de litígios é permitido, nos termos da lei, para a resolução de litígios emergentes de procedimentos ou contratos aos quais se aplique o presente Código.
-
-2 - Quando opte pela sujeição dos litígios a arbitragem, a entidade adjudicante prevê obrigatoriamente:
-
-a) A aceitação, por parte de todos os interessados, candidatos e concorrentes, da jurisdição de um centro de arbitragem institucionalizado competente para o julgamento de questões relativas ao procedimento de formação de contrato, de acordo com o modelo previsto no anexo xii ao presente Código, do qual faz parte integrante, a incluir no programa do procedimento;
-
-b) A necessidade de aceitação, por parte do cocontratante, da jurisdição do centro de arbitragem institucionalizado para a resolução de quaisquer conflitos relativos ao contrato de acordo com o modelo previsto no anexo xii, a incluir no caderno de encargos e no contrato;
-
-c) O modo de constituição do tribunal e o regime processual a aplicar, por remissão para as normas do regulamento do centro de arbitragem institucionalizado competente, de acordo com o modelo previsto no anexo xii.
-
-3 - A resolução de litígios por meio de arbitragem em tribunais arbitrais não integrados em centros de arbitragem institucionalizados só pode ser determinada numa das seguintes situações:
-
-a) Quando, face à elevada complexidade das questões jurídicas ou técnicas envolvidas, ao elevado valor económico das questões a resolver, ou à inexistência de centro de arbitragem institucionalizado competente na matéria, seja aconselhável a submissão de eventuais litígios à jurisdição de tribunal arbitral não integrado em centro de arbitragem institucionalizado;
-
-b) Quando o processo arbitral previsto nos regulamentos do respetivo centro de arbitragem institucionalizado não se conforme com o regime de urgência previsto no Código do Processo nos Tribunais Administrativos para os contratos por ele abrangidos;
-
-c) Quando se demonstre que a utilização de um centro de arbitragem institucionalizado teria como consequência uma resolução mais morosa do litígio;
-
-d) Quando se demonstre que a utilização de um centro de arbitragem institucionalizado teria como consequência um custo mais elevado para as entidades adjudicantes ou contraentes públicos.
-
-4 - Se se optar pela submissão de litígio a tribunal arbitral não integrado em centro de arbitragem institucionalizado, a entidade contratante deve elaborar uma avaliação de impacto dos custos que tal opção importa, designadamente quanto aos honorários de árbitros e advogados, taxas, custas e outras despesas.
-
-5 - Nos litígios de valor superior a (euro) 500 000, da decisão arbitral cabe recurso para o tribunal administrativo competente, nos termos da lei, com efeito meramente devolutivo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
 > Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-## Anexo I — Modelo de declaração
-
-[a que se refere a alínea a) do n.º 1 do artigo 57.º ou a subalínea i) da alínea b) e alínea c) do n.º 3 do artigo 256.º-A, conforme aplicável]
-
-1 -... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado inteiro e perfeito conhecimento do caderno de encargos relativo à execução do contrato a celebrar na sequência do procedimento de... (designação ou referência ao procedimento em causa) e, se for o caso, do caderno de encargos do acordo-quadro aplicável ao procedimento, declara, sob compromisso de honra, que a sua representada (2) se obriga a executar o referido contrato em conformidade com o conteúdo do(s) mencionado(s) caderno(s) de encargos, relativamente ao qual declara aceitar, sem reservas, todas as suas cláusulas.
-
-2 - Declara também que executa o referido contrato nos termos previstos nos seguintes documentos, que junta em anexo (3):
-
-a)...
-
-b)...
-
-3 - Declara ainda que renuncia a foro especial e se submete, em tudo o que respeitar à execução do referido contrato, ao disposto na legislação portuguesa aplicável.
-
-4 - Mais declara, sob compromisso de honra, que não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos.
-
-5 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica, consoante o caso, a exclusão da proposta apresentada ou a caducidade da adjudicação que eventualmente sobre ela recaia e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de proibição do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.
-
-6 - Quando a entidade adjudicante o solicitar, o concorrente obriga-se, nos termos do disposto no artigo 81.º do Código dos Contratos Públicos, a apresentar os documentos comprovativos de que não se encontra nas situações previstas nas alíneas b), d), e) e h) do n.º 1 do artigo 55.º do referido Código.
-
-7 - O declarante tem ainda pleno conhecimento de que a não apresentação dos documentos solicitados nos termos do número anterior, por motivo que lhe seja imputável, determina a caducidade da adjudicação que eventualmente recaia sobre a proposta apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.
-
-... (local),... (data),... [assinatura (4)].
-
-(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.
-
-(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão 'a sua representada'.
-
-(3) Enumerar todos os documentos que constituem a proposta, para além desta declaração, nos termos do disposto nas alíneas b) e c) do n.º 1 e nos n.os 2 e 3 do artigo 57.º ou na subalínea i) da alínea b) ou alínea c) do n.º 3 do artigo 256.º-A, conforme aplicável.
-
-(4) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º
+## Anexo I — Modelo de declaração (revogado)
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -6778,27 +6412,7 @@ b)...
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 149/2012 - Diário da República n.º 134/2012, Série I de 2012-07-12, em vigor a partir de 2012-08-11
 
-## Anexo II — Modelo de declaração
-
-[a que se refere a alínea a) do n.º 1 do artigo 81.º]
-
-1 -... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), adjudicatário(a) no procedimento de... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2) não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos.
-
-2 - O declarante junta em anexo [ou indica... como endereço do sítio da Internet onde podem ser consultados (3)] os documentos comprovativos de que a sua representada (4) não se encontra nas situações previstas nas alíneas b), d), e) e h) do n.º 1 do artigo 55.º do Código dos Contratos Públicos.
-
-3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a caducidade da adjudicação e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.
-
-... (local),... (data),... [assinatura (5)].
-
-(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.
-
-(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão 'a sua representada'.
-
-(3) Acrescentar as informações necessárias à consulta, se for o caso.
-
-(4) No caso de o concorrente ser uma pessoa singular, suprimir a expressão 'a sua representada'.
-
-(5) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º
+## Anexo II — Modelo de declaração (revogado)
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -6810,57 +6424,19 @@ b)...
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 149/2012 - Diário da República n.º 134/2012, Série I de 2012-07-12, em vigor a partir de 2012-08-11
 
-## Anexo III — Modelo de ficha
-
-(a que se refere o n.º 1 do artigo 127.º e o n.º 1 do artigo 465.º)
-
-(ver documento original)
+## Anexo III — Modelo de ficha (revogado)
 
 > Revogado pelo/a Artigo 26.º do/a Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21, em vigor a partir de 2021-06-20
 
 > Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-## Anexo IV — Expressão matemática que traduz o requisito mínimo de capacidade financeira [a que se refere a alínea i) do n.º 1, o n.º 4 do artigo 164.ºe o n.º 2 do artigo 165.º]
-
-1 — O requisito mínimo de capacidade financeira referido no n.º 2 do artigo 165.º do Código dos Contratos Públicos é traduzido pela seguinte expressão matemática:
-
-V × t ≤ R × f
-
-sendo:
-
-V — o preço base, quando fixado nos termos do disposto na alínea a) do n.º 1 do artigo 47.º ou, na falta dessa fixação, o valor económico estimado do contrato, a estabelecer no programa do concurso, exclusivamente para efeitos da avaliação da capacidade financeira dos
-
-candidatos;
-
-t — a taxa de juro EURIBOR, a seis meses, acrescida de 200 pontos base, divulgada à data da publicação do anúncio do concurso no Diário da República;
-
-R — o valor médio dos resultados operacionais do candidato nos últimos três exercícios, calculado com recurso à seguinte função:
-
-(ver documento original)
-
-2 — No caso de o candidato se ter constituído há menos de três exercícios, para efeitos do cálculo de R só são tidos em conta os resultados operacionais do candidato nos exercícios concluídos, sendo o denominador da função adaptado em conformidade.
+## Anexo IV — Expressão matemática que traduz o requisito mínimo de capacidade financeira [a que se refere a alínea i) do n.º 1, o n.º 4 do artigo 164.ºe o n.º 2 do artigo 165.º] (revogado)
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 149/2012 - Diário da República n.º 134/2012, Série I de 2012-07-12, em vigor a partir de 2012-08-11
 
-## Anexo V — Modelo de declaração
-
-(a que se refere o n.º 1 do artigo 168.º)
-
-1 -... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado conhecimento das peças do procedimento de... (designação ou referência ao procedimento em causa), vem por este meio apresentar a respetiva candidatura, juntando em anexo, para o efeito, os seguintes documentos destinados à qualificação (2):
-
-2 - Para o efeito declara, sob compromisso de honra, que não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos.
-
-3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a exclusão da candidatura apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.
-
-... (local),... (data),... [assinatura (3)].
-
-(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.
-
-(2) Enumerar todos os documentos que constituem a candidatura, para além desta declaração, indicados no programa do procedimento.
-
-(3) Nos termos do disposto nos n.os 2 e 3 do artigo 168.º
+## Anexo V — Modelo de declaração (revogado)
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 
@@ -6908,11 +6484,7 @@ c) 'Norma nacional': uma norma aprovada por um organismo nacional de normalizaç
 
 > Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-## Anexo VIII — Lista de serviços de investigação e de desenvolvimento
-
-[a que se refere a alínea j) do n.º 4 do artigo 5.º e a alínea e) do n.º 1 do artigo 27.º)
-
-(ver documento original)
+## Anexo VIII — Lista de serviços de investigação e de desenvolvimento (revogado)
 
 > Revogado pelo/a Artigo 180.º do/a Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15, em vigor a partir de 2018-05-16
 
@@ -6958,23 +6530,7 @@ Em caso de divergências de interpretação entre a CPV e a NACE, é aplicável 
 
 > Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-## Anexo XIII — Modelos de declaração de inexistência de conflito de interesses
-
-1 - Modelo previsto no n.º 5 do artigo 67.º:
-
-... (nome, número de documento de identificação e morada), na qualidade de... (dirigente, trabalhador, ou prestador de serviço atuando em nome da entidade adjudicante) da... (entidade adjudicante), participando (se for o caso, como membro do júri) no procedimento de formação do contrato n.º... relativo a... (objeto do contrato), declara não estar abrangido, na presente data, por quaisquer conflitos de interesses relacionados com o objeto ou com os participantes no procedimento em causa.
-
-Mais declara que se durante o procedimento de formação do contrato tiver conhecimento da participação nele de operadores económicos relativamente aos quais possa existir um conflito de interesses, disso dará imediato conhecimento ao órgão competente da entidade adjudicante, para efeitos de impedimento ou escusa de participação no procedimento, nos termos do disposto nos artigos 69.º a 76.º do Código do Procedimento Administrativo.
-
-... (local),... (data),... (assinatura).
-
-2 - Modelo previsto no n.º 7 do artigo 290.º-A:
-
-... (nome, número de documento de identificação e morada), na qualidade de... (dirigente, trabalhador, ou prestador de serviço atuando em nome do contraente público) da... (contraente público), tendo sido designado gestor do contrato relativo a... (objeto do contrato), declara não estar abrangido, na presente data, por quaisquer conflitos de interesses relacionados com o objeto do contrato ou com o cocontratante.
-
-Mais declara que se durante a execução do contrato tiver conhecimento da participação nele de outros operadores económicos, designadamente cessionários ou subcontratados, relativamente aos quais possa existir um conflito de interesses, disso dará imediato conhecimento ao contraente público, para efeitos de impedimento ou escusa, nos termos do disposto nos artigos 69.º a 76.º do Código do Procedimento Administrativo.
-
-... (local),... (data),... (assinatura).
+## Anexo XIII — Modelos de declaração de inexistência de conflito de interesses (revogado)
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
 

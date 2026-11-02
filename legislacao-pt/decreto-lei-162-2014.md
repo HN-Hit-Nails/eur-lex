@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-59423292
 eli: https://data.dre.pt/eli/dec-lei/162/2014/p/cons/20260821/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 162/2014
@@ -664,43 +664,21 @@ Em caso de incumprimento do disposto na alínea c) do n.º 4 do artigo 22.º, é
 
 ## Capítulo IV — Dedução por lucros retidos e reinvestidos
 
-### Artigo 27.º — Objeto
+### Artigo 27.º — Objeto (revogado)
 
-A DLRR constitui um regime de incentivos fiscais ao investimento em favor de micro, pequenas e médias empresas nos termos do RGIC.
-
-> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
-
-### Artigo 28.º — Âmbito de aplicação subjetivo
-
-Podem beneficiar da DLRR os sujeitos passivos de IRC residentes em território português, bem como os sujeitos passivos não residentes com estabelecimento estável neste território, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, que preencham, cumulativamente, as seguintes condições:
-
-a) Sejam micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003;
-
-b) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;
-
-c) O seu lucro tributável não seja determinado por métodos indiretos;
-
-d) Tenham a situação fiscal e contributiva regularizada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
 
-### Artigo 29.º — Dedução por lucros retidos e reinvestidos
+### Artigo 28.º — Âmbito de aplicação subjetivo (revogado)
 
-1 - Os sujeitos passivos referidos no artigo anterior podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2014, até 10 % dos lucros retidos que sejam reinvestidos em aplicações relevantes nos termos do artigo 30.º, no prazo de quatro anos contado a partir do final do período de tributação a que correspondam os lucros retidos.
+[Revogado.]
 
-2 - Para efeitos da dedução prevista no número anterior, o montante máximo dos lucros retidos e reinvestidos, em cada período de tributação, é de 12 000 000 (euro), por sujeito passivo.
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
 
-3 - A dedução prevista no número anterior é feita, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, até à concorrência de 25 % da coleta do IRC.
+### Artigo 29.º — Dedução por lucros retidos e reinvestidos (revogado)
 
-4 - No caso dos sujeitos passivos que sejam micro e pequenas empresas, tal como definidas na Recomendação 2003/361/CE, da Comissão, de 6 de maio de 2003, a dedução prevista no n.º 2, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, é feita até à concorrência de 50 % da coleta do IRC.
-
-5 - Aplicando-se o regime especial de tributação de grupos de sociedades, a dedução prevista no n.º 1:
-
-a) Efetua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, com base na matéria coletável do grupo;
-
-b) É feita até 25 % do montante mencionado na alínea anterior e não pode ultrapassar, em relação a cada sociedade e por cada período de tributação, o limite de 25 % da coleta que seria apurada pela sociedade que realizou as aplicações relevantes caso não se aplicasse o regime especial de tributação de grupos de sociedades.
-
-6 - A dedução prevista no n.º 1 abrange as situações em que durante o período de tributação se encontram reunidos os requisitos previstos na legislação comercial para adiantamento por conta de lucros, não podendo essa dedução ser superior àquela que seria obtida com base no lucro apurado no final desse período de tributação.
+[Revogado.]
 
 > Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
 
@@ -710,7 +688,9 @@ b) É feita até 25 % do montante mencionado na alínea anterior e não pode ult
 
 > Alterado pelo/a Artigo 284.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
 
-### Artigo 30.º — Aplicações relevantes
+### Artigo 30.º — Aplicações relevantes (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - Consideram-se aplicações relevantes, para efeitos do presente regime, os ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:
 
@@ -748,41 +728,27 @@ b) Não sejam adquiridos a entidades com as quais existam relações especiais n
 
 > Nota: Artigo 360.º, Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31 As alterações dos prazos previstos no n.º 1 do artigo 29.º e no n.º 5 do artigo 30.º do CFI, são aplicáveis aos prazos em curso no primeiro dia do período de tributação relativo a 2020.
 
-### Artigo 31.º — Não cumulação
+### Artigo 31.º — Não cumulação (revogado)
 
-1 - Sem prejuízo do disposto no número seguinte, a DLRR não é cumulável, relativamente às mesmas aplicações relevantes elegíveis, com quaisquer outros benefícios fiscais ao investimento da mesma natureza.
-
-2 - A DLRR é cumulável com o regime de benefícios contratuais e com o RFAI, nos termos e condições previstos nos artigos 13.º e 25.º, respetivamente.
+[Revogado.]
 
 > Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
 
-### Artigo 32.º — Reserva especial por lucros retidos e reinvestidos
+### Artigo 32.º — Reserva especial por lucros retidos e reinvestidos (revogado)
 
-1 - Os sujeitos passivos que beneficiem da DLRR devem proceder à constituição, no balanço, de reserva especial correspondente ao montante dos lucros retidos e reinvestidos.
-
-2 - A reserva especial a que se refere o número anterior não pode ser utilizada para distribuição aos sócios antes do fim do quinto exercício posterior ao da sua constituição, sem prejuízo dos demais requisitos legais exigíveis.
+[Revogado.]
 
 > Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
 
-### Artigo 33.º — Outras obrigações acessórias
+### Artigo 33.º — Outras obrigações acessórias (revogado)
 
-1 - A dedução prevista no artigo 29.º é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC, que identifique discriminadamente o montante dos lucros retidos e reinvestidos, as aplicações relevantes objeto de reinvestimento, o respetivo montante e outros elementos considerados relevantes.
-
-2 - A contabilidade dos sujeitos passivos de IRC beneficiários da DLRR deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 29.º, mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao exercício em que se efetua a dedução.
+[Revogado.]
 
 > Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
 
-### Artigo 34.º — Incumprimento
+### Artigo 34.º — Incumprimento (revogado)
 
-Sem prejuízo do disposto no Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 15 de junho:
-
-a) A não concretização da totalidade do investimento nos termos previstos no artigo 30.º até ao termo do prazo de três anos previsto no n.º 1 do artigo 29.º implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente ao montante dos lucros não reinvestidos, ao qual é adicionado o montante de imposto a pagar relativo ao terceiro período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
-
-b) O incumprimento do disposto nos n.os 5, 6 ou 7 do artigo 30.º implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente aos ativos relativamente aos quais não seja exercida a opção de compra ou que sejam transmitidos antes de decorrido o prazo de cinco anos, o qual é adicionado ao montante de imposto a pagar relativo ao período em que se verifiquem esses factos, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
-
-c) A não constituição da reserva especial, nos termos do n.º 1 do artigo 32.º, implica a devolução do montante de imposto que deixou de ser liquidado, ao qual é adicionado o montante de imposto a pagar relativo ao terceiro período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
-
-d) O incumprimento do disposto no n.º 2 do artigo 32.º implica a devolução do montante de imposto que deixou de ser liquidado correspondente à parte da reserva que seja utilizada para distribuição aos sócios, ao qual é adicionado o montante de imposto a pagar relativo ao terceiro período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais.
+[Revogado.]
 
 > Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
 

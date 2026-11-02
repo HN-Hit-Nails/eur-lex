@@ -11,7 +11,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-34484875
 eli: https://data.dre.pt/eli/dec-lei/433/1982/p/cons/20251217/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 433/82
@@ -920,11 +920,9 @@ Quando, no decurso do processo, a autoridade administrativa decidir apreender qu
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 244/95 - Diário da República n.º 213/1995, Série I-A de 1995-09-14, em vigor a partir de 1995-10-01
 
-### Artigo 84.º — (Processo autónomo de apreensão)
+### Artigo 84.º — (Processo autónomo de apreensão) (revogado)
 
-1 - Nos casos de apreensão autónoma deverá a respectiva decisão da autoridade administrativa obedecer ao regime previsto no artigo 58.º, n.os 1, 2, alínea a), e 3, devidamente adaptado.
-
-2 - A competência para decidir da apreensão rege-se pelos critérios que fixam a competência para a aplicação de uma coima, sendo, além disso, competente a autoridade em cuja área se encontram os objectos a apreender.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 244/95 - Diário da República n.º 213/1995, Série I-A de 1995-09-14, em vigor a partir de 1990-01-15
 
@@ -934,21 +932,9 @@ A decisão de apreensão pode ser impugnada judicialmente, sendo aplicáveis as 
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 244/95 - Diário da República n.º 213/1995, Série I-A de 1995-09-14, em vigor a partir de 1995-10-01
 
-### Artigo 86.º — (Processo extraordinário de impugnação)
+### Artigo 86.º — (Processo extraordinário de impugnação) (revogado)
 
-1 - A requerimento do interessado, será admissível a impugnação extraordinária da decisão de apreensão, após o seu trânsito em julgado, quando o requerente sustente que:
-
-a) Ao tempo do trânsito em julgado da decisão era titular de um direito sobre o objecto, que foi atingido ou extinto pela apreensão;
-
-b) Não pôde, sem que tal se possa imputar a culpa sua, participar no processo que antecedeu a respectiva decisão, ou dele ter conhecimento.
-
-2 - O requerimento deverá ser apresentado perante a autoridade administrativa que decidiu a apreensão no prazo de 15 dias após o conhecimento do trânsito em julgado e nunca mais de 1 ano depois deste trânsito.
-
-3 - A decisão será da competência do tribunal da comarca em cuja área tem a sua sede a autoridade que ordenou a apreensão, aplicando-se o disposto no artigo 62.º
-
-4 - Antes da decisão, poderá o tribunal, com a concordância do representante do Ministério Público, revogar a ordem de apreensão sempre que se afigure que os custos do processo possam ser claramente desproporcionados.
-
-5 - Da decisão do tribunal cabe recurso para a relação, segundo os termos da presente lei, quando o valor do objecto exceda 50000$00.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 244/95 - Diário da República n.º 213/1995, Série I-A de 1995-09-14, em vigor a partir de 1990-01-15
 

@@ -7,7 +7,7 @@ data: '2025-12-04'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/recommendation/recommendations-22025-on-the-legal-basis-for-requiring-the-creation-of_en
 pdf: https://www.edpb.europa.eu/system/files/2025-12/edpb-recommendations-202502-mandatory-user-accounts_en.pdf
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

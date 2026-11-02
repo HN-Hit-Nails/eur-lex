@@ -14,7 +14,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34454075
 eli: https://data.dre.pt/eli/dec-lei/57/2008/p/cons/20230303/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 57/2008
@@ -377,9 +377,9 @@ h) Transmitir a impressão falsa de que o consumidor já ganhou, vai ganhar ou, 
 
 > Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
 
-### Artigo 15.º — Responsabilidade civil
+### Artigo 15.º — Responsabilidade civil (revogado)
 
-O consumidor lesado por efeito de alguma prática comercial desleal proibida nos termos do presente decreto-lei é ressarcido nos termos gerais.
+[Revogado.]
 
 > Revogado pelo/a Artigo 14.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
 

@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-117279941
 eli: https://data.dre.pt/eli/dec-lei/110/2018/p/cons/20260925/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 110/2018
@@ -3560,7 +3560,9 @@ Se os limites da localidade, região ou território a que uma certa denominaçã
 
 ## Subsecção I — Registo nacional
 
-### Artigo 301.º — Pedido
+### Artigo 301.º — Pedido (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - O pedido de registo das denominações de origem ou das indicações geográficas é feito em requerimento, redigido em língua portuguesa, no qual se indique:
 
@@ -3578,7 +3580,9 @@ d) A assinatura ou a identificação eletrónica do requerente ou do seu mandat�
 
 > Nota: Artigo 18.º, Decreto-Lei n.º 194/2026 - Diário da República n.º 187/2026, Série I de 2026-09-25 O disposto neste artigo é aplicável aos pedidos de registo das indicações geográficas de produtos artesanais e industriais que tenham sido apresentados antes de 1 de dezembro de 2025, e que não tenham sido ainda objeto de decisão.
 
-### Artigo 302.º — Fundamentos de recusa
+### Artigo 302.º — Fundamentos de recusa (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - Para além do que se dispõe no artigo 23.º, o registo das denominações de origem ou das indicações geográficas é recusado quando:
 

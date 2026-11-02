@@ -8,7 +8,7 @@ fonte: Agencia Estatal Boletín Oficial del Estado — API de dados abertos
 lingua: es
 consolidado_ate: '2026-10-29'
 versoes_futuras: []
-obtido_em: '2026-10-29'
+obtido_em: '2026-11-02'
 ---
 
 # Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.

@@ -1,7 +1,7 @@
 ---
 celex: 12016P/TXT
 parte: contexto
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Tratado 12016P/TXT — Carta dos Direitos Fundamentais — contexto

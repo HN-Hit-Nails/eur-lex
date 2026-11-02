@@ -12,7 +12,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-34444675
 eli: https://data.dre.pt/eli/dec-lei/403/1986/p/cons/20240403/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 403/86
@@ -99,17 +99,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Os registos não sujeitos a caducidade segundo a lei anterior podem ser renovados nos seis meses posteriores à data da entrada em vigor deste Código.
 
-### Artigo 3.º
+### Artigo 3.º — (revogado)
 
-1 - A aplicação do sistema de depósito e de fichas fica dependente da aprovação da Lei Orgânica do Registo de Comércio.
-
-2 - Para os actos de registo relativos a pessoas singulares ou colectivas já registadas podem ser transitoriamente utilizados os livros actualmente em vigor, escriturados nos mesmos termos que as fichas, com as adaptações necessárias.
-
-3 - Dentro das possibilidades de cada conservatória, até à total substituição dos livros e à medida que forem sendo pedidos novos actos de registo, serão extractados nas fichas os actos de registo em vigor que lhes digam respeito, com indicação dos respectivos números e anotando-se nos livros a abertura da ficha.
-
-4 - Durante um período transitório de três anos, a contar da entrada em vigor do presente Código, as publicações referidas nas alíneas a), b), d), e) e f) do n.º 1 do artigo 70.º do Código devem ser feitas não apenas nas folhas oficiais mencionadas nos n.os 2 e 3 desse artigo 70.º, como ainda num jornal da localidade da sede da sociedade ou, na falta deste, num dos jornais aí mais lidos.
-
-5 - Às publicações a que se refere a parte final do n.º 4 do presente artigo aplica-se o regime dos artigos 71.º e 72.º do Código, cabendo ao interessado indicar, no pedido de registo, o jornal em que pretende seja feita a publicação, com observância do disposto no número anterior.
+[Revogado.]
 
 > Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
 
@@ -655,41 +647,31 @@ No momento do registo do encerramento da liquidação ou da cessação de activi
 
 ## Capítulo II — Competência para o registo
 
-### Artigo 24.º — Competência relativa aos comerciantes individuais e aos estabelecimentos individuais de responsabilidade limitada
+### Artigo 24.º — Competência relativa aos comerciantes individuais e aos estabelecimentos individuais de responsabilidade limitada (revogado)
 
-1 - Para o registo dos comerciantes individuais é territorialmente competente a conservatória em cuja área estiver situado o estabelecimento principal ou, na falta deste, onde exercerem a actividade principal e para o registo dos estabelecimentos individuais de responsabilidade limitada a conservatória em cuja área estiver situada a respectiva sede.
-
-2 - As conservatórias da área da situação de qualquer representação de comerciante individual são exclusivamente competentes para o registo do mandato comercial.
+[Revogado.]
 
 > Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
 
-### Artigo 25.º — Competência relativa a pessoas colectivas
+### Artigo 25.º — Competência relativa a pessoas colectivas (revogado)
 
-1 - Para o registo das sociedades, cooperativas, empresas públicas, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico é territorialmente competente a conservatória em cuja área estiver situada a sua sede estatutária.
-
-2 - Para o registo das sociedades ou outras pessoas colectivas ou estabelecimentos de tipo correspondente a qualquer dos abrangidos por este Código com sede estatutária no estrangeiro, mas que tenham em Portugal a sede principal e efectiva da sua administração, é territorialmente competente a conservatória em cuja área estiver situada esta sede.
+[Revogado.]
 
 > Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
 
-### Artigo 25.º-A — Competência para o registo de fusão
+### Artigo 25.º-A — Competência para o registo de fusão (revogado)
 
-Para o registo da fusão de sociedades sediadas na área de diferentes conservatórias, ao abrigo das regras definidas no artigo anterior, ou para o registo de constituição de sociedade anónima europeia por fusão em cujo processo intervenham sociedades nas mesmas condições, é competente a conservatória da sede da sociedade incorporante ou da nova sociedade resultante da fusão.
+[Revogado.]
 
 > Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
 
 > Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
 
-### Artigo 26.º — Competência relativa às representações
+### Artigo 26.º — Competência relativa às representações (revogado)
 
-1 - Para o registo da representação permanente em Portugal de sociedades ou de outras pessoas colectivas de tipo correspondente a qualquer das abrangidas por este Código que tenham sede principal e efectiva da sua administração no estrangeiro, bem como do acto constitutivo da própria sociedade ou de outra pessoa colectiva, é competente a conservatória da área da situação dessa representação.
-
-2 - Para o registo de representações de pessoas colectivas sujeitas a registo com sede em Portugal e das demais representações de sociedades e de outras pessoas colectivas de tipo correspondente a qualquer dos abrangidos por este Código com sede no estrangeiro são competentes as conservatórias da área de situação dessas representações.
-
-3 - As conservatórias referidas no n.º 2 são exclusivamente competentes para o registo do mandato comercial de sociedades ou outras pessoas colectivas sujeitas a registo.
-
-4 - Para o registo do contrato de agência é competente a conservatória da área de situação da sede ou do estabelecimento do agente.
+[Revogado.]
 
 > Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
 
@@ -733,13 +715,9 @@ Para o registo da fusão de sociedades sediadas na área de diferentes conservat
 
 > Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
 
-### Artigo 28.º-A — Apresentação por notário
+### Artigo 28.º-A — Apresentação por notário (revogado)
 
-1 - O pedido de registo, subscrito pelos interessados, pode ser remetido ou apresentado directamente pelo notário na conservatória competente, acompanhado dos respectivos documentos e preparo, nos termos previstos na lei notarial.
-
-2 - Após a anotação da apresentação, é devolvido ao notário um documento comprovativo da apresentação efectuada.
-
-3 - No prazo de cinco dias após a feitura do registo, os documentos que não devam ficar depositados são devolvidos aos interessados juntamente com certidão dos registos em vigor e o excesso de preparo, se o houver.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -935,15 +913,15 @@ c) O pedido de fixação da data da celebração do contrato e de notificação 
 
 O registo de constituição de empresas públicas efectua-se em face do decreto que a determinou.
 
-### Artigo 38.º — Agrupamento complementar de empresas
+### Artigo 38.º — Agrupamento complementar de empresas (revogado)
 
-O registo do contrato de agrupamento complementar de empresas efectua-se em face da respectiva escritura e do certificado de admissibilidade da firma adoptada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
 
-### Artigo 39.º — Agrupamento europeu de interesse económico
+### Artigo 39.º — Agrupamento europeu de interesse económico (revogado)
 
-O registo do contrato de agrupamento europeu de interesse económico efectua-se em face do documento que titula a sua constituição, bem como, quando constituído em Portugal, do certificado de admissibilidade da denominação adoptada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
 
@@ -963,9 +941,9 @@ O registo do contrato de agrupamento europeu de interesse económico efectua-se 
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
 
-### Artigo 41.º — Estabelecimento individual de responsabilidade limitada
+### Artigo 41.º — Estabelecimento individual de responsabilidade limitada (revogado)
 
-O registo do estabelecimento individual de responsabilidade limitada efectua-se em face da respectiva escritura, do relatório a que se refere o n.º 6 do artigo 3.º do Decreto-Lei n.º 248/86, de 25 de Agosto, se for caso disso, bem como dos documentos comprovativos de estar cumprido o disposto no n.º 4 do mesmo artigo 3.º e do certificado de admissibilidade da firma do estabelecimento adoptada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
 
@@ -2293,13 +2271,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 > Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
 
-### Artigo 89.º — Emolumentos
+### Artigo 89.º — Emolumentos (revogado)
 
-1 - Quando não haja motivo para indeferimento liminar, são os requerentes notificados para efectuarem o pagamento dos emolumentos que sejam devidos pela instrução e decisão do processo.
-
-2 - O pagamento desses emolumentos é efectuado no prazo de cinco dias a contar da data da notificação, podendo ainda os requerentes efectuá-lo nos oito dias após o termo deste prazo com agravamento de 20%.
-
-3 - Findo este último prazo sem que o pagamento se mostre efectuado, o conservador declara o processo findo e do respectivo despacho notifica os requerentes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -2389,9 +2363,9 @@ Após o trânsito em julgado da sentença ou do acórdão proferidos, o tribunal
 
 > Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
 
-### Artigo 93.º-C — Gratuitidade do registo e custas
+### Artigo 93.º-C — Gratuitidade do registo e custas (revogado)
 
-O registo da rectificação é gratuito, salvo se se tratar de inexactidão proveniente de deficiência dos títulos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 

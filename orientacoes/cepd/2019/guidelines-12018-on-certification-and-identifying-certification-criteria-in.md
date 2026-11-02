@@ -7,7 +7,7 @@ data: '2019-06-04'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-12018-on-certification-and-identifying-certification-criteria-in_en
 pdf: https://www.edpb.europa.eu/system/files/consultation/edpb_guidelines_1_2018_certification_en.pdf
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
@@ -19,13 +19,25 @@ fonte: © Comité Europeu para a Proteção de Dados — reutilização autoriza
 ## Texto
 
 ```text
-e
-    et Guidelines 1/2018 on certification and identifying
+ob     Guidelines 1/2018 on certification and identifying
  certification criteria in accordance with Articles 42 and 43 of
-    l                the Regulation 2016/679
+
+
+
+
   so
+                     the Regulation 2016/679
+
+
+
+
+    l
                     Adopted on 25 May 2018
-ob
+
+
+
+
+    ete
 
  Contents
 
@@ -38,29 +50,40 @@ ob
 
 
 
-      e
+ob
  1.3.2.       Certification mechanisms, seals and marks ................................................................ 5
  2.     The role of the supervisory authorities ............................................................................. 6
+ 2.1 Supervisory Authority as certification body ...................................................................... 6
+ 2.2 Supervisory Authority’s further tasks regarding certification ........................................... 7
+ 3.     The role of a certification body.......................................................................................... 8
+
+
+
+
+  so
+ 4.     The approval of certification criteria ................................................................................. 8
+ 4.1. Time of approval ................................................................................................................ 9
+ 4.2. The competent supervisory authority ............................................................................... 9
+ 4.3. The European Data Protection Seal ................................................................................... 9
+
+
+
+
+    l
+ 5.     The development of certification criteria ........................................................................ 10
 
 
 
 
     et
- 2.1 Supervisory Authority as certification body ...................................................................... 6
- 2.2 Supervisory Authority’s further tasks regarding certification ........................................... 7
- 3.     The role of a certification body.......................................................................................... 8
- 4.
-    l   The approval of certification criteria ................................................................................. 8
- 4.1. Time of approval ................................................................................................................ 9
- 4.2. The competent supervisory authority ............................................................................... 9
-  so
- 4.3. The European Data Protection Seal ................................................................................... 9
- 5.     The development of certification criteria ........................................................................ 10
  5.1. What can be certified under the GDPR? .......................................................................... 11
  5.2. Determining the object of certification ........................................................................... 12
  5.3. Evaluation methods and methodology of assessment .................................................... 14
-ob
 
+
+
+
+      e
  5.4. Documentation of assessment ........................................................................................ 15
  5.5. Documentation of results ................................................................................................ 15
  6.     Guidance for defining certification criteria ..................................................................... 16
@@ -86,28 +109,39 @@ ob
 
 
 
-      e
+ob
  1. Introduction
+ The General Data Protection Regulation (Regulation 2016/279, ‘the GDPR’, or ‘the Regulation’),
+ provides a modernised, accountability and fundamental rights compliance framework for data
+ protection in Europe. A range of measures that facilitate compliance with the provisions of the GDPR
+
+
+
+
+  so
+ are central to this new framework. These include mandatory requirements in specific circumstances
+ (including the appointment of Data Protection Officers and carrying out data protection impact
+ assessments) and voluntary measures such as codes of conduct and certification mechanisms.
+
+
+
+
+    l
+ Before the adoption of the GDPR, the Article 29 Working Party established that certification could play
 
 
 
 
     et
- The General Data Protection Regulation (Regulation 2016/279, ‘the GDPR’, or ‘the Regulation’),
- provides a modernised, accountability and fundamental rights compliance framework for data
- protection in Europe. A range of measures that facilitate compliance with the provisions of the GDPR
- are central to this new framework. These include mandatory requirements in specific circumstances
-    l
- (including the appointment of Data Protection Officers and carrying out data protection impact
- assessments) and voluntary measures such as codes of conduct and certification mechanisms.
-  so
- Before the adoption of the GDPR, the Article 29 Working Party established that certification could play
  an important role in the accountability framework for data protection.1 In order for certification to
  provide reliable evidence of data protection compliance, clear rules setting forth requirements for the
  provision of certification should be in place.2 Article 42 of the GDPR provides the legal basis for the
  development of such rules.
-ob
 
+
+
+
+      e
  Article 42(1) of the GDPR provides that:
 
 
@@ -144,30 +178,41 @@ ob
 
 
 
-      e
+ob
  GDPR. Member States and supervisory authorities are called to encourage the establishment of
  certification mechanisms and will determine the stakeholder engagement in the certification process
-
-
-
-
-    et
  and lifecycle.
 
 
 
  Furthermore, the adherence to approved certification mechanisms is a factor supervisory authorities
-    l
+
+
+
+
+  so
  must consider as an aggravating or mitigating factor when deciding to impose an administrative fine
  and when deciding on the amount of the fine (Article 83.2(j)).5
-  so
+
+
+
+
      1.1.          Scope of the guidelines
+
+
+
+
+    l
+    et
  These guidelines are limited in scope; they are not a procedural manual for certification in accordance
  with the GDPR. The primary aim of these guidelines is to identify overarching criteria that may be
  relevant to all types of certification mechanisms issued in accordance with Articles 42 and 43 of the
  GDPR. To this end, the guidelines:
-ob
 
+
+
+
+      e
         explore the rationale for certification as an accountability tool;
         explain the key concepts of the certification provisions in Articles 42 and 43; and
         explain the scope of what can be certified under Articles 42 and 43 and the purpose
@@ -207,28 +252,35 @@ ob
 
 
 
-      e
+ob
          purpose of specifying the requirements to be taken into account for certification
-
-
-
-
-    et
          mechanisms under Article 43(8);
         the EDPB when providing the European Commission with an opinion on the
          certification requirements in accordance with Article 70(1)(q) and Article 43(8);
         national accreditation bodies, which will need to take into account certification criteria
-    l
+
+
+
+
+  so
          with a view to the accreditation of certification bodies in accordance with EN-ISO/IEC
          17065/2012 and the additional requirements in accordance with Article 43; and
-         controllers and processors when defining their own GDPR compliance strategy and
+        controllers and processors when defining their own GDPR compliance strategy and
          considering certification as a means to demonstrate compliance.
-  so
+
+
+
+
+    l
+    et
  The EDPB will publish separate guidelines to address the identification of criteria to approve
  certification mechanisms as transfer tools to third countries or international organisations in
  accordance with Article 42(2).
-ob
 
+
+
+
+      e
      1.2.         The purpose of certification under the GDPR
  Article 42(1) provides that certification mechanisms shall be established “for the purpose of
  demonstrating compliance with this Regulation of processing operations by controllers and
@@ -267,27 +319,44 @@ ob
 
 
 
-      e
+ob
  conclusions, judgments, or inferences from facts or premises collected during certification.
 
 
 
 
-    et
      1.3.         Key concepts
  The following section explores the key concepts in Articles 42 and 43. This analysis develops an
- understanding of basic terms and the scope of certification under the GDPR.
-    l    1.3.1.            Interpretation of “certification”
- The GDPR does not define “certification”. The International Standards Organisation (ISO) provides a
+
+
+
+
   so
+ understanding of basic terms and the scope of certification under the GDPR.
+
+         1.3.1.            Interpretation of “certification”
+ The GDPR does not define “certification”. The International Standards Organisation (ISO) provides a
  universal definition of certification as “the provision by an independent body of written assurance (a
+
+
+
+
+    l
  certificate) that the product, service or system in question meets specific requirements.” Certification
+
+
+
+
+    et
  is also known as “third party conformity assessment” and certification bodies can also be referred to
  as “conformity assessment bodies” (CABs).8 In EN-ISO/IEC 17000:2004 - Conformity assessment --
  Vocabulary and general principles (to which ISO17065 refers) - certification is defined in the following
  terms: “third party attestation… related to products, processes, and services”.
-ob
 
+
+
+
+      e
  Attestation is an ‘issue of a statement, based on a decision following review, that fulfilment of specific
  requirements has been demonstrated’ (section 5.2, ISO 17000:2004).
 
@@ -330,31 +399,42 @@ ob
 
 
 
-      e
+ob
  Article 42(5) provides that certification shall be issued by an accredited certification body or by a
  competent supervisory authority. The GDPR does not make the issuance of certifications a mandatory
+ task of the supervisory authorities.11 Instead, the GDPR allows for a number of different models. For
+ example, a supervisory authority may decide for one or more of the following options:
+
+         issue certification itself, in respect of its own certification scheme;
+
+
+
+
+  so
+         issue certification itself, in respect of its own certification scheme, but delegate whole
+          or part of the assessment process to third parties;
+         create its own certification scheme, and entrust certification bodies with the
+          certification procedure which issue the certification;
+      
+
+
+
+
+    l
+          encourage the market to develop certification mechanisms.
 
 
 
 
     et
- task of the supervisory authorities.11 Instead, the GDPR allows for a number of different models. For
- example, a supervisory authority may decide for one or more of the following options:
-
-         issue certification itself, in respect of its own certification scheme;
-    l    issue certification itself, in respect of its own certification scheme, but delegate whole
-          or part of the assessment process to third parties;
-         create its own certification scheme, and entrust certification bodies with the
-          certification procedure which issue the certification;
-  so
-         encourage the market to develop certification mechanisms.
-
-
  A supervisory authority will also have to consider its role in the light of the decisions made at the
  national level concerning accreditation mechanisms – in particular if the supervisory authority itself is
  empowered to accredit certification bodies under Article 43(1) GDPR. Thus each supervisory authority
-ob
 
+
+
+
+      e
  will determine which approach to take in order to pursue the broad intent of certification under the
  GDPR. This will be determined in the context of not only the tasks and powers in Articles 57 and 58,
  but also in accounting for certification as a factor to be taken into account in determining
@@ -394,32 +474,40 @@ ob
 
 
 
-      e
+ob
  evaluation, monitoring, and review including access to information and/or premises, documentation
  and publication of reports and results, and investigation of complaints. Further, it is reasonable to
-
-
-
-
-    et
  follow the requirements and criteria as set forward in the guidelines for accreditation of certification
  bodies in addition to the requirements pursuant to Article 43(2).
 
 
 
-    l  2.2 Supervisory                        Authority’s             further         tasks   regarding
+
+  so
+       2.2 Supervisory                        Authority’s             further         tasks   regarding
  certification
  In Member States where certification bodies become active, the supervisory authority has the power
-  so
  and task irrespective of its own activities:
 
+
+
+
+    l
          to communicate to the Board the draft decision when it aims to approve the criteria
+
+
+
+
+    et
           for certification pursuant to 43(3), 64(1)(c);
          to approve of the criteria for certification (Article 58(3)(f)) before accreditation and
           certification can take place (Article 42(5), 43(2)(b)); and
-ob
-
          to order a certification body (a) not to issue certification or (b) to withdraw
+
+
+
+
+      e
           certification where the requirements for certification are not or no longer met (Article
           58(2)(h).
 
@@ -457,28 +545,39 @@ ob
 
 
 
-      e
+ob
  organisation's certification status is known by supervisory authorities.
 
 
 
 
-    et
  3. The role of a certification body
  A certification bodies’ role is to issue, review, renew, and withdraw certifications (Article 42(5), (7)) on
  the basis of a certification mechanism and approved criteria (Article 43(1)). This requires the
-    l
+
+
+
+
+  so
  certification body or a certification scheme owner13 to determine and set up certification procedures,
  including procedures for monitoring, reviewing, handling complaints, and withdrawal as well as to
  present for the purpose of accreditation certification criteria to determine the rules (procedures)
  under which certifications, seals, or marks are issued (Article 43(2)(c)).
-  so
+
+
+
+
+    l
+    et
  The existence of a certification mechanism and certification criteria are necessary for the certification
  body to achieve accreditation under Article 43. Yet, a major impact on what a certification body does
  specifically arises from the scope and type of certification criteria which have impact on the
-ob
-
  certification procedures and vice versa. Specific criteria may for example require specific methods of
+
+
+
+
+      e
  evaluation (e.g., on-site inspections, code review). These procedures are mandatory for accreditation
  and are further explained in the guidelines on accreditation.14
 
@@ -520,27 +619,42 @@ ob
 
 
 
-      e
+ob
  certification criteria.
 
 
 
 
-    et
      4.1.         Time of approval
  Certification criteria must be approved by the competent supervisory authority prior or during the
- accreditation process. Approval is also required for updated and further schemes or sets of criteria
-    l
- under ISO 17065 prior to their application in certification mechanisms (Article 42(5), 43(2)(b)).
+
+
+
+
   so
+ accreditation process. Approval is also required for updated and further schemes or sets of criteria
+ under ISO 17065 prior to their application in certification mechanisms (Article 42(5), 43(2)(b)).
+
+
+
+
      4.2.         The competent supervisory authority
+
+
+
+
+    l
+    et
  A certification body can only issue certification in a particular Member State in accordance with the
  criteria approved by the supervisory authority in that Member State. In other words, certification
  criteria need to be approved by the competent supervisory authority where the certification body
  aims to offer certification and obtains the accreditation. Alternatively, a certification body can also
-ob
-
  issue certification in accordance with criteria approved by the EDPB, which may result in a European
+
+
+
+
+      e
  Data Protection Seal.
 
 
@@ -579,30 +693,35 @@ ob
 
 
 
-      e
+ob
                   requirements and sector specific regulations;
          description of the certification mechanism specifying;
-
-
-
-
-    et
               o the certification agreements, recognizing pan-European requirements;
               o the language of the reports addressing all affected supervisory authorities.
 
 
+
+
+  so
  If certification criteria have been approved by the Board pursuant to Article 42(5), accredited
-    l
  certification bodies may conduct certification under these criteria on Union level. The criteria under
  such a pan-European certification mechanism may cover data processing operations carried out across
  Member States.
-  so
+
+
+
+
+    l
+    et
  5. The development of certification criteria
  The GDPR established the framework for the development of certification criteria. Whereas
  fundamental requirements concerning the procedure of certification are addressed in Articles 42 and
-ob
-
  43 while also providing essential criteria for certification procedures, the basis for certification criteria
+
+
+
+
+      e
  must be derived from the GDPR principles and rules and help to provide assurance that they are
  fulfilled.
 
@@ -639,32 +758,43 @@ ob
 
 
 
-      e
+ob
  The extent to which these considerations are reflected in the criteria may vary depending on the scope
  of certification which may include the type of processing operation(s) and the area (e.g. health sector)
-
-
-
-
-    et
  of certification.
 
 
 
 
-    l 5.1.        What can be certified under the GDPR?
+      5.1.        What can be certified under the GDPR?
+
+
+
+
+  so
  The EDPB considers that the GDPR provides a broad scope for what can be certified under the GDPR,
  as long as the focus is on helping demonstrate compliance with this Regulation of processing
  operations by controllers and processors (Article 42.1).
-  so
+
+
+
+
+    l
  When assessing a processing operation, the following three core components must be considered,
  where applicable:
 
+
+
+
+    et
       1. personal data (material scope of the GDPR);
       2. technical systems - the infrastructure, such as hardware and software, used to process
          the personal data; and
-ob
 
+
+
+
+      e
       3. processes and procedures related to the processing operation(s).
 
 
@@ -703,31 +833,41 @@ ob
 
 
 
-      e
+ob
  product, process or a service in the terminology of ISO.
+
+
+ On the basis of these considerations, the EDPB considers that the scope of certification under the
+ GDPR is directed to processing operations or sets of operations. These may comprise of governance
+ processes in the sense of organisational measures, hence as integral parts of a processing operation
+
+
+
+
+  so
+ (e.g. the governance process established for complaints’ handling as part of the processing of
+ employee data for the purpose of salary payment).
+
+
+
+
+    l
+ In order to assess the compliance of the processing operation with the certification criteria, a use case
+ must be provided. For example, compliance of the use of a technical infrastructure deployed in a
 
 
 
 
     et
- On the basis of these considerations, the EDPB considers that the scope of certification under the
- GDPR is directed to processing operations or sets of operations. These may comprise of governance
- processes in the sense of organisational measures, hence as integral parts of a processing operation
-    l
- (e.g. the governance process established for complaints’ handling as part of the processing of
- employee data for the purpose of salary payment).
-  so
- In order to assess the compliance of the processing operation with the certification criteria, a use case
- must be provided. For example, compliance of the use of a technical infrastructure deployed in a
  processing operation depends on the categories of data it is designed to process. Organisational
  measures depend on the categories and amount of data and the technical infrastructure used for
  processing, taking into account the nature, scope, content and purposes of the processing as well as
-ob
-
  the risks to the rights and freedoms of the concerned individuals.
 
 
 
+
+      e
  Moreover, it must be kept in mind that IT applications can differ widely even though serving the same
  processing purposes. Therefore, this must be considered when defining the scope of the certification
  mechanisms and drafting the certification criteria, i.e. the scope of certification and criteria should not
@@ -766,32 +906,41 @@ ob
 
 
 
-      e
+ob
             A bank offers to its customers a website for the purpose of online banking. In the framework of this
-
-
-
-
-    et
             service, there is the possibility to make transfers, buy shares, initiate standing orders and manage the
             account. The bank wishes to certify the following under a data protection certification mechanism with
             a general scope based on generic criteria:
 
 
-    l       a)   Secure log-in
+
+
+  so
+            a)   Secure log-in
                  Secure log-in is a processing operation which is understandable for the end user and which is
                  relevant from a data protection perspective since it plays an important part in ensuring the security
                  of personal data involved. Therefore, this processing operation is necessary for secure log-in and
-  so
                  can thus constitute a meaningful ToE if the certificate states clearly that only the log-in processing
+
+
+
+
+    l
                  operation is certified.
 
+
+
+
+    et
             b) Web front-end
                Whereas the web front-end can be relevant from a data protection perspective it is not
                understandable by the end user and therefore cannot be a meaningful ToE. Moreover, it is not
-ob
-
                clear to the user which services on the website and thus processing operations are covered by the
+
+
+
+
+      e
                certification.
 
             c)   Online banking
@@ -833,38 +982,47 @@ ob
 
 
 
-      e
+ob
             acceptable ways to obtain the data to be aggregated from other banks/services.
 
-
-
-
-    et
          Since the scope of this certification mechanism defines the ToE by itself, it is not possible to
          meaningfully narrow down the ToE under the proposed scope.
 
 
 
 
-    l5.3.         Evaluation methods and methodology of assessment
+  so
+     5.3.         Evaluation methods and methodology of assessment
  A conformity assessment to help demonstrate compliance of processing operations requires
  identifying and determining the methods for evaluation and the methodology of assessment. It
  matters whether the information for the assessment is collected from documentation only or whether
-  so
  it is actively collected on site and by direct or indirect access. The way in which information is collected
+
+
+
+
+    l
  has consequences for the significance of certification and should therefore be defined and described.
 
 
 
- Procedures for the issuance and periodic review of certifications should include specifications to
-ob
 
+    et
+ Procedures for the issuance and periodic review of certifications should include specifications to
  identify the appropriate level of evaluation (depth and granularity) to meet the certification criteria
+
+
+
+
+      e
  and should include the provision of:
 
-        information about and specification of the applied testing methods and findings
+     
+
+     
+         information about and specification of the applied testing methods and findings
          collected e.g. during on site audits or from documentation,
-        evaluation methods focussing on the processing operations (data, systems, processes)
+         evaluation methods focussing on the processing operations (data, systems, processes)
          and the purpose of processing,
          identification of the categories of data, the protection needs and whether processors
          or third parties are involved,
@@ -893,25 +1051,42 @@ ob
 
 
 
-      e
-    et
+ob
  Comprehensive documentation of what has been certified and the methodology used serves
  transparency. Pursuant to Article 43(2)(c), certification mechanisms should establish procedures that
  allow the review of certifications. In order to allow the supervisory authority to assess whether and to
  what extent the certification can be acknowledged in formal investigations, detailed documentation
+
+
+
+
+  so
  may be the most appropriate means to communicate. The documentation produced during evaluation
-    l
  should therefore focus on three main aspects:
 
            consistency and coherence of evaluation methods executed;
-  so
            evaluation methods directed to demonstrate compliance of the certification object
+
+
+
+
+    l
             with the certification criteria and thus with the Regulation; and
+
+
+
+
+    et
            that the results of evaluation have been validated by an independent and impartial
             certification body.
-ob
+
 
         5.5.           Documentation of results
+
+
+
+
+      e
  Recital 100 provides information on the objectives pursued with the introduction of certification.
 
             “In order to enhance transparency and compliance with this Regulation, the establishment of
@@ -947,30 +1122,43 @@ ob
 
 
 
-      e
+ob
  The following general considerations should be taken into account when approving or defining
  certification criteria. Certification criteria should:
+
+        be uniform and verifiable,
+        auditable in order to facilitate the evaluation of processing operations under the
+         GDPR, by specifying in particular, the objectives and the implementing guidance for
+
+
+
+
+  so
+         achieving those objectives;
+        be relevant with respect to the targeted audience (e.g. B2B and business to customer
+         (B2C));
+        take into account and where appropriate be inter-operable with other standards (such
+         as ISO standards, national level standards); and
+
+
+
+
+    l
+        be flexible and scalable for application to different types and sizes of organisations
 
 
 
 
     et
-        be uniform and verifiable,
-        auditable in order to facilitate the evaluation of processing operations under the
-         GDPR, by specifying in particular, the objectives and the implementing guidance for
-    l    achieving those objectives;
-        be relevant with respect to the targeted audience (e.g. B2B and business to customer
-         (B2C));
-        take into account and where appropriate be inter-operable with other standards (such
-  so
-         as ISO standards, national level standards); and
-        be flexible and scalable for application to different types and sizes of organisations
          including micro, small and medium sized enterprises in accordance with Article 42(1)
          and the risk-based approach in accordance with Recital 77.
  A small local company, such as a retailer, will carry out less complex processing operations. While the
-ob
-
  requirements for the legitimacy of the processing operations are the same, the scope of data
+
+
+
+
+      e
  processing and its complexity must be taken into account; it follows that there is a need for
  certification mechanisms and criteria that are, scalable according to the processing activity in
  question.
@@ -1006,31 +1194,43 @@ ob
 
 
 
-      e
+ob
          name raises the expectation that data protection requirements in connection with health data
          have been examined. Accordingly, the criteria of this mechanism must be adequate for
-
-
-
-
-    et
          assessing data protection requirements in this sector.
 
          [Example 4]
 
          A mechanism that relates to the certification of processing operations comprising governance
-    l    systems in data processing should identify criteria that allow for the recognition and
+
+
+
+
+  so
+         systems in data processing should identify criteria that allow for the recognition and
          assessment of governance processes and its supporting technical and organisational
          measures.
-  so
+
          [Example 5]
 
+
+
+
+    l
          The criteria for a mechanism that relates to cloud computing needs to take account of the
+
+
+
+
+    et
          special technical requirements necessary for the use of cloud-based services. For instance, if
          servers are used outside the EU, the criteria must consider the conditions laid down in Chapter
          V of the GDPR with respect to data transfers to third-countries.
-ob
 
+
+
+
+      e
  Criteria designed to fit different ToEs in different sectors and/or Member States should: allow an
  application to different scenarios; allow identification of the adequate measures to fit small, medium,
  or large processing operations and reflect the risks of varying likelihood and severity to the rights and
@@ -1065,19 +1265,15 @@ ob
 
 
 
-      e
+ob
  (Andrea Jelinek)
 
 
 
 
-    et
-    l
   so
-ob
-
-
-
+    l
+    ete
                                                                                         18
 
  Annex: Tasks and powers of supervisory authorities in relation to
@@ -1092,32 +1288,43 @@ ob
 
 
 
-      e
+ob
                              transmit them to the Board.
           Article 57(1)(n)   Requires the supervisory authority to approve certification
-
-
-
-
-    et
                              criteria pursuant to Article 42(5).
 
  Tasks
           Article 57(1)(o)   Provides that where appropriate (i.e. where it issues
                              certification), it shall carry out a periodic review of certification
-    l     Article 64(1)(c)
+
+
+
+
+  so
                              issued in accordance with Article 42(7).
 
-                             Requires the supervisory authority to communicate the draft
-  so
+          Article 64(1)(c)   Requires the supervisory authority to communicate the draft
                              decision to the Board, when it aims to approve the criteria for
+
+
+
+
+    l
                              certification referred to in Article 42(5).
+
+
+
+
+    et
           Article 58(1)(c)   Provides that the supervisory authority has the power to carry
                              out reviews of certification pursuant to Article 42(7);
 
           Article 58(2)(h)   Provides that the supervisory authority has the power to
-ob
 
+
+
+
+      e
                              withdraw or order the certification body to withdraw
                              certification or order the certification body not to issue
  Powers                      certification.

@@ -7,7 +7,7 @@ data: '2026-07-08'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-022026-on-anonymisation_en
 pdf: https://www.edpb.europa.eu/system/files/2026-09/edpb_guidelines_202602_anonymisation_v1_en_0.pdf
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

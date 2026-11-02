@@ -16,7 +16,7 @@ repertorio:
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:31985L0374
 lingua: pt
 fonte: cellar:text/html
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Diretiva 31985L0374 — Responsabilidade por produtos defeituosos (antiga)

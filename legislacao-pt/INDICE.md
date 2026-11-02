@@ -2,7 +2,7 @@
 
 Diplomas que Portugal comunicou à Comissão Europeia como transpondo as diretivas do corpus (dados do Cellar), com o texto obtido no Diário da República Eletrónico. Gerado por `python3 ferramentas/dre.py tudo`.
 
-Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (texto não incluído).
+Estado: 124 original (DRE); 121 consolidado (DRE); 52 excluída; 19 revogado (texto não incluído).
 
 ## [31985L0374](../corpus/produtos-e-cosmeticos/) Responsabilidade por produtos defeituosos (antiga)
 
@@ -375,11 +375,11 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 - [Decreto-Lei n.º 86-A/2016](decreto-lei-86-a-2016.md) — consolidado (DRE), consolidado a 2026-05-26 — Define o regime da formação profissional na Administração Pública
 - [Lei n.º 35/2014](lei-35-2014.md) — consolidado (DRE), consolidado a 2024-01-10 — Lei Geral do Trabalho em Funções Públicas
 - [Lei n.º 29/2013](lei-29-2013.md) — original (DRE) — Estabelece os princípios gerais aplicáveis à mediação realizada em Portugal, bem como os regimes jurídicos da mediação civil e comercial, dos mediadores e da mediação pública
+- [Decreto Regulamentar n.º 47/2012](decreto-regulamentar-47-2012.md) — consolidado (DRE), consolidado a 2026-02-13 — Aprova a orgânica da Autoridade para as Condições do Trabalho
 - [Lei n.º 107/2009](lei-107-2009.md) — consolidado (DRE), consolidado a 2023-05-29 — Aprova o regime processual aplicável às contra-ordenações laborais e de segurança social
 - [Lei n.º 7/2009](lei-7-2009.md) — consolidado (DRE), consolidado a 2025-03-27 — Aprova a revisão do Código do Trabalho
 - [Decreto-Lei n.º 480/99](decreto-lei-480-1999.md) — consolidado (DRE), consolidado a 2024-11-07 — Aprova o Código de Processo do Trabalho
 - [Decreto-Lei n.º 47344](decreto-lei-47344-1966.md) — consolidado (DRE), consolidado a 2026-06-23 — Aprova o Código Civil e regula a sua aplicação - Revoga, a partir da data da entrada em vigor do novo Código Civil, toda a legislação civil relativa às matérias que o mesmo abrange
-- Decreto Regulamentar 47/2012 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
 - Code CRP — excluída: código sem correspondência (CRP)
 - Medidas administrativas 13/2023 — excluída: declaração de retificação (registada no Cellar como Medidas administrativas)
 
@@ -387,21 +387,18 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 
 - [Decreto-Lei n.º 53/2023](decreto-lei-53-2023.md) — original (DRE) — Procede à regulamentação da Agenda do Trabalho Digno
 - [Lei n.º 13/2023](lei-13-2023.md) — consolidado (DRE), consolidado a 2023-05-29 — Altera o Código do Trabalho e legislação conexa, no âmbito da agenda do trabalho digno
+- [Decreto Regulamentar n.º 1/2022](decreto-regulamentar-1-2022.md) — consolidado (DRE), consolidado a 2025-12-29 — Estabelece os termos e as condições do reconhecimento do estatuto de cuidador informal bem como as medidas de apoio aos cuidadores informais e às pessoas cuidadas
 - [Lei n.º 100/2019](lei-100-2019.md) — consolidado (DRE), consolidado a 2025-12-29 — Aprova o Estatuto do Cuidador Informal, altera o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social e a Lei n.º 13/2003, de 21 de maio
 - [Lei n.º 35/2014](lei-35-2014.md) — consolidado (DRE), consolidado a 2024-01-10 — Lei Geral do Trabalho em Funções Públicas
+- [Decreto Regulamentar n.º 47/2012](decreto-regulamentar-47-2012.md) — consolidado (DRE), consolidado a 2026-02-13 — Aprova a orgânica da Autoridade para as Condições do Trabalho
 - [Decreto-Lei n.º 76/2012](decreto-lei-76-2012.md) — revogado (texto não incluído) — Aprova a orgânica da Comissão para a Igualdade no Trabalho e no Emprego
+- [Decreto Regulamentar n.º 1/2012](decreto-regulamentar-1-2012.md) — original (DRE) — Aprova a orgânica da Comissão para a Cidadania e a Igualdade de Género
 - [Lei n.º 107/2009](lei-107-2009.md) — consolidado (DRE), consolidado a 2023-05-29 — Aprova o regime processual aplicável às contra-ordenações laborais e de segurança social
 - [Decreto-Lei n.º 91/2009](decreto-lei-91-2009.md) — consolidado (DRE), consolidado a 2026-08-13 — Estabelece o regime jurídico de protecção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade e revoga o Decreto-Lei n.º 154/88, de 29 de Abril, e o Decreto-Lei 
 - [Lei n.º 7/2009](lei-7-2009.md) — consolidado (DRE), consolidado a 2025-03-27 — Aprova a revisão do Código do Trabalho
 - [Lei n.º 74/98](lei-74-1998.md) — consolidado (DRE), consolidado a 2014-07-11 — Publicação, identificação e formulário dos diplomas
 - [Decreto-Lei n.º 47344](decreto-lei-47344-1966.md) — consolidado (DRE), consolidado a 2026-06-23 — Aprova o Código Civil e regula a sua aplicação - Revoga, a partir da data da entrada em vigor do novo Código Civil, toda a legislação civil relativa às matérias que o mesmo abrange
-- Decreto Regulamentar 47/2012 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
-- Decreto Regulamentar 1/2012 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
-- Decreto Regulamentar 1/2022 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
 - Code CRP — excluída: código sem correspondência (CRP)
-- Decreto Regulamentar 47/2012 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
-- Decreto Regulamentar 1/2012 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
-- Decreto Regulamentar 1/2022 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
 - Code CRP — excluída: código sem correspondência (CRP)
 - Medidas administrativas 13/2023 — excluída: declaração de retificação (registada no Cellar como Medidas administrativas)
 - Medidas administrativas 13/2023 — excluída: declaração de retificação (registada no Cellar como Medidas administrativas)
@@ -427,6 +424,7 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 - [Decreto-Lei n.º 4/2015](decreto-lei-4-2015.md) — consolidado (DRE), consolidado a 2023-02-28 — No uso da autorização legislativa concedida pela Lei n.º 42/2014, de 11 de julho, aprova o novo Código do Procedimento Administrativo
 - [Lei n.º 35/2014](lei-35-2014.md) — consolidado (DRE), consolidado a 2024-01-10 — Lei Geral do Trabalho em Funções Públicas
 - [Lei n.º 41/2013](lei-41-2013.md) — consolidado (DRE), consolidado a 2026-08-06 — Aprova o Código de Processo Civil
+- [Decreto Regulamentar n.º 47/2012](decreto-regulamentar-47-2012.md) — consolidado (DRE), consolidado a 2026-02-13 — Aprova a orgânica da Autoridade para as Condições do Trabalho
 - [Decreto-Lei n.º 136/2012](decreto-lei-136-2012.md) — consolidado (DRE), consolidado a 2026-07-28 — Aprova a orgânica do Instituto Nacional de Estatística, I. P.
 - [Decreto-Lei n.º 96/2012](decreto-lei-96-2012.md) — original (DRE) — Aprova a orgânica da Inspeção-Geral de Finanças
 - [Lei n.º 107/2009](lei-107-2009.md) — consolidado (DRE), consolidado a 2023-05-29 — Aprova o regime processual aplicável às contra-ordenações laborais e de segurança social
@@ -434,6 +432,7 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 - [Lei n.º 22/2008](lei-22-2008.md) — original (DRE) — Lei do Sistema Estatístico Nacional
 - [Decreto-Lei n.º 18/2008](decreto-lei-18-2008.md) — consolidado (DRE), consolidado a 2026-09-04 — Aprova o Código dos Contratos Públicos, que estabelece a disciplina aplicável à contratação pública e o regime substantivo dos contratos públicos que revistam a natureza de contrato administrativo
 - [Decreto-Lei n.º 276/2007](decreto-lei-276-2007.md) — consolidado (DRE), consolidado a 2021-12-09 — Aprova o regime jurídico da actividade de inspecção da administração directa e indirecta do Estado
+- [Decreto Regulamentar n.º 20/2001](decreto-regulamentar-20-2001.md) — consolidado (DRE), consolidado a 2005-12-30 — Regulamenta as carreiras de inspector do trabalho do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho (IDICT)
 - [Decreto-Lei n.º 112/2001](decreto-lei-112-2001.md) — original (DRE) — Estabelece o enquadramento e define a estrutura das carreiras de inspecção da Administração Pública
 - [Decreto-Lei n.º 102/2000](decreto-lei-102-2000.md) — consolidado (DRE), consolidado a 2023-04-03 — Aprova o Estatuto da Inspecção-Geral do Trabalho
 - [Decreto-Lei n.º 480/99](decreto-lei-480-1999.md) — consolidado (DRE), consolidado a 2024-11-07 — Aprova o Código de Processo do Trabalho
@@ -443,8 +442,6 @@ Estado: 123 original (DRE); 117 consolidado (DRE); 61 excluída; 19 revogado (te
 - [Decreto-Lei n.º 433/82](decreto-lei-433-1982.md) — consolidado (DRE), consolidado a 2025-12-17 — Institui o ilícito de mera ordenação social e respectivo processo
 - Decreto 11/2018/M — excluída: diploma regional (Açores/Madeira)
 - Decreto 13/2019/A — excluída: diploma regional (Açores/Madeira)
-- Decreto Regulamentar 20/2001 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
-- Decreto Regulamentar 47/2012 — excluída: tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)
 - Decreto-Lei 2/2016/M — excluída: diploma regional (Açores/Madeira)
 - Decreto-Lei 8/2018/A — excluída: diploma regional (Açores/Madeira)
 - Medidas administrativas Regulamento interno da Comissão Permanente de Conc — excluída: medida administrativa (tipo de acto não identificado)

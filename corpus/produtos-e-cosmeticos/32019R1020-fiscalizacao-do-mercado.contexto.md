@@ -1,7 +1,7 @@
 ---
 celex: 32019R1020
 parte: contexto
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Regulamento 32019R1020 — Fiscalização do mercado — contexto

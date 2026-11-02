@@ -14,7 +14,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-119662485
 eli: https://data.dre.pt/eli/dec-lei/28/2019/p/cons/20250327/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 28/2019
@@ -529,21 +529,9 @@ b) Sujeitos passivos que disponham de sede, estabelecimento estável ou domicíl
 
 2 - Sempre que se mostre necessário, o sujeito passivo deve disponibilizar os meios para a leitura dos suportes e das imagens neles contidas.
 
-### Artigo 34.º — Informação relativa aos estabelecimentos
+### Artigo 34.º — Informação relativa aos estabelecimentos (revogado)
 
-1 - Os sujeitos passivos devem comunicar à AT por via eletrónica, no Portal da Finanças:
-
-a) A identificação e localização dos estabelecimentos da empresa em que são emitidas faturas e demais documentos fiscalmente relevantes;
-
-b) A identificação dos equipamentos utilizados para processamento de faturas e outros documentos fiscalmente relevantes;
-
-c) O número de certificado do programa utilizado em cada equipamento, quando aplicável;
-
-d) A identificação dos distribuidores e dos instaladores que comercializaram e/ou instalaram as soluções de faturação.
-
-2 - Sempre que se verifiquem alterações de qualquer dos elementos constantes da comunicação referida no número anterior, os sujeitos passivos devem entregar nova comunicação, no Portal das Finanças, previamente à emissão de faturas ou demais documentos fiscalmente relevantes.
-
-3 - A identificação e localização dos estabelecimentos comunicada ao abrigo dos números anteriores não está sujeita a sigilo fiscal, podendo ser disponibilizada publicamente pela AT.
+[Revogado.]
 
 > Revogado pelo/a Artigo 12.º do/a Decreto-Lei n.º 48/2020 - Diário da República n.º 149/2020, Série I de 2020-08-03, em vigor a partir de 2020-08-04
 

@@ -1863,9 +1863,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D0924	Artigo 2.º		54	78	540	ue/decisoes/2026/32026D0924.md
 32026D0924	ANEXO		80	82	3	ue/decisoes/2026/32026D0924.md
 32026D0924	ANEXO II		84	102	3073	ue/decisoes/2026/32026D0924.md
-32026D0925	Preâmbulo		18	36	421	ue/decisoes/2026/32026D0925.md
-32026D0925	Artigo 1.º		40	42	66	ue/decisoes/2026/32026D0925.md
-32026D0925	Artigo 2.º		44	64	250	ue/decisoes/2026/32026D0925.md
 32026D0927	Preâmbulo		18	36	279	ue/decisoes/2026/32026D0927.md
 32026D0927	Artigo 1.º		40	46	65	ue/decisoes/2026/32026D0927.md
 32026D0927	Artigo 2.º		48	60	110	ue/decisoes/2026/32026D0927.md
@@ -2082,11 +2079,35 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D1097	Preâmbulo		18	38	362	ue/decisoes/2026/32026D1097.md
 32026D1097	Artigo 1.º		42	44	99	ue/decisoes/2026/32026D1097.md
 32026D1097	Artigo 2.º		46	64	152	ue/decisoes/2026/32026D1097.md
-32026D1099	Preâmbulo		18	50	1262	ue/decisoes/2026/32026D1099.md
-32026D1099	Artigo 1.º		54	58	47	ue/decisoes/2026/32026D1099.md
-32026D1099	Artigo 2.º		60	62	40	ue/decisoes/2026/32026D1099.md
-32026D1099	Artigo 3.º		64	84	362	ue/decisoes/2026/32026D1099.md
-32026D1099	ANEXO	Declaração ao abrigo do artigo 18.º, n.º 2, da Convenção das Nações Unidas sobre os Efeitos Internacionais das Vendas Judiciais de Navios («Convenção de Pequim 	86	98	817	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 1.º		30	34	47	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 2.º		36	38	40	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 3.º		40	42	35	ue/decisoes/2026/32026D1099.md
+32026D1099	ANEXO	Declaração ao abrigo do artigo 18.º, n.º 2, da Convenção das Nações Unidas sobre os Efeitos Internacionais das Vendas Judiciais de Navios («Convenção de Pequim 	44	56	817	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 1.º	Objeto	62	64	46	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 2.º	Definições	66	94	536	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 3.º	Âmbito de aplicação	96	104	143	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 4.º	Notificação da venda judicial	106	144	726	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 5.º	Certificado de venda judicial	146	188	749	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 6.º	Efeitos internacionais de uma venda judicial	190	192	78	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 7.º	Medidas a adotar pela entidade responsável pelo registo	194	212	556	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 8.º	Recusa de decretamento ou levantamento do arresto do navio	214	222	356	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 9.º	Competência para anular e suspender a venda judicial	224	230	278	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 10.º	Circunstâncias no âmbito das quais a venda judicial não produz efeitos internacionais	232	234	94	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 11.º	Repositório	236	242	223	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 12.º	Comunicação entre autoridades dos Estados Partes	244	248	105	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 13.º	Relação com outras convenções internacionais	250	254	192	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 14.º	Outros fundamentos para conferir efeitos internacionais	256	258	73	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 15.º	Aspetos não regidos pela presente convenção	260	268	141	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 16.º	Depositário	270	272	32	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 17.º	Assinatura, ratificação, aceitação, aprovação, adesão	274	282	126	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 18.º	Participação de organizações regionais de integração económica	284	296	467	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 19.º	Sistemas jurídicos não unificados	298	310	309	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 20.º	Procedimento e efeitos das declarações	312	320	296	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 21.º	Entrada em vigor	322	328	173	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 22.º	Alterações	330	340	460	ue/decisoes/2026/32026D1099.md
+32026D1099	Artigo 23.º	Denúncia	342	348	231	ue/decisoes/2026/32026D1099.md
+32026D1099	Anexo I	Informações mínimas que devem figurar na notificação de venda judicial	350	378	367	ue/decisoes/2026/32026D1099.md
+32026D1099	Anexo II	Modelo de certificado de venda judicial	380	415	461	ue/decisoes/2026/32026D1099.md
 32026D1103	Preâmbulo		18	46	920	ue/decisoes/2026/32026D1103.md
 32026D1103	Artigo 1.º		50	52	57	ue/decisoes/2026/32026D1103.md
 32026D1103	Artigo 2.º		54	72	171	ue/decisoes/2026/32026D1103.md
@@ -3587,6 +3608,13 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D1947	Preâmbulo		18	40	595	ue/decisoes/2026/32026D1947.md
 32026D1947	Artigo 1.º		44	46	114	ue/decisoes/2026/32026D1947.md
 32026D1947	Artigo 2.º		48	68	200	ue/decisoes/2026/32026D1947.md
+32026D1948	Preâmbulo		18	56	1590	ue/decisoes/2026/32026D1948.md
+32026D1948	Artigo 1.º	Alterações da Decisão 2001/171/CE	60	64	38	ue/decisoes/2026/32026D1948.md
+32026D1948	«Artigo 2.º		66	84	497	ue/decisoes/2026/32026D1948.md
+32026D1948	«Artigo 5.º-A		86	94	230	ue/decisoes/2026/32026D1948.md
+32026D1948	Artigo 5.º-B		96	102	161	ue/decisoes/2026/32026D1948.md
+32026D1948	Artigo 5.º-C		104	116	265	ue/decisoes/2026/32026D1948.md
+32026D1948	Artigo 2.º		118	140	298	ue/decisoes/2026/32026D1948.md
 32026D1949	Preâmbulo		18	50	1709	ue/decisoes/2026/32026D1949.md
 32026D1949	Artigo 1.º		54	56	33	ue/decisoes/2026/32026D1949.md
 32026D1949	Artigo 2.º		58	82	540	ue/decisoes/2026/32026D1949.md
@@ -3906,9 +3934,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2156	Preâmbulo		18	48	731	ue/decisoes/2026/32026D2156.md
 32026D2156	Artigo 1.º		52	71	239	ue/decisoes/2026/32026D2156.md
 32026D2156	Artigo 2.º		73	95	286	ue/decisoes/2026/32026D2156.md
-32026D2157	Preâmbulo		18	40	494	ue/decisoes/2026/32026D2157.md
-32026D2157	Artigo 1.º		44	46	66	ue/decisoes/2026/32026D2157.md
-32026D2157	Artigo 2.º		48	72	373	ue/decisoes/2026/32026D2157.md
 32026D2159	Preâmbulo		18	36	399	ue/decisoes/2026/32026D2159.md
 32026D2159	Artigo 1.º		40	42	60	ue/decisoes/2026/32026D2159.md
 32026D2159	Artigo 2.º		44	64	211	ue/decisoes/2026/32026D2159.md
@@ -4152,9 +4177,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2251	Preâmbulo		18	46	825	ue/decisoes/2026/32026D2251.md
 32026D2251	Artigo 1.º		50	52	94	ue/decisoes/2026/32026D2251.md
 32026D2251	Artigo 2.º		54	74	208	ue/decisoes/2026/32026D2251.md
-32026D2252	Preâmbulo		19	39	434	ue/decisoes/2026/32026D2252.md
-32026D2252	Artigo 1.º		43	45	16	ue/decisoes/2026/32026D2252.md
-32026D2252	Artigo 2.º		47	69	337	ue/decisoes/2026/32026D2252.md
 32026D2253	Preâmbulo		18	44	923	ue/decisoes/2026/32026D2253.md
 32026D2253	Artigo 1.º		48	52	114	ue/decisoes/2026/32026D2253.md
 32026D2253	Artigo 2.º		54	56	19	ue/decisoes/2026/32026D2253.md
@@ -4223,9 +4245,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2272	Artigo 1.º		38	44	67	ue/decisoes/2026/32026D2272.md
 32026D2272	Artigo 2.º		46	58	108	ue/decisoes/2026/32026D2272.md
 32026D2272	ANEXO		60	66	205	ue/decisoes/2026/32026D2272.md
-32026D2273	Preâmbulo		19	39	434	ue/decisoes/2026/32026D2273.md
-32026D2273	Artigo 1.º		43	45	16	ue/decisoes/2026/32026D2273.md
-32026D2273	Artigo 2.º		47	69	333	ue/decisoes/2026/32026D2273.md
 32026D2274	Preâmbulo		18	40	676	ue/decisoes/2026/32026D2274.md
 32026D2274	Artigo 1.º		44	46	59	ue/decisoes/2026/32026D2274.md
 32026D2274	Artigo 2.º		48	64	294	ue/decisoes/2026/32026D2274.md
@@ -4391,19 +4410,121 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2357	Artigo 2.º		66	70	78	ue/decisoes/2026/32026D2357.md
 32026D2357	Artigo 3.º		72	74	39	ue/decisoes/2026/32026D2357.md
 32026D2357	Artigo 4.º		76	94	210	ue/decisoes/2026/32026D2357.md
-32026D2360	Preâmbulo		20	46	649	ue/decisoes/2026/32026D2360.md
-32026D2360	Artigo 1.º		50	52	81	ue/decisoes/2026/32026D2360.md
-32026D2360	Artigo 2.º		54	80	378	ue/decisoes/2026/32026D2360.md
+32026D2360	Preâmbulo		18	44	649	ue/decisoes/2026/32026D2360.md
+32026D2360	Artigo 1.º		48	50	81	ue/decisoes/2026/32026D2360.md
+32026D2360	Artigo 2.º		52	78	378	ue/decisoes/2026/32026D2360.md
+32026D2362	Preâmbulo		18	34	388	ue/decisoes/2026/32026D2362.md
+32026D2362	Artigo 1.º		38	42	34	ue/decisoes/2026/32026D2362.md
+32026D2362	«Artigo 2.º	Limite máximo financeiro»	44	60	135	ue/decisoes/2026/32026D2362.md
+32026D2362	Artigo 2.º		62	80	175	ue/decisoes/2026/32026D2362.md
+32026D2363	Preâmbulo		18	38	576	ue/decisoes/2026/32026D2363.md
+32026D2363	Artigo 1.º		42	54	204	ue/decisoes/2026/32026D2363.md
+32026D2363	Artigo 2.º		56	76	283	ue/decisoes/2026/32026D2363.md
+32026D2364	Preâmbulo		18	44	812	ue/decisoes/2026/32026D2364.md
+32026D2364	Artigo 1.º		48	80	628	ue/decisoes/2026/32026D2364.md
+32026D2364	Artigo 2.º		82	108	532	ue/decisoes/2026/32026D2364.md
+32026D2365	Preâmbulo		18	42	734	ue/decisoes/2026/32026D2365.md
+32026D2365	Artigo 1.º		46	74	572	ue/decisoes/2026/32026D2365.md
+32026D2365	Artigo 2.º		76	98	330	ue/decisoes/2026/32026D2365.md
+32026D2366	Preâmbulo		18	46	1267	ue/decisoes/2026/32026D2366.md
+32026D2366	Artigo 1.º		50	100	886	ue/decisoes/2026/32026D2366.md
+32026D2366	Artigo 2.º		102	132	633	ue/decisoes/2026/32026D2366.md
+32026D2367	Preâmbulo		18	48	1420	ue/decisoes/2026/32026D2367.md
+32026D2367	Artigo 1.º		52	96	834	ue/decisoes/2026/32026D2367.md
+32026D2367	Artigo 2.º		98	128	594	ue/decisoes/2026/32026D2367.md
+32026D2368	Preâmbulo		18	36	477	ue/decisoes/2026/32026D2368.md
+32026D2368	Artigo 1.º		40	62	367	ue/decisoes/2026/32026D2368.md
+32026D2368	Artigo 2.º		64	82	229	ue/decisoes/2026/32026D2368.md
+32026D2369	Preâmbulo		18	36	475	ue/decisoes/2026/32026D2369.md
+32026D2369	Artigo 1.º		40	68	521	ue/decisoes/2026/32026D2369.md
+32026D2369	Artigo 2.º		70	88	208	ue/decisoes/2026/32026D2369.md
+32026D2370	Preâmbulo		18	44	850	ue/decisoes/2026/32026D2370.md
+32026D2370	Artigo 1.º		48	50	73	ue/decisoes/2026/32026D2370.md
+32026D2370	Artigo 2.º		52	54	39	ue/decisoes/2026/32026D2370.md
+32026D2370	Artigo 3.º		56	78	698	ue/decisoes/2026/32026D2370.md
+32026D2370	ANEXO		80	85	70	ue/decisoes/2026/32026D2370.md
+32026D2372	Preâmbulo		18	38	283	ue/decisoes/2026/32026D2372.md
+32026D2372	Artigo 1.º		42	68	456	ue/decisoes/2026/32026D2372.md
+32026D2372	Artigo 2.º		70	86	132	ue/decisoes/2026/32026D2372.md
 32026D2373	Preâmbulo		18	44	599	ue/decisoes/2026/32026D2373.md
 32026D2373	Artigo 1.º		48	50	50	ue/decisoes/2026/32026D2373.md
 32026D2373	Artigo 2.º		52	54	44	ue/decisoes/2026/32026D2373.md
 32026D2373	Artigo 3.º		56	72	232	ue/decisoes/2026/32026D2373.md
 32026D2373	ANEXO	Terceira parcela das contribuições para o FED relativas ao exercício de 2026 (em EUR) para a Comissão [^1]	74	108	369	ue/decisoes/2026/32026D2373.md
-32026D2392	Preâmbulo		20	44	611	ue/decisoes/2026/32026D2392.md
-32026D2392	Artigo 1.º		48	50	67	ue/decisoes/2026/32026D2392.md
-32026D2392	Artigo 2.º		52	76	413	ue/decisoes/2026/32026D2392.md
-32026D2395	Preâmbulo		20	60	1566	ue/decisoes/2026/32026D2395.md
-32026D2395	Artigo 1.º		64	66	32	ue/decisoes/2026/32026D2395.md
-32026D2395	Artigo 2.º		68	86	301	ue/decisoes/2026/32026D2395.md
-32026D2395	ANEXO		88	90	3	ue/decisoes/2026/32026D2395.md
-32026D2395	ANEXO		92	154	1387	ue/decisoes/2026/32026D2395.md
+32026D2375	Preâmbulo		18	36	262	ue/decisoes/2026/32026D2375.md
+32026D2375	Artigo 1.º		40	50	109	ue/decisoes/2026/32026D2375.md
+32026D2375	Artigo 2.º	Entrada em vigor	52	68	134	ue/decisoes/2026/32026D2375.md
+32026D2377	Preâmbulo		18	34	396	ue/decisoes/2026/32026D2377.md
+32026D2377	Artigo 1.º		38	40	72	ue/decisoes/2026/32026D2377.md
+32026D2377	Artigo 2.º		42	56	182	ue/decisoes/2026/32026D2377.md
+32026D2377	ANEXO	Lista de derrogações do Regulamento (UE) n.º 691/2011	58	66	484	ue/decisoes/2026/32026D2377.md
+32026D2378	Preâmbulo		18	36	222	ue/decisoes/2026/32026D2378.md
+32026D2378	Artigo 1.º		40	42	36	ue/decisoes/2026/32026D2378.md
+32026D2378	Artigo 2.º		44	60	154	ue/decisoes/2026/32026D2378.md
+32026D2385	Preâmbulo		18	38	487	ue/decisoes/2026/32026D2385.md
+32026D2385	Artigo 1.º		42	76	433	ue/decisoes/2026/32026D2385.md
+32026D2385	Artigo 2.º		78	98	261	ue/decisoes/2026/32026D2385.md
+32026D2386	Preâmbulo		18	38	454	ue/decisoes/2026/32026D2386.md
+32026D2386	Artigo 1.º		42	78	726	ue/decisoes/2026/32026D2386.md
+32026D2386	Artigo 2.º		80	100	260	ue/decisoes/2026/32026D2386.md
+32026D2392	Preâmbulo		18	42	611	ue/decisoes/2026/32026D2392.md
+32026D2392	Artigo 1.º		46	48	67	ue/decisoes/2026/32026D2392.md
+32026D2392	Artigo 2.º		50	74	413	ue/decisoes/2026/32026D2392.md
+32026D2395	Preâmbulo		18	58	1566	ue/decisoes/2026/32026D2395.md
+32026D2395	Artigo 1.º		62	64	32	ue/decisoes/2026/32026D2395.md
+32026D2395	Artigo 2.º		66	84	301	ue/decisoes/2026/32026D2395.md
+32026D2395	ANEXO		86	88	3	ue/decisoes/2026/32026D2395.md
+32026D2395	ANEXO		90	152	1387	ue/decisoes/2026/32026D2395.md
+32026D2397	Preâmbulo		18	34	154	ue/decisoes/2026/32026D2397.md
+32026D2397	Artigo 1.º		38	40	36	ue/decisoes/2026/32026D2397.md
+32026D2397	Artigo 2.º		42	58	136	ue/decisoes/2026/32026D2397.md
+32026D2402	Preâmbulo		19	59	1901	ue/decisoes/2026/32026D2402.md
+32026D2402	Artigo 1.º	Alteração da Decisão (UE) 2015/1814	63	91	719	ue/decisoes/2026/32026D2402.md
+32026D2402	Artigo 2.º	Entrada em vigor	93	127	529	ue/decisoes/2026/32026D2402.md
+32026D2407	Preâmbulo		19	59	1811	ue/decisoes/2026/32026D2407.md
+32026D2407	Artigo 1.º		63	65	60	ue/decisoes/2026/32026D2407.md
+32026D2407	Artigo 2.º		67	69	62	ue/decisoes/2026/32026D2407.md
+32026D2407	Artigo 3.º		71	89	288	ue/decisoes/2026/32026D2407.md
+32026D2407	ANEXO I	PRESIDENTE, MEMBROS, SUPLENTES E OBSERVADORES NOMEADOS PARA O CONSELHO DE ADMINISTRAÇÃO DA REDE	91	150	1521	ue/decisoes/2026/32026D2407.md
+32026D2407	ANEXO II	MEMBROS E SUPLENTES NOMEADOS PARA A CCCAE	152	166	454	ue/decisoes/2026/32026D2407.md
+32026D2410	Preâmbulo		18	42	800	ue/decisoes/2026/32026D2410.md
+32026D2410	Artigo 1.º		46	48	71	ue/decisoes/2026/32026D2410.md
+32026D2410	Artigo 2.º		50	68	182	ue/decisoes/2026/32026D2410.md
+32026D2448	Preâmbulo		18	44	810	ue/decisoes/2026/32026D2448.md
+32026D2448	Artigo 1.º		48	50	47	ue/decisoes/2026/32026D2448.md
+32026D2448	Artigo 2.º		52	70	235	ue/decisoes/2026/32026D2448.md
+32026D2449	Preâmbulo		18	38	612	ue/decisoes/2026/32026D2449.md
+32026D2449	Artigo 1.º	Criação, objetivos, âmbito de aplicação e duração	42	66	354	ue/decisoes/2026/32026D2449.md
+32026D2449	Artigo 2.º	Disposições financeiras	68	72	88	ue/decisoes/2026/32026D2449.md
+32026D2449	Artigo 3.º	Acordos com o beneficiário	74	88	385	ue/decisoes/2026/32026D2449.md
+32026D2449	Artigo 4.º	Execução	90	94	148	ue/decisoes/2026/32026D2449.md
+32026D2449	Artigo 5.º	Acompanhamento, controlo e avaliação	96	108	386	ue/decisoes/2026/32026D2449.md
+32026D2449	Artigo 6.º	Apresentação de relatórios	110	112	132	ue/decisoes/2026/32026D2449.md
+32026D2449	Artigo 7.º	Suspensão e cessação	114	118	65	ue/decisoes/2026/32026D2449.md
+32026D2449	Artigo 8.º	Entrada em vigor	120	138	188	ue/decisoes/2026/32026D2449.md
+32026D2453	Preâmbulo		18	42	806	ue/decisoes/2026/32026D2453.md
+32026D2453	Artigo 1.º		46	48	67	ue/decisoes/2026/32026D2453.md
+32026D2453	Artigo 2.º		50	84	467	ue/decisoes/2026/32026D2453.md
+32026D2455	Preâmbulo		18	42	674	ue/decisoes/2026/32026D2455.md
+32026D2455	Artigo 1.º		46	48	67	ue/decisoes/2026/32026D2455.md
+32026D2455	Artigo 2.º		50	80	278	ue/decisoes/2026/32026D2455.md
+32026D2456	Preâmbulo		18	42	678	ue/decisoes/2026/32026D2456.md
+32026D2456	Artigo 1.º		46	48	66	ue/decisoes/2026/32026D2456.md
+32026D2456	Artigo 2.º		50	80	278	ue/decisoes/2026/32026D2456.md
+32026D2457	Preâmbulo		18	34	277	ue/decisoes/2026/32026D2457.md
+32026D2457	Artigo 1.º		38	40	108	ue/decisoes/2026/32026D2457.md
+32026D2457	Artigo 2.º		42	58	85	ue/decisoes/2026/32026D2457.md
+32026D2458	Preâmbulo		18	46	829	ue/decisoes/2026/32026D2458.md
+32026D2458	Artigo 1.º		50	52	46	ue/decisoes/2026/32026D2458.md
+32026D2458	Artigo 2.º		54	56	34	ue/decisoes/2026/32026D2458.md
+32026D2458	Artigo 3.º		58	60	35	ue/decisoes/2026/32026D2458.md
+32026D2458	Artigo 4.º		62	64	65	ue/decisoes/2026/32026D2458.md
+32026D2458	Artigo 5.º		66	68	74	ue/decisoes/2026/32026D2458.md
+32026D2458	Artigo 6.º		70	88	256	ue/decisoes/2026/32026D2458.md
+32026D2458	ANEXO		90	127	590	ue/decisoes/2026/32026D2458.md
+32026D2471	Preâmbulo		18	46	484	ue/decisoes/2026/32026D2471.md
+32026D2471	Artigo 1.º		50	52	104	ue/decisoes/2026/32026D2471.md
+32026D2471	Artigo 2.º		54	74	318	ue/decisoes/2026/32026D2471.md
+32026D2472	Preâmbulo		18	42	496	ue/decisoes/2026/32026D2472.md
+32026D2472	Artigo 1.º		46	52	310	ue/decisoes/2026/32026D2472.md
+32026D2472	Artigo 2.º		54	70	146	ue/decisoes/2026/32026D2472.md

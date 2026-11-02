@@ -11,7 +11,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-34443975
 eli: https://data.dre.pt/eli/dec-lei/262/1986/p/cons/20260826/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 262/86
@@ -220,9 +220,9 @@ i) O Decreto-Lei n.º 389/77, de 15 de Setembro.
 
 Quando disposições legais ou contratuais remeterem para preceitos legais revogados por esta lei, entende-se que a remissão valerá para as correspondentes disposições do Código das Sociedades Comerciais, salvo se a interpretação daquelas impuser solução diferente.
 
-### Artigo 5.º — (Diploma especial)
+### Artigo 5.º — (Diploma especial) (revogado)
 
-O Decreto-Lei n.º 408/82, de 29 de Setembro, constitui diploma especial, para os efeitos do artigo 331.º, n.º 1, do Código das Sociedades Comerciais.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 486/99 - Diário da República n.º 265/1999, Série I-A de 1999-11-13, em vigor a partir de 2000-03-01
 
@@ -1538,11 +1538,9 @@ b) Durante a pendência de qualquer processo de reestruturação de empresas pre
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 280/87 - Diário da República n.º 154/1987, Série I de 1987-07-08, em vigor a partir de 1987-07-13
 
-### Artigo 90.º — Fiscalização
+### Artigo 90.º — Fiscalização (revogado)
 
-1 - O notário que lavrar a escritura deve verificar, pela acta da deliberação e documentos posteriores, se o aumento de capital foi legalmente deliberado e está a ser executado regularmente.
-
-2 - O membro da administração que representar a sociedade na escritura deve declarar, sob sua responsabilidade, quais as entradas já realizadas e que não é exigida pela lei, pelo contrato ou pela deliberação a realização de outras entradas.
+[Revogado.]
 
 > Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
 
@@ -4842,9 +4840,9 @@ c) Número de trabalhadores empregados em média durante o exercício: 50.
 
 > Rectificado pelo/a Artigo 13.º do/a Decreto-Lei n.º 257/96 - Diário da República n.º 302/1996, Série I-A de 1996-12-31, em vigor a partir de 1997-01-05
 
-### Artigo 264.º — (Publicidade das contas)
+### Artigo 264.º — (Publicidade das contas) (revogado)
 
-O depósito do relatório de gestão e dos documentos de prestação de contas referidos no artigo 70.º é dispensado para as sociedades por quotas que não ultrapassem dois dos limites fixados no artigo 262.º, n.º 2, independentemente de terem ou não conselho fiscal.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 257/96 - Diário da República n.º 302/1996, Série I-A de 1996-12-31, em vigor a partir de 1997-01-05
 
@@ -5238,11 +5236,9 @@ b) Sobre as designações para os órgãos sociais.
 
 > Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 280/87 - Diário da República n.º 154/1987, Série I de 1987-07-08, em vigor a partir de 1987-07-13
 
-### Artigo 284.º — (Sociedades com subscrição pública)
+### Artigo 284.º — (Sociedades com subscrição pública) (revogado)
 
-1 - Salvo quando da lei resulte o contrário, a expressão «sociedade com subscrição pública» compreende as sociedades constituídas com apelo a subscrição pública, as que, num aumento de capital, tenham recorrido a subscrição pública e as sociedades cujas acções sejam cotadas na Bolsa.
-
-2 - A subscrição é pública, embora seja indirectamente efectuada por meio de instituição de crédito ou outra equiparada por lei para este efeito.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 486/99 - Diário da República n.º 265/1999, Série I-A de 1999-11-13, em vigor a partir de 2000-03-01
 
@@ -5524,13 +5520,9 @@ As ações são nominativas, não sendo permitidas ações ao portador.
 
 > Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 280/87 - Diário da República n.º 154/1987, Série I de 1987-07-08, em vigor a partir de 1987-07-13
 
-### Artigo 300.º — (Conversão)
+### Artigo 300.º — (Conversão) (revogado)
 
-1 - As acções ao portador podem sempre ser convertidas em acções nominativas; as acções nominativas podem ser convertidas em acções ao portador se a lei não proibir a conversão e o contrato de sociedade permitir acções ao portador.
-
-2 - A conversão é efectuada pela sociedade, a requerimento e à custa do accionista.
-
-3 - A sociedade pode fazer a conversão mediante substituição dos títulos existentes ou modificação no respectivo texto.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 486/99 - Diário da República n.º 265/1999, Série I-A de 1999-11-13, em vigor a partir de 2000-03-01
 
@@ -5580,43 +5572,9 @@ As ações podem ser munidas de cupões destinados à cobrança dos dividendos.
 
 > Rectificado pelo/a Declaração - Diário da República n.º 276/1986, Suplemento n.º 1, Série I de 1986-11-29, em vigor a partir de 1986-11-29
 
-### Artigo 305.º — Livro de registo de acções
+### Artigo 305.º — Livro de registo de acções (revogado)
 
-1 - Haverá na sede da sociedade um livro de registo das acções, de modelo oficialmente aprovado.
-
-2 - O livro deverá ser apresentado na repartição de finanças do concelho ou bairro da sede da sociedade antes de utilizado, para que o respectivo chefe assine os termos de abertura e encerramento, numere e rubrique as folhas.
-
-3 - Do livro de registo de acções constarão:
-
-a) Os números de todas as acções;
-
-b) As datas das entregas dos títulos provisórios ou definitivos;
-
-c) O nome e domicílio do primeiro titular de cada acção;
-
-d) Os pagamentos efectuados para liberação da acção;
-
-e) A espécie, nominativa ou ao portador, da acção;
-
-f) As conversões efectuadas;
-
-g) A passagem das acções ao portador ao regime de depósito;
-
-h) As transmissões das acções nominativas, bem como as das acções ao portador sujeitas ao regime de registo;
-
-i) Os ónus ou encargos incidentes sobre as acções em regime de registo;
-
-j) As acções preferenciais sem voto;
-
-l) As acções remíveis e as datas de remição;
-
-m) As acções amortizadas e os montantes das amortizações;
-
-n) As acções de fruição.
-
-4 - O livro de registo de acções poderá ser substituído por um registo informático, nos termos a fixar por portaria dos Ministros das Finanças e da Justiça.
-
-5 - Ao registo informático previsto no número anterior aplica-se o disposto no n.º 3 do presente artigo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 486/99 - Diário da República n.º 265/1999, Série I-A de 1999-11-13, em vigor a partir de 2011-03-01
 
@@ -5628,147 +5586,65 @@ n) As acções de fruição.
 
 ## Secção II — Oferta pública de aquisição de acções
 
-### Artigo 306.º — (Destinatários e condicionamentos da oferta)
+### Artigo 306.º — (Destinatários e condicionamentos da oferta) (revogado)
 
-1 - A oferta pública de aquisição de acções é dirigida contemporaneamente a todos os accionistas ou aos titulares de uma categoria de acções que não sejam, além do próprio oferente, sociedades em relação de domínio ou de grupo com uma sociedade oferente.
-
-2 - A oferta pode ser condicionada à sua aceitação por titulares de certo número mínimo de acções e bem assim, pode ser limitada a um número máximo de acções.
-
-3 - A comissão directiva da Bolsa pode proibir uma oferta se considerar que o número de acções a adquirir não a justifica ou, tratando-se de oferta concorrente com outra já lançada, entender que entre as condições de ambas não há diferenças relevantes para os accionistas.
-
-4 - A comissão directiva da bolsa pode ordenar que uma oferta já lançada seja retirada quando, relativamente à sociedade visada ou ao oferente, tenham ocorrido alterações que tornem justificada tal ordem.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
-### Artigo 307.º — (Autoridade fiscalizadora)
+### Artigo 307.º — (Autoridade fiscalizadora) (revogado)
 
-1 - Compete à comissão directiva da Bolsa de Lisboa ou da Bolsa do Porto, conforme a sede da sociedade visada, a fiscalização das ofertas públicas de aquisição de acções.
-
-2 - As duas comissões proporão os regulamentos necessários para completar o regime da oferta pública de aquisição, os quais serão aprovados por portaria do Ministro das Finanças.
+[Revogado.]
 
 > Revogado pelo/a Artigo 24.º do/a Decreto-Lei n.º 142-A/91 - Diário da República n.º 83/1991, 1º Suplemento, Série I-A de 1991-04-10, em vigor a partir de 1991-07-09
 
-### Artigo 308.º — (Lançamento da oferta pública)
+### Artigo 308.º — (Lançamento da oferta pública) (revogado)
 
-1 - A oferta pública é lançada por uma instituição de crédito ou equiparada por lei para este efeito, agindo no interesse do oferente.
-
-2 - O lançamento é feito pela comunicação da oferta ao conselho de administração ou direcção da sociedade visada e a partir dele a oferta não pode ser revogada, salvo no caso de ser lançada oferta concorrente.
-
-3 - No prazo de oito dias, o conselho de administração ou a direcção apresentará ao oferente os seus comentários sobre a oferta.
-
-4 - A oferta e os comentários serão submetidos à comissão directiva da Bolsa, a qual, se não for caso de proibir a oferta, autorizará a publicação do respectivo anúncio.
-
-5 - Até à publicação do anúncio, a oferta só pode ser modificada em função dos comentários referidos no n.º 3 ou para dar cumprimento a instruções da comissão directiva da Bolsa.
-
-6 - Depois da publicação do anúncio, o oferente pode modificar, uma só vez, a natureza e o montante da contrapartida oferecida, contanto que não tenham ainda decorrido dois terços do período da oferta.
-
-7 - O período da oferta pode variar entre 30 e 40 dias, contados da publicação do anúncio, mas, tendo a oferta sido modificada nos termos previstos na lei, o prazo inicialmente fixado é acrescido de mais um terço.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
-### Artigo 309.º — (Conteúdo da oferta pública)
+### Artigo 309.º — (Conteúdo da oferta pública) (revogado)
 
-A oferta pública, ao ser lançada e anunciada, deve conter pelo menos as seguintes informações:
-
-a) O nome do oferente;
-
-b) A indicação das acções que são objecto da oferta, com a identificação da sociedade visada;
-
-c) A natureza da contrapartida;
-
-d) A indicação do fim que o oferente pretende conseguir com a aquisição;
-
-e) A indicação dos factores relevantes para a determinação da contrapartida oferecida;
-
-f) A indicação das participações directa ou indirectamente detidas pelo oferente na sociedade visada;
-
-g) A indicação das participações directa ou indirectamente detidas pela sociedade visada em sociedade oferente;
-
-h) O período da oferta;
-
-i) O eventual condicionamento da oferta à sua aceitação por titulares de determinado número mínimo de acções;
-
-j) A eventual indicação do número máximo de acções que o oferente se propõe adquirir e o critério do rateio, quando necessário;
-
-l) A menção do direito de o accionista retirar a aceitação no caso de, até ao encerramento da oferta, ser lançada outra oferta de terceiro em condições mais vantajosas;
-
-m) Os casos em que a oferta pode ficar sem efeito;
-
-n) A data em que será realizado o pagamento em dinheiro ou serão entregues os títulos representativos da contrapartida;
-
-o) O local onde as acções devem ser entregues ou trocadas;
-
-p) A indicação de quaisquer despesas, taxas ou impostos que devam ser suportados pelos accionistas.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
-### Artigo 310.º — (Contrapartida da oferta pública)
+### Artigo 310.º — (Contrapartida da oferta pública) (revogado)
 
-1 - A contrapartida da oferta pública pode consistir em dinheiro, acções ou obrigações, convertíveis ou não, de uma sociedade oferente ou de outra sociedade que com aquela se encontre em relação de domínio ou de grupo.
-
-2 - Consistindo a contrapartida em dinheiro, a instituição de crédito garantirá que este se encontra depositado para o fim exclusivo da oferta pública.
-
-3 - Consistindo a contrapartida em acções ou obrigações ainda a emitir, os respectivos títulos, embora provisórios, devem estar prontos para troca o mais tardar 45 dias depois do encerramento da oferta pública, sem o que a comissão directiva da Bolsa declarará a oferta sem efeito e a sociedade remissa será responsável, nos termos gerais de direito.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
-### Artigo 311.º — (Aquisição durante o período da oferta)
+### Artigo 311.º — (Aquisição durante o período da oferta) (revogado)
 
-1 - Se, durante o período que mediar entre a deliberação de lançar a oferta e o seu lançamento, a sociedade oferente ou outra com a qual ela se encontre em relação de domínio ou de grupo adquirir acções da sociedade visada, as condições mais onerosas dessas aquisições constituem condição mínima da oferta pública.
-
-2 - A partir do lançamento e até ao encerramento da oferta, o oferente não pode, por compra ou troca, adquirir acções da sociedade visada ou de outras que com ela estejam em relação de domínio ou de grupo.
-
-3 - Sendo oferente uma sociedade, é vedado aos membros dos seus órgãos de administração ou de fiscalização adquirir, por compra ou troca, acções da sociedade visada ou de outras sociedades com as quais aquela esteja em relação de domínio ou de grupo, a partir do momento em que for deliberado o lançamento e até que esteja encerrada a oferta pública.
-
-4 - Aos institutos de crédito intervenientes na oferta pública, aos membros dos seus órgãos de administração e fiscalização, à sociedade visada e aos membros dos seus órgãos de administração e fiscalização, às sociedades que estejam em relação de domínio ou de grupo com a sociedade visada e aos membros dos seus órgãos de administração e fiscalização é vedado adquirir por compra ou troca acções da sociedade visada ou de outras sociedades que com ela se encontrem em relação de domínio ou de grupo, a partir do momento em que tiveram conhecimento da oferta e até ao encerramento desta.
-
-5 - A violação do disposto nos números anteriores impede, durante cinco anos, o exercício dos direitos inerentes às acções assim adquiridas, mas não a exigência das respectivas obrigações, sem embargo de os alienantes poderem exigir dos adquirentes indemnização dos prejuízos sofridos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
-### Artigo 312.º — (Dever de confidencialidade)
+### Artigo 312.º — (Dever de confidencialidade) (revogado)
 
-As pessoas que, por dever de ofício, privado ou público, tenham conhecimento da preparação de uma oferta pública de aquisição devem guardar inteiro sigilo até ao anúncio da oferta, respondendo, em caso de violação deste dever, para com o oferente e para com os accionistas da sociedade visada.
-
-> Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
-
-### Artigo 313.º — (Oferta pública como forma obrigatória de aquisição)
-
-1 - A compra ou troca de acções de uma sociedade deve revestir a forma de oferta pública quando se verifiquem cumulativamente as seguintes circunstâncias:
-
-a) Tratar-se de sociedade com subscrição pública;
-
-b) O contrato de sociedade não estipular direito de preferência dos accionistas nas compras ou trocas de acções;
-
-c) O oferente já possuir acções da sociedade visada que lhe assegurem o domínio desta ou as acções por ele possuídas, juntamente com as acções a adquirir, lhe atribuírem o domínio da referida sociedade ou ainda quando as acções a adquirir, só por si ou somadas às por ele adquiridas desde o dia 1 de Janeiro do ano civil anterior, excepto por efeito de aumento de capital, lhe atribuírem 20% dos votos correspondentes ao capital social.
-
-2 - No caso de a oferente já possuir acções da sociedade visada que lhe assegurem o domínio desta, a oferta pública não pode ser lançada para acções correspondentes a menos de 5% do capital daquela sociedade.
-
-3 - A violação do disposto no n.º 1 deste artigo impede durante cinco anos o exercício dos direitos inerentes às acções adquiridas, mas não a exigência das respectivas obrigações, sem embargo de os alienantes poderem exigir dos adquirentes indemnização dos prejuízos sofridos.
-
-4 - A comissão directiva da Bolsa pode dispensar a oferta pública quando verifique que a compra ou troca não tem intuitos especulativos e o número de acções a adquirir, em si mesmo, não justifica a oferta ou quando não seja relevante o aumento da influência do accionista na sociedade.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
-### Artigo 314.º — Acções cotadas como de um oferente
+### Artigo 313.º — (Oferta pública como forma obrigatória de aquisição) (revogado)
 
-Para efeitos dos artigos anteriores, são cotadas como pertencentes a um oferente não só as acções de que ele seja titular, mas também:
+[Revogado.]
 
-a) As acções pertencentes a outros accionistas que, por acordo entre todos, venham a adquirir acções como resultado da oferta pública;
+> Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
-b) As acções pertencentes a sociedades que estejam em relação de domínio ou de grupo com uma sociedade oferente;
+### Artigo 314.º — Acções cotadas como de um oferente (revogado)
 
-c) As acções em que se converterão obrigações pertencentes ao próprio oferente ou a alguma das entidades abrangidas pelas alíneas anteriores.
-
-d) As acções que resultarem de obrigações com direito de subscrição de acções pertencentes ao próprio oferente ou a alguma das entidades abrangidas pelas alíneas a) e b).
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 229-B/88 - Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04, em vigor a partir de 1988-07-09
 
-### Artigo 315.º — Ofertas públicas de aquisição de obrigações convertíveis ou obrigações com direito de subscrição de acções
+### Artigo 315.º — Ofertas públicas de aquisição de obrigações convertíveis ou obrigações com direito de subscrição de acções (revogado)
 
-O disposto nos artigos anteriores aplica-se à aquisição para oferta pública de obrigações convertíveis em acções ou de obrigações com direito de subscrição de acções.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 261/95 - Diário da República n.º 229/1995, Série I-A de 1995-10-03, em vigor a partir de 1995-10-08
 
@@ -5944,29 +5820,15 @@ c) O número de acções próprias da sociedade por ela detidas no fim do exerc�
 
 ## Subsecção I — Formas de transmissão
 
-### Artigo 326.º — (Transmissão de acções nominativas)
+### Artigo 326.º — (Transmissão de acções nominativas) (revogado)
 
-1 - As acções nominativas transmitem-se entre vivos por declaração do transmitente escrita no título e pelo pertence lavrado no mesmo e averbamento no livro de acções da sociedade por esta efectuados.
-
-2 - A assinatura do transmitente na declaração de transmissão deve ser reconhecida por notário.
-
-3 - O reconhecimento da assinatura do transmitente no título pode ser substituído por reconhecimento notarial da assinatura em declaração de modelo oficialmente aprovado pelos Ministros das Finanças e da Justiça donde conste a identificação precisa das acções transmitidas.
-
-4 - É proibido o reconhecimento de assinaturas previsto nos n.os 2 e 3 enquanto a declaração de transmissão não estiver totalmente preenchida.
-
-5 - A transmissão das acções considera-se efectuada na data do averbamento referido no n.º 1, mas, se este tiver sido indevidamente retardado pela sociedade, a transmissão considera-se efectuada no quinto dia seguinte à apresentação do título à sociedade.
-
-6 - No caso previsto no n.º 3, o original da declaração ficará arquivado na sociedade.
-
-7 - Quando as acções nominativas sejam transmitidas por qualquer acto judicial, a declaração de transmissão será escrita pelo chefe da competente secção do tribunal, que aporá o respectivo selo branco.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 486/99 - Diário da República n.º 265/1999, Série I-A de 1999-11-13, em vigor a partir de 2000-03-01
 
-### Artigo 327.º — (Transmissão de acções ao portador)
+### Artigo 327.º — (Transmissão de acções ao portador) (revogado)
 
-1 - A transmissão entre vivos de acções ao portador efectua-se pela entrega dos títulos, dependendo da posse dos mesmos o exercício de direitos de sócio.
-
-2 - Para as acções sujeitas ao regime de depósito ou de registo, a prova da posse efectua-se nos termos do artigo 338.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 486/99 - Diário da República n.º 265/1999, Série I-A de 1999-11-13, em vigor a partir de 2000-03-01
 
@@ -6008,7 +5870,7 @@ b) A estipulação de que é livre a transmissão das acções, se a sociedade n
 
 c) A obrigação de a sociedade, no caso de recusar licitamente o consentimento, fazer adquirir as acções por outra pessoa nas condições de preço e pagamento do negócio para que foi solicitado o consentimento; tratando-se de transmissão a título gratuito, ou provando a sociedade que naquele negócio houve simulação de preço, a aquisição far-se-á pelo valor real, determinado nos termos previstos no artigo 105.º, n.º 2.
 
-## Subsecção III — Regime de registo e regime de depósito
+## Subsecção III — Regime de registo e regime de depósito (revogada)
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 486/99 - Diário da República n.º 265/1999, Série I-A de 1999-11-13, em vigor a partir de 2000-03-01
 
@@ -8436,15 +8298,9 @@ b) Nos 30 dias seguintes a algum dos factos referidos nos n.os 1 e 3 deste artig
 
 > Rectificado pelo/a Declaração - Diário da República n.º 276/1986, Suplemento n.º 1, Série I de 1986-11-29, em vigor a partir de 1986-11-29
 
-### Artigo 448.º — (Publicidade de participações de accionistas)
+### Artigo 448.º — (Publicidade de participações de accionistas) (revogado)
 
-1 - O accionista que for titular de acções ao portador não registadas representativas de, pelo menos, um décimo, um terço ou metade do capital de uma sociedade deve comunicar à sociedade o número de acções de que for titular, aplicando-se para este efeito o disposto no artigo 447.º, n.º 2.
-
-2 - A informação prevista no número anterior deve ser também comunicada à sociedade quando o accionista, por qualquer motivo, deixar de ser titular de um número de acções ao portador não registadas representativo de um décimo, um terço ou metade do capital da mesma sociedade.
-
-3 - As comunicações previstas nos números anteriores são feitas, por escrito, ao órgão de administração e ao órgão de fiscalização, nos 30 dias seguintes à verificação dos factos neles previstos.
-
-4 - Em anexo ao relatório anual do órgão de administração será apresentada a lista dos accionistas que, na data do encerramento do exercício social e segundo os registos da sociedade e as informações prestadas, sejam titulares de, pelo menos, um décimo, um terço ou metade do capital, bem como dos accionistas que tenham deixado de ser titulares das referidas fracções do capital.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Lei n.º 15/2017 - Diário da República n.º 85/2017, Série I de 2017-05-03, em vigor a partir de 2017-05-04
 
@@ -8546,15 +8402,9 @@ f) Data e assinatura do revisor oficial de contas.
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 328/95 - Diário da República n.º 283/1995, Série I-A de 1995-12-09, em vigor a partir de 1996-01-08
 
-### Artigo 454.º — Deliberação do conselho geral
+### Artigo 454.º — Deliberação do conselho geral (revogado)
 
-1 - O conselho geral deve apreciar o relatório anual do revisor oficial de contas e a certificação legal das contas, deliberar sobre o relatório e as contas do exercício apresentados pela direcção e elaborar um relatório anual sobre a sua actividade, que será apresentado à assembleia geral.
-
-2 - A deliberação do conselho geral que aprove sem reservas as contas do exercício pode ser declarada nula pelo tribunal a requerimento de qualquer accionista ou, verificando-se ofensa de normas destinadas a proteger interesses de credores, também a requerimento destes, no prazo de três anos.
-
-3 - Se o conselho geral, de acordo com a certificação legal das contas ou com a declaração de impossibilidade de certificação legal das contas do revisor oficial de contas, não aprovar as contas ou as aprovar com reservas, a sua deliberação é definitiva.
-
-4 - Se o conselho geral, em desacordo com tal certificação do revisor oficial de contas, não aprovar as contas ou as aprovar com reservas diferentes, a divergência deve ser submetida à assembleia geral que delibera sobre os pontos de discordância entre as contas apresentadas pela direcção, a certificação ou declaração do revisor oficial de contas e a deliberação do conselho geral.
+[Revogado.]
 
 > Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
 
@@ -9538,15 +9388,9 @@ O gerente ou administrador de sociedade que, verificando pelas contas de exercí
 
 > Aditado pelo/a Artigo 1.º do/a Decreto-Lei n.º 184/87 - Diário da República n.º 92/1987, Série I de 1987-04-21, em vigor a partir de 1987-05-21
 
-### Artigo 524.º — Abuso de informações
+### Artigo 524.º — Abuso de informações (revogado)
 
-1 - Aquele que, sendo membro de órgão de administração, fiscalização ou liquidação de sociedade anónima, revelar ilicitamente a outrem factos relativos à sociedade aos quais não tenha sido dada previamente publicidade, e que sejam susceptíveis de influir no valor dos títulos por ela emitidos, será punido com prisão até seis meses e multa até 120 dias.
-
-2 - Com a mesma pena será punido aquele que, sendo membro de órgão de administração ou de órgão de fiscalização de sociedade anónima, revelar ilicitamente a outrem factos relativos à fusão desta com outras sociedades, aos quais não tenha sido dada previamente publicidade, e que sejam susceptíveis de influírem no valor dos títulos das sociedades que participarem na fusão, ou de sociedades que com elas estejam em relação de domínio.
-
-3 - Se o facto for cometido com intenção de causar dano, material ou moral, a algum sócio que para o mesmo facto não concorrer conscientemente, à sociedade, ou a terceiro, a pena será de prisão até um ano e multa até 150 dias.
-
-4 - Aquele que revelar ilicitamente a outrem factos de que haja tomado conhecimento em razão de serviço permanente ou temporário prestado à sociedade, ou por ocasião dele, ocorrendo quanto aos factos revelados as circunstâncias descritas nos n.os 1 e 2, será punido com prisão até três meses e multa até 90 dias.
+[Revogado.]
 
 > Revogado pelo/a Artigo 24.º do/a Decreto-Lei n.º 142-A/91 - Diário da República n.º 83/1991, 1º Suplemento, Série I-A de 1991-04-10, em vigor a partir de 1988-07-09
 
@@ -9554,13 +9398,9 @@ O gerente ou administrador de sociedade que, verificando pelas contas de exercí
 
 > Aditado pelo/a Artigo 1.º do/a Decreto-Lei n.º 184/87 - Diário da República n.º 92/1987, Série I de 1987-04-21, em vigor a partir de 1987-05-21
 
-### Artigo 525.º — Manipulação fraudulenta de cotações de títulos
+### Artigo 525.º — Manipulação fraudulenta de cotações de títulos (revogado)
 
-1 - O administrador, director ou liquidatário de sociedade que, mediante simulação de subscrição ou de pagamento, difusão pública de notícias falsas ou qualquer outro artifício fraudulento, der causa a que aumente ou diminua a cotação de acções ou de obrigações, ou de outros títulos com cotação na bolsa, emitidos pela sociedade, ou para o mesmo fim receber ou tentar receber, pessoalmente ou por outrem, subscrição ou pagamento de título, será punido com prisão até seis meses e multa até 120 dias.
-
-2 - Se o facto for praticado com intenção de causar dano, material ou moral, a algum sócio que para o mesmo facto não concorrer conscientemente, à sociedade, ou a terceiro, a pena será de prisão até um ano e multa até 150 dias.
-
-3 - O administrador, director ou liquidatário que, tendo conhecimento de factos praticados por outrem nas circunstâncias e para os fins descritos no n.º 1, omitir ou fizer omitir por outrem as diligências que forem convenientes para evitar os seus efeitos será punido, se pena mais grave não couber por força de outra disposição legal, com prisão até três meses e multa até 90 dias.
+[Revogado.]
 
 > Revogado pelo/a Artigo 24.º do/a Decreto-Lei n.º 142-A/91 - Diário da República n.º 83/1991, 1º Suplemento, Série I-A de 1991-04-10, em vigor a partir de 1988-07-09
 

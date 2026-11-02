@@ -5030,6 +5030,10 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R1828	Artigo 1.º		52	67	178	ue/regulamentos/2026/32026R1828.md
 32026R1828	Artigo 2.º		69	97	500	ue/regulamentos/2026/32026R1828.md
 32026R1828	ANEXO		99	105	298	ue/regulamentos/2026/32026R1828.md
+32026R1829	Preâmbulo		19	39	944	ue/regulamentos/2026/32026R1829.md
+32026R1829	Artigo 1.º		43	45	34	ue/regulamentos/2026/32026R1829.md
+32026R1829	Artigo 2.º		47	61	109	ue/regulamentos/2026/32026R1829.md
+32026R1829	ANEXO		63	182	4706	ue/regulamentos/2026/32026R1829.md
 32026R1832	Preâmbulo		18	46	1082	ue/regulamentos/2026/32026R1832.md
 32026R1832	Artigo 1.º	Renovação da autorização	50	52	69	ue/regulamentos/2026/32026R1832.md
 32026R1832	Artigo 2.º	Revogação	54	56	33	ue/regulamentos/2026/32026R1832.md
@@ -5045,6 +5049,56 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R1840	Artigo 2.º		158	162	93	ue/regulamentos/2026/32026R1840.md
 32026R1840	Artigo 3.º		164	170	232	ue/regulamentos/2026/32026R1840.md
 32026R1840	Artigo 4.º		172	196	479	ue/regulamentos/2026/32026R1840.md
+32026R1841	Preâmbulo		19	53	1762	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 1.º	Alteração do pedido	57	71	312	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 2.º	Pedido de declaração de nulidade	73	123	1376	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 3.º	Línguas utilizadas nos processos de declaração de nulidade	125	129	266	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 4.º	Informação às partes relativamente ao pedido de declaração de nulidade	131	133	103	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 5.º	Admissibilidade de um pedido de declaração de nulidade	135	145	716	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 6.º	Exame do pedido de declaração de nulidade	147	159	520	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 7.º	Exame dos processos perante a Divisão de Anulação a título prioritário	161	163	114	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 8.º	Pedidos múltiplos para declaração de nulidade	165	173	342	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 9.º	Participação do contrafator presumido no processo	175	177	74	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 10.º	Recursos	179	181	88	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 11.º	Processo oral e instrução	183	185	92	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 12.º	Notificações pelo Instituto	187	189	86	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 13.º	Notificação aos representantes	191	197	221	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 14.º	Irregularidades na notificação	199	201	62	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 15.º	Notificação de documentos no caso de haver várias partes	203	205	69	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 16.º	Comunicação com a Secretaria Internacional	207	209	61	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 17.º	Comunicações ao Instituto	211	217	362	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 18.º	Formulários	219	221	36	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 19.º	Comunicações dos representantes	223	225	70	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 20.º	Cálculo e duração dos prazos	227	235	346	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 21.º	Prorrogação de prazos	237	239	140	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 22.º	Termo do prazo em casos especiais	241	245	121	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 23.º	Cancelamento de uma inscrição no Registo ou revogação de uma decisão	247	259	421	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 24.º	Condições de suspensão do processo	261	273	347	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 25.º	Reatamento do processo	275	285	382	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 26.º	Representação	287	289	62	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 27.º	Revogação e disposições transitórias	291	301	204	ue/regulamentos/2026/32026R1841.md
+32026R1841	Artigo 28.º	Entrada em vigor e aplicação	303	337	765	ue/regulamentos/2026/32026R1841.md
+32026R1842	Preâmbulo		19	65	1638	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 1.º	Conteúdo do pedido	69	89	723	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 2.º	Representação do desenho ou modelo	91	97	270	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 3.º	Reivindicação de prioridade	99	103	241	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 4.º	Prioridade de exposição	105	109	245	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 5.º	Conteúdo da publicação de um registo	111	143	928	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 6.º	Certificado de registo	145	149	182	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 7.º	Conteúdo do pedido de modificação	151	161	174	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 8.º	Conteúdo de um pedido de alteração do nome ou do endereço	163	175	290	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 9.º	Pedido de registo de uma transmissão	177	203	546	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 10.º	Renúncia	205	217	331	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 11.º	Taxas máximas das custas	219	243	714	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 12.º	Publicações periódicas	245	253	233	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 13.º	Intercâmbio de informações e comunicações	255	263	255	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 14.º	Abertura de processos para consulta	265	271	222	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 15.º	Apresentação de documentos comprovativos em processos escritos	273	275	177	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 16.º	Padrões de qualidade das traduções	277	285	222	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 17.º	Autenticidade jurídica das traduções	287	289	108	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 18.º	Decisões da Divisão de Anulação tomadas por um único membro	291	305	260	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 19.º	Revogação e disposições transitórias	307	315	182	ue/regulamentos/2026/32026R1842.md
+32026R1842	Artigo 20.º	Entrada em vigor e aplicação	317	353	918	ue/regulamentos/2026/32026R1842.md
 32026R1843	Preâmbulo		18	40	519	ue/regulamentos/2026/32026R1843.md
 32026R1843	Artigo 1.º		44	46	31	ue/regulamentos/2026/32026R1843.md
 32026R1843	Artigo 2.º		48	62	100	ue/regulamentos/2026/32026R1843.md
@@ -5251,6 +5305,10 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R1914	Artigo 2.º		1508	1514	200	ue/regulamentos/2026/32026R1914.md
 32026R1914	Artigo 3.º		1516	1520	128	ue/regulamentos/2026/32026R1914.md
 32026R1914	Artigo 4.º		1522	1792	7057	ue/regulamentos/2026/32026R1914.md
+32026R1915	Preâmbulo		18	52	1328	ue/regulamentos/2026/32026R1915.md
+32026R1915	Artigo 1.º	Medidas técnicas para o goraz (Pagellus bogaraveo) nas subzonas CIEM 6 a 8	56	58	52	ue/regulamentos/2026/32026R1915.md
+32026R1915	Artigo 2.º	Entrada em vigor e período de aplicação	60	82	369	ue/regulamentos/2026/32026R1915.md
+32026R1915	ANEXO		84	127	854	ue/regulamentos/2026/32026R1915.md
 32026R1920	Preâmbulo		18	34	363	ue/regulamentos/2026/32026R1920.md
 32026R1920	Artigo 1.º		38	40	48	ue/regulamentos/2026/32026R1920.md
 32026R1920	Artigo 2.º		42	66	253	ue/regulamentos/2026/32026R1920.md
@@ -5618,295 +5676,295 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2107	Preâmbulo		18	1264	44105	ue/regulamentos/2026/32026R2107.md
 32026R2107	Artigo 1.º		1268	1279	292	ue/regulamentos/2026/32026R2107.md
 32026R2107	Artigo 2.º		1281	1419	2133	ue/regulamentos/2026/32026R2107.md
-32026R2108	Preâmbulo		18	494	32749	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 1.º	Objeto e âmbito de aplicação	502	512	342	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 2.º	Missão das autoridades aduaneiras	514	518	286	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 3.º	Território aduaneiro	520	583	659	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 4.º	Delegação de poderes	585	587	180	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 5.º	Definições	591	855	5973	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 6.º	Autoridade aduaneira competente	859	905	1165	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 7.º	Regras operacionais aplicáveis às estâncias aduaneiras competentes	907	911	148	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 8.º	Decisões adotadas mediante pedido	917	993	1905	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 9.º	Gestão das decisões adotadas mediante pedido	995	1017	795	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 10.º	Validade das decisões a nível da União	1019	1021	72	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 11.º	Anulação de decisões favoráveis	1023	1037	256	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 12.º	Revogação, suspensão e alteração de decisões favoráveis	1039	1073	750	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 13.º	Decisões adotadas sem ter havido pedido	1075	1077	87	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 14.º	Limitações aplicáveis às decisões sobre mercadorias sujeitas a um regime aduaneiro ou em depósito temporário	1079	1081	130	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 15.º	Decisões relativas a informações vinculativas	1085	1115	628	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 16.º	Gestão das decisões relativas a informações vinculativas	1117	1183	2062	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 17.º	Decisões proferidas por uma autoridade judicial	1187	1189	84	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 18.º	Direito de recurso	1191	1205	285	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 19.º	Suspensão da execução	1207	1213	206	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 20.º	Taxas, custos e taxa de manuseamento da União	1217	1249	908	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 21.º	Conversão monetária	1253	1263	296	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 22.º	Períodos, datas e prazos	1265	1269	128	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 23.º	Confidencialidade dos dados	1273	1285	605	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 24.º	Intercâmbio de informações adicionais entre as autoridades aduaneiras e os operadores económicos	1287	1291	206	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 25.º	Prestação de informações pelas autoridades aduaneiras	1293	1297	190	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 26.º	Registo	1303	1331	753	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 27.º	Importadores	1335	1363	498	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 28.º	Exportadores	1367	1393	531	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 29.º	Pedido de estatuto de operador económico autorizado e respetiva autorização	1397	1429	1065	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 30.º	Concessão do estatuto de operador económico autorizado	1431	1457	736	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 31.º	Concessão do estatuto de operador de confiança certificado	1459	1553	3174	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 32.º	Adaptação dos estatutos de operador económico autorizado e de operador de confiança e certificado	1555	1559	158	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 33.º	Representantes aduaneiros	1563	1593	682	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 34.º	Habilitação dos representantes	1595	1603	252	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 35.º	Criação da Plataforma de Dados Aduaneiros da UE	1609	1611	34	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 36.º	Objetivos da Plataforma de Dados Aduaneiros da UE	1613	1615	70	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 37.º	Soberania digital	1617	1641	1114	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 38.º	Funcionalidades e características da Plataforma de Dados Aduaneiros da UE	1645	1695	1368	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 39.º	Fase-piloto da Plataforma de Dados Aduaneiros da UE	1697	1709	195	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 40.º	Aplicações nacionais complementares da Plataforma de Dados Aduaneiros da UE	1711	1725	344	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 41.º	Finalidades do tratamento de dados pessoais e de outros dados na Plataforma de Dados Aduaneiros da UE	1729	1803	2208	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 42.º	Direito da Procuradoria Europeia de obter dados disponíveis na Plataforma de Dados Aduaneiros da UE	1805	1825	516	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 43.º	Direito da Europol e da Frontex de obterem dados disponíveis na Plataforma de Dados Aduaneiros da UE	1827	1859	1013	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 44.º	Dados pessoais na Plataforma de Dados Aduaneiros da UE	1861	1925	875	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 45.º	Prazo de guarda dos dados pessoais na Plataforma de Dados Aduaneiros da UE	1927	1933	323	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 46.º	Funções e responsabilidades pelos dados pessoais tratados na Plataforma de Dados Aduaneiros da UE	1935	1955	710	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 47.º	Limitações dos direitos dos titulares dos dados	1957	1979	1010	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 48.º	Supervisão coordenada da Autoridade Europeia para a Proteção de Dados e das autoridades nacionais de controlo	1981	1983	118	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 49.º	Modelo de Dados Aduaneiros da UE	1985	1987	82	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 50.º	Meios técnicos de cooperação	1989	1999	456	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 51.º	Desenvolvimento, exploração e manutenção da Plataforma de Dados Aduaneiros da UE	2003	2021	368	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 52.º	Continuidade das atividades	2023	2027	213	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 53.º	Derrogações	2029	2045	392	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 54.º	Fiscalização aduaneira	2051	2079	673	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 55.º	Princípios gerais	2083	2103	614	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 56.º	Papel da Comissão	2105	2117	340	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 57.º	Papel da Autoridade Aduaneira da UE	2119	2147	948	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 58.º	Papel das autoridades aduaneiras nacionais	2149	2167	435	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 59.º	Critérios e normas de risco comuns	2169	2189	260	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 60.º	Informações pertinentes para a gestão dos riscos e os controlos	2191	2199	409	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 61.º	Avaliação da gestão dos riscos aduaneiros	2201	2209	401	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 62.º	Atribuição de competências de execução	2211	2237	808	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 63.º	Controlos aduaneiros	2241	2269	422	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 64.º	Verificação dos dados fornecidos ou disponibilizados	2271	2285	260	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 65.º	Verificação e extração de amostras das mercadorias	2287	2303	726	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 66.º	Resultados da verificação dos dados	2305	2323	516	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 67.º	Medidas de identificação	2325	2333	295	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 68.º	Controlos após a autorização de saída	2335	2349	413	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 69.º	Auditorias	2351	2359	216	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 70.º	Serviços aéreos e marítimos intra-União	2361	2389	457	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 71.º	Presunção do estatuto aduaneiro de mercadorias UE	2395	2411	436	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 72.º	Perda do estatuto aduaneiro de mercadorias UE	2413	2423	196	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 73.º	Mercadorias UE que saem temporariamente do território aduaneiro da União	2425	2431	220	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 74.º	Sujeição das mercadorias a um regime aduaneiro	2435	2463	917	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 75.º	Outras formas de notificação da disponibilidade das mercadorias	2465	2471	140	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 76.º	Informações e documentos de suporte	2473	2495	826	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 77.º	Autorização de saída das mercadorias	2497	2559	1485	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 78.º	Autorização de saída das mercadorias por conta das autoridades aduaneiras por parte de operadores de confiança certificados	2561	2579	705	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 79.º	Alteração de informações relativas à sujeição das mercadorias a um regime aduaneiro	2581	2601	528	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 80.º	Anulação dos dados relativos à sujeição das mercadorias a um regime aduaneiro	2603	2619	538	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 81.º	Declaração aduaneira	2623	2651	550	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 82.º	Declaração aduaneira normalizada	2653	2657	152	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 83.º	Declaração simplificada	2659	2667	221	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 84.º	Declaração complementar	2669	2705	744	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 85.º	Entrega da declaração aduaneira	2707	2733	629	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 86.º	Entrega de uma declaração aduaneira antes da apresentação das mercadorias à alfândega	2735	2739	162	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 87.º	Aceitação de uma declaração aduaneira	2741	2747	230	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 88.º	Alteração de uma declaração aduaneira	2749	2763	373	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 89.º	Anulação de uma declaração aduaneira	2765	2781	433	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 90.º	Simplificação do preenchimento dos dados para as mercadorias classificadas em diferentes subposições pautais	2783	2791	308	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 91.º	Desalfandegamento centralizado	2793	2823	759	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 92.º	Inscrição nos registos do declarante	2825	2849	653	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 93.º	Expiração da validade	2851	2853	65	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 94.º	Medidas a adotar pelas autoridades aduaneiras	2857	2893	938	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 95.º	Inutilização de mercadorias	2895	2901	308	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 96.º	Abandono	2903	2907	127	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 97.º	Informações prévias sobre a carga	2913	2961	1577	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 98.º	Análise dos riscos das informações prévias sobre a carga	2963	2981	552	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 99.º	Alteração das informações prévias sobre a carga	2983	3003	530	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 100.º	Anulação das informações prévias sobre a carga	3005	3013	339	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 101.º	Notificação de chegada relativamente à entrada de meios de transporte e de mercadorias	3015	3053	1423	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 102.º	Encaminhamento até ao local adequado	3055	3069	599	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 103.º	Apresentação física das mercadorias à alfândega	3071	3083	448	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 104.º	Depósito temporário de mercadorias	3085	3107	833	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 105.º	Informações sobre o depósito temporário	3109	3127	530	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 106.º	Alteração das informações sobre o depósito temporário	3129	3147	388	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 107.º	Anulação das informações sobre o depósito temporário	3149	3159	348	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 108.º	Autorização de exploração de armazéns de depósito temporário	3161	3205	1019	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 109.º	Âmbito e efeitos	3209	3227	590	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 110.º	Aplicação de medidas de política comercial ao aperfeiçoamento ativo e passivo	3229	3243	362	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 111.º	Mercadorias de retorno	3247	3267	644	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 112.º	Mercadorias anteriormente sujeitas ao regime de aperfeiçoamento ativo	3269	3277	330	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 113.º	Produtos da pesca marítima e outros produtos extraídos do mar	3279	3289	250	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 114.º	Exportação	3295	3333	606	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 115.º	Franquia de direitos de exportação para mercadorias UE exportadas temporariamente	3335	3337	78	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 116.º	Reexportação	3339	3363	512	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 117.º	Informações prévias à saída	3367	3411	1242	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 118.º	Análise dos riscos das informações prévias à saída	3413	3431	576	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 119.º	Alteração das informações prévias à saída	3433	3455	544	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 120.º	Anulação das informações prévias à saída	3457	3465	314	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 121.º	Notificação da chegada das mercadorias ao ponto de saída	3467	3481	463	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 122.º	Apresentação física das mercadorias à alfândega	3483	3489	166	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 123.º	Confirmação de saída	3491	3493	88	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 124.º	Âmbito de aplicação	3499	3509	105	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 125.º	Autorização	3511	3591	1952	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 126.º	Autorizações com efeitos retroativos	3593	3619	499	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 127.º	Alteração retroativa da autorização	3621	3641	402	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 128.º	Registos	3643	3651	362	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 129.º	Apuramento de um regime especial	3653	3665	362	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 130.º	Transferência de direitos e obrigações	3667	3679	322	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 131.º	Circulação de mercadorias	3681	3687	302	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 132.º	Manipulações usuais	3689	3695	208	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 133.º	Mercadorias equivalentes	3697	3743	1144	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 134.º	Âmbito de aplicação	3749	3753	172	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 135.º	Trânsito externo	3755	3783	613	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 136.º	Trânsito interno	3785	3801	308	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 137.º	Território único para efeitos de trânsito	3803	3805	113	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 138.º	Exclusão de pessoas das operações TIR	3807	3811	133	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 139.º	Destinatário autorizado e expedidor autorizado para efeitos de TIR	3813	3821	272	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 140.º	Obrigações do titular do regime de trânsito da União e do transportador e do destinatário de mercadorias que circulem ao abrigo do regime de trânsito da União	3825	3867	1004	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 141.º	Mercadorias que atravessem o território de um país terceiro ao abrigo do regime de trânsito externo da União	3869	3879	254	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 142.º	Âmbito de aplicação	3885	3909	534	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 143.º	Duração do regime de armazenamento	3911	3919	152	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 144.º	Armazenamento em entreposto aduaneiro	3923	3929	210	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 145.º	Entreposto aduaneiro para vendas à distância	3931	3949	528	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 146.º	Aperfeiçoamento num entreposto aduaneiro	3951	3955	132	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 147.º	Responsabilidades do titular da autorização	3957	3965	152	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 148.º	Criação de zonas francas	3969	3981	171	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 149.º	Edifícios e atividades nas zonas francas	3983	3991	222	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 150.º	Mercadorias não UE em zonas francas	3993	4003	276	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 151.º	Retirada de mercadorias de uma zona franca	4005	4009	116	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 152.º	Estatuto aduaneiro	4011	4023	254	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 153.º	Âmbito de aplicação	4029	4063	577	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 154.º	Período de permanência das mercadorias sob o regime de importação temporária	4065	4073	274	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 155.º	Montante dos direitos de importação no caso de importação temporária com franquia parcial de direitos de importação	4075	4081	234	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 156.º	Regime de destino especial	4085	4111	684	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 157.º	Taxa de rendimento	4117	4121	152	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 158.º	Âmbito de aplicação	4125	4153	557	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 159.º	Período de apuramento	4155	4167	355	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 160.º	Reexportação temporária para operações de aperfeiçoamento complementares	4169	4173	179	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 161.º	Âmbito de aplicação	4177	4201	647	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 162.º	Mercadorias reparadas ou substituídas gratuitamente	4203	4207	173	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 163.º	Mercadorias reparadas ou alteradas no âmbito de acordos internacionais	4209	4217	208	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 164.º	Sistema de trocas comerciais padrão	4219	4231	351	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 165.º	Importação antecipada de produtos de substituição	4233	4241	229	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 166.º	Pauta Aduaneira Comum e vigilância aduaneira	4247	4283	926	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 167.º	Classificação pautal das mercadorias	4285	4295	352	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 168.º	Origem não preferencial	4299	4307	133	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 169.º	Aquisição da origem não preferencial	4309	4315	324	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 170.º	Prova de origem não preferencial	4317	4325	318	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 171.º	Origem preferencial	4327	4359	890	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 172.º	Determinação da origem de mercadorias específicas	4361	4365	162	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 173.º	Âmbito de aplicação	4369	4371	87	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 174.º	Método de determinação do valor aduaneiro baseado no valor transacional	4373	4393	416	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 175.º	Valor transacional das mercadorias adquiridas através de vendas à distância	4395	4399	121	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 176.º	Elementos do valor transacional	4401	4435	636	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 177.º	Elementos a não incluir no valor aduaneiro	4437	4457	439	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 178.º	Simplificação	4459	4467	180	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 179.º	Métodos secundários de determinação do valor aduaneiro	4469	4499	690	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 180.º.	Valor aduaneiro para efeitos de direitos de exportação	4501	4515	436	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 181.º	Regras processuais aplicáveis à determinação do valor aduaneiro	4517	4527	190	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 182.º	Determinação do valor aduaneiro em situações específicas	4529	4533	215	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 183.º	Introdução em livre prática e importação temporária	4541	4557	397	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 184.º	Disposições específicas relativas às mercadorias não originárias	4559	4569	269	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 185.º	Constituição da dívida aduaneira por incumprimento	4571	4597	758	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 186.º	Dedução do montante já pago de direitos de importação	4599	4605	260	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 187.º	Exportação e aperfeiçoamento passivo	4609	4621	300	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 188.º	Constituição da dívida aduaneira por incumprimento	4623	4647	536	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 189.º	Dívida aduaneira quando as mercadorias estão sujeitas a outra legislação aplicada pelas autoridades aduaneiras	4651	4661	277	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 190.º	Múltiplos devedores	4663	4665	63	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 191.º	Regras gerais para o cálculo do montante dos direitos de importação ou de exportação	4667	4677	408	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 192.º	Regras especiais para o cálculo do montante dos direitos de importação	4679	4703	903	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 193.º	Local de constituição da dívida aduaneira	4705	4725	587	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 194.º	Disposições gerais	4729	4771	1008	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 195.º	Montante de referência de uma garantia obrigatória	4773	4779	278	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 196.º	Montante de referência de uma garantia cautelar	4781	4783	104	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 197.º	Prestação da garantia	4785	4799	240	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 198.º	Escolha da garantia	4801	4807	112	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 199.º	Entidade garante	4809	4819	373	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 200.º	Garantia global	4821	4837	492	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 201.º	Proibições temporárias relativas ao recurso a garantias globais	4839	4857	515	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 202.º	Garantia complementar ou de substituição	4859	4861	147	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 203.º	Liberação da garantia	4863	4871	238	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 204.º	Determinação do montante dos direitos de importação ou de exportação	4877	4891	385	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 205.º	Notificação da dívida aduaneira	4893	4925	1156	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 206.º	Caducidade da dívida aduaneira	4927	4941	392	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 207.º	Registo de liquidação	4943	4951	253	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 208.º	Prazo do registo de liquidação	4953	4973	808	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 209.º	Atribuição de competências de execução	4975	4977	88	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 210.º	Prazos gerais para pagamento e suspensão do prazo do pagamento	4981	4999	472	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 211.º	Pagamento	5001	5007	117	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 212.º	Diferimento do pagamento	5009	5019	284	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 213.º	Período de diferimento do pagamento	5021	5035	553	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 214.º	Outras opções de pagamento	5037	5051	494	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 215.º	Execução forçada	5053	5055	75	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 216.º	Juros de mora	5057	5073	527	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 217.º	Reembolso e dispensa de pagamento	5077	5135	1492	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 218.º	Direitos de importação ou de exportação cobrados em excesso	5137	5141	261	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 219.º	Mercadorias defeituosas ou não conformes com as estipulações do contrato	5143	5161	512	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 220.º	Erro imputável às autoridades competentes	5163	5175	569	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 221.º	Equidade	5177	5181	221	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 222.º	Procedimento de reembolso e de dispensa de pagamento	5183	5201	591	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 223.º	Extinção	5205	5259	1648	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 224.º	Aplicação de sanções	5261	5263	55	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 225.º	Papel da Autoridade Aduaneira da UE e das autoridades aduaneiras	5269	5273	152	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 226.º	Apresentação de relatórios	5275	5281	216	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 227.º	Protocolos e procedimentos	5285	5305	472	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 228.º	Ativação do mecanismo de gestão de crises	5307	5325	547	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 229.º	Criação e estatuto jurídico	5331	5337	119	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 230.º	Sede	5339	5341	22	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 231.º	Missão e objetivos da Autoridade Aduaneira da UE	5343	5357	350	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 232.º	Atribuições	5361	5411	1470	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 233.º	Atribuições adicionais	5413	5415	110	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 234.º	Estrutura administrativa e de gestão	5421	5433	163	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 235.º	Composição do Conselho de Administração	5437	5457	464	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 236.º	Presidência do Conselho de Administração	5459	5467	269	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 237.º	Reuniões do Conselho de Administração	5469	5483	391	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 238.º	Funções do Conselho de Administração	5485	5565	1523	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 239.º	Regras de votação no Conselho de Administração	5567	5575	208	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 240.º	Comissão Executiva	5579	5613	754	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 241.º	Nomeação, exoneração e prorrogação do mandato	5617	5639	693	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 242.º	Funções e responsabilidades do diretor executivo	5641	5685	1221	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 243.º	Diretor executivo adjunto	5687	5689	76	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 244.º	Funções e responsabilidades do diretor executivo adjunto	5691	5693	99	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 245.º	Conselho Consultivo Aduaneiro	5695	5713	366	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 246.º	Nomeação, estatuto e independência do auditor de dados	5717	5723	136	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 247.º	Responsabilidades e funções do auditor de dados	5725	5733	213	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 248.º	Disposições gerais	5737	5739	92	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 249.º	Documento único de programação	5741	5753	701	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 250.º	Elaboração do orçamento	5755	5771	448	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 251.º	Estrutura do orçamento	5773	5791	340	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 252.º	Execução do orçamento	5793	5797	89	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 253.º	Apresentação de contas e quitação	5799	5817	556	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 254.º	Luta contra a fraude	5819	5831	589	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 255.º	Disposições gerais	5835	5837	80	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 256.º	Peritos nacionais destacados e outros membros do pessoal	5839	5843	95	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 257.º	Privilégios e imunidades	5845	5847	56	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 258.º	Transparência e comunicação	5851	5857	304	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 259.º	Obrigação de sigilo profissional	5859	5867	343	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 260.º	Regras de segurança em matéria de proteção de informações classificadas e de informações sensíveis não classificadas	5869	5875	446	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 261.º	Regime linguístico	5877	5883	113	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 262.º	Avaliação	5885	5893	267	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 263.º	Responsabilidade da Autoridade Aduaneira da UE	5895	5907	293	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 264.º	Acordo de sede e condições de funcionamento	5909	5917	420	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 265.º	Início das atividades da Autoridade Aduaneira da UE	5919	5931	393	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 266.º	Cooperação aduaneira interna	5937	5945	447	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 267.º	Controlos conjuntos	5947	5955	250	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 268.º	Cooperação aduaneira com outras autoridades dentro da União	5959	5999	1424	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 269.º	Medidas a tomar pelas autoridades aduaneiras	6001	6027	632	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 270.º	Cooperação aduaneira com autoridades de países terceiros e organizações internacionais	6031	6037	211	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 271.º	Acordos bilaterais com países terceiros	6039	6045	242	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 272.º	Intercâmbio de dados com países terceiros	6047	6089	1377	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 273.º	Objeto e disposições gerais	6093	6103	226	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 274.º	Infrações à legislação aduaneira	6105	6123	276	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 275.º	Sanções	6125	6153	552	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 276.º	Sanções por incumprimento sistemático no caso das vendas à distância	6155	6167	747	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 277.º	Classificação dos operadores económicos como sendo de risco elevado	6169	6177	160	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 278.º	Cooperação entre os Estados-Membros	6179	6183	102	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 279.º	Avaliação e apresentação de relatórios	6189	6201	634	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 280.º	Monitorização	6205	6207	87	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 281.º	Avaliação e apresentação de relatórios	6209	6233	632	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 282.º	Exercício da delegação	6237	6251	1960	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 283.º	Procedimento de comité	6253	6265	231	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 284.º	Revogação	6269	6281	276	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 285.º	Medidas transitórias relacionadas com a criação da Plataforma de Dados Aduaneiros da UE	6283	6297	632	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 286.º	Data de adoção de determinados atos delegados e atos de execução	6299	6313	265	ue/regulamentos/2026/32026R2108.md
-32026R2108	Artigo 287.º	Entrada em vigor e aplicação	6315	6469	4136	ue/regulamentos/2026/32026R2108.md
-32026R2108	ANEXO	TABELA DE CORRESPONDÊNCIA	6471	7205	8730	ue/regulamentos/2026/32026R2108.md
+32026R2108	Preâmbulo		22	498	32749	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 1.º	Objeto e âmbito de aplicação	506	516	342	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 2.º	Missão das autoridades aduaneiras	518	522	286	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 3.º	Território aduaneiro	524	587	659	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 4.º	Delegação de poderes	589	591	180	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 5.º	Definições	595	859	5973	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 6.º	Autoridade aduaneira competente	863	909	1165	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 7.º	Regras operacionais aplicáveis às estâncias aduaneiras competentes	911	915	148	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 8.º	Decisões adotadas mediante pedido	921	997	1905	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 9.º	Gestão das decisões adotadas mediante pedido	999	1021	795	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 10.º	Validade das decisões a nível da União	1023	1025	72	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 11.º	Anulação de decisões favoráveis	1027	1041	256	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 12.º	Revogação, suspensão e alteração de decisões favoráveis	1043	1077	750	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 13.º	Decisões adotadas sem ter havido pedido	1079	1081	87	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 14.º	Limitações aplicáveis às decisões sobre mercadorias sujeitas a um regime aduaneiro ou em depósito temporário	1083	1085	130	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 15.º	Decisões relativas a informações vinculativas	1089	1119	628	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 16.º	Gestão das decisões relativas a informações vinculativas	1121	1187	2062	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 17.º	Decisões proferidas por uma autoridade judicial	1191	1193	84	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 18.º	Direito de recurso	1195	1209	285	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 19.º	Suspensão da execução	1211	1217	206	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 20.º	Taxas, custos e taxa de manuseamento da União	1221	1253	908	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 21.º	Conversão monetária	1257	1267	296	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 22.º	Períodos, datas e prazos	1269	1273	128	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 23.º	Confidencialidade dos dados	1277	1289	605	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 24.º	Intercâmbio de informações adicionais entre as autoridades aduaneiras e os operadores económicos	1291	1295	206	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 25.º	Prestação de informações pelas autoridades aduaneiras	1297	1301	190	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 26.º	Registo	1307	1335	753	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 27.º	Importadores	1339	1367	498	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 28.º	Exportadores	1371	1397	531	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 29.º	Pedido de estatuto de operador económico autorizado e respetiva autorização	1401	1433	1065	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 30.º	Concessão do estatuto de operador económico autorizado	1435	1461	736	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 31.º	Concessão do estatuto de operador de confiança certificado	1463	1557	3174	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 32.º	Adaptação dos estatutos de operador económico autorizado e de operador de confiança e certificado	1559	1563	158	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 33.º	Representantes aduaneiros	1567	1597	682	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 34.º	Habilitação dos representantes	1599	1607	252	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 35.º	Criação da Plataforma de Dados Aduaneiros da UE	1613	1615	34	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 36.º	Objetivos da Plataforma de Dados Aduaneiros da UE	1617	1619	70	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 37.º	Soberania digital	1621	1645	1114	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 38.º	Funcionalidades e características da Plataforma de Dados Aduaneiros da UE	1649	1699	1368	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 39.º	Fase-piloto da Plataforma de Dados Aduaneiros da UE	1701	1713	195	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 40.º	Aplicações nacionais complementares da Plataforma de Dados Aduaneiros da UE	1715	1729	344	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 41.º	Finalidades do tratamento de dados pessoais e de outros dados na Plataforma de Dados Aduaneiros da UE	1733	1807	2208	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 42.º	Direito da Procuradoria Europeia de obter dados disponíveis na Plataforma de Dados Aduaneiros da UE	1809	1829	516	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 43.º	Direito da Europol e da Frontex de obterem dados disponíveis na Plataforma de Dados Aduaneiros da UE	1831	1863	1013	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 44.º	Dados pessoais na Plataforma de Dados Aduaneiros da UE	1865	1929	875	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 45.º	Prazo de guarda dos dados pessoais na Plataforma de Dados Aduaneiros da UE	1931	1937	323	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 46.º	Funções e responsabilidades pelos dados pessoais tratados na Plataforma de Dados Aduaneiros da UE	1939	1959	710	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 47.º	Limitações dos direitos dos titulares dos dados	1961	1983	1010	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 48.º	Supervisão coordenada da Autoridade Europeia para a Proteção de Dados e das autoridades nacionais de controlo	1985	1987	118	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 49.º	Modelo de Dados Aduaneiros da UE	1989	1991	82	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 50.º	Meios técnicos de cooperação	1993	2003	456	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 51.º	Desenvolvimento, exploração e manutenção da Plataforma de Dados Aduaneiros da UE	2007	2025	368	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 52.º	Continuidade das atividades	2027	2031	213	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 53.º	Derrogações	2033	2049	392	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 54.º	Fiscalização aduaneira	2055	2083	673	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 55.º	Princípios gerais	2087	2107	614	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 56.º	Papel da Comissão	2109	2121	340	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 57.º	Papel da Autoridade Aduaneira da UE	2123	2151	948	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 58.º	Papel das autoridades aduaneiras nacionais	2153	2171	435	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 59.º	Critérios e normas de risco comuns	2173	2193	260	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 60.º	Informações pertinentes para a gestão dos riscos e os controlos	2195	2203	409	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 61.º	Avaliação da gestão dos riscos aduaneiros	2205	2213	401	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 62.º	Atribuição de competências de execução	2215	2241	808	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 63.º	Controlos aduaneiros	2245	2273	422	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 64.º	Verificação dos dados fornecidos ou disponibilizados	2275	2289	260	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 65.º	Verificação e extração de amostras das mercadorias	2291	2307	726	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 66.º	Resultados da verificação dos dados	2309	2327	516	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 67.º	Medidas de identificação	2329	2337	295	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 68.º	Controlos após a autorização de saída	2339	2353	413	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 69.º	Auditorias	2355	2363	216	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 70.º	Serviços aéreos e marítimos intra-União	2365	2393	457	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 71.º	Presunção do estatuto aduaneiro de mercadorias UE	2399	2415	436	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 72.º	Perda do estatuto aduaneiro de mercadorias UE	2417	2427	196	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 73.º	Mercadorias UE que saem temporariamente do território aduaneiro da União	2429	2435	220	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 74.º	Sujeição das mercadorias a um regime aduaneiro	2439	2467	917	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 75.º	Outras formas de notificação da disponibilidade das mercadorias	2469	2475	140	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 76.º	Informações e documentos de suporte	2477	2499	826	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 77.º	Autorização de saída das mercadorias	2501	2563	1485	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 78.º	Autorização de saída das mercadorias por conta das autoridades aduaneiras por parte de operadores de confiança certificados	2565	2583	705	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 79.º	Alteração de informações relativas à sujeição das mercadorias a um regime aduaneiro	2585	2605	528	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 80.º	Anulação dos dados relativos à sujeição das mercadorias a um regime aduaneiro	2607	2623	538	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 81.º	Declaração aduaneira	2627	2655	550	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 82.º	Declaração aduaneira normalizada	2657	2661	152	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 83.º	Declaração simplificada	2663	2671	221	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 84.º	Declaração complementar	2673	2709	744	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 85.º	Entrega da declaração aduaneira	2711	2737	629	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 86.º	Entrega de uma declaração aduaneira antes da apresentação das mercadorias à alfândega	2739	2743	162	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 87.º	Aceitação de uma declaração aduaneira	2745	2751	230	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 88.º	Alteração de uma declaração aduaneira	2753	2767	373	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 89.º	Anulação de uma declaração aduaneira	2769	2785	433	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 90.º	Simplificação do preenchimento dos dados para as mercadorias classificadas em diferentes subposições pautais	2787	2795	308	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 91.º	Desalfandegamento centralizado	2797	2827	759	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 92.º	Inscrição nos registos do declarante	2829	2853	653	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 93.º	Expiração da validade	2855	2857	65	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 94.º	Medidas a adotar pelas autoridades aduaneiras	2861	2897	938	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 95.º	Inutilização de mercadorias	2899	2905	308	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 96.º	Abandono	2907	2911	127	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 97.º	Informações prévias sobre a carga	2917	2965	1577	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 98.º	Análise dos riscos das informações prévias sobre a carga	2967	2985	552	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 99.º	Alteração das informações prévias sobre a carga	2987	3007	530	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 100.º	Anulação das informações prévias sobre a carga	3009	3017	339	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 101.º	Notificação de chegada relativamente à entrada de meios de transporte e de mercadorias	3019	3057	1423	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 102.º	Encaminhamento até ao local adequado	3059	3073	599	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 103.º	Apresentação física das mercadorias à alfândega	3075	3087	448	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 104.º	Depósito temporário de mercadorias	3089	3111	833	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 105.º	Informações sobre o depósito temporário	3113	3131	530	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 106.º	Alteração das informações sobre o depósito temporário	3133	3151	388	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 107.º	Anulação das informações sobre o depósito temporário	3153	3163	348	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 108.º	Autorização de exploração de armazéns de depósito temporário	3165	3209	1019	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 109.º	Âmbito e efeitos	3213	3231	590	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 110.º	Aplicação de medidas de política comercial ao aperfeiçoamento ativo e passivo	3233	3247	362	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 111.º	Mercadorias de retorno	3251	3271	644	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 112.º	Mercadorias anteriormente sujeitas ao regime de aperfeiçoamento ativo	3273	3281	330	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 113.º	Produtos da pesca marítima e outros produtos extraídos do mar	3283	3293	250	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 114.º	Exportação	3299	3337	606	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 115.º	Franquia de direitos de exportação para mercadorias UE exportadas temporariamente	3339	3341	78	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 116.º	Reexportação	3343	3367	512	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 117.º	Informações prévias à saída	3371	3415	1242	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 118.º	Análise dos riscos das informações prévias à saída	3417	3435	576	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 119.º	Alteração das informações prévias à saída	3437	3459	544	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 120.º	Anulação das informações prévias à saída	3461	3469	314	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 121.º	Notificação da chegada das mercadorias ao ponto de saída	3471	3485	463	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 122.º	Apresentação física das mercadorias à alfândega	3487	3493	166	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 123.º	Confirmação de saída	3495	3497	88	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 124.º	Âmbito de aplicação	3503	3513	105	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 125.º	Autorização	3515	3595	1952	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 126.º	Autorizações com efeitos retroativos	3597	3623	499	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 127.º	Alteração retroativa da autorização	3625	3645	402	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 128.º	Registos	3647	3655	362	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 129.º	Apuramento de um regime especial	3657	3669	362	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 130.º	Transferência de direitos e obrigações	3671	3683	322	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 131.º	Circulação de mercadorias	3685	3691	302	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 132.º	Manipulações usuais	3693	3699	208	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 133.º	Mercadorias equivalentes	3701	3747	1144	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 134.º	Âmbito de aplicação	3753	3757	172	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 135.º	Trânsito externo	3759	3787	613	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 136.º	Trânsito interno	3789	3805	308	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 137.º	Território único para efeitos de trânsito	3807	3809	113	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 138.º	Exclusão de pessoas das operações TIR	3811	3815	133	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 139.º	Destinatário autorizado e expedidor autorizado para efeitos de TIR	3817	3825	272	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 140.º	Obrigações do titular do regime de trânsito da União e do transportador e do destinatário de mercadorias que circulem ao abrigo do regime de trânsito da União	3829	3871	1004	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 141.º	Mercadorias que atravessem o território de um país terceiro ao abrigo do regime de trânsito externo da União	3873	3883	254	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 142.º	Âmbito de aplicação	3889	3913	534	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 143.º	Duração do regime de armazenamento	3915	3923	152	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 144.º	Armazenamento em entreposto aduaneiro	3927	3933	210	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 145.º	Entreposto aduaneiro para vendas à distância	3935	3953	528	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 146.º	Aperfeiçoamento num entreposto aduaneiro	3955	3959	132	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 147.º	Responsabilidades do titular da autorização	3961	3969	152	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 148.º	Criação de zonas francas	3973	3985	171	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 149.º	Edifícios e atividades nas zonas francas	3987	3995	222	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 150.º	Mercadorias não UE em zonas francas	3997	4007	276	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 151.º	Retirada de mercadorias de uma zona franca	4009	4013	116	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 152.º	Estatuto aduaneiro	4015	4027	254	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 153.º	Âmbito de aplicação	4033	4067	577	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 154.º	Período de permanência das mercadorias sob o regime de importação temporária	4069	4077	274	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 155.º	Montante dos direitos de importação no caso de importação temporária com franquia parcial de direitos de importação	4079	4085	234	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 156.º	Regime de destino especial	4089	4115	684	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 157.º	Taxa de rendimento	4121	4125	152	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 158.º	Âmbito de aplicação	4129	4157	557	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 159.º	Período de apuramento	4159	4171	355	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 160.º	Reexportação temporária para operações de aperfeiçoamento complementares	4173	4177	179	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 161.º	Âmbito de aplicação	4181	4205	647	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 162.º	Mercadorias reparadas ou substituídas gratuitamente	4207	4211	173	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 163.º	Mercadorias reparadas ou alteradas no âmbito de acordos internacionais	4213	4221	208	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 164.º	Sistema de trocas comerciais padrão	4223	4235	351	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 165.º	Importação antecipada de produtos de substituição	4237	4245	229	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 166.º	Pauta Aduaneira Comum e vigilância aduaneira	4251	4287	926	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 167.º	Classificação pautal das mercadorias	4289	4299	352	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 168.º	Origem não preferencial	4303	4311	133	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 169.º	Aquisição da origem não preferencial	4313	4319	324	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 170.º	Prova de origem não preferencial	4321	4329	318	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 171.º	Origem preferencial	4331	4363	890	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 172.º	Determinação da origem de mercadorias específicas	4365	4369	162	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 173.º	Âmbito de aplicação	4373	4375	87	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 174.º	Método de determinação do valor aduaneiro baseado no valor transacional	4377	4397	416	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 175.º	Valor transacional das mercadorias adquiridas através de vendas à distância	4399	4403	121	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 176.º	Elementos do valor transacional	4405	4439	636	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 177.º	Elementos a não incluir no valor aduaneiro	4441	4461	439	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 178.º	Simplificação	4463	4471	180	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 179.º	Métodos secundários de determinação do valor aduaneiro	4473	4503	690	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 180.º.	Valor aduaneiro para efeitos de direitos de exportação	4505	4519	436	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 181.º	Regras processuais aplicáveis à determinação do valor aduaneiro	4521	4531	190	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 182.º	Determinação do valor aduaneiro em situações específicas	4533	4537	215	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 183.º	Introdução em livre prática e importação temporária	4545	4561	397	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 184.º	Disposições específicas relativas às mercadorias não originárias	4563	4573	269	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 185.º	Constituição da dívida aduaneira por incumprimento	4575	4601	758	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 186.º	Dedução do montante já pago de direitos de importação	4603	4609	260	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 187.º	Exportação e aperfeiçoamento passivo	4613	4625	300	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 188.º	Constituição da dívida aduaneira por incumprimento	4627	4651	536	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 189.º	Dívida aduaneira quando as mercadorias estão sujeitas a outra legislação aplicada pelas autoridades aduaneiras	4655	4665	277	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 190.º	Múltiplos devedores	4667	4669	63	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 191.º	Regras gerais para o cálculo do montante dos direitos de importação ou de exportação	4671	4681	408	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 192.º	Regras especiais para o cálculo do montante dos direitos de importação	4683	4707	903	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 193.º	Local de constituição da dívida aduaneira	4709	4729	587	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 194.º	Disposições gerais	4733	4775	1008	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 195.º	Montante de referência de uma garantia obrigatória	4777	4783	278	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 196.º	Montante de referência de uma garantia cautelar	4785	4787	104	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 197.º	Prestação da garantia	4789	4803	240	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 198.º	Escolha da garantia	4805	4811	112	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 199.º	Entidade garante	4813	4823	373	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 200.º	Garantia global	4825	4841	492	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 201.º	Proibições temporárias relativas ao recurso a garantias globais	4843	4861	515	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 202.º	Garantia complementar ou de substituição	4863	4865	147	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 203.º	Liberação da garantia	4867	4875	238	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 204.º	Determinação do montante dos direitos de importação ou de exportação	4881	4895	385	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 205.º	Notificação da dívida aduaneira	4897	4929	1156	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 206.º	Caducidade da dívida aduaneira	4931	4945	392	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 207.º	Registo de liquidação	4947	4955	253	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 208.º	Prazo do registo de liquidação	4957	4977	808	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 209.º	Atribuição de competências de execução	4979	4981	88	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 210.º	Prazos gerais para pagamento e suspensão do prazo do pagamento	4985	5003	472	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 211.º	Pagamento	5005	5011	117	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 212.º	Diferimento do pagamento	5013	5023	284	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 213.º	Período de diferimento do pagamento	5025	5039	553	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 214.º	Outras opções de pagamento	5041	5055	494	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 215.º	Execução forçada	5057	5059	75	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 216.º	Juros de mora	5061	5077	527	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 217.º	Reembolso e dispensa de pagamento	5081	5139	1492	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 218.º	Direitos de importação ou de exportação cobrados em excesso	5141	5145	261	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 219.º	Mercadorias defeituosas ou não conformes com as estipulações do contrato	5147	5165	512	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 220.º	Erro imputável às autoridades competentes	5167	5179	569	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 221.º	Equidade	5181	5185	221	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 222.º	Procedimento de reembolso e de dispensa de pagamento	5187	5205	591	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 223.º	Extinção	5209	5263	1648	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 224.º	Aplicação de sanções	5265	5267	55	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 225.º	Papel da Autoridade Aduaneira da UE e das autoridades aduaneiras	5273	5277	152	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 226.º	Apresentação de relatórios	5279	5285	216	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 227.º	Protocolos e procedimentos	5289	5309	472	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 228.º	Ativação do mecanismo de gestão de crises	5311	5329	547	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 229.º	Criação e estatuto jurídico	5335	5341	119	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 230.º	Sede	5343	5345	22	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 231.º	Missão e objetivos da Autoridade Aduaneira da UE	5347	5361	350	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 232.º	Atribuições	5365	5415	1470	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 233.º	Atribuições adicionais	5417	5419	110	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 234.º	Estrutura administrativa e de gestão	5425	5437	163	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 235.º	Composição do Conselho de Administração	5441	5461	464	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 236.º	Presidência do Conselho de Administração	5463	5471	269	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 237.º	Reuniões do Conselho de Administração	5473	5487	391	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 238.º	Funções do Conselho de Administração	5489	5569	1523	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 239.º	Regras de votação no Conselho de Administração	5571	5579	208	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 240.º	Comissão Executiva	5583	5617	754	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 241.º	Nomeação, exoneração e prorrogação do mandato	5621	5643	693	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 242.º	Funções e responsabilidades do diretor executivo	5645	5689	1221	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 243.º	Diretor executivo adjunto	5691	5693	76	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 244.º	Funções e responsabilidades do diretor executivo adjunto	5695	5697	99	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 245.º	Conselho Consultivo Aduaneiro	5699	5717	366	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 246.º	Nomeação, estatuto e independência do auditor de dados	5721	5727	136	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 247.º	Responsabilidades e funções do auditor de dados	5729	5737	213	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 248.º	Disposições gerais	5741	5743	92	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 249.º	Documento único de programação	5745	5757	701	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 250.º	Elaboração do orçamento	5759	5775	448	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 251.º	Estrutura do orçamento	5777	5795	340	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 252.º	Execução do orçamento	5797	5801	89	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 253.º	Apresentação de contas e quitação	5803	5821	556	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 254.º	Luta contra a fraude	5823	5835	589	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 255.º	Disposições gerais	5839	5841	80	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 256.º	Peritos nacionais destacados e outros membros do pessoal	5843	5847	95	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 257.º	Privilégios e imunidades	5849	5851	56	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 258.º	Transparência e comunicação	5855	5861	304	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 259.º	Obrigação de sigilo profissional	5863	5871	343	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 260.º	Regras de segurança em matéria de proteção de informações classificadas e de informações sensíveis não classificadas	5873	5879	446	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 261.º	Regime linguístico	5881	5887	113	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 262.º	Avaliação	5889	5897	267	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 263.º	Responsabilidade da Autoridade Aduaneira da UE	5899	5911	293	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 264.º	Acordo de sede e condições de funcionamento	5913	5921	420	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 265.º	Início das atividades da Autoridade Aduaneira da UE	5923	5935	393	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 266.º	Cooperação aduaneira interna	5941	5949	447	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 267.º	Controlos conjuntos	5951	5959	250	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 268.º	Cooperação aduaneira com outras autoridades dentro da União	5963	6003	1424	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 269.º	Medidas a tomar pelas autoridades aduaneiras	6005	6031	632	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 270.º	Cooperação aduaneira com autoridades de países terceiros e organizações internacionais	6035	6041	211	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 271.º	Acordos bilaterais com países terceiros	6043	6049	242	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 272.º	Intercâmbio de dados com países terceiros	6051	6093	1377	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 273.º	Objeto e disposições gerais	6097	6107	226	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 274.º	Infrações à legislação aduaneira	6109	6127	276	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 275.º	Sanções	6129	6157	552	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 276.º	Sanções por incumprimento sistemático no caso das vendas à distância	6159	6171	747	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 277.º	Classificação dos operadores económicos como sendo de risco elevado	6173	6181	160	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 278.º	Cooperação entre os Estados-Membros	6183	6187	102	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 279.º	Avaliação e apresentação de relatórios	6193	6205	634	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 280.º	Monitorização	6209	6211	87	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 281.º	Avaliação e apresentação de relatórios	6213	6237	632	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 282.º	Exercício da delegação	6241	6255	1960	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 283.º	Procedimento de comité	6257	6269	231	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 284.º	Revogação	6273	6285	276	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 285.º	Medidas transitórias relacionadas com a criação da Plataforma de Dados Aduaneiros da UE	6287	6301	632	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 286.º	Data de adoção de determinados atos delegados e atos de execução	6303	6317	265	ue/regulamentos/2026/32026R2108.md
+32026R2108	Artigo 287.º	Entrada em vigor e aplicação	6319	6473	4136	ue/regulamentos/2026/32026R2108.md
+32026R2108	ANEXO	TABELA DE CORRESPONDÊNCIA	6475	7209	8730	ue/regulamentos/2026/32026R2108.md
 32026R2110	Preâmbulo		18	44	1426	ue/regulamentos/2026/32026R2110.md
 32026R2110	Artigo 1.º	Autorização	48	50	70	ue/regulamentos/2026/32026R2110.md
 32026R2110	Artigo 2.º	Medidas transitórias	52	58	341	ue/regulamentos/2026/32026R2110.md
@@ -6008,6 +6066,10 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2162	Preâmbulo		18	62	1152	ue/regulamentos/2026/32026R2162.md
 32026R2162	Artigo 1.º		66	72	236	ue/regulamentos/2026/32026R2162.md
 32026R2162	Artigo 2.º		74	96	310	ue/regulamentos/2026/32026R2162.md
+32026R2163	Preâmbulo		19	47	896	ue/regulamentos/2026/32026R2163.md
+32026R2163	Artigo 1.º		51	53	32	ue/regulamentos/2026/32026R2163.md
+32026R2163	Artigo 2.º		55	75	145	ue/regulamentos/2026/32026R2163.md
+32026R2163	ANEXO I	NOMENCLATURA COMBINADA	77	35156	560501	ue/regulamentos/2026/32026R2163.md
 32026R2165	Preâmbulo		18	40	390	ue/regulamentos/2026/32026R2165.md
 32026R2165	Artigo 1.º		44	46	28	ue/regulamentos/2026/32026R2165.md
 32026R2165	Artigo 2.º		48	62	101	ue/regulamentos/2026/32026R2165.md
@@ -6139,21 +6201,21 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2238	Artigo 1.º		56	58	36	ue/regulamentos/2026/32026R2238.md
 32026R2238	Artigo 2.º		60	78	325	ue/regulamentos/2026/32026R2238.md
 32026R2238	ANEXO		80	96	343	ue/regulamentos/2026/32026R2238.md
-32026R2241	Preâmbulo		19	35	389	ue/regulamentos/2026/32026R2241.md
-32026R2241	Artigo 1.º		39	41	37	ue/regulamentos/2026/32026R2241.md
-32026R2241	Artigo 2.º		43	59	203	ue/regulamentos/2026/32026R2241.md
-32026R2241	ANEXO		61	162	3018	ue/regulamentos/2026/32026R2241.md
+32026R2241	Preâmbulo		18	34	389	ue/regulamentos/2026/32026R2241.md
+32026R2241	Artigo 1.º		38	40	37	ue/regulamentos/2026/32026R2241.md
+32026R2241	Artigo 2.º		42	58	203	ue/regulamentos/2026/32026R2241.md
+32026R2241	ANEXO		60	161	3018	ue/regulamentos/2026/32026R2241.md
 32026R2245	Preâmbulo		18	56	912	ue/regulamentos/2026/32026R2245.md
 32026R2245	Artigo 1.º		60	66	220	ue/regulamentos/2026/32026R2245.md
 32026R2245	Artigo 2.º		68	96	492	ue/regulamentos/2026/32026R2245.md
-32026R2246	Preâmbulo		19	43	720	ue/regulamentos/2026/32026R2246.md
-32026R2246	Artigo 1.º		47	49	42	ue/regulamentos/2026/32026R2246.md
-32026R2246	Artigo 2.º		51	71	307	ue/regulamentos/2026/32026R2246.md
-32026R2246	ANEXO		73	78	298	ue/regulamentos/2026/32026R2246.md
-32026R2247	Preâmbulo		19	43	678	ue/regulamentos/2026/32026R2247.md
-32026R2247	Artigo 1.º		47	49	46	ue/regulamentos/2026/32026R2247.md
-32026R2247	Artigo 2.º		51	71	309	ue/regulamentos/2026/32026R2247.md
-32026R2247	ANEXO		73	78	290	ue/regulamentos/2026/32026R2247.md
+32026R2246	Preâmbulo		18	42	720	ue/regulamentos/2026/32026R2246.md
+32026R2246	Artigo 1.º		46	48	42	ue/regulamentos/2026/32026R2246.md
+32026R2246	Artigo 2.º		50	70	307	ue/regulamentos/2026/32026R2246.md
+32026R2246	ANEXO		72	77	298	ue/regulamentos/2026/32026R2246.md
+32026R2247	Preâmbulo		18	42	678	ue/regulamentos/2026/32026R2247.md
+32026R2247	Artigo 1.º		46	48	46	ue/regulamentos/2026/32026R2247.md
+32026R2247	Artigo 2.º		50	70	309	ue/regulamentos/2026/32026R2247.md
+32026R2247	ANEXO		72	77	290	ue/regulamentos/2026/32026R2247.md
 32026R2248	Preâmbulo		18	52	1344	ue/regulamentos/2026/32026R2248.md
 32026R2248	Artigo 1.º		56	58	39	ue/regulamentos/2026/32026R2248.md
 32026R2248	Artigo 2.º		60	80	405	ue/regulamentos/2026/32026R2248.md
@@ -6177,11 +6239,11 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2263	Artigo 1.º		42	44	31	ue/regulamentos/2026/32026R2263.md
 32026R2263	Artigo 2.º		46	60	100	ue/regulamentos/2026/32026R2263.md
 32026R2263	ANEXO		62	70	368	ue/regulamentos/2026/32026R2263.md
-32026R2265	Preâmbulo		19	39	460	ue/regulamentos/2026/32026R2265.md
-32026R2265	Artigo 1.º		43	45	50	ue/regulamentos/2026/32026R2265.md
-32026R2265	Artigo 2.º		47	49	81	ue/regulamentos/2026/32026R2265.md
-32026R2265	Artigo 3.º		51	69	177	ue/regulamentos/2026/32026R2265.md
-32026R2265	ANEXO		71	80	729	ue/regulamentos/2026/32026R2265.md
+32026R2265	Preâmbulo		18	38	460	ue/regulamentos/2026/32026R2265.md
+32026R2265	Artigo 1.º		42	44	50	ue/regulamentos/2026/32026R2265.md
+32026R2265	Artigo 2.º		46	48	81	ue/regulamentos/2026/32026R2265.md
+32026R2265	Artigo 3.º		50	68	177	ue/regulamentos/2026/32026R2265.md
+32026R2265	ANEXO		70	79	729	ue/regulamentos/2026/32026R2265.md
 32026R2266	Preâmbulo		19	63	3771	ue/regulamentos/2026/32026R2266.md
 32026R2266	Artigo 1.º	Âmbito de aplicação	67	69	72	ue/regulamentos/2026/32026R2266.md
 32026R2266	Artigo 2.º	Definições	71	81	156	ue/regulamentos/2026/32026R2266.md
@@ -6307,6 +6369,11 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2299	Artigo 2.º		69	71	58	ue/regulamentos/2026/32026R2299.md
 32026R2299	Artigo 3.º		73	93	224	ue/regulamentos/2026/32026R2299.md
 32026R2299	ANEXO		95	489	5564	ue/regulamentos/2026/32026R2299.md
+32026R2300	Preâmbulo		19	55	1398	ue/regulamentos/2026/32026R2300.md
+32026R2300	Artigo 1.º		59	63	128	ue/regulamentos/2026/32026R2300.md
+32026R2300	Artigo 2.º		65	87	334	ue/regulamentos/2026/32026R2300.md
+32026R2300	ANEXO I	TERMOS E CONDIÇÕES (EU-0027465-0000)	89	93	121	ue/regulamentos/2026/32026R2300.md
+32026R2300	ANEXO II	RESUMO DAS CARACTERÍSTICAS DO PRODUTO PARA UMA FAMÍLIA DE PRODUTOS BIOCIDAS (SPC BPF)	95	6143	110107	ue/regulamentos/2026/32026R2300.md
 32026R2301	Preâmbulo		19	35	352	ue/regulamentos/2026/32026R2301.md
 32026R2301	Artigo 1.º		39	41	45	ue/regulamentos/2026/32026R2301.md
 32026R2301	Artigo 2.º		43	67	226	ue/regulamentos/2026/32026R2301.md
@@ -6381,16 +6448,16 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2343	«Artigo 11.º-A	[Artigo 10.º, n.º 4, alínea b), do Regulamento (UE) n.º 648/2012]	67	81	229	ue/regulamentos/2026/32026R2343.md
 32026R2343	Artigo 11.º-B	[Artigo 10.º, n.º 4, alínea c), do Regulamento (UE) n.º 648/2012]	83	117	340	ue/regulamentos/2026/32026R2343.md
 32026R2343	Artigo 2.º	Entrada em vigor	119	143	480	ue/regulamentos/2026/32026R2343.md
-32026R2345	Preâmbulo		19	59	1080	ue/regulamentos/2026/32026R2345.md
-32026R2345	Artigo 1.º		63	67	240	ue/regulamentos/2026/32026R2345.md
-32026R2345	Artigo 2.º		69	91	260	ue/regulamentos/2026/32026R2345.md
-32026R2346	Preâmbulo		19	57	1010	ue/regulamentos/2026/32026R2346.md
-32026R2346	Artigo 1.º		61	65	133	ue/regulamentos/2026/32026R2346.md
-32026R2346	Artigo 2.º		67	91	408	ue/regulamentos/2026/32026R2346.md
-32026R2348	Preâmbulo		19	133	12730	ue/regulamentos/2026/32026R2348.md
-32026R2348	Artigo 1.º		137	139	33	ue/regulamentos/2026/32026R2348.md
-32026R2348	Artigo 2.º		141	207	2914	ue/regulamentos/2026/32026R2348.md
-32026R2348	ANEXO		209	265	994	ue/regulamentos/2026/32026R2348.md
+32026R2345	Preâmbulo		18	58	1080	ue/regulamentos/2026/32026R2345.md
+32026R2345	Artigo 1.º		62	66	240	ue/regulamentos/2026/32026R2345.md
+32026R2345	Artigo 2.º		68	90	260	ue/regulamentos/2026/32026R2345.md
+32026R2346	Preâmbulo		18	56	1010	ue/regulamentos/2026/32026R2346.md
+32026R2346	Artigo 1.º		60	64	133	ue/regulamentos/2026/32026R2346.md
+32026R2346	Artigo 2.º		66	90	408	ue/regulamentos/2026/32026R2346.md
+32026R2348	Preâmbulo		18	132	12730	ue/regulamentos/2026/32026R2348.md
+32026R2348	Artigo 1.º		136	138	33	ue/regulamentos/2026/32026R2348.md
+32026R2348	Artigo 2.º		140	206	2914	ue/regulamentos/2026/32026R2348.md
+32026R2348	ANEXO		208	264	994	ue/regulamentos/2026/32026R2348.md
 32026R2354	Preâmbulo		19	61	2249	ue/regulamentos/2026/32026R2354.md
 32026R2354	Artigo 1.º	Formatos para a comunicação de dados sobre os beneficiários efetivos	65	181	1707	ue/regulamentos/2026/32026R2354.md
 32026R2354	Artigo 2.º	Formatos para a comunicação de dados sobre pessoas coletivas	183	223	736	ue/regulamentos/2026/32026R2354.md
@@ -6407,11 +6474,84 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2358	Artigo 2.º		64	86	426	ue/regulamentos/2026/32026R2358.md
 32026R2358	ANEXO		88	90	3	ue/regulamentos/2026/32026R2358.md
 32026R2358	ANEXO I	CARACTERÍSTICAS DOS AZEITES	92	154	2501	ue/regulamentos/2026/32026R2358.md
+32026R2359	Preâmbulo		18	88	4264	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 1.º		92	263	5366	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 12.º	Regras especiais	265	301	899	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 30.º	Contribuições a cargo dos titulares de pensão	303	327	484	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 33.º-A	Prestações para cuidados de longa duração	329	339	318	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 34.º	Cumulação de prestações para cuidados de longa duração	341	357	483	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 60.º-A	Regras especiais sobre a totalização dos períodos para efeitos de prestações por desemprego	359	365	123	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 61.º	Regras especiais sobre a totalização dos períodos de seguro, de emprego ou de atividade por conta própria e competência para o pagamento de prestações de desemp	367	373	485	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 62.º	Cálculo das prestações	375	381	330	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 63.º	Disposições especiais relativas à derrogação das regras de residência	383	404	363	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 64.º-A	Regras especiais aplicáveis aos desempregados que se desloquem para outro Estado-Membro sem preencher as condições previstas no artigo 61.º, n.º 1, e no artigo 	406	414	380	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 65.º	Desempregados que residiam num Estado-Membro que não seja o Estado-Membro competente	416	458	1514	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 68.º-B	Disposição especial relativa às prestações familiares pecuniárias destinadas a substituir rendimentos durante o período de educação de filhos	460	475	444	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 75.º-A	Obrigações das autoridades competentes	477	489	228	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 87.º-B	Disposição transitória relativa às disposições referidas no artigo 91.º do presente regulamento e no artigo 97.º do regulamento de aplicação	491	513	809	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 88.º	Delegação do poder de alterar os anexos	515	517	74	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 88.º-A	Exercício da delegação	519	535	410	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 88.º-B	Competência para adotar atos de execução	537	547	277	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 88.º-C	Procedimento de comité	549	557	78	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 91.º	Entrada em vigor e aplicação	559	623	571	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 2.º		625	764	4540	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 15.º	Procedimentos para a aplicação do artigo 11.º, n.º 3, alíneas b) e d), do artigo 11.º, n.º 4, e do artigo 12.º do regulamento de base (sobre a prestação de info	766	820	1771	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 19.º-A	Cooperação em caso de dúvida quanto à validade dos documentos no que respeita à legislação aplicável	822	896	1988	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 54.º-A	Procedimentos para a aplicação do artigo 61.º, n.º 2, do regulamento de base	898	954	1699	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 56.º-A	Medidas reforçadas de apoio e de cooperação para desempregados que residiam num Estado-Membro que não o Estado-Membro competente	956	977	505	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 65.º	Notificação dos custos médios anuais	979	1025	1008	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 73.º	Pagamento de prestações pecuniárias e em espécie indevidas e de contribuições indevidas no caso de uma alteração retroativa da legislação aplicável ou de outras	1027	1070	1221	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 77.º	Notificação	1072	1130	1083	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 79.º	Título executivo da cobrança	1132	1150	442	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 80.º	Modalidades e prazos de pagamento	1152	1160	306	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 81.º	Contestação do crédito ou do título executivo da respetiva cobrança e contestação das medidas de execução	1162	1170	630	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 81.º-A	Revogação e alteração	1172	1182	342	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 82.º	Limites da assistência	1184	1202	490	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 84.º	Medidas cautelares	1204	1224	590	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 85.º-A	Presença nos serviços administrativos e participação em inquéritos administrativos	1226	1244	324	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 86.º-A	Competência para adotar atos de execução	1246	1280	588	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 87.º-A	Avaliação	1282	1296	221	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 93.º	Disposições transitórias	1298	1304	56	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 94.º-A	Disposições transitórias aplicáveis às prestações por desemprego	1306	1330	334	ue/regulamentos/2026/32026R2359.md
+32026R2359	«Artigo 97.º	Entrada em vigor e aplicação	1332	1428	708	ue/regulamentos/2026/32026R2359.md
+32026R2359	Artigo 3.º	Entrada em vigor e data de aplicação	1430	1476	984	ue/regulamentos/2026/32026R2359.md
+32026R2359	ANEXO I	Alteração dos anexos do Regulamento (CE) n.º 883/2004	1478	1854	6968	ue/regulamentos/2026/32026R2359.md
+32026R2359	ANEXO XIII	PRESTAÇÕES FAMILIARES PECUNIÁRIAS DESTINADAS A SUBSTITUIR RENDIMENTOS DURANTE OS PERÍODOS DE EDUCAÇÃO DE FILHOS	1856	1997	1328	ue/regulamentos/2026/32026R2359.md
+32026R2359	ANEXO II	Alteração dos anexos do Regulamento (CE) n.º 987/2009	1999	2064	592	ue/regulamentos/2026/32026R2359.md
 32026R2371	Preâmbulo		18	64	3190	ue/regulamentos/2026/32026R2371.md
 32026R2371	Artigo 1.º	Alteração do Regulamento de Execução (UE) 2023/594	68	70	47	ue/regulamentos/2026/32026R2371.md
 32026R2371	Artigo 2.º	Entrada em vigor	72	92	339	ue/regulamentos/2026/32026R2371.md
 32026R2371	ANEXO		94	98	24	ue/regulamentos/2026/32026R2371.md
 32026R2371	ANEXO I	ZONAS SUBMETIDAS A RESTRIÇÕES I, II E III	100	3834	43350	ue/regulamentos/2026/32026R2371.md
+32026R2374	Preâmbulo		18	44	596	ue/regulamentos/2026/32026R2374.md
+32026R2374	Artigo 1.º		48	81	786	ue/regulamentos/2026/32026R2374.md
+32026R2374	«Artigo 1.º-B		83	138	1598	ue/regulamentos/2026/32026R2374.md
+32026R2374	«Artigo 7.º-B		140	146	115	ue/regulamentos/2026/32026R2374.md
+32026R2374	«Artigo 8.º		148	162	206	ue/regulamentos/2026/32026R2374.md
+32026R2374	«Artigo 8.º-A		164	170	204	ue/regulamentos/2026/32026R2374.md
+32026R2374	Artigo 8.º-B		172	178	54	ue/regulamentos/2026/32026R2374.md
+32026R2374	«Artigo 9.º-A		180	198	344	ue/regulamentos/2026/32026R2374.md
+32026R2374	«Artigo 10.º		200	208	177	ue/regulamentos/2026/32026R2374.md
+32026R2374	«Artigo 11.º		210	222	148	ue/regulamentos/2026/32026R2374.md
+32026R2374	Artigo 2.º		224	250	462	ue/regulamentos/2026/32026R2374.md
+32026R2376	Preâmbulo		19	57	2763	ue/regulamentos/2026/32026R2376.md
+32026R2376	Artigo 1.º	Alteração do Regulamento (UE) 2022/1616	61	102	535	ue/regulamentos/2026/32026R2376.md
+32026R2376	«Artigo 5.º-A	Requisitos aplicáveis à documentação de conformidade	104	306	4052	ue/regulamentos/2026/32026R2376.md
+32026R2376	«Artigo 24.º-A	Sistema de registo eletrónico	308	322	326	ue/regulamentos/2026/32026R2376.md
+32026R2376	«Artigo 25.º	Registo de recicladores e equipamentos de descontaminação	324	386	1147	ue/regulamentos/2026/32026R2376.md
+32026R2376	«Artigo 26.º-A	Desativação e desmantelamento de equipamentos de descontaminação e alteração do processo de reciclagem em funcionamento	388	420	870	ue/regulamentos/2026/32026R2376.md
+32026R2376	«Artigo 27.º	Controlos oficiais dos equipamentos de reciclagem	422	436	300	ue/regulamentos/2026/32026R2376.md
+32026R2376	«Artigo 29.º	Requisitos específicos aplicáveis às declarações de conformidade	438	466	1016	ue/regulamentos/2026/32026R2376.md
+32026R2376	Artigo 2.º	Medidas transitórias	468	474	218	ue/regulamentos/2026/32026R2376.md
+32026R2376	Artigo 3.º	Entrada em vigor	476	494	254	ue/regulamentos/2026/32026R2376.md
+32026R2376	ANEXO		496	534	1525	ue/regulamentos/2026/32026R2376.md
+32026R2376	ANEXO III	Modelos de declarações de conformidade	536	720	6081	ue/regulamentos/2026/32026R2376.md
+32026R2379	Preâmbulo		19	35	336	ue/regulamentos/2026/32026R2379.md
+32026R2379	Artigo 1.º		39	41	45	ue/regulamentos/2026/32026R2379.md
+32026R2379	Artigo 2.º		43	67	253	ue/regulamentos/2026/32026R2379.md
+32026R2380	Preâmbulo		19	35	304	ue/regulamentos/2026/32026R2380.md
+32026R2380	Artigo 1.º		39	41	58	ue/regulamentos/2026/32026R2380.md
+32026R2380	Artigo 2.º		43	65	160	ue/regulamentos/2026/32026R2380.md
 32026R2384	Preâmbulo		18	34	269	ue/regulamentos/2026/32026R2384.md
 32026R2384	Artigo 1.º		38	40	31	ue/regulamentos/2026/32026R2384.md
 32026R2384	Artigo 2.º		42	58	134	ue/regulamentos/2026/32026R2384.md
@@ -6420,3 +6560,66 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026R2388	Artigo 1.º		38	40	31	ue/regulamentos/2026/32026R2388.md
 32026R2388	Artigo 2.º		42	60	134	ue/regulamentos/2026/32026R2388.md
 32026R2388	ANEXO		62	66	71	ue/regulamentos/2026/32026R2388.md
+32026R2389	Preâmbulo		19	89	3446	ue/regulamentos/2026/32026R2389.md
+32026R2389	Artigo 1.º	Alterações do Regulamento de Execução (UE) 2016/1239	93	179	1599	ue/regulamentos/2026/32026R2389.md
+32026R2389	Artigo 2.º	Alterações do Regulamento de Execução (UE) 2020/761	181	205	457	ue/regulamentos/2026/32026R2389.md
+32026R2389	«Artigo 15.º-A	Certificados de origem não preferencial emitidos em formato eletrónico	207	239	431	ue/regulamentos/2026/32026R2389.md
+32026R2389	«Artigo 72.º-B	Utilização de documentos emitidos por autoridades de países terceiros no ELAN	241	277	666	ue/regulamentos/2026/32026R2389.md
+32026R2389	Artigo 3.º	Alterações do Regulamento de Execução (UE) 2020/1988	279	305	518	ue/regulamentos/2026/32026R2389.md
+32026R2389	Artigo 4.º	Alterações do Regulamento de Execução (UE) 2025/1272	307	347	1019	ue/regulamentos/2026/32026R2389.md
+32026R2389	Artigo 5.º	Disposições transitórias	349	351	88	ue/regulamentos/2026/32026R2389.md
+32026R2389	Artigo 6.º	Entrada em vigor e aplicação	353	395	1420	ue/regulamentos/2026/32026R2389.md
+32026R2389	ANEXO I		397	547	1676	ue/regulamentos/2026/32026R2389.md
+32026R2389	ANEXO II		549	724	3554	ue/regulamentos/2026/32026R2389.md
+32026R2389	ANEXO III		726	750	620	ue/regulamentos/2026/32026R2389.md
+32026R2390	Preâmbulo		18	58	763	ue/regulamentos/2026/32026R2390.md
+32026R2390	Artigo 1.º		62	66	116	ue/regulamentos/2026/32026R2390.md
+32026R2390	Artigo 2.º		68	90	260	ue/regulamentos/2026/32026R2390.md
+32026R2391	Preâmbulo		18	60	1132	ue/regulamentos/2026/32026R2391.md
+32026R2391	Artigo 1.º		64	68	240	ue/regulamentos/2026/32026R2391.md
+32026R2391	Artigo 2.º		70	92	304	ue/regulamentos/2026/32026R2391.md
+32026R2393	Preâmbulo		18	513	27240	ue/regulamentos/2026/32026R2393.md
+32026R2393	Artigo 1.º		517	532	534	ue/regulamentos/2026/32026R2393.md
+32026R2393	Artigo 2.º		534	536	65	ue/regulamentos/2026/32026R2393.md
+32026R2393	Artigo 3.º		538	546	196	ue/regulamentos/2026/32026R2393.md
+32026R2393	Artigo 4.º		548	592	804	ue/regulamentos/2026/32026R2393.md
+32026R2393	ANEXO	Produtores-exportadores da República Popular da China que colaboraram no inquérito, não incluídos na amostra	594	602	98	ue/regulamentos/2026/32026R2393.md
+32026R2396	Preâmbulo		18	58	994	ue/regulamentos/2026/32026R2396.md
+32026R2396	Artigo 1.º		62	66	212	ue/regulamentos/2026/32026R2396.md
+32026R2396	Artigo 2.º		68	90	260	ue/regulamentos/2026/32026R2396.md
+32026R2398	Preâmbulo		18	44	1000	ue/regulamentos/2026/32026R2398.md
+32026R2398	Artigo 1.º	Objeto e âmbito de aplicação	48	50	56	ue/regulamentos/2026/32026R2398.md
+32026R2398	Artigo 2.º	Definição	52	54	39	ue/regulamentos/2026/32026R2398.md
+32026R2398	Artigo 3.º	Isenções da obrigação de desembarque para o salmão com taxas de sobrevivência elevadas	56	74	304	ue/regulamentos/2026/32026R2398.md
+32026R2398	Artigo 4.º	Entrada em vigor e aplicação	76	100	382	ue/regulamentos/2026/32026R2398.md
+32026R2399	Preâmbulo		19	51	1511	ue/regulamentos/2026/32026R2399.md
+32026R2399	Artigo 1.º		55	86	898	ue/regulamentos/2026/32026R2399.md
+32026R2399	Artigo 2.º		88	118	754	ue/regulamentos/2026/32026R2399.md
+32026R2399	ANEXO		120	196	821	ue/regulamentos/2026/32026R2399.md
+32026R2400	Preâmbulo		19	43	776	ue/regulamentos/2026/32026R2400.md
+32026R2400	Artigo 1.º		47	49	24	ue/regulamentos/2026/32026R2400.md
+32026R2400	Artigo 2.º		51	77	397	ue/regulamentos/2026/32026R2400.md
+32026R2403	Preâmbulo		18	46	1196	ue/regulamentos/2026/32026R2403.md
+32026R2403	Artigo 1.º	Alterações do Regulamento de Execução (UE) 2015/2447	50	74	494	ue/regulamentos/2026/32026R2403.md
+32026R2403	Artigo 2.º	Entrada em vigor	76	108	597	ue/regulamentos/2026/32026R2403.md
+32026R2408	Preâmbulo		19	47	1058	ue/regulamentos/2026/32026R2408.md
+32026R2408	Artigo 1.º		51	127	1684	ue/regulamentos/2026/32026R2408.md
+32026R2408	«Artigo 4.º-A	Seguimento do incumprimento do intervalo de segurança referido no artigo 4.º, n.º 34, do Regulamento (UE) 2019/6	129	189	986	ue/regulamentos/2026/32026R2408.md
+32026R2408	«Artigo 9.º	Assistência administrativa	191	195	190	ue/regulamentos/2026/32026R2408.md
+32026R2408	Artigo 2.º		197	221	416	ue/regulamentos/2026/32026R2408.md
+32026R2412	Preâmbulo		19	43	1717	ue/regulamentos/2026/32026R2412.md
+32026R2412	Artigo 1.º		47	49	30	ue/regulamentos/2026/32026R2412.md
+32026R2412	Artigo 2.º		51	75	545	ue/regulamentos/2026/32026R2412.md
+32026R2412	ANEXO		77	93	589	ue/regulamentos/2026/32026R2412.md
+32026R2446	Preâmbulo		19	37	357	ue/regulamentos/2026/32026R2446.md
+32026R2446	Artigo 1.º	Alteração do Regulamento (UE) 2023/2720	41	43	33	ue/regulamentos/2026/32026R2446.md
+32026R2446	«Artigo 6.º		45	49	56	ue/regulamentos/2026/32026R2446.md
+32026R2446	Artigo 2.º	Alteração do anexo do Regulamento (UE) 2023/2720	51	53	61	ue/regulamentos/2026/32026R2446.md
+32026R2446	Artigo 3.º	Entrada em vigor	55	73	184	ue/regulamentos/2026/32026R2446.md
+32026R2466	Preâmbulo		18	60	1788	ue/regulamentos/2026/32026R2466.md
+32026R2466	Artigo 1.º		64	66	36	ue/regulamentos/2026/32026R2466.md
+32026R2466	Artigo 2.º		68	86	326	ue/regulamentos/2026/32026R2466.md
+32026R2466	ANEXO		88	229	2867	ue/regulamentos/2026/32026R2466.md
+32026R2470	Preâmbulo		19	41	636	ue/regulamentos/2026/32026R2470.md
+32026R2470	Artigo 1.º		45	49	58	ue/regulamentos/2026/32026R2470.md
+32026R2470	Artigo 2.º		51	73	317	ue/regulamentos/2026/32026R2470.md

@@ -11,7 +11,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34577575
 eli: https://data.dre.pt/eli/dec-lei/433/1999/p/cons/20250327/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 433/99
@@ -2314,13 +2314,9 @@ b) (Revogada).
 
 > Nota: Acórdão do Tribunal Constitucional n.º 759/2013 - Diário da República n.º 223/2013, Série I de 2013-11-18 Declara-se com força obrigatória geral a inconstitucionalidade, por violação dos artigos 20.º, n.º 1, em conjugação com o artigo 18.º, n.º 2, ambos da Constituição, da norma constante da parte final do n.º 3 do artigo 146.º-B do Código de Processo e Procedimento Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, quando aplicável por força do disposto no n.º 8 do artigo 89.º-A da Lei Geral Tributária, na medida em que exclui em absoluto a produção de prova testemunhal, nos casos em que esta é, em geral, admissível.
 
-### Artigo 146.º-C — Tramitação do pedido de autorização da administração tributária
+### Artigo 146.º-C — Tramitação do pedido de autorização da administração tributária (revogado)
 
-1 - Quando a administração tributária pretenda aceder à informação bancária referente a familiares do contribuinte ou de terceiros com ele relacionados, pode requerer ao tribunal tributário de 1.ª instância da área do domicílio fiscal do visado a respectiva autorização.
-
-2 - O pedido de autorização não obedece a formalidade especial e deve ser acompanhado pelos respectivos elementos de prova.
-
-3 - O visado é notificado para, querendo, deduzir oposição no prazo de 10 dias, a qual deve ser acompanhada dos respectivos elementos de prova.
+[Revogado.]
 
 > Revogado pelo/a Artigo 224.º do/a Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31, em vigor a partir de 2015-01-01
 
@@ -3901,9 +3897,9 @@ Para a citação dos credores desconhecidos e sucessores não habilitados dos pr
 
 > Alterado pelo/a Artigo 152.º do/a Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30, em vigor a partir de 2012-01-01
 
-### Artigo 243.º — Prazo de reclamação de créditos pelo representante da Fazenda Pública
+### Artigo 243.º — Prazo de reclamação de créditos pelo representante da Fazenda Pública (revogado)
 
-O representante da Fazenda Pública junto do tribunal tributário de 1.ª instância da área do órgão da execução fiscal reclamará os créditos no prazo de 25 dias a contar da data em que for notificado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 127.º do/a Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31, em vigor a partir de 2011-01-01
 
@@ -4113,31 +4109,9 @@ c) Estando presente só um dos proponentes do maior preço, pode esse cobrir a p
 
 > Alterado pelo/a Artigo 4.º do/a Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26, em vigor a partir de 2021-02-27
 
-### Artigo 254.º — Arrematação
+### Artigo 254.º — Arrematação (revogado)
 
-1 - A arrematação é presidida pelo órgão da execução fiscal, que mandará anunciar a abertura da praça.
-
-2 - Os bens móveis, incluindo os créditos, podem ser arrematados singularmente, por lotes ou em globo, conforme o órgão da execução fiscal considerar mais conveniente.
-
-3 - Os imóveis serão arrematados um por um, salvo se razões especiais de proximidade ou dependência tomarem presumivelmente mais rendosa a arrematação conjunta.
-
-4 - Posto em leilão cada objecto ou lote, o funcionário competente exercerá as funções de pregoeiro, anunciando em voz alta o primeiro lanço que aparecer acima do valor e os que se sucederem e tomando conta dos respectivos licitantes.
-
-5 - A licitação só se considera finda quando o funcionário competente tiver anunciado, por três vezes, o lanço mais elevado e este lanço não for coberto.
-
-6 - Terminada a licitação, serão interpelados os titulares do direito de preferência para que declarem se querem exercer o seu direito.
-
-7 - Apresentando-se a preferir mais de uma pessoa com igual direito, abre-se licitação entre elas, fazendo-se a adjudicação à que oferecer maior preço.
-
-8 - Se, passada uma hora, não houver lanço superior ao valor por que os bens foram postos em praça, é esta encerrada e decidida uma segunda praça, nos termos do n.º 3 do artigo 250.º, designando-se logo o dia, se possível.
-
-9 - Da primeira à segunda praça mediará o intervalo de seis dias, pelo menos.
-
-10 - Sem prejuízo de outras formas de publicidade reputadas convenientes, a notícia da segunda praça é dada por um único edital afixado com a antecipação mínima de três dias por um único anúncio, que se publicará com igual antecipação.
-
-11 - A afixação faz-se, tratando-se de prédio urbano, na porta deste e, quando se trate de outra espécie de bens, na do edifício onde deva realizar-se a arrematação.
-
-12 - Não se repete em caso algum a notificação aos preferentes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
@@ -4579,15 +4553,15 @@ b) Entre dois acórdãos do Supremo Tribunal Administrativo.
 
 > Alterado pelo/a Artigo 3.º do/a Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17, em vigor a partir de 2019-11-16
 
-### Artigo 290.º — Marcação do julgamento
+### Artigo 290.º — Marcação do julgamento (revogado)
 
-Lançado o visto do relator, o presidente, no prazo de 10 dias, designará a sessão em que há-de ser julgado o processo, não podendo exceder a segunda sessão imediata.
+[Revogado.]
 
 > Revogado pelo/a Artigo 11.º do/a Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17, em vigor a partir de 2019-11-16
 
-### Artigo 291.º — Ordem dos julgamentos
+### Artigo 291.º — Ordem dos julgamentos (revogado)
 
-O julgamento dos processos far-se-á pela ordem da respectiva entrada na secretaria, mas o presidente, oficiosamente ou a requerimento dos interessados, poderá dar prioridade a qualquer processo, havendo justo motivo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 11.º do/a Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17, em vigor a partir de 2019-11-16
 

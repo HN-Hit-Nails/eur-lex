@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2000-291655
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-107689199
 eli: https://data.dre.pt/eli/dec-lei/102/2000/p/cons/20230403/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 102/2000
@@ -88,85 +88,27 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ## Capítulo I — Inspecção-Geral do Trabalho
 
-### Artigo 1.º — Inspecção-Geral do Trabalho
+### Artigo 1.º — Inspecção-Geral do Trabalho (revogado)
 
-1 - A Inspecção-Geral do Trabalho é um serviço administrativo de acompanhamento e de controlo do cumprimento das normas relativas às condições de trabalho, emprego, desemprego e pagamento das contribuições para a segurança social.
-
-2 - A Inspecção-Geral do Trabalho desenvolve a sua acção no âmbito de poderes de autoridade pública, tendo em vista a promoção da melhoria das condições de trabalho, de acordo com os princípios das Convenções n.os 81, 129 e 155 da Organização Internacional do Trabalho.
-
-3 - A Inspecção-Geral do Trabalho está sujeita à tutela do Ministro do Trabalho e da Solidariedade.
+[Revogado.]
 
 > Revogado pelo/a Artigo 20.º do/a Decreto-Lei n.º 326-B/2007 - Diário da República n.º 188/2007, 1º Suplemento, Série I de 2007-09-28, em vigor a partir de 2007-10-01
 
-### Artigo 2.º — Âmbito
+### Artigo 2.º — Âmbito (revogado)
 
-1 - A Inspecção-Geral do Trabalho exerce a sua acção no continente, em empresas, qualquer que seja a sua forma ou natureza jurídica, de todos os sectores de actividade, seja qual for o regime aplicável aos respectivos trabalhadores, bem como quaisquer locais em que se verifica a prestação de trabalho ou em relação aos quais haja indícios fundamentados dessa prestação.
-
-2 - A Inspecção-Geral do Trabalho é competente para promover e controlar o cumprimento da legislação relativa à segurança, higiene e saúde no trabalho nos serviços e organismos da administração pública central, directa e indirecta, e local, incluindo os institutos públicos nas modalidades de serviços personalizados ou de fundos públicos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 20.º do/a Decreto-Lei n.º 326-B/2007 - Diário da República n.º 188/2007, 1º Suplemento, Série I de 2007-09-28, em vigor a partir de 2007-10-01
 
-### Artigo 3.º — Competências da Inspecção-Geral do Trabalho
+### Artigo 3.º — Competências da Inspecção-Geral do Trabalho (revogado)
 
-1 - Compete à Inspecção-Geral do Trabalho:
-
-a) Promover e controlar o cumprimento das disposições legais, regulamentares e convencionais respeitantes às condições de trabalho, designadamente as relativas a segurança, higiene e saúde no trabalho;
-
-b) Sugerir as medidas adequadas em caso de falta ou inadequação de normas legais ou regulamentares.
-
-2 - Compete ainda à Inspecção-Geral do Trabalho:
-
-a) Promover e controlar o cumprimento das normas relativas ao apoio ao emprego e à protecção no desemprego, bem como ao pagamento das contribuições para a segurança social, na medida em que não prejudique a sua acção relativamente às condições de trabalho;
-
-b) Aprovar e controlar o cumprimento de regulamentos internos;
-
-c) Emitir carteiras profissionais, ao abrigo dos respectivos regulamentos;
-
-d) Proceder ao depósito de contratos de trabalho de estrangeiros e registar as comunicações previstas na lei respeitantes aos mesmos;
-
-e) Promover acções e prestar informações com vista ao esclarecimento dos sujeitos das relações laborais e das respectivas associações, relativamente à interpretação e à observância eficaz das normas aplicáveis, incluindo as relativas à segurança, higiene e saúde no trabalho e à organização das actividades de prevenção;
-
-f) Organizar o registo individual dos sujeitos responsáveis pelas infracções laborais, conforme o disposto na lei;
-
-g) Elaborar um relatório anual sobre a actividade inspectiva, até ao fim do mês de Abril do ano seguinte àquele a que respeita.
-
-3 - Nos serviços regionais, deve funcionar um serviço informativo incumbido de prestar esclarecimentos e receber pedidos de intervenção, no âmbito das suas competências.
+[Revogado.]
 
 > Revogado pelo/a Artigo 20.º do/a Decreto-Lei n.º 326-B/2007 - Diário da República n.º 188/2007, 1º Suplemento, Série I de 2007-09-28, em vigor a partir de 2007-10-01
 
-### Artigo 4.º — Inspector-geral do Trabalho
+### Artigo 4.º — Inspector-geral do Trabalho (revogado)
 
-1 - A Inspecção-Geral do Trabalho é dirigida por um inspector-geral, coadjuvado por dois subinspectores-gerais, cabendo ao inspector-geral designar aquele que o substitui nas suas faltas e impedimentos.
-
-2 - É da competência exclusiva do inspector-geral:
-
-a) Assegurar a elaboração do programa anual de acção inspectiva;
-
-b) Superintender em toda a actividade inspectiva, incluindo a confirmação ou não confirmação de autos de notícia, bem como na área das contra-ordenações;
-
-c) Aplicar as coimas e multas, bem como sanções acessórias, correspondentes às contra-ordenações e contravenções laborais;
-
-d) Avaliar os resultados da acção inspectiva e assegurar a elaboração do relatório anual;
-
-e) Promover a colaboração com outros sistemas de inspecção;
-
-f) Conceder as autorizações legalmente exigíveis no âmbito das relações de trabalho;
-
-g) Impor, sempre que necessário, a comparência nos serviços de qualquer trabalhador ou entidade patronal e respectivas associações que possam dispor de informações úteis ao desenvolvimento da acção inspectiva;
-
-h) Assegurar a gestão dos meios humanos, materiais e técnicos, incluindo a informação e a formação, necessários ao desenvolvimento da acção inspectiva;
-
-i) Colocar e distribuir o pessoal técnico de inspecção;
-
-j) Proceder à classificação de serviço do pessoal técnico de inspecção;
-
-k) Assegurar a representação e o relacionamento institucionais da Inspecção-Geral do Trabalho.
-
-3 - O inspector-geral pode delegar nos subinspectores-gerais e nos dirigentes com competência inspectiva os poderes que integram a sua competência exclusiva, bem como, salvo no que respeita à alínea b) do número anterior, autorizá-los a subdelegar.
-
-4 - Estão na dependência do inspector-geral os serviços da Inspecção-Geral do Trabalho existentes nos serviços regionais.
-
-5 - Na dependência do inspector-geral existirá um gabinete de apoio técnico à gestão.
+[Revogado.]
 
 > Revogado pelo/a Artigo 20.º do/a Decreto-Lei n.º 326-B/2007 - Diário da República n.º 188/2007, 1º Suplemento, Série I de 2007-09-28, em vigor a partir de 2007-10-01
 

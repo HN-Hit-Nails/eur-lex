@@ -14,7 +14,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2004-240775
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-73199154
 eli: https://data.dre.pt/eli/dec-lei/7/2004/p/cons/20260415/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 7/2004
@@ -235,23 +235,15 @@ A responsabilidade dos prestadores de serviços em rede está sujeita ao regime 
 
 > Alterado pelo/a Artigo 32.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
-### Artigo 12.º — Ausência de um dever geral de vigilância dos prestadores intermediários de serviços
+### Artigo 12.º — Ausência de um dever geral de vigilância dos prestadores intermediários de serviços (revogado)
 
-Os prestadores intermediários de serviços em rede não estão sujeitos a uma obrigação geral de vigilância sobre as informações que transmitem ou armazenam ou de investigação de eventuais ilícitos praticados no seu âmbito.
+[Revogado.]
 
 > Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
-### Artigo 13.º — Deveres comuns dos prestadores intermediários dos serviços
+### Artigo 13.º — Deveres comuns dos prestadores intermediários dos serviços (revogado)
 
-Cabe aos prestadores intermediários de serviços a obrigação para com as entidades competentes:
-
-a) De informar de imediato quando tiverem conhecimento de actividades ilícitas que se desenvolvam por via dos serviços que prestam;
-
-b) De satisfazer os pedidos de identificar os destinatários dos serviços com quem tenham acordos de armazenagem;
-
-c) De cumprir prontamente as determinações destinadas a prevenir ou pôr termo a uma infracção, nomeadamente no sentido de remover ou impossibilitar o acesso a uma informação;
-
-d) De fornecer listas de titulares de sítios que alberguem, quando lhes for pedido.
+[Revogado.]
 
 > Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
@@ -265,77 +257,39 @@ b) Determinar aos prestadores que lhes fornecem os serviços intermediários rel
 
 > Aditado pelo/a Artigo 33.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
-### Artigo 14.º — Simples transporte
+### Artigo 14.º — Simples transporte (revogado)
 
-1 - O prestador intermediário de serviços que prossiga apenas a actividade de transmissão de informações em rede, ou de facultar o acesso a uma rede de comunicações, sem estar na origem da transmissão nem ter intervenção no conteúdo das mensagens transmitidas nem na selecção destas ou dos destinatários, é isento de toda a responsabilidade pelas informações transmitidas.
-
-2 - A irresponsabilidade mantém-se ainda que o prestador realize a armazenagem meramente tecnológica das informações no decurso do processo de transmissão, exclusivamente para as finalidades de transmissão e durante o tempo necessário para esta.
+[Revogado.]
 
 > Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
-### Artigo 15.º — Armazenagem intermediária
+### Artigo 15.º — Armazenagem intermediária (revogado)
 
-1 - O prestador intermediário de serviços de transmissão de comunicações em rede que não tenha intervenção no conteúdo das mensagens transmitidas nem na selecção destas ou dos destinatários e respeite as condições de acesso à informação é isento de toda a responsabilidade pela armazenagem temporária e automática, exclusivamente para tornar mais eficaz e económica a transmissão posterior a nova solicitação de destinatários do serviço.
-
-2 - Passa, porém, a aplicar-se o regime comum de responsabilidade se o prestador não proceder segundo as regras usuais do sector:
-
-a) Na actualização da informação;
-
-b) No uso da tecnologia, aproveitando-a para obter dados sobre a utilização da informação.
-
-3 - As regras comuns passam também a ser aplicáveis se chegar ao conhecimento do prestador que a informação foi retirada da fonte originária ou o acesso tornado impossível ou ainda que um tribunal ou entidade administrativa com competência sobre o prestador que está na origem da informação ordenou essa remoção ou impossibilidade de acesso com exequibilidade imediata e o prestador não a retirar ou impossibilitar imediatamente o acesso.
+[Revogado.]
 
 > Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
-### Artigo 16.º — Armazenagem principal
+### Artigo 16.º — Armazenagem principal (revogado)
 
-1 - O prestador intermediário do serviço de armazenagem em servidor só é responsável, nos termos comuns, pela informação que armazena se tiver conhecimento de actividade ou informação cuja ilicitude for manifesta e não retirar ou impossibilitar logo o acesso a essa informação.
-
-2 - Há responsabilidade civil sempre que, perante as circunstâncias que conhece, o prestador do serviço tenha ou deva ter consciência do carácter ilícito da informação.
-
-3 - Aplicam-se as regras comuns de responsabilidade sempre que o destinatário do serviço actuar subordinado ao prestador ou for por ele controlado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
-### Artigo 17.º — Responsabilidade dos prestadores intermediários de serviços de associação de conteúdos
+### Artigo 17.º — Responsabilidade dos prestadores intermediários de serviços de associação de conteúdos (revogado)
 
-Os prestadores intermediários de serviços de associação de conteúdos em rede, por meio de instrumentos de busca, hiperconexões ou processos análogos que permitam o acesso a conteúdos ilícitos estão sujeitos a regime de responsabilidade correspondente ao estabelecido no artigo anterior.
-
-> Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
-
-### Artigo 18.º — Solução provisória de litígios
-
-1 - Nos casos contemplados nos artigos 16.º e 17.º, o prestador intermediário de serviços, se a ilicitude não for manifesta, não é obrigado a remover o conteúdo contestado ou a impossibilitar o acesso à informação só pelo facto de um interessado arguir uma violação.
-
-2 - Nos casos previstos no número anterior, qualquer interessado pode recorrer à entidade de supervisão respectiva, que deve dar uma solução provisória em quarenta e oito horas e logo a comunica electronicamente aos intervenientes.
-
-3 - Quem tiver interesse jurídico na manutenção daquele conteúdo em linha pode nos mesmos termos recorrer à entidade de supervisão contra uma decisão do prestador de remover ou impossibilitar o acesso a esse conteúdo, para obter a solução provisória do litígio.
-
-4 - O procedimento perante a entidade de supervisão será especialmente regulamentado.
-
-5 - A entidade de supervisão pode a qualquer tempo alterar a composição provisória do litígio estabelecida.
-
-6 - Qualquer que venha a ser a decisão, nenhuma responsabilidade recai sobre a entidade de supervisão e tão-pouco recai sobre o prestador intermediário de serviços por ter ou não retirado o conteúdo ou impossibilitado o acesso a mera solicitação, quando não for manifesto se há ou não ilicitude.
-
-7 - A solução definitiva do litígio é realizada nos termos e pelas vias comuns.
-
-8 - O recurso a estes meios não prejudica a utilização pelos interessados, mesmo simultânea, dos meios judiciais comuns.
+[Revogado.]
 
 > Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
-### Artigo 19.º — Relação com o direito à informação
+### Artigo 18.º — Solução provisória de litígios (revogado)
 
-1 - A associação de conteúdos não é considerada irregular unicamente por haver conteúdos ilícitos no sítio de destino, ainda que o prestador tenha consciência do facto.
+[Revogado.]
 
-2 - A remissão é lícita se for realizada com objectividade e distanciamento, representando o exercício do direito à informação, sendo, pelo contrário, ilícita se representar uma maneira de tomar como próprio o conteúdo ilícito para que se remete.
+> Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
-3 - A avaliação é realizada perante as circunstâncias do caso, nomeadamente:
+### Artigo 19.º — Relação com o direito à informação (revogado)
 
-a) A confusão eventual dos conteúdos do sítio de origem com os de destino;
-
-b) O carácter automatizado ou intencional da remissão;
-
-c) A área do sítio de destino para onde a remissão é efectuada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 35.º do/a Lei n.º 12-A/2026 - Diário da República n.º 73/2026, Suplemento, Série I de 2026-04-15, em vigor a partir de 2026-04-20.
 
@@ -383,27 +337,9 @@ b) O anunciante;
 
 c) As ofertas promocionais, como descontos, prémios ou brindes, e os concursos ou jogos promocionais, bem como os condicionalismos a que ficam submetidos.
 
-### Artigo 22.º — Comunicações não solicitadas
+### Artigo 22.º — Comunicações não solicitadas (revogado)
 
-1 - O envio de mensagens para fins de marketing directo, cuja recepção seja independente de intervenção do destinatário, nomeadamente por via de aparelhos de chamada automática, aparelhos de telecópia ou por correio electrónico, carece de consentimento prévio do destinatário.
-
-2 - Exceptuam-se as mensagens enviadas a pessoas colectivas, ficando, no entanto, aberto aos destinatários o recurso ao sistema de opção negativa.
-
-3 - É também permitido ao fornecedor de um produto ou serviço, no que respeita aos mesmos ou a produtos ou serviços análogos, enviar publicidade não solicitada aos clientes com quem celebrou anteriormente transacções, se ao cliente tiver sido explicitamente oferecida a possibilidade de o recusar por ocasião da transacção realizada e se não implicar para o destinatário dispêndio adicional ao custo do serviço de telecomunicações.
-
-4 - Nos casos previstos nos números anteriores, o destinatário deve ter acesso a meios que lhe permitam a qualquer momento recusar, sem ónus e independentemente de justa causa, o envio dessa publicidade para futuro.
-
-5 - É proibido o envio de correio electrónico para fins de marketing directo, ocultando ou dissimulando a identidade da pessoa em nome de quem é efectuada a comunicação.
-
-6 - Cada comunicação não solicitada deve indicar um endereço e um meio técnico electrónico, de fácil identificação e utilização, que permita ao destinatário do serviço recusar futuras comunicações.
-
-8 - Sem prejuízo do disposto no número anterior, compete à Direcção-Geral do Consumidor (DGC) manter actualizada uma lista de âmbito nacional de pessoas que manifestem o desejo genérico de não receber quaisquer comunicações publicitárias.
-
-9 - A inserção na lista referida no número anterior depende do preenchimento de formulário electrónico disponibilizado através da página electrónica da DGC.
-
-10 - As entidades que promovam o envio de mensagens para fins de marketing directo são obrigadas a consultar a lista, actualizada trimestralmente pela DGC, que a disponibiliza a seu pedido.
-
-11 - É proibido o envio de comunicações publicitárias por via electrónica às pessoas constantes das listas prescritas nos n.os 7 e 8.
+[Revogado.]
 
 > Revogado pelo/a Artigo 5.º do/a Lei n.º 46/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29, em vigor a partir de 2012-08-30
 

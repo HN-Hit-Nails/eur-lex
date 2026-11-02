@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34529075
 eli: https://data.dre.pt/eli/dec-lei/53/2004/p/cons/20241107/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 53/2004
@@ -3604,11 +3604,9 @@ e) Condenar as pessoas afetadas a indemnizarem os credores do devedor declarado 
 
 > Nota: Acórdão do Tribunal Constitucional n.º 173/2009 - Diário da República n.º 85/2009, Série I de 2009-05-04 Declarada, com força obrigatória geral, a inconstitucionalidade da al. b) do n.º 2 do art. 189.º do Código da Insolvência e da Recuperação de Empresas, na medida em que impõe que o juiz, na sentença que qualifique a insolvência como culposa, decrete a inabilitação do administrador da sociedade comercial declarada insolvente.
 
-### Artigo 190.º — Suprimento da inabilidade
+### Artigo 190.º — Suprimento da inabilidade (revogado)
 
-1 - O juiz, ouvidos os interessados, nomeia um curador para cada um dos inabilitados, fixando os poderes que lhe competem.
-
-2 - A nomeação do curador assim como a respectiva destituição estão sujeitas a registo, nos termos do n.º 3 do artigo anterior.
+[Revogado.]
 
 > Revogado pelo/a Artigo 5.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
 
@@ -3792,9 +3790,9 @@ d) Dos respetivos estatutos conste a insuscetibilidade de uma alteração que co
 
 > Alterado pelo/a Artigo 12.º do/a Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31, em vigor a partir de 2022-01-30
 
-### Artigo 204.º — Qualidade de sociedade aberta
+### Artigo 204.º — Qualidade de sociedade aberta (revogado)
 
-É considerada sociedade com o capital aberto ao investimento do público a sociedade emitente de acções em que sejam convertidos créditos sobre a insolvência independentemente do consentimento dos respectivos titulares.
+[Revogado.]
 
 > Revogado pelo/a Artigo 21.º do/a Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31, em vigor a partir de 2022-01-30
 
@@ -4900,41 +4898,31 @@ c) As que decorram da dação em cumprimento de bens da empresa e da cessão de 
 
 > Alterado pelo/a Artigo 234.º do/a Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31, em vigor a partir de 2013-01-01
 
-## Título XIV — Execução do Regulamento (CE) n.º 1346/2000, do Conselho, de 29 de Maio
+## Título XIV — Execução do Regulamento (CE) n.º 1346/2000, do Conselho, de 29 de Maio (revogado)
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
 
-### Artigo 271.º — Fundamentação da competência internacional
+### Artigo 271.º — Fundamentação da competência internacional (revogado)
 
-Sempre que do processo resulte a existência de bens do devedor situados noutro Estado membro da União Europeia, a sentença de declaração de insolvência indica sumariamente as razões de facto e de direito que justificam a competência dos tribunais portugueses, tendo em conta o disposto no n.º 1 do artigo 3.º do Regulamento (CE) n.º 1346/2000, do Conselho, de 29 de Maio, adiante designado por Regulamento.
-
-> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
-
-### Artigo 272.º — Prevenção de conflitos de competência
-
-1 - Aberto um processo principal de insolvência noutro Estado membro da União Europeia, apenas é admissível a instauração ou prosseguimento em Portugal de processo secundário, nos termos do capítulo III do título XV.
-
-2 - O administrador da insolvência do processo principal tem legitimidade para recorrer de decisões que contrariem o disposto no número anterior.
-
-3 - Se a abertura de um processo de insolvência for recusada por tribunal de um Estado membro da União Europeia em virtude de a competência caber aos tribunais portugueses, nos termos do n.º 1 do artigo 3.º do Regulamento, não podem estes indeferir o pedido de declaração de insolvência com fundamento no facto de a competência pertencer aos tribunais desse outro Estado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
 
-### Artigo 273.º — Efeitos do encerramento
+### Artigo 272.º — Prevenção de conflitos de competência (revogado)
 
-1 - O encerramento do processo por aplicação do n.º 1 do artigo anterior não afecta os efeitos já produzidos que não se circunscrevam à duração do processo, inclusive os decorrentes de actos praticados pelo administrador da insolvência ou perante este, no exercício das suas funções.
-
-2 - Na hipótese prevista no número anterior, é aplicável o disposto no n.º 2 do artigo 233.º, extinguindo-se a instância de todos os processos que corram por apenso ao processo de insolvência.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
 
-### Artigo 274.º — Publicidade de decisão estrangeira
+### Artigo 273.º — Efeitos do encerramento (revogado)
 
-1 - A publicação e a inscrição em registo público da decisão de abertura de um processo, a que se referem os artigos 21.º e 22.º do Regulamento, devem ser solicitadas no tribunal português em cuja área se situe um estabelecimento do devedor, ou, não sendo esse o caso, ao Tribunal de Comércio de Lisboa ou ao Tribunal Cível de Lisboa, consoante a massa insolvente integre ou não uma empresa, podendo o tribunal exigir tradução certificada por pessoa que para o efeito seja competente segundo o direito de um Estado membro da União Europeia.
+[Revogado.]
 
-2 - Se o direito do Estado do processo de insolvência previr a efectivação de registo desconhecido do direito português, é determinado o registo que com ele apresente maiores semelhanças.
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
 
-3 - A publicação prevista no n.º 1 do artigo 21.º do Regulamento é determinada oficiosamente se o devedor for titular de estabelecimento situado em Portugal.
+### Artigo 274.º — Publicidade de decisão estrangeira (revogado)
+
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
 

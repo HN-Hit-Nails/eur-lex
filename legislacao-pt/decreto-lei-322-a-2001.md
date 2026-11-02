@@ -11,7 +11,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34475775
 eli: https://data.dre.pt/eli/dec-lei/322-a/2001/p/cons/20260819/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 322-A/2001
@@ -158,9 +158,9 @@ Para efeitos do disposto no n.º 1 do artigo 9.º do Regulamento Emolumentar dos
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
 
-### Artigo 6.º — Entrada em vigor
+### Artigo 6.º — Entrada em vigor (revogado)
 
-O presente diploma entra em vigor em 1 de Janeiro de 2002.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
 
@@ -264,11 +264,9 @@ As tabelas emolumentares devem ser afixadas nos serviços em local visível e ac
 
 Sempre que o acto seja representado em moeda sem curso legal em Portugal, os emolumentos são calculados segundo o último câmbio oficial publicado à data da feitura do acto.
 
-### Artigo 8.º — Preparos
+### Artigo 8.º — Preparos (revogado)
 
-1 - Os conservadores e notários podem exigir, a título de preparo, o pagamento antecipado do custo provável dos actos a praticar nos respectivos serviços.
-
-2 - Os emolumentos e taxas devidos por actos de registo e procedimentos realizados nos balcões criados ao abrigo do n.º 5 do artigo 26.º do Decreto-Lei n.º 116/2008, de 4 de Julho, são facturados de forma agrupada no final de cada operação especial de registo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
 
@@ -1828,19 +1826,9 @@ cancelamento - (euro) 50.
 
 ## Secção VIII — Identificação civil
 
-### Artigo 26.º — Emolumentos da identificação civil
+### Artigo 26.º — Emolumentos da identificação civil (revogado)
 
-... Em euros
-
-1 - Pela emissão de cada bilhete de identidade... 3
-
-2 - Certidões e informações:
-
-2.1 - Por cada certidão... 15
-
-2.2 - Por cada informação... 8
-
-3 - Pela realização de serviço externo, para além das despesas de transporte.
+[Revogado.]
 
 > Revogado pelo/a Artigo 18.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
 

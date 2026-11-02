@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2005-235906
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34448575
 eli: https://data.dre.pt/eli/dec-lei/111/2005/p/cons/20110307/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 111/2005
@@ -320,9 +320,9 @@ e) Às taxas previstas em portaria do membro do Governo responsável pela área 
 
 > Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29, em vigor a partir de 2006-07-14
 
-### Artigo 15.º-A — Declaração de intenção de uso
+### Artigo 15.º-A — Declaração de intenção de uso (revogado)
 
-Os titulares das marcas transmitidas através do presente regime estão dispensados da apresentação da primeira declaração de intenção de uso, prevista no n.º 1 do artigo 256.º do Código da Propriedade Industrial.
+[Revogado.]
 
 > Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
 

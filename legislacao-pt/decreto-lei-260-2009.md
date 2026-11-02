@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2009-490469
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-63511624
 eli: https://data.dre.pt/eli/dec-lei/260/2009/p/cons/20230403/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 260/2009
@@ -422,13 +422,9 @@ d) Selecção, orientação ou formação profissional, desde que desenvolvida c
 
 > Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
 
-### Artigo 15.º — Incompatibilidades
+### Artigo 15.º — Incompatibilidades (revogado)
 
-1 - É vedado à agência o exercício da actividade de empresa de trabalho temporário.
-
-2 - É vedado à agência ter como sócio, membro dos corpos sociais ou responsável técnico, em regime de trabalho por conta de outrem ou a outro título, pessoa individual ou colectiva que tenha vínculo a empresas de trabalho temporário.
-
-3 - Constitui contra-ordenação grave a violação do disposto no presente artigo punível com coima de (euro) 600 a (euro) 1300 ou (euro) 2000, consoante se trate de pessoa singular ou pessoa colectiva.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
 
@@ -480,29 +476,9 @@ ii) Identificação da agência, horário de funcionamento e de atendimento pres
 
 > Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
 
-### Artigo 17.º — Procedimento de concessão da licença para o exercício da actividade de agência
+### Artigo 17.º — Procedimento de concessão da licença para o exercício da actividade de agência (revogado)
 
-1 - O pedido de concessão da licença é apresentado, sob a forma de requerimento, nomeadamente por via electrónica, a qualquer unidade orgânica local do serviço público de emprego com indicação das actividades a exercer nos termos do disposto no artigo 14.º
-
-2 - Ao requerimento de licença para o exercício da actividade de agência aplica-se o disposto nas alíneas a) a f) do n.º 1 e no n.º 2 do artigo 6.º
-
-3 - A comprovação do requisito de estrutura organizativa adequada para o exercício da actividade, referido no n.º 3 do artigo anterior, é realizada mediante:
-
-a) Apreciação do curriculum vitæ e certificado de habilitações do director técnico;
-
-b) Verificação da adequação das instalações através de visita técnica, realizada pelo serviço público de emprego.
-
-4 - O requerente deve, ainda, juntar ao requerimento uma declaração de que constitui caução nos termos do artigo 18.º, caso a licença venha a ser concedida.
-
-5 - O pedido de concessão da licença para o exercício da actividade de agência é apreciado pelo serviço público de emprego, que deve elaborar o relatório e formular a proposta de decisão no prazo máximo de 30 dias.
-
-6 - Para efeitos do número anterior, o serviço público de emprego pode solicitar, por uma vez, aos interessados a apresentação dos elementos suplementares que fundamentadamente considere necessários à boa apreciação do pedido.
-
-7 - A concessão de licença é decidida pelo membro do Governo responsável pela área laboral, com faculdade de delegação de competências, no prazo de 60 dias a contar da data de entrada do requerimento.
-
-8 - Após a assinatura do despacho para a emissão da licença, o serviço público de emprego notifica o requerente para, no prazo de 15 dias, fazer prova da constituição da caução.
-
-9 - A licença só é emitida e notificada ao requerente depois da apresentação da prova referida no número anterior.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
 
@@ -538,23 +514,15 @@ b) Verificação da adequação das instalações através de visita técnica, r
 
 > Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
 
-### Artigo 20.º — Verificação da manutenção dos requisitos para o exercício da actividade de agência
+### Artigo 20.º — Verificação da manutenção dos requisitos para o exercício da actividade de agência (revogado)
 
-1 - A agência deve fazer prova junto do serviço público de emprego, até ao dia 31 de Janeiro de cada ano, do cumprimento dos requisitos previstos no artigo 16.º, relativamente ao ano anterior.
-
-2 - Cumprido o prazo estipulado no número anterior e caso o serviço público de emprego não notifique a agência, consideram-se cumpridos os requisitos previstos no artigo 16.º
-
-3 - Constitui contra-ordenação grave a violação do disposto no n.º 1 punível com coima de (euro) 600 a (euro) 1300 ou (euro) 2000, consoante se trate de pessoa singular ou pessoa colectiva.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
 
-### Artigo 21.º — Suspensão da licença para o exercício da actividade de agência
+### Artigo 21.º — Suspensão da licença para o exercício da actividade de agência (revogado)
 
-1 - O serviço público de emprego suspende durante dois meses a licença de exercício da actividade da agência sempre que se verifique o incumprimento do previsto no n.º 1 do artigo anterior.
-
-2 - A suspensão referida no número anterior termina se a agência, antes de decorrido o prazo previsto, fizer prova do cumprimento dos requisitos em falta.
-
-3 - A agência é equiparada, em caso de exercício de actividade durante o período de suspensão da licença, a empresa não licenciada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
 

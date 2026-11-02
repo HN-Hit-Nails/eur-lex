@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2011-145590
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-108113735
 eli: https://data.dre.pt/eli/dec-lei/117/2011/p/cons/20230724/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 117/2011
@@ -394,35 +394,9 @@ m) Adotar mecanismos de dinamização da mobilidade voluntária, através de pla
 
 > Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 19/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15, em vigor a partir de 2021-04-01
 
-### Artigo 16.º — Direcção-Geral de Protecção Social aos Trabalhadores em Funções Públicas
+### Artigo 16.º — Direcção-Geral de Protecção Social aos Trabalhadores em Funções Públicas (revogado)
 
-1 - A Direcção-Geral de Protecção Social aos Trabalhadores em Funções Públicas, abreviadamente designada por ADSE, tem por missão assegurar a protecção aos beneficiários nos domínios da promoção da saúde, prevenção da doença, tratamento e reabilitação.
-
-2 - A ADSE prossegue, designadamente, as seguintes atribuições:
-
-a) Organizar, implementar e controlar o subsistema de saúde dos trabalhadores em funções públicas, em estreita colaboração com a DGAEP e com os serviços e instituições dependentes do Ministério da Saúde, do Ministério da Solidariedade e da Segurança Social e outros organismos estatais ou particulares congéneres;
-
-b) Propor as medidas adequadas à utilização dos recursos que lhe sejam atribuídos, de forma a prosseguir os seus fins dentro dos princípios de uma gestão por objectivos;
-
-c) Celebrar os acordos, convenções, contratos e protocolos que interessem ao desempenho da sua missão e acompanhar o rigoroso cumprimento dos mesmos;
-
-d) Promover o registo dos encargos familiares na Administração Pública e propor a definição de critérios de aplicação do direito às respectivas prestações;
-
-e) Proceder à gestão dos benefícios a aplicar no domínio da protecção social da Administração Pública;
-
-f) Administrar as receitas decorrentes do desconto obrigatório para a ADSE;
-
-g) Controlar e fiscalizar as situações de doença;
-
-h) Contribuir para o desenvolvimento da acção social em articulação com os Serviços Sociais da Administração Pública;
-
-i) Propor ou participar na elaboração dos projectos de diploma relativos às atribuições que prossegue;
-
-j) Desenvolver e promover a implementação dos mecanismos de controlo inerentes à atribuição de benefícios;
-
-l) Aplicar aos beneficiários as sanções previstas na lei quando se detectem infracções às normas e regulamentos da ADSE.
-
-3 - A ADSE é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 152/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07, em vigor a partir de 2015-08-08
 
@@ -488,45 +462,15 @@ b) Ao pagamento das apólices de seguro de responsabilidade civil profissional d
 
 ## Secção II — Organismos da administração indirecta do Estado
 
-### Artigo 19.º — Caixa Geral de Aposentações, I. P.
+### Artigo 19.º — Caixa Geral de Aposentações, I. P. (revogado)
 
-1 - A Caixa Geral de Aposentações, I. P., abreviadamente designada por CGA, I. P., tem por missão gerir o regime de segurança social público em matéria de pensões de aposentação, de reforma, de sobrevivência e de outras de natureza especial.
-
-2 - A CGA, I. P., prossegue, designadamente, as seguintes atribuições:
-
-a) Assegurar a gestão e atribuição de pensões e prestações devidas no âmbito do regime de segurança social público e de outras de natureza especial, nos termos da lei;
-
-b) Assegurar a gestão e controlo das quotas dos subscritores e das contribuições de entidades;
-
-c) Propor ou participar na elaboração de projectos de legislação da segurança social do sector público;
-
-d) Elaborar informação estatística e de gestão.
-
-3 - A CGA, I. P., é dirigida por um conselho directivo, constituído por um presidente e dois vogais.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10, em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01
 
-### Artigo 20.º — Instituto de Gestão da Tesouraria e do Crédito Público, I. P.
+### Artigo 20.º — Instituto de Gestão da Tesouraria e do Crédito Público, I. P. (revogado)
 
-1 - O Instituto de Gestão da Tesouraria e do Crédito Público, I. P., abreviadamente designado por IGCP, I. P., tem por missão gerir, de forma integrada, as disponibilidades da Tesouraria e o endividamento público directo do Estado, bem como assegurar a gestão da rede de cobranças e de serviços associados à Tesouraria do Estado e coordenar o financiamento dos serviços e fundos dotados de autonomia administrativa e financeira, em obediência às orientações definidas pelo Governo, através do Ministro.
-
-2 - O IGCP, I. P., prossegue, designadamente, as seguintes atribuições:
-
-a) Gerir e controlar o sistema de cobranças do Estado, prestar serviços bancários a organismos da administração directa e indirecta do Estado e outras entidades públicas e assegurar a centralização e controlo dos registos contabilísticos das caixas do Tesouro;
-
-b) Gerir as disponibilidades da Tesouraria do Estado;
-
-c) Propor ao Governo as orientações a prosseguir no financiamento do Estado, atendendo às condições dos mercados e às necessidades de tesouraria, bem como às orientações a que deve subordinar-se a gestão da dívida pública directa do Estado;
-
-d) Intervir nos assuntos respeitantes ao funcionamento do mercado da dívida pública;
-
-e) Gerir o Fundo de Regularização da Dívida Pública, nos termos da lei, e zelar pela aplicação das leis e seu cumprimento em tudo o que se referir à constituição da dívida pública directa e respectiva gestão;
-
-f) Acompanhar as operações de dívida pública directa e executar a tramitação daquelas cujo processamento lhe seja atribuído;
-
-g) Prestar ao Estado e a outras entidades públicas serviços de consultadoria e assistência técnicas, bem como gerir dívidas de entidades do sector público administrativo, mediante a celebração de contratos de gestão, desde que tais prestações de serviços não se revelem incompatíveis com o seu objecto.
-
-3 - O IGCP, I. P., é dirigido por um conselho directivo, constituído por um presidente e dois vogais.
+[Revogado.]
 
 > Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 200/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27, em vigor a partir de 2012-09-01
 

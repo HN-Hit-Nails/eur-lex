@@ -1,7 +1,7 @@
 ---
 celex: 32000L0078
 parte: contexto
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Diretiva 32000L0078 — Igualdade de tratamento no emprego — contexto

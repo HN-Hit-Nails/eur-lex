@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-67114221
 eli: https://data.dre.pt/eli/dec-lei/31/2011/p/cons/20150429/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 31/2011
@@ -144,13 +144,9 @@ Os concessionários da exploração de salas de jogo do bingo e os seus trabalha
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 65/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-29
 
-### Artigo 8.º — Concurso público
+### Artigo 8.º — Concurso público (revogado)
 
-1 - A atribuição da concessão de salas de jogo do bingo é efectuada mediante concurso público nos termos estabelecidos na parte ii do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, com as especificidades previstas no presente decreto-lei.
-
-2 - O membro do Governo responsável pela área do turismo tem competência para a decisão de contratar, de adjudicar as propostas e a outorga de contratos de concessão no âmbito dos concursos referidos no número anterior.
-
-3 - Pode ser delegada na Comissão de Jogos do Turismo de Portugal, I. P., a competência para a prática de todos os demais actos necessários, no âmbito do procedimento concursal de formação do contrato.
+[Revogado.]
 
 > Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 65/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-29
 

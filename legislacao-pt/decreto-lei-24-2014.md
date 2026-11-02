@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2014-572450
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-73222992
 eli: https://data.dre.pt/eli/dec-lei/24/2014/p/cons/20230303/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 24/2014
@@ -672,11 +672,9 @@ f) Indicação da data prevista para o início e fim da ocorrência.
 
 ## Capítulo IV — Práticas proibidas
 
-### Artigo 27.º — Vendas ligadas
+### Artigo 27.º — Vendas ligadas (revogado)
 
-1 - É proibido subordinar a venda de um bem ou a prestação de um serviço à aquisição pelo consumidor de um outro bem ou serviço junto do fornecedor ou de quem este designar.
-
-2 - O disposto no número anterior não se aplica sempre que estejam em causa bens ou serviços que, pelas suas características, se encontrem entre si numa relação de complementaridade e esta relação seja de molde a justificar o seu fornecimento em conjunto.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 78/2018 - Diário da República n.º 198/2018, Série I de 2018-10-15, em vigor a partir de 2019-01-01
 

@@ -14,7 +14,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1999-683065
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34575575
 eli: https://data.dre.pt/eli/dec-lei/480/1999/p/cons/20241107/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 480/99
@@ -776,25 +776,21 @@ b) Nos demais casos previstos no Código de Processo Civil que não sejam incomp
 
 ## Subsecção II — Suspensão de despedimento colectivo
 
-### Artigo 41.º — Requerimento e resposta
+### Artigo 41.º — Requerimento e resposta (revogado)
 
-1 - Apresentado o pedido da providência cautelar de suspensão do despedimento colectivo, o juiz ordena a citação da entidade patronal para se opor, querendo.
-
-2 - A entidade requerida pode responder no prazo de 10 dias a contar da citação.
-
-3 - Dentro do mesmo prazo, a entidade requerida deve juntar os documentos comprovativos do cumprimento das formalidades do despedimento colectivo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
-### Artigo 42.º — Decisão final
+### Artigo 42.º — Decisão final (revogado)
 
-A suspensão do despedimento é decretada se não tiverem sido observadas as formalidades previstas nas alíneas a), b), c) ou d) do n.º 1 do artigo 24.º do regime jurídico aprovado pelo Decreto-Lei n.º 64-A/89, de 27 de Fevereiro.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
-### Artigo 43.º — Disposições aplicáveis
+### Artigo 43.º — Disposições aplicáveis (revogado)
 
-É aplicável à suspensão de despedimento colectivo, com as necessárias adaptações, o disposto nos artigos 35.º, 36.º, 39.º, n.os 2 e 3, e 40.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
@@ -1402,17 +1398,9 @@ c) Os acordos exarados em conciliação extrajudicial presidida pelo Ministério
 
 > Alterado pelo/a Artigo 4.º do/a Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09
 
-### Artigo 89.º — Notificação para nomeação de bens à penhora
+### Artigo 89.º — Notificação para nomeação de bens à penhora (revogado)
 
-1 - Decorridos 10 dias sobre o trânsito em julgado da sentença de condenação em quantia certa ou o prazo que, por motivo justificado, for fixado pelo juiz na sentença, a secretaria, sem precedência de despacho, notifica o credor para nomear à penhora bens do devedor necessários para solver a dívida e as custas, salvo se se verificar alguma das seguintes situações:
-
-a) Ter o devedor juntado ao processo documento comprovativo da extinção da dívida ou do pagamento da primeira prestação, quando se trate de condenação em prestações sucessivas;
-
-b) Opor-se o credor, expressamente e por escrito, a que o devedor seja executado, sendo o crédito renunciável;
-
-c) Haver previamente o devedor nomeado bens à penhora, livres e desembaraçados, de valor suficiente para se obter o pagamento da dívida e das custas.
-
-2 - A execução inicia-se com a nomeação de bens à penhora ou com o requerimento previsto no n.º 2 do artigo seguinte.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
@@ -1438,61 +1426,41 @@ c) Haver previamente o devedor nomeado bens à penhora, livres e desembaraçados
 
 > Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08, em vigor a partir de 2003-09-15
 
-### Artigo 91.º — Termos a seguir em caso de oposição
+### Artigo 91.º — Termos a seguir em caso de oposição (revogado)
 
-1 - Efectuada a penhora, é o executado notificado simultaneamente do requerimento executivo, do despacho determinativo da penhora e da realização desta, para deduzir oposição, querendo, no prazo de 10 dias.
-
-2 - O executado pode alegar quaisquer circunstâncias que infirmem a penhora ou algum dos fundamentos de oposição à execução baseada em sentença previstos no Código de Processo Civil.
-
-3 - Da oposição, que é autuada por apenso, é notificado o exequente, que pode responder no prazo de 10 dias.
-
-4 - Com a oposição e a resposta são oferecidos os meios de prova.
-
-5 - Decorrido o prazo para a resposta, o juiz determina as diligências probatórias que considere indispensáveis, decidindo de seguida.
-
-6 - A dedução da oposição não suspende a execução, salvo se for prestada caução.
-
-7 - Observar-se-ão, seguidamente, os termos do processo de execução regulados no Código de Processo Civil.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
-### Artigo 92.º — Pluralidade de execuções sobre os mesmos bens
+### Artigo 92.º — Pluralidade de execuções sobre os mesmos bens (revogado)
 
-1 - Só é lícito penhorar bens que estejam penhorados em outra execução quando ao executado se não conheçam outros bens de valor suficiente para pagamento do crédito do exequente e das custas.
-
-2 - Tendo recaído sobre os mesmos bens mais de uma penhora, observar-se-á o disposto nos artigos seguintes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
-### Artigo 93.º — Comunicação ao tribunal da penhora
+### Artigo 93.º — Comunicação ao tribunal da penhora (revogado)
 
-1 - Sendo as penhoras ordenadas por tribunais do trabalho, o tribunal que ordenar a última comunica oficiosamente o facto ao outro tribunal, suspendendo-se a execução quanto aos bens já penhorados.
-
-2 - O tribunal que receber a comunicação procede à venda dos bens penhorados, de cujo produto são deduzidas as custas referentes ao processo que nele corre; pelo excedente não será, porém, pago o exequente sem se receber dos tribunais que ordenaram as outras penhoras nota da extinção das respectivas execuções ou do remanescente do crédito verificado e das custas.
-
-3 - Recebida a nota referida no número anterior, o remanescente do crédito ou das custas é pago juntamente com o crédito deduzido na execução que corre no tribunal onde foi feita a venda, procedendo-se a rateio, se necessário.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
-### Artigo 94.º — Sustação da execução com penhora anterior
+### Artigo 94.º — Sustação da execução com penhora anterior (revogado)
 
-Sendo as penhoras ordenadas por tribunais de espécie ou ordem diferente, o credor que tenha obtido a segunda penhora reclama o seu crédito no processo onde a primeira penhora tenha sido realizada, podendo fazê-lo até à transmissão do bem penhorado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
 > Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08, em vigor a partir de 2003-09-15
 
-### Artigo 95.º — Suspensão e extinção da execução
+### Artigo 95.º — Suspensão e extinção da execução (revogado)
 
-1 - A execução é suspensa logo que, por qualquer forma, se mostre paga a quantia pela qual foi movida.
-
-2 - Se não tiver havido penhora, a execução considera-se extinta, independentemente de julgamento, pelo pagamento da quantia exequenda e das custas.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
-### Artigo 96.º — Dispensa de publicação de anúncios
+### Artigo 96.º — Dispensa de publicação de anúncios (revogado)
 
-Não há lugar à publicação de anúncios nas execuções de valor não superior à alçada do tribunal de 1.ª instância.
+[Revogado.]
 
 > Revogado pelo/a Artigo 10.º do/a Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08, em vigor a partir de 2003-09-15
 
@@ -2172,9 +2140,9 @@ Se na pendência da causa o autor falecer, suspende-se a instância e citam-se p
 
 5 - As novas partes têm de aceitar os articulados das partes que substituem, mantendo-se os actos e termos já processados, salvo se em manifesta oposição com as novas circunstâncias.
 
-### Artigo 143.º — Interrupção da instância
+### Artigo 143.º — Interrupção da instância (revogado)
 
-Se a suspensão prevista no artigo 141.º durar mais de um ano, interrompe-se a instância.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09, em vigor a partir de 2019-10-09
 
@@ -2482,7 +2450,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01
 
-### Artigo 173.º — Processo
+### Artigo 173.º — Processo (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - A liquidação e a partilha de bens de instituições de previdência, de associações sindicais, de associações de empregadores ou de comissões de trabalhadores efectuam-se como estiver determinado na lei e nos estatutos.
 
@@ -2494,7 +2464,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 174.º — Início do processo
+### Artigo 174.º — Início do processo (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - A entrada em liquidação de instituições de previdência, de associações sindicais, de associações de empregadores ou de comissões de trabalhadores é participada ao tribunal pela última direcção, ou pelo presidente da mesa da assembleia geral, no prazo de 30 dias a contar do acto que tenha determinado a dissolução.
 
@@ -2508,7 +2480,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 175.º — Nomeação, exoneração e substituição de liquidatários
+### Artigo 175.º — Nomeação, exoneração e substituição de liquidatários (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - Compete ao juiz nomear, exonerar e substituir os liquidatários, excepto no caso previsto no n.º 3 do artigo anterior.
 
@@ -2520,7 +2494,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 176.º — Competência dos liquidatários
+### Artigo 176.º — Competência dos liquidatários (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - Os liquidatários recebem, por termo, os bens e direitos, incluindo livros e documentos, procedendo, no prazo que lhes for fixado pelo juiz, à alienação de bens e direitos e à satisfação de obrigações, de modo a reduzir o património a uma massa de bens de natureza adequada à forma de partilha prescrita na lei ou nos estatutos.
 
@@ -2530,7 +2506,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 177.º — Contas de liquidação e projecto de partilha
+### Artigo 177.º — Contas de liquidação e projecto de partilha (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - Os liquidatários, antes da partilha, devem apresentar as contas dos seus actos e propor a forma daquela.
 
@@ -2544,7 +2522,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 178.º — Julgamento
+### Artigo 178.º — Julgamento (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - As contas da liquidação e da partilha são sempre julgadas pelo tribunal, sem prejuízo da sua prévia apreciação por outras entidades, quando assim for previsto na lei ou nos estatutos.
 
@@ -2556,7 +2536,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 179.º — Contas da partilha
+### Artigo 179.º — Contas da partilha (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - Os liquidatários devem prestar contas, cessando as suas funções com a aprovação das mesmas.
 
@@ -2566,7 +2548,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 180.º — Prolongamento das funções de liquidatário
+### Artigo 180.º — Prolongamento das funções de liquidatário (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - O juiz pode determinar que todos ou alguns dos liquidatários se mantenham em funções por um prazo não superior a três anos, contados desde a aprovação das contas da partilha, apenas para efeitos de representarem a instituição, associação ou comissão em juízo ou fora dele ou ainda para efectivarem direitos ou satisfazerem obrigações de que só haja conhecimento depois de efectuada a partilha ou cuja subsistência o juiz tenha entendido não dever impedir a partilha.
 
@@ -2578,7 +2562,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 181.º — Desconhecimento dos interessados com direito ao saldo
+### Artigo 181.º — Desconhecimento dos interessados com direito ao saldo (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - Se não for possível apurar quais sejam as pessoas que, segundo os estatutos, têm direito à partilha do saldo, feita a nomeação de liquidatários, seguem-se os termos aplicáveis do processo especial de liquidação no caso de herança vaga em benefício do Estado, previsto no Código de Processo Civil.
 
@@ -2590,7 +2576,9 @@ Nos casos em que de acto de qualquer outro órgão gerente ou directivo de insti
 
 > Nota: Artigo 9.º, Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 A revogação operada, apenas se aplica às ações instauradas após a entrada em vigor da presente lei.
 
-### Artigo 182.º — Regime supletivo
+### Artigo 182.º — Regime supletivo (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 Em tudo o que não vai previsto nesta secção deve observar-se, na parte aplicável, o processo especial de liquidação judicial de sociedades regulado no Código de Processo Civil.
 
@@ -2856,7 +2844,7 @@ Os prazos previstos no n.º 1 do artigo 337.º e no n.º 2 do artigo 387.º do C
 
 > Aditado pelo/a Artigo 4.º do/a Lei n.º 55/2017 - Diário da República n.º 136/2017, Série I de 2017-07-17, em vigor a partir de 2017-08-01
 
-## Título VII — Processo de contra-ordenação
+## Título VII — Processo de contra-ordenação (revogado)
 
 > Revogado pelo/a Artigo 7.º do/a Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09, em vigor a partir de 2019-10-09
 
@@ -2996,11 +2984,11 @@ A impugnação judicial de decisão de autoridade administrativa que aplique coi
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01
 
-## Capítulo I — Acção penal
+## Capítulo I — Acção penal (revogado)
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01
 
-## Capítulo II — Acção cível em processo penal
+## Capítulo II — Acção cível em processo penal (revogado)
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01
 
@@ -3008,10 +2996,10 @@ A impugnação judicial de decisão de autoridade administrativa que aplique coi
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01
 
-## Capítulo I — Distribuição
+## Capítulo I — Distribuição (revogado)
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01
 
-## Capítulo II — Instrução e julgamento
+## Capítulo II — Instrução e julgamento (revogado)
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 295/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01

@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2005-605330
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34548975
 eli: https://data.dre.pt/eli/dec-lei/35/2005/p/cons/20090713/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 35/2005
@@ -84,67 +84,9 @@ O presente diploma transpõe para a ordem jurídica interna a Directiva n.º 200
 
 2 - Devem, igualmente, ser tidas em conta todas as responsabilidades previsíveis e perdas potenciais incorridas no exercício financeiro em causa ou em exercício anterior, ainda que tais responsabilidades ou perdas apenas se tornem patentes entre a data a que se reporta o balanço e a data em que é elaborado.
 
-### Artigo 4.º — Alteração ao Decreto-Lei n.º 238/91, de 2 de Julho
+### Artigo 4.º — Alteração ao Decreto-Lei n.º 238/91, de 2 de Julho (revogado)
 
-Os artigos 1.º, 3.º e 4.º do Decreto-Lei n.º 238/91, de 2 de Julho, passam a ter a seguinte redacção:
-
-«Artigo 1.º
-
-[...]
-
-1 -...
-
-a)...
-
-b)...
-
-c)...
-
-d)...
-
-e)...
-
-f) Possa exercer, ou exerça efectivamente, influência dominante ou controlo sobre essa empresa;
-
-g) Exerça a gestão de outra empresa como se esta e a empresa-mãe constituíssem uma única entidade.
-
-2 -...
-
-3 -...
-
-4 -...
-
-Artigo 3.º
-
-[...]
-
-1 -...
-
-2 -...
-
-3 - A dispensa mencionada no n.º 1 não se aplica se uma das empresas a consolidar for uma sociedade cujos valores mobiliários tenham sido admitidos ou estejam em processo de vir a ser admitidos à negociação num mercado regulamentado de qualquer Estado membro da União Europeia.
-
-4 -...
-
-5 -...
-
-6 - A dispensa referida no n.º 4 não se aplica às sociedades cujos valores mobiliários tenham sido admitidos, ou estejam em processo de vir a ser admitidos, à negociação num mercado regulamentado de qualquer Estado membro da União Europeia.
-
-Artigo 4.º
-
-[...]
-
-1 -...
-
-2 -...
-
-3 -...
-
-4 - (Revogado.)
-
-5 - (Revogado.)
-
-6 - (Revogado.)»
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 158/2009 - Diário da República n.º 133/2009, Série I de 2009-07-13, em vigor a partir de 2010-01-01
 
@@ -296,27 +238,9 @@ Artigo 6.º
 
 7 -...»
 
-### Artigo 7.º — Alteração ao Decreto-Lei n.º 410/89, de 21 de Novembro
+### Artigo 7.º — Alteração ao Decreto-Lei n.º 410/89, de 21 de Novembro (revogado)
 
-1 - O Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 410/89, de 21 de Novembro, e legislação complementar, é alterado nos termos que constam do anexo ao presente diploma, que dele faz parte integrante.
-
-2 - O artigo 3.º do Decreto-Lei n.º 410/89, de 21 de Novembro, passa a ter a seguinte redacção:
-
-«Artigo 3.º
-
-[...]
-
-1 -...
-
-2 -...
-
-3 -...
-
-4 -...
-
-5 -...
-
-6 - O disposto no n.º 1 não se aplica às sociedades cujos valores mobiliários sejam admitidos à negociação num mercado regulamentado de qualquer Estado membro na acepção do n.º 13 do artigo 1.º da Directiva n.º 93/22/CEE.»
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 158/2009 - Diário da República n.º 133/2009, Série I de 2009-07-13, em vigor a partir de 2010-01-01
 
@@ -462,47 +386,27 @@ b) À rubrica «Ajustamentos de justo valor» corresponde uma rubrica de reserva
 
 8 - O disposto no n.º 2 do artigo 7.º do Decreto-Lei n.º 88/2004, de 20 de Abril, aplica-se às contas individuais das sociedades sujeitas à supervisão do Instituto de Seguros de Portugal.
 
-### Artigo 11.º — Contas consolidadas de entidades com valores mobiliários admitidos à negociação
+### Artigo 11.º — Contas consolidadas de entidades com valores mobiliários admitidos à negociação (revogado)
 
-1 - As entidades cujos valores mobiliários estejam admitidos à negociação num mercado regulamentado devem, nos termos do artigo 4.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, elaborar as suas contas consolidadas em conformidade com as Normas Internacionais de Contabilidade adoptadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, a partir do exercício que se inicie em 2005.
-
-2 - Em consequência da aplicação do disposto no número anterior, as entidades aí referidas ficam dispensadas da elaboração de contas consolidadas nos termos constantes do Plano Oficial de Contabilidade e demais regulamentação nacional aplicável.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 158/2009 - Diário da República n.º 133/2009, Série I de 2009-07-13, em vigor a partir de 2010-01-01
 
-### Artigo 12.º — Extensão a outras entidades
+### Artigo 12.º — Extensão a outras entidades (revogado)
 
-1 - As entidades obrigadas a aplicar o Plano Oficial de Contabilidade que não sejam abrangidas pelo disposto no artigo 11.º podem optar por elaborar as respectivas contas consolidadas em conformidade com as Normas Internacionais de Contabilidade adoptadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, a partir do exercício que se inicie em 2005, desde que as suas demonstrações financeiras sejam objecto de certificação legal de contas.
-
-2 - As entidades obrigadas a aplicar o Plano Oficial de Contabilidade incluídas no âmbito da consolidação, quer as entidades abrangidas pelo artigo 11.º quer as que exerçam a opção prevista no número anterior, podem optar por elaborar as respectivas contas individuais em conformidade com as Normas Internacionais de Contabilidade adoptadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, desde que as suas demonstrações financeiras sejam objecto de certificação legal de contas.
-
-3 - As opções referidas nos números anteriores têm carácter integral e definitivo.
-
-4 - O carácter definitivo referido no número anterior não se aplica às entidades que, tendo optado pela aplicação das Normas Internacionais de Contabilidade, estejam incluídas no âmbito da consolidação de entidades que não as adoptem.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 158/2009 - Diário da República n.º 133/2009, Série I de 2009-07-13, em vigor a partir de 2010-01-01
 
-### Artigo 13.º — Competência das entidades de supervisão do sector financeiro
+### Artigo 13.º — Competência das entidades de supervisão do sector financeiro (revogado)
 
-1 - Com excepção das situações previstas no artigo 11.º, é da competência:
-
-a) Do Banco de Portugal e do Instituto de Seguros de Portugal a definição do âmbito subjectivo de aplicação das Normas Internacionais de Contabilidade, bem como a definição das normas contabilísticas aplicáveis às contas consolidadas, relativamente às entidades sujeitas à respectiva supervisão;
-
-b) Da Comissão do Mercado de Valores Mobiliários a definição do âmbito subjectivo de aplicação das Normas Internacionais de Contabilidade relativamente às entidades sujeitas à respectiva supervisão.
-
-2 - O disposto no presente diploma não prejudica a competência do Banco de Portugal e do Instituto de Seguros de Portugal para definir:
-
-a) As normas contabilísticas aplicáveis às contas individuais das entidades sujeitas à respectiva supervisão;
-
-b) Os requisitos prudenciais aplicáveis às entidades sujeitas à respectiva supervisão.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 158/2009 - Diário da República n.º 133/2009, Série I de 2009-07-13, em vigor a partir de 2010-01-01
 
-### Artigo 14.º — Efeitos fiscais
+### Artigo 14.º — Efeitos fiscais (revogado)
 
-1 - Para efeitos fiscais, nomeadamente de apuramento do lucro tributável, as entidades que, nos termos do presente decreto-lei, elaborem as contas individuais em conformidade com as Normas Internacionais de Contabilidade (NIC) são obrigadas a manter a contabilidade organizada de acordo com a normalização contabilística nacional e demais disposições legais em vigor para o respectivo sector de actividade.
-
-2 - Ficam dispensadas da obrigação prevista no número anterior as entidades, sujeitas à supervisão do Banco de Portugal, que estejam obrigadas a elaborar as suas contas individuais em conformidade com as normas de contabilidade ajustadas (NCA), bem como as entidades que aplicam o Plano de Contas para as Empresas de Seguros em vigor, aprovado pelo Instituto de Seguros de Portugal.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 158/2009 - Diário da República n.º 133/2009, Série I de 2009-07-13, em vigor a partir de 2010-01-01
 
@@ -510,9 +414,9 @@ b) Os requisitos prudenciais aplicáveis às entidades sujeitas à respectiva su
 
 > Alterado pelo/a Artigo 55.º do/a Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29, em vigor a partir de 2007-01-01, produz efeitos a partir de 2006-01-01
 
-### Artigo 15.º — Outras obrigações
+### Artigo 15.º — Outras obrigações (revogado)
 
-A aplicação das Normas Internacionais de Contabilidade a que se refere o presente diploma não prejudica que, para além das informações e divulgações inerentes a estas normas, as entidades abrangidas sejam obrigadas a divulgar outras informações previstas na legislação nacional.
+[Revogado.]
 
 > Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 158/2009 - Diário da República n.º 133/2009, Série I de 2009-07-13, em vigor a partir de 2010-01-01
 

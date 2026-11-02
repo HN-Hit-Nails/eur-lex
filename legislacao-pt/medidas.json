@@ -576,24 +576,6 @@
   "consolidada": null
  },
  {
-  "chave": "_72019L1152PRT_202303104",
-  "tipo": "Decreto Regulamentar",
-  "numero": "47/2012",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32019L1152"
-  ],
-  "celex_medidas": [
-   "72019L1152PRT_202303104"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
   "chave": "_72019L1158PRT_202302973",
   "tipo": "Medidas administrativas",
   "numero": "13/2023",
@@ -648,60 +630,6 @@
   "consolidada": null
  },
  {
-  "chave": "_72019L1158PRT_202303148",
-  "tipo": "Decreto Regulamentar",
-  "numero": "1/2022",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32019L1158"
-  ],
-  "celex_medidas": [
-   "72019L1158PRT_202303148"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
-  "chave": "_72019L1158PRT_202303152",
-  "tipo": "Decreto Regulamentar",
-  "numero": "1/2012",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32019L1158"
-  ],
-  "celex_medidas": [
-   "72019L1158PRT_202303152"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
-  "chave": "_72019L1158PRT_202303153",
-  "tipo": "Decreto Regulamentar",
-  "numero": "47/2012",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32019L1158"
-  ],
-  "celex_medidas": [
-   "72019L1158PRT_202303153"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
   "chave": "_72019L1158PRT_202303155",
   "tipo": "Code",
   "numero": "CRP",
@@ -713,60 +641,6 @@
   ],
   "celex_medidas": [
    "72019L1158PRT_202303155"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
-  "chave": "_72019L1158PRT_202303159",
-  "tipo": "Decreto Regulamentar",
-  "numero": "1/2022",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32019L1158"
-  ],
-  "celex_medidas": [
-   "72019L1158PRT_202303159"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
-  "chave": "_72019L1158PRT_202303163",
-  "tipo": "Decreto Regulamentar",
-  "numero": "1/2012",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32019L1158"
-  ],
-  "celex_medidas": [
-   "72019L1158PRT_202303163"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
-  "chave": "_72019L1158PRT_202303164",
-  "tipo": "Decreto Regulamentar",
-  "numero": "47/2012",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32019L1158"
-  ],
-  "celex_medidas": [
-   "72019L1158PRT_202303164"
   ],
   "relacionado_com": null,
   "titulo": null,
@@ -839,42 +713,6 @@
   ],
   "celex_medidas": [
    "72022L2041PRT_202507050"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
-  "chave": "_72022L2041PRT_202507052",
-  "tipo": "Decreto Regulamentar",
-  "numero": "47/2012",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32022L2041"
-  ],
-  "celex_medidas": [
-   "72022L2041PRT_202507052"
-  ],
-  "relacionado_com": null,
-  "titulo": null,
-  "detalhe": null,
-  "consolidada": null
- },
- {
-  "chave": "_72022L2041PRT_202507057",
-  "tipo": "Decreto Regulamentar",
-  "numero": "20/2001",
-  "data": null,
-  "estado": "excluída",
-  "excluida": "tipo de acto sem acrónimo ELI conhecido (Decreto Regulamentar)",
-  "diretivas": [
-   "32022L2041"
-  ],
-  "celex_medidas": [
-   "72022L2041PRT_202507057"
   ],
   "relacionado_com": null,
   "titulo": null,
@@ -3974,6 +3812,99 @@
   "titulo": "Decreto-Lei n.º 99/2010",
   "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272",
   "consolidada": null
+ },
+ {
+  "chave": "decreto-regulamentar-1-2012",
+  "tipo": "Decreto Regulamentar",
+  "numero": "1/2012",
+  "data": "2012-01-06",
+  "estado": "original (DRE)",
+  "excluida": null,
+  "diretivas": [
+   "32019L1158"
+  ],
+  "celex_medidas": [
+   "72019L1158PRT_202303152",
+   "72019L1158PRT_202303163"
+  ],
+  "relacionado_com": null,
+  "titulo": "Decreto Regulamentar n.º 1/2012",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2012-477078",
+  "consolidada": null
+ },
+ {
+  "chave": "decreto-regulamentar-1-2022",
+  "tipo": "Decreto Regulamentar",
+  "numero": "1/2022",
+  "data": "2022-01-10",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [
+   "32019L1158"
+  ],
+  "celex_medidas": [
+   "72019L1158PRT_202303148",
+   "72019L1158PRT_202303159"
+  ],
+  "relacionado_com": null,
+  "titulo": "Decreto Regulamentar n.º 1/2022",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2022-177444682"
+ },
+ {
+  "chave": "decreto-regulamentar-20-2001",
+  "tipo": "Decreto Regulamentar",
+  "numero": "20/2001",
+  "data": "2001-12-22",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [
+   "32022L2041"
+  ],
+  "celex_medidas": [
+   "72022L2041PRT_202507057"
+  ],
+  "relacionado_com": null,
+  "titulo": "Decreto Regulamentar n.º 20/2001",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2001-536992",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2001-107689240"
+ },
+ {
+  "chave": "decreto-regulamentar-25-2009",
+  "tipo": "Decreto Regulamentar",
+  "numero": "25/2009",
+  "data": "2009-09-14",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [],
+  "celex_medidas": [],
+  "relacionado_com": [],
+  "titulo": "Decreto Regulamentar n.º 25/2009",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2009-489774",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2009-224817465"
+ },
+ {
+  "chave": "decreto-regulamentar-47-2012",
+  "tipo": "Decreto Regulamentar",
+  "numero": "47/2012",
+  "data": "2012-07-31",
+  "estado": "consolidado (DRE)",
+  "excluida": null,
+  "diretivas": [
+   "32019L1158",
+   "32019L1152",
+   "32022L2041"
+  ],
+  "celex_medidas": [
+   "72019L1158PRT_202303153",
+   "72019L1158PRT_202303164",
+   "72019L1152PRT_202303104",
+   "72022L2041PRT_202507052"
+  ],
+  "relacionado_com": null,
+  "titulo": "Decreto Regulamentar n.º 47/2012",
+  "detalhe": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-2012-179298",
+  "consolidada": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-960670362"
  },
  {
   "chave": "lei-100-2001",

@@ -11,7 +11,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-885806229
 eli: https://data.dre.pt/eli/dec-lei/352-a/1988/p/cons/20170821/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 352-A/88
@@ -180,11 +180,9 @@ d) A denominação e sede do trustee;
 
 e) A data e natureza dos factos modificativos e extintivos do trust.
 
-### Artigo 11.º — Sigilo e confidencialidade
+### Artigo 11.º — Sigilo e confidencialidade (revogado)
 
-1 - Estão sujeitos a segredo os nomes do instituidor e dos beneficiários, os quais só podem ser desvendados em execução de decisão judicial.
-
-2 - A violação do disposto no número anterior determina a aplicação das sanções previstas para a violação do segredo bancário.
+[Revogado.]
 
 > Revogado pelo/a Artigo 24.º do/a Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21, em vigor a partir de 2017-11-19
 

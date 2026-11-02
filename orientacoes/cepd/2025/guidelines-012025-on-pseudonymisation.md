@@ -7,7 +7,7 @@ data: '2025-01-17'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-012025-on-pseudonymisation_en
 pdf: https://www.edpb.europa.eu/system/files/2025-01/edpb_guidelines_202501_pseudonymisation_en.pdf
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

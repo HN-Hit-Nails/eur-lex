@@ -7,7 +7,7 @@ data: '2024-06-19'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-012023-on-article-37-law-enforcement-directive_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2024-06/edpb-guidelines-202301_art_37_led_final_0_en.pdf
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
@@ -334,8 +334,7 @@ Adopted                                                                         
       such data to third countries and international organisations, while ensuring a high level of protection
       of personal data.11
                                                                 T
-                                                                AF
-                                                              DR
+                                                              DRAF
 
 
 
@@ -457,8 +456,7 @@ Adopted                                                                         
       essential equivalence does not require to mirror point by point the European legislation, but to in fact
       ensure the core elements of that legislation, in this case the LED, read in the light of the Charter of
                                                                 T
-                                                                AF
-                                                              DR
+                                                              DRAF
 
 
 

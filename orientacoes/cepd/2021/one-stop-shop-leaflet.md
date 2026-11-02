@@ -7,7 +7,7 @@ data: '2021-06-29'
 lingua: português
 pagina: https://www.edpb.europa.eu/documents/other-guidance/one-stop-shop-leaflet_en
 pdf: https://www.edpb.europa.eu/system/files/documents/2022-02/2020_06_22_one-stop-shop_leaflet_pt.pdf
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
@@ -43,8 +43,7 @@ O CEPD tem três competências principais:                 Noruega1 e a autorida
                                                                                                                                                                                                                         Garantir os
 •   aconselhar a Comissão Europeia sobre nova
     legislação relativa aos direitos e liberdades das
-    pessoas em matéria de proteção de dados; e           1. O
-                                                             Regulamento Geral sobre a Proteção de Dados (RGPD) tem
+    pessoas em matéria de proteção de dados; e           1. O Regulamento Geral sobre a Proteção de Dados (RGPD) tem
 
 
 

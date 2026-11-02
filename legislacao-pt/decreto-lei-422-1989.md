@@ -11,7 +11,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-67109378
 eli: https://data.dre.pt/eli/dec-lei/422/1989/p/cons/20210129/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 422/89
@@ -182,9 +182,9 @@ f) O montante das cauções a prestar pelos concorrentes e o modo de prestação
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 64/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-04
 
-### Artigo 13.º — Prorrogação do prazo
+### Artigo 13.º — Prorrogação do prazo (revogado)
 
-Tendo em conta o interesse público, o prazo de concessão pode ser prorrogado por iniciativa do Governo ou a pedido fundamentado das concessionárias que tenham cumprido as suas obrigações, estabelecendo-se as condições da prorrogação em decreto-lei.
+[Revogado.]
 
 > Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 64/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-04
 
@@ -600,79 +600,51 @@ b) Em relação a não residentes no território português, qualquer documento 
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
 
-### Artigo 42.º — Cartões de aceso às salas de máquinas
+### Artigo 42.º — Cartões de aceso às salas de máquinas (revogado)
 
-1 - O acesso às salas privativas de máquinas automáticas faz-se mediante a aquisição de cartões modelos E e F.
-
-2 - O prazo de validade dos cartões modelo E é o correspondente ao período compreendido entre a data da emissão e 31 de Dezembro do respectivo ano, sendo sempre referido a 3, 6, 9 ou 12 meses.
-
-3 - Os cartões modelo F são válidos para uma única entrada.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
 
-### Artigo 43.º — Segundas vias
+### Artigo 43.º — Segundas vias (revogado)
 
-Poderão ser emitidas segundas vias dos cartões modelos A, B e E, quando solicitadas com fundamento na sua inutilização ou perda.
-
-> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
-
-### Artigo 44.º — Cartões de acesso às salas de jogo do bingo
-
-O acesso às salas de jogo do bingo faz-se mediante a aquisição de cartões modelos G e H, nos termos de legislação própria.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
 
-### Artigo 45.º — Cartões modelos A, B, C e D
+### Artigo 44.º — Cartões de acesso às salas de jogo do bingo (revogado)
 
-Os cartões modelos A, B, C e D conferem aos seus titulares o direito de entrada nas salas privativas de máquinas automáticas e de jogo do bingo do casino.
-
-> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
-
-### Artigo 46.º — Aprovação de modelos e ficheiros de frequentadores
-
-1 - Os cartões referidos nos artigos anteriores são do modelo e da cor que forem determinados pela Inspecção-Geral de Jogos para cada casino, devendo ser autenticados pelo serviço de inspecção, quando necessário.
-
-2 - A Inspecção-Geral de Jogos definirá as regas a que deve obedecer a constituição dos ficheiros dos frequentadores das salas de jogos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
 
-### Artigo 47.º — Documentos de identificação
+### Artigo 45.º — Cartões modelos A, B, C e D (revogado)
 
-A prova dos elementos de identificação necessários à emissão de cartões de acesso às salas de jogos de fortuna ou de azar poderá ser feita por qualquer dos documentos seguintes:
-
-1) Em relação a cidadãos nacionais residentes em Portugal, por:
-
-a) Bilhete de identidade;
-
-b) Passaporte;
-
-c) Bilhete de identidade militar;
-
-2) Em relação aos estrangeiros ou apátridas residentes em Portugal, por:
-
-a) Autorização de residência;
-
-b) Certidão de nacionalidade;
-
-c) Cartão diplomático;
-
-d) Passaporte, quando dele conste a residência em Portugal;
-
-e) Bilhete de identidade para estrangeiros;
-
-3) Em relação a residentes no estrangeiro, bilhete de identidade de cidadão nacional ou qualquer documento que seja suficiente para entrar em Portugal, passado pelas autoridades portuguesas ou do país onde residem, do qual conste tal residência.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
 
-### Artigo 48.º — Serviço de identificação
+### Artigo 46.º — Aprovação de modelos e ficheiros de frequentadores (revogado)
 
-As empresas concessionárias manterão durante todo o tempo de abertura ao público dos casinos, junto à entradas das salas onde se pratiquem jogos de fortuna ou de azar, serviço, devidamente apetrechado e dotado com pessoal competente, destinado à identificação dos indivíduos que as pretendam frequentar e à fiscalização das respectivas entradas.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
 
-### Artigo 49.º — Apresentação de cartões de acesso
+### Artigo 47.º — Documentos de identificação (revogado)
 
-Os porteiros das salas de jogos devem sempre exigir aos frequentadores a apresentação do cartão de acesso, por forma bem visível, solicitando-lhes também, quando os não conheçam, a exibição do documento que haja servido de base à respectiva emissão.
+[Revogado.]
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 48.º — Serviço de identificação (revogado)
+
+[Revogado.]
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 49.º — Apresentação de cartões de acesso (revogado)
+
+[Revogado.]
 
 > Revogado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
 
@@ -890,9 +862,9 @@ O fabrico, a exportação, a importação, a venda e o transporte de material e 
 
 ## Secção I — Dos órgãos das concessionárias e das direcções dos casinos
 
-### Artigo 69.º — Constituição dos órgãos sociais
+### Artigo 69.º — Constituição dos órgãos sociais (revogado)
 
-Os órgãos sociais das concessionárias e subconcessionárias devem ser maioritariamente constituídos por pessoas de nacionalidade portuguesa, sem prejuízo do disposto em normas constantes de convenções internacionais de que Portugal seja parte.
+[Revogado.]
 
 > Revogado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
 

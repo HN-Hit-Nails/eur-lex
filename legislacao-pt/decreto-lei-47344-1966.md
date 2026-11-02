@@ -12,7 +12,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1966-34509075
 eli: https://data.dre.pt/eli/dec-lei/47344/1966/p/cons/20260623/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 47344
@@ -157,7 +157,9 @@ Para ser presente à Assembleia Nacional.
 
 3. As normas corporativas não podem contrariar as disposições legais de carácter imperativo.
 
-### Artigo 2.º — (Assentos)
+### Artigo 2.º — (Assentos) (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 Nos casos declarados na lei, podem os tribunais fixar, por meio de assentos, doutrina com força obrigatória geral.
 
@@ -535,23 +537,15 @@ A forma do casamento é regulada pela lei do Estado em que o acto é celebrado, 
 
 > Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 58.º — (Legitimação)
+### Artigo 58.º — (Legitimação) (revogado)
 
-1. A legitimação é regulada, quanto aos seus requisitos e efeitos, pela lei pessoal do pai no momento da celebração do casamento ou, quando fundada em qualquer outro acto, no momento em que este se verificar.
-
-2. Se, posteriormente ao casamento, mudar a lei pessoal do pai, é reconhecida a legitimação admitida pela nova lei.
+[Revogado.]
 
 > Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 59.º — (Filiação ilegítima)
+### Artigo 59.º — (Filiação ilegítima) (revogado)
 
-1. À constituição da relação de filiação ilegítima é aplicável a lei pessoal do progenitor, que vigore à data do reconhecimento.
-
-2. As relações entre pais e filhos ilegítimos são reguladas pela lei nacional comum dos progenitores e, na falta desta, pela lei da sua residência habitual comum; se os pais tiverem a residência habitual em países diferentes, é aplicável a lei pessoal do filho.
-
-3. Se o filho estiver reconhecido apenas por um dos progenitores, ou algum deles tiver falecido, é competente, no primeiro caso, a lei pessoal daquele relativamente ao qual se verifica o reconhecimento e, no segundo caso, a lei pessoal do sobrevivo.
-
-4. À simples relação de filiação natural é aplicável a lei pessoal do progenitor.
+[Revogado.]
 
 > Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -739,9 +733,9 @@ O destinatário de carta não confidencial só pode usar dela em termos que não
 
 > Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 86.º — (Domicílio legal da mulher casada)
+### Artigo 86.º — (Domicílio legal da mulher casada) (revogado)
 
-A mulher casada tem o domicílio do marido, excepto se os cônjuges estiverem separados judicialmente de pessoas e bens, ou se entretanto se verificar algum dos casos previstos nas alíneas b) e c) do n.º 1 do artigo 1672.º ou, relativamente ao marido, no n.º 2 do artigo anterior.
+[Revogado.]
 
 > Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -1043,55 +1037,43 @@ Estando pendente contra o menor, ao atingir a maioridade, ação de acompanhamen
 
 > Alterado pelo/a Artigo 2.º do/a Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14, em vigor a partir de 2019-02-10
 
-### Artigo 132.º — (Emancipação)
+### Artigo 132.º — (Emancipação) (revogado)
 
-O menor é, de pleno direito, emancipado pelo casamento.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Lei n.º 39/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01, em vigor a partir de 2025-04-02.
 
 > Alterado pelo/a Artigo 16.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 133.º — (Efeitos da emancipação)
+### Artigo 133.º — (Efeitos da emancipação) (revogado)
 
-A emancipação atribui ao menor plena capacidade de exercício de direitos, habilitando-o a reger a sua pessoa e a dispor livremente dos seus bens como se fosse maior, salvo o disposto no artigo 1649.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Lei n.º 39/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01, em vigor a partir de 2025-04-02.
 
 > Alterado pelo/a Artigo 17.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 134.º — (Emancipação por concessão dos pais ou do conselho de família)
+### Artigo 134.º — (Emancipação por concessão dos pais ou do conselho de família) (revogado)
 
-A emancipação por concessão do pai, da mãe ou do conselho de família só é possível com a aquiescência do menor e depois de este haver completado dezoito anos de idade.
-
-> Revogado pelo/a Artigo 18.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
-
-### Artigo 135.º — (Emancipação resultante de decisão judicial)
-
-O tribunal de menores pode decretar a emancipação do menor que tenha completado dezoito anos de idade, ocorrendo alguma das seguintes circunstâncias:
-
-a) Ser o menor filho ilegítimo;
-
-b) Proceder o menor de casamento declarado nulo ou anulado, ou acharem-se os pais divorciados, separados judicialmente de pessoas e bens ou separados de facto;
-
-c) Estar o menor sob tutela;
-
-d) Estar o menor abandonado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 18.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 136.º — (Emancipação restrita)
+### Artigo 135.º — (Emancipação resultante de decisão judicial) (revogado)
 
-1. A emancipação por concessão ou por decisão do tribunal de menores pode respeitar apenas a certos actos ou categorias de actos, continuando o emancipado a ser havido como menor quanto aos actos restantes.
-
-2. Sempre que tiver sido concedida com o intuito de habilitar o menor à prática de certos actos ou ao exercício de determinada actividade, e esse fim constar do respectivo registo, presume-se que a emancipação se restringe à prática desses actos ou ao exercício dessa actividade.
+[Revogado.]
 
 > Revogado pelo/a Artigo 18.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 137.º — (Revogação da emancipação)
+### Artigo 136.º — (Emancipação restrita) (revogado)
 
-1. A emancipação por concessão ou por decisão do tribunal de menores é revogável por este tribunal, a requerimento do emancipante ou do Ministério Público, ou oficiosamente, se o emancipado vier a mostrar inaptidão para reger a sua pessoa ou administrar os seus bens.
+[Revogado.]
 
-2. A revogação só produz efeitos a partir do registo.
+> Revogado pelo/a Artigo 18.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
+
+### Artigo 137.º — (Revogação da emancipação) (revogado)
+
+[Revogado.]
 
 > Revogado pelo/a Artigo 18.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -1225,11 +1207,9 @@ e) Intervenções de outro tipo, devidamente explicitadas.
 
 > Alterado pelo/a Artigo 23.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 148.º — Internamento
+### Artigo 148.º — Internamento (revogado)
 
-1 - O internamento do maior acompanhado depende de autorização expressa do tribunal.
-
-2 - Em caso de urgência, o internamento pode ser imediatamente solicitado pelo acompanhante, sujeitando-se à ratificação do juiz.
+[Revogado.]
 
 > Revogado pelo/a Artigo 54.º do/a Lei n.º 35/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21, em vigor a partir de 2023-08-20.
 
@@ -1411,9 +1391,9 @@ As pessoas colectivas respondem civilmente pelos actos ou omissões dos seus rep
 
 > Alterado pelo/a Artigo 27.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 169.º — (Modificações do acto de constituição ou dos estatutos)
+### Artigo 169.º — (Modificações do acto de constituição ou dos estatutos) (revogado)
 
-As alterações do acto de constituição ou dos estatutos, que impliquem modificação do fim da associação, não produzem efeitos enquanto não forem aprovadas pela entidade competente para o reconhecimento da pessoa colectiva.
+[Revogado.]
 
 > Revogado pelo/a Artigo 28.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -4619,11 +4599,9 @@ Os fiadores, ainda que solidários, ficam desonerados da obrigação que contra�
 
 Sendo a fiança prestada para garantia de obrigação futura, tem o fiador, enquanto a obrigação se não constituir, a possibilidade de liberar-se da garantia, se a situação patrimonial do devedor se agravar em termos de pôr em risco os seus direitos eventuais contra este, ou se tiverem decorrido cinco anos sobre a prestação da fiança, quando outro prazo não resulte da convenção.
 
-### Artigo 655.º — (Fiança do locatário)
+### Artigo 655.º — (Fiança do locatário) (revogado)
 
-1. A fiança pelas obrigações do locatário abrange apenas, salvo estipulação em contrário, o período inicial de duração do contrato.
-
-2. Obrigando-se o fiador relativamente aos períodos de renovação, sem se limitar o número destes, a fiança extingue-se, na falta de nova convenção, logo que haja alteração da renda ou decorra o prazo de cinco anos sobre o início da primeira prorrogação.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 6/2006 - Diário da República n.º 41/2006, Série I-A de 2006-02-27, em vigor a partir de 2006-06-27
 
@@ -6705,35 +6683,21 @@ As doações são revogáveis por ingratidão do donatário.
 
 > Alterado pelo/a Artigo 35.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 971.º — (Filhos supervenientes)
+### Artigo 971.º — (Filhos supervenientes) (revogado)
 
-1. Considera-se superveniente o filho já concebido ao tempo da declaração de vontade do doador.
-
-2. Não se considera superveniente o filho legitimado depois da doação.
+[Revogado.]
 
 > Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 972.º — (Exclusão da revogação)
+### Artigo 972.º — (Exclusão da revogação) (revogado)
 
-1. A doação não é revogável por superveniência de filhos:
-
-a) Se o doador já tinha algum filho ou descendente legítimo, vivo ao tempo da doação;
-
-b) Sendo feita para casamento;
-
-c) Sendo remuneratória.
-
-2. Tratando-se, porém, de doação de terceiro aos esposados, é permitido ao doador reservar para si, no acto da doação, a faculdade de a revogar por superveniência de filhos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 973.º — (Prazo e legitimidade para a acção)
+### Artigo 973.º — (Prazo e legitimidade para a acção) (revogado)
 
-1. A acção de revogação por superveniência de filhos legítimos caduca, se não for proposta pelo doador dentro de dois anos a contar do nascimento do primeiro filho.
-
-2. Falecido o doador, os filhos supervenientes podem prosseguir na acção.
-
-3. O doador não pode propor a acção, nem prosseguir nela, depois da morte dos filhos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -7123,17 +7087,9 @@ Se do contrato e respectivas circunstâncias não resultar o fim a que a coisa l
 
 3. Se, porém, um dos fins for principal e os outros subordinados, prevalecerá o regime correspondente ao fim principal; os outros regimes só são aplicáveis na medida em que não contrariem o primeiro e a aplicação deles se não mostre incompatível com o fim principal.
 
-### Artigo 1029.º — (Exigência de escritura pública)
+### Artigo 1029.º — (Exigência de escritura pública) (revogado)
 
-1. Devem ser reduzidos a escritura pública:
-
-a) Os arrendamentos sujeitos a registo;
-
-b) Os arrendamentos para o comércio, indústria ou exercício de profissão liberal.
-
-2. No caso da alínea a) do número anterior, a falta de escritura pública ou do registo não impede que o contrato se considere vàlidamente celebrado e plenamente eficaz pelo prazo máximo por que o poderia ser sem a exigência de escritura e de registo.
-
-3. (Revogado).
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 6/2006 - Diário da República n.º 41/2006, Série I-A de 2006-02-27, em vigor a partir de 2006-06-27
 
@@ -8357,7 +8313,7 @@ b) Quando a transmissão vise o exercício, no prédio, de outro ramo de comérc
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 321-B/90 - Diário da República n.º 238/1990, 1º Suplemento, Série I de 1990-10-15
 
-## Secção VIII — Arrendamento de prédios urbanos e arrendamento de prédios rústicos não abrangidos na secção precedente
+## Secção VIII — Arrendamento de prédios urbanos e arrendamento de prédios rústicos não abrangidos na secção precedente (revogada)
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 321-B/90 - Diário da República n.º 238/1990, 1º Suplemento, Série I de 1990-10-15
 
@@ -9659,9 +9615,9 @@ A ocupação dos animais bravios que se encontram no seu estado de liberdade nat
 
 2. Provando-se, porém, que os animais foram atraídos por fraude ou artifício do dono da guarida onde se hajam acolhido, é este obrigado a entregá-los ao antigo dono, ou a pagar-lhe em triplo o valor deles, se lhe não for possível restituí-los.
 
-### Artigo 1321.º — (Animais ferozes fugidos)
+### Artigo 1321.º — (Animais ferozes fugidos) (revogado)
 
-Os animais ferozes e maléficos que se evadirem da clausura em que seu dono os tiver podem ser destruídos ou ocupados livremente por qualquer pessoa que os encontre.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Lei n.º 8/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03, em vigor a partir de 2017-05-01
 
@@ -10427,6 +10383,10 @@ d) Praticar quaisquer actos ou actividades que tenham sido proibidos no título 
 
 4 - Sempre que o título constitutivo não disponha sobre o fim de cada fração autónoma, a alteração ao seu uso carece da autorização da assembleia de condóminos, aprovada por maioria representativa de dois terços do valor total do prédio, com exceção do previsto no artigo 1422.º-B.
 
+> Alterado pelo/a Artigo do/a Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08, em vigor a partir de 2024-01-01.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 267/94 - Diário da República n.º 247/1994, Série I-A de 1994-10-25, em vigor a partir de 1995-01-01
+
 ### Artigo 1422.º-A — Junção e divisão de fracções autónomas
 
 1 - Não carece de autorização dos restantes condóminos a junção, numa só, de duas ou mais fracções do mesmo edifício, desde que estas sejam contíguas.
@@ -11041,7 +11001,7 @@ O usuário e o morador usuário não podem trespassar ou locar o seu direito, ne
 
 São aplicados aos direitos de uso e de habitação as disposições que regulam o usufruto, quando conformes à natureza daqueles direitos.
 
-## Título IV — Da enfiteuse
+## Título IV — Da enfiteuse (revogado)
 
 > Revogado pelo/a Artigo 1.º do/a Decreto-Lei n.º 233/76 - Diário do Governo n.º 79/1976, Série I de 1976-04-02
 
@@ -11845,9 +11805,9 @@ O parentesco determina-se pelas gerações que vinculam os parentes um ao outro:
 
 Salvo disposição da lei em contrário, os efeitos do parentesco produzem-se em qualquer grau na linha recta e até ao sexto grau na colateral.
 
-### Artigo 1583.º — (Parentesco legítimo e ilegítimo)
+### Artigo 1583.º — (Parentesco legítimo e ilegítimo) (revogado)
 
-O parentesco é legítimo, quando todas as gerações que formam a respectiva linha são legítimas, nos termos fixados para a filiação legítima; é ilegítimo, quando em alguma das gerações há quebra da legitimidade do vínculo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 41.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -12045,17 +12005,9 @@ f) A pronúncia do nubente pelo crime de homicídio doloso, ainda que não consu
 
 > Alterado pelo/a Artigo 47.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1605.º — (Prazo internupcial)
+### Artigo 1605.º — (Prazo internupcial) (revogado)
 
-1. O impedimento do prazo internupcial obsta ao casamento daquele cujo matrimónio anterior foi dissolvido, declarado nulo ou anulado, enquanto não decorrerem sobre a dissolução, declaração de nulidade ou anulação, cento e oitenta ou trezentos dias, conforme se trate de homem ou mulher.
-
-2. É, porém, lícito à mulher contrair novas núpcias passados cento e oitenta dias se obtiver declaração judicial de que não está grávida ou tiver tido algum filho depois da dissolução, declaração de nulidade ou anulação do casamento anterior; se os cônjuges estavam separados judicialmente de pessoas e bens e o casamento se dissolver por morte do marido, pode ainda a mulher celebrar segundo casamento decorridos cento e oitenta dias sobre a data em que transitou em julgado a sentença de separação, se obtiver declaração judicial de que não está grávida ou tiver tido algum filho depois daquela data.
-
-3. Sendo o casamento católico declarado nulo ou dissolvido por dispensa, o prazo conta-se a partir do registo da decisão proferida pelas autoridades eclesiásticas; no caso de divórcio ou anulação do casamento civil, o prazo conta-se a partir do trânsito em julgado da respectiva sentença.
-
-4. Cessa o impedimento do prazo internupcial se os prazos referidos nos números anteriores já tiverem decorrido desde a data, fixada na sentença de divórcio, em que findou a coabitação dos cônjuges ou, no caso de conversão da separação judicial de pessoas e bens em divórcio, desde a data em que transitou em julgado a sentença que decretou a separação.
-
-5. O impedimento cessa ainda se o casamento se dissolver por morte de um dos cônjuges, estando estes separados judicialmente de pessoas e bens, quando já tenham decorrido, desde a data do trânsito em julgado da sentença, os prazos fixados nos números anteriores.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 85/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03, em vigor a partir de 2019-10-01
 
@@ -12069,23 +12021,15 @@ f) A pronúncia do nubente pelo crime de homicídio doloso, ainda que não consu
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 261/75 - Diário do Governo n.º 122/1975, Série I de 1975-05-27
 
-### Artigo 1606.º — (Parentesco na linha colateral)
+### Artigo 1606.º — (Parentesco na linha colateral) (revogado)
 
-O parentesco ilegítimo no terceiro grau da linha colateral só constitui impedimento quando os vínculos de filiação em que se baseia estiverem legalmente reconhecidos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 49.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1607.º — (Vínculo de adopção)
+### Artigo 1607.º — (Vínculo de adopção) (revogado)
 
-O impedimento do vínculo de adopção restrita obsta ao casamento:
-
-a) Do adoptante, ou seus parentes na linha recta, com o adoptado ou seus descendentes;
-
-b) Do adoptado com o que foi cônjuge do adoptante;
-
-c) Do adoptante com o que foi cônjuge do adoptado;
-
-d) Dos filhos adoptivos da mesma pessoa, entre si.
+[Revogado.]
 
 > Revogado pelo/a Artigo 9.º do/a Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08
 
@@ -12137,11 +12081,9 @@ A celebração do casamento é precedida de um processo, regulado na lei do regi
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 163/95 - Diário da República n.º 160/1995, Série I-A de 1995-07-13, em vigor a partir de 1995-09-15
 
-### Artigo 1612.º — (Autorização dos pais ou do tutor)
+### Artigo 1612.º — (Autorização dos pais ou do tutor) (revogado)
 
-1. A autorização para o casamento de menor de dezoito anos e maior de dezasseis deve ser concedida pelos progenitores que exerçam o poder paternal, ou pelo tutor.
-
-2 - Pode o conservador do registo civil suprir a autorização a que se refere o número anterior se razões ponderosas justificarem a celebração do casamento e o menor tiver suficiente maturidade física e psíquica.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Lei n.º 39/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01, em vigor a partir de 2025-04-02.
 
@@ -12373,11 +12315,9 @@ O erro que vicia a vontade só é relevante para efeitos de anulação quando re
 
 > Alterado pelo/a Artigo 54.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1637.º — (Desculpabilidade e essencialidade do erro)
+### Artigo 1637.º — (Desculpabilidade e essencialidade do erro) (revogado)
 
-1. O pedido de anulação só procede quando o erro seja desculpável e essencial.
-
-2. O erro não se considera essencial quando se mostrar que, mesmo sem ele, o casamento teria sido celebrado, ou se o conhecimento da realidade não provocar no nubente enganado justificada repugnância pela vida em comum.
+[Revogado.]
 
 > Revogado pelo/a Artigo 55.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -12467,13 +12407,9 @@ A acção de anulação por falta de testemunhas só pode ser intentada dentro d
 
 ## Capítulo VII — Sanções especiais
 
-### Artigo 1649.º — (Casamento de menores)
+### Artigo 1649.º — (Casamento de menores) (revogado)
 
-1. O menor que casar sem ter obtido autorização dos pais ou do tutor, ou o respectivo suprimento judicial, continua a ser considerado menor quanto à administração de bens que leve para o casal ou que posteriormente lhe advenham por título gratuito até à maioridade, mas dos rendimentos desses bens ser-lhe-ão arbitrados os alimentos necessários ao seu estado.
-
-2. Os bens subtraídos à administração do menor são administrados pelos pais, tutor ou administrador legal, não podendo em caso algum ser entregues à administração do outro cônjuge durante a menoridade do seu consorte; além disso, não respondem, nem antes nem depois da dissolução do casamento, por dívidas contraídas por um ou ambos os cônjuges no mesmo período.
-
-3. (Revogado).
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Lei n.º 39/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01, em vigor a partir de 2025-04-02.
 
@@ -12525,7 +12461,7 @@ b) Serem reputadas como tais nas relações sociais, especialmente nas respectiv
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
 
-## Secção II — Registo por transcrição
+## Secção II — Registo por transcrição (revogada)
 
 > Revogado pelo/a Artigo 22.º do/a Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28, em vigor a partir de 2007-09-29
 
@@ -12921,13 +12857,9 @@ b) Se a disposição tiver sido prèviamente autorizada pelo outro cônjuge por 
 
 c) Se a disposição tiver sido feita por um dos cônjuges em benefício do outro.
 
-### Artigo 1686.º — (Exercício do comércio)
+### Artigo 1686.º — (Exercício do comércio) (revogado)
 
-1. A mulher não pode exercer o comércio sem o consentimento do marido, salvo se for administradora de todo o património do casal ou vigorar o regime da separação de bens.
-
-2. O consentimento para comerciar não depende de qualquer formalidade.
-
-3. Se, porém, a mulher pretender, por causa do seu trato, praticar acto que exija o consentimento do marido, deve este ser dado, ou judicialmente suprido, nos termos do artigo 1684.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 77.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -13393,15 +13325,13 @@ Se o regime de bens imposto por lei ou adoptado pelos esposados for o da separa�
 
 2. Quando haja dúvidas sobre a propriedade exclusiva de um dos cônjuges, os bens móveis ter-se-ão como pertencentes em compropriedade a ambos os cônjuges.
 
-### Artigo 1737.º — (Administração dos bens de um dos cônjuges pelo outro)
+### Artigo 1737.º — (Administração dos bens de um dos cônjuges pelo outro) (revogado)
 
-1. Se, na constância do matrimónio, um dos cônjuges entrar na administração e fruição dos bens do outro sem mandato escrito e sem oposição expressa, fica obrigado à restituição dos frutos percebidos, a não ser que prove tê-los aplicado na satisfação de encargos familiares ou no interesse do cônjuge proprietário.
-
-2. Havendo oposição, o cônjuge administrador responde perante o proprietário como possuidor de má fé.
+[Revogado.]
 
 > Revogado pelo/a Artigo 88.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-## Subsecção V — Regime dotal
+## Subsecção V — Regime dotal (revogada)
 
 > Revogado pelo/a Artigo 88.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -13813,13 +13743,9 @@ Se os acordos apresentados não acautelarem suficientemente os interesses de um 
 
 > Alterado pelo/a Artigo 98.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1780.º — (Exclusão do direito de requerer o divórcio)
+### Artigo 1780.º — (Exclusão do direito de requerer o divórcio) (revogado)
 
-O cônjuge não pode obter o divórcio, nos termos do artigo anterior:
-
-a) Se tiver instigado o outro a praticar o facto invocado como fundamento do pedido ou tiver intencionalmente criado condições propícias à sua verificação;
-
-b) Se houver revelado pelo seu comportamento posterior, designadamente por perdão, expresso ou tácito, não considerar o acto praticado como impeditivo da vida em comum.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Lei n.º 61/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31, em vigor a partir de 2008-11-30
 
@@ -13853,9 +13779,9 @@ d) Quaisquer outros factos que, independentemente da culpa dos cônjuges, mostre
 
 > Alterado pelo/a Artigo 98.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1783.º — (Ausência)
+### Artigo 1783.º — (Ausência) (revogado)
 
-É aplicável ao divórcio decretado com fundamento em ausência o disposto no n.º 2 do artigo anterior.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Lei n.º 61/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31, em vigor a partir de 2008-11-30
 
@@ -13883,11 +13809,9 @@ d) Quaisquer outros factos que, independentemente da culpa dos cônjuges, mostre
 
 > Alterado pelo/a Artigo 98.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1786.º — (Caducidade da acção)
+### Artigo 1786.º — (Caducidade da acção) (revogado)
 
-1. O direito ao divórcio caduca no prazo de dois anos, a contar da data em que o cônjuge ofendido ou o seu representante legal teve conhecimento do facto susceptível de fundamentar o pedido.
-
-2. O prazo de caducidade corre separadamente em relação a cada um dos factos; tratando-se de facto continuado, só corre a partir da data em que o facto tiver cessado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Lei n.º 61/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31, em vigor a partir de 2008-11-30
 
@@ -13895,11 +13819,9 @@ d) Quaisquer outros factos que, independentemente da culpa dos cônjuges, mostre
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 605/76 - Diário da República n.º 172/1976, Série I de 1976-07-24
 
-### Artigo 1787.º — (Declaração do cônjuge culpado)
+### Artigo 1787.º — (Declaração do cônjuge culpado) (revogado)
 
-1. Se houver culpa de um ou de ambos os cônjuges, assim o declarará a sentença; sendo a culpa de um dos cônjuges consideravelmente superior à do outro, a sentença deve declarar ainda qual deles é o principal culpado.
-
-2. O disposto no número anterior é aplicável mesmo que o réu não tenha deduzido reconvenção ou já tenha decorrido, relativamente aos factos alegados, o prazo referido no artigo 1786.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Lei n.º 61/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31, em vigor a partir de 2008-11-30
 
@@ -14411,9 +14333,9 @@ b) Ser reputada como tal nas relações sociais, especialmente nas respectivas f
 
 > Alterado pelo/a Artigo 99.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1833.º — Declaração de inexistência de posse de estado
+### Artigo 1833.º — Declaração de inexistência de posse de estado (revogado)
 
-A declaração de inexistência de posse de estado a que se refere o n.º 2 do artigo anterior é proferida em processo especial e os seus efeitos restringem-se ao disposto naquele preceito.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
 
@@ -15535,17 +15457,9 @@ Quando, nos termos do artigo anterior, tiver sido designado mais de um tutor par
 
 > Alterado pelo/a Artigo 102.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1930.º — (Tutela legítima)
+### Artigo 1930.º — (Tutela legítima) (revogado)
 
-1. Não tendo o pai nem a mãe designado tutor, ou não sendo este confirmado, a tutela é deferida, ouvido o conselho de família, e não havendo razões ponderosas em contrário, pela ordem seguinte:
-
-a) Aos ascendentes legítimos do menor, preferindo o de grau mais próximo;
-
-b) Aos colaterais legítimos até ao quarto grau, preferindo igualmente o de grau mais próximo.
-
-2. Em igualdade de circunstâncias, e sem prejuízo do disposto no número seguinte, preferem, sucessivamente, os parentes do mesmo sexo do menor, os da linha paterna e os mais velhos.
-
-3. Os irmãos germanos preferem aos consanguíneos, e ambos aos uterinos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 103.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -15873,29 +15787,27 @@ g) Pela constituição do apadrinhamento civil.
 
 > Alterado pelo/a Artigo 117.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1963.º — (Tutor designado pelo pai ou mãe)
+### Artigo 1963.º — (Tutor designado pelo pai ou mãe) (revogado)
 
-A nomeação de tutor ao filho menor feita por pai ou mãe ilegítima considera-se eficaz, ainda que posteriormente o outro progenitor venha a reconhecer o filho; mas, sendo atribuído ao segundo o exercício do poder paternal por falecimento ou inibição do primeiro, pode aquele revogar a designação que este haja feito.
-
-> Revogado pelo/a Artigo 118.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
-
-### Artigo 1964.º — (Tutela legítima)
-
-Na falta de tutor designado pelos pais, a tutela é deferida aos irmãos germanos, preferindo os do mesmo sexo do menor e, entre estes, o mais velho.
+[Revogado.]
 
 > Revogado pelo/a Artigo 118.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1965.º — (Tutor designado pelo tribunal)
+### Artigo 1964.º — (Tutela legítima) (revogado)
 
-Na falta de tutor designado pelos pais, ou de irmãos germanos que possam exercer a tutela, compete ao tribunal de menores a designação do tutor nos termos do artigo 1931.º
+[Revogado.]
 
 > Revogado pelo/a Artigo 118.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1966.º — (Menores abandonados)
+### Artigo 1965.º — (Tutor designado pelo tribunal) (revogado)
 
-1. Os menores abandonados são confiados à assistência pública, nos termos da respectiva legislação, exercendo as funções de tutor o director do estabelecimento, público ou particular, onde tenham sido internados.
+[Revogado.]
 
-2. O tribunal de menores pode sempre deferir a tutela a quem, mostrando-se idóneo para o exercício do cargo, queira encarregar-se gratuitamente da guarda e educação do abandonado; neste caso, o director do estabelecimento a cargo do qual se encontrava inicialmente o menor ou, na sua falta, qualquer pessoa escolhida pelo tribunal exercerá as funções de protutor.
+> Revogado pelo/a Artigo 118.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
+
+### Artigo 1966.º — (Menores abandonados) (revogado)
+
+[Revogado.]
 
 > Revogado pelo/a Artigo 118.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -15983,11 +15895,9 @@ O tutor ou administrador legal de bens só pode adotar a criança depois de apro
 
 > Alterado pelo/a Artigo 119.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 1977.º — (Espécies de adopção)
+### Artigo 1977.º — (Espécies de adopção) (revogado)
 
-1. A adopção é plena ou restrita, consoante a extensão dos seus efeitos.
-
-2. A adopção restrita pode a todo o tempo, a requerimento dos adoptantes, ser convertida em adopção plena, desde que se verifiquem os requisitos para esta exigidos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 9.º do/a Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08
 
@@ -16271,7 +16181,7 @@ c) No caso da alínea e), pelo adotado, até seis meses a contar da data em que 
 
 > Alterado pelo/a Artigo 119.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-## Capítulo III — Adopção restrita
+## Capítulo III — Adopção restrita (revogado)
 
 > Revogado pelo/a Artigo 9.º do/a Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08
 
@@ -17531,21 +17441,21 @@ A partilha faz-se por cabeça, mesmo que algum dos chamados à sucessão seja du
 
 > Alterado pelo/a Artigo 156.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 2149.º — (Colaterais legítimos)
+### Artigo 2149.º — (Colaterais legítimos) (revogado)
 
-Na falta de herdeiros das quatro primeiras classes, são chamados à sucessão os restantes colaterais legítimos até ao sexto grau, preferindo sempre os parentes mais próximos aos mais remotos.
-
-> Revogado pelo/a Artigo 157.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
-
-### Artigo 2150.º — (Colaterais ilegítimos)
-
-Na falta de colaterais legítimos, sucedem do mesmo modo os colaterais ilegítimos até ao sexto grau.
+[Revogado.]
 
 > Revogado pelo/a Artigo 157.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 2151.º — (Duplo parentesco)
+### Artigo 2150.º — (Colaterais ilegítimos) (revogado)
 
-A partilha faz-se sempre por cabeça, mesmo que algum dos chamados à sucessão seja duplamente parente do finado.
+[Revogado.]
+
+> Revogado pelo/a Artigo 157.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
+
+### Artigo 2151.º — (Duplo parentesco) (revogado)
+
+[Revogado.]
 
 > Revogado pelo/a Artigo 157.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -17809,9 +17719,9 @@ A capacidade do testador determina-se pela data do testamento.
 
 > Alterado pelo/a Artigo 166.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 2193.º — (Pessoas a cuja guarda o menor esteja entregue)
+### Artigo 2193.º — (Pessoas a cuja guarda o menor esteja entregue) (revogado)
 
-É nula a disposição do menor a favor de qualquer pessoa a cuja guarda esteja entregue.
+[Revogado.]
 
 > Revogado pelo/a Artigo 167.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
@@ -18541,21 +18451,15 @@ e) Se o chamado à sucessão repudiar a herança ou o legado, salvo havendo repr
 
 > Alterado pelo/a Artigo 174.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 2318.º — (Caducidade por superveniência de descendentes)
+### Artigo 2318.º — (Caducidade por superveniência de descendentes) (revogado)
 
-1. A instituição de herdeiro ou a nomeação de legatário, feita por pessoa que ao tempo do testamento não tinha ou ignorava ter descendentes legítimos ou legitimados, nascidos ou concebidos, caduca de direito, se ao testador sobrevier algum ou alguns desses descendentes e a herança for por estes aceita.
-
-2. Tratando-se de descendentes ilegítimos, havidos antes ou depois do testamento, a sua perfilhação em caso algum faz caducar a instituição de herdeiro ou a nomeação de legatário, sem prejuízo dos direitos deles à legítima.
-
-3. Se concorrerem descendentes legítimos ou legitimados, nas condições do n.º 1, com descendentes ilegítimos, a caducidade aproveita exclusivamente aos primeiros.
+[Revogado.]
 
 > Revogado pelo/a Artigo 175.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 
-### Artigo 2319.º — (Casos em que é excluída a caducidade)
+### Artigo 2319.º — (Casos em que é excluída a caducidade) (revogado)
 
-1. A legitimação de filho ilegítimo já reconhecido, feita posteriormente ao testamento, não importa caducidade da disposição.
-
-2. Também não há caducidade, quando o testador previu no testamento a existência ou superveniência de descendentes legítimos ou legitimados.
+[Revogado.]
 
 > Revogado pelo/a Artigo 175.º do/a Decreto-Lei n.º 496/77 - Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25, em vigor a partir de 1978-04-01
 

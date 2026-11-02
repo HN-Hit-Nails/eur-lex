@@ -11,7 +11,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-34544675
 eli: https://data.dre.pt/eli/dec-lei/224/1984/p/cons/20260415/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 224/84
@@ -652,7 +652,7 @@ e) Quando tiver sido lavrado sem apresentação prévia ou com violação do pri
 
 ## Título II — Da organização do registo
 
-## Capítulo I — Competência territorial
+## Capítulo I — Competência territorial (revogado)
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -720,17 +720,9 @@ c) Prédios rústicos, por artigos de matriz precedidos das respectivas secçõe
 
 3 - O ficheiro pessoal é constituído por verbetes indicadores dos proprietários ou possuidores dos prédios, ordenados alfabeticamente.
 
-### Artigo 25.º — (Preenchimento dos verbetes)
+### Artigo 25.º — (Preenchimento dos verbetes) (revogado)
 
-1 - Os verbetes dos ficheiros real e pessoal são anotados e actualizados simultaneamente com qualquer registo.
-
-2 - No caso de prédios não descritos, os verbetes reais são sempre abertos dentro do prazo da feitura dos registos.
-
-3 - A passagem de certidão comprovativa de o prédio não estar descrito determina também a abertura do respectivo verbete.
-
-4 - Do verbete real deve constar a situação e composição sumária do prédio, o artigo matricial e o número de descrição, ou o número e a data da apresentação ou da certidão, quando o verbete for aberto sem a descrição.
-
-5 - Do verbete pessoal deve constar o nome, estado e residência dos proprietários ou possuidores, o número da descrição do prédio e a freguesia onde se situa.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -838,15 +830,9 @@ ii) Planta do prédio e declaração dos confinantes de que não ocorreu altera�
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
-### Artigo 30.º — (Identificação dos prédios nos títulos)
+### Artigo 30.º — (Identificação dos prédios nos títulos) (revogado)
 
-1 - Nos títulos respeitantes a factos sujeitos a registo, a identificação dos prédios não pode ser feita em contradição com a inscrição na matriz, nos termos do artigo 28.º, nem com a respectiva descrição, salvo se, quanto a esta, os interessados esclarecerem que a divergência resulta de alteração superveniente ou que, tratando-se de matriz não cadastral, provém de simples erro de medição.
-
-2 - No caso do erro previsto na última parte do número anterior, devem os interessados juntar a planta do prédio e declaração assinada por todos os proprietários confinantes de que não houve alterações na configuração do prédio.
-
-3 - A assinatura de qualquer proprietário confinante pode ser suprida pela sua notificação judicial, desde que não seja deduzida oposição no prazo de 15 dias.
-
-4 - A oposição referida no número anterior é anotada à descrição mediante apresentação de requerimento do notificado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -874,15 +860,9 @@ ii) Planta do prédio e declaração dos confinantes de que não ocorreu altera�
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
 
-### Artigo 32.º — (Prédios omissos na matriz ou pendentes de alterações)
+### Artigo 32.º — (Prédios omissos na matriz ou pendentes de alterações) (revogado)
 
-1 - Se o prédio estiver omisso na matriz, a declaração para a inscrição, quando devida, deve ser comprovada por duplicado ou certidão da declaração emitidos há menos de um ano.
-
-2 - No caso de estar pendente pedido de alteração ou rectificação da matriz, aos documentos previstos no artigo anterior deve ser junto duplicado do pedido ou certidão da sua pendência emitidos há menos de um ano.
-
-3 - A prova da declaração e do pedido previstos nos números anteriores não carece de ser renovada para os registos apresentados dentro do referido prazo.
-
-4 - Se a declaração para a inscrição na matriz ou o pedido da sua alteração ou rectificação não tiverem sido feitos pelo proprietário ou possuidor, deve o interessado, sendo terceiro, fazer prova de que deu conhecimento à repartição de finanças da omissão ou alteração ou do erro existente.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -1052,13 +1032,9 @@ b) Os advogados, os notários e os solicitadores.
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
 
-### Artigo 40.º — (Casos especiais)
+### Artigo 40.º — (Casos especiais) (revogado)
 
-1 - Compete ao Ministério Público requerer o registo quando, em inventário judicial, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis.
-
-2 - A obrigação referida no número anterior incumbe ao representante legal do incapaz que outorgue na partilha extrajudicial em sua representação.
-
-3 - Idêntica obrigação incumbe ao doador quanto às doações que produzam efeitos independentemente de aceitação.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -1078,15 +1054,9 @@ O registo efectua-se mediante pedido de quem tenha legitimidade, salvo os casos 
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
-### Artigo 41.º-A — (Apresentação por notário)
+### Artigo 41.º-A — (Apresentação por notário) (revogado)
 
-1 - O pedido de registo, subscrito pelos interessados, pode ser remetido ou apresentado directamente pelo notário na conservatória competente, acompanhado dos respectivos documentos e preparo, nos termos previstos na lei notarial.
-
-2 - Após a anotação da apresentação no Diário, é devolvida ao notário fotocópia do impresso a que se refere o artigo anterior, com nota de recebimento.
-
-3 - Por cada requisição de registo efectuada nos termos do n.º 1, é remetida pelo conservador aos interessados uma senha de apresentação, de acordo com o disposto no artigo 64.º
-
-4 - No prazo de cinco dias após a feitura do registo, os documentos que serviram de base à sua realização são devolvidos aos interessados, por meio de carta registada, juntamente com fotocópia dos registos efectuados e o excesso de preparo, se o houver.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -1118,11 +1088,9 @@ O pedido de registo pode ser remetido por carta registada, acompanhado dos docum
 
 > Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
-### Artigo 41.º-E — Apresentação por via imediata
+### Artigo 41.º-E — Apresentação por via imediata (revogado)
 
-1 - O pedido de registo e os respectivos documentos podem ser apresentados no serviço de registo mediante depósito imediato, em envelope.
-
-2 - Às apresentações por via imediata aplicam-se as regras do pedido por correio, com as necessárias adaptações.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
 
@@ -1510,11 +1478,9 @@ e) A espécie dos documentos e o seu número.
 
 > Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
 
-### Artigo 62.º — (Lançamento da nota nos documentos)
+### Artigo 62.º — (Lançamento da nota nos documentos) (revogado)
 
-1 - Feita a apresentação, será lançada nota do correspondente número de ordem e data na requisição e em cada um dos documentos apresentados, à excepção das cadernetas prediais.
-
-2 - Antes da feitura do registo serão oficiosamente mencionados no impresso-requisição os factos que devam ser registados por dependência do pedido.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -1534,15 +1500,9 @@ Salvo se for efectuado por via electrónica, por cada pedido de registo é emiti
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
-### Artigo 65.º — (Apresentação pelo correio)
+### Artigo 65.º — (Apresentação pelo correio) (revogado)
 
-1 - A apresentação pode ser feita pelo correio.
-
-2 - O apresentante deve enviar os documentos e a requisição em carta registada, acompanhados do respectivo preparo, identificando-se nos termos previstos nos n.os 2 e 3 do artigo 42.º
-
-3 - A apresentação é anotada no Diário, com a observação «Correspondência», no dia da recepção e imediatamente após a última apresentação feita pessoalmente, observando-se o disposto no artigo 63.º, se necessário.
-
-4 - No prazo de cinco dias após a feitura do registo, os documentos que serviram de base à sua realização são devolvidos aos interessados, por meio de carta registada, juntamente com fotocópia dos registos efectuados e o excesso de preparo, se o houver.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -2656,13 +2616,9 @@ b) Se o prédio não estiver sujeito a registo.
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
 
-### Artigo 114.º — (Certidões para instrução de processos)
+### Artigo 114.º — (Certidões para instrução de processos) (revogado)
 
-1 - As certidões para prova da omissão dos prédios no registo destinadas a instruir inventário em que a herança seja deferida a incapaz, ausente em parte incerta ou pessoa colectiva são requisitadas com a indicação do fim a que se destinam e a respectiva conta entra em regra de custas, havendo-as.
-
-2 - As certidões a que se refere o número anterior podem ser substituídas por notas apostas na relação de bens, se estas contiverem os elementos previstos nos n.os 4 e 5 do artigo 111.º
-
-3 - O regime de custas previsto no n.º 1 é aplicável às certidões requisitadas pelo Ministério Público ou por outras entidades que gozem de isenção emolumentar.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -2674,9 +2630,9 @@ b) Se o prédio não estiver sujeito a registo.
 
 > Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
 
-### Artigo 115.º — (Fotocópia dos registos lavrados)
+### Artigo 115.º — (Fotocópia dos registos lavrados) (revogado)
 
-Por cada pedido de registo é gratuitamente enviada ou entregue aos interessados uma fotocópia não certificada dos actos lavrados.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -2910,9 +2866,9 @@ Ao conservador que exerça advocacia é vedada a aceitação do patrocínio nos 
 
 > Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
 
-### Artigo 117.º-P — Direito subsidiário
+### Artigo 117.º-P — Direito subsidiário (revogado)
 
-O Código de Processo Civil é aplicável, subsidiariamente e com as necessárias adaptações, ao processo de justificação previsto neste capítulo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
 
@@ -3048,13 +3004,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
 
-### Artigo 128.º — (Emolumentos)
+### Artigo 128.º — (Emolumentos) (revogado)
 
-1 - Quando não haja motivo para indeferimento liminar, são os requerentes notificados para efectuarem o pagamento dos emolumentos que sejam devidos pela instrução e decisão do processo.
-
-2 - O pagamento desses emolumentos é efectuado no prazo de cinco dias a contar da data da notificação, podendo ainda os requerentes efectuá-lo nos oito dias após o termo deste prazo com agravamento de 20%.
-
-3 - Findo este último prazo sem que o pagamento se mostre efectuado, o conservador declara o processo findo e do respectivo despacho notifica os requerentes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -3216,11 +3168,9 @@ Ao conservador que exerça advocacia é vedada a aceitação do patrocínio nos 
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
-### Artigo 134.º — (Arquivos de duplicação)
+### Artigo 134.º — (Arquivos de duplicação) (revogado)
 
-1 - Com vista à preservação dos registos, poderão ser organizados arquivos, em locais diferentes dos da situação das conservatórias para depósito dos livros transcritos em fichas ou de cópias destas.
-
-2 - As cópias a depositar no arquivo de preservação poderão ser extraídas por fotocópia ou microfilme.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -3342,9 +3292,9 @@ Nos casos em que o registo não possa ser reconstituído pela forma prevista nos
 
 > Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
-### Artigo 143.º — (Audição do notário)
+### Artigo 143.º — (Audição do notário) (revogado)
 
-No caso de ser interposto recurso hierárquico da qualificação do conservador que se fundamente em vício de que alegadamente enferme título lavrado por notário, este deve ser ouvido, sempre que possível, pela Direcção-Geral dos Registos e do Notariado.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -3448,9 +3398,9 @@ b) O facto de o processo ter estado parado mais de 30 dias por inércia do impug
 
 > Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
 
-### Artigo 147.º-B — Direito subsidiário
+### Artigo 147.º-B — Direito subsidiário (revogado)
 
-Ao recurso hierárquico é aplicável, subsidiariamente, o disposto no Código do Procedimento Administrativo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
 
@@ -3518,11 +3468,9 @@ Ao recurso hierárquico é aplicável, subsidiariamente, o disposto no Código d
 
 ## Título VIII — Disposições diversas
 
-### Artigo 150.º — (Emolumentos)
+### Artigo 150.º — (Emolumentos) (revogado)
 
-1 - Pelos actos praticados nos serviços de registo predial são cobrados os emolumentos constantes da respectiva tabela, salvo nos casos de isenção previstos na lei.
-
-2 - As contas que tenham de entrar em regra de custas de processo são pagas com as custas a que haja lugar.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 
@@ -3564,13 +3512,9 @@ Ao recurso hierárquico é aplicável, subsidiariamente, o disposto no Código d
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
 
-### Artigo 152.º — (Isenções)
+### Artigo 152.º — (Isenções) (revogado)
 
-1 - (Revogado).
-
-2 - (Revogado).
-
-3 - Salvo disposição em contrário, todos os livros, fichas, verbetes ou impressos previstos neste Código e exclusivamente destinados ao serviço do registo não carecem de selo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
 

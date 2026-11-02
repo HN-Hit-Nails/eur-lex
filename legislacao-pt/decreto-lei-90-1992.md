@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1992-522994
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-114658345
 eli: https://data.dre.pt/eli/dec-lei/90/1992/p/cons/20190514/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 90/92
@@ -180,9 +180,9 @@ O CES dispõe de serviços de apoio técnico e administrativo, regendo-se o resp
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18, em vigor a partir de 2012-05-23
 
-### Artigo 15.º — Prestação de funções no CES
+### Artigo 15.º — Prestação de funções no CES (revogado)
 
-Mediante despacho do presidente, podem prestar serviço no CES, em regime de requisição, comissão de serviço ou destacamento, funcionários ou agentes da administração pública central, regional ou local, bem como trabalhadores de empresas privadas ou do sector público, nos termos da legislação aplicável.
+[Revogado.]
 
 > Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18, em vigor a partir de 2012-05-23
 
@@ -260,8 +260,6 @@ Referendado em 13 de Maio de 1992.
 
 O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo
-
-(ver documento original)
+## Anexo — (revogado)
 
 > Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 61/2019 - Diário da República n.º 92/2019, Série I de 2019-05-14, em vigor a partir de 2019-05-19, produz efeitos a partir de 2019-06-01

@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-107547988
 eli: https://data.dre.pt/eli/dec-lei/135/1999/p/cons/20240207/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 135/99
@@ -114,19 +114,15 @@ g) Garantir a simplificação da linguagem administrativa de modo a facilitar o 
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
 
-### Artigo 4.º — Medidas de modernização administrativa
+### Artigo 4.º — Medidas de modernização administrativa (revogado)
 
-1 - Os diplomas legais e regulamentares editados pelo Governo, que consagrem medidas tendentes à criação, modificação ou extinção de procedimentos ou de formalidades, nomeadamente de simplificação, de desburocratização, de melhoria dos serviços prestados, de inovação tecnológica e facilidades de acesso à informação administrativa, devem conter no respectivo preâmbulo a menção do objectivo a atingir com a concretização das referidas medidas de modernização administrativa.
-
-2 - A nota justificativa que acompanha os projectos de diplomas acima referidos, no que diz respeito aos aspectos mencionados no número anterior, deve fazer menção expressa ao impacte das medidas legislativas propostas, bem como de estudo prévio de impacte de custos, quando as mesmas possam ter repercussões de ordem económica.
-
-3 - Os diplomas referidos no n.º 1 devem designar obrigatoriamente um serviço ou organismo responsável pelo acompanhamento e avaliação da execução das medidas aprovadas.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
 
-### Artigo 5.º — Deferimento tácito
+### Artigo 5.º — Deferimento tácito (revogado)
 
-Para além das situações previstas no n.º 3 do artigo 108.º do Código do Procedimento Administrativo, os serviços públicos devem propor aos órgãos competentes o elenco de outros casos de prática de actos administrativos ou do exercício de direitos pelos cidadãos que, dependendo de aprovação ou de autorização administrativa, possam, sem prejuízo do interesse público, ser objecto de deferimento tácito, através de consagração legal.
+[Revogado.]
 
 > Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
 

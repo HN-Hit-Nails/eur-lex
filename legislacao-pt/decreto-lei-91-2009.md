@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2009-603961
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70157403
 eli: https://data.dre.pt/eli/dec-lei/91/2009/p/cons/20260813/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 91/2009
@@ -86,11 +86,9 @@ O presente decreto-lei define e regulamenta a proteção na parentalidade no âm
 
 2 - A protecção estabelecida no âmbito do sistema previdencial abrange as situações de risco clínico durante a gravidez, de interrupção da gravidez, de parentalidade, de adopção, de risco específico, de assistência a filho, em caso de doença ou acidente, de assistência a filho com deficiência ou doença crónica e de assistência a neto determinantes de impedimento temporário para o trabalho.
 
-### Artigo 3.º — Protecção na parentalidade no âmbito do subsistema de solidariedade
+### Artigo 3.º — Protecção na parentalidade no âmbito do subsistema de solidariedade (revogado)
 
-1 - A protecção prevista no âmbito do subsistema de solidariedade concretiza-se na atribuição de prestações pecuniárias destinadas a garantir rendimentos substitutivos da ausência ou da perda de rendimentos de trabalho, em situações de carência económica, determinadas pela inexistência ou insuficiência de carreira contributiva em regime de protecção social de enquadramento obrigatório ou no seguro social voluntário que garanta protecção na eventualidade, ou pela exclusão da atribuição dos correspondentes subsídios no âmbito do sistema previdencial.
-
-2 - A protecção estabelecida no âmbito do subsistema de solidariedade abrange as situações de risco clínico durante a gravidez, de interrupção da gravidez, de parentalidade, de adopção e de riscos específicos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
 
@@ -602,7 +600,7 @@ b) Subsídio parental alargado correspondente ao gozo da licença parental alarg
 
 Os subsídios previstos no presente capítulo são acumuláveis com indemnizações e pensões por doença profissional ou por acidente de trabalho.
 
-## Capítulo III — Protecção no âmbito do subsistema de solidariedade
+## Capítulo III — Protecção no âmbito do subsistema de solidariedade (revogado)
 
 > Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
 
@@ -968,15 +966,9 @@ b) No caso dos trabalhadores independentes e abrangidos pelo seguro social volun
 
 A atribuição do subsídio para assistência a neto depende de apresentação de certificação médica com indicação dos períodos de impedimento para o trabalho necessários para garantir a assistência inadiável e imprescindível ao neto.
 
-### Artigo 78.º — Meios de prova dos subsídios sociais
+### Artigo 78.º — Meios de prova dos subsídios sociais (revogado)
 
-1 - Para além dos meios de prova exigidos para os correspondentes subsídios do sistema previdencial a atribuição dos subsídios sociais depende, ainda, dos seguintes elementos obtidos oficiosamente:
-
-a) Composição do agregado familiar e respectivos rendimentos;
-
-b) Comprovação de residência em território nacional.
-
-2 - Na impossibilidade de obtenção oficiosa dos elementos referidos no número anterior os serviços competentes notificam os beneficiários para efectuarem a respectiva apresentação.
+[Revogado.]
 
 > Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
 
@@ -1008,9 +1000,9 @@ O direito aos subsídios previstos neste decreto-lei prescreve a favor das insti
 
 ## Capítulo VI — Disposições transitórias e finais
 
-### Artigo 83.º — Regime subsidiário
+### Artigo 83.º — Regime subsidiário (revogado)
 
-Com excepção do disposto no artigo 22.º em tudo o que não esteja especialmente previsto no capítulo iii são aplicáveis, com as devidas adaptações, as disposições constantes do capítulo ii.
+[Revogado.]
 
 > Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
 

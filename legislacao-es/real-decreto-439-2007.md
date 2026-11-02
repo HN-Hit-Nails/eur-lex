@@ -8,7 +8,7 @@ fonte: Agencia Estatal Boletín Oficial del Estado — API de dados abertos
 lingua: es
 consolidado_ate: '2026-10-07'
 versoes_futuras: []
-obtido_em: '2026-10-29'
+obtido_em: '2026-11-02'
 ---
 
 # Real Decreto 439/2007, de 30 de marzo, por el que se aprueba el Reglamento del Impuesto sobre la Renta de las Personas Físicas y se modifica el Reglamento de Planes y Fondos de Pensiones, aprobado por Real Decreto 304/2004, de 20 de febrero.

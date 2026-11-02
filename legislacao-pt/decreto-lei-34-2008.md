@@ -16,7 +16,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34454975
 eli: https://data.dre.pt/eli/dec-lei/34/2008/p/cons/20260806/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 34/2008
@@ -1767,91 +1767,17 @@ i) As despesas de transporte e ajudas de custo para diligências afectas ao proc
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 52/2011 - Diário da República n.º 73/2011, Série I de 2011-04-13, em vigor a partir de 2011-05-13.
 
-### Artigo 21.º — Pagamentos intercalares
+### Artigo 21.º — Pagamentos intercalares (revogado)
 
-Os encargos não pagos, incluindo os referidos no artigo anterior, são contados oficiosamente pela secretaria no prazo de 10 dias após o seu montante acumulado atingir ou superar 4 UC, devendo esta notificar o responsável não beneficiário de isenção de custas ou de apoio judiciário para realizar o seu pagamento, no mesmo prazo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Lei n.º 7/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13, em vigor a partir de 2012-03-29.
 
 > Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 52/2011 - Diário da República n.º 73/2011, Série I de 2011-04-13, em vigor a partir de 2011-05-13.
 
-### Artigo 22.º — Conversão da taxa de justiça paga
+### Artigo 22.º — Conversão da taxa de justiça paga (revogado)
 
-1 - Os valores devidos a título de taxa de justiça, quando pagos previamente, são convertidos em pagamento antecipado de encargos, nos termos dos números seguintes.
-
-2 - É convertido o valor integralmente pago a título de taxa de justiça nos seguintes casos:
-
-a) Nas acções de processo civil simplificado, nas acções especiais para satisfação de obrigações pecuniárias, nas acções declarativas provenientes de injunção ou análogas;
-
-b) Nas acções em que as partes efectuem transacção imediatamente após a fase dos articulados ou antes de designado dia para a audiência, consoante os casos;
-
-c) Nas acções em que se verifique a desistência da instância logo após a fase dos articulados ou antes de designado dia para a audiência, consoante os casos, por força do recurso superveniente a processos de resolução extrajudicial de litígios;
-
-d) Execuções que cessem pelo pagamento voluntário dentro do prazo previsto para a oposição à execução ou dentro do prazo previsto para a oposição à penhora quando esta seja realizada antes da citação;
-
-e) Nos processos tributários, no que respeita à taxa paga pelo impugnante, em caso de desistência no prazo legal após a revogação parcial do acto tributário impugnado;
-
-f) Nos processos de jurisdição voluntária, em matéria de direito da família;
-
-g) Nos recursos com subida diferida que não cheguem a subir por desinteresse ou desistência do recorrente;
-
-h) Nos recursos, quando o recorrente veja deferida a sua pretensão por não terem sido juntas contra-alegações;
-
-i) Nos recursos que não cheguem a ser apreciados por desistência do recorrente na sequência de aclaração da sentença ou da sua reforma quanto a custas e multas.
-
-3 - É convertido metade do valor pago a título de taxa de justiça nos seguintes casos:
-
-a) Nas acções que não comportem citação do réu, oposição ou audiência de julgamento;
-
-b) Nas acções que terminem antes de oferecida a oposição ou em que, devido à sua falta, seja proferida sentença, ainda que precedida de alegações e nas acções que terminem antes da designação da audiência final;
-
-c) Nas acções em que sejam adoptadas pelas partes as medidas de simplificação processual especialmente previstas por lei;
-
-d) Nas execuções extintas após o termo das diligências que precedem a penhora sem que se pague ou indique bens à penhora;
-
-e) Inventários em que não haja operações de partilha ou que terminem antes da fase da conferência de interessados;
-
-f) Autorizações ou confirmações de actos de incapazes, autorizações para alienar ou onerar bens do ausente, divisões de coisa comum, prestações de contas de cabeça-de-casal e semelhantes, processadas na dependência de processos de incapazes, quando não haja representação pelo Ministério Público;
-
-g) Depósitos e levantamentos;
-
-h) Remição, caducidade e actualização de pensões;
-
-i) Revisões de incapacidade ou de pensão;
-
-j) Acções para a convocação de assembleias gerais ou órgãos equivalentes e impugnação das suas deliberações e reclamações de decisões disciplinares por associados de instituições de previdência ou de organismos sindicais;
-
-l) Nos recursos julgados desertos ou quando terminem antes da fase de julgamento;
-
-m) Nos recursos que subam juntamente com recurso de natureza penal;
-
-n) Nas acções administrativas especiais em que não haja lugar a audiência pública;
-
-o) Nos processos em massa suspensos nos termos fixados no Código de Processo nos Tribunais Administrativos;
-
-p) Nos processos de contencioso pré-contratual;
-
-q) Nos conflitos de competência;
-
-r) Nas execuções fiscais que sejam da competência dos tribunais tributários de 1.ª instância, nos termos do Código de Procedimento e de Processo Tributário.
-
-4 - É também convertido o valor de taxa de justiça efectivamente pago em excesso, quando o juiz venha a fixar como valor da acção um valor inferior ao indicado pelas partes.
-
-5 - É ainda convertido um terço do valor pago a título de taxa de justiça, quando a parte entregue em juízo todas as peças processuais pelos meios electrónicos disponíveis, nos termos definidos em portaria do membro do Governo responsável pela área da justiça, sem prejuízo do disposto no n.º 3 do artigo 6.º
-
-6 - O valor convertido que exceda os montantes já apurados a título de encargos mantém-se como crédito na conta de custas, sendo devolvido à parte que o prestou, depois do trânsito em julgado e de saldadas todas as suas dívidas ao processo, se não for entretanto destinado ao pagamento de encargos ou custas de parte.
-
-7 - O valor em excesso referido no número anterior, caso deva ser devolvido à parte vencedora, é sempre deduzido do montante de custas de parte a suportar pela parte vencida.
-
-8 - Quando haja dispensa de pagamento prévio, a parte fica apenas obrigada a pagar:
-
-a) Os valores devidos a título de encargos, quando se trate dos casos previstos no n.º 2;
-
-b) Os valores devidos a título de encargos acrescidos de 50 % do valor devido pela taxa de justiça, quando se trate dos casos previstos no n.º 3.
-
-9 - Os reembolsos devidos nos termos deste artigo são feitos pelo Instituto de Gestão Financeira e das Infra-Estruturas da Justiça, I. P.
-
-10 - Por portaria do membro do Governo responsável pela área da justiça, podem ser previstos mecanismos alternativos de implementação de benefícios ou imposição de sanções relativos às custas processuais, no que respeita à utilização de meios electrónicos e no recurso a instrumentos alternativos de resolução de litígios.
+[Revogado.]
 
 > Revogado pelo/a Artigo 6.º do/a Lei n.º 7/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13, em vigor a partir de 2012-03-29.
 
@@ -2123,7 +2049,9 @@ d) Reembolsos a outras entidades por força de colaboração ou intervenção no
 
 > Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 126/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01.
 
-### Artigo 36.º — Cumulação de execuções
+### Artigo 36.º — Cumulação de execuções (revogado)
+
+[Revogado. A nota abaixo pode adiar ou condicionar os efeitos da revogação; segue-se o texto anterior.]
 
 1 - Instaura-se sempre uma só execução contra o mesmo responsável, ainda que sejam vários os processos ou apensos com custas em dívida, desde que as execuções possam correr em simultâneo.
 

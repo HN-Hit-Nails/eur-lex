@@ -1,7 +1,7 @@
 ---
 celex: 32003L0088
 parte: contexto
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Diretiva 32003L0088 — Tempo de trabalho — contexto

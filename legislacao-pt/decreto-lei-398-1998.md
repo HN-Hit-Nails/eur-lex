@@ -11,7 +11,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34438775
 eli: https://data.dre.pt/eli/dec-lei/398/1998/p/cons/20250327/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 398/98
@@ -2138,142 +2138,104 @@ A alçada dos tribunais tributários corresponde àquela que se encontra estabel
 
 > Alterado pelo/a Artigo 220.º do/a Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31, em vigor a partir de 2015-01-01
 
-## Título V — Das infracções fiscais
+## Título V — Das infracções fiscais (revogado)
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-## Capítulo I — Das infracções fiscais
+## Capítulo I — Das infracções fiscais (revogado)
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 106.º — Espécies de infracções
+### Artigo 106.º — Espécies de infracções (revogado)
 
-1 - São infracções fiscais os factos típicos, ilícitos e culposos declarados puníveis pelas leis tributárias.
-
-2 - As infracções fiscais podem constituir crimes e contra-ordenações.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 107.º — Crimes e contra-ordenações fiscais
+### Artigo 107.º — Crimes e contra-ordenações fiscais (revogado)
 
-1 - A definição do tipo de crime, contra-ordenação fiscal, sanções e regras de procedimento são objecto de diploma próprio.
-
-2 - São subsidiariamente aplicáveis aos crimes fiscais o Código Penal e o Código de Processo Penal e às contra-ordenações fiscais o regime geral do ilícito de mera ordenação social.
-
-3 - A aplicação de sanções fiscais é sempre efectuada em processo contraditório autónomo do processo de liquidação dos tributos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 108.º — Dolo e negligência
+### Artigo 108.º — Dolo e negligência (revogado)
 
-1 - As contra-ordenações fiscais podem ser punidas a título de dolo ou negligência.
-
-2 - Os crimes só podem ser punidos a título de dolo.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 109.º — Penas aplicáveis
+### Artigo 109.º — Penas aplicáveis (revogado)
 
-1 - As contra-ordenações fiscais são puníveis com coima e as sanções acessórias que a lei definir.
-
-2 - Aos crimes fiscais são aplicáveis as penas de prisão ou multa.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 110.º — Subsistência da dívida do imposto
+### Artigo 110.º — Subsistência da dívida do imposto (revogado)
 
-O cumprimento integral da sanção efectivamente aplicada não exonera, em nenhuma circunstância, do pagamento do imposto devido e demais acréscimos legais.
-
-> Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
-
-### Artigo 111.º — Responsabilidade das pessoas colectivas
-
-1 - As pessoas colectivas e equiparadas são responsáveis, nos termos da lei, pelas infracções fiscais cometidas pelos seus órgãos ou representantes, em seu nome e no interesse colectivo.
-
-2 - A responsabilidade da pessoa colectiva é excluída quando o agente da infracção tiver comprovadamente actuado contra ordens ou instruções expressas de quem de direito.
-
-3 - A responsabilidade das entidades referidas no n.º 1 não exclui a responsabilidade individual dos respectivos agentes.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 112.º — Responsabilidade solidária e subsidiária
+### Artigo 111.º — Responsabilidade das pessoas colectivas (revogado)
 
-1 - Os administradores, directores, gerentes e outras pessoas que exerçam, ainda que somente de facto, funções de administração em pessoas colectivas e entes fiscalmente equiparados são responsáveis subsidiários:
-
-a) Pelas multas ou coimas cujo facto constitutivo tenha ocorrido no período do exercício do seu cargo ou vencidas antes do início deste quando tiver sido por culpa sua que o património da sociedade ou pessoa colectiva se tornou insuficiente para o seu pagamento;
-
-b) Pelas multas ou coimas vencidas no período do seu mandato, salvo quando provarem que a falta de pagamento lhes não foi imputável.
-
-2 - A responsabilidade subsidiária prevista neste artigo é solidária se forem várias as pessoas a praticar os actos ou omissões culposos de que resulte a insuficiência do património das entidades em causa.
-
-3 - Quem colaborar dolosamente na prática de infracção tributária é solidariamente responsável pelo pagamento das multas e coimas aplicadas ao agente principal da infracção.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 113.º — Contra-ordenações simples, graves e muito graves
+### Artigo 112.º — Responsabilidade solidária e subsidiária (revogado)
 
-Para efeitos das sanções aplicáveis as contra-ordenações fiscais podem ser qualificadas, por lei autónoma, como simples, graves ou muito graves.
-
-> Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
-
-### Artigo 114.º — Cumulação de sanções
-
-Só as contra-ordenações fiscais muito graves podem ser sancionadas simultaneamente a título principal e acessório.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 115.º — Determinação da medida da coima
+### Artigo 113.º — Contra-ordenações simples, graves e muito graves (revogado)
 
-1 - Na determinação da medida concreta da coima, dentro dos limites mínimo e máximo previstos na lei, devem considerar-se, nomeadamente:
-
-a) Aferição objectiva da gravidade da infracção;
-
-b) Graduação da culpa do agente;
-
-c) Apreciação da situação económica do agente;
-
-d) O benefício económico efectivo resultante da prática da infracção.
-
-2 - A determinação do benefício económico efectivo obtido com a prática da infracção deve ter em conta os juros compensatórios e encargos legais que forem devidos.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 116.º — Regras de extinção da responsabilidade por contra-ordenação
+### Artigo 114.º — Cumulação de sanções (revogado)
 
-Para além dos casos previstos na lei, pode não ser aplicada coima, desde que se verifiquem cumulativamente as seguintes circunstâncias:
-
-a) A prática da infracção não ocasione prejuízo efectivo à receita fiscal;
-
-b) Se mostre regularizada a falta cometida;
-
-c) Se possa claramente considerar que a falta revela um diminuto grau de culpa.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 117.º — Redução das coimas
+### Artigo 115.º — Determinação da medida da coima (revogado)
 
-Independentemente do disposto no artigo anterior, a coima pode ser reduzida, nos termos da lei, no caso de o infractor reconhecer a sua responsabilidade e regularizar a situação tributária até à decisão do processo de contra-ordenação fiscal.
-
-> Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
-
-## Capítulo II — Processo das contra-ordenações
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 118.º — Constituição e composição da comissão de infracções fiscais
+### Artigo 116.º — Regras de extinção da responsabilidade por contra-ordenação (revogado)
 
-É constituída uma comissão de infracções fiscais, composta por quatro especialistas de reconhecida competência técnica, nomeados pelo Ministro das Finanças, com a competência que a lei lhe deferir para aplicar as sanções principais e acessórias previstas na lei para as infracções fiscais e contribuir para a uniformização dos critérios utilizados pela administração tributária.
-
-> Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
-
-### Artigo 119.º — Prescrição do procedimento contra-ordenacional
-
-O procedimento por contra-ordenação extingue-se, por efeito da prescrição, logo que sobre a prática da mesma sejam decorridos cinco anos, sem prejuízo das causas de interrupção e de suspensão previstas na lei.
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
 
-### Artigo 120.º — Prescrição das sanções contra-ordenacionais
+### Artigo 117.º — Redução das coimas (revogado)
 
-As sanções por contra-ordenação fiscal prescrevem no prazo de cinco anos a contar da data da sua aplicação, sem prejuízo das causas de interrupção e de suspensão previstas na lei.
+[Revogado.]
+
+> Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
+
+## Capítulo II — Processo das contra-ordenações (revogado)
+
+> Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
+
+### Artigo 118.º — Constituição e composição da comissão de infracções fiscais (revogado)
+
+[Revogado.]
+
+> Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
+
+### Artigo 119.º — Prescrição do procedimento contra-ordenacional (revogado)
+
+[Revogado.]
+
+> Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05
+
+### Artigo 120.º — Prescrição das sanções contra-ordenacionais (revogado)
+
+[Revogado.]
 
 > Revogado pelo/a Artigo 2.º do/a Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05, em vigor a partir de 2001-07-05

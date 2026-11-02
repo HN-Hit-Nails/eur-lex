@@ -7,7 +7,7 @@ data: '2026-01-19'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/recommendation/recommendations-12026-on-the-application-for-approval-and-on-the-elements_en
 pdf: https://www.edpb.europa.eu/system/files/2026-01/edpb_recommendations202601_bcr-p_v1_en.pdf
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

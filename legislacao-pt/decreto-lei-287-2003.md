@@ -15,7 +15,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34499575
 eli: https://data.dre.pt/eli/dec-lei/287/2003/p/cons/20260520/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Decreto-Lei n.º 287/2003
@@ -5433,11 +5433,9 @@ O IMT goza dos privilégios creditórios previstos nos artigos 738.º e 744.º d
 
 3 - São devidos juros indemnizatórios, nos termos do artigo 43.º da Lei Geral Tributária que são liquidados e pagos nos termos do Código de Procedimento e de Processo Tributário.
 
-### Artigo 47.º — Reembolso independentemente da anulação
+### Artigo 47.º — Reembolso independentemente da anulação (revogado)
 
-1 - Independentemente da anulação da liquidação, o Ministro das Finanças pode ordenar o reembolso do imposto pago nos últimos quatro anos, quando o considere indevidamente cobrado, observando-se, na parte aplicável, o disposto nos n.os 1 e 2 do artigo anterior.
-
-2 - O disposto no número anterior só é aplicável se não tiverem sido utilizados, em tempo oportuno, os meios próprios previstos no Código de Procedimento e de Processo Tributário.
+[Revogado.]
 
 > Revogado pelo/a Artigo 143.º do/a Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30, em vigor a partir de 2012-01-01
 

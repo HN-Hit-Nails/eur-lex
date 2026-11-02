@@ -1,4 +1,445 @@
 celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
+ley-27-2014	Preâmbulo		25	203	10698	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 1	Naturaleza.	207	209	55	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 2	Ámbito de aplicación espacial.	211	217	191	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 3	Tratados y convenios.	219	221	69	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 4	Hecho imponible.	225	231	156	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 5	Concepto de actividad económica y entidad patrimonial.	233	253	735	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 6	Atribución de rentas.	255	261	273	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 7	Contribuyentes.	265	295	637	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 8	Residencia y domicilio fiscal.	297	313	484	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 9	Exenciones.	315	353	786	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 10	Concepto y determinación de la base imponible.	359	367	282	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 11	Imputación temporal. Inscripción contable de ingresos y gastos.	369	431	2855	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 12	Correcciones de valor: amortizaciones.	435	536	1527	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 13	Correcciones de valor: pérdida por deterioro del valor de los elementos patrimoniales.	538	578	970	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 14	Provisiones y otros gastos.	580	628	1544	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 15	Gastos no deducibles.	630	698	1984	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 15 bis	Asimetrías híbridas.	700	790	3652	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 16	Limitación en la deducibilidad de gastos financieros.	792	830	1515	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 17	Regla general y reglas especiales de valoración en los supuestos de transmisiones lucrativas y societarias.	834	894	1894	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 18	Operaciones vinculadas.	896	1064	6159	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 19	Cambios de residencia, operaciones realizadas con o por personas o entidades residentes en paraísos fiscales y cantidades sujetas a retención. Reglas especiales	1066	1134	3114	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 20	Efectos de la valoración contable diferente a la fiscal.	1136	1146	290	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 21	Exención sobre dividendos y rentas derivadas de la transmisión de valores representativos de los fondos propios de entidades residentes y no residentes en terri	1152	1286	5260	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 22	Exención de las rentas obtenidas en el extranjero a través de un establecimiento permanente.	1288	1316	982	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 23	Reducción de las rentas procedentes de determinados activos intangibles.	1320	1370	1919	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 24	Obra benéfico-social de las cajas de ahorro y fundaciones bancarias.	1372	1386	608	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 25	Reserva de capitalización.	1388	1442	1491	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 26	Compensación de bases imponibles negativas.	1444	1478	1119	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 27	Período impositivo.	1482	1500	366	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 28	Devengo del impuesto.	1502	1504	26	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 29	El tipo de gravamen.	1510	1598	3161	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 30	Cuota íntegra y cuota líquida.	1600	1608	211	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 30 bis	Tributación mínima.	1610	1640	1356	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 31	Deducción para evitar la doble imposición jurídica: impuesto soportado por el contribuyente.	1644	1674	766	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 32	Deducción para evitar la doble imposición económica internacional: dividendos y participaciones en beneficios.	1676	1710	1334	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 33	Bonificación por rentas obtenidas en Ceuta o Melilla.	1714	1756	1560	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 34	Bonificación por prestación de servicios públicos locales.	1758	1762	191	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 35	Deducción por actividades de investigación y desarrollo e innovación tecnológica.	1766	1870	3687	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 36	Deducción por inversiones en producciones cinematográficas, series audiovisuales y espectáculos en vivo de artes escénicas y musicales.	1872	1986	3048	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 37	Deducciones por creación de empleo.	1988	2008	849	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 38	Deducción por creación de empleo para trabajadores con discapacidad.	2010	2016	276	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 38 bis	Deducción por inversiones realizadas por las autoridades portuarias.	2018	2076	2078	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 38 ter	Deducción por contribuciones empresariales a sistemas de previsión social empresarial.	2078	2084	299	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 39	Normas comunes a las deducciones previstas en este capítulo.	2086	2158	3380	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 40	El pago fraccionado.	2162	2188	1036	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 41	Deducción de las retenciones, ingresos a cuenta y pagos fraccionados.	2192	2204	159	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 42	Definición y reglas de aplicación.	2210	2214	111	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 43	Agrupaciones de interés económico españolas.	2218	2250	1215	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 44	Agrupaciones europeas de interés económico.	2252	2268	623	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 45	Uniones temporales de empresas.	2270	2278	362	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 46	Criterios de imputación.	2280	2290	234	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 47	Identificación de socios o empresas miembros.	2292	2294	117	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 48	Ámbito de aplicación.	2298	2326	1132	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 49	Bonificaciones.	2328	2342	592	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 50	Entidades de capital-riesgo y sus socios.	2346	2382	1349	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 51	Socios de las sociedades de desarrollo industrial regional.	2384	2386	142	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 52	Tributación de las Instituciones de Inversión Colectiva.	2390	2394	170	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 53	Tributación de los socios o partícipes de las Instituciones de Inversión Colectiva.	2396	2400	373	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 54	Tributación de los socios o partícipes de las Instituciones de Inversión Colectiva constituidas en países o territorios calificados como paraísos fiscales.	2402	2410	272	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 55	Definición.	2414	2418	94	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 56	Contribuyente.	2420	2428	273	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 57	Responsabilidades tributarias derivadas de la aplicación del régimen de consolidación fiscal.	2430	2432	57	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 58	Definición del grupo fiscal. Entidad dominante. Entidades dependientes.	2434	2484	2035	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 59	Inclusión o exclusión de entidades en el grupo fiscal.	2486	2492	187	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 60	Determinación del dominio y de los derechos de voto en las participaciones indirectas.	2494	2502	512	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 61	Aplicación del régimen de consolidación fiscal.	2504	2524	770	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 62	Determinación de la base imponible del grupo fiscal.	2526	2544	536	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 63	Reglas especiales aplicables en la determinación de las bases imponibles individuales de las entidades integrantes del grupo fiscal.	2546	2560	456	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 64	Eliminaciones.	2562	2568	192	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 65	Incorporaciones.	2570	2576	228	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 66	Compensación de bases imponibles negativas.	2578	2580	82	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 67	Reglas especiales de incorporación de entidades en el grupo fiscal.	2582	2602	1135	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 68	Período impositivo.	2604	2608	88	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 69	Tipo de gravamen del grupo fiscal.	2610	2614	97	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 70	Cuota íntegra del grupo fiscal.	2616	2620	134	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 71	Deducciones y bonificaciones de la cuota íntegra del grupo fiscal.	2622	2630	289	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 72	Obligaciones de información.	2632	2646	344	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 73	Causas determinantes de la pérdida del régimen de consolidación fiscal.	2648	2656	210	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 74	Efectos de la pérdida del régimen de consolidación fiscal o de la extinción del grupo fiscal.	2658	2704	1505	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 75	Declaración y autoliquidación del grupo fiscal.	2706	2710	164	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 76	Definiciones.	2714	2742	1513	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 77	Régimen de las rentas derivadas de la transmisión.	2744	2776	1710	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 78	Valoración fiscal de los bienes adquiridos.	2778	2784	242	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 79	Valoración fiscal de las acciones o participaciones recibidas en contraprestación de la aportación.	2786	2790	157	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 80	Régimen fiscal del canje de valores.	2792	2818	1364	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 81	Tributación de los socios en las operaciones de fusión y escisión.	2820	2836	1156	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 82	Participaciones en el capital de la entidad transmitente y de la entidad adquirente.	2838	2842	270	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 83	Limitación en la deducción de gastos financieros destinados a la adquisición de participaciones en el capital o en los fondos propios de entidades.	2844	2850	420	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 84	Subrogación en los derechos y las obligaciones tributarias.	2852	2868	483	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 85	Pérdidas de los establecimientos permanentes.	2870	2874	290	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 86	Obligaciones contables.	2876	2902	678	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 87	Aportaciones no dinerarias.	2904	2922	676	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 88	Normas para evitar la doble imposición.	2924	2932	376	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 89	Aplicación del régimen fiscal.	2934	2946	525	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 90	Entidades mineras: libertad de amortización.	2950	2954	276	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 91	Factor de agotamiento: ámbito de aplicación y modalidades.	2956	2968	626	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 92	Factor de agotamiento: inversión.	2970	2986	596	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 93	Factor de agotamiento: requisitos.	2988	3000	377	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 94	Factor de agotamiento: incumplimiento de requisitos.	3002	3008	310	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 95	Exploración, investigación y explotación de hidrocarburos: factor de agotamiento.	3012	3018	277	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 96	Factor de agotamiento: requisitos.	3020	3038	936	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 97	Factor de agotamiento: incumplimiento de requisitos.	3040	3046	329	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 98	Titularidad compartida.	3048	3050	100	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 99	Amortización de inversiones intangibles y gastos de investigación. Compensación de bases imponibles negativas.	3052	3062	351	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 100	Imputación de rentas positivas obtenidas por entidades no residentes y establecimientos permanentes.	3066	3194	3806	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 101	Ámbito de aplicación. Cifra de negocios.	3198	3210	720	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 102	Libertad de amortización.	3212	3230	598	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 103	Amortización de los elementos nuevos del inmovilizado material y de las inversiones inmobiliarias y del inmovilizado intangible.	3232	3242	407	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 104	Pérdidas por deterioro de los créditos por posibles insolvencias de deudores.	3244	3252	318	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 105	Reserva de nivelación de bases imponibles.	3254	3280	796	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 106	Contratos de arrendamiento financiero.	3284	3310	1002	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 107	Entidades de tenencia de valores extranjeros.	3314	3326	355	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 108	Distribución de beneficios. Transmisión de la participación.	3328	3348	716	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 109	Ámbito de aplicación.	3352	3354	37	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 110	Rentas exentas.	3356	3376	664	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 111	Determinación de la base imponible.	3378	3386	197	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 112	Régimen de las comunidades titulares de montes vecinales en mano común.	3390	3412	690	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 113	Ámbito de aplicación.	3416	3448	1129	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 114	Determinación de la base imponible por el método de estimación objetiva.	3450	3485	1431	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 115	Tipo de gravamen y cuota.	3487	3493	198	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 116	Pagos fraccionados.	3495	3497	142	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 117	Aplicación del régimen.	3499	3521	761	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 118	Índice de entidades.	3527	3531	109	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 119	Baja en el índice de entidades.	3533	3547	354	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 120	Obligaciones contables. Facultades de la Administración tributaria.	3551	3561	565	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 121	Bienes y derechos no contabilizados o no declarados: presunción de obtención de rentas.	3563	3581	458	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 122	Revalorizaciones contables voluntarias.	3583	3593	279	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 123	Estimación de rentas en el método de estimación indirecta.	3595	3597	78	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 124	Declaraciones.	3601	3625	563	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 125	Autoliquidación e ingreso de la deuda tributaria.	3627	3635	343	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 126	Liquidación provisional.	3637	3639	90	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 127	Devolución.	3643	3655	464	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 128	Retenciones e ingresos a cuenta.	3659	3701	1258	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 129	Normas sobre retención, transmisión y obligaciones formales relativas a activos financieros y otros valores mobiliarios.	3703	3731	1271	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 130	Derecho a la conversión de activos por impuesto diferido en crédito exigible frente a la Administración Tributaria.	3735	3765	1364	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 131	Facultades de la Administración para determinar la base imponible y otros elementos tributarios.	3769	3775	169	legislacao-es/ley-27-2014.md
+ley-27-2014	Artículo 132	Jurisdicción competente.	3779	3781	91	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional primera	Restricciones a la exención por doble imposición de dividendos.	3783	3791	360	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional segunda	Régimen del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana en operaciones de reestructuración empresarial.	3793	3799	276	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional tercera	Subvenciones de la política agraria y pesquera comunitaria y ayudas públicas.	3801	3835	677	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional cuarta	Incentivos fiscales para la renovación de la flota mercante.	3837	3873	1163	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional quinta	Incidencia del Régimen Económico Fiscal de Canarias y de la bonificación por rentas obtenidas en Ceuta o Melilla en el cálculo de los pagos fraccionados.	3875	3891	761	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional sexta	Exención de rentas derivadas de la transmisión de determinados inmuebles.	3893	3899	354	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional séptima	Entidades deportivas.	3901	3903	122	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional octava	Régimen fiscal especial aplicable a las operaciones de reestructuración y resolución de entidades de crédito.	3905	3911	285	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional novena	Participaciones preferentes.	3913	3915	168	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional décima	Facultades de comprobación de la Administración tributaria.	3917	3919	110	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional undécima	Remisiones normativas.	3921	3923	79	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional duodécima	Grupos fiscales con entidad dominante sometida a la normativa foral de la Comunidad Autónoma del País Vasco.	3925	3927	158	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional decimotercera	Prestación patrimonial por conversión de activos por impuesto diferido en crédito exigible frente a la Administración Tributaria.	3929	3947	654	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional decimocuarta	Modificaciones en el régimen legal de los pagos fraccionados.	3949	3977	1265	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional decimoquinta	Límites aplicables a las grandes empresas en períodos impositivos iniciados a partir de 1 de enero de 2024.	3979	3995	481	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional decimosexta	Libertad de amortización en inversiones realizadas en la cadena de valor de movilidad eléctrica, sostenible o conectada.	3997	4025	1442	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional decimoséptima	Libertad de amortización en inversiones que utilicen energía procedente de fuentes renovables.	4027	4089	2613	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional decimoctava	Libertad de amortización en determinados vehículos y en nuevas infraestructuras de recarga.	4091	4117	865	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional decimonovena	Medidas temporales en la determinación de la base imponible en el régimen de consolidación fiscal.	4119	4141	743	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición adicional vigésima	Pagos fraccionados correspondientes a periodos impositivos iniciados en 2026 en relación con las rentas obtenidas en Ceuta o Melilla.	4143	4147	238	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria primera	Regularización de ajustes extracontables.	4149	4155	306	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria segunda	Régimen fiscal de la investigación y explotación de hidrocarburos y de fomento de la minería.	4157	4165	511	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria tercera	Beneficios fiscales de la reconversión y reindustrialización.	4167	4169	86	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria cuarta	Contratos de arrendamiento financiero celebrados con anterioridad a la entrada en vigor de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.	4171	4173	203	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria quinta	Saldos de la provisión para insolvencias amparada en el artículo 82 del Reglamento del Impuesto sobre Sociedades, aprobado por el Real Decreto 2631/1982, de 15 	4175	4179	212	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria sexta	Régimen transitorio de los beneficios sobre operaciones financieras.	4181	4183	402	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria séptima	Valor fiscal de las participaciones de las instituciones de inversión colectiva.	4185	4189	287	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria octava	Régimen fiscal de las transmisiones de activos realizadas en cumplimiento de disposiciones con rango de Ley de la normativa de defensa de la competencia.	4191	4193	176	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria novena	Régimen fiscal de las participaciones en entidades que hayan aplicado el régimen fiscal especial de transparencia fiscal, establecido en la Ley 43/1995, de 27 d	4195	4203	419	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria décima	Régimen fiscal de las participaciones en entidades que hayan aplicado el régimen especial de sociedades patrimoniales establecido en el texto refundido de la Le	4205	4227	976	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria undécima	Valor fiscal de los elementos patrimoniales adjudicados a los socios con ocasión de la disolución de sociedades transparentes y de sociedades patrimoniales.	4229	4233	251	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria duodécima	Régimen fiscal de los ajustes contables por la primera aplicación del Plan General de Contabilidad, aprobado por el Real Decreto 1514/2007, de 16 de noviembre, 	4235	4239	411	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria decimotercera	Aplicación de la tabla de amortización prevista en esta Ley en elementos patrimoniales adquiridos con anterioridad. Libertad de amortización pendiente de aplica	4241	4251	626	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria decimocuarta	Fondo de comercio financiero.	4253	4257	378	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria decimoquinta	Pérdidas por deterioro del inmovilizado material, inversiones inmobiliarias, inmovilizado intangible y valores representativos de deuda.	4259	4263	216	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria decimosexta	Régimen transitorio aplicable a las pérdidas por deterioro de los valores representativos de la participación en el capital o en los fondos propios de entidades	4265	4303	2340	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria decimoséptima	Régimen aplicable a determinados instrumentos financieros emitidos u otorgados con anterioridad a 20 de junio de 2014.	4305	4309	182	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria decimoctava	Endeudamiento de operaciones de adquisición de participaciones en el capital o en los fondos propios de entidades.	4311	4315	220	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria decimonovena	Rentas derivadas de la transmisión de participaciones.	4317	4321	317	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima	Régimen transitorio de la reducción de ingresos procedentes de determinados activos intangibles del contribuyente disponibles con anterioridad a 1 de julio de 2	4323	4349	1060	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima primera	Bases imponibles negativas pendientes de compensar en el Impuesto sobre Sociedades.	4351	4353	86	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima segunda	Entidades de nueva creación. Tipo de gravamen reducido por mantenimiento o creación de empleo.	4355	4359	220	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima tercera	Régimen transitorio en el Impuesto sobre Sociedades de las deducciones para evitar la doble imposición.	4361	4391	1947	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima cuarta	Deducciones para incentivar la realización de determinadas actividades pendientes de aplicar en el Impuesto sobre Sociedades.	4393	4417	1517	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima quinta	Grupos fiscales.	4419	4433	993	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima sexta	Régimen de consolidación fiscal de los grupos formados por entidades de crédito integrantes de un sistema institucional de protección de las cajas de ahorros.	4435	4463	2315	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima séptima	Participaciones en el capital de la entidad transmitente y de la entidad adquirente.	4465	4487	1054	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima octava	Amortización de elementos patrimoniales objeto de reinversión por empresas de reducida dimensión.	4489	4491	132	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria vigésima novena	Régimen fiscal de determinados contratos de arrendamiento financiero.	4493	4495	169	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima	Aplicación de la Decisión de la Comisión Europea de 17 de julio de 2013, relativa al régimen fiscal aplicable a determinados acuerdos de arrendamiento financier	4497	4503	386	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima primera	Entidades de tenencia de valores extranjeros.	4505	4507	208	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima segunda	Sociedades civiles sujetas a este Impuesto.	4509	4545	1510	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima tercera	Conversión de activos por impuesto diferido generados en períodos impositivos iniciados con anterioridad a 1 de enero de 2016 en crédito exigible frente a la Ad	4547	4571	1006	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima cuarta	Medidas temporales aplicables en el período impositivo 2015.	4573	4699	4580	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima quinta	Régimen fiscal aplicable a activos intangibles adquiridos con anterioridad a 1 de enero de 2015.	4701	4707	260	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima sexta	Límite en la compensación de bases imponibles negativas y activos por impuesto diferido para el año 2016.	4709	4715	237	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima séptima	Deducción por reversión de medidas temporales.	4717	4729	434	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima octava	Porcentaje de retención o ingreso a cuenta aplicable en 2015.	4731	4735	135	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria trigésima novena	Integración en la base imponible de los ajustes contables por la primera aplicación de la Circular 4/2017, de 27 de noviembre, del Banco de España, a entidades 	4737	4747	474	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria cuadragésima	Régimen de tributación de las participaciones con un valor de adquisición superior a 20 millones.	4749	4753	245	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria cuadragésima primera	Disolución y liquidación de determinadas sociedades de inversión de capital variable.	4755	4787	1634	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria cuadragésima segunda	Requisitos para aplicar la deducción en las producciones extranjeras de largometrajes cinematográficos y obras audiovisuales.	4789	4795	294	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria cuadragésima tercera	Plazo de mantenimiento del incremento de fondos propios y de indisponibilidad de la reserva de capitalización pendiente de expirar.	4797	4801	189	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición transitoria cuadragésima cuarta	Aplicación transitoria del tipo de gravamen general para microempresas y entidades de reducida dimensión.	4803	4837	858	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición derogatoria.		4839	4909	1360	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final primera	Entidades acogidas a la Ley 20/1990, de 19 de diciembre, sobre Régimen Fiscal de las Cooperativas.	4911	4915	154	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final segunda	Entidades acogidas a la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.	4917	4919	119	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final tercera	Entidades acogidas a la Ley 11/2009, de 26 de octubre, por la que se regulan las Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario.	4921	4923	113	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final cuarta	Modificaciones en la Ley 20/1990, de 19 de diciembre, sobre Régimen Fiscal de las Cooperativas.	4925	4991	2136	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final quinta	Modificaciones en la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.	4993	5024	867	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final sexta	Modificaciones en el Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.	5026	5056	1242	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final séptima	Modificaciones en la Ley 11/2009, de 26 de octubre, por la que se regulan las Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario.	5058	5082	1000	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final octava	Modificaciones en la Ley 16/2013, de 29 de octubre, por la que se establecen determinadas medidas en materia de fiscalidad medioambiental y se adoptan otras med	5084	5088	481	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final novena	Habilitaciones a la Ley de Presupuestos Generales del Estado.	5090	5106	193	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final décima	Habilitación normativa.	5108	5110	44	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final undécima	Título competencial.	5112	5114	54	legislacao-es/ley-27-2014.md
+ley-27-2014	Disposición final duodécima	Entrada en vigor.	5116	5130	156	legislacao-es/ley-27-2014.md
+ley-35-2006	Preâmbulo		25	213	10173	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 1	Naturaleza del Impuesto.	217	219	80	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 2	Objeto del Impuesto.	221	223	88	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 3	Configuración como Impuesto cedido parcialmente a las Comunidades Autónomas.	225	235	340	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 4	Ámbito de aplicación.	237	243	127	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 5	Tratados y Convenios.	245	247	69	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 6	Hecho imponible.	253	273	198	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 7	Rentas exentas.	275	415	5328	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 8	Contribuyentes.	419	433	333	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 9	Contribuyentes que tienen su residencia habitual en territorio español.	435	447	446	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 10	Contribuyentes que tienen su residencia habitual en territorio extranjero.	449	465	435	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 11	Individualización de rentas.	467	493	707	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 12	Regla general.	497	501	50	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 13	Período impositivo inferior al año natural.	503	507	80	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 14	Imputación temporal.	509	619	3434	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 15	Determinación de la base imponible y liquidable.	623	643	429	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 16	Métodos de determinación de la base imponible.	649	661	273	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 17	Rendimientos íntegros del trabajo.	667	737	2133	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 18	Porcentajes de reducción aplicables a determinados rendimientos del trabajo.	739	767	1003	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 19	Rendimiento neto del trabajo.	769	793	524	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 20	Reducción por obtención de rendimientos del trabajo.	795	823	556	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 21	Definición de rendimientos del capital.	827	837	288	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 22	Rendimientos íntegros del capital inmobiliario.	841	845	190	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 23	Gastos deducibles y reducciones.	847	945	3251	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 24	Rendimiento en caso de parentesco.	947	953	194	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 25	Rendimientos íntegros del capital mobiliario.	957	1069	3572	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 26	Gastos deducibles y reducciones.	1071	1085	500	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 27	Rendimientos íntegros de actividades económicas.	1089	1099	474	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 28	Reglas generales de cálculo del rendimiento neto.	1101	1115	405	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 29	Elementos patrimoniales afectos.	1117	1131	373	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 30	Normas para la determinación del rendimiento neto en estimación directa.	1133	1169	1440	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 31	Normas para la determinación del rendimiento neto en estimación objetiva.	1171	1229	1618	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 32	Reducciones.	1231	1307	2048	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 33	Concepto.	1311	1401	2586	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 34	Importe de las ganancias o pérdidas patrimoniales. Norma general.	1403	1411	147	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 35	Transmisiones a título oneroso.	1413	1427	252	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 36	Transmisiones a título lucrativo.	1429	1439	318	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 37	Normas específicas de valoración.	1441	1525	2732	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 38	Ganancias excluidas de gravamen en supuestos de reinversión.	1527	1551	854	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 39	Ganancias patrimoniales no justificadas.	1553	1561	238	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 40	Estimación de rentas.	1565	1569	133	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 41	Operaciones vinculadas.	1571	1573	66	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 42	Rentas en especie.	1575	1615	1433	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 43	Valoración de las rentas en especie.	1617	1671	1627	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 44	Clases de renta.	1675	1677	44	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 45	Renta general.	1679	1681	102	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 46	Renta del ahorro.	1683	1703	410	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 47	Integración y compensación de rentas.	1707	1715	98	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 48	Integración y compensación de rentas en la base imponible general.	1717	1733	376	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 49	Integración y compensación de rentas en la base imponible del ahorro.	1735	1755	517	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 50	Base liquidable general y del ahorro.	1759	1771	365	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 51	Reducciones por aportaciones y contribuciones a sistemas de previsión social.	1775	1867	3040	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 52	Límite de reducción.	1869	1911	1138	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 53	Reducciones por aportaciones y contribuciones a sistemas de previsión social constituidos a favor de personas con discapacidad.	1913	1931	845	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 54	Reducciones por aportaciones a patrimonios protegidos de las personas con discapacidad.	1933	1971	1397	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 55	Reducciones por pensiones compensatorias.	1975	1977	77	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 56	Mínimo personal y familiar.	1981	1995	382	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 57	Mínimo del contribuyente.	1997	2011	245	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 58	Mínimo por descendientes.	2013	2039	514	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 59	Mínimo por ascendientes.	2041	2057	313	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 60	Mínimo por discapacidad.	2059	2083	718	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 61	Normas comunes para la aplicación del mínimo del contribuyente y por descendientes, ascendientes y discapacidad.	2085	2109	666	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 61 bis	Reducción por cuotas y aportaciones a partidos políticos.	2111	2117	73	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 62	Cuota íntegra estatal.	2123	2125	66	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 63	Escala general del Impuesto.	2127	2160	587	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 64	Especialidades aplicables en los supuestos de anualidades por alimentos a favor de los hijos.	2162	2168	290	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 65	Escala aplicable a los residentes en el extranjero.	2170	2186	270	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 66	Tipos de gravamen del ahorro.	2188	2232	747	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 67	Cuota líquida estatal.	2236	2262	426	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 68	Deducciones.	2264	2430	4854	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 69	Límites de determinadas deducciones.	2432	2440	294	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 70	Comprobación de la situación patrimonial.	2442	2452	244	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 71	Normas comunes aplicables para la determinación del gravamen autonómico.	2458	2460	104	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 72	Residencia habitual en el territorio de una Comunidad Autónoma.	2464	2504	1150	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 73	Cuota íntegra autonómica.	2510	2512	70	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 74	Escala autonómica del Impuesto.	2514	2534	513	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 75	Especialidades aplicables en los supuestos de anualidades por alimentos a favor de los hijos.	2536	2546	368	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 76	Tipo de gravamen del ahorro.	2548	2580	535	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 77	Cuota líquida autonómica.	2584	2602	348	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 78	Tramo autonómico de la deducción por inversión en vivienda habitual.	2604	2612	115	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 79	Cuota diferencial.	2616	2632	295	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 80	Deducción por doble imposición internacional.	2634	2646	336	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 80 bis	Deducción por obtención de rendimientos del trabajo o de actividades económicas.	2648	2658	152	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 81	Deducción por maternidad.	2660	2688	1184	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 81 bis	Deducciones por familia numerosa o personas con discapacidad a cargo.	2690	2736	1537	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 82	Tributación conjunta.	2740	2754	230	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 83	Opción por la tributación conjunta.	2756	2766	265	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 84	Normas aplicables en la tributación conjunta.	2768	2802	1062	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 85	Imputación de rentas inmobiliarias.	2808	2832	793	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 86	Régimen de atribución de rentas.	2836	2838	65	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 87	Entidades en régimen de atribución de rentas.	2840	2848	232	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 88	Calificación de la renta atribuida.	2850	2852	69	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 89	Cálculo de la renta atribuible y pagos a cuenta.	2854	2876	1030	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 90	Obligaciones de información de las entidades en régimen de atribución de rentas.	2878	2888	376	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 91	Imputación de rentas en el régimen de transparencia fiscal internacional.	2892	3008	3155	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 92	Imputación de rentas por la cesión de derechos de imagen.	3012	3066	1828	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 93	Régimen fiscal especial aplicable a los trabajadores, profesionales, emprendedores e inversores desplazados a territorio español.	3070	3149	2452	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 94	Tributación de los socios o partícipes de las instituciones de inversión colectiva.	3153	3205	2066	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 95	Tributación de los socios o partícipes de las instituciones de inversión colectiva constituidas en países o territorios considerados como paraísos fiscales.	3207	3217	313	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 95 bis	Ganancias patrimoniales por cambio de residencia.	3223	3297	2862	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 95 ter	Tributación del titular de la Cuenta de Ahorro e Inversión Financia Europa.	3307	3391	3287	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 96	Obligación de declarar.	3397	3469	1760	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 97	Autoliquidación.	3471	3515	1322	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 98	Borrador de declaración.	3517	3553	856	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 99	Obligación de practicar pagos a cuenta.	3557	3613	2038	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 100	Normas sobre pagos a cuenta, transmisión y obligaciones formales relativas a activos financieros y otros valores mobiliarios.	3615	3651	1429	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 101	Importe de los pagos a cuenta.	3653	3752	2582	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 102	Liquidación provisional.	3756	3758	59	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 103	Devolución derivada de la normativa del tributo.	3760	3780	738	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 104	Obligaciones formales de los contribuyentes.	3784	3798	551	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 105	Obligaciones formales del retenedor, del obligado a practicar ingresos a cuenta y otras obligaciones formales.	3800	3830	720	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 106	Responsabilidad patrimonial del contribuyente.	3834	3836	134	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 107	Infracciones y sanciones.	3838	3840	66	legislacao-es/ley-35-2006.md
+ley-35-2006	Artículo 108	Orden jurisdiccional.	3844	3846	102	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional primera	Derecho de rescate en los contratos de seguro colectivo que instrumentan los compromisos por pensiones asumidos por las empresas, en los términos previstos en l	3848	3858	520	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional segunda	Retribuciones en especie.	3860	3862	85	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional tercera	Planes individuales de ahorro sistemático.	3864	3890	759	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuarta	Rentas forestales.	3892	3894	145	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quinta	Subvenciones de la política agraria comunitaria y ayudas públicas.	3896	3950	1652	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional sexta	Beneficios fiscales especiales aplicables en actividades agrarias.	3952	3958	246	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional séptima	Tributación de determinadas rentas obtenidas por contribuyentes que desarrollen la actividad de transporte por autotaxi.	3960	3988	609	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional octava	Transmisiones de valores o participaciones no admitidas a negociación con posterioridad a una reducción de capital.	3990	3996	332	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional novena	Mutualidades de trabajadores por cuenta ajena.	3998	4000	208	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional décima	Sistemas de previsión social constituidos a favor de personas con discapacidad.	4002	4030	1146	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional undécima	Mutualidad de previsión social de deportistas profesionales.	4032	4068	1220	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional duodécima	Porcentaje de compensación entre rendimientos y ganancias y pérdidas patrimoniales que se integran en la base imponible del ahorro en 2015, 2016 y 2017.	4070	4074	127	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional decimotercera	Obligaciones de información.	4076	4118	1742	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional decimocuarta	Captación de datos.	4120	4122	106	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional decimoquinta	Disposición de bienes que conforman el patrimonio personal para asistir las necesidades económicas de la vejez y de la dependencia.	4124	4126	206	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional decimosexta	Límite financiero de aportaciones y contribuciones a los sistemas de previsión social.	4128	4164	960	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional decimoséptima	Remisiones normativas.	4166	4168	137	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional decimoctava	Aportaciones a patrimonios protegidos.	4170	4188	568	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional decimonovena	Exención de las ayudas e indemnizaciones por privación de libertad como consecuencia de los supuestos contemplados en la Ley 46/1977, de 15 de octubre, de Amnis	4190	4206	585	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima	Rentas exentas con progresividad.	4208	4218	235	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima primera	Pérdidas patrimoniales por créditos vencidos y no cobrados.	4220	4224	122	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima segunda	Movilización de los derechos económicos entre los distintos sistemas de previsión social.	4226	4230	157	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima tercera	Consideración de vivienda habitual a los efectos de determinadas exenciones.	4232	4242	354	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima cuarta	Retenciones sobre rendimientos del trabajo correspondientes a enero de 2015.	4244	4248	107	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima quinta	Gastos e inversiones para habituar a los empleados en la utilización de las nuevas tecnologías de la comunicación y de la información.	4250	4266	503	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésimo sexta	Disposición adicional vigésima sexta. Planes de Ahorro a Largo Plazo.	4268	4360	3750	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima séptima	Reducción del rendimiento neto de las actividades económicas por mantenimiento o creación de empleo.	4362	4392	1019	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima octava	Porcentajes de reparto de la escala del ahorro.	4394	4398	149	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional vigésima novena	Deducción por obras de mejora en la vivienda.	4400	4426	928	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima	Libertad de amortización en elementos nuevos del activo material fijo.	4428	4438	487	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima primera	Escalas y tipos de retención aplicables en 2015.	4440	4539	2026	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima segunda	Escala autonómica aplicable a los residentes en Ceuta y Melilla.	4541	4547	126	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima tercera	Gravamen especial sobre los premios de determinadas loterías y apuestas.	4549	4589	1154	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima cuarta	Medidas para favorecer la capitalización de empresas de nueva o reciente creación.	4591	4599	114	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima quinta	Gravamen complementario a la cuota íntegra estatal para la reducción del déficit público en los ejercicios 2012, 2013 y 2014.	4601	4663	1583	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima sexta	Actividades excluidas del método de estimación objetiva a partir de 2016.	4665	4671	242	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima séptima	Ganancias patrimoniales procedentes de la transmisión de determinados inmuebles.	4673	4685	425	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima octava	Aplicación de determinados incentivos fiscales.	4687	4707	848	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional trigésima novena	Compensación e integración de rentas negativas derivadas de deuda subordinada o de participaciones preferentes generadas con anterioridad a 1 de enero de 2015.	4709	4727	806	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima	Rendimientos derivados de seguros cuyo beneficiario es el acreedor hipotecario.	4729	4741	302	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima primera	Tripulantes de determinados buques de pesca.	4743	4751	308	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima segunda	Procedimiento para que los contribuyentes que perciben determinadas prestaciones apliquen las deducciones previstas en el artículo 81 bis y se les abonen de for	4753	4785	1142	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima tercera	Exención de rentas obtenidas por el deudor en procedimientos concursales.	4787	4795	296	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima cuarta	Reglas especiales de cuantificación de rentas derivadas de deuda subordinada o de participaciones preferentes.	4797	4817	1209	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima quinta	Tratamiento fiscal de las cantidades percibidas por la devolución de las cláusulas de limitación de tipos de interés de préstamos derivadas de acuerdos celebrad	4819	4835	866	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima séptima	Reducción por obtención de rendimientos del trabajo y determinación del tipo de retención sobre los rendimientos del trabajo en los períodos impositivos 2018 y 	4837	4879	1425	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima octava	Deducción aplicable a las unidades familiares formadas por residentes fiscales en Estados miembros de la Unión Europea o del Espacio Económico Europeo.	4881	4901	933	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional cuadragésima novena	Gastos deducibles de los rendimientos del capital inmobiliario correspondientes a alquileres de locales a determinados empresarios durante el período impositivo	4903	4911	558	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima	Deducción por obras de mejora de la eficiencia energética de viviendas.	4913	4987	3096	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima primera	Exención por daños personales.	4989	4995	186	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima segunda	Productos paneuropeos de pensiones individuales.	4997	5009	426	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima tercera	Rendimientos del trabajo obtenidos por la gestión de fondos vinculados al emprendimiento, a la innovación y al desarrollo de la actividad económica.	5011	5037	933	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima cuarta	Reducción en 2023 del rendimiento neto calculado por el método de estimación objetiva.	5039	5043	138	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima quinta	Imputación de rentas inmobiliarias durante los períodos impositivos 2023, 2024, 2025 y 2026.	5045	5067	584	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima sexta	Gastos de difícil justificación en estimación directa simplificada durante el período impositivo 2023.	5069	5077	184	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima séptima	Deducción por residencia habitual y efectiva en la isla de La Palma durante los períodos impositivos 2022, 2023, 2024, 2025 y 2026.	5079	5097	1100	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima octava	"Deducción por la adquisición de vehículos eléctricos ""enchufables"" y de pila de combustible y puntos de recarga."	5099	5159	2463	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional quincuagésima novena	Libertad de amortización en determinados vehículos y en nuevas infraestructuras de recarga.	5161	5167	335	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional sexagésima	Rendimientos de actividades artísticas obtenidos de manera excepcional.	5169	5187	778	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional sexagésima primera	Deducción por obtención de rendimientos del trabajo.	5189	5203	422	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional sexagésima segunda	Deducción por la instalación de sistemas de autoconsumo renovable.	5205	5231	1038	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional sexagésima tercera	Exención de cantidades satisfechas por la Iglesia católica por daños personales.	5233	5237	331	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional sexagésima cuarta	Reducción en 2026 para el cálculo del rendimiento neto de las actividades económicas desarrolladas en Ceuta.	5239	5247	457	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional sexagésima quinta	Exención por transmisión de vivienda para fomentar la oferta de vivienda.	5249	5281	1250	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición adicional sexagésima sexta	Cuenta de Ahorro e Inversión Financia Europa Reinversión.	5283	5327	1608	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria primera	Prestaciones recibidas de expedientes de regulación de empleo.	5329	5331	240	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria segunda	Régimen transitorio aplicable a las mutualidades de previsión social.	5333	5339	253	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria tercera	Contratos de arrendamiento anteriores al 9 de mayo de 1985.	5341	5343	165	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria cuarta	Régimen transitorio de los contratos de seguro de vida generadores de incrementos o disminuciones de patrimonio con anterioridad a 1 de enero de 1999.	5345	5369	906	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria quinta	Régimen transitorio aplicable a las rentas vitalicias y temporales.	5371	5383	502	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria sexta	Reducción por movilidad geográfica aplicable en 2015.	5385	5389	199	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria séptima	Partidas pendientes de compensación.	5391	5413	1111	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria octava	Valor fiscal de las instituciones de inversión colectiva constituidas en países o territorios considerados como paraísos fiscales.	5415	5419	266	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria novena	Régimen transitorio aplicable a las ganancias patrimoniales derivadas de elementos patrimoniales adquiridos con anterioridad a 31 de diciembre de 1994.	5421	5465	1782	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria décima	Sociedades transparentes y patrimoniales.	5467	5469	86	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria undécima	Régimen transitorio aplicable a las prestaciones derivadas de los contratos de seguros colectivos que instrumentan compromisos por pensiones.	5471	5483	535	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria duodécima	Régimen transitorio aplicable a los planes de pensiones, de mutualidades de previsión social y de planes de previsión asegurados.	5485	5497	512	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria decimotercera	Compensaciones fiscales.	5499	5505	72	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria decimocuarta	Transformación de determinados contratos de seguros de vida en planes individuales de ahorro sistemático.	5507	5521	529	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria decimoquinta	Deducción por alquiler de la vivienda habitual.	5523	5543	488	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria decimosexta	Contribuyentes con residencia habitual en el territorio de una Comunidad Autónoma al que no le resulte de aplicación el nuevo modelo de financiación autonómica	5545	5551	242	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria decimoséptima	Trabajadores desplazados a territorio español.	5553	5561	297	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria decimoctava	Deducción por inversión en vivienda habitual.	5563	5585	759	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria decimonovena	Disolución y liquidación de determinadas sociedades civiles.	5587	5627	1179	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima	Gastos e inversiones para habituar a los empleados en la utilización de las nuevas tecnologías de la comunicación y de la información.	5629	5639	286	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima primera	Deducción por obras de mejora en la vivienda habitual satisfechas con anterioridad a la entrada en vigor del Real Decreto-ley 5/2011.	5641	5647	238	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima segunda	Indemnizaciones por despido exentas.	5649	5659	503	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima tercera	Tipo de retención aplicable a los rendimientos de actividades profesionales y a determinados rendimientos del trabajo.	5661	5669	290	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima cuarta	Rendimientos del trabajo en especie consistentes en la utilización de vivienda.	5671	5675	184	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima quinta	Reducciones aplicables a determinados rendimientos.	5677	5691	850	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima sexta	Régimen transitorio aplicable a la imputación de primas de seguros colectivos contratados con anterioridad a 1 de diciembre de 2012.	5693	5697	174	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima séptima	Acciones o participaciones de entidades de nueva o reciente creación adquiridas con anterioridad a la entrada en vigor de la Ley 14/2013, de Apoyo a los Emprend	5699	5703	197	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima octava	Acciones o participaciones adquiridas con el saldo de cuentas ahorro-empresa.	5705	5709	116	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria vigésima novena	Transmisiones de derechos de suscripción anteriores a 1 de enero de 2017.	5711	5717	211	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima	Socios de sociedades civiles que tengan la condición de contribuyentes del Impuesto sobre Sociedades.	5719	5727	282	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima primera	Requisito de antigüedad a efectos de tratamiento de Planes Individuales de Ahorro Sistemático de contratos de seguro formalizados antes de 1 de enero de 2015.	5729	5735	261	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima segunda	Disposición transitoria trigésimo segunda. Límites para la aplicación del método de estimación objetiva en los ejercicios 2016 a 2024.	5737	5769	712	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima tercera	Aplicación en el ejercicio 2018 de la deducción establecida en el artículo 81 bis.	5771	5775	175	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima cuarta	Obligación de declarar en el período impositivo 2018.	5777	5781	124	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima quinta	Cuantía exenta del gravamen especial sobre los premios de determinadas loterías y apuestas en los ejercicios 2018 y 2019.	5783	5789	219	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima sexta	Aplicación del régimen de diferimiento a determinadas participaciones o acciones en instituciones de inversión colectiva adquiridas con anterioridad a 1 de ener	5791	5797	240	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima séptima	Deducción por maternidad.	5799	5803	174	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición transitoria trigésima octava	Reducción aplicable a determinados arrendamientos de viviendas.	5805	5821	545	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición derogatoria primera	Impuesto sobre la Renta de las Personas Físicas.	5823	5865	933	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición derogatoria segunda	Impuesto sobre Sociedades.	5867	5885	496	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición final primera	Modificación del texto refundido de la Ley del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto Legislativo 3/2004, de 5 de marzo.	5887	5953	2324	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición final segunda	Modificación del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo y de la Ley 49/2002, de	5955	6355	13723	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición final tercera	Modificación del texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por el Real Decreto Legislativo 5/2004, de 5 de marzo.	6357	6529	5196	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición final cuarta	Modificación de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.	6531	6601	2268	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición final quinta	Modificación del texto refundido de la Ley de regulación de los Planes y Fondos de Pensiones, aprobado por el Real Decreto Legislativo 1/2002, de 29 de noviembr	6603	6717	4452	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición final sexta	Habilitación para la Ley de Presupuestos Generales del Estado.	6719	6727	126	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición final séptima	Habilitación normativa.	6729	6731	40	legislacao-es/ley-35-2006.md
+ley-35-2006	Disposición final octava	Entrada en vigor.	6733	6749	294	legislacao-es/ley-35-2006.md
 ley-37-1992	Preâmbulo		25	251	6671	legislacao-es/ley-37-1992.md
 ley-37-1992	Artículo 1	Naturaleza del impuesto.	255	263	103	legislacao-es/ley-37-1992.md
 ley-37-1992	Artículo 2	Normas aplicables.	265	269	114	legislacao-es/ley-37-1992.md
@@ -55,194 +496,194 @@ ley-37-1992	Artículo 49	Importaciones de bienes para ser objeto de exámenes, a
 ley-37-1992	Artículo 50	Importaciones de bienes destinados a los organismos competentes en materia de protección de la propiedad intelectual o industrial.	2347	2349	97	legislacao-es/ley-37-1992.md
 ley-37-1992	Artículo 51	Importaciones de documentos de carácter turístico.	2351	2359	340	legislacao-es/ley-37-1992.md
 ley-37-1992	Artículo 52	Importaciones de documentos diversos.	2361	2399	917	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 53	Importaciones de material audiovisual producido por la Organización de las Naciones Unidas.	2401	2435	861	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 54	Importaciones de objetos de colección o de arte.	2437	2441	135	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 55	Importaciones de materiales para el acondicionamiento y protección de mercancías.	2443	2449	136	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 56	Importaciones de bienes destinados al acondicionamiento o a la alimentación en ruta de animales.	2451	2453	90	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 57	Importaciones de carburantes y lubricantes.	2455	2479	686	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 58	Importaciones de ataúdes, materiales y objetos para cementerios.	2481	2485	230	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 59	Importaciones de productos de la pesca.	2487	2495	183	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 60	Importaciones de bienes en régimen diplomático o consular.	2497	2499	56	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 61	Importaciones de bienes destinados a organismos internacionales.	2501	2513	482	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 62	Importaciones de bienes destinados a la Organización del Tratado del Atlántico Norte y las fuerzas armadas en el ámbito de la política común de seguridad y defe	2515	2523	244	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 63	Reimportaciones de bienes.	2525	2527	72	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 64	Prestaciones de servicios relacionados con las importaciones.	2529	2533	106	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 65	Importaciones de bienes que se vinculen al régimen de depósito distinto del aduanero.	2535	2551	607	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 66	Exenciones en las importaciones de bienes para evitar la doble imposición.	2553	2577	671	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 67	Normas generales aplicables a las exenciones previstas en el presente capítulo.	2579	2583	102	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 68	Lugar de realización de las entregas de bienes.	2589	2681	2633	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 69	Lugar de realización de las prestaciones de servicios. Reglas generales.	2683	2765	1786	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 70	Lugar de realización de las prestaciones de servicios. Reglas especiales.	2767	2899	2657	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 71	Lugar de realización de las adquisiciones intracomunitarias de bienes.	2903	2907	198	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 72	Lugar de realización de los transportes intracomunitarios de bienes cuyo destinatario no sea un empresario o profesional actuando como tal.	2909	2925	302	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 73	Límite cuantitativo aplicable a las ventas a distancia intracomunitarias de bienes a que se refiere el artículo 68.Tres.a) y b) de esta ley, y a las prestacione	2931	2947	590	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 74	Lugar de realización de los servicios de mediación en los transportes intracomunitarios de bienes y en los servicios accesorios a dichos transportes.	2949	2953	80	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 75	Devengo del impuesto.	2959	3039	1952	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 76	Devengo del impuesto.	3043	3051	190	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 77	Devengo del impuesto.	3055	3061	182	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 78	Base imponible. Regla general.	3067	3133	1367	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 79	Base imponible. Reglas especiales.	3135	3215	2467	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 80	Modificación de la base imponible.	3217	3317	2881	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 81	Determinación de la base imponible.	3319	3329	278	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 82	Base imponible.	3333	3343	252	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 83	Base imponible.	3347	3399	1358	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 84	Sujetos pasivos.	3405	3529	2736	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 85	Sujetos pasivos.	3533	3535	52	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 86	Sujetos pasivos.	3539	3557	342	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 87	Responsables del impuesto.	3561	3609	1046	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 88	Repercusión del impuesto.	3613	3635	582	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 89	Rectificación de las cuotas impositivas repercutidas.	3637	3677	1212	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 90	Tipo impositivo general.	3681	3697	390	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 91	Tipos impositivos reducidos.	3699	3979	6594	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 92	Cuotas tributarias deducibles.	3985	4003	344	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 93	Requisitos subjetivos de la deducción.	4005	4033	991	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 94	Operaciones cuya realización origina el derecho a la deducción.	4035	4059	824	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 95	Limitaciones del derecho a deducir.	4061	4117	1368	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 96	Exclusiones y restricciones del derecho a deducir.	4119	4157	726	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 97	Requisitos formales de la deducción.	4159	4191	1002	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 98	Nacimiento del derecho a deducir.	4193	4209	432	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 99	Ejercicio del derecho a la deducción.	4211	4251	1286	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 100	Caducidad del derecho a la deducción.	4253	4259	159	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 101	Régimen de deducciones en sectores diferenciados de la actividad empresarial o profesional.	4261	4289	960	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 102	Regla de prorrata.	4291	4299	267	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 103	Clases de prorrata y criterios de aplicación.	4301	4313	202	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 104	La prorrata general.	4315	4379	1569	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 105	Procedimiento de la prorrata general.	4381	4397	594	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 106	La prorrata especial.	4399	4415	356	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 107	Regularización de deducciones por bienes de inversión.	4417	4441	851	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 108	Concepto de bienes de inversión.	4443	4457	219	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 109	Procedimiento para practicar la regularización de deducciones por bienes de inversión.	4459	4467	203	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 110	Entregas de bienes de inversión durante el período de regularización.	4469	4489	640	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 111	Deducciones de las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondient	4491	4517	927	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 112	Regularización de las deducciones de las cuotas soportadas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios corres	4519	4535	442	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 113	Regularización de las cuotas correspondientes a bienes de inversión, soportadas con anterioridad al inicio de la realización de las entregas de bienes o prestac	4537	4547	403	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 114	Rectificación de deducciones.	4549	4573	886	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 115	Supuestos generales de devolución.	4577	4603	768	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 116	Solicitud de devoluciones al fin de cada período de liquidación.	4605	4617	292	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 117	Devoluciones a exportadores en régimen de viajeros.	4619	4625	180	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 117 bis	Solicitudes de devolución de empresarios o profesionales establecidos en el territorio de aplicación del Impuesto, Islas Canarias, Ceuta y Melilla correspondien	4627	4637	326	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 118	Garantías de las devoluciones.	4639	4641	54	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 119	Régimen especial de devoluciones a empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto pero establecidos en la Comunidad, Is	4651	4711	2006	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 119 bis	Régimen especial de devoluciones a determinados empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto, ni en la Comunidad, Isl	4713	4737	852	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 120	Normas generales.	4743	4787	719	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 121	Determinación del volumen de operaciones.	4789	4807	461	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 122	Régimen simplificado.	4811	4847	834	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 123	Contenido del régimen simplificado.	4849	4893	1334	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 124	Ámbito subjetivo de aplicación.	4897	4931	720	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 125	Ámbito objetivo de aplicación.	4933	4937	132	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 126	Actividades excluidas del régimen especial de la agricultura, ganadería y pesca.	4939	4965	492	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 127	Servicios accesorios incluidos en el régimen especial.	4967	4973	251	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 128	Realización de actividades económicas en sectores diferenciados de la actividad empresarial o profesional.	4975	4979	174	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 129	Obligaciones de los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca.	4981	4997	340	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 130	Régimen de deducciones y compensaciones.	4999	5045	1306	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 131	Obligados al reintegro de las compensaciones.	5047	5053	170	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 132	Recursos.	5055	5057	81	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 133	Devolución de compensaciones indebidas.	5059	5063	90	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 134	Deducción de las compensaciones correspondientes al régimen especial de la agricultura, ganadería y pesca.	5065	5071	225	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 134 bis	Comienzo o cese en la aplicación del régimen especial de la agricultura, ganadería y pesca.	5073	5097	817	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 135	Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección.	5103	5129	639	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 136	Concepto de bienes usados, objetos de arte, antigüedades y objetos de colección y de sujeto pasivo revendedor.	5131	5175	1032	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 137	La base imponible.	5177	5223	1301	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 138	Repercusión del Impuesto.	5225	5231	160	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 139	Deducciones.	5233	5237	92	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 140	Concepto de oro de inversión.	5243	5263	347	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 140 bis	Exenciones.	5265	5281	378	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 140 ter	Renuncia a la exención.	5283	5293	356	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 140 cuarter	Deducciones.	5295	5311	509	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 140 quinque	Sujeto pasivo.	5313	5317	99	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 140 sexies	Conservación de las facturas.	5319	5323	100	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 141	Régimen especial de las agencias de viajes.	5329	5345	345	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 142	Repercusión del impuesto	5347	5353	119	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 143	Exenciones.	5355	5361	179	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 144	Lugar de realización del hecho imponible.	5363	5369	148	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 145	La base imponible.	5371	5389	438	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 146	Deducciones.	5391	5397	120	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 147	Supuesto de no aplicación del régimen especial.	5399	5403	168	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 148	Régimen especial del recargo de equivalencia.	5411	5419	246	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 149	Concepto de comerciante minorista.	5421	5439	518	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 150	Régimen especial de determinación proporcional de las bases imponibles.	5441	5445	49	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 151	Exclusiones del régimen especial de determinación proporcional de las bases imponibles.	5447	5453	76	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 152	Contenido del régimen especial de determinación proporcional de las bases imponibles.	5455	5461	67	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 153	Régimen especial del recargo de equivalencia.	5463	5467	42	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 154	Contenido del régimen especial del recargo de equivalencia.	5469	5485	634	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 155	Comienzo o cese de actividades sujetas al régimen especial del recargo de equivalencia.	5487	5499	507	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 156	Recargo de equivalencia.	5501	5509	150	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 157	Supuestos de no aplicación del recargo de equivalencia.	5511	5521	201	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 158	Sujetos pasivos del recargo de equivalencia.	5523	5529	111	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 159	Repercusión del recargo de equivalencia.	5531	5533	72	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 160	Base imponible.	5535	5537	37	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 161	Tipos.	5539	5553	198	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 162	Liquidación e ingreso.	5555	5557	62	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163	Obligación de acreditar la sujeción al régimen especial del recargo de equivalencia.	5559	5561	116	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículos 163 bis a 163 quáter.		5569	5573	36	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 bis	Ambito de aplicación y definiciones.	5575	5607	756	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 ter	Obligaciones formales.	5609	5649	1353	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 quáter	Derecho a la deducción de las cuotas soportadas.	5651	5663	354	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 quinquies	Requisitos subjetivos del régimen especial del grupo de entidades.	5669	5695	801	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 sexies	Condiciones para la aplicación del régimen especial del grupo de entidades.	5697	5713	677	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 septies	Causas determinantes de la pérdida del derecho al régimen especial del grupo de entidades.	5715	5731	424	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 octies	Contenido del régimen especial del grupo de entidades.	5733	5755	995	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 nonies	Obligaciones específicas en el régimen especial del grupo de entidades.	5757	5823	2449	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 decies	Requisitos subjetivos de aplicación.	5829	5841	330	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 undecies	Condiciones para la aplicación del régimen especial del criterio de caja.	5843	5847	149	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 duodecies	Requisitos objetivos de aplicación.	5849	5869	349	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 terdecies	Contenido del régimen especial del criterio de caja.	5871	5893	579	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 quaterdecies	Efectos de la renuncia o exclusión del régimen especial del criterio de caja.	5895	5899	115	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 quinquiesdecies	Operaciones afectadas por el régimen especial del criterio de caja.	5901	5913	407	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 sexiesdecies	Efectos del auto de declaración del concurso.	5915	5927	442	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 septiesdecies	Definiciones y causas de exclusión.	5939	5983	797	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 octiesdecies	Ámbito de aplicación.	5985	6003	440	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 noniesdecies	Obligaciones formales.	6005	6047	1527	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 vicies	Derecho a la deducción de las cuotas soportadas.	6049	6071	1117	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 unvicies	Ámbito de aplicación.	6073	6107	1300	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 duovicies	Obligaciones formales.	6109	6153	1627	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 tervicies	Derecho a la deducción de las cuotas soportadas.	6155	6177	1143	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 quatervicies	Prestaciones de servicios realizadas en el territorio de aplicación del impuesto por empresarios o profesionales establecidos en el mismo.	6179	6185	192	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 quinvicies	Ámbito de aplicación.	6191	6237	1386	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 sexvivies	Artículo 163 sexvicies. Devengo.	6239	6243	98	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 septvicies	Obligaciones formales.	6245	6287	1615	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 163 octovicies	Derecho a la deducción de las cuotas soportadas.	6289	6309	1101	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 164	Obligaciones de los sujetos pasivos.	6319	6369	1198	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 165	Reglas especiales en materia de facturación.	6371	6395	552	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 166	Obligaciones contables.	6397	6411	234	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 166 bis	Registro de operaciones.	6425	6443	576	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 166 ter	Definiciones.	6451	6481	655	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 166 quater	Obligaciones de proveedores de servicios de pago.	6483	6503	638	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 166 quinquies	Ubicación del ordenante y beneficiario.	6505	6521	396	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 167	Liquidación del impuesto.	6525	6541	450	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 167 bis	Modalidad especial para la declaración y el pago del impuesto sobre el valor añadido sobre las importaciones.	6543	6575	816	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 167 ter	Liquidación provisional.	6577	6583	136	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 168	Liquidación provisional de oficio.	6585	6593	328	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 169	Suspensión del ingreso.	6597	6603	238	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 170	Infracciones.	6607	6643	928	legislacao-es/ley-37-1992.md
-ley-37-1992	Artículo 171	Sanciones.	6645	6677	909	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición adicional primera	Impuesto sobre Bienes Inmuebles.	6679	6699	834	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición adicional segunda	Proyecto de Ley del Impuesto sobre Sociedades.	6701	6703	124	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición adicional tercera	Texto refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.	6705	6709	212	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición adicional cuarta	Delimitación de las referencias a los Impuestos Especiales.	6711	6723	251	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición adicional quinta	Referencias del Impuesto sobre el Valor Añadido al Impuesto General Indirecto Canario.	6725	6731	204	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición adicional sexta	Procedimientos administrativos y judiciales de ejecución forzosa.	6733	6751	401	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición adicional séptima	Inclusión en los grupos de entidades de las fundaciones bancarias.	6753	6759	254	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición adicional octava	Referencia normativa.	6761	6765	123	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria primera	Franquicias relativas a los viajeros procedentes de Canarias, Ceuta y Melilla.	6767	6769	132	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria segunda	Exenciones relativas a buques a la navegación marítima internacional.	6771	6775	182	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria tercera	Exenciones relativas a aeronaves dedicadas esencialmente a la navegación aérea internacional.	6777	6781	209	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria cuarta	Rectificación de cuotas impositivas repercutidas y deducciones.	6783	6785	104	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria quinta	Deducción en las adquisiciones utilizadas en autoconsumos.	6787	6789	104	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria sexta	Deducciones anteriores al inicio de la actividad.	6791	6797	169	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria séptima	Regularización de las deducciones efectuadas con anterioridad al inicio de la actividad.	6799	6803	193	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria octava	Renuncias y opciones en los regímenes especiales.	6805	6807	76	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria novena	Legislación aplicable a los bienes en áreas exentas o regímenes suspensivos.	6809	6811	111	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria décima	Operaciones asimiladas a las importaciones.	6813	6827	291	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria undécima	Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección.	6829	6847	393	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria duodécima	Devengo en las entregas de determinados medios de transporte.	6849	6851	134	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición transitoria decimotercera	Límites para la aplicación del régimen simplificado y del régimen especial de la agricultura, ganadería y pesca en los ejercicios 2016 a 2024.	6853	6883	664	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición derogatoria primera	Disposiciones que se derogan.	6885	6891	138	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición derogatoria segunda	Disposiciones que continuarán en vigor.	6893	6899	130	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición final primera	Modificaciones por Ley de Presupuestos.	6901	6913	153	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición final segunda	Habilitación normativa.	6915	6919	104	legislacao-es/ley-37-1992.md
-ley-37-1992	Disposición final tercera	Entrada en vigor de la Ley.	6921	6939	132	legislacao-es/ley-37-1992.md
-ley-37-1992	Anexo		6941	7289	7141	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 53	Importaciones de material audiovisual producido por la Organización de las Naciones Unidas.	2401	2422	861	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 54	Importaciones de objetos de colección o de arte.	2424	2428	135	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 55	Importaciones de materiales para el acondicionamiento y protección de mercancías.	2430	2436	136	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 56	Importaciones de bienes destinados al acondicionamiento o a la alimentación en ruta de animales.	2438	2440	90	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 57	Importaciones de carburantes y lubricantes.	2442	2466	686	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 58	Importaciones de ataúdes, materiales y objetos para cementerios.	2468	2472	230	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 59	Importaciones de productos de la pesca.	2474	2482	183	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 60	Importaciones de bienes en régimen diplomático o consular.	2484	2486	56	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 61	Importaciones de bienes destinados a organismos internacionales.	2488	2500	482	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 62	Importaciones de bienes destinados a la Organización del Tratado del Atlántico Norte y las fuerzas armadas en el ámbito de la política común de seguridad y defe	2502	2510	244	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 63	Reimportaciones de bienes.	2512	2514	72	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 64	Prestaciones de servicios relacionados con las importaciones.	2516	2520	106	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 65	Importaciones de bienes que se vinculen al régimen de depósito distinto del aduanero.	2522	2538	607	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 66	Exenciones en las importaciones de bienes para evitar la doble imposición.	2540	2564	671	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 67	Normas generales aplicables a las exenciones previstas en el presente capítulo.	2566	2570	102	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 68	Lugar de realización de las entregas de bienes.	2576	2668	2633	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 69	Lugar de realización de las prestaciones de servicios. Reglas generales.	2670	2752	1786	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 70	Lugar de realización de las prestaciones de servicios. Reglas especiales.	2754	2886	2657	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 71	Lugar de realización de las adquisiciones intracomunitarias de bienes.	2890	2894	198	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 72	Lugar de realización de los transportes intracomunitarios de bienes cuyo destinatario no sea un empresario o profesional actuando como tal.	2896	2912	302	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 73	Límite cuantitativo aplicable a las ventas a distancia intracomunitarias de bienes a que se refiere el artículo 68.Tres.a) y b) de esta ley, y a las prestacione	2918	2934	590	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 74	Lugar de realización de los servicios de mediación en los transportes intracomunitarios de bienes y en los servicios accesorios a dichos transportes.	2936	2940	80	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 75	Devengo del impuesto.	2946	3026	1952	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 76	Devengo del impuesto.	3030	3038	190	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 77	Devengo del impuesto.	3042	3048	182	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 78	Base imponible. Regla general.	3054	3120	1367	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 79	Base imponible. Reglas especiales.	3122	3202	2467	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 80	Modificación de la base imponible.	3204	3304	2881	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 81	Determinación de la base imponible.	3306	3316	278	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 82	Base imponible.	3320	3330	252	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 83	Base imponible.	3334	3386	1358	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 84	Sujetos pasivos.	3392	3516	2736	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 85	Sujetos pasivos.	3520	3522	52	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 86	Sujetos pasivos.	3526	3544	342	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 87	Responsables del impuesto.	3548	3596	1046	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 88	Repercusión del impuesto.	3600	3622	582	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 89	Rectificación de las cuotas impositivas repercutidas.	3624	3664	1212	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 90	Tipo impositivo general.	3668	3684	390	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 91	Tipos impositivos reducidos.	3686	3966	6594	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 92	Cuotas tributarias deducibles.	3972	3990	344	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 93	Requisitos subjetivos de la deducción.	3992	4020	991	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 94	Operaciones cuya realización origina el derecho a la deducción.	4022	4046	824	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 95	Limitaciones del derecho a deducir.	4048	4104	1368	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 96	Exclusiones y restricciones del derecho a deducir.	4106	4144	726	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 97	Requisitos formales de la deducción.	4146	4178	1002	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 98	Nacimiento del derecho a deducir.	4180	4196	432	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 99	Ejercicio del derecho a la deducción.	4198	4238	1286	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 100	Caducidad del derecho a la deducción.	4240	4246	159	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 101	Régimen de deducciones en sectores diferenciados de la actividad empresarial o profesional.	4248	4276	960	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 102	Regla de prorrata.	4278	4286	267	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 103	Clases de prorrata y criterios de aplicación.	4288	4300	202	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 104	La prorrata general.	4302	4366	1569	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 105	Procedimiento de la prorrata general.	4368	4384	594	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 106	La prorrata especial.	4386	4402	356	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 107	Regularización de deducciones por bienes de inversión.	4404	4428	851	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 108	Concepto de bienes de inversión.	4430	4444	219	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 109	Procedimiento para practicar la regularización de deducciones por bienes de inversión.	4446	4454	203	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 110	Entregas de bienes de inversión durante el período de regularización.	4456	4476	640	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 111	Deducciones de las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondient	4478	4504	927	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 112	Regularización de las deducciones de las cuotas soportadas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios corres	4506	4522	442	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 113	Regularización de las cuotas correspondientes a bienes de inversión, soportadas con anterioridad al inicio de la realización de las entregas de bienes o prestac	4524	4534	403	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 114	Rectificación de deducciones.	4536	4560	886	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 115	Supuestos generales de devolución.	4564	4590	768	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 116	Solicitud de devoluciones al fin de cada período de liquidación.	4592	4604	292	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 117	Devoluciones a exportadores en régimen de viajeros.	4606	4612	180	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 117 bis	Solicitudes de devolución de empresarios o profesionales establecidos en el territorio de aplicación del Impuesto, Islas Canarias, Ceuta y Melilla correspondien	4614	4624	326	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 118	Garantías de las devoluciones.	4626	4628	54	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 119	Régimen especial de devoluciones a empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto pero establecidos en la Comunidad, Is	4638	4698	2006	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 119 bis	Régimen especial de devoluciones a determinados empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto, ni en la Comunidad, Isl	4700	4724	852	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 120	Normas generales.	4730	4774	719	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 121	Determinación del volumen de operaciones.	4776	4794	461	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 122	Régimen simplificado.	4798	4834	834	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 123	Contenido del régimen simplificado.	4836	4880	1334	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 124	Ámbito subjetivo de aplicación.	4884	4918	720	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 125	Ámbito objetivo de aplicación.	4920	4924	132	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 126	Actividades excluidas del régimen especial de la agricultura, ganadería y pesca.	4926	4952	492	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 127	Servicios accesorios incluidos en el régimen especial.	4954	4960	251	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 128	Realización de actividades económicas en sectores diferenciados de la actividad empresarial o profesional.	4962	4966	174	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 129	Obligaciones de los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca.	4968	4984	340	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 130	Régimen de deducciones y compensaciones.	4986	5032	1306	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 131	Obligados al reintegro de las compensaciones.	5034	5040	170	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 132	Recursos.	5042	5044	81	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 133	Devolución de compensaciones indebidas.	5046	5050	90	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 134	Deducción de las compensaciones correspondientes al régimen especial de la agricultura, ganadería y pesca.	5052	5058	225	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 134 bis	Comienzo o cese en la aplicación del régimen especial de la agricultura, ganadería y pesca.	5060	5084	817	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 135	Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección.	5090	5116	639	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 136	Concepto de bienes usados, objetos de arte, antigüedades y objetos de colección y de sujeto pasivo revendedor.	5118	5162	1032	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 137	La base imponible.	5164	5210	1301	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 138	Repercusión del Impuesto.	5212	5218	160	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 139	Deducciones.	5220	5224	92	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140	Concepto de oro de inversión.	5230	5250	347	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 bis	Exenciones.	5252	5268	378	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 ter	Renuncia a la exención.	5270	5280	356	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 cuarter	Deducciones.	5282	5298	509	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 quinque	Sujeto pasivo.	5300	5304	99	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 140 sexies	Conservación de las facturas.	5306	5310	100	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 141	Régimen especial de las agencias de viajes.	5316	5332	345	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 142	Repercusión del impuesto	5334	5340	119	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 143	Exenciones.	5342	5348	179	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 144	Lugar de realización del hecho imponible.	5350	5356	148	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 145	La base imponible.	5358	5376	438	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 146	Deducciones.	5378	5384	120	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 147	Supuesto de no aplicación del régimen especial.	5386	5390	168	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 148	Régimen especial del recargo de equivalencia.	5398	5406	246	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 149	Concepto de comerciante minorista.	5408	5426	518	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 150	Régimen especial de determinación proporcional de las bases imponibles.	5428	5432	49	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 151	Exclusiones del régimen especial de determinación proporcional de las bases imponibles.	5434	5440	76	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 152	Contenido del régimen especial de determinación proporcional de las bases imponibles.	5442	5448	67	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 153	Régimen especial del recargo de equivalencia.	5450	5454	42	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 154	Contenido del régimen especial del recargo de equivalencia.	5456	5472	634	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 155	Comienzo o cese de actividades sujetas al régimen especial del recargo de equivalencia.	5474	5486	507	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 156	Recargo de equivalencia.	5488	5496	150	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 157	Supuestos de no aplicación del recargo de equivalencia.	5498	5508	201	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 158	Sujetos pasivos del recargo de equivalencia.	5510	5516	111	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 159	Repercusión del recargo de equivalencia.	5518	5520	72	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 160	Base imponible.	5522	5524	37	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 161	Tipos.	5526	5540	198	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 162	Liquidación e ingreso.	5542	5544	62	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163	Obligación de acreditar la sujeción al régimen especial del recargo de equivalencia.	5546	5548	116	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículos 163 bis a 163 quáter.		5556	5560	36	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 bis	Ambito de aplicación y definiciones.	5562	5594	756	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 ter	Obligaciones formales.	5596	5636	1353	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quáter	Derecho a la deducción de las cuotas soportadas.	5638	5650	354	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quinquies	Requisitos subjetivos del régimen especial del grupo de entidades.	5656	5682	801	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 sexies	Condiciones para la aplicación del régimen especial del grupo de entidades.	5684	5700	677	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 septies	Causas determinantes de la pérdida del derecho al régimen especial del grupo de entidades.	5702	5718	424	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 octies	Contenido del régimen especial del grupo de entidades.	5720	5742	995	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 nonies	Obligaciones específicas en el régimen especial del grupo de entidades.	5744	5810	2449	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 decies	Requisitos subjetivos de aplicación.	5816	5828	330	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 undecies	Condiciones para la aplicación del régimen especial del criterio de caja.	5830	5834	149	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 duodecies	Requisitos objetivos de aplicación.	5836	5856	349	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 terdecies	Contenido del régimen especial del criterio de caja.	5858	5880	579	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quaterdecies	Efectos de la renuncia o exclusión del régimen especial del criterio de caja.	5882	5886	115	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quinquiesdecies	Operaciones afectadas por el régimen especial del criterio de caja.	5888	5900	407	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 sexiesdecies	Efectos del auto de declaración del concurso.	5902	5914	442	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 septiesdecies	Definiciones y causas de exclusión.	5926	5970	797	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 octiesdecies	Ámbito de aplicación.	5972	5990	440	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 noniesdecies	Obligaciones formales.	5992	6034	1527	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 vicies	Derecho a la deducción de las cuotas soportadas.	6036	6058	1117	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 unvicies	Ámbito de aplicación.	6060	6094	1300	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 duovicies	Obligaciones formales.	6096	6140	1627	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 tervicies	Derecho a la deducción de las cuotas soportadas.	6142	6164	1143	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quatervicies	Prestaciones de servicios realizadas en el territorio de aplicación del impuesto por empresarios o profesionales establecidos en el mismo.	6166	6172	192	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 quinvicies	Ámbito de aplicación.	6178	6224	1386	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 sexvivies	Artículo 163 sexvicies. Devengo.	6226	6230	98	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 septvicies	Obligaciones formales.	6232	6274	1615	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 163 octovicies	Derecho a la deducción de las cuotas soportadas.	6276	6296	1101	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 164	Obligaciones de los sujetos pasivos.	6306	6356	1198	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 165	Reglas especiales en materia de facturación.	6358	6382	552	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166	Obligaciones contables.	6384	6398	234	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166 bis	Registro de operaciones.	6412	6430	576	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166 ter	Definiciones.	6438	6468	655	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166 quater	Obligaciones de proveedores de servicios de pago.	6470	6490	638	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 166 quinquies	Ubicación del ordenante y beneficiario.	6492	6508	396	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 167	Liquidación del impuesto.	6512	6528	450	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 167 bis	Modalidad especial para la declaración y el pago del impuesto sobre el valor añadido sobre las importaciones.	6530	6562	816	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 167 ter	Liquidación provisional.	6564	6570	136	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 168	Liquidación provisional de oficio.	6572	6580	328	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 169	Suspensión del ingreso.	6584	6590	238	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 170	Infracciones.	6594	6630	928	legislacao-es/ley-37-1992.md
+ley-37-1992	Artículo 171	Sanciones.	6632	6664	909	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional primera	Impuesto sobre Bienes Inmuebles.	6666	6686	834	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional segunda	Proyecto de Ley del Impuesto sobre Sociedades.	6688	6690	124	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional tercera	Texto refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.	6692	6696	212	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional cuarta	Delimitación de las referencias a los Impuestos Especiales.	6698	6710	251	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional quinta	Referencias del Impuesto sobre el Valor Añadido al Impuesto General Indirecto Canario.	6712	6718	204	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional sexta	Procedimientos administrativos y judiciales de ejecución forzosa.	6720	6738	401	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional séptima	Inclusión en los grupos de entidades de las fundaciones bancarias.	6740	6746	254	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición adicional octava	Referencia normativa.	6748	6752	123	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria primera	Franquicias relativas a los viajeros procedentes de Canarias, Ceuta y Melilla.	6754	6756	132	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria segunda	Exenciones relativas a buques a la navegación marítima internacional.	6758	6762	182	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria tercera	Exenciones relativas a aeronaves dedicadas esencialmente a la navegación aérea internacional.	6764	6768	209	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria cuarta	Rectificación de cuotas impositivas repercutidas y deducciones.	6770	6772	104	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria quinta	Deducción en las adquisiciones utilizadas en autoconsumos.	6774	6776	104	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria sexta	Deducciones anteriores al inicio de la actividad.	6778	6784	169	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria séptima	Regularización de las deducciones efectuadas con anterioridad al inicio de la actividad.	6786	6790	193	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria octava	Renuncias y opciones en los regímenes especiales.	6792	6794	76	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria novena	Legislación aplicable a los bienes en áreas exentas o regímenes suspensivos.	6796	6798	111	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria décima	Operaciones asimiladas a las importaciones.	6800	6814	291	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria undécima	Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección.	6816	6834	393	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria duodécima	Devengo en las entregas de determinados medios de transporte.	6836	6838	134	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición transitoria decimotercera	Límites para la aplicación del régimen simplificado y del régimen especial de la agricultura, ganadería y pesca en los ejercicios 2016 a 2024.	6840	6870	664	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición derogatoria primera	Disposiciones que se derogan.	6872	6878	138	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición derogatoria segunda	Disposiciones que continuarán en vigor.	6880	6886	130	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición final primera	Modificaciones por Ley de Presupuestos.	6888	6900	153	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición final segunda	Habilitación normativa.	6902	6906	104	legislacao-es/ley-37-1992.md
+ley-37-1992	Disposición final tercera	Entrada en vigor de la Ley.	6908	6926	132	legislacao-es/ley-37-1992.md
+ley-37-1992	Anexo		6928	7223	7141	legislacao-es/ley-37-1992.md
 ley-39-2015	Preâmbulo		23	137	7629	legislacao-es/ley-39-2015.md
 ley-39-2015	Artículo 1	Objeto de la Ley.	141	145	232	legislacao-es/ley-39-2015.md
 ley-39-2015	Artículo 2	Ámbito subjetivo de aplicación.	147	169	357	legislacao-es/ley-39-2015.md
@@ -735,6 +1176,10 @@ ley-58-2003	Disposición final octava	Modificación de la Ley 20/1991, de 7 de j
 ley-58-2003	Disposición final novena	Habilitación normativa.	6431	6433	40	legislacao-es/ley-58-2003.md
 ley-58-2003	Disposición final décima	Desarrollo normativo de actuaciones y procedimientos por medios electrónicos, informáticos y telemáticos y relativos a medios de autenticación.	6435	6437	130	legislacao-es/ley-58-2003.md
 ley-58-2003	Disposición final undécima	Entrada en vigor.	6439	6451	120	legislacao-es/ley-58-2003.md
+orden-1998-03-27	Preâmbulo		23	29	278	legislacao-es/orden-1998-03-27.md
+orden-1998-03-27	Primero.		33	48	242	legislacao-es/orden-1998-03-27.md
+orden-1998-03-27	Segundo.		50	52	63	legislacao-es/orden-1998-03-27.md
+orden-1998-03-27	Disposición final.		54	64	98	legislacao-es/orden-1998-03-27.md
 orden-eha-1658-2009	Preâmbulo		27	57	1677	legislacao-es/orden-eha-1658-2009.md
 orden-eha-1658-2009	Artículo 1	Deudas cuyo pago puede ser domiciliado.	61	75	404	legislacao-es/orden-eha-1658-2009.md
 orden-eha-1658-2009	Artículo 2	Requisitos de las cuentas designadas para el adeudo de domiciliaciones.	77	99	486	legislacao-es/orden-eha-1658-2009.md
@@ -749,16 +1194,16 @@ orden-eha-1658-2009	Disposición adicional primera	Colaboración social.	351	375
 orden-eha-1658-2009	Disposición adicional segunda	Procedimiento para la presentación telemática por Internet de determinados modelos de autoliquidación.	377	389	314	legislacao-es/orden-eha-1658-2009.md
 orden-eha-1658-2009	Disposición transitoria única	Domiciliación de aplazamientos y fraccionamientos concedidos con anterioridad.	391	411	712	legislacao-es/orden-eha-1658-2009.md
 orden-eha-1658-2009	Disposición derogatoria única	Derogación normativa.	413	421	284	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Disposición final primera	Modificación de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el	423	445	413	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Disposición final segunda	Entrada en vigor.	447	453	205	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Anexo I	Relación de modelos de autoliquidaciones cuyo ingreso puede ser domiciliado a través de las Entidades Colaboradoras de la Agencia Estatal de Administración Trib	455	647	3669	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Anexo II	Plazos generales de presentación telemática de autoliquidaciones con domiciliación de pago	649	871	4472	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Anexo III	Ficheros de órdenes de domiciliación de autoliquidaciones: Especificaciones técnicas	873	1013	1182	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Anexo III BIS	Ficheros de órdenes de domiciliación de autoliquidaciones en cuentas abiertas en entidades no colaboradoras dentro de la Zona SEPA: especificaciones técnicas	1015	1105	1668	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Anexo IV	Ficheros de órdenes de domiciliación de aplazamientos y fraccionamientos: Especificaciones técnicas	1107	1247	1063	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Anexo IV BIS	Ficheros de órdenes de domiciliación de aplazamientos y fraccionamientos en cuentas abiertas en entidades no colaboradoras dentro de la Zona SEPA: especificacio	1249	1341	1824	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Anexo V	Modelo de representación para la presentación telemática de solicitudes de aplazamiento o fraccionamiento y compensación a instancia de parte de deudas tributar	1343	1343	102	legislacao-es/orden-eha-1658-2009.md
-orden-eha-1658-2009	Anexo VI	Solicitud de adhesión al procedimiento de gestión de domiciliaciones en cuentas abiertas en entidades no colaboradoras dentro de la Zona SEPA, regulado en el ar	1345	1351	202	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Disposición final primera	Modificación de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el	423	439	416	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Disposición final segunda	Entrada en vigor.	441	447	205	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Anexo I	Relación de modelos de autoliquidaciones cuyo ingreso puede ser domiciliado a través de las Entidades Colaboradoras de la Agencia Estatal de Administración Trib	449	584	3658	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Anexo II	Plazos generales de presentación telemática de autoliquidaciones con domiciliación de pago	586	746	4464	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Anexo III	Ficheros de órdenes de domiciliación de autoliquidaciones: Especificaciones técnicas	748	846	1195	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Anexo III BIS	Ficheros de órdenes de domiciliación de autoliquidaciones en cuentas abiertas en entidades no colaboradoras dentro de la Zona SEPA: especificaciones técnicas	848	908	1679	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Anexo IV	Ficheros de órdenes de domiciliación de aplazamientos y fraccionamientos: Especificaciones técnicas	910	1006	1075	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Anexo IV BIS	Ficheros de órdenes de domiciliación de aplazamientos y fraccionamientos en cuentas abiertas en entidades no colaboradoras dentro de la Zona SEPA: especificacio	1008	1069	1834	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Anexo V	Modelo de representación para la presentación telemática de solicitudes de aplazamiento o fraccionamiento y compensación a instancia de parte de deudas tributar	1071	1071	102	legislacao-es/orden-eha-1658-2009.md
+orden-eha-1658-2009	Anexo VI	Solicitud de adhesión al procedimiento de gestión de domiciliaciones en cuentas abiertas en entidades no colaboradoras dentro de la Zona SEPA, regulado en el ar	1073	1079	202	legislacao-es/orden-eha-1658-2009.md
 orden-eha-3786-2008	Preâmbulo		23	51	2413	legislacao-es/orden-eha-3786-2008.md
 orden-eha-3786-2008	Artículo 1	Aprobación del modelo 303.	55	77	578	legislacao-es/orden-eha-3786-2008.md
 orden-eha-3786-2008	Artículo 2	Aprobación del modelo 308.	79	103	806	legislacao-es/orden-eha-3786-2008.md
@@ -927,6 +1372,319 @@ real-decreto-1624-1992	Disposición transitoria tercera	Límites para la aplicac
 real-decreto-1624-1992	Disposición transitoria cuarta	Renuncia extraordinaria a la llevanza de los libros registro a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria y baja extraordi	3889	3903	297	legislacao-es/real-decreto-1624-1992.md
 real-decreto-1624-1992	Disposición transitoria quinta	Opción por llevar los libros registros a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria por los sujetos pasivos acogidos al ré	3905	3911	127	legislacao-es/real-decreto-1624-1992.md
 real-decreto-1624-1992	Disposición transitoria sexta	Procedimiento para la aplicación de la exención de las entregas de bienes en régimen de viajeros durante el ejercicio 2018.	3913	3917	135	legislacao-es/real-decreto-1624-1992.md
+real-decreto-439-2007	Preâmbulo		23	75	2934	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo único	Aprobación del Reglamento del Impuesto sobre la Renta de las Personas Físicas.	79	81	52	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional única	Remisiones normativas.	83	85	100	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria primera	Plazo de publicación de la Orden de desarrollo del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y del régimen especial simp	87	89	162	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria segunda	Plazo de renuncias y revocaciones a los regímenes especiales simplificado y de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido, del método	91	99	490	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria tercera	Adaptación de las especificaciones de los planes de pensiones.	101	103	126	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición derogatoria única	Derogación normativa.	105	113	236	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición final primera	Modificación del Reglamento de Planes y Fondos de Pensiones aprobado por el Real Decreto 304/2004, de 20 de febrero.	115	447	10736	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición final segunda	Entrada en vigor.	449	461	295	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 1	Indemnizaciones por despido o cese del trabajador.	469	475	261	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 2	Exención de becas al estudio y de formación de investigadores.	477	509	1355	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 3	Exención de determinados premios literarios, artísticos y científicos.	511	553	981	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 4	Exención de las ayudas a los deportistas de alto nivel.	555	561	173	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 5	Exención de las gratificaciones extraordinarias percibidas por la participación en misiones de paz o humanitarias.	563	569	154	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 6	Exención de los rendimientos percibidos por trabajos realizados en el extranjero.	571	583	628	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 7	Imputación temporal de rendimientos.	587	601	590	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 8	Concepto de valores o participaciones homogéneos.	607	611	265	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 9	Dietas y asignaciones para gastos de locomoción y gastos normales de manutención y estancia.	617	689	2464	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 10	Gastos deducibles por cuotas satisfechas a sindicatos y Colegios profesionales.	691	693	118	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 11	Otros gastos deducibles.	695	711	435	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 12	Aplicación de la reducción del 30 por ciento a determinados rendimientos del trabajo.	713	739	794	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 13	Gastos deducibles de los rendimientos del capital inmobiliario.	745	785	828	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 14	Gastos de amortización de los rendimientos del capital inmobiliario.	787	805	473	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 15	Rendimientos del capital inmobiliario obtenidos de forma notoriamente irregular en el tiempo.	807	819	251	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 16	Reducción por arrendamiento de vivienda.	821	827	86	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 17	Disposición parcial en contratos de seguro.	831	833	78	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 18	Tributación de la rentabilidad obtenida hasta el momento de la constitución de las rentas diferidas.	835	841	189	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 19	Requisitos exigibles a determinados contratos de seguro con prestaciones por jubilación e invalidez percibidas en forma de renta.	843	849	264	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 20	Gastos deducibles en determinados rendimientos del capital mobiliario.	851	853	143	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 21	Rendimientos del capital mobiliario obtenidos de forma notoriamente irregular en el tiempo.	855	867	246	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 22	Elementos patrimoniales afectos a una actividad.	873	909	871	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 23	Valores de afectación y desafectación.	911	915	153	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 24	Atribución de rentas.	917	919	104	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 25	Rendimientos de actividades económicas obtenidos de forma notoriamente irregular en el tiempo.	921	935	300	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 26	Reducciones aplicables a determinados rendimientos de actividades económicas.	937	945	340	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 27	Métodos de determinación de los rendimientos de actividades económicas.	947	955	142	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 28	Ámbito de aplicación del método de estimación directa simplificada.	959	977	457	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 29	Renuncia y exclusión al método de estimación directa simplificada.	979	993	382	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 30	Determinación del rendimiento neto en el método de estimación directa simplificada.	995	1005	381	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 31	Entidades en régimen de atribución.	1007	1019	269	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 32	Ámbito de aplicación del método de estimación objetiva.	1023	1061	1138	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 33	Renuncia al método de estimación objetiva.	1063	1099	1100	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 34	Exclusión del método de estimación objetiva.	1101	1109	232	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 35	Incompatibilidad de la estimación objetiva con la estimación directa.	1111	1115	167	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 36	Coordinación del método de estimación objetiva con el Impuesto sobre el Valor Añadido y el Impuesto General Indirecto Canario.	1117	1125	276	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 37	Determinación del rendimiento neto en el método de estimación objetiva.	1127	1151	1099	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 38	Actividades independientes.	1153	1157	114	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 39	Entidades en régimen de atribución.	1159	1169	396	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 40	Determinación del valor de adquisición.	1173	1179	252	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 41	Exención por reinversión en vivienda habitual y en entidades de nueva o reciente creación.	1181	1209	1168	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 41 bis	Concepto de vivienda habitual a efectos de determinadas exenciones.	1211	1237	933	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 42	Exención por reinversión en rentas vitalicias.	1239	1271	969	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 43	Entrega de acciones a trabajadores.	1275	1303	855	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 44	Gastos de estudio para la capacitación o reciclaje del personal que no constituyen retribución en especie.	1305	1317	418	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 45	Rendimientos del trabajo exentos por gastos por comedores de empresa.	1319	1351	622	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 46	Rendimientos del trabajo exentos por gastos por seguros de enfermedad.	1353	1365	290	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 46 bis	Fórmulas indirectas de pago del servicio público de transporte colectivo de viajeros.	1367	1393	524	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 47	Derechos de fundadores de sociedades.	1395	1397	115	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 48	Precio ofertado.	1399	1407	219	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 48 bis	Reducción de la valoración de los rendimientos del trabajo en especie derivados de la cesión de uso de vehículos automóviles eficientes energéticamente.	1409	1425	552	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 49	Planes de previsión asegurados.	1429	1459	1376	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 50	Plazo de presentación de las autoliquidaciones complementarias en la disposición de derechos consolidados de sistemas de previsión social.	1461	1463	179	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 51	Excesos de aportaciones a los sistemas de previsión social.	1465	1479	597	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 52	Acreditación del número de socios, patrimonio y porcentaje máximo de participación en instituciones de inversión colectiva.	1481	1489	663	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 53	Mínimo familiar por descendientes menores de tres años.	1493	1501	279	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 54	Concepto de vivienda habitual.	1507	1523	598	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 55	Adquisición y rehabilitación de la vivienda habitual.	1525	1577	1408	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 56	Cuentas vivienda.	1579	1601	410	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 57	Obras de adecuación de la vivienda habitual por personas con discapacidad.	1603	1607	318	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículos 54 a 57.		1609	1613	44	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 58	Deducción por rentas obtenidas en Ceuta y Melilla.	1617	1645	722	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 59	Pérdida del derecho a deducir.	1649	1665	540	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 60	Procedimiento para la práctica de la deducción por maternidad y su pago anticipado y para la aplicación del incremento de dicha deducción.	1669	1711	1698	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 60 bis	Procedimiento para la práctica de las deducciones por familia numerosa o personas con discapacidad a cargo y su pago anticipado.	1713	1785	2772	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 61	Obligación de declarar.	1791	1841	1528	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 62	Autoliquidación e ingreso.	1843	1865	711	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 63	Fraccionamiento en los supuestos de fallecimiento y de pérdida de la residencia en España.	1867	1883	586	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 64	Borrador de declaración.	1885	1897	301	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 65	Devoluciones derivadas de la normativa del tributo.	1899	1905	179	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 66	Liquidación provisional a no obligados a presentar declaración.	1907	1913	340	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 67	Colaboración externa en la presentación y gestión de declaraciones.	1915	1935	450	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 67 bis	Autoliquidaciones rectificativas.	1937	1969	1477	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 68	Obligaciones formales, contables y registrales.	1973	2013	986	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 69	Otras obligaciones formales de información.	2015	2145	3067	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 70	Obligaciones de información de las entidades en régimen de atribución de rentas.	2147	2173	790	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 71	Obligaciones de información de los contribuyentes que sean titulares de patrimonios protegidos.	2175	2187	455	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 72	Acreditación de la condición de persona con discapacidad y de la necesidad de ayuda de otra persona o de la existencia de dificultades de movilidad.	2191	2197	464	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 73	Plazo de presentación de autoliquidaciones complementarias.	2201	2209	369	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 74	Obligación de practicar retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas.	2215	2223	324	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 75	Rentas sujetas a retención o ingreso a cuenta.	2225	2339	2808	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 76	Obligados a retener o ingresar a cuenta.	2341	2427	2498	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 77	Importe de la retención o ingreso a cuenta.	2429	2433	221	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 78	Nacimiento de la obligación de retener o de ingresar a cuenta.	2435	2445	271	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 79	Imputación temporal de las retenciones o ingresos a cuenta.	2447	2449	73	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 80	Importe de las retenciones sobre rendimientos del trabajo.	2455	2489	869	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 81	Límite cuantitativo excluyente de la obligación de retener.	2491	2536	950	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 82	Procedimiento general para determinar el importe de la retención.	2538	2554	303	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 83	Base para calcular el tipo de retención.	2556	2606	1459	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 84	Mínimo personal y familiar para calcular el tipo de retención.	2608	2614	144	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 85	Cuota de retención.	2616	2657	932	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 85 bis	Deducción por obtención de rendimientos del trabajo para calcular el tipo de retención.	2659	2667	113	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 86	Tipo de retención.	2669	2697	833	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 87	Regularización del tipo de retención.	2699	2773	2385	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 88	Comunicación de datos del perceptor de rentas del trabajo a su pagador.	2775	2811	1531	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 89	Procedimientos especiales en materia de retenciones e ingresos a cuenta.	2813	2879	2480	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 90	Importe de las retenciones sobre rendimientos del capital mobiliario.	2883	2893	220	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 91	Concepto y clasificación de activos financieros.	2895	2915	939	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 92	Requisitos fiscales para la transmisión, reembolso y amortización de activos financieros.	2917	2947	827	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 93	Base de retención sobre los rendimientos del capital mobiliario.	2949	2983	1112	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 94	Nacimiento de la obligación de retener y de ingresar a cuenta sobre los rendimientos del capital mobiliario.	2985	3003	572	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 95	Importe de las retenciones sobre rendimientos de actividades económicas.	3007	3119	2951	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 96	Importe de las retenciones sobre ganancias patrimoniales derivadas de las transmisiones o reembolsos de acciones y participaciones de instituciones de inversión	3123	3127	138	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 97	Base de retención sobre las ganancias patrimoniales derivadas de transmisiones o reembolsos de acciones y participaciones de instituciones de inversión colectiv	3129	3147	988	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 98	Nacimiento de la obligación de retener.	3149	3151	71	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 99	Importe de las retenciones sobre otras ganancias patrimoniales.	3153	3163	225	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 100	Importe de las retenciones sobre arrendamientos y subarrendamientos de inmuebles.	3167	3175	202	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 101	Importe de las retenciones sobre derechos de imagen y otras rentas.	3177	3187	360	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 102	Ingresos a cuenta sobre retribuciones en especie del trabajo.	3191	3195	188	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 103	Ingresos a cuenta sobre retribuciones en especie del capital mobiliario.	3197	3205	226	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 104	Ingresos a cuenta sobre retribuciones en especie de actividades económicas.	3207	3209	82	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 105	Ingresos a cuenta sobre determinadas ganancias patrimoniales.	3211	3215	178	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 106	Ingreso a cuenta sobre otras rentas.	3217	3219	68	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 107	Ingreso a cuenta sobre derechos de imagen.	3221	3225	86	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 108	Obligaciones formales del retenedor y del obligado a ingresar a cuenta.	3229	3291	2000	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 109	Obligados al pago fraccionado.	3295	3305	421	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 110	Importe del fraccionamiento.	3307	3386	2163	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 111	Declaración e ingreso.	3388	3402	283	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 112	Entidades en régimen de atribución de rentas.	3404	3406	84	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 113	Ámbito de aplicación.	3422	3444	1219	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 114	Contenido del régimen especial de tributación por el Impuesto sobre la Renta de no Residentes.	3446	3486	1573	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 115	Duración.	3488	3494	221	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 116	Ejercicio de la opción.	3496	3510	468	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 117	Renuncia al régimen.	3512	3526	326	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 118	Exclusión del régimen.	3528	3554	963	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 119	Comunicaciones a la Administración tributaria y acreditación del régimen.	3556	3594	2136	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 120	Certificado de residencia fiscal.	3596	3600	188	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 121	Plazo de declaración.	3608	3614	196	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 122	Aplazamientos por desplazamientos temporales.	3616	3640	778	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Artículo 123	Cambio de residencia a otros Estados de la Unión Europea.	3642	3660	650	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional primera	Exención de las indemnizaciones por daños personales.	3662	3664	190	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional segunda	Acuerdos previos de valoración de las retribuciones en especie del trabajo personal a efectos de la determinación del correspondiente ingreso a cuenta del Impue	3666	3720	1150	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional tercera	Información a los tomadores de los Planes de Previsión Asegurados y seguros de dependencia.	3722	3724	186	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional cuarta	Participaciones en fondos de inversión cotizados y acciones de sociedades de inversión de capital variable índice cotizadas.	3726	3730	207	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional quinta	Planes Individuales de Ahorro Sistemático.	3732	3736	202	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional sexta	Régimen fiscal del acontecimiento «Copa del América 2007».	3738	3740	188	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional séptima	Rendimientos del capital mobiliario a integrar en la renta del ahorro.	3742	3746	273	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional octava	Movilización entre Planes de Ahorro a Largo Plazo.	3748	3778	1462	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional novena	Mecanismos de reversión, períodos ciertos de prestación o fórmulas de contraseguro sobre contratos de rentas vitalicias aseguradas.	3780	3803	371	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición adicional décima	Reducción de los pagos a cuenta aplicables en el período impositivo 2023 a rendimientos obtenidos en la isla de La Palma.	3805	3809	107	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria primera	Transmisiones de elementos patrimoniales afectos realizadas con anterioridad al 1 de enero de 1998.	3811	3821	671	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria segunda	Reinversión de beneficios extraordinarios.	3823	3825	225	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria tercera	Regularización de deducciones por incumplimiento de requisitos.	3827	3837	402	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria cuarta	Dividendos procedentes de sociedades transparentes y patrimoniales.	3839	3843	312	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria quinta	Régimen transitorio de las modificaciones introducidas en materia de retenciones sobre los rendimientos del capital mobiliario y sobre ganancias patrimoniales.	3845	3853	319	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria sexta	Retención aplicable a determinadas actividades económicas a las que resulta de aplicación el método de estimación objetiva.	3855	3857	95	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria séptima	Delimitación de las aportaciones a instrumentos de previsión social complementaria cuando concurran aportaciones anteriores y posteriores a 31 de diciembre de 2	3859	3863	231	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria octava	Movilizaciones entre planes de previsión asegurados.	3865	3867	105	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria novena	Ampliación del plazo de dos años para transmitir la vivienda habitual a efectos de la exención por reinversión, cuando previamente se hubiera adquirido otra viv	3869	3877	316	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria décima	Ampliación del plazo de cuentas vivienda.	3879	3889	450	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria undécima	Minoración del tipo de retención por aplicación del régimen transitorio de deducción por inversión en vivienda habitual.	3891	3897	204	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria duodécima	Deducción por inversión en vivienda habitual.	3899	3905	191	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria decimotercera	Tipos de retención aplicables en 2015.	3907	3921	430	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria decimocuarta	Reducción por movilidad geográfica en 2015 a efectos de retenciones.	3923	3927	240	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria decimoquinta	Aplicación de lo dispuesto en las disposiciones transitorias cuarta y novena de la Ley del Impuesto respecto de obligaciones de retener que nazcan en el primer 	3929	3933	207	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria decimosexta	Salario medio anual del conjunto de declarantes del Impuesto.	3935	3941	232	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria decimoséptima	Incumplimiento del requisito de mantenimiento de las acciones en los planes generales de entrega de opciones sobre acciones.	3943	3949	271	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria decimoctava	Mecanismos de reversión, períodos ciertos de prestación o fórmulas de contraseguro sobre contratos de rentas vitalicias aseguradas anteriores a 1 de abril de 20	3951	3955	138	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria decimonovena	Excesos de aportaciones a los sistemas de previsión social pendientes de reducción.	3957	3963	217	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria vigésima	Plazo para el ejercicio de la opción por el régimen especial del artículo 93 de la Ley del Impuesto sobre la Renta de las Personas Físicas.	3965	3973	468	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición transitoria vigésimoprimera	Disposición transitoria vigesimoprimera. Cálculo del tipo de retención e ingreso a cuenta en el período impositivo 2024.	3975	3983	598	legislacao-es/real-decreto-439-2007.md
+real-decreto-439-2007	Disposición final única	Autorización al Ministro de Economía y Hacienda.	3985	3987	52	legislacao-es/real-decreto-439-2007.md
+real-decreto-legislativo-2-2015	Preâmbulo		23	31	303	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo único	Aprobación del texto refundido de la Ley del Estatuto de los Trabajadores.	35	37	50	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición derogatoria única	Derogación normativa.	39	69	637	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 1	Ámbito de aplicación.	79	107	826	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 2	Relaciones laborales de carácter especial.	109	147	555	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 3	Fuentes de la relación laboral.	149	167	423	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 4	Derechos laborales.	171	209	563	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 5	Deberes laborales.	211	225	152	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 6	Trabajo de los menores.	229	237	206	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 7	Capacidad para contratar.	239	249	184	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 8	Forma del contrato.	251	277	1006	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 9	Validez del contrato.	279	289	263	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 10	Trabajo en común y contrato de grupo.	293	299	175	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 11	Contrato formativo.	301	399	4057	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 12	Contrato a tiempo parcial y contrato de relevo.	401	503	3191	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 13	Trabajo a distancia.	505	511	99	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 14	Periodo de prueba.	517	537	630	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 15	Duración del contrato de trabajo.	539	603	2554	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 16	Contrato fijo-discontinuo.	605	641	1432	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 17	No discriminación en las relaciones laborales.	645	667	911	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 18	Inviolabilidad de la persona del trabajador.	669	671	151	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 19	Seguridad y salud en el trabajo.	673	685	660	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 20	Dirección y control de la actividad laboral.	687	695	354	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 20 bis	Derechos de los trabajadores a la intimidad en relación con el entorno digital y a la desconexión.	697	701	153	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 21	Pacto de no concurrencia y de permanencia en la empresa.	703	715	384	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 22	Sistema de clasificación profesional.	719	729	397	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 23	Promoción y formación profesional en el trabajo.	731	749	623	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 24	Ascensos.	751	757	186	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 25	Promoción económica.	759	763	92	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 26	Del salario.	767	779	524	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 27	Salario mínimo interprofesional.	781	799	433	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 28	Igualdad de remuneración por razón de sexo.	801	813	444	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 29	Liquidación y pago.	815	831	517	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 30	Imposibilidad de la prestación.	833	835	92	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 31	Gratificaciones extraordinarias.	837	841	132	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 32	Garantías del salario.	843	853	433	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 33	El Fondo de Garantía Salarial.	855	913	2876	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 34	Jornada.	917	973	1882	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 35	Horas extraordinarias.	975	989	591	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 36	Trabajo nocturno, trabajo a turnos y ritmo de trabajo.	991	1013	1000	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 37	Descanso semanal, fiestas y permisos.	1015	1137	4463	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 38	Vacaciones anuales.	1139	1151	472	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 39	Movilidad funcional.	1157	1167	555	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 40	Movilidad geográfica.	1169	1235	2671	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 41	Modificaciones sustanciales de condiciones de trabajo.	1237	1317	2779	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 42	Subcontratación de obras y servicios.	1321	1361	1336	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 43	Cesión de trabajadores.	1363	1371	388	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 44	La sucesión de empresa.	1373	1407	1210	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 45	Causas y efectos de la suspensión.	1411	1455	588	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 46	Excedencias.	1457	1483	1113	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 47	Reducción de jornada o suspensión del contrato por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor.	1485	1583	3909	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 47 bis	Mecanismo RED de Flexibilidad y Estabilización del Empleo.	1585	1631	1654	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 48	Suspensión con reserva de puesto de trabajo.	1633	1717	2788	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 48 bis.		1719	1731	374	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 49	Extinción del contrato.	1735	1803	1773	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 50	Extinción por voluntad del trabajador.	1805	1819	377	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 51	Despido colectivo.	1821	1913	3824	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 52	Extinción del contrato por causas objetivas.	1915	1937	574	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 53	Forma y efectos de la extinción por causas objetivas.	1939	1987	1596	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 54	Despido disciplinario.	1989	2007	252	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 55	Forma y efectos del despido disciplinario.	2009	2051	1246	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 56	Despido improcedente.	2053	2065	544	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 57	Procedimiento concursal.	2069	2071	68	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 58	Faltas y sanciones de los trabajadores.	2075	2081	201	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 59	Prescripción y caducidad.	2087	2103	376	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 60	Prescripción.	2107	2111	136	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 61	Participación.	2117	2119	65	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 62	Delegados de personal.	2123	2131	235	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 63	Comités de empresa.	2133	2143	314	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 64	Derechos de información y consulta y competencias.	2145	2233	2436	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 65	Capacidad y sigilo profesional.	2235	2253	562	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 66	Composición.	2255	2273	246	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 67	Promoción de elecciones y mandato electoral.	2275	2299	1387	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 68	Garantías.	2301	2325	576	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 69	Elección.	2329	2337	350	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 70	Votación para delegados.	2339	2341	92	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 71	Elección para el comité de empresa.	2343	2359	618	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 72	Representantes de quienes presten servicios en trabajos fijos-discontinuos y de trabajadores no fijos.	2361	2369	228	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 73	Mesa electoral.	2371	2381	248	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 74	Funciones de la mesa.	2383	2413	804	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 75	Votación para delegados y comités de empresa.	2415	2439	1247	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 76	Reclamaciones en materia electoral.	2441	2477	1570	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 77	Las asambleas de trabajadores.	2481	2487	338	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 78	Lugar de reunión.	2489	2503	197	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 79	Convocatoria.	2505	2507	56	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 80	Votaciones.	2509	2511	90	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 81	Locales y tablón de anuncios.	2513	2515	176	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 82	Concepto y eficacia.	2523	2561	1514	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 83	Unidades de negociación.	2563	2571	258	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 84	Concurrencia.	2573	2611	1039	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 85	Contenido.	2613	2645	1136	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 86	Vigencia.	2647	2669	687	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 87	Legitimación.	2673	2703	989	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 88	Comisión negociadora.	2705	2721	589	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 89	Tramitación.	2727	2741	467	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 90	Validez.	2743	2757	530	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 91	Aplicación e interpretación del convenio colectivo.	2759	2771	554	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Artículo 92	Adhesión y extensión.	2775	2783	346	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional primera	Trabajo por cuenta propia.	2785	2787	56	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional segunda	Contratos para la formación y el aprendizaje.	2789	2797	201	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional tercera	Negociación colectiva y contrato fijo de obra.	2799	2801	121	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional cuarta	Conceptos retributivos.	2803	2805	170	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional quinta	Personal de alta dirección.	2807	2809	50	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional sexta	Representación institucional de los empresarios.	2811	2817	276	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional séptima	Regulación de condiciones por rama de actividad.	2819	2821	138	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional octava	Código de Trabajo.	2823	2827	166	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional novena	Comisión Consultiva Nacional de Convenios Colectivos.	2829	2845	724	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional décima	Cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación.	2847	2871	934	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional undécima	Acreditación de la capacidad representativa de las organizaciones sindicales.	2873	2875	106	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional duodécima	Preavisos.	2877	2879	135	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional decimotercera	Solución no judicial de conflictos.	2881	2883	129	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional decimocuarta	Consideración de víctimas del terrorismo a efectos laborales.	2885	2887	88	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional decimoquinta	Aplicación de los límites de duración del contrato por obra o servicio determinados y al encadenamiento de contratos en las Administraciones Públicas.	2889	2899	296	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional decimosexta	Aplicación del despido por causas económicas, técnicas, organizativas o de producción en el sector público.	2901	2907	110	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional decimoséptima	Suspensión del contrato de trabajo y reducción de jornada en las Administraciones Públicas.	2909	2911	118	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional decimoctava	Discrepancias en materia de conciliación.	2913	2915	114	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional decimonovena	Cálculo de indemnizaciones en determinados supuestos de jornada reducida.	2917	2927	284	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigésima	Contratos formativos celebrados con trabajadores con discapacidad.	2929	2937	342	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimoprimera	Sustitución de trabajadores excedentes por cuidado de familiares.	2939	2945	101	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimosegunda	Permisos de nacimiento, adopción, del progenitor diferente de la madre biológica y lactancia del personal laboral al servicio de las Administraciones públicas.	2947	2951	208	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimotercera	Presunción de laboralidad en el ámbito de las plataformas digitales de reparto.	2953	2963	263	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimocuarta	Compromiso de reducción de la tasa de temporalidad.	2965	2973	286	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimoquinta	Acciones formativas en los expedientes de regulación temporal de empleo regulados en los artículos 47 y 47 bis.	2975	2985	448	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimosexta	Acceso a los datos de los expedientes de regulación temporal de empleo por la Tesorería General de la Seguridad Social, el Servicio Público de Empleo Estatal y 	2987	2991	256	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimoséptima	Régimen jurídico aplicable en los casos de contratas y subcontratas suscritas con centros especiales de empleo.	2993	2997	160	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimoctava	Elecciones a órganos de representación en el ámbito de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así	2999	3007	368	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición adicional vigesimonovena.		3009	3015	182	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria primera	Contratos celebrados antes de la entrada en vigor de esta ley.	3017	3019	104	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria segunda	Contratos para la formación y el aprendizaje.	3021	3027	151	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria tercera	Contratos a tiempo parcial por jubilación parcial y de relevo y edad de jubilación.	3029	3031	70	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria cuarta	Negociación colectiva y modalidades contractuales.	3033	3035	94	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria quinta	Limitación del encadenamiento de modalidades contractuales.	3037	3045	353	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria sexta	Horas complementarias.	3047	3049	89	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria séptima	Duración del permiso de paternidad en los casos de nacimiento, adopción, guarda con fines de adopción o acogimiento hasta la entrada en vigor de la Ley 9/2009, 	3051	3057	376	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria octava	Indemnización por finalización de contrato temporal.	3059	3073	278	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria novena	Aplicación temporal de lo establecido en la disposición adicional décima.	3075	3081	176	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria décima	Régimen aplicable a expedientes de regulación de empleo iniciados conforme a la normativa anterior.	3083	3087	175	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria undécima	Indemnizaciones por despido improcedente.	3089	3097	377	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria duodécima	Salarios de tramitación.	3099	3101	67	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición transitoria decimotercera	Aplicación paulatina del artículo 48 en la redacción por el Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y 	3103	3131	1656	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición final primera	Título competencial.	3133	3135	78	legislacao-es/real-decreto-legislativo-2-2015.md
+real-decreto-legislativo-2-2015	Disposición final segunda	Desarrollo reglamentario.	3137	3141	243	legislacao-es/real-decreto-legislativo-2-2015.md
 resolucion-aeat-2009-12-28	Preâmbulo		23	37	856	legislacao-es/resolucion-aeat-2009-12-28.md
 resolucion-aeat-2009-12-28	Primero	Objeto.	41	43	62	legislacao-es/resolucion-aeat-2009-12-28.md
 resolucion-aeat-2009-12-28	Segundo	Sede electrónica de la Agencia Estatal de Administración Tributaria.	45	67	810	legislacao-es/resolucion-aeat-2009-12-28.md

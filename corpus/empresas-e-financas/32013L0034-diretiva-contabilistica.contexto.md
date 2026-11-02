@@ -1,7 +1,7 @@
 ---
 celex: 32013L0034
 parte: contexto
-obtido_em: '2026-10-26'
+obtido_em: '2026-11-02'
 ---
 
 # Diretiva 32013L0034 — Diretiva Contabilística — contexto
