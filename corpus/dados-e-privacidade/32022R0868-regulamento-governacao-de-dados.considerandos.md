@@ -4,7 +4,7 @@ nome_curto: Regulamento Governação de Dados
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R0868
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32022R0868 — Regulamento Governação de Dados — considerandos

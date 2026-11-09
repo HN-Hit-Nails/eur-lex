@@ -1,605 +1,567 @@
 ---
-titulo: "Diretrizes 09/2020 relativas à objeção pertinente e fundamentada nos termos do Regulamento 2016/679"
+titulo: "Guidelines 09/2020 on relevant and reasoned objection under Regulation 2016/679"
 titulo_en: "Guidelines 09/2020 on relevant and reasoned objection under Regulation 2016/679"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2021-03-09'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-092020-on-relevant-and-reasoned-objection-under-regulation-2016679_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2021-06/edpb_guidelines_202009_rro_final_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2021-03/edpb_guidelines_202009_rro_final_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 09/2020 relativas à objeção pertinente e fundamentada nos termos do Regulamento 2016/679
+# Guidelines 09/2020 on relevant and reasoned objection under Regulation 2016/679
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 09/2020 relativas à objeção pertinente e
-    fundamentada nos termos do Regulamento 2016/679
+Guidelines 09/2020 on relevant and reasoned objection
+                 under Regulation 2016/679
 
 
-                              Versão 2.0
+                        Version 2.0
 
 
-               Adotadas em 9 de março de 2021
-
-
-                   Translations proofread by EDPB Members.
-               This language version has not yet been proofread.
+                 Adopted on 09 March 2021
 
 
 
 
-                                                                   1
-Adotadas
+                                                           1
+Adopted
 
-Tabela das versões
- Versão 1.0          8 de outubro de 2020   Adoção das Diretrizes para
-                                            consulta pública
- Versão 2.0          9 de março de 2021.    Adoção das Diretrizes após
-                                            consulta pública
-
-
-
-
-                                                                         2
-Adotadas
-
-Índice
-1      DISPOSIÇÕES GERAIS....................................................................................................................... 4
-2      CONDIÇÕES PARA UMA OBJEÇÃO «PERTINENTE E FUNDAMENTADA» ......................................... 6
-    2.1       «Pertinente»............................................................................................................................ 6
-    2.2       «Fundamentada» .................................................................................................................... 7
-3      SUBSTÂNCIA DA OBJEÇÃO............................................................................................................... 8
-    3.1       Existência de uma violação do RGPD e/ou conformidade da ação prevista com o RGPD...... 8
-       3.1.1          Existência de uma violação do RGPD .............................................................................. 8
-       3.1.2    Conformidade com o RGPD da ação prevista no projeto de decisão em relação ao
-       responsável pelo tratamento ou ao subcontratante .................................................................... 10
-    3.2     Gravidade dos riscos que advêm do projeto de decisão para os direitos e liberdades
-    fundamentais dos titulares dos dados e, eventualmente, para a livre circulação de dados pessoais
-    no território da União ....................................................................................................................... 11
-       3.2.1          Significado de «gravidade dos riscos»........................................................................... 11
-       3.2.2          Riscos para os direitos e liberdades fundamentais dos titulares dos dados................. 12
-       3.2.3          Riscos para a livre circulação de dados pessoais no território da União ...................... 12
+Version Table
+ Version 1.0    8 October 2020   Adoption of the Guidelines for
+                                 public consultation
+ Version 2.0    9 March 2021     Adoption of the Guidelines
+                                 after public consultation
 
 
 
 
-                                                                                                                                                      3
-Adotadas
+                                                                  2
+Adopted
 
-     O Comité Europeu para a Proteção de Dados
+Table of contents
+1      GENERAL.......................................................................................................................................... 4
+2      CONDITIONS FOR A “RELEVANT AND REASONED” OBJECTION ...................................................... 6
+    2.1        “Relevant” ............................................................................................................................... 6
+    2.2        “Reasoned”.............................................................................................................................. 6
+3      SUBSTANCE OF THE OBJECTION...................................................................................................... 7
+    3.1   Existence of an infringement of the GDPR and/or compliance of the envisaged action with
+    the GDPR ............................................................................................................................................. 8
+       3.1.1          Existence of an infringement of the GDPR ...................................................................... 8
+       3.1.2    Compliance with the GDPR of the action envisaged in the draft decision in relation to
+       the controller or processor ............................................................................................................. 9
+    3.2   Significance of the risks posed by the draft decision as regards the fundamental rights and
+    freedoms of data subjects and, where applicable, the free flow of personal data within the Union
+          10
+       3.2.1          Meaning of “significance of the risks”........................................................................... 10
+       3.2.2          Risks to fundamental rights and freedoms of data subjects......................................... 11
+       3.2.3          Risks to the free flow of personal data within the Union ............................................. 12
 
-     Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE
-     (a seguir designado por «RGPD»),
-
-     Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-     foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 20181,
-
-     Tendo em conta o artigo 12.º e o artigo 22.º do seu Regulamento Interno,
 
 
 
-     ADOTOU AS SEGUINTES DIRETRIZES
+                                                                                                                                                          3
+Adopted
+
+     The European Data Protection Board
+
+     Having regard to Article 70(1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+     the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter
+     “GDPR”),
+
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018,1
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
 
 
-     1 DISPOSIÇÕES GERAIS
-1.   No âmbito do procedimento de cooperação estabelecido pelo RGPD, as autoridades de
-     controlo («AC») «trocam entre si todas as informações pertinentes» e cooperaram com vista a
-     «procurar alcançar um consenso»2. Este dever de cooperação aplica-se a todas as fases do
-     procedimento, começando na fase inicial do caso e permeando todo o processo de decisão. A procura
-     de um consenso sobre o desfecho do caso é, portanto, o objetivo final de todo o procedimento
-     estabelecido no artigo 60.º do RGPD. Nas situações em que não exista consenso entre as AC, o
-     artigo 65.º do RGPD atribui ao Comité Europeu para a Proteção de Dados (CEPD) o poder de adotar
-     decisões vinculativas. No entanto, o intercâmbio de informações e a consulta entre a Autoridade de
-     Controlo Principal («ACP») e as Autoridades de Controlo Interessadas («ACI») permitem
-     frequentemente que se chegue a um acordo nas fases iniciais do caso.
 
-2.   Nos termos do artigo 60.º, n.os 3 e 4, do RGPD, a ACP deve apresentar um projeto de decisão às ACI, as
-     quais podem então suscitar uma objeção pertinente e fundamentada dentro de um prazo específico
-     (quatro semanas)3. Após a receção de uma objeção pertinente e fundamentada, a ACP tem duas
-     opções ao seu dispor. Se não seguir a objeção pertinente e fundamentada ou se entender que a
-     objeção carece de pertinência ou fundamento, remete o assunto para o Comité no quadro do
-     procedimento de controlo da coerência. Se, pelo contrário, a ACP seguir a objeção e emitir um projeto
-     de decisão revisto, as ACI podem suscitar uma objeção pertinente e fundamentada ao projeto de
-     decisão revisto no prazo de duas semanas.
+     HAS ADOPTED THE FOLLOWING GUIDELINES
 
-3.   Se a ACP não seguir uma objeção ou a rejeitar por carecer de pertinência ou de fundamento e,
-     consequentemente, submeter o assunto ao Comité nos termos do artigo 65.º, n.º 1, alínea a), do
-     RGPD, passa então a caber ao Comité adotar uma decisão vinculativa sobre a pertinência e
-     fundamento da objeção e, caso conclua que estes requisitos estão preenchidos, sobre todos os
-     assuntos sobre que incida a objeção.
 
+     1 GENERAL
+1.   Within the cooperation mechanism set out by the GDPR, the supervisory authorities (“SAs”) have a
+     duty to “exchange all relevant information with each other” and cooperate “in an endeavour to reach
+     consensus”.2 This duty of cooperation applies to every stage of the procedure, starting with the
+     inception of the case and extending to the whole decision-making process. The achievement of an
+     agreement on the outcome of the case is therefore the ultimate goal of the whole procedure
+     established by Article 60 GDPR. In the situations in which no consensus is reached among the SAs,
+     Article 65 GDPR entrusts the EDPB with the power to adopt binding decisions. However, the exchange
+     of information and the consultation among the Lead Supervisory Authority (“LSA”) and the Concerned
+     Supervisory Authorities (“CSAs”) often enables an agreement to be reached at the early stages of the
+     case.
+
+2.   According to Article 60(3) and (4) GDPR, the LSA is required to submit a draft decision to the CSAs,
+     which then may raise a relevant and reasoned objection within a specific timeframe (four weeks).3
+     Upon receipt of a relevant and reasoned objection, the LSA has two options open to it. If it does not
+     follow the relevant and reasoned objection or is of the opinion that the objection is not reasoned or
+     relevant, it shall submit the matter to the Board within the consistency mechanism. If the LSA, on the
+     contrary, follows the objection and issues the revised draft decision, the CSAs may express a relevant
+     and reasoned objection on the revised draft decision within a period of two weeks.
+
+3.   When the LSA does not follow an objection or rejects it as not relevant or reasoned and therefore
+     submits the matter to the Board according to Article 65(1)(a) GDPR, it then becomes incumbent upon
+     the Board to adopt a binding decision on whether the objection is “relevant and reasoned” and if so,
+     on all the matters which are the subject of the objection.
+
+4.   Therefore, one of the key elements signifying the absence of consensus between the LSA and the CSAs,
+     is the concept of “relevant and reasoned objection”. This document seeks to provide guidance with
 
      1
-            As referências a «Estados-Membros» efetuadas ao longo do presente documento devem ser entendidas
-            como referências a «Estados do EEE».
+       References to “Member States” made throughout this document should be understood as references to “EEA
+     Member States”.
      2
-            Regulamento 2016/679, a seguir «RGPD», artigo 60.º, n.º 1.
+       Regulation 2016/679, hereinafter “GDPR”, Article 60(1).
      3
-            As ACI podem retirar as objeções suscitadas anteriormente.
+       It is possible for the CSAs to withdraw objections previously raised.
 
-                                                                                                          4
-     Adotadas
+                                                                                                           4
+     Adopted
 
-4.   Por conseguinte, um dos principais elementos indicadores da ausência de consenso entre a ACP e as
-     ACI é o conceito de «objeção pertinente e fundamentada». O presente documento visa fornecer
-     orientações em relação a este conceito e estabelecer um entendimento comum quanto à noção dos
-     termos «pertinente e fundamentada», nomeadamente sobre os elementos que devem ser
-     considerados ao avaliar se uma objeção demonstra «claramente a gravidade dos riscos que advêm do
-     projeto de decisão» (artigo 4.º, ponto 24), do RGPD).
+     respect to this concept and aims at establishing a common understanding of the notion of the terms
+     “relevant and reasoned”, including what should be considered when assessing whether an objection
+     “clearly demonstrates the significance of the risks posed by the draft decision” (Article 4(24) GDPR).
 
-5.   Na aceção do artigo 4.º, ponto 24), do RGPD entende-se por «objeção pertinente e fundamentada»,
-     uma «objeção a um projeto de decisão que visa determinar se há violação do presente regulamento
-     ou se a ação prevista relativamente ao responsável pelo tratamento ou ao subcontratante está em
-     conformidade com o presente regulamento, demonstrando claramente a gravidade dos riscos que
-     advêm do projeto de decisão para os direitos e liberdades fundamentais dos titulares dos dados e,
-     eventualmente, para a livre circulação de dados pessoais no território da União».
+5.   Article 4(24) GDPR defines “relevant and reasoned objection” as an objection to a draft decision as to
+     whether there is an infringement of this Regulation, or whether envisaged action in relation to the
+     controller or processor complies with this Regulation, which clearly demonstrates the significance of
+     the risks posed by the draft decision as regards the fundamental rights and freedoms of data subjects
+     and, where applicable, the free flow of personal data within the Union”.
 
-6.   Este conceito serve como um requisito mínimo em situações em que as ACI pretendam opor-se a um
-     projeto de decisão (revisto) a adotar pela ACP nos termos do artigo 60.º do RGPD. Uma vez que o
-     desconhecimento em torno de «aquilo que constitui uma objeção pertinente e fundamentada» é
-     suscetível de gerar mal-entendidos e uma aplicação inconsistente por parte das autoridades de
-     controlo, o legislador da UE sugeriu que o CEPD emitisse orientações sobre o referido conceito (parte
-     final do considerando 124 do RGPD).
+6.   This concept serves as a threshold in situations where CSAs aim to object to a (revised) draft decision
+     to be adopted by the LSA under Article 60 GDPR. As the unfamiliarity surrounding “what constitutes
+     relevant and reasoned objection” has the potential to create misunderstandings and inconsistent
+     applications by the supervisory authorities, the EU legislator suggested that the EDPB should issue
+     guidelines on this concept (end of Recital 124 GDPR).
 
-7.   A fim de cumprir o requisito mínimo estabelecido no artigo 4.º, ponto 24), do RGPD, a ACI deve, em
-     princípio, mencionar explicitamente todos os elementos da definição em relação a cada uma das
-     objeções específicas por ela suscitadas. Por conseguinte, a objeção visa, em primeiro lugar, salientar
-     de que modo e por que razão, no entender da ACI, o projeto de decisão não aborda de forma
-     adequada a situação de violação do RGPD e/ou não prevê medidas adequadas em relação ao
-     responsável pelo tratamento ou subcontratante, à luz da demonstração dos riscos que esse projeto
-     de decisão, se não for alterado, implicará para os direitos e liberdades fundamentais dos titulares
-     dos dados e, eventualmente, para a livre circulação de dados pessoais no território da União. Uma
-     objeção apresentada por uma ACI deve mencionar todas as partes do projeto de decisão consideradas
-     deficientes, erróneas ou incompletas quanto a alguns dos elementos necessários, quer por referência
-     a artigos/números específicos, quer por outras indicações claras, mostrando por que razão essas
-     questões devem ser consideradas «pertinentes», conforme explicado abaixo. As propostas de
-     alteração apresentadas pela objeção devem ter por objetivo corrigir esses erros potenciais.
+7.   In order to meet the threshold set by Article 4(24) GDPR, a submission by a CSA should in principle
+     explicitly mention each element of the definition in relation to each specific objection. Therefore, the
+     objection aims, first of all, at pointing out how and why, according to the CSA, the draft decision
+     does not appropriately address the situation of infringement of the GDPR, and/or does not envision
+     appropriate action towards the controller or processor in the light of the demonstration of the risks
+     that such draft decision, if left unchanged, would entail for the rights and freedoms of data subjects
+     and for the free flow of personal data in the Union, where applicable. An objection submitted by a
+     CSA should indicate each part of the draft decision that is considered deficient, erroneous or lacking
+     some necessary elements, either by referring to specific articles/paragraphs or by other clear
+     indications, and showing why such issues are to be deemed “relevant” as further explained below. The
+     proposals for amendments put forward by the objection should aim to remedy these potential errors.
 
-8.   Com efeito, o grau de pormenor da objeção e a profundidade da análise nela incluída podem ser
-     afetados pelo grau de pormenor do conteúdo do projeto de decisão e pelo grau de envolvimento da
-     ACI no processo conducente ao projeto de decisão emitido pela ACP. Assim sendo, o critério da
-     «objeção pertinente e fundamentada» assenta no pressuposto de que a obrigação da ACP de proceder
-     à troca de todas as informações pertinentes4 é cumprida, permitindo que a(s) ACI adquiram um
-     conhecimento aprofundado do caso e, portanto, apresentem uma objeção sólida e bem
-     fundamentada. Para o efeito, deve também ser tida em consideração a necessidade de qualquer
-     medida juridicamente vinculativa das AC «indicar os motivos» que a justificam (ver o considerando 129
-     do RGPD). Por conseguinte, o grau de envolvimento da ACI por parte da ACP no processo conducente
-     ao projeto de decisão, caso não permita obter um conhecimento suficiente de todos os aspetos do
-     caso, pode ser considerado um elemento útil para determinar o grau de pormenor da objeção
-     pertinente e fundamentada de uma forma mais flexível.
+8.   Indeed, the degree of detail of the objection and the depth of the analysis included therein may be
+     affected by the degree of detail in the content of the draft decision and by the degree of involvement
+     of the CSA in the process leading to the draft decision issued by the LSA. Therefore, the standard of
+     “relevant and reasoned objection” is grounded on the assumption that the LSA’s obligation to
+     exchange all relevant information4 is complied with, allowing the CSA(s) to have an in-depth
+     understanding of the case and therefore to submit a solid and well-reasoned objection. To this end,
+     the need for each legally binding measure of SAs to “give the reasons for the measure” (see Recital
+     129 GDPR) should also be kept in mind. The degree of involvement of the CSA by the LSA in the process
+     leading to the draft decision, if it leads to an insufficient knowledge of all the aspects of the case, can
+     therefore be considered as an element to determine the degree of detail of the relevant and reasoned
+     objection in a more flexible way.
+
+9.   The EDPB would first like to emphasise that the focus of all SAs involved (LSA and CSAs) should be on
+     eliminating any deficiencies in the consensus-finding process in such a way that a consensual draft
+     decision is the result. Whilst acknowledging that raising an objection is not the most preferable tool to
+     remedy an insufficient degree of cooperation in the preceding stages of the one-stop-shop proceeding,
+     the EDPB nevertheless acknowledges that it is an option open to CSAs. This would be a last resort to
+     also remedy (alleged) deficiencies in terms of CSAs’ involvement by the LSA in the process that should
+     have led to a consensus-based draft decision, including as regards the legal reasoning and the scope
+     of the investigations carried out by the LSA in respect of the case at hand.
 
 
      4
-            Conforme o artigo 60.º, n.º 1, do RGPD.
+         As per Article 60(1) GDPR.
 
-                                                                                                         5
-     Adotadas
+                                                                                                              5
+     Adopted
 
-9.    O CEPD gostaria, antes de mais, de salientar que o objetivo de todas as AC envolvidas (ACP e ACI) deve
-      ser a eliminação de quaisquer deficiências no processo de procura de consenso, para que o resultado
-      seja um projeto de decisão consensual. Embora reconheça que suscitar uma objeção não é o melhor
-      instrumento para sanar a insuficiência de cooperação nas fases anteriores do mecanismo de balcão
-      único, o CEPD admite, ainda assim, que se trata de uma opção ao dispor das ACI. Seria um último
-      recurso destinado a corrigir também (alegadas) deficiências no que respeita ao envolvimento das ACI
-      por parte da ACP no processo que deveria ter conduzido a um projeto de decisão assente num
-      consenso, inclusivamente no que diz respeito à fundamentação jurídica e ao âmbito das investigações
-      realizadas pela ACP em relação ao caso em apreço.
+10.   The GDPR requires the CSA to justify its position on the LSA’s draft decision by submitting an objection
+      that is “relevant” and “reasoned”. It is crucial to bear in mind that the two requirements, “reasoned”
+      and “relevant”, are to be deemed cumulative, i.e. both of them have to be met.5 Consequently, Article
+      60(4) requires the LSA to submit the matter to the EDPB consistency mechanism when it is of the
+      opinion that the objection does not meet at least one of the two elements.6
 
-10.   O RGPD exige que a ACI justifique a sua posição sobre o projeto de decisão da ACP apresentando uma
-      objeção que seja «pertinente» e «fundamentada». É fundamental ter em presente que os dois
-      requisitos — «fundamentada» e «pertinente» — devem ser considerados cumulativos, ou seja, devem
-      ambos ser cumpridos5. Consequentemente, o artigo 60.º, n.º 4, exige que a ACP remeta o assunto para
-      o procedimento de controlo da coerência do CEPD sempre que entenda que a objeção não satisfaz
-      pelo menos um dos dois requisitos6.
-
-11.   O CEPD aconselha vivamente as AC a suscitarem as suas objeções e a trocarem informações através
-      do sistema de informação e comunicação criado para a troca de informações entre as AC7. Devem ser
-      claramente assinaladas como tal, recorrendo às funções e ferramentas específicas disponibilizadas
-      para o efeito.
+11.   The EDPB strongly advises the SAs to raise their objections and exchange information through the
+      information and communication system set up for the exchange of information among SAs.7 They
+      should be clearly marked as such by using the specific dedicated functions and tools.
 
 
-      2 CONDIÇÕES PARA UMA OBJEÇÃO «PERTINENTE E
-        FUNDAMENTADA»
-      2.1    «Pertinente»
-12.   Para que a objeção seja considerada «pertinente», tem de existir uma ligação direta entre a mesma e
-      a substância do projeto de decisão em questão8. Mais especificamente, a objeção deve incidir sobre
-      a existência de uma violação do RGPD ou a conformidade da ação prevista relativamente ao
-      responsável pelo tratamento ou ao subcontratante com o RGPD.
+      2 CONDITIONS FOR A “RELEVANT AND REASONED” OBJECTION
+      2.1     “Relevant”
+12.   In order for the objection to be considered as “relevant”, there must be a direct connection between
+      the objection and the substance of the draft decision at issue.8 More specifically, the objection needs
+      to concern either whether there is an infringement of the GDPR or whether the envisaged action in
+      relation to the controller or processor complies with the GDPR.
 
-13.   Por conseguinte, a objeção suscitada cumpre o critério de ser «pertinente» quando, sendo seguida,
-      implica uma alteração que conduz a uma conclusão diferente quanto à existência de uma violação do
-      RGPD ou quanto à conformidade da ação prevista relativamente ao responsável pelo tratamento ou
-      ao subcontratante, tal como proposta pela ACP, com o RGPD. Deve existir sempre uma ligação entre
-      o conteúdo da objeção e a possível conclusão diferente, conforme explicado abaixo. Embora seja
-      possível que a objeção assinale uma discordância quanto a ambos os elementos, a existência de apenas
-      um deles seria suficiente para cumprir as condições para uma objeção pertinente.
+13.   Consequently, the objection raised fulfils the criterion of being “relevant” when, if followed, it would
+      entail a change leading to a different conclusion as to whether there is an infringement of the GDPR
+      or as to whether the envisaged action in relation to the controller or processor, as proposed by the
+      LSA, complies with the GDPR. There must always be a link between the content of the objection and
+      such potential different conclusion as further explained below. While it is possible for the objection to
+      signal a disagreement on both elements, the existence of only one of them would be sufficient to meet
+      the conditions for a relevant objection.
 
-14.   Uma objeção só deve ser considerada pertinente se estiver relacionada com o conteúdo jurídico e
-      factual específico do projeto de decisão da ACP. Suscitar preocupações ou formular comentários
+14.   An objection should only be considered relevant if it relates to specific legal and factual content of the
+      LSA’s draft decision. Raising abstract or broad concerns or remarks cannot be considered relevant in
+      this context. Likewise, minor disagreements on the wording or regarding the legal reasoning that do
+      not relate to the possible existence of the infringement nor to the compliance of envisaged action in
+      relation to the controller or processor with the GDPR should not be regarded as relevant.
 
-      5      Ver redação do artigo 60.º, n.º 4 do RGPD.
-      6      Nos termos do artigo 60.º, n.º 4, do RGPD, a autoridade de controlo principal deve também, caso não dê
-             seguimento à objeção pertinente ou fundamentada, remeter o assunto para o procedimento de controlo da
-             coerência referido no artigo 63.º.
-      7      Ver o Regulamento Interno do CEPD.
-      8      O Oxford English Dictionary define relevant [pertinente] como algo que diz respeito ou é relativo ao assunto em
-             questão; estreitamente relacionado com o assunto em questão; relevante para um assunto específico («relevant,
-             adj.» [pertinente, adj]. OED Online, Oxford University Press, junho de 2020, www.oed.com/view/Entry/161893.
-             Consultado em 24 de julho de 2020).
+15.   The reasoning underlying the conclusions reached by the LSA in the draft decision can be subject to an
+      objection, but only insofar as such reasoning is linked with the conclusion as to whether there is an
+      infringement, whether the infringement of the GDPR has been correctly identified, or is linked with
+      the compliance of the envisaged action with the GDPR, and to the extent that the whole Article 4(24)
+      threshold as described in this document is met.
 
-                                                                                                                          6
-      Adotadas
-
-      abstratos ou genéricos não pode ser considerado pertinente neste contexto. De igual modo,
-      discordâncias menores sobre a redação ou sobre a fundamentação jurídica que não digam respeito à
-      possível existência da violação nem à conformidade da ação prevista relativamente ao responsável
-      pelo tratamento ou ao subcontratante com o RGPD não devem ser consideradas pertinentes.
-
-15.   A fundamentação subjacente às conclusões a que a ACP chegou no projeto de decisão pode ser alvo
-      de objeção, mas apenas na medida em que essa fundamentação esteja relacionada com as conclusões
-      sobre a existência de violação, com a correta identificação da violação do RGPD, ou com a
-      conformidade da ação prevista com o RGPD e desde que sejam integralmente cumpridos os requisitos
-      mínimos constantes do artigo 4.º, ponto 24), conforme descrito no presente documento.
-
-      2.2 «Fundamentada»
-16.   Para que a objeção seja «fundamentada»9, é necessário que inclua esclarecimentos e argumentos
-      sobre o motivo pelo qual é proposta uma alteração da decisão (ou seja, os erros jurídicos/factuais do
-      projeto de decisão da ACP). Tem igualmente de demonstrar que a alteração conduzirá a uma
-      conclusão diferente quanto à existência de uma violação do RGPD ou à conformidade da ação prevista
-      relativamente ao responsável pelo tratamento ou ao subcontratante com o RGPD.
-
-17.   A ACI deve apresentar uma fundamentação sólida e válida para a sua objeção, em particular,
-      desenvolvendo argumentos jurídicos (com base na legislação da UE e/ou nacional pertinente,
-      incluindo, por exemplo, disposições legais, jurisprudência, diretrizes) ou elementos factuais,
-      consoante o caso. A ACI deve expor o ou os factos que alegadamente conduzem a uma conclusão
-      diferente no que diz respeito à violação do RGPD pelo responsável pelo tratamento/subcontratante,
-      ou o aspeto do projeto de decisão que, na sua opinião, é deficiente/erróneo.
-
-18.   Além disso, uma objeção é «fundamentada» na medida em que consiga demonstrar «claramente» a
-      gravidade dos riscos que advêm do projeto de decisão, conforme descrito na secção 3.2 abaixo. Para
-      o efeito, a objeção deve apresentar argumentos ou justificações quanto às consequências da emissão
-      da decisão sem as alterações propostas, bem como quanto à gravidade dos riscos que as referidas
-      consequências acarretariam para os direitos e liberdades fundamentais dos titulares dos dados e,
-      eventualmente, para a livre circulação de dados pessoais no território da União.
-
-19.   Para que uma objeção seja devidamente fundamentada, deve ser coerente, clara, precisa e
-      circunstanciada na explicação dos motivos da objeção. Deve expor, de forma clara e precisa, os
-      elementos essenciais nos quais a ACI baseou a sua avaliação, bem como a ligação entre as
-      consequências previstas do projeto de decisão (se emitida sem alterações) e a gravidade dos riscos
-      previstos para os direitos e liberdades fundamentais dos titulares dos dados e, eventualmente, para
-      a livre circulação de dados pessoais no território da União. Além disso, a ACI deve indicar claramente
-      as partes do projeto de decisão com as quais discorda. Nos casos em que a objeção tem por base a
-      opinião de que a ACP não investigou cabalmente determinado facto importante do caso, ou uma
-      violação adicional do RGPD, bastará à ACI apresentar tais argumentos de forma conclusiva e
-      fundamentada.
-
-20.   As ACI devem disponibilizar todas as informações (factos, documentos, argumentos jurídicos) em que
-      se baseiam a fim de exporem eficazmente a sua argumentação. Este procedimento é essencial para
-      delimitar o âmbito do (potencial) litígio. Tal significa que, em princípio, a ACI deve tentar apresentar
-      uma objeção pertinente e fundamentada num único documento, no qual exponha todos os
-
-      9       O Oxford English Dictionary define «reasoned» [fundamentada] como algo caracterizado por fundamentação ou
-              assente em fundamentos; criteriosamente estudado («reasoned, adj.2.» [fundamentada, adj.2]. OED Online,
-              Oxford University Press, junho de 2020, www.oed.com/view/Entry/159078. Consultado em 24 de julho de 2020).
-
-                                                                                                                      7
-      Adotadas
-
-      argumentos de facto e direito acima descritos. No entanto, dentro do prazo estabelecido no
-      artigo 60.º, n.º 4, do RGPD, a ACI pode fornecer informações adicionais em apoio da objeção
-      suscitada e com ela relacionadas, tendo em vista a necessidade de cumprir os requisitos «pertinente
-      e fundamentada».
-
-      Exemplo 1: A ACI apresenta uma objeção formal. Porém, alguns dias depois, fornece à ACP, por meio
-      do sistema de informação e comunicação, informações adicionais sobre os factos do caso. Essas
-      informações só podem ser tidas em consideração pela ACP na medida em que sejam fornecidas dentro
-      do prazo estabelecido no artigo 60.º, n.º 4, do RGPD.
-
-21.   Se possível, como boa prática, a objeção deve incluir uma nova proposta de redação a considerar pela
-      ACP, que, na opinião da ACI, permita sanar as alegadas deficiências do projeto de decisão. Essa nova
-      proposta pode servir para esclarecer melhor a objeção no contexto relevante.
+      2.2 “Reasoned”
+16.   In order for the objection to be “reasoned”,9 it needs to include clarifications and arguments as to why
+      an amendment of the decision is proposed (i.e. the legal / factual mistakes of the LSA’s draft decision).
 
 
-      3 SUBSTÂNCIA DA OBJEÇÃO
-22.   A objeção poderá prender-se com a existência de uma violação do RGPD ou com a conformidade da
-      ação prevista relativamente ao responsável pelo tratamento ou ao subcontratante com o RGPD. O tipo
-      de conteúdo dependerá do projeto de decisão da ACP em questão e das circunstâncias do caso.
+      5 See the wording of Article 60(4) GDPR.
+      6 Pursuant to Article 60(4) GDPR the lead supervisory authority shall also submit the matter to the consistency mechanism
 
-23.   Além disso, a objeção da ACI terá de demonstrar claramente a gravidade dos riscos que advêm do
-      projeto de decisão para os direitos e liberdades fundamentais dos titulares dos dados e,
-      eventualmente, para a livre circulação de dados pessoais no território da União. A existência de uma
-      violação e/ou não conformidade da ação prevista com o RGPD deve ser avaliada à luz da gravidade dos
-      riscos que o projeto de decisão, caso não seja alterado, representa para os direitos e liberdades dos
-      titulares dos dados e, eventualmente, para a livre circulação de dados pessoais.
+      referred to in Article 63 if it does not follow the relevant and reasoned objection.
+      7 See the EDPB Rules of Procedure.
+      8 The Oxford English Dictionary defines “relevant” as “bearing on or connected with the matter in hand; closely relating to the
 
-      3.1 Existência de uma violação do RGPD e/ou conformidade da ação prevista com o
-          RGPD
-      3.1.1 Existência de uma violação do RGPD
-24.   No primeiro caso, na base da objeção estará um desacordo entre a ACI e a ACP. à luz dos factos em
-      causa, quanto a eventuais violações do RGPD decorrentes das atividades e das operações de
-      tratamento realizadas pelo responsável pelo tratamento ou pelo subcontratante e, especificamente,
-      quanto à ou às violações em causa.
+      subject or point at issue; pertinent to a specified thing” ("relevant, adj." OED Online, Oxford University Press, June 2020,
+      www.oed.com/view/Entry/161893. Accessed 24 July 2020).
+      9 The Oxford English Dictionary defines “reasoned” as “characterised by or based on reasoning; carefully studied” ("reasoned,
 
-25.   Neste contexto, o termo «violação» deve ser interpretado como «uma violação de determinada
-      disposição do RGPD». Por conseguinte, as objeções da ACI ao projeto de decisão devem ser justificadas
-      e fundamentas por referência a elementos de prova e factos trocados entre a ACP e as ACI (as
-      «informações pertinentes» referidas no artigo 60.º do RGPD). Esses requisitos devem ser aplicados a
-      cada violação específica e a cada disposição específica em questão.
+      adj.2." OED Online, Oxford University Press, June 2020, www.oed.com/view/Entry/159078. Accessed 24 July 2020).
 
-      Exemplo 2: O projeto de decisão refere que o responsável pelo tratamento violou os artigos 6.º, 7.º e
-      14.º do RGPD. A ACI discorda quanto à existência de uma violação dos artigos 7.º e 14.º e considera
-      que existe uma violação adicional do artigo 13.º do RGPD.
+                                                                                                                                   6
+      Adopted
 
-      Exemplo 3: A ACI alega que a ACP não teve em consideração o facto de a isenção para atividades
-      domésticas não ser aplicável a algumas das operações de tratamento conduzidas por um responsável
-      pelo tratamento e que pressuponham a utilização de CCTV, pelo que não existe violação do RGPD. Para
-      justificar a sua objeção, a ACI remete para o artigo 2.º, n.º 2, alínea c), do RGPD, as Diretrizes 3/2019
+      It also needs to demonstrate how the change would lead to a different conclusion as to whether there
+      is an infringement of the GDPR or whether the envisaged action in relation to the controller or
+      processor complies with the GDPR.
 
+17.   The CSA should provide sound and substantiated reasoning for its objection, in particular, by
+      elaborating on legal arguments (relying on EU law and/or relevant national law, including e.g. legal
+      provisions, case law, guidelines) or factual elements, where applicable. The CSA should present the
+      fact(s) allegedly leading to a different conclusion regarding the infringement of the GDPR by the
+      controller/processor, or the aspect of the draft decision that, in their view, is deficient/erroneous.
+
+18.   Moreover, an objection is “reasoned” insofar as it is able to “clearly demonstrate” the significance of
+      the risks posed by the draft decision as described in section 3.2 below. To this end, the objection must
+      put forward arguments or justifications concerning the consequences of issuing the decision without
+      the changes proposed in the objection, and how such consequences would pose significant risks for
+      data subjects’ fundamental rights and freedoms, and, where applicable, for the free flow of personal
+      data within the Union.
+
+19.   In order for an objection to be adequately reasoned, it should be coherent, clear, precise and detailed
+      in explaining the reasons for objection. It should set forth, clearly and precisely, the essential
+      elements on which the CSA based its assessment, and the link between the envisaged consequences
+      of the draft decision (if it was to be issued as it is) and the significance of the anticipated risks for data
+      subjects’ fundamental rights and freedoms and, where applicable, for the free flow of personal data
+      within the Union. Moreover, the CSA should clearly indicate which parts of the draft decision they
+      disagree with. In cases where the objection is based on the opinion that the LSA failed to fully
+      investigate an important fact of the case, or an additional violation of the GDPR, it would be sufficient
+      for the CSA to present such arguments in a conclusive and substantiated manner.
+
+20.   The CSA(s) must provide all the information (facts, documents, legal arguments) on which they are
+      relying so as to effectively present their argument. This is fundamental in order to delimit the scope of
+      the (potential) dispute. This means that, in principle, the CSA should aim to provide a relevant and
+      reasoned objection in one single submission supported by all the factual and legal arguments as
+      described above. However, within the deadline set forth by Article 60(4) GDPR, the CSA can provide
+      additional information related to and supporting the objection raised, bearing in mind the need to
+      comply with the “relevant and reasoned” requirements.
+
+      Example 1: The CSA submits a formal objection, but a few days later provides the LSA with additional
+      information through the information and communication system regarding the facts of the case. Such
+      information may only be taken into consideration by the LSA insofar as it is provided within the
+      deadline set forth by Article 60(4) GDPR.
+
+21.   If possible, as a good practice, the objection should include a new wording proposal for the LSA to
+      consider, which in the opinion of the CSA allows remedying the alleged shortcomings in the draft
+      decision. This may serve to clarify the objection better in the relevant context.
+
+
+      3 SUBSTANCE OF THE OBJECTION
+22.   The subject matter of the objection may refer to whether there is an infringement of the GDPR and/or
+      to whether the envisaged action in relation of the controller or the processor complies with the GDPR.
+      The type of content will depend on the LSA’s draft decision at stake and on the circumstances of the
+      case.
+
+                                                                                                                  7
+      Adopted
+
+23.   Additionally, the CSA’s objection will have to clearly demonstrate the significance of the risks posed by
+      the draft decision as regards the fundamental rights and freedoms of data subjects and, where
+      applicable, the free flow of personal data within the Union. The existence of an infringement and/or
+      the non-compliance of the envisaged action with the GDPR should be assessed in light of the
+      significance of the risks that the draft decision, if left unchanged, poses to the rights and freedoms of
+      data subjects and, if relevant, the free flow of personal data.
+
+      3.1 Existence of an infringement of the GDPR and/or compliance of the envisaged
+          action with the GDPR
+      3.1.1 Existence of an infringement of the GDPR
+24.   In the first case, the substance of the objection will amount to a disagreement between the CSA and
+      the LSA as to whether, in the facts at issue, the activities and processing operations carried out by the
+      controller or processor led to infringement(s) of the GDPR or not, and to which infringement(s)
+      specifically.
+
+25.   In this context, the term “infringement” should be interpreted as “an infringement of a given provision
+      of the GDPR”. Therefore, the CSA’s objections to the draft decision must be justified and motivated
+      through reference to evidence and facts as exchanged between the LSA and the CSAs (the ‘relevant
+      information’ referred to in Article 60 GDPR). These requirements should apply to each specific
+      infringement and to each specific provision in question.
+
+      Example 2: The draft decision states that the controller infringed Articles 6, 7, and 14 GDPR. The CSA
+      disagrees on whether there is an infringement of Article 7 and 14 and considers that there is an
+      additional infringement of Article 13 GDPR.
+
+      Example 3: The CSA argues that LSA did not take into consideration the fact that the household
+      exemption is not applicable to some of the processing operations conducted by a controller and
+      involving the use of CCTV, hence that there is no infringement of the GDPR. In order to justify its
+      objection, the CSA refers to Article 2(2)(c) GDPR, EDPB Guidelines 3/2019 on processing of personal
+      data through video devices, and CJEU case C-212/13 Ryneš.
+
+26.   An objection as to whether there is an infringement of the GDPR may also include a disagreement as
+      to the conclusions to be drawn from the findings of the investigation. For instance, the objection may
+      state that the findings amount to the infringement of a provision of the GDPR other than (and/or in
+      addition to) those already analysed by the LSA’s draft decision. However, this is less likely to happen
+      when the obligation for the LSA to cooperate with the CSAs and exchange all relevant information in
+      accordance with Article 60(1) GDPR has been duly complied with in the time preceding the issuance of
+      the draft decision.
+
+27.   In some circumstances, an objection could go as far as identifying gaps in the draft decision justifying
+      the need for further investigation by the LSA. For instance, if the investigation carried out by the LSA
+      unjustifiably fails to cover some of the issues raised by the complainant or resulting from an
+      infringement reported by a CSA, a relevant and reasoned objection may be raised based on the failure
+      of the LSA to properly handle the complaint and to safeguard the rights of the data subject. In this
+      regard, a distinction must be made between, on one hand, own-volition inquiries and, on the other
+      hand, investigations triggered by complaints or by reports on potential infringements shared by the
+      CSAs. In procedures based on a complaint or on an infringement reported by a CSA, the scope of the
+      procedure (i.e. those aspects of data processing which are potentially the subject of a violation) should
+      be defined by the content of the complaint or of the report shared by the CSA: in other words, it should
+      be defined by the aspects addressed by the complaint or report. In own-volition inquiries, the LSA and
 
                                                                                                              8
-      Adotadas
+      Adopted
 
-      sobre tratamento de dados pessoais através de dispositivos de vídeo e o acórdão proferido pelo TJUE
-      no processo C-212/13, Ryneš.
+      CSAs should seek consensus regarding the scope of the procedure (i.e. the aspects of data processing
+      under scrutiny) prior to initiating the procedure formally. The same applies in cases where a SA dealing
+      with a complaint or report by another SA takes the view that an own-volition inquiry is also necessary
+      to deal with systematic compliance issues going beyond the specific complaint or report.
 
-26.   Uma objeção quanto à existência de uma violação do RGPD poderá incluir igualmente uma
-      discordância quanto às conclusões a extrair dos resultados da investigação. Por exemplo, pode
-      alegar-se na objeção que esses resultados apontam para a violação de uma disposição do RGPD
-      diferente das (e/ou adicional às) já analisadas no projeto de decisão da ACP. No entanto, é menos
-      provável que isso aconteça quando a obrigação de cooperação da ACP com as ACI e de troca de todas
-      as informações pertinentes, nos termos do artigo 60.º, n.º 1, do RGPD tiver sido devidamente
-      cumprida antes da emissão do projeto de decisão.
+28.   As mentioned above, raising an objection should only be considered as a last resort to remedy an
+      allegedly insufficient involvement of the CSA(s) in the preceding stages of the process. The system
+      designed by the legislator suggests that consensus on the scope of the investigation should be reached
+      at an earlier stage by the competent SAs.
 
-27.   Nalgumas circunstâncias, uma objeção poderá ir ao ponto de identificar lacunas no projeto de decisão
-      que justifiquem a necessidade de uma investigação mais aprofundada por parte da ACP. Por exemplo,
-      se a investigação realizada pela ACP não abranger injustificadamente algumas das questões levantadas
-      pelo autor da reclamação ou resultantes de uma violação comunicada por uma ACI, pode ser suscitada
-      uma objeção pertinente e fundamentada com base no facto de a ACP não ter tratado de forma
-      adequada a reclamação e salvaguardado os direitos do titular dos dados. A este respeito, importa
-      distinguir entre, por um lado, os inquéritos de iniciativa e, por outro, os inquéritos desencadeados por
-      reclamações ou por comunicações de potenciais violações efetuadas pelas ACI. Em procedimentos
-      com base numa reclamação ou numa violação comunicada por uma ACI, o âmbito do procedimento
-      (ou seja, os aspetos do tratamento de dados potencialmente objeto de uma violação) deve ser definido
-      pelo conteúdo da reclamação ou da comunicação efetuada pela ACI: por outras palavras, deve ser
-      definido pelos aspetos abordados na reclamação ou comunicação. Em inquéritos de iniciativa, a ACP e
-      as ACI devem procurar um consenso sobre o âmbito do procedimento (ou seja, os aspetos do
-      tratamento dos dados sob escrutínio) antes de iniciarem formalmente o procedimento. O mesmo se
-      aplica nos casos em que uma AC encarregada de uma reclamação ou comunicação de outra AC
-      considere ser necessário também um inquérito de iniciativa para abordar questões de conformidade
-      sistemáticas que ultrapassem a reclamação ou a comunicação em causa.
+29.   The insufficient factual information or description of the case at stake, or the absence or insufficiency
+      of assessment or reasoning (with the consequence that the conclusion of the LSA in the draft decision
+      is not adequately supported by the assessment carried out and the evidence presented, as required in
+      Article 58 GDPR), can also be a matter of objection linked to the existence of an infringement. This is
+      upon the conditions that the whole threshold set forth by Article 4(24) GDPR is met and it is possible
+      that there can be a link between such allegedly insufficient analysis and the finding of an infringement
+      / the envisaged action.
 
-28.   Conforme supramencionado, as objeções devem ser consideradas apenas como último recurso para
-      corrigir um envolvimento alegadamente insuficiente das ACI nas fases precedentes do processo. O
-      sistema concebido pelo legislador indica que o consenso sobre o âmbito da investigação deve ser
-      alcançado numa fase anterior pelas AC competentes.
+30.   It is possible for a relevant and reasoned objection to raise issues concerning procedural aspects to the
+      extent that they amount to situations in which the LSA allegedly disregarded procedural requirements
+      imposed by the GDPR and this affects the conclusion reached in the draft decision.
 
-29.   As lacunas na informação factual ou descrição do caso em questão, ou a falta ou insuficiência de
-      avaliação ou fundamentação (com a consequência de que a conclusão da ACP no projeto de decisão
-      não é devidamente apoiada pela avaliação efetuada e pelos elementos de prova apresentados, tal
-      como exigido no artigo 58.º do RGPD) também podem ser alvo de uma objeção relacionada com a
-      existência de uma violação. Essa possibilidade está sujeita à condição de que o requisito mínimo
-      estabelecido no artigo 4.º, ponto 24), do RGPD seja cumprido e de que seja possível que exista uma
-      ligação entre essa análise alegadamente insuficiente e a constatação de uma violação/ação prevista.
+      Example 4: The SA of Member State YY is competent to act as LSA for the cross-border processing
+      carried out by the controller CC whose main establishment is in YY. The competent SA of Member State
+      XX informs the LSA (YY) of a complaint lodged with the XX SA substantially affecting data subjects only
+      in XX, pursuant to Article 56(2) and (3) GDPR. The LSA decides to handle the case.
 
-30.   É possível que uma objeção pertinente e fundamentada suscite questões relativas a aspetos
-      processuais na medida em que digam respeito a situações em que a ACP tenha alegadamente violado
-      os requisitos processuais impostos pelo RGPD e esse facto afete a conclusão a que se chegou no
-      projeto de decisão.
+      The XX SA decides to submit to the LSA a draft for a decision pursuant to Article 56(4) GDPR. The LSA
+      prepares a draft decision pursuant to Article 60(3) GDPR and submits it to the CSA. The XX SA is of the
+      opinion that the LSA failed to comply with its obligation to take utmost account of the draft submitted
+      by XX SA when preparing its draft decision, pursuant to Article 56(4) GDPR as it does not provide
+      reasoning why it is deviating from the draft for a decision provided by the XX SA.
 
-      Exemplo 4: A AC do Estado-Membro YY é competente para agir como ACP no que respeita ao
-      tratamento transfronteiriço efetuado pelo responsável pelo tratamento CC, cujo estabelecimento
-      principal se encontra em YY. A AC competente do Estado-Membro XX informa a ACP (YY) de uma
+      Subsequently, the XX SA’s raises a relevant and reasoned objection in which it puts forward arguments
+      specifying the different conclusion that the draft decision would have reached if the LSA had followed
+      its draft for a decision, in terms of establishing an infringement or determining the actions envisaged
+      vis-à-vis the controller, and with a view to avoiding the demonstrated risks posed to data subject’s
+      fundamental rights and freedoms, and, where applicable to the free flow of personal data within the
+      Union.
 
+31.   An objection pursuant to Article 60(4) and Article 65(1)(a) GDPR is without prejudice to the provision
+      of Article 65(1)(b) GDPR. Therefore, a disagreement on the competence of the SA acting as LSA to issue
+      a decision in a specific case should not be raised through an objection pursuant to Article 60(4) GDPR,
+      and falls outside the scope of Article 4(24) GDPR. Unlike the objection pursuant to Article 60(4) GDPR,
+      the EDPB considers the procedure pursuant to Article 65(1)(b) GDPR to be applicable at any stage.
 
-                                                                                                            9
-      Adotadas
+      3.1.2 Compliance with the GDPR of the action envisaged in the draft decision in relation to
+            the controller or processor
+32.   In this second scenario, the substance of the relevant and reasoned objection amounts to a
+      disagreement regarding the particular corrective measure proposed by the LSA or other action
+      envisaged in the draft decision.
 
-      reclamação apresentada à AC XX que afeta substancialmente os titulares de dados apenas em XX, nos
-      termos do artigo 56.º, n.os 2 e 3, do RGPD. A ACP decide tratar do caso.
+                                                                                                             9
+      Adopted
 
-      A AC XX decide apresentar à ACP um projeto de decisão nos termos do artigo 56.º, n.º 4, do RGPD. A
-      ACP elabora um projeto de decisão nos termos do artigo 60.º, n.º 3, do RGPD e submete-o à ACI. A AC
-      XX considera que a ACP não cumpriu a sua obrigação de ter na melhor conta o projeto apresentado
-      pela AC XX ao elaborar o seu projeto de decisão, nos termos do artigo 56.º, n.º 4, do RGPD, uma vez
-      que não indica os motivos pelos quais se afasta do projeto de decisão da AC XX.
+33.   More specifically, the relevant and reasoned objection should explain why the action foreseen in the
+      draft decision is not in line with the GDPR. To this end, the CSA must clearly set out factual elements
+      and/or legal arguments underlying the different assessment of the situation, by indicating which action
+      would be appropriate for the LSA to undertake and include in the final decision.
 
-      Posteriormente, a AC XX suscita uma objeção pertinente e fundamentada, na qual apresenta
-      argumentos especificando a conclusão diferente a que o projeto de decisão teria chegado se a ACP
-      tivesse seguido o seu projeto de decisão no que respeita à determinação da violação ou das ações
-      previstas em relação ao responsável pelo tratamento e com vista a evitar os riscos comprovados para
-      os direitos e liberdades fundamentais dos titulares dos dados e, eventualmente, para a livre circulação
-      de dados pessoais no território da União.
+      Example 5: The controller disclosed sensitive medical data of the complainant to a third party without
+      a legal basis. In the draft decision, the LSA proposed to issue a reprimand, while the CSA provides
+      factual elements showing that the controller is facing broad and systemic issues in its compliance with
+      the GDPR (e.g. it regularly discloses its clients’ data to third parties without a legal basis). Therefore it
+      proposes that an order to bring the processing operations into compliance, a temporary ban on the
+      data processing, or a fine should be imposed.
 
-31.   Uma objeção nos termos do artigo 60.º, n.º 4, e do artigo 65.º, n.º 1, alínea a), do RGPD não prejudica
-      o disposto no artigo 65.º, n.º 1, alínea b), do RGPD. Por conseguinte, um desacordo sobre a
-      competência da AC que atua como ACP para emitir uma decisão em determinado caso específico não
-      deve ser manifestado por meio de uma objeção suscitada nos termos do artigo 60.º, n.º 4, do RGPD e
-      não se enquadra no âmbito do artigo 4.º, ponto 24), do RGPD. Ao contrário das objeções suscitadas ao
-      abrigo do artigo 60.º, n.º 4, do RGPD, o CEPD considera que o procedimento previsto no artigo 65.º,
-      n.º 1, alínea b), do RGPD é aplicável em qualquer fase.
+      Example 6: Due to a mistake of one of its employees, the controller published the name, last name
+      and telephone numbers of all its 100.000 clients on its website. These personal data were publicly
+      accessible for two days. As the controller reacted as soon as possible, the mistake was reported, and
+      all the clients were individually informed, the LSA planned to simply issue a reprimand. One CSA
+      however considers that, due to the large scale of the data breach and its possible impact/risk on the
+      private life of the clients, the imposition of a fine would be required.
 
-      3.1.2 Conformidade com o RGPD da ação prevista no projeto de decisão em relação ao
-            responsável pelo tratamento ou ao subcontratante
-32.   Neste segundo cenário, a objeção pertinente e fundamentada tem por objeto um desacordo quanto à
-      medida corretiva específica proposta pela ACP ou outra ação prevista no projeto de decisão.
+34.   As enshrined in the last sentence of Article 65 (1)(a) GDPR, the binding decision of the EDPB shall
+      concern all the matters which are the subject of the objection, in particular in case of an infringement.
+      Recital 150 sentence 5 GDPR states that the consistency mechanism may also be used to promote a
+      consistent application of administrative fines. Therefore, it is possible that the objection challenges
+      the elements relied upon to calculate the amount of the fine. If the assessment of the EDPB within this
+      context identifies shortcomings in the reasoning leading to the imposition of the fine at stake, the LSA
+      will be instructed to re-assess the fine and remedy the identified shortcomings. The EDPB’s assessment
+      on this matter should be based on common EDPB standards stemming from Article 83(1) and (2) GDPR
+      and the Guidelines on the calculation of administrative fines.
 
-33.   Mais especificamente, a objeção pertinente e fundamentada deve explicar por que razão a ação
-      prevista no projeto de decisão não está em conformidade com o RGPD. Para o efeito, a ACI deve expor
-      de forma clara os elementos factuais e/ou argumentos jurídicos subjacentes às diferenças na avaliação
-      da situação, indicando qual a ação que a ACP deveria realizar e incluir na decisão final.
+      Example 7: The CSA considers that the level of the fine envisaged by the LSA in the draft decision is not
+      effective, proportionate or dissuasive, as required by Article 83(1) GDPR, taking into account the facts
+      of the case.
 
-      Exemplo 5: O responsável pelo tratamento divulgou dados médicos sensíveis do autor da reclamação
-      a terceiros sem qualquer base jurídica. No projeto de decisão, a ACP propôs emitir uma repreensão,
-      enquanto a ACI apresenta elementos factuais que mostram que o responsável pelo tratamento revela
-      problemas sérios e sistemáticos no que toca à conformidade com o RGPD (por exemplo, divulga
-      regularmente os dados dos seus clientes a terceiros sem qualquer base jurídica). Por conseguinte,
-      propõe a imposição de uma ordem para que se tomem medidas destinadas a assegurar a
-      conformidade das operações de tratamento, de uma proibição temporária do tratamento de dados ou
-      de uma coima.
+      3.2 Significance of the risks posed by the draft decision as regards the fundamental
+          rights and freedoms of data subjects and, where applicable, the free flow of
+          personal data within the Union
+      3.2.1 Meaning of “significance of the risks”
+35.   It is important to bear in mind that the goal of the work carried out by SAs is that of protecting the
+      fundamental rights and freedoms of data subjects and facilitating the free flow of personal data within
+      the Union (Articles 4(24) and Article 51 and Recital 123 GDPR).
 
-      Exemplo 6: Por engano de um dos seus funcionários, o responsável pelo tratamento divulgou no seu
-      sítio Web o nome, apelido e números de telefone dos seus 100 000 clientes. Estes dados pessoais
-      ficaram acessíveis ao público durante dois dias. Uma vez que o responsável pelo tratamento reagiu o
-      mais rápido possível, o erro foi comunicado e todos os clientes foram informados individualmente, a
-      ACP previu apenas uma repreensão. No entanto, uma das ACI entende que, devido à considerável
-      escala da violação de dados e ao seu possível impacto/risco para a vida privada dos clientes, seria
-      conveniente a imposição de uma coima.
-
-
-                                                                                                          10
-      Adotadas
-
-34.   Tal como consagrado no último período do artigo 65.º, n.º 1, alínea a), do RGPD, a decisão vinculativa
-      do CEPD diz respeito a todos os assuntos sobre que incida a objeção, sobretudo em caso de violação.
-      O considerando 150, quinto período, do RGPD refere que o procedimento de controlo da coerência
-      pode ser utilizado igualmente para a promoção de uma aplicação coerente das coimas. Portanto, é
-      possível que a objeção conteste os elementos em que se baseou o cálculo do valor da coima. Caso a
-      avaliação do CEPD neste contexto identifique deficiências na fundamentação que motivou a aplicação
-      da coima em causa, a ACP será instruída para reavaliar a coima e suprir as deficiências identificadas. A
-      avaliação do CEPD sobre esta matéria deve basear-se nas normas comuns do CEPD decorrentes do
-      artigo 83.º, n.os 1 e 2, do RGPD e nas Diretrizes relativas ao cálculo das coimas.
-
-      Exemplo 7: A ACI considera que a coima prevista pela ACP no projeto de decisão não é efetiva,
-      proporcionada e dissuasiva, tal como exigido no artigo 83.º, n.º 1, do RGPD, tendo em conta os factos
-      do caso.
-
-      3.2 Gravidade dos riscos que advêm do projeto de decisão para os direitos e
-          liberdades fundamentais dos titulares dos dados e, eventualmente, para a livre
-          circulação de dados pessoais no território da União
-      3.2.1 Significado de «gravidade dos riscos»
-35.   É importante ter presente que o objetivo do trabalho realizado pelas AC é proteger os direitos e
-      liberdades fundamentais dos titulares dos dados e facilitar a livre circulação de dados pessoais na
-      União (artigo 4.º, ponto 24), artigo 51.º e considerando 123, do RGPD).
-
-36.   A obrigação de demonstrar a gravidade dos riscos que advêm do projeto de decisão (por exemplo,
-      das medidas nele previstas, ou da ausência de medidas corretivas, etc.) para os direitos e liberdades
-      dos titulares dos dados e, eventualmente, para a livre circulação de dados pessoais no território da
-      União cabe à ACI. A possibilidade de as ACI procederem a essa demonstração dependerá também do
-      grau de pormenor do próprio projeto de decisão e do fornecimento inicial de informações pela ACP,
-      conforme supramencionado no n.º 8.
-
-37.   O «risco» é mencionado em várias secções do RGPD e as diretrizes10 anteriores do CEPD definem-no
-      como «cenário que descreve um acontecimento e as respetivas consequências, estimado em termos
-      de gravidade e probabilidade». O artigo 4.º, ponto 24), do RGPD refere a necessidade de demonstrar
-      a «gravidade» dos riscos que advêm do projeto de decisão, ou seja, de demonstrar as implicações que
-      o projeto de decisão terá para os valores protegidos. A ACI terá de o fazer apresentando argumentos
-      suficientes para demonstrar explicitamente que tais riscos são substanciais e plausíveis para os direitos
-      e liberdades fundamentais dos titulares dos dados e, eventualmente, para a livre circulação de dados
-      pessoais no território da União. A demonstração da gravidade dos riscos não pode ser inferida dos
-      argumentos jurídicos e/ou factuais apresentados pela ACI, devendo ser explicitamente identificada e
-      desenvolvida na objeção.
-
-38.   Cumpre salientar que, embora uma objeção pertinente e fundamentada deva sempre demonstrar
-      claramente a gravidade dos riscos que advêm do projeto de decisão para os direitos e liberdades
-      fundamentais dos titulares dos dados (ver secção 3.2.2 abaixo), a demonstração dos riscos para a livre
-      circulação de dados pessoais no território da União Europeia apenas é solicitada «eventualmente» (ver
-      secção abaixo3.2.3).
-
-
-      10      Ver, por ex., WP 248 rev.01 Orientações relativas à Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que
-              determinam se o tratamento é «suscetível de resultar num elevado risco» para efeitos do
-              Regulamento (UE) 2016/679.
-
-                                                                                                                          11
-      Adotadas
-
-      3.2.2 Riscos para os direitos e liberdades fundamentais dos titulares dos dados
-39.   A questão em causa diz respeito ao impacto que o projeto de decisão, no seu conjunto, teria nos
-      direitos e liberdades fundamentais dos titulares dos dados. Pode dizer respeito às conclusões da ACP
-      sobre a violação do RGPD pelo responsável pelo tratamento ou pelo subcontratante e/ou à imposição
-      de medidas corretivas.
-
-40.   A abordagem a utilizar na avaliação dos riscos que advêm do projeto de decisão não é a mesma que a
-      seguida por um responsável pelo tratamento ao realizar uma avaliação de impacto sobre a proteção
-      de dados («AIPD») para determinar o risco de uma operação de tratamento prevista. Na verdade, o
-      objeto da avaliação é totalmente diferente: a saber, os efeitos produzidos pelas conclusões da ACP
-      constantes do seu projeto de decisão quanto à existência ou não de violação. As conclusões da ACP
-      poderão incluir a adoção de certas medidas (a «ação prevista»). Como referido, é tendo em conta o
-      projeto de decisão no seu conjunto que a ACI deve demonstrar tais riscos.
-
-41.   O considerando 129 do RGPD esclarece que «[o]s poderes das autoridades de controlo deverão ser
-      exercidos em conformidade com as garantias processuais adequadas previstas no direito da União e
-      do Estado-Membro, com imparcialidade, com equidade e num prazo razoável» e que «cada medida
-      deverá ser adequada, necessária e proporcionada a fim de garantir a conformidade com o presente
-      regulamento, tendo em conta as circunstâncias de cada caso concreto, respeitar o direito de todas as
-      pessoas a serem ouvidas antes de ser tomada qualquer medida individual que as prejudique, e evitar
-      custos supérfluos e inconvenientes excessivos para as pessoas em causa».
-
-42.   Por conseguinte, a avaliação dos riscos que advêm do projeto de decisão para os direitos e liberdades
-      fundamentais dos titulares dos dados pode basear-se, nomeadamente, na adequação, necessidade e
-      proporcionalidade das medidas previstas (ou não previstas) no mesmo, tal como resultam das
-      conclusões relacionadas com a existência de uma violação e as possíveis ações corretivas estabelecidas
-      pelo responsável pelo tratamento ou o subcontratante.
-
-43.   Além disso, os riscos em causa podem referir-se ao impacto do projeto de decisão nos direitos e
-      liberdades fundamentais dos titulares dos dados cujos dados pessoais são tratados pelo responsável
-      pelo tratamento ou pelo subcontratante, mas também ao impacto nos direitos e liberdades dos
-      titulares dos dados cujos dados pessoais possam ser tratados no futuro e à possível redução de futuras
-      violações do RGPD, quando os factos do caso o justifiquem.
-
-      Exemplo 8: O projeto de decisão da ACP concluiu que o responsável pelo tratamento não violou o
-      princípio da minimização de dados consagrado no artigo 5.º, n.º 1, alínea c), do RGPD. A ACI apresenta
-      elementos factuais e argumentos jurídicos na sua objeção que mostram que a atividade de tratamento
-      de dados realizada pelo responsável pelo tratamento resultou efetivamente numa violação do
-      artigo 5.º, n.º 1, alínea c), do RGPD, defendendo que deve ser emitida uma repreensão ao responsável
-      pelo tratamento. A fim de demonstrar a gravidade dos riscos para os direitos e liberdades
-      fundamentais dos titulares dos dados, a ACI argumenta que a ausência de uma repreensão pela
-      violação de um princípio fundamental estabeleceria um precedente perigoso por não alertar para a
-      necessidade de uma correção das atividades de tratamento de dados da organização, e constituiria
-      uma ameaça para os titulares dos dados cujos dados pessoais são e serão tratados pelo responsável
-      pelo tratamento.
-
-      3.2.3 Riscos para a livre circulação de dados pessoais no território da União
-44.   Quando a objeção se refere igualmente a esses riscos específicos, a ACI precisará de esclarecer por
-      que considera que «eventualmente» existem. Além disso, uma objeção que demonstre riscos para a
-      livre circulação de dados pessoais, mas não para os direitos e liberdades dos titulares dos dados, não
-
-                                                                                                         12
-      Adotadas
-
-      será considerada como cumprindo o requisito mínimo estabelecido pelo artigo 4.º, ponto 24), do
-      RGPD.
-
-45.   A necessidade de evitar a restrição ou proibição da livre circulação de dados pessoais por motivos
-      relacionados com a proteção de pessoas singulares no que diz respeito ao tratamento de dados
-      pessoais é explicitamente relembrada no RGPD11, que visa introduzir regras harmonizadas de proteção
-      de dados em toda a UE e permitir a livre circulação de dados pessoais no território da União, garantindo
-      simultaneamente um elevado nível de proteção dos direitos e liberdades fundamentais das pessoas
-      singulares, em particular, o direito à proteção dos seus dados pessoais.
-
-46.   Os riscos para a livre circulação de dados pessoais no território da União podem ser criados por
-      quaisquer medidas, incluindo decisões de AC nacionais, que introduzam limitações injustificadas em
-      relação à conservação de dados (por exemplo, disposições que obrigam o responsável pelo tratamento
-      a conservar certas informações num determinado Estado-Membro) e/ou pela livre circulação de dados
-      pessoais entre os Estados-Membros (por exemplo, através da suspensão da circulação de dados ou
-      imposição de uma limitação temporária ou definitiva, incluindo a proibição do tratamento).
-
-47.   Da mesma forma, a livre circulação de dados pessoais no território da União poderá estar em risco
-      quando são definidas expectativas (ou impostos requisitos) sobre o modo como os responsáveis pelo
-      tratamento cumprem as suas obrigações ao abrigo do RGPD, nomeadamente quando as ações
-      esperadas dos responsáveis pelo tratamento ficam vinculadas a uma região específica na UE (por
-      exemplo, através de requisitos de qualificação específicos).
-
-48.   Além disso, a livre circulação de dados pessoais no território da União também poderá ser prejudicada
-      se forem tomadas decisões injustificadamente diferentes por AC em situações que são idênticas ou
-      semelhantes (por exemplo, em termos de setor ou de tipo de tratamento), uma vez que a falta de
-      uniformidade colocaria em perigo a equidade de condições na UE e criaria situações contraditórias
-      dentro da UE e o risco de busca do foro mais vantajoso. A esse respeito, devem ser tidas em
-      consideração as especificidades nacionais permitidas pelo RGPD relativamente a determinados
-      setores, como a saúde, o jornalismo ou os arquivos.
+36.   The obligation to demonstrate the significance of the risks posed by the draft decision (e.g. by the
+      measures provided for therein, or by the absence of corrective measures, etc.) for the rights and
+      freedoms of data subjects and, where applicable, for the free flow of data within the Union lies on
+      the CSA. The possibility for CSAs to provide such a demonstration will also rely on the degree of detail
+      of the draft decision itself and of the initial provision of information by the LSA, as highlighted above
+      in paragraph 8.
 
 
 
 
-      11      Artigo 1.º, n.º 3, do RGPD.
+                                                                                                                10
+      Adopted
 
-                                                                                                           13
-      Adotadas
+37.   “Risk” is mentioned in numerous sections of the GDPR, and previous EDPB guidelines10 define it as “a
+      scenario describing an event and its consequences, estimated in terms of severity and likelihood”.
+      Article 4(24) GDPR refers to the need to demonstrate the “significance” of the risks posed by the draft
+      decision, that is, to show the implications the draft decision would have for the protected values. The
+      CSA will need to do so by advancing sufficient arguments to explicitly show that such risks are
+      substantial and plausible, for the fundamental rights and freedoms of data subjects and, where
+      applicable, for the free flow of data in the Union. The demonstration of the significance of the risks
+      cannot be implied from the legal and/or factual arguments provided by the CSA, but it has to be
+      explicitly identified and elaborated in the objection.
+
+38.   It should be emphasised that while a relevant and reasoned objection needs to always clearly
+      demonstrate the significance of the risks posed by the draft decision as regards the fundamental rights
+      and freedoms of data subjects (see Section 3.2.2 below), the demonstration of the risks posed to the
+      free flow of personal data within the European Union is only requested “where applicable” (see below
+      Section 3.2.3).
+
+      3.2.2 Risks to fundamental rights and freedoms of data subjects
+39.   The issue at stake concerns the impact the draft decision, as a whole, would have on the data subjects’
+      fundamental rights and freedoms. This may concern the findings the LSA made as to whether the
+      controller or processor infringed the GDPR, and/or the imposition of corrective measures.
+
+40.   The approach to be used when assessing the risk posed by the draft decision is not the same as the
+      one applied by a controller in carrying out a data protection impact assessment (“DPIA”) to establish
+      the risk of an intended processing operation. Indeed, the subject matter of the assessment is totally
+      different: namely, the effects produced by the conclusions drawn by the LSA as set out in its draft
+      decision regarding whether an infringement has been committed or not. The conclusions of the LSA
+      may entail taking certain measures (the 'envisaged action'). As said, it is by having regard to the draft
+      decision as a whole that such risks are to be demonstrated by the CSA.
+
+41.   Recital 129 GDPR clarifies that “[t]he powers of supervisory authorities should be exercised in
+      accordance with appropriate procedural safeguards set out in Union and Member State law,
+      impartially, fairly and within a reasonable time” and that “each measure should be appropriate,
+      necessary and proportionate in view of ensuring compliance with this Regulation, taking into account
+      the circumstances of each individual case, respect the right of every person to be heard before any
+      individual measure which would affect him or her adversely is taken and avoid superfluous costs and
+      excessive inconveniences for the persons concerned”.
+
+42.   Therefore, the evaluation of the risks posed by the draft decision to the fundamental rights and
+      freedoms of data subjects can rely, inter alia, on the appropriateness, necessity, and proportionality
+      of the measures envisaged (or not envisaged) therein as based on the findings related to the existence
+      of an infringement and the possible remedial actions set forth by the controller or processor.
+
+43.   Additionally, the risks at stake may refer to the impact of the draft decision on the fundamental rights
+      and freedoms of the data subjects whose personal data are processed by the controller or processor,
+      but also to the impact on the rights and freedoms of data subjects whose personal data might be
+      processed in the future and to the possible reduction of future infringements of the GDPR, where the
+      facts of the case support it.
+
+
+
+      10 See e.g. WP 248 rev.01 Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is
+
+      “likely to result in a high risk” for the purposes of Regulation 2016/67.
+
+                                                                                                                           11
+      Adopted
+
+      Example 8: The LSA’s draft decision concluded that the principle of data minimisation enshrined in
+      Article 5(1)(c) GDPR was not breached by the controller. The CSA brings factual elements and legal
+      arguments in its objection showing that the processing activity carried out by the controller had
+      actually resulted in a breach of Article 5(1)(c) GDPR, and arguing that a reprimand should be issued
+      against the controller. In order to demonstrate the significance of the risks for the fundamental rights
+      and freedoms of data subjects, the CSA argues that the absence of a reprimand for the violation of a
+      fundamental principle would set a dangerous precedent, by failing to signal the need for a correction
+      of the organisation’s data processing activities, and would endanger the data subjects whose personal
+      data are and will be processed by the controller.
+
+      3.2.3 Risks to the free flow of personal data within the Union
+44.   Where the objection also refers to these particular risks, the CSA will need to clarify why it is deemed
+      to be “applicable”. Additionally, an objection demonstrating risks posed to the free flow of personal
+      data, but not to the rights and freedoms of data subjects, will not be considered as meeting the
+      threshold set by Article 4(24) GDPR.
+
+45.   The need to avoid restricting or prohibiting the free movement of personal data for reasons connected
+      with the protection of natural persons with regard to the processing of personal data is explicitly
+      recalled by the GDPR11, which aims to introduce harmonised data protection rules across the EU and
+      enable the free flow of personal data within the Union, while ensuring a high level of protection of
+      natural persons’ fundamental rights and freedoms, in particular their right to protection of their
+      personal data.
+
+46.   The risks to the free flow of personal data within the Union may be created by any measures, including
+      decisions of national SAs, which introduce unjustified limitations regarding data storage (e.g.
+      provisions which oblige a controller to store certain information in a particular Member State) and/or
+      the free flow of personal data between Member States (e.g. through suspension of data flows or
+      imposition of temporary or definitive limitation including a ban on processing).
+
+47.   Likewise, the free flow of personal data within the Union may be at risk when expectations are set (or
+      requirements imposed) on how controllers fulfil their obligations under the GDPR, namely in such a
+      way that the actions expected from controllers become tied to a specific region in the EU (e.g. through
+      specific qualifications requirements).
+
+48.   Additionally, the free flow of personal data within the Union may also be hampered if unjustifiably
+      different decisions are issued by SAs in situations that are identical or similar (e.g. in terms of sector or
+      type of processing), as a lack of uniformity would endanger the EU level playing field and create
+      contradictory situations within the EU, and a risk of forum shopping. Account should be taken in this
+      respect of national specificities as permitted by the GDPR with regard to certain sectors such as health
+      care, journalism or archives.
+
+
+
+
+      11 GDPR, Article 1(3).
+
+
+                                                                                                                12
+      Adopted
 ```

@@ -1,3039 +1,2550 @@
 ---
-titulo: "Orientações 05/2022 sobre a utilização da tecnologia de reconhecimento facial no domínio da aplicação da lei"
+titulo: "Guidelines 05/2022 on the use of facial recognition technology in the area of law enforcement"
 titulo_en: "Guidelines 05/2022 on the use of facial recognition technology in the area of law enforcement"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2023-05-17'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-052022-on-the-use-of-facial-recognition-technology-in-the-area-of_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2024-05/edpb_guidelines_202304_frtlawenforcement_v2_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-05/edpb_guidelines_202304_frtlawenforcement_v2_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Orientações 05/2022 sobre a utilização da tecnologia de reconhecimento facial no domínio da aplicação da lei
+# Guidelines 05/2022 on the use of facial recognition technology in the area of law enforcement
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Translations proofread by EDPB Members.
+Guidelines 05/2022 on the use of facial recognition
+          technology in the area of law enforcement
+
+                          Version 2.0
+
+
+                    Adopted on 26 April 2023
+
+
+
+
+                                                            1
+Adopted
+
+Version history
+
+
+ Version 1.0   12 May 2022     Adoption of the Guidelines for public consultation
+
+ Version 2.0   26 April 2023   Adoption of the Guidelines after public consultation
+
+
+
+
+                                                                                      2
+Adopted
+
+Table of content
+Executive summary ................................................................................................................5
+1       Introduction ...................................................................................................................8
+2       Technology ....................................................................................................................9
+     2.1       One biometric technology, two distinct functions .........................................................9
+     2.2       A wide variety of purposes and applications ............................................................... 10
+     2.3       Reliability, accuracy and risks for data subjects ........................................................... 12
+3       Applicable legal framework ............................................................................................ 13
+     3.1   General legal framework – The EU Charter of Fundamental Rights and the European
+     Convention on Human Rights (ECHR)................................................................................... 14
+        3.1.1        Applicability of the Charter ............................................................................... 14
+        3.1.2        Interference with the rights laid down in the Charter............................................ 14
+        3.1.3        Justification for the interference........................................................................ 15
+     3.2       Specific legal framework – the Law Enforcement Directive ........................................... 19
+        3.2.1        Processing of special categories of data for law enforcement purposes ................... 20
+        3.2.2        Automated individual decision-making, including profiling .................................... 22
+        3.2.3        Categories of the data subjects ......................................................................... 23
+        3.2.4        Rights of the data subject ................................................................................. 23
+        3.2.5        Other legal requirements and safeguards ........................................................... 26
+4       Conclusion ................................................................................................................... 29
+5       Annexes....................................................................................................................... 29
+Annex I - Template for description of scenarios ........................................................................ 31
+Annex II- Practical guidance for managing FRT projects in LEAs ................................................... 33
+1.     ROLES AND RESPONSIBILITIES ......................................................................................... 33
+2.     INCEPTION/BEFORE PROCURING THE FRT SYSTEM............................................................. 34
+3.     DURING PROCUREMENT AND BEFORE DEPLOYMENT OF THE FRT ........................................ 36
+4.     RECOMMENDATIONS AFTER DEPLOYMENT OF THE FRT...................................................... 37
+Annex III - PRACTICAL EXAMPLES............................................................................................ 39
+1      Scenario 1 .................................................................................................................... 39
+       1.1.          Description..................................................................................................... 39
+        1.2.         Applicable legal framework............................................................................... 40
+        1.3.         Necessity and proportionality - purpose/seriousness of crime ............................... 40
+        1.4.         Conclusion ..................................................................................................... 41
+2       Scenario 2 .................................................................................................................... 41
+        2.1.         Description..................................................................................................... 41
+
+                                                                                                                                        3
+Adopted
+
+    2.2.         Applicable legal framework............................................................................... 42
+    2.3.      Necessity and proportionality - purpose/seriousness of crime/number of persons not
+    involved but affected by processing ................................................................................. 42
+    2.4.         Conclusion ..................................................................................................... 43
+3   Scenario 3 .................................................................................................................... 43
+    3.1.         Description..................................................................................................... 43
+    3.2.         Applicable legal framework............................................................................... 44
+    3.3.         Necessity and proportionality ........................................................................... 44
+    3.4.         Conclusion ..................................................................................................... 45
+4   Scenario 4 .................................................................................................................... 46
+    4.1.         Description..................................................................................................... 46
+    4.2.         Applicable legal framework............................................................................... 46
+    4.3.         Necessity and proportionality ........................................................................... 47
+    4.4.         Conclusion ..................................................................................................... 47
+5   Scenario 5 .................................................................................................................... 47
+    5.1.         Description..................................................................................................... 47
+    5.2.         Applicable legal framework............................................................................... 48
+    5.3.         Necessity and proportionality ........................................................................... 48
+    5.4.         Conclusion ..................................................................................................... 51
+6   Scenario 6 .................................................................................................................... 51
+    6.1.         Description..................................................................................................... 51
+    6.2.         Applicable legal framework............................................................................... 52
+    6.3.         Necessity and proportionality ........................................................................... 52
+    6.4.         Conclusion ..................................................................................................... 52
+
+
+
+
+                                                                                                                                    4
+Adopted
+
+EXECUTIVE SUMMARY
+More and more law enforcement authorities (LEAs) apply or intend to apply facial recognition
+technology (FRT). It may be used to authenticate or to identify a person and can be applied on videos
+(e.g. CCTV) or photographs. It may be used for various purposes, including to search for persons in
+police watch lists or to monitor a person’s movements in the public space.
+FRT is built on the processing of biometric data, therefore, it encompasses the processing of special
+categories of personal data. Often, FRT uses components of artificial intelligence (AI) or machine
+learning (ML). While this enables large scale data processing, it also induces the risk of discrimination
+and false results. FRT may be used in controlled 1:1 situations, but also on huge crowds and important
+transport hubs.
+FRT is a sensitive tool for LEAs. LEAs are executive authorities and have sovereign powers. FRT is prone
+to interfere with fundamental rights – also beyond the right to protection of personal data – and is
+able to affect our social and democratic political stability.
+
+For personal data protection in the law enforcement context, the requirements of the LED have to be
+met. A certain framework regarding the use of FRT is provided for in the LED, in particular Article 3(13)
+LED (term “biometric data”), Article 4 (principles relating to processing of personal data), Article 8
+(lawfulness of processing), Article 10 (processing of special categories of personal data) and Article 11
+LED (automated individual decision-making).
+Several other fundamental rights may be affected by the application of FRT as well. Hence, the EU
+Charter of Fundamental Rights (“the Charter”) is essential for the interpretation of the LED, in
+particular the right to protection of personal data of Article 8 of the Charter, but also the right to
+privacy laid down in Article 7 of the Charter.
+
+Legislative measures that serve as a legal basis for the processing of personal data directly interfere
+with the rights guaranteed by Articles 7 and 8 of the Charter. The processing of biometric data under
+all circumstances constitutes a serious interference in itself. This does not depend on the outcome,
+e.g. a positive matching. Any limitation to the exercise of fundamental rights and freedoms must be
+provided for by law and respect the essence of those rights and freedoms.
+The legal basis must be sufficiently clear in its terms to give citizens an adequate indication of
+conditions and circumstances in which authorities are empowered to resort to any measures of
+collection of data and secret surveillance. A mere transposition into domestic law of the general clause
+in Article 10 LED would lack precision and foreseeability.
+
+Before the national legislator creates a new legal basis for any form of processing of biometric data
+using facial recognition, the competent data protection supervisory authority should be consulted.
+
+Legislative measures have to be appropriate for attaining the legitimate objectives pursued by the
+legislation at issue. An objective of general interest – however fundamental it may be – does not, in
+itself, justify a limitation to a fundamental right. Legislative measures should differentiate and target
+those persons covered by it in the light of the objective, e.g. fighting specific serious crime. If the
+measure covers all persons in a general manner without such differentiation, limitation or exception,
+it intensifies the interference. It also intensifies the interference if the data processing covers a
+significant part of the population.
+
+                                                                                                       5
+Adopted
+
+The data has to be processed in a way that ensures the applicability and effectiveness of the EU data
+protection rules and principles. Based on each situation, the assessment of necessity and
+proportionality has to also identify and consider all possible implications for other fundamental rights.
+If the data is systematically processed without the knowledge of the data subjects, it is likely to
+generate a general feeling of constant surveillance. This may lead to chilling effects in regard of some
+or all of the fundamental rights concerned, such as human dignity under Article 1 of the Charter,
+freedom of thought, conscience and religion under Article 10 of the Charter, freedom of expression
+under Article 11 of the Charter as well as freedom of assembly and association under Article 12 of the
+Charter.
+
+Processing of special categories of data, such as biometric data can only be regarded as "strictly
+necessary" (Art. 10 LED) if the interference to the protection of personal data and its restrictions is
+limited to what is absolutely necessary, i.e. indispensable, and excluding any processing of a general
+or systematic nature.
+The fact that a photograph has been manifestly made public (Art. 10 LED) by the data subject does
+not entail that the related biometric data, which can be retrieved from the photograph by specific
+technical means, is considered as having been manifestly made public. Default settings of a service,
+e.g. making templates publicly available, or absence of choice, e.g. templates are made public without
+the user being able to change this setting, should not in any way be construed as data manifestly made
+public.
+
+Article 11 LED establishes a framework for automated individual decision-making. The use of FRT
+entails the use of special categories of data and may lead to profiling, depending on the way and
+purpose FRT is applied for. In any case, in accordance with Union law and Article 11(3) LED, profiling
+that results in discrimination against natural persons on the basis of special categories of personal data
+shall be prohibited.
+Article 6 LED regards the necessity to distinguish between different categories of data subjects. With
+regard to data subjects for whom there is no evidence capable of suggesting that their conduct might
+have a link, even an indirect or remote one, with the legitimate aim according to the LED, there is most
+likely no justification of an interference.
+The data minimisation principle (Art. 4(1)(e) LED) also requires that any video material not relevant to
+the purpose of the processing should always be removed or anonymised (e.g. by blurring with no
+retroactive ability to recover the data) before deployment.
+The controller must carefully consider how to (or if it can) meet the requirements for data subject’s
+rights before any FRT processing is launched since FRT often involves processing of special categories
+of personal data without any apparent interaction with the data subject.
+The effective exercise of data subject’s rights is dependent on the controller fulfilling its information
+obligations (Art. 13 LED). When assessing whether a “specific case” according to Article 13(2) LED
+exists, several factors need to be taken into consideration, including if personal data is collected
+without the knowledge of the data subject as this would be the only way to enable data subjects to
+effectively exercise their rights. Should decision-making be done solely based on FRT, then the data
+subjects need to be informed about the features of the automated decision making.
+As regards access requests, when biometric data is stored and connected to an identity also by alpha-
+numerical data, in line with the principle of data minimization, this should allow for the competent
+authority to give confirmation to an access request based on a search by those alpha-numerical data
+
+
+                                                                                                        6
+Adopted
+
+and without launching any further processing of biometric data of others (i.e. by searching with FRT in
+a database).
+The risks for the data subjects are particularly serious if inaccurate data is stored in a police database
+and/or shared with other entities. The controller must correct stored data and FRT systems accordingly
+(see also recital 47 LED).
+The right to restriction becomes especially important when it comes to facial recognition technology
+(based on algorithm(s) and thereby never showing a definitive result) in situations where large
+quantities of data are gathered and the accuracy and quality of the identification may vary.
+A data protection impact assessment (DPIA) before the use of FRT is a mandatory requirement, cf.
+Article 27 LED. The EDPB recommends making public the results of such assessments, or at least the
+main findings and conclusions of the DPIA, as a trust and transparency enhancing measure.
+Most cases of deployment and use of FRT contain intrinsic high risk to the rights and freedoms of data
+subjects. Therefore, the authority deploying the FRT should consult the competent supervisory
+authority prior to the deployment of the system.
+
+Given the unique nature of biometric data, the authority, implementing and/or using FRT should pay
+special attention to the security of processing, in line with Article 29 LED. In particular, the law
+enforcement authority should ensure that the system complies with the relevant standards and
+implements biometric template protection measures. Data protection principles and safeguards must
+be embedded in the technology before the start of the processing of personal data. Therefore, even
+when a LEA intends to apply and use FRT from external providers, it has to ensure, e.g. through the
+procurement procedure, that only FRT built upon the principles of data protection by design and by
+default are deployed.
+Logging (cf. Art. 25 LED) is an important safeguard for verification of the lawfulness of the processing,
+both internally (i.e. self-monitoring by the concerned controller/processor) and by external
+supervisory authorities. In the context of facial recognition systems, logging is recommended also for
+changes of the reference database and for identification or verification attempts including user,
+outcome and confidence score. Logging, however, is just one essential element of the overall principle
+of accountability (cf. Art. 4(4) LED). The controller has to be able to demonstrate the compliance of
+the processing with the basic data protection principles of Article 4(1)-(3) LED.
+The EDPB recalls its and the EDPS’ joint call for a ban of certain kinds of processing in relation to (1)
+remote biometric identification of individuals in publicly accessible spaces, (2) AI-supported facial
+recognition systems categorising individuals based on their biometrics into clusters according to
+ethnicity, gender, as well as political or sexual orientation or other grounds for discrimination (3) use
+of facial recognition or similar technologies, to infer emotions of a natural person and (4) processing
+of personal data in a law enforcement context that would rely on a database populated by collection
+of personal data on a mass-scale and in an indiscriminate way, e.g. by "scraping" photographs and
+facial pictures accessible online.
+A central safeguard to the fundamental rights at stake is effective supervision by the competent data
+protection supervisory authorities. Therefore, Member States have to ensure that the resources of the
+supervisory authorities are appropriate and sufficient to allow them to fulfil their mandate.
+
+These guidelines address law makers at EU and national level, as well as LEAs and their officers
+implementing and using FRT-systems. Individuals are addressed as far as they are interested generally
+or as data subjects, in particular as regards data subjects’ rights.
+
+                                                                                                        7
+Adopted
+
+     The guidelines intend to inform about certain properties of FRT and the applicable legal framework in
+     the context of law enforcement (in particular the LED).
+
+     -    In addition, they provide a tool to support a first classification of the sensitivity of a given use
+          case (Annex I).
+     -    They also contain practical guidance for LEAs that wish to procure and run a FRT-system (Annex
+          II).
+     -    The guidelines also depict several typical use cases and list numerous considerations relevant,
+          especially with regard to the necessity and proportionality test (Annex III).
+
+
+     1 INTRODUCTION
+1.   Facial recognition technology (FRT) may be used to automatically recognise individuals based on their
+     face. FRT often is based on artificial intelligence such as machine learning technologies. Applications
+     of FRT are increasingly tested and used in various areas, from individual use to private organisations
+     and public administration use. Law enforcement authorities (LEAs) also expect advantages from the
+     use of FRT. It promises solutions to relatively new challenges such as investigations involving a big
+     amount of captured evidence, but also to known problems, in particular with regard to under-staffing
+     for observation and search tasks.
+
+2.   A great deal of the increased interest in FRT is based on the efficiency and scalability of FRT. With these
+     come the disadvantages inherent to the technology and its application – also on a large scale. While
+     there may be thousands of personal data sets analysed at the push of a button, already slight effects
+     of algorithmic discrimination or misidentification may create high numbers of individuals affected
+     severely in their conduct and daily lives. The sheer size of processing of personal data, and in particular
+     biometric data, is a further key element of FRT, as the processing of personal data constitutes an
+     interference with the fundamental right to protection of personal data according to Article 8 of the
+     Charter of Fundamental Rights of the European Union (the Charter).
+3.   The application of FRT of LEAs will – and to some extent already does – have significant implications
+     on individuals and on groups of people, including minorities. These implications will also have
+     considerable effects on the way we live together and on our social and democratic political stability,
+     valuing the high significance of pluralism and political opposition. The right to protection of personal
+     data often is key as a prerequisite to guarantee other fundamental rights. The application of FRT is
+     considerably prone to interfere with fundamental rights beyond the right to protection of personal
+     data.
+4.   The EDPB therefore deems it important to contribute to the ongoing integration of FRT in the area of
+     law enforcement covered by the Law Enforcement Directive 1 respectively the national laws
+     transposing it and provide the present guidelines. The guidelines are intended to provide relevant
+     information to lawmakers at EU and national level, as well as for LEAs and their officers when
+     implementing and using FRT-systems. The scope of the guidelines is limited to FRT. However, other
+     forms of processing of personal data based on biometrics by LEAs, especially if processed remotely,
+     may entail similar or additional risks for individuals, groups and society. According to the respective
+
+     1Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of
+     natural persons with regard to the processing of personal data by competent authorities for the purposes of the
+     prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties,
+     and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA.
+                                                                                                                   8
+     Adopted
+
+      circumstances, some aspects of these guidelines may serve as a useful source in these cases, as well.
+      Finally, individuals that are interested generally or as data subjects may also find important
+      information, in particular as regards data subjects’ rights.
+5.    The guidelines consist of the main document and three annexes. The main document at hand presents
+      the technology and the legal framework applicable. To help identifying some of the major aspects to
+      classify the severity of the interference with fundamental rights to a given field of application, a
+      template can be found in Annex I. LEAs that wish to procure and run a FRT system may find practical
+      guidance in Annex II. Depending on the field of application of FRT, different considerations could be of
+      relevance. A set of hypothetical scenarios and relevant considerations may be found in Annex III.
+
+
+      2 TECHNOLOGY
+      2.1 One biometric technology, two distinct functions
+6.    Facial recognition is a probabilistic technology that can automatically recognise individuals based on
+      their face in order to authenticate or identify them.
+7.    FRT falls into the broader category of biometric technology. Biometrics include all automated
+      processes used to recognise an individual by quantifying physical, physiological or behavioural
+      characteristics (fingerprints, iris structure, voice, gait, blood vessel patterns, etc.). These characteristics
+      are defined as "biometric data", because they allow or confirm the unique identification of that person.
+
+8.    This is the case with people’s faces or, more specifically, their technical processing using facial
+      recognition devices: by taking the image of a face (a photograph or video) called a biometric “sample”,
+      it is possible to extract a digital representation of distinct characteristics of this face (this is called a
+      "template").
+9.    A biometric template is a digital representation of the unique features that have been extracted from
+      a biometric sample and can be stored in a biometric database 2 . This template is supposed to be unique
+      and specific to each person and it is, in principle, permanent over time 3 . In the recognition phase, the
+      device compares this template with other templates previously produced or calculated directly from
+      biometric samples such as faces found on an image, photo or video. "Facial recognition" is therefore a
+      two-step process: the collection of the facial image and its transformation into a template, followed
+      by the recognition of this face by comparing the corresponding template with one or more other
+      templates.
+10.   Like any biometric process, facial recognition can fulfil two distinct functions:
+
+      •    the authentication of a person, aimed at verifying that a person is who she or he claims to be. In
+           this case, the system will compare a pre-recorded biometric template or sample (e.g. stored on a
+           smartcard or biometric passport) with a single face, such as that of a person turning up at a
+           checkpoint, in order to verify whether this is one and the same person. This functionality therefore
+           relies on the comparison of two templates. This is also called 1-to-1 verification.
+
+      •    the identification of a person, aimed at finding a person among a group of individuals, within a
+           specific area, an image or a database. In this case, the system must process each face captured,
+           to generate a biometric template and then check whether it matches with a person known to the
+
+      2 Guidelines on facial recognition, Consultative Committee of Convention 108 the Convention for the protection
+      of individuals with regard to automatic processing of personal data, Council of Europe, June 2021.
+      3 This might depend on the type of biometry and the age of the data subject.
+
+
+                                                                                                                   9
+      Adopted
+
+           system. This functionality thus relies on comparing one template with a database of templates or
+           samples (baseline). This is also called 1-to-many identification. For example, it can link a personal
+           name record (surname, first name) to a face, if the comparison is made against a database of
+           photographs associated with surnames and first names. It can also involve following a person
+           through a crowd, without necessarily making the link with the person’s civil identity.
+11.   In both cases, the used facial recognition techniques are based on an estimated match between
+      templates: the one being compared and the baseline(s). From this point of view, they are probabilistic:
+      the comparison deduces a higher or lower probability that the person is indeed the person to be
+      authenticated or identified; if this probability exceeds a certain threshold in the system, defined by the
+      user or the developer of the system, the system will assume that there is a match.
+
+12.   While both functions – authentication and identification – are distinct, they both relate to the
+      processing of biometric data related to an identified or identifiable natural person and therefore
+      constitute a processing of personal data, and more specifically a processing of special categories of
+      personal data.
+
+13.   Facial recognition is part of a wider spectrum of video image processing techniques. Some video
+      cameras can film people within a defined area, in particular their faces, but they cannot be used as
+      such to automatically recognise individuals. The same applies to simple photography: a camera is not
+      a facial recognition system because photographs of people need to be processed in a specific way in
+      order to extract biometric data.
+14.   The mere detection of faces by so-called "smart" cameras does not necessarily constitute a facial
+      recognition system either. While they also raise important questions in terms of ethics and
+      effectiveness, digital techniques for detecting abnormal behaviours or violent events, or for
+      recognising facial emotions or even silhouettes, they may not be considered as biometric systems
+      processing special categories of personal data, provided that they do not aim at uniquely identifying
+      a person and that the personal data processing involved does not include other special categories of
+      personal data. These examples are not completely unrelated to facial recognition and are still subject
+      to personal data protection rules. 4 Furthermore, this type of detection system may be used in
+      conjunction with other systems aiming at identifying a person and thereby being considered as a facial
+      recognition technology.
+15.   Unlike video capture and processing systems, for example, which require the installation of physical
+      devices, facial recognition is a software functionality which can be implemented within existing
+      systems (cameras, image databases, etc.). Such functionality can therefore be connected or interfaced
+      with a multitude of systems, and combined with other functionalities. Such integration into an already
+      existing infrastructure requires specific attention because it comes with inherent risks due to the fact
+      that the facial recognition technology could be frictionless and easily hidden 5 .
+
+      2.2 A wide variety of purposes and applications
+16.   Beyond the scope of these guidelines and outside the scope of the LED, facial recognition may be used
+      for a wide variety of objectives, both for commercial use and for addressing public safety or law
+      enforcement concerns. It may be applied in many different contexts: in the personal relationship
+      between a user and a service (access to an application), for access to a specific place (physical filtering),
+
+      4 Article 10 LED (or Article 9 GDPR) is applicable, however, to systems that are used to categorise individuals
+      based on their biometrics into clusters according to ethnicity as well as political or sexual orientation or other
+      special categories of personal data.
+      5 For instance, in body-worn cameras which are increasingly being used in practice.
+
+
+                                                                                                                     10
+      Adopted
+
+      or without any particular limitation in the public space (live facial recognition). It can be applied to any
+      kind of data subject: a customer of a service, an employee, a simple onlooker, a wanted person or
+      someone implicated in legal or administrative proceedings, etc. Some uses are already commonplace
+      and widespread; others are, at this point, at the experimental or speculative stage. While these
+      guidelines will not be addressing all such uses and applications, the EDPB recalls that they may only be
+      implemented if compliant with the applicable legal framework, and in particular with the GDPR and
+      relevant national laws. 6 Even in the context of the LED, further to the functions of authentication or
+      identification, data processed with the use of facial recognition technology can also be further
+      processed for other purposes, such as categorisation.
+
+17.   More specifically, a scale of potential uses might be considered depending on the degree of control
+      people have over their personal data, the effective means they have for exercising such control and
+      their right to initiative to trigger and use of this technology, the consequences for them (in the case of
+      recognition or non-recognition) and the scale of the processing carried out. Facial recognition based
+      on a template stored on a personal device (smartcard, smartphone, etc.) belonging to that person,
+      used for authentication and of strictly personal use through a dedicated interface, does not pose the
+      same risks as, for example, usage for identification purposes, in an uncontrolled environment, without
+      the active involvement of the data subjects, where the template of each face entering the monitoring
+      area is compared with templates from a broad cross-section of the population stored in a database.
+      Between these two extremes lies a very varied spectrum of uses and associated issues related to the
+      protection of personal data.
+18.   In order to further illustrate the context within which facial recognition technologies are currently
+      being debated or implemented, either for authentication or identification, the EDPB deems relevant
+      to mention a series of examples. The examples below are solely descriptive and should not be
+      considered as any kind of preliminary assessment of their compliance with the EU acquis in the field
+      of data protection.
+      Examples of facial recognition authentication
+
+19.   Authentication can be designed for users to have full control over it, for example to enable access to
+      services or applications purely within a home setting. As such, it is used extensively by smartphone
+      owners to unlock their device, instead of password authentication.
+20.   Facial recognition authentication may also be used to check the identity of someone hoping to benefit
+      from public or private third-party services. Such processes thus offer a way of creating a digital identity
+      using a mobile app (smartphone, tablet, etc.) which can then be used to access online administrative
+      services.
+21.   Furthermore, facial recognition authentication can aim at controlling physical access to one or more
+      predetermined locations, such as entrances to buildings or specific crossing points. This functionality
+      is, for example, implemented in certain processing for the purpose of border crossing, where the face
+      of the person at the checkpoint device is compared with the one stored in their identity document
+      (passport or secure residence permit).
+      Examples of facial recognition identification
+
+
+
+
+      6See also EDPB guidelines 3/2019 on processing of personal data through video devices adopted on 29 January
+      2020, for further guidance.
+                                                                                                               11
+      Adopted
+
+22.   Identification may be applied in many, even more diverse ways. These particularly include, but are not
+      limited to, the uses listed below, currently observed, experimented or planned in the EU.
+      -      searching, in a database of photographs, for the identity of an unidentified person (victim, suspect,
+             etc.);
+
+      -      monitoring of a person’s movements in the public space. His or her face is compared with the
+             biometric templates of people travelling or having travelled in the monitored area, for example
+             when a piece of luggage is left behind or after a crime has been committed;
+
+      -      reconstructing a person’s journey and their subsequent interactions with other persons, through
+             a delayed comparison of the same elements in a bid to identify their contacts for example;
+
+      -      remote biometric identification of wanted persons in public spaces. All faces captured live by
+             video-protection cameras are cross-checked, in real time, against a database held by the security
+             forces;
+      -      automatic recognition of people in an image to identify, for example, their relationships on a social
+             network, which uses it. The image is compared with the templates of everyone on the network
+             who has consented to this functionality in order to suggest the nominative identification of these
+             relationships;
+      -      access to services, with some cash dispensers recognising their customers, by comparing a face
+             captured by a camera with the database of facial images held by the bank;
+
+      -      tracking of a passenger’s journey at a certain stage of the journey. The template, calculated in real
+             time, of any person checking in at gates located at certain stages of the journey (baggage drop-off
+             points, boarding gates, etc.), is compared with the templates of people previously registered in the
+             system.
+23.   In addition to the use of FRT in the field of law enforcement, the wide range of applications observed
+      certainly calls for a comprehensive debate and policy approach in order to ensure consistency and
+      compliance with the EU acquis in the field of data protection.
+
+      2.3 Reliability, accuracy and risks for data subjects
+24.   Like every technology, facial recognition may also be subject to challenges when it comes to its
+      implementation, in particular when it comes to its reliability and efficiency in terms of authentication
+      or identification, as well as the overall issue of quality and accuracy of the “source” data and the result
+      of facial recognition technology processing.
+25.   Such technological challenges entail particular risks for data subjects concerned which are all the more
+      significant or serious in the area of law enforcement considering the possible effects for data subjects
+      either legal, or other ones similarly affecting them in a significant manner. In this context, it appears
+      also useful to underline that the ex post use of FRT is not per se safer, as individuals may be tracked
+      across time and places. Thus, the ex post use also poses specific risks which have to be assessed on a
+      case-by-case basis. 7
+26.   As pointed out by the EU Fundamental Rights Agency in its 2019 report, “determining the necessary
+      level of accuracy of facial recognition software is challenging: there are many different ways to
+      evaluate and assess accuracy, also depending on the task, purpose and context of its use. When
+
+      7
+          See the examples presented in Annex III.
 
-               This language version has not yet been proofread.
-
-
-
-
-   Orientações 05/2022 sobre a utilização da tecnologia de
-    reconhecimento facial no domínio da aplicação da lei
-
-                               Versão 2.0
-
-
-                Adotadas em 26 de abril de 2023
-
-
-
-
-                                                                   1
-Aprovado
-
-Histórico de versões
-
-
- Versão 1.0   12 de maio de 2022    Adoção das orientações para consulta pública
-
- Versão 2.0   26 de abril de 2023   Adoção das orientações após consulta pública
-
-
-
-
-                                                                                   2
-Aprovado
-
-Índice
-Síntese ...................................................................................................................................................... 5
-1       Introdução ........................................................................................................................................ 8
-2       Tecnologia ...................................................................................................................................... 10
-     2.1       Uma tecnologia biométrica, duas funções distintas .............................................................. 10
-     2.2       Uma vasta variedade de finalidades e aplicações ................................................................. 11
-     2.3       Fiabilidade, exatidão e riscos para os titulares dos dados..................................................... 13
-3       Quadro jurídico aplicável ............................................................................................................... 15
-     3.1    Quadro jurídico geral – A Carta dos Direitos Fundamentais da UE e a Convenção Europeia
-     dos Direitos Humanos (CEDH)............................................................................................................ 15
-        3.1.1          Aplicabilidade da Carta .................................................................................................. 15
-        3.1.2          Ingerência nos direitos consagrados na Carta ............................................................... 16
-        3.1.3          Justificação da ingerência .............................................................................................. 17
-     3.2       Quadro jurídico específico – a Diretiva Proteção de Dados na Aplicação da Lei .................. 21
-        3.2.1          Tratamento de categorias especiais de dados para efeitos de aplicação da lei ............ 21
-        3.2.2          Decisões individuais automatizadas, incluindo a definição de perfis ............................ 24
-        3.2.3          Categorias de titulares de dados ................................................................................... 25
-        3.2.4          Direitos do titular dos dados .......................................................................................... 25
-        3.2.5          Outros requisitos legais e garantias ............................................................................... 29
-4       Conclusão ....................................................................................................................................... 32
-5       Anexos ............................................................................................................................................ 33
-Anexo I – Modelo para a descrição de cenários .................................................................................... 34
-Anexo II – Orientações práticas para a gestão de projetos de TRF pelas autoridades de aplicação da
-lei 36
-1.      FUNÇÕES E RESPONSABILIDADES .................................................................................................. 36
-2.      INÍCIO/ANTES DA AQUISIÇÃO DO SISTEMA DE TRF ....................................................................... 38
-3.      DURANTE A AQUISIÇÃO E ANTES DA IMPLANTAÇÃO DA TRF ....................................................... 40
-4.      RECOMENDAÇÕES APÓS A IMPLANTAÇÃO DA TRF ....................................................................... 41
-Anexo III – EXEMPLOS PRÁTICOS ........................................................................................................... 43
-1       Cenário 1 ........................................................................................................................................ 43
-        1.1.           Descrição ........................................................................................................................ 43
-        1.2.           Quadro jurídico aplicável ............................................................................................... 44
-        1.3.           Necessidade e proporcionalidade – finalidade/gravidade do crime ............................. 45
-        1.4.           Conclusão ....................................................................................................................... 45
-2       Cenário 2 ........................................................................................................................................ 45
-
-
-                                                                                                                                                              3
-Aprovado
-
-    2.1.           Descrição ........................................................................................................................ 45
-    2.2.           Quadro jurídico aplicável ............................................................................................... 46
-    2.3.     Necessidade e proporcionalidade – finalidade/gravidade do crime/número de pessoas
-    não envolvidas, mas afetadas pelo tratamento ............................................................................ 46
-    2.4.           Conclusão ....................................................................................................................... 47
-3   Cenário 3 ........................................................................................................................................ 47
-    3.1.           Descrição ........................................................................................................................ 47
-    3.2.           Quadro jurídico aplicável ............................................................................................... 49
-    3.3.           Necessidade e proporcionalidade .................................................................................. 49
-    3.4.           Conclusão ....................................................................................................................... 50
-4   Cenário 4 ........................................................................................................................................ 50
-    4.1.           Descrição ........................................................................................................................ 50
-    4.2.           Quadro jurídico aplicável ............................................................................................... 51
-    4.3.           Necessidade e proporcionalidade .................................................................................. 51
-    4.4.           Conclusão ....................................................................................................................... 51
-5   Cenário 5 ........................................................................................................................................ 52
-    5.1.           Descrição ........................................................................................................................ 52
-    5.2.           Quadro jurídico aplicável ............................................................................................... 53
-    5.3.           Necessidade e proporcionalidade .................................................................................. 53
-    5.4.           Conclusão ....................................................................................................................... 56
-6   Cenário 6 ........................................................................................................................................ 56
-    6.1.           Descrição ........................................................................................................................ 56
-    6.2.           Quadro jurídico aplicável ............................................................................................... 57
-    6.3.           Necessidade e proporcionalidade .................................................................................. 57
-    6.4.           Conclusão ....................................................................................................................... 57
-
-
-
-
-                                                                                                                                                       4
-Aprovado
-
-SÍNTESE
-Cada vez mais autoridades de aplicação da lei aplicam ou tencionam aplicar tecnologias de
-reconhecimento facial (TRF). Estas podem ser utilizadas para autenticar ou identificar uma pessoa e
-podem ser aplicadas a vídeos (por exemplo, imagens de televisão em circuito fechado – CCTV) ou
-fotografias. Podem ser utilizadas para diversas finalidades, nomeadamente para procurar pessoas que
-façam parte de listas de observação da polícia ou para seguir os movimentos de uma pessoa no espaço
-público.
-
-A TRF baseia-se no tratamento de dados biométricos, pelo que abrange o tratamento de categorias
-especiais de dados pessoais. Muitas vezes, a TRF utiliza componentes de inteligência artificial (IA) ou
-de aprendizagem automática o que permite o tratamento de dados em grande escala, embora
-também implique um risco de discriminação e de resultados falsos. A TRF pode ser utilizada em
-situações controladas de 1:1, mas também em grandes multidões e em importantes plataformas de
-transporte.
-
-A TRF é uma ferramenta sensível para as autoridades de aplicação da lei. As autoridades de aplicação
-da lei são autoridades executivas com direitos soberanos. A TRF é propensa a interferir com os direitos
-fundamentais – nomeadamente além do direito à proteção dos dados pessoais – e é capaz de afetar a
-nossa estabilidade política social e democrática.
-
-Para garantir a proteção dos dados pessoais no contexto da aplicação da lei, é necessário cumprir os
-requisitos da Diretiva Proteção de Dados na Aplicação da Lei. A Diretiva Proteção de Dados na
-Aplicação da Lei define um determinado regime relativo à utilização de TRF, nomeadamente o
-artigo 3.º, ponto 13, da diretiva (definição do termo «dados biométricos»), o artigo 4.º (princípios
-relativos ao tratamento de dados pessoais), o artigo 8.º (licitude do tratamento), o artigo 10.º
-(tratamento de categorias especiais de dados pessoais) e o artigo 11.º (decisões individuais
-automatizadas).
-
-A aplicação de TRF pode afetar também vários outros direitos fundamentais. Por conseguinte, a Carta
-dos Direitos Fundamentais da UE (a seguir designada por «Carta») é essencial para a interpretação da
-Diretiva Proteção de Dados na Aplicação da Lei, nomeadamente o direito à proteção dos dados
-pessoais previsto no artigo 8.º da Carta, mas também o direito à privacidade previsto no artigo 7.º da
-Carta.
-
-As medidas legislativas que servem de base jurídica para o tratamento dos dados pessoais são
-constitutivas de uma ingerência direta nos direitos garantidos pelos artigos 7.º e 8.º da Carta. O
-tratamento de dados biométricos, seja em que circunstância for, constitui, por si só, uma ingerência
-grave. Esta não depende do resultado, por exemplo uma correspondência positiva. Qualquer restrição
-ao exercício dos direitos e liberdades fundamentais deve ser prevista por lei e respeitar o conteúdo
-essencial desses direitos e liberdades.
-
-Os termos da base jurídica devem ser suficientemente claros para dar aos cidadãos uma indicação
-adequada das condições e das circunstâncias em que as autoridades têm poderes para recorrer a
-quaisquer medidas de recolha de dados e de vigilância secreta. Uma mera transposição para o direito
-nacional da cláusula geral do artigo 10.º da Diretiva Proteção de Dados na Aplicação da Lei careceria
-de rigor e previsibilidade.
-
-Antes de criar uma base jurídica para qualquer forma de tratamento de dados biométricos que utilize
-reconhecimento facial, o legislador nacional deve consultar a autoridade de controlo competente em
-matéria de proteção de dados.
-
-                                                                                                     5
-Aprovado
-
-As medidas legislativas têm de ser adequadas para alcançar os objetivos legítimos da legislação em
-causa. Um objetivo de interesse geral, por muito fundamental que seja, não pode, por si só, justificar
-uma restrição a um direito fundamental. As medidas legislativas devem diferenciar e visar as pessoas
-abrangidas pelo seu âmbito de aplicação em função do respetivo objetivo, por exemplo de combater
-um tipo específico de criminalidade grave. Se a medida abranger todas as pessoas de um modo geral,
-sem essa diferenciação, limitação ou exceção, a ingerência é intensificada. A ingerência é igualmente
-intensificada se o tratamento de dados abranger uma parte significativa da população.
-
-Os dados têm de ser tratados de uma forma que garanta a aplicabilidade e a eficácia das regras e
-princípios da UE em matéria de proteção de dados. Dependendo da situação específica, a avaliação da
-necessidade e da proporcionalidade tem também de identificar e ponderar todas as repercussões
-possíveis noutros direitos fundamentais. Se os dados forem sistematicamente tratados sem o
-conhecimento dos respetivos titulares, é provável que se gere uma sensação geral de vigilância
-constante. Este sentimento pode produzir efeitos dissuasores em relação à totalidade ou a parte dos
-direitos fundamentais em causa, tais como a dignidade humana nos termos do artigo 1.º da Carta, a
-liberdade de pensamento, de consciência e de religião nos termos do artigo 10.º da Carta, a liberdade
-de expressão nos termos do artigo 11.º da Carta, bem como a liberdade de reunião e de associação
-nos termos do artigo 12.º da Carta.
-
-O tratamento de categorias especiais de dados, como os dados biométricos, só pode ser considerado
-como «estritamente necessário» (artigo 10.º da Diretiva Proteção de Dados na Aplicação da Lei) se a
-ingerência na proteção dos dados pessoais e nas suas limitações se circunscrever ao absolutamente
-necessário, isto é, indispensável, e excluindo qualquer tratamento de natureza geral ou sistemática.
-
-O facto de uma fotografia ter sido manifestamente tornada pública (artigo 10.º da Diretiva Proteção
-de Dados na Aplicação da Lei) pelo titular dos dados não implica que se possa considerar que os dados
-biométricos correspondentes que possam ser extraídos da fotografia por meios técnicos específicos
-tenham sido manifestamente tornados públicos. Quaisquer dados divulgados na sequência das
-configurações predefinidas de um serviço, por exemplo a disponibilização de modelos ao público, ou
-da ausência de escolha, por exemplo o facto de os modelos serem tornados públicos sem que o
-utilizador possa alterar essa configuração, não devem de forma alguma ser considerados dados
-manifestamente tornados públicos.
-
-O artigo 11.º da Diretiva Proteção de Dados na Aplicação da Lei estabelece um enquadramento para
-as decisões individuais automatizadas. A utilização de TRF implica a utilização de categorias especiais
-de dados e pode conduzir à definição de perfis, dependendo da forma como a TRF é utilizada e da sua
-finalidade. De qualquer das formas, em conformidade com o direito da União e com o artigo 11.º, n.º 3,
-da Diretiva Proteção de Dados na Aplicação da Lei, são proibidas as definições de perfis que conduzam
-à discriminação de pessoas singulares com base em categorias especiais de dados pessoais.
-
-O artigo 6.º da Diretiva Proteção de Dados na Aplicação da Lei diz respeito à necessidade de distinguir
-entre diferentes categorias de titulares de dados. No que diz respeito aos titulares de dados em
-relação aos quais não haja indícios que levem a acreditar que o seu comportamento possa ter um nexo,
-ainda que indireto ou longínquo, com o objetivo legítimo de acordo com a diretiva, muito
-provavelmente não há justificação para uma ingerência.
-
-O princípio da minimização dos dados (artigo 4.º, n.º 1, alínea e), da Diretiva Proteção de Dados na
-Aplicação da Lei) também exige que qualquer material de vídeo que não seja pertinente para a
-finalidade do tratamento seja sempre removido ou anonimizado (por exemplo, através de
-desfocagem, sem possibilidade de recuperação retroativa dos dados) antes da sua utilização.
-
-
-                                                                                                     6
-Aprovado
-
-O responsável pelo tratamento tem de ponderar cuidadosamente (se ou) de que forma pode cumprir
-os requisitos relativos aos direitos do titular dos dados antes de ser iniciado qualquer tratamento com
-TRF, uma vez que a TRF implica frequentemente o tratamento de categorias especiais de dados
-pessoais sem qualquer interação aparente com o titular dos dados.
-
-O exercício efetivo dos direitos do titular dos dados depende do cumprimento, pelo responsável pelo
-tratamento, das suas obrigações de informação (artigo 13.º da Diretiva Proteção de Dados na
-Aplicação da Lei). Ao avaliar se se trata de um «determinado caso» nos termos do artigo 13.º, n.º 2, da
-Diretiva Proteção de Dados na Aplicação da Lei, há que ter em conta vários fatores, nomeadamente se
-os dados pessoais são recolhidos sem o conhecimento do respetivo titular, uma vez que esta seria a
-única forma de permitir aos titulares dos dados exercerem efetivamente os seus direitos. Se a decisão
-for tomada exclusivamente com base em TRF, os titulares dos dados têm de ser informados das
-características da decisão automatizada.
-
-No que diz respeito aos pedidos de acesso, quando os dados biométricos estão armazenados e ligados
-a uma identidade também por dados alfanuméricos, em conformidade com o princípio da minimização
-dos dados, tal deve permitir à autoridade competente confirmar um pedido de acesso com base numa
-pesquisa por esses dados alfanuméricos e sem iniciar qualquer outro tratamento de dados biométricos
-de terceiros (por exemplo, pesquisando com TRF numa base de dados).
-
-Os riscos para os titulares dos dados são particularmente graves se os dados inexatos forem
-armazenados numa base de dados da polícia e/ou partilhados com outras entidades. O responsável
-pelo tratamento deve corrigir os dados armazenados e os sistemas de TRF em conformidade (ver
-também o considerando 47 da Diretiva Proteção de Dados na Aplicação da Lei).
-
-O direito à limitação torna-se especialmente importante quando se trata de tecnologia de
-reconhecimento facial (baseada em algoritmos e que, por isso, nunca apresente um resultado
-definitivo) em situações em que sejam recolhidas grandes quantidades de dados e em que a exatidão
-e a qualidade da identificação possam variar.
-
-Uma avaliação de impacto sobre a proteção de dados (AIPD) antes da utilização de TRF é um requisito
-obrigatório, conforme previsto no artigo 27.º da Diretiva Proteção de Dados na Aplicação da Lei. O
-Comité Europeu para a Proteção de Dados (CEPD) recomenda a divulgação ao público dos resultados
-dessas avaliações ou, pelo menos, das principais constatações e conclusões da AIPD, como medida de
-reforço da confiança e da transparência.
-
-A maioria dos casos de implantação e utilização de TRF comporta um risco intrinsecamente elevado
-para os direitos e as liberdades dos titulares dos dados. A autoridade que implanta a TRF deve, por
-isso, consultar a autoridade de controlo competente antes da implantação do sistema.
-
-Dada a natureza única dos dados biométricos, a autoridade que aplica e/ou utiliza a TRF deve prestar
-especial atenção à segurança do tratamento, em conformidade com o artigo 29.º da Diretiva Proteção
-de Dados na Aplicação da Lei. Concretamente, a autoridade de aplicação da lei deve assegurar que o
-sistema cumpre as normas pertinentes e aplica medidas de proteção de modelos biométricos. Os
-princípios e as garantias de proteção de dados devem ser incorporados na tecnologia antes do início
-do tratamento dos dados pessoais. Por conseguinte, mesmo quando tencionam aplicar e utilizar TRF
-de fornecedores externos, as autoridades de aplicação da lei têm de garantir, por exemplo através do
-procedimento de adjudicação de contratos, que apenas são utilizadas TRF baseadas nos princípios da
-proteção de dados desde a conceção e por defeito.
-
-
-
-
-                                                                                                     7
-Aprovado
-
-     O registo cronológico (ver artigo 25.º da Diretiva Proteção de Dados na Aplicação da Lei) é uma
-     garantia importante para a verificação da licitude do tratamento, tanto a nível interno (ou seja,
-     autocontrolo pelo responsável pelo tratamento/subcontratante em causa) como por autoridades de
-     controlo externas. No contexto dos sistemas de reconhecimento facial, recomenda-se o registo
-     cronológico também das alterações da base de dados de referência e das tentativas de identificação
-     ou verificação, incluindo o utilizador, o resultado e a pontuação de confiança. No entanto, o registo
-     cronológico é apenas um elemento essencial do princípio da responsabilização geral (ver artigo 4.º,
-     n.º 4, da Diretiva Proteção de Dados na Aplicação da Lei). O responsável pelo tratamento tem de ser
-     capaz de demonstrar a conformidade do tratamento com os princípios básicos de proteção de dados
-     previstos no artigo 4.º, n.os 1 a 3, da Diretiva Proteção de Dados na Aplicação da Lei.
-
-     O CEPD recorda o seu apelo conjunto com a Autoridade Europeia para a Proteção de Dados (AEPD) à
-     proibição de certos tipos de tratamento em relação a (1) identificação biométrica de indivíduos, à
-     distância, em zonas acessíveis ao público, (2) sistemas de reconhecimento facial apoiados por IA que
-     agrupem indivíduos com base nos seus dados biométricos de acordo com a etnia, o género, a
-     orientação política ou sexual ou outros motivos de discriminação, (3) utilização do reconhecimento
-     facial ou de tecnologias semelhantes para inferir as emoções de uma pessoa singular e (4) tratamento
-     de dados pessoais num contexto de aplicação da lei que se baseie numa base de dados preenchida
-     através da recolha de dados pessoais em massa e de forma indiscriminada, por exemplo através da
-     «raspagem» de fotografias e imagens faciais acessíveis em linha.
-
-     Uma salvaguarda central dos direitos fundamentais em causa é a supervisão eficaz por parte das
-     autoridades de controlo competentes em matéria de proteção de dados. Por conseguinte, os Estados-
-     Membros têm de assegurar que os recursos das autoridades de controlo são adequados e suficientes
-     para lhes permitir cumprir o seu mandato.
-
-     As presentes orientações dirigem-se aos legisladores a nível nacional e da UE, bem como às
-     autoridades de aplicação da lei e aos seus agentes que aplicam e utilizam sistemas de TRF. As pessoas
-     são abordadas na qualidade de partes interessadas ou de titulares de dados, nomeadamente no que
-     diz respeito aos direitos dos titulares dos dados.
-
-     As orientações visam transmitir informações sobre certas propriedades das TRF e sobre o quadro
-     jurídico aplicável no contexto da aplicação da lei (em particular a Diretiva Proteção de Dados na
-     Aplicação da Lei).
-
-     -   Além disso, constituem uma ferramenta de apoio a uma primeira classificação da natureza
-         sensível de um determinado caso de utilização (anexo I).
-
-     -   Contêm igualmente orientações práticas para as autoridades de aplicação da lei que pretendam
-         adquirir e utilizar um sistema de TRF (anexo II).
-
-     -   As orientações descrevem ainda vários casos de utilização típicos e enumeram várias
-         considerações pertinentes, especialmente no que diz respeito ao teste da necessidade e da
-         proporcionalidade (anexo III).
-
-
-     1 INTRODUÇÃO
-1.   A tecnologia de reconhecimento facial (TRF) pode ser utilizada para reconhecer automaticamente as
-     pessoas com base no seu rosto. A TRF baseia-se frequentemente na inteligência artificial,
-     nomeadamente em tecnologias de aprendizagem automática. As aplicações de TRF são cada vez mais
-     testadas e utilizadas em vários domínios, desde o uso particular até à utilização em organizações
-
-                                                                                                        8
-     Aprovado
-
-     privadas e na administração pública. As autoridades de aplicação da lei esperam retirar vantagens da
-     utilização da TRF. Esta promete soluções para desafios relativamente novos, como as investigações
-     que envolvem uma grande quantidade de elementos de provas, mas também para problemas
-     conhecidos, nomeadamente no que diz respeito à falta de pessoal para as tarefas de observação e de
-     busca.
-
-2.   Grande parte do interesse crescente na TRF está relacionado com a sua eficiência e potencial de
-     expansão. A estas juntam-se as desvantagens inerentes à tecnologia e à sua aplicação – inclusive em
-     grande escala. Embora esta tecnologia permita analisar milhares de conjuntos de dados pessoais
-     premindo apenas um botão, os efeitos ligeiros da discriminação algorítmica ou da identificação
-     incorreta podem afetar gravemente grandes números de indivíduos no seu comportamento e na sua
-     vida quotidiana. A grande dimensão do tratamento de dados pessoais e, em especial, de dados
-     biométricos, é outro elemento-chave da TRF, uma vez que o tratamento de dados pessoais constitui
-     uma ingerência no direito fundamental à proteção dos dados pessoais consagrado no artigo 8.º da
-     Carta dos Direitos Fundamentais da União Europeia (a seguir designada por «Carta»).
-
-3.   A aplicação da TRF pelas autoridades de aplicação da lei terá – e, em certa medida, já tem –
-     repercussões significativas nos indivíduos e em certos grupos de pessoas, incluindo as minorias. Estas
-     repercussões terão também efeitos consideráveis na forma como vivemos em conjunto e na nossa
-     estabilidade política social e democrática, valorizando a elevada importância do pluralismo e da
-     oposição política. O direito à proteção dos dados pessoais é muitas vezes uma condição prévia
-     indispensável para garantir outros direitos fundamentais. A aplicação da TRF é bastante suscetível de
-     interferir com direitos fundamentais para além do direito à proteção dos dados pessoais.
-
-4.   Por conseguinte, o CEPD considera importante contribuir para a integração contínua da TRF no
-     domínio da aplicação da lei abrangido pela Diretiva Proteção de Dados na Aplicação da Lei1,
-     respetivamente as legislações nacionais que a transpõem, e disponibilizar as presentes orientações. As
-     orientações têm por objetivo disponibilizar informações pertinentes aos legisladores a nível nacional
-     e da UE, bem como às autoridades de aplicação da lei e aos seus agentes sempre que apliquem e
-     utilizem sistemas de TRF. O âmbito de aplicação das orientações limita-se à TRF. No entanto, outras
-     formas de tratamento de dados pessoais com base em dados biométricos utilizadas pelas autoridades
-     de aplicação da lei, sobretudo se utilizadas à distância, podem implicar riscos semelhantes ou
-     adicionais para os indivíduos, para certos grupos e para a sociedade. Dependendo das respetivas
-     circunstâncias, alguns aspetos das presentes orientações podem também servir como uma fonte útil
-     nestes casos. Por último, as partes interessadas em geral ou os titulares dos dados podem também
-     encontrar aqui informações importantes, nomeadamente no que diz respeito aos direitos dos titulares
-     dos dados.
-
-5.   As orientações são constituídas pelo documento principal e por três anexos. O documento principal
-     apresenta a tecnologia e o quadro jurídico aplicável. No anexo I, é apresentado um modelo que visa
-     ajudar a identificar alguns dos principais aspetos necessários para classificar a gravidade da ingerência
-     nos direitos fundamentais num determinado domínio de aplicação. As autoridades de aplicação da lei
-     que pretendam adquirir e aplicar um sistema de TRF podem encontrar orientações práticas no anexo II.
-     Dependendo do âmbito de aplicação da TRF, podem ser relevantes diferentes considerações. O
-     anexo III contém um conjunto de cenários hipotéticos e considerações relevantes.
-
-
-     1Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à proteção das
-
-     pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para
-     efeitos de prevenção, investigação, deteção ou repressão de infrações penais ou execução de sanções penais, e
-     à livre circulação desses dados, e que revoga a Decisão-Quadro 2008/977/JAI do Conselho.
-
-                                                                                                                9
-     Aprovado
-
-      2 TECNOLOGIA
-      2.1 Uma tecnologia biométrica, duas funções distintas
-6.    O reconhecimento facial é uma tecnologia probabilística que pode reconhecer automaticamente
-      indivíduos com base no seu rosto, a fim de os autenticar ou identificar.
-
-7.    A TRF insere-se na categoria mais vasta da tecnologia biométrica. Os dados biométricos englobam
-      todos os processos automatizados utilizados para reconhecer uma pessoa através da quantificação de
-      características físicas, fisiológicas ou comportamentais (impressões digitais, estrutura da íris, voz,
-      marcha, padrões dos vasos sanguíneos, etc.). Estas características são definidas como «dados
-      biométricos», porque permitem ou confirmam a identificação única dessa pessoa.
-
-8.    É o caso do rosto das pessoas ou, mais especificamente, do respetivo processamento técnico utilizando
-      dispositivos de reconhecimento facial: ao recolher a imagem de um rosto (uma fotografia ou vídeo) –
-      a chamada «amostra biométrica» –, é possível extrair uma representação digital de características
-      distintas desse rosto (o chamado «modelo»).
-
-9.    Um modelo biométrico é uma representação digital das características únicas que foram extraídas de
-      uma amostra biométrica e que podem ser armazenadas numa base de dados biométrica 2. Este modelo
-      deverá ser único e específico para cada pessoa e é, em princípio, constante ao longo do tempo 3. Na
-      fase de reconhecimento, o dispositivo compara este modelo com outros modelos previamente
-      produzidos ou calculados diretamente a partir de amostras biométricas, tais como rostos encontrados
-      numa imagem, fotografia ou vídeo. O «reconhecimento facial» é, portanto, um processo em duas
-      etapas: a recolha da imagem facial e a sua transformação num modelo, seguida do reconhecimento
-      desse rosto através da comparação do modelo correspondente com um ou mais outros modelos.
-
-10.   Tal como qualquer processo biométrico, o reconhecimento facial pode desempenhar duas funções
-      distintas:
-
-      •    a autenticação da pessoa, com o objetivo de verificar se a pessoa é quem afirma ser. Neste caso,
-           o sistema comparará uma amostra ou um modelo biométrico previamente gravado (por exemplo,
-           armazenado num cartão inteligente ou num passaporte eletrónico) com um único rosto, por
-           exemplo o de uma pessoa que se apresente num ponto de controlo, para verificar se se trata da
-           mesma pessoa. Esta funcionalidade baseia-se, portanto, na comparação de dois modelos. É
-           também chamada «verificação de um para um».
-
-      •    a identificação de uma pessoa, com o objetivo de encontrar uma pessoa num grupo de indivíduos,
-           dentro de uma área específica, numa imagem ou numa base de dados. Neste caso, o sistema tem
-           de processar cada rosto captado para gerar um modelo biométrico e, em seguida, verificar se este
-           corresponde a uma pessoa conhecida pelo sistema. Esta funcionalidade baseia-se, portanto, na
-           comparação de um modelo com uma base de dados de modelos ou amostras (base de referência).
-           Este processo é também designado por «identificação de um para muitos». Por exemplo, pode
-           associar um registo de nome pessoal (apelido, nome próprio) a um rosto, se a comparação for
-           feita com uma base de dados de fotografias associadas a apelidos e nomes próprios. Pode
-
-
-
-
-      2 Guidelines on facial recognition [Diretrizes sobre o reconhecimento facial], Comité Consultivo da Convenção
-
-      para a Proteção das Pessoas relativamente ao Tratamento Automatizado de Dados de Caráter Pessoal, Conselho
-      da Europa, junho de 2021.
-      3 Pode depender do tipo de biometria e da idade do titular dos dados.
-
-
-                                                                                                                10
-      Aprovado
-
-           também envolver o seguimento de uma pessoa numa multidão, sem estabelecer
-           necessariamente a ligação à identidade civil da pessoa.
-
-11.   Em ambos os casos, as técnicas de reconhecimento facial utilizadas baseiam-se numa correspondência
-      estimada entre modelos: o que está a ser comparado e a(s) base(s) de referência. Deste ponto de vista,
-      são probabilísticas: a comparação deduz uma maior ou menor probabilidade de a pessoa em questão
-      ser efetivamente a pessoa a autenticar ou a identificar. Se esta probabilidade exceder um determinado
-      limiar no sistema, definido pelo utilizador ou pelo programador do sistema, este assumirá que existe
-      uma correspondência.
-
-12.   Embora sejam distintas, ambas as funções – autenticação e identificação – dizem respeito ao
-      tratamento de dados biométricos relacionados com uma pessoa singular identificada ou identificável,
-      pelo que constituem tratamento de dados pessoais e, mais especificamente, tratamento de categorias
-      especiais de dados pessoais.
-
-13.   O reconhecimento facial faz parte de um espetro mais alargado de técnicas de processamento de
-      imagens de vídeo. Algumas câmaras de vídeo podem filmar pessoas dentro de uma área definida,
-      nomeadamente os seus rostos, mas não podem ser utilizadas para o reconhecimento automático
-      desses indivíduos. O mesmo se aplica à fotografia simples: uma câmara não é um sistema de
-      reconhecimento facial porque as fotografias de pessoas têm de ser processadas de uma forma
-      específica para permitirem a extração de dados biométricos.
-
-14.   A mera deteção de rostos pelas chamadas câmaras «inteligentes» também não constitui
-      necessariamente um sistema de reconhecimento facial. Embora também levantem questões
-      importantes em termos de ética e de eficácia, as técnicas digitais de deteção de comportamentos
-      anormais ou de acontecimentos violentos, ou de reconhecimento de emoções faciais ou até mesmo
-      de silhuetas, não podem ser consideradas como sistemas biométricos de tratamento de categorias
-      especiais de dados pessoais, desde que não tenham por objetivo a identificação de pessoas de forma
-      exclusiva e que o tratamento de dados pessoais em causa não inclua outras categorias especiais de
-      dados pessoais. Estes exemplos não estão totalmente dissociados do reconhecimento facial e
-      continuam sujeitos às regras de proteção de dados pessoais 4. Além disso, este tipo de sistema de
-      deteção pode ser utilizado em conjunto com outros sistemas destinados a identificar pessoas, sendo,
-      nesse caso, considerado como uma tecnologia de reconhecimento facial.
-
-15.   Ao contrário dos sistemas de captura e processamento de vídeo, por exemplo, que requerem a
-      instalação de dispositivos físicos, o reconhecimento facial é uma funcionalidade de software que pode
-      ser implementada em sistemas existentes (câmaras, bases de dados de imagens, etc.). Esta
-      funcionalidade pode, por conseguinte, ser ligada ou ter interface com uma multiplicidade de sistemas
-      e ser combinada com outras funcionalidades. Esta integração numa infraestrutura já existente exige
-      uma atenção especial, uma vez que acarreta riscos inerentes ao facto de a tecnologia de
-      reconhecimento facial poder ser fluida e fácil de ocultar5.
-
-      2.2 Uma vasta variedade de finalidades e aplicações
-16.   Para além do âmbito de aplicação das presentes orientações e fora do âmbito de aplicação da Diretiva
-      Proteção de Dados na Aplicação da Lei, o reconhecimento facial pode ser utilizado para uma vasta
-      variedade de objetivos, tanto de natureza comercial como para dar resposta a preocupações de
-
-      4 O artigo 10.º da Diretiva Proteção de Dados na Aplicação da Lei (ou o artigo 9.º do RGPD) é, no entanto, aplicável
-
-      a sistemas utilizados para agrupar indivíduos com base nos seus dados biométricos de acordo com a sua etnia,
-      orientação política ou sexual ou outras categorias especiais de dados pessoais.
-      5 Por exemplo, nas câmaras corporais, que são cada vez mais utilizadas por certos profissionais.
-
-
-                                                                                                                       11
-      Aprovado
-
-      segurança pública ou de aplicação da lei. Pode ser aplicado em muitos contextos diferentes: na relação
-      pessoal entre um utilizador e um serviço (acesso a uma aplicação), para acesso a um local específico
-      (filtragem física) ou sem qualquer limitação específica no espaço público (reconhecimento facial em
-      tempo real). Pode ser aplicado a qualquer tipo de titular de dados: um cliente de um serviço, um
-      trabalhador, um simples espetador, uma pessoa procurada ou uma pessoa envolvida num processo
-      judicial ou administrativo, etc. Algumas utilizações já são comuns e generalizadas; outras encontram-
-      se, neste momento, em fase experimental ou especulativa. Embora as presentes orientações não
-      abordem todas essas utilizações e aplicações, o CEPD recorda que só podem ser implementadas se
-      estiverem em conformidade com o quadro jurídico aplicável, designadamente com o Regulamento
-      Geral sobre a Proteção de Dados (RGPD) e com as leis nacionais aplicáveis 6. Mesmo no contexto da
-      Diretiva Proteção de Dados na Aplicação da Lei, além das funções de autenticação ou identificação, os
-      dados tratados com recurso a tecnologias de reconhecimento facial também podem ser objeto de
-      tratamento ulterior para outros fins, nomeadamente de classificação.
-
-17.   Mais concretamente, poderá ponderar-se uma escala de utilizações potenciais em função do grau de
-      controlo que as pessoas têm sobre os seus dados pessoais, dos meios efetivos de que dispõem para
-      exercer esse controlo e do seu direito de iniciativa para acionar e utilizar esta tecnologia, bem como
-      das consequências para elas (em caso de reconhecimento ou não reconhecimento) e da escala do
-      tratamento efetuado. O reconhecimento facial com base num modelo armazenado num dispositivo
-      pessoal (cartão inteligente, telemóvel inteligente, etc.) pertencente a essa pessoa, utilizado para fins
-      de autenticação e de uso estritamente pessoal através de uma interface dedicada, não apresenta os
-      mesmos riscos que, por exemplo, a utilização para fins de identificação num ambiente não controlado,
-      sem a participação ativa dos titulares dos dados e em que o modelo de cada rosto que entra na área
-      de monitorização é comparado com modelos provenientes de uma secção transversal ampla da
-      população armazenada numa base de dados. Entre estes dois extremos reside um espetro muito
-      variado de utilizações e questões associadas relacionadas com a proteção de dados pessoais.
-
-18.   Para melhor ilustrar o contexto em que as tecnologias de reconhecimento facial estão atualmente a
-      ser debatidas ou aplicadas, quer para autenticação, quer para identificação, o CEPD considera
-      pertinente mencionar uma série de exemplos. Os exemplos que se seguem são meramente descritivos
-      e não devem ser considerados como qualquer tipo de avaliação preliminar da sua conformidade com
-      o acervo da UE no domínio da proteção de dados.
-
-      Exemplos de autenticação por reconhecimento facial
-
-19.   A autenticação pode ser concebida de modo que os utilizadores tenham total controlo sobre ela, por
-      exemplo para permitir o acesso a serviços ou aplicações exclusivamente no contexto doméstico. Como
-      tal, é amplamente utilizada pelos proprietários de telemóveis inteligentes para desbloquear o
-      dispositivo, em vez da autenticação por palavra-passe.
-
-20.   A autenticação com base no reconhecimento facial também pode ser utilizada para verificar a
-      identidade de uma pessoa que pretenda obter serviços públicos ou privados prestados por terceiros.
-      Estes processos oferecem, assim, uma forma de criar uma identidade digital utilizando uma aplicação
-      móvel (telemóvel inteligente, táblete, etc.) que pode depois ser utilizada para aceder a serviços
-      administrativos em linha.
-
-21.   Além disso, a autenticação por reconhecimento facial pode ter como objetivo controlar o acesso físico
-      a um ou mais locais predefinidos, tais como entradas em edifícios ou pontos de passagem específicos.
-
-      6 Para mais orientações, ver também as Diretrizes 3/2019 sobre tratamento de dados pessoais através de
-
-      dispositivos de vídeo, do CEPD, adotadas em 29 de janeiro de 2020.
 
                                                                                                                12
-      Aprovado
-
-      Esta funcionalidade é, por exemplo, utilizada em certos tratamentos para efeitos de passagem de
-      fronteiras, em que o rosto da pessoa no dispositivo do ponto de controlo é comparado com o que está
-      armazenado no seu documento de identidade (passaporte ou autorização de residência segura).
-
-      Exemplos de identificação por reconhecimento facial
-
-22.   A identificação pode ser aplicada de muitas formas, ainda mais diversas. Estas incluem, entre outras,
-      as utilizações enumeradas abaixo, atualmente em fase de observação, experimentação ou
-      planeamento na UE:
-
-      -   pesquisa, numa base de dados de fotografias, da identidade de uma pessoa não identificada
-          (vítima, suspeita, etc.),
-
-      -   monitorização dos movimentos de uma pessoa no espaço público. O rosto da pessoa é comparado
-          com os modelos biométricos das pessoas que viajam ou viajaram na área monitorizada, por
-          exemplo quando um volume de bagagem é deixado para trás ou após a ocorrência de um crime,
-
-      -   reconstrução do percurso de uma pessoa e das suas interações subsequentes com outras pessoas,
-          através de uma comparação diferida dos mesmos elementos, por exemplo numa tentativa de
-          identificar os seus contactos,
+      Adopted
+
+      applying the technology in places visited by millions of people – such as train stations or airports – a
+      relatively small proportion of errors (e.g. 0.01%) 8 still means that hundreds of people are wrongly
+      flagged. In addition, certain categories of people may be more likely to be wrongly matched than
+      others, as described in Section 3. There are different ways to calculate and interpret error rates, so
+      caution is required. In addition, when it comes to accuracy and errors, questions in relation to how
+      easily a system can be tricked by, for example, fake face images (called ‘spoofing’) are important
+      particularly for law enforcement purposes.” 9
+27.   In this context, the EDPB considers it important to recall that FRT, whether used for the purposes of
+      authentication or identification, do not provide for a definitive result but rely on probabilities that two
+      faces, or images of faces, correspond to the same person. 10 This result is further degraded when the
+      quality of biometric sample input to the facial recognition is low. Blurriness of input images, low
+      resolution of camera, motion and low light, can be factors of low quality. Other aspects with significant
+      impact on the results are prevalence and spoofing, e.g. when criminals try to either avoid passing by
+      the cameras or to trick the FRT. Numerous studies have also highlighted that such statistical results
+      from algorithmic processing may also be subject to bias, notably resulting from the source data quality
+      as well as training databases, or other factors, like the choice of location of the deployment.
+      Furthermore, one should also highlight the impact of facial recognition technology on other
+      fundamental rights, such as the respect for private and family life, freedom of expression and
+      information, freedom of assembly and association, etc.
+28.   It is therefore essential that the reliability and accuracy of facial recognition technology is taken into
+      account as criteria for the assessment of compliance with key data protection principles, as per Article
+      4 LED, and in particular when it comes to fairness and accuracy.
+29.   While highlighting that high-quality data is essential for high quality algorithms, the EDPB also stresses
+      the need for data controllers, as part of their accountability obligation, to undertake regular and
+      systematic evaluation of algorithmic processing in order to ensure in particular the accuracy, fairness
+      and reliability of the result of such personal data processing. Personal data used for the purposes of
+      evaluating, training and further developing FRT systems may only be processed on the basis of a
+      sufficient legal basis and in accordance with the common data protection principles.
+
+
+      3 APPLICABLE LEGAL FRAMEWORK
+30.   The use of facial recognition technologies is intrinsically linked to processing of personal data, including
+      special categories of data. Moreover, it has direct or indirect impact on a number of fundamental
+      rights, enshrined in the EU Charter of Fundamental Rights. This is particularly relevant in the area of
+      law enforcement and criminal justice. Therefore, any use of facial recognition technologies should be
+      carried out in strict compliance with the applicable legal framework.
+
+31.   The following information is intended to be used for consideration when assessing future legislative
+      and administrative measures as well as implementing existing legislation on a case-by-case basis that
+      involves FRT. The relevance of the respective requirements varies according to the particular
+
+
+
+      8 This accuracy rate stems from the report quoted and reflects a rate much better than the current performance
+      of algorithms in applications of FRT.
+      9 Facial recognition technology: fundamental rights considerations in the context of law enforcement, EU
+
+      Fundamental Right Agency, 21 st November 2019.
+      10 This probability is referred to as “confidence score”.
+
+
+                                                                                                                 13
+      Adopted
+
+      circumstances. As not all future circumstances may be foreseen, it is only considered to be providing
+      support and not to be interpreted as an exhaustive enumeration.
+
+
+      3.1 General legal framework – The EU Charter of Fundamental Rights and the
+          European Convention on Human Rights (ECHR)
+
+      3.1.1   Applicability of the Charter
+32.   The EU Charter of Fundamental Rights (hereinafter “the Charter”) is addressed to the institutions,
+      bodies, offices and agencies of the Union and to the Member States when they are implementing
+      Union law.
+33.   Regulating the processing of biometric data for law enforcement purposes according to Article 1(1)
+      LED inevitably raises the question of compliance with fundamental rights, in particular the respect for
+      private life and communications under Article 7 of the Charter and the right to protection of personal
+      data under Article 8 of the Charter.
+34.   The collection and analysis of video footage of natural persons, including their faces, implies the
+      processing of personal data. When technically processing the image, the processing also covers
+      biometric data. The technical processing of data relating to the face of a natural person in relation to
+      time and place allows conclusions to be drawn concerning the private lives of the relevant persons.
+      Those conclusions may refer to the racial or ethnic origins, health, religion, habits of everyday life,
+      permanent or temporary places of residence, daily or other movements, the activities carried out, the
+      social relationships of those persons and the social environments frequented by them. The great range
+      of the information that may be revealed by the application of FRT clearly shows the possible impact
+      on the right to the protection of personal data laid down in Article 8 of the Charter, but also on the
+      right to privacy laid down in Article 7 of the Charter.
+35.   In such circumstances it is also not inconceivable that the collection, analysis and further processing of
+      the biometric (facial) data in question might have an effect on the way that people feel free to act even
+      if the act would be fully within the remits of a free and open society. It might also have severe
+      implications on the exercise of their fundamental rights, such as their right to freedom of thought,
+      conscience and religion, expression of peaceful assembly and freedom of association under Articles 1,
+      10, 11 and 12 of the Charter. Such processing also involves other risks, such as the risk of abuse of the
+      personal information gathered by the relevant authorities as a result of unlawful access to and use of
+      the personal data, security breach etc. The risks often depend on the processing and its circumstances,
+      such as the risk of unlawful access and use by police officers or by other unauthorised parties.
+      However, some risks simply are inherent to the unique nature of biometric data. Unlike an address or
+      a telephone number, it is impossible for a data subject to change his or her unique characteristics, such
+      as the face or the iris. In the case of unauthorised access or accidental publication of biometric data,
+      this would lead to the data being compromised in their use as passwords or cryptographic keys or
+      could be used for further, unauthorised surveillance activities to the detriment of the data subject.
+
+      3.1.2   Interference with the rights laid down in the Charter
+36.   The processing of biometric data under all circumstances constitutes a serious interference in itself.
+      This does not depend on the outcome, e.g. a positive matching. The processing constitutes an
+      interference even if the biometric template is immediately deleted after the matching against a police
+      database results in a no-hit.
+
+
+
+                                                                                                             14
+      Adopted
+
+37.   The interference with the fundamental rights of the data subjects may stem from an act of law that
+      either aims at or has the effect of restricting the respective fundamental right 11 . It may also result from
+      an act of a public authority with the same purpose or effect or even of a private entity entrusted by
+      law to exercise public authority and public powers.
+38.   A legislative measure that serves as a legal basis for the processing of personal data directly interferes
+      with the rights guaranteed by Articles 7 and 8 of the Charter 12 .
+39.   The use of biometric data and FRT in particular in many cases also affects the right to human dignity,
+      guaranteed by Article 1 of the Charter. Human dignity requires that individuals are not treated as mere
+      objects. FRT calculates existential and highly personal characteristics, the facial features, into a
+      machine-readable form with the purpose of using it as a human license plate or ID card, thereby
+      objectifying the face.
+40.   Such a processing may also interfere with other fundamental rights, such as the rights under Articles
+      10, 11 and 12 of the Charter insofar as chilling effects are either intended by or derive from the relevant
+      video surveillance of law enforcement agencies.
+41.   In addition, the potential risks generated by the use of facial recognition technologies by law
+      enforcement with regard to the right to fair trial and the presumption of innocence under Articles 47
+      and 48 of the Charter should also be carefully considered. The outcome of the application of FRT, e.g.
+      a match, may not only lead to a person being subject to further policing, but also be decisive evidence
+      in court proceedings. Shortcomings of FRT such as possible bias, discrimination or wrong identification
+      (‘false positive’) may thus lead to severe implications also on criminal proceedings. Furthermore, in
+      the assessment of evidence, the outcome of the application of FRT may be favoured, even if there is
+      contradicting evidence (‘automation bias’).
+
+      3.1.3   Justification for the interference
+42.   According to Article 52(1) of the Charter, any limitation to the exercise of fundamental rights and
+      freedoms must be provided for by law and respect the essence of those rights and freedoms. Subject
+      to the principle of proportionality, limitations may be made only if they are necessary and genuinely
+      meet objectives of general interest recognised by the European Union or the need to protect the rights
+      and freedoms of others.
+      3.1.3.1 Provided for by law
+43.   Article 52(1) of the Charter sets the requirement of a specific legal basis. This legal basis must be
+      sufficiently clear in its terms to give citizens an adequate indication of the conditions and
+      circumstances in which authorities are empowered to resort to any measures of collection of data and
+      secret surveillance 13 . It must indicate with reasonable clarity the scope and manner of exercise of the
+      relevant discretion conferred on the public authorities so as to ensure individuals the minimum degree
+      of protection as entitled under the rule of law in a democratic society 14 . Moreover, lawfulness requires
+      adequate safeguards to ensure that in particular an individual’s right under Article 8 of the Charter is
+      respected. These principles also apply to the processing of personal data for purposes of evaluating,
+      training and further developing of FRT systems.
+
+
+      11
+         CJEU, C-219/91 – Ter Voort, RoC 1992 I-05485, para. 36f.; CJEU, C-200/96 – Metronome, RoC 1998 I-1953,
+      para. 28.
+      12 CJEU, C-594/12, para. 36; CJEU, C-291/12, para. 23 and the following.
+      13 ECtHR, Shimovolos v. Russia, § 68; Vukota-Bojić v. Switzerland.
+      14 ECtHR, Piechowicz v. Poland, § 212.
+
+
+
+
+                                                                                                                15
+      Adopted
+
+44.   Given that biometric data when processed for the purpose of uniquely identifying a natural person
+      constitute special categories of data listed in Article 10 LED, the different applications of FRT in most
+      cases would require a dedicated law precisely describing the application and the conditions for its use.
+      This encompasses in particular the types of crime and, where applicable, the appropriate threshold of
+      severity of these crimes, in order to, among other things, effectively exclude petty crime. 15
+      3.1.3.2  The essence of the fundamental right to privacy and to protection of personal data laid down
+               in Articles 7 and 8 of the Charter
+45.   The limitations of the fundamental rights imminent to each situation still have to provide for the
+      essence of the particular right to be respected. The essence refers to the very core of the relevant
+      fundamental right 16 . Human dignity has to be respected too, even where a right is restricted 17 . .
+46.   Indications of a possible infringement of the inviolable core are the following:
+      -    A provision that imposes limitations irrespective of a person’s individual conduct or exceptional
+           circumstances 18 .
+      -    The recourse to the courts is not possible or hindered 19 .
+      -    Prior to a severe limitation, the circumstances of the individual concerned are not taken into
+           account 20 .
+      -    With a view to the rights under Articles 7 and 8 of the Charter: In addition to a broad collection of
+           communication meta-data, the acquisition of the knowledge of the content of the electronic
+           communication could violate the essence of those rights 21 .
+      -    With a view to the rights under Articles 7, 8 and 11 of the Charter: Legislation which requires that
+           providers of access to online public communication services and hosting service providers retain,
+           generally and indiscriminately, inter alia, personal data relating to those services 22 .
+      -    With reference to the rights under Article 8 of the Charter: A lack of basic principles of data
+           protection and data security could also infringe the core of the right 23 .
+
+      3.1.3.3 Legitimate aim
+47.   As already explained in point 3.1.3., limitations to the fundamental rights have to genuinely meet
+      objectives of general interest recognised by the European Union or meet the need to protect the rights
+      and freedoms of others.
+48.   Recognised by the Union are both the objectives mentioned in Article 3 of the Treaty on the European
+      Union and other interests protected by specific provisions of the Treaties 24 , i.e. – inter alia – an area
+      of freedom, security and justice, the prevention and combating of crime. In its relations with the wider
+      world, the Union should contribute to peace and security and the protection of human rights.
+
+
+      15 See e.g. CJEU judgments in cases C-817/19 Ligue des droits humains, para. 151 f, C-207/16 Ministerio Fiscal,
+      para. 56.
+      16 CJEU C-279/09, RoC 2010 I-13849, para. 60.
+      17 Explanations relating to the Charter of Fundamental Rights, Title I, Explanation on Article 1, OJ C 303,
+
+      14.12.2007, p. 17–35.
+      18 CJEU C-601/15, para 52.
+      19 CJEU C-400/10, RoC 2010 I-08965, para. 55.
+      20 CJEU C-408/03, RoC 2006 I-02647, para. 68.
+      21 CJEU - 203/15 - Tele2 Sverige, para. 101 with reference to CJEU - C-293/12 and C-594/12, para. 39.
+      22 CJEU C‑512/18, La Quadrature du Net, para. 209 et seq.
+      23 CJEU - C-594/12, para. 40.
+      24 Explanations relating to the Charter of Fundamental Rights, Title I, Explanation on Article 52, OJ C 303,
+
+      14.12.2007, p. 17–35.
+
+
+                                                                                                                  16
+      Adopted
+
+49.   The need to protect the rights and freedoms of others refers to rights of persons that are protected by
+      the law of the European Union or of its Member States. The assessment must be carried out with the
+      aim to reconcile the requirements of the protection of the respective rights and to strike a fair balance
+      between them 25 . .
+      3.1.3.4 Necessity and proportionality test
+50.   Where interferences with fundamental rights are at issue, the extent of the national and Union
+      legislator’s discretion may prove to be limited. This depends on a number of factors, including the area
+      concerned, the nature of the right in question guaranteed by the Charter, the nature and seriousness
+      of the interference and the objective pursued by the interference 26 . . Legislative measures have to be
+      appropriate for attaining the legitimate objectives pursued by the legislation at issue. Moreover, the
+      measure must not exceed the limits of what is appropriate and necessary in order to achieve those
+      objectives 27 . An objective of general interest – however fundamental it may be – does not, in itself,
+      justify a limitation to a fundamental right 28 . .
+51.   According to the CJEU’s settled case-law, derogations and limitations in relation to the protection of
+      personal data must apply only in so far as is strictly necessary 29 . This also implies that there are no less
+      intrusive means available to achieve the purpose. Possible alternatives such as – depending on the
+      given purpose – additional staffing, more frequent policing or additional street lighting have to be
+      carefully identified and assessed. Legislative measures should differentiate and target those persons
+      covered by it in the light of the objective, e.g. fighting serious crime. If it covers all persons in a general
+      manner without such differentiation, limitation or exception, it intensifies the interference 30 . It also
+      intensifies the interference if the data processing covers a significant part of the population 31 .
+52.   The protection of personal data resulting from the explicit obligation laid down in Article 8(1) of the
+      Charter is especially important for the right to respect for private life enshrined in Article 7 of the
+      Charter 32 . Legislation must lay down clear and precise rules governing the scope and application of the
+      measure in question and impose safeguards so that the persons whose data have been processed have
+      sufficient guarantees to effectively protect their personal data against the risk of abuse and against
+      any unlawful access or use of that data 33 . The need for such safeguards is all the greater where personal
+      data is subject to automatic processing and where there is a significant risk of unlawful access to the
+
+
+
+
+      25
+         Jarass GrCh, 3. Aufl. 2016, EU-Grundrechte-Charta Art. 52 Rn. 31-32.
+      26
+         CJEU - C-594/12, para. 47 with the following sources: see, by analogy, as regards Article 8 of the ECHR, Eur.
+      Court H.R., S. and Marper v. the United Kingdom [GC], nos. 30562/04 and 30566/04, § 102, ECHR 2008-V.
+      27 CJEU - C-594/12, para. 46 with the following sources: Case C‑343/09 Afton Chemical EU:C:2010:419, paragraph
+
+      45; Volker und Markus Schecke and Eifert EU:C:2010:662, paragraph 74; Cases C‑581/10 and C‑629/10 Nelson
+      and Others EU:C:2012:657, paragraph 71; Case C‑283/11 Sky Österreich EU:C:2013:28, paragraph 50; and Case
+      C‑ 101/12 Schaible EU:C:2013:661, paragraph 29.
+      28 CJEU - C-594/12, para. 51.
+      29 CJEU - C-594/12, para. 52, with the following sources: Case C‑473/12IPI EU:C:2013:715, paragraph39andthe
+
+      case-law cited.
+      30 CJEU - C-594/12, para. 57.
+      31 CJEU - C-594/12, para. 56.
+      32 CJEU - C-594/12, para. 53.
+      33 CJEU - C-594/12, para. 54, with the following sources: see, by analogy, as regards Article 8 of the ECHR, Eur.
+
+      Court H.R., Liberty and Others v. the United Kingdom, 1 July 2008, no. 58243/00, § 62 and 63; Rotaru v. Romania,
+      § 57 to 59, and S. and Marper v. the United Kingdom, § 99.
+
+
+                                                                                                                    17
+      Adopted
+
+      data 34 . Furthermore, internal or external, e.g. judicial, authorisation of the deployment of FRT may also
+      contribute as safeguards, and may prove to be necessary in certain cases of severe interference. 35
+53.   The rules laid down have to be adapted to the specific situation, e.g. the quantity of data processed,
+      the nature of the data 36 and the risk of unlawful access to the data. This calls for rules which would
+      serve, in particular, to govern the protection and security of the data in question in a clear and strict
+      manner in order to ensure their full integrity and confidentiality 37 .
+54.   With regard to the relationship between the controller and the processor it should not be permitted
+      for the processors to have regard only to economic considerations when determining the level of
+      security which they apply to personal data; this could endanger a sufficient high level of protection 38 .
+
+55.   An act of law has to lay down substantive and procedural conditions and objective criteria by which to
+      determine the limits of competent authorities’ access to data and their subsequent use. For the
+      purposes of prevention, detection or criminal prosecutions, the offences concerned would have to be
+      considered sufficiently serious to justify the extent and seriousness of these interferences with the
+      fundamental rights enshrined for example in Articles 7 and 8 of the Charter 39 .
+56.   The data has to be processed in a way that ensures the applicability and effect of the EU data
+      protection rules; in particular those provided by Article 8 of the Charter, which states that the
+      compliance with the requirements of protection and security shall be subject to control by an
+      independent authority. The geographical place where the processing takes place may in such a
+      situation be relevant 40 .
+57.   With regard to the different steps of processing of personal data, a distinction should be made
+      between the categories of data on the basis of their possible usefulness for the purposes of the
+      objective pursued or according to the persons concerned 41. The determination of the conditions of the
+      processing, for example, the determination of the retention period, must be based on objective criteria
+      in order to ensure that the interference is limited to what is strictly necessary 42 .
+58.   Based on each situation, the assessment of necessity and proportionality has to identify and consider
+      all implications that fall within the scope of other fundamental rights, such as human dignity under
+      Article 1 of the Charter, freedom of thought, conscience and religion under Article 10 of the Charter,
+      freedom of expression under Article 11 of the Charter as well as freedom of assembly and association
+      under Article 12 of the Charter.
+59.   Furthermore, it has to be considered as a matter of severity, that if the data is systematically processed
+      without the knowledge of the data subjects, it is likely to generate a general conception of constant
+
+
+
+
+      34 CJEU - C-594/12, para. 55, with the following sources: see, by analogy, as regards Article 8 of the ECHR, S. and
+      Marper v. the United Kingdom, § 103, and M. K. v. France, 18 April 2013, no. 19522/09, § 35.
+      35 ECtHR, Szabó and Vissy v. Hungary, §§ 73-77.
+      36 See also the heightened requirements for technical and organizational measures when processing special
+
+      categories of data, Article 29 para. 1 LED.
+      37 CJEU - C-594/12, para. 66.
+      38 CJEU - C-594/12, para. 67.
+      39 CJEU - C-594/12, para. 60 and 61.
+      40 CJEU - C-594/12, para. 68.
+      41 CJEU - C-594/12, para. 63.
+      42 CJEU - C-594/12, para. 64.
 
-      -   identificação biométrica à distância de pessoas procuradas em espaços públicos. Todos os rostos
-          captados em tempo real por câmaras de videovigilância são comparados, em tempo real, com uma
-          base de dados mantida pelas forças de segurança,
 
-      -   reconhecimento automático de pessoas numa imagem para identificar, por exemplo, as suas
-          relações numa rede social que o utilize. A imagem é comparada com os modelos de todas as
-          pessoas na rede que tenham consentido esta funcionalidade, a fim de sugerir a identificação
-          nominativa destas relações,
-
-      -   acesso a serviços, existindo caixas automáticas que reconhecem os seus clientes comparando um
-          rosto captado por uma câmara com a base de dados de imagens faciais detida pelo banco,
-
-      -   rastreamento do percurso de um passageiro numa determinada fase da viagem. O modelo,
-          calculado em tempo real, de qualquer pessoa que passe por portas localizadas em determinadas
-          fases da viagem (pontos de entrega de bagagem, portas de embarque, etc.) é comparado com os
-          modelos de pessoas previamente registadas no sistema.
-
-23.   Para além da utilização da TRF no domínio da aplicação da lei, o vasto leque de aplicações observadas
-      exige certamente um debate e uma abordagem política abrangentes, a fim de assegurar a coerência e
-      a conformidade com o acervo da UE no domínio da proteção de dados.
-
-      2.3 Fiabilidade, exatidão e riscos para os titulares dos dados
-24.   Como qualquer tecnologia, também a aplicação do reconhecimento facial pode estar sujeita a desafios,
-      nomeadamente no que diz respeito à sua fiabilidade e eficiência em termos de autenticação ou
-      identificação, bem como à questão geral da qualidade e da exatidão dos «dados-fonte» e do resultado
-      do processamento da tecnologia de reconhecimento facial.
-
-25.   Estes desafios tecnológicos implicam riscos específicos para os titulares dos dados em causa, que são
-      ainda mais significativos ou graves no domínio da aplicação da lei se tivermos em conta os possíveis
-      efeitos, de natureza jurídica ou outra, para os titulares dos dados que os afetem de forma significativa.
-      Neste contexto, afigura-se igualmente útil sublinhar que a utilização a posteriori da TRF não é, por si
-
-
-
-                                                                                                            13
-      Aprovado
-
-      só, mais segura, uma vez que permite rastrear os indivíduos ao longo do tempo e em vários locais. A
-      utilização a posteriori também apresenta riscos específicos que têm de ser avaliados caso a caso 7.
-
-26.   Tal como salientado pela Agência dos Direitos Fundamentais da UE no seu relatório de 2019, «a
-      determinação do nível necessário de exatidão do software de reconhecimento facial é um desafio:
-      existem muitas formas diferentes de avaliar e aferir a exatidão, dependendo nomeadamente da tarefa,
-      do objetivo e do contexto da sua utilização. Ao aplicar a tecnologia em locais visitados por milhões de
-      pessoas – como estações ferroviárias ou aeroportos – uma percentagem relativamente pequena de
-      erros (por exemplo, 0,01 %)8 implica a sinalização incorreta de centenas de pessoas. Além disso, certas
-      categorias de pessoas podem ter mais probabilidades de serem objeto de correspondências erradas
-      do que outras, como descrito na secção 3. Existem diferentes formas de calcular e interpretar as taxas
-      de erro, pelo que é necessária prudência. Além do mais, no que diz respeito à exatidão e aos erros, as
-      questões relacionadas com a facilidade com que um sistema pode ser enganado, por exemplo, por
-      imagens faciais falsas (o chamado spoofing, ou mistificação da identidade) são importantes,
-      especialmente para efeitos de aplicação da lei»9.
-
-27.   Neste contexto, o CEPD considera importante recordar que a TRF, quer seja utilizada para efeitos de
-      autenticação ou de identificação, não produz um resultado definitivo, mas baseia-se na probabilidade
-      de que dois rostos, ou imagens de rostos, correspondam à mesma pessoa10. Este resultado é ainda
-      menos fiável quando a qualidade da amostra biométrica introduzida no sistema de reconhecimento
-      facial é baixa. Imagens de entrada desfocadas, a baixa resolução da câmara, movimento e iluminação
-      fraca podem contribuir para a baixa qualidade dos resultados. Outros aspetos com impacto
-      significativo nos resultados são a prevalência e a mistificação da identidade, por exemplo quando os
-      criminosos tentam evitar passar por câmaras ou enganar a TRF. Numerosos estudos salientaram
-      igualmente que estes resultados estatísticos do tratamento algorítmico podem também estar sujeitos
-      a enviesamentos, nomeadamente resultantes da qualidade dos dados-fonte e das bases de dados de
-      treino, ou de outros fatores, como a escolha da localização da implantação. Além disso, há que
-      salientar também o impacto da tecnologia de reconhecimento facial noutros direitos fundamentais,
-      como o respeito pela vida privada e familiar, a liberdade de expressão e de informação, a liberdade de
-      reunião e de associação, etc.
-
-28.   É, pois, essencial que a fiabilidade e a exatidão da tecnologia de reconhecimento facial sejam tidas em
-      conta como critérios para avaliar a conformidade com os princípios fundamentais da proteção de
-      dados, nos termos do artigo 4.º da Diretiva Proteção de Dados na Aplicação da Lei, nomeadamente no
-      que se refere à equidade e à exatidão.
-
-29.   Embora salientando que algoritmos de alta qualidade requerem dados de alta qualidade, o CEPD
-      sublinha também a necessidade de os responsáveis pelo tratamento de dados, no âmbito da sua
-      obrigação de responsabilidade, procederem a uma avaliação regular e sistemática do tratamento
-      algorítmico, a fim de garantir, concretamente, a exatidão, a equidade e a fiabilidade do resultado desse
-      tratamento de dados pessoais. Os dados pessoais utilizados para efeitos de avaliação, treino e ulterior
-
-
-
-
-      7 Ver os exemplos apresentados no anexo III.
-      8 Esta taxa de exatidão resulta do relatório citado e reflete uma taxa muito superior ao desempenho atual dos
-
-      algoritmos em aplicações de TRF.
-      9 Facial recognition technology: fundamental rights considerations in the context of law enforcement [Tecnologia
-
-      de reconhecimento facial: considerações relativas aos direitos fundamentais no contexto da aplicação da lei],
-      Agência dos Direitos Fundamentais da UE, 21 de novembro de 2019.
-      10 Esta probabilidade é referida como «pontuação de confiança».
-
-
-                                                                                                                   14
-      Aprovado
-
-      desenvolvimento dos sistemas de TRF só podem ser tratados com fundamento numa base jurídica
-      suficiente e em conformidade com os princípios comuns em matéria de proteção de dados.
-
-
-      3 QUADRO JURÍDICO APLICÁVEL
-30.   A utilização de tecnologias de reconhecimento facial está intrinsecamente ligada ao tratamento de
-      dados pessoais, incluindo de categorias especiais de dados. Além disso, tem um impacto direto ou
-      indireto numa série de direitos fundamentais, consagrados na Carta dos Direitos Fundamentais da UE.
-      Este aspeto é de particular importância no domínio da aplicação da lei e da justiça penal. Qualquer
-      utilização de tecnologias de reconhecimento facial deve, pois, ser efetuada em estrita conformidade
-      com o quadro jurídico aplicável.
-
-31.   As informações que se seguem destinam-se a ser utilizadas para consideração aquando da avaliação
-      de futuras medidas legislativas e administrativas, bem como de forma individualizada na aplicação da
-      legislação em vigor em casos que envolvam TRF. A relevância dos respetivos requisitos varia em função
-      das circunstâncias específicas em apreço. Dada a impossibilidade de prever todas as circunstâncias
-      futuras, estas informações servem apenas de apoio e não devem ser interpretadas como uma
-      enumeração exaustiva.
-
-
-      3.1 Quadro jurídico geral – A Carta dos Direitos Fundamentais da UE e a Convenção
-          Europeia dos Direitos Humanos (CEDH)
-
-      3.1.1 Aplicabilidade da Carta
-32.   A Carta dos Direitos Fundamentais da UE (a seguir designada por «Carta») tem por destinatários as
-      instituições, os órgãos e os organismos da União, bem como os Estados-Membros, quando apliquem
-      o direito da União.
-
-33.   A regulamentação do tratamento de dados biométricos para fins de aplicação da lei nos termos do
-      artigo 1.º, n.º 1, da Diretiva Proteção de Dados na Aplicação da Lei levanta inevitavelmente a questão
-      do respeito dos direitos fundamentais, em especial do respeito pela vida privada e pelas comunicações
-      privadas nos termos do artigo 7.º da Carta e do direito à proteção dos dados pessoais nos termos do
-      artigo 8.º da Carta.
-
-34.   A recolha e a análise de imagens de vídeo de pessoas singulares, incluindo os seus rostos, implica o
-      tratamento de dados pessoais. O tratamento técnico da imagem abrange também os dados
-      biométricos. O tratamento técnico dos dados relacionados com o rosto de uma pessoa singular em
-      relação ao tempo e ao local permite tirar conclusões sobre a vida privada da pessoa em causa. Essas
-      conclusões podem dizer respeito à origem racial ou étnica, à saúde, à religião, aos hábitos diários, aos
-      locais de residência permanentes ou temporários, às deslocações diárias ou outras, às atividades
-      realizadas e às relações sociais dessas pessoas, bem como aos ambientes sociais que elas frequentam.
-      O grande leque de informações que podem ser reveladas pela aplicação de TRF mostra claramente o
-      possível impacto no direito à proteção dos dados pessoais consagrado no artigo 8.º da Carta, mas
-      também no direito à privacidade consagrado no artigo 7.º da Carta.
-
-35.   Nestas circunstâncias, também não é inconcebível que a recolha, a análise e o posterior tratamento
-      dos dados biométricos (faciais) em questão possam repercutir-se na forma como as pessoas se sentem
-      livres para agir, mesmo que os atos em questão se inscrevam plenamente nos limites de uma
-      sociedade livre e aberta. Pode também ter implicações graves no exercício dos seus direitos
-
-                                                                                                           15
-      Aprovado
-
-      fundamentais, como o seu direito à liberdade de pensamento, de consciência e de religião, à liberdade
-      de expressão e à liberdade de reunião pacífica e de associação nos termos dos artigos 1.º, 10.º, 11.º e
-      12.º da Carta. Esse tratamento envolve também outros riscos, tais como o risco de utilização abusiva
-      das informações pessoais recolhidas pelas autoridades competentes em resultado do acesso e da
-      utilização ilícitos dos dados pessoais, o risco de violações de segurança, etc. Os riscos dependem
-      frequentemente do tratamento e das suas circunstâncias, tais como o risco de acesso e utilização
-      ilícitos por agentes da polícia ou por outras partes não autorizadas. No entanto, alguns riscos são
-      simplesmente intrínsecos à natureza única dos dados biométricos. Ao contrário de uma morada ou de
-      um número de telefone, é impossível ao titular dos dados alterar as suas características únicas, como
-      o seu rosto ou a sua íris. Em caso de acesso não autorizado ou de publicação acidental de dados
-      biométricos, os dados passam a estar comprometidos para utilização como palavras-passe ou chaves
-      criptográficas ou podem ser utilizados para outras atividades de vigilância não autorizadas lesivas do
-      titular dos dados.
-
-      3.1.2 Ingerência nos direitos consagrados na Carta
-36.   O tratamento de dados biométricos, seja em que circunstância for, constitui, por si só, uma ingerência
-      grave. Esta não depende do resultado, por exemplo uma correspondência positiva. O tratamento
-      constitui uma ingerência mesmo que o modelo biométrico seja imediatamente apagado depois de a
-      verificação numa base de dados da polícia resultar numa resposta negativa.
-
-37.   A ingerência nos direitos fundamentais dos titulares dos dados pode resultar de um ato jurídico que
-      tenha por objetivo ou por efeito restringir o respetivo direito fundamental 11. Por outro lado, pode
-      resultar de um ato de uma autoridade pública com o mesmo objetivo ou efeito ou até de uma entidade
-      privada encarregada por lei de exercer a autoridade e os poderes públicos.
-
-38.   Uma medida legislativa que serve de base jurídica para o tratamento de dados pessoais é constitutiva
-      de uma ingerência direta nos direitos garantidos pelos artigos 7.º e 8.º da Carta12.
-
-39.   A utilização de dados biométricos e, em especial, de TRF, em muitos casos, afeta também o direito à
-      dignidade humana, garantido pelo artigo 1.º da Carta. A dignidade humana requer que os indivíduos
-      não sejam tratados como meros objetos. A TRF calcula características existenciais e altamente
-      pessoais, os traços faciais, num formato de leitura automática, com o objetivo de os utilizar como
-      matrícula ou cartão de identificação humano, objetificando assim o rosto da pessoa.
-
-40.   Este tratamento pode também constituir uma ingerência noutros direitos fundamentais, tais como os
-      direitos garantidos pelos artigos 10.º, 11.º e 12.º da Carta, na medida em que a videovigilância em
-      causa realizada pelos serviços de aplicação da lei resulte, intencional ou inadvertidamente, em efeitos
-      dissuasores.
-
-41.   Além disso, importa ter também cuidadosamente em conta os potenciais riscos gerados pela utilização
-      de tecnologias de reconhecimento facial pelas autoridades de aplicação da lei no que diz respeito aos
-      direitos a um tribunal imparcial e à presunção de inocência, consagrados nos artigos 47.º e 48.º da
-      Carta. O resultado da aplicação da TRF, por exemplo uma correspondência, pode não só levar a que
-      uma pessoa seja sujeita a policiamento mais intensivo, mas também constituir uma prova decisiva num
-      processo judicial. As insuficiências da TRF, nomeadamente possíveis enviesamentos, discriminação ou
-      erros de identificação («falsos positivos») podem, por conseguinte, ter graves consequências também
-
-
-      11 Acórdão de 28 de outubro de 1992, Ter Voort, C-219/91, EU:C:1992:414, n.º 36; Acórdão de 28 de abril de
-
-      1998, Metronome Musik/Music Point Hokamp, C-200/96, EU:C:1998:172, n.º 28.
-      12 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 36; Acórdão de 17 de
-
-      outubro de 2013, Schwarz, C-291/12, EU:C:2013:670, n.º 23 e seguintes.
-
-                                                                                                                    16
-      Aprovado
-
-      em processos penais. Além disso, na apreciação dos elementos de prova, o resultado da aplicação da
-      TRF pode ser favorecido, mesmo perante provas contraditórias («enviesamento da automatização»).
-
-      3.1.3 Justificação da ingerência
-42.   Nos termos do artigo 52.º, n.º 1, da Carta, qualquer restrição ao exercício dos direitos e liberdades
-      fundamentais deve ser prevista por lei e respeitar o conteúdo essencial desses direitos e liberdades.
-      Na observância do princípio da proporcionalidade, essas restrições só podem ser introduzidas se forem
-      necessárias e corresponderem efetivamente a objetivos de interesse geral reconhecidos pela União,
-      ou à necessidade de proteção dos direitos e liberdades de terceiros.
-
-      3.1.3.1 Prevista por lei
-43.   O artigo 52.º, n.º 1, da Carta estabelece o requisito de uma base jurídica específica. Os termos dessa
-      base jurídica devem ser suficientemente claros para dar aos cidadãos uma indicação adequada das
-      condições e das circunstâncias em que as autoridades têm poderes para recorrer a medidas de recolha
-      de dados e de vigilância secreta13. A base jurídica deve indicar, com uma nitidez razoável, a amplitude
-      e as modalidades do exercício do poder discricionário conferido às autoridades públicas, de modo a
-      garantir aos indivíduos o grau mínimo de proteção a que têm direito ao abrigo do Estado de direito
-      numa sociedade democrática14. Além disso, a licitude requer salvaguardas adequadas para garantir,
-      concretamente, que o direito de um indivíduo ao abrigo do artigo 8.º da Carta seja respeitado. Estes
-      princípios aplicam-se igualmente ao tratamento de dados pessoais para efeitos de avaliação, treino e
-      desenvolvimento dos sistemas de TRF.
-
-44.   Constituindo os dados biométricos, quando tratados para efeitos de identificação inequívoca de uma
-      pessoa singular, categorias especiais de dados na aceção do artigo 10.º da Diretiva Proteção de Dados
-      na Aplicação da Lei, as diferentes aplicações da TRF exigiriam, na maioria dos casos, uma lei específica
-      que descreva com precisão a aplicação e as condições da sua utilização. Esta descrição engloba,
-      nomeadamente, os tipos de crimes e, se for caso disso, o limiar adequado de gravidade dos mesmos,
-      a fim de, entre outras coisas, excluir efetivamente a pequena criminalidade 15.
-
-      3.1.3.2   O conteúdo essencial do direito fundamental à privacidade e à proteção dos dados pessoais
-                consagrado nos artigos 7.º e 8.º da Carta
-45.   As limitações dos direitos fundamentais inerentes a cada situação têm, não obstante, de garantir o
-      conteúdo essencial do direito concreto a respeitar. O conteúdo essencial refere-se à própria essência
-      do direito fundamental em causa 16. A dignidade humana também tem de ser respeitada, mesmo
-      quando um direito é restringido 17.
-
-46.   Os indícios de uma eventual infração da essência inviolável são os seguintes:
-
-      -    Uma disposição que imponha limitações independentemente do comportamento individual de
-           uma pessoa ou de circunstâncias excecionais 18.
-      -    Impossibilidade ou dificuldade no recurso aos tribunais 19.
-
-
-
-      13 TEDH, Shimovolos c. Rússia, § 68; Vukota-Bojić c. Suíça.
-      14 TEDH, Piechowicz c. Polónia, § 212.
-      15 Ver, por exemplo, o Acórdão de 21 de junho de 2022, Ligue des droits humains, C-817/19, EU:C:2022:491,
-
-      n.º 151, e o Acórdão de 2 de outubro de 2018, Ministerio Fiscal, C-207/16, EU:C:2018:788, n.º 56.
-      16 Acórdão de 22 de dezembro de 2010, DEB, C-279/09, EU:C:2010:811, n.º 60.
-      17 Anotações relativas à Carta dos Direitos Fundamentais, Título I, Anotação ad artigo 1.º (JO C 303 de 14.12.2007,
-
-      p. 17).
-      18 Acórdão de 15 de fevereiro de 2016, N., C-601/15, EU:C:2016:84, n.º 52.
-      19 Acórdão de 5 de outubro de 2010, McB., C-400/10, EU:C:2010:582, n.º 55.
-
-
-                                                                                                                      17
-      Aprovado
-
-      -    Antes de uma limitação grave, as circunstâncias do indivíduo em causa não são tidas em conta 20.
-      -    Tendo em vista os direitos previstos nos artigos 7.º e 8.º da Carta: para além de uma ampla recolha
-           de metadados de comunicação, a aquisição do conhecimento do conteúdo da comunicação
-           eletrónica poderia violar o conteúdo essencial desses direitos21.
-      -    Tendo em vista os direitos previstos nos artigos 7.º, 8.º e 11.º da Carta: legislação que exige que
-           os prestadores de acesso a serviços de comunicação pública em linha e os prestadores de serviços
-           de alojamento virtual conservem, de forma geral e indiscriminada, entre outros, dados pessoais
-           relacionados com esses serviços22.
-      -    No que se refere aos direitos previstos no artigo 8º da Carta: a falta de princípios básicos de
-           proteção e segurança dos dados poderia também infringir o conteúdo essencial do direito 23.
-
-      3.1.3.3 Objetivo legítimo
-47.   Tal como já se explicou no ponto 3.1.3., as restrições aos direitos fundamentais têm de corresponder
-      efetivamente a objetivos de interesse geral reconhecidos pela União Europeia ou satisfazer a
-      necessidade de proteger os direitos e liberdades de terceiros.
-
-48.   A União reconhece tanto os objetivos mencionados no artigo 3.º do Tratado da União Europeia como
-      outros interesses protegidos por disposições específicas dos Tratados 24, isto é, nomeadamente, um
-      espaço de liberdade, segurança e justiça e a prevenção e o combate à criminalidade. Nas suas relações
-      com o resto do mundo, a União deve contribuir para a paz e para a segurança, bem como para a
-      proteção dos direitos humanos.
-
-49.   A necessidade de proteger os direitos e as liberdades de terceiros refere-se aos direitos das pessoas
-      protegidas pelo direito da União Europeia ou dos seus Estados-Membros. A avaliação deve ser
-      efetuada com o objetivo de conciliar as exigências da proteção dos respetivos direitos e de encontrar
-      um justo equilíbrio entre eles 25..
-
-      3.1.3.4 Teste da necessidade e da proporcionalidade
-50.   Quando estão em causa ingerências nos direitos fundamentais, o poder discricionário do legislador
-      nacional e da União pode revelar-se limitado. Tal depende de uma série de fatores, incluindo a zona
-      em causa, a natureza do direito em questão garantido pela Carta, a natureza e a gravidade da
-      ingerência e o objetivo da ingerência26.. As medidas legislativas têm de ser adequadas para alcançar os
-      objetivos legítimos da legislação em causa. Além disso, a medida não deve exceder os limites do que
-      é adequado e necessário à realização desses objetivos27. Um objetivo de interesse geral, por muito
-      fundamental que seja, não pode, por si só, justificar uma restrição a um direito fundamental 28..
-
-
-      20 Acórdão de 23 de março de 2006, Comissão/Bélgica, C-408/03, EU:C:2006:192, n.º 68.
-      21 Acórdão de 21 de dezembro de 2016, Tele2 Sverige, C-203/15, EU:C:2016:970, n.º 101, com referência ao
-
-      Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-293/12 e C-594/12, n.º 39.
-      22 Acórdão de 6 de outubro de 2020, La Quadrature du Net e o., C-512/18, EU:C:2020:791, n.º 209 e seguintes.
-      23 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 40.
-      24 Anotações relativas à Carta dos Direitos Fundamentais, Título I, Anotação ad artigo 52.º (JO C 303 de
-
-      14.12.2007, p. 17).
-      25 Jarass GrCh, 3. Aufl. 2016, EU-Grundrechte-Charta Art. 52 Rn. 31-32.
-      26 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 47, com as seguintes fontes:
-
-      v., por analogia, no que respeita ao artigo 8.º da CEDH, acórdão TEDH, S. e Marper c. Reino Unido [GC], n. os
-      30562/04 e 30566/04, § 102, CEDH 2008-V.
-      27 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 46, com as seguintes fontes:
-
-      acórdãos Afton Chemical, C‑343/09, EU:C:2010:419, n.º 45; Volker und Markus Schecke e Eifert, EU:C:2010:662,
-      n.º 74; Nelson e o., C‑581/10 e C‑629/10, EU:C:2012:657, n.º 71; Sky Österreich, C‑283/11, EU:C:2013:28, n.º 50;
-      e Schaible, C‑101/12, EU:C:2013:661, n.º 29.
-      28 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 51.
 
 
                                                                                                                       18
-      Aprovado
+      Adopted
 
-51.   Segundo a jurisprudência constante do TJUE, as derrogações e limitações à proteção dos dados
-      pessoais devem ocorrer na estrita medida do necessário 29. Tal implica também a inexistência de meios
-      menos intrusivos para alcançar a finalidade em questão. Importa identificar e avaliar cuidadosamente
-      alternativas possíveis, como – dependendo da finalidade em causa – reforço dos recursos humanos,
-      policiamento mais frequente ou mais iluminação pública. As medidas legislativas devem diferenciar e
-      visar as pessoas abrangidas pelo seu âmbito de aplicação em função do respetivo objetivo, por
-      exemplo de combater a criminalidade grave. Se a medida abranger todas as pessoas de um modo geral,
-      sem essa diferenciação, limitação ou exceção, a ingerência é intensificada30. A ingerência é igualmente
-      intensificada se o tratamento de dados abranger uma parte significativa da população 31.
+      surveillance 43 . This may lead to chilling effects in regard of some or all of the fundamental rights
+      concerned.
+60.   In order to facilitate and operationalise the assessment of necessity and proportionality in legislative
+      measures related to facial recognition in the law enforcement area, the national and Union legislators
+      could take advantage of the available practical tools especially designed for this task. In particular, the
+      necessity and proportionality toolkit 44 provided by the European Data Protection Supervisor could be
+      used.
+      3.1.3.5 Articles 52(3), 53 of the Charter (level of protection, also in relation to that of the ECHR)
+61.   According to Article 52(3) and Article 53 of the Charter, the meaning and scope of those rights of the
+      Charter that correspond to the rights guaranteed in the ECHR must be the same as those laid down by
+      the ECHR. While in particular for Article 7 of the Charter an equivalent may be found in the ECHR, this
+      is not the case for Article 8 of the Charter 45 . Article 52(3) of the Charter does not prevent Union law to
+      provide more extensive protection. As the ECHR does not constitute a legal instrument which has been
+      formally incorporated into EU law, EU legislation must be undertaken in the light of the fundamental
+      rights of the Charter 46 .
+62.   According to Article 8 of the ECHR, there shall be no interference by a public authority with the exercise
+      of this right to respect for private and family life except when in accordance with the law and what is
+      necessary in a democratic society in the interests of national security, public safety or the economic
+      well-being of the country, for the prevention of disorder or crime, for the protection of health or
+      morals, or for the protection of the rights and freedoms of others.
+63.   The ECHR also sets standards with regard to the way limitations can be undertaken. One basic
+      requirement, besides the rule of law, is foreseeability. In order to fulfil the requirement of
+      foreseeability, the law must be sufficiently clear in its terms to give individuals an adequate indication
+      as to the circumstances in which and the conditions on which the authorities are empowered to resort
+      to any such measures 47 . This requirement is acknowledged by the CJEU and EU data protection law (cf.
+      section 3.2.1.1).
 
-52.   A proteção dos dados pessoais que resulta da obrigação expressa prevista no artigo 8.º, n.º 1, da Carta
-      assume particular importância para o direito ao respeito da vida privada consagrado no artigo 7.º
-      desta32. A legislação deve estabelecer regras claras e precisas que regulem o âmbito e a aplicação da
-      medida em causa e imponham exigências, de modo que as pessoas cujos dados foram tratados
-      disponham de garantias suficientes que permitam proteger eficazmente os seus dados pessoais contra
-      os riscos de abuso e contra qualquer acesso ou utilização ilícita dos mesmos33. A necessidade de dispor
-      de tais garantias é ainda mais importante quando os dados pessoais são sujeitos a tratamento
-      automático e existe um risco significativo de acesso ilícito aos mesmos 34. Além disso, a autorização
-      interna ou externa, por exemplo judicial, da utilização de TRF também pode contribuir como exigência
-      e pode revelar-se necessária em certos casos de ingerência grave35.
-
-53.   As regras estabelecidas devem ser adaptadas à situação específica, por exemplo, a quantidade de
-      dados tratados, o caráter dos dados 36e o risco de acesso ilícito aos mesmos. Tal requer regras que se
-      destinariam, designadamente, a regular de maneira clara e estrita a proteção e a segurança dos dados
-      em causa, a fim de garantir a sua plena integridade e confidencialidade 37.
-
-54.   No que diz respeito à relação entre o responsável pelo tratamento e o subcontratante, este último não
-      deve poder ter em conta apenas considerações económicas na determinação do nível de segurança
-      que aplica aos dados pessoais, já que, dessa forma, pode não conseguir garantir um nível de proteção
-      suficientemente elevado38.
-
-55.   Um ato legislativo tem de estabelecer condições substantivas e processuais e critérios objetivos que
-      permitam delimitar o acesso das autoridades competentes aos dados e a sua utilização posterior. Para
-      fins de prevenção, deteção ou ação penal, as infrações em causa teriam de ser consideradas
+64.   Further specifying the rights of Article 8 ECHR, the provisions of the Convention for the Protection of
+      Individuals with regard to Automatic Processing of Personal Data 48 have to be fully respected too. Still,
+      it has to be considered that these provisions represent only a minimum standard in view of the
+      prevailing Union law.
 
 
-      29 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 52, com as seguintes fontes:
-
-      acórdão IPI, C‑473/12, EU:C:2013:715, n.º 39 e jurisprudência referida).
-      30 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 57.
-      31 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 56.
-      32 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 53.
-      33 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 54, com as seguintes fontes:
-
-      v., por analogia, no que respeita ao artigo 8.º da CEDH, acórdãos TEDH, Liberty e outros c. Reino Unido de 1 de
-      julho de 2008, n.º 58243/00, §§ 62 e 63; Rotaru c. Roménia, já referido, §§ 57 a 59; e S e Marper c. Reino Unido,
-      já referido, § 99.
-      34 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 55, com as seguintes fontes:
-
-      v., por analogia, no que respeita ao artigo 8.º da CEDH, acórdãos TEDH, S e Marper c. Reino Unido, já referido, §
-      103, e M. K. c. França de 18 de abril de 2013, n.º 19522/09, § 35.
-      35TEDH, Szabó e Vissy c. Hungria, §§ 73-77.
-      36 Ver também os requisitos reforçados de medidas técnicas e organizativas para o tratamento de categorias
-
-      especiais de dados, artigo 29.º, n.º 1, da Diretiva Proteção de Dados na Aplicação da Lei.
-      37 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 66.
-      38 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 67.
+      3.2 Specific legal framework – the Law Enforcement Directive
 
 
-                                                                                                                      19
-      Aprovado
 
-      suficientemente graves para justificar a amplitude e a gravidade dessas ingerências nos direitos
-      fundamentais consagrados, por exemplo, nos artigos 7.º e 8.º da Carta39.
+      43 CJEU - C-594/12, para. 37.
+      44 European Data Protection Supervisor: Assessing the necessity of measures that limit the fundamental right to
+      the protection of personal data: A toolkit (11.4.2017); European Data Protection Supervisor: EDPS Guidelines on
+      assessing the proportionality of measures that limit the fundamental rights to privacy and to the protection of
+      personal data (19.12.2019).
+      45 CJEU - C-203/15 - Tele2 Sverige, para 129.
+      46 CJEU – C-311/18, para. 99.
+      47 European Court of Human Rights, Judgment, CASE OF COPLAND v. THE UNITED KINGDOM, 03/04/2007,
 
-56.   Os dados têm de ser tratados de forma a garantir a aplicabilidade e o efeito das regras de proteção de
-      dados da UE, em especial das previstas no artigo 8.º da Carta, que estabelece que o respeito das
-      exigências de proteção e de segurança está sujeito a fiscalização por parte de uma autoridade
-      independente. O local geográfico onde o tratamento é efetuado pode, nessa situação, ser relevante 40.
-
-57.   No que diz respeito às diferentes etapas do tratamento de dados pessoais, importa distinguir entre as
-      categorias de dados em função da sua eventual utilidade relativamente ao objetivo prosseguido ou
-      em função das pessoas em causa 41. A determinação das condições do tratamento, por exemplo a
-      determinação do período de conservação, deve basear-se em critérios objetivos, a fim de garantir que
-      a ingerência se limita ao estritamente necessário 42.
-
-58.   Em função da situação em apreço, a avaliação da necessidade e da proporcionalidade tem de
-      identificar e ponderar todas as repercussões abrangidas pelo âmbito de aplicação dos direitos
-      fundamentais, tais como a dignidade humana nos termos do artigo 1.º da Carta, a liberdade de
-      pensamento, de consciência e de religião nos termos do artigo 10.º da Carta, a liberdade de expressão
-      nos termos do artigo 11.º da Carta, bem como a liberdade de reunião e de associação nos termos do
-      artigo 12.º da Carta.
-
-59.   Importa, além disso, considerar como uma questão de gravidade que, se os dados forem
-      sistematicamente tratados sem o conhecimento dos respetivos titulares, é provável que se gere uma
-      sensação geral de vigilância constante43. Esta sensação pode provocar efeitos dissuasores em relação
-      à totalidade ou a parte dos direitos fundamentais em causa.
-
-60.   Para facilitar e operacionalizar a avaliação da necessidade e da proporcionalidade no que diz respeito
-      a medidas legislativas relacionadas com o reconhecimento facial no domínio da aplicação da lei, os
-      legisladores nacionais e da União poderiam tirar partido dos instrumentos práticos disponíveis
-      especialmente concebidos para esta tarefa. Em especial, poderá ser utilizado o conjunto de
-      ferramentas para a avaliação da necessidade e da proporcionalidade44 disponibilizado pela Autoridade
-      Europeia para a Proteção de Dados.
-
-      3.1.3.5  Artigo 52.º, n.º 3, e artigo 53.º da Carta (nível de proteção, nomeadamente em relação ao da
-               CEDH)
-61.   Nos termos do artigo 52.º, n.º 3, e do artigo 53.º da Carta, o sentido e o âmbito dos direitos da Carta
-      que correspondam aos direitos garantidos pela CEDH devem ser iguais aos conferidos pela CEDH.
-      Embora, nomeadamente no que se refere ao artigo 7.º da Carta, possa existir um equivalente na CEDH,
-      o mesmo não se verifica relativamente ao artigo 8.º da Carta45. O artigo 52.º, n.º 3, da Carta não obsta
-
-      39 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.os 60 e 61.
-      40 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 68.
-      41 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 63.
-      42 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 64.
-      43 Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 37.
-      44 Autoridade Europeia para a Proteção de Dados: «Assessing the necessity of measures that limit the
-      fundamental right to the protection of personal data: A toolkit» [Avaliar a necessidades das medidas que limitam
-      o direito fundamental à proteção dos dados pessoais: um conjunto de ferramentas] (11.4.2017); Autoridade
-      Europeia para a Proteção de Dados: «EDPS Guidelines on assessing the proportionality of measures that limit the
-      fundamental rights to privacy and to the protection of personal data» [Orientações da AEPD sobre a avaliação
-      da proporcionalidade de medidas que limitem os direitos fundamentais à privacidade e à proteção de dados
-      pessoais] (19.12.2019).
-      45 Acórdão de 21 de dezembro de 2016, Tele2 Sverige, C-203/15, EU:C:2016:970, n.º 129.
+      Application no. 62617/00, para 46.
+      48 ETS No. 108.
 
 
-                                                                                                                   20
-      Aprovado
-
-      a que o direito da União conceda uma proteção mais alargada. Uma vez que a CEDH não constitui um
-      instrumento jurídico formalmente integrado na ordem jurídica da UE, a interpretação da legislação da
-      UE deve ser realizada à luz dos direitos fundamentais garantidos pela Carta46.
-
-62.   Nos termos do artigo 8.º da CEDH, não pode haver ingerência da autoridade pública no exercício do
-      direito ao respeito pela vida privada e familiar, senão quando esta ingerência estiver prevista na lei e
-      constituir uma providência que, numa sociedade democrática, seja necessária para a segurança
-      nacional, para a segurança pública, para o bem-estar económico do país, a defesa da ordem e a
-      prevenção das infrações penais, a proteção da saúde ou da moral, ou a proteção dos direitos e das
-      liberdades de terceiros.
-
-63.   A CEDH estabelece igualmente normas no que diz respeito à forma como as limitações podem ser
-      aplicadas. Um requisito básico, para além do Estado de direito, é a previsibilidade. Para cumprir o
-      requisito da previsibilidade, os termos da lei devem ser suficientemente claros para proporcionar aos
-      indivíduos uma indicação adequada das circunstâncias em que as autoridades têm o direito de recorrer
-      a tais medidas47. Esta exigência é reconhecida pelo TJUE e pela legislação da UE em matéria de
-      proteção de dados (ver secção 3.2.1.1).
-
-64.   Especificando ainda mais os direitos previstos no artigo 8.º da CEDH, as disposições da Convenção para
-      a Proteção das Pessoas relativamente ao Tratamento Automatizado de Dados de Caráter
-      Pessoal48também têm de ser plenamente respeitadas. Ainda assim, deve considerar-se que estas
-      disposições representam apenas uma norma mínima, tendo em conta a legislação prevalecente na
-      União.
 
 
-      3.2 Quadro jurídico específico – a Diretiva Proteção de Dados na Aplicação da Lei
-65.   A Diretiva Proteção de Dados na Aplicação da Lei prevê um determinado quadro relativo à utilização
-      de TRF. Em primeiro lugar, o artigo 3.º, ponto 13, da diretiva define o termo «dados biométricos» 49.
-      Para mais informações, ver secção 2.1 supra. Em segundo lugar, o artigo 8.º, n.º 2, esclarece que, para
-      ser lícito, o tratamento tem de – para além de ser necessário para os fins indicados no artigo 1.º, n.º 1,
-      da diretiva – ser regulado por legislação nacional que especifique pelo menos os objetivos do
-      tratamento, os dados pessoais a tratar e as finalidades do tratamento. Outras disposições de especial
-      relevância no que diz respeito aos dados biométricos são os artigos 10.º e 11.º da diretiva. O artigo 10.º
-      deve ser lido em conjugação com o artigo 8.º da diretiva50. Os princípios relativos ao tratamento de
-      dados pessoais estabelecidos no artigo 4.º da diretiva devem ser sempre respeitados e devem reger
-      qualquer avaliação do eventual tratamento biométrico por TRF.
+                                                                                                                  19
+      Adopted
 
-      3.2.1 Tratamento de categorias especiais de dados para efeitos de aplicação da lei
-66.   Nos termos do artigo 10.º da Diretiva Proteção de Dados na Aplicação da Lei, o tratamento de
-      categorias especiais de dados, como dados biométricos, só é autorizado se for estritamente necessário
+65.   A certain framework regarding the use of FRT is provided for in the LED. First of all, Article 3(13) LED
+      defines the term “biometric data” 49 . For details, cf. section 2.1 above. Secondly, Article 8(2) clarifies
+      that in order for any processing to be lawful it must – besides being necessary for the purposes stated
+      in Article 1(1) LED – be regulated in national law that specifies at least the objectives of the processing,
+      the personal data to be processed and the purpose of the processing. Further provisions of special
+      relevance with regard to biometric data are Articles 10 and 11 LED. Article 10 has to be read in
+      connection with Article 8 LED 50 . The principles for processing personal data as laid down in Article 4
+      LED should always be adhered to and any assessment of possible biometric processing via FRT should
+      be guided by these.
+
+      3.2.1    Processing of special categories of data for law enforcement purposes
+66.   According to Article 10 LED, processing of special categories of data, such as biometric data, shall be
+      allowed only where strictly necessary and subject to appropriate safeguards for the rights and
+      freedoms of the data subject. In addition thereto, it shall only be allowed, where authorised by Union
+      or Member State law, to protect the vital interests of the data subject or of another natural person, or
+      where such processing relates to data which is manifestly made public by the data subject. This general
+      clause highlights the sensitivity of the processing of special categories of data.
+      3.2.1.1 Authorised by Union or Member State Law
+67.   Regarding the necessary type of legislative measure, recital 33 LED states that “[w]here this Directive
+      refers to Member State law, a legal basis or a legislative measure, this does not necessarily require a
+      legislative act adopted by a parliament, without prejudice to requirements pursuant to the
+      constitutional order of the Member State concerned.” 51.
+
+68.   According to Article 52(1) of the Charter, any limitation on the exercise of the rights and freedoms
+      recognised by the Charter shall be ‘provided for by law’. This echoes the expression ‘in accordance
+      with the law’ in Article 8(2) of the ECHR, which means not only compliance with applicable law, but
+      also relates to the quality of that law without prejudice to the nature of the act, requiring it to be
+      compatible with the rule of law.
+69.   Recital 33 LED states further that “[h]owever, such a Member State law, legal basis or legislative
+      measure should be clear and precise and its application foreseeable for those subject to it, as required
+      by the case-law of the Court of Justice and the European Court of Human Rights. Member State law
+      regulating the processing of personal data within the scope of this Directive should specify at least the
+      objectives, the personal data to be processed, the purposes of the processing and procedures for
+      preserving the integrity and confidentiality of personal data and procedures for its destruction”.
+70.   The national law must be sufficiently clear in its terms to give data subjects an adequate indication of
+      the circumstances in and conditions under which controllers are empowered to resort to any such
+      measures. This includes possible preconditions for processing like specific types of evidence as well as
+      the necessity of judicial or internal authorisation. The respective law may be technology neutral as far
+      as the specific risks and characteristics of the processing of personal data by FRT systems are
+      sufficiently addressed. In line with the LED and the case law of the Court of Justice of the European
+
+      49
+         Art. 3(13) LED : ‘Biometric data’ means personal data resulting from specific technical processing relating to
+      the physical, physiological or behavioural characteristics of a natural person, which allow or confirm the unique
+      identification of that natural person, such as facial images or dactyloscopic data.
+      50 WP258, Opinion on some key issues of the Law Enforcement Directive (EU 2016/680), p. 7.
+      51 The type of legislative measures considered has to be in line with EU law or with the national law. Depending
+
+      on the degree of interference of the restriction, a particular legislative measure, taking into account the level of
+      norm, could be required at national level.
+                                                                                                                       20
+      Adopted
+
+      Union (CJEU) and of the European Court of Human Rights (ECtHR), it is indeed essential that legislative
+      measures, which aim to provide a legal basis for a facial recognition measure, are foreseeable for the
+      data subjects.
+71.   A legislative measure cannot be invoked as a law authorising the processing of biometric data by means
+      of FRT for law enforcement purposes if it is a mere transposition of the general clause in Article 10 LED.
+72.   Apart from biometric data, Article 10 LED regulates the processing of other special categories of data
+      such as sexual orientation, political opinions and religious beliefs, thus covering a broad range of
+      processing. In addition, such a provision would lack specific requirements indicating the circumstances
+      in and conditions under which law enforcement authorities would be empowered to resort to using
+      facial recognition technology. Due to the reference to other types of data and the explicit need for
+      special safeguards without further specifications, the national provision transposing Article 10 LED into
+      national law - with a similarly general and abstract wording - cannot be invoked as a legal basis for the
+      processing of biometric data involving facial recognition, as it would lack precision and foreseeability.
+      In line with Articles 28(2) or 46(1)(c) LED, before the legislator creates a new legal basis for any form
+      of processing of biometric data using facial recognition, the national data protection supervisory
+      authority should be consulted.
+      3.2.1.2 Strictly Necessary
+73.   Processing can only be regarded as "strictly necessary" if the interference to the protection of personal
+      data and its restrictions is limited to what is absolutely necessary 52 . The addition of the term “strictly”
+      means that the legislator intended the processing of special categories of data to only take place under
+      conditions even stricter than the conditions for necessity (see above, item 3.1.3.4). This requirement
+      should be interpreted as being indispensable. It restricts the margin of appreciation permitted to the
+      law enforcement authority in the necessity test to an absolute minimum. In accordance with the
+      settled case-law of the CJEU, the condition of “strict necessity” is also closely linked to the requirement
+      of objective criteria in order to define the circumstances and conditions under which processing can
+      be undertaken, thus excluding any processing of a general or systematic nature 53 .
+
+      3.2.1.3 Manifestly Made Public
+74.   When assessing whether processing relates to data which are manifestly made public by a data subject,
+      it should be recalled that a photograph as such is not systematically considered to be biometric data54 .
+      Therefore, the fact that a photograph has been manifestly made public by the data subject does not
+      entail that the related biometric data, which can be retrieved from the photograph by specific technical
+      means, is considered as having been manifestly made public.
+75.   As for personal data in general, for biometric data to be seen as manifestly made public by the data
+      subject, the data subject must have deliberately made the biometric template (and not simply a facial
+      image) freely accessible and public through an open source. If a third party discloses the biometric
+      data, it cannot be considered that the data has been manifestly made public by the data subject.
 
 
-      46 Acórdão de 16 de julho de 2020, Facebook Ireland e Schrems, C-311/18, EU:C:2020:559, n.º 99.
-      47 Tribunal Europeu dos Direitos Humanos, acórdão Copland c. Reino Unido, 3.4.2007, petição n.º 62617/00,
 
-      n.º 46.
-      48 STE n.º 108.
-      49 Artigo 3.º, ponto 13, da Diretiva Proteção de Dados na Aplicação da Lei: «“Dados biométricos”, dados pessoais
+      52
+         Consistent case law on the fundamental right to respect for private life, see CJEU Case C-73/07 para. 56
+      (Satakunnan Markkinapörssi and Satamedia); CJEU, Cases C-92/09 and C-93/09 para. 77 (Schecke and Eifert);
+      CJEU - C-594/12, para. 52 (Digital Rights); CJEU Case C-362/14 para. 92 (Schrems).
+      53 CJEU Case C‑623/17, para 78.
+      54 Cf. recital 51 of the GDPR: « the processing of photographs should not systematically be considered to be
 
-      resultantes de um tratamento técnico específico, relativos às características físicas, fisiológicas ou
-      comportamentais de uma pessoa singular, que permitem ou confirmam a sua identificação única, tais como
-      imagens faciais ou dados dactiloscópicos».
-      50WP258, Opinion on some key issues of the Law Enforcement Directive (EU 2016/680) [Parecer sobre algumas
-
-      questões importantes da Diretiva relativa à proteção de dados na aplicação da lei (UE 2016/680)], p. 7.
-
+      processing of special categories of personal data as they are covered by the definition of biometric data only
+      when processed through a specific technical means allowing the unique identification or authentication of a
+      natural person. »
                                                                                                                    21
-      Aprovado
-
-      e se estiver sujeito a garantias adequadas dos direitos e liberdades do titular dos dados. Além disso,
-      só é autorizado se for autorizado pelo direito da União ou de um Estado-Membro, se se destinar a
-      proteger os interesses vitais do titular dos dados ou de outra pessoa singular ou se estiver relacionado
-      com dados manifestamente tornados públicos pelo titular dos dados. Esta cláusula geral sublinha o
-      caráter sensível do tratamento de categorias especiais de dados.
-
-      3.2.1.1 Autorizado pelo direito da União ou de um Estado-Membro
-67.   No que diz respeito ao tipo de medida legislativa necessária, o considerando 33 da Diretiva Proteção
-      de Dados na Aplicação da Lei prevê que «[s]empre que a presente diretiva se refira ao direito de um
-      Estado-Membro, a um fundamento jurídico ou a uma medida legislativa, não se trata necessariamente
-      de um ato legislativo adotado por um parlamento, sem prejuízo dos requisitos que decorram da ordem
-      constitucional do Estado-Membro em causa»51.
-
-68.   De acordo com o artigo 52.º, n.º 1, da Carta, qualquer restrição ao exercício dos direitos e liberdades
-      reconhecidos pela Carta deve ser «prevista por lei». Esta locução reflete a expressão «prevista na lei»
-      presente no artigo 8.º, n.º 2, da CEDH, o que significa, não só a conformidade com o direito aplicável,
-      mas também a relação com a qualidade dessa legislação, sem prejuízo da natureza do ato em causa,
-      devendo ser compatível com o Estado de direito.
-
-69.   O considerando 33 da Diretiva Proteção de Dados na Aplicação da Lei estabelece ainda que «[n]o
-      entanto, esse direito de um Estado-Membro, esse fundamento jurídico ou essa medida legislativa
-      deverão ser claros e precisos, e a sua aplicação deverá ser previsível para os particulares, como exigido
-      pela jurisprudência do Tribunal de Justiça e pelo Tribunal Europeu dos Direitos do Homem. O direito
-      dos Estados-Membros que rege o tratamento de dados pessoais no âmbito da presente diretiva deverá
-      especificar, pelo menos, os objetivos, os dados pessoais a tratar, as finalidades do tratamento e os
-      procedimentos destinados a preservar a integridade e a confidencialidade dos dados pessoais, bem
-      como os procedimentos para a destruição dos mesmos».
-
-70.   Os termos da legislação nacional devem ser suficientemente claros para proporcionar aos titulares dos
-      dados uma indicação adequada das circunstâncias e das condições em que os responsáveis pelo
-      tratamento têm o direito de recorrer a essas medidas. Estas incluem eventuais condições prévias para
-      o tratamento, nomeadamente tipos específicos de elementos de prova, bem como a necessidade de
-      uma autorização judicial ou interna. A respetiva legislação pode ser tecnologicamente neutra, na
-      medida em que os riscos e as características específicos do tratamento de dados pessoais pelos
-      sistemas de TRF sejam suficientemente tidos em conta. Em conformidade com a Diretiva Proteção de
-      Dados na Aplicação da Lei e com a jurisprudência do Tribunal de Justiça da União Europeia (TJUE) e do
-      Tribunal Europeu dos Direitos Humanos (TEDH), é efetivamente essencial que as medidas legislativas,
-      que visam proporcionar uma base jurídica para uma medida de reconhecimento facial, sejam
-      previsíveis para os titulares dos dados.
-
-71.   Uma medida legislativa não pode ser invocada como uma lei que autoriza o tratamento de dados
-      biométricos através de TRF para efeitos de aplicação da lei se se tratar de uma mera transposição da
-      cláusula geral do artigo 10.º da diretiva.
-
-72.   Para além dos dados biométricos, o artigo 10.º da Diretiva Proteção de Dados na Aplicação da Lei
-      regula o tratamento de outras categorias especiais de dados, nomeadamente dados relativos à
-      orientação sexual, às opiniões políticas e às crenças religiosas, abrangendo assim um leque
-
-      51 O tipo de medidas legislativas em causa tem de estar em conformidade com o direito da UE ou com a legislação
-
-      nacional. Dependendo do grau de ingerência da restrição, poderá ser necessária a nível nacional uma medida
-      legislativa específica, tendo em conta o nível de norma.
-
-                                                                                                                  22
-      Aprovado
-
-      diversificado de formas de tratamento dos dados. Além disso, tal disposição careceria de requisitos
-      específicos que indicassem as circunstâncias e as condições em que as autoridades de aplicação da lei
-      teriam poderes para recorrer à tecnologia de reconhecimento facial. Devido à referência a outros tipos
-      de dados e à necessidade explícita de garantias especiais sem especificações adicionais, a disposição
-      que transpõe o artigo 10.º da Diretiva Proteção de Dados na Aplicação da Lei para o direito nacional –
-      com uma redação igualmente geral e abstrata – não pode ser invocada como base jurídica para o
-      tratamento de dados biométricos que envolvam o reconhecimento facial, uma vez que careceria de
-      precisão e previsibilidade. Em conformidade com o artigo 28.º, n.º 2, ou com o artigo 46.º, n.º 1,
-      alínea c), da Diretiva Proteção de Dados na Aplicação da Lei, antes de o legislador criar uma base
-      jurídica para qualquer forma de tratamento de dados biométricos utilizando reconhecimento facial, a
-      autoridade nacional de controlo em matéria de proteção de dados deve ser consultada.
-
-      3.2.1.2 Estritamente necessário
-73.   O tratamento só pode ser considerado «estritamente necessário» se a ingerência na proteção de
-      dados pessoais e nas suas restrições ocorrer na estrita medida do necessário 52. O aditamento do termo
-      «estritamente» significa que o legislador pretendia que o tratamento de categorias especiais de dados
-      apenas ocorresse em condições ainda mais estritas do que as condições relativas à necessidade (ver
-      ponto 3.1.3.4 supra). Este requisito deve ser interpretado como indispensável. Restringe ao mínimo
-      absoluto a margem de apreciação concedida à autoridade de aplicação da lei no teste da necessidade.
-      Em conformidade com a jurisprudência constante do TJUE, a condição de «necessidade estrita» está
-      também intimamente ligada à exigência de critérios objetivos para definir as circunstâncias e as
-      condições nas quais o tratamento pode ser efetuado, excluindo assim qualquer tratamento de
-      natureza geral ou sistemática53.
-
-      3.2.1.3 Manifestamente tornados públicos
-74.   Ao apurar se o tratamento diz respeito a dados manifestamente tornados públicos pelo titular dos
-      dados, importa recordar que uma fotografia, enquanto tal, não é sistematicamente considerada um
-      dado biométrico54. Por conseguinte, o facto de uma fotografia ter sido manifestamente tornada
-      pública pelo titular dos dados não implica que se possa considerar que os dados biométricos
-      correspondentes, que podem ser extraídos da fotografia recorrendo a meios técnicos específicos,
-      foram manifestamente tornados públicos.
-
-75.   Quanto aos dados pessoais em geral, para que se considere que os dados biométricos foram
-      manifestamente tornados públicos pelo titular dos dados, este deve ter deliberadamente tornado o
-      modelo biométrico (e não apenas uma imagem facial) livremente acessível e público através de uma
-      fonte aberta. Se um terceiro divulgar os dados biométricos, não se pode considerar que os dados
-      tenham sido manifestamente tornados públicos pelo seu titular.
-
-76.   Além disso, não basta interpretar o comportamento de um titular de dados para considerar que os
-      dados biométricos foram manifestamente tornados públicos. Por exemplo, no caso das redes sociais
-
-
-      52 Jurisprudência constante relativa ao direito fundamental ao respeito pela vida privada, ver Acórdão de 16 de
-
-      dezembro de 2008, Satakunnan Markkinapörssi e Satamedia, C-73/07, EU:C:2008:727, n.º 56; Acórdão de 9 de
-      novembro de 2010, Volker und Markus Schecke, C-92/09 e C-93/09, EU:C:2010:662, n.º 77; Acórdão de 8 de
-      abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 52 e Acórdão de 6 de outubro de 2015,
-      Schrems, C-362/14, EU:C:2015:650, n.º 92.
-      53 Acórdão de 6 de outubro de 2020, Privacy International, C-623/17, EU:C:2020:790, n.º 78.
-      54 Ver considerando 51 do RGPD: O tratamento de fotografias não deverá ser considerado sistematicamente
-
-      um tratamento de categorias especiais de dados pessoais, uma vez que são apenas abrangidas pela definição
-      de dados biométricos quando forem processadas por meios técnicos específicos que permitam a identificação
-      inequívoca ou a autenticação de uma pessoa singular».
-
-                                                                                                                   23
-      Aprovado
-
-      ou das plataformas em linha, o CEPD considera que o facto de o titular dos dados não ter ativado ou
-      definido configurações específicas de privacidade não basta para considerar que tornou
-      manifestamente públicos os seus dados pessoais e que esses dados (por exemplo, fotografias) podem
-      ser transformados em modelos biométricos e utilizados para fins de identificação sem o seu
-      consentimento. De um modo mais geral, quaisquer dados divulgados na sequência das configurações
-      predefinidas de um serviço, por exemplo a disponibilização de modelos ao público, ou da ausência de
-      escolha, por exemplo o facto de os modelos serem tornados públicos sem que o utilizador possa alterar
-      essa configuração, não devem de forma alguma ser considerados dados manifestamente tornados
-      públicos.
-
-
-      3.2.2 Decisões individuais automatizadas, incluindo a definição de perfis
-77.   O artigo 11.º, n.º 1, da Diretiva Proteção de Dados na Aplicação da Lei prevê a obrigação de os Estados-
-      Membros proibirem, de um modo geral, decisões tomadas exclusivamente com base no tratamento
-      automatizado, incluindo a definição de perfis, que produzam efeitos adversos na esfera jurídica do
-      titular dos dados ou que o afetem de forma significativa. Como exceção a esta proibição geral, esse
-      tratamento só é possível se for autorizado pelo direito da União ou do Estado-Membro ao qual o
-      responsável pelo tratamento está sujeito, e que preveja garantias adequadas dos direitos e liberdades
-      do titular dos dados, pelo menos o direito de obter a intervenção humana do responsável pelo
-      tratamento. Só pode ser utilizado de forma restritiva. Este limiar aplica-se a categorias normais (ou
-      seja, não especiais) de dados pessoais. Aplica-se um limiar ainda mais elevado e uma utilização mais
-      restritiva à isenção prevista no artigo 11.º, n.º 2, da Diretiva Proteção de Dados na Aplicação da Lei.
-      Este sublinha novamente que as decisões tomadas ao abrigo do n.º 1 não se devem basear em
-      categorias especiais de dados, nomeadamente dados biométricos para efeitos de identificação
-      inequívoca de uma pessoa singular. Uma isenção só pode ser prevista se estiverem em vigor medidas
-      adequadas para salvaguardar os direitos e liberdades do titular dos dados e os interesses legítimos da
-      pessoa singular em causa. Esta isenção deve ser lida em complemento e à luz das disposições do
-      artigo 10.º da mesma diretiva.
-
-78.   Dependendo do sistema de TRF, mesmo a intervenção humana para avaliar os resultados da TRF pode
-      não constituir necessariamente uma garantia suficiente, por si só, de respeito pelos direitos
-      individuais, nomeadamente do direito à proteção dos dados pessoais, tendo em conta o possível
-      enviesamento e erro que podem resultar do próprio tratamento. Além disso, a intervenção humana
-      só pode ser considerada uma salvaguarda se a pessoa que intervém puder contestar de forma crítica
-      os resultados da TRF durante a intervenção humana. É fundamental capacitar a pessoa para
-      compreender o sistema de TRF e os seus limites, bem como para interpretar corretamente os seus
-      resultados. É igualmente necessário definir um local de trabalho e uma organização que contrariem os
-      efeitos do enviesamento da automatização e evitem promover a aceitação acrítica dos resultados, por
-      exemplo, através de pressão temporal, procedimentos onerosos, potenciais consequências negativas
-      para a carreira, etc.
-
-79.   Nos termos do artigo 11.º, n.º 3, da Diretiva Proteção de Dados na Aplicação da Lei, em conformidade
-      com o direito da União, são proibidas as definições de perfis que conduzam à discriminação de pessoas
-      singulares com base nas categorias especiais de dados pessoais, como os dados biométricos. Nos
-      termos do artigo 3.º, ponto 4, da Diretiva Proteção de Dados na Aplicação da Lei, entende-se por
-      «definição de perfis» qualquer forma de tratamento automatizado de dados pessoais que consista em
-      utilizar esses dados pessoais para avaliar certos aspetos pessoais de uma pessoa singular,
-      nomeadamente para analisar ou prever aspetos relacionados com o seu desempenho profissional, a
-      sua situação económica, saúde, preferências pessoais, interesses, fiabilidade, comportamento,
-
-                                                                                                           24
-      Aprovado
-
-      localização ou deslocações. Ao considerar se estão previstas medidas adequadas para salvaguardar os
-      direitos e liberdades do titular dos dados e os interesses legítimos da pessoa singular em causa, há que
-      ter em conta que a utilização da TRF pode conduzir à definição de perfis, dependendo da forma como
-      a TRF é aplicada e da sua finalidade. De qualquer das formas, em conformidade com o direito da União
-      e com o artigo 11.º, n.º 3, da Diretiva Proteção de Dados na Aplicação da Lei, são proibidas as
-      definições de perfis que conduzam à discriminação de pessoas singulares com base em categorias
-      especiais de dados pessoais.
-
-      3.2.3 Categorias de titulares de dados
-80.   O artigo 6.º da Diretiva Proteção de Dados na Aplicação da Lei diz respeito à necessidade de distinguir
-      entre diferentes categorias de titulares de dados. Esta distinção tem de ser feita se aplicável e na
-      medida do possível. Tem de produzir efeitos na forma como os dados são tratados. A partir dos
-      exemplos apresentados no artigo 6.º da Diretiva Proteção de Dados na Aplicação da Lei, pode deduzir-
-      se que, regra geral, o tratamento de dados pessoais tem de satisfazer os critérios da necessidade e da
-      proporcionalidade também no que respeita à categoria dos titulares dos dados 55. Além disso, pode
-      deduzir-se que, no que diz respeito aos titulares de dados em relação aos quais não haja indícios que
-      levem a acreditar que o seu comportamento possa ter um nexo, ainda que indireto ou longínquo, com
-      o objetivo legítimo de acordo com a diretiva, muito provavelmente não há justificação para uma
-      ingerência56. Se não for aplicável ou possível qualquer distinção em conformidade com o artigo 6.º da
-      Diretiva Proteção de Dados na Aplicação da Lei, a exceção à regra desse artigo tem de ser
-      rigorosamente analisada no contexto da avaliação da necessidade e da proporcionalidade da
-      ingerência. A distinção entre as diferentes categorias de titulares de dados afigura-se um requisito
-      essencial no que diz respeito ao tratamento de dados pessoais que envolva reconhecimento facial,
-      tendo igualmente em conta os eventuais falsos positivos ou falsos negativos, que podem ter impactos
-      significativos para os titulares dos dados, bem como no decurso de uma investigação.
-
-81.   Como foi dito, ao aplicar o direito da União, importa respeitar as disposições da Carta dos Direitos
-      Fundamentais da União Europeia, ver artigo 52.º da Carta. O quadro e os critérios previstos na Diretiva
-      Proteção de Dados na Aplicação da Lei devem, por conseguinte, ser lidos à luz da Carta. Os atos
-      legislativos da UE e dos seus Estados-Membros não podem ficar aquém desta medida e têm de garantir
-      o pleno efeito da Carta.
-
-      3.2.4 Direitos do titular dos dados
-82.   O CEPD já disponibilizou orientações sobre os direitos dos titulares dos dados ao abrigo do RGPD em
-      diferentes aspetos57. A Diretiva Proteção de Dados na Aplicação da Lei prevê direitos semelhantes para
-      os titulares de dados, tendo sido apresentadas orientações gerais sobre esta matéria num parecer do
-      Grupo do Artigo 29.º, que foi aprovado pelo CEPD58. Em determinadas circunstâncias, a Diretiva
-      Proteção de Dados na Aplicação da Lei permite algumas limitações a estes direitos. Os parâmetros
-      dessas limitações serão descritos de forma mais pormenorizada na secção 3.2.4.6. «Limitações
-      legítimas aos direitos dos titulares dos dados».
-
-83.   Embora todos os direitos do titular dos dados enumerados no capítulo III da Diretiva Proteção de
-      Dados na Aplicação da Lei também se apliquem, naturalmente, ao tratamento de dados pessoais
-
-
-      55 Ver também Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.os 56 a 59.
-      56 Ver também Acórdão de 8 de abril de 2014, Digital Rights Ireland, C-594/12, EU:C:2014:238, n.º 58.
-      57 Ver, por exemplo, as Orientações 1/2022 sobre os direitos dos titulares dos dados – direito de acesso e as
-
-      Diretrizes 3/2019 sobre tratamento de dados pessoais através de dispositivos de vídeo, ambas do CEPD.
-      58WP258, Opinion on some key issues of the Law Enforcement Directive (EU 2016/680) [Parecer sobre algumas
-
-      questões importantes da Diretiva relativa à proteção de dados na aplicação da lei (UE 2016/680)].
-
-                                                                                                                      25
-      Aprovado
-
-      através de tecnologias de reconhecimento facial (TRF), o capítulo seguinte centrar-se-á em alguns dos
-      direitos e em aspetos que poderão ser especialmente merecedores de orientações. Além disso, este
-      capítulo e a sua análise dependem do facto de o tratamento de TRF em questão ter passado pelos
-      requisitos legais descritos no capítulo anterior.
-
-84.   Dada a natureza do tratamento de dados pessoais através de TRF (tratamento de categorias especiais
-      de dados pessoais, muitas vezes sem qualquer interação aparente com o titular dos dados), o
-      responsável pelo tratamento deve ponderar cuidadosamente (se ou) de que forma pode cumprir os
-      requisitos da Diretiva Proteção de Dados na Aplicação da Lei antes de iniciar qualquer tratamento de
-      TRF. Pode fazê-lo, nomeadamente, através de uma análise cuidadosa:
-
-      -   de quem são os titulares dos dados (muitas vezes, mais do que o(s) que é/são o principal alvo do
-          tratamento),
-
-      -   da forma como os titulares dos dados são informados do tratamento de TRF (ver secção 3.2.4.1);
-
-      -   da forma como os titulares dos dados podem exercer os seus direitos (neste caso, tanto os direitos
-          de informação e de acesso, como os direitos de retificação ou de limitação podem ser
-          particularmente difíceis de defender no caso de todas as utilizações da TRF, com exceção da
-          verificação de um para um, em contacto direto com o titular dos dados).
-
-      3.2.4.1    Dar a conhecer os direitos e as informações aos titulares dos dados de uma forma concisa,
-                 inteligível e de fácil acesso
-85.   As TRF suscitam desafios quando se trata de assegurar que os titulares dos dados são informados do
-      tratamento dos seus dados biométricos. Esta garantia é particularmente difícil se uma autoridade de
-      aplicação da lei estiver a analisar, através de material de vídeo de TRF proveniente ou fornecido por
-      um terceiro, uma vez que é pouco provável e, na maior parte das vezes, impossível a autoridade de
-      aplicação da lei notificar o titular dos dados no momento da recolha (por exemplo, através de um sinal
-      no local). Qualquer material de vídeo que não seja relevante para a investigação (ou para a finalidade
-      do tratamento) deve ser sempre eliminado ou anonimizado (por exemplo, através de desfocagem sem
-      possibilidade de recuperação retroativa dos dados) antes de efetuar qualquer tratamento de dados
-      biométricos, a fim de evitar o risco de incumprimento do princípio da minimização previsto no
-      artigo 4.º, n.º 1, alínea e), da Diretiva Proteção de Dados na Aplicação da Lei e das obrigações de
-      informação previstas no artigo 13.º, n.º 2, da mesma diretiva. Cabe ao responsável pelo tratamento
-      avaliar quais as informações que seriam importantes para o titular dos dados no exercício dos seus
-      direitos e assegurar que sejam fornecidas as informações necessárias. O exercício efetivo dos direitos
-      do titular dos dados depende do cumprimento, pelo responsável pelo tratamento, das suas obrigações
-      de informação.
-
-86.   O artigo 13.º, n.º 1, da Diretiva Proteção de Dados na Aplicação da Lei estipula quais as informações
-      mínimas que, em geral, devem ser facultadas ao titular dos dados. Estas informações podem ser
-      transmitidas através do sítio Web do responsável pelo tratamento, em formato impresso (por
-      exemplo, um folheto disponível mediante pedido) ou através de outras fontes de fácil acesso para o
-      titular dos dados. O responsável pelo tratamento de dados deve, em qualquer caso, assegurar a
-      transmissão efetiva de informações, no mínimo em relação aos seguintes elementos:
-
-      -   a identidade e os contactos do responsável pelo tratamento, incluindo o encarregado da proteção
-          de dados,
-
-      -   a finalidade do tratamento e o facto de se tratar de um tratamento através da TRF,
-
-
-
-                                                                                                         26
-      Aprovado
-
-      -    o direito de apresentar uma reclamação junto de uma autoridade de controlo e os contactos dessa
-           autoridade,
-
-      -    o direito de solicitar o acesso, a retificação ou o apagamento dos dados pessoais e a limitação do
-           tratamento dos dados pessoais.
-
-87.   Além disso, em casos específicos definidos na legislação nacional, que devem estar em conformidade
-      com o artigo 13.º, n.º 2, da Diretiva Proteção de Dados na Aplicação da Lei59, como, por exemplo, o
-      tratamento através de TRF, as seguintes informações devem ser fornecidas diretamente ao titular dos
-      dados:
-
-      -   a base jurídica aplicável ao tratamento,
-
-      -   informações sobre onde os dados pessoais foram recolhidos sem o conhecimento do titular dos
-          dados,
-
-      -   o prazo de conservação dos dados pessoais ou, se tal não for possível, os critérios aplicados para
-          definir esse prazo,
-
-      -   se aplicável, as categorias de destinatários dos dados pessoais (inclusive países terceiros ou
-          organizações internacionais).
-
-88.   Enquanto o artigo 13.º, n.º 1, da Diretiva Proteção de Dados na Aplicação da Lei diz respeito às
-      informações gerais disponibilizadas ao público, o n.º 2 do mesmo artigo diz respeito às informações
-      adicionais a facultar a um titular de dados específico em determinados casos, por exemplo quando os
-      dados são recolhidos diretamente junto do titular dos dados ou indiretamente sem o seu
-      conhecimento60. Não existe uma definição clara do que se entende por «determinados casos» no
-      artigo 13.º, n.º 2, da Diretiva Proteção de Dados na Aplicação da Lei. No entanto, a expressão refere-
-      se a situações em que os titulares dos dados têm de ser informados de um tratamento que lhes diz
-      especificamente respeito e de receber informações suficientes que lhes permitam exercer
-      efetivamente os seus direitos. O CEPD considera que, ao avaliar se se trata de um «determinado caso»,
-      há que ter em conta vários fatores, nomeadamente se os dados pessoais são recolhidos sem o
-      conhecimento do respetivo titular, uma vez que esta seria a única forma de permitir aos titulares dos
-      dados exercerem efetivamente os seus direitos. Outros exemplos de «determinados casos» podem
-      ser quando os dados pessoais são objeto de tratamento posterior no âmbito de um processo de
-      cooperação penal internacional ou caso os dados pessoais sejam tratados no âmbito de operações
-      com agentes infiltrados, tal como especificado na legislação nacional. Além disso, decorre do
-      considerando 38 da Diretiva Proteção de Dados na Aplicação da Lei que, se a decisão for tomada
-      exclusivamente com base em TRF, os titulares dos dados têm de ser informados das características da
-      decisão automatizada. Tal indicaria também que se trata de um caso em que devem ser fornecidas
-      informações adicionais ao titular dos dados, em conformidade com o artigo 13.º, n.º 2, da Diretiva
-      Proteção de Dados na Aplicação da Lei61.
-
-
-      59 Por exemplo, o artigo 56.º, n.º 1, da Lei Federal de Proteção de Dados alemã, que estabelece, entre outros
-
-      aspetos, quais as informações que têm de ser facultadas aos titulares dos dados em operações com agentes
-      infiltrados.
-      60WP258, Opinion on some key issues of the Law Enforcement Directive (EU 2016/680) [Parecer sobre algumas
-
-      questões importantes da Diretiva relativa à proteção de dados na aplicação da lei (UE 2016/680)], p. 17.
-      61 Note-se bem a diferença entre a expressão «faculte ao titular dos dados» no artigo 13.º, n.º 1, da Diretiva
-
-      Proteção de Dados na Aplicação da Lei e a expressão «forneça ao titular dos dados» no n.º 2 do mesmo artigo.
-      N.T.: A expressão no n.º 1 em inglês é «make available», que se pode traduzir de forma mais literal como «pôr à
-
-
-                                                                                                                  27
-      Aprovado
-
-89.   Por último, importa salientar que, nos termos do artigo 13.º, n.º 3, da Diretiva Proteção de Dados na
-      Aplicação da Lei, os Estados-Membros podem adotar medidas legislativas que restrinjam a obrigação
-      de prestar informações em casos específicos e para determinados objetivos. Esta disposição aplica-se
-      se e enquanto tais medidas constituírem medidas necessárias e proporcionadas numa sociedade
-      democrática, tendo devidamente em conta os direitos fundamentais e os interesses legítimos do
-      titular dos dados.
-
-      3.2.4.2 Direito de acesso
-90.   Em geral, o titular dos dados tem o direito de receber uma confirmação positiva ou negativa de
-      qualquer tratamento dos seus dados pessoais e, em caso afirmativo, de aceder aos dados pessoais
-      enquanto tal, acrescido de informações adicionais, tal como previsto no artigo 14.º da Diretiva
-      Proteção de Dados na Aplicação da Lei. No caso da TRF, quando os dados biométricos estão
-      armazenados e ligados a uma identidade também por dados alfanuméricos, tal deve permitir à
-      autoridade competente confirmar um pedido de acesso com base numa pesquisa por esses dados
-      alfanuméricos e sem iniciar qualquer outro tratamento de dados biométricos de terceiros (por
-      exemplo, pesquisando com TRF numa base de dados). O princípio da minimização dos dados deve ser
-      respeitado, não devendo ser conservados mais dados do que os necessários para a finalidade do
-      tratamento.
-
-      3.2.4.3 Direito de retificação dos dados pessoais
-91.   Uma vez que a TRF não garante exatidão absoluta, é particularmente importante que os responsáveis
-      pelo tratamento estejam atentos a eventuais pedidos de retificação de dados pessoais. Estes pedidos
-      podem também surgir se um titular de dados baseados em TRF for colocado numa categoria errada,
-      por exemplo inserido indevidamente na categoria de suspeitos com base no pressuposto inicial de um
-      curso de ação depreendido de imagens de vídeo. Os riscos para os titulares dos dados são
-      particularmente graves se esses dados inexatos forem armazenados numa base de dados da polícia
-      e/ou partilhados com outras entidades. O responsável pelo tratamento deve corrigir os dados
-      armazenados e os sistemas de TRF em conformidade, ver o considerando 47 da Diretiva Proteção de
-      Dados na Aplicação da Lei.
-
-      3.2.4.4 Direito ao apagamento dos dados
-92.   A TRF equivalerá, na maioria das circunstâncias – no caso de não ser utilizada para
-      verificação/autenticação de um para um – ao tratamento de um grande número de dados biométricos
-      dos titulares dos dados. Por conseguinte, é importante que o responsável pelo tratamento pondere
-      previamente quais são os limites da sua finalidade e necessidade, para que um pedido de apagamento
-      nos termos do artigo 16.º da Diretiva Proteção de Dados na Aplicação da Lei possa ser tratado sem
-      demora injustificada (uma vez que o responsável pelo tratamento precisa, nomeadamente, de apagar
-      os dados pessoais que são tratados para além do permitido pela legislação aplicável nos termos dos
-      artigos 4.º, 8.º e 10.º da Diretiva Proteção de Dados na Aplicação da Lei).
-
-      3.2.4.5 Direito à restrição
-93.   Caso a exatidão dos dados seja contestada pelo titular dos dados e não possa ser determinada (ou se
-      os dados pessoais tiverem de ser conservados para efeitos de provas futuras), o responsável pelo
-      tratamento tem a obrigação de limitar os dados pessoais desse titular de dados em conformidade com
-      o artigo 16.º da Diretiva Proteção de Dados na Aplicação da Lei. Esta obrigação torna-se especialmente
-      importante quando se trata de tecnologia de reconhecimento facial (baseada em algoritmos e que,
-
-
-      disposição», por oposição ao verbo «give», isto é, fornecer, utilizado no n.º 2. No artigo 13.º, n.º 2, da diretiva,
-      o responsável pelo tratamento deve assegurar que as informações chegam ao titular dos dados, caso as
-      informações publicadas num sítio Web não sejam suficientes.
-
-                                                                                                                       28
-      Aprovado
-
-      por isso, nunca apresenta um resultado definitivo) em situações em que sejam recolhidas grandes
-      quantidades de dados e em que a exatidão e a qualidade da identificação possam variar. Com materiais
-      de vídeo de má qualidade (por exemplo, provenientes de uma cena de crime), o risco de falsos
-      positivos aumenta. Além disso, se as imagens faciais de uma lista de observação não forem atualizadas
-      regularmente, isso também aumentará o risco de falsos positivos ou falsos negativos. Em casos
-      específicos, sempre que os dados não possam ser apagados devido ao facto de existirem motivos
-      razoáveis para crer que o seu apagamento poderia afetar os interesses legítimos do respetivo titular,
-      os dados devem, em vez disso, ser limitados e tratados apenas para a finalidade que impediu o seu
-      apagamento (ver considerando 47 da Diretiva Proteção de Dados na Aplicação da Lei).
-
-      3.2.4.6 Limitações legítimas aos direitos dos titulares dos dados
-94.   No que diz respeito às obrigações de informação do responsável pelo tratamento e ao direito de acesso
-      dos titulares dos dados, as limitações são permitidas apenas desde que estejam previstas na lei, que,
-      por sua vez, tem de constituir uma medida necessária e proporcionada numa sociedade democrática,
-      tendo devidamente em conta os direitos fundamentais e os interesses legítimos da pessoa singular em
-      causa (ver artigo 13.º, n.os 3 e 4, artigo 15.º e artigo 16.º, n.º 4, da Diretiva Proteção de Dados na
-      Aplicação da Lei). Quando a TRF é utilizada para fins de aplicação da lei, pode esperar-se que seja
-      utilizada em circunstâncias em que seria prejudicial à finalidade de informar o titular dos dados ou de
-      permitir o acesso aos dados. Tal aplicar-se-ia, por exemplo, a uma investigação criminal ou para
-      proteger a segurança nacional ou a segurança pública.
-
-95.   O direito de acesso não significa automaticamente o acesso a todas as informações, por exemplo num
-      processo penal em que estejam em causa os dados pessoais de um indivíduo. Um exemplo viável de
-      quando podem ser permitidas limitações a este direito pode ser no decurso de uma investigação
-      criminal.
-
-      3.2.4.7 Exercício dos direitos através da autoridade de controlo
-96.   Nos casos em que existam limitações legítimas ao exercício dos direitos, de acordo com o capítulo III
-      da Diretiva Proteção de Dados na Aplicação da Lei, o titular dos dados pode solicitar à autoridade de
-      proteção de dados que exerça os seus direitos em seu nome, verificando a licitude do tratamento
-      efetuado pelo responsável pelo tratamento. Compete ao responsável pelo tratamento informar o
-      titular dos dados da possibilidade de exercer os seus direitos dessa forma (ver artigo 17.º e artigo 46.º,
-      n.º 1, alínea g), da Diretiva Proteção de Dados na Aplicação da Lei). No caso da TRF, isto significa que
-      o responsável pelo tratamento tem de assegurar a existência de medidas adequadas para que esse
-      pedido possa ser tratado, por exemplo permitindo a pesquisa de material gravado, desde que o titular
-      dos dados forneça informações suficientes para localizar os seus dados pessoais.
-
-      3.2.5 Outros requisitos legais e garantias
-      3.2.5.1 Artigo 27.º – Avaliação de impacto sobre a proteção de dados
-97.   A realização de uma avaliação de impacto sobre a proteção de dados (AIPD) antes da utilização de TRF
-      é obrigatória, uma vez que o tipo de tratamento, em especial a utilização de novas tecnologias, e tendo
-      em conta a natureza, o âmbito, o contexto e as finalidades do tratamento, é suscetível de resultar num
-      elevado risco para os direitos e liberdades das pessoas singulares. Uma vez que a utilização de TRF
-      implica o tratamento automático sistemático de categorias especiais de dados, poderia presumir-se
-      que, em tais casos, o responsável pelo tratamento seria, em regra, obrigado a realizar uma AIPD. A
-      AIPD deve conter, no mínimo, uma descrição geral das operações de tratamento previstas, uma
-      avaliação da necessidade e da proporcionalidade das operações de tratamento em relação às
-      respetivas finalidades, uma avaliação dos riscos para os direitos e liberdades dos titulares dos dados,
-      as medidas previstas para fazer face a esses riscos e as garantias, medidas de segurança e mecanismos
-
-
-                                                                                                             29
-      Aprovado
-
-      para assegurar a proteção dos dados pessoais e demonstrar a conformidade. O CEPD recomenda a
-      divulgação ao público dos resultados dessas avaliações ou, pelo menos, das principais constatações e
-      conclusões da AIPD, como medida de reforço da confiança e da transparência62.
-
-      3.2.5.2 Artigo 28.º – Consulta prévia da autoridade de controlo
-98.   Nos termos do artigo 28.º da Diretiva Proteção de Dados na Aplicação da Lei, o responsável pelo
-      tratamento ou subcontratante tem de consultar a autoridade de controlo antes de proceder ao
-      tratamento, caso: a) a avaliação de impacto sobre a proteção de dados indique que o tratamento
-      resultaria num elevado risco na ausência das medidas a tomar pelo responsável pelo tratamento para
-      atenuar o risco; ou b) o tipo de tratamento envolva, especialmente no caso de se utilizarem novas
-      tecnologias, mecanismos ou procedimentos, um elevado risco para os direitos e liberdades dos
-      titulares dos dados. Tal como já se explicou na secção 2.3 das presentes orientações, o CEPD considera
-      que a maioria dos casos de implantação e utilização de TRF implicam um risco intrinsecamente elevado
-      para os direitos e liberdades dos titulares dos dados. Por conseguinte, para além da AIPD, a autoridade
-      que implanta a TRF deve consultar a autoridade de controlo competente antes da implantação do
-      sistema.
-
-      3.2.5.3 Artigo 29.º – Segurança do tratamento
-99.   A natureza única dos dados biométricos impossibilita que o titular dos dados os altere caso sejam
-      comprometidos, por exemplo na sequência de uma violação de dados. Por conseguinte, a autoridade
-      competente que aplica e/ou utiliza a TRF deve prestar especial atenção à segurança do tratamento,
-      em conformidade com o artigo 29.º da Diretiva Proteção de Dados na Aplicação da Lei.
-      Concretamente, a autoridade de aplicação da lei deve assegurar que o sistema cumpre as normas
-      pertinentes e aplica medidas de proteção de modelos biométricos63. Esta obrigação é ainda mais
-      relevante se a autoridade de aplicação da lei estiver a utilizar um prestador de serviços terceiro
-      (subcontratante).
-
-     3.2.5.4 Artigo 20.º – Proteção de dados desde a conceção e por defeito
-100. A proteção de dados desde a conceção e por defeito, em conformidade com o artigo 20.º da Diretiva
-     Proteção de Dados na Aplicação da Lei, visa assegurar que os princípios e garantias da proteção de
-     dados, como a minimização dos dados e a limitação da conservação, sejam incorporados na tecnologia
-     através de medidas técnicas e organizativas adequadas, como a pseudonimização, mesmo antes do
-     início do tratamento de dados pessoais, e sejam aplicados durante todo o seu ciclo de vida. Dado o
-     elevado risco inerente para os direitos e liberdades das pessoas singulares, a escolha destas medidas
-     não deve depender exclusivamente de considerações económicas 64, devendo antes procurar aplicar
-     as tecnologias de proteção de dados de ponta. Na mesma ordem de ideias, uma autoridade de
-     aplicação da lei que tencione aplicar e utilizar TRF de fornecedores externos tem de garantir, por
-     exemplo através do procedimento de adjudicação de contratos, que apenas são utilizadas TRF
-     baseadas nos princípios da proteção de dados desde a conceção e por defeito65. Isto implica também
-
-
-      62 Para mais informações, ver WP248 rev.01 – Orientações relativas à Avaliação de Impacto sobre a Proteção de
-
-      Dados (AIPD) e que determinam se o tratamento é «suscetível de resultar num elevado risco» para efeitos do
-      Regulamento (UE) 2016/679.
-      63 Ver, por exemplo: ISO/IEC 24745 Segurança da informação, cibersegurança e proteção da privacidade –
-
-      Proteção de informações biométricas.
-      64 Ver o considerando 53 da Diretiva Proteção de Dados na Aplicação da Lei.
-      65 Para mais informações, ver as Orientações 4/2019 relativas ao artigo 25.º – Proteção de Dados desde a
-
-      Conceção                 e                 por                 Defeito,             do                CEPD,
+      Adopted
+
+76.   Moreover, it is not sufficient to interpret the behaviour of a data subject to consider that biometric
+      data has been manifestly made public. For example, in the case of social networks or online platforms,
+      the EDPB considers that the fact that the data subject did not trigger or set specific privacy features is
+      not sufficient to consider that this data subject has manifestly made public its personal data and that
+      this data (e.g. photographs) can be processed into biometric templates and used for identification
+      purposes without the data subject’s consent. More generally, default settings of a service, e.g. making
+      templates publicly available, or absence of choice, e.g. the templates are made public without the user
+      to be able to change this setting, should not in any way be construed as data manifestly made public.
+
+
+      3.2.2   Automated individual decision-making, including profiling
+77.   Article 11(1) LED provides for the duty of the Member States to generally prohibit decisions based
+      solely on automated processing, including profiling, which produces an adverse legal effect concerning
+      the data subject or significantly affects him or her. As an exemption to this general prohibition, such
+      processing may be possible only if authorised by Union or Member State law to which the controller is
+      subject to and which provides appropriate safeguards for the rights and freedoms of the data subject,
+      at least the right to obtain human intervention on the part of the controller. It may only be used
+      restrictively. This threshold applies for ordinary (i.e. not special) categories of personal data. An even
+      higher threshold and more restrictive usage applies for the exemption under Article 11(2) LED. It re-
+      emphasises that decisions under the first paragraph shall not be based on special categories of data,
+      i.e. in particular biometric data for the purpose of uniquely identifying a natural person. An exemption
+      may only be foreseen if suitable measures to safeguard the data subject's rights and freedoms and
+      legitimate interests of the natural person concerned are in place. This exemption must be read in
+      addition to and in the light of the premises of Article 10 LED.
+
+78.   Depending on the FRT system, even human intervention assessing the results of FRT may not
+      necessarily provide for a sufficient guarantee by itself in respecting individuals’ rights and in particular
+      the right to the protection of personal data, considering the possible bias and error that can result
+      from the processing itself. Furthermore, human intervention may only be considered as a safeguard if
+      the person intervening may critically challenge the results of FRT during human intervention. It is
+      crucial to enable the person to understand the FRT system and its limits as well as to interpret its
+      results properly. It is also necessary to establish a work place and organisation that counteracts the
+      effects of automation bias, and avoids fostering the uncritical acceptance of the results e.g. by time
+      pressure, burdensome procedures, potential detrimental career effects etc.
+79.   According to Article 11(3) LED, profiling that results in discrimination against natural persons on the
+      basis of special categories of personal data such as biometric data shall be prohibited, in accordance
+      with Union law. According to Article 3(4) LED, ‘profiling’ means any form of automated processing of
+      personal data consisting of the use of personal data to evaluate certain personal aspects relating to a
+      natural person, in particular to analyse or predict aspects concerning that natural person's
+      performance at work, economic situation, health, personal preferences, interests, reliability,
+      behaviour, location or movements. When considering whether suitable measures to safeguard the
+      data subject's rights and freedoms and legitimate interests of the natural person concerned are
+      foreseen, it has to be kept in mind that the use of FRT may lead to profiling, depending on the way and
+      purpose that the FRT is applied for. In any case, in accordance with Union law and Article 11(3) LED,
+      profiling that results in discrimination against natural persons on the basis of special categories of
+      personal data shall be prohibited.
+
+
+
+
+                                                                                                               22
+      Adopted
+
+      3.2.3   Categories of the data subjects
+80.   Article 6 LED regards the necessity to distinguish between different categories of data subjects. This
+      distinction has to be made where applicable and as far as possible. It has to show effect in the way the
+      data are processed. From the examples given in Article 6 LED it can be inferred that, as a rule, the
+      processing of personal data has to meet the criteria of necessity and proportionality also with regard
+      to the category of data subjects 55 . It can further be inferred that with regard to data subjects for whom
+      there is no evidence capable of suggesting that their conduct might have a link, even an indirect or
+      remote one, with the legitimate aim according to the LED, there is most likely no justification of an
+      interference 56 . If no distinction according to Article 6 LED is applicable or possible, the exception from
+      the rule of Article 6 LED has to be rigorously considered in the assessment of the necessity and
+      proportionality of the interference. The distinction between different categories of data subjects
+      appears as an essential requirement when it comes to personal data processing involving facial
+      recognition, also considering the possible false positive or false negative hits, which can have
+      significant impacts for data subjects as well as in the course of an investigation.
+81.   As said, when implementing Union law, the provisions of the Charter of Fundamental Rights of the
+      European Union have to be respected, cf. Article 52 of the Charter. The framework and criteria that
+      the LED provides are therefore to be read in the light of the Charter. Acts of law of the EU and its
+      Member States must not fall below this measure and have to ensure the Charter’s full effect.
+
+      3.2.4   Rights of the data subject
+82.   The EDPB has already provided guidance on data subjects’ rights under the GDPR in different aspects57 .
+      The LED provides for similar data subject rights and general guidance on this has been provided in an
+      opinion by Article 29 WP, which has been endorsed by the EDPB 58 . Under certain circumstances, the
+      LED allows for some limitations to these rights. The parameters for such limitations will be further
+      elaborated in section 3.2.4.6. “Legitimate limitations to data subject’s rights”.
+
+83.   While all data subject’s rights as listed in Chapter III of the LED, naturally apply also to personal data
+      processing via facial recognition technology (FRT), the following chapter will focus on some of the
+      rights and aspects that might be of particular interest to receive guidance on. Furthermore, this
+      chapter and its analysis is incumbent on the FRT processing in question having passed through the
+      legal requirements as described in the previous chapter.
+
+84.   Given the nature of personal data processing through FRT (processing of special categories of personal
+      data often without any apparent interaction with the data subject) the controller must carefully
+      consider how to (or if it can) meet the requirements of the LED before any FRT processing is launched.
+      In particular by carefully analysing:
+
+      -    who the data subjects are (often more than the one(s) that is the main target for the purpose of
+           processing),
+      -    how the data subjects are made aware of the FRT processing (see section 3.2.4.1),
+
+
+
+
+      55 Cf. also CJEU - C-594/12, para. 56 – 59.
+      56 Cf. also CJEU - C-594/12, para. 58.
+      57 See for example 1/2022 EDPB Guidelines on data subject’s rights – Right of access and 3/2019 EDPB
+
+      Guidelines on processing of personal data through video devices.
+      58 WP258, Opinion on some key issues of the Law Enforcement Directive (EU 2016/680).
+
+
+                                                                                                               23
+      Adopted
+
+      -    how the data subjects can exercise their rights (here both information and access rights as well as
+           rights to rectification or restriction can be particularly challenging to uphold in case FRT is used
+           for all but 1-to-1 verification in direct contact with the data subject).
+      3.2.4.1   Making rights and information known to data subjects in a concise, intelligible and easily
+                accessible form
+85.   FRT provides for challenges in ensuring that data subjects are made aware of their biometric data being
+      processed. It is particularly challenging if a LEA is analysing through FRT video material that derives
+      from or is provided by a third party since there is little possibility, and most of the time none, for the
+      LEA to notify the data subject at the time of collection (e.g. via a sign on-site). Any video material not
+      relevant to the investigation (or purpose for processing) should always be removed or anonymised
+      (e.g. by blurring with no retroactive ability to recover the data) before deploying any processing of
+      biometric data, in order to avoid the risk of not having fulfilled the minimisation principle in Article
+      4(1)(e) LED and the information obligations in Article 13(2) LED. It is the responsibility of the controller
+      to assess what information would be of importance for the data subject in exercising his or her rights
+      and to ensure that the necessary information is provided. The effective exercise of data subject’s rights
+      is dependent on the controller fulfilling its information obligations.
+
+86.   Article 13(1) LED stipulates what minimum information needs to be provided to the data subject in
+      general. This information may be provided for via the controller’s website, in printed form (e.g. a leaflet
+      available on demand), or otherwise easy-to-access sources for the data subject. The data controller
+      must in any event ensure that information is effectively provided in relation to at least the following
+      elements:
+      -    identity and contact details of the controller, including the Data Protection Officer,
+
+      -    the purpose of the processing and that it is processing via FRT,
+      -    the right to lodge a complaint with a supervisory authority and contact details of such authority,
+
+      -    the right to request access to, and rectification or erasure of, personal data and restriction of
+           processing of the personal data.
+
+87.   In addition, in specific cases as defined in national law which should be in line with Article 13(2) LED59 ,
+      as for example FRT processing, the following information needs to be provided directly to the data
+      subject:
+      -    the legal basis for the processing,
+      -    information on where the personal data was collected without the data subject’s knowledge,
+
+      -    the period for which the personal data will be stored, or where that is not possible, the criteria
+           used to determine that period,
+      -    if applicable, the categories of recipients of the personal data (including third countries or
+           international organisations).
+
+88.   While Article 13(1) LED is about general information made available to the public, Article 13(2) LED is
+      about the additional information to be provided to a particular data subject in specific cases, for
+      example where data is collected directly from the data subject or indirectly without the knowledge of
+
+      59
+        E.g. Section 56 (1) of the German Federal Data Protection Act which, amongst other, states what information
+      needs to be provided to data subjects in undercover operations
+
+
+                                                                                                                24
+      Adopted
+
+      the data subject 60 . There is no clear definition of what is meant with “specific cases” in Article 13(2)
+      LED. However, it refers to situations where the data subjects need to be made aware of the processing
+      that refers to them specifically and be provided with appropriate information in order to effectively
+      exercise their rights. The EDPB considers that when assessing whether a “specific case” exists, several
+      factors need to be taken into consideration, including if personal data is collected without the
+      knowledge of the data subject, as this would be the only way to enable data subjects to effectively
+      exercise their rights. Other examples of “specific cases” could be where personal data is further
+      processed as subject to an international criminal cooperation procedure or in the situation of personal
+      data being processed under covert operations as specified in national law. Furthermore, it follows from
+      recital 38 LED that should decision-making be done solely based on FRT, then the data subjects need
+      to be informed about the features of the automated decision making. This would also indicate that this
+      is a specific case where additional information should be provided to the data subject in accordance
+      with Article 13(2) LED 61 .
+89.   Finally, it should be noted that according to Article 13(3) LED, Member States may adopt legislative
+      measures that restrict the obligation to provide information in specific cases for certain objectives.
+      This applies to the extent that, and for as long as, such a measure constitutes a necessary and
+      proportionate measure in a democratic society with due regard for the fundamental rights and the
+      legitimate interests of the data subject.
+
+      3.2.4.2 Right to access
+90.   In general, the data subject has the right to receive positive or negative confirmation of any processing
+      of his or her personal data and, where the answer is positive, the access to the personal data as such,
+      plus additional information, as listed in Article 14 LED. For FRT, when biometric data is stored and
+      connected to an identity also by alpha-numerical data, this should allow for the competent authority
+      to give confirmation to an access request based on a search by those alpha-numerical data and without
+      launching any further processing of biometric data of others (i.e. by searching with FRT in a database).
+      The principle of data minimisation must be observed and no more data than is necessary with regard
+      to the purpose of the processing should be stored.
+      3.2.4.3 Right to rectification of personal data
+91.   Since FRT does not provide for absolute accuracy, it is of particular importance that controllers are
+      vigilant to requests for rectification of personal data. It may also be the case when a data subject based
+      on FRT has been placed in an inaccurate category, e.g. wrongfully put in the category of suspects based
+      on initial assumption of course of action in a video footage. The risks for the data subjects are
+      particularly serious if such inaccurate data is stored in a police database and/or shared with other
+      entities. The controller must correct stored data and FRT systems accordingly, see recital 47 LED.
+
+      3.2.4.4 Right to erasure
+92.   FRT will under most circumstances – in case not used for 1-to-1 verification/authentication – amount
+      to the processing of a large number of data subjects’ biometric data. It is therefore important that the
+      controller beforehand considers where the limits to its purpose and necessity lies, so that a request
+      for erasure in accordance with Article 16 LED can be dealt with without undue delay (since the
+      controller needs, among others, to erase personal data that is processed beyond what the applicable
+      legislation following Articles 4, 8 and 10 LED allows for).
+
+
+      60WP258 Opinion on some key issues of the Law Enforcement Directive (EU 2016/680), p.17-18
+      61Note well the difference between “made available to the data subject” in Article 13(1) LED and “give to the
+      data subject” in Article 13(2) LED. In Article 13(2) LED the controller must ensure that the information reaches
+      the data subject, where published information on a website will not be sufficient.
+                                                                                                                   25
+      Adopted
+
+      3.2.4.5 Right to restriction
+93.   In case the accuracy of the data is contested by the data subject and the accuracy of the data cannot
+      be ascertained (or when the personal data must be maintained for the purpose of future evidence),
+      the controller has an obligation to restrict personal data of that data subject in accordance with Article
+      16 LED. This becomes especially important when it comes to facial recognition technology (based on
+      algorithm(s) and thereby never showing a definitive result) in situations where large quantities of data
+      are gathered and the accuracy and quality of the identification may vary. With poor quality video
+      material (e.g. from a crime scene) the risk of false positives increases. Furthermore, if facial images in
+      a watch list are not regularly updated that will also increase the risk of false positives or false negatives.
+      In specific cases, where data cannot be erased due to the fact that there are reasonable grounds to
+      believe that erasure could affect the legitimate interests of the data subject, the data should instead
+      be restricted and processed only for the purpose which prevented their erasure (see recital 47 LED).
+      3.2.4.6 Legitimate limitations to data subject’s rights
+94.   When it comes to the information obligations of the controller and the data subjects´ right of access,
+      limitations are allowed only so long as they are laid down in the law which in turn needs to constitute
+      a necessary and proportionate measure in a democratic society with due regard for the fundamental
+      rights and legitimate interests of the natural person concerned (see Articles 13(3), 13(4) 15 and 16(4)
+      LED). When FRT is used for law enforcement purposes one can expect it to be used under
+      circumstances where it would be harmful for the purpose pursued to inform the data subject or to
+      allow access to the data. This would apply for instance to a police investigation of a crime or in order
+      to protect national security or public security.
+
+95.   The right of access does not automatically mean access to all the information e.g. in a criminal case
+      where one’s personal data occurs. A viable example of when limitations to the right may be allowed
+      could be during the course of a criminal investigation.
+
+      3.2.4.7 Exercise of rights through the supervisory authority
+96.   In cases where there are legitimate limitations to the exercise of rights according to Chapter III LED,
+      the data subject may request the data protection authority to exercise his or her rights on their behalf
+      by checking the lawfulness of the controller’s processing. It falls on the controller to inform the data
+      subject of the possibility of exercising their rights in such way ( see Article 17 LED and Article 46(1)(g)
+      LED). For FRT it means that the controller has to ensure that appropriate measures are in place so that
+      such a request can be handled, e.g. enabling the search of recorded material provided that the data
+      subject provides sufficient information in order to locate the personal data of him or her.
+
+      3.2.5   Other legal requirements and safeguards
+      3.2.5.1 Article 27 Data protection impact assessment
+97.   A data protection impact assessment (DPIA) before the use of FRT is a mandatory requirement since
+      the type of processing, in particular, using new technologies, and taking into account the nature, scope,
+      context and purposes of the processing is likely to result in a high risk to the rights and freedoms of
+      natural persons. Given that the use of FRT entails systematic automatic processing of special categories
+      of data, it could it be assumed that in such cases the controller would be, as a rule, required to conduct
+      a DPIA. The DPIA should contain as a minimum a general description of the envisaged processing
+      operations, an assessment of the necessity and proportionality of the processing operations in relation
+      to the purposes, an assessment of the risks to the rights and freedoms of data subjects, the measures
+      envisaged to address those risks, safeguards, security measures and mechanisms to ensure the
+      protection of personal data and to demonstrate compliance. The EDPB recommends making public the
+
+
+
+                                                                                                                 26
+      Adopted
+
+      results of such assessments, or at least the main findings and conclusions of the DPIA, as a trust and
+      transparency enhancing measure 62 .
+
+      3.2.5.2 Article 28 Prior consultation of the supervisory authority
+98.   Pursuant to Article 28 LED, the controller or processor has to consult the supervisory authority prior
+      to the processing, where: (a) a data protection impact assessment indicates that the processing would
+      result in a high risk in the absence of measures taken by the controller to mitigate the risk; or (b) the
+      type of processing, in particular, where using new technologies, mechanisms or procedures, involves
+      a high risk to the rights and freedoms of data subjects. As already explained in section 2.3. of these
+      guidelines, the EDPB considers that most cases of deployment and use of FRT contain intrinsic high risk
+      to the rights and freedoms of data subjects. Therefore, in addition to the DPIA, the authority deploying
+      the FRT should consult the competent supervisory authority, prior to the deployment of the system.
+      3.2.5.3 Article 29 Security of processing
+99.   The unique nature of biometric data makes it impossible for a data subject to change it, in case it is
+      compromised, e.g. as a result of a data breach. Therefore, the competent authority, implementing
+      and/or using FRT should pay special attention to the security of processing, in line with Article 29 LED.
+      In particular, the law enforcement authority should ensure the system complies with the relevant
+      standards and implement biometric template protection measures 63 . This obligation is even more
+      relevant if the law enforcement authority is using a third-party service provider (data processor).
+
+     3.2.5.4 Article 20 Data protection by design and by default
+100. Data protection by design and by default, in accordance with Article 20 LED, is aimed at ensuring that
+     the data protection principles and safeguards, such as data minimisation and storage limitation, are
+     embedded in the technology through appropriate technical and organisational measures, such as
+     pseudonymisation, even before the start of the processing of personal data and will be applied
+     throughout its lifecycle. Given the inherent high risk for the rights and freedoms of natural persons,
+     the choice of such measures should not depend solely on economic considerations 64 but should
+     instead strive to implement the state-of-art in data protection technologies. In the same vein, if a LEA
+     intends to apply and use FRT from external providers, it has to ensure, for instance through the
+     procurement procedure, that only FRT built upon the principles of data protection by design and by
+     default are deployed 65 . This also implies that transparency on the functioning of FRT is not limited by
+     claims of trade secrets or intellectual property rights.
+
+     3.2.5.5 Article 25 Logging
+101. The LED stipulates different methods of demonstrating by the controller or the processor the
+     lawfulness of the processing and ensuring data integrity and data security. In this regard, system logs
+     are a very useful tool and an important safeguard for verification of the lawfulness of the processing,
+     both internally (i.e. self-monitoring) and by external supervisory authorities, such as the data
+     protection authorities. Pursuant to Article 25 LED, logs for at least the following processing operations
+     should be kept in automated processing systems: collection, alteration, consultation, disclosure
+     including transfers, combination and erasure. Moreover, the logs of consultation and disclosure
+
+      62
+         For more information see WP248 rev.01 Data protection impact assessment Guidelines on Data Protection
+      Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk".
+      63 See for example: ISO/IEC 24745 Information security, cybersecurity and privacy protection — Biometric
+
+      information protection.
+      64 See recital 53 of the LED.
+      65 For more information see EDPB Guidelines on Data Protection by Design and by Default,
+
       https://edpb.europa.eu/sites/default/files/files/file1/edpb guidelines 201904 dataprotection by design and
-        by default v2.0 en.pdf .
-
-                                                                                                                30
-      Aprovado
-
-      que a transparência do funcionamento das TRF não seja limitada pela reivindicação de segredos
-      comerciais ou de direitos de propriedade intelectual.
-
-     3.2.5.5 Artigo 25.º – Registo cronológico
-101. A Diretiva Proteção de Dados na Aplicação da Lei prevê diferentes métodos de demonstração, pelo
-     responsável pelo tratamento ou pelo subcontratante, da licitude do tratamento e da garantia da
-     integridade e segurança dos dados. Neste contexto, os registos do sistema são uma ferramenta muito
-     útil e uma garantia importante para a verificação da licitude do tratamento, tanto a nível interno (ou
-     seja, autocontrolo) como pelas autoridades de controlo externas, como as autoridades de proteção de
-     dados. Nos termos do artigo 25.º da Diretiva Proteção de Dados na Aplicação da Lei, devem ser
-     conservados em sistemas de tratamento automatizado registos pelo menos das seguintes operações
-     de tratamento: recolha, alteração, consulta, divulgação (incluindo transferências), interconexão e
-     apagamento. Além disso, os registos cronológicos das operações de consulta e divulgação devem
-     permitir determinar o motivo, a data e a hora dessas operações e, na medida do possível, a
-     identificação da pessoa que consultou ou divulgou dados pessoais, e a identidade dos destinatários
-     desses dados pessoais. No contexto dos sistemas de reconhecimento facial, recomenda-se ainda o
-     registo das seguintes operações de tratamento adicionais (parcialmente além do âmbito do artigo 25.º
-     da Diretiva Proteção de Dados na Aplicação da Lei):
-
-      -   Alterações da base de dados de referência (adição, supressão ou atualização). O registo deve
-          conservar uma cópia da imagem relevante (adicionada, suprimida ou atualizada), sempre que não
-          seja possível verificar de outro modo a licitude ou o resultado das operações de tratamento.
-
-      -   Tentativas de identificação ou de verificação, incluindo o resultado e a pontuação de confiança.
-          Deve aplicar-se o princípio da minimização estrita, de modo que apenas seja conservado nos
-          registos o identificador da imagem da base de dados de referência, em vez da própria imagem de
-          referência. Deve evitar-se o registo dos dados biométricos de entrada, a menos que seja necessário
-          (por exemplo, apenas em casos de correspondência).
-
-      -   A identificação do utilizador que solicitou a identificação ou a tentativa de verificação.
-
-      -   Quaisquer dados pessoais armazenados nos registos dos sistemas estão sujeitos a limitações
-          estritas de finalidade (por exemplo, auditorias) e não devem ser utilizados para outros fins (por
-          exemplo, para poder continuar a efetuar o reconhecimento/verificação, incluindo uma imagem
-          que tenha sido apagada das bases de dados de referência). Devem ser aplicadas medidas de
-          segurança para garantir a integridade dos registos, ao passo que os sistemas automáticos de
-          monitorização para detetar abusos de registos são altamente recomendados. Para os registos da
-          base de dados de referência, as medidas de segurança devem ser equivalentes à base de dados de
-          referência, em caso de conservação de imagens faciais. Além disso, devem ser instituídos
-          processos automáticos para controlar o cumprimento do período de conservação dos dados dos
-          registos.
-
-     3.2.5.6 Artigo 4.º, n.º 4 – Responsabilização
-102. O responsável pelo tratamento tem de ser capaz de demonstrar a conformidade do tratamento com
-     os princípios previstos no artigo 4.º, n.os 1 a 3, da Diretiva Proteção de Dados na Aplicação da Lei – ver
-     artigo 4.º, n.º 4, da diretiva. Para o efeito, é crucial uma documentação sistemática e atualizada do
-     sistema (incluindo atualizações, novas versões e treino de algoritmos), das medidas técnicas e
-     organizativas (incluindo o controlo do desempenho do sistema e a potencial intervenção humana) e
-     do tratamento dos dados pessoais. Para demonstrar a licitude do tratamento, um elemento
-     particularmente importante é o registo em conformidade com o artigo 25.º da Diretiva Proteção de
-     Dados na Aplicação da Lei (ver secção 3.2.5.5). O princípio da responsabilização não se refere apenas
-
-                                                                                                            31
-      Aprovado
-
-      ao sistema e ao tratamento, mas também à documentação das garantias processuais, como as
-      avaliações da necessidade e da proporcionalidade, as AIPD e as consultas internas (por exemplo, a
-      aprovação do projeto pela direção ou as decisões internas sobre os valores da pontuação de
-      confiança), bem como as consultas externas (por exemplo, a APD). O anexo II inclui uma série de
-      elementos a este respeito.
-
-     3.2.5.7 Artigo 47.º – Supervisão eficaz
-103. A supervisão eficaz por parte das autoridades competentes em matéria de proteção de dados é uma
-     das garantias mais importantes dos direitos e liberdades fundamentais das pessoas afetadas pela
-     utilização de TRF. Ao mesmo tempo, para o exercício eficaz das suas atribuições e dos seus poderes, é
-     indispensável que cada autoridade de proteção de dados disponha dos recursos humanos, técnicos e
-     financeiros, instalações e infraestruturas necessários 66. Ainda mais importantes do que o número de
-     pessoal disponível são as competências dos peritos, que devem abranger um vasto leque de temas,
-     desde investigações criminais e cooperação policial até análise de megadados e IA. Por conseguinte,
-     os Estados-Membros devem assegurar que os recursos das autoridades de controlo são adequados e
-     suficientes para lhes permitir cumprir o seu mandato de proteção dos direitos dos titulares dos dados
-     e acompanhar de perto quaisquer evoluções a este respeito67.
-
-
-      4 CONCLUSÃO
-104. A utilização de tecnologias de reconhecimento facial está intrinsecamente ligada ao tratamento de
-     quantidades significativas de dados pessoais, incluindo categorias especiais de dados. O rosto e, de um
-     modo mais geral, os dados biométricos estão permanente e irrevogavelmente ligados à identidade de
-     uma pessoa. Por conseguinte, a utilização do reconhecimento facial tem um impacto direto ou indireto
-     numa série de direitos e liberdades fundamentais consagrados na Carta dos Direitos Fundamentais da
-     UE, que podem ir além da privacidade e da proteção de dados, tais como a dignidade humana, a
-     liberdade de circulação, a liberdade de reunião, entre outros. Este aspeto é de particular importância
-     no domínio da aplicação da lei e da justiça penal.
-
-105. O CEPD compreende a necessidade das autoridades de aplicação da lei de beneficiarem das melhores
-     ferramentas possíveis para poderem identificar rapidamente os autores de atos terroristas ou de
-     outros crimes graves. No entanto, estas ferramentas devem ser utilizadas em estrita conformidade
-     com o quadro jurídico aplicável e apenas nos casos em que satisfaçam os requisitos em matéria de
-     necessidade e proporcionalidade previstos no artigo 52.º, n.º 1, da Carta. Além disso, embora possam
-     fazer parte da solução, as tecnologias modernas não são de modo algum uma «bala de prata».
-
-106. Existem certos casos de utilização de tecnologias de reconhecimento facial que representam riscos
-     inaceitavelmente elevados para os indivíduos e para a sociedade («linhas vermelhas»). Por estes
-     motivos, o CEPD e a AEPD apelaram à sua proibição geral 68.
-
-
-      66 Ver Comunicação da Comissão ao Parlamento Europeu e ao Conselho – Primeiro relatório sobre a aplicação e
+       by default v2.0 en.pdf .
+                                                                                                             27
+      Adopted
+
+      should make it possible to establish the justification, date and time of such operations and, as far as
+      possible, the identification of the person who consulted or disclosed personal data, and the identity of
+      the recipients of such personal data. Furthermore, in the context of facial recognition systems, logging
+      of the following additional processing operations is recommended (partly beyond Article 25 LED):
+      -    Changes of the reference database (addition, deletion or update). The log should keep a copy of
+           the relevant (added, deleted or updated) image, when it is not otherwise possible to verify the
+           lawfulness or the outcome of the processing operations.
+      -    Identification or verification attempts including the outcome and confidence score. Strict
+           minimisation principle should apply, so that only the identifier of the image from the reference
+           database is kept in the logs, instead of storing the reference image. Logging the input biometric
+           data should be avoided unless there is necessity (e.g. only in match cases)
+      -    The ID of the user who requested the identification or verification attempt.
+
+      -    Any personal data stored in the logs of the systems are subject to strict purpose limitations (e.g.
+           audits) and should not be used for other purposes (e.g. to be able to still perform
+           recognition/verification including an image that has been deleted from the reference databases).
+           Security measures should be applied to ensure the integrity of the logs, whereas automatic
+           monitoring systems to detect abuse of logs are highly recommended. For the reference database
+           logs, security measures should be equivalent to the reference database, in case of facial images
+           storage. Also, automatic processes to ensure the enforcement of the data retention period for the
+           logs should be implemented.
+     3.2.5.6 Article 4(4) Accountability
+102. The controller has to be able to demonstrate the compliance of the processing with the principles of
+     Article 4 (1)-(3), cf. Article 4(4) LED. A systematic and up-to-date documentation of the system
+     (including updates, upgrades and algorithmic training), the technical and organisational measures
+     (including system performance monitoring and potential human intervention) and the processing of
+     the personal data is crucial in this regard. To demonstrate the lawfulness of the processing, a
+     particularly important element is logging according to Article 25 LED (cf. section 3.2.5.5). The
+     accountability principle not only refers to the system and the processing, but also to the
+     documentation of procedural safeguards such as necessity and proportionality assessments, DPIAs as
+     well as internal consultations (e.g. management approval of the project or internal decisions on
+     confidence score values) and external consultations (e.g. DPA). Annex II includes a number of elements
+     in this regard.
+
+     3.2.5.7 Article 47 Effective supervision
+103. The effective supervision by the competent data protection authorities is one of the most important
+     safeguards for the fundamental rights and freedoms of the individuals affected by the use of FRT. At
+     the same time, providing each data protection authority with the necessary human, technical and
+     financial resources, premises and infrastructure is a prerequisite for the effective performance of their
+     tasks and exercise of their powers 66 . Even more crucial than the number of available staff, are the skills
+     of the experts, who should cover a very broad range of issues - from criminal investigations and police
+     cooperation to big data analytics and AI. Therefore, Member States should ensure that the resources
+
+
+      66
+        See Commission Communication “First report on application and functioning of the Data Protection Law
+      Enforcement Directive (EU) 2016/680 (‘LED’)”, COM(2022) 364 final, p. 3.4.1.
+
+
+                                                                                                              28
+      Adopted
+
+      of the supervisory authorities are appropriate and sufficient to allow them to fulfil their mandate to
+      protect the rights of data subjects and closely follow any developments in this regard. 67
+
+
+      4 CONCLUSION
+104. The use of facial recognition technologies is intrinsically linked to processing of significant amounts of
+     personal data, including special categories of data. The face and, more generally, biometric data are
+     permanently and irrevocably linked to a person’s identity. Therefore, the use of facial recognition has
+     direct or indirect impact on a number of fundamental rights and freedoms enshrined in the EU Charter
+     of Fundamental Rights that may go beyond privacy and data protection, such as human dignity,
+     freedom of movement, freedom of assembly, and others. This is particularly relevant in the area of law
+     enforcement and criminal justice.
+105. The EDPB understands the need for law enforcement authorities to benefit from the best possible
+     tools to quickly identify the perpetrators of terrorist acts and other serious crimes. However, such tools
+     should be used in strict compliance with the applicable legal framework and only in cases when they
+     satisfy the requirements of necessity and proportionality, as laid down in Article 52(1) of the Charter.
+     Moreover, while modern technologies may be part of the solution, they are by no means a ’silver
+     bullet’.
+106. There are certain use cases of facial recognition technologies, which pose unacceptably high risks to
+     individuals and society (‘red lines’). For these reasons the EDPB and the EDPS have called for their
+     general ban 68 .
+107. In particular, remote biometric identification of individuals in publicly accessible spaces poses a high
+     risk of intrusion into individuals’ private lives and does not have a place in a democratic society, as by
+     its nature, it entails mass surveillance. In the same vein, the EDPB considers AI-supported facial
+     recognition systems categorising individuals based on their biometrics into clusters according to
+     ethnicity, gender, as well as political or sexual orientation as not compatible with the Charter.
+     Furthermore, the EDPB is convinced that the use of facial recognition or similar technologies, to infer
+     emotions of a natural person is highly undesirable and should be prohibited, possibly with few duly
+     justified exceptions. In addition, the EDPB considers that processing of personal data in a law
+     enforcement context that would rely on a database populated by collection of personal data on a mass-
+     scale and in an indiscriminate way, e.g. by "scraping" photographs and facial pictures accessible online,
+     in particular those made available via social networks, would, as such, not meet the strict necessity
+     requirement provided for by Union law.
+
+
+      5 ANNEXES
+      Annex I: Support Pattern
+      Annex II: Practical guidance for managing FRT projects in LEAs
+
+
+      67
+          See Contribution of the EDPB to the European Commission’s evaluation of the Data Protection Law
+      Enforcement Directive (LED) under Article 62, para. 14, https://edpb.europa.eu/system/files/2021-
+      12/edpb contribution led review en.pdf
+      68 See EDPB-EDPS Joint Opinion 5/2021 on the proposal for a Regulation of the European Parliament and of the
 
-      o funcionamento da Diretiva (UE) 2016/680 relativa à proteção de dados na aplicação da lei («Diretiva Proteção
-      de Dados na Aplicação da Lei»), COM(2022) 364 final, ponto 3.4.1.
-      67 Ver Contribution of the EDPB to the European Commission's evaluation of the Data Protection Law Enforcement
+      Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)
+      https://edpb.europa.eu/system/files/2021-06/edpb-edps joint opinion ai regulation en.pdf
+                                                                                                               29
+      Adopted
 
-      Directive (LED) under Article 62 [Contributo do CEPD para a avaliação, pela Comissão Europeia, da Diretiva
-      Proteção      de    Dados     na     Aplicação    da   Lei    ao     abrigo     do    artigo    62.º],   n.º 14,
-      https://edpb.europa.eu/system/files/2021-12/edpb contribution led review en.pdf
-      68 Ver o Parecer conjunto 5/2021 do CEPD e da AEPD sobre a proposta de regulamento do Parlamento Europeu
+Annex III: Practical Examples
 
-      e do Conselho que estabelece regras harmonizadas em matéria de inteligência artificial (Regulamento
 
 
-                                                                                                                   32
-      Aprovado
 
-107. Concretamente, a identificação biométrica à distância de indivíduos em espaços acessíveis ao público
-     representa um elevado risco de intrusão na vida privada dos indivíduos e não tem lugar numa
-     sociedade democrática, uma vez que, pela sua natureza, implica uma vigilância em massa. Na mesma
-     ordem de ideias, o CEPD considera incompatíveis com a Carta os sistemas de reconhecimento facial
-     apoiados pela IA que categorizem, com base na biometria, indivíduos em grupos de acordo com a
-     origem étnica, o género, bem como a orientação sexual ou política. Além disso, o CEPD está convicto
-     de que a utilização do reconhecimento facial ou de tecnologias semelhantes para inferir as emoções
-     de uma pessoa singular é extremamente indesejável e deve ser proibida, possivelmente com poucas
-     exceções devidamente justificadas. Além disso, o CEPD considera que o tratamento de dados pessoais
-     num contexto de aplicação da lei assente numa base de dados preenchida pela recolha de dados
-     pessoais em massa e indiscriminada, por exemplo através da «raspagem» de fotografias e imagens
-     faciais acessíveis em linha, em especial as disponibilizadas através das redes sociais, não respeitaria,
-     como tal, o requisito da necessidade estrita previsto no direito da União.
+                                30
+Adopted
 
+           ANNEX I - TEMPLATE FOR DESCRIPTION OF SCENARIOS
+                       (With infoboxes for aspects dealt within the scenario)
 
-      5 ANEXOS
-      Anexo I: Padrão de apoio
+Description of the processing:
 
-      Anexo II: Orientações práticas para a gestão de projetos de TRF pelas autoridades de aplicação da lei
+   •   Description of the processing, Context (crime relation), Purpose
+Source of information:
 
-      Anexo III: Exemplos práticos
+   •   Types of data subjects: ☐ all citizens   ☐ convicts ☐ suspects
+                               ☐ children       ☐ other vulnerable data subjects
+   •   Source of image: ☐ publicly accessible spaces     ☐ internet
+                        ☐ private entity       ☐ other individuals   ☐ other .............................
 
+   •   Connection to crime: ☐ Direct temporal     ☐ Not direct temporal
+                            ☐ Direct geographical ☐ Not direct geographical
 
+                               ☐ Not necessary
 
+   •   Mode of information capture: ☐ remote                   ☐ in a booth or controlled environment
+   •   Context- affecting other fundamental rights:
+                         ☐ No
+                         Yes, namely ☐ freedom of assembly
+                                           ☐ Freedom of speech
+                                           ☐ various:....................
+   •   Possibilities for additional sources of information about the data subject:
+                         ☐ ID document ☐ public telephone use ☐ vehicle license plate
+                         ☐ other .............................
+Reference database (to which captured information is compared):
 
-      Inteligência                 Artificial)              https://edpb.europa.eu/system/files/2021-06/edpb-
-      edps joint opinion ai regulation en.pdf
+   •   Specificity: ☐ general purpose databases ☐ specific databases related to crime area
+   •   Description of how these reference databases were populated (and legal basis)
+   •   Change of purpose of database (e.g. security of private property was the primary goal):☐ YES
+                                                                                              ☐ NO
+Algorithm:
 
-                                                                                                          33
-      Aprovado
+   •   Processing type: ☐ 1-1 verification (authentication)            ☐ 1-many identification
+   •   Accuracy considerations
+   •   Technical safeguards
 
-             ANEXO I – MODELO PARA A DESCRIÇÃO DE CENÁRIOS
-                (Com caixas informativas para os aspetos abordados pelo cenário)
+Outcome:
 
-Descrição do tratamento:
+   •   Impact ☐ Direct (e.g. the data subject may be arrested, questioned, discriminatory behavior)
+              ☐ Not direct (used for statistical models, no serious legal action against data
+                subjects)
 
-   •   Descrição do tratamento, Contexto (ligação à criminalidade), Finalidade
+   •   Automated decision: ☐ YES           ☐ NO
+   •   Duration of storage
 
-Fonte da informação:
 
-   •   Tipos de titulares dos dados:              ☐ todos os cidadãos ☐ reclusos       ☐ suspeitos
-                               ☐ crianças         ☐ outros titulares de dados vulneráveis
-   •   Fonte da imagem:                                    ☐ espaços acessíveis ao público    ☐
-       Internet
-                         ☐ entidade privada     ☐ outros indivíduos       ☐ outra .............................
+                                                                                                             31
+Adopted
 
-   •   Ligação à criminalidade:                        ☐ Temporal direta             ☐ Temporal indireta
-                             ☐ Geográfica direta       ☐ Geográfica indireta
+Legal analysis:
 
-                              ☐ Não necessária
+    •   Necessity and proportionality analysis - purpose/seriousness of crime/number of persons not
+        involved but affected by processing
+    •   Type of prior information to data subject: ☐ When entering the specific area
+                                                   ☐ In the LEA’s website in general
+                                                   ☐ In the LEA’s website for the specific processing
+                                                   ☐ Other .............................
+    •   Applicable legal framework :
+                 ☐ LED mostly copied to national law
 
-   •   Modo de recolha das informações:                       ☐ à distância  ☐ numa cabina ou                     em
-       ambiente controlado
-   •   Contexto – que afete outros direitos fundamentais:
-                        ☐ Não
-                        Sim, nomeadamente ☐ liberdade de reunião
-                                           ☐ Liberdade de expressão
-                                           ☐ Diversos:....................
-   •   Possibilidades de fontes adicionais de informação sobre o titular dos dados:
-                        ☐ Documento de identificação                        ☐ utilização de telefone
-                público                         ☐ matrícula de veículo
-                        ☐ outra .............................
+                  ☐ Generic national law for the use of biometric data by LEAs
 
-Base de dados de referência (com a qual a informação captada é comparada):
+                  ☐ Specific national law for this processing (facial recognition) for that competent
 
-   •   Especificidade:                               ☐ bases de dados gerais ☐ bases de dados
-       específicas relacionadas com a categoria de crime
-   •   Descrição da forma como estas bases de dados de referência foram preenchidas (e base
-       jurídica)
-   •   Alteração da finalidade da base de dados (por exemplo, a segurança da propriedade privada
-       era o objetivo principal):                                                        ☐ SIM
-                                                                                          ☐
-NÃO
+                    authority
 
-Algoritmo:
+                  ☐ Specific national law for this processing (automated decision)
 
-   •   Tipo de tratamento:                                           ☐ verificação de um para um
-       (autenticação)    ☐ identificação de um para muitos
-   •   Considerações em matéria de exatidão
-   •   Meios técnicos de proteção
 
-                                                                                                                  34
-Aprovado
+Conclusion:
 
-Resultado:
+General considerations as to whether the described processing is likely compatible with EU Law (and
+some hints to legal prerequisites)
 
-    •   Impacto         ☐ Direto (por exemplo, o titular dos dados pode ser detido, interrogado,
-        comportamento discriminatório)
-               ☐ Indireto (utilizado para modelos estatísticos, ausência de ação judicial grave contra
-               os titulares dos dados)
 
-    •   Decisão automatizada:              ☐ SIM         ☐ NÃO
-    •   Duração da conservação
 
-Análise jurídica:
 
-    •    Análise da necessidade e da proporcionalidade – finalidade/gravidade do crime/número de
-         pessoas não envolvidas, mas afetadas pelo tratamento
-    • Tipo de informação prévia ao titular dos dados: ☐ Ao entrar na zona específica
-                                                  ☐ No sítio Web da autoridade de aplicação da lei
-em geral
-                                                  ☐ No sítio Web da autoridade de aplicação da lei
-para o tratamento específico
-                                                  ☐ Outro .............................
-    • Quadro jurídico aplicável:
-                  ☐ Diretiva Proteção de Dados na Aplicação da Lei, maioritariamente transposta
-para a legislação nacional
+                                                                                                        32
+Adopted
 
-                 ☐ Legislação nacional genérica relativa à utilização de dados biométricos pelas
-autoridades de aplicação da lei
+     ANNEX II- PRACTICAL GUIDANCE FOR MANAGING FRT PROJECTS IN
+                                LEAS
+This Annex provides some additional practical guidance for Law Enforcement Authorities (“LEAs”)
+planning to initiate a project involving Facial Recognition Technology (“FRT”). It provides more
+information on organizational and technical measures to consider during the deployment of the
+project and should not be considered as an exhaustive list of steps/measures to take. It should also be
+seen in conjunction with the EDPB Guidelines 3/2019 on processing of personal data through video
+devices 69 and any EU/EEA regulation and EDPB guidelines regarding the use of Artificial Intelligence.
+This Annex provides guidelines based on the assumption that LEAs will procure FRT (as off-the-shelf
+products). If the LEA plans to develop (further train) the FRT, then additional requirements apply for
+selecting the necessary training, validation and testing datasets to be used during development and
+the roles/measures for the development environment. Similarly, an off-the-shelf product may require
+further adjustments for the intended use, in which case above mentioned requirements for the
+selection of testing, validation and training datasets should be met.
+Belonging to the same LEA does not provide on its own full access to biometric data. As with any other
+personal data categories, biometric data collected for a certain law enforcement purpose under a
+specific legal basis cannot be used without a proper legal basis for a different law enforcement purpose
+(Article 4(2) of Directive (EU) 2016/680 (LED)). Also, developing/training an FRT tool is considered a
+different purpose and it should be assessed whether processing biometric data to measure
+performance/train the technology so to avoid impact on the data subjects by low performance is
+necessary and proportionate taking into account the initial purpose of processing.
 
-                    ☐ Legislação nacional específica relativa a este tratamento (reconhecimento facial)
-                    aplicável à autoridade competente em questão
 
-                    ☐ Legislação nacional específica relativa a este tratamento (decisão automatizada)
+1. ROLES AND RESPONSIBILITIES
+When a LEA employs FRTs for the performance of its tasks falling under the scope of the LED
+(prevention, investigation detection or prosecution of criminal offences, etc., according to Article 3
+LED), it can be considered the controller for the FRT. However, LEAs are composed of several
+units/departments that may be involved in this processing, either by defining the process of FRT
+application, or by applying it in practice. Due to the specificities of this technology, different units may
+need to be involved to either support in the measurements of its performance, or to further train it.
+In a project involving FRT, there are several stakeholders 70 within LEAs that may need to be involved:
 
-
-
-Conclusão:
-
-Considerações gerais sobre a probabilidade de o tratamento descrito ser compatível com a legislação
-da UE (e algumas sugestões sobre pré-requisitos jurídicos).
-
-
-
-
-                                                                                                     35
-Aprovado
-
-     ANEXO II – ORIENTAÇÕES PRÁTICAS PARA A GESTÃO DE PROJETOS
-           DE TRF PELAS AUTORIDADES DE APLICAÇÃO DA LEI
-O presente anexo apresenta algumas orientações práticas adicionais para as autoridades de aplicação
-da lei que planeiem iniciar um projeto que envolva tecnologias de reconhecimento facial («TRF»).
-Contém mais informações sobre as medidas organizativas e técnicas a ter em conta durante a
-implantação do projeto e não deve ser considerado como uma lista exaustiva de etapas/medidas a
-tomar. Além disso, deve ser lido em conjugação com as Diretrizes 3/2019 sobre tratamento de dados
-pessoais através de dispositivos de vídeo69 do CEPD e com qualquer regulamento da UE/EEE e
-orientações do CEPD relativos à utilização da inteligência artificial.
-
-O presente anexo disponibiliza orientações com base no pressuposto de que as autoridades de
-aplicação da lei adquirirão TRF (como produtos comerciais). Se a autoridade de aplicação da lei planeia
-desenvolver (continuar a treinar) a TRF, então aplicam-se requisitos adicionais para selecionar os
-conjuntos de dados de treino, de validação e de teste necessários para utilizar durante o
-desenvolvimento e os papéis/medidas para o ambiente de desenvolvimento. Do mesmo modo, um
-produto comercial pode exigir ajustamentos adicionais para a utilização prevista, caso em que devem
-ser cumpridos os requisitos acima mencionados relativos à seleção dos conjuntos de dados de teste,
-validação e treino.
-
-Pertencer à mesma autoridade de aplicação da lei não proporciona, por si só, pleno acesso aos dados
-biométricos. Tal como acontece com quaisquer outras categorias de dados pessoais, os dados
-biométricos recolhidos para uma determinada finalidade de aplicação da lei ao abrigo de uma base
-jurídica específica não podem ser utilizados sem uma base jurídica adequada para uma finalidade de
-aplicação da lei distinta (artigo 4.º, n.º 2, da Diretiva (UE) 2016/680 – Diretiva Proteção de Dados na
-Aplicação da Lei). Além disso, o desenvolvimento/treino de uma ferramenta de TRF é considerado uma
-finalidade distinta, pelo que é necessário avaliar se o tratamento de dados biométricos para avaliar o
-desempenho/treinar a tecnologia de modo a evitar eventuais impactos nos titulares dos dados
-resultantes de um baixo desempenho é necessário e proporcional, tendo em conta a finalidade inicial
-do tratamento.
-
-
-1. FUNÇÕES E RESPONSABILIDADES
-Quando uma autoridade de aplicação da lei utiliza TRF para o desempenho das suas atribuições
-abrangidas pelo âmbito de aplicação da Diretiva Proteção de Dados na Aplicação da Lei (prevenção,
-investigação, deteção ou repressão de infrações penais, etc., nos termos do artigo 3.º da Diretiva
-Proteção de Dados na Aplicação da Lei), esta autoridade pode ser considerada o responsável pelo
-tratamento para a TRF. No entanto, as autoridades de aplicação da lei são compostas por várias
-unidades/departamentos que podem estar envolvidos neste tratamento, quer definindo o processo
-de aplicação da TRF, quer aplicando-a na prática. Devido às especificidades desta tecnologia, pode ser
-necessário envolver diferentes unidades para apoiar as avaliações do seu desempenho ou para a
-treinar melhor.
-
-
+•     Top management - to approve the project after balancing the risks against the potential benefits.
+•     DPO and/or legal department of the LEA - to assist in assessing the lawfulness of implementing a
+      certain FRT project; to assist in carrying out the DPIA; to ensure the respect and exercise of the
+      rights of the data subjects.
 
 
 69   https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-32019-processing-personal-
 data-through-video_en.
+70 The following roles are indicative of the different stakeholders and their responsibilities in an FRT project.
 
-                                                                                                      36
-Aprovado
-
-Num projeto que envolva TRF, existem várias partes interessadas 70 no seio das autoridades de
-aplicação da lei que podem ter de estar envolvidas:
-
-•    Direção – aprovar o projeto depois de ponderar os riscos e os potenciais benefícios.
-•    EPD e/ou departamento jurídico da autoridade de aplicação da lei – prestar assistência na
-     avaliação da licitude da execução de um determinado projeto de TRF; prestar assistência na
-     realização da AIPD; assegurar o respeito e o exercício dos direitos dos titulares dos dados.
-•    Proprietário do processo – atuar como a unidade específica dentro da autoridade de aplicação da
-     lei competente para desenvolver o projeto, decidir sobre os detalhes do projeto de TRF, incluindo
-     os requisitos de desempenho do sistema; decidir sobre a métrica de equidade adequada; definir
-     a pontuação de confiança 71; fixar limiares aceitáveis de enviesamento; identificar os potenciais
-     riscos que o projeto de TRF representa para os direitos e liberdades das pessoas (consultando
-     também o EPD e o departamento informático de IA e/ou ciência de dados (ver abaixo) e
-     apresentá-los à direção. O proprietário do processo consultará igualmente o gestor da base de
-     dados de referência antes de decidir sobre os detalhes do projeto de TRF, para compreender tanto
-     a finalidade da utilização da base de dados de referência como os seus detalhes técnicos. No caso
-     de um novo treino de uma TRF adquirida, o proprietário do processo será também responsável
-     pela seleção do conjunto de dados de treino. Na qualidade de unidade encarregada de
-     desenvolver e decidir os pormenores do projeto, o proprietário do processo é responsável pela
-     realização da AIPD.
-•    Departamento informático de IA e/ou ciência de dados – ajudar na realização de uma AIPD;
-     explicar as métricas disponíveis para avaliar o desempenho, a equidade 72 e o potencial
-     enviesamento do sistema; implementar a tecnologia e os meios técnicos de proteção para impedir
-     o acesso não autorizado aos dados recolhidos, ciberataques, etc. Em caso de novo treino de uma
-     TRF adquirida, o departamento informático de IA ou de ciência de dados treinará o sistema com
-     base no conjunto de dados de treino fornecido pelo proprietário do processo. Este departamento
-     também será responsável pela elaboração de medidas para reduzir os riscos identificados
-     conjuntamente pelos proprietários do processo (por exemplo, riscos específicos da IA, tais como
-     ataques de inferência de modelo).
-•    Utilizadores finais (tais como os agentes da polícia no terreno ou nos laboratórios forenses) – para
-     efetuar uma comparação com a base de dados; para analisar os resultados com espírito crítico
-     tendo em conta elementos de prova anteriores e dar feedback ao proprietário do processo sobre
-     os falsos positivos e as indicações de possível discriminação.
-•    Gestor da base de dados de referência – a unidade específica da autoridade de aplicação da lei
-     competente responsável pela acumulação e gestão da base de dados de referência, ou seja, a
-     base de dados com a qual as imagens serão comparadas, incluindo o apagamento das imagens
-     faciais após o período de conservação definido. Esta base de dados pode ser criada
-     especificamente para o projeto de TRF previsto ou pode ser preexistente, para fins compatíveis.
-
-70 As seguintes funções são indicativas das diferentes partes interessadas e das suas responsabilidades num
-
-projeto de TRF. Embora a linguagem utilizada para descrever as funções no presente anexo não seja assertiva,
-cada autoridade de aplicação da lei tem de definir e atribuir funções semelhantes de acordo com a sua
-organização. Uma unidade pode acumular mais do que uma função, por exemplo o proprietário do processo e o
-gestor da base de dados de referência, ou o proprietário do processo e o departamento informático de IA e/ou
-ciência de dados (caso a unidade do proprietário do processo tenha todos os conhecimentos técnicos
-necessários).
-71 A pontuação de confiança é o nível de confiança da previsão (correspondência), sob a forma de uma
-
-probabilidade. Por exemplo, comparando dois modelos, existe um grau de confiança de 90 % de que estes
-pertençam à mesma pessoa. A pontuação de confiança é diferente do desempenho da TRF, mas afeta o
-desempenho. Quanto mais elevado for o limiar de confiança, menor será o número de falsos positivos e maior
-será o número de falsos negativos nos resultados da TRF.
-72 A equidade pode ser definida como a ausência de discriminação injusta e ilícita, como o preconceito de género
-
-ou racial.
-
-                                                                                                             37
-Aprovado
-
-      O gestor da base de dados de referência é responsável por definir quando e em que circunstâncias
-      as imagens faciais podem ser armazenadas, bem como por estabelecer os respetivos requisitos
-      de conservação de dados (em função do tempo ou de outros critérios).
-Uma vez que, na sua maioria, os casos de implantação e utilização de TRF implicam um risco
-intrinsecamente elevado para os direitos e liberdades dos titulares dos dados, a autoridade de controlo
-responsável pela proteção dos dados deve também ser envolvida no contexto da consulta prévia
-exigida pelo artigo 28.º da Diretiva Proteção de Dados na Aplicação da Lei.
+While the language used to describe the roles in this annex is not assertive, each LEA needs to define and assign
+similar roles according to its organisation. It might be the case that a unit accumulates more than one role, for
+instance process owner and reference database manager, or process owner and IT AI and/or Data Science
+Department (in case the unit of the process owner has all necessary technical knowledge).
 
 
-2. INÍCIO/ANTES DA AQUISIÇÃO DO SISTEMA DE TRF
-O proprietário do processo numa autoridade de aplicação da lei deve, em primeiro lugar, ter uma
-compreensão clara do(s) processo(s) que utiliza(m) a TRF (os casos de utilização) e assegurar a
-existência de uma base jurídica que fundamente o caso de utilização previsto. Neste contexto,
-precisa de:
+                                                                                                              33
+Adopted
+
+•    Process Owner - acting as the specific unit within the competent LEA to develop the project,
+     deciding the details of the FRT project, including the system performance requirements; deciding
+     on the appropriate fairness metric; setting the confidence score 71 ; setting acceptable thresholds
+     for bias; identifying the potential risks the FRT project poses for the rights and freedoms of the
+     individuals (by consulting also the DPO and the IT AI and/or Data Science Department (see below)
+     and to present them to the top management. The process owner will also consult the reference
+     database manager, before deciding on the details of the FRT project, to understand both the use
+     purpose of the reference database but also its technical details. In case of re-training a procured
+     FRT, the Process Owner will also be in charge of the selection of the training dataset. As being the
+     unit tasked with developing and deciding the details of the project, the process Owner is in charge
+     of conducting the DPIA.
+•    IT AI and/or Data Science Department - to assist in carrying out a DPIA; to explain the metrics
+     available to measure the system performance, fairness 72 and potential bias; to implement the
+     technology and the technical safeguards, in order to prevent unauthorized access to the collected
+     data, cyberattacks, etc. In case of re-training a procured FRT, the IT AI or Data science department
+     will train the system, based on the training dataset provided by the Process Owner. This
+     department will also be in charge of setting up the measures to mitigate the risks jointly identified
+     by the process owners (e.g. AI specific risks such as model inference attacks).
+•    End users (such as the police officers in the field or in forensics labs) - to carry out a comparison
+     against the database; to critically review the results taking into account previous evidence and
+     provide feedback to the Process Owner for false positive results and indications of possible
+     discrimination.
+•    Reference database manager - the specific unit within the competent LEA in charge of
+     accumulating and managing the reference database, meaning the database against which images
+     will be compared, including deleting facial images after the defined retention period. Such
+     database can be created specifically for the envisaged FRT project or can pre-exist, for compatible
+     purposes. The reference database manager is in charge of defining when and under which
+     circumstances facial images can be stored as well as setting their data retention requirements
+     (according to time or other criteria).
+As most cases of deployment and use of FRT contain intrinsic high risk to the rights and freedoms of
+data subjects, the Data Protection Supervisory Authority should also be involved in the context of the
+prior consultation required by Article 28 LED.
+
+
+2. INCEPTION/BEFORE PROCURING THE FRT SYSTEM
+The Process Owner in a LEA should first have a clear understanding of the process(es) pursuing the
+use of FRT (the use case/s) and ensure there is a legal basis to ground the intended use case. Based
+on this, they need to:
+
+
+•    Describe formally the use case. The problem to be solved and the way FRT will provide a solution
+     is to be described, as well as the overview of the process (task) in which it will be applied. In this
+     regard, the LEAs should document at least 73 :
+
+
+71
+   Confidence score is the confidence level of the prediction (match), in the form of a probability. E.g. by
+comparing two templates, there is 90% confidence that these belong to the same person. Confidence score is
+different than the performance of the FRT, however it affects the performance. The higher the confidence
+threshold, the fewer false positives and more false negatives in the results of FRT.
+72 Fairness can be defined as the lack of unfair, unlawful discrimination, such as gender or race bias.
+73 Annex I provides a list of elements assisting the controller to describe an FRT use case.
+
+
+                                                                                                         34
+Adopted
+
+     o    The categories of personal data recorded in the process
+     o    The objectives and concrete purposes for which the FRT will be used, including the potential
+          consequences for the data subject after a match.
+     o When and how the facial images will be collected (including information on the context of
+          this collection, e.g. at the airport gate, videos from security cameras outside a store where a
+          crime was committed etc. and the categories of data subjects whose biometric data will be
+          processed).
+     o The database against which images will be compared (reference database), as well as
+          information on how it was created, its size and the quality of biometric data it contains.
+     o The LEA actors who will be authorized to use the FRT system and act upon it in the law
+          enforcement context (their profiles and access rights have to be defined by the Process
+          Owner).
+     o The envisaged retention period for the input data, or the moment that will determine the
+          end of this period (such as the closure or termination of the criminal proceedings in
+          accordance with national procedural law for which they have been initially collected), as well
+          as any subsequent action (deletion of this data, anonymisation and use for statistical or
+          research purposes etc.).
+     o Logging implementation and accessibility of logs and records kept.
+     o The performance metrics (e.g. accuracy, precision, recall, F1-score) and their minimum
+          acceptable thresholds. 74
+     o An estimation of how many people will be subject to FRT in which time period / occasion.
+•    Perform a necessity and proportionality assessment 75 . The fact that this technology exists should
+     not be the driver to apply it. The Process Owner must first assess whether an appropriate legal
+     basis for the envisaged processing exists. For this, the DPO and the legal service need to be
+     consulted. The driver to deploy FRT should be that it is necessary and proportionate solution for
+     a specifically defined problem of LEAs. This needs to be assessed according to the
+     purpose/seriousness of crime/number of persons not involved but affected by the FRT system.
+     For the assessment of lawfulness, at least the following should be considered: LED76 , GDPR77 78
+     any existing legal framework on AI 79 and all accompanying guidelines provided by data protection
+     supervisory authorities (such as the EDPB guidelines 3/2019 on processing of personal data
+
+
+74
+   There are different metrics to evaluate the performance of an FRT system. Each metric provides a different
+view of the system results and its success in providing an adequate picture of whether the FRT system is
+performing well or not depends on the use case of FRT. If the focus is on achieving high percentages of correct
+matching a face, metrics such as precision and recall could be used. However, these metrics do not measure how
+well the FRT handles negative examples (how many were incorrectly matched by the system). The Process
+Owner, supported by the IT AI and Data Science Department should be able to set the performance requirements
+and express then in the most suitable metric according to the FRT use case.
+75 Further steps to take care of necessity may be considered as to the tailoring and use of the system, so the
+
+description of the use case may also be slightly changed during the necessity and proportionality assessment.
+76 Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of
+
+natural persons with regard to the processing of personal data by competent authorities for the purposes of the
+prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties.
+77 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of
+
+natural persons with regard to the processing of personal data and on the free movement of such data.
+78 In cases where a scientific project aiming at researching the use of FRT would need to process personal data,
+
+but such processing would not fall under Article 4 (3) LED, generally, the GDPR would be applicable (Article 9(2)
+LED). In case of pilot projects that would be followed by law enforcement operations, the LED would still be
+applicable.
+79 For example, there is a proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND
+AMENDING CERTAIN UNION LEGISLATIVE ACTS, however this is not yet established as a regulation.
+
+
+                                                                                                              35
+Adopted
+
+     through video devices 80 ). These acts of EU legislation should always be corroborated with the
+     applicable national requirements, especially in the area of criminal procedural law. The
+     proportionality assessment should identify the fundamental rights of data subjects which may be
+     affected (beyond privacy and data protection). It should also describe and consider any limits (or
+     lack of limits) imposed in the use case to the FRT system. For example, if the system will run
+     continuously or temporarily and if it will be limited to a geographical area.
+•    Perform a Data Protection Impact Assessment (DPIA) 81 . A DPIA should be conducted since the
+     deployment of FRT in the law enforcement area is prone to result in a high risk for the rights and
+     freedoms of the individuals 82 . The DPIA should contain in particular: a general description of the
+     envisaged processing operations 83 , an assessment of the risks to the rights and freedoms of data
+     subjects 84 , the measures envisaged to address those risks, safeguards, security measures and
+     mechanisms to ensure the protection of personal data and to demonstrate compliance. The DPIA
+     is an ongoing process, so any new elements of the processing should be added and the risk
+     assessment should be updated in each stage of the project.
+•    Get approval from top management by explaining the risks to the rights and freedoms of data
+     subjects (from the use case and the technology) and the respective risk treatment plans.
 
 
 
-•    Descrever formalmente o caso de utilização. Importa descrever o problema a resolver e a forma
-     como a TRF apresentará uma solução, bem como a visão geral do processo (tarefa) a que será
-     aplicada. A este respeito, as autoridades de aplicação da lei devem documentar, pelo menos 73:
-     o As categorias dos dados pessoais registados no processo.
-     o Os objetivos e as finalidades concretas para os quais a TRF será utilizada, incluindo as
-          possíveis consequências de uma correspondência para o titular dos dados.
-     o Quando e como serão recolhidas as imagens faciais (incluindo informações sobre o contexto
-          desta recolha, por exemplo na porta do aeroporto, em vídeos de câmaras de segurança no
-          exterior de uma loja onde foi cometido um crime, etc., bem como as categorias dos titulares
-          de dados cujos dados biométricos serão tratados).
-     o A base de dados com a qual as imagens serão comparadas (base de dados de referência),
-          bem como informações sobre a forma como foi criada, a sua dimensão e a qualidade dos
-          dados biométricos que contém.
-     o Os agentes da autoridade de aplicação da lei que serão autorizados a utilizar o sistema de
-          TRF e a atuar no contexto da aplicação da lei (os seus perfis e direitos de acesso devem ser
-          definidos pelo proprietário do processo).
-     o O período de conservação previsto dos dados de entrada, ou o momento que determinará o
-          final deste período (tal como o encerramento ou a conclusão do processo penal, em
-          conformidade com o direito processual nacional, para o qual os dados foram inicialmente
-          recolhidos), bem como qualquer ação subsequente (apagamento destes dados,
-          anonimização e utilização para fins estatísticos ou de investigação, etc.).
-     o Implementação do registo cronológico e acessibilidade dos registos conservados.
-     o As métricas de desempenho (por exemplo, exatidão, precisão, recordação, pontuação F1) e
-          os respetivos limiares mínimos aceitáveis74.
-
-73 O anexo I apresenta uma lista de elementos que ajudam o responsável pelo tratamento a descrever um caso
-
-de utilização de TRF.
-74 Existem diferentes métricas para avaliar o desempenho de um sistema de TRF. Cada parâmetro apresenta uma
-
-visão diferente dos resultados do sistema, e o seu êxito na transmissão de uma imagem adequada de se o sistema
-de TRF está ou não a ter um bom desempenho depende do caso de utilização da TRF. Se a ênfase for colocada
-na obtenção de percentagens elevadas de correspondências corretas de um rosto, podem ser utilizados
-parâmetros como a precisão e a recordação. No entanto, estes parâmetros não avaliam a eficácia da TRF no
-tratamento de exemplos negativos (número de correspondências erradas do sistema). O proprietário do
-processo, apoiado pelos departamentos informáticos de IA e ciência de dados, deve ser capaz de definir os
+3. DURING PROCUREMENT AND BEFORE DEPLOYMENT OF THE FRT
+•    Decide the criteria to select the FRT (algorithm). The Process Owner should decide the criteria to
+     select an algorithm, with the help of the IT AI and/or Data Science department. In practice, these
+     would include fairness and performance metrics decided in the description of the use case. Such
+     criteria should also include information relating to data the algorithm was trained with. The
+     training, testing and validation set need to sufficiently include samples of all characteristics of data
+     subjects to be subject to the FRT (consider for example, age, gender and race) to reduce bias. The
+     FRT provider should provide information and metrics on the FRT training, testing and validation
+     datasets, and describe the measures taken to measure and mitigate potential unlawful
+     discrimination and bias. The Process Owner, where possible, has to check whether there was a
+     legal basis for the provider to use this dataset for the purpose of the training the algorithms (based
+     on information the provider will make available). Also, the Process Owner should ensure that the
+     FRT provider applies biometric data related security standards, such as ISO/IEC 24745, which
+     provides guidance for the protection of biometric information under various requirements for
+     confidentiality, integrity and renewability/revocability during storage and transmission and
 
 
-                                                                                                           38
-Aprovado
-
-     o Estimativa do número de pessoas que serão sujeitas a TRF em que período/ocasião.
-•    Realizar uma avaliação da necessidade e da proporcionalidade 75. A mera existência desta
-     tecnologia não deve ser o que motiva a sua aplicação. O proprietário do processo deve, em
-     primeiro lugar, avaliar se existe uma base jurídica adequada para o tratamento previsto. Para o
-     efeito, é necessário consultar o EPD e o serviço jurídico. O motivo da implantação da TRF deve ser
-     o facto de esta ser a solução necessária e proporcionada para um problema concretamente
-     definido das autoridades de aplicação da lei. Tal tem de ser avaliado de acordo com a
-     finalidade/gravidade do crime/número de pessoas não envolvidas, mas afetadas pelo sistema de
-     TRF. Para a avaliação da licitude, importa analisar, no mínimo, os seguintes: a Diretiva Proteção
-     de Dados na Aplicação da Lei76, o RGPD77 78, qualquer quadro jurídico em vigor em matéria de IA 79
-     e todas as orientações de acompanhamento fornecidas pelas autoridades de controlo em matéria
-     de proteção de dados (tais como as Diretrizes 3/2019 sobre tratamento de dados pessoais através
-     de dispositivos de vídeo do CEPD80). Estes atos legislativos da UE devem ser sempre corroborados
-     pelos requisitos nacionais aplicáveis, sobretudo no domínio do direito processual penal. A
-     avaliação da proporcionalidade deve identificar os direitos fundamentais dos titulares dos dados
-     que podem ser afetados (para além da privacidade e da proteção de dados). Deve também
-     descrever e analisar os eventuais limites (ou falta de limites) impostos ao sistema de TRF no caso
-     de utilização concreto. Por exemplo, se o sistema funcionará de forma contínua ou temporária e
-     se será circunscrito a uma área geográfica.
-•    Realizar uma avaliação de impacto sobre a proteção de dados (AIPD) 81. Deve ser realizada uma
-     AIPD, uma vez que a implantação da TRF no domínio da aplicação da lei é suscetível de resultar
-     num elevado risco para os direitos e liberdades dos indivíduos 82. A AIPD deve conter,
-
-
-
-
-requisitos de desempenho e expressá-los na métrica mais adequada de acordo com o caso de utilização da TRF
-em causa.
-75 Podem ser ponderadas medidas adicionais para avaliar a necessidade no que diz respeito à adaptação e
-
-utilização do sistema, pelo que a descrição do caso de utilização pode também ser ligeiramente alterada durante
-a avaliação da necessidade e da proporcionalidade.
-76 Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à proteção das
-
-pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para
-efeitos de prevenção, investigação, deteção ou repressão de infrações penais ou execução de sanções penais.
-77 Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção
-
-das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados.
-78 Nos casos em que um projeto científico destinado a investigar a utilização da TRF tenha de proceder ao
-
-tratamento de dados pessoais, mas esse tratamento não seja abrangido pelo artigo 4.º, n.º 3, da Diretiva
-Proteção de Dados na Aplicação da Lei, regra geral é aplicável o RGPD (artigo 9.º, n.º 2, da Diretiva Proteção de
-Dados na Aplicação da Lei). No caso de projetos-piloto que seriam seguidos de operações de aplicação da lei,
-continuaria a ser aplicável a Diretiva Proteção de Dados na Aplicação da Lei.
-79 Por exemplo, existe uma proposta de regulamento do Parlamento Europeu e do Conselho que estabelece
-
-regras harmonizadas em matéria de inteligência artificial (Regulamento Inteligência Artificial) e altera
-determinados atos legislativos da União, mas que ainda não foi estabelecida como regulamento.
-80    https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-32019-processing-personal-
+80   https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-32019-processing-personal-
 data-through-video_en.
- 81 Podem ser consultadas mais orientações sobre a AIPD no seguinte documento: WP248 rev.01 – Orientações
-
-relativas à Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que determinam se o tratamento é
-«suscetível de resultar num elevado risco» para efeitos do Regulamento (UE) 2016/679, disponível em:
-https://ec.europa.eu/newsroom/article29/items/611236 e no conjunto de ferramentas do CEPD sobre
-responsabilização no terreno, parte II, disponível em: https://edps.europa.eu/node/4582 en.
-82 A TRF, dependendo do caso de utilização, pode enquadrar-se nos seguintes critérios que desencadeiam um
-
-tratamento de alto risco (das Orientações relativas à AIPD, WP248 rev.01): monitorização sistemática,
-tratamento de dados em grande escala, correspondência ou combinação de conjuntos de dados, utilização
-inovadora ou aplicação de novas soluções tecnológicas ou organizativas.
-
-                                                                                                              39
-Aprovado
-
-     nomeadamente: uma descrição geral das operações de tratamento previstas 83, uma avaliação dos
-     riscos para os direitos e liberdades dos titulares dos dados84, as medidas previstas para fazer face
-     a esses riscos e as garantias, medidas de segurança e mecanismos para assegurar a proteção dos
-     dados pessoais e demonstrar a conformidade. A AIPD é um processo contínuo, pelo que importa
-     acrescentar quaisquer novos elementos do tratamento e atualizar a avaliação dos riscos em todas
-     as fases do projeto.
-•    Obter a aprovação da direção, explicando os riscos para os direitos e liberdades dos titulares dos
-     dados (decorrentes do caso de utilização e da tecnologia) e os respetivos planos de tratamento
-     dos riscos.
-
-
-
-3. DURANTE A AQUISIÇÃO E ANTES DA IMPLANTAÇÃO DA TRF
-•    Decidir os critérios para selecionar a TRF (algoritmo). O proprietário do processo deve decidir os
-     critérios para selecionar um algoritmo, com a ajuda do departamento informático de IA e/ou
-     ciência de dados. Na prática, estes incluiriam parâmetros de equidade e de desempenho
-     decididos na descrição do caso de utilização. Estes critérios devem também incluir informações
-     relacionadas com os dados com os quais o algoritmo foi treinado. O conjunto de treino, teste e
-     validação tem de incluir amostras suficientes de todas as características dos titulares dos dados a
-     submeter à TRF (por exemplo, idade, sexo e raça) para reduzir os enviesamentos. O fornecedor
-     da TRF deve disponibilizar informações e métricas sobre os conjuntos de dados de treino, teste e
-     validação da TRF e descrever as medidas tomadas para medir e atenuar potenciais discriminações
-     ilícitas e enviesamentos. O proprietário do processo, sempre que possível, tem de verificar a
-     existência de uma base jurídica para o fornecedor utilizar este conjunto de dados para treino dos
-     algoritmos (com base nas informações disponibilizadas pelo fornecedor). Além disso, o
-     proprietário do processo deve assegurar que o fornecedor da TRF aplica normas de segurança
-     relacionadas com os dados biométricos, tais como a norma ISO/IEC 24745, que forneçam
-     orientações para a proteção dos dados biométricos ao abrigo de vários requisitos de
-     confidencialidade, integridade e renovação/revogabilidade durante a conservação e a
-     transmissão e requisitos e orientações para a gestão e o tratamento seguros e compatíveis com a
-     privacidade de informações biométricas.
-
-•    Treinar novamente o algoritmo (se necessário). O proprietário do processo deve garantir que o
-     ajuste do sistema de TRF para obter uma maior precisão antes da sua utilização também faz parte
-     dos serviços contratados. Caso seja necessário treino adicional do sistema de TRF adquirido para
-     cumprir as métricas de exatidão, o proprietário do processo, para além de tomar a decisão de
-     treinar novamente o sistema, tem de decidir, com a ajuda do departamento informático de IA
-     e/ou ciência de dados, sobre o conjunto de dados adequado e representativo a utilizar e verificar
-     a licitude desta utilização dos dados.
-•    Estabelecer as garantias adequadas para tratar os riscos relacionados com a segurança, o
-     enviesamento e o baixo desempenho. Tal inclui a criação de um processo para monitorizar a TRF
-     assim que estiver a ser utilizada (registo e feedback sobre a exatidão e a equidade dos resultados).
-
-83 A descrição do tratamento, bem como a avaliação da necessidade e da proporcionalidade, tal como já foi
-
-descrito nas etapas anteriores, também fazem parte da AIPD, para além da avaliação dos riscos. Se necessário, a
-AIPD conterá uma descrição mais pormenorizada dos fluxos de dados pessoais.
-84 A análise dos riscos para os titulares dos dados deve incluir os riscos relacionados com o local onde se
-
-encontram as imagens faciais a comparar (local/remoto), os riscos relacionados com os
-subcontratantes/subcontratantes ulteriores, bem como os riscos específicos da aprendizagem automática
-quando esta é aplicada (por exemplo, contaminação de dados, exemplos antagónicos).
-
-                                                                                                            40
-Aprovado
-
-    Além disso, deve assegurar que os riscos que são específicos de alguns sistemas de aprendizagem
-    automática e TRF (por exemplo, contaminação de dados, exemplos antagónicos, inversão de
-    modelo, inferência de caixa branca) são identificados, avaliados e atenuados. O proprietário do
-    processo deve também estabelecer garantias adequadas para assegurar o respeito dos requisitos
-    de conservação dos dados biométricos incluídos no conjunto de dados a utilizar para o novo
-    treino.
-•   Documentar o sistema de TRF. Esta documentação deve incluir uma descrição geral do sistema
-    de TRF, uma descrição pormenorizada dos elementos do sistema de TRF e do respetivo processo
-    de estabelecimento, informações pormenorizadas sobre a monitorização, o funcionamento e o
-    controlo do sistema de TRF e uma descrição pormenorizada dos seus riscos e medidas de
-    atenuação. Os elementos incluídos nesta documentação incluirão os principais elementos da
-    descrição do sistema de TRF das fases anteriores (ver supra); no entanto, estes serão reforçados
-    com informações relacionadas com a monitorização do desempenho e a aplicação de alterações
-    ao sistema, incluindo quaisquer atualizações de versões e/ou novo treino.
-•   Criar manuais de utilizador, explicando a tecnologia e os casos de utilização. Estes têm de explicar
-    todos os cenários e pré-requisitos sob os quais a TRF será utilizada de uma forma clara.
-•   Formar os utilizadores finais sobre a utilização da tecnologia. Estas formações têm de explicar as
-    capacidades e as limitações da tecnologia, para que os utilizadores possam compreender as
-    circunstâncias em que é necessário aplicá-la e os casos em que esta pode ser inexata. Estas
-    formações também ajudarão a reduzir os riscos relacionados com a ausência de verificação/crítica
-    do resultado do algoritmo.
-•   Consultar a autoridade de controlo em matéria de proteção de dados, nos termos do artigo 28.º,
-    n.º 1, alínea b), da Diretiva Proteção de Dados na Aplicação da Lei. Fornecer informações nos
-    termos do artigo 13.º da Diretiva Proteção de Dados na Aplicação da Lei para informar os titulares
-    dos dados sobre o tratamento e os seus direitos. Estas notificações têm de se dirigir aos titulares
-    dos dados numa linguagem adequada, para que estes possam compreender o tratamento e
-    explicar os elementos básicos da tecnologia, incluindo os índices de exatidão, os conjuntos de
-    dados de treino e as medidas tomadas para evitar a discriminação e a baixa exatidão do algoritmo.
-
-
+81 Further guidance on DPIAs can be found at: Guidelines on Data Protection Impact Assessment (DPIA) and
+
+determining whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679, WP
+248 rev.01, available at: https://ec.europa.eu/newsroom/article29/items/611236 and the EDPS Accountability
+on the ground toolkit, part II, available at: https://edps.europa.eu/node/4582 en
+82 FRT, depending on the use case may fall under the following criteria triggering high-risk processing (from
+
+Guidelines on DPIA, WP 248 rev.01): Systematic monitoring, data processed on a large scale, matching or
+combining datasets, innovative use or applying new technological or organizational solutions.
+83 The description of the processing as well as necessity and proportionality assessment as already described in
+
+the above steps are also part of the DPIA, apart from risk assessment. If need be, a more detailed description of
+the personal data flows will be provided in the DPIA.
+84 The analysis of the risks to the data subjects should include risks related to the place of the facial images to be
+
+compared (local/remote), risks related to processors/sub-processors, as well as risks specific to machine learning
+when this is applied (e.g. data poisoning, adversarial examples).
+                                                                                                                  36
+Adopted
+
+    requirements and guidelines for the secure and privacy-compliant management and processing
+    of biometric information.
+
+•   Retrain the algorithm (if necessary). The Process Owner should ensure that fine-tuning the FRT
+    system for achieving higher accuracy before its use is also part of the procured services. In case
+    additional training of the acquired FRT system is necessary to meet the accuracy metrics, the
+    Process Owner, apart from taking the decision to retrain, needs to decide, with the help of IT AI
+    and/or Data Science Department on the adequate, representative dataset to be used and check
+    the lawfulness of this use for the data.
+•   Set the appropriate safeguards to treat risks related to security, bias and low performance. This
+    includes establishing a process to monitor the FRT once in use (logging and feedback for the
+    accuracy and fairness of results). In addition, ensure the risks which are specific to some machine
+    learning and FRT systems (e.g. data poisoning, adversarial examples, model inversion, white-box
+    inference) are identified, measured and mitigated. The Process Owner should also set appropriate
+    safeguards to ensure data retention requirements for biometric data included in the re-training
+    dataset will be respected.
+•   Document the FRT system. This should include a general description of the FRT system, a detailed
+    description of the elements of the FRT system and of the process for its establishment, detailed
+    information about the monitoring, functioning and control over the FRT system and a detailed
+    description of its risks and mitigation measures. The elements included in this documentation will
+    include main elements of the FRT system description from previous phases (see above), however
+    these will be enhanced with information related to monitoring performance and applying changes
+    to the system, including any version updates and/or re-training.
+•   Create user manuals, explaining the technology and the use cases. These need to explain all
+    scenarios and prerequisites under which FRT will be used) in a clear manner.
+•   Train the end users on how to use the technology. Such trainings need to explain the capabilities
+    and limitations of the technology so that the users can understand the circumstances under which
+    it is necessary to apply it and the cases in which it can be inaccurate. Such trainings will also assist
+    in mitigating risks relating to not checking/criticizing the algorithm outcome.
+•   Consult the data protection supervisory authority, pursuant to Article 28(1)(b) LED. Provide
+    information following Article 13 LED to inform the data subjects about the processing and their
+    rights. These notices need to address the data subjects in appropriate language so that they are
+    able to understand the processing and explain the basic elements of the technology, including
+    accuracy rates, training datasets and measures taken to avoid discrimination and low accuracy of
+    the algorithm.
+
+
+
+4. RECOMMENDATIONS AFTER DEPLOYMENT OF THE FRT
+•   Ensure human intervention and oversight of the results. Never take any measure concerning an
+    individual solely based on the outcome of the FRT (this would imply a breach of Article 11 of the
+    LED- automated individual decision-making having legal or other similar effects on the data
+    subject). Ensure that a LEA officer reviews the results of the FRT. Also ensure that LEA users avoid
+    automation bias, by investigating contradictory information and critically challenging the results
+    of the technology. For this, continuous training and awareness raising to the end users is
+    important, however the top management should ensure there are adequate human resources to
+    perform effective oversight. This entails providing enough time to each agent to critically
+    challenge the results of the technology. Record, measure and assess to which extent the human
+    oversight changes the FRT original decision.
+•   Monitor and address FRT model drift (performance degradation) once the model is in production.
+
+
+                                                                                                         37
+Adopted
+
+•   Establish a process to re-assess the risks and the security measures regularly and every time the
+    technology or use case suffers any changes.
+•   Document any change to the system throughout its lifecycle (e.g. upgrades, re-training).
+•   Establish a process as well as the related technical capabilities to address access requests by the
+    data subjects. Technical capability for the extraction of data, should there be a need to provide
+    them to data subjects, needs to be in place before any request comes up.
+•   Ensure that there are procedures in place for data breaches. Should a personal data breach occur,
+    involving biometric data, the risks are likely to be high. In this case all involved users should be
+    aware of the relevant procedures to follow, the DPO should immediately be informed and the
+    data subjects be informed.
+
+
+
+
+                                                                                                     38
+Adopted
+
+                           ANNEX III - PRACTICAL EXAMPLES
+There are many different practical settings and purposes of using facial recognition, such as in
+controlled environments like in border crossings, cross-checking with data from police databases, or
+from personal data manifestly made public by the data subject, live camera feeds (live facial
+recognition), etc. As a result, the risks for the protection of personal data and other fundamental rights
+and freedoms vary significantly in the different use cases. In order to facilitate the necessity and
+proportionality assessment, which should precede the decision on the possible deployment of facial
+recognition, the current guidelines provide a non-exhaustive list of possible applications of FRT in the
+law enforcement field.
+The scenarios presented and assessed are based on hypothetical situations and are intended to
+illustrate certain concrete uses of FRT and provide assistance for case-by-case considerations, as well
+as setting an overall framework. They do not aspire to be exhaustive and are without prejudice to any
+ongoing or future proceedings undertaken by a national supervisory authority with regard to the
+design, experimentation or implementation of facial recognition technologies. The presentation of
+these scenarios should serve only the purpose of exemplifying the guidance to policy makers,
+legislators and law enforcement authorities, already provided in this document, when devising and
+envisioning the implementation of facial recognition technologies in order to ensure full compliance
+with the EU acquis in the field of personal data protection. In this context, it should be borne in mind
+that even in similar situations of using FRT, the presence, or the absence, of certain elements may lead
+to a different outcome of the necessity and proportionality assessment.
+
+
+1 SCENARIO 1
+1.1. Description
+An Automated Border Control system which allows for an automated border passage by authenticating
+the biometric image stored in the electronic travel document of EU citizens and other travellers passing
+the border passage and establishing that the passenger is the rightful holder of the document.
+Such verification/authentication involves only one-to-one facial recognition and is carried out in
+controlled environment (e.g. at airport e-gates). The biometric data of the traveller passing the border
+passage are captured when he/she is explicitly prompted to look at the camera in the e-gate and is
+compared to that of the presented document (passport, identity card, etc.) which is issued following
+specific technical requirements.
+At the same time, while the processing in such cases in principle falls outside the scope of the LED, the
+outcome of the verification may also be used in matching (alphanumeric) data of the person against
+law enforcement databases as part of the border control and thus may entail actions with significant
+legal effect for the data subject, e.g. arrest pursuant to an alert in SIS. Under specific circumstances,
+the biometric data can be also used to search for matches in law enforcement databases (in such a
+case 1-many identification would be performed in this step).
+The outcome of the biometric image processing has a direct impact on the data subject: only in case
+of successful verification it allows passing the border passage. In case of unsuccessful identification,
+the border guards need to perform a second check to ensure the data subject is different than the one
+depicted in the identification document.
+
+
+
+                                                                                                       39
+Adopted
+
+In case a SIS or national alert is identified, the border guards need to perform a second verification and
+the necessary further checks and then take any necessary action, e.g. arrest the person, inform
+concerned authorities.
+
+ Source of information:
+     • Types of data subjects: ☒ all individuals crossing the borders
+     • Source of image: ☒ other (ID document)
+     • Connection to crime: ☒ Not necessary
+     • Mode of information capture: ☒ in a booth or controlled environment
+     • Context - affecting other fundamental rights: Yes, namely: ☒ right to free movement ☒
+         right to asylum
+ Reference database (to which captured information is compared):
+     • Specificity:      ☒ specific databases related to border control
+ Algorithm:
+     • Verification type: ☒ 1-1 verification (authentication)
+ Outcome:
+     • Impact ☒ Direct (the data subject is allowed or denied entry)
+     • Automated decision: ☒ Yes
+
+
+1.2. Applicable legal framework
+Since 2004, pursuant to Council Regulation (EC) No 2252/2004 85 , passports and other travel
+documents issued by Member States have to contain a biometric facial image stored in an electronic
+chip embedded in the document.
+The Schengen Borders Code (SBC) 86 lays down the requirements for border checks on persons at the
+external borders. For EU citizens and other persons enjoying the right of free movement under Union
+law, the minimum checks should consist of a verification of their travel documents, where appropriate
+by using technical devices. The SBC has been subsequently amended with Regulation (EU)
+2017/2225 87 , which has introduced, inter alia, definitions for ‘e-gates’, ‘automated border control
+system’ and ‘self-service system’, as well as the possibility for processing biometric data for carrying
+out border checks.
+
+Hence, it could be assumed that there is a clear and foreseeable legal basis authorising this form of
+personal data processing. Moreover, the legal framework is adopted at Union level and is directly
+applicable to Member States.
+
+1.3. Necessity and proportionality - purpose/seriousness of crime
+Verification of the identity of EU citizens in an automated border control, using their biometric image,
+is an element of the border checks at the external borders of the EU. Consequently, it is directly related
+to border security and serves an objective of general interest recognized by the Union. In addition, ABC
+gates help to speed up the processing of passengers and lessen the risk of human errors. Furthermore,
+the scope, the extent and the intensity of the interference in this scenario is much more limited
+compared with other forms of facial recognition. Nevertheless, the processing of biometric data
+
+85
+   COUNCIL REGULATION (EC) No 2252/2004 of 13 December 2004 on standards for security features and
+biometrics in passports and travel documents issued by Member States.
+86 REGULATION (EU) 2016/399 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 March 2016 on a
+
+Union Code on the rules governing the movement of persons across borders (Schengen Borders Code).
+87 Regulation (EU) 2017/2225 of the European Parliament and of the Council of 30 November 2017 amending
+
+Regulation (EU) 2016/399 as regards the use of the Entry/Exit System.
+                                                                                                        40
+Adopted
+
+creates additional risks for the data subjects which need to be properly addressed and mitigated by
+the competent authority deploying and operating the FRT.
+
+1.4. Conclusion
+The verification of the identity of EU citizens in the context an automated border control is a necessary
+and proportionate measure, as long as the appropriate safeguards are in place, in particular the
+application of the principles of purpose limitation, data quality, transparency and a high level of
+security.
+
+
+2 SCENARIO 2
+2.1. Description
+A system of identification of victims of child abduction is set by the LEAs. An authorised police officer
+may carry out a comparison of the biometric data of a child, suspected to be abducted, against a
+database of victims of child abduction under strict conditions, for the sole purpose of identifying
+minors who may correspond to the description of the missing child for which an investigation has been
+initiated and the alert issued.
+The processing at stake would be the comparison of the face or image of an individual, who may
+correspond to the description of a missing child, with the images stored in the database. Such
+processing would happen in specific cases and not on a systematic basis.
+The database against which the comparison will be applied is populated with pictures of missing
+children for which a suspicion of child abduction, a threat to the child’s life or physical integrity, has
+been reported and a criminal investigation has been opened under a judicial authority, and for which
+an alert for child abduction has been issued. Data are collected within the framework of procedures
+established by the competent law enforcement authority, that is police officers authorized to carry out
+judicial police missions. The categories of personal data recorded are:
+
+        -   identity, nickname, alias, filiation, nationality, addresses, e-mail addresses, telephone
+            numbers;
+        -   date and place of birth;
+
+        -   parentage information;
+        -   photograph with technical features allowing the use of a facial recognition device and
+            other photographs.
+Comparison results must also be reviewed and verified by an authorised officer, in order to corroborate
+previous evidence with the result of the comparison and rule out any possible false positive results.
+
+Children’s pictures and personal data may be retained only for the duration of the alert and must be
+deleted immediately after the closure or termination of the criminal proceedings in accordance with
+national procedures for which they have been inserted into the database.
+While the retention period for biometric data in the database may be envisioned for a relatively long
+period of time and defined as per national law, the exercise of data subject rights and in particular the
+right to rectification and erasure provides for an additional guarantee to limit the interference with
+the right to the protection of personal data of the data subjects concerned.
+
+
+
+                                                                                                        41
+Adopted
+
+ Source of information:
+     • Types of data subjects: ☒ Children
+     • Source of image ☒ other: not predefined, suspected victim of child abduction
+     • Connection to crime ☒ Not direct temporal ☒ Not direct geographical
+     • Mode of information capture: ☒ in a booth or controlled environment
+     • Context: affecting other fundamental rights ☒ Yes, namely: ☒ various
+ Reference database (to which captured information is compared):
+     • Specificity ☒ specific database
+ Algorithm:
+     • Verification type: ☒1-many identification
+ Outcome:
+     • Impact ☒ Direct
+     • Automated decision: ☒ NO, mandatory review by an authorized officer
+ Legal analysis:
+     • Applicable legal framework: ☒ Specific national law for this processing (facial recognition)
+
+
+
+2.2. Applicable legal framework
+National law provides for a dedicated legal framework establishing the database, determining the
+purposes of processing as well as the criteria for the database to be populated, accessed and used. The
+legislative measures necessary for its implementation also provide for the determination of a retention
+period as well as referring to the applicable principles of integrity and confidentiality. The legislative
+measures also foresee the modalities for the provision of information to the data subject and in this
+case the holder(s) of parental responsibility, as well as the exercise of data subject rights and possible
+limitation if applicable. During the preparation of the proposal for the respective legislative measure,
+the national supervisory authority had to be consulted.
+
+
+
+2.3. Necessity and proportionality - purpose/seriousness of crime/number of
+     persons not involved but affected by processing
+Conditions and safeguards for processing
+The facial recognition comparison can only be carried out by an authorised officer as a last resort unless
+there are no other less intrusive means available and where strictly necessary, for instance, in case
+there is doubt about the authenticity of a traveling minor’s identity document and/or after having
+reviewed previous evidence and material gathered indicating a possible correspondence with the
+description of a missing child for which a criminal investigation is being carried out.
+An additional safeguard is also provided with the mandatory review and verification of the facial
+recognition comparison by an authorised officer, in order to corroborate previous evidence with the
+result of the comparison and rule out any possible false positive results.
+Objective pursued
+
+The establishment of the database serves important objectives of general public interest, in particular
+the prevention, investigation, detection or prosecution of criminal offences or the execution of
+criminal penalties and the protection of the rights and freedoms of others. The establishment of the
+database and the processing foreseen appears to contribute to the identification of children victim of
+
+
+                                                                                                       42
+Adopted
+
+abduction and therefore can be considered as a measure suitable to support the legitimate objective
+to investigate and prosecute such crime.
+
+Purpose and population of the database
+
+The purposes of processing are clearly defined by law and the database shall be used only for the
+purpose of identifying missing children for which a suspicion of child abduction has been reported and
+a criminal investigation has been initiated under the supervision of a judicial authority and for which
+an alert for the child abduction has been issued. The conditions set out by law for the population of
+the database aim at strictly limiting the number of data subjects and personal data to be included in
+the database. The holder of parental responsibility over the child must be informed about the
+processing undertaken and the conditions for the exercise of the child’s rights in relation to the
+biometric processing envisioned for the purpose of identification, or to the child personal data stored
+in the database.
+
+2.4. Conclusion
+Considering the necessity and proportionality of the processing envisioned, as well as the best interest
+of the child in carrying out such personal data processing, and provided that sufficient guarantees are
+in place to notably ensure the exercise of data subject rights – in particular taking into account the fact
+that children’s data are to be processed, such application of facial recognition processing may be
+considered as likely compatible with EU law.
+
+Furthermore, given the type of processing and the technology used, which involves a high risk to rights
+and freedoms of data subject concerned, the EDPB considers that the preparation of a proposal for a
+legislative measure to be adopted by a national parliament or of a regulatory measure based on such
+a legislative measure, which relates to the envisioned processing, must include a prior consultation of
+the supervisory authority in order to ensure consistency and compliance with the applicable legal
+framework, cf. Art. 28.2 LED.
+
+
+3 SCENARIO 3
+3.1. Description
+In course of police interventions in riots and investigations afterwards, a number of persons have been
+identified as suspects, e.g. by previous investigations using CCTV coverage or witnesses. Pictures of
+these suspects are compared with pictures of persons who were recorded on CCTV or mobile devices
+at a crime scene or in surrounding areas.
+In order to obtain more detailed evidence on persons suspected of having participated in riots
+surrounding a demonstration, the police creates a database consisting of image material with a loose
+local and temporal connection to the riots. The database includes private recordings uploaded to the
+police by citizens, material from public transport CCTV, police-owned video surveillance material and
+material published by the media without any specific limitation or safeguard. The display of severe
+criminal behaviour is not a prerequisite for the collection of the files in the database. Therefore,
+persons not involved in the riots – a significant percentage of the local population who happened to
+pass by at the moment of the demonstration, or participated in the demonstration but not in the riots
+– are stored in the database. It amounts to thousands of video and image files.
+Using a facial recognition software, all faces appearing in those files are assigned to unique face ID’s.
+The faces of individual suspects are then automatically compared to these face ID’s. The database
+consisting of all biometric templates in the thousands of video and images files is stored until all
+
+                                                                                                        43
+Adopted
+
+possible investigations are terminated. Positive matches are dealt with by responsible officers, who
+then decide on further action. This may include to attribute the file found in the database to the
+respective person’s criminal file as well as further measures, such as questioning or arrest of that
+person.
+A national law provides for a generic provision, according to which the processing of biometric data
+for the purpose of uniquely identifying a natural person is admissible if strictly necessary and subject
+to appropriate safeguards for the rights and freedoms of the person concerned.
+
+ Source of information:
+     • Types of data subjects: ☒ all persons
+     • Source of image: ☒ publicly accessible spaces ☒ private entity ☒ other individuals ☒ other:
+         media
+     • Connection to crime: ☒ Not necessarily direct geographical or temporal connection
+     • Mode of information capture: ☒ remote
+     • Context - affecting other fundamental rights: Yes, namely ☒ freedom of assembly context
+     • Available additional sources of information about the data subject:
+         ☒ other: not excluded (such as usage of ATM-machines or shops entered), as no control
+         over motives on pictures may be exercised
+ Reference database (to which captured information is compared):
+     • Specificity: ☒ specific databases related to crime area
+ Algorithm:
+     • Processing type: ☒ 1-many identification
+ Outcome:
+     • Impact:☒ Direct (e.g. the data subject may be arrested, questioned)
+     • Automated decision: ☒ NO
+     • Duration of storage: until all possible investigations are terminated
+
+ Legal analysis:
+
+     •    Type of prior information to data subject: ☒ In the LEA’s website in general
+     •    Applicable legal framework : ☒ LED mostly copied to national law ☒ Generic national law
+          for the use of biometric data by LEAs
+
+
+
+3.2. Applicable legal framework
+As clarified above, legal bases merely repeating the general clause of Article 10 LED are not sufficiently
+clear in their terms to give individuals an adequate indication of conditions and circumstances in which
+LEAs are empowered to use CCTV recordings from public spaces for creating a biometric template of
+their face and compare it to police databases, other available CCTV or private recordings etc. The legal
+framework established in this scenario therefore fails to meet the minimum requirements to serve as
+a legal base.
+
+
+
+3.3. Necessity and proportionality
+In this example, the processing raises various concerns under the necessity and proportionality
+principles for several reasons:
+
+
+
+
+                                                                                                       44
+Adopted
+
+Persons are not suspected of a serious crime. The display of severe criminal behaviour is not a
+prerequisite for the use of the files in the database containing the image material. Also, a direct
+temporal and geographical connection to the crime is not a prerequisite for the use of the files in the
+database. This results in a significant percentage of the local population being stored in a biometric
+database for a duration of potentially several years, until all investigations are terminated.
+The crime scene database is not limited to images fulfilling the proportionality requirements, thus
+leading to an unlimited amount of images to compare. This contradicts the principle of data
+minimisation. A smaller amount of images would also enable non-algorithmic and less intrusive means
+to be considered, e.g. super recognizers. 88
+
+As the example is drawn from surroundings of a protest, it is also likely that images reveal political
+opinions of participants in the demonstration, being the second special category of data possibly
+affected in this scenario. In this scenario, it is unclear how the collection of this data can be prevented
+and with what safeguards. Moreover, when data subjects learn that their participation in a
+demonstration has resulted in their entry in a biometric police database, this can have serious chilling
+effects on their future exercise of their right to assembly.
+The biometric templates in the database can also be compared with one another. This allows the police
+not only to look for a specific person in all of their material but also to re-create a person’s behavioural
+pattern over a period of several days. It can also gather additional information on the persons such as
+social contacts and political involvement.
+The interference is further intensified by the fact that the data is processed without the knowledge of
+the data subjects.
+
+Bearing in mind that photographs and videos are recorded by persons all the time, and that even the
+omnipresent CCTV-coverage may be analysed biometrically, this can lead to severe chilling effects.
+
+The extensive usage of private photographs and videos, including potential misuse like denunciation,
+is another point of concern. As misuse like denunciation is a risk also inherent to criminal proceedings
+in general, the risk is considerably higher as to the scalability of the data processed and the number of
+the persons involved, as people might upload also material relating to a specific person or group of
+persons of dislike. Requests by the police to upload photographs and videos possibly lead to very low
+thresholds for people to provide material, especially as it might be possible to do so anonymously or
+at least without the need to show up and identify oneself at a police station.
+
+3.4. Conclusion
+In the example, there is no specific provision which could serve as a legal base. However, even if there
+was a sufficient legal base, the necessity and proportionality requirements would not be met, thus
+resulting in a disproportionate interference with the data subject’s rights to respect for private life and
+the protection of personal data under the Charter.
+
+
+
+
+88I.e. people with extraordinary face-recognition ability. Cf. also: Face Recognition by Metropolitan Police Super-
+Recognisers, 2016 Feb 26, DOI: 10.1371/journal.pone.0150036, https://pubmed.ncbi.nlm.nih.gov/26918457/.
+                                                                                                               45
+Adopted
+
+4 SCENARIO 4
+4.1. Description
+The police implements a way of identifying suspects committing a serious crime caught on CCTV by
+retrospective FRT. An officer manually selects image(s) of suspects in the video material that has been
+collected from the crime scene or elsewhere within a preliminary investigation and then sends the
+image(s) to the forensic department. The forensic department uses FRT to match these image(s) to
+pictures of individuals that have previously been gathered in a database by the police (a so called
+description database that consists of suspects and former convicts). The description database is for
+this procedure – temporarily and in an isolated environment – analysed with FRT in order to be able
+to carry out the matching process. To minimize the interference with the rights and interests of the
+persons matched, a very limited number of employees at the forensic department have permission to
+conduct the actual matching procedure, access to the data is restricted to those officers entrusted with
+the specific file and a manual control of the results is carried out before forwarding any result to the
+investigating officer. The biometric data is not forwarded outside of the controlled, isolated
+environment. Solely the result and the picture (not biometric template) is further used in the
+investigation. Employees receive specific training on the rules and procedures for this processing and
+all processing of personal and biometric data is sufficiently specified in national law.
+
+
+ Source of information:
+     • Types of data subjects: ☒ suspects identified from the CCTV recordings
+     • Source of image: ☒ publicly accessible spaces ☒ internet
+     • Connection to crime: ☒ Direct temporal
+                             ☒ Direct geographical
+
+     •   Mode of information capture: ☒ remote
+     •   Context - affecting other fundamental rights: Yes, namely : ☒ Freedom of assembly ☒
+         Freedom of speech ☒ various: __
+ Reference database (to which captured information is compared):
+     • Specificity: ☒ specific databases related to crime area
+ Algorithm:
+     • Processing type: ☒ 1-many identification
+ Outcome:
+     • Impact:☒ Direct (e.g. the data subject is arrested, questioned)
+     • Automated decision: ☒ NO
+
+ Legal analysis:
+
+     •    Applicable legal framework : ☒ Specific national law for this processing (facial recognition)
+          for that competent authority
+
+
+
+4.2. Applicable legal framework
+In this scenario, it is specified in national law that biometric data may be used in conducting forensic
+analysis when strictly necessary for achieving the purpose of identifying suspects committing a serious
+crime through the matching of the pictures in the description database. The national law specifies
+which data that may be processed, as well as the procedures for preserving the integrity and
 
-4. RECOMENDAÇÕES APÓS A IMPLANTAÇÃO DA TRF
-•   Assegure a intervenção humana e a supervisão humana dos resultados. Nunca tome nenhuma
-    medida que diga respeito a uma pessoa exclusivamente com base no resultado da TRF (tal
-    implicaria uma violação do artigo 11.º da Diretiva Proteção de Dados na Aplicação da Lei, sobre
-    as decisões individuais automatizadas que produzam efeitos jurídicos ou outros semelhantes no
-    titular dos dados). Garanta que um agente da autoridade de aplicação da lei analisa os resultados
-    da TRF. Garanta também que os utilizadores da autoridade de aplicação da lei evitam o
-    enviesamento da automatização, investigando informações contraditórias e questionando, com
-    espírito crítico, os resultados da tecnologia. Para o efeito, são importantes a formação e a
-    sensibilização contínuas dos utilizadores finais. Contudo, a direção deve assegurar a existência de
-    recursos humanos suficientes para uma supervisão eficaz. Tal implica dar tempo suficiente a cada
-    agente para questionar de forma crítica os resultados da tecnologia. Registe, meça e avalie em
-    que medida a supervisão humana altera a decisão original da TRF.
-•   Monitorize e corrija eventuais derivas do modelo de TRF (degradação do desempenho) quando o
-    modelo estiver em produção.
-•   Defina um processo para reavaliar os riscos e as medidas de segurança regularmente e sempre
-    que a tecnologia ou o caso de utilização sofra quaisquer alterações.
-•   Documente qualquer alteração do sistema ao longo do seu ciclo de vida (por exemplo,
-    atualizações, novos treinos).
-
-
-                                                                                                     41
-Aprovado
-
-•   Defina um processo, bem como as capacidades técnicas correspondentes, para responder a
-    pedidos de acesso por parte dos titulares dos dados. As capacidades técnicas para a extração de
-    dados, caso haja necessidade de os fornecer aos titulares dos dados, têm de estar operacionais
-    antes da apresentação de qualquer pedido.
-•   Garanta que existem procedimentos para o caso de violações de dados. Caso ocorra uma violação
-    de dados pessoais que envolva dados biométricos, é provável que os riscos sejam elevados. Neste
-    caso, todos os utilizadores envolvidos devem ter conhecimento dos procedimentos pertinentes a
-    seguir, o EPD deve ser imediatamente informado e os titulares dos dados devem ser informados.
-
-
-
-
-                                                                                                42
-Aprovado
-
-                           ANEXO III – EXEMPLOS PRÁTICOS
-Existem muitos contextos e finalidades práticas diferentes para a utilização do reconhecimento facial,
-nomeadamente em ambientes controlados como as passagens de fronteira, a verificação cruzada com
-dados de bases de dados policiais ou de dados pessoais manifestamente tornados públicos pelo titular
-dos dados, transmissões de câmaras em tempo real (reconhecimento facial em tempo real), etc.
-Consequentemente, os riscos para a proteção de dados pessoais e outros direitos e liberdades
-fundamentais variam significativamente nos diferentes casos de utilização. A fim de facilitar a avaliação
-da necessidade e da proporcionalidade, que deve preceder a decisão sobre a possível implantação do
-reconhecimento facial, as orientações atuais fornecem uma lista não exaustiva de possíveis aplicações
-da TRF no domínio da aplicação da lei.
-
-Os cenários apresentados e avaliados baseiam-se em situações hipotéticas e destinam-se a ilustrar
-certas utilizações concretas da TRF e a prestar assistência para considerações caso a caso, bem como
-a estabelecer um quadro global. Não pretendem ser exaustivos e não prejudicam quaisquer
-procedimentos em curso ou futuros empreendidos por uma autoridade de controlo nacional no que
-diz respeito à conceção, experimentação ou implementação de tecnologias de reconhecimento facial.
-A apresentação destes cenários deve servir apenas para ilustrar as orientações destinadas aos
-decisores políticos, aos legisladores e às autoridades de aplicação da lei, já apresentadas no presente
-documento, aquando da conceção e do planeamento da implementação de tecnologias de
-reconhecimento facial, a fim de assegurar a plena conformidade com o acervo da UE no domínio da
-proteção de dados pessoais. Neste contexto, há que ter em conta que, mesmo em situações
-semelhantes de utilização da TRF, a presença ou ausência de determinados elementos pode conduzir
-a um resultado diferente na avaliação da necessidade e da proporcionalidade.
-
-
-1 CENÁRIO 1
-1.1. Descrição
-Um sistema automatizado de controlo nas fronteiras que permite a passagem automatizada nas
-fronteiras através da autenticação da imagem biométrica armazenada no documento de viagem
-eletrónico de cidadãos da UE e outros viajantes que atravessam a fronteira e que confirma que o
-viajante é o titular legítimo do documento.
-
-Essa verificação/autenticação envolve apenas reconhecimento facial de um para um e é efetuada num
-ambiente controlado (por exemplo, nas cancelas eletrónicas de um aeroporto). Os dados biométricos
-do viajante que atravessa a fronteira são recolhidos quando o viajante recebe instruções explícitas
-para olhar para a câmara na cancela eletrónica e são comparados com os do documento apresentado
-(passaporte, bilhete de identidade, etc.), que é emitido de acordo com requisitos técnicos específicos.
-
-Ao mesmo tempo, embora, nesses casos, o tratamento esteja, em princípio, fora do âmbito da Diretiva
-Proteção de Dados na Aplicação da Lei, o resultado da verificação também pode ser utilizado na
-correspondência de dados (alfanuméricos) da pessoa com bases de dados das autoridades de aplicação
-da lei no âmbito do controlo de fronteiras, podendo, por conseguinte, implicar ações com um efeito
-jurídico significativo para o titular dos dados, por exemplo detenção na sequência de uma indicação
-no SIS. Em circunstâncias específicas, os dados biométricos também podem ser utilizados para
-pesquisar correspondências em bases de dados das autoridades de aplicação da lei (neste caso, seria
-efetuada uma identificação de um para muitos nesta etapa).
-
-
-
-                                                                                                      43
-Aprovado
-
-O resultado do tratamento da imagem biométrica tem um impacto direto no titular dos dados: este só
-pode atravessar a fronteira caso a verificação seja bem-sucedida. Caso a identificação não seja bem-
-sucedida, os guardas de fronteira têm de realizar um segundo controlo para assegurar que o titular
-dos dados é diferente do descrito no documento de identificação.
-
-Se for identificada uma indicação SIS ou nacional, os guardas de fronteira têm de proceder a uma
-segunda verificação e aos controlos complementares necessários e, em seguida, tomar as medidas
-necessárias, por exemplo deter a pessoa ou informar as autoridades competentes.
-
- Fonte da informação:
-     • Tipos de titulares de dados: ☒ todas as pessoas que atravessam as fronteiras
-     • Fonte da imagem: ☒ outra (documento de identificação)
-     • Ligação à criminalidade: ☒ Não é necessária
-     • Modo de recolha das informações: ☒ numa cabina ou em ambiente controlado
-     • Contexto – que afete outros direitos fundamentais: Sim, nomeadamente: ☒ direito de
-         livre circulação ☒ direito de asilo
- Base de dados de referência (com a qual a informação captada é comparada):
-     • Especificidade: ☒ bases de dados específicas relacionadas com o controlo das fronteiras
- Algoritmo:
-     • Tipo de verificação: ☒ verificação de um para um (autenticação)
- Resultado:
-     • Impacto            ☒ Direto (a entrada ao titular dos dados é permitida ou recusada)
-     • Decisão automatizada: ☒ Sim
-
-
-1.2. Quadro jurídico aplicável
-Desde 2004, nos termos do Regulamento (CE) n.º 2252/2004 do Conselho85, os passaportes e outros
-documentos de viagem emitidos pelos Estados-Membros têm de conter uma imagem facial biométrica
-armazenada num chip eletrónico incorporado no documento.
-
-O Código das Fronteiras Schengen (CFS)86 estabelece os requisitos aplicáveis aos controlos de pessoas
-nas fronteiras externas. Para os cidadãos da UE e outras pessoas que beneficiem do direito de livre
-circulação ao abrigo do direito da União, os controlos mínimos devem consistir numa verificação dos
-seus documentos de viagem, se for caso disso utilizando dispositivos técnicos. O CFS foi
-posteriormente alterado pelo Regulamento (UE) 2017/2225 87, que introduziu, nomeadamente, as
-definições de «cancelas eletrónicas», «sistema automatizado de controlo nas fronteiras» e «sistema
-de self-service», bem como a possibilidade de tratamento de dados biométricos para a realização de
-controlos de fronteira.
-
-Pode, pois, presumir-se a existência de uma base jurídica clara e previsível que autoriza esta forma
-de tratamento de dados pessoais. Além disso, o quadro jurídico é adotado a nível da União e é
-diretamente aplicável aos Estados-Membros.
-
-
-
-85 Regulamento (CE) n.º 2252/2004 do Conselho, de 13 de dezembro de 2004, que estabelece normas para os
-
-dispositivos de segurança e dados biométricos dos passaportes e documentos de viagem emitidos pelos Estados-
-Membros.
-86 Regulamento (UE) 2016/399 do Parlamento Europeu e do Conselho, de 9 de março de 2016, que estabelece o
-
-código da União relativo ao regime de passagem de pessoas nas fronteiras (Código das Fronteiras Schengen).
-87 Regulamento (UE) 2017/2225 do Parlamento Europeu e do Conselho, de 30 de novembro de 2017, que altera
-
-o Regulamento (UE) 2016/399 no que respeita à utilização do Sistema de Entrada/Saída.
-
-                                                                                                         44
-Aprovado
-
-1.3. Necessidade e proporcionalidade – finalidade/gravidade do crime
-A verificação da identidade dos cidadãos da UE num controlo automatizado nas fronteiras, utilizando
-a sua imagem biométrica, é um elemento dos controlos fronteiriços nas fronteiras externas da UE. Por
-conseguinte, está diretamente relacionada com a segurança das fronteiras e serve um objetivo de
-interesse geral reconhecido pela União. Além disso, as portas com controlo automatizado nas
-fronteiras ajudam a acelerar o tratamento dos passageiros e reduzem o risco de erros humanos. Além
-disso, o âmbito, a extensão e a intensidade da ingerência neste cenário são muito mais limitados em
-comparação com outras formas de reconhecimento facial. No entanto, o tratamento de dados
-biométricos cria riscos adicionais para os titulares dos dados que têm de ser devidamente abordados
-e mitigados pela autoridade competente que implementa e opera a TRF.
-
-1.4. Conclusão
-A verificação da identidade dos cidadãos da UE no contexto de um controlo automatizado nas
-fronteiras é uma medida necessária e proporcionada, desde que sejam dadas as garantias adequadas,
-nomeadamente a aplicação dos princípios da limitação da finalidade, da qualidade dos dados, da
-transparência e um elevado nível de segurança.
-
-
-2 CENÁRIO 2
-2.1. Descrição
-As autoridades de aplicação da lei estabelecem um sistema de identificação das vítimas de rapto de
-crianças. Um agente de polícia autorizado pode efetuar, em condições estritas, uma comparação dos
-dados biométricos de uma criança que se suspeite ter sido raptada com uma base de dados de vítimas
-de rapto de crianças, com o único objetivo de identificar menores que possam corresponder à
-descrição da criança desaparecida relativamente à qual foi iniciada uma investigação, bem como à
-indicação emitida.
-
-O tratamento em causa seria a comparação do rosto ou da imagem de um indivíduo, que pode
-corresponder à descrição de uma criança desaparecida, com as imagens armazenadas na base de
-dados. Esse tratamento seria efetuado em casos específicos e não de forma sistemática.
-
-A base de dados utilizada para efeitos de comparação está preenchida com imagens de crianças
-desaparecidas relativamente às quais tenha sido comunicada uma suspeita de rapto ou uma ameaça
-à vida ou à integridade física da criança e tenha sido iniciada uma investigação criminal sob autoridade
-judiciária, e em relação às quais tenha sido emitido um alerta de rapto de crianças. Os dados são
-recolhidos no âmbito dos procedimentos estabelecidos pela autoridade de aplicação da lei
-competente, ou seja, a polícia judiciária. As categorias de dados pessoais registadas são as seguintes:
-
-        -   identidade, alcunha, pseudónimo, filiação, nacionalidade, endereços, endereços
-            eletrónicos, números de telefone,
-
-        -   data e local de nascimento,
-
-        -   informações de parentesco,
-
-        -   fotografia com características técnicas que permita a utilização de um dispositivo de
-            reconhecimento facial e outras fotografias.
-
-Os resultados da comparação devem também ser revistos e verificados por um agente autorizado, a
-fim de corroborar elementos de prova anteriores com o resultado da comparação e excluir eventuais
-falsos positivos.
-
-                                                                                                     45
-Aprovado
-
-As fotografias e os dados pessoais de crianças só podem ser conservados durante a duração da
-indicação e devem ser apagados imediatamente após o encerramento ou a conclusão do processo
-penal, em conformidade com os procedimentos nacionais no âmbito dos quais tenham sido inseridos
-na base de dados.
-
-Embora o período de conservação dos dados biométricos na base de dados possa ser previsto para um
-período relativamente longo e definido de acordo com a legislação nacional, o exercício dos direitos
-dos titulares dos dados e, em especial, o direito de retificação e apagamento, prevê uma garantia
-adicional para limitar a ingerência no direito à proteção dos dados pessoais dos titulares dos dados em
-causa.
-
-
-
- Fonte da informação:
-     • Tipos de titulares de dados: ☒ Crianças
-     • Fonte da imagem ☒ outra: não predefinida, suspeita de vítima de rapto de crianças
-     • Ligação à criminalidade ☒ Temporal indireta ☒ Geográfica indireta
-     • Modo de recolha das informações: ☒ numa cabina ou em ambiente controlado
-     • Contexto – que afete outros direitos fundamentais ☒ Sim, nomeadamente: ☒ vários
- Base de dados de referência (com a qual a informação captada é comparada):
-     • Especificidade ☒ base de dados específica
- Algoritmo:
-     • Tipo de verificação: ☒ identificação de um para muitos
- Resultado:
-     • Impacto           ☒ Direto
-     • Decisão automatizada: ☒ NÃO, revisão obrigatória por um agente autorizado
- Análise jurídica:
-     • Quadro jurídico aplicável: ☒ Legislação nacional específica relativa a este tipo de
-          tratamento (reconhecimento facial)
-
-
-
-2.2. Quadro jurídico aplicável
-A legislação nacional prevê um quadro jurídico específico para a criação da base de dados, a
-determinação das finalidades do tratamento, bem como os critérios de preenchimento, acesso e
-utilização da base de dados. As medidas legislativas necessárias à sua aplicação preveem igualmente a
-determinação de um período de conservação, bem como a referência aos princípios de integridade e
-de confidencialidade aplicáveis. As medidas legislativas também preveem as modalidades da prestação
-de informações ao titular dos dados e, neste caso, ao(s) titular(es) da responsabilidade parental, bem
-como o exercício dos direitos do titular dos dados e a sua eventual limitação, se for caso disso. Durante
-a redação da proposta da medida legislativa em causa, a autoridade nacional de controlo teve de ser
-consultada.
-
-
-
-2.3. Necessidade e proporcionalidade – finalidade/gravidade do crime/número de
-     pessoas não envolvidas, mas afetadas pelo tratamento
-Condições e garantias aplicáveis ao tratamento
-
-A comparação do reconhecimento facial só pode ser efetuada por um agente autorizado como último
-recurso, a menos que não estejam disponíveis outros meios menos intrusivos e se estritamente
 
                                                                                                       46
-Aprovado
+Adopted
 
-necessário, por exemplo em caso de dúvida sobre a autenticidade do documento de identidade de um
-menor viajante e/ou após análise de elementos de prova e materiais anteriores recolhidos que
-indiquem uma possível correspondência com a descrição de uma criança desaparecida relativamente
-à qual está a ser realizada uma investigação criminal.
+confidentiality of personal data and procedures for its destruction, thus providing sufficient guarantees
+against the risk of abuse and arbitrariness.
 
-É igualmente prevista uma garantia adicional com a revisão e verificação obrigatórias da comparação
-do reconhecimento facial por um agente autorizado, a fim de corroborar elementos de prova
-anteriores com o resultado da comparação e excluir eventuais falsos positivos.
+4.3. Necessity and proportionality
+The use of facial recognition is clearly more time efficient than manual matching at the forensic level.
+The manual selection of images beforehand limits the interference compared to running all the video
+material against a database and thereby differentiates and targets only those persons covered by the
+objective, i.e. fighting serious crime. It is however still important to consider whether the matching can
+be done manually within a reasonable amount of time, depending on the case at hand. The restriction
+of persons with access to the technology and the personal data lessens the impact on the rights to
+privacy and data protection, as well as the biometric templates not being stored or used later on in the
+investigation. The manual control of the result also means a reduced risk of any false positives.
 
-Objetivo
-
-A criação da base de dados serve objetivos importantes de interesse público geral, em especial a
-prevenção, investigação, deteção ou repressão de infrações penais ou a execução de sanções penais e
-a proteção dos direitos e liberdades de terceiros. A criação da base de dados e o tratamento previsto
-parecem contribuir para a identificação de crianças vítimas de rapto, pelo que podem ser considerados
-como uma medida adequada para apoiar o objetivo legítimo de investigar e reprimir este tipo de crime.
-
-Finalidade e preenchimento da base de dados
-
-As finalidades do tratamento estão claramente definidas na lei e a base de dados só deve ser utilizada
-para identificar crianças desaparecidas relativamente às quais tenha sido comunicada uma suspeita de
-rapto e tenha sido iniciada uma investigação criminal sob autoridade judiciária, e em relação às quais
-tenha sido emitido um alerta de rapto de crianças. As condições estabelecidas na lei relativas ao
-preenchimento da base de dados visam limitar estritamente o número de titulares de dados e de dados
-pessoais a incluir na base de dados. O titular da responsabilidade parental da criança deve ser
-informado do tratamento efetuado e das condições de exercício dos direitos da criança em relação ao
-tratamento biométrico previsto para efeitos de identificação, ou aos dados pessoais da criança
-armazenados na base de dados.
-
-2.4. Conclusão
-Tendo em conta a necessidade e a proporcionalidade do tratamento previsto, bem como o interesse
-superior da criança na realização desse tratamento de dados pessoais, e desde que existam garantias
-suficientes para assegurar, nomeadamente, o exercício dos direitos do titular dos dados –
-nomeadamente tendo em conta o facto de se tratar de dados de crianças, essa aplicação do
-reconhecimento facial pode provavelmente ser considerada compatível com a legislação da UE.
-
-Além disso, tendo em conta o tipo de tratamento e a tecnologia utilizada, que envolve um elevado
-risco para os direitos e liberdades do titular dos dados em causa, o CEPD considera que a elaboração
-de uma proposta de medida legislativa a adotar por um parlamento nacional ou de uma medida
-regulamentar baseada nessa medida legislativa, que esteja relacionada com o tratamento previsto,
-deve incluir uma consulta prévia da autoridade de controlo, a fim de assegurar a coerência e o
-cumprimento do quadro jurídico aplicável (ver artigo 28.º, n.º 2, da Diretiva Proteção de Dados na
-Aplicação da Lei).
+4.4. Conclusion
+It is important that national legislation provides an adequate legal basis for the processing of biometric
+data as well as for the national data base to which the matching takes place. In this scenario several
+measures have been put in place in order to limit the interference with data protection rights, such as
+the conditions for the use of the FRT specified in the legal basis, the number of people with access to
+the technology and the biometric data, manual controls etc. The FRT significantly improves efficiency
+in the investigatory work of the forensic department of the police, is based on law allowing for the
+police to process biometric data when absolutely necessary and therefore, within these perimeters
+may be considered a lawful interference of the rights of the individual.
 
 
-3 CENÁRIO 3
-3.1. Descrição
-No decurso de intervenções policiais em tumultos e de investigações posteriores, várias pessoas foram
-identificadas como suspeitas, por exemplo, através de investigações anteriores com recurso a imagens
-de televisão em circuito fechado (CCTV) ou a testemunhas. As imagens destes suspeitos são
+5 SCENARIO 5
+5.1. Description
+Remote biometric identification is when the identities of persons are established with the help of
+biometric identifiers (facial image, gait, iris, etc.) at a distance, in a public space and in a continuous or
+ongoing manner by checking them against (biometric) data stored in a database 89 . Remote biometric
+identification is conducted in real-time, if the capturing of the image material, the comparison and the
+identification happen with no significant delay.
+Prior to each deployment of real time remote biometric identification, the police compiles a watch list
+of subjects of interest as part of an investigation. It is populated with facial images of the individuals.
+Based on intelligence suggesting that the individuals will be in a specific area, such as a shopping mall
+or a public square, the police decides when, where and for how long to deploy the remote biometric
+identification.
+On the action day, they place a police van on the ground as a control centre, with a senior police officer
+on board. The van contains monitors displaying footage from CCTV cameras sited nearby, either
+installed on an ad-hoc basis or by connecting to the video streams of cameras already installed. As
+pedestrians pass by the cameras, the technology isolates facial images, converts them to a biometric
+template and compares these to the biometric templates of those on the watch list.
+If a potential match between the watch list and those passing the cameras is detected, an alert is sent
+to officers in the van, who then advise officers on the ground if the alert is positive, e.g. via radio device.
+The officer on the ground will then decide whether to intervene, approach or ultimately apprehend
 
 
-                                                                                                   47
-Aprovado
+89
+     https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020 en.pdf
+                                                                                                                47
+Adopted
 
-comparadas com imagens de pessoas que foram registadas em CCTV ou em dispositivos móveis num
-local de crime ou nas áreas circundantes.
+the individual. The measures taken by the officer on the ground are recorded. In the case of a discreet
+check, the information gathered (such as who the person is with, what they are wearing and where
+they are heading to) is stored.
+A national law referred to provides for a generic provision, according to which the processing of
+biometric data for the purpose of uniquely identifying a natural person is admissible if strictly
+necessary and subject to appropriate safeguards for the rights and freedoms of the person concerned.
 
-A fim de obter provas mais circunstanciadas sobre pessoas suspeitas de terem participado em
-tumultos no contexto de uma manifestação, a polícia cria uma base de dados constituída por materiais
-de imagem com uma vaga ligação local e temporal aos tumultos. A base de dados inclui gravações
-privadas enviadas à polícia pelos cidadãos, material de CCTV dos transportes públicos, material de
-videovigilância pertencente à polícia e material publicado pelos meios de comunicação social sem
-qualquer limitação ou proteção específica. A exibição de comportamento criminoso grave não é um
-pré-requisito para a recolha dos ficheiros na base de dados. Por conseguinte, as pessoas não envolvidas
-nos tumultos – uma percentagem significativa da população local que passou no local no momento da
-manifestação, ou que participou na manifestação, mas não nos tumultos – ficam registadas na base
-de dados. Trata-se de milhares de ficheiros de vídeo e imagens.
 
-Utilizando um software de reconhecimento facial, todos os rostos que aparecem nesses ficheiros são
-atribuídos a identificações faciais únicas. Os rostos de cada suspeito são, em seguida,
-automaticamente comparados com estas identificações faciais. A base de dados constituída por todos
-os modelos biométricos nos milhares de ficheiros de vídeo e imagem é armazenada até à conclusão
-de todas as investigações possíveis. As correspondências positivas são tratadas por agentes
-responsáveis, que decidem, em seguida, sobre as medidas a tomar. Estas podem incluir a atribuição
-do ficheiro encontrado na base de dados ao processo penal da pessoa em causa, bem como outras
-medidas, como o interrogatório ou a detenção dessa pessoa.
+ Source of information:
+     • Types of data subjects: ☒ all persons
+     • Source of image: ☒ publicly accessible spaces
+     • Connection to crime: ☒ Not necessarily direct geographical or temporal connection
+     • Mode of information capture: ☒ remote
+     • Context - affecting other fundamental rights: Yes, namely: ☒ Freedom of assembly ☒
+         Freedom of speech ☒ various
+     • Available additional sources of information about the data subject:
+         ☒ other: not excluded (such as usage of ATM-machines or shops entered)
+ Reference database (to which captured information is compared):
+     • Specificity: ☒ specific databases related to crime area
+ Algorithm:
+     • Processing type: ☒ 1-many identification
+ Outcome:
+     • Impact:☒ Direct (e.g. the data subject is arrested, questioned)
+     • Automated decision: ☒ NO
+     • Duration of storage: until all possible investigations are terminated
+ Legal analysis:
 
-Uma lei nacional prevê uma disposição genérica, segundo a qual o tratamento de dados biométricos
-para efeitos de identificação inequívoca de uma pessoa singular é admissível se for estritamente
-necessário e sujeito a garantias adequadas relativas aos direitos e liberdades da pessoa em causa.
-
- Fonte da informação:
-     • Tipos de titulares de dados: ☒ todas as pessoas
-     • Fonte da imagem: ☒ espaços acessíveis ao público ☒ entidade privada ☒ outros indivíduos
-         ☒ outra: meios de comunicação social
-     • Ligação à criminalidade: ☒ Ligação geográfica ou temporal não necessariamente direta
-     • Modo de recolha das informações: ☒ à distância
-     • Contexto – que afete outros direitos fundamentais: Sim, nomeadamente ☒ liberdade de
-         reunião
-     • Fontes adicionais de informação disponíveis sobre o titular dos dados:
-         ☒ outras: não excluídas (como a utilização de máquinas ATM ou de lojas visitadas), uma
-         vez que não pode ser exercido qualquer controlo sobre os motivos com base nas imagens
- Base de dados de referência (com a qual a informação captada é comparada):
-     • Especificidade: ☒ bases de dados específicas relacionadas com o local do crime
- Algoritmo:
-     • Tipo de tratamento: ☒ identificação de um para muitos
- Resultado:
-     • Impacto:         ☒ Direto (por exemplo, o titular dos dados pode ser detido, interrogado)
-     • Decisão automatizada: ☒ NÃO
-     • Duração da conservação: até à conclusão de todas as investigações possíveis
-
- Análise jurídica:
+     •    Type of prior information to data subject: ☒ In the LEA’s website in general
+     •    Applicable legal framework: ☒ LED mostly copied to national law ☒ Generic national law
+          for the use of biometric data by LEAs
 
 
 
+5.2. Applicable legal framework
+Legal bases merely repeating the general clause of Article 10 LED are not sufficiently clear in their terms
+to give individuals an adequate indication of conditions and circumstances in which LEAs are
+empowered to use CCTV recordings from public spaces for creating a biometric template of their face
+and compare it to police databases. The legal framework established in this scenario therefore fails to
+meet the minimum requirements to serve as a legal base. 90
 
-                                                                                                    48
-Aprovado
+5.3. Necessity and proportionality
+The bar for necessity and proportionality becomes higher the deeper the interference. There are
+several fundamental rights implications of remote biometric identification in public spaces:
 
-     •   Tipo de informação prévia ao titular dos dados: ☒ No sítio Web da autoridade de aplicação
-         da lei em geral
-     •   Quadro jurídico aplicável: ☒ Diretiva Proteção de Dados na Aplicação da Lei,
-         maioritariamente transposta para a legislação nacional ☒ Legislação nacional genérica
-         relativa à utilização de dados biométricos pelas autoridades de aplicação da lei
-
-
-
-3.2. Quadro jurídico aplicável
-Tal como esclarecido acima, os termos das bases jurídicas que se limitam a repetir a cláusula geral do
-artigo 10.º da Diretiva Proteção de Dados na Aplicação da Lei não são suficientemente claros para
-proporcionar aos indivíduos uma indicação adequada das condições e das circunstâncias em que as
-autoridades de aplicação da lei têm o direito de utilizar gravações de CCTV de espaços públicos para
-criar um modelo biométrico do seu rosto e compará-lo com as bases de dados da polícia, outras
-gravações CCTV ou privadas disponíveis, etc. O quadro jurídico estabelecido neste cenário não cumpre,
-por isso, os requisitos mínimos para servir de base jurídica.
+90In cases where a scientific project aiming at researching the use of FRT would need to process personal data,
+but such processing would not fall under Article 4 (3) LED or outside the scope of Union law, the GDPR would be
+applicable. In case of pilot projects that would be followed by law enforcement operations, the LED would still
+be applicable.
 
 
+                                                                                                            48
+Adopted
 
-3.3. Necessidade e proporcionalidade
-Neste exemplo, o tratamento suscita várias preocupações ao abrigo dos princípios da necessidade e
-da proporcionalidade, por várias razões:
+The scenarios entail the monitoring of every passers-by in the respective public space. Thus, it severely
+affects the populations’ reasonable expectation of being anonymous in public spaces 91 . This is a
+prerequisite for many facets of the democratic process, such as the decision to join a civic association,
+visit gatherings and meet people of all social and cultural backgrounds, participate in a political protest
+and visit places of all kinds. The notion of anonymity in public spaces is essential to gather and
+exchange information and ideas freely. It preserves the plurality of opinion, the freedom of peaceful
+assembly and freedom of association and the protection of minorities and supports the principles of
+separation of powers and checks and balances. Undermining the notion of anonymity in public spaces
+can result in a severe chilling effect on citizens. They may refrain from certain behaviours which are
+well within the remits of a free and open society. This would affect the public interest, as a democratic
+society requires the self-determination and participation of its citizens in the democratic process.
+If such a technology is applied, simply to walk on the street, to the subway or to the bakery in the
+affected area will lead to the collection of personal, including biometric data by law enforcement
+agencies and, in the first scenario, also to matching with police databases. A situation, where the same
+would be done by taking fingerprints, would be clearly disproportionate.
+The number of data subjects affected is extremely high, since everyone walking past the respective
+public area is affected. Furthermore, the scenarios would imply automated mass processing of
+biometric data, and also a mass matching of biometric data against police databases.
 
-As pessoas não são suspeitas de um crime grave. A exibição de comportamento criminoso grave não
-é um pré-requisito para a utilização dos ficheiros na base de dados que contenham o material de
-imagem. Além disso, uma ligação temporal e geográfica direta ao crime não é um pré-requisito para a
-utilização dos ficheiros na base de dados. Por esta razão, uma percentagem significativa da população
-local é armazenada numa base de dados biométricos por um período que pode atingir vários anos, até
-que todas as investigações sejam concluídas.
+Across European case law, mass surveillance is prohibited (e.g. the ECtHR in S. and Marper v UK
+considered the indiscriminate retention of biometric data as a “disproportionate interference” with
+the right to privacy, as it fails to be regarded “necessary in a democratic society”).
 
-A base de dados do local do crime não se limita a imagens que satisfaçam os requisitos de
-proporcionalidade, o que resulta numa quantidade ilimitada de imagens a comparar. Este facto
-contradiz o princípio da minimização dos dados. Uma quantidade menor de imagens permitiria
-também colocar a hipótese de utilizar meios não algorítmicos e menos intrusivos, por exemplo, super-
-reconhecedores88.
+Remote biometric identification is so prone to mass surveillance that there are no reliable means of
+restriction. It is essentially different from video surveillance as such, as the possible use of video
+footage without biometric identification is already a strong interference, but at the same time limited,
+whereas if FRT is applied, the already wide-spread video surveillance system as the main source of the
+data will undergo a change of quality. Moreover, especially with regard to the chilling effects implied,
+possible restrictions in the application of the already existing video surveillance installations will not
+be visible and thus not trusted by the public.
+Remote biometric identification by police authorities treats everyone as a potential suspect. In a state
+under the rule of law, however, citizens are presumed to be righteous until misconduct can be proven.
+This principle is also partly reflected in the LED, which underlines the need for distinction, in so far as
+possible, between the treatment of criminal convicts or suspects in which case law enforcement must
+have “serious grounds for believing that they have committed or are about to commit a criminal
+offence” (Article 6(a) LED) compared to those who are not convicted or suspected of criminal activity.
+Applied to transport nodal points or public spaces, with law enforcement agencies using a technology
+able to uniquely identify a single person, and to trace and analyse its whereabouts and movements
+will reveal up to the most sensitive information about a person (even sexual preferences, religion,
+health problems). With this comes the immense risk of unlawful access and use of the data.
+The installation of a system that enables uncovering the very core of the individual’s behaviour and
+characteristics leads to strong chilling effects. It makes people question whether to join a certain
+manifestation, thus damaging the democratic process. Also meeting and being seen in public with a
 
-Como o exemplo é retirado das proximidades de uma manifestação, também é provável que as
-imagens revelem as opiniões políticas dos participantes na manifestação, que seria a segunda
-categoria de dados especiais possivelmente afetados neste cenário. Neste cenário, não é clara a forma
-como se poderia evitar a recolha destes dados e com que garantias. Além disso, quando os titulares
-dos dados tomarem conhecimento de que a sua participação numa manifestação resultou na sua
-inscrição numa base de dados biométricos da polícia, essa revelação poderá ter sérios efeitos
-dissuasores no exercício futuro do seu direito de reunião.
 
-Os modelos biométricos na base de dados também podem ser comparados entre si. Esta comparação
-permite à polícia não só procurar uma pessoa específica em todo o seu material, mas também recriar
+ EDPB response to MEPs, concerning the facial recognition app developed by Clearview AI, 10 June 2020, Ref:
+91
 
-
-88 Isto é, pessoas com uma capacidade de reconhecimento facial extraordinária. Ver também: Face Recognition
-
-by Metropolitan Police Super-Recognisers [Reconhecimento facial por super-reconhecedores da polícia
-metropolitana],    26      de     fevereiro   de    2016,     DOI:    10.1371/journal.pone.0150036,
-https://pubmed.ncbi.nlm.nih.gov/26918457/.
-
+OUT2020-0052.
                                                                                                         49
-Aprovado
+Adopted
 
-o padrão de comportamento de uma pessoa ao longo de um período de vários dias. Permite-lhe
-também recolher informações adicionais sobre as pessoas, nomeadamente os seus contactos sociais
-e o seu envolvimento político.
+certain friend known as having trouble with police or behaving in a unique way might be seen as
+critical, since all of this would lead to the attraction of the system’s algorithm and thus of law
+enforcement.
+It is impossible to protect vulnerable data subjects like children. Moreover, persons who have a
+professional interest in – and often a corresponding legal obligation to – keeping their contacts
+confidential, such as journalists, lawyers and clergy, are affected. This could e.g. lead to the revelation
+of the source and the journalist, or the fact that a person consults a criminal defence attorney. The
+problem does not only apply to random public places, where e.g. journalists and their sources meet,
+but naturally also to public spaces necessary to approach and access institutions or professionals in
+this regard.
 
-A ingerência é ainda mais intensificada pelo facto de os dados serem tratados sem o conhecimento
-dos respetivos titulares.
+Furthermore, people’s discomfort with FRT may lead them to changing their behaviour, avoiding places
+where FRT is deployed and thus withdrawing from social life and cultural events. Depending on the
+extent of the FRT deployment, the impact on people may be so significant as to affect their capacity to
+live a dignified life 92 .
+Therefore, there is a strong likelihood to affect the essence – the untouchable core – of the right to
+protection of personal data. Strong indications (cf. section 3.1.3.2 of the guidelines) are in particular
+the following: on a large scale, people’s unique biological features are automatically processed by law
+enforcement authorities with algorithms based on plausibility with only a limited explainability of the
+results. The limitations to the rights to privacy and data protection are imposed irrespective of the
+person’s individual conduct or the circumstances concerning him or her. Statistically almost all of the
+data subjects affected by this interference are law-abiding individuals. There are only limited
+possibilities of providing information to the data subject. Judicial recourse in most cases will only be
+possible subsequently.
+The reliance on a system based on plausibility and with limited explainability may lead to diffusion of
+liability and a lack in the field of remedy and may be an incentive towards negligence.
 
-Tendo em conta que as pessoas tiram fotografias e gravam vídeos constantemente e que mesmo a
-cobertura omnipresente da CCTV pode ser analisada biometricamente, tal pode ter graves efeitos
-dissuasores.
-
-A utilização extensiva de fotografias e vídeos privados, incluindo uma potencial utilização abusiva,
-como a denúncia, constitui outro motivo de preocupação. Uma vez que uma utilização abusiva, como
-a denúncia, é um risco também inerente aos processos penais em geral, o risco é consideravelmente
-maior devido à escalabilidade dos dados tratados e ao número de pessoas envolvidas, uma vez que as
-pessoas podem também carregar material relativo a uma pessoa específica ou a um grupo de pessoas
-de quem não gostem. Os pedidos da polícia para que as pessoas carreguem fotografias e vídeos
-resultam, possivelmente, em limiares muito baixos para as pessoas apresentarem material,
-especialmente porque têm a possibilidade de o fazer anonimamente ou, pelo menos, sem necessidade
-de aparecer e identificar-se numa esquadra da polícia.
-
-3.4. Conclusão
-Neste exemplo, não existe uma disposição específica que possa servir de base jurídica. No entanto,
-mesmo que existisse uma base jurídica suficiente, os requisitos de necessidade e proporcionalidade
-não seriam cumpridos, o que resultaria numa ingerência desproporcionada nos direitos do titular dos
-dados ao respeito pela vida privada e à proteção dos dados pessoais ao abrigo da Carta.
-
-
-4 CENÁRIO 4
-4.1. Descrição
-A polícia implementa uma forma de identificar suspeitos de crimes graves captados em CCTV através
-de TRF retrospetiva. Um agente seleciona manualmente as imagens dos suspeitos no material de vídeo
-que foi recolhido no local do crime ou noutro local no âmbito de um inquérito e, em seguida, envia as
-imagens para o departamento forense. O departamento forense utiliza a TRF para comparar essas
-imagens com imagens de indivíduos que tenham sido previamente reunidas numa base de dados pela
-polícia (uma chamada base de dados descritiva composta por suspeitos e ex-reclusos). A base de dados
-descritiva destina-se a este procedimento – temporariamente e num ambiente isolado – e é analisada
-com TRF para que seja possível realizar o processo de correspondência. Para minimizar a ingerência
-nos direitos e interesses das pessoas objeto de correspondência, é concedida autorização a um
-número muito limitado de trabalhadores do departamento forense para conduzir o procedimento de
-correspondência efetivo, o acesso aos dados está limitado aos agentes responsáveis pelo dossiê
-específico em questão e é realizado um controlo manual dos resultados antes de qualquer resultado
-ser encaminhado ao agente responsável pela investigação. Os dados biométricos não são transmitidos
-para fora do ambiente isolado e controlado. Apenas o resultado e a imagem (e não o modelo
-biométrico) voltam a ser utilizados na investigação. Os trabalhadores recebem formação específica
-sobre as regras e os procedimentos aplicáveis a este tratamento, e todo o tratamento de dados
-pessoais e biométricos está suficientemente especificado na legislação nacional.
-
-
-
-
-                                                                                                  50
-Aprovado
-
- Fonte da informação:
-    • Tipos de titulares dos dados: ☒ suspeitos identificados a partir das gravações CCTV
-    • Fonte da imagem: ☒ espaços acessíveis ao público ☒ Internet
-    • Ligação à criminalidade: ☒ Temporal direta
-                       ☒ Geográfica direta
-
-     •   Modo de recolha das informações: ☒ à distância
-     •   Contexto – que afete outros direitos fundamentais:    Sim, nomeadamente: ☒ Liberdade
-         de reunião     ☒ Liberdade de expressão ☒ vários: __
- Base de dados de referência (com a qual a informação captada é comparada):
-     • Especificidade: ☒ bases de dados específicas relacionadas com o local do crime
- Algoritmo:
-     • Tipo de tratamento: ☒ identificação de um para muitos
- Resultado:
-     • Impacto:         ☒ Direto (por exemplo, o titular dos dados é detido, interrogado)
-     • Decisão automatizada: ☒ NÃO
-
- Análise jurídica:
-
-     •   Quadro jurídico aplicável: ☒ Legislação nacional específica relativa a este tipo de
-         tratamento (reconhecimento facial) aplicável à autoridade competente em questão
-
-
-
-4.2. Quadro jurídico aplicável
-Neste cenário, a legislação nacional especifica que os dados biométricos podem ser utilizados na
-realização de análises forenses quando estritamente necessário para alcançar o objetivo de identificar
-suspeitos da prática de um crime grave através da correspondência das imagens na base de dados
-descritiva. A legislação nacional especifica quais os dados que podem ser tratados, bem como os
-procedimentos para preservar a integridade e a confidencialidade dos dados pessoais e os
-procedimentos para a sua destruição, concedendo assim garantias suficientes contra o risco de abuso
-e arbitrariedade.
-
-4.3. Necessidade e proporcionalidade
-A utilização do reconhecimento facial é claramente mais eficiente em termos de tempo do que a
-correspondência manual a nível forense. A seleção manual prévia de imagens limita a ingerência por
-oposição à comparação de todo o material de vídeo contra uma base de dados e, assim, diferencia e
-visa apenas as pessoas abrangidas pelo objetivo, ou seja, a luta contra a criminalidade grave. No
-entanto, continua a ser importante ponderar se a correspondência pode ser efetuada manualmente
-num período razoável, dependendo do caso em questão. A restrição das pessoas com acesso à
-tecnologia e aos dados pessoais diminui o impacto sobre os direitos à privacidade e à proteção de
-dados, bem como o facto de os modelos biométricos não serem conservados ou utilizados
-posteriormente na investigação. O controlo manual do resultado também significa um risco reduzido
-de falsos positivos.
-
-4.4. Conclusão
-É importante que a legislação nacional proporcione uma base jurídica adequada para o tratamento
-dos dados biométricos, bem como para a base de dados nacional com base na qual se realiza a
-correspondência. Neste cenário, foram postas em prática várias medidas para limitar a ingerência nos
-direitos de proteção de dados, tais como as condições para a utilização da TRF especificadas na base
-
-                                                                                                   51
-Aprovado
-
-jurídica, o número de pessoas com acesso à tecnologia e aos dados biométricos, os controlos manuais,
-etc. A TRF melhora significativamente a eficiência do trabalho de investigação do departamento
-forense da polícia, baseia-se em legislação que permite à polícia tratar dados biométricos quando
-absolutamente necessário e, por conseguinte, dentro deste perímetro, pode ser considerada uma
-ingerência lícita nos direitos do indivíduo.
-
-
-5 CENÁRIO 5
-5.1. Descrição
-A identificação biométrica à distância ocorre quando as identidades das pessoas são apuradas com a
-ajuda de identificadores biométricos (imagem facial, marcha, íris, etc.) à distância, num espaço público
-e de forma contínua ou permanente, comparando-os com dados (biométricos) conservados numa
-base de dados89. A identificação biométrica à distância é efetuada em tempo real, se a captação do
-material de imagem, a comparação e a identificação forem efetuadas sem atrasos significativos.
-
-Antes de cada utilização da identificação biométrica à distância em tempo real, a polícia compila uma
-lista de observação de pessoas de interesse no âmbito de uma investigação. Esta é preenchida com
-imagens faciais dos indivíduos. Com base em informações que sugerem que os indivíduos estarão
-numa zona específica, como um centro comercial ou uma praça pública, a polícia decide quando, onde
-e por quanto tempo deverá utilizar a identificação biométrica à distância.
-
-No dia da ação, é estacionada uma carrinha da polícia no terreno como centro de controlo, com um
-oficial superior de polícia a bordo. A carrinha contém monitores que exibem imagens de câmaras CCTV
-localizadas nas proximidades, instaladas quer numa base ad hoc, quer através da ligação aos fluxos de
-vídeo de câmaras já instaladas. Quando os transeuntes passam pelas câmaras, a tecnologia isola as
-imagens faciais, converte-as num modelo biométrico e compara-as com os modelos biométricos das
-pessoas que constam da lista de observação.
-
-Se for detetada uma potencial correspondência entre a lista de observação e as pessoas que passam
-pelas câmaras, é enviado um alerta aos agentes que se encontram na carrinha, que depois avisam os
-agentes no terreno se o alerta for positivo, por exemplo através de um dispositivo de rádio. O agente
-no terreno decidirá então se deve intervir, abordar ou, em última análise, deter o indivíduo. As medidas
-tomadas pelo agente no terreno são registadas. No caso de um controlo discreto, as informações
-recolhidas (como, por exemplo, com quem está a pessoa, o que traz vestido e para onde se dirige) são
-armazenadas.
-
-Uma lei nacional prevê uma disposição genérica, segundo a qual o tratamento de dados biométricos
-para efeitos de identificação inequívoca de uma pessoa singular é admissível se for estritamente
-necessário e sujeito a garantias adequadas relativas aos direitos e liberdades da pessoa em causa.
-
-
- Fonte da informação:
-    • Tipos de titulares de dados: ☒ todas as pessoas
-    • Fonte da imagem: ☒ espaços acessíveis ao público
-    • Ligação à criminalidade: ☒ Ligação geográfica ou temporal não necessariamente direta
-    • Modo de recolha das informações: ☒ à distância
-    • Contexto – que afete outros direitos fundamentais: Sim, nomeadamente: ☒ Liberdade de
-        reunião ☒ Liberdade de expressão ☒ vários
-
-89 https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020   en.pdf
-
-                                                                                                                52
-Aprovado
-
-     •   Fontes adicionais de informação disponíveis sobre o titular dos dados:
-         ☒ outras: não excluídas (como a utilização de máquinas ATM ou as lojas visitadas)
- Base de dados de referência (com a qual a informação captada é comparada):
-     • Especificidade: ☒ bases de dados específicas relacionadas com o local do crime
- Algoritmo:
-     • Tipo de tratamento: ☒ identificação de um para muitos
- Resultado:
-     • Impacto:         ☒ Direto (por exemplo, o titular dos dados é detido, interrogado)
-     • Decisão automatizada: ☒ NÃO
-     • Duração da conservação: até à conclusão de todas as investigações possíveis
-
- Análise jurídica:
-
-     •    Tipo de informação prévia ao titular dos dados: ☒ No sítio Web da autoridade de aplicação
-          da lei em geral
-     •    Quadro jurídico aplicável: ☒ Diretiva Proteção de Dados na Aplicação da Lei,
-          maioritariamente transposta para a legislação nacional ☒ Legislação nacional genérica
-          relativa à utilização de dados biométricos pelas autoridades de aplicação da lei
-
-
-
-5.2. Quadro jurídico aplicável
-Os termos das bases jurídicas que se limitam a repetir a cláusula geral do artigo 10.º da Diretiva
-Proteção de Dados na Aplicação da Lei não são suficientemente claros para proporcionar aos
-indivíduos uma indicação adequada das condições e das circunstâncias em que as autoridades de
-aplicação da lei têm o direito de utilizar gravações de CCTV de espaços públicos para criar um modelo
-biométrico do seu rosto e compará-lo com as bases de dados da polícia. Por conseguinte, o quadro
-jurídico estabelecido neste cenário não cumpre os requisitos mínimos para servir de base jurídica 90.
-
-5.3. Necessidade e proporcionalidade
-Quanto mais profunda for a ingerência, mais elevada a fasquia em termos de necessidade e
-proporcionalidade. A identificação biométrica à distância em espaços públicos tem várias implicações
-em termos de direitos fundamentais:
-
-Os cenários implicam a monitorização de todos os transeuntes no respetivo espaço público. Esta afeta,
-por isso, gravemente a expectativa razoável das populações de anonimato em espaços públicos 91.
-Trata-se de um pré-requisito para muitas facetas do processo democrático, como a decisão de aderir
-a uma associação cívica, de frequentar reuniões e de encontrar pessoas de todas as origens sociais e
-culturais, de participar numa manifestação política e de visitar todos os tipos de locais. A noção de
-anonimato nos espaços públicos é essencial à livre reunião e troca de informações e ideias. Preserva a
-pluralidade de opiniões, a liberdade de reunião pacífica e a liberdade de associação e a proteção das
-minorias e apoia os princípios da separação de poderes e do equilíbrio de poderes. O enfraquecimento
-da noção de anonimato nos espaços públicos pode ter como resultado um grave efeito dissuasor nos
-
-90 Nos casos em que um projeto científico destinado a investigar a utilização da TRF tenha de proceder ao
-
-tratamento de dados pessoais, mas esse tratamento não seja abrangido pelo artigo 4.º, n.º 3, da Diretiva
-Proteção de Dados na Aplicação da Lei ou pelo direito da União, é aplicável o RGPD. No caso de projetos-piloto
-que seriam seguidos de operações de aplicação da lei, continuaria a ser aplicável a Diretiva Proteção de Dados
-na Aplicação da Lei.
-91 Resposta do CEPD a deputados ao Parlamento Europeu a respeito da aplicação de reconhecimento facial
-
-desenvolvida pela Clearview AI, 10 de junho de 2020, Ref.: OUT2020-0052.
-
-                                                                                                           53
-Aprovado
-
-cidadãos. Pode levá-los a abster-se de certos comportamentos que estão bem dentro dos limites de
-uma sociedade livre e aberta. Este efeito prejudicaria o interesse público, uma vez que uma sociedade
-democrática exige a autodeterminação e a participação dos seus cidadãos no processo democrático.
-
-Se este tipo de tecnologia for aplicado, os simples atos de andar na rua, caminhar até ao metro ou ir à
-padaria na zona afetada levará à recolha de dados pessoais, incluindo dados biométricos, pelas
-autoridades de aplicação da lei e, no primeiro cenário, também à correspondência com bases de dados
-da polícia. Uma situação em que o mesmo seria feito através da recolha de impressões digitais seria
-claramente desproporcionada.
-
-O número de titulares de dados afetados é extremamente elevado, uma vez que todas as pessoas que
-passam pela zona pública em causa serão afetadas. Além disso, os cenários implicariam um tratamento
-automatizado em massa de dados biométricos e também uma comparação em massa dos dados
-biométricos com as bases de dados da polícia.
-
-De acordo com a jurisprudência europeia, a vigilância em massa é proibida (por exemplo, o TEDH, no
-processo S e Marper c. Reino Unido, considerou a conservação indiscriminada de dados biométricos
-uma «ingerência desproporcionada» no direito à privacidade, uma vez que não é «necessária numa
-sociedade democrática»).
-
-A identificação biométrica à distância é tão propensa à vigilância em massa que não existem meios
-fiáveis de restrição. É essencialmente diferente da videovigilância enquanto tal, uma vez que a possível
-utilização de imagens de vídeo sem identificação biométrica constitui já uma forte ingerência, mas ao
-mesmo tempo limitada, ao passo que, se a TRF for aplicada, o sistema de videovigilância, já
-amplamente difundido como principal fonte de dados, sofrerá uma mudança de qualidade. Além disso,
-sobretudo no que diz respeito aos efeitos dissuasores implícitos, as eventuais restrições à aplicação
-das instalações de videovigilância já existentes não serão visíveis e, por conseguinte, não merecerão a
-confiança do público.
-
-A identificação biométrica à distância pelas autoridades policiais trata toda a gente como um potencial
-suspeito. No entanto, num Estado de direito, presume-se que os cidadãos são inocentes até prova em
-contrário. Este princípio está também parcialmente refletido na Diretiva Proteção de Dados na
-Aplicação da Lei, que sublinha a necessidade de distinguir, na medida do possível, entre o tratamento
-de pessoas condenadas ou suspeitas de crimes, caso em que as autoridades de aplicação da lei devem
-ter «motivos fundados para crer que cometeram ou estão prestes a cometer uma infração penal»
-(artigo 6.º, alínea a)) em comparação com as pessoas que não foram condenadas ou suspeitas de
-atividades criminosas.
-
-Esta tecnologia, capaz de identificar inequivocamente uma única pessoa e de localizar e analisar o seu
-paradeiro e movimentos, aplicada pelas autoridades de aplicação da lei a pontos nodais de transporte
-ou a espaços públicos, revelará até as informações mais sensíveis sobre uma pessoa (inclusive
-preferências sexuais, religião e problemas de saúde). Implica, pois, o imenso risco de acesso e
-utilização ilícitos dos dados.
-
-A instalação de um sistema que permita revelar o núcleo essencial do comportamento e das
-características do indivíduo tem fortes efeitos dissuasores. Faz com que as pessoas questionem se
-devem aderir a uma determinada manifestação, prejudicando assim o processo democrático. Além
-disso, o facto de uma pessoa se encontrar e ser vista em público com um determinado amigo
-conhecido por ter problemas com a polícia ou por ter um comportamento peculiar pode ser
-considerado crítico, uma vez que atrairia o algoritmo do sistema e, por conseguinte, chamaria a
-atenção das autoridades.
-
-                                                                                                     54
-Aprovado
-
-É impossível proteger titulares de dados vulneráveis como as crianças. Além disso, o sistema afeta
-pessoas que têm um interesse profissional – e muitas vezes a correspondente obrigação legal – em
-manter os seus contactos confidenciais, tais como jornalistas, advogados e clérigos. Isto pode, por
-exemplo, levar à revelação da fonte e do jornalista, ou ao facto de uma pessoa consultar um advogado
-de defesa penal. O problema não se aplica apenas a locais públicos aleatórios, onde, por exemplo, os
-jornalistas e as suas fontes se encontram, mas também, naturalmente, a espaços públicos necessários
-para abordar e aceder a instituições ou profissionais neste domínio.
-
-Além disso, o desconforto das pessoas com a TRF pode levá-las a alterar o seu comportamento,
-evitando locais onde a TRF está implantada e afastando-se assim da vida social e dos eventos culturais.
-Dependendo da dimensão da implantação da TRF, o impacto nas pessoas pode ser tão significativo
-que afete a sua capacidade de viver uma vida digna 92.
-
-Existe, por isso, uma forte probabilidade de afetar o conteúdo essencial – o núcleo intocável – do
-direito à proteção dos dados pessoais. Os indícios fortes (ver secção 3.1.3.2 das orientações) são, em
-particular, os seguintes: em grande escala, as características biológicas únicas das pessoas são
-automaticamente tratadas pelas autoridades de aplicação da lei utilizando algoritmos baseados na
-plausibilidade com uma capacidade de explicação limitada dos resultados. As limitações aos direitos à
-privacidade e à proteção de dados são impostas independentemente do comportamento individual da
-pessoa ou das circunstâncias que lhe dizem respeito. Estatisticamente, quase todos os titulares de
-dados afetados por esta ingerência são pessoas que cumprem a lei. As possibilidades de prestação de
-informações ao titular dos dados são limitadas. O recurso judicial, na maioria dos casos, só será possível
-posteriormente.
-
-A dependência de um sistema baseado na plausibilidade e com uma capacidade de explicação limitada
-pode conduzir à difusão da responsabilidade e a uma carência em termos de medidas corretivas e
-pode constituir um incentivo à negligência.
-
-Uma vez aplicado, este sistema, que pode ser aplicado também às câmaras CCTV existentes, com muito
-pouco esforço e sem ser visível para as pessoas, pode ser utilizado de forma abusiva e permitir a
-elaboração sistemática e rápida de listas de pessoas de acordo com a sua origem étnica, sexo, religião,
-etc. O princípio do tratamento de dados pessoais de acordo com critérios pré-estabelecidos, como o
-paradeiro de uma pessoa e o trajeto percorrido, já é praticado93 e é suscetível de discriminação.
-
-Em função da sensibilidade, da expressividade e da quantidade de dados tratados, os sistemas de
-reconhecimento facial à distância em locais acessíveis ao público são propensos a serem utilizados de
-forma abusiva com efeitos prejudiciais para as pessoas em causa. Esses dados podem também ser
-facilmente recolhidos e utilizados de forma abusiva para exercer pressão sobre os principais
-intervenientes no princípio do equilíbrio de poderes, como a oposição política, os agentes da
-autoridade e os jornalistas.
+Once such a system, that may be applied also to existing CCTV cameras, is applied, with very little effort
+and without being visible to the individuals, it may be misused and enabled to systematically and
+speedily draw up lists of people according to ethnic origin, sex, religion etc. The principle of processing
+personal data against pre-determined criteria such as a person’s whereabouts and the route travelled
+is already practiced 93 and is prone to discrimination.
+Corresponding to the sensitivity, the expressiveness and the quantity of data processed, systems for
+remote facial recognition in publicly accessible places are prone to be misused with detrimental effects
+for the concerned individuals. Such data may also be easily collected and misused to put pressure on
+key actors in the principle of checks and balances such as political opposition, officers and journalists.
 
 
 
 
 92     https://fra.europa.eu/sites/default/files/fra uploads/fra-2019-facial-recognition-technology-focus-paper-
-1 en.pdf, p. 20.
-93 Ver o artigo 6.º da Diretiva (UE) 2016/681 do Parlamento Europeu e do Conselho, de 27 de abril de 2016,
+1 en.pdf, page 20.
+93 C.f. Article 6 Directive (EU) 2016/681 of the European Parliament and of the Council of 27 April 2016 on the
 
-relativa à utilização dos dados dos registos de identificação dos passageiros (PNR) para efeitos de prevenção,
-deteção, investigação e repressão das infrações terroristas e da criminalidade grave e o artigo 33.º do
-Regulamento (UE) 2018/1240 do Parlamento Europeu e do Conselho, de 12 de setembro de 2018, que cria um
-Sistema Europeu de Informação e Autorização de Viagem (ETIAS) e altera os Regulamentos (UE) n.º 1077/2011,
-(UE) n.º 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE)2017/2226.
-
-                                                                                                             55
-Aprovado
-
-Por último, os sistemas TRF tendem a incorporar fortes efeitos de enviesamento em relação à raça e
-ao género: os falsos positivos afetam desproporcionadamente as pessoas de cor e as mulheres 94,
-resultando em discriminação. As medidas policiais na sequência de um falso positivo, tais como buscas
-e detenções, estigmatizam ainda mais estes grupos.
-
-5.4. Conclusão
-Os cenários supramencionados relativos ao tratamento à distância de dados biométricos em espaços
-públicos para fins de identificação não conseguem alcançar um justo equilíbrio entre os interesses
-privados e públicos concorrentes, constituindo assim uma ingerência desproporcionada nos direitos
-do titular dos dados nos termos dos artigos 7.º e 8.º da Carta.
+use of passenger name record (PNR) data for the prevention, detection, investigation and prosecution of terrorist
+offences and serious crime and Article 33 Regulation (EU) 2018/1240 of the European Parliament and of the
+Council of 12 September 2018 establishing a European Travel Information and Authorisation System (ETIAS) and
+amending Regulations (EU) No 1077/2011, (EU) No 515/2014, (EU) 2016/399, (EU) 2016/1624 and (EU)
+2017/2226.
 
 
-6 CENÁRIO 6
-6.1. Descrição
-Uma entidade privada disponibiliza uma aplicação que efetua «raspagem» de imagens faciais da
-Internet para criar uma base de dados. O utilizador, por exemplo a polícia, pode depois carregar uma
-fotografia e, utilizando a identificação biométrica, a aplicação tentará compará-la com as imagens
-faciais ou modelos biométricos existentes na sua base de dados.
+                                                                                                              50
+Adopted
 
-Um departamento de polícia local está a investigar um crime captado em vídeo em que não é possível
-identificar várias potenciais testemunhas e suspeitos através da correspondência das informações
-recolhidas com quaisquer bases de dados ou informações internas. Com base nas informações
-recolhidas, os indivíduos não estão registados em nenhuma base de dados da polícia existente. A
-polícia decide utilizar uma ferramenta como a descrita acima, que é disponibilizada por uma empresa
-privada, para identificar as pessoas através de identificação biométrica.
+Lastly, FRT-systems tend to incorporate strong bias effects regarding race and gender: false-positive
+results disproportionately affect people of colour and women 94 , resulting in discrimination. Police
+measures following a false-positive result, such as searches and arrests, stigmatise these groups
+further.
 
-
- Fonte da informação:
-    • Tipos de titulares dos dados: ☒ todos os cidadãos (testemunhas)           ☒ reclusos     ☒
-        suspeitos
-
-     •   Fonte da imagem: ☒ Gravação de vídeo de um espaço público ou recolhida noutro local,
-         no âmbito de um inquérito
-     • Ligação à criminalidade: ☒ Não é necessária
-     • Modo de recolha das informações: ☒ à distância
-     • Contexto – que afete outros direitos fundamentais: Sim, nomeadamente: ☒ Liberdade de
-         reunião ☒ Liberdade de expressão ☒ vários: __
- Base de dados de referência (com a qual a informação captada é comparada):
-     • Especificidade: ☒ bases de dados de caráter geral preenchidas a partir da Internet
- Algoritmo:
-     • Tipo de tratamento: ☒ identificação de um para muitos
- Resultado:
-     • Impacto          ☒ Direto (por exemplo, o titular dos dados é detido, interrogado,
-         comportamento discriminatório)
-     • Decisão automatizada: ☒ NÃO
+5.4. Conclusion
+The aforementioned scenarios concerning remote processing of biometric data in public spaces for
+identification purposes fail to strike a fair balance between the competing private and public interests,
+thus constituting a disproportionate interference with the data subject’s rights under Articles 7 and 8
+of the Charter.
 
 
+6 SCENARIO 6
+6.1. Description
+A private entity provides an application where facial images are scraped off the internet to create a
+database. The user, e.g. the police, can then upload a picture and by using biometric identification the
+application will try to match it with the facial images or biometric templates in its database.
+A local police department is conducting an investigation of a crime caught on video where a number
+of potential witnesses and suspects cannot be identified through matching collected information with
+any internal databases or intelligence. The individuals are, based on the information collected, not
+registered in any existing police database. The police decides to use a tool as described above, which
+is provided by a private company, to identify the individuals through biometric identification.
 
-94 https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8280.pdf,
 
+ Source of information:
+     • Types of data subjects: ☒ all citizens (witnesses) ☒ convicts ☒ suspects
+
+     •   Source of image: ☒ Video footage from a public place or collected elsewhere within a
+         preliminary investigation
+     • Connection to crime: ☒ Not necessary
+     • Mode of information capture: ☒ remote
+     • Context - affecting other fundamental rights: Yes, namely: ☒ Freedom of assembly ☒
+         Freedom of speech ☒ various: __
+ Reference database (to which captured information is compared):
+     • Specificity: ☒ general purpose databases populated from internet
+ Algorithm:
+     • Processing type: ☒ 1 - many identification
+ Outcome:
+     • Impact ☒ Direct (e.g. the data subject is arrested, questioned, discriminatory behavior)
+     • Automated decision: ☒ NO
+
+ Legal analysis:
+
+     •    Type of prior information to data subject: ☒ No
+
+
+
+
+94https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8280.pdf,
 http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
+                                                                                                      51
+Adopted
 
-                                                                                                   56
-Aprovado
+6.2. Applicable legal framework
+When a private entity provides a service that includes personal data processing for which they
+determine the purpose and means (in this case scraping images off the internet to create a database),
+this private entity must have a legal basis for this processing. Furthermore, the law enforcement
+authority that decides to use this service for their purposes must have a legal basis for the processing
+for which they determine the purposes and means. For the law enforcement authority to be able to
+process biometric data, there has to be a legal framework that specifies the objective, the personal
+data to be processed, the purposes of the processing and the procedures for preserving the integrity
+and confidentiality of personal data as well as procedures for its destruction.
+This scenario implies mass-scale collection of personal data from individuals not aware of their data
+being collected. Such processing could be lawful only under very exceptional circumstances.
+Depending on where the database is located using such a service may entail transferring personal data
+and/or special categories of personal data outside the European Union (by the police, e.g. “sending”
+the facial image in the surveillance video or collected otherwise), thereby requiring specific conditions
+for that transfer, see Article 39 LED.
 
- Análise jurídica:
+There are no specific rules in this scenario that allow this processing by the law enforcement authority.
 
-     •   Tipo de informação prévia ao titular dos dados: ☒ Não
+6.3. Necessity and proportionality
+The law enforcement authority’s use of the service means that personal data is shared with a private
+entity that is using a database where personal data is collected in an unlimited, mass-scale way. There
+is no connection between the personal data collected and the pursued objective by the law
+enforcement authority. The sharing of data by the law enforcement authority to the private entity also
+means a lack of control for the authority over the data being processed by the private entity and great
+difficulty for data subjects to exercise their rights, as they will not be aware of their data being
+processed in this way. This sets a very high bar for situations when such a processing could even take
+place. It is questionable if any objective would meet the requirements set out in the Directive, since
+any derogations from, and limitations to, the rights to privacy and data protection are only applicable
+when strictly necessary. The general interest of effectiveness in fighting serious crimes cannot in itself
+justify processing where such vast amounts of data are being collected indiscriminately. This
+processing would therefore not meet the requirements for necessity and proportionality.
 
-
-
-6.2. Quadro jurídico aplicável
-Quando uma entidade privada presta um serviço que inclui o tratamento de dados pessoais, para o
-qual determina a finalidade e os meios (neste caso, a raspagem de imagens da Internet para criar uma
-base de dados), essa entidade privada tem de ter uma base jurídica para esse tratamento. Além disso,
-a autoridade de aplicação da lei que decide utilizar esse serviço para os seus fins deve dispor de uma
-base jurídica para o tratamento, cujas finalidades e meios determina. Para que a autoridade de
-aplicação da lei possa proceder ao tratamento de dados biométricos, tem de existir um quadro jurídico
-que especifique o objetivo, os dados pessoais a tratar, as finalidades do tratamento e os
-procedimentos para preservar a integridade e a confidencialidade dos dados pessoais, bem como os
-procedimentos para a sua destruição.
-
-Este cenário implica a recolha de dados pessoais em massa de pessoas singulares que não têm
-conhecimento de que os seus dados estão a ser recolhidos. Esse tratamento só poderia ser lícito em
-circunstâncias muito excecionais. Dependendo da localização da base de dados, a utilização desse
-serviço pode implicar a transferência de dados pessoais e/ou de categorias especiais de dados pessoais
-para fora da União Europeia (pela polícia, por exemplo, «enviando» a imagem facial no vídeo de
-vigilância ou recolhida de outra forma), exigindo assim condições específicas para essa transferência,
-ver artigo 39.º da Diretiva Proteção de Dados na Aplicação da Lei.
-
-Não existem regras específicas neste cenário que permitam este tratamento pela autoridade de
-aplicação da lei.
-
-6.3. Necessidade e proporcionalidade
-A utilização do serviço pela autoridade de aplicação da lei implica a partilha dos dados pessoais com
-uma entidade privada que utiliza uma base de dados em que os dados pessoais são recolhidos de
-forma ilimitada e em massa. Não existe qualquer relação entre os dados pessoais recolhidos e o
-objetivo da autoridade de aplicação da lei. A partilha de dados entre a autoridade de aplicação da lei
-e a entidade privada implica também uma falta de controlo por parte da autoridade sobre os dados
-que estão a ser tratados pela entidade privada e uma grande dificuldade dos titulares dos dados em
-exercerem os seus direitos, uma vez que não estarão cientes de que os seus dados estão a ser tratados
-desta forma. Esta situação estabelece uma fasquia muito elevada para situações em que este tipo de
-tratamento poderia sequer ter lugar. É questionável se qualquer objetivo cumpriria os requisitos
-estabelecidos na diretiva, uma vez que quaisquer derrogações e limitações aos direitos à privacidade
-e à proteção de dados só são aplicáveis quando estritamente necessário. O interesse geral da eficácia
-na luta contra os crimes graves não pode, por si só, justificar o tratamento de dados quando se trata
-da recolha indiscriminada de quantidades tão grandes de dados. Por conseguinte, este tratamento não
-cumpriria os requisitos de necessidade e proporcionalidade.
-
-6.4. Conclusão
-A ausência de regras claras, precisas e previsíveis que cumpram os requisitos dos artigos 4.º e 10.º da
-diretiva, bem como a falta de provas de que este tratamento é estritamente necessário para alcançar
-os objetivos pretendidos, levam a concluir que a utilização desta aplicação não cumpriria os requisitos
-de necessidade e proporcionalidade e implicaria uma ingerência desproporcionada nos direitos dos
-titulares dos dados ao respeito pela vida privada e à proteção dos dados pessoais ao abrigo da Carta.
+6.4. Conclusion
+The lack of clear, precise and foreseeable rules that meet the requirements in Articles 4 and 10 of the
+Directive, and the lack of evidence that this processing is strictly necessary in order to achieve the
+intended objectives, leads to the conclusion that the use of this application would not meet the
+necessity and proportionality requirements and would mean a disproportionate interference of data
+subjects’ rights to respect for private life and the protection of personal data under the Charter.
 
 
-                                                                                                    57
-Aprovado
+
+
+                                                                                                       52
+Adopted
 ```

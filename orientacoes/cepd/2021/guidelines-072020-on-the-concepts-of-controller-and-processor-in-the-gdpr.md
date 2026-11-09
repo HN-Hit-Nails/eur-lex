@@ -1,3072 +1,2734 @@
 ---
-titulo: "Orientações 07/2020 sobre os conceitos de responsável pelo tratamento e subcontratante no RGPD"
+titulo: "Guidelines 07/2020 on the concepts of controller and processor in the GDPR"
 titulo_en: "Guidelines 07/2020 on the concepts of controller and processor in the GDPR"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2021-07-07'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-072020-on-the-concepts-of-controller-and-processor-in-the-gdpr_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2023-10/edpb_guidelines_202007_controllerprocessor_final_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-10/EDPB_guidelines_202007_controllerprocessor_final_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Orientações 07/2020 sobre os conceitos de responsável pelo tratamento e subcontratante no RGPD
+# Guidelines 07/2020 on the concepts of controller and processor in the GDPR
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Orientações 07/2020 sobre os conceitos de responsável pelo
-          tratamento e subcontratante no RGPD
+Guidelines 07/2020 on the concepts of controller and
+                     processor in the GDPR
 
 
-                                   Versão 2.0
+                                      Version 2.1
 
 
-                         Adotadas em 7 de julho de 2021
+                                Adopted on 07 July 2021
 
 
 
 
-Adotadas - Após consulta pública                          1
+Adopted - After public consultation                          1
 
-Histórico de versões
+Version history
 
- Versão 2.0     7 de julho de 2021      Adoção das Orientações após consulta pública
+ Version 2.1     20 September 2022    Minor corrections
 
- Versão 1.0     2 de setembro de 2020   Adoção das Orientações para consulta pública
+ Version 2.0     7 July 2021          Adoption of the Guidelines after public consultation
 
+ Version 1.0     2 September 2020     Adoption of the Guidelines for public consultation
 
 
 
-Adotadas - Após consulta pública                                                       2
 
-                                            RESUMO
-Os conceitos de responsável pelo tratamento, responsável conjunto pelo tratamento e subcontratante
-desempenham uma função crucial na aplicação do Regulamento Geral de Proteção de Dados 2016/679
-(RGPD), uma vez que determinam quem deve ser responsável pelo cumprimento das diferentes regras
-relativas à proteção de dados e de que forma os titulares dos dados podem exercer os seus direitos na
-prática. O significado preciso destes conceitos e os critérios para a sua correta interpretação têm de
-ser suficientemente claros e coerentes em todo o Espaço Económico Europeu (EEE).
+Adopted - After public consultation                                                          2
 
-Os conceitos de responsável pelo tratamento, responsável conjunto pelo tratamento e subcontratante
-são conceitos funcionais na medida em que pretendem repartir responsabilidades de acordo com as
-funções efetivas das partes e conceitos autónomos no sentido em que deverão ser interpretados
-essencialmente de acordo com a legislação em matéria de proteção de dados da UE.
+                                    EXECUTIVE SUMMARY
+The concepts of controller, joint controller and processor play a crucial role in the application of the
+General Data Protection Regulation 2016/679 (GDPR), since they determine who shall be responsible
+for compliance with different data protection rules, and how data subjects can exercise their rights in
+practice. The precise meaning of these concepts and the criteria for their correct interpretation must
+be sufficiently clear and consistent throughout the European Economic Area (EEA).
 
-Responsável pelo tratamento
+The concepts of controller, joint controller and processor are functional concepts in that they aim to
+allocate responsibilities according to the actual roles of the parties and autonomous concepts in the
+sense that they should be interpreted mainly according to EU data protection law.
 
-Em princípio, não existe qualquer restrição em relação ao tipo de entidade que pode assumir a função
-de responsável pelo tratamento, mas na prática é normalmente a própria organização, e não uma
-pessoa no seio da organização (tal como o diretor executivo, um funcionário ou um membro do
-conselho de administração), que atua como responsável pelo tratamento.
+Controller
 
-Um responsável pelo tratamento é um órgão que decide certos elementos fundamentais do
-tratamento. A responsabilidade pelo tratamento pode ser definida por lei ou pode resultar de uma
-análise das circunstâncias ou dos elementos factuais do caso concreto. Certas atividades de
-tratamento podem ser entendidas como naturalmente associadas à função de uma entidade (um
-empregador em relação aos funcionários, um editor em relação aos subscritores ou uma associação
-em relação aos seus sócios). Em muitos casos, os termos de um contrato podem ajudar a identificar
-o responsável pelo tratamento, embora não sejam decisivos em todas as circunstâncias.
+In principle, there is no limitation as to the type of entity that may assume the role of a controller but
+in practice it is usually the organisation as such, and not an individual within the organisation (such as
+the CEO, an employee or a member of the board), that acts as a controller.
 
-Um responsável pelo tratamento determina as finalidades e os meios do tratamento, ou seja, o porquê
-e o como do tratamento. O responsável pelo tratamento tem de decidir acerca das finalidades e dos
-meios. Contudo, alguns aspetos mais práticos da execução («meios não essenciais») podem ser
-deixados para o subcontratante. Não é necessário que o responsável pelo tratamento tenha
-efetivamente acesso aos dados que estão a ser tratados para ser qualificado como um responsável
-pelo tratamento.
+A controller is a body that decides certain key elements of the processing. Controllership may be
+defined by law or may stem from an analysis of the factual elements or circumstances of the case.
+Certain processing activities can be seen as naturally attached to the role of an entity (an employer to
+employees, a publisher to subscribers or an association to its members). In many cases, the terms of
+a contract can help identify the controller, although they are not decisive in all circumstances.
 
-Responsáveis conjuntos pelo tratamento
+A controller determines the purposes and means of the processing, i.e. the why and how of the
+processing. The controller must decide on both purposes and means. However, some more practical
+aspects of implementation (“non-essential means”) can be left to the processor. It is not necessary
+that the controller actually has access to the data that is being processed to be qualified as a controller.
 
-A qualificação como responsáveis conjuntos pelo tratamento pode surgir quando mais do que um
-interveniente estão envolvidos no tratamento. O RGPD introduz regras específicas aplicáveis aos
-responsáveis conjuntos pelo tratamento e estabelece um quadro para reger a sua relação. O critério
-global para que a responsabilidade conjunta pelo tratamento exista é a participação conjunta de duas
-ou mais entidades na determinação das finalidades e dos meios de uma operação de tratamento. A
-participação conjunta pode assumir a forma de uma decisão comum tomada por duas ou mais
-entidades ou resultar de decisões convergentes de duas ou mais entidades, em que as decisões são
-complementares e são necessárias para que o tratamento ocorra, de tal modo que têm um impacto
-tangível na determinação das finalidades e dos meios do tratamento. Um critério importante é o de
-que o tratamento não seria possível sem a participação de ambas as partes, uma vez que o tratamento
-por cada uma das partes é indissociável, ou seja, intrinsecamente ligado. A participação conjunta tem
-de incluir, por um lado, a determinação das finalidades e, por outro, a determinação dos meios.
+Joint controllers
 
+The qualification as joint controllers may arise where more than one actor is involved in the processing.
+The GDPR introduces specific rules for joint controllers and sets a framework to govern their
+relationship. The overarching criterion for joint controllership to exist is the joint participation of two
+or more entities in the determination of the purposes and means of a processing operation. Joint
+participation can take the form of a common decision taken by two or more entities or result from
+converging decisions by two or more entities, where the decisions complement each other and are
+necessary for the processing to take place in such a manner that they have a tangible impact on the
+determination of the purposes and means of the processing. An important criterion is that the
+processing would not be possible without both parties’ participation in the sense that the processing
+by each party is inseparable, i.e. inextricably linked. The joint participation needs to include the
+determination of purposes on the one hand and the determination of means on the other hand.
 
-Adotadas - Após consulta pública                                                                    3
+Processor
 
-Subcontratante
+A processor is a natural or legal person, public authority, agency or another body, which processes
+personal data on behalf of the controller. Two basic conditions for qualifying as processor exist: that it
+is a separate entity in relation to the controller and that it processes personal data on the controller’s
+behalf.
 
-Um subcontratante é uma pessoa singular ou coletiva, autoridade pública, agência ou outro organismo
-que trate os dados pessoais por conta do responsável pelo seu tratamento. Existem duas condições
-básicas para se qualificar como subcontratante: tem de ser uma entidade autónoma em relação ao
-responsável pelo tratamento e tem de tratar dados pessoais por conta do responsável pelo seu
-tratamento.
+The processor must not process the data otherwise than according to the controller’s instructions. The
+controller’s instructions may still leave a certain degree of discretion about how to best serve the
 
-O subcontratante não deve tratar dados sem ser de acordo com as instruções do responsável pelo
-tratamento. As instruções do responsável pelo tratamento podem, ainda assim, conferir uma certa
-margem de discricionariedade sobre como servir da melhor forma os interesses do responsável pelo
-tratamento, permitindo ao subcontratante escolher os meios técnicos e organizativos mais
-adequados. Todavia, um subcontratante viola o RGPD se for além das instruções do responsável pelo
-tratamento e começar a determinar as suas próprias finalidades e meios do tratamento. O
-subcontratante será então considerado um responsável pelo tratamento relativamente a esse
-tratamento e pode ser objeto de sanções por ir além das instruções do responsável pelo tratamento.
+Adopted - After public consultation                                                                       3
 
-Relação entre responsável pelo tratamento e subcontratante
+controller’s interests, allowing the processor to choose the most suitable technical and organisational
+means. A processor infringes the GDPR, however, if it goes beyond the controller’s instructions and
+starts to determine its own purposes and means of the processing. The processor will then be
+considered a controller in respect of that processing and may be subject to sanctions for going beyond
+the controller’s instructions.
 
-Um responsável pelo tratamento apenas pode recorrer a subcontratantes que apresentem garantias
-suficientes para aplicar as medidas técnicas e organizativas apropriadas, de molde a que o tratamento
-cumpra os requisitos do RGPD. Os elementos a ter em conta poderão ser os conhecimentos
-especializados do subcontratante (por exemplo, competências técnicas no tocante a medidas de
-segurança e violações de dados); a fiabilidade do subcontratante; os recursos do subcontratante e o
-cumprimento pelo subcontratante de um código de conduta ou procedimento de certificação
-aprovados.
-
-Todo o tratamento de dados pessoais por um subcontratante tem de ser regido por um contrato ou
-outro ato normativo, obrigatoriamente reduzido a escrito, inclusive em formato eletrónico, e ser
-vinculativo. O responsável pelo tratamento e o subcontratante podem escolher negociar o seu próprio
-contrato incluindo todos os elementos obrigatórios ou basearem-se, total ou parcialmente, em
-cláusulas contratuais-tipo.
-
-O RGPD elenca os elementos que devem constar do acordo de tratamento. No entanto, o acordo de
-tratamento não deve simplesmente reproduzir as disposições do RGPD; ao invés, deve incluir
-informações mais específicas e concretas sobre de que forma os requisitos serão satisfeitos e que nível
-de segurança é necessário para o tratamento de dados pessoais objeto do acordo de tratamento.
-
-Relação entre responsáveis conjuntos pelo tratamento
-
-Os responsáveis conjuntos pelo tratamento devem, de uma forma transparente, determinar e acordar
-as suas respetivas responsabilidades pelo cumprimento das obrigações nos termos do RGPD. A
-determinação das suas respetivas responsabilidades deve ter especialmente em consideração o
-exercício dos direitos dos titulares dos dados e os deveres de fornecer informações. Além do que
-precede, a repartição de responsabilidades deve abranger outras obrigações do responsável pelo
-tratamento, tais como no que se refere aos princípios gerais de proteção de dados, à base jurídica, às
-medidas de segurança, à obrigação de notificação de violação de dados, às avaliações do impacto sobre
-a proteção de dados, à utilização de subcontratantes, às transferências para países terceiros e aos
-contactos com titulares de dados e autoridades de controlo.
-
-
-
-
-Adotadas - Após consulta pública                                                                     4
-
-Cada responsável conjunto pelo tratamento tem o dever de assegurar que dispõe de uma base jurídica
-para o tratamento e que os dados não são tratados posteriormente de uma forma incompatível com
-as finalidades para os quais foram originalmente recolhidos pelo responsável pelo tratamento que
-partilha os dados.
-
-O RGPD não especifica a forma jurídica do acordo entre responsáveis conjuntos pelo tratamento. Por
-razões de segurança jurídica, e a fim de proporcionar transparência e responsabilidade, o CEPD
-recomenda que esse acordo assuma a forma de um documento vinculativo, tal como um contrato ou
-outro ato normativo vinculativo nos termos do direito da UE ou de um dos Estados-Membros a que os
-responsáveis pelo tratamento estejam sujeitos.
-
-O acordo reflete devidamente as funções e relações respetivas dos responsáveis conjuntos pelo
-tratamento em relação aos titulares dos dados e a essência do acordo é disponibilizada ao titular dos
-dados.
-
-Independentemente dos termos do acordo, os titulares dos dados podem exercer os seus direitos em
-relação a e contra cada um dos responsáveis pelo tratamento. As autoridades de controlo não ficam
-vinculadas aos termos do acordo seja na questão da qualificação das partes como responsáveis
-conjuntos pelo tratamento, seja na questão do ponto de contacto designado.
-
-
-
-
-Adotadas - Após consulta pública                                                                   5
-
-       ÍNDICE
-
-RESUMO .................................................................................................................................................. 3
-INTRODUÇÃO .......................................................................................................................................... 8
-PARTE I – CONCEITOS ............................................................................................................................. 9
-1      OBSERVAÇÕES GERAIS .................................................................................................................... 9
-2      DEFINIÇÃO DE RESPONSÁVEL PELO TRATAMENTO ...................................................................... 11
-    2.1        Definição de responsável pelo tratamento........................................................................... 11
-       2.1.1          «A pessoa singular ou coletiva, a autoridade pública, a agência ou outro organismo»11
-       2.1.2          «Determina».................................................................................................................. 12
-       2.1.3          «Individualmente ou em conjunto com outras»........................................................... 15
-       2.1.4          «Finalidades e meios» ................................................................................................... 16
-       2.1.5          «Do tratamento de dados pessoais»............................................................................. 19
-3      DEFINIÇÃO DE RESPONSÁVEIS CONJUNTOS PELO TRATAMENTO ................................................ 21
-    3.1        Definição de responsáveis conjuntos pelo tratamento ........................................................ 21
-    3.2        Existência de responsabilidade conjunta pelo tratamento................................................... 21
-       3.2.1          Considerações de caráter geral ..................................................................................... 21
-       3.2.2          Avaliação da participação conjunta............................................................................... 22
-       3.2.3          Situações em que não existe responsabilidade conjunta pelo tratamento.................. 27
-4      DEFINIÇÃO DE SUBCONTRATANTE................................................................................................ 29
-5      DEFINIÇÃO DE TERCEIRO/DESTINATÁRIO ..................................................................................... 32
-PARTE II – CONSEQUÊNCIAS DE ATRIBUIR DIFERENTES FUNÇÕES ..................................................... 35
-1      RELAÇÃO ENTRE RESPONSÁVEL PELO TRATAMENTO E SUBCONTRATANTE ................................ 35
-    1.1        Escolha do subcontratante.................................................................................................... 35
-    1.2        Forma do contrato ou outro ato normativo ......................................................................... 36
-    1.3        Conteúdo do contrato ou outro ato normativo .................................................................... 39
-       1.3.1    O subcontratante apenas deve tratar dados com base em instruções documentadas do
-       responsável pelo tratamento [artigo 28.º, n.º 3, alínea a), do RGPD] .......................................... 40
-       1.3.2     O subcontratante tem de assegurar que as pessoas autorizadas a tratar os dados
-       pessoais assumiram um compromisso de confidencialidade ou estão sujeitas a adequadas
-       obrigações legais de confidencialidade [artigo 28.º, n.º 3, alínea b), do RGPD]........................... 42
-       1.3.3     O subcontratante tem de adotar todas as medidas exigidas nos termos do artigo 32.º
-       [artigo 28.º, n.º 3, alínea c), do RGPD].......................................................................................... 42
-       1.3.4    O subcontratante tem de cumprir as condições a que se referem o artigo 28.º, n.os 2 e 4
-       para contratar outro subcontratante [artigo 28.º, n.º 3, alínea d), do RGPD). ............................ 43
-
-Adotadas - Após consulta pública                                                                                                                         6
-
-      1.3.5     O subcontratante tem de prestar assistência ao responsável pelo tratamento para
-      permitir que este cumpra a sua obrigação de dar resposta aos pedidos dos titulares dos dados
-      tendo em vista o exercício dos seus direitos [artigo 28.º, n.º 3, alínea e), do RGPD]. .................. 43
-      1.3.6    O subcontratante tem de prestar assistência no sentido de assegurar o cumprimento
-      das obrigações previstas nos artigos 32.º a 36.º [artigo 28.º, n.º 3, alínea f), do RGPD]............. 44
-      1.3.7     Depois de concluídas as atividades de tratamento, o subcontratante tem de, consoante
-      a escolha do responsável pelo tratamento, apagar ou devolver-lhe todos os dados pessoais e
-      apagar as cópias existentes [artigo 28.º, n.º 3, alínea g), do RGPD]. ........................................... 45
-      1.3.8      O subcontratante deve disponibilizar ao responsável pelo tratamento todas as
-      informações necessárias para demonstrar o cumprimento das obrigações previstas no artigo
-      28.º e permitir e contribuir para a realização de auditorias, inclusive as inspeções, realizadas
-      pelo responsável pelo tratamento ou por outro auditor por este mandatado [artigo 28.º, n.º 3,
-      alínea h), do RGPD]........................................................................................................................ 46
-    1.4      Instruções que violam a legislação em matéria de proteção de dados ................................ 47
-    1.5      Subcontratante que determina as finalidades e os meios do tratamento ........................... 47
-    1.6      Subcontratantes .................................................................................................................... 48
-2     CONSEQUÊNCIAS DA RESPONSABILIDADE CONJUNTA PELO TRATAMENTO................................ 50
-    2.1    Determinar de forma transparente as respetivas responsabilidades dos responsáveis
-    conjuntos pelo tratamento pelo cumprimento das obrigações nos termos do RGPD ..................... 50
-    2.2      A repartição das responsabilidades tem de ser feita por meio de um acordo ..................... 52
-      2.2.1         Formato do acordo........................................................................................................ 52
-      2.2.2         Obrigações em relação aos titulares dos dados............................................................ 53
-    2.3      Obrigações em relação às autoridade de proteção de dados............................................... 55
-
-
-
-
-Adotadas - Após consulta pública                                                                                                                  7
-
-     O Comité Europeu para a Proteção de Dados
-     Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-     seguir designado por «RGPD» ou «o regulamento»),
-
-     Tendo em conta o Acordo EEE e, nomeadamente, o anexo XI e o respetivo Protocolo 37, com a redação
-     que lhe foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 20181,
-
-     Tendo em conta o artigo 12.º e o artigo 22.º do seu Regulamento Interno,
-
-     Considerando que o trabalho preparatório das presentes orientações envolveu a recolha de
-     contributos das partes interessadas, por escrito e num evento destinado às partes interessadas, a fim
-     de identificar os problemas mais prementes;
-
-
-     ADOTOU AS SEGUINTES ORIENTAÇÕES
-
-
-     INTRODUÇÃO
-1.   O presente documento procura fornecer orientações sobre os conceitos de responsável pelo
-     tratamento e subcontratante com base nas regras relativas às definições no artigo 4.º e nas disposições
-     sobre obrigações no capítulo V do RGPD. O objetivo principal é esclarecer o significado dos conceitos
-     e esclarecer as diferentes funções e a repartição de responsabilidades entre estes intervenientes.
-
-2.   O conceito de responsável pelo tratamento e a sua interação com o conceito de subcontratante
-     desempenham um papel crucial na aplicação do RGPD, porquanto determinam quem deve ser
-     responsável pelo cumprimento das diferentes regras de proteção de dados e de que forma os titulares
-     dos dados podem exercer os seus direitos na prática. O RGPD introduz explicitamente o princípio da
-     responsabilidade, ou seja, o responsável pelo tratamento deve ser responsável pelos princípios
-     relativos ao tratamento de dados pessoais previstos no artigo 5.º e ser capaz de demonstrar a
-     conformidade com os mesmos. Além disso, o RGPD também introduz regras mais específicas sobre o
-     recurso a subcontratantes e são abordadas algumas das disposições relativas ao tratamento de dados
-     pessoais - não apenas para responsáveis pelo tratamento - mas também para subcontratantes.
-
-3.   Por conseguinte, é extremamente importante que o significado preciso destes conceitos e os critérios
-     para a sua correta utilização sejam suficientemente claros e partilhados em toda a União Europeia e o
-     EEE.
-
-4.   O Grupo de trabalho do artigo 29.º emitiu orientações sobre os conceitos de responsável pelo
-     tratamento/subcontratante no seu Parecer 1/2010 (WP169)2 com vista a proporcionar
-     esclarecimentos e exemplos concretos respeitantes a estes conceitos. Desde a entrada em vigor do
-     RGPD, foram suscitadas muitas questões relativamente a em que medida o RGPD introduziu alterações
+Relationship between controller and processor
+
+A controller must only use processors providing sufficient guarantees to implement appropriate
+technical and organisational measures so that the processing meets the requirements of the GDPR.
+Elements to be taken into account could be the processor’s expert knowledge (e.g. technical expertise
+with regard to security measures and data breaches); the processor’s reliability; the processor’s
+resources and the processor’s adherence to an approved code of conduct or certification mechanism.
+
+Any processing of personal data by a processor must be governed by a contract or other legal act which
+shall be in writing, including in electronic form, and be binding. The controller and the processor may
+choose to negotiate their own contract including all the compulsory elements or to rely, in whole or in
+part, on standard contractual clauses.
+
+The GDPR lists the elements that have to be set out in the processing agreement. The processing
+agreement should not, however, merely restate the provisions of the GDPR; rather, it should include
+more specific, concrete information as to how the requirements will be met and which level of security
+is required for the personal data processing that is the object of the processing agreement.
+
+Relationship among joint controllers
+
+Joint controllers shall in a transparent manner determine and agree on their respective responsibilities
+for compliance with the obligations under the GDPR. The determination of their respective
+responsibilities must in particular regard the exercise of data subjects’ rights and the duties to provide
+information. In addition to this, the distribution of responsibilities should cover other controller
+obligations such as regarding the general data protection principles, legal basis, security measures,
+data breach notification obligation, data protection impact assessments, the use of processors, third
+country transfers and contacts with data subjects and supervisory authorities.
+
+Each joint controller has the duty to ensure that they have a legal basis for the processing and that the
+data are not further processed in a manner that is incompatible with the purposes for which they were
+originally collected by the controller sharing the data.
+
+The legal form of the arrangement among joint controllers is not specified by the GDPR. For the sake
+of legal certainty, and in order to provide for transparency and accountability, the EDPB recommends
+that such arrangement be made in the form of a binding document such as a contract or other legal
+binding act under EU or Member State law to which the controllers are subject.
+
+The arrangement shall duly reflect the respective roles and relationships of the joint controllers vis-à-
+vis the data subjects and the essence of the arrangement shall be made available to the data subject.
+
+Irrespective of the terms of the arrangement, data subjects may exercise their rights in respect of and
+against each of the joint controllers. Supervisory authorities are not bound by the terms of the
+arrangement whether on the issue of the qualification of the parties as joint controllers or the
+designated contact point.
+
+
+
+
+Adopted - After public consultation                                                                     4
+
+       TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY ...........................................................................................................................3
+INTRODUCTION ......................................................................................................................................7
+PART I – CONCEPTS ................................................................................................................................8
+1      GENERAL OBSERVATIONS...............................................................................................................8
+2      DEFINITION OF CONTROLLER .........................................................................................................9
+    2.1       Definition of controller ...........................................................................................................9
+       2.1.1         “Natural or legal person, public authority, agency or other body” ...............................10
+       2.1.2         “Determines” ................................................................................................................11
+       2.1.3         “Alone or jointly with others” .......................................................................................14
+       2.1.4         “Purposes and means” .................................................................................................14
+       2.1.5         “Of the processing of personal data”............................................................................17
+3      DEFINITION OF JOINT CONTROLLERS ...........................................................................................18
+    3.1       Definition of joint controllers ...............................................................................................18
+    3.2       Existence of joint controllership ...........................................................................................18
+       3.2.1         General considerations .................................................................................................18
+       3.2.2         Assessment of joint participation .................................................................................19
+       3.2.3         Situations where there is no joint controllership..........................................................24
+4      DEFINITION OF PROCESSOR .........................................................................................................25
+5      DEFINITION OF THIRD PARTY/RECIPIENT .....................................................................................28
+PART II – CONSEQUENCES OF ATTRIBUTING DIFFERENT ROLES .........................................................30
+1      RELATIONSHIP BETWEEN CONTROLLER AND PROCESSOR ...........................................................30
+    1.1       Choice of the processor ........................................................................................................30
+    1.2       Form of the contract or other legal act ................................................................................31
+    1.3       Content of the contract or other legal act ............................................................................34
+       1.3.1     The processor must only process data on documented instructions from the controller
+       (Art. 28(3)(a) GDPR)......................................................................................................................35
+       1.3.2    The processor must ensure that persons authorised to process the personal data have
+       committed themselves to confidentiality or are under an appropriate statutory obligation of
+       confidentiality (Art. 28(3)(b) GDPR)..............................................................................................36
+       1.3.3         The processor must take all the measures required pursuant to Article 32 (Art. 28(3)(c)
+       GDPR)         37
+    1.3.4    The processor must respect the conditions referred to in Article 28(2) and 28(4) for
+    engaging another processor (Art. 28(3)(d) GDPR). ...........................................................................37
+
+Adopted - After public consultation                                                                                                               5
+
+    1.3.5     The processor must assist the controller for the fulfilment of its obligation to respond to
+    requests for exercising the data subject's rights (Article 28(3) (e) GDPR). .......................................38
+    1.3.6    The processor must assist the controller in ensuring compliance with the obligations
+    pursuant to Articles 32 to 36 (Art. 28(3)(f) GDPR). ...........................................................................38
+    1.3.7     On termination of the processing activities, the processor must, at the choice of the
+    controller, delete or return all the personal data to the controller and delete existing copies (Art.
+    28(3)(g) GDPR)..................................................................................................................................40
+    1.3.8      The processor must make available to the controller all information necessary to
+    demonstrate compliance with the obligations laid down in Article 28 and allow for and contribute
+    to audits, including inspections, conducted by the controller or another auditor mandated by the
+    controller (Art. 28(3)(h) GDPR). ........................................................................................................40
+    1.4       Instructions infringing data protection law ..........................................................................41
+    1.5       Processor determining purposes and means of processing..................................................42
+    1.6       Sub-processors .....................................................................................................................42
+2      CONSEQUENCES OF JOINT CONTROLLERSHIP ..............................................................................43
+    2.1    Determining in a transparent manner the respective responsibilities of joint controllers for
+    compliance with the obligations under the GDPR ............................................................................43
+    2.2       Allocation of responsibilities needs to be done by way of an arrangement .........................46
+       2.2.1          Form of the arrangement .............................................................................................46
+       2.2.2          Obligations towards data subjects ................................................................................46
+    2.3       Obligations towards data protection authorities..................................................................48
+
+
+
+
+Adopted - After public consultation                                                                                                                 6
+
+     The European Data Protection Board
+     Having regard to Article 70 (1e) of the Regulation 2016/679/EU of the European Parliament and of the
+     Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+     data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter “GDPR”
+     or “the Regulation”),
+
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 1,
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+     Whereas the preparatory work of these guidelines involved the collection of inputs from stakeholders,
+     both in writing and at a stakeholder event, in order to identify the most pressing challenges;
+
+
+     HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+     INTRODUCTION
+1.   This document seeks to provide guidance on the concepts of controller and processor based on the
+     GDPR’s rules on definitions in Article 4 and the provisions on obligations in chapter IV. The main aim is
+     to clarify the meaning of the concepts and to clarify the different roles and the distribution of
+     responsibilities between these actors.
+
+2.   The concept of controller and its interaction with the concept of processor play a crucial role in the
+     application of the GDPR, since they determine who shall be responsible for compliance with different
+     data protection rules, and how data subjects can exercise their rights in practice. The GDPR explicitly
+     introduces the accountability principle, i.e. the controller shall be responsible for, and be able to
+     demonstrate compliance with, the principles relating to processing of personal data in Article 5.
+     Moreover, the GDPR also introduces more specific rules on the use of processor(s) and some of the
+     provisions on personal data processing are addressed - not only to controllers - but also to processors.
+
+3.   It is therefore of paramount importance that the precise meaning of these concepts and the criteria
+     for their correct use are sufficiently clear and shared throughout the European Union and the EEA.
+
+4.   The Article 29 Working Party issued guidance on the concepts of controller/processor in its opinion
+     1/2010 (WP169) 2 in order to provide clarifications and concrete examples with respect to these
+     concepts. Since the entry into force of the GDPR, many questions have been raised regarding to what
+     extent the GDPR brought changes to the concepts of controller and processor and their respective
+     roles. Questions were raised in particular to the substance and implications of the concept of joint
+     controllership (e.g. as laid down in Article 26 GDPR) and to the specific obligations for processors laid
+     down in Chapter IV (e.g. as laid down in Article 28 GDPR). Therefore, and as the EDPB recognizes that
+     the concrete application of the concepts needs further clarification, the EDPB now deems it necessary
 
 
      1
-       As referências a «Estados Membros» no presente documento devem ser entendidas como referências a
-     «Estados-Membros do EEE».
+       References to “Member States” made throughout this document should be understood as references to “EEA
+     Member States”.
      2
-       Grupo de trabalho do artigo 29.º, Parecer 1/2010 sobre os conceitos de «responsável pelo tratamento» e
-     «subcontratante», adotado em 16 de fevereiro de 2010, 264/10/PT, WP 169.
+       Article 29 Working Party Opinion 1/2010 on the concepts of “controller” and “processor” adopted on 16
+     February 2010, 264/10/EN, WP 169.
 
-     Adotadas - Após consulta pública                                                                      8
+     Adopted - After public consultation                                                                    7
 
-     aos conceitos de responsável pelo tratamento e subcontratante e às respetivas funções. Em especial,
-     foram suscitadas questões relativas à substância e às implicações da responsabilidade conjunta pelo
-     tratamento (por exemplo, conforme estabelecida no artigo 26.º do RGPD) e às obrigações específicas
-     aplicáveis aos subcontratantes estabelecidas no capítulo IV (por exemplo, conforme estabelecidas no
-     artigo 28.º do RGPD). Por conseguinte, e dado que o CEPD reconhece que a aplicação concreta dos
-     conceitos requer maior clarificação, o CEPD considera ser agora necessário fornecer orientações mais
-     desenvolvidas e específicas a fim de assegurar uma abordagem coerente e harmonizada em toda a UE
-     e o EEE. As presentes orientações substituem o parecer anterior do Grupo de trabalho do artigo 29.º
-     sobre estes conceitos (WP169).
+      to give more developed and specific guidance in order to ensure a consistent and harmonised
+      approach throughout the EU and the EEA. The present guidelines replace the previous opinion of
+      Working Party 29 on these concepts (WP169).
 
-5.   Na parte I, as presentes orientações debatem as definições dos diferentes conceitos de responsável
-     pelo tratamento, responsáveis conjuntos pelo tratamento, subcontratante e terceiro/destinatário. Na
-     parte II, são facultadas orientações suplementares sobre as consequências que estão associadas às
-     diferentes funções de responsável pelo tratamento, responsáveis conjuntos pelo tratamento e
-     subcontratante.
+5.    In part I, these guidelines discuss the definitions of the different concepts of controller, joint
+      controllers, processor and third party/recipient. In part II, further guidance is provided on the
+      consequences that are attached to the different roles of controller, joint controllers and processor.
 
 
-             PARTE I – CONCEITOS
+              PART I – CONCEPTS
 
-     1 OBSERVAÇÕES GERAIS
-6.   O RGPD, no artigo 5.º, n.º 2, introduz explicitamente o princípio da responsabilidade que significa que:
+      1 GENERAL OBSERVATIONS
+6.    The GDPR, in Article 5(2), explicitly introduces the accountability principle which means that:
 
-            o responsável pelo tratamento é responsável pelo cumprimento dos princípios estabelecidos no
-             artigo 5.º, n.º 1, do RGPD; e que
-            o responsável pelo tratamento tem de poder comprovar o cumprimento dos princípios
-             estabelecidos no artigo 5.º, n.º 1, do RGPD.
+          −   the controller shall be responsible for the compliance with the principles set out in Article 5(1)
+              GDPR; and that
+      −       the controller shall be able to demonstrate compliance with the principles set out in Article 5(1)
+              GDPR.
 
-     Este princípio foi descrito num parecer do Grupo de trabalho do artigo 29.º 3 e não será analisado em
-     pormenor no presente documento.
+      This principle has been described in an opinion by the Article 29 WP 3 and will not be discussed in detail
+      here.
 
-7.   O objetivo de incorporar o princípio da responsabilidade no RGPD e torná-lo um princípio central era
-     o de salientar que os responsáveis pelo tratamento de dados têm de aplicar medidas apropriadas e
-     eficazes e poderem comprovar o cumprimento. 4
+7.    The aim of incorporating the accountability principle into the GDPR and making it a central principle
+      was to emphasize that data controllers must implement appropriate and effective measures and be
+      able to demonstrate compliance. 4
 
-8.   O princípio da responsabilidade foi desenvolvido mais pormenorizadamente no artigo 24.º, que indica
-     que o responsável pelo tratamento aplica as medidas técnicas e organizativas para assegurar e poder
-     comprovar que o tratamento é realizado em conformidade com o RGPD. Essas medidas são revistas e
-     atualizadas consoante as necessidades. O princípio da responsabilidade está também refletido no
-     artigo 28.º, que estabelece as obrigações do responsável pelo tratamento quando contrata um
-     subcontratante.
+8.    The accountability principle has been further elaborated in Article 24, which states that the controller
+      shall implement appropriate technical and organisational measures to ensure and to be able to
+      demonstrate that processing is performed in accordance with the GDPR. Such measures shall be
+      reviewed and updated if necessary. The accountability principle is also reflected in Article 28, which
+      lays down the controller’s obligations when engaging a processor.
 
-9.   O princípio da responsabilidade é diretamente dirigido ao responsável pelo tratamento. Contudo,
-     algumas das regras mais específicas são dirigidas aos responsáveis pelo tratamento e aos
-     subcontratantes, tais como as regras relativas aos poderes das autoridades de controlo contidas no
-     artigo 58.º. Tanto os responsáveis pelo tratamento quanto os subcontratantes podem ser multados
-     em caso de incumprimento das obrigações previstas no RGPD que sejam pertinentes para si e ambos
+9.    The accountability principle is directly addressed to the controller. However, some of the more specific
+      rules are addressed to both controllers and processors, such as the rules on supervisory authorities’
+      powers in Article 58. Both controllers and processors can be fined in case of non-compliance with the
+      obligations of the GDPR that are relevant to them and both are directly accountable towards
+      supervisory authorities by virtue of the obligations to maintain and provide appropriate
+      documentation upon request, co-operate in case of an investigation and abide by administrative
+      orders. At the same time, it should be recalled that processors must always comply with, and act only
+      on, instructions from the controller.
 
-     3
-       Grupo de trabalho do artigo 29.º, Parecer 3/2010 sobre o princípio da responsabilidade, adotado em 13 de
-     julho de 2010, 00062/10/PT, WP 173.
-     4
-       Considerando 74 do RGPD.
+10.   The accountability principle, together with the other, more specific rules on how to comply with the
+      GDPR and the distribution of responsibility, therefore makes it necessary to define the different roles
+      of several actors involved in a personal data processing activity.
 
-     Adotadas - Após consulta pública                                                                        9
 
-      são diretamente responsáveis perante as autoridades de controlo por força das obrigações de
-      conservar e fornecer documentação apropriada mediante pedido, cooperar em caso de uma
-      investigação e cumprir decisões administrativas. Ao mesmo tempo, cumpre recordar que os
-      subcontratantes têm de cumprir e atuar sempre apenas com base nas instruções do responsável pelo
-      tratamento.
 
-10.   O princípio da responsabilidade, juntamente com outras regras mais específicas sobre como cumprir
-      o RGPD e a repartição de responsabilidades, torna, portanto, necessário definir as diferentes funções
-      dos vários intervenientes envolvidos numa atividade de tratamento de dados pessoais.
 
-11.   Uma observação geral respeitante aos conceitos de responsável pelo tratamento e subcontratante no
-      RGPD é a de que não se alteraram comparativamente com a Diretiva 95/56/CE e que, de um modo
-      geral, os critérios para o modo como atribuir as diferentes funções continuam os mesmos.
+      3
+        Article 29 Working Party Opinion 3/2010 on the principle of accountability adopted on 13 July 2010,
+      00062/10/EN WP 173.
+      4
+        Recital 74 GDPR.
 
-12.   Os conceitos de responsável pelo tratamento e subcontratante são conceitos funcionais: visam repartir
-      responsabilidades de acordo com as funções efetivas das partes.5Tal implica que o estatuto jurídico de
-      um interveniente como «responsável pelo tratamento» ou como «subcontratante» deve, em princípio,
-      ser determinado pelas suas atividades efetivas numa situação específica, e não na designação formal
-      de um interveniente como sendo um «responsável pelo tratamento» ou um «subcontratante» (por
-      exemplo, num contrato).6 Tal significa que a repartição de funções deve normalmente resultar de uma
-      análise dos elementos ou das circunstâncias factuais do caso e, portanto, não é negociável.
+      Adopted - After public consultation                                                                     8
 
-13.   Os conceitos de responsável pelo tratamento e subcontratante são também conceitos autónomos no
-      sentido de que, embora fontes jurídicas externas possam ajudar a identificar o responsável pelo
-      tratamento, o conceito deve ser essencialmente interpretado em conformidade com a legislação da
-      UE em matéria de proteção de dados. O conceito de responsável pelo tratamento não deve ser afetado
-      por outros conceitos – por vezes contraditórios ou concorrentes – relacionados com outras áreas
-      jurídicas, como seja, o conceito de criador ou titular do direito no contexto dos direitos de propriedade
-      intelectual ou do direito da concorrência.
+11.   A general observation regarding the concepts of controller and processor in the GDPR is that they have
+      not changed compared to the Directive 95/46/EC and that overall, the criteria for how to attribute the
+      different roles remain the same.
 
-14.   Uma vez que o objetivo subjacente de atribuir uma função de responsável consiste em assegurar a
-      responsabilidade e uma proteção eficaz e ampla dos dados pessoais, o conceito de «responsável pelo
-      tratamento» deve ser interpretado de uma forma suficientemente ampla, favorecendo tanto quanto
-      o possível a proteção eficaz e completa dos titulares dos dados7 de molde a assegurar o pleno efeito
-      da legislação da UE em matéria de proteção de dados, evitar lacunas e impedir um eventual contorno
-      das regras, não diminuindo, simultaneamente, a função do subcontratante.
+12.   The concepts of controller and processor are functional concepts: they aim to allocate responsibilities
+      according to the actual roles of the parties. 5This implies that the legal status of an actor as either a
+      “controller” or a “processor” must in principle be determined by its actual activities in a specific
+      situation, rather than upon the formal designation of an actor as being either a “controller” or
+      “processor” (e.g. in a contract). 6 This means that the allocation of the roles usually should stem from
+      an analysis of the factual elements or circumstances of the case and as such is not negotiable.
 
+13.   The concepts of controller and processor are also autonomous concepts in the sense that, although
+      external legal sources can help identifying who is a controller, it should be interpreted mainly according
+      to EU data protection law. The concept of controller should not be prejudiced by other - sometimes
+      colliding or overlapping - concepts in other fields of law, such as the creator or the right holder in
+      intellectual property rights or competition law.
+
+14.   As the underlying objective of attributing the role of controller is to ensure accountability and the
+      effective and comprehensive protection of the personal data, the concept of ‘controller’ should be
+      interpreted in a sufficiently broad way, favouring as much as possible effective and complete
+      protection of data subjects 7 so as to ensure full effect of EU data protection law, to avoid lacunae and
+      to prevent possible circumvention of the rules, while at the same time not diminishing the role of the
+      processor.
+
+
+      2 DEFINITION OF CONTROLLER
+      2.1 Definition of controller
+
+15.   A controller is defined by Article 4(7) GDPR as
+
+              “the natural or legal person, public authority, agency or other body which, alone or jointly with
+              others, determines the purposes and means of the processing of personal data; where the
+              purposes and means of such processing are determined by Union or Member State law, the
+              controller or the specific criteria for its nomination may be provided for by Union or Member State
+              law”.
+
+16.   The definition of controller contains five main building blocks, which will be analysed separately for
+      the purposes of these Guidelines. They are the following:
+
+             “the natural or legal person, public authority, agency or other body”
 
 
 
       5
-        Grupo de trabalho do artigo 29.º, Parecer 1/2010, WP 169, p. 13.
+        Article 29 Working Party Opinion 1/2010, WP 169, p. 9.
       6
-         Ver também as conclusões do advogado-geral Mengozzi, no processo Testemunhas de Jeová, C-25/17,
-      ECLI:EU:C:2018:57, n.º 68 («Para efeitos da determinação do “responsável pelo tratamento” na aceção da
-      Diretiva 95/46, inclino me para considerar [….] que um formalismo excessivo permitiria contornar facilmente as
-      disposições da Diretiva 95/46 e que, consequentemente, se deve basear numa análise mais factual que formal
-      […].»)
+        See also the Opinion of Advocate General Mengozzi, in Jehovah’s witnesses, C-25/17, ECLI:EU:C:2018:57,
+      paragraph 68 (“For the purposes of determining the ‘controller’ within the meaning of Directive 95/46, I am
+      inclined to consider [….] that excessive formalism would make it easy to circumvent the provisions of Directive
+      95/46 and that, consequently, it is necessary to rely upon a more factual than formal analysis […].”)
       7
-        TJUE, Processo C-131/12, Google Spain SL e Google Inc. contra Agencia Española de Protección de Datos (AEPD)
-      e Mario Costeja González, acórdão de 13 de maio de 2014, n.º 34; TJUE, Processo C-210/16, Wirtschaftsakademie
-      Schleswig-Holstein, acórdão de 5 de junho de 2018, n.º 28; TJUE, Processo C-40/17, Fashion ID GmbH & Co.KG
-      contra Verbraucherzentrale NRW eV, acórdão de 29 de julho de 2019, n.º 66.
+        CJEU, Case C-131/12, Google Spain SL and Google Inc. v Agencia Española de Protección de Datos (AEPD) and
+      Mario Costeja González, judgment of 13 May 2014, paragraph 34; CJEU, Case C-210/16, Wirtschaftsakademie
+      Schleswig-Holstein, judgment of 5 June 2018, paragraph 28; CJEU, Case C-40/17, Fashion ID GmbH & Co.KG v
+      Verbraucherzentrale NRW eV, judgment of 29 July 2019, paragraph 66.
 
-      Adotadas - Após consulta pública                                                                           10
+      Adopted - After public consultation                                                                          9
 
-      2 DEFINIÇÃO DE RESPONSÁVEL PELO TRATAMENTO
-      2.1 Definição de responsável pelo tratamento
+             “determines”
 
-15.   Um responsável pelo tratamento é definido pelo artigo 4.º, ponto 7, do RGPD como
+             “alone or jointly with others”
 
-              «a pessoa singular ou coletiva, a autoridade pública, a agência ou outro organismo que,
-              individualmente ou em conjunto com outras, determina as finalidades e os meios de tratamento
-              de dados pessoais; sempre que as finalidades e os meios desse tratamento sejam determinados
-              pelo direito da União ou de um Estado-Membro, o responsável pelo tratamento ou os critérios
-              específicos aplicáveis à sua nomeação podem ser previstos pelo direito da União ou de um
-              Estado-Membro».
+             “the purposes and means”
 
-16.   A definição de responsável pelo tratamento contém cinco elementos basilares, que serão analisados
-      separadamente para efeitos das presentes orientações. São eles:
+             “of the processing of personal data”.
 
-             «a pessoa singular ou coletiva, a autoridade pública, a agência ou outro organismo»
+      2.1.1 “Natural or legal person, public authority, agency or other body”
+17.   The first building block relates to the type of entity that can be a controller. Under the GDPR, a
+      controller can be “a natural or legal person, public authority, agency or other body”. This means that,
+      in principle, there is no limitation as to the type of entity that may assume the role of a controller. It
+      might be an organisation, but it might also be an individual or a group of individuals. 8 In practice,
+      however, it is usually the organisation as such, and not an individual within the organisation (such as
+      the CEO, an employee or a member of the board), that acts as a controller within the meaning of the
+      GDPR. As far as data processing within a company group is concerned, special attention must be paid
+      to the question of whether an establishment may be acting as a controller or processor, e.g. when
+      processing data on behalf of the parent company.
 
-             «determina»
+18.   Sometimes, companies and public bodies appoint a specific person responsible for the implementation
+      of the processing activity. Even if a specific natural person is appointed to ensure compliance with data
+      protection rules, this person will not be the controller but will act on behalf of the legal entity (company
+      or public body) which will be ultimately responsible in case of infringement of the rules in its capacity
+      as controller. In the same vein, even if a particular department or unit of an organisation has
+      operational responsibility for ensuring compliance for certain processing activity, it does not mean that
+      this department or unit (rather than the organisation as a whole) becomes the controller.
 
-             «individualmente ou em conjunto com outras»
+      Example:
 
-             «as finalidades e os meios»
+      The marketing department of Company ABC launches an advertising campaign to promote ABC’s
+      products. The marketing department decides the nature of campaign, the means to be used (e-mail,
+      social media ...), which customers to target and what data to use in order to make the campaign as
+      successful as possible. Even if the marketing department acted with considerable independence,
+      Company ABC will in principle be considered as the controller seeing as the advertising campaign is
+      launched by the company and takes place within the realm of its business activities and for its
+      purposes.
 
-             «de tratamento de dados pessoais».
+19.   In principle, any processing of personal data by employees which takes place within the realm of
+      activities of an organisation may be presumed to take place under that organisation’s control. 9 In
+      exceptional circumstances, however, it may occur that an employee decides to use personal data for
+      his or her own purposes, thereby unlawfully exceeding the authority that he or she was given. (e.g. to
+      set up his own company or similar). It is therefore the organisation’s duty as controller to make sure
 
-      2.1.1 «A pessoa singular ou coletiva, a autoridade pública, a agência ou outro organismo»
-17.   O primeiro elemento basilar diz respeito ao tipo de entidade que pode ser um responsável pelo
-      tratamento. Nos termos do RGPD, um responsável pelo tratamento pode ser «a pessoa singular ou
-      coletiva, a autoridade pública, a agência ou outro organismo». Tal significa que, em princípio, não
-      existe qualquer restrição quanto ao tipo de entidade que pode assumir a função de responsável pelo
-      tratamento. Poderá ser uma organização, mas também poderá ser uma pessoa singular ou um grupo
-      de pessoas singulares.8 Na prática, porém, normalmente é a própria organização, e não uma pessoa
-      singular no seio da organização (tal como o diretor executivo, um funcionário ou um membro do
-      conselho de administração), que atua como responsável pelo tratamento na aceção do RGPD. No que
-      diz respeito ao tratamento de dados num grupo de empresas, deve prestar-se especial atenção à
-      questão de se um estabelecimento pode estar a agir como responsável pelo tratamento ou
-      subcontratante, por exemplo, ao tratar dados por conta da empresa-mãe.
 
-18.   Por vezes, as empresas e os organismos públicos designam uma pessoa específica responsável pela
-      aplicação da atividade de tratamento. Mesmo que uma pessoa singular específica seja designada para
-      assegurar o cumprimento das regras de proteção de dados, esta pessoa não será o responsável pelo
-      tratamento, mas atuará por conta da entidade jurídica (empresa ou organismo público) que será, em
-      última instância, responsável em caso de violação das regras na sua capacidade de responsável pelo
-      tratamento. Segundo a mesma ordem de ideias, mesmo que um departamento ou unidade específico
-      da organização tenha responsabilidade operacional por assegurar o cumprimento em relação a uma
 
 
       8
-       Por exemplo, no seu acórdão no processo C-25/17,Testemunhas de Jeová, ECLI:EU:C:2018:551, n.º 75, o TJUE
-      considerou que uma comunidade religiosa de testemunhas de Jeová atuou como responsável pelo tratamento,
-      conjuntamente com os seus membros individuais. Acórdão no processo C-25/17, Testemunhas de Jeová,
-      ECLI:EU:C:2018:551, n.º 75.
-
-      Adotadas - Após consulta pública                                                                      11
-
-      certa atividade de tratamento, não significa que este departamento ou unidade (em vez da
-      organização como um todo) passa a ser o responsável pelo tratamento.
-
-      Exemplo:
-
-      O departamento de marketing da empresa ABC lança uma campanha publicitaria para promover os
-      produtos da ABC. O departamento de marketing decide a natureza da campanha, os meios a utilizar
-      (correio eletrónico, redes sociais, etc.), que clientes visar e que dados usar para fazer com que a
-      campanha seja o mais bem-sucedida possível. Ainda que o departamento de marketing tenha agido
-      com considerável independência, a empresa ABC irá, em princípio, ser considerada o responsável pelo
-      tratamento, uma vez que a campanha publicitária é lançada pela empresa e ocorre na esfera das suas
-      atividades comerciais e para as suas finalidades.
-
-19.   Em princípio, pode presumir-se que qualquer tratamento de dados pessoais pelos funcionários que
-      ocorra na esfera de atividades de uma organização é realizado sob o controlo dessa organização.9 Em
-      circunstâncias excecionais, porém, pode dar-se o caso de que um funcionário decide usar os dados
-      pessoais para as suas próprias finalidades, excedendo, assim, ilicitamente as competências que lhe
-      foram atribuídas. (por exemplo, para criar a sua própria empresa ou similar). Por conseguinte, compete
-      à organização enquanto responsável pelo tratamento certificar-se de que existem medidas técnicas e
-      organizativas adequadas, nomeadamente, a título de exemplo, formação e informação destinadas aos
-      funcionários, para assegurar o cumprimento do RGPD. 10
-
-      2.1.2 «Determina»
-20.   O segundo elemento basilar do conceito de responsável pelo tratamento refere-se à influência do
-      responsável pelo tratamento, por força de um exercício de poder decisório. Um responsável pelo
-      tratamento é um órgão que decide certos elementos fundamentais sobre o tratamento. Esta
-      responsabilidade pelo tratamento pode ser definida por lei ou pode resultar de uma análise das
-      circunstâncias ou elementos factuais do caso concreto. Deve analisar-se as operações de tratamento
-      específicas em causa e compreender quem as determina considerando, em primeiro lugar, as
-      seguintes perguntas: «por que razão está a realizar-se este tratamento?» e «quem decidiu que o
-      tratamento deveria ser realizado para uma finalidade específica?».
-
-              Circunstâncias que dão origem a controlo
-
-21.   Tendo sido afirmado que o conceito de responsável pelo tratamento é um conceito funcional, o
-      mesmo baseia-se, portanto, numa análise factual e não formal. A fim de facilitar a análise, pode
-      utilizar-se certas regras básicas e pressupostos práticos para orientar e simplificar o processo. Na
-      maioria das situações é possível identificar de forma clara e fácil o «organismo que determina» por
-      referência a determinadas circunstâncias legais e/ou factuais que indiciam uma «influência», salvo se
-      outros elementos apontarem em sentido contrário. Existem duas categorias de situações que podem
-      ser distinguidas: (1) controlo resultante de disposições jurídicas; e (2) controlo resultante de influência
-      de facto.
-
-          1) Controlo resultante de disposições jurídicas
-
-
-
+        For example, in its Judgment in Jehovah’s witnesses, C-25/17, ECLI:EU:C:2018:551, paragraph 75, the CJEU
+      considered that a religious community of Jehovah’s witnesses acted as a controller, jointly with its individual
+      members. Judgment in Jehovah’s witnesses, C-25/17, ECLI:EU:C:2018:551, paragraph 75.
       9
-         Os funcionários que têm acesso a dados pessoais dentro de uma organização normalmente não são
-      considerados «responsáveis pelo tratamento» ou «subcontratantes», mas antes «pessoas que agem sob a
-      autoridade do responsável pelo tratamento ou do subcontratante» na aceção do artigo 29.º do RGPD.
+        Employees who have access to personal data within an organisation are generally not considered as
+      “controllers” or “processors”, but rather as “persons acting under the authority of the controller or of the
+      processor” within the meaning of article 29 GDPR.
+
+      Adopted - After public consultation                                                                         10
+
+      that there are adequate technical and organizational measures, including e.g. training and information
+      to employees, to ensure compliance with the GDPR. 10
+
+      2.1.2 “Determines”
+20.   The second building block of the controller concept refers to the controller’s influence over the
+      processing, by virtue of an exercise of decision-making power. A controller is a body that decides certain
+      key elements about the processing. This controllership may be defined by law or may stem from an
+      analysis of the factual elements or circumstances of the case. One should look at the specific processing
+      operations in question and understand who determines them, by first considering the following
+      questions: "why is this processing taking place?” and “who decided that the processing should take
+      place for a particular purpose?”.
+
+              Circumstances giving rise to control
+
+21.   Having said that the concept of controller is a functional concept, it is therefore based on a factual
+      rather than a formal analysis. In order to facilitate the analysis, certain rules of thumb and practical
+      presumptions may be used to guide and simplify the process. In most situations, the "determining
+      body" can be easily and clearly identified by reference to certain legal and/or factual circumstances
+      from which “influence” normally can be inferred, unless other elements indicate the contrary. Two
+      categories of situations can be distinguished: (1) control stemming from legal provisions; and (2)
+      control stemming from factual influence.
+
+       1) Control stemming from legal provisions
+
+22.   There are cases where control can be inferred from explicit legal competence e.g., when the controller
+      or the specific criteria for its nomination are designated by national or Union law. Indeed, Article 4(7)
+      states that “where the purposes and means of such processing are determined by Union or Member
+      State law, the controller or the specific criteria for its nomination may be provided for by Union or
+      Member State law.” While Article 4(7) only refers to “the controller” in the singular form, the EDPB
+      considers that it may also be possible for Union or Member State law to designate more than one
+      controller, possibly even as joint controllers.
+
+23.   Where the controller has been specifically identified by law this will be determinative for establishing
+      who is acting as controller. This presupposes that the legislator has designated as controller the entity
+      that has a genuine ability to exercise control. In some countries, the national law provides that public
+      authorities are responsible for processing of personal data within the context of their duties.
+
+24.   However, more commonly, rather than directly appointing the controller or setting out the criteria for
+      its appointment, the law will establish a task or impose a duty on someone to collect and process
+      certain data. In those cases, the purpose of the processing is often determined by the law. The
+      controller will normally be the one designated by law for the realization of this purpose, this public
+      task. For example, this would be the case where an entity which is entrusted with certain public tasks
+      (e.g., social security) which cannot be fulfilled without collecting at least some personal data, sets up
+      a database or register in order to fulfil those public tasks. In that case, the law, albeit indirectly, sets
+      out who is the controller. More generally, the law may also impose an obligation on either public or
+      private entities to retain or provide certain data. These entities would then normally be considered as
+      controllers with respect to the processing that is necessary to execute this obligation.
+
+
+
       10
-         Artigo 24.º, n.º 1, do RGPD.
+           Article 24(1) GDPR.
 
-      Adotadas - Após consulta pública                                                                        12
+      Adopted - After public consultation                                                                      11
 
-22.   Trata-se de casos em que é possível inferir o controlo a partir de competência legal expressa, por
-      exemplo, quando o responsável pelo tratamento ou os critérios específicos para a sua nomeação são
-      indicados pelo direito nacional ou da União. Com efeito, o artigo 4.º, ponto 7, indica que «sempre que
-      as finalidades e os meios desse tratamento sejam determinados pelo direito da União ou de um Estado-
-      Membro, o responsável pelo tratamento ou os critérios específicos aplicáveis à sua nomeação podem
-      ser previstos pelo direito da União ou de um Estado-Membro.» Embora o artigo 4.º, ponto 7, apenas
-      faça referência «ao responsável pelo tratamento» no singular, o CEPD considera que pode também
-      ser possível que o direito da União ou de um Estado-Membro designe mais do que um responsável
-      pelo tratamento, possivelmente até mesmo como responsáveis conjuntos pelo tratamento.
+      Example: Legal provisions
 
-23.   Sempre que o responsável pelo tratamento tenha sido especificamente identificado por lei, tal será
-      determinante para estabelecer quem está a agir como responsável pelo tratamento. Tal pressupõe
-      que o legislador tenha designado como responsável pelo tratamento a entidade que tem uma
-      capacidade genuína para exercer o controlo. Nalguns países, o direito nacional prevê que as
-      autoridades públicas são responsáveis pelo tratamento de dados pessoais no contexto das suas
-      atribuições.
+      The national law in Country A lays down an obligation for municipal authorities to provide social
+      welfare benefits such as monthly payments to citizens depending on their financial situation. In order
+      to carry out these payments, the municipal authority must collect and process data about the
+      applicants’ financial circumstances. Even though the law does not explicitly state that the municipal
+      authorities are controllers for this processing, this follows implicitly from the legal provisions.
 
-24.   Contudo, mais comummente, ao invés de nomear diretamente o responsável pelo tratamento ou de
-      definir os critérios para a sua nomeação, a lei estabelecerá uma tarefa ou imporá a alguém a obrigação
-      de recolher e tratar determinados dados. Nesses casos, a finalidade do tratamento é amiúde
-      determinada pela lei. Normalmente, o responsável pelo tratamento será o designado por lei para a
-      realização desta finalidade, esta tarefa pública. É o que acontece, por exemplo, com uma entidade a
-      quem tenham sido confiadas determinadas tarefas públicas (por exemplo, segurança social) que não
-      podem ser executadas sem a recolha de, pelo menos, alguns dados pessoais, e que cria uma base de
-      dados ou um registo para a execução dessas tarefas públicas. Nesse caso, a lei, embora indiretamente,
-      estabelece quem é o responsável pelo tratamento. Em termos mais gerais, a lei pode impor a entidades
-      públicas ou privadas a obrigação de conservação e fornecimento de determinados dados. Em regra,
-      estas entidades seriam então consideradas responsáveis pelo tratamento necessário para dar
-      cumprimento a esta obrigação.
+      2) Control stemming from factual influence
 
+25.   In the absence of control arising from legal provisions, the qualification of a party as controller must
+      be established on the basis of an assessment of the factual circumstances surrounding the processing.
+      All relevant factual circumstances must be taken into account in order to reach a conclusion as to
+      whether a particular entity exercises a determinative influence with respect to the processing of
+      personal data in question.
 
+26.   The need for factual assessment also means that the role of a controller does not stem from the nature
+      of an entity that is processing data but from its concrete activities in a specific context. In other words,
+      the same entity may act at the same time as controller for certain processing operations and as
+      processor for others, and the qualification as controller or processor has to be assessed with regard to
+      each specific data processing activity.
 
-      Exemplo: Disposições jurídicas
+27.   In practice, certain processing activities can be considered as naturally attached to the role or activities
+      of an entity ultimately entailing responsibilities from a data protection point of view. This can be due
+      to more general legal provisions or an established legal practice in different areas (civil law, commercial
+      law, labor law etc.). In this case, existing traditional roles and professional expertise that normally imply
+      a certain responsibility will help in identifying the controller, for example: an employer in relation to
+      processing personal data about his employees, a publisher processing personal data about its
+      subscribers, or an association processing personal data about its members or contributors. When an
+      entity engages in processing of personal data as part of its interactions with its own employees,
+      customers or members, it will generally be the one who determines the purpose and means around
+      the processing and is therefore acting as a controller within the meaning of the GDPR.
 
-      O direito nacional do país A estabelece uma obrigação de as autoridades municipais proporcionarem
-      prestações sociais tais como pagamentos mensais aos cidadãos, dependendo da sua situação
-      financeira. A fim de realizar esses pagamentos, a autoridade municipal tem de recolher e tratar dados
-      sobre as condições financeiras dos requerentes. Muito embora a lei não indique explicitamente que
-      as autoridades municipais são responsáveis por este tratamento, tal resulta de forma implícita das
-      disposições jurídicas.
+      Example: Law firms
 
-      2) Controlo resultante de influência de facto
-
-25.   Na ausência de controlo decorrente de disposições jurídicas, a qualificação de uma parte como
-      responsável pelo tratamento tem de ser determinada com base numa avaliação das circunstâncias
-      factuais adjacentes ao tratamento. Todas as circunstâncias factuais têm de ser tidas em conta para se
-      chegar a uma conclusão sobre se uma entidade particular exerce uma influência determinante no
-      tocante ao tratamento de dados pessoais em questão.
-
-26.   A necessidade de avaliação factual significa também que a função de um responsável pelo tratamento
-      não resulta da natureza de uma entidade que está a tratar dados, mas das suas atividades concretas
-
-      Adotadas - Após consulta pública                                                                   13
-
-      num contexto específico. Por outras palavras, a mesma entidade pode agir na qualidade de
-      responsável pelo tratamento em relação a determinadas operações de tratamento e,
-      simultaneamente, na qualidade de subcontratante em relação a outras, pelo que a qualificação como
-      responsável pelo tratamento ou como subcontratante tem de ser analisada face a cada atividade de
-      tratamento de dados específica.
-
-27.   Na prática, certas atividades de tratamento podem ser consideradas como naturalmente associadas à
-      função ou às atividades de uma entidade pressupondo, em última análise, responsabilidades de um
-      ponto de vista da proteção de dados. Tal pode dever-se a disposições jurídicas mais gerais ou a
-      jurisprudência assente em diferentes domínios (direito civil, direito comercial, direito do trabalho,
-      etc.). Neste caso, as funções tradicionais existentes e as competências profissionais especializadas que
-      normalmente pressupõem uma certa responsabilidade ajudarão a identificar o responsável pelo
-      tratamento, por exemplo: um empregador em relação ao tratamento de dados pessoais sobre os seus
-      funcionários, um editor que proceda ao tratamento de dados pessoais sobre os seus subscritores, ou
-      uma associação que proceda ao tratamento de dados pessoais sobre os seus sócios ou contribuidores.
-      Quando uma entidade exerça o tratamento de dados pessoais enquanto parte das suas interações com
-      os seus próprios funcionários, clientes ou sócios, será a que normalmente determina a finalidade e os
-      meios adjacentes ao tratamento e, por conseguinte, está a agir na qualidade de responsável pelo
-      tratamento na aceção do RGPD.
-
-      Exemplo: Sociedades de advogados
-
-      A empresa ABC contrata uma sociedade de advogados para a representar num litígio. Para
-      desempenhar esta missão, a sociedade de advogados necessita de tratar dados pessoais relacionados
-      com o processo. Os motivos para o tratamento de dados pessoais são o mandato da sociedade de
-      advogados para representar o cliente em tribunal. Este mandato, porém, não visa especificamente o
-      tratamento de dados pessoais. A sociedade de advogados age com um grau significativo de
-      independência, por exemplo na decisão de que informações usar e como as usar e não existem
-      instruções da empresa cliente respeitantes ao tratamento de dados pessoais. O tratamento que a
-      sociedade de advogados realiza para cumprir a missão de representante legal da empresa está,
-      portanto, associado ao papel funcional da sociedade de advogados, pelo que deve ser considerada
-      responsável pelo tratamento para este tratamento.
+      The company ABC hires a law firm to represent it in a dispute. In order to carry out this task, the law
+      firm needs to process personal data related to the case. The reasons for processing the personal data
+      is the law firm’s mandate to represent the client in court. This mandate however is not specifically
+      targeted to personal data processing. The law firm acts with a significant degree of independence, for
+      example in deciding what information to use and how to use it, and there are no instructions from the
+      client company regarding the personal data processing. The processing that the law firm carries out
+      in order to fulfil the task as legal representative for the company is therefore linked to the functional
+      role of the law firm so that it is to be regarded as controller for this processing.
 
 
-      Exemplo: Operadores de telecomunicações11:
+      Example: Telecom operators11:
 
-      A prestação de um serviço de comunicações eletrónicas, tal como um serviço de correio eletrónico
-      envolve o tratamento de dados pessoais. Normalmente, o prestador desses serviços será considerado
-      um responsável pelo tratamento relativamente ao tratamento de dados pessoais que são necessários
-      para o funcionamento do serviço propriamente dito (por exemplo, tráfego e dados de faturação). Se a
-      única finalidade e função do prestador consiste em possibilitar a transmissão de mensagens de correio
-      eletrónico, o prestador não será considerado o responsável pelo tratamento relativamente aos dados
-      pessoais contidos na própria mensagem. Em regra, o responsável pelo tratamento relativamente a
-      quaisquer dados pessoais contidos no interior da mensagem será a pessoa de quem emana a
-      mensagem, e não o prestador de serviços que propõe o serviço de transmissão.
-
-28.   Em muitos casos, uma avaliação dos termos contratuais entre as diferentes partes envolvidas pode
-      facilitar a determinação de que parte (ou partes) está a agir como responsável pelo tratamento.
 
       11
-        O CEPD considera que este exemplo, anteriormente incluído no considerando 47 da Diretiva 95/46/CE,
-      continua a ser pertinente também nos termos do RGPD.
+         The EDPB considers that this example, previously included in Recital (47) of Directive 95/46/EC, remains
+      relevant also under the GDPR.
 
-      Adotadas - Após consulta pública                                                                     14
+      Adopted - After public consultation                                                                       12
 
-      Mesmo que o contrato seja omisso relativamente a quem é o responsável pelo tratamento, pode
-      conter elementos suficientes para inferir quem exerce um papel decisório no respeitante às finalidades
-      e aos meios do tratamento. Noutros casos, o contrato pode conter uma declaração explícita
-      respeitante à identidade do responsável pelo tratamento. Se não houver motivo para duvidar que as
-      disposições contratuais refletem a realidade, não há razão para não seguir as cláusulas do contrato.
-      No entanto, estas cláusulas nem sempre são decisivas, pois tal iria simplesmente permitir que as partes
-      atribuíssem a responsabilidade da forma que considerassem mais conveniente. Não é possível tornar-
-      se um responsável pelo tratamento ou fugir às obrigações de responsável pelo tratamento
-      simplesmente moldando o contrato de uma certa forma quando as circunstâncias factuais dizem outra
-      coisa.
+      Providing an electronic communications service such as an electronic mail service involves processing
+      of personal data. The provider of such services will normally be considered a controller in respect of
+      the processing of personal data that is necessary for the operation of the service as such (e.g., traffic
+      and billing data). If the sole purpose and role of the provider is to enable the transmission of email
+      messages, the provider will not be considered as the controller in respect of the personal data
+      contained in the message itself. The controller in respect of any personal data contained inside the
+      message will normally be considered to be the person from whom the message originates, rather than
+      the service provider offering the transmission service.
 
-29.   Se uma parte de facto decide por que razão e de que modo os dados pessoais são tratados, essa parte
-      será o responsável pelo tratamento mesmo se o contrato disser que é o subcontratante. De igual
-      modo, não é pelo facto de um contrato comercial utilizar o termo «subcontratante» que uma entidade
-      deve ser considerada um subcontratante da perspetiva da legislação em matéria de proteção de
-      dados12
+28.   In many cases, an assessment of the contractual terms between the different parties involved can
+      facilitate the determination of which party (or parties) is acting as controller. Even if a contract is silent
+      as to who is the controller, it may contain sufficient elements to infer who exercises a decision-making
+      role with respect to the purposes and means of the processing. It may also be that the contract
+      contains an explicit statement as to the identity of the controller. If there is no reason to doubt that
+      this accurately reflects the reality, there is nothing against following the terms of the contract.
+      However, the terms of a contract are not decisive in all circumstances, as this would simply allow
+      parties to allocate responsibility as they see fit. It is not possible either to become a controller or to
+      escape controller obligations simply by shaping the contract in a certain way where the factual
+      circumstances say something else.
 
-30.   Em consonância com a abordagem factual, o termo «determina» significa que a entidade que
-      efetivamente exerce uma influência decisiva sobre as finalidades e os meios do tratamento é o
-      responsável pelo tratamento. Regra geral, um acordo de subcontratação estabelece quem são a parte
-      determinante (responsável pelo tratamento) e a parte encarregada (subcontratante). Mesmo que o
-      subcontratante ofereça um serviço que seja preliminarmente definido de uma forma específica, tem
-      de ser apresentada ao responsável pelo tratamento uma descrição pormenorizada do serviço e este
-      último tem de tomar a decisão final para aprovar ativamente a forma como é realizado o tratamento
-      e pedir alterações se necessário. Além disso, o subcontratante não pode mais tarde alterar os
-      elementos essenciais do tratamento sem a aprovação do responsável pelo tratamento.
+29.   If one party in fact decides why and how personal data are processed that party will be a controller
+      even if a contract says that it is a processor. Similarly, it is not because a commercial contract uses the
+      term “subcontractor” that an entity shall be considered a processor from the perspective of data
+      protection law. 12
 
-      Exemplo: serviço normalizado de armazenamento em nuvem
+30.   In line with the factual approach, the word “determines” means that the entity that actually exerts a
+      decisive influence on the purposes and means of the processing is the controller. Normally, a processor
+      agreement establishes who the determining party (controller) and the instructed party (processor) are.
+      Even if the processor offers a service that is preliminary defined in a specific way, the controller has to
+      be presented with a detailed description of the service and must make the final decision to actively
+      approve the way the processing is carried out and request changes if necessary. Furthermore, the
+      processor cannot at a later stage change the essential elements of the processing without the approval
+      of the controller.
 
-      Um importante prestador de armazenamento em nuvem propõe aos seus clientes a possibilidade de
-      conservar grandes volumes de dados pessoais. O serviço é completamente normalizado, tendo os
-      utilizadores pouca ou nenhuma possibilidade de personalizar o serviço. As cláusulas do contrato são
-      determinadas e redigidas unilateralmente pelo prestador de armazenamento em nuvem, prestado ao
-      cliente sem margem de negociação. A empresa X decide recorrer ao prestador de serviços de
-      computação em nuvem para conservar dados pessoais respeitantes aos seus clientes. A empresa X
-      continuará a ser considerada o responsável pelo tratamento, atendendo à sua decisão de recorrer a
-      este prestador de serviços de computação em nuvem específico com vista ao tratamento de dados
-      pessoais para as suas finalidades. Desde que o prestador de serviços de computação em nuvem não
-      trate os dados pessoais para as suas próprias finalidades e conserve os dados exclusivamente por conta
-      dos seus clientes e em conformidade com instruções, o prestador de serviços será considerado um
-      subcontratante.
+      Example: standardised cloud storage service
 
-      2.1.3 «Individualmente ou em conjunto com outras»
-31.   O artigo 4.º, ponto 7, reconhece que «as finalidades e os meios» do tratamento podem ser
-      determinados por mais do que um interveniente. Afirma que o responsável pelo tratamento é o
+      A large cloud storage provider offers its customers the ability to store large volumes of personal data.
+      The service is completely standardised, with customers having little or no ability to customise the
+      service. The terms of the contract are determined and drawn up unilaterally by the cloud service
+      provider, provided to the customer on a “take it or leave it basis”. Company X decides to make use of
+      the cloud provider to store personal data concerning its customers. Company X will still be considered
+      a controller, given its decision to make use of this particular cloud service provider in order to process
+      personal data for its purposes. Insofar as the cloud service provider does not process the personal data
+      for its own purposes and stores the data solely on behalf of its customers and in accordance with
+      instructions, the service provider will be considered as a processor.
+
+
 
 
       12
-        Ver, por exemplo, Grupo de trabalho do artigo 29.º, Parecer 10/2006 sobre o tratamento de dados pessoais
-      pela Sociedade das Telecomunicações Financeiras Interbancárias no Mundo (Worldwide Interbank Financial
-      Telecommunication - SWIFT), 22 de novembro de 2006, WP128, p. 12.
+        See e.g., Article 29 Data Protection Working Party, Opinion 10/2006 on the processing of personal data by the
+      Society for Worldwide Interbank Financial Telecommunication (SWIFT), 22 November 2006, WP128, p. 11.
 
-      Adotadas - Após consulta pública                                                                       15
+      Adopted - After public consultation                                                                         13
 
-      interveniente que «individualmente ou em conjunto com outr[o]s» determina as finalidades e os
-      meios do tratamento. Tal significa que várias entidades diferentes podem agir como responsáveis pelo
-      tratamento em relação ao mesmo tratamento, estando cada uma delas sujeita às disposições
-      aplicáveis em matéria de proteção de dados. Desta forma, uma organização pode continuar a ser um
-      responsável pelo tratamento mesmo que não tome todas as decisões relativas às finalidades e aos
-      meios. Os critérios aplicáveis à responsabilidade conjunta pelo tratamento e o grau no qual dois ou
-      mais intervenientes exercem conjuntamente o controlo pode assumir diversas formas, conforme
-      clarificado mais adiante.13
+      2.1.3 “Alone or jointly with others”
+31.   Article 4(7) recognizes that the “purposes and means” of the processing might be determined by more
+      than one actor. It states that the controller is the actor who “alone or jointly with others” determines
+      the purposes and means of the processing. This means that several different entities may act as
+      controllers for the same processing, with each of them then being subject to the applicable data
+      protection provisions. Correspondingly, an organisation can still be a controller even if it does not make
+      all the decisions as to purposes and means. The criteria for joint controllership and the extent to which
+      two or more actors jointly exercise control may take different forms, as clarified later on. 13
 
-      2.1.4 «Finalidades e meios»
-32.   O quarto elemento basilar da definição de responsável pelo tratamento prende-se com o objeto da
-      influência do responsável pelo tratamento, nomeadamente «as finalidades e os meios» do
-      tratamento. Representa a parte substantiva do conceito de responsável pelo tratamento: aquilo que
-      uma parte deve determinar para se qualificar como responsável pelo tratamento.
+      2.1.4 “Purposes and means”
+32.   The fourth building block of the controller definition refers to the object of the controller’s influence,
+      namely the “purposes and means” of the processing. It represents the substantive part of the
+      controller concept: what a party should determine in order to qualify as controller.
 
-33.   Os dicionários definem «finalidade» como «um resultado que se pretende alcançar ou que orienta as
-      ações planeadas» e «meios» como «o modo como um resultado é obtido ou um fim é alcançado».
+33.   Dictionaries define “purpose” as “an anticipated outcome that is intended or that guides your planned
+      actions” and “means” as “how a result is obtained or an end is achieved”.
 
-34.   O RGPD estabelece que os dados têm de ser recolhidos para finalidades determinadas, explícitas e
-      legítimas e não podendo ser tratados posteriormente de uma forma incompatível com essas
-      finalidades. A determinação das «finalidades» do tratamento e os «meios» para as alcançar são, por
-      conseguinte, particularmente importantes.
+34.   The GDPR establishes that data must be collected for specified, explicit and legitimate purposes and
+      not further processed in a way incompatible with those purposes. Determination of the "purposes" of
+      the processing and the "means" to achieve them is therefore particularly important.
 
-35.   Determinar as finalidades e os meios trata-se de decidir, respetivamente, o «porquê» e o «como» do
-      tratamento:14 tendo em conta uma operação de tratamento específica, o responsável pelo tratamento
-      é o interveniente que determinou porquê se está a levar a cabo o tratamento (ou seja, «para que fim»;
-      ou «para quê») e como este objetivo deve ser alcançado (ou seja, que meios devem ser utilizados para
-      atingir o objetivo). Uma pessoa singular ou coletiva que exerça essa influência sobre o tratamento de
-      dados pessoais, participa deste modo na determinação das finalidades e dos meios desse tratamento
-      em conformidade com a definição contida no artigo 4.º, ponto 7, do RGPD.15
+35.   Determining the purposes and the means amounts to deciding respectively the "why" and the "how"
+      of the processing: 14 given a particular processing operation, the controller is the actor who has
+      determined why the processing is taking place (i.e., “to what end”; or “what for”) and how this
+      objective shall be reached (i.e. which means shall be employed to attain the objective). A natural or
+      legal person who exerts such influence over the processing of personal data, thereby participates in
+      the determination of the purposes and means of that processing in accordance with the definition in
+      Article 4(7) GDPR. 15
 
-36.   O responsável pelo tratamento tem de decidir a finalidade e os meios do tratamento conforme
-      descrito a seguir. Consequentemente, o responsável pelo tratamento não se pode conformar apenas
-      com a determinação da finalidade. Tem também de tomar decisões sobre os meios do tratamento. Em
-      contrapartida, a parte que age como subcontratante nunca pode determinar a finalidade do
-      tratamento.
+36.   The controller must decide on both purpose and means of the processing as described below. As a
+      result, the controller cannot settle with only determining the purpose. It must also make decisions
+      about the means of the processing. Conversely, the party acting as processor can never determine the
+      purpose of the processing.
 
-37.   Na prática, se um responsável pelo tratamento contratar um subcontratante para realizar o
-      tratamento por sua conta, isso significa, muitas vezes, que o subcontratante deve poder tomar certas
-      decisões próprias sobre como realizar o tratamento. O CEPD reconhece que o subcontratante pode
-      dispor de alguma margem de manobra para poder também tomar algumas decisões em relação ao
-      tratamento. Nesta perspetiva, há a necessidade de facultar orientações sobre que nível de influência
-      sobre o «porquê» e o «como» deve implicar a qualificação de uma entidade enquanto um responsável
-      pelo tratamento e em que medida um subcontratante pode tomar decisões próprias.
+37.   In practice, if a controller engages a processor to carry out the processing on its behalf, it often means
+      that the processor shall be able to make certain decisions of its own on how to carry out the processing.
+      The EDPB recognizes that some margin of manoeuvre may exist for the processor also to be able to
+      make some decisions in relation to the processing. In this perspective, there is a need to provide
+      guidance about which level of influence on the "why" and the "how" should entail the qualification
+      of an entity as a controller and to what extent a processor may make decisions of its own.
 
-
+38.   When one entity clearly determines purposes and means, entrusting another entity with processing
+      activities that amount to the execution of its detailed instructions, the situation is straightforward, and
+      there is no doubt that the second entity should be regarded as a processor, whereas the first entity is
+      the controller.
 
       13
-         Ver parte I, secção 3 («Definição de responsáveis conjuntos pelo tratamento).
+         See Part I, Section 3 (“Definition of joint controllers”).
       14
-          Ver também as Conclusões do advogado-geral Bot no processo C‑210/16, Wirtschaftsakademie,
-      ECLI:EU:C:2017:796, n.º 46.
+          See also the Opinion of Advocate General Bot in Wirtschaftsakademie, C‑210/16, ECLI:EU:C:2017:796,
+      paragraph 46.
       15
-         Acórdão no processo C-25/17, Testemunhas de Jeová, C-25/17, ECLI:EU:C:2018:551, n.º 68.
+         Judgment in Jehovah’s witnesses, C-25/17, ECLI:EU:C:2018:551, paragraph 68.
 
-      Adotadas - Após consulta pública                                                                  16
+      Adopted - After public consultation                                                                     14
 
-38.   Sempre que uma entidade determina claramente finalidades e meios, confiando a outra entidade as
-      atividades de tratamento que equivalem à execução das suas instruções pormenorizadas, a situação é
-      simples e não existem dúvidas de que a segunda entidade deve ser considerada um subcontratante,
-      ao passo que a primeira entidade é o responsável pelo tratamento.
+           Essential vs. non-essential means
 
-          Meios essenciais em oposição a meios não essenciais
+39.   The question is where to draw the line between decisions that are reserved to the controller and
+      decisions that can be left to the discretion of the processor. Decisions on the purpose of the processing
+      are clearly always for the controller to make.
 
-39.   A questão reside em saber onde é que se deve traçar a linha entre decisões que estão reservadas ao
-      responsável pelo tratamento e decisões que podem ser deixadas à discrição do subcontratante. As
-      decisões sobre a finalidade do tratamento são claramente sempre da responsabilidade do responsável
-      pelo tratamento.
+40.   As regards the determination of means, a distinction can be made between essential and non-essential
+      means. “Essential means” are traditionally and inherently reserved to the controller. While non-
+      essential means can also be determined by the processor, essential means are to be determined by
+      the controller. “Essential means” are means that are closely linked to the purpose and the scope of the
+      processing, such as the type of personal data which are processed (“which data shall be processed?”),
+      the duration of the processing (“for how long shall they be processed?”), the categories of recipients
+      (“who shall have access to them?”) and the categories of data subjects (“whose personal data are being
+      processed?”). Together with the purpose of processing, the essential means are also closely linked to
+      the question of whether the processing is lawful, necessary and proportionate. “Non-essential means”
+      concern more practical aspects of implementation, such as the choice for a particular type of hard- or
+      software or the detailed security measures which may be left to the processor to decide on.
 
-40.   No tocante à determinação dos meios, pode fazer-se a distinção entre meios essenciais e não
-      essenciais. Os «meios essenciais» estão tradicional e intrinsecamente reservados ao responsável pelo
-      tratamento. Embora os meios não essenciais possam também ser determinados pelo subcontratante,
-      os meios essenciais têm de ser determinados pelo responsável pelo tratamento. Os «meios essenciais»
-      são meios que estão estreitamente ligados à finalidade e ao âmbito do tratamento, tais como o tipo
-      de dados pessoais que são tratados («que dados devem ser tratados?»), a duração do tratamento
-      («durante quanto tempo devem ser tratados?»), as categorias dos destinatários («quem deve ter
-      acesso aos mesmos») e as categorias dos titulares dos dados («cujos dados pessoais estão a ser
-      tratados»). Juntamente com a finalidade do tratamento, os meios essenciais estão também
-      estreitamente ligados à questão de se o tratamento é lícito, necessário e proporcionado. Os «meios
-      não essenciais» dizem respeito a aspetos mais práticos da execução, tais como a escolha do tipo
-      específico de hardware ou software ou as medidas de segurança pormenorizadas que podem ser
-      decididas pelo subcontratante.
+      Example: Payroll administration
 
-      Exemplo: Processamento dos salários
-
-      O empregador A contrata outra empresa para processar o pagamento dos salários dos seus
-      funcionários. O empregador A dá instruções claras sobre a quem pagar, que montantes, em que data,
-      através de que banco, durante quanto tempo os dados devem ser conservados, que dados devem ser
-      divulgados à autoridade fiscal, etc. Neste caso, o tratamento dos dados é realizado para a finalidade
-      de a empresa A pagar salários aos seus funcionários e o processador dos salários não pode usar os
-      dados para qualquer finalidade própria. A forma como o processador de salários deve realizar o
-      tratamento está na sua essência clara e rigorosamente definida. Todavia, o processador de salários
-      pode decidir sobre certas questões de pormenor adjacentes ao tratamento, tais como que software
-      utilizar, como distribuir acesso no seio da sua própria organização, etc. Tal não altera a sua função de
-      subcontratante, desde que o processador não vá contra ou além das instruções dadas pela empresa
-      A.
+      Employer A hires another company to administer the payment of salaries to its employees. Employer
+      A gives clear instructions on who to pay, what amounts, by what date, by which bank, how long the
+      data shall be stored, what data should be disclosed to the tax authority etc. In this case, the processing
+      of data is carried out for Company A’s purpose to pay salaries to its employees and the payroll
+      administrator may not use the data for any purpose of its own. The way in which the payroll
+      administrator should carry out the processing is in essence clearly and tightly defined. Nevertheless,
+      the payroll administrator may decide on certain detailed matters around the processing such as which
+      software to use, how to distribute access within its own organisation etc. This does not alter its role as
+      processor as long as the administrator does not go against or beyond the instructions given by
+      Company A.
 
 
-      Exemplo: Pagamentos bancários
+      Example: Bank payments
 
-      Enquanto parte das instruções do empregador A, o departamento de processamento dos salários
-      transmite informações ao banco B para que possa realizar o pagamento efetivo aos funcionários do
-      empregador A. Esta atividade inclui o tratamento de dados pessoais pelo banco B, o qual leva a cabo
-      para efeitos de exercício da atividade bancária. Nesta atividade, o banco decide de forma
-      independente do empregador A que dados têm de ser tratados para prestar o serviço, durante quanto
-      tempo os dados têm de ser conservados, etc. O empregador A não pode ter qualquer influência na
-      finalidade e nos meios do tratamento de dados pelo banco B. Por conseguinte, o banco B deve ser
-      considerado um responsável pelo tratamento em relação a este tratamento e a transmissão de dados
-
-      Adotadas - Após consulta pública                                                                     17
-
-      pessoais com origem no departamento de processamento de salários deve ser considerada uma
-      divulgação de informações entre dois responsáveis pelo tratamento, do empregador A para o banco
-      B.
+      As part of the instructions from Employer A, the payroll administration transmits information to Bank
+      B so that they can carry out the actual payment to the employees of Employer A. This activity includes
+      processing of personal data by Bank B which it carries out for the purpose of performing banking
+      activity. Within this activity, the bank decides independently from Employer A on which data that have
+      to be processed to provide the service, for how long the data must be stored etc. Employer A cannot
+      have any influence on the purpose and means of Bank B’s processing of data. Bank B is therefore to be
+      seen as a controller for this processing and the transmission of personal data from the payroll
+      administration is to be regarded as a disclosure of information between two controllers, from
+      Employer A to Bank B.
 
 
-      Exemplo: Contabilistas
+      Example: Accountants
 
-      O empregador A também contrata a empresa de contabilidade C para realizar auditorias à sua
-      contabilidade e, portanto, transfere dados sobre operações financeiras (incluindo dados pessoais) à
-      empresa de contabilidade C. Esta última trata esses dados sem instruções pormenorizadas do
-      empregador A. A empresa de contabilidade C decide ela própria, em conformidade com as disposições
-      jurídicas que regem as tarefas das atividades de auditoria realizadas pela empresa de contabilidade C,
-      que os dados que recolhe apenas serão tratados para a finalidade de auditar o empregador A e
-      determina que dados necessita ter, que categorias de pessoas têm de estar registadas, durante quanto
-      tempo os dados devem ser conservados e que meios técnicos usar. Nestas circunstâncias, a empresa
-      de contabilidade C deve ser considerada um responsável pelo tratamento de moto-próprio quando
-      realiza os seus serviços de auditoria para o empregador A. No entanto, esta avaliação pode ser
-      diferente dependendo do nível de instruções do empregador A. Numa situação em que a lei não
-      estabeleça obrigações específicas para a empresa de auditoria e a empresa cliente faculta instruções
-      muito pormenorizadas sobre o tratamento, a empresa de contabilidade estaria efetivamente a agir
-      como subcontratante. É possível fazer uma distinção entre uma situação em que o tratamento é - em
-      conformidade com a legislação que rege esta profissão - levado a cabo enquanto parte da atividade
-      principal da empresa de contabilidade e em que o tratamento corresponde a uma tarefa mais limitada,
-      acessória, que é realizada enquanto parte da atividade da empresa cliente.
+      Employer A also hires Accounting firm C to carry out audits of their bookkeeping and therefore
+      transfers data about financial transactions (including personal data) to C. Accounting firm C processes
+      these data without detailed instructions from A. Accounting firm C decides itself, in accordance with
+      legal provisions regulating the tasks of the auditing activities carried out by C, that the data it collects
 
 
-      Exemplo: Serviços de alojamento virtual
+      Adopted - After public consultation                                                                      15
 
-      O empregador A contrata o serviço de alojamento virtual H para conservar dados encriptados nos
-      servidores do serviço H. O serviço de alojamento virtual H não determina se os dados que aloja são
-      dados pessoais, assim como não trata dados de uma forma diferente da respetiva conservação nos
-      seus servidores. Dado que a conservação é um exemplo de uma atividade de tratamento de dados
-      pessoais, o serviço de alojamento virtual H está a tratar dados pessoais por conta do empregador A e,
-      portanto, é um subcontratante. O empregador A deve facultar as instruções necessárias ao serviço de
-      alojamento virtual H e deve ser celebrado um acordo de tratamento de dados em conformidade com
-      o artigo 28.º, exigindo que o serviço de alojamento virtual H aplique as medidas de segurança técnicas
-      e organizativas. O serviço de alojamento virtual H deve prestar assistência ao empregador A no sentido
-      de garantir que são adotadas as medidas de segurança necessárias e notificá-lo em caso de qualquer
-      violação de dados pessoais.
+      will only be processed for the purpose of auditing A and it determines what data it needs to have,
+      which categories of persons that need to be registered, how long the data shall be kept and what
+      technical means to use. Under these circumstances, Accounting firm C is to be regarded as a controller
+      of its own when performing its auditing services for A. However, this assessment may be different
+      depending on the level of instructions from A. In a situation where the law does not lay down specific
+      obligations for the accounting firm and the client company provides very detailed instructions on the
+      processing, the accounting firm would indeed be acting as a processor. A distinction could be made
+      between a situation where the processing is - in accordance with the laws regulating this profession -
+      done as part of the accounting firm’s core activity and where the processing is a more limited, ancillary
+      task that is carried out as part of the client company’s activity.
 
-41.   Apesar de decisões relativas a meios não essenciais poderem ser deixadas para o subcontratante, o
-      responsável pelo tratamento deve, ainda assim, estipular certos elementos no acordo de
-      subcontratação, tais como - em relação ao requisito de segurança, por exemplo, uma instrução para
-      adotar todas as medidas necessárias nos termos do artigo 32.º do RGPD. O acordo tem de indicar
-      também que o subcontratante deve prestar assistência ao responsável pelo tratamento no sentido de
-      assegurar o cumprimento, por exemplo, do artigo 32.º. Em qualquer caso, o responsável pelo
-      tratamento continua a ser responsável pela aplicação das medidas técnicas e organizativas apropriadas
-      com vista a assegurar e poder demonstrar que o tratamento é realizado em conformidade com o
-      regulamento (artigo 24.º). Ao fazê-lo, o responsável pelo tratamento tem de ter em conta a natureza,
-      o âmbito, o contexto e as finalidades do tratamento, bem como os riscos para os direitos e as
 
-      Adotadas - Após consulta pública                                                                   18
+      Example: Hosting services
 
-      liberdades das pessoas singulares. Por esta razão, o responsável pelo tratamento tem de ser
-      plenamente informado sobre os meios utilizados para que possa tomar uma decisão informada a este
-      respeito. A fim de que o responsável pelo tratamento possa demonstrar a licitude do tratamento, é
-      aconselhável documentar no nível mínimo necessário medidas técnicas e organizativas no contrato ou
-      noutro instrumento juridicamente vinculativo entre o responsável pelo tratamento e o
-      subcontratante.
+      Employer A hires hosting service H to store encrypted data on H’s servers. The hosting service H does
+      not determine whether the data it hosts are personal data nor does it process data in any other way
+      than storing it on its servers. As storage is one example of a personal data processing activity, the
+      hosting service H is processing personal data on employer A’s behalf and is therefore a processor.
+      Employer A must provide the necessary instructions to H and a data processing agreement according
+      to Article 28 must be concluded, requiring H to implement technical and organisational security
+      measures. H must assist A in ensuring that the necessary security measures are taken and notify it in
+      case of any personal data breach.
 
-      Exemplo: Centro de chamadas
+41.   Even though decisions on non-essential means can be left to the processor, the controller must still
+      stipulate certain elements in the processor agreement, such as – in relation to the security
+      requirement, e.g. an instruction to take all measures required pursuant to Article 32 of the GDPR. The
+      agreement must also state that the processor shall assist the controller in ensuring compliance with,
+      for example, Article 32. In any event, the controller remains responsible for the implementation of
+      appropriate technical and organisational measures to ensure and be able to demonstrate that the
+      processing is performed in accordance with the Regulation (Article 24). In doing so, the controller must
+      take into account the nature, scope, context and purposes of the processing as well as the risks for
+      rights and freedoms of natural persons. For this reason, the controller must be fully informed about
+      the means that are used so that it can take an informed decision in this regard. In order for the
+      controller to be able to demonstrate the lawfulness of the processing, it is advisable to document at
+      the minimum necessary technical and organisational measures in the contract or other legally binding
+      instrument between the controller and the processor.
 
-      A empresa X decide externalizar uma parte do seu serviço de relação comercial pós-venda a um centro
-      de chamadas. O centro de chamadas recebe dados identificáveis sobre compras dos clientes, bem
-      como informações de contacto. O centro de chamadas utiliza o seu próprio software e infraestrutura
-      informática para gerir os dados pessoais respeitantes aos clientes da empresa X. A empresa X assina
-      um acordo de subcontratação com o prestador do centro de chamadas em conformidade com o artigo
-      28.º do RGPD, após determinar que as medidas técnicas e organizativas propostas pelo centro de
-      chamadas são apropriadas para os riscos em causa e que o centro de chamadas apenas tratará os
-      dados pessoais para as finalidades da empresa X e em conformidade com as suas instruções. A
-      empresa X não faculta outras instruções ao centro de chamadas relativamente a software específico a
-      ser utilizado, nem quaisquer instruções pormenorizadas respeitantes a medidas de segurança
-      específicas a aplicar. Neste exemplo, a empresa X continua a ser o responsável pelo tratamento, não
-      obstante o facto de o centro de chamadas ter determinado certos meios não essenciais do tratamento.
+      Example: Call centre
 
-      2.1.5 «Do tratamento de dados pessoais»
-42.   As finalidades e os meios determinados pelo responsável pelo tratamento têm de dizer respeito ao
-      «tratamento de dados pessoais». O artigo 4.º, ponto 2, do RGPD define o tratamento de dados
-      pessoais como «uma operação ou um conjunto de operações efetuadas sobre dados pessoais ou sobre
-      conjuntos de dados pessoais». Consequentemente, o conceito de responsável pelo tratamento pode
-      estar ligado a uma operação única de tratamento ou a um conjunto de operações. Na prática, tal pode
-      significar que o controlo exercido por uma entidade específica pode estender-se à integralidade do
-      tratamento em questão, mas pode também estar limitado a uma etapa específica no tratamento.16
+      Company X decides to outsource a part of its customer service relations to a call centre. The call centre
+      receives identifiable data about customer purchases, as well contact information. The call centre uses
+      its own software and IT infrastructure to manage the personal data concerning Company X’s
+      customers. Company X signs a processor agreement with the provider of the call centre in accordance
+      with Article 28 GDPR, after determining that the technical and organisational security measures
+      proposed by the call centre are appropriate for the risks concerned and that the call centre will only
+      process the personal data for the purposes of Company X and in accordance with its instructions.
+      Company X does not provide any further instructions to the call centre as to specific software to be
+      used nor any detailed instructions regarding the specific security measures to be implemented. In this
+      example, Company X remains a controller, despite the fact that the call centre has determined certain
+      non-essential means of the processing.
 
-43.   Na prática, o tratamento de dados pessoais que envolva diversos intervenientes pode ser dividido em
-      várias operações de tratamento mais pequenas relativamente às quais cada interveniente poderá ser
-      considerado determinar individualmente a finalidade e os meios. Por outro lado, uma sequência ou
-      conjunto de operações de tratamento que envolva vários intervenientes pode também ocorrer para
-      a(s) mesma(s) finalidade(s), caso no qual é possível que o tratamento envolva um ou mais responsáveis
-      conjuntos pelo tratamento. Dito de outra forma, é possível que, numa perspetiva isolada, as diferentes
-      operações de tratamento da cadeia pareçam ser independentes umas das outras, dado que cada uma
-      poderá ter uma finalidade específica. No entanto, é necessário confirmar se, numa perspetiva global,
-      estas operações de tratamento não deverão ser consideradas como um «conjunto de operações» que
-      prosseguem uma finalidade comum ou utilizam meios definidos em conjunto.
+      Adopted - After public consultation                                                                   16
+
+      2.1.5 “Of the processing of personal data”
+42.   The purposes and means determined by the controller must relate to the “processing of personal
+      data”. Article 4(2) GDPR defines the processing of personal data as “any operation or set of operations
+      which is performed on personal data or on sets of personal data”. As a result, the concept of a controller
+      can be linked either to a single processing operation or to a set of operations. In practice, this may
+      mean that the control exercised by a particular entity may extend to the entirety of processing at issue
+      but may also be limited to a particular stage in the processing. 16
+
+43.   In practice, the processing of personal data involving several actors may be divided into several smaller
+      processing operations for which each actor could be considered to determine the purpose and means
+      individually. On the other hand, a sequence or set of processing operations involving several actors
+      may also take place for the same purpose(s), in which case it is possible that the processing involves
+      one or more joint controllers. In other words, it is possible that at “micro-level” the different processing
+      operations of the chain appear as disconnected, as each of them may have a different purpose.
+      However, it is necessary to double check whether at “macro-level” these processing operations should
+      not be considered as a “set of operations” pursuing a joint purpose using jointly defined means.
+
+44.   Anyone who decides to process data must consider whether this includes personal data and, if so,
+      what the obligations are according to the GDPR. An actor will be considered a “controller” even if it
+      does not deliberately target personal data as such or has wrongfully assessed that it does not process
+      personal data.
+
+45.   It is not necessary that the controller actually has access to the data that is being processed. 17 Someone
+      who outsources a processing activity and in doing so, has a determinative influence on the purpose
+      and (essential) means of the processing (e.g. by adjusting parameters of a service in such a way that it
+      influences whose personal data shall be processed), is to be regarded as controller even though he or
+      she will never have actual access to the data.
+
+      Example: Market research 1
+
+      Company ABC wishes to understand which types of consumers are most likely to be interested in its
+      products and contracts a service provider, XYZ, to obtain the relevant information.
+
+      Company ABC instructs XYZ on what type of information it is interested in and provides a list of
+      questions to be asked to those participating in the market research.
+
+      Company ABC receives only statistical information (e.g., identifying consumer trends per region) from
+      XYZ and does not have access to the personal data itself. Nevertheless, Company ABC decided that the
+      processing should take place, the processing is carried out for its purpose and its activity and it has
+      provided XYZ with detailed instructions on what information to collect. Company ABC is therefore still
+      to be considered a controller with respect of the processing of personal data that takes place in order
+      to deliver the information it has requested. XYZ may only process the data for the purpose given by
+      Company ABC and according to its detailed instructions and is therefore to be regarded as processor.
 
 
       16
-        Acórdão no processo C-40/17, Fashion ID, ECLI:EU:C:2019:629, n.º 74: «Daqui decorre, como salientou [...] o
-      advogado geral [...-] que uma pessoa singular ou coletiva apenas parece poder ser responsável, na aceção do
-      artigo 2.º, alínea d), da Diretiva 95/46, conjuntamente com outras, pelas operações de tratamento de dados
-      pessoais cujas finalidades e meios sejam conjuntamente determinados por essa pessoa. Em contrapartida [...]
-      essa pessoa singular ou coletiva não pode ser considerada responsável, na aceção da referida disposição, por
-      operações anteriores ou posteriores da cadeia de tratamento cujas finalidades e meios não são por ela
-      determinados».
-
-      Adotadas - Após consulta pública                                                                          19
-
-44.   Qualquer pessoa que decida proceder ao tratamento de dados tem de considerar se tal inclui dados
-      pessoais e, em caso afirmativo, quais são as obrigações de acordo com o RGPD. Um interveniente será
-      considerado um «responsável pelo tratamento» mesmo que não vise deliberadamente dados pessoais
-      enquanto tal ou tenha avaliado incorretamente que não trata dados pessoais.
-
-45.   Não é necessário que o responsável pelo tratamento tenha efetivamente acesso aos dados que estão
-      a ser tratados.17 Alguém que externalize uma atividade de tratamento e ao fazê-lo, tenha uma
-      influência determinante na finalidade e nos meios (essenciais) do tratamento (por exemplo, ajustando
-      parâmetros de um serviço de tal forma que influencia de quem serão os dados pessoais a tratar), deve
-      ser considerado responsável pelo tratamento ainda que nunca vá ter acesso efetivo aos dados.
-
-      Exemplo: Estudo de mercado 1
-
-      A empresa ABC pretende perceber que tipos de consumidores são mais suscetíveis de estar
-      interessados nos seus produtos e contrata um prestador de serviços, XYZ, para obter as informações
-      pertinentes.
-
-      A empresa ABC instrui o prestador XYZ sobre o tipo de informações em que está interessada e faculta
-      uma lista de perguntas a serem feitas aos participantes do estudo de mercado.
-
-      A empresa ABC recebe apenas informações estatísticas (por exemplo, identificando tendências dos
-      consumidores por região) do prestador XYZ e não tem ela própria acesso a dados pessoais. Contudo,
-      a empresa ABC decidiu que o tratamento deveria ocorrer, o tratamento é realizado para a sua
-      finalidade e a sua atividade e forneceu ao prestador XYZ instruções pormenorizadas sobre que
-      informações recolher. Por conseguinte, a empresa ABC continua a dever ser considerada um
-      responsável pelo tratamento relativamente ao tratamento de dados pessoais que é levado a cabo para
-      fornecer as informações que solicitou. O prestador XYZ apenas trata dados para a finalidade estipulada
-      pela empresa ABC e de acordo com as suas instruções pormenorizadas, pelo que deve ser considerado
-      um subcontratante.
-
-
-
-      Exemplo: Estudo de mercado 2
-
-      A empresa ABC pretende perceber que tipos de consumidores são mais suscetíveis de estar
-      interessados nos seus produtos. O prestador de serviços XYZ é uma agência de estudos de mercado
-      que recolheu informações sobre os interesses dos consumidores através de vários questionários que
-      pertencem a um vasto leque de produtos e serviços. O prestador de serviços XYZ recolheu e analisou
-      estes dados de forma independente, de acordo com a sua própria metodologia sem receber instruções
-      da empresa ABC. Para responder ao pedido da empresa ABC, o prestador de serviços XYZ gerará
-      informações estatísticas, mas fá-lo sem receber quaisquer instruções sobre que dados pessoais devem
-      ser tratados ou como tratá-los para gerar essas estatísticas. Neste exemplo, o prestador de serviços
-      XYZ atua como o único responsável pelo tratamento, procedendo ao tratamento de dados pessoais
-      para fins de estudo de mercado, determinando autonomamente os meios para o fazer. A empresa ABC
-      não tem qualquer papel ou responsabilidade particular nos termos da legislação em matéria de
-      proteção de dados relativamente a essas atividades de tratamento, uma vez que a empresa ABC
-      recebe estatísticas anonimizadas e não está envolvida na determinação das finalidades e dos meios do
-      tratamento.
-
-
-
+         Judgment in Fashion ID, C‑40/17, ECLI:EU:C:2019:629, paragraph 74: “(A)s the Advocate General noted, [...-] it
+      appears that a natural or legal person may be a controller, within the meaning of Article 2(d) of Directive 95/46,
+      jointly with others only in respect of operations involving the processing of personal data for which it determines
+      jointly the purposes and means. By contrast, [...] that natural or legal person cannot be considered to be a
+      controller, within the meaning of that provision, in the context of operations that precede or are subsequent in
+      the overall chain of processing for which that person does not determine either the purposes or the means”.
       17
-           Acórdão no processo C-201/16, Wirtschaftsakademie, ECLI:EU:C:2018:388, n.º 38.
+         Judgment in Wirtschaftsakademie Schleswig-Holstein GmbH, C-210/16, ECLI :EU :C :2018 :388, paragraph 38.
 
-      Adotadas - Após consulta pública                                                                   20
+      Adopted - After public consultation                                                                             17
 
-      3 DEFINIÇÃO DE RESPONSÁVEIS CONJUNTOS PELO TRATAMENTO
-      3.1 Definição de responsáveis conjuntos pelo tratamento
+      Example: Market research 2
 
-46.   A qualificação como responsáveis conjuntos pelo tratamento pode surgir quando mais do que um
-      interveniente estão envolvidos no tratamento.
+      Company ABC wishes to understand which types of consumers are most likely to be interested in its
+      products. Service provider XYZ is a market research agency which has collected information about
+      consumer interests through a variety of questionnaires which pertain to a wide variety of products and
+      services. Service provider XYZ has collected and analysed this data independently, according to its own
+      methodology without receiving any instructions from Company ABC. To answer Company ABC’s
+      request, service provider XYZ will generate statistical information, but does so without receiving any
+      further instructions about which personal data should be processed or how to process it in order to
+      generate these statistics. In this example, service provider XYZ acts as the sole controller, processing
+      personal data for market research purposes, autonomously determining the means for doing so.
+      Company ABC does not have any particular role or responsibility under data protection law in relation
+      to these processing activities, as Company ABC receives anonymised statistics and is not involved in
+      determining the purposes and means of the processing.
 
-47.   Embora o conceito não seja novo e já existisse no âmbito da Diretiva 95/46/CE, o RGPD, no seu artigo
-      26.º, introduz regras específicas para responsáveis conjuntos pelo tratamento e estabelece um quadro
-      para reger a sua relação. Além disso, o Tribunal de Justiça da União Europeia (TJUE) em acórdãos
-      recentes introduziu esclarecimentos sobre este conceito e as respetivas implicações.18
 
-48.   Tal como descrito em maior pormenor na parte II, secção 2, a qualificação de responsáveis conjuntos
-      pelo tratamento terá sobretudo consequências em termos de repartição de obrigações para
-      cumprimento das regras de proteção de dados e em especial no que diz respeito aos direitos das
-      pessoas singulares.
+      3 DEFINITION OF JOINT CONTROLLERS
+      3.1 Definition of joint controllers
 
-49.   Nesta perspetiva, a secção que se segue visa fornecer orientações sobre o conceito de responsáveis
-      conjuntos pelo tratamento em conformidade com o RGPD e a jurisprudência do TJUE para ajudar as
-      entidades a determinarem se podem estar a agir como responsáveis conjuntos pelo tratamento e a
-      aplicarem o conceito na prática.
+46.   The qualification as joint controllers may arise where more than one actor is involved in the processing.
 
-      3.2 Existência de responsabilidade conjunta pelo tratamento
+47.   While the concept is not new and already existed under Directive 95/46/EC, the GDPR, in its Article 26,
+      introduces specific rules for joint controllers and sets a framework to govern their relationship. In
+      addition, the Court of Justice of the European Union (CJEU) in recent rulings has brought clarifications
+      on this concept and its implications. 18
 
-      3.2.1 Considerações de caráter geral
-50.   A definição de responsável pelo tratamento no artigo 4.º, ponto 7, do RGPD constitui o ponto de
-      partida para determinar a responsabilidade conjunta pelo tratamento. Assim, as considerações nesta
-      secção estão diretamente relacionadas e complementam as considerações que figuram na secção
-      sobre o conceito de responsável pelo tratamento. Consequentemente, a avaliação da responsabilidade
-      conjunta pelo tratamento deve refletir a avaliação de controlo «único» desenvolvida acima.
+48.   As further elaborated in Part II, section 2, the qualification of joint controllers will mainly have
+      consequences in terms of allocation of obligations for compliance with data protection rules and in
+      particular with respect to the rights of individuals.
 
-51.   O artigo 26.º do RGPD, que reflete a definição contida no artigo 4.º, ponto 7, do RGPD, prevê que
-      «[q]uando dois ou mais responsáveis pelo tratamento determinem conjuntamente as finalidades e os
-      meios desse tratamento, ambos são responsáveis conjuntos pelo tratamento.» Em termos gerais, a
-      responsabilidade conjunta pelo tratamento existe em relação a uma atividade de tratamento
-      específica quando diferentes partes determinam conjuntamente a finalidade e os meios dessa
-      atividade de tratamento. Por conseguinte, a avaliação da existência de responsáveis conjuntos pelo
-      tratamento requer que se examine se a determinação das finalidades e dos meios que caracterizam
-      um responsável pelo tratamento é decidida por mais do que uma parte. O termo «conjuntamente»
-      deve ser interpretado como em conjunto com» ou «não individualmente», em diferentes formas e
-      combinações, conforme explicado a seguir.
+49.   In this perspective, the following section aims to provide guidance on the concept of joint controllers
+      in accordance with the GDPR and the CJEU case law to assist entities in determining where they may
+      be acting as joint controllers and applying the concept in practice.
 
-52.   A avaliação da responsabilidade conjunta pelo tratamento deve ser realizada com base numa análise
-      factual e não formal, da influência efetiva sobre as finalidades e os meios do tratamento. Todos os
+      3.2 Existence of joint controllership
+
+      3.2.1 General considerations
+50.   The definition of a controller in Article 4 (7) GDPR forms the starting point for determining joint
+      controllership. The considerations in this section are thus directly related to and supplement the
+
+
 
       18
-           Ver, nomeadamente, Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein v
-      Wirtschaftsakademie, (C-210/16), Tietosuojavaltuutettu v Jehovan todistajat — uskonnollinen yhdyskunta (C-
-      25/17), Fashion ID GmbH & Co. KG v Verbraucherzentrale NRW eV (C-40/17). De salientar que, embora estes
-      acórdãos tenham sido proferidos pelo TJUE sobre a interpretação do conceito de responsáveis conjuntos pelo
-      tratamento no âmbito da Diretiva 95/46/CE, mantêm-se válidos no contexto do RGPD, dado que os elementos
-      que determinam este conceito no âmbito do RGPD continuam a ser os mesmos que no âmbito da diretiva.
+        See in particular, Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein v Wirtschaftsakademie, (C-
+      210/16), Tietosuojavaltuutettu v Jehovan todistajat — uskonnollinen yhdyskunta (C-25/17), Fashion ID GmbH &
+      Co. KG v Verbraucherzentrale NRW eV (C-40/17). To be noted that while these judgments were issued by the
+      CJEU on the interpretation of the concept of joint controllers under Directive 95/46/CE, they remain valid in the
+      context of the GDPR, given that the elements determining this concept under the GDPR remain the same as
+      under the Directive.
 
-      Adotadas - Após consulta pública                                                                       21
 
-      contratos existentes ou previstos devem ser verificados à luz das circunstâncias factuais relativas à
-      relação entre as partes. Um mero critério formal não seria suficiente por, pelo menos, duas razões:
-      nalguns casos, a nomeação formal de um responsável conjunto pelo tratamento - estabelecida, por
-      exemplo, por lei ou num contrato - estaria ausente; noutros casos, é possível que a nomeação formal
-      não reflita a realidade dos acordos, confiando formalmente a função de responsável pelo tratamento
-      a uma entidade que na verdade não está em posição de «determinar» as finalidades e os meios do
-      tratamento.
+      Adopted - After public consultation                                                                           18
 
-53.   Nem todo o tratamento que envolva diversas entidades implica responsabilidade conjunta pelo
-      tratamento. O critério global para que a responsabilidade conjunta pelo tratamento exista é a
-      participação conjunta de duas ou mais entidades na determinação das finalidades e dos meios de
-      um de tratamento. Mais concretamente, a participação conjunta tem de incluir, por um lado, a
-      determinação das finalidades e, por outro, a determinação dos meios. Se cada um destes elementos
-      for determinado por todas as entidades em causa, devem ser consideradas responsáveis conjuntos
-      pelo tratamento em questão.
+      considerations in the section on the concept of controller. As a consequence, the assessment of joint
+      controllership should mirror the assessment of "single" control developed above.
 
-      3.2.2 Avaliação da participação conjunta
-54.   A participação conjunta na determinação das finalidades e dos meios implica que mais do que uma
-      entidade tenha uma influência decisiva sobre se e como o tratamento ocorre. Na prática, a
-      participação conjunta pode assumir diversas formas distintas. Por exemplo, a participação conjunta
-      pode assumir a forma de uma decisão comum tomada por duas ou mais entidades ou resultar de
-      decisões convergentes de duas ou mais entidades respeitantes às finalidades e aos meios essenciais.
+51.   Article 26 GDPR, which reflects the definition in Article 4 (7) GDPR, provides that “[w]here two or more
+      controllers jointly determine the purposes and means of processing, they shall be joint controllers.” In
+      broad terms, joint controllership exists with regard to a specific processing activity when different
+      parties determine jointly the purpose and means of this processing activity. Therefore, assessing the
+      existence of joint controllers requires examining whether the determination of purposes and means
+      that characterize a controller are decided by more than one party. “Jointly” must be interpreted as
+      meaning “together with” or “not alone”, in different forms and combinations, as explained below.
 
-55.   A participação conjunta através de uma decisão comum significa decidir em conjunto e envolve uma
-      intenção comum de acordo com a aceção mais comum do termo «conjuntamente» referido no artigo
-      26.º do RGPD.
+52.   The assessment of joint controllership should be carried out on a factual, rather than a formal, analysis
+      of the actual influence on the purposes and means of the processing. All existing or envisaged
+      arrangements should be checked against the factual circumstances regarding the relationship between
+      the parties. A merely formal criterion would not be sufficient for at least two reasons: in some cases,
+      the formal appointment of a joint controller - laid down for example by law or in a contract - would be
+      absent; in other cases, it may be that the formal appointment does not reflect the reality of the
+      arrangements, by formally entrusting the role of controller to an entity which actually is not in the
+      position to "determine" the purposes and means of the processing.
 
-      A situação de participação conjunta através de decisões convergentes resulta mais concretamente da
-      jurisprudência do TJUE sobre o conceito de responsáveis conjuntos pelo tratamento. As decisões
-      podem ser consideradas convergentes em relação às finalidades e aos meios se forem
-      complementares e forem necessárias para que o tratamento se realize de tal modo que têm um
-      impacto tangível na determinação das finalidades e dos meios do tratamento. Cumpre salientar que
-      a noção de decisões convergentes tem de ser considerada em relação às finalidades e aos meios do
-      tratamento, mas não em relação a outros aspetos da relação comercial entre as partes.19 Assim, um
-      critério importante para identificar decisões convergentes neste contexto é o facto de se o tratamento
-      não seria possível sem a participação de ambas as partes nas finalidades e nos meios no sentido de
-      que o tratamento por cada uma das partes é indissociável, ou seja, intrinsecamente ligado. A
-      situação em que responsáveis conjuntos pelo tratamento agem com base em decisões convergentes
-      deve, porém, distinguir-se do caso de um subcontratante, uma vez que este último - embora
-      participando na execução de um tratamento - não trata os dados para as suas próprias finalidades,
-      mas realiza o tratamento por conta do responsável pelo tratamento.
+53.   Not all processing involving several entities give rise to joint controllership. The overarching criterion
+      for joint controllership to exist is the joint participation of two or more entities in the determination
+      of the purposes and means of a processing. More specifically, joint participation needs to include the
+      determination of purposes on the one hand and the determination of means on the other hand. If each
+      of these elements are determined by all entities concerned, they should be considered as joint
+      controllers of the processing at issue.
 
-56.   O facto de uma das partes não ter acesso a dados pessoais tratados não é suficiente para excluir a
-      responsabilidade conjunta pelo tratamento.20 Por exemplo, no processo Testemunhas de Jeová, o TJUE
-      considerou que uma comunidade religiosa tem de ser considerada conjuntamente responsável com
-      os seus membros pregadores pelo tratamento de dados pessoais efetuado por estes últimos no âmbito
+      3.2.2 Assessment of joint participation
+54.   Joint participation in the determination of purposes and means implies that more than one entity have
+      a decisive influence over whether and how the processing takes place. In practice, joint participation
+      can take several different forms. For example, joint participation can take the form of a common
+      decision taken by two or more entities or result from converging decisions by two or more entities
+      regarding the purposes and essential means.
+
+55.   Joint participation through a common decision means deciding together and involves a common
+      intention in accordance with the most common understanding of the term “jointly” referred to in
+      Article 26 of the GDPR.
+
+      The situation of joint participation through converging decisions results more particularly from the
+      case law of the CJEU on the concept of joint controllers. Decisions can be considered as converging on
+      purposes and means if they complement each other and are necessary for the processing to take
+      place in such manner that they have a tangible impact on the determination of the purposes and
+      means of the processing. It should be highlighted that the notion of converging decisions needs to be
+      considered in relation to the purposes and means of the processing but not other aspects of the
+      commercial relationship between the parties. 19 As such, an important criterion to identify converging
+      decisions in this context is whether the processing would not be possible without both parties’
+      participation in the purposes and means in the sense that the processing by each party is
 
       19
-         Com efeito, todos os acordos comerciais envolvem decisões convergentes enquanto parte do processo pelo
-      qual é alcançado um acordo.
+        Indeed, all commercial arrangements involve converging decisions as part of the process by which an
+      agreement is reached.
+
+      Adopted - After public consultation                                                                     19
+
+      inseparable, i.e. inextricably linked. The situation of joint controllers acting on the basis of converging
+      decisions should however be distinguished from the case of a processor, since the latter – while
+      participating in the performance of a processing – does not process the data for its own purposes but
+      carries out the processing on behalf of the controller.
+
+56.   The fact that one of the parties does not have access to personal data processed is not sufficient to
+      exclude joint controllership. 20 For example, in Jehovah’s Witnesses, the CJEU considered that a
+      religious community must be considered a controller, jointly with its members who engage in
+      preaching, of the processing of personal data carried out by the latter in the context of door-to-door
+      preaching. 21 The CJEU considered that it was not necessary that the community had access to the data
+      in question, or to establish that that community had given its members written guidelines or
+      instructions in relation to the data processing. 22 The community participated in the determination of
+      purposes and means by organising and coordinating the activities of its members, which helped to
+      achieve the objective of the Jehovah’s Witnesses community. 23 In addition, the community had
+      knowledge on a general level of the fact that such processing was carried out in order to spread its
+      faith. 24
+
+57.   It is also important to underline, as clarified by the CJEU, that an entity will be considered as joint
+      controller with the other(s) only in respect of those operations for which it determines, jointly with
+      others, the means and the purposes of the same data processing in particular in case of converging
+      decisions. If one of these entities decides alone the purposes and means of operations that precede or
+      are subsequent in the chain of processing, this entity must be considered as the sole controller of this
+      preceding or subsequent operation. 25
+
+58.   The existence of joint responsibility does not necessarily imply equal responsibility of the various
+      operators involved in the processing of personal data. On the contrary, the CJEU has clarified that those
+      operators may be involved at different stages of that processing and to different degrees so that the
+      level of responsibility of each of them must be assessed with regard to all the relevant circumstances
+      of the particular case.
+
+      3.2.2.1 Jointly determined purpose(s)
+59.   Joint controllership exists when entities involved in the same processing carry out the processing for
+      jointly defined purposes. This will be the case if the entities involved process the data for the same, or
+      common, purposes.
+
+60.   In addition, when the entities do not have the same purpose for the processing, joint controllership
+      may also, in light of the CJEU case law, be established when the entities involved pursue purposes
+      which are closely linked or complementary. Such may be the case, for example, when there is a mutual
+      benefit arising from the same processing operation, provided that each of the entities involved
+      participates in the determination of the purposes and means of the relevant processing operation.
+      However, the notion of mutual benefit is not decisive and can only be an indication.. In Fashion ID, for
+      example, the CJEU clarified that a website operator participates in the determination of the purposes
+
       20
-         Acórdão no processo C-210/16, Wirtschaftsakademie, ECLI:EU:C:2018:388, n.º 38.
-
-      Adotadas - Após consulta pública                                                                        22
-
-      de uma atividade de pregação porta a porta.21 O TJUE considerou que não era necessário que a
-      comunidade tivesse acesso aos dados em questão, ou devesse ser demonstrado que essa comunidade
-      deu orientações escritas ou instruções a respeito desse tratamento aos seus membros.22 A
-      comunidade participou na determinação das finalidades e dos meios, organizando e coordenando as
-      atividades dos seus membros, o que ajudou a alcançar o objetivo da comunidade de testemunhas de
-      Jeová.23 Além disso, a comunidade tinha, de um modo geral, conhecimento de que tais tratamentos
-      se verificaram para efeitos da divulgação da sua fé.24
-
-57.   Afigura-se também importante sublinhar, conforme clarificado pelo TJUE, que uma entidade será
-      considerada um responsável conjunto pelo tratamento com a(s) outra(s) apenas relativamente às
-      operações para as quais determina, conjuntamente com outras, os meios e as finalidades do mesmo
-      tratamento de dados, nomeadamente no caso de decisões convergentes. Se uma dessas entidades
-      decidir individualmente as finalidades e os meios das operações anteriores ou posteriores na cadeia
-      de tratamento, esta entidade tem de ser considerada o único responsável pelo tratamento desta
-      operação anterior ou posterior.25
-
-58.   A existência de responsabilidade conjunta não se traduz necessariamente em responsabilidade
-      equivalente dos vários operadores envolvidos no tratamento de dados pessoais. Pelo contrário, o TJUE
-      esclareceu que esses operadores podem estar envolvidos em diferentes fases desse tratamento e em
-      vários graus, pelo que o nível de responsabilidade de cada um deles tem de ser avaliado em relação a
-      todas as circunstâncias pertinentes do caso específico.
-
-      3.2.2.1 Finalidade(s) conjuntamente determinada(s)
-59.   A responsabilidade conjunta pelo tratamento existe quando as entidades envolvidas no mesmo
-      tratamento realizam o tratamento para finalidades definidas conjuntamente. Será este o caso se as
-      entidades envolvidas tratarem os dados para finalidades iguais ou comuns.
-
-60.   Além disso, quando as entidades não têm a mesma finalidade para o tratamento, a responsabilidade
-      conjunta pelo tratamento pode também, à luz da jurisprudência do TJUE, ser demonstrada quando as
-      entidades envolvidas prosseguem finalidades que estão estreitamente ligas ou são complementares.
-      Tal pode ser o caso, por exemplo, quando exista um benefício mútuo decorrente da mesma operação
-      de tratamento, contanto que cada uma das entidades envolvida participe na determinação das
-      finalidades e dos meios da operação de tratamento pertinente. Contudo, a noção de benefício mútuo
-      não é decisiva e apenas pode constituir uma indicação. No processo Fashion ID, por exemplo, o TJUE
-      esclareceu que um operador de um sítio Internet participa na determinação das finalidades (e dos
-      meios) do tratamento inserindo um plug-in social num sítio Internet com vista a otimizar a publicidade
-      dos seus produtos, tornando-os mais visíveis na rede social O TJUE considerou que as operações de
-      tratamento em causa foram realizadas nos interesses económicos do operador do sítio Internet e do
-      prestador do plug-in social.26
-
-61.   De igual modo, conforme observado pelo TJUE no processo Wirtschaftsakademie, o tratamento de
-      dados pessoais através de estatísticas de visitantes de uma página de fãs visa permitir à Facebook
-
+         Judgment in Wirtschaftsakademie, C-210/16, ECLI:EU:C:2018:388, paragraph 38.
       21
-         Acórdão no processo C-25/17, Testemunhas de Jeová, ECLI:EU:C:2018:551, n.º 75.
+         Judgment in Jehovah’s witnesses, C-25/17, ECLI:EU:C:2018:551, paragraph 75.
       22
          Ibid.
       23
-         Ibid, n.º 71.
+         Ibid, paragraph 71.
       24
          Ibid.
       25
-         Acórdão no processo C-40/17, Fashion ID, ECLI:EU:2018:1039, n.º 74 « Em contrapartida, e sem prejuízo de
-      uma eventual responsabilidade civil prevista pelo direito nacional a esse respeito, essa pessoa singular ou coletiva
-      não pode ser considerada responsável, na aceção da referida disposição, por operações anteriores ou posteriores
-      da cadeia de tratamento cujas finalidades e meios não são por ela determinados».
+         Judgment in Fashion ID, C-40/17, ECLI:EU:2018:1039, paragraph 74 “By contrast, and without prejudice to any
+      civil liability provided for in national law in this respect, that natural or legal person cannot be considered to be a
+      controller, within the meaning of that provision, in the context of operations that precede or are subsequent in
+      the overall chain of processing for which that person does not determine either the purposes or the means”.
+
+      Adopted - After public consultation                                                                                20
+
+      (and means) of the processing by embedding a social plug-in on a website in order to optimize the
+      publicity of its goods by making them more visible on the social network. The CJEU considered that the
+      processing operations at issue were performed in the economic interests of both the website operator
+      and the provider of the social plug-in. 26
+
+61.   Likewise, as noted by the CJEU in Wirtschaftsakademie, the processing of personal data through
+      statistics of visitors to a fan page is intended to enable Facebook to improve its system of advertising
+      transmitted via its network and to enable the administrator of the fan page to obtain statistics to
+      manage the promotion of its activity. 27 Each entity in this case pursues its own interest but both parties
+      participate in the determination of the purposes (and means) of the processing of personal data as
+      regards the visitors to the fan page. 28
+
+62.   In this respect, it is important to highlight that the mere existence of a mutual benefit (for ex.
+      commercial) arising from a processing activity does not give rise to joint controllership. If the entity
+      involved in the processing does not pursue any purpose(s) of its own in relation to the processing
+      activity, but is merely being paid for services rendered, it is acting as a processor rather than as a joint
+      controller.
+
+      3.2.2.2 Jointly determined means
+63.   Joint controllership also requires that two or more entities have exerted influence over the means of
+      the processing. This does not mean that, for joint controllership to exist, each entity involved needs in
+      all cases to determine all of the means. Indeed, as clarified by the CJEU, different entities may be
+      involved at different stages of that processing and to different degrees. Different joint controllers may
+      therefore define the means of the processing to a different extent, depending on who is effectively in
+      a position to do so.
+
+64.   It may also be the case that one of the entities involved provides the means of the processing and
+      makes it available for personal data processing activities by other entities. The entity who decides to
+      make use of those means so that personal data can be processed for a particular purpose also
+      participates in the determination of the means of the processing.
+
+65.   This scenario can notably arise in case of platforms, standardised tools, or other infrastructure allowing
+      the parties to process the same personal data and which have been set up in a certain way by one of
+      the parties to be used by others that can also decide how to set it up. 29 The use of an already existing
+      technical system does not exclude joint controllership when users of the system can decide on the
+      processing of personal data to be performed in this context.
+
+66.   As an example of this, the CJEU held in Wirtschaftsakademie that the administrator of a fan page
+      hosted on Facebook, by defining parameters based on its target audience and the objectives of
+      managing and promoting its activities, must be regarded as taking part in the determination of the
+      means of the processing of personal data related to the visitors of its fan page.
+
+67.   Furthermore, the choice made by an entity to use for its own purposes a tool or other system
+      developed by another entity, allowing the processing of personal data, will likely amount to a joint
+      decision on the means of that processing by those entities. This follows from the Fashion ID case where
+
       26
-         Acórdão no processo C-40/17, Fashion, ECLI:EU:2018:1039, n.º 80.
-
-      Adotadas - Após consulta pública                                                                                 23
-
-      melhorar o seu sistema de publicidade, que difunde através da sua rede, e permitir ao administrador
-      da página de fãs obter estatísticas para gerir a promoção da sua atividade.27 Neste caso, cada entidade
-      persegue o seu próprio interesse, mas ambas as partes participam na determinação das finalidades (e
-      dos meios) do tratamento de dados pessoais no que diz respeito aos visitantes da página de fãs.28
-
-62.   A este respeito, é importante salientar que a mera existência de um benefício mútuo (por exemplo,
-      comercial) decorrente de uma atividade de tratamento não dá origem a responsabilidade conjunta
-      pelo tratamento. Se a entidade envolvida no tratamento não persegue qualquer(quaisquer)
-      finalidade(s) própria(s) em relação à atividade de tratamento, mas está simplesmente a ser
-      remunerada por serviços prestados, está a agir como subcontratante e não como um responsável
-      conjunto pelo tratamento.
-
-      3.2.2.2 Meios conjuntamente determinados
-63.   A responsabilidade conjunta pelo tratamento também requer que duas ou mais entidades tenham
-      exercido influência sobre os meios do tratamento. Tal não significa que, para que exista
-      responsabilidade conjunta pelo tratamento, cada entidade envolvida tenha de em todos os casos
-      determinar todos os meios. Com efeito, conforme o TJUE clarificou, diferentes entidades podem estar
-      envolvidas em diferentes fases desse tratamento e em diferentes graus. Por conseguinte, diferentes
-      responsáveis conjuntos pelo tratamento podem definir os meios do tratamento em diferentes graus,
-      dependendo de quem está efetivamente em posição de fazê-lo.
-
-64.   É também possível que uma das entidades envolvidas preveja os meios do tratamento e os
-      disponibilize para atividades de tratamento de dados pessoais por outras entidades. A entidade que
-      decide fazer uso desses meios para que os dados pessoais possam ser tratados para uma finalidade
-      específica também participa na determinação dos meios do tratamento.
-
-65.   Este cenário pode, nomeadamente, surgir no caso de plataformas, ferramentas normalizadas, ou
-      outras infraestruturas que permitem às partes tratar os mesmos dados pessoais e que foram
-      configuradas de uma certa forma por uma das partes para serem utilizadas por outras que podem
-      também decidir como configurá-las.29 A utilização de um sistema técnico já existente não exclui a
-      responsabilidade conjunta pelo tratamento quando os utilizadores do sistema podem decidir sobre o
-      tratamento de dados pessoais a ser executado neste contexto.
-
-66.   Como exemplo disto, o TJUE considerou no processo Wirtschaftsakademie que o administrador de
-      uma página de fãs alojada no Facebook, definindo parâmetros baseados na sua audiência-alvo e nos
-      objetivos de gestão e promoção das suas atividades, tem de ser considerado como participando na
-      determinação dos meios do tratamento dos dados pessoais relacionados com os visitantes da sua
-      página de fãs.
-
-67.   Além disso, a escolha feita por uma entidade de usar para as suas próprias finalidades uma ferramenta
-      ou outro sistema desenvolvido por outra entidade, permitindo o tratamento de dados pessoais,
-      equivalerá provavelmente a uma decisão conjunta sobre os meios do referido tratamento por essas
-      entidades. Tal decorre do processo Fashion ID em que o TJUE concluiu, que ao inserir no seu sítio
-      Internet o botão Facebook «Gosto» colocado à disposição dos administradores de sítios Internet pela
-      Facebook, a Fashion ID exerceu uma influência decisiva em relação às operações que envolvem a
-
-
+         Judgment in Fashion ID, C-40/17, ECLI:EU:2018:1039, paragraph 80.
       27
-         Acórdão no processo C-210/16, Wirtschaftsakademie, ECLI:EU:C:2018:388, n.º 34.
+         Judgment in Wirtschaftsakademie, C-210/16, ECLI:EU:C:2018:388, paragraph 34.
       28
-         Acórdão no processo C-210/16, Wirtschaftsakademie, ECLI:EU:C:2018:388, n.º 39.
+         Judgment in Wirtschaftsakademie, C-210/16, ECLI:EU:C:2018:388, paragraph 39.
       29
-         O prestador de um sistema pode ser um responsável conjunto pelo tratamento se os critérios supracitados
-      estiverem satisfeitos, ou seja, se o prestador participar na determinação das finalidades e dos meios. Caso
-      contrário, o prestador deve ser considerado um subcontratante.
+         The provider of the system can be a joint controller if the criteria mentioned above are met, i.e. if the provider
+      participates in the determination of purposes and means. Otherwise, the provider should be considered as a
+      processor.
 
-      Adotadas - Após consulta pública                                                                        24
+      Adopted - After public consultation                                                                               21
 
-      recolha e transmissão de dados pessoais dos visitantes da sua página Internet ao Facebook e, por
-      conseguinte, determinou conjuntamente os meios desse tratamento.30
+      the CJEU concluded, that by embedding on its website the Facebook Like button made available by
+      Facebook to website operators, Fashion ID has exerted a decisive influence in respect of the operations
+      involving the collection and transmission of the personal data of the visitors of its website to Facebook
+      and had thus jointly determined with Facebook the means of that processing. 30
 
-68.   É importante salientar que a utilização de um sistema ou infraestrutura comum de tratamento de
-      dados nem sempre conduzirá à qualificação das partes envolvidas como responsáveis conjuntos pelo
-      tratamento, em especial quando o tratamento que realizam é separável e poderia ser realizado por
-      uma parte sem intervenção da outra ou quando o prestador é um subcontratante na ausência de
-      qualquer finalidade própria (a existência de um mero benefício comercial para as partes envolvidas
-      não é suficiente para se qualificar como uma finalidade do tratamento).
+68.   It is important to underline that the use of a common data processing system or infrastructure will
+      not in all cases lead to qualify the parties involved as joint controllers, in particular where the
+      processing they carry out is separable and could be performed by one party without intervention from
+      the other or where the provider is a processor in the absence of any purpose of its own (the existence
+      of a mere commercial benefit for the parties involved is not sufficient to qualify as a purpose of
+      processing).
 
-      Exemplo: Agência de viagens
+      Example: Travel agency
 
-      Uma agência de viagens envia dados pessoais dos seus clientes a uma companhia aérea e a uma cadeia
-      de hotéis, no intuito de fazer reservas para uma viagem organizada. A companhia aérea e o hotel
-      confirmam a disponibilidade dos lugares e quartos solicitados. A agência de viagens emite os
-      documentos de viagem e os vales para os seus clientes. Cada um dos intervenientes trata os dados
-      para realizarem as suas próprias atividades e utilizando os seus próprios meios. Neste caso, a agência
-      de viagens, a companhia aérea e o hotel são três responsáveis pelo tratamento diferentes que tratam
-      os dados para as suas finalidades próprias e autónomas não havendo responsabilidade conjunta pelo
-      tratamento.
+      A travel agency sends personal data of its customers to the airline and a chain of hotels, with a view to
+      making reservations for a travel package. The airline and the hotel confirm the availability of the seats
+      and rooms requested. The travel agency issues the travel documents and vouchers for its customers.
+      Each of the actors processes the data for carrying out their own activities and using their own means.
+      In this case, the travel agency, the airline and the hotel are three different data controllers processing
+      the data for their own and separate purposes and there is no joint controllership.
 
-      A agência de viagens, a cadeia de hotéis e a companhia aérea decidem depois participar
-      conjuntamente na criação de uma plataforma comum baseada na Internet para a finalidade comum
-      de oferecer pacotes de férias organizadas. Acordam os meios essenciais a utilizar, tais como que dados
-      serão conservados, de que modo as reservas serão atribuídas e confirmadas e quem pode ter acesso
-      às informações conservadas. Ademais, decidem partilhar os dados dos seus clientes para levarem
-      acabo ações de marketing conjuntas. Neste caso, a agência de viagens, a companhia aérea e a cadeia
-      de hotéis, determinam conjuntamente porquê e como os dados pessoais dos respetivos clientes são
-      tratados e serão, portanto, responsáveis conjuntos pelo tratamento no respeitante às operações de
-      tratamento relacionadas com a plataforma comum de reservas baseada na Internet e as ações de
-      marketing conjuntas. Todavia, cada um deles continuaria a manter o controlo exclusivo no tocante a
-      outras atividades de tratamento fora da plataforma comum baseada na Internet.
-
-
-      Exemplo: Projeto de investigação realizado por institutos
-
-      Vários institutos de investigação decidem participar num projeto comum de investigação específico e
-      usar para o efeito a plataforma existente de um dos institutos envolvidos no projeto. Cada instituto
-      insere dados pessoais que já possui na plataforma para efeitos da investigação comum e usa os dados
-      fornecidos pelos outros através da plataforma para levar a cabo a investigação. Neste caso, todos os
-      institutos se qualificam como responsáveis conjuntos pelo tratamento em relação ao tratamento de
-      dados pessoais que é efetuado ao conservar e divulgar informações a partir desta plataforma, uma vez
-      que decidiram em conjunto a finalidade do tratamento e os meios a serem usados (a plataforma
-      existente). Cada um dos institutos, porém, é um responsável autónomo pelo tratamento em relação a
-      qualquer outro tratamento que possa ser realizado fora da plataforma para as suas finalidades
-      respetivas.
+      The travel agency, the hotel chain and the airline then decide to participate jointly in setting up an
+      internet-based common platform for the common purpose of providing package travel deals. They
+      agree on the essential means to be used, such as which data will be stored, how reservations will be
+      allocated and confirmed, and who can have access to the information stored. Furthermore, they
+      decide to share the data of their customers in order to carry out joint marketing actions. In this case,
+      the travel agency, the airline and the hotel chain, jointly determine why and how personal data of their
+      respective customers are processed and will therefore be joint controllers with regard to the
+      processing operations relating to the common internet-based booking platform and the joint
+      marketing actions. However, each of them would still retain sole control with regard to other
+      processing activities outside the internet-based common platform.
 
 
+      Example: Research project by institutes
 
+      Several research institutes decide to participate in a specific joint research project and to use to that
+      end the existing platform of one of the institutes involved in the project. Each institute feeds personal
+      data it already holds into the platform for the purpose of the joint research and uses the data provided
+      by others through the platform for carrying out the research. In this case, all institutes qualify as joint
+      controllers for the personal data processing that is done by storing and disclosing information from
+      this platform since they have decided together the purpose of the processing and the means to be
+      used (the existing platform). Each of the institutes however is a separate controller for any other
+      processing that may be carried out outside the platform for their respective purposes.
+
+
+      Example: Marketing operation
+
+      Companies A and B have launched a co-branded product C and wish to organise an event to promote
+      this product. To that end, they decide to share data from their respective clients and prospects
 
       30
-           Acórdão no processo C-40/17, Fashion ID, ECLI:EU:2018:1039, n.os 77- 79.
-
-      Adotadas - Após consulta pública                                                                   25
-
-Exemplo: Operação de marketing
-
-As empresas A e B lançaram um produto multimarca C e pretendem organizar um evento para
-promover este produto. Para o efeito, decidem partilhar dados dos seus clientes respetivos e base de
-dados de potenciais clientes e decidem a lista de convidados nesta base. Também acordam as
-modalidades para enviar os convites para o evento, como recolher opiniões durante o evento e ações
-de marketing de seguimento. As empresas A e B podem ser consideradas responsáveis conjuntos pelo
-tratamento relativamente ao tratamento de dados pessoais relacionados com a organização do evento
-promocional, dado que decidem em conjunto a finalidade e os meios essenciais definidos
-conjuntamente do tratamento de dados neste contexto.
+           Judgment in Fashion ID, C-40/17, ECLI:EU:2018:1039, paragraphs 77-79.
 
 
-Exemplo: Ensaios clínicos31
+      Adopted - After public consultation                                                                     22
 
-Um prestador de cuidados de saúde (o investigador) e uma universidade (o patrocinador) decidem
-lançar em conjunto um ensaio clínico com a mesma finalidade. Colaboram na redação do protocolo do
-estudo [ou seja, finalidade, metodologia/conceção do estudo, dados a recolher, critérios de
-exclusão/inclusão de pessoas, reutilização de base de dados (quando pertinente), etc.] Podem ser
-considerados responsáveis conjuntos pelo tratamento em relação a este ensaio clínico, uma vez que
-determinam e acordam conjuntamente a mesma finalidade e os meios essenciais do tratamento. A
-recolha de dados pessoais do registo médico do doente para efeitos da investigação deve ser
-distinguida da conservação e utilização dos mesmos dados para efeitos de prestação de cuidados ao
-doente, relativamente aos quais o prestador de cuidados de saúde continua a ser o responsável pelo
-tratamento.
-
-Caso o investigador não participe na redação do protocolo (apenas aceita o protocolo já elaborado
-pelo patrocinador) e o protocolo for apenas desenvolvido pelo patrocinador, o investigador deve ser
-considerado um subcontratante e o patrocinador o responsável pelo tratamento para este ensaio
-clínico.
+database and decide on the list of invitees to the event on this basis. They also agree on the modalities
+for sending the invitations to the event, how to collect feedback during the event and follow-up
+marketing actions. Companies A and B can be considered as joint controllers for the processing of
+personal data related to the organisation of the promotional event as they decide together on the
+jointly defined purpose and essential means of the data processing in this context.
 
 
-Exemplo: Agências de recrutamento de pessoal («Headhunters»)
+Example: Clinical Trials 31
 
-A empresa X ajuda a empresa Y no recrutamento de novo pessoal - com o seu famoso serviço de valor
-acrescentado «global matchz». A empresa X procura candidatos adequados entre os CV recebidos
-diretamente pela empresa Y e aqueles que já possui na sua própria base de dados. Essa base de dados
-é criada e gerida pela própria empresa X. Tal assegura que a empresa X melhora a correspondência
-entre as ofertas de emprego e os candidatos a emprego, aumentando assim as suas receitas. Apesar
-de não terem tomado formalmente uma decisão em conjunto, as empresas X e Y participam
-conjuntamente no tratamento com a finalidade de encontrar candidatos adequados com base em
-decisões convergentes: a decisão de criar e gerir o serviço «global matchz» para a empresa X e a
-decisão da empresa Y de alimentar a base de dados com os CV que recebe diretamente. Essas decisões
-são complementares, inseparáveis e necessárias para que ocorra o processo de encontrar candidatos
-adequados. Por conseguinte, neste caso específico devem ser consideradas responsáveis conjuntos
-por esse tratamento. Contudo, a empresa X é o único responsável pelo tratamento necessário para
-gerir a sua base de dados e a empresa Y é o único responsável pelo tratamento do processo de
+A health care provider (the investigator) and a university (the sponsor) decide to launch together a
+clinical trial with the same purpose. They collaborate together to the drafting of the study protocol
+(i.e. purpose, methodology/design of the study, data to be collected, subject exclusion/inclusion
+criteria, database reuse (where relevant) etc.). They may be considered as joint controllers, for this
+clinical trial as they jointly determine and agree on the same purpose and the essential means of the
+processing. The collection of personal data from the medical record of the patient for the purpose of
+research is to be distinguished from the storage and use of the same data for the purpose of patient
+care, for which the health care provider remains the controller.
 
+In the event that the investigator does not participate to the drafting of the protocol (he just accepts
+the protocol already elaborated by the sponsor), and the protocol is only designed by the sponsor, the
+investigator should be considered as a processor and the sponsor as the controller for this clinical trial.
 
 
+Example: Headhunters
+
+Company X helps Company Y in recruiting new staff- with its famous value-added service "global
+matchz". Company X looks for suitable candidates both among the CVs received directly by Company
+Y and those it already has in its own database. Such database is created and managed by Company X
+on its own. This ensures that Company X enhances the matching between job offers and job seekers,
+thus increasing its revenues. Even though they have not formally taken a decision together, Companies
+X and Y jointly participate to the processing with the purpose of finding suitable candidates based on
+converging decisions: the decision to create and manage the service “global matchz” for Company X
+and the decision of Company Y to enrich the database with the CVs it directly receives. Such decisions
+complement each other, are inseparable and necessary for the processing of finding suitable
+candidates to take place. Therefore, in this particular case they should be considered as joint
+controllers of such processing. However, Company X is the sole controller of the processing necessary
+to manage its database and Company Y is the sole controller of the subsequent hiring processing for
+its own purpose (organisation of interviews, conclusion of the contract and management of HR data).
+
+
+Example: Analysis of health data
+
+Company ABC, the developer of a blood pressure monitoring app and Company XYZ, a provider of apps
+for medical professionals, both wish to examine how blood pressure changes can help predict certain
+diseases. The companies decide to set up a joint project and reach out to Hospital DEF to become
+involved as well.
+
+The personal data that will be processed in this project consists of personal data which Company ABC,
+Hospital DEF and Company XYZ are separately processing as individual controllers. The decision to
 
 31
-  O CEPD planeia fornecer mais orientações em relação aos ensaios clínicos no contexto das suas próximas
-Orientações sobre o tratamento de dados pessoais para fins médicos e de investigação científica.
+ The EDPB plans to provide further guidance in relation to clinical trials in the context of its forthcoming
+Guidelines on processing of personal data for medical and scientific research purposes.
 
-Adotadas - Após consulta pública                                                                           26
+Adopted - After public consultation                                                                            23
 
-      contratação subsequente para a sua própria finalidade (organização de entrevistas, celebração do
-      contrato e gestão dos dados de RH).
+      process this data to assess blood pressure changes is taken jointly by the three actors. Company ABC,
+      Hospital DEF and Company XYZ have jointly determined the purposes of processing. Company XYZ
+      takes the initiative to propose the essential means of processing. Both Company ABC and the Hospital
+      DEF accept these essential means after they as well were involved in developing some of the features
+      of the app so that the results can be sufficiently used by them. The three organizations thus agree on
+      having a common purpose for the processing which is the assessment of how blood pressure changes
+      can help predict certain diseases. Once the research is completed, Company ABC, Hospital DEF and
+      Company XYZ may benefit from the assessment by using its results in their own activities. For all these
+      reasons, they qualify as joint controllers for this specific joint processing.
 
+      If Company XYZ had been simply asked by the others to perform this assessment without having any
+      purpose of their own and merely been processing data on behalf of the others, Company XYZ would
+      qualify as a processor even if it was entrusted with the determination of the non-essential means.
 
-      Exemplo: Análise de dados relativos à saúde
+      3.2.3 Situations where there is no joint controllership
+69.   The fact that several actors are involved in the same processing does not mean that they are
+      necessarily acting as joint controllers of such processing. Not all kind of partnerships, cooperation or
+      collaboration imply qualification of joint controllers as such qualification requires a case-by-case
+      analysis of each processing at stake and the precise role of each entity with respect to each processing.
+      The cases below provide non-exhaustive examples of situations where there is no joint controllership.
 
-      A empresa ABC, a criadora de uma aplicação de monitorização da pressão sanguínea, e a empresa XYZ,
-      um prestador de aplicações para profissionais médicos, pretendem ambas examinar de que forma as
-      alterações da pressão sanguínea podem ajudar a prever certas doenças. As empresas decidem criar
-      um projeto conjunto e contactam o Hospital DEF para também participar.
+70.   For example, the exchange of the same data or set of data between two entities without jointly
+      determined purposes or jointly determined means of processing should be considered as a
+      transmission of data between separate controllers.
 
-      Os dados pessoais que serão tratados neste projeto consistem em dados pessoais que a empresa ABC,
-      o Hospital DEF e a empresa XYZ estão a tratar autonomamente enquanto responsáveis individuais pelo
-      tratamento. A decisão de tratar estes dados para avaliar as alterações da pressão sanguínea é tomada
-      em conjunto pelos três intervenientes. A empresa ABC, o Hospital DEF e a empresa XYZ determinaram
-      conjuntamente as finalidades do tratamento. A empresa XYZ toma a iniciativa de propor os meios
-      essenciais do tratamento. A empresa ABC e o Hospital DEF aceitam estes meios essenciais após terem
-      estado também envolvidos no desenvolvimento de algumas funcionalidades da aplicação para que
-      possam utilizar suficientemente os resultados. As três organizações acordam assim dispor de uma
-      finalidade comum para o tratamento que é a avaliação de como as alterações da pressão sanguínea
-      podem ajudar a prever certas doenças. Assim que a investigação estiver concluída, a empresa ABC, o
-      Hospital DEF e a empresa XYZ podem beneficiar da avaliação usando os respetivos resultados nas suas
-      próprias atividades. Por todas estas razões, qualificam-se como responsáveis conjuntos pelo
-      tratamento em relação a este tratamento conjunto específico.
+      Example: Transmission of employee data to tax authorities
 
-      Se as outras partes tivessem simplesmente pedido à empresa XYZ que realizasse esta análise sem ter
-      qualquer finalidade própria e tivesse meramente tratado os dados por conta das outras partes, a
-      empresa XYZ qualificar-se-ia como subcontratante mesmo que fosse encarregada da determinação
-      dos meios não essenciais.
+      A company collects and processes personal data of its employees with the purpose of managing
+      salaries, health insurances, etc. A law imposes an obligation on the company to send all data
+      concerning salaries to the tax authorities, with a view to reinforce fiscal control.
 
-      3.2.3 Situações em que não existe responsabilidade conjunta pelo tratamento
-69.   O facto de vários intervenientes estarem envolvidos no mesmo tratamento não significa que estejam
-      necessariamente a atuar como responsáveis conjuntos por esse tratamento. Nem todos os tipos de
-      parcerias, cooperação ou colaboração implicam a qualificação de responsáveis conjuntos pelo
-      tratamento, dado que essa qualificação requer uma análise caso a caso de cada tratamento em causa
-      e a função precisa de cada entidade relativamente a cada tratamento. Os dois casos que se seguem
-      fornecem exemplos não exaustivos de situações em que não existe responsabilidade conjunta pelo
-      tratamento.
+      In this case, even though both the company and the tax authorities process the same data concerning
+      salaries, the lack of jointly determined purposes and means with regard to this data processing will
+      result in qualifying the two entities as two separate data controllers.
 
-70.   Por exemplo, o intercâmbio dos mesmos dados ou conjunto de dados entre duas entidades sem
-      finalidades conjuntamente determinadas ou meios conjuntamente determinados do tratamento deve
-      considerar-se uma transmissão de dados entre responsáveis autónomos pelo tratamento.
+71.   Joint controllership may also be excluded in a situation where several entities use a shared database
+      or a common infrastructure, if each entity independently determines its own purposes.
 
-      Exemplo: Transmissão de dados de funcionários a autoridades fiscais
+      Example: Marketing operations in a group of companies using a shared database:
 
-      Uma empresa recolhe e trata dados pessoais dos seus funcionários com a finalidade de gerir salários,
-      seguros de saúde, etc. Uma lei impõe uma obrigação à empresa de enviar todos os dados relativos a
-      salários às autoridades fiscais, com vista a reforçar o controlo fiscal.
-
-      Neste caso, embora a empresa e as autoridades fiscais tratem os mesmos dados relativos aos salários,
-      a ausência de finalidades e meios conjuntamente determinados no respeitante ao tratamento dos
-
-      Adotadas - Após consulta pública                                                                 27
-
-      dados resultará na qualificação das duas entidades como dois responsáveis autónomos pelo
-      tratamento de dados.
-
-71.   A responsabilidade conjunta pelo tratamento também pode ser excluída numa situação em que várias
-      entidades usam uma base de dados partilhada ou uma infraestrutura comum, se cada entidade
-      determinar de forma independente as suas próprias finalidades.
-
-      Exemplo: Operações de marketing num grupo de empresas que usam uma base de dados partilhada:
-
-      Um grupo de empresas usa a mesma base de dados para a gestão de clientes e potenciais clientes.
-      Essa base de dados está alojada nos servidores da empresa-mãe que é, portanto, um subcontratante
-      das empresas no que respeita à conservação dos dados. Cada entidade do grupo introduz os dados
-      dos seus próprios clientes e potenciais clientes e trata esses dados apenas para as suas próprias
-      finalidades. De igual modo, cada entidade decide de forma independente o acesso, os períodos de
-      conservação, a correção ou o apagamento dos dados dos seus clientes e potenciais clientes. Não
-      podem aceder ou usar os dados uma das outras. O simples facto de que essas empresas usam uma
-      base de dados do grupo partilhada não implica, por si só, responsabilidade conjunta pelo tratamento.
-      Nestas circunstâncias, cada empresa é, portanto, um responsável autónomo pelo tratamento.
+      A group of companies uses the same database for the management of clients and prospects. Such
+      database is hosted on the servers of the mother company who is therefore a processor of the
+      companies with respect to the storage of the data. Each entity of the group enters the data of its own
+      clients and prospects and processes such data for its own purposes only. Also, each entity decides
+      independently on the access, the retention periods, the correction or deletion of their clients and
+      prospects’ data. They cannot access or use each other’s data. The mere fact that these companies use
+      a shared group database does not as such entail joint controllership. Under these circumstances, each
+      company is thus a separate controller.
 
 
-      Exemplo: Responsáveis independentes pelo tratamento quando usam uma infraestrutura partilhada
+      Example: Independent controllers when using a shared infrastructure
 
-      A empresa XYZ aloja uma base de dados e disponibiliza-a a outras empresas para tratar e alojar dados
-      pessoais relativos aos seus funcionários. A empresa XYZ é um subcontratante em relação ao
-      tratamento e à conservação de dados de funcionários de outras empresas, dado que estas operações
-      são executadas por conta e de acordo com as instruções dessas outras empresas. Além disso, as outras
-      empresas tratam os dados sem qualquer envolvimento da empresa XYZ e para finalidades que não são
-      de forma alguma partilhadas pela empresa XYZ.
+      Adopted - After public consultation                                                                   24
 
-72.   Acresce que pode haver situações em que vários intervenientes tratam sucessivamente os mesmos
-      dados pessoais numa cadeia de operações, cada um desses intervenientes tendo uma finalidade
-      independente e meios independentes na sua parte da cadeia. Na ausência de participação conjunta
-      na determinação das finalidades e dos meios da mesma operação ou conjunto de operações de
-      tratamento, a responsabilidade conjunta pelo tratamento tem de ser excluída e os vários
-      intervenientes têm de ser considerados responsáveis pelo tratamento independentes sucessivos.
+      Company XYZ hosts a database and makes it available to other companies to process and host personal
+      data about their employees. Company XYZ is a processor in relation to the processing and storage of
+      other companies’ employees as these operations are performed on behalf and according to the
+      instructions of these other companies. In addition, the other companies process the data without any
+      involvement from Company XYZ and for purposes which are not in any way shared by Company XYZ.
 
-      Exemplo: Análise estatística para uma missão de interesse público
+72.   Also, there can be situations where various actors successively process the same personal data in a
+      chain of operations, each of these actors having an independent purpose and independent means in
+      their part of the chain. In the absence of joint participation in the determination of the purposes and
+      means of the same processing operation or set of operations, joint controllership has to be excluded
+      and the various actors must be regarded as successive independent controllers.
 
-      Uma autoridade pública (autoridade A) tem a tarefa legal de realizar análises e estatísticas relevantes
-      sobre a evolução da taxa de emprego do país. Para o fazer, muitas outras entidades públicas estão
-      legalmente obrigadas a divulgar dados específicos à autoridade A. Esta última decide usar um sistema
-      específico para tratar os dados, incluindo a recolha. Tal significa igualmente que as outras entidades
-      são obrigadas a usar o sistema para a sua divulgação dos dados. Neste caso, sem prejuízo de qualquer
-      atribuição de funções por lei, a autoridade A será o único responsável pelo tratamento para efeitos de
-      análise e estatísticas da taxa de emprego objeto de tratamento no sistema, porquanto a autoridade A
-      determina a finalidade do tratamento e decidiu de que modo será organizado o tratamento
-      Obviamente, as outras entidades públicas, enquanto responsáveis pelo tratamento das suas próprias
-      atividades de tratamento, são responsáveis por assegurar a exatidão dos dados que trataram
-      anteriormente, que posteriormente divulgam à autoridade A.
+      Example: Statistical analysis for a task of public interest
 
+      A public authority (Authority A) has the legal task of making relevant analysis and statistics on how the
+      country’s employment rate develops. To do that, many other public entities are legally bound to
+      disclose specific data to Authority A. Authority A decides to use a specific system to process the data,
+      including collection. This also means that the other units are obligated to use the system for their
+      disclosure of data. In this case, without prejudice to any attribution of roles by law, Authority A will be
+      the only controller of the processing for the purpose of analysis and statistics of the employment rate
+      processed in the system, because Authority A determines the purpose for the processing, and has
+      decided how the processing will be organised. Of course, the other public entities, as controllers for
+      their own processing activities, are responsible for ensuring the accuracy of the data they previously
+      processed, which they then disclose to Authority A.
 
 
+      4 DEFINITION OF PROCESSOR
+73.   A processor is defined in Article 4 (8) as a natural or legal person, public authority, agency or another
+      body, which processes personal data on behalf of the controller. Similar to the definition of controller,
+      the definition of processor envisages a broad range of actors - it can be “a natural or legal person,
+      public authority, agency or other body”. This means that there is in principle no limitation as to which
+      type of actor might assume the role of a processor. It might be an organisation, but it might also be an
+      individual.
 
-      Adotadas - Após consulta pública                                                                    28
+74.   The GDPR lays down obligations directly applicable specifically to processors as further specified in
+      Part II section 1 of these guidelines. A processor can be held liable or fined in case of failure to comply
+      with such obligations or in case it acts outside or contrary to the lawful instructions of the controller.
 
-      4 DEFINIÇÃO DE SUBCONTRATANTE
-73.   No artigo 4.º, ponto 8, um subcontratante é definido como «uma pessoa singular ou coletiva, a
-      autoridade pública, agência ou outro organismo que trate os dados pessoais por conta do responsável
-      pelo tratamento destes». Similar à definição de responsável pelo tratamento, a definição de
-      subcontratante prevê um vasto leque de intervenientes «uma pessoa singular ou coletiva, a
-      autoridade pública, agência ou outro organismo». Tal significa que, em princípio, não existe qualquer
-      restrição quanto ao tipo de interveniente que pode assumir a função de subcontratante. Poderá ser
-      uma organização, mas também poderá ser uma pessoa singular.
+75.   Processing of personal data can involve multiple processors. For example, a controller may itself
+      choose to directly engage multiple processors, by involving different processors at separate stages of
+      the processing (multiple processors). A controller might also decide to engage one processor, who in
+      turn - with the authorisation of the controller - engages one or more other processors (“sub
+      processor(s)”). The processing activity entrusted to the processor may be limited to a very specific task
+      or context or may be more general and extended.
 
-74.   O RGPD estabelece obrigações diretamente aplicáveis especificamente a subcontratantes, conforme
-      descrito mais pormenorizadamente na parte II da secção 1 das presentes orientações. Um
-      subcontratante pode ser responsabilizado ou multado em caso de incumprimento das obrigações ou
-      caso não tenha seguido as instruções lícitas do responsável pelo tratamento.
+76.   Two basic conditions for qualifying as processor are:
 
-75.   O tratamento de dados pessoais pode envolver vários subcontratantes. Por exemplo, um responsável
-      pelo tratamento pode ele próprio optar por contratar diretamente vários subcontratantes, envolvendo
-      diferentes subcontratantes em fases distintas do tratamento (vários subcontratantes). Um
-      responsável pelo tratamento pode também decidir contratar um subcontratante que, por sua vez, -
-      com autorização do responsável pelo tratamento - contrata um ou mais subcontratantes
-      [«subcontratante(s)»]. A atividade de tratamento confiada ao subcontratante pode limitar-se a uma
-      tarefa ou contexto muito específico ou ser mais genérica e alargada.
+           a) being a separate entity in relation to the controller and
 
-76.   Duas condições básicas para a qualificação enquanto subcontratante são:
-
-          a) ser uma entidade autónoma em relação ao responsável pelo tratamento
-
-          b) tratar dados pessoais por conta do responsável pelo tratamento.
-
-77.   Uma entidade autónoma significa que o responsável pelo tratamento decide delegar a totalidade ou
-      parte das atividades de tratamento numa organização externa. Num grupo de empresas, uma empresa
-      pode ser um subcontratante em relação a outra empresa que atua como responsável pelo tratamento,
-      dado que ambas as empresas são entidades autónomas. Por outro lado, um departamento no seio de
-      uma empresa não pode ser um subcontratante em relação a outro departamento no seio da mesma
-      entidade.
-
-78.   Se o responsável pelo tratamento decide tratar ele próprio os dados, utilizando os seus próprios
-      recursos no seio da sua organização, por exemplo através do seu próprio pessoal, tal não configura
-      uma situação de subcontratante. Os funcionários e outras pessoas que estejam a agir sob a autoridade
-      direta do responsável pelo tratamento, tais como pessoal contratado temporariamente, não são
-      considerados subcontratantes dado que tratarão dados pessoais enquanto parte da entidade do
-      responsável pelo tratamento. De acordo com o artigo 29.º, estão também vinculados às instruções do
-      responsável pelo tratamento.
-
-79.   O tratamento de dados pessoais por conta do responsável pelo tratamento requer, em primeiro lugar,
-      que a entidade autónoma trate os dados para benefício do responsável pelo tratamento. No artigo 4.º,
-      ponto 2, o tratamento é definido como um conceito que inclui um vasto conjunto de operações que
-      vão desde a recolha, a conservação e a consulta para utilização, a divulgação ou qualquer outra forma
-      de disponibilização e a destruição. O conceito de «tratamento» é descrito mais pormenorizadamente
-      no ponto 2.1.5 acima.
+           b) processing personal data on the controller’s behalf.
 
 
+      Adopted - After public consultation                                                                     25
 
-      Adotadas - Após consulta pública                                                                  29
+77.   A separate entity means that the controller decides to delegate all or part of the processing activities
+      to an external organisation. Within a group of companies, one company can be a processor to another
+      company acting as controller, as both companies are separate entities. On the other hand, a
+      department within a company cannot be a processor to another department within the same entity.
 
-80.   Em segundo lugar, o tratamento tem de ser realizado por conta de um responsável pelo tratamento,
-      mas de um modo que não sob a sua autoridade ou controlo direto. Agir «por conta de outrem» significa
-      servir os interesses de outra pessoa e evoca o conceito jurídico de «delegação». No caso da legislação
-      em matéria de proteção de dados, o subcontratante é chamado a cumprir as instruções emitidas pelo
-      responsável pelo tratamento, pelo menos no que diz respeito à finalidade do tratamento e aos
-      elementos essenciais dos meios de tratamento. A licitude do tratamento de acordo com o artigo 6.º e,
-      se pertinente, o artigo 9.º, do regulamento decorrerá da atividade do responsável pelo tratamento e
-      o subcontratante não deve tratar dados de outro modo que não em conformidade com as instruções
-      do responsável pelo tratamento. Todavia, conforme descrito acima, as instruções do responsável pelo
-      tratamento podem, ainda assim, conferir uma certa margem de discricionariedade sobre como servir
-      da melhor forma os interesses do responsável pelo tratamento, permitindo ao subcontratante
-      escolher os meios técnicos e organizativos mais adequados.32
+78.   If the controller decides to process data itself, using its own resources within its organisation, for
+      example through its own staff, this is not a processor situation. Employees and other persons that are
+      acting under the direct authority of the controller, such as temporarily employed staff, are not to be
+      seen as processors since they will process personal data as a part of the controller’s entity. In
+      accordance with Article 29, they are also bound by the controller’s instructions.
 
-81.   Agir «por conta de outrem» significa também que o subcontratante não pode realizar o tratamento
-      para a(s) sua(s) própria(s) finalidade(s). Conforme previsto no artigo 28, n.º 10, um subcontratante
-      viola o RGPD se for além das instruções do responsável pelo tratamento e começar a determinar as
-      suas próprias finalidades e meios do tratamento. O subcontratante será considerado um responsável
-      pelo tratamento relativamente a esse tratamento e pode ser objeto de sanções por ir além das
-      instruções do responsável pelo tratamento.
+79.   Processing personal data on the controller’s behalf firstly requires that the separate entity processes
+      personal data for the benefit of the controller. In Article 4(2), processing is defined as a concept
+      including a wide array of operations ranging from collection, storage and consultation to use,
+      dissemination or otherwise making available and destruction.. The concept of “processing” is further
+      described above under 2.1.5.
 
-      Exemplo: Prestador de serviços referido como subcontratante, mas agindo como responsável pelo
-      tratamento
+80.   Secondly, the processing must be done on behalf of a controller but otherwise than under its direct
+      authority or control. Acting “on behalf of” means serving someone else’s interest and recalls the legal
+      concept of “delegation”. In the case of data protection law, a processor is called to implement the
+      instructions given by the controller at least with regard to the purpose of the processing and the
+      essential elements of the means. The lawfulness of the processing according to Article 6, and if relevant
+      Article 9, of the Regulation will be derived from the controller’s activity and the processor must not
+      process the data otherwise than according to the controller’s instructions. Even so, as described above,
+      the controller’s instructions may still leave a certain degree of discretion about how to best serve the
+      controller’s interests, allowing the processor to choose the most suitable technical and organisational
+      means. 32
 
-      O prestador de serviços MarketinZ presta serviços de publicidade promocional e marketing direto a
-      várias empresas. A empresa GoodProductZ celebra um contrato com a MarketinZ, segundo o qual esta
-      última empresa presta publicidade comercial destinada aos clientes da GoodProductZ e é referida
-      como subcontratante. Contudo, a MarketinZ decide usar a base de dados de clientes da GoodProductZ
-      também para outras finalidades que não a publicidade para a GoodProductZ, tais como desenvolver a
-      sua própria atividade comercial. A decisão de acrescentar uma finalidade adicional àquela para os
-      quais os dados pessoais foram transferidos converte a MarketinZ num responsável pelo tratamento
-      de dados em relação a este conjunto de operações de tratamento e o seu tratamento para esta
-      finalidade constituiria uma violação do RGPD.
+81.   Acting “on behalf of” also means that the processor may not carry out processing for its own
+      purpose(s). As provided in Article 28(10), a processor infringes the GDPR by going beyond the
+      controller’s instructions and starting to determine its own purposes and means of processing. The
+      processor will be considered a controller in respect of that processing and may be subject to sanctions
+      for going beyond the controller’s instructions.
 
-82.   O CEPD recorda que nem todo o prestador de serviços que trata dados pessoais no decorrer da
-      prestação de um serviço é um «subcontratante» na aceção do RGPD. O papel de um subcontratante
-      não resulta da natureza de uma entidade que está a tratar dados, mas das suas atividades concretas
-      num contexto específico. Por outras palavras, a mesma entidade pode agir na qualidade de
-      responsável pelo tratamento em relação a determinadas operações de tratamento e,
-      simultaneamente, na qualidade de subcontratante em relação a outras, pelo que a qualificação como
-      responsável pelo tratamento ou como subcontratante tem de ser analisada face a conjuntos de dados
-      ou operações específicos. A natureza do serviço determinará se atividade de tratamento equivale ao
-      tratamento de dados pessoais por conta do responsável pelo tratamento na aceção do RGPD. Na
-      prática, sempre que o serviço prestado não vise especificamente o tratamento de dados pessoais ou
-      sempre que esse tratamento não constitua um elemento fundamental do serviço, o prestador do
-      serviço pode estar em posição de determinar de forma independente as finalidades e os meios desse
-      tratamento que é necessário para prestar o serviço. Nessa situação, o prestador do serviço deve ser
+      Example: Service provider referred to as data processor but acting as controller
 
+      Service provider MarketinZ provides promotional advertisement and direct marketing services to
+      various companies. Company GoodProductZ concludes a contract with MarketinZ, according to which
+      the latter company provides commercial advertising for GoodProductZ customers and is referred to as
+      data processor. However, MarketinZ decides to use GoodProducts customer database also for other
+      purposes than advertising for GoodProducts, such as developing their own business activity. The
+      decision to add an additional purpose to the one for which the personal data were transferred converts
+      MarketinZ into a data controller for this set of processing operations and their processing for this
+      purpose would constitute an infringement of the GDPR.
 
+82.   The EDPB recalls that not every service provider that processes personal data in the course of
+      delivering a service is a “processor” within the meaning of the GDPR. The role of a processor does not
+      stem from the nature of an entity that is processing data but from its concrete activities in a specific
+      context. In other words, the same entity may act at the same time as a controller for certain processing
 
       32
-           Ver parte I, subsecção 2.1.4 que descreve a distinção entre meios essenciais e não essenciais.
+           See Part I, sub-section 2.1.4 describing the distinction between essential and non-essential means.
 
-      Adotadas - Após consulta pública                                                                      30
+      Adopted - After public consultation                                                                        26
 
-      considerado um responsável pelo tratamento autónomo e não um subcontratante.33 Não obstante,
-      continua a ser necessária uma análise caso a caso, a fim de determinar o grau de influência que cada
-      entidade tem efetivamente na determinação das finalidades e dos meios do tratamento.
+      operations and as a processor for others, and the qualification as controller or processor has to be
+      assessed with regard to specific sets of data or operations. The nature of the service will determine
+      whether the processing activity amounts to processing of personal data on behalf of the controller
+      within the meaning of the GDPR. In practice, where the provided service is not specifically targeted at
+      processing personal data or where such processing does not constitute a key element of the service,
+      the service provider may be in a position to independently determine the purposes and means of that
+      processing which is required in order to provide the service. In that situation, the service provider is to
+      be seen as a separate controller and not as a processor. 33 A case-by-case analysis remains necessary,
+      however, in order to ascertain the degree of influence each entity effectively has in determining the
+      purposes and means of the processing.
 
-      Exemplo: Serviço de táxi
+      Example: Taxi service
 
-      Um serviço de táxi oferece uma plataforma em linha que permite às empresas reservar um táxi para
-      transportar funcionários ou convidados para e do aeroporto. Ao reservar um táxi, a empresa ABC
-      indica o nome do funcionário que deverá ser recolhido no aeroporto para que o motorista possa
-      confirmar a identidade do funcionário no momento da recolha. Neste caso, o serviço de táxi trata
-      dados pessoais do funcionário enquanto parte do serviço que presta à empresa ABC, mas o tratamento
-      propriamente dito não constitui o alvo do serviço. O serviço de táxi concebeu a plataforma de reserva
-      em linha como parte do desenvolvimento da sua própria atividade comercial para prestar serviços de
-      transporte, sem quaisquer instruções da empresa ABC. O serviço de táxi também determina de forma
-      independente as categorias de dados que recolhe e o período de conservação dos mesmos. Por
-      conseguinte, o serviço de táxi age como um responsável pelo tratamento de direito próprio, não
-      obstante o facto de que o tratamento se realiza na sequência de um pedido de serviço da empresa
-      ABC.
+      A taxi service offers an online platform which allows companies to book a taxi to transport employees
+      or guests to and from the airport. When booking a taxi, Company ABC specifies the name of the
+      employee that should be picked up from the airport so the driver can confirm the employee’s identity
+      at the moment of pick-up. In this case, the taxi service processes personal data of the employee as part
+      of its service to Company ABC, but the processing as such is not the target of the service. The taxi
+      service has designed the online booking platform as part of developing its own business activity to
+      provide transportation services, without any instructions from Company ABC. The taxi service also
+      independently determines the categories of data it collects and how long it retains. The taxi service
+      therefore acts as a controller in its own right, notwithstanding the fact that the processing takes place
+      following a request for service from Company ABC.
 
-83.   O CEPD observa que um prestador de serviços pode, ainda assim, agir como um subcontratante mesmo
-      que o tratamento de dados pessoais não seja o objeto principal ou primário do serviço, contanto que
-      o cliente do serviço continue a determinar as finalidades e os meios do tratamento na prática. Ao
-      ponderar se confiar ou não o tratamento de dados pessoais a um prestador de serviços específico, os
-      responsáveis pelo tratamento devem analisar cautelosamente se o prestador de serviços em causa
-      lhes permite exercer um grau suficiente de controlo, tendo em conta a natureza, o âmbito, o contexto
-      e as finalidades do tratamento, assim como os potenciais riscos para os titulares dos dados.
+83.   The EDPB notes that a service provider may still be acting as a processor even if the processing of
+      personal data is not the main or primary object of the service, provided that the customer of the service
+      still determines the purposes and means of the processing in practice. When considering whether or
+      not to entrust the processing of personal data to a particular service provider, controllers should
+      carefully assess whether the service provider in question allows them to exercise a sufficient degree
+      of control, taking into account the nature, scope, context and purposes of processing as well as the
+      potential risks for data subjects.
 
-      Exemplo: Centro de chamadas
+      Example: Call center
 
-      A empresa X externaliza o seu apoio ao cliente à empresa Y que disponibiliza um centro de chamadas
-      para ajudar os clientes da empresa X com as suas questões. O serviço de apoio ao cliente significa que
-      a empresa Y tem de ter acesso às bases de dados de clientes da empresa X. A empresa Y apenas pode
-      aceder aos dados para prestar o apoio que a empresa X contratou e não pode tratar dados para
-      quaisquer outras finalidades que não as indicadas pela empresa X. A empresa Y deve ser considerada
-      um subcontratante de dados e deve ser celebrado um acordo de subcontratação entre a empresa X e
-      Y.
+      Company X outsources its client support to Company Y who provides a call center in order to help
+      Company X’s clients with their questions. The client support service means that Company Y has to have
+      access to Company X client data bases. Company Y can only access data in order to provide the support
+      that Company X has procured and they cannot process data for any other purposes than the ones
+      stated by Company X. Company Y is to be seen as a personal data processor and a processor agreement
+      must be concluded between Company X and Y.
 
 
-      Exemplo: Apoio informático geral
+      Example: General IT support
 
-      A empresa Z contrata um prestador de serviços informáticos para prestar apoio de caráter geral nos
-      seus sistemas informáticos que incluem uma vasta quantidade de dados pessoais. O acesso a dados
-      pessoais não constitui o principal objeto do serviço de apoio, mas é inevitável que o prestador de
-      serviços informáticos tenha sistematicamente acesso a dados pessoais quando executa o serviço. Por
-      conseguinte, a empresa Z conclui que o prestador de serviços informáticos - sendo uma empresa
-      autónoma e tendo que inevitavelmente tratar dados pessoais apesar de tal não ser o objetivo principal
-
+      Company Z hires an IT service provider to perform general support on its IT systems which include a
+      vast amount of personal data. The access to personal data is not the main object of the support service
+      but it is inevitable that the IT service provider systematically has access to personal data when
 
 
       33
-         Ver também o considerando 81 do RGPD, que faz referência a «confiar atividades de tratamento a um
-      subcontratante», indicando que a própria atividade de tratamento é uma parte importante da decisão do
-      responsável pelo tratamento de pedir a um subcontratante que trate dados pessoais por sua conta.
+        See also Recital 81 of the GDPR, which refers to “entrusting a processor processing activities”, indicating that
+      the processing activity as such is an important part of the decision of the controller to ask a processor to process
+      personal data on its behalf.
 
-      Adotadas - Após consulta pública                                                                   31
+      Adopted - After public consultation                                                                              27
 
-      do serviço - deve ser considerado um subcontratante. Assim, é celebrado um acordo de
-      subcontratação com o prestador de serviços informáticos.
-
-
-      Exemplo: Consultor informático que procede à reparação de deficiências de um programa
-      informático
-
-      A empresa ABC contrata um especialista informático de outra empresa para proceder à reparação de
-      deficiências de um programa informático que está a ser utilizado pela empresa. O consultor de
-      informática não é contratado para tratar dados pessoais e a empresa ABC determina que qualquer
-      acesso a dados pessoais será puramente acidental e, portanto, muito limitado na prática. Por
-      conseguinte, a empresa ABC conclui que o especialista informático não é um subcontratante (nem um
-      responsável pelo tratamento de direito próprio) e que a empresa ABC adotará medidas apropriadas
-      de acordo com o artigo 32.º do RGPD para impedir que o consultor informático trate dados pessoais
-      de forma não autorizada.
-
-84.   Tal como já explicado supra, nada impede um subcontratante de oferecer um serviço previamente
-      definido, mas o responsável pelo tratamento tem de tomar a decisão final de aprovar ativamente a
-      forma como o tratamento é realizado, pelo menos na medida em que diga respeito aos meios
-      essenciais do tratamento. Como já referido, um subcontratante tem uma margem de manobra no
-      tocante a meios não essenciais, ver acima na subsecção 2.1.4.
-
-      Exemplo: Prestador de serviços em nuvem
-
-      Um município decidiu recorrer a um prestador de serviço em nuvem para tratar informações na sua
-      escola e serviços educativos. O serviço em nuvem presta serviços de mensagens, videoconferências,
-      conservação de documentos, gestão de calendário, processamento de texto, entre outros, e implicará
-      o tratamento de dados pessoais relativos a alunos e professores. O prestador de serviços em nuvem
-      propôs um serviço normalizado que é oferecido em todo o mundo. Contudo, o município tem de
-      certificar-se de o acordo em vigor cumpre o artigo 28.º, n.º 3, do RGPD, que os dados pessoais dos
-      quais é o responsável pelo tratamento são tratados exclusivamente para as finalidades do município.
-      Tem também de certificar-se de que as suas instruções específicas sobre os períodos de conservação,
-      apagamento de dados, entre outras, são respeitadas pelo prestador de serviços em nuvem,
-      independentemente daquilo que é geralmente oferecido no serviço normalizado.
+      performing the service. Company Z therefore concludes that the IT service provider - being a separate
+      company and inevitably being required to process personal data even though this is not the main
+      objective of the service – is to be regarded as a processor. A processor agreement is therefore
+      concluded with the IT service provider.
 
 
-      5 DEFINIÇÃO DE TERCEIRO/DESTINATÁRIO
-85.   O regulamento não define só os conceitos de responsável pelo tratamento e subcontratante, mas
-      também os conceitos de destinatário e terceiro. Ao contrário dos conceitos de responsável pelo
-      tratamento e subcontratante, o regulamento não estabelece obrigações ou responsabilidades
-      específicas para destinatários e terceiros. Pode afirmar-se que estes são conceitos relativos no sentido
-      que descrevem uma relação com um responsável pelo tratamento ou subcontratante a partir de uma
-      perspetiva específica, por exemplo, um responsável pelo tratamento ou subcontratante divulga dados
-      a um destinatário. Um destinatário de dados pessoais e um terceiro podem também ser,
-      simultaneamente, considerados um responsável pelo tratamento ou um subcontratante sob outras
-      perspetivas. Por exemplo, as entidades que sejam consideradas destinatários ou terceiros sob uma
-      perspetiva, são responsáveis pelo tratamento relativamente ao qual determinam a finalidade e os
-      meios.
+      Example: IT-consultant fixing a software bug
 
-       Terceiro
+      Company ABC hires an IT-specialist from another company to fix a bug in a software that is being used
+      by the company. The IT-consultant is not hired to process personal data, and Company ABC determines
+      that any access to personal data will be purely incidental and therefore very limited in practice. ABC
+      therefore concludes that the IT-specialist is not a processor (nor a controller in its own right) and that
+      Company ABC will take appropriate measures according to Article 32 of the GDPR in order to prevent
+      the IT-consultant from processing personal data in an unauthorised manner.
 
-      Adotadas - Após consulta pública                                                                     32
+84.   As stated above, nothing prevents the processor from offering a preliminarily defined service but the
+      controller must make the final decision to actively approve the way the processing is carried out, at
+      least insofar as concerns the essential means of the processing. As stated above, a processor has a
+      margin of manoeuvre as regards non-essential means, see above under sub-section 2.1.4.
 
-86.   O artigo 4.º, ponto 10, define um «terceiro» como uma pessoa singular ou coletiva, a autoridade
-      pública, o serviço ou organismo que não seja
+      Example: Cloud service provider
 
-          o titular dos dados,
-          o responsável pelo tratamento,
-          o subcontratante e
-          as pessoas que, sob a autoridade direta do responsável pelo tratamento ou do subcontratante,
-           estão autorizadas a tratar os dados pessoais.
+      A municipality has decided to use a cloud service provider for handling information in its school and
+      education services. The cloud service provides messaging services, videoconferences, storage of
+      documents, calendar management, word processing etc. and will entail processing of personal data
+      about school children and teachers. The cloud service provider has offered a standardized service that
+      is offered worldwide. The municipality however must make sure that the agreement in place complies
+      with Article 28(3) of the GDPR, that the personal data of which it is controller are processed for the
+      municipality’s purposes only. It must also make sure that their specific instructions on storage periods,
+      deletion of data etc. are respected by the cloud service provider regardless of what is generally offered
+      in the standardized service.
 
 
-87.   De um modo geral, a definição corresponde à definição anterior de «terceiro» contida na Diretiva
-      95/46/CE.
+      5 DEFINITION OF THIRD PARTY/RECIPIENT
+85.   The Regulation not only defines the concepts of controller and processor but also the concepts of
+      recipient and third party. As opposed to the concepts of controller and processor, the Regulation does
+      not lay down specific obligations or responsibilities for recipients and third parties. These can be said
+      to be relative concepts in the sense that they describe a relation to a controller or processor from a
+      specific perspective, e.g. a controller or processor discloses data to a recipient. A recipient of personal
+      data and a third party may well simultaneously be regarded as a controller or processor from other
+      perspectives. For example, entities that are to be seen as recipients or third parties from one
+      perspective, are controllers for the processing for which they determine the purpose and means.
 
-88.   Enquanto os termos «dados pessoais», «titular dos dados», «responsável pelo tratamento» e
-      «subcontratante» estão definidos no regulamento, o conceito de «pessoas que, sob a autoridade direta
-      do responsável pelo tratamento ou do subcontratante, estão autorizadas a tratar os dados pessoais»
-      não está. Contudo, é genericamente entendido como se referindo a pessoas que pertencem à entidade
-      jurídica do responsável pelo tratamento ou do subcontratante (um funcionário ou uma função
-      altamente comparável com a dos funcionários, por exemplo, pessoal temporário disponibilizado
-      através de uma agência de emprego temporário), mas apenas na medida em que estejam autorizados
-      a tratar dados pessoais. Um funcionário, etc. que obtenha acesso a dados que que não está autorizado
-      a aceder e para outras finalidades diferentes das do empregador não se insere neste categoria. Ao
-      invés, este funcionário deve ser considerado um terceiro em relação ao tratamento realizado pelo
-      empregador. Na medida em que o funcionário trate dados pessoais para as suas próprias finalidades,
-      distintas das do seu empregador, será então considerado um responsável pelo tratamento e assume
-      todas as consequências e responsabilidades resultantes em termos de tratamento de dados pessoais.34
+          Third party
 
-89.   Assim, um terceiro refere-se a alguém que, na situação em apreço específica, não é um titular dos
-      dados, um responsável pelo tratamento, um subcontratante ou um funcionário. Por exemplo, o
-      responsável pelo tratamento pode contratar um subcontratante e instruí-lo no sentido de transferir
-      dados pessoais para terceiros. Este terceiro será então considerado um responsável pelo tratamento
-      de direito próprio em relação ao tratamento que realiza para suas próprias finalidades. Cumpre
-      salientar que, num grupo de empresas, uma empresa que não o responsável pelo tratamento ou o
-      subcontratante é um terceiro, apesar de pertencer ao mesmo grupo da empresa que age como
-      responsável pelo tratamento ou subcontratante.
+86.   Article 4(10) defines a “third party” as a natural or legal person, public authority, agency or body other
+      than
 
-      Exemplo: Serviços de limpeza
+      •      the data subject,
+      •      the controller,
+      •      the processor and
 
-      A empresa A celebra um contrato com uma empresa de serviços de limpeza para limpar os seus
-      escritórios. As pessoas que fazem a limpeza não devem aceder ou de outro modo tratar dados
-      pessoais. Embora ocasionalmente se possam deparar com tais dados quando se movimentam no
-      escritório, podem realizar a sua tarefa sem aceder a dados e estão contratualmente proibidas de
-      aceder ou de outro modo tratar dados pessoais que a empresa A conserva enquanto responsável pelo
-      tratamento. As pessoas que fazem a limpeza não são contratadas pela empresa A, nem são
-      consideradas estar sob a autoridade direta dessa empresa. Não há intenção de contratar a empresa
-      de serviços de limpeza ou os seus funcionários para tratar dados pessoais por conta da empresa A. A
-      empresa de serviços de limpeza e os seus funcionários devem, portanto, ser considerados um terceiro
+      Adopted - After public consultation                                                                     28
+
+      •    persons who, under the direct authority of the controller or processor, are authorised to process
+           personal data.
+
+
+87.   The definition generally corresponds to the previous definition of “third party” in Directive 95/46/EC.
+
+88.   Whereas the terms “personal data”, “data subject”, “controller” and “processor” are defined in the
+      Regulation, the concept of “persons who, under the direct authority of the controller or processor, are
+      authorised to process personal data” is not. It is, however, generally understood as referring to persons
+      that belong to the legal entity of the controller or processor (an employee or a role highly comparable
+      to that of employees, e.g. interim staff provided via a temporary employment agency) but only insofar
+      as they are authorized to process personal data. An employee etc. who obtains access to data that he
+      or she is not authorised to access and for other purposes than that of the employer does not fall within
+      this category. Instead, this employee should be considered as a third party vis-à-vis the processing
+      undertaken by the employer. Insofar as the employee processes personal data for his or her own
+      purposes, distinct from those of his or her employer, he or she will then be considered a controller and
+      take on all the resulting consequences and liabilities in terms of personal data processing.34
+
+89.   A third party thus refers to someone who, in the specific situation at hand, is not a data subject, a
+      controller, a processor or an employee. For example, the controller may hire a processor and instruct
+      it to transfer personal data to a third party. This third party will then be considered a controller in its
+      own right for the processing that it carries out for its own purposes. It should be noted that, within a
+      group of companies, a company other than the controller or the processor is a third party, even though
+      it belongs to the same group as the company who acts as controller or processor.
+
+      Example: Cleaning services
+
+      Company A concludes a contract with a cleaning service company to clean its offices. The cleaners are
+      not supposed to access or otherwise process personal data. Even though they may occasionally come
+      across such data when moving around in the office, they can carry out their task without accessing
+      data and they are contractually prohibited to access or otherwise process personal data that Company
+      A keeps as controller. The cleaners are not employed by Company A nor are they seen as being under
+      the direct authority of that company. There is no intention to engage the cleaning service company or
+      its employees to process personal data on Company A’s behalf. The cleaning service company and its
+      employees are therefore to be seen as a third party and the controller must make sure that there are
+      adequate security measures to prevent that they have access to data and lay down a confidentiality
+      duty in case they should accidentally come across personal data.
+
+
+      Example: Company groups – parent company and subsidiaries
+
+      Companies X and Y form part of the Group Z. Companies X and Y both process data about their
+      respective employees for employee administration purposes. At one point, the parent company ZZ
+      decides to request employee data from all subsidiaries in order to produce group wide statistics. When
+      transferring data from companies X and Y to ZZ, the latter is to be regarded as a third party regardless
+      of the fact that all companies are part of the same group. Company ZZ will be regarded as controller
+      for its processing of the data for statistical purposes.
+
+
 
       34
-         O empregador (enquanto responsável pelo tratamento original) poderia, ainda assim, ser parcialmente
-      responsável, caso a nova atividade de tratamento tivesse ocorrido devido à falta de medidas de segurança
-      adequadas.
+        The employer (as original controller) could nevertheless retain some responsibility in case the new processing
+      occurred because of a lack of adequate security measures.
 
-      Adotadas - Após consulta pública                                                                     33
+      Adopted - After public consultation                                                                          29
 
-      e o responsável pelo tratamento deve certificar-se de que existem medidas de segurança adequadas
-      para impedir que tenham acesso aos dados e estabelecer um dever de confidencialidade no caso de
-      se depararem acidentalmente com dados pessoais.
+      Recipient
 
+90.   Article 4(9) defines a “recipient” as a natural or legal person, public authority, agency or another body,
+      to which the personal data are disclosed, whether a third party or not. Public authorities are however
+      not to be seen as recipients when they receive personal data in the framework of a particular inquiry
+      in accordance with Union or Member State law (e.g. tax and customs authorities, financial investigation
+      units etc.) 35
 
-      Exemplo: Grupos de empresa - empresa-mãe e filiais
+91.   The definition generally corresponds to the previous definition of “recipient” in Directive 95/46/EC.
 
-      As empresas X e Y fazem parte do grupo Z. As empresas X e Y tratam ambas dados sobre os seus
-      funcionários respetivos para efeitos de gestão de funcionários. A determinada altura, a empresa-mãe
-      ZZ decide pedir os dados dos funcionários a todas as suas filiais para produzir estatísticas a nível do
-      grupo. Ao transferir dados das empresas X e Y para a ZZ, esta última deve ser considerada um terceiro
-      independentemente do facto de que todas as empresas fazem parte do mesmo grupo. A empresa ZZ
-      será considerada um responsável pelo tratamento em relação ao seu tratamento dos dados para fins
-      estatísticos.
+92.   The definition covers anyone who receives personal data, whether they are a third party or not. For
+      example, when a controller sends personal data to another entity, either a processor or a third party,
+      this entity is a recipient. A third party recipient shall be considered a controller for any processing that
+      it carries out for its own purpose(s) after it receives the data.
 
+      Example: Disclosure of data between companies
 
-
-      Destinatário
-
-90.   O artigo 4.º, ponto 9, define um «destinatário» como uma pessoa singular ou coletiva, a autoridade
-      pública, agência ou outro organismo que recebem comunicações de dados pessoais,
-      independentemente de se tratar ou não de um terceiro. Contudo, as autoridades públicas não devem
-      ser consideradas destinatários quando recebem dados pessoais no âmbito de um inquérito específico
-      em conformidade com o direito da União ou de um dos Estados-Membros (por exemplo, autoridades
-      fiscais e aduaneiras, unidades de investigação financeira, etc.)35
-
-91.   De um modo geral, a definição corresponde à definição anterior de «destinatário» contida na Diretiva
-      95/46/CE.
-
-92.   A definição abrange qualquer pessoa que receba dados pessoais, quer seja um terceiro ou não. Por
-      exemplo, quando um responsável pelo tratamento envia dados pessoais a outra entidade, um
-      subcontratante ou um terceiro, esta entidade é um destinatário. Um destinatário terceiro deve ser
-      considerado um responsável pelo tratamento em relação a qualquer tratamento que realize para a(s)
-      sua(a) própria(s) finalidade(s) após receber os dados.
-
-      Exemplo: Divulgação de dados entre empresas
-
-      A agência de viagens ExploreMore organiza viagens mediante pedido dos seus clientes individuais.
-      Neste serviço, enviam os dados pessoais dos clientes a companhias aéreas, hotéis e organizações de
-      excursões para que prestem os respetivos serviços. A ExploreMore, os hotéis, as companhias aéreas e
-      os prestadores de excursões devem ser considerados cada um responsáveis pelo tratamento que
-      realizam nos seus serviços respetivos. Não existe uma relação responsável pelo tratamento-
-      subcontratante. Contudo, as companhias aéreas, os hotéis e os prestadores de excursões devem ser
-      considerados destinatários quando recebem os dados pessoais da ExploreMore.
+      The travel agency ExploreMore arranges travels on request from its individual customers. Within this
+      service, they send the customers’ personal data to airlines, hotels and organisations of excursions in
+      order for them to carry out their respective services. ExploreMore, the hotels, airlines and excursion
+      providers are each to be seen as controllers for the processing that they carry out within their
+      respective services. There is no controller-processor relation. However, the airlines, hotels and
+      excursion providers are to be seen as recipients when receiving the personal data from ExploreMore.
 
 
+           PART II – CONSEQUENCES OF ATTRIBUTING DIFFERENT ROLES
 
+      1 RELATIONSHIP BETWEEN CONTROLLER AND PROCESSOR
+93.   A distinct new feature in the GDPR are the provisions that impose obligations directly upon processors.
+      For example, a processor must ensure that persons authorised to process the personal data have
+      committed themselves to confidentiality (Article 28(3)); a processor must maintain a record of all
+      categories of processing activities (Article 30(2)) and must implement appropriate technical and
+      organisational measures (Article 32). A processor must also designate a data protection officer under
+      certain conditions (Article 37) and has a duty to notify the controller without undue delay after
+      becoming aware of a personal data breach (Article 33(2)). Furthermore, the rules on transfers of data
+      to third countries (Chapter V) apply to processors as well as controllers. In this regard, the EDPB
+      considers that Article 28(3) GDPR, while mandating a specific content for the necessary contract
+      between controller and processor, imposes direct obligations upon processors, including the duty to
+      assist the controller in ensuring compliance. 36
+
+      1.1 Choice of the processor
+
+94.   The controller has the duty to use “only processors providing sufficient guarantees to implement
+      appropriate technical and organisational measures”, so that processing meets the requirements of the
 
       35
-           Ver também considerando 31 do RGPD.
-
-      Adotadas - Após consulta pública                                                                    34
-
-           PARTE II – CONSEQUÊNCIAS DE ATRIBUIR DIFERENTES FUNÇÕES
-
-      1 RELAÇÃO ENTRE RESPONSÁVEL PELO TRATAMENTO E
-        SUBCONTRATANTE
-93.   Uma nova característica distinta no RGPD são as disposições que impõem obrigações diretamente aos
-      subcontratantes. Por exemplo, um subcontratante tem de assegurar que as pessoas autorizadas a
-      tratar os dados pessoais assumiram um compromisso de confidencialidade (artigo 28.º, n.º 3); um
-      subcontratante tem de conservar um registo de todas as categorias de atividades de tratamento
-      (artigo 30.º, n.º 2) e tem de executar medidas técnicas e organizativas apropriadas (artigo 32.º) Um
-      subcontratante tem também de designar um encarregado da proteção de dados sob certas condições
-      (artigo 37.º) e tem um dever de notificar o responsável pelo tratamento sem demora injustificada após
-      ter conhecimento de uma violação de dados pessoais (artigo 33.º, n.º 2). Além disso, as regras em
-      matéria de transferências de dados para países terceiros (capítulo V) são aplicáveis aos
-      subcontratantes e aos responsáveis pelo tratamento. A este respeito, o CEPD considera que o artigo
-      28.º, n.º 3, do RGPD, embora prescreva um conteúdo específico para o contrato necessário entre o
-      responsável pelo tratamento e o subcontratante, impõe obrigações diretas aos subcontratantes,
-      nomeadamente o dever de prestar assistência ao responsável pelo tratamento no sentido de assegurar
-      o cumprimento.36
-
-      1.1 Escolha do subcontratante
-
-94.   O responsável pelo tratamento tem o dever de recorrer «apenas a subcontratantes que apresentem
-      garantias suficientes de execução de medidas técnicas e organizativas adequadas», para que o
-      tratamento satisfaça os requisitos do RGPD - nomeadamente relativos à segurança do tratamento - e
-      assegure a proteção dos direitos do titular dos dados.37 Por conseguinte, o responsável pelo
-      tratamento é responsável por avaliar a suficiência das garantias apresentadas pelo subcontratante e
-      deve poder demonstrar que tomou seriamente em consideração os elementos previstos no RGPD.
-
-95.   As garantias «apresentadas» pelo subcontratante são as que o subcontratante pode demonstrar de
-      forma satisfatória para o responsável pelo tratamento, porquanto são as únicas que podem
-      efetivamente ser tidas em conta pelo responsável pelo tratamento ao avaliar a conformidade com as
-      suas obrigações. Muitas vezes, tal exigirá o intercâmbio de documentação pertinente (por exemplo,
-      política de privacidade, condições do serviço, registo de atividades de tratamento, registos de política
-      de gestão, política relativa à segurança das informações, relatórios de auditorias externas sobre a
-      proteção de dados, certificações internacionais reconhecidas, como a série ISO 27000).
-
-96.   A avaliação do responsável pelo tratamento de se as garantias são suficientes é uma forma de
-      avaliação dos riscos, que vai depender em grande medida do tipo de tratamento confiado ao
-      subcontratante e que tem de ser realizada numa base caso a caso, tendo em conta a natureza, o
-      âmbito, o contexto e as finalidades do tratamento, bem como os riscos para os direitos e as liberdades
-      das pessoas singulares. Consequentemente, o CEPD não pode facultar uma lista exaustiva dos
-
-
+        See also Recital 31 of the GDPR
       36
-         Por exemplo, o subcontratante deverá prestar assistência ao responsável pelo tratamento, se necessário e a
-      pedido deste, para assegurar o cumprimento das obrigações decorrentes da realização de avaliações do impacto
-      sobre a proteção de dados (considerando 95 do RGPD). Tal tem de estar refletido no contrato entre o responsável
-      pelo tratamento e o subcontratante, nos termos do artigo 28.º, n.º 3, alínea f), do RGPD.
+         For instance, the processor should assist the controller, where necessary and upon request, in ensuring
+      compliance with obligations relating to data protection impact assessments (Recital 95 GDPR). This needs to be
+      reflected in the contract between the controller and the processor pursuant to Article 28(3)(f) GDPR.
+
+      Adopted - After public consultation                                                                        30
+
+      GDPR - including for the security of processing - and ensures the protection of data subject rights. 37
+      The controller is therefore responsible for assessing the sufficiency of the guarantees provided by the
+      processor and should be able to prove that it has taken all of the elements provided in the GDPR into
+      serious consideration.
+
+95.   The guarantees “provided” by the processor are those that the processor is able to demonstrate to
+      the satisfaction of the controller, as those are the only ones that can effectively be taken into account
+      by the controller when assessing compliance with its obligations. Often this will require an exchange
+      of relevant documentation (e.g. privacy policy, terms of service, record of processing activities, records
+      management policy, information security policy, reports of external data protection audits, recognised
+      international certifications, like ISO 27000 series).
+
+96.   The controller’s assessment of whether the guarantees are sufficient is a form of risk assessment,
+      which will greatly depend on the type of processing entrusted to the processor and needs to be made
+      on a case-by-case basis, taking into account the nature, scope, context and purposes of processing as
+      well as the risks for the rights and freedoms of natural persons. As a consequence, the EDPB cannot
+      provide an exhaustive list of the documents or actions that the processor needs to show or
+      demonstrate in any given scenario, as this largely depends on the specific circumstances of the
+      processing.
+
+97.   The following elements 38 should be taken into account by the controller in order to assess the
+      sufficiency of the guarantees: the processor’s expert knowledge (e.g. technical expertise with regard
+      to security measures and data breaches); the processor’s reliability; the processor’s resources. The
+      reputation of the processor on the market may also be a relevant factor for controllers to consider.
+
+98.   Furthermore, the adherence to an approved code of conduct or certification mechanism can be used
+      as an element by which sufficient guarantees can be demonstrated. 39 The processors are therefore
+      advised to inform the controller as to this circumstance, as well as to any change in such adherence.
+
+99.   The obligation to use only processors “providing sufficient guarantees” contained in Article 28(1) GDPR
+      is a continuous obligation. It does not end at the moment where the controller and processor conclude
+      a contract or other legal act. Rather the controller should, at appropriate intervals, verify the
+      processor’s guarantees, including through audits and inspections where appropriate. 40
+
+      1.2 Form of the contract or other legal act
+
+100. Any processing of personal data by a processor must be governed by a contract or other legal act under
+     EU or Member State law between the controller and the processor, as required by Article 28(3) GDPR.
+
+101. Such legal act must be in writing, including in electronic form. 41 Therefore, non-written agreements
+     (regardless of how thorough or effective they are) cannot be considered sufficient to meet the
+     requirements laid down by Article 28 GDPR. To avoid any difficulties in demonstrating that the contract
+     or other legal act is actually in force, the EDPB recommends ensuring that the necessary signatures are
+     included in the legal act, in line with applicable law (e.g. contract law).
+
+
+
+
       37
-         Artigo 28.º, n.º 1, e considerando 81, do RGPD.
-
-      Adotadas - Após consulta pública                                                                            35
-
-      documentos ou ações que o subcontratante necessita de apresentar ou demonstrar num determinado
-      cenário, porquanto tal depende em grande medida das circunstâncias específicas do tratamento.
-
-97.   Os elementos que se seguem38 devem ser tidos em conta pelo responsável pelo tratamento, a fim de
-      avaliar a suficiência das garantias: os conhecimentos especializados do subcontratante (por exemplo,
-      competências técnicas no tocante a medidas de segurança e violações de dados); a fiabilidade do
-      subcontratante; os recursos do subcontratante A reputação do subcontratante no mercado pode
-      também ser um fator relevante a considerar pelo responsável pelo tratamento.
-
-98.   Ademais, o cumprimento de um código de conduta ou procedimento de certificação aprovado pode
-      ser usado como um elemento mediante o qual podem ser demonstradas garantias suficientes.39 Por
-      conseguinte, recomenda-se que os subcontratantes informem o responsável pelo tratamento em
-      relação a esta circunstância, bem como em relação a qualquer alteração desse cumprimento.
-
-99.   A obrigação de recorrer apenas a subcontratantes «que apresentem garantias suficientes» contida no
-      artigo 28.º, n.º 1, do RGPD é uma obrigação contínua. Não termina no momento em que o responsável
-      pelo tratamento e o subcontratante celebram um contrato ou outro ato normativo. Pelo contrário, o
-      responsável pelo tratamento deve, em intervalos apropriados, verificar as garantias do
-      subcontratante, inclusive através de auditorias e inspeções se for caso disso.40
-
-      1.2 Forma do contrato ou outro ato normativo
-
-100. Qualquer tratamento de dados pessoais em subcontratação é regulado por contrato ou outro ato
-     normativo ao abrigo do direito da União ou de um dos Estados-Membros entre o responsável pelo
-     tratamento e o subcontratante, conforme exigido pelo artigo 28.º, n.º 3, do RGPD.
-
-101. Esse ato normativo deve ser feito por escrito, inclusive em formato eletrónico.41 Por conseguinte, os
-     acordos não escritos (por muito exaustivos ou efetivos que sejam) não podem ser considerados
-     suficientes para cumprir os requisitos estabelecidos no artigo 28.º do RGPD. A fim de evitar quaisquer
-     dificuldades na demonstração de que o contrato ou outro ato normativo está efetivamente em vigor,
-     o CEPD recomenda garantir que as assinaturas necessárias estão incluídas no ato normativo, em
-     consonância com a legislação aplicável (por exemplo, o direito dos contratos).
-
-102. Além disso, o contrato ou o ato normativo nos termos do direito da União ou de um dos Estados-
-     Membros deve ser vinculativo para o subcontratante em relação ao responsável pelo tratamento, ou
-     seja, deve estabelecer obrigações para o subcontratante que sejam vinculativas do ponto de vista do
-     direito da UE ou de um dos Estados-Membros. Deve ainda definir as obrigações do responsável pelo
-     tratamento. Na maioria dos casos, existirá um contrato, mas o regulamento também faz referência a
-     «outro ato normativo», tal como um instrumento jurídico do direito nacional (primário ou derivado)
-     ou outro. Se o ato normativo não inclui o conteúdo mínimo exigido, tem de ser complementado com
-     um contrato ou outro ato normativo que inclua os elementos em falta.
-
-103. Dado que o regulamento estabelece uma obrigação clara de celebrar um contrato por escrito, quando
-     não esteja em vigor outro ato normativo pertinente, a ausência do mesmo constitui uma violação do
-     RGPD.42 O responsável pelo tratamento e o subcontratante são responsáveis por assegurar que existe
-
+         Article 28(1) and Recital 81 GDPR.
       38
-         Considerando 81 do RGPD.
+         Recital 81 GDPR.
       39
-         Artigo 28.º, n.º 5, e considerando 81, do RGPD.
+         Article 28(5) and Recital 81 GDPR.
       40
-         Ver também o artigo 28.º, n.º 3, alínea h), do RGPD.
+         See also Article 28(3)h GDPR.
       41
-         Artigo 28.º, n.º 9, do RGPD.
+         Article 28(9) GDPR.
+
+      Adopted - After public consultation                                                                    31
+
+102. Furthermore, the contract or the other legal act under Union or Member State law must be binding
+     on the processor with regard to the controller, i.e. it must establish obligations on the processor that
+     are binding as a matter of EU or Member State law. Also it must set out the obligations of the
+     controller. In most cases, there will be a contract, but the Regulation also refers to “other legal act”,
+     such as a national law (primary or secondary) or other legal instrument. If the legal act does not include
+     all the minimum required content, it must be supplemented with a contract or another legal act that
+     includes the missing elements.
+
+103. Since the Regulation establishes a clear obligation to enter into a written contract, where no other
+     relevant legal act is in force, the absence thereof is an infringement of the GDPR. 42 Both the controller
+     and processor are responsible for ensuring that there is a contract or other legal act to govern the
+     processing. 43 Subject to the provisions of Article 83 of the GDPR, the competent supervisory authority
+     will be able to direct an administrative fine against both the controller and the processor, taking into
+     account the circumstances of each individual case. Contracts that have been entered into before the
+     date of application of the GDPR should have been updated in light of Article 28(3). The absence of such
+     update, in order to bring a previously existing contract in line with the requirements of the GDPR,
+     constitutes an infringement of Article 28(3).
+
+      A written contract pursuant to Article 28(3) GDPR may be embedded in a broader contract, such as a
+      service level agreement. In order to facilitate the demonstration of compliance with the GDPR, the
+      EDPB recommends that the elements of the contract that seek to give effect to Article 28 GDPR be
+      clearly identified as such in one place (for example in an annex).
+
+104. In order to comply with the duty to enter into a contract, the controller and the processor may choose
+     to negotiate their own contract including all the compulsory elements or to rely, in whole or in part,
+     on standard contractual clauses in relation to obligations under Article 28. 44
+
+
+
+
       42
-         A presença (ou ausência) de um acordo por escrito, porém, não é decisiva para a existência de uma relação
-      responsável pelo tratamento-subcontratante. Sempre que houver motivos para considerar que o contrato não
-
-      Adotadas - Após consulta pública                                                                         36
-
-      um contrato ou outro ato normativo para reger o tratamento.43 Sob reserva das disposições do artigo
-      83.º do RGPD, a autoridade de controlo competente poderá aplicar uma coima ao responsável pelo
-      tratamento e ao subcontratante, tendo em conta as circunstâncias em cada caso particular. Os
-      contratos cuja celebração seja anterior à data de aplicação do RGPD devem ter sido atualizados à luz
-      do artigo 28.º, n.º 3. A ausência dessa atualização, a fim de tornar o contrato preexistente consentâneo
-      com os requisitos do RGPD, constitui uma violação do artigo 28.º, n.º 3.
-
-      Um contrato por escrito nos termos do artigo 28.º, n.º 3, do RGPD pode estar integrado num contrato
-      mais amplo, tal como um acordo de nível de serviço. A fim de facilitar a demonstração da conformidade
-      com o RGPD, o CEPD recomenda que os elementos do contrato que procuram dar efeito ao artigo 28.º
-      do RGPD estejam claramente identificados como tal numa parte (por exemplo, num anexo).
-
-104. Com vista a cumprir o dever de celebrar um contrato, o responsável pelo tratamento e o
-     subcontratante podem escolher negociar o seu próprio contrato incluindo todos os elementos
-     obrigatórios ou basearem-se, total ou parcialmente, em cláusulas contratuais-tipo em relação às
-     obrigações previstas no artigo 28.º.44
-
-105. Em alternativa, um conjunto de cláusulas contratuais-tipo pode ser adotado pela Comissão45 ou
-     adotado por uma autoridade de controlo, em conformidade com o procedimento de controlo da
-     coerência.46 Essas cláusulas poderão fazer parte de uma certificação concedida ao responsável pelo
-     tratamento ou ao subcontratante nos termos dos artigos 42.º ou 43.º.47
-
-106. O CEPD gostaria de esclarecer que não existe uma obrigação de os responsáveis pelo tratamento e os
-     subcontratantes celebrarem um contrato com base em cláusulas contratuais-tipo, assim como não é
-     necessariamente preferível em relação à negociação de um contrato individual. Ambas as opções são
-
-
-      corresponde à realidade em termos do controlo efetivo, com base numa análise factual das circunstâncias
-      adjacentes à relação entre as partes e ao tratamento de dados pessoais levado a cabo, o acordo pode ser
-      anulado. Em contrapartida, uma relação responsável pelo tratamento-subcontratante pode, ainda assim, ser
-      considerada existir na ausência de um acordo de tratamento por escrito. Contudo, tal implicaria uma violação
-      do artigo 28.º, n.º 3, do RGPD. Além disso, em certas circunstâncias, a ausência de uma definição clara da relação
-      entre o responsável pelo tratamento e o subcontratante pode suscitar o problema da falta de base jurídica em
-      que todos os tratamentos devem assentar, por exemplo, no respeitante à comunicação de dados entre o
-      responsável pelo tratamento e o alegado subcontratante.
+         The presence (or absence) of a written arrangement, however, is not decisive for the existence of a controller-
+      processor relationship. Where there is reason to believe that the contract does not correspond with reality in
+      terms of actual control, on the basis of a factual analysis of the circumstances surrounding the relationship
+      between the parties and the processing of personal data being carried out, the agreement may be set aside.
+      Conversely, a controller-processor relationship might still be held to exist in absence of a written processing
+      agreement. This would, however, imply a violation of Article 28(3) GDPR. Moreover, in certain circumstances,
+      the absence of a clear definition of the relationship between the controller and the processor may raise the
+      problem of the lack of legal basis on which every processing should be based, e.g. in respect of the
+      communication of data between the controller and the alleged processor.
       43
-         O artigo 28.º, n.º 3, não é apenas aplicável aos responsáveis pelo tratamento. Na situação em que apenas o
-      subcontratante está sujeito ao âmbito territorial do RGPD, a obrigação apenas deve ser diretamente aplicável ao
-      subcontratante. Ver também as Diretrizes 3/2018 sobre o âmbito de aplicação territorial do RGPD do CEPD, p.
-      12.
+         Article 28(3) is not only applicable to controllers. In the situation where only the processor is subject to the
+      territorial scope of the GDPR, the obligation shall only be directly applicable to the processor, see also EDPB
+      Guidelines 3/2018 on the territorial scope of the GDPR, p. 12.
       44
-         Artigo 28.º, n.º 6, do RGPD. O CEPD recorda que as cláusulas contratuais-tipo para efeitos de cumprimento do
-      artigo 28.º não são o mesmo que as cláusulas contratuais-tipo a que se refere o artigo 46.º, n.º 2. Enquanto as
-      primeiras estipulam e clarificam mais aprofundadamente de que modo as disposições do artigo 28.º, n. os 3 e 4,
-      serão cumpridas, as últimas preveem garantias adequadas em caso de transferência de dados pessoais para um
-      país terceiro ou uma organização internacional na ausência de uma decisão de adequação nos termos do artigo
-      45.º, n.º 3.
+         Article 28(6) GDPR. The EDPB recalls that standard contractual clauses for the purposes of compliance with
+      Article 28 GDPR are not the same as standard contractual clauses referred to in Article 46(2). While the former
+      further stipulate and clarify how the provisions of Article 28(3) and (4) will be fulfilled, the latter provide
+      appropriate safeguards in case of transfer of personal data to a third country or an international organisation in
+      the absence of an adequacy decision pursuant to Article 45(3).
+
+      Adopted - After public consultation                                                                             32
+
+105. A set of standard contractual clauses (SCCs) may be, alternatively, adopted by the Commission 45 or
+     adopted by a supervisory authority, in accordance with the consistency mechanism. 46 These clauses
+     could be part of a certification granted to the controller or processor pursuant to Articles 42 or 43. 47
+
+106. The EDPB would like to clarify that there is no obligation for controllers and processors to enter into a
+     contract based on SCCs, nor is it to be necessarily preferred over negotiating an individual contract.
+     Both options are viable for the purposes of compliance with data protection law, depending on the
+     specific circumstances, as long as they meet the Article 28(3) requirements.
+
+107. If the parties wish to take advantage of standard contractual clauses, the data protection clauses of
+     their agreement must be the same as those of the SCCs. The SCCs will often leave some blank spaces
+     to be filled in or options to be selected by the parties. Also, as also mentioned above, the SCCs will
+     generally be embedded in a larger agreement describing the object of the contract, its financial
+     conditions, and other agreed clauses: it will be possible for the parties to add additional clauses (e.g.
+     applicable law and jurisdiction) as long as they do not contradict, directly or indirectly, the SCCs 48 and
+     they do not undermine the protection afforded by the GDPR and EU or Member State data protection
+     laws.
+
+108. Contracts between controllers and processors may sometimes be drafted unilaterally by one of the
+     parties. Which party or parties that draft the contract may depend on several factors, including: the
+     parties’ position in the market and contractual power, their technical expertise, as well as access to
+     legal services. For instance, some service providers tend to set up standard terms and conditions,
+     which include data processing agreements.
+
+109. An agreement between the controller and processor must comply with the requirements of Article 28
+     GDPR in order to ensure that the processor processes personal data in compliance with the GDPR. Any
+     such agreement should take into account the specific responsibilities of controllers and processors.
+     Although Article 28 provides a list of points which must be addressed in any contract governing the
+     relationship between controllers and processors it leaves room for negotiations between the parties
+     to such contracts. In some situations a controller or a processor may be in a weaker negotiation power
+     to customize the data protection agreement. Reliance on the standard contractual clauses adopted
+     pursuant to Article 28 (subparagraphs 7 and 8) may contribute to rebalancing the negotiating positions
+     and to ensure that the contracts respect the GDPR.
+
+
       45
-         Artigo 28.º, n.º 7, do RGPD. Artigo 28.º, n.º 7, do RGPD. Artigo 28.º, n.º 7, do RGPD. Artigo 28.º, n.º 7, do RGPD.
-      Ver o Parecer Conjunto 1/2021 do CEPD e da AEPD sobre a Decisão de Execução da Comissão Europeia relativa
-      às cláusulas contratuais-tipo entre os responsáveis pelo tratamento e os subcontratantes:
+         Article 28(7) GDPR. Article 28(7) GDPR. Article 28(7) GDPR. Article 28(7) GDPR. See the EDPB-EDPS Joint
+      Opinion 1/2021 on standard contractual clauses between controllers and processors:
       https://edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion/edpb-edps-joint-opinion-
       12021-standard en.
       46
-         Artigo 28.º, n.º 8, do RGPD. O Registo das Decisões adotadas pelas autoridades de controlo e os tribunais sobre
-      questões tratadas no procedimento de controlo da coerência, incluindo as cláusulas contratuais-tipo para efeitos
-      de cumprimento do artigo 28.º do RGPD, pode ser acedido aqui: https://edpb.europa.eu/our-work-
-      tools/consistency-findings/register-for-decisions en.
+         Article 28(8) GDPR. The Register for Decisions taken by supervisory authorities and courts on issues handled in
+      the consistency mechanism, including standard contractual clauses for the purposes of compliance with Art. 28
+      GDPR, can be accessed here: https://edpb.europa.eu/our-work-tools/consistency-findings/register-for-
+      decisions en.
       47
-         Artigo 28.º, n.º 6, do RGPD.
-
-      Adotadas - Após consulta pública                                                                                   37
-
-      viáveis para efeitos de cumprimento da legislação em matéria de proteção de dados, dependendo das
-      circunstâncias específicas, desde que satisfaçam os requisitos do artigo 28.º, n.º 3.
-
-107. Se as partes pretenderem tirar partido de cláusulas contratuais-tipo, as cláusulas de proteção de dados
-     do seu acordo têm de ser as mesmas das cláusulas contratuais-tipo. As cláusulas contratuais-tipo
-     deixarão muitas vezes espaços em branco a serem preenchidos ou opções a serem selecionadas pelas
-     partes. De igual forma, conforme referido anteriormente, as cláusulas contratuais-tipo serão, regra
-     geral, integradas num acordo mais abrangente que descreve o objeto do contrato, as suas condições
-     financeiras e outras cláusulas acordadas: as partes poderão acrescentar cláusulas adicionais (por
-     exemplo, direito aplicável e competência jurisdicional), desde que não entrem, direta ou
-     indiretamente, em contradição com as cláusulas contratuais-tipo48 e não comprometam a proteção
-     conferida pelo RGPD e a legislação em matéria de proteção de dados da UE e de um dos Estados-
-     Membros.
-
-108. Os contratos entre os responsáveis pelo tratamento e os subcontratantes podem, por vezes, ser
-     redigidos unilateralmente por uma das partes. Que parte ou partes redigem o contrato pode depender
-     de vários fatores, nomeadamente: a posição no mercado e o poder contratual das partes, as suas
-     competências técnicas, bem como o acesso a serviços jurídicos. Por exemplo, alguns prestadores de
-     serviços tendem a estabelecer termos e condições normalizados, que incluem acordos de tratamento
-     de dados.
-
-109. Um acordo entre o responsável pelo tratamento e o subcontratante tem de cumprir os requisitos do
-     artigo 28.º do RGPD, a fim de garantir que o subcontratante trata os dados pessoais em conformidade
-     com o RGPD. Uma tal acordo deve ter em conta as responsabilidades específicas dos responsáveis pelo
-     tratamento e os subcontratantes. Embora o artigo 28.º preveja uma lista de pontos que têm de ser
-     abordados em qualquer contrato que rege a relação entre responsáveis pelo tratamento e
-     subcontratantes permite margem para negociações entre as partes desses contratos. Nalgumas
-     situações um responsável pelo tratamento ou um subcontratante pode ter menor poder de
-     negociação para adaptar o acordo de proteção de dados. A utilização de cláusulas contratuais-tipo
-     adotadas nos termos do artigo 28.º (n.os 7 e 8)) pode contribuir para o reequilíbrio das posições de
-     negociação e para garantir que os contratos cumprem o RGPD.
-
-110. O facto de o contrato e as suas condições comerciais serem preparados pelo prestador de serviços em
-     vez do responsável pelo tratamento não é, por si só, problemático e não constitui, por si só, uma base
-     suficiente para concluir que o prestador de serviços deva ser considerado o responsável pelo
-     tratamento. De igual modo, o desequilíbrio no poder contratual de um responsável pelo tratamento
-     dos dados de pequena dimensão em relação a prestadores de serviços de grandes dimensões não deve
-     ser considerado uma justificação para o responsável pelo tratamento aceitar cláusulas e termos de
-     contratos que não estejam em conformidade com a legislação em matéria de proteção de dados, assim
-
-
+         Article 28(6) GDPR.
       48
-         O CEPD recorda que o mesmo grau de flexibilidade é permitido quando as partes optam por usar cláusulas
-      contratuais-tipo como garantia apropriada para transferências para países terceiros nos termos do artigo 46.º,
-      n.º 2, alínea c), ou do artigo 46.º, n.º 2, alínea d), do RGPD. O considerando 109 do RGPD esclarece que «A
-      possibilidade de o responsável pelo tratamento ou o subcontratante utilizarem cláusulas-tipo de proteção de
-      dados adotadas pela Comissão ou por uma autoridade de controlo não os deverá impedir de incluírem estas
-      cláusulas num contrato mais abrangente, como um contrato entre o subcontratante e outro subcontratante, nem
-      de acrescentarem outras cláusulas ou garantias adicionais desde que não entrem, direta ou indiretamente, em
-      contradição com as cláusulas contratuais-tipo [...] e sem prejuízo dos direitos ou liberdades fundamentais dos
-      titulares dos dados. Os responsáveis pelo tratamento e os subcontratantes deverão ser encorajados a apresentar
-      garantias suplementares através de compromissos contratuais que complementem as cláusulas-tipo de
-      proteção.»
+         The EDPB recalls that the same degree of flexibility is allowed when the parties choose to use SCCs as
+      appropriate safeguard for transfers to third countries pursuant to Article 46(2)(c) or Article 46(2)(d) GDPR. Recital
+      109 GDPR clarifies that “The possibility for the controller or processor to use standard data-protection clauses
+      adopted by the Commission or by a supervisory authority should prevent controllers or processors neither from
+      including the standard data-protection clauses in a wider contract, such as a contract between the processor and
+      another processor, nor from adding other clauses or additional safeguards provided that they do not contradict,
+      directly or indirectly, the standard contractual clauses [...] or prejudice the fundamental rights or freedoms of the
+      data subjects. Controllers and processors should be encouraged to provide additional safeguards via contractual
+      commitments that supplement standard protection clauses”.
 
-      Adotadas - Após consulta pública                                                                           38
+      Adopted - After public consultation                                                                               33
 
-      com não pode eximir o responsável pelo tratamento das duas obrigações em matéria de proteção de
-      dados. O responsável pelo tratamento tem de avaliar os termos e na medida em que os aceite
-      livremente e utilize o serviço, também aceitou plena responsabilidade pelo cumprimento do RGPD.
-      Qualquer alteração proposta, por um subcontratante, dos acordos de tratamento de dados incluídos
-      em termos e condições normalizados deve ser diretamente notificada ao responsável pelo tratamento
-      e aprovada por este, tendo presente o grau de margem de que o subcontratante beneficia no
-      respeitante aos elementos não essenciais dos meios (ver números 40 41 supra). A simples publicação
-      dessas alterações no sítio Web do subcontratante não é conforme com o artigo 28.º.
+110. The fact that the contract and its detailed terms of business are prepared by the service provider rather
+     than by the controller is not in itself problematic and is not in itself a sufficient basis to conclude that
+     the service provider should be considered as a controller. Also, the imbalance in the contractual power
+     of a small data controller with respect to big service providers should not be considered as a
+     justification for the controller to accept clauses and terms of contracts which are not in compliance
+     with data protection law, nor can it discharge the controller from its data protection obligations. The
+     controller must evaluate the terms and in so far as it freely accepts them and makes use of the service,
+     it has also accepted full responsibility for compliance with the GDPR. Any proposed modification, by a
+     processor, of data processing agreements included in standard terms and conditions should be directly
+     notified to and approved by the controller, bearing in mind the degree of leeway that the processor
+     enjoys with respect to non-essential elements of the means (see paragraphs 40-41 above). The mere
+     publication of these modifications on the processor’s website is not compliant with Article 28.
 
-      1.3 Conteúdo do contrato ou outro ato normativo
+      1.3 Content of the contract or other legal act
 
-111. Antes de nos debruçarmos sobre cada um dos requisitos pormenorizados estabelecidos pelo RGPD no
-     que diz respeito ao conteúdo do contrato ou de outro ato normativo, afiguram-se necessárias algumas
-     observações gerais.
+111. Before focusing on each of the detailed requirements set out by the GDPR as to the content of the
+     contract or other legal act, some general remarks are necessary.
 
-112. Embora os elementos estabelecidos no artigo 28.º do regulamento constituam o seu conteúdo
-     essencial, o contrato deverá ser uma forma de o responsável pelo tratamento e o subcontratante
-     clarificarem em maior profundidade de que modo esses elementos centrais vão ser executados com
-     instruções detalhadas. Por conseguinte, o acordo de tratamento não deve simplesmente reproduzir
-     as disposições do RGPD: ao invés, deve incluir informações mais específicas e concretas sobre de que
-     forma os requisitos serão satisfeitos e que nível de segurança é necessário para o tratamento de dados
-     pessoais objeto do acordo de tratamento. Longe de ser um exercício pró-forma, a negociação e a
-     estipulação do contrato são uma oportunidade para especificar pormenores relativos ao tratamento.49
-     Com efeito, a «defesa dos direitos e liberdades dos titulares dos dados, bem como a responsabilidade
-     dos responsáveis pelo seu tratamento e dos subcontratantes [...] exigem uma clara repartição das
-     responsabilidades» nos termos do RGPD.50
+112. While the elements laid down by Article 28 of the Regulation constitute its core content, the contract
+     should be a way for the controller and the processor to further clarify how such core elements are
+     going to be implemented with detailed instructions. Therefore, the processing agreement should not
+     merely restate the provisions of the GDPR: rather, it should include more specific, concrete
+     information as to how the requirements will be met and which level of security is required for the
+     personal data processing that is the object of the processing agreement. Far from being a pro-forma
+     exercise, the negotiation and stipulation of the contract are a chance to specify details regarding the
+     processing. 49 Indeed, the “protection of the rights and freedoms of data subjects as well as the
+     responsibility and liability of controllers and processors [...] requires a clear allocation of the
+     responsibilities” under the GDPR. 50
 
-113. Ao mesmo tempo, o contrato deve ter em conta «as tarefas e responsabilidades específicas do
-     subcontratante no contexto do tratamento a realizar e o risco em relação aos direitos e liberdades
-     do titular dos dados».51 Falando em termos gerais, o contrato entre as partes deve ser redigido à luz
-     da atividade específica de tratamento de dados. Por exemplo, não há necessidade de impor proteções
-     e procedimentos particularmente rigorosos a um subcontratante a quem foi confiada uma atividade
-     de tratamento da qual resultem apenas riscos menores: embora o subcontratante tenha de cumprir
-     os requisitos estabelecidos pelo regulamento, as medidas e procedimentos devem ser adaptados à
-     situação específica. Em qualquer caso, o contrato tem de abranger todos os elementos do artigo 28.º,
-     n.º 3. Ao mesmo tempo, o contrato deverá incluir alguns elementos que podem ajudar o
-     subcontratante a compreender os riscos para os direitos e liberdades dos titulares dos dados
-     resultantes do tratamento: devido ao facto de a atividade ser executada por conta do responsável pelo
-     tratamento, muitas vezes o responsável pelo tratamento tem um entendimento mais aprofundado
-     dos riscos que o tratamento implica, porquanto está ciente das circunstâncias nas quais o tratamento
-     está integrado.
+113. At the same time, the contract should take into account “the specific tasks and responsibilities of the
+     processor in the context of the processing to be carried out and the risk to the rights and freedoms
+     of the data subject”. 51 Generally speaking, the contract between the parties should be drafted in light
+     of the specific data processing activity. For instance, there is no need to impose particularly stringent
+     protections and procedures on a processor entrusted with a processing activity from which only minor
+     risks arise: while each processor must comply with the requirements set out by the Regulation, the
+     measures and procedures should be tailored to the specific situation. In any event, all elements of
+     Article 28(3) must be covered by the contract. At the same time, the contract should include some
+     elements that may help the processor in understanding the risks to the rights and freedoms of data
+     subjects arising from the processing: because the activity is performed on behalf of the controller,
+     often the controller has a deeper understanding of the risks that the processing entails since the
+     controller is aware of the circumstances in which the processing is embedded.
 
-114. Avançando para o conteúdo exigido do contrato ou outro ato normativo, o CEPD interpreta o artigo
-     28.º, n.º 3 de uma forma que necessita de estabelecer:
+114. Moving on to the required content of the contract or other legal act, EDPB interprets Article 28(3) in
+     a way that it needs to set out:
 
 
 
       49
-         Ver também o Parecer 14/2019 do CEPD sobre o projeto de cláusulas contratuais-tipo apresentado pela AC
-      dinamarquesa (artigo 28.º, n.º 8, do RGPD), p. 5.
+         See also EDPB Opinion 14/2019 on the draft Standard Contractual Clauses submitted by the DK SA (Article
+      28(8) GDPR), p. 5.
       50
-         Considerando 79 do RGPD.
+         Recital 79 GDPR.
       51
-         Considerando 81 do RGPD.
+         Recital 81 GDPR.
 
-      Adotadas - Após consulta pública                                                                      39
+      Adopted - After public consultation                                                                     34
 
-              o objeto do tratamento (por exemplo, registos de videovigilância de pessoas que entram e saem
-               de uma instalação de alta segurança). Embora o objeto do tratamento seja um conceito amplo,
-               tem de ser formulado com especificações suficientes para que seja claro qual é o principal objeto
-               do tratamento;
+              the subject-matter of the processing (for instance, video surveillance recordings of people
+               entering and leaving a high-security facility). While the subject matter of the processing is a
+               broad concept, it needs to be formulated with enough specifications so that it is clear what the
+               main object of the processing is;
 
-              a duração52 do tratamento: o período exato de tempo, ou os critérios usados para o determinar,
-               devem ser especificados; por exemplo, poderá ser feita referência à vigência do acordo de
-               tratamento;
+              the duration 52 of the processing: the exact period of time, or the criteria used to determine it,
+               should be specified; for instance, reference could be made to the duration of the processing
+               agreement;
 
-              a natureza do tratamento: o tipo de operações executadas enquanto parte do tratamento (por
-               exemplo: «filmagem», «gravação, «arquivo de imagens, etc.) e a finalidade do tratamento (por
-               exemplo: deteção de entrada ilegal). Esta descrição deve ser o mais completa possível,
-               dependendo da atividade de tratamento específica, para permitir às partes externas (por
-               exemplo, autoridades de controlo) compreender o conteúdo e os riscos do tratamento confiado
-               ao subcontratante.
+              the nature of the processing: the type of operations performed as part of the processing (for
+               instance: “filming”, “recording”, “archiving of images”, ...) and purpose of the processing (for
+               instance: detecting unlawful entry). This description should be as comprehensive as possible,
+               depending on the specific processing activity, so as to allow external parties (e.g. supervisory
+               authorities) to understand the content and the risks of the processing entrusted to the
+               processor.
 
-              o tipo de dados pessoais: tal deve ser especificado da forma mais detalhada possível (por
-               exemplo: imagens de vídeo de pessoas à medida que entram e saem da instalação). Não seria
-               adequado especificar que se trata dos «dados pessoais nos termos do artigo 4.º, ponto 1, do
-               RGPD» ou «categorias especiais de dados pessoais nos termos do artigo 9.º». No caso de
-               categorias especiais de dados, o contrato ou o ato normativo deve, pelo menos, especificar que
-               tipos de dados estão em causa, por exemplo, «informações respeitantes a processos clínicos»,
-               ou «informações sobre se o titular dos dados é membro de um sindicato»;
+              the type of personal data: this should be specified in the most detailed manner as possible (for
+               instance: video images of individuals as they enter and leave the facility). It would not be
+               adequate merely to specify that it is “personal data pursuant to Article 4(1) GDPR” or “special
+               categories of personal data pursuant to Article 9”. In case of special categories of data, the
+               contract or legal act should at least specify which types of data are concerned, for example,
+               “information regarding health records”, or “information as to whether the data subject is a
+               member of a trade union”;
 
-              as categorias de titular de dados: tal deve também ser indicado de uma forma bastante
-               específica (por exemplo: «visitantes», «funcionários», «serviços de entrega», etc.);
+              the categories of data subjects: this, too, should be indicated in a quite specific way (for
+               instance: “visitors”, “employees”, delivery services etc.);
 
-              as obrigações e os direitos do responsável pelo tratamento: os direitos do responsável pelo
-               tratamento são abordados mais pormenorizadamente nas secções seguintes (por exemplo, no
-               que se refere ao direito do responsável pelo tratamento de realizar inspeções e auditorias). No
-               atinente às obrigações do responsável pelo tratamento, os exemplos incluem a obrigação de o
-               responsável pelo tratamento facultar ao subcontratante os dados mencionados no contrato, de
-               fornecer e documentar qualquer instrução com influência no tratamento de dados pelo
-               subcontratante, assegurar, antes e durante o tratamento, a conformidade com as obrigações
-               estabelecidas no RGPD por parte do subcontratante, supervisionar o tratamento, inclusive
-               mediante a realização de auditorias e inspeções com o subcontratante.
+              the obligations and rights of the controller: the rights of the controller are further dealt with in
+               the following sections (e.g. with respect to the right of the controller to perform inspections and
+               audits). As regards the obligations of the controller, examples include the controller’s obligation
+               to provide the processor with the data mentioned in the contract, to provide and document any
+               instruction bearing on the processing of data by the processor, to ensure, before and throughout
+               the processing, compliance with the obligations set out in the GDPR on the processor's part, to
+               supervise the processing, including by conducting audits and inspections with the processor.
 
-115. Embora o RGPD liste elementos que têm de ser sempre incluídos no acordo, poderá ser necessário
-     incluir outras informações pertinentes, dependendo do contexto e dos riscos do tratamento, bem
-     como qualquer requisito adicional aplicável.
+115. While the GDPR lists elements that always need to be included in the agreement, other relevant
+     information may need to be included, depending on the context and the risks of the processing as well
+     as any additional applicable requirement.
 
-      1.3.1 O subcontratante apenas deve tratar dados com base em instruções documentadas
-            do responsável pelo tratamento [artigo 28.º, n.º 3, alínea a), do RGPD]
-116. A necessidade de especificar esta obrigação resulta do facto de o subcontratante tratar dados por
-     conta do responsável pelo tratamento. Os responsáveis pelo tratamento têm de facultar aos seus
-     subcontratantes instruções relacionadas com cada atividade de tratamento. Essas instruções podem
-     incluir tratamento de dados admissível e inaceitável, procedimentos mais pormenorizados, formas de
+      1.3.1 The processor must only process data on documented instructions from the controller
+            (Art. 28(3)(a) GDPR)
+116. The need to specify this obligation stems from the fact that the processor processes data on behalf of
+     the controller. Controllers must provide its processors with instructions related to each processing
+     activity. Such instructions can include permissible and unacceptable handling of personal data, more
+     detailed procedures, ways of securing data, etc. The processor shall not go beyond what is instructed
+     by the controller. It is however possible for the processor to suggest elements that, if accepted by the
+     controller, become part of the instructions given.
 
 
       52
-        A duração do tratamento não é necessariamente equivalente à vigência do acordo (podem existir obrigações
-      legais para conservar os dados durante mais ou menos tempo).
+        The duration of the processing is not necessarily equivalent to the duration of the agreement (there may be
+      legal obligations to keep the data longer or shorter).
 
-      Adotadas - Após consulta pública                                                                       40
+      Adopted - After public consultation                                                                       35
 
-      proteger os dados, etc. o subcontratante não deve ir além das instruções do responsável pelo
-      tratamento. Contudo, o subcontratante pode sugerir elementos que, se aceites pelo responsável pelo
-      tratamento, passam a fazer parte das instruções dadas.
+117. When a processor processes data outside or beyond the controller’s instructions, and this amounts to
+     a decision determining the purposes and means of processing, the processor will be in breach of its
+     obligations and will even be considered a controller in respect of that processing in accordance with
+     Article 28(10) (see sub-section 1.5 below 53).
 
-117. Quando um subcontratante trata dados fora ou além das instruções do responsável pelo tratamento,
-     e tal equivale a uma decisão que determina as finalidades e os meios do tratamento, o subcontratante
-     estará a violar as suas obrigações e será mesmo considerado um responsável pelo tratamento no que
-     respeita ao tratamento em questão em conformidade com o artigo 28.º, n.º 10 (ver subsecção 1.5
-     infra53).
+118. The instructions issued by the controller must be documented. For these purposes, it is recommended
+     to include a procedure and a template for giving further instructions in an annex to the contract or
+     other legal act. Alternatively, the instructions can be provided in any written form (e.g. e-mail), as well
+     as in any other documented form as long as it is possible to keep records of such instructions. In any
+     event, to avoid any difficulties in demonstrating that the controller’s instructions have been duly
+     documented, the EDPB recommends keeping such instructions together with the contract or other
+     legal act.
 
-118. As instruções emitidas pelo responsável pelo tratamento devem estar documentadas. Para o efeito,
-     recomenda-se incluir um procedimento e um modelo para dar mais instruções num anexo do contrato
-     ou outro ato normativo. Em alternativa, as instruções podem ser facultadas em qualquer forma por
-     escrito (por exemplo, correio eletrónico), bem como noutra forma documentada desde que seja
-     possível conservar registos dessas instruções. Em qualquer caso, para evitar quaisquer dificuldades em
-     demonstrar que as instruções do responsável pelo tratamento foram devidamente documentadas, o
-     CEPD recomenda conservar essas instruções juntamente com o contrato ou outro ato normativo.
+119. The duty for the processor to refrain from any processing activity not based on the controller’s
+     instructions also applies to transfers of personal data to a third country or international organisation.
+     The contract should specify the requirements for transfers to third countries or international
+     organisations, taking into account the provisions of Chapter V of the GDPR.
 
-119. O dever do subcontratante de abster-se de qualquer atividade de tratamento que não tenha por base
-     as instruções do responsável pelo tratamento também se aplica a transferências de dados pessoais
-     para um país terceiro ou organização internacional. O contrato deve especificar os requisitos aplicáveis
-     a transferências para países terceiros ou organizações internacionais, tendo em conta as disposições
-     do capítulo V do RGPD.
+120. The EDPB recommends that controller pay due attention to this specific point especially when the
+     processor is going to delegate some processing activities to other processors, and when the processor
+     has divisions or units located in third countries. If the instructions by the controller do not allow for
+     transfers or disclosures to third countries, the processor will not be allowed to assign the processing
+     to a sub-processor in a third country, nor will he be allowed to have the data processed in one of his
+     non-EU divisions.
 
-120. O CEPD recomenda que o responsável pelo tratamento preste a devida atenção a este ponto
-     específico, sobretudo quando o subcontratante vai delegar algumas atividades de tratamento noutros
-     subcontratantes e quando o subcontratante tenha departamentos ou unidades situados em países
-     terceiros. Se as instruções do responsável pelo tratamento não permitirem transferências ou
-     divulgações para países terceiros, o subcontratante não poderá atribuir o tratamento a um
-     subcontratante num país terceiro, nem poderá proceder ao tratamento dos dados num dos seus
-     departamentos fora da UE.
+121. A processor may process data other than on documented instructions of the controller when the
+     processor is required to process and/or transfer personal data on the basis of EU law or Member
+     State law to which the processor is subject. This provision further reveals the importance of carefully
+     negotiating and drafting data processing agreements, as, for example, legal advice may need to be
+     sought by either party as to the existence of any such legal requirement. This needs to be done in a
+     timely fashion, as the processor has an obligation to inform the controller of such requirement before
+     starting the processing. Only when that same (EU or Member State) law forbids the processor to inform
+     the controller on “important grounds of public interest”, there is no such information obligation. In
+     any case, any transfer or disclosure may only take place if authorised by Union law, including in
+     accordance with Article 48 of the GDPR.
 
-121. Um subcontratante pode tratar dados que não com base em instruções documentadas do responsável
-     pelo tratamento quando o subcontratante seja obrigado a tratar e/ou transferir dados pessoais com
-     base no direito da UE ou de um dos Estados-Membros a que o subcontratante está sujeito. Esta
-     disposição revela ainda a importância de negociar e redigir cuidadosamente os acordos de tratamento
-     de dados uma vez que, por exemplo, pode ser necessário para qualquer uma das partes procurar
-     aconselhamento jurídico relativamente à existência de tal requisito legal. Tal tem de ser feito em
-     tempo oportuno, dado que o subcontratante tem uma obrigação de informar o responsável pelo
-     tratamento de dados sobre esse requisito antes de iniciar o tratamento. Apenas quando esse mesmo
-     direito (da UE ou de um dos Estados-Membros) proíbe o subcontratante de informar o responsável
-     pelo tratamento por «motivos importantes de interesse público», não existe essa obrigação de
-     informação. Em qualquer caso, todas as transferências e divulgações apenas ocorrem se autorizadas
-     pelo direito da União, inclusive de acordo com artigo 48.º do RGPD.
+      1.3.2 The processor must ensure that persons authorised to process the personal data have
+            committed themselves to confidentiality or are under an appropriate statutory
+            obligation of confidentiality (Art. 28(3)(b) GDPR)
+122. The contract needs to state that the processor must ensure that anyone it allows to process the
+     personal data is committed to confidentiality. This may occur either via a specific contractual
+     agreement, or due to statutory obligations already in place.
 
-
+123. The broad concept of “persons authorised to process the personal data” includes employees and
+     temporary workers. Generally speaking, the processor should make the personal data available only
+     to the employees who actually need them to perform tasks for which the processor was hired by the
+     controller.
 
 
       53
-           Ver parte II, subsecção 1.5 («Subcontratante que determina as finalidades e os meios do tratamento»).
+           See Part II, sub-section 1.5 (“Processor determining purposes and means of processing”).
 
-      Adotadas - Após consulta pública                                                                             41
+      Adopted - After public consultation                                                                    36
 
-      1.3.2 O subcontratante tem de assegurar que as pessoas autorizadas a tratar os dados
-            pessoais assumiram um compromisso de confidencialidade ou estão sujeitas a
-            adequadas obrigações legais de confidencialidade [artigo 28.º, n.º 3, alínea b), do
-            RGPD]
-122. O contrato tem de indicar que o subcontratante deve assegurar que qualquer pessoa por ele
-     autorizada a tratar dados pessoais assume um compromisso de confidencialidade. Tal pode ocorrer
-     através de um acordo contratual específico, ou devido a obrigações legais já em vigor.
+124. The commitment or obligation of confidentiality must be “appropriate”, i.e. it must effectively forbid
+     the authorised person from disclosing any confidential information without authorisation, and it must
+     be sufficiently broad so as to encompass all the personal data processed on behalf of the controller as
+     well as the conditions under which the personal data are processed.
 
-123. O conceito abrangente de «pessoas autorizadas a tratar os dados pessoais» inclui funcionários e
-     trabalhadores temporários. Em termos gerais, o subcontratante deve disponibilizar os dados pessoais
-     apenas aos funcionários que efetivamente necessitam dos mesmos para executar tarefas para as quais
-     o subcontratante foi contratado pelo responsável pelo tratamento.
+      1.3.3 The processor must take all the measures required pursuant to Article 32 (Art.
+            28(3)(c) GDPR)
+125. Article 32 requires the controller and the processor to implement appropriate technical and
+     organisational security measures. While this obligation is already directly imposed on the processor
+     whose processing operations fall within the scope of the GDPR, the duty to take all measures required
+     pursuant to Article 32 still needs to be reflected in the contract concerning the processing activities
+     entrusted by the controller.
 
-124. O compromisso ou obrigação de confidencialidade tem de ser «apropriado», ou seja, tem de proibir
-     efetivamente a pessoa autorizada de divulgar quaisquer informações confidenciais sem autorização e
-     deve ser suficientemente abrangente para englobar todos os dados pessoais tratados por conta do
-     responsável pelo tratamento, bem como as condições nas quais os dados pessoais são tratados.
+126. As indicated earlier, the processing contract should not merely restate the provisions of the GDPR. The
+     contract needs to include or reference information as to the security measures to be adopted, an
+     obligation on the processor to obtain the controller’s approval before making changes, and a regular
+     review of the security measures so as to ensure their appropriateness with regard to risks, which may
+     evolve over time. The degree of detail of the information as to the security measures to be included in
+     the contract must be such as to enable the controller to assess the appropriateness of the measures
+     pursuant to Article 32(1) GDPR. Moreover, the description is also necessary in order to enable the
+     controller to comply with its accountability duty pursuant to Article 5(2) and Article 24 GDPR as regards
+     the security measures imposed on the processor. A corresponding obligation of the processor to assist
+     the controller and to make available all information necessary to demonstrate compliance can be
+     inferred from Art. 28.3 (f) and (h) GDPR.
 
-      1.3.3 O subcontratante tem de adotar todas as medidas exigidas nos termos do artigo 32.º
-            [artigo 28.º, n.º 3, alínea c), do RGPD]
-125. O artigo 32.º exige que o responsável pelo tratamento e o subcontratante executem medidas técnicas
-     e organizativas de segurança adequadas. Embora esta obrigação já seja diretamente imposta ao
-     subcontratante cujas operações de tratamento se inserem no âmbito de aplicação do RGPD, o dever
-     de adotar todas as medidas exigidas nos termos do artigo 32.º continua a ter de estar refletido no
-     contrato relativo às atividades de tratamento confiadas pelo responsável pelo tratamento.
+127. The level of instructions provided by the controller to the processor as to the measures to be
+     implemented will depend on the specific circumstances. In some cases, the controller may provide a
+     clear and detailed description of the security measures to be implemented. In other cases, the
+     controller may describe the minimum security objectives to be achieved, while requesting the
+     processor to propose implementation of specific security measures. In any event, the controller must
+     provide the processor with a description of the processing activities and security objectives (based on
+     the controller’s risk assessment), as well as approve the measures proposed by the processor. This
+     could be included in an annex to the contract. The controller exercises its decision-making power over
+     the main features of the security measures, be it by explicitly listing the measures or by approving
+     those proposed by the processor.
 
-126. Conforme indicado anteriormente, o contrato de tratamento não deve simplesmente reproduzir as
-     disposições do RGPD. O contrato tem de incluir ou fazer referência a informações relativas às medidas
-     de segurança a adotar, uma obrigação do subcontratante de obter a aprovação do responsável pelo
-     tratamento antes de introduzir alterações e uma revisão regular das medidas de segurança, de molde
-     a assegurar a adequação no respeitante aos riscos, que podem evoluir ao longo do tempo. O grau de
-     pormenor das informações relativas às medidas de segurança a serem incluídas no contrato deverá
-     ser de molde a permitir ao responsável pelo tratamento avaliar a adequação das medidas nos termos
-     do artigo 32.º, n.º 1, do RGPD. Além disso, a descrição é também necessária para permitir ao
-     responsável pelo tratamento cumprir o seu dever de responsabilidade nos termos do artigo 5.º, n.º 2,
-     e do artigo 24.º do RGPD no tocante às medidas de segurança impostas ao subcontratante. Pode
-     inferir-se do artigo 28.º, n.º 3, alíneas f) e h), do RGPD uma obrigação correspondente do
-     subcontratante de prestar assistência ao responsável pelo tratamento e de disponibilizar todas as
-     informações necessárias para demonstrar a conformidade.
-
-127. O nível de instruções facultadas pelo responsável pelo tratamento ao subcontratante relativamente às
-     medidas a aplicar dependerá das circunstâncias específicas. Nalguns casos, o responsável pelo
-     tratamento pode facultar uma descrição clara e pormenorizada das medidas de segurança a aplicar.
-     Noutros casos, o responsável pelo tratamento pode descrever os objetivos mínimos de segurança a
-     alcançar solicitando, simultaneamente, ao subcontratante que proponha a aplicação de medidas de
-     segurança específicas. Em qualquer caso, o responsável pelo tratamento deve facultar ao
-     subcontratante uma descrição das atividades de tratamento e dos objetivos de segurança (com base
-     na avaliação de riscos do responsável pelo tratamento), bem como aprovar as medidas propostas pelo
+      1.3.4 The processor must respect the conditions referred to in Article 28(2) and 28(4) for
+            engaging another processor (Art. 28(3)(d) GDPR).
+128. The agreement must specify that the processor may not engage another processor without the
+     controller’s prior written authorisation and whether this authorisation will be specific or general. In
+     case of general authorisation, the processor has to inform the controller of any change of sub-
+     processors under a written authorisation, and give the controller the opportunity to object. It is
+     recommended that the contract set out the process for this. It should be noted that the processor’s
+     duty to inform the controller of any change of sub-processors implies that the processor actively
 
 
-      Adotadas - Após consulta pública                                                                 42
 
-      subcontratante. Tal poderá ser incluído num anexo do contrato. O responsável pelo tratamento exerce
-      o seu poder decisório sobre as principais características das medidas de segurança, elencando
-      explicitamente as medidas ou aprovando as propostas pelo subcontratante.
 
-      1.3.4 O subcontratante tem de cumprir as condições a que se referem o artigo 28.º, n. os 2 e
-            4 para contratar outro subcontratante [artigo 28.º, n.º 3, alínea d), do RGPD).
-128. O acordo tem de especificar que o subcontratante não pode contratar outro subcontratante sem a
-     autorização prévia por escrito do responsável pelo tratamento e se essa autorização será específica ou
-     geral. No caso de uma autorização geral, o subcontratante tem de informar o responsável pelo
-     tratamento sobre qualquer alteração de subcontratantes ao abrigo de uma autorização por escrito e
-     dar ao responsável pelo tratamento a oportunidade de se opor. Recomenda-se que o contrato
-     estabeleça o processo para o fazer. Cumpre salientar que o dever do subcontratante de informar o
-     responsável pelo tratamento sobre qualquer alteração de subcontratantes implica que o
-     subcontratante indique ou assinale ativamente essas alterações ao responsável pelo tratamento.54 De
-     igual modo, é necessária uma autorização específica. O contrato deve definir o processo para obter
-     essa autorização.
+      Adopted - After public consultation                                                                  37
 
-129. Quando o subcontratante contrata outro subcontratante, tem de ser celebrado um contrato entre
-     eles, impondo as mesmas obrigações de proteção de dados que as impostas ao subcontratante original
-     ou essas obrigações têm de ser impostas por outro ato normativo nos termos do direito da União ou
-     de um dos Estados-Membros (ver também o número 160 infra). Isso inclui a obrigação, prevista no
-     artigo 28.º, n.º 3, alínea h), de facilitar e contribuir para as auditorias conduzidas pelo responsável pelo
-     tratamento ou por outro auditor por este mandatado.55 O subcontratante tem responsabilidade
-     perante o responsável pelo tratamento pelo cumprimento por parte dos outros subcontratantes das
-     obrigações de proteção de dados (para mais pormenores sobre o conteúdo recomendado do acordo
-     ver a subsecção 1.6 infra56).
+      indicates or flags such changes toward the controller. 54 Also, where specific authorisation is required,
+      the contract should set out the process for obtaining such authorisation.
 
-      1.3.5 O subcontratante tem de prestar assistência ao responsável pelo tratamento para
-            permitir que este cumpra a sua obrigação de dar resposta aos pedidos dos titulares
-            dos dados tendo em vista o exercício dos seus direitos [artigo 28.º, n.º 3, alínea e), do
-            RGPD].
-130. Embora assegurar que os pedidos dos titulares dos dados são tratados seja da competência do
-     responsável pelo tratamento, o contrato tem de estipular que o subcontratante tem uma obrigação
-     de prestar assistência «na medida do possível, através de medidas técnicas e organizativas
-     adequadas». A natureza desta assistência pode variar significativamente «[tomando] em conta a
-     natureza do tratamento» e dependendo do tipo de atividade confiada ao subcontratante. Os
-     pormenores relativos à assistência a prestar pelo subcontratante devem ser incluídos no contrato ou
-     num anexo do mesmo.
+129. When the processor engages another processor, a contract must be put in place between them,
+     imposing the same data protection obligations as those imposed on the original processor or these
+     obligations must be imposed by another legal act under Union or Member State law (see also below
+     paragraph 160). This includes the obligation under Article 28(3)(h) to allow for and contribute to audits
+     by the controller or another auditor mandated by the controller. 55 The processor is liable to the
+     controller for the other processors’ compliance with data protection obligations (for further details on
+     the recommended content of the agreement see sub-section 1.6 below 56).
 
+      1.3.5 The processor must assist the controller for the fulfilment of its obligation to respond
+            to requests for exercising the data subject's rights (Article 28(3) (e) GDPR).
+130. While ensuring that data subjects requests are dealt with is up to the controller, the contract must
+     stipulate that the processor has an obligation to provide assistance “by appropriate technical and
+     organisational measures, insofar as this is possible”. The nature of this assistance may vary greatly
+     “taking into account the nature of the processing” and depending on the type of activity entrusted to
+     the processor. The details concerning the assistance to be provided by the processor should be
+     included in the contract or in an annex thereto.
+
+131. While the assistance may simply consist in promptly forwarding any request received and/or enabling
+     the controller to directly extract and manage the relevant personal data, in some circumstances the
+     processor will be given more specific, technical duties, especially when it is in the position of extracting
+     and managing the personal data.
+
+132. It is crucial to bear in mind that, although the practical management of individual requests can be
+     outsourced to the processor, the controller bears the responsibility for complying with such requests.
+     Therefore, the assessment as to whether requests by data subjects are admissible and/or the
+     requirements set by the GDPR are met should be performed by the controller, either on a case-by-case
+     basis or through clear instructions provided to the processor in the contract before the start of the
+     processing. Also, the deadlines set out by Chapter III cannot be extended by the controller based on
+     the fact that the necessary information must be provided by the processor.
+
+      1.3.6 The processor must assist the controller in ensuring compliance with the obligations
+            pursuant to Articles 32 to 36 (Art. 28(3)(f) GDPR).
+133. It is necessary for the contract to avoid merely restating these duties of assistance: the agreement
+     should contain details as to how the processor is asked to help the controller meet the listed
+     obligations. For example, procedures and template forms may be added in the annexes to the
+     agreement, allowing the processor to provide the controller with all the necessary information.
+
+134. The type and degree of assistance to be provided by the processor may vary widely “taking into
+     account the nature of processing and the information available to the processor”. The controller must
 
 
       54
-         A este respeito não é, em contrapartida, por exemplo suficiente que o subcontratante forneça simplesmente
-      um acesso generalizado a uma lista de subcontratantes que poderá ser atualizada ocasionalmente, sem indicar
-      cada novo subcontratante previsto. Dito de outro modo, o subcontratante tem de informar ativamente o
-      responsável pelo tratamento sobre qualquer alteração da lista (ou seja, em especial sobre cada novo
-      subcontratante previsto).
+         In this regard it is, by contrast, e.g. not sufficient for the processor to merely provide the controller with a
+      generalized access to a list of the sub-processors which might be updated from time to time, without pointing to
+      each new sub-processor envisaged. In other words, the processor must actively inform the controller of any
+      change to the list (i.e. in particular of each new envisaged sub-processor).
       55
-         Ver também o Parecer 14/2019 do CEPD sobre o projeto de cláusulas contratuais tipo apresentado pela AC
-      dinamarquesa (artigo 28.º, n.º 8, do RGPD), n.º 44.
+         See also EDPB Opinion 14/2019 on the draft Standard Contractual Clauses submitted by the DK SA (Article
+      28(8) GDPR), 9 July 2019, at paragraph 44.
       56
-         Ver parte II, subsecção 1.6 («Subcontratantes»).
+         See Part II, sub-section 1.6 (“Sub-processors”).
 
-      Adotadas - Após consulta pública                                                                         43
+      Adopted - After public consultation                                                                             38
 
-131. Embora a assistência possa simplesmente consistir no encaminhamento imediato de um pedido
-     recebido e/ou permitir ao responsável pelo tratamento extrair e gerir diretamente os dados pessoais
-     pertinentes, nalgumas circunstâncias o subcontratante terá deveres mais específicos e técnicos,
-     sobretudo quando está em posição de extrair e gerir os dados pessoais.
+      adequately inform the processor as to the risk involved in the processing and as to any other
+      circumstance that may help the processor meet its duty.
 
-132. É crucial ter consciência de que, embora a gestão prática de pedidos individuais possa ser externalizada
-     para o subcontratante, o responsável pelo tratamento tem a responsabilidade de dar cumprimento a
-     esses pedidos. Por conseguinte, a avaliação de se os pedidos apresentados pelos titulares dos dados
-     são admissíveis e/ou os requisitos estabelecidos pelo RGPD estão satisfeitos deve ser realizada pelo
-     responsável pelo tratamento, numa base caso a caso ou através de instruções claras fornecidas ao
-     subcontratante no contrato antes do início do tratamento. De igual modo, os prazos fixados pelo
-     capítulo III não podem ser prorrogados pelo responsável pelo tratamento com base no facto de que as
-     informações necessárias têm de ser prestadas pelo subcontratante.
+135. Moving on to the specific obligations, the processor has, first, a duty to assist the controller in meeting
+     the obligation to adopt adequate technical and organisational measures to ensure security of
+     processing. 57 While this may overlap, to some extent, with the requirement that the processor itself
+     adopts adequate security measures, where the processing operations of the processor fall within the
+     scope of the GDPR, they remain two distinct obligations, since one refers to the processor’s own
+     measures and the other refers to the controller’s.
 
-      1.3.6 O subcontratante tem de prestar assistência no sentido de assegurar o cumprimento
-            das obrigações previstas nos artigos 32.º a 36.º [artigo 28.º, n.º 3, alínea f), do
-            RGPD].
-133. É necessário que o contrato evite simplesmente reproduzir estes deveres de assistência: o acordo deve
-     conter pormenores relativamente à forma como o subcontratante deve ajudar o responsável pelo
-     tratamento a cumprir as obrigações elencadas. Por exemplo, podem ser aditados procedimentos e
-     modelos de formulários aos anexos do acordo, permitindo ao subcontratante prestar ao responsável
-     pelo tratamento todas as informações necessárias.
+136. Secondly, the processor must assist the controller in meeting the obligation to notify personal data
+     breaches to the supervisory authority and to data subjects. The processor must notify the controller
+     whenever it discovers a personal data breach affecting the processor’s or a sub-processor’s facilities /
+     IT systems and help the controller in obtaining the information that need to be stated in the report to
+     the supervisory authority. 58 The GDPR requires that the controller notify a breach without undue delay
+     in order to minimize the harm for individuals and to maximize the possibility to address the breach in
+     an adequate manner. Thus, the processor’s notification to the data controller should also take place
+     without undue delay. 59 Depending on the specific features of the processing entrusted to the
+     processor, it may be appropriate for the parties to include in the contract a specific timeframe (e.g.
+     number of hours) by which the processor should notify the controller, as well as the point of contact
+     for such notifications, the modality and the minimum content expected by the controller. 60 The
+     contractual arrangement between the controller and the processor may also include an authorisation
+     and a requirement for the processor to directly notify a data breach in accordance with Articles 33 and
+     34, but the legal responsibility for the notification remains with the controller. 61 If the processor does
+     notify a data breach directly to the supervisory authority, and inform data subjects in accordance with
+     Article 33 and 34, the processor must also inform the controller and provide the controller with copies
+     of the notification and information to data subjects.
 
-134. O tipo e grau de assistência a prestar pelo subcontratante pode variar significativamente «tendo em
-     conta a natureza do tratamento e a informação ao dispor do subcontratante». O responsável pelo
-     tratamento tem de informar adequadamente o subcontratante relativamente ao risco envolvido no
-     tratamento e em relação a quaisquer outras circunstâncias que possam ajudar o subcontratante a
-     cumprir o seu dever.
+137. Furthermore, the processor must also assist the controller in carrying out data protection impact
+     assessments when required, and in consulting the supervisory authority when the outcome reveals
+     that there is a high risk that cannot be mitigated.
 
-135. Passando para as obrigações específicas, o subcontratante tem, em primeiro lugar, um dever de
-     prestar assistência ao responsável pelo tratamento no cumprimento da obrigação de adotar medidas
-     técnicas e organizativas adequadas para garantir a segurança do tratamento57 Embora tal se possa
-     sobrepor, em certa medida, ao requisito de o próprio subcontratante adotar medidas de segurança
-     adequadas, quando as operações de tratamento do subcontratante se inserem no âmbito de aplicação
-     do RGPD, continuam a ser duas obrigações distintas, porquanto uma se refere às próprias medidas do
-     subcontratante e a outra se refere às do responsável pelo tratamento.
-
-136. Em segundo lugar, o subcontratante tem de prestar assistência ao responsável pelo tratamento no
-     cumprimento da obrigação de notificar violação de dados pessoais à autoridade de controlo e aos
-     titulares dos dados. O subcontratante tem de notificar o responsável pelo tratamento sempre que
-     descobrir uma violação de dados pessoais que afete as instalações/sistemas informáticos deste ou de
-     outros subcontratantes e ajudar o responsável pelo tratamento na obtenção de informações que têm
-     de figurar no relatório para a autoridade de controlo.58 O RGPD exige que o responsável pelo
-     tratamento notifique uma violação sem demora injustificada, a fim de minimizar os danos para as
-     pessoas e maximizar a possibilidade de corrigir a violação de forma adequada. Assim, a notificação do
-
+138. The duty of assistance does not consist in a shift of responsibility, as those obligations are imposed on
+     the controller. For instance, although the data protection impact assessment can in practice be carried
+     out by a processor, the controller remains accountable for the duty to carry out the assessment 62 and
+     the processor is only required to assist the controller “where necessary and upon request.” 63 As a
+     result, the controller is the one that must take the initiative to perform the data protection impact
+     assessment, not the processor.
 
 
       57
-           Artigo 32.º do RGPD.
+         Article 32 GDPR.
       58
-           Artigo 33.º, n.º 3, do RGPD.
-
-      Adotadas - Após consulta pública                                                                    44
-
-      subcontratante ao responsável pelo tratamento dos dados deve ocorrer sem demora injustificada59
-      Dependendo das características específicas do tratamento confiado ao subcontratante, pode ser
-      apropriado que as partes incluam no contrato um prazo específico (por exemplo, número de horas)
-      até ao qual o subcontratante deve notificar o responsável pelo tratamento, bem como o ponto de
-      contacto para essas notificações, a modalidade e o conteúdo mínimo esperado pelo responsável pelo
-      tratamento.60 O acordo contratual entre o responsável pelo tratamento e o subcontratante pode
-      também incluir uma autorização e um requisito de o subcontratante notificar diretamente uma
-      violação de dados em conformidade com os artigos 33.º e 34.º, mas a responsabilidade legal pela
-      notificação continua a ser do responsável pelo tratamento.61 Se o subcontratante notificar uma
-      violação de dados diretamente à autoridade de controlo, e informar os titulares dos dados em
-      conformidade com os artigos 33.º e 34.º, o subcontratante tem também de informar o responsável
-      pelo tratamento e fornecer-lhe cópias da notificação e das informações aos titulares dos dados.
-
-137. Além disso, o subcontratante tem também de prestar assistência ao responsável pelo tratamento na
-     realização de avaliações do impacto sobre a proteção de dados quando necessário e na consulta da
-     autoridade de controlo quando o resultado revelar que existe um risco elevado não passível de ser
-     mitigado.
-
-138. O dever de assistência não consiste numa mudança de responsabilidade, uma vez que essas obrigações
-     são impostas ao responsável pelo tratamento. Por exemplo, embora a avaliação do impacto sobre a
-     proteção de dados possa na prática ser realizada por um subcontratante, o responsável pelo
-     tratamento continua a ser responsável pelo dever de realizar a avaliação62 e o subcontratante é apenas
-     obrigado a prestar assistência ao responsável pelo tratamento « se necessário e a pedido deste».63
-     Consequentemente, o responsável pelo tratamento é quem tem de tomar a iniciativa de realizar a
-     avaliação do impacto sobre a proteção de dados, não o subcontratante.
-
-      1.3.7 Depois de concluídas as atividades de tratamento, o subcontratante tem de,
-            consoante a escolha do responsável pelo tratamento, apagar ou devolver-lhe todos
-            os dados pessoais e apagar as cópias existentes [artigo 28.º, n.º 3, alínea g), do
-            RGPD].
-139. Os termos contratuais destinam-se a garantir que os dados pessoais estão sujeitos a uma proteção
-     apropriada depois de concluída a «prestação de serviços relacionados com o tratamento»: por
-     conseguinte, compete ao responsável pelo tratamento decidir aquilo que o subcontratante deve fazer
-     relativamente aos dados pessoais.
-
-140. O responsável pelo tratamento pode decidir no início se os dados pessoais devem ser apagados ou
-     devolvidos especificando-o no contrato, através de uma comunicação por escrito a ser enviada
-     oportunamente ao subcontratante. O contrato ou outro ato normativo deve refletir a possibilidade de
-     o responsável pelo tratamento dos dados alterar a escolha feita antes da conclusão da prestação dos
-
-
+         Article 33(3) GDPR.
       59
-         Para mais informações, ver as Orientações sobre a notificação de uma violação de dados pessoais ao abrigo
-      do Regulamento (UE) 2016/679, WP250rev.01, 6 de fevereiro de 2018, pp. 13- 14.
+         For more information, see the Guidelines on Personal data breach notification under Regulation 2016/679,
+      WP250rev.01, 6 February 2018, p. 13-14.
       60
-         Ver também o Parecer do CEPD 14/2019 sobre o projeto de cláusulas contratuais tipo apresentado pela AC
-      dinamarquesa (artigo 28.º, n.º 8, do RGPD), adotado em 9 de julho de 2019, n.º 40.
+         See also EDPB Opinion 14/2019 on the draft Standard Contractual Clauses submitted by the DK SA (Article
+      28(8) GDPR), 9 July 2019, at paragraph 40.
       61
-         Orientações sobre a notificação de uma violação de dados pessoais ao abrigo do Regulamento (UE)
-      2016/679, WP250rev.01, 6 de fevereiro de 2018, p. 14.
+         Guidelines on Personal data breach notification under Regulation 2016/679, WP250rev.01, 6 February 2018,
+      p. 14.
       62
-         Grupo de Trabalho do Artigo 29.º para a Proteção de Dados, Orientações relativas à Avaliação de Impacto
-      sobre a Proteção de Dados (AIPD) e que determinam se o tratamento é «suscetível de resultar num elevado
-      risco» para efeitos do Regulamento (UE) 2016/679, WP 248 rev.01, p. 14.
+         Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and
+      determining whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679, WP
+      248 rev.01, p. 14
       63
-         Considerando 95 do RGPD.
+         Recital 95 GDPR.
 
-      Adotadas - Após consulta pública                                                                         45
+      Adopted - After public consultation                                                                         39
 
-      serviços relacionados com o tratamento. O contrato deve especificar o processo para fornecer essas
-      instruções.
+      1.3.7 On termination of the processing activities, the processor must, at the choice of the
+            controller, delete or return all the personal data to the controller and delete existing
+            copies (Art. 28(3)(g) GDPR).
+139. The contractual terms are meant to ensure that the personal data are subject to appropriate
+     protection after the end of the “provision of services related to the processing”: it is therefore up to
+     the controller to decide what the processor should do with regard to the personal data.
 
-141. Se o responsável pelo tratamento optar pelo apagamento dos dados pessoais, o subcontratante deve
-     assegurar que o apagamento é realizado de uma forma segura, também com vista ao cumprimento do
-     artigo 32.º do RGPD. O subcontratante deve confirmar ao responsável pelo tratamento que o
-     apagamento foi realizado num prazo acordado e de uma forma acordada.
+140. The controller can decide at the beginning whether personal data shall be deleted or returned by
+     specifying it in the contract, through a written communication to be timely sent to the processor. The
+     contract or other legal act should reflect the possibility for the data controller to change the choice
+     made before the end of the provision of services related to the processing. The contract should specify
+     the process for providing such instructions.
 
-142. O subcontratante tem de apagar todas as cópias existentes dos dados, salvo se o direito da UE ou de
-     um dos Estados-Membros exigir que a conservação seja prolongada. Se o subcontratante ou o
-     responsável pelo tratamento tiver conhecimento de tal requisitos legal, deve informar a outra parte o
-     mais rapidamente possível.
+141. If the controller chooses that the personal data be deleted, the processor should ensure that the
+     deletion is performed in a secure manner, also in order to comply with Article 32 GDPR. The processor
+     should confirm to the controller that the deletion has been completed within an agreed timescale and
+     in an agreed manner.
 
-      1.3.8 O subcontratante deve disponibilizar ao responsável pelo tratamento todas as
-            informações necessárias para demonstrar o cumprimento das obrigações previstas no
-            artigo 28.º e permitir e contribuir para a realização de auditorias, inclusive as
-            inspeções, realizadas pelo responsável pelo tratamento ou por outro auditor por este
-            mandatado [artigo 28.º, n.º 3, alínea h), do RGPD].
-143. O contrato deve incluir informações sobre com que frequência e de que forma o fluxo de informações
-     entre o subcontratante e o responsável pelo tratamento deve ocorrer, para que este último esteja
-     plenamente informado relativamente aos pormenores do tratamento que são pertinentes para
-     demonstrar o cumprimento das obrigações previstas no artigo 28.º do RGPD. Por exemplo, as partes
-     relevantes dos registos de atividades de tratamento do subcontratante podem ser partilhadas com o
-     responsável pelo tratamento. O subcontratante deve prestar todas as informações sobre como a
-     atividade de tratamento será realizada por conta do responsável pelo tratamento. Essas informações
-     devem incluir informações sobre o funcionamento dos sistemas utilizados, as medidas de segurança,
-     de que forma são cumpridos os requisitos de conservação de dados, a localização dos dados, as
-     transferências de dados, quem tem acesso aos dados e quem são os destinatários dos dados, a que
-     subcontratantes se recorreu, etc.
+142. The processor must delete all existing copies of the data, unless EU or Member State law requires
+     further storage. If the processor or controller is aware of any such legal requirement, it should inform
+     the other party as soon as possible.
 
-144. O contrato deve também prever mais pormenores relativamente à capacidade de realizar inspeções e
-     auditorias e ao dever de contribuir para as mesmas por parte do responsável pelo tratamento ou de
-     outro auditor por este mandatado.
+       1.3.8 The processor must make available to the controller all information necessary to
+             demonstrate compliance with the obligations laid down in Article 28 and allow for and
+             contribute to audits, including inspections, conducted by the controller or another
+             auditor mandated by the controller (Art. 28(3)(h) GDPR).
+143. The contract shall include details on how often and how the flow of information between the processor
+     and the controller should take place so that the controller is fully informed as to the details of the
+     processing that are relevant to demonstrate compliance with the obligations laid down in Article 28
+     GDPR. For instance, the relevant portions of the processor’s records of processing activities may be
+     shared with the controller. The processor should provide all information on how the processing activity
+     will be carried out on behalf of the controller. Such information should include information on the
+     functioning of the systems used, security measures, how the data retention requirements are met,
+     data location, transfers of data, who has access to data and who are the recipients of data, sub-
+     processors used, etc.
 
-      O RGPD especifica que as inspeções e auditorias são realizadas pelo responsável pelo tratamento ou
-      por um terceiro mandatado por este. O objetivo dessa auditoria consiste em garantir que o
-      responsável pelo tratamento dispõe de todas as informações relativas à atividade de tratamento
-      realizada por sua conta e das garantias apresentadas pelo subcontratante. O subcontratante pode
-      sugerir a escolha de um auditor específico, mas a decisão final tem de ser do responsável pelo
-      tratamento de acordo com o artigo 28.º, n.º 3, alínea h), do RGPD.64 Além disso, mesmo quando a
-      inspeção seja realizada por um auditor proposto pelo subcontratante, o responsável pelo tratamento
-      conserva o direito de contestar o âmbito, a metodologia e os resultados da inspeção65
+144. Further details shall also be set out in the contract regarding the ability to carry out and the duty to
+     contribute to inspections and audits by the controller or another auditor mandated by the controller.
 
-      As partes devem cooperar de boa-fé e analisar se e quando há necessidade de realizar auditorias nas
-      instalações do subcontratante, bem como em relação ao tipo de auditoria ou inspeção (à distância/no
+      The GDPR specifies the inspections and audits are carried out by the controller or by a third party
+      mandated by the controller. The goal of such audit is ensuring that the controller has all information
+      concerning the processing activity performed on its behalf and the guarantees provided by the
+      processor. The processor may suggest the choice of a specific auditor, but the final decision has to be
+      left to the controller according to Article 28(3)(h) of the GDPR. 64 Additionally, even where the
+
+
+
 
       64
-         Ver o Parecer Conjunto 1/2021 do CEPD e da AEPD sobre a Decisão de Execução da Comissão Europeia relativa
-      às cláusulas contratuais- tipo entre os responsáveis pelo tratamento e os subcontratantes, n.º 43.
+        See EDPB-EDPS Joint Opinion 1/2021 on standard contractual clauses between controllers and processors,
+      paragraph 43.
+
+      Adopted - After public consultation                                                                  40
+
+      inspection is performed by an auditor proposed by the processor, the controller retains the right to
+      contest the scope, methodology and results of the inspection. 65
+
+      The parties should cooperate in good faith and assess whether and when there is a need to perform
+      audits on the processor’s premises,, as well as which type of audit or inspection (remote / on-site /
+      other way to gather the necessary information) would be needed and appropriate in the specific case
+      also taking into account security concerns; the final choice on this is to be taken by the controller.
+      Following the results of the inspection, the controller should be able to request the processor to take
+      subsequent measures, e.g. to remedy shortcomings and gaps identified. 66 Likewise, specific
+      procedures should be established regarding the processor’s and the controller’s inspection of sub-
+      processors (see sub-section 1.6 below 67).
+
+145. The issue of the allocation of costs between a controller and a processor concerning audits is not
+     covered by the GDPR and is subject to commercial considerations. However, Article 28 (3)(h) requires
+     that the contract include an obligation for the processor to make available all information necessary
+     to the controller and an obligation to allow for and contribute to audits, including inspections,
+     conducted by the controller or another auditor mandated by the controller. This means in practice that
+     parties should not insert in the contract clauses envisaging the payment of costs or fees that would be
+     clearly disproportionate or excessive, thus having a dissuasive effect on one of the parties. Such clauses
+     would indeed imply that the rights and obligations set out in Article 28(3)(h) would never be exercised
+     in practice and would become purely theoretical whereas they form an integral part of the data
+     protection safeguards envisaged under Article 28 GDPR.
+
+      1.4    Instructions infringing data protection law
+
+146. According to Article 28(3), the processor must immediately inform the controller if, in its opinion, an
+     instruction infringes the GDPR or other Union or Member State data protection provisions.
+
+147. Indeed, the processor has a duty to comply with the controller’s instructions, but it also has a general
+     obligation to comply with the law. An instruction that infringes data protection law seems to cause a
+     conflict between the aforementioned two obligations.
+
+148. Once informed that one of its instructions may be in breach of data protection law, the controller will
+     have to assess the situation and determine whether the instruction actually violates data protection
+     law.
+
+149. The EDPB recommends the parties to negotiate and agree in the contract the consequences of the
+     notification of an infringing instruction sent by the processor and in case of inaction from the controller
+     in this context. One example would be to insert a clause on the termination of the contract if the
+     controller persists with an unlawful instruction. Another example would be a clause on the possibility
+     for the processor to suspend the implementation of the affected instruction until the controller
+     confirms, amends or withdraws its instruction 68.
+
+
+
+
       65
-         Ver o Parecer 14/2019 sobre o projeto de cláusulas contratuais-tipo apresentado pela AC dinamarquesa (artigo
-      28.º, n.º 8, do RGPD).
-
-      Adotadas - Após consulta pública                                                                            46
-
-      local/outra forma de recolher as informações necessárias) que seria necessária e apropriada no caso
-      específico, tendo igualmente em conta as preocupações em termos de segurança; a escolha final deve
-      ser feita pelo responsável pelo tratamento. Na sequência dos resultados da inspeção, o responsável
-      pelo tratamento deve poder pedir ao subcontratante que adote medidas subsequentes, por exemplo,
-      para corrigir deficiências e lacunas identificadas.66 De igual modo, devem ser estabelecidos
-      procedimentos específicos relativamente à inspeção por parte do subcontratante e do responsável
-      pelo tratamento de subcontratantes (ver subseção 1.6 infra67).
-
-145. A questão da afetação de custos entre um responsável pelo tratamento e um subcontratante
-     respeitantes às auditorias não é abrangida pelo RGPD e está sujeita a considerações comerciais.
-     Contudo, o artigo 28.º, n.º 3, alínea h), exige que o contrato inclua uma obrigação de o subcontratante
-     disponibilizar todas as informações necessárias ao responsável pelo tratamento e uma obrigação de
-     permitir e contribuir para auditorias, inclusive inspeções, realizadas pelo responsável pelo tratamento
-     ou outro auditor por este mandatado. Tal significa que as partes não devem introduzir no contrato
-     cláusulas que prevejam o pagamento de custos ou taxas que seriam claramente desproporcionados
-     ou excessivos, tendo assim um efeito dissuasor nas partes. Essas cláusulas implicariam efetivamente
-     que os direitos e as obrigações previstos no artigo 28.º, n.º 3, alínea h) nunca seriam exercidos na
-     prática e tornar-se-iam puramente teóricos, embora façam parte integrante das garantias de proteção
-     de dados previstas nos termos do artigo 28.º do RGPD.
-
-      1.4    Instruções que violam a legislação em matéria de proteção de dados
-
-146. Segundo o artigo 28.º, n.º 3, o subcontratante informa imediatamente o responsável pelo tratamento
-     se, no seu entender, alguma instrução violar o RGPD ou outras disposições do direito da União ou de
-     um dos Estados-Membros em matéria de proteção de dados.
-
-147. Com efeito, um subcontratante tem o dever de cumprir todas as instruções do responsável pelo
-     tratamento, mas tem também uma obrigação geral de cumprir a legislação. Uma instrução que viole a
-     legislação em matéria de proteção de dados parece causar um conflito entre as duas obrigações
-     supracitadas.
-
-148. Assim que for informado que uma das suas instruções pode violar a legislação em matéria de proteção
-     de dados, o responsável pelo tratamento terá de analisar a situação e determinar se a instrução viola
-     efetivamente a legislação em matéria de proteção de dados.
-
-149. O CEPD recomenda que as partes negoceiem e acordem no contrato as consequências da notificação
-     de uma instrução infratora enviada pelo subcontratante e em caso de inação do responsável pelo
-     tratamento neste contexto. Um exemplo seria introduzir uma cláusula sobre a denúncia do contrato
-     se o responsável pelo tratamento insistir na instrução ilegal. Outro exemplo seria uma cláusula sobre
-     a possibilidade de o subcontratante suspender a execução da instrução afetada até o responsável pelo
-     tratamento confirmar, alterar ou retirar a sua instrução68.
-
-      1.5 Subcontratante que determina as finalidades e os meios do tratamento
-
-
-
+         See Opinion 14/2019 on the draft Standard Contractual Clauses submitted by the DK SA (Article 28(8) GDPR),
+      paragraph 43.
       66
-         Ver o Parecer 14/2019 sobre o projeto de cláusulas contratuais-tipo apresentado pela AC dinamarquesa
-      (artigo 28.º, n.º 8, do RGPD).
+         See Opinion 14/2019 on the draft Standard Contractual Clauses submitted by the DK SA (Article 28(8) GDPR),
+      paragraph 43.
       67
-         Ver parte II, subsecção 1.6 («Subcontratantes»).
+         See Part II, sub-section 1.6 (“Sub-processors”).
       68
-         Ver o Parecer Conjunto 1/2021 do CEPD e da AEPD sobre a Decisão de Execução da Comissão Europeia relativa
-      às cláusulas contratuais- tipo entre os responsáveis pelo tratamento e os subcontratantes, n.º 39.
+         See EDPB-EDPS Joint Opinion 1/2021 on standard contractual clauses between controllers and processors,
+      paragraph 39.
 
-      Adotadas - Após consulta pública                                                                         47
+      Adopted - After public consultation                                                                       41
 
-150. O subcontratante que, em violação do regulamento, determinar as finalidades e os meios de
-     tratamento, é considerado responsável pelo tratamento no que respeita ao tratamento em questão
-     (artigo 28.º, n.º 10, do RGPD).
+      1.5 Processor determining purposes and means of processing
 
-      1.6 Subcontratantes
-151. As atividades de tratamento de dados são amiúde realizadas por um grande número de intervenientes
-     e as cadeias de subcontratação estão a tornar-se cada vez mais complexas. O RGPD introduz
-     obrigações específicas que são acionadas quando um subcontratante tenciona contratar outro
-     interveniente, adicionando assim mais um elo à cadeia, confiando-lhe atividades que requerem o
-     tratamento de dados pessoais. A análise de se o prestador de serviços age como um subcontratante
-     deve ser realizada em linha com o que foi descrito anteriormente sobre o conceito de subcontratante
-     (ver o número 83 supra).
+150. If the processor infringes the Regulation by determining the purposes and means of processing, it shall
+     be considered as a controller in respect of that processing (Article 28(10) GDPR).
 
-152. Embora a cadeia possa ser bastante extensa, o responsável pelo tratamento conserva o seu papel
-     preponderante na determinação da finalidade e dos meios do tratamento. O artigo 28.º, n.º 2, do
-     RGPD estipula que o subcontratante não contrata outro subcontratante sem que o responsável pelo
-     tratamento tenha dado, previamente e por escrito, autorização específica ou geral (inclusive em
-     formato eletrónico). Em caso de autorização geral por escrito, o subcontratante tem de informar o
-     responsável pelo tratamento de quaisquer alterações pretendidas quanto ao aumento do número ou
-     à substituição de outros subcontratantes, dando assim ao responsável pelo tratamento a
-     oportunidade de se opor a tais alterações. Em ambos os casos, o subcontratante tem de obter a
-     autorização por escrito do responsável pelo tratamento antes de ser confiado ao subcontratante
-     qualquer tratamento de dados pessoais. A fim de realizar a avaliação e tomar a decisão de se autorizar
-     a subcontratação, o subcontratante terá de facultar uma lista de subcontratantes previstos (incluindo
-     em relação a cada um: as suas localizações, o que farão e comprovativo de que garantias foram
-     executadas) ao responsável pelo tratamento dos dados.69
+      1.6 Sub-processors
+151. Data processing activities are often carried out by a great number of actors, and the chains of
+     subcontracting are becoming increasingly complex. The GDPR introduces specific obligations that are
+     triggered when a (sub-)processor intends to engage another player, thereby adding another link to the
+     chain, by entrusting to it activities requiring the processing of personal data. The analysis of whether
+     the service provider acts as a sub-processor should be carried out in line with what described above
+     on the concept of processor (see above paragraph 83).
 
-153. A autorização prévia por escrito pode ser específica, ou seja, referindo-se a um subcontratante
-     específico para uma atividade de tratamento específica e num momento específico, ou geral. Tal deve
-     ser especificado no contrato ou outro ato normativo que rege o tratamento.
+152. Although the chain may be quite long, the controller retains its pivotal role in determining the purpose
+     and means of processing. Article 28(2) GDPR stipulates that the processor shall not engage another
+     processor without prior specific or general written authorisation of the controller (including in
+     electronic form). In the case of general written authorisation, the processor must inform the controller
+     of any intended changes concerning the addition or replacement of other processors, thereby giving
+     the controller the opportunity to object to such changes. In both cases, the processor must obtain the
+     controller’s authorisation in writing before any personal data processing is entrusted to the sub-
+     processor. In order to make the assessment and the decision whether to authorise subcontracting, a
+     list of intended sub-processors (including per each: their locations, what they will be doing and proof
+     of what safeguards have been implemented) will have to be provided to the data controller by the
+     processor. 69
 
-154. Nos casos em que o responsável pelo tratamento decida aceitar certos tipos de subcontratantes no
-     momento da assinatura do contrato, uma lista de subcontratantes aprovados deve ser incluída no
-     contrato ou num anexo do mesmo. A lista deve ser mantida atualizada, em conformidade com a
-     autorização geral ou específica dada pelo responsável pelo tratamento.
+153. The prior written authorisation may be specific, i.e. referring to a specific sub-processor for a specific
+     processing activity and at a specific time, or general. This should be specified in the contract or other
+     legal act that governs the processing.
 
-155. Se o responsável pelo tratamento optar por dar a sua autorização específica, deve especificar por
-     escrito a que subcontratante e a que atividade de tratamento se refere. Qualquer alteração
-     subsequente terá de ser novamente autorizada pelo responsável pelo tratamento antes de ser
-     implementada. Se o pedido do subcontratante de uma autorização específica não obtiver resposta
-     dentro de um prazo estabelecido, deve ser considerado como recusado. O responsável pelo
-     tratamento deve tomar a sua decisão de conceder ou retirar autorização tendo em conta a sua
-     obrigação de apenas recorrer a subcontratantes que apresentem «garantias suficientes» (ver
-     subsecção 1.1 acima70).
+154. In cases where the controller decides to accept certain sub-processors at the time of the signature of
+     the contract, a list of approved sub-processors should be included in the contract or an annex thereto.
+     The list should then be kept up to date, in accordance with the general or specific authorisation given
+     by the controller.
+
+155. If the controller chooses to give its specific authorisation, it should specify in writing which sub-
+     processor and what processing activity it refers to. Any subsequent change will need to be further
+     authorised by the controller before it is put in place. If the processor’s request for a specific
+     authorisation is not answered to within the set timeframe, it should be held as denied. The controller
+     should make its decision to grant or withhold authorisation taking into account its obligation to only
+     use processors providing “sufficient guarantees” (see sub-section 1.1 above 70).
+
+156. Alternatively, the controller may provide its general authorisation to the use of sub-processors (in the
+     contract, including a list with such sub-processors in an annex thereto), which should be supplemented
+     with criteria to guide the processor’s choice (e.g., guarantees in terms of technical and organisational
 
 
 
 
       69
-         Estas informações são necessárias, para que o responsável pelo tratamento possa cumprir o princípio da
-      responsabilidade previsto no artigo 24.º e as disposições dos artigos 28.º, n.º 1, 32.º, e do capítulo V do RGPD.
+         This information is needed, so that the controller can comply with the accountability principle in Article 24 and
+      with provisions of Articles 28(1), 32 and Chapter V of the GDPR.
       70
-         Ver parte II - subsecção 1.1 («Escolha do subcontratante»).
+         See Part II - sub-section 1.1 (“Choice of the processor”).
 
-      Adotadas - Após consulta pública                                                                              48
+      Adopted - After public consultation                                                                              42
 
-156. Em alternativa, o responsável pelo tratamento pode dar a sua autorização geral à utilização de
-     subcontratantes (no contrato, incluindo uma lista com esses subcontratantes num anexo do mesmo),
-     que deverá ser complementada com critérios para orientar a escolha do subcontratante (por exemplo,
-     garantias em termos de medidas técnicas e organizativas, conhecimento especializado, fiabilidade e
-     recursos).71 Neste cenário, o subcontratante tem de informar o responsável pelo tratamento em
-     tempo oportuno sobre qualquer aumento do número ou a substituição de subcontratantes, dando
-     assim ao responsável pelo tratamento a oportunidade de se opor.
+      measures, expert knowledge, reliability and resources). 71 In this scenario, the processor needs to
+      inform the controller in due time of any intended addition or replacement of sub-processor(s) so as to
+      provide the controller with the opportunity to object.
 
-157. Por conseguinte, a principal diferença entre os cenários de autorização específica e autorização geral
-     reside no significado atribuído ao silêncio do responsável pelo tratamento: na situação da autorização
-     geral, a não oposição do responsável pelo tratamento dentro do prazo fixado pode ser interpretada
-     como autorização.
+157. Therefore, the main difference between the specific authorisation and the general authorisation
+     scenarios lies in the meaning given to the controller’s silence: in the general authorisation situation,
+     the controller’s failure to object within the set timeframe can be interpreted as authorisation.
 
-158. Em ambos os cenários, o contrato deve incluir pormenores sobre o prazo para a aprovação ou objeção
-     do responsável pelo tratamento e como as partes tencionam comunicar relativamente a este tópico
-     (por exemplo, modelos). Esse prazo tem de ser razoável à luz do tipo de tratamento, da complexidade
-     das atividades confiadas ao subcontratante (e outros subcontratantes) e da relação entre as partes.
-     Além disso, o contrato deve incluir pormenores quanto às medidas práticas na sequência da objeção
-     do responsável pelo tratamento (por exemplo, especificando o prazo no qual o responsável pelo
-     tratamento e o subcontratante devem decidir se o tratamento deve ser terminado).
+158. In both scenarios, the contract should include details as to the timeframe for the controller’s approval
+     or objection and as to how the parties intend to communicate regarding this topic (e.g. templates).
+     Such timeframe needs to be reasonable in light of the type of processing, the complexity of the
+     activities entrusted to the processor (and the sub-processors) and the relationship between the
+     parties. In addition, the contract should include details as to the practical steps following the
+     controller’s objection (e.g. by specifying time frame within which the controller and processor should
+     decide whether the processing shall be terminated).
 
-159. Independentemente dos critérios sugeridos pelo responsável pelo tratamento para escolher
-     prestadores, o subcontratante continua a ser plenamente responsável perante o responsável pelo
-     tratamento pela execução das obrigações dos subcontratantes (artigo 28.º, n.º 4, do RGPD). Por
-     conseguinte, o subcontratante deve garantir que propõe subcontratantes que apresentem garantias
-     suficientes.
+159. Regardless of the criteria suggested by the controller to choose providers, the processor remains fully
+     liable to the controller for the performance of the sub-processors’ obligations (Article 28(4) GDPR).
+     Therefore, the processor should ensure it proposes sub-processors providing sufficient guarantees.
 
-160. Além disso, quando um subcontratante tenciona contratar outro subcontratante (autorizado), tem de
-     celebrar um contrato que imponha as mesmas obrigações impostas ao primeiro subcontratante pelo
-     responsável pelo tratamento ou as obrigações têm de ser impostas por outro ato normativo nos
-     termos do direito da UE ou de um dos Estados-Membros. Toda a cadeia de atividades de tratamento
-     tem de estar regulamentada por acordos escritos. Impor as «mesmas» condições deve ser
-     interpretado de uma forma funcional e não formal: não é necessário que o contrato inclua exatamente
-     a mesma redação utilizada no contrato entre o responsável pelo tratamento e o subcontratante, mas
-     deve assegurar que as obrigações são em substância as mesmas. Tal significa também que se o
-     subcontratante confiar a outro subcontratante uma parte específica do tratamento, à qual algumas
-     das obrigações não se aplicam, essas obrigações não devem ser incluídas «por defeito» no contrato
-     com o subcontratante, porquanto tal só causaria incerteza. A título de exemplo, no tocante à
-     assistência com obrigações relacionadas com violação de dados, a notificação de uma violação de
-     dados por um subcontratante diretamente ao responsável pelo tratamento poderia ser feita se os três
-     concordarem. Contudo, no caso dessa notificação direta o subcontratante deve ser informado e obter
-     uma cópia da notificação.
+160. Furthermore, when a processor intends to employ an (authorised) sub-processor, it must enter into a
+     contract with it that imposes the same obligations as those imposed on the first processor by the
+     controller or the obligations must be imposed by another legal act under EU or Member State law. The
+     whole chain of processing activities needs to be regulated by written agreements. Imposing the “same”
+     obligations should be construed in a functional rather than in a formal way: it is not necessary for the
+     contract to include exactly the same words as those used in the contract between the controller and
+     the processor, but it should ensure that the obligations in substance are the same. This also means
+     that if the processor entrusts the sub-processor with a specific part of the processing, to which some
+     of the obligations cannot apply, such obligations should not be included “by default” in the contract
+     with the sub-processor, as this would only generate uncertainty. As an example, as to assistance with
+     data breach related obligations, notification of a data breach by a sub-processor directly to the
+     controller could be done if all three agree. However, in the case of such direct notification the
+     processor should be informed and get a copy of the notification.
 
 
+      2 CONSEQUENCES OF JOINT CONTROLLERSHIP
+      2.1 Determining in a transparent manner the respective responsibilities of joint
+          controllers for compliance with the obligations under the GDPR
 
+161. Article 26(1) of the GDPR provides that joint controllers shall in a transparent manner determine and
+     agree on their respective responsibilities for compliance with the obligations under the Regulation.
+
+162. Joint controllers thus need to set “who does what” by deciding between themselves who will have to
+     carry out which tasks in order to make sure that the processing complies with the applicable
+     obligations under the GDPR in relation to the joint processing at stake. In other words, a distribution
+     of responsibilities for compliance is to be made as resulting from the use of the term “respective” in
 
       71
-        Este dever do responsável pelo tratamento decorre do princípio da responsabilidade previsto no artigo 24.º e
-      da obrigação de cumprir as disposições dos artigos 28.º, n.º 1, e 32.º e do capítulo V do RGPD.
+        This duty of the controller stems from the accountability principle in Article 24 and from the obligation to
+      comply with provisions of Articles 28(1), 32 and Chapter V of the GDPR.
 
-      Adotadas - Após consulta pública                                                                           49
 
-      2 CONSEQUÊNCIAS DA RESPONSABILIDADE CONJUNTA PELO
-        TRATAMENTO
-      2.1 Determinar de forma transparente as respetivas responsabilidades dos
-          responsáveis conjuntos pelo tratamento pelo cumprimento das obrigações nos
-          termos do RGPD
+      Adopted - After public consultation                                                                        43
 
-161. O artigo 26.º, n.º 1, do RGPD, prevê que os responsáveis conjuntos pelo tratamento devem, de uma
-     forma transparente, determinar e acordar as respetivas responsabilidades pelo cumprimento do
-     regulamento.
+      Article 26(1). This does not preclude the fact that EU or Member State law may already set out certain
+      responsibilities of each joint controller. Where this is the case, the joint controller arrangement should
+      also address any additional responsibilities necessary to ensure compliance with the GDPR that are not
+      addressed by the legal provisions. 72
 
-162. Os responsáveis conjuntos pelo tratamento necessitam, assim, de definir «quem faz o quê» decidindo
-     entre eles quem terá de executar que tarefas para assegurar que o tratamento cumpre as obrigações
-     aplicáveis nos termos do RGPD em relação ao tratamento conjunto em causa. Dito de outro modo,
-     deve ser feita uma repartição de responsabilidades pelo cumprimento conforme resulta da utilização
-     do termo «respetivas» no artigo 26.º, n.º 1. Tal não exclui o facto de o direito da União ou de um dos
-     Estados-Membros já poder definir certas responsabilidades de cada responsável conjunto pelo
-     tratamento. Se for esse o caso, o acordo de responsabilidade conjunta pelo tratamento deve também
-     abordar quaisquer responsabilidades adicionais necessárias para assegurar o cumprimento do RGPD
-     que não sejam abordadas pelas disposições legais.72
+163. The objective of these rules is to ensure that where multiple actors are involved, especially in complex
+     data processing environments, responsibility for compliance with data protection rules is clearly
+     allocated in order to avoid that the protection of personal data is reduced, or that a negative conflict
+     of competence lead to loopholes whereby some obligations are not complied with by any of the parties
+     involved in the processing. It should be made clear here that all responsibilities have to be allocated
+     according to the factual circumstances in order to achieve an operative agreement. The EDPB observes
+     that there are situations occurring in which the influence of one joint controller and its factual
+     influence complicate the achievement of an agreement. However, those circumstances do not negate
+     the joint controllership and cannot serve to exempt either party from its obligations under the GDPR.
 
-163. O objetivo destas regras é assegurar que quando estejam envolvidos vários intervenientes, sobretudo
-     em ambientes complexos de tratamento de dados, a responsabilidade pelo cumprimento das regras
-     de proteção de dados seja claramente atribuída, a fim de evitar que a proteção de dados pessoais seja
-     reduzida, ou que um conflito negativo de competências resulte em lacunas em que algumas obrigações
-     não são cumpridas por nenhuma das partes envolvidas no tratamento. Cumpre esclarecer aqui que
-     todas as responsabilidades têm de ser atribuídas de acordo com as circunstâncias factuais a fim de
-     alcançar um acordo operacional. O CEPD observa que ocorrem situações em que a influência de um
-     responsável conjunto pelo tratamento e a suas influência factual dificultam a conclusão de um acordo.
-     Contudo, essas circunstâncias não negam a responsabilidade conjunta pelo tratamento e não podem
-     servir para isentar uma das partes das suas obrigações nos termos do RGPD.
+164. More specifically, Article 26(1) specifies that the determination of their respective responsibilities (i.e.
+     tasks) for compliance with the obligations under the GDPR is to be carried out by joint controllers “in
+     particular” as regards the exercising of the rights of the data subject and the duties to provide
+     information referred in Articles 13 and 14, unless and in so far as the respective responsibilities of the
+     controllers are determined by Union or Member State law to which the controllers are subject.
 
-164. Mais concretamente, o artigo 26.º, n.º 1, especifica que a determinação das responsabilidades
-     respetivas (ou seja, tarefas) pelo cumprimento das obrigações nos termos do RGPD deve ser realizada
-     pelos responsáveis conjuntos pelo tratamento «nomeadamente» no que diz respeito ao exercício dos
-     direitos do titular dos dados e aos deveres de fornecer as informações referidas nos artigos 13.º e 14.º,
-     a menos e na medida em que as suas responsabilidades respetivas sejam determinadas pelo direito da
-     União ou de um dos Estados-Membros a que estejam sujeitos.
+165. It is clear from this provision that joint controllers need to define who respectively will be in charge of
+     answering to requests when data subjects exercise their rights granted by the GDPR and of providing
+     information to them as required by Articles 13 and 14 of the GDPR. This only refers to defining in their
+     internal relationship which of the parties is obligated to respond to which data subjects’ requests. .
+     Regardless of any such arrangement, the data subject may contact either of the joint controllers in
+     accordance with Article 26 (3) GPDR. However, the use of the terms “in particular” indicates that the
+     obligations subject to the allocation of responsibilities for compliance by each party involved as
+     referred in this provision are non-exhaustive. It follows that the distribution of the responsibilities for
+     compliance among joint controllers is not limited to the topics referred in Article 26(1) but extends to
+     other controller’s obligations under the GDPR. Indeed, joint controllers need to ensure that the whole
+     joint processing fully complies with the GDPR.
 
-165. Resulta claro desta disposição que os responsáveis conjuntos pelo tratamento têm de definir quem
-     estará, respetivamente, encarregado de responder a pedidos quando os titulares dos dados exercem
-     os seus direitos concedidos pelo RGPD e de lhes fornecer informações conforme exigido pelos artigos
-     13.º e 14.º do RGPD. Tal refere-se apenas a definir na sua relação interna qual das partes está obrigada
+166. In this perspective, the compliance measures and related obligations joint controllers should consider
+     when determining their respective responsibilities, in addition to those specifically referred in Article
+     26(1), include amongst others without limitation:
+
+              Implementation of general data protection principles (Article 5)
+
+              Legal basis of the processing 73 (Article 6)
+
+              Security measures (Article 32)
+
+
 
 
       72
-        «Em qualquer caso, o acordo de responsável conjunto pelo tratamento deve abordar de forma abrangente
-      todas as responsabilidades dos responsáveis conjuntos pelo tratamento, inclusive as que já possam ter sido
-      estabelecidas no direito da União ou de um dos Estados-Membros pertinente e sem prejuízo da obrigação dos
-      responsáveis conjuntos pelo tratamento disponibilizarem a essência do acordo de responsável conjunto de
-      pelo tratamento em conformidade com o artigo 26.º, n.º 2, do RGPD.»
-
-      Adotadas - Após consulta pública                                                                        50
-
-      a responder a que pedidos dos titulares dos dados. . Independentemente de um tal acordo, o titular
-      dos dados pode contactar qualquer um dos responsáveis conjuntos pelo tratamento em conformidade
-      com o artigo 26.º, n.º 3, do RGPD. Contudo, a utilização do termo «nomeadamente» indica que as
-      obrigações sujeitas à atribuição de responsabilidades pelo cumprimento por cada uma das partes
-      envolvidas conforme referido nesta disposição não são exaustivas. Consequentemente, a repartição
-      de responsabilidades pelo cumprimento entre responsáveis conjuntos pelo tratamento não está
-      limitada aos tópicos referidos no artigo 26.º, n.º 1, mas estende-se a outras obrigações do responsável
-      pelo tratamento nos termos do RGPD. Com efeito, os responsáveis conjuntos pelo tratamento têm de
-      assegurar que a integralidade do tratamento conjunto cumpre cabalmente o RGPD.
-
-166. Nesta perspetiva, as medidas de cumprimento e obrigações conexas que os responsáveis conjuntos
-     pelo tratamento devem considerar ao determinar as suas respetivas responsabilidades, além das
-     especificamente referidas no artigo 26.º, n.º 1, incluem, nomeadamente, sem limitação:
-
-              Aplicação de princípios gerais relativos ao tratamento de dados pessoais (artigo 5.º)
-
-              Base jurídica do tratamento73 (artigo 6.º)
-
-              Medidas de segurança (artigo 32.º)
-
-              Notificação de uma violação de dados pessoais à autoridade de controlo e ao titular dos dados74
-               (artigos 33.º e 34.º)
-
-              Avaliações do impacto sobre a proteção de dados (artigos 35.º e 36.º)75
-
-              O recurso a um subcontratante (artigo 28.º)
-
-              Transferências de dados para países terceiros (capítulo V)
-
-              Organização de contacto com titulares dos dados e autoridades de controlo
-
-167. Outros tópicos que poderão ser considerados, dependendo do tratamento em causa e da intenção das
-     partes são, por exemplo, as limitações da utilização de dados pessoais para outra finalidade por
-     qualquer um dos responsáveis conjuntos pelo tratamento. A este respeito, ambos os responsáveis pelo
-     tratamento têm um dever de garantir que ambos dispõem de uma base jurídica para o tratamento.
-     Por vezes, no contexto da responsabilidade conjunta pelo tratamento, os dados pessoais são
-     partilhados por um responsável pelo tratamento com outro. Por uma questão de responsabilidade,
-     cada responsável conjunto pelo tratamento tem o dever de assegurar que os dados não são tratados
-
+         "In any event, the joint controller arrangement should comprehensively address all of the responsibilities of
+      the joint controllers, including those which may have already been set out in the relevant EU or Member State
+      law and without prejudice to the obligation of joint controllers to make available the essence of the joint
+      controller arrangement in accordance with Article 26(2) GDPR."
       73
-         Embora o RGPD não impeça os responsáveis conjuntos pelo tratamento de usarem diferentes bases jurídicas
-      para diferentes operações de tratamento que realizam, recomenda-se usar, sempre que possível, a mesma base
-      jurídica para uma finalidade específica.
+         Although the GDPR does not preclude joint controllers to use different legal basis for different processing
+      operations they carry out, it is recommended to use, whenever possible, the same legal basis for a particular
+      purpose.
+
+      Adopted - After public consultation                                                                          44
+
+              Notification of a personal data breach to the supervisory authority and to the data subject 74
+               (Articles 33 and 34)
+
+              Data Protection Impact Assessments (Articles 35 and 36) 75
+
+              The use of a processor (Article 28)
+
+              Transfers of data to third countries (Chapter V)
+
+              Organisation of contact with data subjects and supervisory authorities
+
+167. Other topics that could be considered depending on the processing at stake and the intention of the
+     parties are for instance the limitations on the use of personal data for another purpose by one of the
+     joint controllers. In this respect, both controllers always have a duty to ensure that they both have a
+     legal basis for the processing. Sometimes, in the context of joint controllership, personal data are
+     shared by one controller to another. As a matter of accountability, each controller has the duty to
+     ensure that the data are not further processed in a manner that is incompatible with the purposes for
+     which they were originally collected by the controller sharing the data. 76
+
+168. Joint controllers can have a certain degree of flexibility in distributing and allocating obligations among
+     them as long as they ensure full compliance with the GDPR with respect of the given processing. The
+     allocation should take into account factors such as, who is competent and in a position to effectively
+     ensure data subject’s rights as well as to comply with the relevant obligations under the GDPR. The
+     EDPB recommends documenting the relevant factors and the internal analysis carried out in order to
+     allocate the different obligations. This analysis is part of the documentation under the accountability
+     principle.
+
+169. The obligations do not need to be equally distributed among the joint controllers. In this respect, the
+     CJEU has recently stated that “the existence of joint responsibility does not necessarily imply equal
+     responsibility of the various operators involved in the processing of personal data”. 77 However, there
+     may be cases where not all of the obligations can be distributed and all joint controllers may need to
+     comply with the same requirements arising from the GDPR, taking into account the nature and context
+     of the joint processing. For instance, joint controllers using shared data processing tools or systems
+     both need to ensure compliance with notably the purpose limitation principle and implement
+     appropriate measures to ensure the security of personal data processed under the shared tools.
+
+
+
       74
-         Ver também as Orientações do CEPD sobre a notificação de uma violação de dados pessoais ao abrigo do
-      Regulamento (UE) 2016/679, WP250.rev.01 que preveem que a responsabilidade conjunta pelo tratamento
-      incluirá «determinar que parte terá responsabilidade pelo cumprimento das obrigações previstas nos artigos 33.º
-      e 34.º. O GT29 recomenda que os acordos contratuais entre responsáveis conjuntos incluam disposições que
-      determinem que responsável pelo tratamento assumirá a liderança ou será responsável pelo cumprimento das
-      obrigações de notificação de violação do RGPD» (p. 14).
+          Please also see EDPB guidelines on Personal data breach notification under Regulation 2016/679,
+      WP250.rev.01 which provide that joint controllership will include “determining which party will have
+      responsibility for complying with the obligations under Articles 33 and 34. WP29 recommends that the contractual
+      arrangements between joint controllers include provisions that determine which controller will take the lead on,
+      or be responsible for, compliance with the GDPR’s breach notification obligations”( p.13).
       75
-         Ver também as orientações do CEPD relativas às AIPD, WP248.rev01 que preveem o seguinte: «Quando a
-      operação de tratamento envolve responsáveis conjuntos pelo tratamento, estes devem definir
-      pormenorizadamente as respetivas obrigações. A sua AIPD deve definir qual das partes é responsável pelas várias
-      medidas concebidas para dar resposta aos riscos e proteger os direitos e as liberdades dos titulares dos dados.
-      Cada responsável pelo tratamento de dados deve exprimir as suas necessidades e partilhar informações úteis
-      sem comprometer segredos (p. ex.: proteção de segredos comerciais, propriedade intelectual, informações
-      empresariais confidenciais) ou revelar vulnerabilidades» (p. 9).
-
-      Adotadas - Após consulta pública                                                                            51
-
-      posteriormente de uma forma incompatível com as finalidades para os quais foram originalmente
-      recolhidos pelo responsável pelo tratamento que partilha os dados.76
-
-168. Os responsáveis conjuntos pelo tratamento podem ter um certo grau de flexibilidade na distribuição
-     e repartição de obrigações entre si, desde que garantam o cumprimento cabal do RGPD no respeitante
-     ao tratamento em causa. A repartição deve ter em conta fatores como quem é competente e está em
-     posição de efetivamente garantir os direitos dos titulares dos dados, bem como cumprir as obrigações
-     pertinentes nos termos do RGPD. O CEPD recomenda que os fatores relevantes sejam documentados
-     e a análise interna realizada para repartir as diferentes obrigações. Esta análise faz parte da
-     documentação nos termos do princípio da responsabilidade.
-
-169. As obrigações não têm de ser repartidas equitativamente pelos responsáveis conjuntos pelo
-     tratamento. A este respeito, o TJUE indicou recentemente que «[a] existência de responsabilidade
-     conjunta não se traduz necessariamente em responsabilidade equivalente dos vários operadores
-     envolvidos no tratamento de dados pessoais».77 Contudo, pode haver casos em que nem todas as
-     obrigações podem ser repartidas e todos os responsáveis conjuntos pelo tratamento podem ter de
-     cumprir os mesmos requisitos decorrentes do RGPD, tendo em conta a natureza e o contexto do
-     tratamento conjunto. Por exemplo, os responsáveis conjuntos pelo tratamento que usem ferramentas
-     ou sistemas partilhados de tratamento de dados necessitam ambos de assegurar o cumprimento,
-     nomeadamente, do princípio da limitação das finalidades e aplicar medidas apropriadas para garantir
-     a segurança dos dados pessoais tratados sob ferramentas partilhadas.
-
-170. Outro exemplo é o requisito de cada responsável conjunto pelo tratamento conservar um registo de
-     atividades de tratamento ou designar um encarregado da proteção de dados (EPD), se estiverem
-     reunidas as condições do artigo 37.º, n.º 1. Esses requisitos não estão relacionados com o tratamento
-     conjunto, mas são aplicáveis aos mesmos enquanto responsáveis conjuntos pelo tratamento.
-
-      2.2 A repartição das responsabilidades tem de ser feita por meio de um acordo
-
-      2.2.1 Formato do acordo
-171. O artigo 26.º, n.º 1, do RGPD prevê um nova obrigação para os responsáveis conjuntos pelo tratamento
-     de que têm de determinar as suas responsabilidades respetivas «por acordo entre si». O RGPD não
-     especifica a forma jurídica desse acordo. Por conseguinte, os responsáveis conjuntos pelo tratamento
-     são livres de acordar a forma do acordo.
-
-172. Além disso, o acordo sobre a repartição de responsabilidades é vinculativo para cada um dos
-     responsáveis conjuntos pelo tratamento. Cada um deles aceita e compromete-se reciprocamente a
-     ser responsável pelo cumprimento das respetivas obrigações indicadas no seu acordo como sendo da
-     sua responsabilidade.
-
-173. Por conseguinte, por razões de segurança jurídica, mesmo que não haja um requisito legal no RGPD
-     para um contrato ou outro ato normativo, o CEPD recomenda que esse acordo assuma a forma de um
-     documento vinculativo, tal como um contrato ou outro ato normativo vinculativo nos termos do
-
-
+         Please also see EDPB guidelines on DPIAs, WP248.rev01 which provide the following: “When the processing
+      operation involves joint controllers, they need to define their respective obligations precisely. Their DPIA should
+      set out which party is responsible for the various measures designed to treat risks and to protect the rights and
+      freedoms of the data subjects. Each data controller should express his needs and share useful information without
+      either compromising secrets (e.g.: protection of trade secrets, intellectual property, confidential business
+      information) or disclosing vulnerabilities” (p.7).
       76
-         Cada divulgação feita por um responsável pelo tratamento exige uma base jurídica e uma avaliação da
-      compatibilidade, independentemente de se o destinatário é um responsável autónomo pelo tratamento ou um
-      responsável conjunto pelo tratamento. Dito de outro modo, a existência de uma relação de responsável conjunto
-      pelo tratamento não significa automaticamente que o responsável conjunto pelo tratamento que recebe os
-      dados possa também tratar licitamente os dados para finalidades suplementares que estão fora do âmbito do
-      controlo conjunto.
+         Each disclosure by a controller requires a lawful basis and assessment of compatibility, regardless of whether
+      the recipient is a separate controller or a joint controller. In other words, the existence of a joint controller
+      relationship does not automatically mean that the joint controller receiving the data can also lawfully process
+      the data for additional purposes which are beyond the scope of joint control.
       77
-         Acórdão no processo C-210/16, Wirtschaftsakademie, ECLI:EU:C:2018:388, n.º 43.
+         Judgment in Wirtschaftsakademie, C-210/16, ECLI:EU:C:2018:388, paragraph 43.
 
-      Adotadas - Após consulta pública                                                                          52
+      Adopted - After public consultation                                                                             45
 
-      direito da UE ou de um dos Estados-Membros a que os responsáveis pelo tratamento estejam sujeitos.
-      Tal proporcionará segurança e poderá ser usado para demonstrar transparência e responsabilidade.
-      Com efeito, em caso de incumprimento da repartição acordada prevista no acordo, a sua natureza
-      vinculativa permite ao responsável pelo tratamento procurar responsabilizar o outro relativamente ao
-      que estava indicado no acordo como estando abrangido pela sua responsabilidade. De igual modo, em
-      consonância com o princípio da responsabilidade, a utilização de um contrato ou outro ato normativo
-      permitirá aos responsáveis conjuntos pelo tratamento demonstrar que cumprem as obrigações que
-      lhes são impostas pelo RGPD.
+170. Another example is the requirement for each joint controller to maintain a record of processing
+     activities or to designate a Data Protection Officer (DPO) if the conditions of Article 37(1) are met. Such
+     requirements are not related to the joint processing but are applicable to them as controllers.
 
-174. A forma como as responsabilidades, ou seja, as tarefas, são repartidas entre cada responsável conjunto
-     pelo tratamento tem de estar indicada no acordo numa linguagem clara e simples.78 Este requisito é
-     importante, uma vez que garante a segurança jurídica e evita eventuais conflitos não apenas na relação
-     entre os responsáveis conjuntos pelo tratamento, mas também face aos titulares dos dados e às
-     autoridades de proteção de dados.
+      2.2 Allocation of responsibilities needs to be done by way of an arrangement
 
-175. A fim de enquadrar melhor a repartição de responsabilidades entre as partes, o CEPD recomenda que
-     o acordo também faculte informações gerais sobre o tratamento conjunto especificando,
-     nomeadamente, o objeto e a finalidade do tratamento, o tipo de dados pessoais e as categorias de
-     titulares de dados.
+      2.2.1 Form of the arrangement
+171. Article 26(1) of the GDPR provides as a new obligation for joint controllers that they should determine
+     their respective responsibilities “by means of an arrangement between them”. The legal form of such
+     arrangement is not specified by the GDPR. Therefore, joint controllers are free to agree on the form of
+     the arrangement.
 
-      2.2.2 Obrigações em relação aos titulares dos dados
-176. O RGPD prevê várias obrigações dos responsáveis conjuntos pelo tratamento em relação aos titulares
-     dos dados:
+172. In addition, the arrangement on the allocation of responsibilities is binding upon each of the joint
+     controllers. They each agree and commit vis-à-vis each other on being responsible for complying with
+     the respective obligations stated in their arrangement as their responsibility.
 
-      O acordo reflete devidamente as funções e relações respetivas dos responsáveis conjuntos pelo
-      tratamento em relação aos titulares dos dados
+173. Therefore, for the sake of legal certainty, even if there is no legal requirement in the GDPR for a
+     contract or other legal act, the EDPB recommends that such arrangement be made in the form of a
+     binding document such as a contract or other legal binding act under EU or Member State law to which
+     the controllers are subject. This would provide certainty and could be used to evidence transparency
+     and accountability. Indeed, in case of non-compliance with the agreed allocation provided in the
+     arrangement, its binding nature allows one controller to seek the liability of the other for what was
+     stated in the agreement as falling under its responsibility. Also, in line with the accountability principle,
+     the use of a contract or other legal act will allow joint controllers to demonstrate that they comply
+     with the obligations imposed upon them by the GDPR.
 
-177. Como complemento ao que é explicado acima na secção 2.1 das presentes orientações, é importante
-     que os responsáveis conjuntos pelo tratamento esclareçam no acordo a sua função respetiva
-     «nomeadamente» no que diz respeito ao exercício dos direitos do titular dos dados e aos seus deveres
-     de prestarem as informações referidas nos artigos 13.º e 14.º. O artigo 26.º do RGPD sublinha a
-     importância destas obrigações específicas. Por conseguinte, os responsáveis conjuntos pelo
-     tratamento têm de organizar e acordar de que forma e por quem as informações serão prestadas e de
-     que forma e por quem serão dadas as respostas aos pedidos do titular dos dados. Independentemente
-     do conteúdo do acordo sobre este ponto concreto, o titular dos dados pode contactar qualquer um
-     dos responsáveis conjuntos pelo tratamento para exercer os seus direitos de acordo com o artigo 26.º,
-     n.º 3, conforme explicado mais pormenorizadamente abaixo.
+174. The way responsibilities, i.e. the tasks, are allocated between each joint controller has to be stated in
+     a clear and plain language in the arrangement. 78 This requirement is important as it ensures legal
+     certainty and avoid possible conflicts not only in the relation between the joint controllers but also vis-
+     à-vis the data subjects and the data protection authorities.
 
-178. A forma como estas obrigações estão organizadas no acordo devem refletir «devidamente», ou seja,
-     fielmente a realidade do tratamento conjunto subjacente. Por exemplo, se apenas um dos
-     responsáveis conjuntos pelo tratamento comunica com os titulares dos dados para efeitos do
-     tratamento conjunto, esse responsável pelo tratamento poderá estar mais bem posicionado para
-     informar os titulares dos dados e, eventualmente, para responder aos seus pedidos.
+175. To better frame the allocation of responsibilities between the parties, the EDPB recommends that the
+     arrangement also provide general information on the joint processing by notably specifying the subject
+     matter and purpose of the processing, the type of personal data, and the categories of data subjects.
 
+      2.2.2 Obligations towards data subjects
+176. The GDPR provides several obligations of joint controllers towards data subjects:
 
+      The arrangement shall duly reflect the respective roles and relationships of the joint controllers vis-à-
+      vis the data subjects
+
+177. As a complement to what is explained above in section 2.1 of the present guidelines, it is important
+     that the joint controllers clarify in the arrangement their respective role, “in particular” as regards the
+     exercise of the rights of the data subject and their duties to provide the information referred to in
+     Articles 13 and 14. Article 26 of the GDPR stresses the importance of these specific obligations. The
+     joint controllers must therefore organise and agree on how and by whom the information will be
 
       78
-        Conforme indicado no considerando 79 do RGPD «(...) a responsabilidade dos responsáveis pelo seu tratamento
-      e dos subcontratantes, incluindo no que diz respeito à supervisão e às medidas adotadas pelas autoridades de
-      controlo, exigem uma clara repartição das responsabilidades nos termos do presente regulamento,
-      nomeadamente quando o responsável pelo tratamento determina as finalidades e os meios do tratamento
-      conjuntamente com outros responsáveis».
+         As stated in Recital 79 of the GDPR “(...) the responsibility and liability of controllers and processors, also in
+      relation to the monitoring by and measures of supervisory authorities, requires a clear allocation of the
+      responsibilities under this Regulation, including where a controller determines the purposes and means of the
+      processing jointly with other controllers”.
 
-      Adotadas - Após consulta pública                                                                          53
+      Adopted - After public consultation                                                                               46
 
-      A essência do acordo é disponibilizada ao titular dos dados
-
-179. Esta disposição destina-se a assegurar que o titular dos dados tem conhecimento da «essência do
-     acordo». Por exemplo, tem de ser completamente claro para o titular dos dados que responsável pelo
-     tratamento serve de ponto de contacto para o exercício dos direitos do titular dos dados (não obstante
-     o facto de poder exercer os seus direitos em relação e contra cada responsável conjunto pelo
-     tratamento). A obrigação de disponibilizar a essência do acordo aos titulares dos dados é importante
-     no caso de responsabilidade conjunta pelo tratamento, para que o titular dos dados saiba aquilo por
-     que é responsável cada responsável pelo tratamento.
+      provided and how and by whom the answers to the data subject’s requests will be provided.
+      Irrespective of the content of the arrangement on this specific point, the data subject may contact
+      either of the joint controllers to exercise his or her rights in accordance with Article 26(3) as further
+      explained below.
 
-180. O RGPD não especifica o que deve ser abrangido pela noção de «essência do acordo». O CEPD
-     recomenda que a essência abranja, pelo menos, todos os elementos das informações referidas nos
-     artigos 13.º e 14.º que já deverão estar acessíveis ao titular dos dados, e em relação a cada um desses
-     elementos, o acordo deverá especificar que responsável conjunto pelo tratamento é responsável por
-     garantir a conformidade com esses elementos. A essência do acordo tem também de indicar o ponto
-     de contacto, se designado.
+178. The way these obligations are organised in the arrangement should “duly”, i.e. accurately, reflect the
+     reality of the underlying joint processing. For example, if only one of the joint controllers
+     communicates with the data subjects for the purpose of the joint processing, such controller could be
+     in a better position to inform the data subjects and possibly to answer their requests.
 
-181. Não se especifica a forma como essas informações devem ser disponibilizadas. Contrariamente a
-     outras disposições do RGPD (tais como o artigo 30.º, n.º 4, para o registo do tratamento ou o artigo
-     40.º, n.º 11, para o registo de códigos de conduta aprovados), o artigo 26.º não indica que a
-     disponibilidade deve ser «a pedido», nem «disponibiliza-os ao público pelos meios adequados». Por
-     conseguinte, compete aos responsáveis conjuntos pelo tratamento decidir a forma mais eficaz para
-     disponibilizar a essência do acordo aos titulares dos dados (por exemplo, juntamente com as
-     informações previstas nos artigos 13.º ou 14.º, na política de privacidade ou mediante pedido dirigido
-     ao encarregado da proteção de dados, se existente, ou ao ponto de contacto que possa ter sido
-     designado). Os responsáveis conjuntos pelo tratamento devem assegurar, respetivamente, que as
-     informação são prestadas de uma forma coerente.
+      The essence of the arrangement shall be made available to the data subject
 
-      O acordo pode designar um ponto de contacto para os titulares dos dados
+179. This provision is aimed to ensure that the data subject is aware of the “essence of the arrangement”.
+     For example, it must be completely clear to a data subject which data controller serves as a point of
+     contact for the exercise of data subject rights (notwithstanding the fact that he or she can exercise his
+     or her rights in respect of and against each joint controller). The obligation to make the essence of the
+     arrangement available to data subjects is important in case of joint controllership in order for the data
+     subject to know which of the controllers is responsible for what.
 
-182. O artigo 26.º, n.º 1, prevê a possibilidade de os responsáveis conjuntos pelo tratamento designarem
-     no acordo um ponto de contacto para os titulares dos dados. Essa designação não tem caráter
-     obrigatório.
+180. What should be covered by the notion of “essence of the arrangement” is not specified by the GDPR.
+     The EDPB recommends that the essence cover at least all the elements of the information referred to
+     in Articles 13 and 14 that should already be accessible to the data subject, and for each of these
+     elements, the arrangement should specify which joint controller is responsible for ensuring compliance
+     with these elements. The essence of the arrangement must also indicate the contact point, if
+     designated.
 
-183. Ser informado de uma única forma de contactar eventuais vários responsáveis pelo tratamento
-     permite aos titulares dos dados saber quem podem contactar relativamente a todas as questões
-     relacionadas com o tratamento dos seus dados pessoais. Além disso, permite que vários responsáveis
-     conjuntos pelo tratamento coordenem de uma forma mais eficiente as suas relações e comunicações
-     em relação aos titulares dos dados.
+181. The way such information shall be made available to the data subject is not specified. Contrary to other
+     provisions of the GDPR (such as Article 30(4) for the record of processing or Article 40(11) for the
+     register of approved codes of conduct), Article 26 does not indicate that the availability should be
+     “upon request” nor “publicly available by way of appropriate means”. Therefore, it is up to the joint
+     controllers to decide the most effective way to make the essence of the arrangement available to the
+     data subjects (e.g. together with the information in Article 13 or 14, in the privacy policy or upon
+     request to the data protection officer, if any, or to the contact point that may have been designated).
+     Joint controllers should respectively ensure that the information is provided in a consistent manner.
 
-184. Por estas razões, a fim de facilitar o exercício dos direitos dos titulares dos dados nos termos do RGPD,
-     o CEPD recomenda que os responsáveis conjuntos pelo tratamento designem o referido ponto de
-     contacto.
-
-185. O ponto de contacto pode ser o EPD, se existente, o representante na União (para responsáveis
-     conjuntos pelo tratamento não estabelecidos na União) ou qualquer ponto de contacto onde possam
-     ser obtidas informações.
-
-
-
-
-      Adotadas - Após consulta pública                                                                     54
-
-      Independentemente dos termos do acordo, os titulares dos dados podem exercer os seus direitos em
-      relação e cada um dos responsáveis pelo tratamento.
-
-186. Nos termos do artigo 26.º, n.º 3, um titular dos dados não está vinculado aos termos do acordo e pode
-     exercer os seus direitos nos termos do RGPD em relação e contra cada um dos responsáveis pelo
-     tratamento de dados.
-
-187. Por exemplo, no caso de responsáveis conjuntos pelo tratamento estabelecidos em diferentes
-     Estados-Membros, ou se apenas um dos responsáveis conjuntos pelo tratamento estiver estabelecido
-     na União, o titular dos dados pode contactar, à sua escolha, o responsável pelo tratamento
-     estabelecido no Estado-Membro da sua residência ou local de trabalho habitual, ou o responsável pelo
-     tratamento estabelecido noutra parte da UE ou no EEE.
-
-188. Mesmo que o acordo e a essência do mesmo disponibilizada indiquem um ponto de contacto para
-     receber e tratar todos os pedidos dos titulares dos dados, estes últimos podem eles próprios escolher
-     de forma diferente.
+      The arrangement may designate a contact point for data subjects
 
-189. Por conseguinte, é importante que os responsáveis conjuntos pelo tratamento organizem
-     antecipadamente no seu acordo de que forma vão gerir as respostas a pedidos que poderão receber
-     dos titulares dos dados. A este respeito, recomenda-se que os responsáveis conjuntos pelo tratamento
-     comuniquem aos outros responsáveis pelo tratamento encarregados ou ao ponto de contacto
-     designado, os pedidos recebidos para que sejam tratados eficazmente. Exigir que os titulares dos
-     dados contactassem o ponto de contacto designado ou o responsável pelo tratamento encarregado
-     imporia um encargo excessivo ao titular dos dados que seria contrário ao objetivo de facilitar o
-     exercício dos seus direitos nos termos do RGPD.
+182. Article 26(1) provides the possibility for joint controllers to designate in the arrangement a contact
+     point for data subjects. Such designation is not mandatory.
 
-      2.3 Obrigações em relação às autoridade de proteção de dados
+183. Being informed of a single way to contact possible multiple joint controllers enables data subjects to
+     know who they can contact with regard to all issues related to the processing of their personal data.
+     In addition, it allows multiple joint controllers to coordinate in a more efficient manner their relations
+     and communications vis-à-vis data subjects.
 
-190. Os responsáveis conjuntos pelo tratamento devem organizar no acordo a forma como comunicarão
-     com as autoridades competentes de controlo da proteção dos dados. Essa comunicação poderá
-     abranger a eventual consulta prevista no artigo 36.º do RGPD, a notificação de uma violação de dados
-     pessoais, a designação de um encarregado da proteção de dados.
+184. For these reasons, in order to facilitate the exercise of data subjects’ rights under the GDPR, the EDPB
+     recommends joint controllers to designate such contact point.
 
-191. Importa recordar que as autoridades de proteção de dados não ficam vinculadas aos termos do acordo
-     seja na** questão da qualificação das partes como responsáveis conjuntos pelo tratamento, seja na
-     questão do ponto de contacto designado. Por conseguinte, as autoridades podem contactar qualquer
-     um dos responsáveis conjuntos pelo tratamento para exercerem os seus poderes previstos no artigo
-     58.º relativamente ao tratamento conjunto.
+185. The contact point can be the DPO, if any, the representative in the Union (for joint controllers not
+     established in the Union) or any other contact point where information can be obtained.
 
 
 
 
-      Adotadas - Após consulta pública                                                                 55
+      Adopted - After public consultation                                                                   47
 
-      Anexo I – Fluxograma para aplicar os conceitos de responsável pelo tratamento, subcontratante
-                          e responsáveis conjuntos pelo tratamento na prática
-   Nota: a fim de avaliar corretamente a função de cada entidade envolvida é necessário, em primeiro lugar,
-   identificar o tratamento de dados pessoais específico em causa e a sua finalidade exata. Se estiverem
-   envolvidas várias entidades, é necessário avaliar se as finalidades e os meios são conjuntamente
-   determinados, resultando em responsabilidade conjunta pelo tratamento.
+      Irrespective of the terms of the arrangement, data subjects may exercise their rights in respect of
+      and against each of the joint controllers.
 
+186. Under Article 26(3), a data subject is not bound by the terms of the arrangement and may exercise his
+     or her rights under the GDPR in respect of and against each of the joint data controllers.
 
-   Há outra parte envolvida no                                         É o único responsável pelo tratamento
-  tratamento de dados pessoais                NÃO                        e tem de decidir as finalidades e os
-          em questão?                                                          meios do tratamento?
+187. For example, in case of joint controllers established in different Member States, or if only one of the
+     joint controllers is established in the Union, the data subject may contact, at his or her choice, either
+     the controller established in the Member State of his or her habitual residence or place of work, or the
+     controller established elsewhere in the EU or in the EEA.
 
+188. Even if the arrangement and the available essence of it indicate a contact point to receive and handle
+     all data subjects’ requests, the data subjects themselves may still choose otherwise.
 
-               SIM
+189. Therefore, it is important that joint controllers organise in advance in their arrangement how they will
+     manage answers to requests they could receive from data subjects. In this respect, it is recommended
+     that joint controllers communicate to the other controllers in charge or to the designated contact
+     point, the requests received in order to be effectively handled. Requiring data subjects to contact the
+     designated contact point or the controller in charge would impose an excessive burden on the data
+     subject that would be contrary to the objective of facilitating the exercise of their rights under the
+     GDPR.
 
-      É designado como um
- responsável pelo tratamento de                                            O ato normativo aplica-se e é o
-  acordo com um ato normativo                 SIM                      responsável pelo tratamento para esse
- para o tratamento em questão?                                                 tratamento específico?
- (competência jurídica explícita)
+      2.3 Obligations towards data protection authorities
 
-               NÃO
+190. Joint controllers should organise in the arrangement the way they will communicate with the
+     competent supervisory data protection authorities. Such communication could cover possible
+     consultation under Article 36 of the GDPR, notification of a personal data breach, designation of a data
+     protection officer.
 
+191. It should be recalled that data protection authorities are not bound by the terms of the arrangement
+     whether on the issue of the qualification of the parties as joint controllers or the designated contact
+     point. Therefore, the authorities can contact any of the joint controllers to exercise their powers under
+     Article 58 with respect to the joint processing.
 
- O tratamento é necessário para
-        realizar uma tarefa
-                                                                         É o responsável pelo tratamento do
-     relativamente à qual é o
-                                              SIM                       tratamento necessário para executar
- responsável de acordo com um
-                                                                                    essa tarefa?
-  ato normativo? (competência
-         jurídica implícita)
 
 
-                                                                        É o responsável pelo tratamento para
-               NÃO
-                                                                       este tratamento de dados pessoais (ver
-                                                                         abaixo relativamente à avaliação de
-                                                                           controlo conjunto se estiverem
-                                                                             envolvidas outras entidades)
-               Decide?               SIM
-        a finalidade ou
-        finalidades para as
-        quais os dados serão
-                                                      Não, realizo o tratamento por conta de outra
-        tratados
-                                                         parte, de acordo com as suas instruções.
-        que dados pessoais                         Tomo decisões sobre certos meios não essenciais
-        devem ser recolhidos e                         a serem usados (por exemplo, que sistemas
-        tratados                      NÃO           informáticos e outros meios técnicos usar para o
-       a que categorias de                            tratamento ou pormenores das medidas de
-        pessoas os dados                             segurança com base nos objetivos de segurança
-        tratados farão                                      gerais definidos pela outra parte)
-        referência
-       se os dados tratados                           Não, realizo o tratamento por conta de outra
-        serão divulgados e a                          parte e exclusivamente de acordo com as suas
-        quem                           NÃO          instruções. Não tomo as minhas próprias decisões
-       durante quanto tempo                            relativamente às finalidades e aos meios do
-        os dados pessoais serão                                          tratamento
-        conservados
 
+      Adopted - After public consultation                                                                   48
 
+     Annex I – Flowchart for applying the concepts of controller, processor and joint controllers in
+                                               practice
+   Note: in order to properly assess the role of each entity involved, one must first identify the specific
+   personal data processing at stake and its exact purpose. If multiple entities are involved, it is necessary to
+   assess whether the purposes and means are determined jointly, leading to joint controllership.
 
-                                    NÃO SEI
 
+ Is another party involved in the                                         You are the sole controller and must
+    personal data processing in                NO                         decide on purposes and means of the
+            question?                                                                  processing
 
-                                                                                    É um subcontratante
 
+               YES
 
+ Are you appointed as controller
+  according to a legal act for the                                        The legal act applies and you are the
+                                               YES
+ processing in question? (explicit                                        controller for that specific processing
+       legal competence)
 
 
-Adotadas – Após consulta pública                                                                                56
+               NO
 
-             NÃO SEI
 
 
+  Is the processing necessary in
+   order to carry out a task for
+                                                                         You are the controller of the processing
+     which you are responsible                 YES
+                                                                              necessary to execute this task
+      according to a legal act?
+    (implicit legal competence)
 
 
-      Não sei quem decide
-                                         Os fatores que se seguem podem ajudar
-       as finalidades ou os
-                                         a determinar a qualificação apropriada
-      meios do tratamento.
-                                                      das funções:
-                  :
 
+               NO                                                        You are the controller for this personal
+                                                                             data processing (see below for
+                                                                           assessment of joint control if other
+                                                                                  entities are involved)
+                                     YES
+          Do you decide?
+   • the purpose or purposes
+       that the data will be                         No, I carry out the processing on behalf of another
+           processed for                                  party, in accordance with its instructions.
+   • which personal data that                          I make decisions about certain non-essential
+      shall be collected and          NO              means to be used (e.g., what IT systems or other
+             processed                                  technical means to use for the processing or
+      • which categories of                            details of the security measures based on the
+        individuals that the                         general security objectives set by the other party)
+   processed data will refer to
+    • whether the processed
+   data shall be disclosed and                       No, I carry out the processing on behalf of another
+             to whom                   NO                   party and solely in accordance with its
+   • for how long the personal                         instructions. I do not make any decisions as to
+         data will be stored                         purposes and means of the processing of my own
 
 
 
-             Fatores que indicam que é o                                          Fatores que indicam que é o
-             responsável pelo tratamento                                                subcontratante
 
+                               I DO NOT KNOW
 
 
+                                                                                       You are a processor
 
- Obtém um benefício com ou tem um interesse no
-tratamento (que não o simples pagamento por serviços                 Trata dados pessoais para as finalidades de outra
-recebidos de outro responsável pelo tratamento)                     parte e em conformidade com as suas instruções
-                                                                    documentadas - não tem uma finalidade própria para o
- Toma decisões sobre as pessoas em causa enquanto                  tratamento.
-parte ou em resultado do tratamento (por exemplo, os
-titulares dos dados são seus funcionários)                           Outra parte supervisiona as suas atividades de
-                                                                    tratamento, a fim de assegurar que cumpre as
- As atividades de tratamento podem ser consideradas                instruções e os termos do contrato.
-como naturalmente associadas à função ou às
-atividades da sua entidade (por exemplo, devido a                    Não persegue a sua própria finalidade no tratamento
-funções tradicionais ou competências profissionais                  que não o seu próprio interesse comercial de prestar
-especializadas) que impliquem responsabilidades de                  serviços.
-um ponto de vista da proteção de dados
-                                                                     Foi contratado para realizar atividades de tratamento
- O tratamento refere-se à sua relação com os titulares             específicas por alguém que, por sua vez, foi contratado
-dos dados enquanto funcionários, clientes, membros,                 para tratar dados por conta de outra parte e com base
-etc.                                                                nas instruções documentadas desta parte (é um
-                                                                    subcontratante)
- Dispõe de autonomia completa ao decidir como são
-tratados os dados pessoais
 
- Confiou o tratamento de dados pessoais a uma
-organização externa para tratar os dados pessoais por
-sua conta
 
 
+Adopted - After public consultation                                                                                 49
 
+           I DO NOT KNOW
 
-   Adotadas – Após consulta pública                                                                              57
 
-      Responsabilidade conjunta pelo tratamento - Se é um responsável conjunto pelo tratamento e
-      estão envolvidas outras partes no tratamento de dados pessoais:
 
 
+        I don’t know who
+                                               The following factors may help to
+          decides on the
+                                            determine the appropriate qualification
+      purposes or means of
+                                                         of the roles:
+        the processing. :
 
 
-     Você e outra(s) parte(s) envolvida(s) determinam
-conjuntamente as finalidades e os meios do tratamento?
-Mais do que uma parte tem uma influência decisiva sobre
- se e como o tratamento ocorre - através de uma decisão
-    comum ou através de decisões convergentes que se                    É o único responsável pelo tratamento -
-                                                                          as outras partes envolvidas podem ser
-complementam e são necessárias para o tratamento pelo
-                                                                              responsáveis pelo tratamento
-facto de terem um impacto tangível na determinação das     NÃO
-                                                                         independentes e autónomos para a sua
-                 finalidades e dos meios?                               própria finalidade ou subcontratantes de
-                                                                             acordo com o fluxograma acima.
- Tal significa que o tratamento não seria possível sem a
-participação de ambas as partes - o tratamento por cada
-uma das partes é indissociável, ou seja, intrinsecamente
-                          ligado.
 
 
-                          SIM
+             Factors that indicate that you                                           Factors that indicate that you
+                   are the controller                                                       are the processor
 
 
 
-As decisões comuns ou convergentes sobre as finalidades                     São responsáveis conjuntos pelo
-e os meios dizem respeito à integralidade do tratamento    SIM            tratamento para a integralidade do
-                     em questão?                                                     tratamento?
 
+                                                                        • You process the personal data for another party’s
+• You obtain a benefit from, or have an interest in, the                purposes and in accordance with its documented
+processing (other than the mere payment for services                    instructions - you do not have a purpose of your own
+received from another controller)                                       for the processing.
 
+• You make decisions about the individuals concerned                    • Another party monitors your processing activities in
+as part of or as a result of the processing (e.g. the data              order to ensure that you comply with instructions and
+subjects are your employees)                                            terms of contract.
 
+• The processing activities can be considered as                        • You do not pursue your own purpose in the
+naturally attached to the role or activities of your entity             processing other than your own business interest to
+(e.g. due to traditional roles or professional expertise)               provide services.
+which entails responsibilities from a data protection
+point of view                                                           • You have been engaged for carrying out specific
+                                                                        processing activities by someone who in turn has been
+• The processing refers to your relation with the data                  engaged to process data on another party’s behalf and
+subjects as employees, customers, members etc.                          on this party’s documented instructions (you are a sub-
+                                                                        processor)
+• You have complete autonomy in deciding how the
+personal data is processed
 
-                         NÃO
+• You have entrusted the processing of personal data
+to an external organisation to process the personal
+data on your behalf
 
 
 
 
-                                                                            São responsáveis conjuntos pelo
-                                                                        tratamento para as fases do tratamento
-                                                                        relativamente às quais determinam em
-Não, as decisões comuns ou convergentes dizem apenas                      conjunto as finalidades e os meios e
-       respeito a fases específicas do tratamento                      responsáveis autónomos pelo tratamento
-                                                                        em relação às operações de tratamento
-                                                                        em que determinam separadamente as
-                                                                                 finalidades e os meios
+   Adopted - After public consultation                                                                                 50
 
+      Joint controllership - If you are the controller and other parties are involved in the personal data
+      processing:
 
 
 
-    Adotadas – Após consulta pública                                                                 58
+
+Do you and (an)other party(ies) involved jointly determine
+       the purposes and means of the processing?
+Does more than one party have a decisive influence over
+whether and how the processing takes place – either by a
+                                                                                You are the sole controller – the
+     common decision or by converging decisions that
+                                                                                 other parties involved may be
+    complement each other and are necessary for the
+                                                             NO               separate independent controllers for
+ processing because they have a tangible impact on the
+                                                                               their own purpose or processors in
+       determination of the purposes and means?
+                                                                              accordance with the flowchart above
+  This means that the processing would not be possible
+  without both parties’ participation - the processing by
+     each party is inseparable, i.e. inextricably linked.
+
+
+
+                           YES
+
+
+
+Do the common or converging decisions on purposes and                        You are joint controllers for the whole
+                                                             YES
+means relate to the whole of the processing in question?                                   processing
+
+
+
+
+                           NO
+
+
+
+
+                                                                                 You are joint controllers for the
+                                                                                stages of the processing for which
+                                                                               you determine purposes and means
+ No, the common or converging decisions only relate to
+                                                                              together and separate controllers for
+            specific stages of the processing
+                                                                               those processing operations where
+                                                                               you determine purposes and means
+                                                                                            separately
+
+
+
+
+     Adopted - After public consultation                                                                 51
 ```

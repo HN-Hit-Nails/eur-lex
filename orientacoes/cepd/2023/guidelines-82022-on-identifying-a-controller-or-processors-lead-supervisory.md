@@ -1,654 +1,592 @@
 ---
-titulo: "Orientações 8/2022 sobre a identificação da autoridade de controlo principal do responsável pelo tratamento ou do subcontratante"
+titulo: "Guidelines 8/2022 on identifying a controller or processor’s lead supervisory authority"
 titulo_en: "Guidelines 8/2022 on identifying a controller or processor’s lead supervisory authority"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2023-04-17'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-82022-on-identifying-a-controller-or-processors-lead-supervisory_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2023-10/edpb_guidelines_202208_identifying_lsa_targeted_update_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-04/edpb_guidelines_202208_identifying_lsa_targeted_update_v2_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Orientações 8/2022 sobre a identificação da autoridade de controlo principal do responsável pelo tratamento ou do subcontratante
+# Guidelines 8/2022 on identifying a controller or processor’s lead supervisory authority
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Orientações 8/2022 sobre a identificação da autoridade de
- controlo principal do responsável pelo tratamento ou do
-                      subcontratante
+Guidelines 8/2022 on identifying a controller or processor’s
+               lead supervisory authority
 
 
-                             Versão 2.0
-             Adotadas em 28 de março de 2023
-                  Translations proofread by EDPB Members.
-              This language version has not yet been proofread.
-
-Histórico de versões
- Versão 1.0   10 de outubro de    Adoção das orientações (versão atualizada das anteriores
-              2022                orientações, WP244 rev.01, adotadas pelo Grupo do
-                                  Artigo 29.º e aprovadas pelo CEPD em 25 de maio de 2018)
-                                  para uma consulta pública específica.
- Versão 2.0   28 de março de 2023 Adoção das orientações após consulta pública.
+                        Version 2.1
 
 
+                 Adopted on 28 March 2023
 
-
-Adotadas                                                                                 2
-
-Índice
-0       Prefácio .........................................................................................................................4
-1       Identificação da autoridade de controlo principal: conceitos-chave ........................................5
-    1.1       «Tratamento transfronteiriço de dados pessoais» .........................................................5
-        1.1.1        «Afeta substancialmente» ..................................................................................5
-    1.2       Autoridade de controlo principal ................................................................................6
-    1.3       Estabelecimento principal .........................................................................................7
-2       Medidas destinadas a identificar a autoridade de controlo principal .......................................7
-    2.1       Identificar o «estabelecimento principal» dos responsáveis pelo tratamento ....................7
-        2.1.1     Critérios aplicáveis à identificação do estabelecimento principal do responsável pelo
-        tratamento nos casos em que não corresponde ao local onde se encontra a sua administração
-        central no EEE ................................................................................................................9
-        2.1.2        Grupos empresariais ..........................................................................................9
-        2.1.3        Responsáveis conjuntos pelo tratamento............................................................ 10
-    2.2       Casos-limite........................................................................................................... 11
-    2.3       Subcontratante...................................................................................................... 12
-3       Outras questões relevantes ............................................................................................ 12
-    3.1       O papel da «autoridade de controlo interessada» ....................................................... 12
-    3.2       Tratamento local.................................................................................................... 13
-    3.3       Empresas não estabelecidas no EEE .......................................................................... 13
-ANEXO — Perguntas destinadas a orientar a identificação da autoridade de controlo principal ....... 14
-    1 O responsável pelo tratamento ou o subcontratante está a proceder ao tratamento
-    transfronteiriço de dados pessoais? .................................................................................... 14
-    2      Métodos para identificar a «autoridade de controlo principal»......................................... 14
-    3      Existem «autoridades de controlo interessadas»? .......................................................... 15
+Version history
+ Version 1.0   10 October 2022     Adoption of the Guidelines (updated version of the
+                                   previous guidelines WP244 rev.01 adopted by the Working
+                                   Party 29 and endorsed by the EDPB on 25 May 2018) for a
+                                   targeted public consultation.
+ Version 2.0   28 March 2023       Adoption of the Guidelines after public consultation
+ Version 2.1   28 September 2023   Minor correction made to footnote 12 on p. 10.
 
 
 
 
-Adotadas                                                                                                                                 3
+Adopted                                                                                      2
 
-     O Comité Europeu para a Proteção de Dados,
+Table of contents
+0       Preface..........................................................................................................................4
+1       Identifying a lead supervisory authority: the key concepts ....................................................5
+    1.1       ‘Cross-border processing of personal data’...................................................................5
+        1.1.1        ‘Substantially affects’ .........................................................................................5
+    1.2       Lead supervisory authority ........................................................................................6
+    1.3       Main establishment ..................................................................................................6
+2       Steps to identify the lead supervisory authority ...................................................................7
+    2.1       Identify the ‘main establishment’ for controllers...........................................................7
+        2.1.1      Criteria for identifying a controller’s main establishment in cases where it is not the
+        place of its central administration in the EEA.......................................................................8
+        2.1.2        Groups of undertakings ......................................................................................9
+        2.1.3        Joint controllers ................................................................................................9
+    2.2       Borderline cases..................................................................................................... 10
+    2.3       Processor .............................................................................................................. 11
+3       Other relevant issues ..................................................................................................... 11
+    3.1       The role of the ’supervisory authority concerned’ ....................................................... 11
+    3.2       Local processing ..................................................................................................... 12
+    3.3       Companies not established within the EU .................................................................. 12
+ANNEX - Questions to guide the identification of the lead supervisory authority ........................... 13
+    1      Is the controller or processor carrying out the cross-border processing of personal data? .... 13
+    2      How to identify the ‘lead supervisory authority’ ............................................................. 13
+    3      Are there any ‘concerned supervisory authorities’? ........................................................ 14
 
-     Tendo em conta o artigo 70.º, n.º 1, alíneas e) e l), do Regulamento (UE) 2016/679 do Parlamento
-     Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz
-     respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a
-     Diretiva 95/46/CE (a seguir designado por «RGPD»),
-     Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-     foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 2018 1 ,
-
-     Tendo em conta os artigos 12.º e 22.º do seu regulamento interno,
-
-     Tendo em conta as Orientações do Grupo do Artigo 29.º sobre a identificação da autoridade de
-     controlo principal do responsável pelo tratamento ou do subcontratante, WP244 rev.01,
-
-     Tendo em conta as Orientações 07/2020 do CEPD sobre os conceitos de responsável pelo tratamento
-     e subcontratante no RGPD,
 
 
-     ADOTOU AS SEGUINTES ORIENTAÇÕES
+
+Adopted                                                                                                                                 3
+
+     The European Data Protection Board
+
+     Having regard to Article 70(1)(e) and (l) of the Regulation 2016/679/EU of the European Parliament
+     and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing
+     of personal data and on the free movement of such data, and repealing Directive 95/46/EC,
+     (hereinafter “GDPR”),
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 1 ,
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+     Having regard to the Article 29 Working Party Guidelines for identifying a controller or processor’s lead
+     supervisory authority, WP244 rev.01,
+
+     Having regard to the EDPB Guidelines 07/2020 on the concepts of controller and processor in the
+     GDPR,
 
 
-     0 PREFÁCIO
-1.   Em 5 de abril de 2017, o Grupo do artigo 29.º adotou as suas Orientações sobre a identificação da
-     autoridade de controlo principal do responsável pelo tratamento ou do subcontratante (WP244
-     rev.01) 2 , que foram aprovadas pelo Comité Europeu para a Proteção de Dados (a seguir designado por
-     «CEPD») na sua primeira reunião plenária 3 . O presente documento constitui uma versão ligeiramente
-     atualizada das referidas orientações. Qualquer referência às Orientações do Grupo do Artigo 29.º
-     sobre a identificação da autoridade de controlo principal do responsável pelo tratamento ou do
-     subcontratante (WP244 rev.01) deve, doravante, ser interpretada como uma referência às presentes
-     orientações do CEPD.
+     HAS ADOPTED THE FOLLOWING GUIDELINES
 
-2.   O CEPD observou que eram necessários mais esclarecimentos, nomeadamente no que diz respeito ao
-     conceito de estabelecimento principal no contexto da responsabilidade conjunta pelo tratamento e
-     tendo em conta as Orientações 07/2020 do CEPD sobre os conceitos de responsável pelo tratamento
-     e subcontratante no RGPD 4 .
-3.   O ponto relativo a esta matéria foi revisto e atualizado, enquanto o resto do documento não foi
-     alterado, exceto no que se refere a alterações de redação. A revisão diz respeito, mais especificamente,
-     à secção 2.1.3 sobre os responsáveis conjuntos pelo tratamento.
+
+     0 PREFACE
+1.   On 5 April 2017, the Article 29 Working Party adopted its Guidelines for identifying a controller or
+     processor’s lead supervisory authority (WP244 rev.01) 2 , which were endorsed by the European Data
+     Protection Board (hereinafter “EDPB”) at its first Plenary meeting 3 . This document is a slightly updated
+     version of those guidelines. Any reference to the WP29 Guidelines for identifying a controller or
+     processor’s lead supervisory authority (WP244 rev.01) should, from now on, be interpreted as a
+     reference to these EDPB guidelines.
+2.   The EDPB has noticed that there was a need for further clarifications, specifically regarding the notion
+     of main establishment in the context of joint controllership and taking into account the EDPB
+     Guidelines 07/2020 on the concepts of controller and processor in the GDPR 4 .
+3.   The paragraph concerning this matter has been revised and updated, while the rest of the document
+     was left unchanged, except for editorial changes. The revision concerns, more specifically, Section
+     2.1.3 on joint controllers.
+
+
 
 
      1
-       As referências a «Estados-Membros» ao longo do presente documento devem ser entendidas como referências
-     a «Estados-Membros do EEE».
-     2Disponíveis em http://ec.europa.eu/newsroom/article29/item-detail.cfm?item id=611235.
+       References to “Member States” made throughout this document should be understood as references to “EEA
+     Member States”.
+     2 Available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item id=611235.
+     3 See https://edpb.europa.eu/news/news/2018/endorsement-gdpr-wp29-guidelines-edpb en.
+     4 See Guidelines 07/2020 on the concepts of controller and processor in the GDPR, version 2.0 adopted on 7 July
 
-     3 Ver https://edpb.europa.eu/news/news/2018/endorsement-gdpr-wp29-guidelines-edpb en.
-     4 Ver Orientações 07/2020 sobre os conceitos de responsável pelo tratamento e subcontratante no RGPD,
-
-     versão 2.0, adotadas em 7 de julho de 2021, pontos 161, 162 e 166, disponíveis em
-     https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-
-     and-processor-gdpr pt.
+     2021, paragraphs 161, 162 and 166, available at https://edpb.europa.eu/our-work-tools/our-
+     documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr en
 
 
-     Adotadas                                                                                               4
+     Adopted                                                                                                      4
 
-     1 IDENTIFICAÇÃO DA AUTORIDADE DE CONTROLO PRINCIPAL:
-       CONCEITOS-CHAVE
-     1.1 «Tratamento transfronteiriço de dados pessoais»
-4.   A identificação da autoridade de controlo principal é pertinente apenas quando o responsável pelo
-     tratamento ou o subcontratante procede ao tratamento transfronteiriço de dados pessoais. O
-     artigo 4.º, n.º 23, do RGPD define «tratamento transfronteiriço» como:
-           - o tratamento de dados pessoais que ocorre no contexto das atividades de estabelecimentos em
-             mais do que um Estado-Membro de um responsável pelo tratamento ou um subcontratante na
-             União, caso o responsável pelo tratamento ou o subcontratante esteja estabelecido em mais do
-             que um Estado-Membro, ou
-           - o tratamento de dados pessoais que ocorre no contexto das atividades de um único
-             estabelecimento de um responsável pelo tratamento ou de um subcontratante na União, mas
-             que afeta substancialmente, ou é suscetível de afetar substancialmente, titulares de dados em
-             mais do que um Estado-Membro.
-5.   Ou seja, se uma organização dispuser, por exemplo, de estabelecimentos em França e na Roménia e o
-     tratamento de dados pessoais ocorrer no contexto das suas atividades, trata-se de tratamento
-     transfronteiriço.
-6.   Alternativamente, a organização poderá exercer as atividades de tratamento apenas no contexto do
-     seu estabelecimento em França. No entanto, se a atividade afetar substancialmente — ou for
-     suscetível de afetar substancialmente — titulares de dados em França e na Roménia, constituirá
-     igualmente um tratamento transfronteiriço.
+      1 IDENTIFYING A LEAD SUPERVISORY AUTHORITY: THE KEY CONCEPTS
+      1.1 ‘Cross-border processing of personal data’
+4.    Identifying a lead supervisory authority is only relevant where a controller or processor is carrying out
+      the cross-border processing of personal data. Article 4(23) GDPR defines ‘cross-border processing’ as
+      either the:
+            - processing of personal data which takes place in the context of the activities of establishments
+              in more than one Member State of a controller or processor in the Union where the controller or
+              processor is established in more than one Member State; or the
+            - processing of personal data which takes place in the context of the activities of a single
+              establishment of a controller or processor in the Union but which substantially affects or is likely
+              to substantially affect data subjects in more than one Member State.
+5.    This means that where an organisation has establishments in France and Romania, for example, and
+      the processing of personal data takes place in the context of their activities, then this will constitute
+      cross-border processing.
 
-     1.1.1 «Afeta substancialmente»
-7.   O RGPD não define os conceitos de «substancialmente» nem de «afetar». O intuito da redação é
-     assegurar que nem todas as atividades de tratamento, com qualquer efeito e que ocorram no contexto
-     de um único estabelecimento, sejam abrangidas pela definição de «tratamento transfronteiriço».
-8.   As aceções mais pertinentes de «substancial» em português incluem: «aquilo que contém as ideias
-     principais; que tem conteúdo, substância» ou «que tem muita importância; que é considerável» 5 .
-9.   A aceção mais pertinente do verbo «afetar» é «exercer alguma influência, causando alteração ou
-     mudança em determinado estado de coisas». O termo correlato «efeito» significa, entre outras coisas,
-     um «resultado» ou uma «consequência» 6 . Este contexto sugere que, para afetar uma pessoa, o
-     tratamento de dados deve produzir algum tipo de impacto sobre ela. O tratamento que não tiver efeito
-     substancial sobre as pessoas não se insere no âmbito da segunda parte da definição de «tratamento
-     transfronteiriço». No entanto, poderia enquadrar-se na primeira parte da definição, quando o
-     tratamento de dados pessoais ocorre no contexto das atividades de estabelecimentos em mais do que
-     um Estado-Membro de um responsável pelo tratamento ou um subcontratante na União, caso o
-     responsável pelo tratamento ou o subcontratante esteja estabelecido em mais do que um
-     Estado-Membro.
+6.    Alternatively, the organisation may only carry out processing activity in the context of its establishment
+      in France. However, if the activity substantially affects – or is likely to substantially affect – data
+      subjects in France and Romania then this will also constitute cross-border processing.
 
+      1.1.1 ‘Substantially affects’
+7.    The GDPR does not define ‘substantially’ or ‘affects’. The intention of the wording was to ensure that
+      not all processing activity, with any effect and that takes place within the context of a single
+      establishment, falls within the definition of ‘cross-border processing’.
+8.    The most relevant ordinary English meanings of ‘substantial’ include: ‘of ample or considerable amount
+      or size; sizeable, fairly large’, or ‘having solid worth or value, of real significance; solid; weighty,
+      important’ 5 .
+9.    The most relevant meaning of the verb ‘affect’ is ‘to influence’ or ‘to make a material impression on’.
+      The related noun -‘effect’- means, amongst other things, ‘a result’ or ‘a consequence’ 6 . This suggests
+      that for data processing to affect someone it must have some form of impact on them. Processing that
+      does not have a substantial effect on individuals does not fall within the second part of the definition
+      of ‘cross-border processing’. However, it would fall within the first part of the definition where the
+      processing of personal data takes place in the context of the activities of establishments in more than
+      one Member State of a controller or processor in the Union, where the controller or processor is
+      established in more than one Member State.
+10.   Processing can be brought within the second part of the definition if there is the likelihood of a
+      substantial effect, not just an actual substantial effect. Note that ‘likely to’ does not mean that there
+      is a remote possibility of a substantial effect. The substantial effect must be more likely than not. On
+      the other hand, it also means that individuals do not have to be actually affected: the likelihood of a
+      substantial effect is sufficient to bring the processing within the definition of ‘cross-border processing’.
 
 
 
-     5   Dicionário da Língua Portuguesa Contemporânea da Academia das Ciências de Lisboa.
-     6
-         Dicionário da Língua Portuguesa Contemporânea da Academia das Ciências de Lisboa.
+      5   Oxford English Dictionary.
+      6
+          Oxford English Dictionary.
 
 
-     Adotadas                                                                                           5
+      Adopted                                                                                                   5
 
-10.   O tratamento pode ser enquadrado na segunda parte da definição sempre que um efeito substancial
-      seja suscetível de ocorrer, e não unicamente quando se verifique um efeito substancial efetivo. Refira-
-      se que «suscetível de» não significa que existe uma possibilidade remota de efeito substancial. O efeito
-      substancial deve ser mais suscetível de se verificar do que o contrário. Por outro lado, o significado
-      implícito é também que as pessoas não têm necessariamente de ser afetadas: um efeito substancial
-      suscetível de ocorrer é suficiente para enquadrar o tratamento no âmbito da definição de «tratamento
-      transfronteiriço».
-11.   O facto de uma operação de tratamento de dados poder implicar o tratamento de um conjunto —
-      inclusivamente um vasto conjunto — de dados pessoais dos titulares, em vários Estados-Membros,
-      não significa necessariamente que o tratamento tenha, ou seja suscetível de ter, um efeito substancial.
-      O tratamento que não tiver efeito substancial não constitui um tratamento transfronteiriço para
-      efeitos da segunda parte da definição, independentemente do número de pessoas afetadas pelo
-      tratamento.
+11.   The fact that a data processing operation may involve the processing of a number – even a large
+      number – of individuals’ personal data, in a number of Member States, does not necessarily mean that
+      the processing has, or is likely to have, a substantial effect. Processing that does not have a substantial
+      effect does not constitute cross-border processing for the purposes of the second part of the
+      definition, regardless of how many individuals it affects.
+12.   Supervisory Authorities will interpret ‘substantially affects’ on a case by case basis. We will take into
+      account the context of the processing, the type of data, the purpose of the processing and factors such
+      as whether the processing:
+           o causes, or is likely to cause, damage, loss or distress to individuals;
+           o has, or is likely to have, an actual effect in terms of limiting rights or denying an opportunity;
+           o affects, or is likely to affect individuals’ health, well-being or peace of mind;
+           o affects, or is likely to affect, individuals’ financial or economic status or circumstances;
+           o leaves individuals open to discrimination or unfair treatment;
+           o involves the analysis of the special categories of personal or other intrusive data, particularly the
+             personal data of children;
+           o causes, or is likely to cause individuals to change their behaviour in a significant way;
+           o has unlikely, unanticipated or unwanted consequences for individuals;
+           o creates embarrassment or other negative outcomes, including reputational damage; or
+           o involves the processing of a wide range of personal data.
+13.   Ultimately, the test of ‘substantial effect’ is intended to ensure that supervisory authorities are only
+      required to co-operate formally through the GDPR’s consistency mechanism "where a supervisory
+      authority intends to adopt a measure intended to produce legal effects as regards processing
+      operations which substantially affect a significant number of data subjects in several Member States”7 .
 
-12.   As autoridades de controlo interpretarão caso a caso o conceito de «afeta substancialmente».
-      Teremos em conta o contexto do tratamento, o tipo de dados, a finalidade do tratamento e outros
-      fatores, designadamente a questão de saber se o tratamento:
-           o causa, ou é suscetível de causar, danos, prejuízos ou transtornos a pessoas,
-           o tem, ou é suscetível de ter, um efeito real em termos de limitação dos direitos ou negação de
-             oportunidades,
-           o afeta, ou é suscetível de afetar, a saúde, o bem-estar ou a paz de espírito das pessoas,
-           o afeta, ou é suscetível de afetar, a situação financeira ou económica ou as circunstâncias das
-             pessoas,
-           o deixa pessoas expostas a situações de discriminação ou tratamento abusivo,
-           o implica a análise das categorias especiais de dados pessoais ou de outros dados intrusivos,
-             particularmente dados pessoais de crianças,
-           o causa, ou é suscetível de causar, uma alteração significativa no comportamento das pessoas,
-           o tem consequências improváveis, imprevistas ou indesejáveis para as pessoas,
-           o cria embaraço ou outros resultados negativos, incluindo danos à reputação, ou
-           o implica o tratamento de um vasto leque de dados pessoais.
-13.   Em última análise, o critério do «efeito substancial» destina-se a assegurar que as autoridades de
-      controlo apenas sejam obrigadas a cooperar formalmente através do procedimento de controlo da
-      coerência do RGPD «quando uma autoridade de controlo tenciona adotar uma medida que vise
-      produzir efeitos legais em relação a operações de tratamento que afetem substancialmente um
-      número significativo de titulares de dados em vários Estados‑Membros» 7 .
+      1.2 Lead supervisory authority
+14.   Put simply, a ‘lead supervisory authority’ is the authority with the primary responsibility for dealing
+      with a cross-border data processing activity, for example when a data subject makes a complaint about
+      the processing of his or her personal data.
 
-      1.2 Autoridade de controlo principal
-14.   Em termos simples, a «autoridade de controlo principal» tem como responsabilidade fundamental
-      gerir a atividade de tratamento transfronteiriço de dados, por exemplo, quando um titular de dados
-      apresenta uma queixa relativa ao tratamento dos seus dados pessoais.
+15.   The lead supervisory authority will coordinate any investigation, involving other ‘concerned’
+      supervisory authorities.
 
+16.   Identifying the lead supervisory authority depends on determining the location of the controller’s
+      ‘main establishment’ or ‘single establishment’ in the EU. Article 56 GDPR says that:
+            - the supervisory authority of the main establishment or of the single establishment of the
+              controller or processor shall be competent to act as lead supervisory authority for the cross-
+              border processing carried out by that controller or processor in accordance with the
+              [cooperation] procedure provided in Article 60.
+
+      1.3 Main establishment
+17.   Article 4(16) GDPR states that ‘main establishment’ means:
 
 
       7
-          Ver considerando 135 do RGPD.
+          See Recital 135 GDPR.
 
 
-      Adotadas                                                                                              6
+      Adopted                                                                                                     6
 
-15.   A autoridade de controlo principal coordenará as eventuais investigações, com a participação de
-      outras autoridades de controlo «interessadas».
-16.   Para identificar a autoridade de controlo principal é necessário determinar a localização do
-      «estabelecimento principal» ou «estabelecimento único» do responsável pelo tratamento na UE. O
-      artigo 56.º do RGPD dispõe o seguinte:
-         - a autoridade de controlo do estabelecimento principal ou do estabelecimento único do
-           responsável pelo tratamento ou do subcontratante é competente para agir como autoridade de
-           controlo principal para o tratamento transfronteiriço efetuado pelo referido responsável pelo
-           tratamento ou subcontratante [de acordo com o processo de cooperação] nos termos do artigo
-           60.º.
-
-      1.3 Estabelecimento principal
-17.   O artigo 4.º, ponto 16, do RGPD estabelece a seguinte definição de «estabelecimento principal»:
-         - no que se refere a um responsável pelo tratamento com estabelecimentos em vários
-           Estados-Membros, o local onde se encontra a sua administração central na União, a menos que
-           as decisões sobre as finalidades e os meios de tratamento dos dados pessoais sejam tomadas
-           noutro estabelecimento do responsável pelo tratamento na União e este último estabelecimento
-           tenha competência para mandar executar tais decisões, sendo neste caso o estabelecimento
-           que tiver tomado as referidas decisões considerado estabelecimento principal,
-         - no que se refere a um subcontratante com estabelecimentos em vários Estados-Membros, o local
-           onde se encontra a sua administração central na União ou, caso o subcontratante não tenha
-           administração central na União, o estabelecimento do subcontratante na União onde são
-           exercidas as principais atividades de tratamento no contexto das atividades de um
-           estabelecimento do subcontratante, na medida em que se encontre sujeito a obrigações
-           específicas nos termos do presente regulamento.
+         - as regards a controller with establishments in more than one Member State, the place of its
+           central administration in the Union, unless the decisions on the purposes and means of the
+           processing of personal data are taken in another establishment of the controller in the Union and
+           the latter establishment has the power to have such decisions implemented, in which case the
+           establishment having taken such decisions is to be considered to be the main establishment;
+         - as regards a processor with establishments in more than one Member State, the place of its
+           central administration in the Union, or, if the processor has no central administration in the
+           Union, the establishment of the processor in the Union where the main processing activities in
+           the context of the activities of an establishment of the processor take place to the extent that
+           the processor is subject to specific obligations under this Regulation;
 
 
-      2 MEDIDAS DESTINADAS A IDENTIFICAR A AUTORIDADE DE
-        CONTROLO PRINCIPAL
-      2.1 Identificar o «estabelecimento principal» dos responsáveis pelo tratamento
-18.   A fim de determinar onde se situa o estabelecimento principal, é necessário, antes de mais, identificar
-      a administração central do responsável pelo tratamento no EEE, se existir. A abordagem implícita no
-      RGPD determina que a administração central na UE corresponde ao local onde as decisões sobre as
-      finalidades e os meios de tratamento dos dados pessoais são tomadas e que este local tem
-      competência para mandar executar tais decisões.
-19.   Essencialmente, o princípio da autoridade de controlo principal no RGPD prevê que o controlo do
-      tratamento transfronteiriço deve ser dirigido por uma única autoridade de controlo na UE. Nos casos
-      em que sejam tomadas decisões relativas a diferentes atividades de tratamento transfronteiriço no
-      seio da administração central da UE, haverá uma única autoridade de controlo principal para as
-      diversas atividades de tratamento de dados efetuadas pela empresa multinacional. No entanto,
-      poderão surgir situações em que um estabelecimento que não o local da administração central tome
-      decisões autónomas relativamente às finalidades e aos meios de uma atividade de tratamento
-      específica. Por outras palavras, será possível, em alguns casos, identificar mais do que uma autoridade
+      2 STEPS TO IDENTIFY THE LEAD SUPERVISORY AUTHORITY
+      2.1 Identify the ‘main establishment’ for controllers
+18.   In order to establish where the main establishment is, it is firstly necessary to identify the central
+      administration of the controller in the EEA, if any. The approach implied in the GDPR is that the central
+      administration in the EU is the place where decisions about the purposes and means of the processing
+      of personal data are taken, and this place has the power to have such decisions implemented.
 
+19.   The essence of the lead supervisory authority principle in the GDPR is that the supervision of cross-
+      border processing should be led by only one supervisory authority in the EU. In cases where decisions
+      relating to different cross-border processing activities are taken within the EU central administration,
+      there will be a single lead supervisory authority for the various data processing activities carried out
+      by the multinational company. However, there may be cases where an establishment other than the
+      place of central administration makes autonomous decisions concerning the purposes and means of a
+      specific processing activity. This means that there can be situations where more than one lead
+      supervisory authority can be identified, i.e. in cases where a multinational company decides to have
+      separate decision-making centres, in different countries, for different processing activities.
 
+20.   It is worth recalling, that where a multinational company centralises all the decisions relating to the
+      purposes and means of processing activities in one of its establishments in the EEA (and that
+      establishment has the power to implement such decisions), only one lead supervisory authority will be
+      identified for the multinational.
+21.   In these situations, it will be essential for companies to identify precisely where the decisions on
+      purpose and means of processing are taken. Correct identification of the main establishment is in the
+      interests of controllers and processors because it provides clarity in terms of which supervisory
+      authority they have to deal with in respect of their various compliance duties under the GDPR. These
+      may include, where relevant, designating a data protection officer or consulting for a risky processing
+      activity that the controller cannot mitigate by reasonable means. The relevant provisions of the GDPR
+      are intended to make these compliance tasks manageable.
+22.   The examples below illustrate this:
 
-
-      Adotadas                                                                                             7
-
-      de controlo principal, a saber, quando uma empresa multinacional decide ter centros de decisão
-      distintos, em diferentes países, para as diferentes atividades de tratamento.
-20.   Cumpre recordar que, se uma empresa multinacional centralizar todas as decisões sobre as finalidades
-      e os meios das atividades de tratamento num dos seus estabelecimentos no EEE (e este
-      estabelecimento tiver competência para executar tais decisões), será identificada uma única
-      autoridade de controlo principal para essa multinacional.
-21.   Nestas situações, será essencial que as empresas identifiquem de forma precisa o local onde são
-      tomadas as decisões sobre as finalidades e os meios de tratamento. A identificação correta do
-      estabelecimento principal é do interesse dos responsáveis pelo tratamento e dos subcontratantes,
-      uma vez que permite determinar com clareza a autoridade de controlo perante a qual devem
-      responder no que diz respeito às suas várias obrigações para efeitos de conformidade com o RGPD.
-      Estas obrigações podem incluir, consoante o caso, a designação de um encarregado da proteção de
-      dados ou a consulta relativamente a uma atividade de tratamento que implique riscos que o
-      responsável pelo tratamento não consiga atenuar através de medidas razoáveis. As disposições
-      aplicáveis do RGPD destinam-se a garantir a viabilidade destas funções de conformidade.
-
-22.   Os exemplos seguintes ilustram estas disposições:
-
-      Exemplo 1: Uma empresa de venda a retalho do setor alimentar tem sede (ou seja, o «local onde se
-      encontra a sua administração central») em Roterdão, nos Países Baixos. Tem estabelecimentos em
-      vários outros países do EEE, que estão em contacto com pessoas nesses mesmos países. Todos os
-      estabelecimentos utilizam o mesmo software no tratamento dos dados pessoais dos consumidores
-      para fins de promoção comercial. Todas as decisões sobre as finalidades e os meios de tratamento dos
-      dados pessoais dos consumidores para fins de promoção comercial são tomadas na sua sede em
-      Roterdão. Neste caso, a autoridade de controlo principal da empresa relativamente à atividade de
-      tratamento transfronteiriço em causa é a autoridade de controlo neerlandesa.
-      Exemplo 2: Um banco tem sede social em Frankfurt, onde são organizadas todas 8 as suas atividades
-      de tratamento bancário, mas o seu departamento de seguros está situado em Viena. Se o
-      estabelecimento em Viena tiver competência para decidir sobre todas as atividades de tratamento de
-      dados de seguros e para executar estas decisões em todo o EEE, em conformidade com o artigo 4.º,
-      ponto 16, do RGPD, a autoridade de controlo austríaca será a autoridade de controlo principal
-      relativamente ao tratamento transfronteiriço de dados pessoais para fins de seguros, competindo à
-      autoridade de controlo competente alemã (autoridade de controlo de Hesse) o controlo do
-      tratamento de dados pessoais para fins bancários, independentemente da localização dos clientes 9 .
+      Example 1: A food retailer has its headquarters (i.e., its ‘place of central administration’) in Rotterdam,
+      Netherlands. It has establishments in various other EEA countries, which are in contact with individuals
+      there. All establishments make use of the same software to process consumers’ personal data for
+      marketing purposes. All the decisions about the purposes and means of the processing of consumers’
+      personal data for marketing purposes are taken within its Rotterdam headquarters. This means that
 
 
 
+      Adopted                                                                                                  7
+
+      the company’s lead supervisory authority for this cross-border processing activity is the Dutch
+      supervisory authority.
+      Example 2: A bank has its corporate headquarters in Frankfurt, and all 8 its banking processing activities
+      are organised from there, but its insurance department is located in Vienna. If the establishment in
+      Vienna has the power to decide on all insurance data processing activities and to implement these
+      decisions for the whole EEA, then, as foreseen in Article 4(16) GDPR, the Austrian supervisory authority
+      would be the lead supervisory authority in respect of the cross-border processing of personal data for
+      insurance purposes, and the competent German supervisory authority (i.e., the Hessen supervisory
+      authority) would supervise the processing of personal data for banking purposes, wherever the clients
+      are located 9 .
+
+      2.1.1 Criteria for identifying a controller’s main establishment in cases where it is not the
+            place of its central administration in the EEA
+23.   Recital 36 GDPR is useful in clarifying the main factor that shall be used to determine a controller’s
+      main establishment if the criterion of the central administration does not apply. This involves
+      identifying where the effective and real exercise of management activities, that determine the main
+      decisions as to the purposes and means of processing through stable arrangements, takes place.
+      Recital 36 GDPR also clarifies that “the presence and use of technical means and technologies for
+      processing personal data or processing activities do not, in themselves, constitute a main establishment
+      and are therefore not determining criteria for a main establishment”.
+
+24.   The controller itself identifies where its main establishment is and therefore which supervisory
+      authority is its lead supervisory authority. However, this can be challenged by the respective
+      supervisory authority concerned afterwards.
+25.   The factors below are useful for determining the location of a controller’s main establishment,
+      according to the terms of the GDPR, in cases where it is not the location of its central administration
+      in the EEA.
+          o Where are decisions about the purposes and means of the processing given final ‘sign off’?
+          o Where are decisions about business activities that involve data processing made?
+          o Where does the power to have decisions implemented effectively lie?
+          o Where is the Director (or Directors) with overall management responsibility for the cross-border
+            processing located?
+          o Where is the controller or processor registered as a company, if in a single territory?
+26.   Note that this is not an exhaustive list. Other factors may be relevant depending on the controller or
+      processing activity in question. If a supervisory authority has reasons to doubt that the establishment
 
       8
-        No âmbito do tratamento de dados pessoais para fins bancários, o CEPD reconhece que estas atividades de
-      tratamento visam muitas finalidades diferentes. No entanto, numa ótica de simplificação, o CEPD associa a todas
-      estas atividades uma única finalidade. O mesmo se aplica ao tratamento efetuado para fins de seguros.
-      9 Importa igualmente recordar que o RGPD prevê a possibilidade de supervisão local em casos específicos.
+        In the context of processing personal data for banking purposes, the EDPB recognises that there are many
+      different purposes pursued by these processing activities. However, to simplify matters, the EDPB addresses all
+      of them as a single purpose. The same is true of processing done for insurance purposes.
+      9 It should be recalled also that the GDPR provides for the possibility of local oversight in specific cases. See
 
-      Consultar considerando 127: «[a]s autoridades de controlo que não atuem como autoridade de controlo
-      principal deverão ter competência para tratar casos a nível local quando o responsável pelo tratamento ou
-      subcontratante estiver estabelecido em vários Estados-Membros, mas o assunto do tratamento específico disser
-      respeito unicamente ao tratamento efetuado num só Estado-Membro, e envolver somente titulares de dados
-      nesse Estado-Membro, por exemplo, no caso de o assunto dizer respeito ao tratamento de dados pessoais de
-      trabalhadores num contexto específico de emprego num Estado-Membro.» Este princípio significa que o controlo
-      de dados de recursos humanos ligados ao contexto laboral local poderia caber a diversas autoridades de
-      controlo.
-
-
-      Adotadas                                                                                                     8
-
-      2.1.1 Critérios aplicáveis à identificação do estabelecimento principal do responsável pelo
-            tratamento nos casos em que não corresponde ao local onde se encontra a sua
-            administração central no EEE
-23.   O considerando 36 do RGPD ajuda a esclarecer qual o principal fator a utilizar para determinar o
-      estabelecimento principal do responsável pelo tratamento quando não se aplica o critério da
-      administração central. Para tal, deve ser identificado o local onde ocorre o exercício efetivo e real das
-      atividades de gestão que determinam as decisões principais quanto às finalidades e aos meios de
-      tratamento mediante instalações estáveis. O considerando 36 do RGPD esclarece ainda que «[a]
-      existência e utilização de meios técnicos e de tecnologias para o tratamento de dados pessoais ou as
-      atividades de tratamento não constituem, em si mesmas, um estabelecimento principal nem são,
-      portanto, um critério definidor de estabelecimento principal».
-24.   O responsável pelo tratamento identifica, por si mesmo, o local onde se situa o seu estabelecimento
-      principal e, por conseguinte, a autoridade de controlo que representa a sua autoridade de controlo
-      principal. Contudo, esta identificação poderá ser ulteriormente contestada pela correspondente
-      autoridade de controlo interessada.
-25.   Os fatores indicados infra são úteis para determinar o local onde se situa o estabelecimento principal
-      de um responsável pelo tratamento, em conformidade com o RGPD, nos casos em que não
-      corresponde à localização da sua administração central no EEE.
-         o Onde é concedida a «aprovação final» das decisões sobre as finalidades e os meios de
-           tratamento?
-         o Onde são tomadas as decisões sobre as atividades empresariais que envolvem o tratamento de
-           dados?
-         o Onde estão efetivamente situadas as instâncias com competência para mandar executar
-           decisões?
-         o Onde está situado o diretor (ou os diretores) com as responsabilidades globais de gestão do
-           tratamento transfronteiriço?
-         o Onde está o responsável pelo tratamento ou o subcontratante registado como sociedade, caso
-           exerça atividades num único território?
-26.   Saliente-se que esta lista não é exaustiva. Outros fatores poderão ser pertinentes, em função do
-      responsável pelo tratamento ou da atividade de tratamento em causa. Se a autoridade de controlo
-      tiver motivos para duvidar do facto de o estabelecimento identificado pelo responsável pelo
-      tratamento corresponder, na realidade, ao estabelecimento principal para efeitos do RGPD, pode,
-      naturalmente, exigir ao responsável pelo tratamento a prestação das informações suplementares
-      necessárias para demonstrar onde se situa o seu estabelecimento principal.
-
-      2.1.2 Grupos empresariais
-27.   Sempre que o tratamento dos dados seja efetuado por um grupo empresarial sediado no EEE,
-      pressupõe-se que o estabelecimento da empresa com o controlo global é o centro de decisão relativo
-      ao tratamento de dados pessoais, devendo, portanto, ser considerado o estabelecimento principal do
-      grupo, exceto se as decisões sobre as finalidades e os meios de tratamento forem tomadas por outro
-      estabelecimento. É expectável que a empresa-mãe, ou a sede operacional do grupo empresarial no
-      EEE, constitua o estabelecimento principal, uma vez que seria o local da sua administração central.
+      Recital 127: “Each supervisory authority not acting as the lead supervisory authority should be competent to
+      handle local cases where the controller or processor is established in more than one Member State, but the
+      subject matter of the specific processing concerns only processing carried out in a single Member State and
+      involves only data subjects in that single Member State, for example, where the subject matter concerns the
+      processing of employees' personal data in the specific employment context of a Member State.” This principle
+      means that the supervision of HR data connected to the local employment context could fall on several
+      supervisory authorities.
 
 
+      Adopted                                                                                                        8
+
+      identified by the controller is in reality the main establishment for the purposes of the GDPR, it can –
+      of course – require the controller to provide the additional information necessary for it to prove where
+      its main establishment is located.
+
+      2.1.2 Groups of undertakings
+27.   Where processing is carried out by a group of undertakings that has its headquarters in the EEA, the
+      establishment of the undertaking with overall control is presumed to be the decision-making centre
+      relating to the processing of personal data, and will therefore be considered to be the main
+      establishment for the group, except where decisions about the purposes and means of processing are
+      taken by another establishment. The parent, or operational headquarters of the group of undertakings
+      in the EEA, is likely to be the main establishment, because that would be the place of its central
+      administration.
+28.   The reference in the definition to the place of a controller’s central administration works well for
+      organisations that have a centralised decision-making headquarters and branch-type structure. In such
+      cases, it is clear that the power to make decisions about cross-border processing, and to have them
+      carried out, lies within the company’s headquarters. In such cases, determining the location of the
+      main establishment - and therefore which supervisory authority is the lead supervisory authority - is
+      straightforward. However, the decision system of group of companies could be more complex, giving
+      independent making powers relating to cross-border processing to different establishments. The
+      criteria set out above should help groups of undertakings to identify their main establishment.
+
+      2.1.3 Joint controllers
+29.   The GDPR does not specifically deal with the issue of designating a lead supervisory authority where
+      two or more controllers established in the EEA jointly determine the purposes and means of processing
+      - i.e. joint controllers. Article 26(1) and Recital 79 GDPR make it clear that in joint controllership
+      situations, the controllers shall in a transparent manner determine their respective responsibilities for
+      compliance with their obligations under the GDPR.
+30.   As recalled by the EDPB in its Guidelines on the concept of controller and processor 10 , joint controllers
+      need to set “who does what” by deciding between themselves who will have to carry out which tasks,
+      in order to make sure that the processing complies with the applicable obligations under the GDPR in
+      relation to the joint processing at stake.
+
+31.   The compliance measures and related obligations joint controllers should consider when determining
+      their respective responsibilities, in addition to those specifically referred in Article 26(1) GDPR, include,
+      amongst others, the organisation of contact with data subjects and supervisory authorities.
+32.   It should be recalled that supervisory authorities are not bound by the terms of such arrangement,
+      neither on the issue of the qualification of the parties as joint controllers nor on the designated contact
+      point 11 .
+33.   Moreover, the decision-making power of joint controllers does not comprise the determination of the
+      competent supervisory authority according to Articles 55 and 56 GDPR, or the ability of these
+      supervisory authorities to exercise their tasks and powers as described in Articles 57 and 58 GDPR.
 
 
-      Adotadas                                                                                               9
-
-28.   A referência, na definição, ao local da administração central de um responsável pelo tratamento
-      adequa-se às organizações com poder de decisão centralizado na sede e estrutura assente em filiais.
-      Nestes casos, é nítido que o poder de tomar decisões sobre o tratamento transfronteiriço e a
-      competência para mandar executá-las são uma prerrogativa da sede da empresa e a determinação do
-      local do estabelecimento principal — e, por conseguinte, da autoridade de controlo que deve constituir
-      a autoridade de controlo principal — é simples. No entanto, o sistema de decisão do grupo empresarial
-      pode revelar-se mais complexo, conferindo aos diversos estabelecimentos poderes de decisão
-      independentes no que se refere ao tratamento transfronteiriço. Os critérios descritos acima deverão
-      ajudar os grupos empresariais a identificar o respetivo estabelecimento principal.
-
-      2.1.3 Responsáveis conjuntos pelo tratamento
-29.   O RGPD não regula explicitamente a forma de designação da autoridade de controlo principal nos
-      casos em que dois ou mais responsáveis pelo tratamento estabelecidos no EEE determinam
-      conjuntamente as finalidades e os meios de tratamento — ou seja, são responsáveis conjuntos pelo
-      tratamento. O artigo 26.º, n.º 1, e o considerando 79 do RGPD clarificam que, em situações de
-      responsabilidade conjunta pelo tratamento, os responsáveis pelo tratamento devem determinar de
-      modo transparente as respetivas responsabilidades pelo cumprimento do regulamento.
-
-30.   Tal como recordado pelo CEPD nas suas Orientações sobre os conceitos de responsável pelo
-      tratamento e subcontratante 10 , os responsáveis conjuntos pelo tratamento têm de definir «quem faz
-      o quê», decidindo entre si quem terá de executar que tarefas, a fim de garantir que o tratamento
-      cumpre as obrigações aplicáveis nos termos do RGPD em relação ao tratamento conjunto em causa.
-31.   As medidas de conformidade e obrigações conexas que os responsáveis conjuntos pelo tratamento
-      devem ter em conta ao determinarem as respetivas responsabilidades, para além das especificamente
-      referidas no artigo 26.º, n.º 1, do RGPD, incluem, nomeadamente, a organização dos contactos com os
-      titulares dos dados e as autoridades de controlo.
-32.   Importa recordar que as autoridades de controlo não ficam vinculadas aos termos desse acordo, seja
-      na questão da qualificação das partes como responsáveis conjuntos pelo tratamento, seja na questão
-      do ponto de contacto designado 11 .
-33.   Além disso, o poder de decisão dos responsáveis conjuntos pelo tratamento não inclui a determinação
-      das autoridades de controlo competentes em conformidade com os artigos 55.º e 56.º do RGPD, nem
-      a capacidade dessas autoridades de controlo para prosseguirem as suas atribuições e exercerem os
-      seus poderes, conforme descrito nos artigos 57.º e 58.º do RGPD.
-34.   O conceito de estabelecimento principal está ligado, por força do RGPD, a um único responsável pelo
-      tratamento e não pode ser alargado a um contexto de responsabilidade conjunta pelo tratamento. Tal
-      não prejudica a possibilidade de cada responsável conjunto pelo tratamento ter o seu próprio
-      estabelecimento principal. Por outras palavras, o estabelecimento principal de um responsável pelo
-      tratamento não pode ser considerado o estabelecimento principal dos responsáveis conjuntos pelo
-      tratamento para o tratamento efetuado sob o seu controlo conjunto. Por conseguinte, os responsáveis
-      conjuntos pelo tratamento não podem designar (entre os estabelecimentos em que são tomadas
-      decisões sobre as finalidades e os meios do tratamento) um estabelecimento principal comum.
+      10 See Guidelines 07/2020 on the concepts of controller and processor in the GDPR, paragraphs 161, 162 and
+      166.
+      11 See Guidelines 07/2020 on the concepts of controller and processor in the GDPR, paragraph 191.
 
 
-      10 Ver as Orientações 07/2020 sobre os conceitos de responsável pelo tratamento e subcontratante no RGPD,
-      pontos 161, 162 e 166.
-      11 Ver Orientações 07/2020 do CEPD sobre os conceitos de responsável pelo tratamento e subcontratante no
-
-      RGPD, ponto 191.
 
 
-      Adotadas                                                                                              10
+      Adopted                                                                                                    9
 
-      2.2 Casos-limite
-35.   Haverá casos-limite e situações complexas em que será difícil identificar o estabelecimento principal
-      ou determinar o local onde são tomadas as decisões sobre o tratamento de dados. Tal poderá suceder,
-      por exemplo, se existir uma atividade de tratamento transfronteiriço e o responsável pelo tratamento
-      estiver estabelecido em vários Estados-Membros, mas não houver qualquer administração central no
-      EEE e nenhum dos estabelecimentos do EEE tomar decisões sobre o tratamento (ou seja, quando as
-      decisões forem tomadas exclusivamente fora do EEE).
-36.   No exemplo acima, a empresa que efetua o tratamento transfronteiriço poderá estar disposta a ser
-      regulada por uma autoridade de controlo principal, por forma a beneficiar do princípio do balcão único.
-      Contudo, o RGPD não apresenta nenhuma solução para este tipo de situações. Nestas circunstâncias,
-      a empresa em causa deve designar, como seu estabelecimento principal, o estabelecimento que tem
-      competência para executar as decisões sobre as atividades de tratamento e para assumir
-      responsabilidades pelo tratamento, o qual deve dispor de volume suficiente de ativos. Se a empresa
-      não designar um estabelecimento principal de acordo com estes critérios, não será possível designar
-      uma autoridade de controlo principal. As autoridades de controlo poderão sempre investigar esta
-      matéria de forma mais aprofundada, se necessário.
-37.   O RGPD não permite a busca do foro mais favorável. Se uma empresa alegar ter estabelecimento
-      principal no território de um Estado-Membro, mas não ocorrer nesse país qualquer exercício efetivo e
-      real de atividade de gestão ou tomada de decisões sobre o tratamento de dados pessoais, caberá às
-      autoridades de controlo competentes (ou, em última instância, ao CEPD 12 ) determinar a autoridade
-      de controlo que deverá constituir a autoridade principal, aplicando critérios objetivos e analisando as
-      provas disponíveis. O processo no âmbito do qual é determinada a localização do estabelecimento
-      principal poderá exigir uma investigação e uma cooperação ativas por parte das autoridades de
-      controlo. Não será possível tirar conclusões unicamente com base nas declarações da organização
-      examinada. O ónus da prova recai, em última análise, sobre os responsáveis pelo tratamento e os
-      subcontratantes, que devem demonstrar às autoridades de controlo competentes onde são tomadas
-      as respetivas decisões sobre o tratamento e onde se encontra o poder de execução de tais decisões. A
-      manutenção de registos efetivos das atividades de tratamento de dados ajudará tanto as organizações
-      como as autoridades de controlo a determinar a autoridade de controlo principal. A análise do
-      responsável pelo tratamento pode ser refutada pela autoridade de controlo principal, ou pelas
-      autoridades de controlo interessadas, com base num exame objetivo dos factos pertinentes, apoiado
-      por pedidos de informações adicionais, sempre que necessário.
-38.   Em alguns casos, as autoridades de controlo competentes solicitarão ao responsável pelo tratamento
-      o fornecimento de elementos comprovativos inequívocos, em conformidade com as orientações do
-      CEPD, que demonstrem onde se situa o seu estabelecimento principal, ou onde são tomadas as
-      decisões relativas a determinada atividade de tratamento de dados. Estes elementos comprovativos
-      serão devidamente ponderados e as autoridades de controlo em causa cooperarão no sentido de
-      decidir qual destas deverá assumir a condução das investigações. Estes casos apenas serão submetidos
-      à apreciação do CEPD para fins de decisão nos termos do artigo 65.º, n.º 1, alínea b), do RGPD quando
-      as autoridades de controlo tiverem posições divergentes relativamente à identificação da autoridade
-      de controlo principal. Todavia, na maior parte dos casos, o CEPD espera que as autoridades de controlo
-      competentes possam chegar a acordo quanto a uma linha de ação mutuamente satisfatória.
+34.   The notion of main establishment is linked by virtue of the GDPR to a single controller and cannot be
+      extended to a joint controllership situation. This is without prejudice to the possibility for each joint
+      controller to have its own main establishment. In other words, the main establishment of a controller
+      cannot be considered as the main establishment of the joint controllers for the processing carried out
+      under their joint control. Therefore, joint controllers cannot designate (among the establishments
+      where decisions on the purposes and means of the processing are taken) a common main
+      establishment for both joint controllers.
 
+      2.2 Borderline cases
+35.   There will be borderline and complex situations where it is difficult to identify the main establishment
+      or to determine where decisions about data processing are taken. This might be the case where there
+      is cross-border processing activity and the controller is established in several Member States, but there
+      is no central administration in the EEA and none of the EEA establishments are taking decisions about
+      the processing (i.e. decisions are taken exclusively outside of the EEA).
+36.   In the case above, the company carrying out cross-border processing may be keen to be regulated by
+      a lead supervisory authority to benefit from the one-stop-shop principle. However, the GDPR does not
+      provide a solution for situations like this. In these circumstances, the company should designate the
+      establishment that has the authority to implement decisions about the processing activity and to take
+      liability for the processing, including having sufficient assets, as its main establishment. If the company
+      does not designate a main establishment in this way, it will not be possible to designate a lead
+      supervisory authority. Supervisory authorities will always be able to investigate further where this is
+      appropriate.
+
+37.   The GDPR does not permit ‘forum shopping’. If a company claims to have its main establishment in
+      one Member State, but no effective and real exercise of management activity or decision-making over
+      the processing of personal data takes place there, the relevant supervisory authorities (or ultimately
+      the EDPB 12 ) will decide which supervisory authority is the ‘lead’, using objective criteria and looking at
+      the evidence. The process of determining where the main establishment is may require active inquiry
+      and co-operation by the supervisory authorities. Conclusions cannot be based solely on statements by
+      the organisation under review. The burden of proof ultimately falls on controllers and processors to
+      demonstrate to the relevant supervisory authorities where the relevant processing decisions are taken
+      and where there is the power to implement such decisions. Effective records of data processing activity
+      would help both organisations and supervisory authorities to determine the lead supervisory
+      authority. The lead supervisory authority, or concerned supervisory authorities, can rebut the
+      controller’s analysis based on an objective examination of the relevant facts, requesting further
+      information where required.
+38.   In some cases, the relevant supervisory authorities will ask the controller to provide clear evidence, in
+      line with any EDPB guidelines, of where its main establishment is, or where decisions about a particular
+      data processing activity are taken. This evidence will be given due weight and the supervisory
+      authorities involved will co-operate to decide which one of them will take the lead in investigations.
+      Such cases will only be referred to the EDPB for a decision under Article 65(1)(b) GDPR where
+      supervisory authorities have conflicting views in terms of identifying the lead supervisory authority.
+      However, in most cases, the EDPB expects that the relevant supervisory authorities will be able to
+      agree a mutually satisfactory course of action.
 
 
 
       12
-           Ver o ponto 35 infra.
+           See paragraph 38 below.
 
 
-      Adotadas                                                                                            11
+      Adopted                                                                                                  10
 
-      2.3 Subcontratante
-39.   O RGPD põe igualmente o sistema do balcão único à disposição dos subcontratantes abrangidos pelo
-      RGPD e com estabelecimentos em mais do que um Estado-Membro.
-40.   O artigo 4.º, ponto 16, alínea b), do RGPD refere que o estabelecimento principal do subcontratante
-      será o local onde se encontra a sua administração central na UE ou, se não existir uma administração
-      central na UE, o estabelecimento na União onde são exercidas as principais atividades de tratamento
-      (do subcontratante).
-41.   No entanto, de acordo com o considerando 36 do RGPD, nos casos que impliquem tanto o responsável
-      pelo tratamento como o subcontratante, a autoridade de controlo principal competente deverá ser a
-      autoridade de controlo principal do responsável pelo tratamento. Neste cenário, a autoridade de
-      controlo do subcontratante deverá ser uma «autoridade de controlo interessada» e deverá participar
-      no processo de cooperação. Esta regra será aplicável apenas nos casos em que o responsável pelo
-      tratamento estiver estabelecido no EEE. Nos casos em que os responsáveis pelo tratamento são
-      abrangidos pelo disposto no artigo 3.º, n.º 2, do RGPD, não serão sujeitos ao mecanismo de balcão
-      único. Um subcontratante — por exemplo, um prestador de grande dimensão de serviços de
-      computação em nuvem — pode prestar serviços a vários responsáveis pelo tratamento localizados em
-      diferentes Estados-Membros. Nestes casos, a autoridade de controlo principal será a autoridade de
-      controlo competente para agir como autoridade principal do responsável pelo tratamento. Em termos
-      práticos, significa isto que o subcontratante poderá ter de responder perante várias autoridades de
-      controlo.
+      2.3 Processor
+39.   The GDPR also offers the one-stop-shop system for the benefit of processors that are subject to GDPR
+      and have establishments in more than one Member State.
+40.   Article 4(16)(b) GDPR states that the processor’s main establishment will be the place of the central
+      administration of the processor in the EU or, if there is no central administration in the EU, the
+      establishment in the EU where the main processing (processor) activities take place.
+41.   However, according to Recital 36 GDPR, in cases involving both a controller and a processor, the
+      competent lead supervisory authority should be the lead supervisory authority for the controller. In
+      this situation, the supervisory authority of the processor will be a ‘supervisory authority concerned’
+      and should participate in the cooperation procedure. This rule will only apply where the controller is
+      established in the EEA. In cases where controllers are subject to the GDPR on the basis of its Article
+      3(2), they will not be subject to the one-stop-shop mechanism. A processor - for example, a large cloud-
+      service provider - may provide services to multiple controllers located in different Member States. In
+      such cases, the lead supervisory authority will be the supervisory authority that is competent to act as
+      lead for the controller. In effect, this means a processor may have to deal with multiple supervisory
+      authorities.
 
 
-      3 OUTRAS QUESTÕES RELEVANTES
-      3.1 O papel da «autoridade de controlo interessada»
-42.   Nos termos do artigo 4.º, ponto 22, do RGPD, entende-se por:
-         «Autoridade de controlo interessada», uma autoridade de controlo afetada pelo tratamento de
-         dados pessoais pelo facto de: a) [o] responsável pelo tratamento ou o subcontratante estar
-         estabelecido no território do Estado-Membro dessa autoridade de controlo; b) [o]s titulares de
-         dados que residem no Estado-Membro dessa autoridade de controlo serem substancialmente
-         afetados, ou suscetíveis de o ser, pelo tratamento dos dados; ou c) [t]er sido apresentada uma
-         reclamação junto dessa autoridade de controlo.
-43.   O conceito de autoridade de controlo interessada destina-se a garantir que o modelo da «autoridade
-      de controlo principal» não impede que outras autoridades de controlo tenham uma palavra a dizer
-      quanto à forma de tratar uma questão quando, por exemplo, pessoas residentes fora da jurisdição da
-      autoridade de controlo principal são substancialmente afetadas por uma atividade de tratamento de
-      dados. No que tange ao fator descrito na alínea a) supra, aplicam-se considerações idênticas à
-      identificação de uma autoridade de controlo principal. Refira-se que, no atinente à alínea b), o titular
-      dos dados só tem de residir no Estado-Membro em causa, não tem de ser cidadão desse Estado. Com
-      efeito, será geralmente fácil determinar — no que respeita à alínea c) — se uma autoridade de controlo
-      recebeu uma reclamação.
+      3 OTHER RELEVANT ISSUES
+      3.1 The role of the ’supervisory authority concerned’
+42.   GDPR Article 4(22) says that the:
+         ‘supervisory authority concerned’ means a supervisory authority which is concerned by the
+         processing of personal data because: (a) the controller or processor is established on the territory
+         of the Member State of that supervisory authority; (b) data subjects residing in the Member State
+         of that supervisory authority are substantially affected or likely to be substantially affected by the
+         processing; or (c) a complaint has been lodged with that supervisory authority.’
+43.   The concept of a concerned supervisory authority is meant to ensure that the ‘lead supervisory
+      authority’ model does not prevent other supervisory authorities having a say in how a matter is dealt
+      with when, for example, individuals residing outside the lead supervisory authority’s jurisdiction are
+      substantially affected by a data processing activity. In terms of factor (a) above, the same
+      considerations as for identifying a lead supervisory authority apply. Note that in (b) the data subject
+      must merely reside in the Member State in question; they do not have to be a citizen of that State. It
+      will generally be easy in (c) to determine - as a matter of fact - whether a particular supervisory
+      authority has received a complaint.
+44.   Article 56, paragraphs (2) and (5) GDPR provide for a concerned supervisory authority to take a role in
+      dealing with a case without being the lead supervisory authority. When a lead supervisory authority
+      decides not to handle a case, the concerned supervisory authority that informed the lead supervisory
+      authority shall handle it. This is in accordance with the procedures in Article 61 (Mutual assistance)
+      and Article 62 (Joint operations of supervisory authorities) GDPR. This might be the case where a
+      marketing company with its main establishment in Paris launches a product that only affects data
+      subjects residing in Portugal. In such a case, the French and Portuguese supervisory authorities might
+      agree that it is appropriate for the Portuguese supervisory authority to take the lead in dealing with
+      the matter. Supervisory authorities may request that controllers provide input in terms of clarifying
+      their corporate arrangements. Given that the processing activity has a purely local effect - i.e. on
 
-44.   O artigo 56.º, n. os 2 e 5, do RGPD prevê a possibilidade de uma autoridade de controlo interessada
-      participar no tratamento de um processo sem ser a autoridade de controlo principal. Quando
-      autoridade de controlo principal decide não tratar um processo, a autoridade de controlo interessada
-      que a tiver informado deve assumir esse processo, o que está em conformidade com os procedimentos
 
+      Adopted                                                                                               11
 
-      Adotadas                                                                                             12
+      individuals in Portugal - the French and Portuguese supervisory authorities have the discretion to
+      decide which supervisory authority should deal with the matter - in accordance with Recital 127 GDPR.
+45.   The GDPR requires lead and concerned supervisory authorities to co-operate, with due respect for
+      each other’s views, to ensure a matter is investigated and resolved to each authority’s satisfaction -
+      and with an effective remedy for data subjects. Supervisory authorities should endeavour to reach a
+      mutually acceptable course of action. The formal consistency mechanism should only be invoked
+      where co-operation does not reach a mutually acceptable outcome.
+46.   The mutual acceptance of decisions can apply to substantive conclusions, but also to the course of
+      action decided upon, including enforcement activity (e.g. full investigation or an investigation with
+      limited scope). It can also apply to a decision not to handle a case in accordance with the GDPR, for
+      example because of a formal policy of prioritisation, or because there are other concerned authorities
+      as described above.
+47.   The development of consensus and good will between supervisory authorities is essential to the
+      success of the GDPR’s cooperation and consistency procedures.
 
-      enunciados no artigo 61.º («assistência mútua») e no artigo 62.º («operações conjuntas das
-      autoridades de controlo») do RGPD. Tal poderá suceder, por exemplo, se uma empresa de marketing
-      com estabelecimento principal em Paris lançar um produto que afeta apenas titulares de dados
-      residentes em Portugal. Neste caso, as autoridades de controlo francesa e portuguesa podem
-      estabelecer por mútuo acordo que é adequado que a autoridade de controlo portuguesa assuma o
-      papel de autoridade principal no tratamento da questão. As autoridades de controlo poderão solicitar
-      aos responsáveis pelo tratamento informações no sentido de esclarecer as suas resoluções
-      empresariais. Uma vez que a atividade de tratamento tem um efeito meramente local — ou seja, em
-      pessoas residentes em Portugal — as autoridades de controlo francesa e portuguesa têm o poder
-      discricionário de decidir que autoridade de controlo deverá gerir o assunto, em conformidade com o
-      considerando 127 do RGPD.
-45.   O RGPD exige que as autoridades de controlo principais e interessadas cooperem, dando
-      reciprocamente a devida atenção aos pontos de vista de cada uma, no sentido de garantir que os casos
-      são investigados e resolvidos a contento de cada autoridade — e com possibilidade de recurso efetivo
-      para os titulares dos dados. As autoridades de controlo devem envidar esforços para obter uma
-      solução mutuamente aceite. O procedimento formal de controlo da coerência só deve ser invocado se
-      a cooperação não resultar numa opção mutuamente aceite.
-46.   A aceitação mútua de decisões pode aplicar-se às conclusões materiais, mas também à solução
-      estipulada, incluindo atividades de execução (por exemplo, investigação completa ou investigação de
-      âmbito limitado). Pode aplicar-se igualmente a uma decisão de não tratar um caso nos termos do
-      RGPD, por exemplo, devido a uma política formal de definição de prioridades, ou devido ao facto de
-      haver outras autoridades interessadas, tal como descrito anteriormente.
-47.   A obtenção de consensos e a boa vontade entre as autoridades de controlo são fundamentais para o
-      êxito dos processos de cooperação e de controlo da coerência do RGPD.
+      3.2 Local processing
+48.   Local data processing activity does not fall within the GDPR’s cooperation and consistency provisions.
+      Supervisory authorities will respect each other’s competence to deal with local data processing activity
+      on a local basis. Processing carried out by public authorities will always be dealt with on a ‘local’ basis,
+      too.
 
-      3.2 Tratamento local
-48.   As atividades locais de tratamento de dados não são abrangidas pelas disposições de cooperação e de
-      controlo da coerência do RGPD. As autoridades de controlo respeitarão mutuamente as respetivas
-      competências para gerir ao nível local as atividades locais de tratamento de dados. O tratamento
-      efetuado por autoridades públicas também será sempre gerido à escala «local».
-
-      3.3 Empresas não estabelecidas no EEE
-49.   Os procedimentos de cooperação e de controlo da coerência do RGPD aplicam-se unicamente aos
-      responsáveis pelo tratamento com um ou vários estabelecimentos no EEE. Se a empresa não tiver um
-      estabelecimento no EEE, a mera presença de um representante num Estado-Membro não aciona o
-      princípio do balcão único. Por outras palavras, os responsáveis pelo tratamento sem qualquer
-      estabelecimento no EEE têm de responder perante as autoridades de controlo locais em cada
-      Estado-Membro onde exerçam atividades, por intermédio do seu representante local.
+      3.3 Companies not established within the EEA
+49.   The GDPR’s cooperation and consistency mechanisms only apply to controllers with an establishment,
+      or establishments, within the EEA. If a company does not have an establishment in the EEA, the mere
+      presence of a representative in a Member State does not trigger the one-stop-shop principle. This
+      means that controllers without any establishment in the EEA must deal with local supervisory
+      authorities in every Member State they are active in, through their local representative.
 
 
 
 
-      Pelo Comité Europeu para a Proteção de Dados
-      A Presidente
+      For the European Data Protection Board
+      The Chair
+
+
       (Andrea Jelinek)
 
 
 
-      Adotadas                                                                                         13
 
-ANEXO — PERGUNTAS DESTINADAS A ORIENTAR A IDENTIFICAÇÃO DA
-AUTORIDADE DE CONTROLO PRINCIPAL
-1         O responsável pelo tratamento ou o subcontratante está a proceder ao
-          tratamento transfronteiriço de dados pessoais?
-a.        Sim, se:
-          •    o responsável pelo tratamento ou o subcontratante estiver estabelecido em mais do que
-               um Estado-Membro, e
-          •    o tratamento de dados pessoais ocorrer no contexto das atividades de estabelecimentos
-               em mais do que um Estado-Membro.
-      Neste caso, passe para a secção 2.
+      Adopted                                                                                                  12
 
-b.        Sim, se:
-          •    o tratamento de dados pessoais ocorrer no contexto das atividades de um único
-               estabelecimento do responsável pelo tratamento ou do subcontratante no EEE, mas:
-          •    afetar substancialmente, ou for suscetível de afetar substancialmente, pessoas em mais do
-               que um Estado-Membro.
-      Neste caso, a autoridade de controlo principal é a autoridade do estabelecimento único do
-       responsável pelo tratamento ou do subcontratante num só Estado-Membro. Logicamente,
-       corresponde ao estabelecimento principal do responsável pelo tratamento ou do
-       subcontratante, uma vez que é o seu único estabelecimento.
+ANNEX - QUESTIONS TO GUIDE THE IDENTIFICATION OF THE LEAD
+SUPERVISORY AUTHORITY
+1          Is the controller or processor carrying out the cross-border processing of personal
+           data?
+a.         Yes, if:
+            •    The controller or processor is established in more than one Member State, and
+            •    The processing of personal data takes place in the context of the activities of establishments
+                 in more than one Member State.
+      In this case, go to section 2.
 
-
-
-2         Métodos para identificar a «autoridade de controlo principal»
-a.        Num caso que implique apenas um responsável pelo tratamento:
-    i.    identificar o local onde se encontra a administração central do responsável pelo tratamento no
-          EEE,
-    ii.   a autoridade de controlo do país onde se situa o local da administração central é a autoridade
-          de controlo principal do responsável pelo tratamento,
-Todavia:
-    iii. se as decisões relativas às finalidades e aos meios de tratamento forem tomadas noutro
-         estabelecimento no EEE e esse estabelecimento tiver competência para executar estas decisões,
-         a autoridade de controlo principal será a do país onde se encontra este estabelecimento.
-
-b.        Num caso que implique um responsável pelo tratamento e um subcontratante:
-    i.    verificar se o responsável pelo tratamento está estabelecido no EEE e sujeito ao sistema do
-          balcão único. Em caso afirmativo,
-    ii.   identificar a autoridade de controlo principal do responsável pelo tratamento. Esta autoridade
-          será também a autoridade de controlo principal para o subcontratante,
-    iii. a autoridade de controlo (não principal) competente para o subcontratante será uma
-         «autoridade de controlo interessada» — ver secção 3 infra.
-
-
-Adotadas                                                                                             14
-
-c.            Num caso que implique apenas um subcontratante:
-    i.        identificar o local onde se encontra a administração central do subcontratante no EEE,
-    ii.       se o subcontratante não tiver administração central no EEE, identificar o estabelecimento no
-              EEE onde são exercidas as principais atividades de tratamento do subcontratante.
-
-d.            Num caso que implique responsáveis conjuntos pelo tratamento:
-    i.        verificar se os responsáveis conjuntos pelo tratamento estão estabelecidos no EEE,
-    ii.       identificar o local no EEE onde se encontra a administração central de cada responsável conjunto
-              pelo tratamento (se aplicável),
-
-    iii. a autoridade de controlo do país onde se situa o local da administração central é a autoridade
-         de controlo principal do respetivo responsável conjunto pelo tratamento.
+b.         Yes, if:
+            •    The processing of personal data takes place in the context of the activities of a controller
+                 or processor’s single establishment in the EEA, but:
+            •    Substantially affects or is likely to substantially affect individuals in more than one Member
+                 State.
+      In this case, the lead supervisory authority is the authority for the controller or processor’s single
+       establishment in a single Member State. This is - by logic - the controller or processor’s main
+       establishment because it is its only establishment.
 
 
 
-3             Existem «autoridades de controlo interessadas»?
-Uma autoridade constitui uma «autoridade interessada» nos seguintes casos:
-          •    o responsável pelo tratamento ou o subcontratante tem um estabelecimento no território da
-               autoridade, ou
-          •    os titulares de dados no território da autoridade são substancialmente afetados, ou suscetíveis
-               de o ser, pelo tratamento dos dados, ou
-          •    é apresentada reclamação junto de determinada autoridade de controlo.
+2          How to identify the ‘lead supervisory authority’
+a.         In a case involving only a controller:
+     i.    Identify the controller’s place of central administration in the EEA;
+     ii.   The supervisory authority of the country where the place of central administration is located is
+           the controller’s lead supervisory authority.
+However:
+    iii. If decisions on the purposes and means of the processing are taken in another establishment in
+         the EEA, and that establishment has the power to implement those decisions, then the lead
+         supervisory authority is the one located in the country where this establishment is.
+
+b.         In a case involving a controller and a processor:
+    i.     Check if the controller is established in the EEA and subject to the one-stop-shop system If so,
+    ii.    Identify the lead supervisory authority of the controller. This authority will also be the lead
+           supervisory authority for the processor.
+    iii. The (non-lead) supervisory authority competent for the processor will be a ‘concerned
+         supervisory authority’ - see section 3 below.
+
+c.         In a case involving only a processor:
+    i.     Identify the processor’s place of central administration in the EEA;
+
+
+Adopted                                                                                                     13
+
+    ii.       If the processor has no central administration in the EEA, identify the establishment in the EEA
+              where the main processing activities of the processor take place.
+
+d.            In a case involving joint controllers:
+    i.        Check if the joint controllers are established in the EEA.
+    ii.       Identify the place of central administration in the EEA for each joint controller respectively
+              (where applicable);
+
+    iii. The supervisory authority of the country where the place of central administration is located is
+         the lead supervisory authority of the respective joint controller.
+
+
+
+3             Are there any ‘concerned supervisory authorities’?
+An authority is a ‘concerned authority’:
+
+          •    When the controller or processor has an establishment on its territory, or:
+          •    When data subjects on its territory are substantially affected or likely to be substantially
+               affected by the processing, or:
+
+          •    When a complaint is received by a particular supervisory authority.
 
 
 
 
-Adotadas                                                                                                   15
+Adopted                                                                                                    14
 ```

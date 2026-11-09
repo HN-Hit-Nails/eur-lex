@@ -10,6 +10,8 @@ entrada_em_vigor:
 texto: consolidado
 versao_consolidada: 02011L0065-20260701
 versao_aplicavel_desde: '2026-07-01'
+versoes_futuras:
+- 02011L0065-20270813 (2027-08-13)
 eli: http://data.europa.eu/eli/dir/2011/65/oj
 repertorio:
 - 15.10.20.50 Substâncias químicas, riscos industriais e biotecnologia
@@ -17,7 +19,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32011L0065
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02011L0065-20260701
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 32011L0065 — RoHS (substâncias perigosas em EEE)
@@ -27,6 +29,8 @@ obtido_em: '2026-11-02'
 **Texto:** versão consolidada aplicável desde 2026-07-01 (02011L0065-20260701).
 
 > Aviso oficial dos textos consolidados: são um instrumento de documentação sem efeito jurídico. Fazem fé apenas os textos publicados no Jornal Oficial da União Europeia.
+
+**Atenção:** já existem versões consolidadas com data futura: 02011L0065-20270813 (2027-08-13). Confirmar no EUR-Lex se a pergunta for sobre essas datas.
 
 **Considerandos (preâmbulo):** ficheiro `32011L0065-rohs-substancias-perigosas-em-eee.considerandos.md`.
 

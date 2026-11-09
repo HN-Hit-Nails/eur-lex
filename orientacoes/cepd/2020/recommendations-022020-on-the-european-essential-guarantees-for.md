@@ -1,767 +1,743 @@
 ---
-titulo: "Recomendações 02/2020 sobre as garantias essenciais europeias relativas às medidas de vigilância"
+titulo: "Recommendations 02/2020 on the European Essential Guarantees for surveillance measures"
 titulo_en: "Recommendations 02/2020 on the European Essential Guarantees for surveillance measures"
 tipo: Recomendações
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2020-11-10'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/recommendation/recommendations-022020-on-the-european-essential-guarantees-for_en
-pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_recommendations_202002_europeanessentialguaranteessurveillance_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_recommendations_202002_europeanessentialguaranteessurveillance_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Recomendações 02/2020 sobre as garantias essenciais europeias relativas às medidas de vigilância
+# Recommendations 02/2020 on the European Essential Guarantees for surveillance measures
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Recomendações 02/2020 sobre as garantias essenciais
-    europeias relativas às medidas de vigilância
+Recommendations 02/2020 on the European Essential
+      Guarantees for surveillance measures
 
-         Adotadas em 10 de novembro de 2020
-
-
-                Translations proofread by EDPB Members.
-            This language version has not yet been proofread.
+           Adopted on 10 November 2020
 
 
 
 
-                                                                2
+                                                    2
 
-Índice
-1.       INTRODUÇÃO ........................................................................................................................................4
-2.       INGERÊNCIAS NOS DIREITOS FUNDAMENTAIS .....................................................................................6
-3.       GARANTIAS ESSENCIAIS EUROPEIAS .....................................................................................................8
-     Garantia A – O tratamento deve basear-se em regras claras, precisas e acessíveis................................................. 9
-     Garantia B – É necessário demonstrar a necessidade e a proporcionalidade em relação aos objetivos legítimos
-     prosseguidos ........................................................................................................................................................... 10
-     Garantia C – Mecanismo de supervisão independente .......................................................................................... 12
-     Garantia D – É necessário que as pessoas disponham de vias de recurso eficazes ................................................ 13
-4.       OBSERVAÇÕES FINAIS .........................................................................................................................15
-
-
-
-
-                                                                                                                                                                           3
-
-O Comité Europeu para a Proteção de Dados,
-
-Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao
-tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-seguir designado por «RGPD»)1,
-
-Tendo em conta o Acordo EEE e, nomeadamente, os seus Anexo XI e Protocolo 37, com a redação que
-lhe foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 20182,
-
-Tendo em conta o artigo 12.º e o artigo 22.º do seu Regulamento Interno,
-
-Tendo em conta o documento de trabalho do Grupo de Trabalho do Artigo 29.º sobre a justificação das
-ingerências nos direitos fundamentais à privacidade e à proteção de dados través de medidas de
-vigilância aquando da transferência de dados pessoais (garantias essenciais europeias, a seguir
-designadas por «GEE»), WP237,
+Table of contents
+1. INTRODUCTION ....................................................................................................................................... 4
+2. INTERFERENCES WITH FUNDAMENTAL RIGHTS ...................................................................................... 6
+3. THE EUROPEAN ESSENTIAL GUARANTEES ............................................................................................... 8
+   Guarantee A - Processing should be based on clear, precise and accessible rules .................................................. 8
+   Guarantee B - Necessity and proportionality with regard to the legitimate objectives pursued need to be
+   demonstrated ..................................................................................................................................................... 10
+   Guarantee C - Independent oversight mechanism ............................................................................................... 12
+   Guarantee D - Effective remedies need to be available to the individual ............................................................. 13
+4. FINAL REMARKS .................................................................................................................................... 15
 
 
 
-ADOTOU AS SEGUINTES RECOMENDAÇÕES:
+
+                                                                                                                                                                   3
+
+The European Data Protection Board
+
+Having regard to Article 70 (1) (e) of the Regulation 2016/679/EU of the European Parliament and of
+the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+“GDPR”),1
+
+Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 2,
+
+Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+Having regard to the Article 29 Working Party working document on the justification of interferences
+with the fundamental rights to privacy and data protection through surveillance measures when
+transferring personal data (European Essential Guarantees hereinafter “EEG”), WP237,
 
 
-1. INTRODUÇÃO
-1. Na sequência do acórdão Schrems I, as autoridades de proteção de dados da UE reunidas no Grupo
-de Trabalho 29 recorreram à jurisprudência para identificar as garantias essenciais europeias, que
-devem ser respeitadas para garantir que as ingerências nos direitos à privacidade e à proteção dos
-dados pessoais através de medidas de vigilância aquando da transferência de dados pessoais não
-ultrapassam o que é necessário e proporcionado numa sociedade democrática.
 
-2. O CEPD gostaria de salientar que as garantias essenciais europeias se baseiam na jurisprudência do
-Tribunal de Justiça da União Europeia (a seguir designado por «TJUE») relativa aos artigos 7.º, 8.º, 47.º
-e 52.º da Carta dos Direitos Fundamentais da UE (a seguir designada por «Carta») e, se for caso disso,
-na jurisprudência do Tribunal Europeu dos Direitos do Homem (a seguir designado por «TEDH») relativa
-ao artigo 8.º da Convenção Europeia dos Direitos do Homem (a seguir designada por «CEDH») sobre
-questões de vigilância nos Estados partes na CEDH3.
+HAS ADOPTED THE FOLLOWING RECOMMENDATIONS
+
+
+1. INTRODUCTION
+1. Following the Schrems I judgment, EU Data Protection Authorities assembled in the Working Party
+29 drew upon the jurisprudence to identify the European Essential Guarantees, which need to be
+respected to make sure interferences with the rights to privacy and the protection of personal data,
+through surveillance measures, when transferring personal data, do not go beyond what is necessary
+and proportionate in a democratic society.
+
+2. The EDPB would like to stress that the European Essential Guarantees are based on the jurisprudence
+of the Court of Justice of the European Union (hereinafter: CJEU) related to Articles 7, 8, 47 and 52 of
+the Charter of Fundamental Rights of the EU (hereinafter: the Charter) and, as the case may be, on the
+jurisprudence of the European Court of Human Rights (hereinafter: ECtHR) related to Article 8 of the
+European Convention on Human Rights (hereinafter: ECHR) dealing with surveillance issues in States
+party to the ECHR.3
 
 
 
 
 1
-  O presente documento não contempla situações de transferências ou partilhas ulteriores que estejam abrangidas
-pelo âmbito da Diretiva sobre a Proteção de Dados na Aplicação da Lei [Diretiva (UE) 2016/680].
+   This paper does not address situations of transfers or onward sharing falling under the scope of the Law
+Enforcement Directive (Directive (EU) 2016/680).
 2
-  As referências a «Estados membros» no presente documento devem ser entendidas como referências a «Estados
-membros do EEE».
+  References to “Member States” made throughout this document should be understood as references to “EEA
+Member States”.
 3
-  Nas presentes recomendações, o termo «direitos fundamentais» é derivado da Carta dos Direitos Fundamentais
-da UE. No entanto, é também utilizado para abranger os «direitos humanos» na aceção da Convenção Europeia
-dos Direitos do Homem.
+  In these Recommendations, the term “fundamental rights” is derived from the EU Charter of Fundamental Rights
+of the EU. However, it is used to also cover the “human rights” as included in the European Convention on Human
+Rights.
 
                                                                                                            4
 
-3. A atualização do presente documento pretende promover o desenvolvimento das garantias
-essenciais europeias originalmente concebidas em resposta ao acórdão Schrems I 4, refletindo os
-esclarecimentos prestados pelo TJUE (e pelo TEDH) desde a sua publicação inicial, em especial no seu
-acórdão de referência Schrems II5.
+3. The update of this paper is meant to further develop the European Essential Guarantees, originally
+drafted in response to the Schrems I judgment4 by reflecting the clarifications provided by the CJEU
+(and by the ECtHR) since it was first published, in particular in its landmark Schrems II judgment.5.
 
-4. No seu acórdão Schrems II, o TJUE declarou que o exame da Decisão 2010/87/UE da Comissão,
-relativa a cláusulas contratuais tipo aplicáveis à transferência de dados pessoais para subcontratantes
-estabelecidos em países terceiros nos termos da Diretiva, à luz dos artigos 7.º, 8.º e 47.º da Carta, não
-revelou nenhum elemento suscetível de afetar a validade dessa decisão, mas declarou inválida a Decisão
-BPD, relativa ao Escudo de Proteção da Privacidade. O TJUE considerou que a Decisão BPD era
-incompatível com o artigo 45.º, n.º 1, do RGPD, à luz dos artigos 7.º, 8.º e 47.º da Carta. O acórdão pode,
-assim, servir de exemplo quando as medidas de vigilância num país terceiro (neste caso, a secção 702
-da FISA e o Decreto Executivo n.º 12 333 dos EUA) não são suficientemente limitadas nem criam um
-recurso efetivo à disposição dos titulares de dados para fazerem valer os seus direitos, conforme exigido
-pela legislação da UE para considerar que o nível de proteção num país terceiro é «essencialmente
-equivalente» ao assegurado na União Europeia, na aceção do artigo 45.º, n.º 1, do RGPD.
+4. In its Schrems II judgment, the CJEU stated that the examination of the Commission Decision
+2010/87/EU on standard contractual clauses for the transfer of personal data to processors established
+in third countries, in the light of Articles 7, 8 and 47 of the Charter, has disclosed nothing to affect the
+validity of that decision, but invalidated the Privacy Shield Decision. The CJEU held that the Privacy
+Shield Decision was incompatible with Article 45 (1) GDPR, in the light of Articles 7, 8, and 47 of the
+Charter. The judgment can thus serve as an example where surveillance measures in a third country (in
+this case the U.S. with Section 702 FISA and Executive Order 12 333) are neither sufficiently limited nor
+object of an effective redress available to data subjects to enforce their rights, as required under EU
+law in order to consider the level of protection in a third country to be “essentially equivalent” to that
+guaranteed within the European Union within the meaning of Article 45 (1) of the GDPR.
 
-5. As razões para a declaração de invalidade do Escudo de Proteção também têm implicações para
-outros instrumentos 6de transferência. Embora o Tribunal de Justiça tenha interpretado o artigo 46.º,
-n.º 1, do RGPD no contexto da validade das cláusulas contratuais-tipo (a seguir designadas por CCT), a
-sua interpretação aplica-se a qualquer transferência para países terceiros que se baseie em qualquer
-dos instrumentos referidos no artigo 46.º do RGPD 7.
+5. The reasons for the invalidation of the Privacy Shield also have consequences on other transfer
+tools.6 Even though the Court interpreted Article 46(1) GDPR in the context of the validity of the
+Standard Contractual Clauses (hereinafter: SCCs), its interpretation applies to any transfer to third
+countries relying on any of the tools referred to in Article 46 GDPR7.
 
-6. Em última análise, incumbe ao TJUE avaliar se as ingerências num direito fundamental podem ser
-justificadas. No entanto, na ausência de tal acórdão e em aplicação da jurisprudência assente, as
-autoridades de proteção de dados são obrigadas a apreciar os casos individuais, quer oficiosamente,
-quer na sequência de uma queixa, e a remeter o caso para um tribunal nacional, se suspeitarem que a
-transferência não cumpre o disposto no artigo 45.º, quando existe uma decisão de adequação, ou a
-suspender ou proibir a transferência, se considerarem que o artigo 46.º do RGPD não pode ser
-respeitado e que a proteção dos dados transferidos exigida pela legislação da UE não pode ser
-assegurada por outros meios.
+6. It is ultimately for the CJEU to judge whether interferences with a fundamental right can be justified.
+However, in absence of such a judgment and in application of the standing jurisprudence, data
+protection authorities are required to assess individual cases, either ex officio or following a complaint,
+and to either refer the case to a national Court if they suspect that the transfer does not comply with
+Article 45 where there is an adequacy decision, or to suspend or prohibit the transfer if they find Article
+46 GDPR cannot be complied with and the protection of the data transferred required by EU law cannot
+be ensured by other means.
 
-7. O objetivo das garantias essenciais europeias atualizadas é fornecer elementos para verificar se as
-medidas de vigilância que permitem o acesso a dados pessoais pelas autoridades públicas de um país
-terceiro, quer sejam agências de segurança nacional ou autoridades competentes para a aplicação da
-lei, podem ou não ser consideradas como uma ingerência justificável.
+7. The aim of the updated European Essential Guarantees is to provide elements to examine, whether
+surveillance measures allowing access to personal data by public authorities in a third country, being
+national security agencies or law enforcement authorities, can be regarded as a justifiable interference
+or not.
 
-8. Com efeito, as garantias essenciais europeias fazem parte da avaliação a realizar para determinar se
-um país terceiro proporciona um nível de proteção essencialmente equivalente ao garantido na UE, mas
-não têm por objetivo, por si só, definir todos os elementos que são necessários para considerar que um
+8. Indeed, the European Essential Guarantees form part of the assessment to conduct in order to
+determine whether a third country provides a level of protection essentially equivalent to that
+guaranteed within the EU but do not aim on their own at defining all the elements which are necessary
+to consider that a third country provides such a level of protection in accordance with Article 45 of the
+GDPR. Likewise, they do not aim on their own at defining all the elements that might be necessary to
+consider when assessing whether the legal regime of a third country prevents the data exporter and
+data importer from ensuring appropriate safeguards in accordance with Article 46 of the GDPR.
 
 
 4
-  Acórdão do TJUE, de 6 de outubro de 2015, Maximillian Schrems c. Data Protection Commissioner, C 362/14,
-UE:C:2015:650 (a seguir designado por acórdão Schrems I).
+  CJEU judgment of 6 October 2015, Maximillian Schrems v Data Protection Commissioner, Case C‑362/14,
+EU:C:2015:650 (hereinafter: Schrems I).
 5
-  Acórdão do TJUE de 16 de julho de 2020, Data Protection Commissioner c. Facebook Ireland Ltd e Maximillian
-Schrems, C-311/18, ECLI:EU:C:2020:559 (a seguir designado por acórdão Schrems II).
+  CJEU judgment of 16 July 2020, Data Protection Commissioner v Facebook Ireland Ltd, Maximillian Schrems, case
+C-311/18, ECLI:EU:C:2020:559 (hereinafter: Schrems II).
 6
-  Ver n.º 105 do acórdão Schrems II.
+  See §105 of Schrems II.
 7
-  Ver n.º 92 do acórdão Schrems II.
-                                                                                                        5
+  See §92 of Schrems II.
+                                                                                                            5
 
-país terceiro proporciona esse nível de proteção em conformidade com o artigo 45.º do RGPD. Do
-mesmo modo, tão pouco têm por objetivo, por si só, definir todos os elementos que possam ser
-necessários para avaliar se o regime jurídico de um país terceiro impede o exportador de dados e o
-importador de dados de assegurarem salvaguardas adequadas, em conformidade com o artigo 46.º do
-RGPD.
+9. Therefore, the elements provided in this paper should be seen as the essential guarantees to be
+found in the third country when assessing the interference, entailed by a third country surveillance
+measures, with the rights to privacy and to data protection, rather than a list of elements to
+demonstrate that the legal regime of a third country as a whole is providing an essentially equivalent
+level of protection.
 
-9. Por conseguinte, os elementos apresentados no presente documento devem ser vistos como as
-garantias essenciais que devem ser encontradas no país terceiro ao avaliar a ingerência decorrente das
-medidas de vigilância de um país terceiro nos direitos à privacidade e à proteção de dados, em vez de
-como uma lista de elementos que demonstram que o regime jurídico de um país terceiro, no seu todo,
-proporciona um nível de proteção essencialmente equivalente.
+10. Article 6(3) of the Treaty on European Union establishes that the fundamental rights enshrined in
+the ECHR constitute general principles of EU law. However, as the CJEU recalls in its jurisprudence, the
+latter does not constitute, as long as the European Union has not acceded to it, a legal instrument
+which has been formally incorporated into EU law.8Thus, the level of protection of fundamental rights
+required by Article 46(1) of the GDPR must be determined on the basis of the provisions of that
+regulation, read in the light of the fundamental rights enshrined in the Charter. This being said,
+according to Article 52(3) of the Charter the rights contained therein which correspond to rights
+guaranteed by the ECHR are to have the same meaning and scope as those laid down by that
+Convention, and consequently, as recalled by the CJEU, the jurisprudence of the ECtHR concerning
+rights which are also foreseen in the Charter of Fundamental Rights of the EU must be taken into
+account, as a minimum threshold of protection to interpret corresponding rights in the Charter. 9
+According to the last sentence of Article 52(3) of the Charter, however, “[t]his provision shall not
+prevent Union law providing more extensive protection.”
 
-10. O artigo 6.º, n.º 3, do Tratado da União Europeia estabelece que os direitos fundamentais
-consagrados na CEDH fazem parte, enquanto princípios gerais, do direito da União. No entanto, tal
-como o TJUE recorda na sua jurisprudência, esta não constitui, enquanto a União Europeia não lhe
-aderir, um instrumento jurídico formalmente integrado na ordem jurídica da União 8. Assim, o nível de
-proteção dos direitos fundamentais exigido pelo artigo 46.º, n.º 1, do RGPD deve ser determinado com
-base nas disposições desse regulamento, lidas à luz dos direitos fundamentais consagrados na Carta.
-Dito isto, nos termos do artigo 52.º, n.º 3, da Carta, os direitos nela contidos que correspondam aos
-direitos garantidos pela CEDH têm o mesmo sentido e âmbito que os conferidos por essa Convenção e,
-por conseguinte, tal como recordado pelo TJUE, a jurisprudência do TEDH relativa aos direitos que
-também estão previstos na Carta dos Direitos Fundamentais da UE deve ser tida em conta como limiar
-mínimo de proteção para interpretar os direitos correspondentes na Carta9. No entanto, nos termos do
-último período do artigo 52.º, n.º 3, da Carta, «[e]sta disposição não obsta a que o direito da União
-confira uma proteção mais ampla».
+11. Therefore, the substance of the Essential Guarantees will continue to be partly based on the
+jurisprudence of the ECtHR, to the extent that the Charter as interpreted by the CJEU does not provide
+for a higher level of protection which prescribes other requirements than the ECtHR case law.
 
-11. Por conseguinte, o conteúdo das garantias essenciais continuará a basear-se parcialmente na
-jurisprudência do TEDH, na medida em que a Carta, tal como interpretada pelo TJUE, não prevê um
-nível de proteção mais elevado que prescreva requisitos diferentes dos estabelecidos na jurisprudência
-do TEDH.
-
-12. O presente documento explica os antecedentes e descreve mais pormenorizadamente as quatro
-garantias essenciais europeias.
+12. This paper explains the background and further details the four European Essential Guarantees.
 
 
-2. INGERÊNCIAS NOS DIREITOS FUNDAMENTAIS
-13. Os direitos fundamentais ao respeito pela vida privada e familiar, incluindo as comunicações, e à
-proteção dos dados pessoais estão consagrados nos artigos 7.º e 8.º da Carta e aplicam se a todas as
-pessoas. Além disso, o artigo 8.º estabelece condições para a licitude do tratamento dos dados pessoais,
-reconhece o direito de acesso e retificação, e impõe que essas regras estejam sujeitas a fiscalização por
-parte de uma autoridade independente.
 
+
+2. INTERFERENCES WITH FUNDAMENTAL RIGHTS
+
+13. The fundamental rights to respect for private and family life, including communications, and to the
+protection of personal data are laid down in Articles 7 and 8 of the Charter and apply to everyone.
+Article 8 furthermore sets conditions for the processing of personal data to be lawful and recognizes
+the right of access and rectification, as well as imposes that these rules are subject to the control of an
+independent authority.
+
+14. “(T)he operation of having personal data transferred from a Member State to a third country
+constitutes, in itself, processing of personal data”.10 Thus, Articles 7 and 8 of the Charter apply to this
+specific operation and their protection extend to the data transferred, which is why data subjects
 
 8
- Ver n.º 98 do acórdão Schrems II.
+  See § 98 of Schrems II.
 9
- Ver n.º 124 do acórdão C-511/18, C-512/18 e C-520/18, La Quadrature du Net e o. (a seguir designado por
-acórdão La Quadrature du Net e o.).
-
-                                                                                                     6
-
-14. «[A] operação que consiste na transferência de dados pessoais de um Estado Membro para um país
-terceiro constitui, enquanto tal, um tratamento de dados pessoais»10. Assim, os artigos 7.º e 8.º da Carta
-aplicam-se a esta operação específica e a sua proteção abrange os dados transferidos, razão pela qual
-as pessoas cujos dados pessoais são transferidos para um país terceiro devem beneficiar de um nível de
-proteção substancialmente equivalente ao garantido na União Europeia11.
-
-15. Segundo o TJUE, quando o direito fundamental ao respeito da vida privada consagrado no artigo 7.º
-da Carta é afetado, por meio do tratamento de dados pessoais, o direito à proteção de dados é
-igualmente afetado, uma vez que esse tratamento é abrangido pelo âmbito de aplicação do artigo 8.º
-da Carta e, por conseguinte, deve necessariamente respeitar as exigências de proteção de dados
-previstas no referido artigo12.
-
-16. Por conseguinte, no que se refere a uma eventual ingerência nos direitos fundamentais consignados
-no direito da União, a obrigação imposta aos prestadores de serviços de comunicações eletrónicas de
-conservarem os dados de tráfego para, se for caso disso, os disponibilizarem às autoridades nacionais
-competentes coloca questões relativas ao respeito dos artigos 7.º e 8.º da Carta13.. O mesmo se aplica
-relativamente a outros tipos de tratamento de dados, como a transmissão de dados a pessoas distintas
-dos utilizadores ou o acesso a esses dados tendo em vista a sua utilização14, o que implica, portanto,
-uma ingerência nesses direitos fundamentais. Além disso, de acordo com a jurisprudência constante, o
-acesso aos dados por uma autoridade pública constitui uma ingerência suplementar15.
-
-17. Para detetar uma ingerência, não importa «se as informações relativas à vida privada em questão
-têm ou não caráter sensível, ou se os interessados sofreram ou não eventuais inconvenientes em razão
-dessa ingerência»16. O TJUE sublinhou igualmente que é irrelevante o facto de os dados conservados
-serem ou não objeto de utilização ulterior17.
-
-18. Todavia, os direitos consagrados nos artigos 7.º e 8.º da Carta não são prerrogativas absolutas, antes
-devendo ser tomados em consideração relativamente à sua função na sociedade18.
-
-19. A Carta inclui um teste da necessidade e da proporcionalidade para enquadrar as restrições aos
-direitos que protege. O artigo 52.º, n.º 1, da Carta especifica o âmbito de eventuais restrições aos artigos
-7.º e 8.º, ao estabelecer que «qualquer limitação ao exercício dos direitos e liberdades reconhecidos
-pela presente Carta deve ser prevista por lei e respeitar a essência desses direitos e liberdades. Na
-observância do princípio da proporcionalidade, essas restrições só podem ser introduzidas se forem
-necessárias e corresponderem efetivamente a objetivos de interesse geral reconhecidos pela União, ou
-à necessidade de proteção dos direitos e liberdades de terceiros.»
-
-
-
-
+  See § 124 of joined cases C-511/18, C-512/18 and C-520/18, La Quadrature du Net and others (hereinafter: La
+Quadrature du Net and others).
 10
-   Acórdão do TJUE, Schrems II, n.º 83.
+   CJEU, Schrems II, § 83.
+
+                                                                                                         6
+
+whose personal data are transferred to a third country must be afforded a level of protection
+essentially equivalent to that which is guaranteed within the European Union.11
+
+15. According to the CJEU, when the fundamental right to respect for private life enshrined in Article 7
+of the Charter is affected, by means of processing an individual’s personal data, the right to data
+protection is also affected, as such processing falls within the scope of Article 8 of the Charter, and,
+accordingly, must necessarily satisfy the data protection requirement laid down in that article.12
+
+16. Therefore, as regards possible interference with fundamental rights under the EU law, the
+obligation imposed on providers of electronic communications services (…) to retain traffic data for the
+purpose of making it available, if necessary, to the competent national authorities, raises issues relating
+to compatibility with Articles 7 and 8 of the Charter.13 The same applies to other types of data
+processing, such as the transmission of data to persons other than users or access to that data with a
+view to its use14, which, thus, entails an interference with those fundamental rights. Moreover, access
+to the data by a public authority constitutes a further interference, according to settled case-law.15
+
+17. In order to find an interference, it does not matter “whether the information in question relating
+to private life is sensitive or whether the persons concerned have been inconvenienced in any way on
+account of that interference.”16 The CJEU also stressed that whether or not the retained data has been
+subsequently used is irrelevant.17
+
+18. However, Articles 7 and 8 of the Charter are not absolute rights, but must be considered in relation
+to their function in society.18
+
+19. The Charter includes a necessity and proportionality test to frame limitations to the rights it
+protects. Article 52(1) of the Charter specifies the scope of possible limitations to Articles 7 and 8 by
+stating that “any limitation on the exercise of the rights and freedoms recognised by this Charter must
+be provided for by law and respect the essence of those rights and freedoms. Subject to the principle
+of proportionality, limitations may be made only if they are necessary and genuinely meet objectives
+of general interest recognised by the Union or the need to protect the rights and freedoms of others”.
+
+20. The CJEU reiterated that EU legislation involving interference with the fundamental rights
+guaranteed by Articles 7 and 8 of the Charter “must lay down clear and precise rules governing the
+scope and application of the measure and imposing minimum safeguards, so that the persons whose
+personal data is affected have sufficient guarantees that data will be effectively protected against the
+risk of abuse”, in particular where personal data is subjected to automatic processing and “where there
+is a significant risk of unlawful access to that data”.19
+
 11
-   Acórdão do TJUE, Schrems II, n.º 96.
+   CJEU, Schrems II, § 96.
 12
-   Acórdão do TJUE, Schrems II, n.ºs 170 e 171.
+   CJEU, Schrems II, §§ 170-171.
 13
-   Acórdão do TJUE, C 623/17, Privacy International (a seguir designado por acórdão Privacy International), n.º 60.
+   CJEU, case C-623/17, Privacy International (hereinafter: Privacy International), § 60.
 14
-   Acórdão do TJUE, Privacy International, n.º 61.
+   CJEU, Privacy International, § 61.
 15
-   Acórdãos do TEDH, Leander, n.º 48; Rotaru, n.º 46; acórdão do TJUE, Digital Rights Ireland, n.º 35.
+   ECtHR, Leander, §48; ECtHR, Rotaru §46; CJEU, Digital Rights Ireland, §35.
 16
-   Acórdão do TJUE, Schrems II, n.º 171, incluindo a jurisprudência citada.
+   CJEU, Schrems II, § 171, including cited jurisprudence.
 17
-   Acórdão do TJUE, Schrems II, n.º 171, incluindo a jurisprudência citada.
+   CJEU, Schrems II, §171, including cited jurisprudence.
 18
-   Acórdão do TJUE, Privacy International, n.º 63.
-
-                                                                                                               7
-
-20. O TJUE reiterou que a legislação da UE que envolva uma ingerência nos direitos fundamentais
-garantidos pelos artigos 7.º e 8.º da Carta «deve prever normas claras e precisas que regulem o âmbito
-e a aplicação da medida em causa e impor requisitos mínimos, de modo que as pessoas cujos dados
-foram conservados disponham de garantias suficientes que permitam proteger eficazmente os seus
-dados pessoais contra os riscos de abuso», em especial quando os dados pessoais são submetidos a um
-tratamento automatizado e «quando existe um risco significativo de acesso ilícito a tais dados»19.
-
-21. De acordo com o TJUE, a proteção do direito à privacidade exige que as derrogações e restrições ao
-direito à proteção de dados «ocorram na estrita medida do necessário». Além disso, um objetivo de
-interesse geral deve ser conciliado com os direitos fundamentais abrangidos pela medida, «efetuando
-uma ponderação equilibrada» entre esse objetivo e os direitos em causa20.
-
-22. Por conseguinte, o acesso, a conservação e a posterior utilização de dados pessoais pelas
-autoridades públicas no âmbito das medidas de vigilância não podem exceder os limites do estritamente
-necessário, avaliados à luz da Carta, caso contrário «não pode[m] ser considerad[os] justificad[os],
-numa sociedade democrática»21.
-
-23. As quatro garantias essenciais europeias, tal como são desenvolvidas no próximo capítulo,
-pretendem especificar mais aprofundadamente a forma de avaliar o nível de ingerência nos direitos
-fundamentais à privacidade e à proteção de dados no contexto das medidas de vigilância por parte das
-autoridades públicas de um país terceiro, aquando da transferência de dados pessoais, e quais os
-requisitos legais que devem, por conseguinte, ser aplicados para avaliar se tais ingerências seriam
-aceitáveis nos termos da Carta.
-
-
-3. GARANTIAS ESSENCIAIS EUROPEIAS
-24. Na sequência da análise da jurisprudência, o CEPD considera que os requisitos legais aplicáveis para
-justificar as restrições à proteção de dados e aos direitos à privacidade reconhecidos pela Carta podem
-ser resumidos em quatro garantias essenciais europeias:
-
-     A. O tratamento deve basear-se em regras claras, precisas e acessíveis
-     B. É necessário demonstrar a necessidade e a proporcionalidade em relação aos objetivos
-        legítimos prosseguidos
-     C. Deve existir um mecanismo de supervisão independente
-     D. É necessário que os indivíduos disponham de vias de recurso eficazes
-
-25. As garantias baseiam-se nos direitos fundamentais à privacidade e à proteção de dados que se
-aplicam a todas as pessoas, independentemente da sua nacionalidade.
-
-
-
-
+   CJEU, Privacy International, §63.
 19
-   Acórdão do TJUE, Privacy International, n.º 68 e jurisprudência citada.
+   CJEU, Privacy International, §68 and jurisprudence referred therein.
+
+                                                                                                         7
+
+21. According to the CJEU, the protection of the right to privacy requires that derogations from and
+restrictions to the right to data protection “must apply in so far as is strictly necessary”. Furthermore,
+an objective of general interest must be reconciled with the fundamental rights affected by the
+measure, “by properly balancing” such objective against the rights at issue.20
+
+22. Consequently, access, retention and further use of personal data by public authorities within the
+remit of surveillance measures must not exceed the limits of what is strictly necessary, assessed in the
+light of the Charter, otherwise it “cannot be considered to be justified, within a democratic society”.21
+
+23. The four European Essential Guarantees, as they are developed in the next chapter, intend to
+further specify how to assess the level of interference with the fundamental rights to privacy and to
+data protection in the context of surveillance measures by public authorities in a third country, when
+transferring personal data, and what legal requirements must consequently apply in order to evaluate
+whether such interferences would be acceptable under the Charter.
+
+
+
+
+3. THE EUROPEAN ESSENTIAL GUARANTEES
+
+24. Following the analysis of the jurisprudence, the EDPB considers that the applicable legal
+requirements to make the limitations to the data protection and privacy rights recognised by the
+Charter justifiable can be summarised in four European Essential Guarantees:
+
+     A. Processing should be based on clear, precise and accessible rules
+     B. Necessity and proportionality with regard to the legitimate objectives pursued need to be
+         demonstrated
+     C. An independent oversight mechanism should exist
+     D. Effective remedies need to be available to the individual
+
+
+25. The Guarantees are based on the fundamental rights to privacy and data protection that apply to
+everyone, irrespective of their nationality.
+
+
+
+Guarantee A - Processing should be based on clear, precise and accessible rules
+
+26. Under Article 8(2) of the Charter, personal data should, inter alia, be processed “for specified
+purposes and on the basis of the consent of the person concerned or some other legitimate basis laid
+down by law”,22 as the CJEU recalled in the Schrems II ruling. Furthermore, under Article 52(1) of the
+Charter, any limitation on the exercise of the rights and freedoms recognised by the Charter within the
+EU must be provided for by law. Thus, a justifiable interference needs to be in accordance with the law.
+
 20
-   Acórdão do TJUE, Privacy International, n.º 68 e jurisprudência citada.
+   CJEU, Privacy International, §68 and jurisprudence referred therein.
 21
-   Acórdão do TJUE, Privacy International, n.º 81.
-
-                                                                                                    8
-
-Garantia A – O tratamento deve basear-se em regras claras, precisas e acessíveis
-
-26. Nos termos do artigo 8.º, n.º 2, da Carta, os dados pessoais devem, nomeadamente, ser tratados
-«para fins específicos e com o consentimento da pessoa interessada ou com outro fundamento legítimo
-previsto por lei»22, conforme recordou o TJUE no acórdão Schrems II. De acordo com o artigo 52.º, n.º
-1, da Carta, qualquer restrição ao exercício dos direitos e liberdades reconhecidos pela Carta deve ser
-prevista por lei. Deste modo, uma ingerência justificável tem de estar em conformidade com a lei.
-
-27. Esta base jurídica deve estabelecer regras claras e precisas sobre o âmbito e a aplicação da medida
-em questão, e impor salvaguardas mínimas23. Além disso, o Tribunal recordou que «[a] regulamentação
-deve ser vinculativa no direito interno»24. A este respeito, o TJUE esclareceu que a avaliação da
-legislação aplicável de países terceiros deve centrar-se na possibilidade de ser invocada pelos indivíduos
-perante um tribunal25. O Tribunal de Justiça refere, portanto, que os direitos conferidos aos titulares
-dos dados são por estes oponíveis; nos casos em que não são conferidos às pessoas direitos oponíveis
-contra as autoridades públicas, o nível de proteção concedido não pode ser considerado essencialmente
-equivalente ao que resulta da Carta, contrariamente ao requisito previsto no artigo 45.º, n.º 2, alínea a),
-do RGPD26.
-
-28. Além disso, o Tribunal de Justiça salientou que a lei aplicável deve indicar em que circunstâncias e
-sob que condições pode ser adotada uma medida que preveja o tratamento de tais dados27 (ver adiante,
-no tocante à Garantia B, a relação entre estes requisitos e os princípios da necessidade e da
-proporcionalidade).
-
-29. Além disso, o TJUE referiu também que «a exigência segundo a qual qualquer limitação ao exercício
-de direitos fundamentais deve ser prevista por lei implica que a própria base jurídica que permite a
-ingerência nesses direitos deve definir o alcance da limitação do exercício do direito em causa»28.
-
-30. Por último, o Tribunal Europeu dos Direitos do Homem «não considera que exista qualquer motivo
-para aplicar diferentes princípios quanto à acessibilidade e clareza das regras que regem, por um lado,
-a interceção de comunicações individuais e, por outro, os programas de vigilância mais gerais»29. O
-TEDH esclareceu igualmente que a base jurídica deveria incluir, pelo menos, uma definição das
-categorias de pessoas que podem ser sujeitas a vigilância, um limite de duração da medida, o
-procedimento a seguir para o exame, utilização e armazenamento dos dados obtidos, e as precauções
-a tomar na comunicação dos dados a outras partes30.
-
-
+   CJEU, Privacy International, §81.
 22
-   Ver n.º 173 do acórdão Schrems II.
+   See §173 Schrems II.
+
+                                                                                                       8
+
+27. This legal basis should lay down clear and precise rules governing the scope and application of the
+measure in question and imposing minimum safeguards.23 In addition, the Court recalled that
+“legislation must be legally binding under domestic law”.24 In this regard, the CJEU clarified that the
+assessment of the applicable third country law should focus on whether it can be invoked and relied
+on by individuals before a court.25 The Court therefore indicates that the rights granted to data subjects
+shall be actionable; where individuals are not provided with enforceable rights against public
+authorities, the level of protection granted cannot be considered as essentially equivalent to that
+arising from the Charter, contrary to the requirement in Article 45(2)(a) of the GDPR.26
+
+28. Furthermore, the Court stressed that the applicable law must indicate in what circumstances and
+under which conditions a measure providing for the processing of such data may be adopted 27 (see
+infra under Guarantee B the relation between these requirements and the principles of necessity and
+proportionality).
+
+29. Moreover, the CJEU has also indicated that “the requirement that any limitation on the exercise of
+fundamental rights must be provided for by law implies that the legal basis which permits the
+interference with those rights must itself define the scope of the limitation on the exercise of the right
+concerned”.28
+
+30. Finally, the European Court of Human Rights “does not consider that there is any ground to apply
+different principles covering the accessibility and clarity of the rules governing the interception of
+individual communications, on the one hand, and more general programmes of surveillance”. 29 The
+ECtHR as well has clarified that the legal basis should at least include a definition of the categories of
+people that might be subject to surveillance, a limit on the duration of the measure, the procedure to
+be followed for examining, using and storing the data obtained, and the precautions to be taken when
+communicating the data to other parties.30
+
+31. Lastly, the interference must be foreseeable as to its effect for the individual in order to give
+him/her adequate and effective protection against arbitrary interference and the risk of abuse. As a
+result, the processing must be based on a precise, clear but also accessible (i.e. public) legal basis. 31
+The ECtHR, concerning this question, recalled in the Zakharov case that “the reference to
+‘foreseeability’ in the context of interception of communications cannot be the same as in many other
+fields”. It specified that in the context of secret measures of surveillance, such as the interception of
+
+
 23
-   Ver n.º 175 e n.º 180 do acórdão Schrems II, e Parecer 1/15 do Tribunal de Justiça (acordo PNR UE Canadá), de
-26 de julho de 2017, n.º 139 e jurisprudência citada.
+   See §175 and §180 Schrems II and Opinion 1/15 (EU-Canada PNR Agreement) of 26 July 2017, § 139 and the
+case-law cited.
 24
-   Ver n.º 68 do acórdão Privacy International. Deve também ficar claro que, na versão francesa do acórdão, o
-Tribunal de Justiça utiliza a palavra «réglementation», que abrange mais do que apenas os atos do parlamento.
+   See § 68 Privacy International – It should also be clear that in the French version of the judgment the Court uses
+the word “réglementation” which is broader than only acts of Parliament.
 25
-   Ver n.º 181 do acórdão Schrems II (neste número, o TJUE faz referência à Presidential Policy Directive 28 dos
-EUA).
+   See § 181 Schrems II, in this paragraph the CJEU refers to the US Presidential Policy Directive 28.
 26
-   Ver n.º 181 do acórdão Schrems II.
+   See § 181 Schrems II.
 27
-   Ver n.º 68 do acórdão Privacy International, em relação ao direito dos Estados membros.
+   See § 68 of Privacy International, in relation to Member State law.
 28
-   Ver acórdão Schrems II, n.º 175 e jurisprudência citada, bem como acórdão Privacy International, n.º 65.
+   See Schrems II, § 175 and the case-law cited, as well as Privacy International, § 65.
 29
-   Acórdão do TEDH, Liberty, n.º 63.
+   ECtHR, Liberty, §63.
 30
-   Acórdão do TEDH, Weber e Saravia, n.º 95.
-
-                                                                                                            9
-
-31. Por último, a ingerência deve ser previsível quanto ao seu efeito para o indivíduo, a fim de lhe
-proporcionar uma proteção adequada e eficaz contra as ingerências arbitrárias e o risco de abuso. Por
-conseguinte, o tratamento deve assentar numa base jurídica precisa, clara, mas também acessível (ou
-seja, pública)31. O TEDH, relativamente a esta questão, recordou no processo Zakharov que «a
-referência à "previsibilidade" no contexto da interceção de comunicações não pode ser a mesma que
-em muitos outros domínios». Especificou que, no contexto de medidas secretas de vigilância, como a
-interceção de comunicações, «a previsibilidade não pode significar que um indivíduo seja capaz de
-prever quando será provável que as autoridades intercetem as suas comunicações para que possa
-adaptar a sua conduta em conformidade». No entanto, considerando que neste tipo de situações os
-riscos de arbitrariedade são evidentes, «é essencial dispor de regras claras e pormenorizadas sobre a
-interceção das comunicações telefónicas, especialmente porque a tecnologia que pode ser utilizada
-está a tornar-se cada vez mais sofisticada. A legislação nacional deve ser suficientemente clara para
-proporcionar aos cidadãos uma indicação adequada das circunstâncias e das condições em que as
-autoridades públicas têm o direito de recorrer a tais medidas»32.
-
-
-Garantia B – É necessário demonstrar a necessidade e a proporcionalidade em relação
-aos objetivos legítimos prosseguidos
-
-32. Nos termos do artigo 52.º, n.º 1, primeiro período, da Carta, qualquer restrição ao exercício dos
-direitos e liberdades reconhecidos pela Carta deve respeitar o conteúdo essencial desses direitos e
-liberdades. Nos termos do segundo período do n.º 1 do artigo 52.º da Carta, na observância do princípio
-da proporcionalidade, essas restrições só podem ser aplicadas a tais direitos e liberdades se forem
-necessárias e corresponderem efetivamente a objetivos de interesse geral reconhecidos pela União, ou
-à necessidade de proteção dos direitos e liberdades de terceiros33.
-
-33. No que se refere ao principio da proporcionalidade, o Tribunal de Justiça considerou, em relação à
-legislação dos Estados membros, que a questão de saber se uma restrição dos direitos à vida privada e
-à proteção de dados pode ser justificada deve ser avaliada, por um lado, através da avaliação da
-gravidade da ingerência inerente a essa restrição34 e, por outro, através da verificação de que a
-importância do objetivo de interesse público prosseguido pela referida restrição é proporcional a essa
-gravidade 35.
-
-34. No acórdão La Quadrature du Net e o., pode observar-se que o TJUE decidiu, em relação à legislação
-de um Estado-Membro e não de um país terceiro, que o objetivo de salvaguardar a segurança nacional
-é, devido à sua importância, capaz de justificar medidas que impliquem ingerências mais graves nos
-direitos fundamentais do que aquelas que poderiam ser justificadas por outros objetivos, como o
-
+   ECtHR, Weber and Saravia, §95.
 31
-   Acórdão do TEDH, Malone, n.ºs 65 e 66.
+   ECtHR, Malone, §§65, 66.
+
+                                                                                                                 9
+
+communications, “foreseeability cannot mean that an individual should be able to foresee when the
+authorities are likely to intercept his communications so that he can adapt his conduct accordingly”.
+However, considering that in this kind of situation the risks of arbitrariness are evident “it is essential
+to have clear, detailed rules on interception of telephone conversations, especially as the technology
+available for use is continually becoming more sophisticated. The domestic law must be sufficiently
+clear to give citizens an adequate indication as to the circumstances in which and the conditions on
+which public authorities are empowered to resort to any such measures”.32
+
+
+
+Guarantee B - Necessity and proportionality with regard to the legitimate objectives
+pursued need to be demonstrated
+
+32. In accordance with the first sentence of Article 52(1) of the Charter, any limitation on the exercise
+of the rights and freedoms recognised by the Charter must respect the essence of those rights and
+freedoms. Under the second sentence of Article 52(1) of the Charter, subject to the principle of
+proportionality, limitations may be made to those rights and freedoms only if they are necessary and
+genuinely meet objectives of general interest recognised by the Union or the need to protect the rights
+and freedoms of others. 33
+
+33. Regarding the principle of proportionality, the Court held, in relation to Member State laws, that
+the question as to whether a limitation on the rights to privacy and to data protection may be justified
+must be assessed, on the one hand, by measuring the seriousness of the interference entailed by such
+a limitation34 and by verifying that the importance of the public interest objective pursued by that
+limitation is proportionate to that seriousness, on the other hand.35
+
+34. In La Quadrature du net and others, it can be noted that the CJEU ruled, in relation to the law of a
+Member State and not to a third country law, that the objective of safeguarding national security is,
+due to its importance, capable of justifying measures entailing more serious interferences with
+fundamental rights, than those which might be justified by other objectives such as of combating crime.
+It found however that this is the case as long as there are sufficiently solid grounds for considering that
+the State concerned is confronted with a serious threat to national security that is shown to be genuine
+and present or foreseeable and subject to meeting the other requirements laid down in Article 52(1)
+of the Charter.36
+
+
 32
-   Acórdão do TEDH, Zakharov, n.º 229.
+   ECtHR, Zakharov, §229.
 33
-   Acórdão Schrems II, n.º 174.
+   Schrems II, § 174.
 34
-   Neste contexto, o Tribunal de Justiça salientou, por exemplo, que «a ingerência resultante da recolha de dados
-em tempo real que permite a localização dos equipamentos terminais parece ser particularmente grave, uma vez
-que esses dados fornecem às autoridades nacionais competentes um meio para acompanhar de forma precisa e
-permanente os movimentos dos utilizadores de telefones móveis [...].» (Acórdão La Quadrature du Net e o.,
-n.º 187, incluindo a jurisprudência citada).
+   In this context, the court noted for instance that “the interference constituted by the real-time collection of data
+that allows terminal equipment to be located appears particularly serious, since that data provides the competent
+national authorities with a means of accurately and permanently tracking the movements of users of mobile
+telephones (...)” (La Quadrature du Net and others, § 187, including cited jurisprudence).
 35
-   Acórdão La Quadrature du Net e o., n.º 131.
-
-                                                                                                             10
-
-combate à criminalidade. Concluiu, porém, que isso se verifica enquanto existirem motivos
-suficientemente sólidos para considerar que o Estado em causa se vê confrontado com uma ameaça
-grave à segurança nacional que se revela genuína, atual ou previsível e que está sujeito ao cumprimento
-dos outros requisitos estabelecidos no artigo 52.º, n.º 1, da Carta36.
-
-35. A este respeito, de acordo com a jurisprudência constante do Tribunal de Justiça, as derrogações à
-proteção de dados pessoais e as suas limitações devem ocorrer na estrita medida do necessário37. Para
-satisfazer este requisito, além de prever regras claras e precisas sobre o alcance e a aplicação da medida
-em causa, a legislação em questão deve impor salvaguardas mínimas, de modo a que as pessoas cujos
-dados foram transferidos tenham garantias suficientes de proteção eficaz dos seus dados pessoais
-contra o risco de abuso. «Essa regulamentação deve, em especial, indicar em que circunstâncias e em
-que condições se pode adotar uma medida que preveja o tratamento desses dados, garantindo assim
-que a ingerência se limite ao estritamente necessário. A necessidade de dispor destas garantias é ainda
-mais importante quando os dados pessoais são sujeitos a um tratamento automatizado»38.
-
-36. No acórdão Schrems II, o TJUE salientou que a legislação de um país terceiro que não revela de
-forma alguma a existência de limitações ao poder que confere com vista à execução dos programas de
-vigilância para efeitos de obtenção de informações externas não pode garantir um nível de proteção
-essencialmente equivalente ao garantido pela Carta. Com efeito, segundo a jurisprudência, a própria
-base jurídica que permite ingerências nos direitos fundamentais deve, para satisfazer o princípio da
-proporcionalidade, definir o alcance da limitação do exercício do direito em causa39.
-
-37. No que se refere ao princípio da necessidade, o TJUE deixou claro que as legislações que
-«autoriza[m] de modo generalizado a conservação da totalidade dos dados pessoais de todas as pessoas
-cujos dados foram transferidos da União [...] sem qualquer diferenciação, limitação ou exceção em
-função do objetivo prosseguido e sem que esteja previsto um critério objetivo que permita delimitar o
-acesso das autoridades públicas aos dados e a sua utilização posterior para fins precisos, estritamente
-limitados e suscetíveis de justificar a ingerência que tanto o acesso como a utilização desses dados
-comportam» não respeitam aquele princípio40. Em particular, uma regulamentação que permita às
-
+   La Quadrature du Net and others, § 131.
 36
-   N.ºs 136 e 137. Ver também o acórdão Privacy International, em que o Tribunal de Justiça especificou que tais
-ameaças podem ser distinguidas, pela sua natureza e particular gravidade, do risco geral de ocorrência de tensões
-ou de perturbações, ainda que graves, na segurança pública. N.º 75: Por exemplo, no acórdão La Quadrature du
-Net e o., o Tribunal de Justiça observou que a análise automatizada dos dados de tráfego e de localização que
-abrangem de forma geral e indiscriminada os dados das pessoas que utilizam sistemas de comunicações
-eletrónicas constitui uma ingerência particularmente grave, de modo que tal medida só pode satisfazer o requisito
-da proporcionalidade em situações em que o Estado membro em causa enfrenta uma ameaça grave para a
-segurança nacional que se revela genuína e atual ou previsível e, entre outras condições, desde que a duração da
-conservação seja limitada ao estritamente necessário (n.ºs 174 a 177).
+   §§136 and 137. See also Privacy International, as the Court specified, such threats can be distinguished, by their
+nature and particular seriousness, from the general risk that tensions or disturbances, even of a serious nature,
+affecting public security will arise. § 75. For instance, in La Quadrature du Net and others, the Court noted that
+the automated analysis of traffic and location data covering generally and indiscriminately the data of persons
+using electronic communications systems constitutes an interference particularly serious so that, such measure
+
+                                                                                                                  10
+
+35. In this regard, according to the settled case-law of the Court, derogations from and limitations on the
+protection of personal data must apply only in so far as is strictly necessary.37 In order to satisfy this
+requirement, besides laying down clear and precise rules governing the scope and application of the
+measure in question, the legislation in question must impose minimum safeguards, so that the persons
+whose data have been transferred have sufficient guarantees to protect effectively their personal data
+against the risk of abuse. “It must, in particular, indicate in what circumstances and under which
+conditions a measure providing for the processing of such data may be adopted, thereby ensuring that
+the interference is limited to what is strictly necessary. The need for such safeguards is all the greater
+where personal data is subject to automated processing”.38
+
+36. In Schrems II, the CJEU has stressed that legislation of a third country which does not indicate any
+limitations on the power it confers to implement surveillance programmes for the purposes of foreign
+intelligence cannot ensure a level of protection essentially equivalent to that guaranteed by the
+Charter. Indeed, according to the case law, a legal basis which permits interference with fundamental
+rights must, in order to satisfy the requirements of the principle of proportionality, itself define the
+scope of the limitation on the exercise of the right concerned. 39
+
+37. Regarding the principle of necessity, the CJEU has made clear that legislations “authorising, on a
+generalised basis, storage of all the personal data of all the persons whose data has been transferred
+from the European Union (...) without any differentiation, limitation or exception being made in the
+light of the objective pursued and without an objective criterion being laid down by which to determine
+the limits of the access of the public authorities to the data and of its subsequent use, for purposes
+which are specific, strictly restricted and capable of justifying the interference which both access to the
+data and its use entail”, do not comply with that principle. 40 In particular, laws permitting public
+authorities to have access on a generalised basis to the content of electronic communications must be
+regarded as compromising the essence of the fundamental right to respect for private life, as
+guaranteed by Article 7 of the Charter. 41
+
+38. Likewise, however this time when assessing a Member State law and not a third country law, the
+CJEU held in La Quadrature du Net and others, that “legislation requiring the retention of personal data
+must always meet objective criteria that establish a connection between the data retained and the
+objective pursued”.42 In the same context, in Privacy International, it also held that the legislator “must
+
+can meet the requirement of proportionality only in situations in which the Member State concerned is facing a
+serious threat to national security which is shown to be genuine and present or foreseeable, and, among other
+conditions, provided that the duration of the retention is limited to what is strictly necessary (§§174-177).
 37
-   Acórdão Schrems II, n.º 176, incluindo a jurisprudência citada.
+   Schrems II, §176, including cited jurisprudence.
 38
-   Acórdão Schrems II, n.º 175.
+   Schrems II, § 175.
 39
-   Acórdão Schrems II, n.º 180.
+   Schrems II, § 180.
 40
-   Acórdão Schrems II, n.º 93, com referências adicionais. Ver (no entanto, desta vez em relação à legislação de
-um Estado Membro e não à de um país terceiro) o acórdão Privacy International, n.º 71, incluindo a jurisprudência
-citada. Neste caso, o Tribunal de Justiça declarou que uma legislação de um Estado-Membro que exige aos
-fornecedores de serviços de comunicações eletrónicas que divulguem dados de tráfego e dados de localização às
-agências de segurança e de informações através de uma transmissão geral e indiscriminada excede os limites do
-estritamente necessário e não pode ser considerada justificada, numa sociedade democrática, como exige a
-Diretiva relativa à privacidade e às comunicações eletrónicas, lida à luz da Carta (n.º 81).
-
-                                                                                                             11
-
-autoridades públicas aceder de modo generalizado ao conteúdo das comunicações eletrónicas deve ser
-considerada lesiva do conteúdo essencial do direito fundamental ao respeito da vida privada, tal como
-é garantido pelo artigo 7.º da Carta41.
-
-38. De igual modo (no entanto, desta vez, ao avaliar o direito de um Estado Membro e não o direito de
-um país terceiro), o TJUE defendeu no acórdão La Quadrature du Net e o. que «a legislação que exige a
-conservação de dados pessoais deve sempre respeitar critérios objetivos que estabeleçam uma ligação
-entre os dados conservados e o objetivo prosseguido»42. No mesmo contexto, no acórdão Privacy
-International, o TJUE considerou igualmente que o legislador «deve basear se em critérios objetivos
-para definir as circunstâncias e as condições nas quais deve ser concedido às autoridades nacionais
-competentes o acesso aos dados em causa»43.
-
-
-Garantia C – Mecanismo de supervisão independente
-
-39. O CEPD lembra que ocorre uma ingerência no momento da recolha dos dados, mas também no
-momento em que os dados são objeto de acesso por uma autoridade pública para posterior tratamento.
-O TEDH especificou várias vezes que qualquer ingerência no direito à privacidade e à proteção de dados
-deve ser sujeita a um sistema de supervisão eficaz, independente e imparcial que deve ser assegurado
-quer por um juiz, quer por outro organismo independente44 (por exemplo, uma autoridade
-administrativa ou um órgão parlamentar). A supervisão independente da aplicação das medidas de
-vigilância foi também tida em conta pelo TJUE no acórdão Schrems II45.
-
-40. O TEDH especifica que, embora a autorização prévia (judicial) das medidas de vigilância constitua
-uma importante salvaguarda contra a arbitrariedade, deve igualmente ser tido em conta o
-funcionamento efetivo do sistema de interceção, incluindo os controlos e equilíbrios relativos ao
-exercício do poder, e a existência ou ausência de abuso efetivo46. No processo Schrems II, o TJUE tomou
-igualmente em consideração o âmbito do controlo exercido pelo mecanismo de supervisão, que não
-abrangia as medidas de vigilância individuais47.
-
-
+   Schrems I, § 93 with further references. See, however this time in relation to a Member State law and not a third
+country law, Privacy International, § 71, including cited jurisprudence. In this case, the Court stated that a Member
+State legislation requiring providers of electronic communications services to disclose traffic data and location
+data to the security and intelligence agencies by means of general and indiscriminate transmission exceeds the
+limits of what is strictly necessary and cannot be considered to be justified, within a democratic society, as required
+by the Directive on privacy and electronic communication, read in light of the Charter (§81).
 41
-   Acórdão Schrems II, n.º 94.
+   Schrems I, §94.
 42
-   Acórdão La Quadrature du Net e o., n.º 133. Neste contexto, o Tribunal de Justiça confirmou que as medidas
-legislativas que preveem, a título preventivo, a conservação geral e indiscriminada de dados relativos ao tráfego
-e à localização são excluídas pela Diretiva relativa à privacidade e às comunicações eletrónicas, lida à luz da Carta.
-Em contrapartida, o Tribunal de Justiça decidiu que, em situações de ameaça grave à segurança nacional que se
-revele genuína e atual ou previsível, o legislador pode permitir, para salvaguardar a segurança nacional, o recurso
-a uma instrução que exija que os fornecedores de serviços de comunicações eletrónicas conservem, de um modo
-geral e indiscriminado, os dados relativos ao tráfego e à localização. Essas medidas devem, no entanto, satisfazer
-condições específicas. Em especial, a instrução só pode ser dada por um período limitado no tempo ao
-estritamente necessário, que pode ser prorrogado se essa ameaça persistir (n.º 168).
+   La Quadrature du Net and others, § 133. In this context, the Court confirmed that legislative measures which
+provide, as a preventive measure, for the general and indiscriminate retention of traffic and location data, are
+
+                                                                                                                  11
+
+rely on objective criteria in order to define the circumstances and conditions under which the
+competent national authorities are to be granted access to the data at issue”.43
+
+
+
+Guarantee C - Independent oversight mechanism
+
+39. The EDPB recalls that an interference takes place at the time of collection of the data, but also at
+the time the data is accessed by a public authority for further processing. The ECtHR has specified
+multiple times that any interference with the right to privacy and data protection should be subject to
+an effective, independent and impartial oversight system that must be provided for either by a judge
+or by another independent body 44 (e.g. an administrative authority or a parliamentary body). The
+independent oversight over the implementation of surveillance measures was also taken into account
+by the CJEU in the Schrems II judgment. 45
+
+40. The ECtHR specifies that while prior (judicial) authorization of surveillance measures is an important
+safeguard against arbitrariness, regard must also be given to the actual operation of the system of
+interception, including the checks and balances on the exercise of power, and the existence or absence
+of actual abuse. 46 In the Schrems II case, the CJEU also took into account the scope of the supervisory
+role of the oversight mechanism, which did not cover the individual surveillance measures.47.
+
+41. With regard to Member States law, the CJEU identified a number of measures which are in
+compliance with EU law only if they are subject to effective review carried out by a court or an
+independent administrative authority whose decision is binding. The aim of that review is to verify that
+a situation justifying the measure exists and the conditions and safeguards that must be laid down are
+observed.48 For real-time collection of traffic and location data, the review should allow to check ex
+ante, inter alia, whether it is authorised only within the limits of what is strictly necessary. In cases of
+duly justified urgency, the measures may take place without such prior review; however, the Court still
+requires that the subsequent review takes place within a short time. 49
+
+
+42. As to the independence of oversight mechanisms in relation to surveillance, the findings of the
+CJEU concerning the independence of a body in the context of redress could be taken into account (see
+
+precluded by the Directive on privacy and electronic communication, read in light of the Charter. By contrast, the
+Court ruled that, in situations of a serious threat to national security that is shown to be genuine and present or
+foreseeable, the legislator may allow, for safeguarding national security, recourse to an instruction requiring
+providers of electronic communications services to retain, generally and indiscriminately, traffic and location data.
+Such measure must however meet specific conditions. In particular, the instruction may be given only for a period
+that is limited in time to what is strictly necessary, which may be extended if that threat persists (§168).
 43
-   Acórdão Privacy International, n.º 78, incluindo a jurisprudência citada. No acórdão Privacy International, no
-que diz respeito ao acesso de uma autoridade aos dados pessoais fornecidos ao abrigo da legislação de um Estado-
-Membro, o Tribunal de Justiça decidiu que «um acesso generalizado a todos os dados conservados, na falta de
-qualquer relação, mesmo indireta, com o objetivo prosseguido, não pode ser considerado limitado ao
-estritamente necessário» (n.ºs 77 e 78).
+   Privacy International, § 78, including cited jurisprudence. In Privacy International, as regards an authority’s
+access to personal data provided under a Member State law, the Court ruled that “general access to all retained
+data, regardless of whether there is any link, at least indirect, with the aim pursued, cannot be regarded as being
+limited to what is strictly necessary” (§77 -78).
 44
-   Acórdão do TEDH, Klass, n.ºs 17 e 51.
+   ECtHR, Klass, §§17, 51.
 45
-   Acórdão Schrems II, n.ºs 179 e 183.
+   Schrems II, §§ 179, 183.
 46
-   Acórdão do TEDH, Big Brother Watch, em sede de recurso, n.ºs 319 e 320.
+   ECtHR, Big Brother Watch under appeal §§319-320.
 47
-   Acórdão Schrems II, n.º 179.
+   Schrems II, § 179.
+48
+   CJEU, La Quadrature du Net and others, §§ 168, 189.
+49
+   CJEU, La Quadrature du Net and others, § 189.
 
                                                                                                                  12
 
-41. No que se refere ao direito dos Estados membros, o TJUE identificou um conjunto de medidas que
-só são conformes com o direito da UE se forem objeto de um controlo efetivo por parte de um tribunal
-ou de uma autoridade administrativa independente cuja decisão é vinculativa. O objetivo dessa revisão
-é verificar se existe uma situação que justifique a medida e se são respeitadas as condições e garantias
-que devem ser estabelecidas48. Relativamente à recolha em tempo real de dados relativos ao tráfego e
-à localização, a revisão deverá permitir verificar «ex ante», nomeadamente, se a sua autorização se
-limita ao estritamente necessário. Em casos de urgência devidamente justificados, as medidas podem
-ser tomadas sem esse reexame prévio; no entanto, o Tribunal de Justiça continua a exigir que a revisão
-subsequente se realize num curto espaço de tempo49.
-
-42. Quanto à independência dos mecanismos de supervisão em relação à vigilância, poderiam ser tidas
-em conta as conclusões do TJUE sobre a independência de um organismo no contexto da reparação (ver
-adiante, em relação à garantia D). Além disso, a jurisprudência do TEDH pode oferecer elementos
-adicionais. O TEDH já manifestou a sua preferência quanto a um juiz ser o responsável pela manutenção
-da supervisão. No entanto, não é de excluir que outro organismo possa ser responsável, «desde que
-seja suficientemente independente do executivo»50 e «das autoridades que exercem a vigilância, e que
-tenha poderes e competências suficientes para exercer um controlo efetivo e contínuo»51. O TEDH
-acrescentou que «o modo de nomeação e o estatuto jurídico dos membros do órgão de supervisão»52
-devem ser tidos em conta na avaliação da independência. Estão aqui incluídas as «pessoas habilitadas
-a exercer funções judiciais, nomeadas pelo parlamento ou pelo primeiro-ministro. Em contrapartida,
-um ministro dos assuntos internos – que não só era um nomeado político e um membro do executivo,
-mas também estava diretamente envolvido na contratação de meios especiais de vigilância – foi
-considerado insuficientemente independente»53. O TEDH também «observa que é essencial que o órgão
-de supervisão tenha acesso a todos os documentos relevantes, incluindo materiais fechados54». Por
-último, o TEDH tem em conta «se as atividades do órgão de supervisão estão abertas ao controlo
-público»55.
+infra under guarantee D). Furthermore, the case law of the ECtHR may offer additional elements. This
+Court has expressed its preference for a judge to be responsible to maintain oversight. However, it is
+not excluded that another body may be responsible, “as long as it is sufficiently independent from the
+executive”50 and “of the authorities carrying out the surveillance, and [is] vested with sufficient powers
+and competence to exercise an effective and continuous control”.51The ECtHR added that “the manner
+of appointment and the legal status of the members of the supervisory body”52 need to be taken into
+account when assessing independence. This includes “persons qualified to hold judicial office,
+appointed either by parliament or by the Prime Minister. In contrast, a Minister of Internal Affairs –
+who not only was a political appointee and a member of the executive, but was directly involved in the
+commissioning of special means of surveillance – was found to be insufficiently independent.” 53 The
+ECtHR also “notes that it is essential that the supervisory body has access to all relevant documents,
+including closed materials”.54 Finally, the ECtHR takes into account “whether the supervisory body’s
+activities are open to public scrutiny”.55
 
 
-Garantia D – É necessário que as pessoas disponham de vias de recurso eficazes
 
-43. A última garantia essencial europeia está relacionada com os direitos de recurso do indivíduo. Cada
-pessoa deve dispor de um meio de recurso eficaz para fazer valer os seus direitos quando considerar
-que não são ou não foram respeitados. Além disso, o TJUE observou que «uma regulamentação que
-não preveja nenhuma possibilidade de o particular recorrer a vias de direito para ter acesso aos dados
-pessoais que lhe dizem respeito, ou para obter a retificação ou a supressão de tais dados, não respeita
-o conteúdo essencial do direito fundamental a uma proteção jurisdicional efetiva, tal como é
-consagrado no artigo 47.º da Carta. Com efeito, o artigo 47.º, primeiro parágrafo, da Carta exige que
+Guarantee D - Effective remedies need to be available to the individual
 
-48
-   Acórdão do TJUE, La Quadrature du Net e o., n.ºs 168 e 189.
-49
-   Acórdão do TJUE, La Quadrature du Net e o., n.º 189.
+43. The final European Essential Guarantee is related to the redress rights of the individual. (S)he must
+have an effective remedy to satisfy his/her rights when (s)he considers that they are not or have not
+been respected. The CJEU explained in Schrems I that “legislation not providing for any possibility for
+an individual to pursue legal remedies in order to have access to personal data relating to him, or to
+obtain the rectification or erasure of such data, does not respect the essence of the fundamental right
+to effective judicial protection, as enshrined in Article 47 of the Charter. The first paragraph of Article
+47 of the Charter requires everyone whose rights and freedoms guaranteed by the law of the European
+Union are violated to have the right to an effective remedy before a tribunal in compliance with the
+conditions laid down in that article.” 56
+
+44. When assessing a Member State law allowing real time collection of traffic and location data, the
+Court considered that notification is necessary “to enable the persons affected to exercise their rights
+under Articles 7 and 8 of the Charter to request access to their personal data that has been the subject
+of those measures and, where appropriate, to have the latter rectified or erased, as well as to avail
+themselves, in accordance with the first paragraph of Article 47 of the Charter, of an effective remedy
+before a tribunal”.57 Nevertheless, it also recognized that the notification of persons whose data has
+been collected or analysed must occur only to the extent that and as soon as the notification no longer
+jeopardizes the tasks for which those authorities are responsible.58
+
+
+
 50
-   Acórdãos do TEDH, Zakharov, n.º 258, Iordachi e o./Moldávia, n.ºs 40 e 51 e Dumitru Popescu/Roménia, n.ºs 70
-a 73.
+   ECtHR, Zakharov, §258, Iordachi and Others v. Moldova, §§ 40 and §§ 51 and Dumitru Popescu v. Romania, §§
+70¬73.
 51
-   Acórdãos do TEDH, Klass, n.º 56 e Big Brother Watch, em sede de recurso, n.º 318.
+   ECtHR, Klass §56 and Big Brother Watch under appeal §318
 52
-   Acórdão do TEDH, Zakharov, n.º 278.
+   ECtHR, Zakharov, §278.
 53
-   Acórdão do TEDH, Zakharov, n.º 278.
+   ECtHR, Zakharov, §278.
 54
-   Acórdão do TEDH, Zakharov, n.º 281.
+   ECtHR, Zakharov, §281.
 55
-   Acórdão do TEDH, Zakharov, n.º 283.
-
-                                                                                                           13
-
-qualquer pessoa cujos direitos e liberdades garantidos pelo direito da União tenham sido violados tenha
-direito a uma ação perante um tribunal nos termos previstos nesse artigo»56.
-
-44. Ao apreciar a legislação de um Estado-Membro que permite a recolha em tempo real de dados
-relativos ao tráfego e à localização, o Tribunal de Justiça considerou que a notificação é necessária «para
-permitir que as pessoas afetadas exerçam os seus direitos, nos termos dos artigos 7.º e 8.º da Carta, de
-solicitar o acesso aos seus dados pessoais que tenham sido objeto dessas medidas e, se for caso disso,
-de solicitar que estes sejam retificados ou apagados, bem como para exercerem, nos termos do primeiro
-parágrafo do artigo 47.º da Carta, o direito a uma ação perante um tribunal»57. No entanto, o TJUE
-reconheceu igualmente que a notificação das pessoas cujos dados foram recolhidos ou analisados deve
-ocorrer apenas na medida em que e logo que a notificação deixe de pôr em perigo as tarefas pelas quais
-essas autoridades são responsáveis58.
-
-45. Também para o TEDH, a questão de um recurso efetivo está indissociavelmente ligada à notificação
-de uma medida de vigilância ao indivíduo, uma vez terminada a vigilância. Em especial, o TEDH
-considerou que «em princípio, a pessoa em causa tem pouca margem para recorrer aos tribunais, a
-menos que seja informada das medidas tomadas sem o seu conhecimento e possa assim contestar a
-sua legalidade retrospetivamente ou, a título subsidiário, a menos que qualquer pessoa que suspeite
-que as suas comunicações estão a ser ou foram intercetadas possa recorrer aos tribunais, de modo a
-que a competência dos tribunais não dependa da notificação ao destinatário da interceção de que foi
-objeto de uma interceção das suas comunicações» 59. O TEDH reconheceu assim que, em alguns casos,
-pode não haver notificação, mas é necessário prever uma solução eficaz. Neste caso, o TEDH deixou
-claro, por exemplo, no caso Kennedy, que um tribunal oferece possibilidades de recurso suficientes se
-preencher uma série de critérios, ou seja, se for um órgão independente e imparcial, se tiver adotado o
-seu próprio regulamento interno, se for composto por membros que exercem ou exerceram um elevado
-cargo judicial ou são juristas experientes, e se não for necessário satisfazer um ónus de prova para
-apresentar um pedido ao tribunal60. Ao proceder ao exame das queixas apresentadas por indivíduos, o
-tribunal deverá ter acesso a todas as informações relevantes61, incluindo os materiais fechados. Por
-último, o tribunal deve ter poderes para impor a sanação do incumprimento62.
-
-
-
-
+   ECtHR, Zakharov, §283.
 56
-   Acórdão do TJUE, Schrems I, n.º 95.
+   CJEU, Schrems I, §95.
 57
-   Ver n.º 190 do acórdão La Quadrature du Net e o. e Parecer 1/15 do TJUE, n.º 220.
+   See § 190 of La Quadrature du Net and others and CJEU, Opinion 1/15, §220.
 58
-   Ver n.º 191.º do acórdão La Quadrature du Net e o.
+   See § 191 of La Quadrature du Net and others.
+
+                                                                                                        13
+
+45. For the ECtHR, as well, the question of an effective remedy is inextricably linked to the notification
+of a surveillance measure to the individual once the surveillance is over. In particular, the Court found
+that “there is in principle little scope for recourse to the courts by the individual concerned unless the
+latter is advised of the measures taken without his or her knowledge and thus able to challenge their
+legality retrospectively or, in the alternative, unless any person who suspects that his or her
+communications are being or have been intercepted can apply to courts, so that the courts’ jurisdiction
+does not depend on notification to the interception subject that there has been an interception of his
+communications”.59 The ECtHR thus acknowledged that in some cases there might be no notification,
+however an effective remedy must be provided. In this case, this Court has made clear, for instance in
+the Kennedy case, that a court offers sufficient redress possibilities, if it meets a series of criteria, i.e.
+an independent and impartial body, which has adopted its own rules of procedure, consisting of
+members that must hold or have held high judicial office or be experienced lawyers and that there is
+no evidential burden to be overcome in order to lodge an application with it.60 In undertaking its
+examination of complaints by individuals, the court should have access to all relevant information,61
+including closed materials. Finally, it should have the powers to remedy non-compliance.62
+
+46. Article 47 of the Charter refers to a tribunal, even though in language versions other than English
+the preference is given to the word “court”,63 while the ECHR only obliges Members States to ensure
+that “everyone whose rights and freedoms are violated shall have an effective remedy before a
+national authority”,64 which does not necessarily need to be a judicial authority. 65
+
+47. The CJEU, in the context of the Schrems II judgment when assessing the adequacy of the level of
+protection of a third country, has reiterated that “data subjects must have the possibility of bringing
+legal action before an independent and impartial court in order to have access to their personal data,
+or to obtain the rectification or erasure of such data”.66 In the same context, the CJEU considers that
+an effective judicial protection against such interferences can be ensured not only by a court, but also
+by a body67 which offers guarantees essentially equivalent to those required by Article 47 of the
+Charter. In its Schrems II ruling, the CJEU both underlined that the independence of the court or body
+has to be ensured, especially from the executive, with all necessary guarantees, including with regards
+to its conditions of dismissal or revocation of the appointment,68 and that the powers which should be
+granted to a court have to be compliant with the requirements of Article 47 of the Charter. In this
+
+
+
 59
-   Acórdão do TEDH, Zakharov, n.º 234.
+   ECtHR, Zakharov, §234.
 60
-   Acórdão do TEDH, Kennedy, n.º 190.
+   ECtHR, Kennedy, § 190.
 61
-   O CEPD observa que o Comissário para os Direitos Humanos do Conselho da Europa considera que a chamada
-regra dos «terceiros» – segundo a qual as agências de informações de um país que fornecem dados a agências de
-informações de outro país podem impor às agências de acolhimento a obrigação de não divulgar os dados
-transferidos a terceiros – não deve aplicar se aos organismos de supervisão, a fim de não comprometer a
-possibilidade de um recurso efetivo (documento temático sobre a supervisão democrática e eficaz dos serviços de
-segurança nacionais).
+   The EDPB notes that the Council of Europe Commissioner for Human Rights considers that the so-called “third
+parties” rule – under which intelligence agencies in one country that provide data to intelligence agencies in
+another country can impose a duty on the receiving agencies to not disclose the transferred data to any third party
+– should not apply to oversight bodies in order not to undermine the possibility of an effective remedy (Issue
+Paper on Democratic and effective oversight of national security services).
 62
-   Acórdão do TEDH, Kennedy, n.º 167.
-
-                                                                                                           14
-
-46. A versão em inglês do artigo 47.º da Carta faz referência a um órgão jurisdicional, ainda que em
-versões linguísticas diferentes do inglês seja dada preferência à palavra «tribunal» 63, enquanto a CEDH
-apenas impõe aos Estados membros que garantam que «qualquer pessoa cujos direitos e liberdades
-reconhecidos na presente Convenção tiverem sido violados tem direito a recurso perante uma instância
-nacional» 64, que não tem necessariamente de ser uma autoridade judiciária65.
-
-47. O TJUE, no contexto do acórdão Schrems II, ao avaliar a adequação do nível de proteção de um país
-terceiro, reiterou que «os particulares devem dispor da possibilidade de utilizar medidas jurídicas
-corretivas eficazes num tribunal independente e imparcial para ter acesso a dados pessoais que lhes
-digam respeito, ou para obter a retificação ou a supressão desses dados» 66. No mesmo contexto, o TJUE
-considera que uma proteção judicial eficaz contra tais ingerências pode ser assegurada não só por um
-tribunal, mas também por um órgão 67 que ofereça garantias essencialmente equivalentes às exigidas
-pelo artigo 47.º da Carta. No seu acórdão Schrems II, o TJUE sublinhou que a independência do tribunal
-ou do órgão deve ser assegurada, em especial em relação ao executivo, com todas as garantias
-necessárias, nomeadamente no que se refere às condições de destituição ou de anulação da
-nomeação 68, e que os poderes que devem ser atribuídos a um tribunal devem ser conformes com os
-requisitos do artigo 47.º da Carta. A este respeito, o órgão 69 deve ter poderes para adotar decisões que
-sejam vinculativas para os serviços de informações, em conformidade com as salvaguardas jurídicas que
-os titulares dos dados podem invocar 70.
-
-
-4. OBSERVAÇÕES FINAIS
-48. As quatro garantias essenciais europeias devem ser vistas como elementos fundamentais a
-encontrar na avaliação do nível de ingerência nos direitos fundamentais à privacidade e à proteção de
-dados. Não devem ser avaliadas de forma independente, uma vez que estão estreitamente interligadas,
-mas, em termos globais, na análise da legislação pertinente em matéria de medidas de vigilância, do
-nível mínimo de salvaguardas para a proteção dos direitos dos titulares dos dados e das vias de recurso
-previstas na legislação nacional do país terceiro.
-
-49. Estas garantias exigem um certo grau de interpretação, especialmente porque a legislação de países
-terceiros não tem de ser idêntica ao quadro jurídico da UE.
-
-50. Tal como afirmou o TEDH no acórdão Kennedy, «uma avaliação depende de todas as circunstâncias
-do caso, tais como a natureza, o âmbito e a duração das medidas possíveis, os motivos exigidos para as
-ordenar, e as autoridades competentes para as autorizar, executar e supervisionar, bem como o tipo de
-recurso previsto no direito nacional» 71.
-
-
-
+   ECtHR, Kennedy §167.
 63
-   O termo inglês «tribunal» é, por exemplo, traduzido por «Gericht» em alemão e por «gerecht» em neerlandês.
+   The word tribunal is for example translated as “Gericht” in German and “gerecht” in Dutch.
 64
-   Artigo 13.º da CEDH.
+   Article 13 ECHR.
 65
-   Acórdão do TEDH, Klass, n.º 67.
+   ECtHR, Klass §67.
 66
-   Ver n.º 194 do acórdão Schrems II.
+   See § 194 Schrems II.
 67
-   Ver n.º 197 do acórdão Schrems II, em que o Tribunal de Justiça utiliza expressamente este termo.
+   See §197 Schrems II in which the Court expressly uses this word.
 68
-   Ver n.º 195 do acórdão Schrems II.
+   See § 195 Schrems II.
+
+                                                                                                               14
+
+regard, the body69 shall be granted the power to adopt decisions that are binding on the intelligence
+services, in accordance with legal safeguards on which data subjects could rely.70
+
+
+
+
+4. FINAL REMARKS
+48. The four European Essential Guarantees are to be seen as core elements to be found when
+assessing the level of interference with the fundamental rights to privacy and data protection. They
+should not be assessed independently, as they are closely interlinked, but on an overall basis, reviewing
+the relevant legislation in relation to surveillance measures, the minimum level of safeguards for the
+protection of the rights of the data subjects and the remedies provided under the national law of the
+third country.
+
+49. These guarantees require a certain degree of interpretation, especially since the third country
+legislation does not have to be identical to the EU legal framework.
+
+50. As the ECtHR stated in Kennedy, an “assessment depends on all the circumstances of the case, such
+as the nature, scope and duration of the possible measures, the grounds required for ordering them,
+the authorities competent to authorise, carry out and supervise them, and the kind of remedy provided
+by national law”.71
+
+51. Consequently, the assessment of the third country surveillance measures against the EEG may lead
+to two conclusions:
+
+        The third country legislation at issue does not ensure the EEG requirements: in this case, the
+         third country legislation would not offer a level of protection essentially equivalent to that
+         guaranteed within the EU.
+
+        The third country legislation at issue satisfies the EEG.
+
+52. When assessing the adequacy of the level of protection, pursuant to Article 45 GDPR, the
+Commission will have to evaluate whether the EEG are satisfied as part of the elements to be
+considered to guarantee that the third country legislation as a whole offers a level of protection
+essentially equivalent to that guaranteed within the EU.
+
+53. When data exporters rely, along with the data importers, on appropriate safeguards under Article
+46 of the GDPR, given the requirements of the third country legislation specifically applicable to the
+data transferred, they would need to ensure that an essentially equivalent level of protection is
+effectively achieved. In particular, where the law of the third country does not comply with the EEG
+requirements, this would imply to ensure that the law at stake will not impinge on the guarantees and
+safeguards surrounding the transfer, in order for a level of protection essentially equivalent to that
+guaranteed within the EU to be still provided.
+
 69
-   Ver n.º 197 do acórdão Schrems II, em que o Tribunal de Justiça utiliza expressamente este termo.
+   See §197 Schrems II in which the Court expressly uses this word.
 70
-   Ver n.º 196 do acórdão Schrems II.
+   See § 196 Schrems II.
 71
-   Acórdão do TEDH, Kennedy, n.º 153.
-                                                                                                          15
+   ECtHR, Kennedy §153.
 
-51. Por conseguinte, a avaliação das medidas de vigilância de países terceiros por comparação com as
-garantias essenciais europeias pode conduzir a duas conclusões:
+                                                                                                      15
 
-        A legislação do país terceiro em questão não garante os requisitos das garantias essenciais
-         europeias: neste caso, a legislação do país terceiro não ofereceria um nível de proteção
-         essencialmente equivalente ao garantido na UE.
+54. The EDPB has issued further guidelines and recommendations to be taken into account to proceed
+with the assessment, depending on the transfer tool to be used and on the necessity to provide
+appropriate safeguards, including as the case may be, supplementary measures. 72
 
-        A legislação do país terceiro em questão satisfaz as garantias essenciais europeias.
+55. Furthermore, it should be noted that the European Essential Guarantees are based on what is
+required by the law. The EDPB underlines that the European Essential Guarantees are based on the
+fundamental rights that apply to everyone, irrespective of their nationality.
 
-52. Ao avaliar a adequação do nível de proteção, nos termos do artigo 45.º do RGPD, a Comissão terá
-de avaliar se as garantias essenciais europeias são satisfeitas como parte dos elementos a considerar
-para garantir que a legislação do país terceiro, no seu conjunto, oferece um nível de proteção
-essencialmente equivalente ao garantido na UE.
-
-53. Quando os exportadores de dados confiam, juntamente com os importadores de dados, em
-garantias adequadas nos termos do artigo 46.º do RGPD, tendo em conta os requisitos da legislação do
-país terceiro especificamente aplicável aos dados transferidos, deverão assegurar que seja
-efetivamente alcançado um nível de proteção essencialmente equivalente. Em especial, nos casos em
-que a legislação do país terceiro não cumpre os requisitos das garantias essenciais europeias, isso
-implicaria que a lei em causa não colidisse com as garantias e salvaguardas aplicáveis à transferência,
-de modo que um nível de proteção essencialmente equivalente ao garantido na UE continuasse a ser
-assegurado.
-
-54. O CEPD emitiu outras orientações e recomendações a ter em conta para proceder à avaliação, em
-função do instrumento de transferência a utilizar e da necessidade de fornecer garantias adequadas,
-incluindo, se for caso disso, medidas suplementares 72.
-
-55. Além disso, é de notar que as garantias essenciais europeias se baseiam no que é exigido por lei. O
-CEPD sublinha que as garantias essenciais europeias se baseiam nos direitos fundamentais aplicáveis a
-todas as pessoas, independentemente da sua nacionalidade.
-
-56. O CEPD reitera que as garantias essenciais europeias constituem uma norma de referência para a
-avaliação da ingerência inerente às medidas de vigilância de países terceiros, no contexto das
-transferências internacionais de dados. Estas normas decorrem do direito da UE e da jurisprudência do
-TJUE e do TEDH, que é vinculativa para os Estados membros.
+56. The EDPB reiterates that the European Essential Guarantees are a referential standard when
+assessing the interference, entailed by third country surveillance measures, in the context of
+international data transfers. These standards stem from EU law and the jurisprudence of the CJEU and
+the ECtHR, which is binding on Member States.
 
 
 
 
 72
-  Referencial de adequação do CEPD, WP 254 rev. 01, revisto e adotado em 6 de fevereiro de 2018;
-Recomendações 01/2020 do CEPD sobre medidas que complementam os instrumentos de transferência para
-garantir o cumprimento do nível de proteção de dados pessoais da UE, 10 de novembro de 2020.
-                                                                                                     16
+  Adequacy Referential WP 254 rev.01, Revised and Adopted 6 February 2018; EDPB Recommendations 01/2020
+on measures that supplement transfer tools to ensure compliance with the EU level of protection of personal
+data, 10 November 2020.
+                                                                                                            16
 ```

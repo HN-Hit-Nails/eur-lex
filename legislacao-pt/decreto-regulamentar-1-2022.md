@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2022-177444682
 eli: https://data.dre.pt/eli/decregul/1/2022/p/cons/20251229/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Decreto Regulamentar n.º 1/2022

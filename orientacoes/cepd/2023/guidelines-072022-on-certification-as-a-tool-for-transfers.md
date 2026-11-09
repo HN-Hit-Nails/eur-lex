@@ -1,878 +1,916 @@
 ---
-titulo: "Orientações 07/2022 relativas à certificação enquanto instrumento para as transferências"
+titulo: "Guidelines 07/2022 on certification as a tool for transfers"
 titulo_en: "Guidelines 07/2022 on certification as a tool for transfers"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2023-02-24'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-072022-on-certification-as-a-tool-for-transfers_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2023-05/edpb_guidelines_07-2022_on_certification_as_a_tool_for_transfers_v2_pt_0.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-02/edpb_guidelines_07-2022_on_certification_as_a_tool_for_transfers_v2_en_0.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Orientações 07/2022 relativas à certificação enquanto instrumento para as transferências
+# Guidelines 07/2022 on certification as a tool for transfers
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Orientações 07/2022 relativas à certificação enquanto
-                instrumento para as transferências
+Guidelines 07/2022 on certification as a tool for transfers
 
 
 
-                                 Versão 2.0
+                          Version 2.0
 
-                Adotadas em 14 de fevereiro de 2023
-
-
-
-
-                     Translations proofread by EDPB Members.
-                 This language version has not yet been proofread.
-
-                                        1
-Adotadas
-
-HISTÓRICO DE VERSÕES
-
-
- Versão 1.0   14 de junho de 2022       Adoção das orientações para consulta pública
-
- Versão 2.0   14 de fevereiro de 2023   Adoção das orientações após consulta pública
+                 Adopted on 14 February 2023
 
 
 
 
-                                            2
-Adotadas
+                               1
+Adopted
 
-RESUMO
-
-O Regulamento Geral sobre a Proteção de Dados (RGPD) exige, no seu artigo 46.º, que os exportadores
-de dados estabeleçam garantias adequadas para as transferências de dados pessoais para países
-terceiros ou organizações internacionais. Para o efeito, o RGPD diversifica as garantias adequadas que
-os exportadores de dados podem utilizar ao abrigo do artigo 46.º para enquadrar as transferências
-para países terceiros, introduzindo, nomeadamente, a certificação enquanto novo procedimento de
-transferência [artigo 42.º, n.º 2, e artigo 46.º, n.º 2, alínea f), do RGPD].
-
-As presentes orientações fornecem instruções sobre a aplicação do artigo 46.º, n.º 2, alínea f), do
-RGPD no que diz respeito às transferências de dados pessoais para países terceiros ou para
-organizações internacionais com base na certificação. O documento está estruturado em quatro
-secções com um anexo.
-
-A primeira parte do presente documento («GENERALIDADES») esclarece que as orientações
-complementam as já existentes Orientações 1/2018 relativas à certificação, que têm um caráter geral,
-e incidem sobre requisitos específicos do capítulo V do RGPD quando a certificação é utilizada como
-instrumento de transferência. Nos termos do artigo 44.º do RGPD, qualquer transferência de dados
-pessoais para países terceiros ou organizações internacionais deve cumprir as condições das outras
-disposições do RGPD, para além de cumprir o disposto no capítulo V do RGPD. Por conseguinte, numa
-primeira fase, há que assegurar o cumprimento das disposições gerais do RGPD e, numa segunda fase,
-há que respeitar as disposições do capítulo V do RGPD. São descritos os intervenientes envolvidos e as
-suas principais funções neste contexto, com especial destaque para o papel do importador de dados a
-quem será concedida a certificação e do exportador de dados que a utilizará como instrumento para
-enquadrar as suas transferências (tendo em conta que a responsabilidade pela conformidade do
-tratamento de dados continua a ser do exportador de dados). Neste âmbito, a certificação pode
-também incluir medidas que complementem os instrumentos de transferência, a fim de assegurar o
-cumprimento do nível de proteção dos dados pessoais da UE. A primeira parte das orientações contém
-igualmente informações sobre o processo de obtenção da certificação a utilizar como instrumento
-para as transferências.
-
-A segunda parte das presentes orientações («APLICAÇÃO DAS ORIENTAÇÕES SOBRE OS REQUISITOS
-DE ACREDITAÇÃO») recorda que os requisitos para a acreditação de um organismo de certificação
-constam da norma ISO 17065 e devem ser interpretados à luz das Orientações 4/2018 relativas à
-acreditação dos organismos de certificação nos termos do artigo 43.º do RGPD e do seu anexo no
-contexto do capítulo V. Contudo, no âmbito de uma transferência, as presentes orientações explicam
-em maior pormenor alguns dos requisitos de acreditação aplicáveis ao organismo de certificação.
-
-A terceira parte das presentes orientações («CRITÉRIOS ESPECÍFICOS DE CERTIFICAÇÃO») fornece
-instruções sobre os critérios de certificação já enumerados nas Orientações 1/2018 e estabelece
-critérios específicos adicionais que devem ser incluídos num mecanismo de certificação a utilizar como
-instrumento para as transferências para países terceiros. Estes critérios abrangem a avaliação da
-legislação dos países terceiros, as obrigações gerais dos exportadores e importadores, as regras em
-matéria de transferências ulteriores, as vias de recurso e execução, o processo e as ações para
-situações em que a legislação e as práticas nacionais impedem o cumprimento dos compromissos
-assumidos no âmbito da certificação, e os pedidos de acesso aos dados por parte das autoridades de
-países terceiros.
+VERSION HISTORY
 
 
+ Version 1.0   14 June 2022       Adoption of the Guidelines for public consultation
 
-                                                  3
-Adotadas
-
-A quarta parte das presentes orientações («COMPROMISSOS VINCULATIVOS E COM FORÇA EXECUTIVA
-A ASSUMIR») apresenta os elementos que devem ser abordados nos compromissos vinculativos e com
-força executiva que os responsáveis pelo tratamento ou subcontratantes não sujeitos ao RGPD devem
-assumir para fornecer garantias adequadas em relação aos dados transferidos para países terceiros.
-Estes compromissos, que podem ser estabelecidos em diferentes instrumentos, incluindo contratos,
-devem incluir, em especial, a garantia de que o importador não tem motivos para crer que a legislação
-e as práticas do país terceiro aplicáveis ao tratamento em causa, incluindo quaisquer requisitos de
-divulgação de dados pessoais ou medidas que autorizem o acesso por parte das autoridades públicas,
-o impeçam de cumprir os seus compromissos no âmbito da certificação.
-
-O ANEXO das presentes orientações inclui alguns exemplos de medidas complementares em
-consonância com as enumeradas no anexo II das Recomendações 01/2020 (Recomendações 01/2020
-relativas às medidas complementares aos instrumentos de transferência para assegurar o
-cumprimento do nível de proteção dos dados pessoais da UE), no contexto da utilização da certificação
-enquanto instrumento para as transferências. São apresentados exemplos com vista a chamar a
-atenção para situações críticas.
+ Version 2.0   14 February 2023   Adoption of the Guidelines after public consultation
 
 
 
 
-                                                 4
-Adotadas
+                                      2
+Adopted
 
-ÍNDICE
+EXECUTIVE SUMMARY
 
-Histórico de versões ..................................................................................................................... 2
-RESUMO ...................................................................................................................................... 3
-1      GENERALIDADES ................................................................................................................... 6
-    1.1 Objetivo e âmbito de aplicação ..................................................................................................... 6
-    1.2 Regras gerais aplicáveis às transferências internacionais ............................................................. 6
-    1.3    Quem são os intervenientes envolvidos e qual é o seu papel na certificação enquanto
-    instrumento para as transferências? .................................................................................................. 8
-    1.4 Quais são o âmbito de aplicação e o objeto da certificação enquanto instrumento para as
-    transferências? .................................................................................................................................... 9
-    1.5 Qual deve ser o papel do exportador na utilização da certificação como instrumento para as
-    transferências? .................................................................................................................................. 10
-    1.6 Qual é o processo de certificação enquanto instrumento para as transferências?.................... 11
-2      APLICAÇÃO DAS ORIENTAÇÕES SOBRE OS REQUISITOS DE ACREDITAÇÃO ............................ 12
-3      CRITÉRIOS ESPECÍFICOS DE CERTIFICAÇÃO ........................................................................... 13
-    3.1 APLICAÇÃO DAS ORIENTAÇÕES SOBRE OS CRITÉRIOS DE CERTIFICAÇÃO .................................. 13
-    3.2 CRITÉRIOS DE CERTIFICAÇÃO ESPECÍFICOS ADICIONAIS ............................................................. 14
-       1. Avaliação da legislação do país terceiro .................................................................................... 14
-       2. Obrigações gerais dos exportadores e importadores ............................................................... 15
-       3. Regras relativas às transferências ulteriores............................................................................. 15
-       4. Vias de recurso e execução ....................................................................................................... 15
-       5. Processo e ações para situações em que a legislação nacional impede o cumprimento dos
-       compromissos assumidos no âmbito da certificação.................................................................... 16
-       6. Tratamento dos pedidos de acesso aos dados por parte de autoridades de países terceiros . 16
-       7. Garantias adicionais relativas ao exportador ............................................................................ 16
-4      COMPROMISSOS VINCULATIVOS E COM FORÇA EXECUTIVA A ASSUMIR .............................. 16
-ANEXO ....................................................................................................................................... 19
-    A. EXEMPLOS DE MEDIDAS COMPLEMENTARES A APLICAR PELO IMPORTADOR CASO O TRÂNSITO
-    ESTEJA INCLUÍDO NO ÂMBITO DA CERTIFICAÇÃO ............................................................................. 19
-    B. EXEMPLOS DE MEDIDAS COMPLEMENTARES NO CASO DE O TRÂNSITO NÃO SER ABRANGIDO
-    PELA CERTIFICAÇÃO E O EXPORTADOR TER DE AS ASSEGURAR ........................................................ 20
+The GDPR requires in its Article 46 that data exporters shall put in place appropriate safeguards for
+transfers of personal data to third countries or international organisations. To that end, the GDPR di-
+versifies the appropriate safeguards that may be used by data exporters under Article 46 for framing
+transfers to third countries by introducing, amongst others, certification as a new transfer mechanism
+(Articles 42 (2) and 46 (2) (f) GDPR).
+
+These guidelines provide guidance as to the application of Article 46 (2) (f) of the GDPR on transfers of
+personal data to third countries or to international organisations on the basis of certification. The doc-
+ument is structured in four sections with an Annex.
+
+Part one of this document ("GENERAL") clarifies that the guidelines supplement the already existing
+general Guidelines 1/2018 on certification and addresses specific requirements from Chapter V of the
+GDPR when certification is used as a transfer tool. According to Article 44 of the GDPR, any transfer of
+personal data to third countries or international organisations, must meet the conditions of the other
+provisions of the GDPR in addition to complying with Chapter V of the GDPR. Therefore, as a first step,
+compliance with the general provisions of the GDPR must be ensured and, as a second step, the pro-
+visions of Chapter V of the GDPR must be complied with. The actors who are involved and their core
+roles in this context are described, with a special focus on the role of the data importer who will be
+granted a certification and of the data exporter who will use it as a tool to frame its transfers (consid-
+ering that the responsibility for data processing compliance remains with the data exporter). In this
+context the certification can also include measures that supplement transfer tools to ensure compli-
+ance with the EU level of protection of personal data. Part one of the guidelines also contains infor-
+mation on the process for obtaining a certification to be used as tool for transfers.
+
+The second part of these guidelines (“IMPLEMENTING GUIDANCE ON THE ACCREDITATION REQUIRE-
+MENTS”) recalls that the requirements for accreditation of a certification body are to be found in ISO
+17065 and by interpreting the Guidelines 4/2018 on the accreditation of certification bodies under
+Article 43 of the GDPR and its Annex against the background of Chapter V. However, in the context of
+a transfer, these guidelines further explain some of the accreditation requirements applicable to the
+certification body.
+
+The third part of these guidelines ("SPECIFIC CERTIFICATION CRITERIA") provides for guidance on the
+certification criteria already listed in Guidelines 1/2018 and establishes additional specific criteria that
+should be included in a certification mechanism to be used as a tool for transfers to third countries.
+These criteria cover the assessment of the third country legislation, the general obligations of export-
+ers and importers, rules on onward transfers, redress and enforcement, process and actions for situa-
+tions in which national legislation and practices prevents compliance with commitments taken as part
+of certification and requests for data access by third country authorities.
+
+Part four of these guidelines (“BINDING AND ENFORCEABLE COMMITMENTS TO BE IMPLEMENTED“)
+provides elements that should be addressed in the binding and enforceable commitments that con-
+trollers or processors not subject to the GDPR should take for the purpose of providing appropriate
+safeguards to data transferred to third countries. These commitments, which may be set out in differ-
+ent instruments including contracts, shall in particular include a warranty that the importer has no
+reason to believe that the laws and practices in the third country applicable to the processing at stake,
+including any requirements to disclose personal data or measures authorising access by public author-
+ities, prevent it from fulfilling its commitments under the certification.
+
+                                                     3
+Adopted
+
+The ANNEX of these guidelines contains some examples of supplementary measures in line with those
+listed in Annex II Recommendations 01/2020 (Recommendations 01/2020 on measures that supple-
+ment transfer tools to ensure compliance with the EU level of protection of personal data) in the con-
+text of the use of a certification as a tool for transfers. Examples are constructed with a view to raise
+attention to critical situations.
 
 
 
 
-                                                                            5
-Adotadas
+                                                   4
+Adopted
 
-     O Comité Europeu para a Proteção de Dados,
+TABLE OF CONTENTS
 
-     Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-     seguir designado por «RGPD»),
+Version history ............................................................................................................................. 2
+EXECUTIVE SUMMARY .................................................................................................................. 3
+1      GENERAL .............................................................................................................................. 6
+    1.1 Purpose and scope ....................................................................................................................... 6
+    1.2 General rules applicable to international transfers ...................................................................... 6
+    1.3 Who are the actors involved and what is their role for certification as a tool for transfers? ....... 8
+    1.4 What are the scope and the object of certification as a tool for transfers? ................................. 8
+    1.5 What should be the role of the exporter in the use of certification as tool for transfers? ........... 9
+    1.6 What is the process for certification as a tool for transfers? ...................................................... 10
+2      IMPLEMENTING GUIDANCE ON THE ACCREDITATION REQUIREMENTS ................................. 11
+3      SPECIFIC CERTIFICATION CRITERIA ....................................................................................... 12
+    3.1 IMPLEMENTING GUIDANCE ON THE CERTIFICATION CRITERIA .................................................. 12
+    3.2 ADDITIONAL SPECIFIC CERTIFICATION CRITERIA ........................................................................ 13
+       1. Assessment of the third country legislation ............................................................................. 13
+       2. General obligations of exporters and importers ....................................................................... 14
+       3. Rules on onward transfers ........................................................................................................ 14
+       4. Redress and Enforcement ........................................................................................................ 14
+       5. Process and actions for situations in which national legislation prevents compliance with
+       commitments taken as part of certification ................................................................................. 15
+       6. Dealing with requests for data access by third country authorities ......................................... 15
+       7. Additional safeguards concerning the exporter ....................................................................... 15
+4      BINDING AND ENFORCEABLE COMMITMENTS TO BE IMPLEMENTED .................................... 16
+ANNEX ....................................................................................................................................... 18
+    A. EXAMPLES OF SUPPLEMENTARY MEASURES TO BE IMPLEMENTED BY THE IMPORTER IN CASE THE
+    TRANSIT IS INCLUDED IN THE SCOPE OF CERTIFICATION .................................................................. 18
+    B. EXAMPLES OF SUPPLEMENTARY MEASURES IN CASE THE TRANSIT IS NOT COVERED BY THE
+    CERTIFICATION AND THE EXPORTER HAS TO ENSURE THEM ............................................................ 19
 
-     Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-     foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 2018 1,
-
-     Tendo em conta os artigos 12.º e 22.º do seu regulamento interno,
-
-     ADOTOU AS SEGUINTES ORIENTAÇÕES
 
 
 
-     1 GENERALIDADES
-     1.1 Objetivo e âmbito de aplicação
-1.   O presente documento visa fornecer orientações sobre a aplicação do artigo 46.º, n.º 2, alínea f), do
-     RGPD no que diz respeito às transferências de dados pessoais para países terceiros ou para
-     organizações internacionais com base na certificação. O CEPD já publicou orientações gerais relativas
-     à certificação 2 e à acreditação 3 ao abrigo do RGPD. Por conseguinte, estas novas orientações refletem
-     apenas os aspetos específicos relativos à certificação enquanto instrumento para as transferências.
-     Especificam a aplicação do artigo 46.º, n.º 2, alínea f), e do artigo 42.º, n.º 2, do RGPD, fornecendo
-     orientações práticas a este respeito e introduzindo novos elementos nas orientações já publicadas.
+                                                                        5
+Adopted
 
-2.   O CEPD avaliará o funcionamento das presentes orientações à luz da experiência adquirida com a sua
-     aplicação prática e fornecerá instruções adicionais para clarificar a aplicação dos elementos a seguir
-     enumerados, incluindo o papel do acordo de certificação no que diz respeito aos compromissos
-     vinculativos e com força executiva referidos no artigo 46.º, n.º 2, alínea f), do RGPD.
+     The European Data Protection Board
 
-     1.2 Regras gerais aplicáveis às transferências internacionais
-3.   Nos termos do artigo 44.º do RGPD, qualquer transferência de dados pessoais para países terceiros 4
-     ou organizações internacionais deve cumprir as condições das outras disposições do RGPD, para além
-     de cumprir o disposto no capítulo V do RGPD. Por conseguinte, cada transferência deve respeitar,
-     nomeadamente, os princípios de proteção de dados previstos no artigo 5.º do RGPD, ser lícita em
-     conformidade com o artigo 6.º do RGPD e cumprir o artigo 9.º do RGPD no caso de categorias especiais
-     de dados. Desta forma, deve ser aplicado um teste em duas fases. Numa primeira fase, há que
-     assegurar o cumprimento das disposições gerais do RGPD e, numa segunda fase, há que respeitar as
-     disposições do capítulo V do RGPD.
+     Having regard to Article 70 (1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+     the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+     “GDPR”),
+
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 1,
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+     HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+
+
+     1 GENERAL
+     1.1 Purpose and scope
+1.   This document seeks to provide guidance as to the application of Article 46 (2) (f) of the GDPR on
+     transfers of personal data to third countries or to international organisations on the basis of certifica-
+     tion. The EDPB has already published general guidance on certification 2 and accreditation 3 under the
+     GDPR. These new guidelines therefore only reflect the specific aspects regarding certification as a tool
+     for transfers. They specify the application of Articles 46 (2) (f) and 42 (2) of the GDPR by providing
+     practical guidance in this respect and introducing new elements to the already published guidelines.
+
+2.   The EDPB will evaluate the functioning of these guidelines in light of the experience gained with their
+     application in practice and provide further guidance to clarify the application of the elements listed
+     below including the role of certification agreement with regard to the binding and enforceable com-
+     mitments referred to in Art. 46 (2) (f) of the GDPR.
+
+     1.2 General rules applicable to international transfers
+3.   According to Article 44 of the GDPR, any transfer of personal data to third countries 4 or international
+     organisations must meet the conditions of the other provisions of the GDPR in addition to complying
+     with Chapter V of the GDPR. Therefore, each transfer must comply inter alia with the data protection
+     principles in Article 5 GDPR, be lawful in accordance with Article 6 GDPR and comply with Article 9
+     GDPR in case of special categories of data. Hence, a two-step test must be applied. As a first step,
+     compliance with the general provisions of the GDPR must be ensured and as a second step, the provi-
+     sions of Chapter V of the GDPR must be complied with.
+
+
 
 
      1
-       As referências a «Estados-Membros» ao longo do presente documento devem ser entendidas como referências
-     a «Estados do EEE».
+       References to “Member States” made throughout this document should be understood as references to “EEA
+     Member States”.
      2
-       Orientações 1/2018 relativas à certificação e à definição dos critérios de certificação, em conformidade com os
-     artigos 42.º e 43.º do Regulamento (UE) 2016/679.
+       Guidelines 1/2018 on certification and identifying certification criteria in accordance with Articles 42 and 43 of
+     the Regulation 2016/679.
      3
-       Orientações 4/2018 relativas à acreditação dos organismos de certificação nos termos do artigo 43.º do
-     Regulamento Geral sobre a Proteção de Dados (2016/679).
+       Guidelines 4/2018 on the accreditation of certification bodies under Article 43 of the General Data Protection
+     Regulation (2016/679).
      4
        Guidelines 05/2021 on the Interplay between the application of Article 3 and the provisions on international
-     transfers as per Chapter V of the GDPR (não traduzidas para português), página 4.
+     transfers as per Chapter V of the GDPR, page 4.
 
-                                                            6
-     Adotadas
+                                                              6
+     Adopted
 
+         Article 44 GDPR (General principle for transfers)
 
-      quando não for cumprido qualquer outro procedimento previsto no capítulo V 6. Contudo, conforme
-      explicado em orientações anteriores emitidas pelo CEPD, as derrogações previstas no artigo 49.º do
-      RGPD devem ser interpretadas de forma restritiva e dizem respeito principalmente a atividades de
-      tratamento ocasionais e não repetitivas 7.
-
-      1.3 Quem são os intervenientes envolvidos e qual é o seu papel na certificação
-         enquanto instrumento para as transferências?
-8.    O Comité Europeu para a Proteção de Dados (CEPD) está habilitado a aprovar critérios de certificação
-      a nível do EEE (Selo Europeu de Proteção de Dados) e a emitir pareceres sobre os projetos de decisão
-      das autoridades de controlo sobre os critérios de certificação e os requisitos de acreditação dos
-      organismos de certificação, a fim de assegurar a coerência. É também competente pela recolha de
-      todos os mecanismos de certificação de todos os selos e marcas de proteção de dados aprovados num
-      registo e pela sua disponibilização ao público 8.
-
-9.    As autoridades de controlo (AC) aprovam os critérios de certificação quando o mecanismo de
-      certificação não é um Selo Europeu de Proteção de Dados 9. Podem também acreditar o organismo de
-      certificação, conceber os critérios de certificação e emitir a certificação, se tal for estabelecido pelo
-      direito nacional do seu Estado-Membro 10.
-
-10.   O organismo nacional de acreditação pode acreditar organismos de certificação terceiros utilizando a
-      norma ISO 17065 e os requisitos de acreditação adicionais das AC, que devem estar em conformidade
-      com a secção 2 das presentes orientações. Em alguns Estados-Membros, a AC competente pode
-      também assegurar a acreditação, que pode ainda ser realizada por um organismo nacional de
-      acreditação ou por ambas as entidades.
-
-11.   O proprietário do sistema é uma organização que estabeleceu critérios de certificação e os requisitos
-      metodológicos de acordo com os quais a conformidade deve ser avaliada. A organização que realiza as
-      avaliações pode ser a mesma organização que desenvolveu e que possui o sistema, mas pode haver
-      acordos segundo os quais uma organização possui o sistema e outra(s) realiza(m) as avaliações na
-      qualidade de organismo(s) de certificação.
-
-12.   Dependendo do direito nacional, em alternativa às AC, o organismo de certificação acreditado da
-      forma acima referida pode emitir as certificações 11. Poderá também conceber os critérios de
-      certificação e, dessa forma, ser proprietário do sistema (ver ponto 11 supra). Para permitir o exercício
-      efetivo dos poderes de correção consagrados no artigo 58.º, n.º 2, alínea f), do RGPD, é obrigatório
-      que tenha um estabelecimento no EEE. No entanto, o organismo de certificação pode subcontratar
-      atividades a peritos locais ou a estabelecimentos fora do EEE, que realizarão atividades de auditoria
+                                               Compliance with general provisions of GDPR (in particular Chapter II)
+          Two-step model.
+                                                                                      GDPR transfer toolbox (Chapter V)
+                                               Compliance with the principles in
+                                               Article 5 GDPR and if to be verified
+                                               by a controller in particular          Certification as a tool for transfer
+                                               lawfulness according to Article 6      (appropriate safeguard).
+                                               GDPR and compliance with Article
+                                               9 GDPR (in case of special             Binding and enforceable
+                                               categories of data).                   commitments of the controller or
+                                                                                      processor in the third country to
+                                                                                      apply the appropriate safeguards,
+                                                                                      including as regards data subjects'
+                                                                                      rights.
 
 
 
 
-      6
-         Para mais informações sobre o artigo 49.º e a sua articulação com o artigo 46.º em geral, ver as
-      Orientações 2/2018 relativas às derrogações do artigo 49.º do Regulamento (UE) 2016/679.
+4.   The GDPR specifies in its Article 46 that “in the absence of a decision pursuant to Article 45 (3), a
+     controller or processor may transfer personal data to a third country or an international organisation
+     only if the controller or processors has provided appropriate safeguards, and on condition that en-
+     forceable data subject rights and effective legal remedies for data subjects are available”. Pursuant to
+     Article 46 (2) (f) of the GDPR, such appropriate safeguards may be provided for by an approved certi-
+     fication mechanism together with binding and enforceable commitments of the controller or processor
+     in the third country to apply the appropriate safeguards, including as regards data subjects' rights.
+
+5.   As a result, the data exporter might decide to rely on the certification obtained by a data importer as
+     an element to demonstrate compliance with its obligations e.g. according to Article 24 (3) or Article 28
+     (5) GDPR. The data importer might decide to apply for certification to demonstrate that appropriate
+     safeguards are in place.
+
+6.   Both, the data exporter and the data importer can fulfil different roles (for example as a controller or
+     processor) 5, depending on the processing within Chapter V, which lead to different responsibilities:
+
+
+              Controller                     Controller                     Processor                        Processor
+           (data exporter)                (data exporter)                 (data exporter)                 (data exporter)
+
+              Controller                     Processor                      Processor                        Controller
+           (data importer)                (data importer)                 (data importer)                 (data importer)
+
+
+
+7.   Aside from the use of certification or any of the other transfer tools or mechanisms referred to in
+     Articles 45 and 46, Article 49 of the GDPR stipulates that in a limited number of specific situations,
+     international data transfers may take place when no other mechanism in Chapter V is complied with 6.
+     However, as explained in previous guidance issued by the EDPB, the derogations provided by Article
+
+
+
+
+     5
+      See below: IMPLEMENTING GUIDANCE ON THE CERTIFICATION CRITERIA.
+     6
+      For further information on Article 49 and its interplay with Article 46 in general, please see Guidelines 2/2018
+     on derogations of Article 49 under Regulation 2016/679.
+
+
+                                                                    7
+     Adopted
+
+      49 GDPR must be interpreted restrictively and mainly relate to processing activities that are occasional
+      and non-repetitive 7.
+
+      1.3 Who are the actors involved and what is their role for certification as a tool for
+         transfers?
+8.    The European Data Protection Board (EDPB) is empowered to approve EEA-wide certification criteria
+      (European Data Protection Seal) and to provide opinions on Supervisory Authorities’ draft decisions on
+      certification criteria and accreditation requirements of the certification bodies so as to ensure con-
+      sistency. It is also competent for collating all certification mechanisms and data protection seals and
+      marks in a register and making them publicly available 8.
+
+9.    The Supervisory Authorities (SAs) approve the certification criteria when the certification mechanism
+      is not a European Data Protection Seal 9. They might also accredit the certification body, design the
+      certification criteria and issue certification if established by the national law of their Member State 10.
+
+10.   The National Accreditation Body may accredit third party certification bodies by using ISO 17065 and
+      the SAs additional accreditation requirements, which should be in line with section 2 of these guide-
+      lines. In some Member States, the accreditation can be offered as well by the competent SA as well as
+      being carried out by a national accreditation body or by both.
+
+11.   The Scheme owner is an organisation which has set up certification criteria and the methodology re-
+      quirements according to which conformity is to be assessed. The organisation carrying out the assess-
+      ments could be the same organisation that has developed and owns the scheme, but there could be
+      arrangements where one organisation owns the scheme, and another (or more than one other) per-
+      forms the assessments as Certification body.
+
+12.   Depending on national law, alternatively to SAs, the Certification body accredited as said above, can
+      issue the certifications 11. It might design certification criteria and, thus, be scheme owners (see para
+      11 above). It has to have an establishment in the EEA in particular in order to allow the effective exer-
+      cise of corrective powers enshrined in Article 58 (2) (f) GDPR. But the certification body might subcon-
+      tract activities to local experts or establishments outside the EEA which will perform audit activities on
+      its behalf 12. Nevertheless, a certification body shall not subcontract the decision regarding the granting
+      or non-granting of a certification.
+
+13.   The Data Importer is the entity (controller or processor) in the third country receiving data from a data
+      exporter.
+
+14.   The Data Exporter is the entity (controller or processor) transferring data from the EEA to a data im-
+      porter. The data exporter must ensure compliance with Chapter V.
+
+      1.4 What are the scope and the object of certification as a tool for transfers?
+
+
       7
-        Orientações 2/2018 relativas às derrogações do artigo 49.º do Regulamento (UE) 2016/679, página 5.
+        Guidelines 2/2018 on derogations of Article 49 under Regulation 2016/679, page 5.
       8
-        Artigo 42.º, n.º 8, do RGPD.
+        Article 42(8) GDPR.
       9
-        Orientações 1/2018 relativas à certificação e à definição dos critérios de certificação, em conformidade com os
-      artigos 42.º e 43.º do Regulamento (UE) 2016/679, ponto 2.2.
+        Guidelines 1/2018 on certification and identifying certification criteria in accordance with Articles 42 and 43 of
+      the Regulation 2016/679, pt. 2.2.
       10
-         Artigo 42.º, n.º 5, e artigo 43.º, n.º 1, do RGPD.
+         Articles 42(5) and 43(1) GDPR.
       11
-         Artigo 42.º, n.º 5, do RGPD.
+         Article 42(5) GDPR.
+      12
+         Certification bodies must assess their local experts in line with ISO 17065 and the additional requirements for
+      accreditation established by the supervisory authority (Article 43 (1) (b) GDPR).
+
+                                                               8
+      Adopted
+
+15.   A certification mechanism as a transfer tool under Article 42 (2) must aim at ensuring appropriate
+      safeguards for the processing of personal data under the terms of point (f) of Article 46 (2). The certi-
+      fication shall demonstrate the existence of appropriate safeguards provided by controllers or proces-
+      sors outside the EEA or constituting an international organisation receiving data from EEA controllers
+      or processors to counter the specific risks of transferring personal data.
+
+16.   In general, the operation of transferring personal data from a Member State to a third country consti-
+      tutes, in itself, processing of personal data within the meaning of Article 4(2) of the GDPR, carried out
+      in a Member State 13 and therefore certifiable under art. 42 (1) GDPR. However, some situations, de-
+      pending on the context, might include the transit in the scope of the certification as a tool for transfers.
+      Consequently, the object of the certification – which coincides with the Target of Evaluation (ToE) dur-
+      ing certification 14 - should generally be the processing of the data received from the EEA by the data
+      importer in the third country and the transit, if under the control of the importer.
+
+                                                          Transit (e.g. sea cable)
+                                                         Transit usually covered by
+                       Processing in EEA               certification under Article 42         Processing in 3rd country
+                                                          (1); however, it may be
+                                                                                            Certification under Chapter V
+                                                       included, in specific cases, in
+                Certification under Art. 42 GDPR                                                         GDPR
+                                                       the scope of the certification
+                                                       as a tool for transfers (Art. 42
+                                                                      (2))
 
 
-                                                             8
-      Adotadas
+
+17.   The object of certification can be a single processing operation or a set of operations. These may com-
+      prise governance processes in the sense of organisational measures hence as integral parts of a pro-
+      cessing operation 15.
+
+18.   The entity applying would, therefore, be the data importer in the third country in relation to its object
+      of certification.
+
+      1.5 What should be the role of the exporter in the use of certification as tool for trans-
+           fers?
+19.   The transfer by the data exporter as such generally falls directly under the GDPR. This means that the
+      exporter is required to comply with its obligations under the GDPR and in particular to ensure that
+      data is transferred in a secure manner in accordance with Article 32 and Chapter V in order to ensure
+      that the level of protection of natural persons guaranteed by that regulation is not undermined (Article
+      44 GDPR) 16. This can, of course, be certified under Article 42 (1).
 
 
-18.   A entidade requerente seria, por conseguinte, o importador de dados no país terceiro em relação ao
-      seu objeto de certificação.
 
-      1.5 Qual deve ser o papel do exportador na utilização da certificação como
-           instrumento para as transferências?
-19.   Em geral, a transferência pelo exportador de dados enquanto tal é diretamente abrangida pelo RGPD,
-      o que significa que o exportador é obrigado a cumprir as obrigações que lhe incumbem por força do
-      RGPD e, em especial, a certificar-se de que os dados são transferidos de forma segura, em
-      conformidade com o artigo 32.º e o capítulo V, a fim de assegurar que o nível de proteção das pessoas
-      singulares garantido pelo referido regulamento não seja comprometido (artigo 44.º do RGPD) 16. Tal
-      pode, evidentemente, ser certificado nos termos do artigo 42.º, n.º 1.
-
-20.   Além disso, o exportador de dados que pretenda utilizar a certificação como garantia adequada nos
-      termos do artigo 46.º, n.º 2, alínea f), do RGPD é, designadamente, obrigado a verificar se a certificação
-      em que pretende confiar é eficaz à luz das características do tratamento previsto. Para o efeito, o
-      exportador de dados deve analisar a certificação emitida, a fim de verificar se o certificado é válido e
-      não caducou, se abrange a transferência específica a efetuar e se o trânsito de dados pessoais é
-      abrangido pelo âmbito da certificação, bem como se estão envolvidas transferências ulteriores e se é
-      fornecida documentação adequada sobre as mesmas. Por outro lado, o exportador tem de verificar se
-      o organismo de certificação que emitiu a certificação está acreditado por um organismo nacional de
-      acreditação ou por uma autoridade de controlo competente. Adicionalmente, o exportador de dados
-      deve fazer referência à utilização da certificação enquanto instrumento de transferência no contrato
-      de tratamento de dados nos termos do artigo 28.º do RGPD, em caso de transferências do responsável
-      pelo tratamento para o subcontratante, ou num contrato de partilha de dados com o importador de
-      dados, em caso de transferências do responsável pelo tratamento para outro responsável pelo
-      tratamento.
-
-21.   Tendo em conta a sua responsabilidade pela aplicação de todas as disposições do capítulo V, o
-      exportador tem também de avaliar se a certificação em que tenciona confiar enquanto instrumento
-      de transferência é eficaz à luz da legislação e das práticas em vigor no país terceiro, aplicáveis à
-      transferência em causa. Para efeitos desta avaliação e enquanto elemento importante para
-      demonstrar o cumprimento da sua responsabilidade, o exportador de dados pode basear-se na
-      verificação efetuada pelo organismo de certificação em relação à avaliação documentada da legislação
-      e das práticas do país terceiro levada a cabo pelo importador.
-
-22.   Caso a avaliação do importador revele que este e/ou o exportador de dados podem ter de adotar
-      medidas complementares previstas na certificação para assegurar um nível de proteção
-      essencialmente equivalente ao previsto no EEE, o exportador de dados deve verificar as medidas
-
-
+      13
+         Judgment of the Court of Justice of the European Union in Case C-311/18 - Data Protection Commissioner v
+      Facebook Ireland Ltd and Maximillian Schrems, No 83.
+      14
+         Guidelines 1/2018 on certification and identifying certification criteria in accordance with Articles 42 and 43 of
+      the Regulation 2016/679, page 17.
+      15
+         Guidelines 1/2018 on certification and identifying certification criteria in accordance with Articles 42 and 43 of
+      the Regulation 2016/679, page 16 (e.g. complaint handling mechanism).
       16
-         A este respeito, é importante salientar que o artigo 44.º do RGPD prevê claramente que uma transferência
-      possa ser efetuada não só por um responsável pelo tratamento, mas também por um subcontratante. Por
-      conseguinte, haverá uma situação de transferência quando um subcontratante envia dados a outro
-      subcontratante ou mesmo a um responsável pelo tratamento num país terceiro, de acordo com as instruções do
-      seu responsável pelo tratamento [artigo 28.º, n.º 3, alínea a), do RGPD]. Nesses casos, o subcontratante atua
-      como exportador de dados em nome do responsável pelo tratamento e tem de assegurar que as disposições do
-      capítulo V são cumpridas para a transferência em causa, de acordo com as instruções do responsável pelo
-      tratamento, incluindo a utilização de um instrumento de transferência adequado. Tendo em conta que a
-      transferência é uma atividade de tratamento realizada por conta do responsável pelo tratamento, o responsável
-      pelo tratamento é igualmente responsável e pode ser sujeito ao disposto no capítulo V, devendo igualmente
-      assegurar que o subcontratante forneça garantias suficientes nos termos do artigo 28.º.
+         In this respect, it is important to note that Article 44 of the GDPR clearly envisages that a transfer may not only
+      be carried out by a controller but also by a processor. Therefore, there will be a transfer situation where a
+      processor sends data to another processor or even to a controller in a third country as instructed by its controller
+      (Article 28(3)(a) GDPR). In these cases, the processor acts as a data exporter on behalf of the controller and has
+      to ensure that the provisions of Chapter V are complied with for the transfer at stake according to the instructions
+      of the controller, including that an appropriate transfer tool is used. Considering that the transfer is a processing
+      activity carried out on behalf of the controller, the controller is also responsible and could be liable under Chapter
+      V, and also has to ensure that the processor provides for sufficient guarantees under Article 28.
 
-                                                           10
-      Adotadas
+                                                                    9
+      Adopted
 
-      complementares previstas pelo importador de dados titular da certificação e se está em condições de
-      dar resposta às medidas técnicas e (se for caso disso) complementares solicitadas pelo importador de
-      dados.
+20.   Furthermore, the data exporter who wants to use a certification as appropriate safeguard according
+      to Article 46 (2) (f) GDPR is notably obliged to verify whether the certification it intends to rely on is
+      effective in light of the characteristics of the intended processing. To that end, the data exporter must
+      check the issued certification in order to verify if the certificate is valid and not expired, if it covers the
+      specific transfer to be carried out and whether the transit of personal data is in the scope of certifica-
+      tion, as well as if onward transfers are involved and an adequate documentation is provided on them.
+      Additionally, the exporter has to check that the certification body issuing the certification is accredited
+      by a national accreditation body or a competent supervisory authority. Moreover, the data exporter
+      should refer to using the certification as a tool for transfer in the data processing contract pursuant to
+      Article 28 GDPR in case of transfers from controller to processor or a data-sharing contract with the
+      data importer in case of transfers from controller to controller.
 
-23.   Se essas disposições não forem cumpridas, o exportador de dados terá de exigir ao importador que
-      aplique medidas complementares adaptadas ou que as estabeleça por si mesmo.
+21.   Considering that the exporter is responsible for all provisions in Chapter V being applied, it has also to
+      assess whether the certification it intends to rely on as a tool for transfers is effective in the light of
+      the law and practices in force in the third country that are relevant for the transfer at stake. For the
+      purpose of this assessment and as an important element by which to demonstrate compliance with its
+      responsibility, the data exporter may rely on the verification carried out by the certification body of
+      the importer’s documented assessment of the third country’s laws and practises.
 
-      1.6 Qual é o processo de certificação enquanto instrumento para as transferências?
-24.   A certificação é voluntária, mas, quando solicitada, deve ser concedida através de um processo
-      transparente baseado em regras obrigatórias. O RGPD deposita uma confiança considerável nos
-      mecanismos de certificação privados enquanto «autorregulação regulamentada». Deste modo, os
-      procedimentos em causa devem assegurar que os certificados cumpram materialmente os requisitos
-      de garantias adequadas definidos no artigo 46.º do RGPD.
+22.   In case the importer’s assessment has revealed that it and/or the data exporter may need to provide
+      supplementary measures envisaged by the certification to ensure an essentially equivalent level of
+      protection as provided in the EEA, the data exporter must verify the supplementary measures provided
+      by the data importer holding a certification and if it is able to answer the technical and (if any) supple-
+      mentary measures asked for by the data importer.
 
-25.   Por conseguinte, a certificação deve basear-se na avaliação dos critérios de certificação de acordo com
-      uma metodologia de auditoria vinculativa. A aprovação desses critérios ficará a cargo das AC nacionais
-      ou do CEPD, conforme descrito no artigo 42.º, n.º 5, do RGPD. Os critérios de certificação devem incluir
-      requisitos para uma avaliação do tratamento efetuado pelo importador de dados, incluindo
-      transferências ulteriores, e do quadro jurídico aplicável do país terceiro, a fim de evitar que as regras
-      e práticas do país terceiro impeçam o importador de cumprir as suas obrigações ao abrigo da
-      certificação.
+23.   If those stipulations are not met, the data exporter will have to require from the importer to put in
+      place adapted supplementary measures or establish them by itself.
 
-26.   Durante o processo de certificação, o alvo de avaliação deve ser verificado, à luz dos critérios de
-      certificação, por um organismo de certificação acreditado pelo organismo nacional de acreditação ou
-      pela AC competente 17.
+      1.6 What is the process for certification as a tool for transfers?
+24.   Certification is voluntary, but when sought must be granted via a transparent process based on man-
+      datory rules. The GDPR places considerable trust in private certification mechanisms as a “regulated
+      self-regulation”. Accordingly, those mechanisms must ensure that the certificates materially meet the
+      requirements for appropriate safeguards as defined in Article 46 GDPR.
 
-27.   De acordo com o artigo 43.º, n.º 1, do RGPD, um organismo de certificação que tenha um nível
-      adequado de competência em matéria de proteção de dados emite e renova a certificação, após
-      informar a AC para que esta possa exercer as suas competências nos termos do artigo 58.º, n.º 2,
-      alínea h), sempre que necessário.
+25.   Therefore, the certification must be based on the evaluation of certification criteria according to a
+      binding audit methodology. Those criteria will be approved by national SAs or by the EDPB as described
+      in Article 42 (5) GDPR. The criteria for certification shall include requirements for an assessment of the
+      processing performed by the data importer, including onward transfers, and of the third country rele-
+      vant legal framework, to avoid that the rules and practices of the third country prevent the importer
+      from complying with its obligations under the certification.
 
-28.   Nos termos do artigo 43.º, n.º 5, do RGPD, os organismos de certificação comunicam às AC
-      competentes os motivos que levaram à concessão ou revogação da certificação solicitada. Tal não
-      significa que o organismo de certificação necessite da autorização da AC para emitir a certificação. O
-      organismo de certificação controlará a conformidade dos seus clientes com os critérios de certificação.
+26.   During the process of certification, the Target of Evaluation shall be checked under certification criteria
+      by a certification body accredited by the national accreditation body or by the competent SA 17.
 
-29.   A AC tem o poder de correção de retirar a certificação ou de ordenar ao organismo de certificação que
-      retire uma certificação emitida nos termos dos artigos 42.º e 43.º do RGPD, ou de ordenar ao
-      organismo de certificação que não emita uma certificação se os requisitos de certificação deixarem de
-      estar cumpridos.
-
-30.   O Selo Europeu de Proteção de Dados para as transferências internacionais de dados pode servir de
-      instrumento para abranger as transferências para países terceiros, acompanhado de compromissos
-      vinculativos e com força executiva 18.
 
 
 
       17
-        Orientações 4/2018 relativas à acreditação dos organismos de certificação nos termos do artigo 43.º do
-      Regulamento Geral sobre a Proteção de Dados (2016/679), p. 9.
+        Guidelines 4/2018 on the accreditation of certification bodies under Article 43 of the General Data Protection
+      Regulation (2016/679), p. 9.
+
+                                                            10
+      Adopted
+
+27.   According to Article 43 (1) GDPR, certification bodies which have an appropriate level of expertise in
+      relation to data protection shall, after informing the SA in order to allow it to exercise its powers pur-
+      suant to point (h) of Article 58 (2) GDPR where necessary, issue and renew certification.
+
+28.   According to Article 43 (5) GDPR, the certification bodies shall provide the competent SAs with the
+      reasons for granting or withdrawing the requested certification. This does not mean that the certifica-
+      tion body needs the authorisation of the SA in order to issue certification. The certification body will
+      be monitoring the compliance of its clients with the certification criteria.
+
+29.   The SA has the corrective power to withdraw a certification or order to withdraw a certification issued
+      pursuant to Articles 42 and 43 GDPR, or order the certification body not to issue certification if the
+      requirements for the certification are no longer met.
+
+30.   A European Data Protection Seal for international data transfers may serve as a tool to cover transfers
+      to third countries together with binding and enforceable commitments 18.
+
+31.   Nevertheless, certifications to be used as a tool for transfers can also be issued according to national
+      approved certification schemes in EEA States. As such, they are only valid for transfers to third coun-
+      tries from exporters in the EEA Member State where the certification scheme has been approved as
+      there is no mutual recognition of different EEA state certifications. But SAs in different EEA states are
+      free to approve the same certification mechanism for transfers 19.
+
+
+      2 IMPLEMENTING GUIDANCE ON THE ACCREDITATION REQUIRE-
+        MENTS
+32.   The requirements for accreditation of a certification body with regard to certifications as a tool for
+      transfers are to be found in ISO 17065 and by interpreting the Guidelines 4/201820 against the back-
+      ground of Chapter V, as explained below.
+
+33.   In the opinion of the EDPB, the additional accreditation requirements drafted on the basis of the Guide-
+      lines 4/2018 and ISO 17065 adopted according to Article 64 (1) (c) GDPR already cover the specific
+      requirements needed for the accreditation of a certification body with regard to certifications as tool
+      for transfers. However, in a transfer scenario, some requirements need some refinements in term of
+      explanatory notes and interpretation.
+
+34.   With regard to the resource requirements (see requirement 6 of the Guidelines 4/2018 - Annex 1) the
+      certification body shall ensure that it has the necessary resources to be able to verify that, as required
+      by the certification criteria, the importer has duly and in a correct way carried out the necessary as-
+      sessment of the legal situation and practices of the third country/ies where it is established or oper-
+      ates 21. This assessment should be carried out with respect to the processing activities to be certified
+
+
       18
-         Ver o artigo 42.º, n.º 5, do RGPD e o ponto 35 das Orientações 1/2018 do CEPD relativas à certificação e à
-      definição dos critérios de certificação, em conformidade com os artigos 42.º e 43.º do Regulamento.
-
-
-                                                           11
-      Adotadas
-
-31.   Não obstante, as certificações a utilizar como instrumento para as transferências também podem ser
-      emitidas de acordo com os sistemas nacionais de certificação aprovados nos Estados do EEE. Assim
-      sendo, só são válidas para transferências para países terceiros a partir de exportadores no Estado do
-      EEE em que o sistema de certificação tenha sido aprovado, uma vez que não existe reconhecimento
-      mútuo das diferentes certificações realizadas nos Estados do EEE. Porém, as AC dos diferentes Estados
-      do EEE são livres de aprovar o mesmo mecanismo de certificação para as transferências 19.
-
-
-      2 APLICAÇÃO DAS ORIENTAÇÕES SOBRE OS REQUISITOS DE
-        ACREDITAÇÃO
-32.   Os requisitos de acreditação de um organismo de certificação no que diz respeito às certificações
-      enquanto instrumento para as transferências estão previstos na norma ISO 17065 e devem ser
-      interpretados à luz das Orientações 4/201820 no contexto do capítulo V, conforme explicado abaixo.
-
-33.   O CEPD considera que os requisitos de acreditação adicionais elaborados com base nas Orientações
-      4/2018 e na norma ISO 17065, adotados em conformidade com o artigo 64.º, n.º 1, alínea c), do RGPD,
-      já abrangem os requisitos específicos necessários para a acreditação de um organismo de certificação
-      no que diz respeito às certificações enquanto instrumento para as transferências. No entanto, num
-      cenário de transferência, alguns requisitos carecem de alguns aperfeiçoamentos em termos de notas
-      explicativas e de interpretação.
-
-34.   No que diz respeito aos requisitos em matéria de recursos (ver requisito 6 das Orientações 4/2018,
-      anexo 1), o organismo de certificação deve assegurar que dispõe dos recursos necessários para poder
-      verificar se, tal como exigido pelos critérios de certificação, o importador efetuou devidamente e de
-      forma correta a avaliação necessária da situação jurídica e das práticas do(s) país(es) terceiro(s) onde
-      está estabelecido ou opera 21. Esta avaliação deve ser realizada no que toca às atividades de tratamento
-      a certificar como parte do AA em relação às garantias adequadas previstas no artigo 46.º do RGPD, e
-      incluir as medidas complementares identificadas e aplicadas pelo importador, se necessário. Tal inclui
-      também, por exemplo, um conhecimento significativo da legislação e das práticas locais aplicáveis e
-      competências linguísticas adequadas em relação ao(s) país(es) terceiro(s).
-
-35.   No que diz respeito aos requisitos processuais (ver requisito 7 das Orientações 4/2018, anexo 1), o
-      organismo de certificação deve assegurar que o processo de certificação pode ser verificado por
-      eventuais auditorias no local, é realizado no que respeita ao tratamento que terá lugar no(s) país(es)
-      terceiro(s) e que a avaliação abrange igualmente a aplicação na prática da legislação e das políticas em
-      vigor no(s) país(es) terceiro(s).
-
-36.   Quanto aos requisitos relativos a alterações que afetam a certificação (ver requisito 7.10 das
-      Orientações 4/2018, anexo 1), o organismo de certificação deve monitorizar as alterações da legislação
-
-
+         See Article 42 para 5 GDPR and para 35 of EDPB Guidelines 1/2018 on certification and identifying certification
+      criteria in accordance with Articles 42 and 43 of the Regulation.
       19
-         Se uma AC avançar com a adoção dos critérios de certificação X por iniciativa nacional e, posteriormente, tendo
-      em conta os critérios do sistema e a regulamentação nacional específica aplicável, outros países quiserem adotar
-      os mesmos critérios de certificação, poderão fazê-lo sem desencadear um parecer do CEPD nos termos do
-      artigo 64.º do RGPD e basear-se no parecer emitido à primeira AC, em conformidade com o artigo 64.º, n.º 3, do
-      RGPD [ver, a este respeito, a referência ao documento «Guidance — Addendum» (Orientações — Adenda)
-      (anexo das Orientações 1/2018 relativas à certificação e à definição dos critérios de certificação, em
-      conformidade com os artigos 42.º e 43.º do Regulamento), ponto 66].
-      20
-         Orientações 4/2018 relativas à acreditação dos organismos de certificação nos termos do artigo 43.º do
-      RGPD e respetivo anexo.
+         If a SA leads the adoption of the certification criteria X under its national initiative and, afterwards, taking
+      account of the scheme criteria and applicable specific national regulations, other countries want to adopt the
+      same certification criteria, they may adopt the them without triggering an EDPB opinion under article 64 of the
+      GDPR and rely on the opinion given to the first SA, according to Art 64 (3) GDPR (see, in this respect, Reference
+      to Guidance – Addendum (Annex to Guidelines 1/2018 on certification and identifying certification criteria in
+      accordance with Articles 42 and 43 of the Regulation), para. 66.
+      20 Guidelines 4/2018 on the accreditation of certification bodies under Article 43 of the GDPR and its Annex.
       21
-         Ver ponto 12 supra.
+         See paragraph 12 above.
 
-                                                             12
-      Adotadas
+                                                              11
+      Adopted
 
-      e/ou da jurisprudência do(s) país(es) terceiro(s) que possam afetar o tratamento abrangido pelo
-      âmbito de aplicação do AA.
+      as part of the ToE with regard to the appropriate safeguards from Article 46 GDPR, and includes the
+      supplementary measures identified and implemented by the importer, where necessary. This also in-
+      cludes e.g. a significant knowledge of relevant local laws and practices and adequate language skills in
+      relation to the third country/ies.
 
+35.   With regard to the process requirements (see requirement 7 of the Guidelines 4/2018 Annex 1) the
+      certification body shall ensure that the process of certification can be backed up by possible on-site
+      audits, is carried out with regard to processing which will take place in the third country/ies, and that
+      the assessment also covers the implementation in practice of existing laws and policies in the third
+      country/ies.
 
-      3 CRITÉRIOS ESPECÍFICOS DE CERTIFICAÇÃO
-37.   No contexto da apreciação dos critérios específicos de certificação, as presentes orientações baseiam-
-      se nas Orientações 1/2018 relativas à certificação e à definição dos critérios de certificação, em
-      conformidade com os artigos 42.º e 43.º do Regulamento (versão 3. 0), no correspondente anexo 2
-      relativo à análise e avaliação dos critérios de certificação em conformidade com o artigo 42.º, n.º 5, e
-      com a Adenda Certification criteria assessment (Avaliação dos critérios de certificação).
-
-38.   O CEPD considera que os critérios de certificação elaborados com base no anexo 2 e na Adenda
-      Certification criteria assessment (Avaliação dos critérios de certificação) das Orientações 1/2018 já
-      abrangem a maioria dos critérios de certificação que devem ser tidos em conta na elaboração de um
-      sistema de certificação a utilizar como instrumento para as transferências. No entanto, poderá ser
-      necessário especificar mais pormenorizadamente alguns dos critérios existentes para os adaptar a um
-      cenário de transferência específico (ver ponto 3.1). Além disso, poderá ser necessário formular
-      critérios adicionais no sentido de aplicar as garantias adequadas, inclusivamente em relação aos
-      direitos dos titulares dos dados (ver ponto 3.2).
-
-      3.1 APLICAÇÃO DAS ORIENTAÇÕES SOBRE OS CRITÉRIOS DE CERTIFICAÇÃO
-39.   O âmbito do mecanismo de certificação e alvo de avaliação (AA) (ver anexo 2, secção 2.a) deve ser
-      claramente descrito na respetiva documentação, nomeadamente no que respeita à transferência de
-      dados pessoais para um país terceiro ou se se destina a abranger também o seu trânsito.
-
-40.   Ainda em relação ao âmbito do mecanismo de certificação e alvo de avaliação (AA) (ver anexo 2,
-      secção 2.b), a documentação relevante deve descrever concretamente a que tipo de entidade (p. ex.
-      responsável pelo tratamento e/ou subcontratante) o mecanismo de certificação é aplicável.
-
-41.   Novamente em relação ao âmbito do mecanismo de certificação e alvo de avaliação (AA) (ver anexo 2,
-      secção 2.f), os critérios devem exigir que o AA seja definido concretamente, de modo a evitar mal-
-      entendidos, incluindo, pelo menos:
-
-42.   A(s) operação(ões) de tratamento, inclusivamente no caso de estarem previstas transferências
-      ulteriores:
-
-          a) O objetivo;
-
-          b) O tipo de entidade (p. ex. responsável pelo tratamento e/ou subcontratante);
-
-          c) O tipo de dados transferidos, tendo em conta se estão envolvidas categorias especiais de
-             dados pessoais, tal como definidas no artigo 9.º do RGPD;
-
-          d) As categorias de titulares de dados;
-
-          e) Os países onde é efetuado o tratamento de dados.
-
-43.   No que diz respeito à transparência e aos direitos dos titulares dos dados (ver anexo 2, secção 8), os
-      critérios de certificação devem:
+36.   With regard to the requirements regarding changes affecting certification (see requirement 7.10 of the
+      Guidelines 4/2018 Annex 1) the certification body shall monitor changes in third country legislation
+      and/or case law that may impact the processing falling within the scope of the ToE.
 
 
+      3 SPECIFIC CERTIFICATION CRITERIA
+37.   In the context of the consideration of the specific certification criteria, these guidelines are based on
+      the Guidelines 1/2018 on certification and identifying certification criteria in accordance with Articles
+      42 and 43 of the Regulation (Version 3. 0), the corresponding Annex 2 on the review and assessment
+      of certification criteria in accordance with Article 42 (5) and the Guidance on Certification criteria as-
+      sessment Addendum.
 
+38.   In the opinion of the EDPB, the certification criteria drafted on the basis of the Guidelines 1/2018 An-
+      nex 2 and the Guidance on Certification criteria assessment – Addendum, already cover the majority
+      of the certification criteria which need to be taken into consideration when drafting a certification
+      scheme to be used as tool for transfers. However, there might be a need to further specify some of
+      these existing criteria to tailor them to a specific transfer scenario (see par. 3.1). In addition, there
+      might be a need to formulate additional criteria for the purpose of applying appropriate safeguards,
+      including with regard to the rights of data subjects (see par. 3.2).
 
-                                                        13
-      Adotadas
+      3.1 IMPLEMENTING GUIDANCE ON THE CERTIFICATION CRITERIA
+39.   With regard to the scope of the certification mechanism and target of evaluation (TOE) (see Annex 2,
+      Section 2.a) it should be clearly described in the relevant documentation including with regard to the
+      transfer of personal data to a third country or whether it is intended to cover also their transit.
 
-         a) Exigir que sejam fornecidas informações sobre as atividades de tratamento aos titulares dos
-            dados, inclusivamente, se for caso disso, sobre a transferência de dados pessoais para um país
-            terceiro ou uma organização internacional (ver artigos 12.º, 13.º e 14.º do RGPD);
+40.   With regard to the scope of the certification mechanism and target of evaluation (TOE) (see Annex 2,
+      Section 2.b) the relevant documentation should describe concretely for which type of entity (ex: con-
+      troller and/or processor) the certification mechanism is applicable.
 
-         b) Exigir que aos titulares dos dados sejam garantidos os direitos de acesso, retificação,
-            apagamento, limitação do tratamento, notificação da retificação, do apagamento ou da
-            limitação do tratamento, oposição ao tratamento, bem como o direito de não ficar sujeito a
-            decisões baseadas exclusivamente no tratamento automatizado, incluindo a definição de
-            perfis, essencialmente equivalentes aos previstos nos artigos 15.º a 19.º, 21.º e 22.º do RGPD;
-         c) Exigir que o importador de dados titular de uma certificação estabeleça um procedimento
-            adequado de tratamento das reclamações, a fim de assegurar o exercício efetivo dos direitos
-            dos titulares dos dados;
-         d) Exigir que se avalie se, e em que medida, estes direitos são oponíveis para os titulares dos
-            dados no país terceiro em causa, bem como quaisquer medidas adicionais adequadas que
-            possam ter de ser postas em prática para os fazer cumprir, por exemplo exigindo que o
-            importador aceite submeter-se à jurisdição da autoridade de controlo competente em relação
-            ao(s) exportador(es) e cooperar com a mesma em quaisquer procedimentos destinados a
-            assegurar o cumprimento desses direitos e, em especial, que aceite responder a inquéritos,
-            submeter-se a auditorias e cumprir as medidas adotadas pela referida autoridade de controlo,
-            incluindo medidas corretivas e compensatórias.
+41.   With regard to the scope of the certification mechanism and target of evaluation (TOE) (see Annex 2,
+      Section 2.f) the criteria should require that the ToE is defined concretely in order to avoid misunder-
+      standings. This should include at least:
 
-44.   No que respeita às medidas técnicas e organizativas que garantam a proteção (anexo 2, secção 10.q),
-      os critérios de certificação devem exigir que o importador informe o exportador e, se o importador
-      atuar como responsável pelo tratamento, notifique a AC no EEE competente em relação ao(s)
-      exportador(es) de dados das violações de dados e as comunique aos titulares dos dados sempre que a
-      violação seja suscetível de resultar num elevado risco para os seus direitos e liberdades, em
-      conformidade com os requisitos do artigo 34.º do RGPD.
+42.   the processing operation(s), including in case onward transfers are envisaged
 
-      3.2 CRITÉRIOS DE CERTIFICAÇÃO ESPECÍFICOS ADICIONAIS
-45.   Tendo em conta as garantias identificadas para outros instrumentos de transferência ao abrigo do
-      artigo 46.º do RGPD (tais como regras vinculativas aplicáveis às empresas ou códigos de conduta) e a
-      fim de assegurar um nível de proteção coerente, e atendendo ao acórdão do TJUE no processo
-      Schrems II, o CEPD considera que o mecanismo de certificação a utilizar como instrumento para as
-      transferências para países terceiros deve incluir também os critérios a seguir enunciados.
+          a) the purpose
 
-      1. Avaliação da legislação do país terceiro
-            a) Os critérios exigem que o importador tenha avaliado as regras e práticas do país terceiro
-               onde opera e se estas impedem o importador de cumprir os seus compromissos no âmbito
-               da certificação?
-            b) Os critérios exigem que o importador documente a avaliação das regras e práticas do país
-               terceiro onde opera e mantenha a documentação à disposição do organismo de certificação
-               e, mediante pedido, à disposição do exportador de dados e da AC no EEE competente em
-               relação ao exportador de dados?
-            c) Os critérios exigem que o importador tenha identificado e aplicado as medidas
-               organizativas e técnicas para proporcionar as garantias adequadas nos termos do
-               artigo 46.º do RGPD, tendo em conta as «Recomendações 01/2020 relativas às medidas
-               complementares aos instrumentos de transferência para assegurar o cumprimento do nível
-               de proteção dos dados pessoais da UE»?
-
-                                                      14
-      Adotadas
-
-      d) Os critérios exigem que o importador documente as medidas organizativas e técnicas
-         efetivamente aplicadas para proporcionar as garantias adequadas nos termos do
-         artigo 46.º do RGPD e mantenha a documentação à disposição do organismo de certificação
-         e, mediante pedido, à disposição do exportador de dados e das autoridades competentes
-         em matéria de proteção de dados?
-      e) Os critérios exigem que o importador tenha identificado e aplicado as medidas
-         organizativas e técnicas para garantir a segurança dos dados pessoais transferidos, tendo
-         em conta as «Recomendações 01/2020 relativas às medidas complementares aos
-         instrumentos de transferência para assegurar o cumprimento do nível de proteção dos
-         dados pessoais da UE», se o trânsito estiver incluído no âmbito da certificação enquanto
-         instrumento para as transferências?
-      f) Os critérios exigem uma garantia ao organismo de certificação e ao exportador de que o
-         importador não tem motivos para crer que a legislação e as práticas que lhe são aplicáveis
-         o possam impedir de cumprir as suas obrigações ao abrigo da certificação?
-
-2. Obrigações gerais dos exportadores e importadores
-      a) Os critérios exigem que se estabeleça, em acordos contratuais (por exemplo, num contrato
-         de prestação de serviços existente) entre exportadores e importadores, uma descrição da
-         transferência específica a que a certificação se aplica e que os direitos de terceiros
-         beneficiários são reconhecidos aos titulares dos dados em causa?
-
-      b) Na medida em que os critérios exijam um conteúdo específico para estes acordos ou
-         instrumentos contratuais e seja fornecido um modelo, os critérios exigem que sejam
-         também objeto de avaliação?
-
-3. Regras relativas às transferências ulteriores
-      a) Os critérios exigem que as transferências ulteriores estejam sujeitas a garantias específicas,
-         em conformidade com os requisitos do capítulo V do RGPD, de modo a garantir que o nível
-         de proteção assegurado no EEE não seja comprometido, e os critérios exigem que seja
-         mantida documentação adequada à disposição do organismo de certificação e, mediante
-         pedido, à disposição do exportador de dados e da AC no EEE competente em relação ao(s)
-         exportador(es) de dados?
-
-4. Vias de recurso e execução
-      a) Os critérios preveem que os titulares dos dados possam fazer valer os seus direitos
-         enquanto terceiros beneficiários contra o importador de dados perante o tribunal do EEE
-         da residência habitual do titular dos dados, ou junto de uma organização internacional,
-         incluindo a indemnização pelos danos sofridos pelo titular dos dados em caso de não
-         conformidade do importador com o sistema de certificação aplicável?
-      b) Os critérios permitem avaliar adequadamente se um importador é responsável no EEE
-         pelos danos sofridos pelo titular dos dados em caso de não conformidade com o sistema
-         de certificação aplicável?
-      c) Os critérios exigem que os titulares dos dados possam apresentar uma reclamação contra
-         o importador junto de uma autoridade de controlo no EEE, em especial no Estado do EEE
-         da sua residência habitual, local de trabalho ou competente em relação ao(s)
-         exportador(es) de dados?
+          b) the type of entity (ex: controller and/or processor)
 
 
 
-                                                   15
-Adotadas
+                                                         12
+      Adopted
 
-             d) Os critérios exigem que o importador coopere com a autoridade de controlo no EEE
-                competente em relação ao(s) exportador(es) de dados e aceite ser auditado e inspecionado
-                por esta, ter em conta o seu parecer e respeitar as suas decisões?
+          c) the type of data transferred taking into account whether special categories of personal data
+             as defined in Article 9 GDPR are involved
 
-      5. Processo e ações para situações em que a legislação nacional impede o cumprimento dos
-             compromissos assumidos no âmbito da certificação
-             a) Os critérios exigem o compromisso de que, sempre que tenha razões para crer que as
-                alterações na legislação e nas práticas que lhe são aplicáveis podem impedir o cumprimento
-                das obrigações que lhe incumbem por força da certificação, o importador de dados de um
-                país terceiro ou de uma organização internacional informe imediatamente desse facto o
-                organismo de certificação e o exportador de dados, para que este último possa avaliar se
-                deve ou não cessar imediatamente as transferências?
-             b) Os critérios exigem uma descrição das medidas a tomar (incluindo a notificação do
-                exportador no EEE e a adoção de medidas adicionais adequadas) se o importador de dados
-                tomar conhecimento de legislação ou práticas de um país terceiro que impeçam o
-                cumprimento das obrigações decorrentes da certificação, bem como das medidas a tomar
-                em caso de pedidos de informações por parte de autoridades de países terceiros (incluindo
-                a obrigação de rever e, se necessário, contestar a legalidade do pedido e de minimizar
-                quaisquer informações divulgadas)?
+          d) the categories of data subjects
 
-      6. Tratamento dos pedidos de acesso aos dados por parte de autoridades de países terceiros
-             a) Os critérios exigem que o importador de dados informe prontamente o exportador de
-                dados em caso de pedidos de acesso por parte de autoridades de países terceiros e tome
-                medidas adicionais adequadas?
-             b) Os critérios exigem que as transferências resultantes de pedidos de acesso
-                desproporcionados por parte de autoridades públicas de países terceiros, em especial
-                pedidos que exijam transferências maciças e indiscriminadas de dados pessoais, não sejam
-                realizadas?
+          e) the countries where the data processing takes place
 
-      7. Garantias adicionais relativas ao exportador
-46.   Os critérios exigem que, quando previsto, o importador de dados assegure, também através de
-      requisitos vinculativos a este respeito para o exportador de dados, que as medidas complementares
-      que identificou sejam acompanhadas de medidas complementares correspondentes por parte do
-      exportador de dados, tendo em conta as Recomendações 01/2020 do CEPD e os casos de utilização, a
-      fim de assegurar uma aplicação eficaz das medidas complementares do importador?
+43.   With regard to Transparency and the Data subjects’ rights (see Annex 2, Section 8), the certification
+      criteria should:
+
+          a) Require that information on the processing activities should be provided to data subjects, in-
+             cluding, where relevant, on the transfer of personal data to a third country or an international
+             organisation (see Articles 12, 13, 14 GDPR)
+
+          b) require that data subjects are guaranteed their rights to access, rectification, erasure,
+             restriction, notification regarding rectification or erasure or restriction, objection to
+             processing, right not to be subject to decisions based solely on automated processing,
+             including profiling, essentially equivalent to those provided for by Articles 15 to 19, 21 and 22
+             GDPR
+          c) require that an appropriate complaint handling procedure is established by the data importer
+             holding a certification in order to ensure the effective implementation of the data subject
+             rights
+          d) require assessing whether and to what extent these rights are enforceable for the data
+             subjects in the relevant third country and any additional appropriate measures that may need
+             to be put in place to enforce them, e.g. requiring that the importer will accept to submit itself
+             to the jurisdiction of and cooperate with the supervisory authority competent for the
+             exporter(s) in any procedures aimed at ensuring compliance with these rights and, in
+             particular, that it agrees to respond to enquiries, submit to audits and comply with the
+             measures adopted by aforementioned supervisory authority, including remedial and
+             compensatory measures.
+
+44.   With regard to technical and organisational measures guaranteeing protection (Annex 2, Section 10.q),
+      the certification criteria should require the importer to inform the exporter and, if the importer acts
+      as a controller, to notify the SA in the EEA competent for the data exporter(s) of data breaches and to
+      communicate them to the data subjects where the breach is likely to result in a high risk to their rights
+      and freedoms, in line with the requirements of Article 34 GDPR.
+
+      3.2 ADDITIONAL SPECIFIC CERTIFICATION CRITERIA
+45.   In view of the safeguards identified for other transfer instruments under Article 46 of the GDPR (such
+      as binding corporate rules or codes of conduct) and in order to ensure a consistent level of protection,
+      and taking into account the Schrems II ruling of the ECJ, the EDPB considers that certification mecha-
+      nism to be used as a tool for transfers to third countries, should include also the criteria listed below.
+
+      1. Assessment of the third country legislation
+             a) Do the criteria require the importer to have assessed the rules and practices of the third
+                country where it operates and whether they prevent the importer from complying with its
+                commitments under the certification?
+             b) Do the criteria require the importer to document the assessment of the rules and practices
+                of the third country where it operates and keep the documentation available to the
 
 
+                                                         13
+      Adopted
 
-      4 COMPROMISSOS VINCULATIVOS E COM FORÇA EXECUTIVA A
-        ASSUMIR
-47.   O RGPD exige, no seu artigo 42.º, n.º 2, que os responsáveis pelo tratamento e os subcontratantes não
-      sujeitos ao RGPD que adiram a um mecanismo de certificação destinado às transferências assumam,
-      adicionalmente, compromissos vinculativos e com força executiva, por meio de instrumentos
+         certification body and upon request to the SA in the EEA competent for the data exporter
+         and to the data exporter?
+      c) Do the criteria require the importer to have identified and implemented the organisational
+         and technical measures to provide the appropriate safeguards under Article 46 GDPR taking
+         into account the “Recommendations 01/2020 on measures that supplement transfer tools
+         to ensure compliance with the EU level of protection of personal data?
+      d) Do the criteria require the importer to document the organisational and technical measures
+         effectively implemented to provide the appropriate safeguards under Article 46 GDPR and
+         keep the documentation available to the certification body and upon request to the
+         competent data protection authorities and to the data exporter?
+      e) Do the criteria require the importer to have identified and implemented the organisational
+         and technical measures to ensure the security of the personal data transferred, taking into
+         account the “Recommendations 01/2020 on measures that supplement transfer tools to
+         ensure compliance with the EU level of protection of personal data” if the transit is included
+         in the scope of certification as a tool for transfers?
+      f) Do the criteria require a warranty to the certification body and the exporter that the
+         importer has no reason to believe that the legislation and practices applicable to it may
+         prevent it from fulfilling its obligations under the certification?
+
+2. General obligations of exporters and importers
+     a) Do the criteria require to lay down in contractual agreements (e.g. in an existing service
+        contract) between exporters and importers a description of the specific transfer to which
+        the certification applies and that third-party beneficiary rights are recognised to the con-
+        cerned data subjects?
+
+      b) Insofar as the criteria require a specific content for these contractual agreements or
+         instruments and a template is provided, do the criteria require that they also be the subject
+         of the evaluation?
+
+3. Rules on onward transfers
+      a) Do the criteria require that onward transfers are subject to specific safeguards in line with
+         Chapter V GDPR requirements so as to ensure that the level of protection ensured in the
+         EEA will not be undermined and do the criteria require that appropriate documentation is
+         kept available to the certification body and the SA in the EEA competent for the data
+         exporter(s) and to the data exporter upon request?
+
+4. Redress and Enforcement
+      a) Do the criteria provide that data subjects can enforce their rights as third-party
+         beneficiaries against the data importer before the EEA court of the data subject’s habitual
+         residence, or with an international organisation, including for compensation for damage
+         suffered by the data subject in case of non-compliance by the importer with the relevant
+         Certification scheme?
+      b) Do the criteria enable adequately assessing that an importer is liable in the EEA for the harm
+         suffered by the data subject in case of non-compliance with the relevant Certification
+         scheme?
 
 
 
 
-                                                       16
-      Adotadas
+                                                 14
+Adopted
 
-      contratuais ou de outros instrumentos juridicamente vinculativos 22, no sentido de aplicar as garantias
-      adequadas previstas no mecanismo de certificação, inclusivamente em relação aos direitos dos
-      titulares dos dados.
+             c) Do the criteria require that data subjects can lodge a complaint against the importer with a
+                supervisory authority in the EEA, in particular in the EEA State of his or her habitual
+                residence, place of work or competent for the data exporter(s)?
+             d) Do the criteria require that the importer will cooperate with the supervisory authority in
+                the EEA competent for the data exporter(s) and accept to be audited and to be inspected
+                by it (them), take into account its (their) advice and abide by its (their) decisions?
 
-48.   Tal como especificado no RGPD, esses compromissos podem ser assumidos através de um contrato, o
-      que parece ser a solução mais simples. Poderão também ser utilizados outros instrumentos, desde que
-      os responsáveis pelo tratamento/subcontratantes que aderem ao mecanismo de certificação
-      consigam demonstrar o caráter vinculativo e executório desses outros meios.
+      5. Process and actions for situations in which national legislation prevents compliance with
+             commitments taken as part of certification
+             a) Do the criteria require a commitment that where the data importer in a third country or an
+                international organisation has reasons to believe that changes in the legislation and
+                practices applicable to it may prevent it from fulfilling its obligations under the certification,
+                it will promptly notify this to the certification body and to the data exporter, so that the
+                latter can evaluate whether to immediately stop the transfers?
+             b) Do the criteria require a description of the steps to be taken (including notifying the
+                exporter in the EEA and taking appropriate additional measures) if the data importer
+                becomes aware of legislation or practises of a third country that prevents compliance with
+                the obligations under the certification, as well as the measures to be taken in case of
+                requests for information from third country authorities (including the obligation to review
+                and, when necessary, challenge the legality of the request and to minimise any information
+                disclosed)?
 
-49.   Em qualquer caso, o caráter vinculativo e executório deve ser assegurado ao abrigo do direito da UE e
-      os compromissos devem também ser vinculativos e oponíveis pelos titulares dos dados enquanto
-      terceiros beneficiários.
+      6. Dealing with requests for data access by third country authorities
+             a) Do the criteria require that the data importer will promptly inform the data exporter in case
+                of requests for access by third country authorities and take appropriate additional
+                measures?
+             b) Do the criteria require that transfers as a result of disproportionate access requests by third
+                country public authorities, in particular requests that require massive and indiscriminate
+                transfers of personal data, should not take place?
 
-50.   Uma opção simples seria incluir os compromissos vinculativos e com força executiva no contrato entre
-      o exportador de dados e o importador de dados. Na prática, as partes poderiam utilizar um contrato
-      existente (por exemplo, um acordo de serviços entre o exportador e o importador de dados, um
-      contrato de acordo de tratamento de dados, em conformidade com o artigo 28.º do RGPD, entre os
-      responsáveis pelo tratamento e os subcontratantes, ou um acordo de partilha de dados entre
-      diferentes responsáveis pelo tratamento) em que os compromissos vinculativos e com força executiva
-      pudessem ser incluídos. Esses compromissos devem ser claramente distinguidos de quaisquer outras
-      cláusulas. Outra opção seria recorrer a um contrato separado, por exemplo incluindo no mecanismo
-      de certificação destinado às transferências um modelo de contrato que teria de ser assinado pelos
-      responsáveis pelo tratamento/subcontratantes no país terceiro e por todos os seus exportadores.
-
-51.   Deve haver flexibilidade para escolher a opção mais adequada em função da situação específica.
-
-52.   Caso o mecanismo de certificação se destine a ser utilizado para transferências e transferências
-      ulteriores de um subcontratante para subcontratantes ulteriores, deve também ser feita referência ao
-      mecanismo de certificação e ao instrumento que prevê compromissos vinculativos e com força
-      executiva no acordo de subcontratação assinado entre o subcontratante e o seu responsável pelo
-      tratamento.
-
-      Exemplo de compromissos vinculativos e com força executiva incluídos no contrato entre o exportador
-      de dados e o importador de dados:
-
-                                                                                    Responsável pelo
-                                                                                      tratamento ou
-           Responsável pelo tratamento ou                                      subcontratante não sujeito
-           subcontratante sujeito ao RGPD           TRANSFERÊNCIA               ao RGPD, titular de uma
-               (exportador de dados)                                            certificação destinada às
-                                                                                      transferências
-                                                                                 (importador de dados)
+      7. Additional safeguards concerning the exporter
+46.   Do the criteria require that, where so envisaged, the data importer ensures, also by way of binding
+      requirements in this respect for the data exporter, that the supplementary measures it has identified
+      are matched by corresponding supplementary measures on the part of the data exporter, taking into
+      account the EDPB Recommendations 01/2020 and the use cases, in order to ensure an effective im-
+      plementation of the importer’s supplementary measures?
 
 
-                                          Contrato com compromissos
-                                       vinculativos e com força executiva
 
 
+                                                          15
+      Adopted
+
+      4 BINDING AND ENFORCEABLE COMMITMENTS TO BE IMPLE-
+        MENTED
+47.   The GDPR requires in its Article 42 (2) that controllers and processors not subject to the GDPR adhering
+      to a certification mechanism intended for transfers take, additionally, binding and enforceable com-
+      mitments, via contractual or other legally binding instruments 22, to apply the appropriate safeguards
+      provided by the certification mechanism including with regard to the rights of data subjects.
+
+48.   As specified by the GDPR, such commitments may be taken by using a contract, which appears as the
+      most straight forward solution. Other instruments could also be used, provided that the control-
+      ler/processors adhering to the certification mechanism are able to demonstrate the binding and en-
+      forceable nature of such other means.
+
+49.   In any event, the binding and enforceable nature must be ensured under EU law and the commitments
+      should also be binding and enforceable by data subjects as third-party beneficiaries.
+
+50.   A straight forward option would be to include the binding and enforceable commitments in the con-
+      tract between the data exporter and data importer. In practice, the parties could use an existing con-
+      tract (e.g. service agreement between the exporter and the data importer, the data processing agree-
+      ment contract in accordance with Article 28 GDPR between controllers and processors, or a data shar-
+      ing agreement between separate controllers) in which the binding and enforceable commitments
+      could be included. These commitments should be clearly distinguished from any other clauses. An-
+      other option could be to rely on a separate contract for instance by adding to the certification mecha-
+      nism intended for transfers a model contract that would need to be then signed by controllers/proces-
+      sors in the third country and all of its exporters.
+
+51.   There should be flexibility to choose the most appropriate option depending on the specific situation.
+
+52.   When the certification mechanism is to be used for transfers and onward transfers by a processor to
+      sub-processors, a reference to the certification mechanism and the instrument providing for binding
+      and enforceable commitments should also be made in the processor agreement signed between the
+      processor and its controller.
+
+      Example for binding and enforceable commitments included in the contract between data exporter
+      and data importer:
+
+                                                                                Controller or Processor
+                                                                                   not subject to the
+            Controller or Processor
+                                                       TRANSFER                     GDPR holding a
+           subject to the GDPR (Data
+                                                                                 certification intended
+                    exporter)
+                                                                                   for transfers (Data
+                                                                                        importer)
+
+
+                                            Contract with binding and
+                                            enforceable commitments
 
 
       22
-        Este instrumento juridicamente vinculativo não pode ser outro instrumento do capítulo V (como, por exemplo,
-      as cláusulas-tipo de proteção de dados), uma vez que os compromissos vinculativos e com força executiva
-      referidos no artigo 46.º, n.º 2, alínea f), têm de ser concebidos de modo a garantir que o importador respeitará
-      os critérios de certificação.
+        This legally binding instrument shall not be another Chapter V tool (such as, for example, the SCC), since these
+      binding and enforceable commitments referred to in Article 46(2)(f) have to be designed to ensure that the
+      importer will abide by the certification criteria.
 
-                                                            17
-      Adotadas
+                                                             16
+      Adopted
 
-53.   Em geral, o contrato ou outro instrumento juridicamente vinculativo deve estabelecer que o
-      responsável pelo tratamento/subcontratante titular de uma certificação que atue na qualidade de
-      importador se compromete a cumprir as regras especificadas na certificação destinada às
-      transferências ao tratar os dados recebidos do EEE e garante que não tem motivos para crer que a
-      legislação e as práticas do país terceiro aplicáveis ao tratamento em causa, incluindo quaisquer
-      requisitos de divulgação de dados pessoais ou medidas que autorizem o acesso por parte das
-      autoridades públicas, o impeçam de cumprir os seus compromissos ao abrigo da certificação e que
-      informará o exportador de quaisquer alterações relevantes da legislação ou prática a este respeito.
+53.   In general, the contract or other legally binding instrument must set out that the controller/processor
+      holding a certification acting as an importer commits to comply with the rules specified in the certifi-
+      cation intended for transfers when processing the relevant data received from the EEA and warrants
+      it has no reason to believe that the laws and practices in the third country applicable to the processing
+      at stake, including any requirements to disclose personal data or measures authorising access by public
+      authorities, prevent it from fulfilling its commitments under the certification and that it will inform the
+      exporter of any relevant changes in the legislation or practice in this regard.
 
-54.   O contrato ou outro instrumento deve também prever procedimentos que permitam exigir o
-      cumprimento desses compromissos em caso de não conformidade com as regras ao abrigo da
-      certificação pelo responsável pelo tratamento/subcontratante que atua na qualidade de importador,
-      em especial no que diz respeito aos direitos dos titulares cujos dados são transferidos ao abrigo da
-      certificação.
+54.   The contract or other instrument shall also provide for mechanisms allowing to enforce such commit-
+      ments in case of non-compliance with the rules under the certification by the controller/processor
+      acting as an importer, in particular with respect to the rights of data subjects whose data are trans-
+      ferred under the certification.
 
-55.   Mais especificamente, o contrato ou outro instrumento deve abordar:
+55.   More particularly, the contract or other instrument should address:
 
-      -    a existência do direito de os titulares cujos dados são transferidos ao abrigo da certificação fazerem
-           cumprir, enquanto terceiros beneficiários, os compromissos assumidos pelo importador de dados
-           certificado no âmbito da certificação,
+      -    The existence of a right for data subjects whose data are transferred under the certification to
+           enforce as a third-party beneficiaries the commitments taken by the certified data importer under
+           the certification.
 
-      -    a questão da responsabilidade em caso de não conformidade com as regras ao abrigo da
-           certificação por um importador de dados titular de certificação fora do EEE. Os titulares dos dados
-           devem ter a possibilidade de, em caso de não conformidade com as regras ao abrigo da certificação
-           por um importador de dados titular de certificação fora do EEE, instaurar uma ação, incluindo uma
-           ação de indemnização, contra essa entidade junto de uma AC do EEE e de um tribunal do EEE da
-           residência habitual do titular dos dados, invocando o seu direito de terceiro beneficiário. O
-           importador titular de certificação deve aceitar a decisão do titular dos dados de o fazer. Em caso
-           de incumprimento pelo importador passível de conduzir à responsabilidade do exportador de
-           dados, os titulares dos dados devem também ter a possibilidade de instaurar uma ação contra o
-           exportador de dados junto da AC ou do tribunal competente do local de estabelecimento do
-           exportador de dados ou da residência habitual do titular dos dados23. O importador de dados e o
-           exportador de dados devem também aceitar que o titular dos dados possa ser representado por
-           um organismo, organização ou associação sem fins lucrativos, nas condições estabelecidas no
-           artigo 80.º, n.º 1, do RGPD,
+      -    The issue of liability in case of non-compliance with the rules under the certification by a data
+           importer holding a certification outside of the EEA. Data subjects shall have the possibility in case
+           of non-compliance with the rules under the certification by a data importer holding a certification
+           outside the EEA to bring a claim, by invoking their third-party beneficiary right, including for
+           compensation, against that entity before an EEA SA and EEA court of the data subject’s habitual
+           residence. The importer holding a certification shall accept the decision of the data subject to do
+           so. Data subjects shall also have the possibility, in case non-compliance by the importer could lead
+           to liability of the data exporter, to bring a claim against the data exporter before the SA or the
+           court of the data exporter’s establishment or of the data subject’s habitual residence23. The data
+           importer and the data exporter should also accept that the data subject may be represented by a
+           not-for-profit body, organisation or association under the conditions set out under Article 80 (1)
+           of the GDPR.
 
-      -    a existência de um direito do exportador de exigir o cumprimento, pelo importador titular de
-           certificação, das regras estabelecidas na certificação na qualidade de terceiro beneficiário,
+      -    The existence of a right for the exporter to enforce against the data importer holding a certification
+           the rules under the certification as a third-party beneficiary.
 
-      -    a existência da obrigação de o importador de dados titular de certificação notificar o exportador e
-           a autoridade de controlo do exportador de dados de quaisquer medidas tomadas pelo organismo
-           de certificação em resposta a um incumprimento detetado das regras de certificação pelo próprio
-           importador de dados.
+      -    The existence of an obligation of the data importer holding a certification to notify the exporter
+           and the supervisory authority of the data exporter of any measures taken by the certification body
+           in response to a detected non-compliance with the rules of the certification by the same data
+           importer.
 
 
 
 
       23
-         Esta responsabilidade não deve prejudicar os procedimentos a aplicar ao abrigo da certificação com o
-      organismo de certificação, que também pode tomar medidas contra os responsáveis pelo
-      tratamento/subcontratantes certificados em conformidade com a certificação, impondo medidas corretivas.
+        This liability should be without prejudice to the mechanisms to be implemented under the certification with
+      the certification body that can also take action against the certified controllers/processors in accordance with
+      the certification by imposing corrective measures.
 
 
-                                                          18
-      Adotadas
+                                                             17
+      Adopted
 
-ANEXO
-A. EXEMPLOS DE MEDIDAS COMPLEMENTARES A APLICAR PELO IMPORTADOR CASO O
-TRÂNSITO ESTEJA INCLUÍDO NO ÂMBITO DA CERTIFICAÇÃO
-Caso de utilização 1: Armazenamento de dados para fins de cópia de segurança e outros fins que não
-exigem o acesso aos dados não encriptados
+ANNEX
+A. EXAMPLES OF SUPPLEMENTARY MEASURES TO BE IMPLEMENTED BY THE IMPORTER
+IN CASE THE TRANSIT IS INCLUDED IN THE SCOPE OF CERTIFICATION
+Use case 1: Data storage for backup and other purposes that do not require access to data in the
+clear
 
-Devem ser estabelecidos critérios relativos às normas de encriptação e à segurança da chave de
-desencriptação, nomeadamente critérios relativos à situação jurídica no país terceiro. Se o importador
-puder ser forçado a transmitir as chaves de desencriptação, a medida complementar não pode ser
-considerada eficaz 24.
+Criteria relating to the encryption standards and the security of the decryption key, in particular criteria
+relating to the legal situation in the third country, must be established. If the importer can be forced
+to pass on decryption keys, the additional measure cannot be considered effective 24.
 
-Caso de utilização 2: Transferência de dados pseudonimizados
+Use case 2: Transfer of pseudonymised Data
 
-No caso de dados pseudonimizados, devem ser estabelecidos critérios relativos à segurança das
-informações adicionais necessárias para atribuir os dados transferidos a uma pessoa identificada ou
-identificável, em especial:
+In the case of pseudonymised data, criteria shall be established regarding the security of the additional
+information necessary to attribute the transferred data to an identified or identifiable person, in
+particular:
 
-— critérios relativos à situação jurídica no país terceiro. Se o importador puder ser forçado a aceder a
-dados adicionais ou a utilizá-los para os atribuir a uma pessoa identificada ou identificável, a medida
-não pode ser considerada eficaz 25,
+- Criteria regarding the legal situation in the third country. If the importer can be forced to access or
+use additional data in order to attribute the data to an identified or identifiable person, the measure
+cannot be considered effective 25.
 
-— critérios relativos à definição de informações adicionais à disposição das autoridades de países
-terceiros que possam ser suficientes para atribuir os dados a uma pessoa identificada ou identificável.
+- Criteria relating to the definition of additional information available to third country authorities that
+might be sufficient to attribute the data to an identified or identifiable person.
 
-Caso de utilização 3: Encriptação de dados para protegê-los do acesso das autoridades públicas do país
-terceiro do importador durante o trânsito entre o exportador e o importador
+Use case 3: Encryption of data to protect it from access by the public authorities of the third country
+of the importer when it transits between the exporter and its importer
 
-No caso de dados encriptados, devem ser incluídos os eventuais critérios para a segurança do trânsito.
-Se o importador puder ser forçado a transmitir as chaves criptográficas para desencriptação ou
-autenticação ou a modificar um componente utilizado para o trânsito de uma forma que comprometa
-as suas propriedades de segurança, a medida complementar não pode ser considerada eficaz 26.
+In the case of encrypted data, any criteria for the security of the transit shall be included. If the
+importer can be forced to pass on cryptographic keys for decryption or authentication or to modify a
+component used for transit in such a way that its security properties are undermined, the additional
+measure cannot be considered effective 26.
 
-Caso de utilização 4: Destinatário protegido
+Use case 4: Protected recipient
 
-No caso dos destinatários protegidos, devem ser definidos critérios para os limites do privilégio. O
-tratamento de dados deve permanecer dentro dos limites do privilégio legal. O mesmo se aplica ao
-tratamento por subcontratantes ulteriores e transferências ulteriores, cujos destinatários também
-devem ser privilegiados 27.
+In the case of protected recipients, criteria for the limits of the privilege must be defined. The data
+processing must remain within the limits of the legal privilege. This also applies to processing by (sub)
+processors and onward transfers, whose recipients must also be privileged 27.
 
 
 
 
 24
-   Recomendações 01/2020 relativas às medidas complementares aos instrumentos de transferência para
-assegurar o cumprimento do nível de proteção dos dados pessoais da UE, versão 2.0, anexo 2, «Caso de
-utilização 1: Armazenamento de dados para fins de cópia de segurança e outros fins que não exigem o acesso
-aos        dados     não       encriptados»,      ponto 85;      https://edpb.europa.eu/system/files/2022-
-04/edpb recommendations 202001vo.2.0 supplementarymeasurestransferstools pt.pdf.
+   Annex 2, Recommendations 01/2020 on measures that supplement transfer tools to ensure compliance with
+the EU level of protection of personal data Version 2.0 Use Case 1: Data storage for backup and other purposes
+that do not require access to data in the clear, p. 85 ; https://edpb.europa.eu/system/files/2021-
+06/edpb_recommendations_202001vo.2.0_supplementarymeasurestransferstools_en.pdf;
 25
-   Ver as recomendações anteriormente citadas, pontos 86-89.
+   See before, paragraph 86-89.
 26
-   Ver as recomendações anteriormente citadas, ponto 90.
+   See before, paragraph 90.
 27
-   Ver as recomendações anteriormente citadas, ponto 91.
+   See before, paragraph 91.
 
-                                                   19
-Adotadas
+                                                     18
+Adopted
 
-B. EXEMPLOS DE MEDIDAS COMPLEMENTARES NO CASO DE O TRÂNSITO NÃO SER
-ABRANGIDO PELA CERTIFICAÇÃO E O EXPORTADOR TER DE AS ASSEGURAR
-Caso de utilização 2: Transferência de dados pseudonimizados
+B. EXAMPLES OF SUPPLEMENTARY MEASURES IN CASE THE TRANSIT IS NOT COVERED
+BY THE CERTIFICATION AND THE EXPORTER HAS TO ENSURE THEM
+Use case 2: Transfer of pseudonymised Data
 
-Devem ser previstos critérios relativos às informações adicionais à disposição das autoridades de
-países terceiros que possam ser suficientes para atribuir os dados a uma pessoa identificada ou
-identificável.
+Criteria shall be provided relating to the additional information available to the third country
+authorities that might be sufficient to attribute the data to an identified or identifiable person.
 
-Caso de utilização 3: Encriptação de dados para protegê-los do acesso das autoridades públicas do país
-terceiro do importador durante o trânsito entre o exportador e o importador
+Use case 3: Encryption of data to protect it from access by the public authorities of the third country
+of the importer when it transits between the exporter and its importer
 
-Devem ser previstos critérios relativos à fiabilidade da autoridade ou infraestrutura de certificação de
-chave pública utilizada, à segurança das chaves criptográficas utilizadas para autenticação ou
-desencriptação e à fiabilidade da gestão das chaves, bem como à utilização de software devidamente
-mantido sem vulnerabilidades conhecidas.
+Criteria shall be provided relating to the trustworthiness of the public key certification authority or
+infrastructure used, the security of the cryptographic keys used for authentication or decryption and
+the reliability of key management, and the use of properly maintained software without known
+vulnerabilities.
 
-Se o importador puder ser forçado a divulgar as chaves criptográficas destinadas à desencriptação ou
-autenticação ou a modificar um componente utilizado para o trânsito de uma forma que comprometa
-as suas propriedades de segurança, a medida não pode ser considerada eficaz 28.
+If the importer can be forced to disclose cryptographic keys suitable for decryption or authentication
+or to modify a component used for transit in order to undermine its security properties, the measure
+cannot be considered effective 28.
 
-Caso de utilização 4: Destinatário protegido
+Use case 4: Protected recipient
 
-No caso dos destinatários protegidos, devem ser definidos critérios para os limites do privilégio. O
-tratamento de dados deve permanecer dentro dos limites do privilégio legal. O mesmo se aplica ao
-tratamento por subcontratantes ulteriores e transferências ulteriores, cujos destinatários também
-devem ser privilegiados 29.
+In the case of protected recipients, criteria for the limits of the privilege must be defined. The data
+processing must remain within the limits of the legal privilege. This also applies to processing by
+(sub)processors and onward transfers, whose recipients must also be privileged 29.
 
 
 
 
 28
-     Ver as recomendações anteriormente citadas, ponto 90.
+     See before Recommendations, paragraph 90.
 29
-     Ver as recomendações anteriormente citadas, ponto 91.
+     See before Recommendations, paragraph 91.
 
-                                                      20
-Adotadas
+                                                  19
+Adopted
 ```

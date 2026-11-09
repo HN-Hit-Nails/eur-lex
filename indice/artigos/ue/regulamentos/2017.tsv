@@ -844,106 +844,105 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32017R0391	Artigo 1.º		48	54	218	ue/regulamentos/2017/32017R0391.md
 32017R0391	Artigo 2.º		56	140	1645	ue/regulamentos/2017/32017R0391.md
 32017R0391	Artigo 3.º		142	164	308	ue/regulamentos/2017/32017R0391.md
-32017R0392	Preâmbulo		22	152	7493	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 1.º	Definições	158	174	390	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 2.º	Determinação das moedas mais relevantes	180	188	231	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 3.º	Modalidades práticas para a consulta das autoridades relevantes a que se refere o artigo 12.º, n.º 1, alíneas b) e c), do Regulamento (UE) n.º 909/2014	190	194	228	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 4.º	Identificação e estatuto jurídico das CSD requerentes	202	262	1178	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 5.º	Informações gerais sobre as políticas e os procedimentos	264	272	154	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 6.º	Informações sobre os serviços e atividades da CSD	274	280	84	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 7.º	Informação relativa aos grupos	282	298	350	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 8.º	Relatórios financeiros, plano de atividades e plano de recuperação	302	334	719	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 9.º	Organograma	338	352	158	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 10.º	Políticas e procedimentos em matéria de pessoal	354	360	178	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 11.º	Instrumentos de controlo dos riscos e mecanismos de governo	362	376	324	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 12.º	Funções de verificação da conformidade, controlo interno e auditoria interna	378	400	558	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 13.º	Quadros superiores, órgão de administração e acionistas	402	444	1093	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 14.º	Gestão de conflitos de interesses	446	462	423	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 15.º	Confidencialidade	464	476	230	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 16.º	Comité de utilizadores	478	490	127	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 17.º	Manutenção de registos	492	500	198	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 18.º	Metas e objetivos	504	506	49	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 19.º	Processamento de queixas	508	510	41	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 20.º	Requisitos relativos à participação	512	518	192	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 21.º	Transparência	520	526	245	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 22.º	Procedimentos de comunicação com os participantes e com outras infraestruturas de mercado	528	530	109	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 23.º	Registo sob forma escritural	534	536	62	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 24.º	Datas de liquidação previstas e medidas destinadas a prevenir e resolver a ocorrência de falhas de liquidação	538	548	316	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 25.º	Integridade da emissão	550	552	78	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 26.º	Proteção dos valores mobiliários dos participantes e dos seus clientes	554	562	225	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 27.º	Caráter definitivo da liquidação	564	566	66	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 28.º	Liquidação em numerário	568	574	203	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 29.º	Regras e procedimentos em caso de incumprimento de um participante	576	578	58	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 30.º	Transferência dos ativos dos participantes e dos clientes em caso de revogação da autorização	580	582	100	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 31.º	Riscos jurídicos	586	590	208	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 32.º	Riscos comerciais gerais	592	596	132	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 33.º	Riscos operacionais	598	606	152	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 34.º	Política de investimento	608	614	112	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 35.º	Requisitos de capital	616	622	145	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 36.º	Ligações entre CSD	626	638	290	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 37.º	Regras de acesso	642	652	201	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 38.º	Pedido de informações suplementares	656	658	76	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 39.º	Critérios aplicáveis às participações de uma CSD	664	690	528	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 40.º	Informações a prestar à autoridade competente	696	708	325	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 41.º	Informações periódicas relevantes para a análise	710	756	1074	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 42.º	Dados estatísticos a apresentar para cada análise e avaliação	758	860	1906	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 43.º	Outras informações	862	872	162	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 44.º	Informações a facultar às autoridades a que se refere o artigo 22.º, n.º 7, do Regulamento (UE) n.º 909/2014	874	882	237	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 45.º	Troca de informações entre as autoridades competentes a que se refere o artigo 22.º, n.º 8, do Regulamento (UE) n.º 909/2014	884	892	305	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 46.º	Conteúdo do pedido	898	912	189	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 47.º	Instrumentos de controlo dos riscos das CSD	918	946	525	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 48.º	Comités de acompanhamento do risco	948	962	269	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 49.º	Responsabilidades do pessoal que ocupa posições-chave em relação aos riscos	964	1018	1279	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 50.º	Conflitos de interesses	1020	1046	873	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 51.º	Métodos de auditoria	1048	1084	682	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 52.º	Partilha dos resultados da auditoria com o comité de utilizadores	1086	1096	200	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 53.º	Requisitos gerais	1102	1120	382	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 54.º	Registos de instruções de transação/liquidação (Fluxo)	1122	1212	978	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 55.º	Registos de posição (stock)	1214	1256	799	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 56.º	Registos dos serviços auxiliares	1258	1262	152	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 57.º	Registos relativos à atividade	1264	1306	742	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 58.º	Registos adicionais	1308	1310	56	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 59.º	Medidas de reconciliação gerais	1316	1328	528	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 60.º	Medidas de reconciliação para as operações societárias	1330	1334	138	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 61.º	Medidas de reconciliação para o modelo agente de registo	1336	1342	310	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 62.º	Medidas de reconciliação para o modelo agente de transferência	1344	1348	249	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 63.º	Medidas de reconciliação para o modelo depositário comum	1350	1356	279	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 64.º	Medidas adicionais caso estejam envolvidas outras entidades no processo de reconciliação	1358	1378	524	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 65.º	Problemas relacionados com a reconciliação	1380	1396	604	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 66.º	Riscos operacionais gerais e a respetiva avaliação	1404	1408	159	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 67.º	Riscos operacionais que os participantes-chave podem representar	1410	1432	464	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 68.º	Riscos operacionais que os prestadores de serviços de rede e de serviços críticos podem representar	1434	1446	462	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 69.º	Riscos operacionais que outras CSD ou infraestruturas de mercado podem representar	1448	1456	202	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 70.º	Sistema de gestão e enquadramento dos riscos operacionais	1460	1480	780	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 71.º	Integração e conformidade com o sistema de gestão de riscos operacionais e empresariais	1482	1496	445	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 72.º	Função de gestão do risco operacional	1498	1506	172	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 73.º	Auditoria e testes	1508	1518	282	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 74.º	Atenuação do risco operacional através de seguro	1520	1522	66	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 75.º	Ferramentas de tecnologias de informação	1526	1574	859	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 76.º	Estratégia e política	1578	1606	406	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 77.º	Análise de impacto nas atividades	1608	1630	413	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 78.º	Recuperação na sequência de catástrofes	1632	1666	865	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 79.º	Testes e acompanhamento	1668	1686	263	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 80.º	Manutenção	1688	1694	234	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 81.º	Instrumentos de elevada liquidez com riscos de mercado e de crédito mínimos	1700	1736	696	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 82.º	Prazo adequado para o acesso aos ativos	1738	1744	171	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 83.º	Limites de concentração para entidades individuais	1746	1756	205	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 84.º	Condições para a proteção adequada das CSD ligadas e dos respetivos participantes	1762	1814	1384	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 85.º	Controlo e gestão de riscos adicionais decorrentes da utilização de ligações indiretas ou intermediários para operar ligações entre CSD	1816	1878	1482	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 86.º	Procedimentos de reconciliação para CSD interligadas	1880	1904	676	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 87.º	Liquidação DVP através de ligações entre CSD	1906	1914	170	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 88.º	Partes requerente e parte requerida	1920	1940	598	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 89.º	Riscos a tomar em consideração pelas CSD e pelas autoridades competentes	1946	2010	1704	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 90.º	Procedimento	2016	2056	1394	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 91.º	CSD que oferecem elas próprias serviços bancários auxiliares	2062	2098	978	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 92.º	CSD que prestam serviços bancários auxiliares através de uma instituição de crédito designada	2100	2150	1329	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 93.º	Requisitos específicos	2152	2160	237	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 94.º	Formulários e modelos normalizados para o pedido	2162	2174	307	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 95.º	Disposições transitórias	2178	2184	174	ue/regulamentos/2017/32017R0392.md
-32017R0392	Artigo 96.º	Entrada em vigor e aplicação	2186	2218	662	ue/regulamentos/2017/32017R0392.md
-32017R0392	ANEXO I		2220	2262	1252	ue/regulamentos/2017/32017R0392.md
-32017R0392	ANEXO II		2264	2294	1824	ue/regulamentos/2017/32017R0392.md
-32017R0392	ANEXO III		2296	2385	3153	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 1.º	Definições	30	46	391	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 2.º	Determinação das moedas mais relevantes	52	60	231	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 3.º	Modalidades práticas para a consulta das autoridades relevantes a que se refere o artigo 12.º, n.º 1, alíneas b) e c), do Regulamento (UE) n.º 909/2014	62	66	228	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 4.º	Identificação e estatuto jurídico das CSD requerentes	74	134	1178	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 5.º	Informações gerais sobre as políticas e os procedimentos	136	144	154	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 6.º	Informações sobre os serviços e atividades da CSD	146	152	84	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 7.º	Informação relativa aos grupos	154	170	350	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 8.º	Relatórios financeiros, plano de atividades e plano de recuperação	174	206	720	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 9.º	Organograma	210	224	158	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 10.º	Políticas e procedimentos em matéria de pessoal	226	232	178	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 11.º	Instrumentos de controlo dos riscos e mecanismos de governo	234	248	324	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 12.º	Funções de verificação da conformidade, controlo interno e auditoria interna	250	272	558	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 13.º	Quadros superiores, órgão de administração e acionistas	274	316	1093	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 14.º	Gestão de conflitos de interesses	318	334	423	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 15.º	Confidencialidade	336	348	230	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 16.º	Comité de utilizadores	350	362	127	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 17.º	Manutenção de registos	364	372	198	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 18.º	Metas e objetivos	376	378	49	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 19.º	Processamento de queixas	380	382	41	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 20.º	Requisitos relativos à participação	384	390	192	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 21.º	Transparência	392	398	245	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 22.º	Procedimentos de comunicação com os participantes e com outras infraestruturas de mercado	400	402	109	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 23.º	Registo sob forma escritural	406	408	62	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 24.º	Datas de liquidação previstas e medidas destinadas a prevenir e resolver a ocorrência de falhas de liquidação	410	420	316	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 25.º	Integridade da emissão	422	424	78	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 26.º	Proteção dos valores mobiliários dos participantes e dos seus clientes	426	434	225	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 27.º	Caráter definitivo da liquidação	436	438	66	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 28.º	Liquidação em numerário	440	446	203	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 29.º	Regras e procedimentos em caso de incumprimento de um participante	448	450	58	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 30.º	Transferência dos ativos dos participantes e dos clientes em caso de revogação da autorização	452	454	100	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 31.º	Riscos jurídicos	458	462	208	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 32.º	Riscos comerciais gerais	464	468	132	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 33.º	Riscos operacionais	470	478	152	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 34.º	Política de investimento	480	486	112	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 35.º	Requisitos de capital	488	494	145	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 36.º	Ligações entre CSD	498	510	290	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 37.º	Regras de acesso	514	524	201	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 38.º	Pedido de informações suplementares	528	530	76	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 39.º	Critérios aplicáveis às participações de uma CSD	536	562	528	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 40.º	Informações a prestar à autoridade competente	568	612	974	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 41.º	Informações periódicas relevantes para cada análise e avaliação	614	712	2712	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 42.º	Dados estatísticos a apresentar para cada análise e avaliação	714	832	2037	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 43.º	Outras informações	834	846	163	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 44.º	Informações a facultar às autoridades a que se refere o artigo 22.º, n.º 7, do Regulamento (UE) n.º 909/2014	848	870	459	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 45.º	Troca de informações entre as autoridades competentes a que se refere o artigo 22.º, n.º 8, do Regulamento (UE) n.º 909/2014	872	884	321	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 46.º	Conteúdo do pedido	890	904	189	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 47.º	Instrumentos de controlo dos riscos das CSD	910	938	525	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 48.º	Comités de acompanhamento do risco	940	954	269	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 49.º	Responsabilidades do pessoal que ocupa posições-chave em relação aos riscos	956	1010	1279	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 50.º	Conflitos de interesses	1012	1038	873	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 51.º	Métodos de auditoria	1040	1076	682	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 52.º	Partilha dos resultados da auditoria com o comité de utilizadores	1078	1088	200	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 53.º	Requisitos gerais	1094	1112	382	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 54.º	Registos de instruções de transação/liquidação (Fluxo)	1114	1204	978	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 55.º	Registos de posição (stock)	1206	1248	799	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 56.º	Registos dos serviços auxiliares	1250	1254	152	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 57.º	Registos relativos à atividade	1256	1298	742	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 58.º	Registos adicionais	1300	1302	56	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 59.º	Medidas de reconciliação gerais	1308	1320	528	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 60.º	Medidas de reconciliação para as operações societárias	1322	1326	138	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 61.º	Medidas de reconciliação para o modelo agente de registo	1328	1334	310	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 62.º	Medidas de reconciliação para o modelo agente de transferência	1336	1340	249	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 63.º	Medidas de reconciliação para o modelo depositário comum	1342	1348	279	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 64.º	Medidas adicionais caso estejam envolvidas outras entidades no processo de reconciliação	1350	1370	524	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 65.º	Problemas relacionados com a reconciliação	1372	1388	604	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 66.º	Riscos operacionais gerais e a respetiva avaliação	1396	1400	159	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 67.º	Riscos operacionais que os participantes-chave podem representar	1402	1424	464	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 68.º	Riscos operacionais que os prestadores de serviços de rede e de serviços críticos podem representar	1426	1438	462	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 69.º	Riscos operacionais que outras CSD ou infraestruturas de mercado podem representar	1440	1448	202	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 70.º	Sistema de gestão e enquadramento dos riscos operacionais	1452	1472	780	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 71.º	Integração e conformidade com o sistema de gestão de riscos operacionais e empresariais	1474	1488	445	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 72.º	Função de gestão do risco operacional	1490	1498	172	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 73.º	Auditoria e testes	1500	1510	282	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 74.º	Atenuação do risco operacional através de seguro	1512	1514	66	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 75.º	Ferramentas de tecnologias de informação	1518	1566	859	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 76.º	Estratégia e política	1570	1598	406	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 77.º	Análise de impacto nas atividades	1600	1622	413	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 78.º	Recuperação na sequência de catástrofes	1624	1658	865	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 79.º	Testes e acompanhamento	1660	1678	263	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 80.º	Manutenção	1680	1686	234	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 81.º	Instrumentos de elevada liquidez com riscos de mercado e de crédito mínimos	1692	1728	698	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 82.º	Prazo adequado para o acesso aos ativos	1730	1736	171	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 83.º	Limites de concentração para entidades individuais	1738	1748	205	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 84.º	Condições para a proteção adequada das CSD ligadas e dos respetivos participantes	1754	1806	1384	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 85.º	Controlo e gestão de riscos adicionais decorrentes da utilização de ligações indiretas ou intermediários para operar ligações entre CSD	1808	1870	1482	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 86.º	Procedimentos de reconciliação para CSD interligadas	1872	1896	676	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 87.º	Liquidação DVP através de ligações entre CSD	1898	1906	170	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 88.º	Partes requerente e parte requerida	1912	1932	598	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 89.º	Riscos a tomar em consideração pelas CSD e pelas autoridades competentes	1938	2002	1704	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 90.º	Procedimento	2008	2048	1394	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 91.º	CSD que oferecem elas próprias serviços bancários auxiliares	2054	2090	978	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 92.º	CSD que prestam serviços bancários auxiliares através de uma instituição de crédito designada	2092	2142	1329	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 93.º	Requisitos específicos	2144	2152	237	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 94.º	Formulários e modelos normalizados para o pedido	2154	2166	307	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 95.º	Disposições transitórias	2170	2176	174	ue/regulamentos/2017/32017R0392.md
+32017R0392	Artigo 96.º	Entrada em vigor e aplicação	2178	2184	132	ue/regulamentos/2017/32017R0392.md
+32017R0392	ANEXO I		2186	2228	1252	ue/regulamentos/2017/32017R0392.md
+32017R0392	ANEXO II		2230	2257	1822	ue/regulamentos/2017/32017R0392.md
+32017R0392	ANEXO III		2259	2354	3568	ue/regulamentos/2017/32017R0392.md
 32017R0393	Preâmbulo		18	40	639	ue/regulamentos/2017/32017R0393.md
 32017R0393	Artigo 1.º		44	56	438	ue/regulamentos/2017/32017R0393.md
 32017R0393	Artigo 2.º		58	74	164	ue/regulamentos/2017/32017R0393.md
@@ -1564,32 +1563,32 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32017R0586	Artigo 3.º	Informações a trocar relativamente a instituições de crédito	142	150	185	ue/regulamentos/2017/32017R0586.md
 32017R0586	Artigo 4.º	Informações a trocar relativamente às pessoas referidas no artigo 1.º, alínea c)	152	164	543	ue/regulamentos/2017/32017R0586.md
 32017R0586	Artigo 5.º	Entrada em vigor e aplicação	166	190	403	ue/regulamentos/2017/32017R0586.md
-32017R0587	Artigo 1.º	Definições	32	42	121	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 2.º		44	70	350	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 3.º		76	92	216	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 4.º		94	124	730	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 5.º		126	146	234	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 6.º		148	174	444	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 7.º		176	226	1024	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 8.º		228	256	460	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 9.º		260	280	276	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 10.º		282	298	394	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 11.º		300	338	908	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 11.º-A		340	346	145	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 11.º-B		348	356	96	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 12.º		360	386	512	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 13.º		388	408	273	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 14.º		410	428	547	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 15.º		430	460	666	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 16.º	Referências ao dia de negociação e ao horário normal de negociação	462	470	212	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 17.º		474	508	863	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 18.º		510	518	131	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 19.º	Cláusula de caducidade	520	524	59	ue/regulamentos/2017/32017R0587.md
-32017R0587	Artigo 20.º	Entrada em vigor e aplicação	526	534	114	ue/regulamentos/2017/32017R0587.md
-32017R0587	ANEXO I		536	653	6927	ue/regulamentos/2017/32017R0587.md
-32017R0587	ANEXO II		655	753	1186	ue/regulamentos/2017/32017R0587.md
-32017R0587	ANEXO III		755	780	500	ue/regulamentos/2017/32017R0587.md
-32017R0587	ANEXO IV		782	825	1990	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 1.º	Definições	35	45	121	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 2.º		47	73	350	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 3.º		79	95	216	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 4.º		97	127	730	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 5.º		129	149	234	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 6.º		151	177	444	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 7.º		179	229	1024	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 8.º		231	259	460	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 9.º		263	283	276	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 10.º		285	301	394	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 11.º		303	341	908	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 11.º-A		343	349	145	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 11.º-B		351	359	96	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 12.º		363	389	512	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 13.º		391	411	273	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 14.º		413	431	547	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 15.º		433	463	666	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 16.º	Referências ao dia de negociação e ao horário normal de negociação	465	473	212	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 17.º		477	511	863	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 18.º		513	521	131	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 19.º	Cláusula de caducidade	523	527	59	ue/regulamentos/2017/32017R0587.md
+32017R0587	Artigo 20.º	Entrada em vigor e aplicação	529	537	114	ue/regulamentos/2017/32017R0587.md
+32017R0587	ANEXO I		539	656	6927	ue/regulamentos/2017/32017R0587.md
+32017R0587	ANEXO II		658	756	1186	ue/regulamentos/2017/32017R0587.md
+32017R0587	ANEXO III		758	783	500	ue/regulamentos/2017/32017R0587.md
+32017R0587	ANEXO IV		785	828	1990	ue/regulamentos/2017/32017R0587.md
 32017R0588	Artigo 1.º	Mercado mais relevante em termos de liquidez	37	39	106	ue/regulamentos/2017/32017R0588.md
 32017R0588	Artigo 2.º		41	61	432	ue/regulamentos/2017/32017R0588.md
 32017R0588	Artigo 3.º		63	111	1444	ue/regulamentos/2017/32017R0588.md
@@ -2238,147 +2237,147 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32017R0736	Preâmbulo		18	38	632	ue/regulamentos/2017/32017R0736.md
 32017R0736	Artigo 1.º		42	47	73	ue/regulamentos/2017/32017R0736.md
 32017R0736	Artigo 2.º		49	63	96	ue/regulamentos/2017/32017R0736.md
-32017R0745	Artigo 1.º	Objeto e âmbito de aplicação	42	104	2426	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 2.º	Definições	106	322	5122	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 3.º	Alteração de determinadas definições	324	326	102	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 4.º	Estatuto regulamentar dos produtos	328	336	463	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 5.º	Colocação no mercado e entrada em serviço	340	378	944	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 6.º	Vendas à distância	380	388	349	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 7.º	Reivindicações	390	400	231	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 8.º	Utilização de normas harmonizadas	402	410	360	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 9.º	Especificações comuns	412	420	368	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 10.º	Obrigações gerais dos fabricantes	422	506	2471	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 10.º-A	Obrigações em caso de interrupção ou descontinuação do fornecimento de determinados dispositivos	508	518	416	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 11.º	Mandatário	520	552	917	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 12.º	Alteração de mandatário	554	564	250	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 13.º	Obrigações gerais dos importadores	566	596	1076	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 14.º	Obrigações gerais dos distribuidores	598	624	1005	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 15.º	Pessoa responsável pela observância da regulamentação	626	658	917	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 16.º	Situações em que as obrigações dos fabricantes se aplicam aos importadores, aos distribuidores ou a outras pessoas	660	682	1126	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 17.º	Dispositivos de uso único e respetivo reprocessamento	684	732	1366	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 18.º	Cartão de implante e informações a fornecer aos doentes com um dispositivo implantado	734	752	586	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 19.º	Declaração UE de conformidade	754	762	354	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 20.º	Marcação CE de conformidade	764	776	356	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 21.º	Dispositivos para fins específicos	778	792	366	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 22.º	Sistemas e conjuntos para intervenções	794	816	920	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 23.º	Partes e componentes	818	822	233	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 24.º	Livre circulação	824	826	76	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 25.º	Identificação no circuito de comercialização	830	840	165	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 26.º	Nomenclatura dos dispositivos médicos	842	844	154	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 27.º	Sistema de identificação única dos dispositivos	846	932	1671	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 28.º	Base de dados UDI	934	942	254	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 29.º	Registo dos dispositivos	944	954	552	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 30.º	Sistema eletrónico de registo de operadores económicos	956	964	309	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 31.º	Registo dos fabricantes, mandatários e importadores	966	982	568	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 32.º	Resumo da segurança e do desempenho clínico	984	1010	558	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 33.º	Base de dados europeia sobre dispositivos médicos	1012	1056	1187	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 34.º	Funcionalidade da Eudamed	1058	1068	178	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 35.º	Autoridades responsáveis pelos organismos notificados	1072	1090	639	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 36.º	Requisitos aplicáveis aos organismos notificados	1092	1102	434	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 37.º	Filiais e subcontratação	1104	1114	289	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 38.º	Requerimento de designação apresentado por organismos de avaliação da conformidade	1116	1124	347	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 39.º	Avaliação do requerimento	1126	1170	1518	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 40.º	Nomeação de peritos para a avaliação conjunta de requerimentos de notificação	1172	1176	167	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 41.º	Requisitos linguísticos	1178	1184	167	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 42.º	Procedimento de designação e notificação	1186	1212	1100	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 43.º	Número de identificação e lista dos organismos notificados	1214	1218	261	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 44.º	Monitorização e reavaliação dos organismos notificados	1220	1258	1798	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 45.º	Avaliação da avaliação, pelo organismo notificado, da documentação técnica e da documentação da avaliação clínica	1260	1272	742	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 46.º	Alterações às designações e notificações	1274	1320	1738	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 47.º	Contestação da competência dos organismos notificados	1322	1334	674	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 48.º	Revisão pelos pares e troca de experiências entre as autoridades responsáveis pelos organismos notificados	1336	1360	594	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 49.º	Coordenação dos organismos notificados	1362	1368	153	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 50.º	Listas das taxas padrão	1370	1372	50	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 51.º	Classificação dos dispositivos	1378	1396	606	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 52.º	Procedimentos de avaliação da conformidade	1400	1458	2139	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 53.º	Intervenção de organismos notificados nos procedimentos de avaliação da conformidade	1460	1470	486	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 54.º	Procedimento relativo à consulta sobre a avaliação clínica para determinados dispositivos das classes III e IIb	1472	1492	690	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 55.º	Mecanismo de escrutínio das avaliações da conformidade de determinados dispositivos das classes III e IIb	1494	1500	358	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 56.º	Certificados de conformidade	1502	1514	534	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 57.º	Sistema eletrónico relativo aos organismos notificados e aos certificados de conformidade	1516	1538	328	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 58.º	Mudança voluntária de organismo notificado	1540	1554	327	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 59.º	Derrogação dos procedimentos de avaliação da conformidade	1556	1574	574	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 60.º	Certificados de venda livre	1576	1580	302	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 61.º	Avaliação clínica	1584	1660	2624	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 62.º	Requisitos gerais respeitantes às investigações clínicas realizadas para demonstrar a conformidade dos dispositivos	1662	1712	1840	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 63.º	Consentimento esclarecido	1714	1746	1019	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 64.º	Investigações clínicas com participantes incapazes	1748	1766	466	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 65.º	Investigações clínicas com menores	1768	1788	546	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 66.º	Investigações clínicas com grávidas ou lactantes	1790	1798	216	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 67.º	Medidas nacionais complementares	1800	1802	98	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 68.º	Investigações clínicas em situações de emergência	1804	1828	957	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 69.º	Compensação por danos	1830	1834	131	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 70.º	Pedidos relativos a investigações clínicas	1836	1864	1238	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 71.º	Avaliação pelos Estados-Membros	1866	1898	869	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 72.º	Realização de investigações clínicas	1900	1916	526	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 73.º	Sistema eletrónico relativo a investigações clínicas	1918	1944	658	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 74.º	Investigações clínicas relativas a dispositivos que ostentam a marcação CE	1946	1950	307	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 75.º	Alterações substanciais das investigações clínicas	1952	1964	438	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 76.º	Medidas corretivas a tomar pelos Estados-Membros e intercâmbio de informações entre Estados-Membros	1966	1980	364	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 77.º	Informação da parte do promotor no fim de uma investigação clínica ou em caso de interrupção temporária ou conclusão antecipada da mesma	1982	2004	960	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 78.º	Procedimento de avaliação coordenada para as investigações clínicas	2006	2066	2167	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 79.º	Revisão do procedimento de avaliação coordenada	2068	2070	80	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 80.º	Registo e notificação de acontecimentos adversos ocorridos durante as investigações clínicas	2072	2106	965	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 81.º	Atos de execução	2108	2126	368	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 82.º	Requisitos aplicáveis a outras investigações clínicas	2128	2132	167	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 83.º	Sistema de monitorização pós-comercialização do fabricante	2138	2164	537	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 84.º	Plano de monitorização pós-comercialização	2166	2168	114	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 85.º	Relatório de monitorização pós-comercialização	2170	2172	140	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 86.º	Relatório periódico de segurança	2174	2192	616	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 87.º	Comunicação de incidentes graves e de ações corretivas de segurança	2196	2230	1362	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 88.º	Relatórios de tendências	2232	2238	428	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 89.º	Análise de incidentes graves e de ações corretivas de segurança	2240	2286	1983	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 90.º	Análise dos dados de vigilância	2288	2292	182	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 91.º	Atos de execução	2294	2310	458	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 92.º	Sistema eletrónico relativo à vigilância e à monitorização pós-comercialização	2312	2352	916	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 93.º	Atividades de fiscalização do mercado	2356	2384	996	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 94.º	Avaliação de dispositivos suspeitos de constituírem um risco inaceitável ou de outra não conformidade	2386	2396	223	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 95.º	Procedimento aplicável aos dispositivos que constituem um risco inaceitável para a saúde e a segurança	2398	2418	926	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 96.º	Procedimento de avaliação das medidas nacionais a nível da União	2420	2428	472	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 97.º	Outras não conformidades	2430	2436	370	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 98.º	Medidas preventivas de proteção da saúde	2438	2446	540	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 99.º	Boas práticas administrativas	2448	2458	429	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 100.º	Sistema eletrónico relativo à fiscalização do mercado	2460	2478	355	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 101.º	Autoridades competentes	2482	2484	122	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 102.º	Cooperação	2486	2490	122	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 103.º	Grupo de Coordenação dos Dispositivos Médicos	2492	2522	748	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 104.º	Apoio a prestar pela Comissão	2524	2526	105	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 105.º	Atribuições do MDCG	2528	2546	600	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 106.º	Aconselhamento e pareceres científicos, técnicos e clínicos	2548	2638	2398	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 107.º	Conflito de interesses	2640	2644	222	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 108.º	Registos de dispositivos e bancos de dados	2646	2648	132	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 109.º	Confidencialidade	2652	2666	385	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 110.º	Proteção de dados	2668	2672	78	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 111.º	Cobrança de taxas	2674	2678	120	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 112.º	Financiamento das atividades relacionadas com a designação e a monitorização dos organismos notificados	2680	2682	116	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 113.º	Sanções	2684	2686	114	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 114.º	Procedimento de comité	2690	2700	184	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 115.º	Exercício da delegação	2702	2714	660	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 116.º	Atos delegados distintos para diferentes poderes delegados	2716	2718	48	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 117.º	Alteração da Diretiva 2001/83/CE	2720	2726	370	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 118.º	Alteração do Regulamento (CE) n.º 178/2002	2728	2732	67	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 119.º	Alteração do Regulamento (CE) n.º 1223/2009	2734	2740	122	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 120.º	Disposições transitórias	2742	2834	2569	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 121.º	Avaliação	2836	2838	125	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 122.º	Revogação	2840	2864	688	ue/regulamentos/2017/32017R0745.md
-32017R0745	Artigo 123.º	Entrada em vigor e data de aplicação	2866	2986	1670	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO I		3024	3568	14036	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO II		3570	3700	3008	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO III		3702	3762	835	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO IV		3764	3788	468	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO V		3790	3800	122	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO VI		3802	4170	6054	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO VII		4172	4866	16667	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO VIII		4868	5136	4984	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO IX		5138	5382	9961	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO X		5384	5448	1894	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO XI		5450	5592	3571	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO XII		5594	5654	1009	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO XIII		5656	5686	697	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO XIV		5688	5782	2310	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO XV		5784	6004	5698	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO XVI		6006	6020	378	ue/regulamentos/2017/32017R0745.md
-32017R0745	ANEXO XVII		6022	6121	2104	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 1.º	Objeto e âmbito de aplicação	41	103	2426	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 2.º	Definições	105	321	5122	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 3.º	Alteração de determinadas definições	323	325	102	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 4.º	Estatuto regulamentar dos produtos	327	335	463	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 5.º	Colocação no mercado e entrada em serviço	339	377	944	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 6.º	Vendas à distância	379	387	349	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 7.º	Reivindicações	389	399	231	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 8.º	Utilização de normas harmonizadas	401	409	360	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 9.º	Especificações comuns	411	419	368	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 10.º	Obrigações gerais dos fabricantes	421	505	2471	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 10.º-A	Obrigações em caso de interrupção ou descontinuação do fornecimento de determinados dispositivos	507	517	416	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 11.º	Mandatário	519	551	917	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 12.º	Alteração de mandatário	553	563	250	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 13.º	Obrigações gerais dos importadores	565	595	1076	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 14.º	Obrigações gerais dos distribuidores	597	623	1005	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 15.º	Pessoa responsável pela observância da regulamentação	625	657	917	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 16.º	Situações em que as obrigações dos fabricantes se aplicam aos importadores, aos distribuidores ou a outras pessoas	659	681	1126	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 17.º	Dispositivos de uso único e respetivo reprocessamento	683	731	1366	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 18.º	Cartão de implante e informações a fornecer aos doentes com um dispositivo implantado	733	751	586	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 19.º	Declaração UE de conformidade	753	761	354	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 20.º	Marcação CE de conformidade	763	775	356	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 21.º	Dispositivos para fins específicos	777	791	366	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 22.º	Sistemas e conjuntos para intervenções	793	815	920	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 23.º	Partes e componentes	817	821	233	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 24.º	Livre circulação	823	825	76	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 25.º	Identificação no circuito de comercialização	829	839	165	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 26.º	Nomenclatura dos dispositivos médicos	841	843	154	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 27.º	Sistema de identificação única dos dispositivos	845	931	1671	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 28.º	Base de dados UDI	933	941	254	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 29.º	Registo dos dispositivos	943	953	552	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 30.º	Sistema eletrónico de registo de operadores económicos	955	963	309	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 31.º	Registo dos fabricantes, mandatários e importadores	965	981	568	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 32.º	Resumo da segurança e do desempenho clínico	983	1009	558	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 33.º	Base de dados europeia sobre dispositivos médicos	1011	1055	1187	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 34.º	Funcionalidade da Eudamed	1057	1067	178	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 35.º	Autoridades responsáveis pelos organismos notificados	1071	1089	639	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 36.º	Requisitos aplicáveis aos organismos notificados	1091	1101	434	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 37.º	Filiais e subcontratação	1103	1113	289	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 38.º	Requerimento de designação apresentado por organismos de avaliação da conformidade	1115	1123	347	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 39.º	Avaliação do requerimento	1125	1169	1518	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 40.º	Nomeação de peritos para a avaliação conjunta de requerimentos de notificação	1171	1175	167	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 41.º	Requisitos linguísticos	1177	1183	167	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 42.º	Procedimento de designação e notificação	1185	1211	1100	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 43.º	Número de identificação e lista dos organismos notificados	1213	1217	261	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 44.º	Monitorização e reavaliação dos organismos notificados	1219	1257	1798	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 45.º	Avaliação da avaliação, pelo organismo notificado, da documentação técnica e da documentação da avaliação clínica	1259	1271	742	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 46.º	Alterações às designações e notificações	1273	1319	1738	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 47.º	Contestação da competência dos organismos notificados	1321	1333	674	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 48.º	Revisão pelos pares e troca de experiências entre as autoridades responsáveis pelos organismos notificados	1335	1359	594	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 49.º	Coordenação dos organismos notificados	1361	1367	153	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 50.º	Listas das taxas padrão	1369	1371	50	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 51.º	Classificação dos dispositivos	1377	1395	606	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 52.º	Procedimentos de avaliação da conformidade	1399	1457	2139	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 53.º	Intervenção de organismos notificados nos procedimentos de avaliação da conformidade	1459	1469	486	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 54.º	Procedimento relativo à consulta sobre a avaliação clínica para determinados dispositivos das classes III e IIb	1471	1491	690	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 55.º	Mecanismo de escrutínio das avaliações da conformidade de determinados dispositivos das classes III e IIb	1493	1499	358	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 56.º	Certificados de conformidade	1501	1513	534	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 57.º	Sistema eletrónico relativo aos organismos notificados e aos certificados de conformidade	1515	1537	328	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 58.º	Mudança voluntária de organismo notificado	1539	1553	327	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 59.º	Derrogação dos procedimentos de avaliação da conformidade	1555	1573	574	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 60.º	Certificados de venda livre	1575	1579	302	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 61.º	Avaliação clínica	1583	1659	2624	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 62.º	Requisitos gerais respeitantes às investigações clínicas realizadas para demonstrar a conformidade dos dispositivos	1661	1711	1840	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 63.º	Consentimento esclarecido	1713	1745	1019	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 64.º	Investigações clínicas com participantes incapazes	1747	1765	466	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 65.º	Investigações clínicas com menores	1767	1787	546	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 66.º	Investigações clínicas com grávidas ou lactantes	1789	1797	216	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 67.º	Medidas nacionais complementares	1799	1801	98	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 68.º	Investigações clínicas em situações de emergência	1803	1827	957	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 69.º	Compensação por danos	1829	1833	131	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 70.º	Pedidos relativos a investigações clínicas	1835	1863	1238	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 71.º	Avaliação pelos Estados-Membros	1865	1897	869	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 72.º	Realização de investigações clínicas	1899	1915	526	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 73.º	Sistema eletrónico relativo a investigações clínicas	1917	1943	658	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 74.º	Investigações clínicas relativas a dispositivos que ostentam a marcação CE	1945	1949	307	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 75.º	Alterações substanciais das investigações clínicas	1951	1963	438	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 76.º	Medidas corretivas a tomar pelos Estados-Membros e intercâmbio de informações entre Estados-Membros	1965	1979	364	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 77.º	Informação da parte do promotor no fim de uma investigação clínica ou em caso de interrupção temporária ou conclusão antecipada da mesma	1981	2003	960	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 78.º	Procedimento de avaliação coordenada para as investigações clínicas	2005	2065	2167	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 79.º	Revisão do procedimento de avaliação coordenada	2067	2069	80	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 80.º	Registo e notificação de acontecimentos adversos ocorridos durante as investigações clínicas	2071	2105	965	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 81.º	Atos de execução	2107	2125	368	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 82.º	Requisitos aplicáveis a outras investigações clínicas	2127	2131	167	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 83.º	Sistema de monitorização pós-comercialização do fabricante	2137	2163	537	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 84.º	Plano de monitorização pós-comercialização	2165	2167	114	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 85.º	Relatório de monitorização pós-comercialização	2169	2171	140	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 86.º	Relatório periódico de segurança	2173	2191	616	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 87.º	Comunicação de incidentes graves e de ações corretivas de segurança	2195	2229	1362	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 88.º	Relatórios de tendências	2231	2237	428	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 89.º	Análise de incidentes graves e de ações corretivas de segurança	2239	2285	1983	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 90.º	Análise dos dados de vigilância	2287	2291	182	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 91.º	Atos de execução	2293	2309	458	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 92.º	Sistema eletrónico relativo à vigilância e à monitorização pós-comercialização	2311	2351	916	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 93.º	Atividades de fiscalização do mercado	2355	2383	996	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 94.º	Avaliação de dispositivos suspeitos de constituírem um risco inaceitável ou de outra não conformidade	2385	2395	223	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 95.º	Procedimento aplicável aos dispositivos que constituem um risco inaceitável para a saúde e a segurança	2397	2417	926	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 96.º	Procedimento de avaliação das medidas nacionais a nível da União	2419	2427	472	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 97.º	Outras não conformidades	2429	2435	370	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 98.º	Medidas preventivas de proteção da saúde	2437	2445	540	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 99.º	Boas práticas administrativas	2447	2457	429	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 100.º	Sistema eletrónico relativo à fiscalização do mercado	2459	2477	355	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 101.º	Autoridades competentes	2481	2483	122	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 102.º	Cooperação	2485	2489	122	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 103.º	Grupo de Coordenação dos Dispositivos Médicos	2491	2521	748	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 104.º	Apoio a prestar pela Comissão	2523	2525	105	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 105.º	Atribuições do MDCG	2527	2545	600	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 106.º	Aconselhamento e pareceres científicos, técnicos e clínicos	2547	2637	2398	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 107.º	Conflito de interesses	2639	2643	222	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 108.º	Registos de dispositivos e bancos de dados	2645	2647	132	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 109.º	Confidencialidade	2651	2665	385	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 110.º	Proteção de dados	2667	2671	78	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 111.º	Cobrança de taxas	2673	2677	120	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 112.º	Financiamento das atividades relacionadas com a designação e a monitorização dos organismos notificados	2679	2681	116	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 113.º	Sanções	2683	2685	114	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 114.º	Procedimento de comité	2689	2699	184	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 115.º	Exercício da delegação	2701	2713	660	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 116.º	Atos delegados distintos para diferentes poderes delegados	2715	2717	48	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 117.º	Alteração da Diretiva 2001/83/CE	2719	2725	370	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 118.º	Alteração do Regulamento (CE) n.º 178/2002	2727	2731	67	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 119.º	Alteração do Regulamento (CE) n.º 1223/2009	2733	2739	122	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 120.º	Disposições transitórias	2741	2833	2569	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 121.º	Avaliação	2835	2837	125	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 122.º	Revogação	2839	2863	688	ue/regulamentos/2017/32017R0745.md
+32017R0745	Artigo 123.º	Entrada em vigor e data de aplicação	2865	2985	1670	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO I		3023	3567	14036	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO II		3569	3699	3008	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO III		3701	3761	835	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO IV		3763	3787	468	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO V		3789	3799	122	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO VI		3801	4189	6312	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO VII		4191	4885	16667	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO VIII		4887	5155	4984	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO IX		5157	5401	9961	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO X		5403	5467	1894	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO XI		5469	5611	3571	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO XII		5613	5673	1009	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO XIII		5675	5705	697	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO XIV		5707	5801	2310	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO XV		5803	6023	5698	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO XVI		6025	6039	378	ue/regulamentos/2017/32017R0745.md
+32017R0745	ANEXO XVII		6041	6140	2104	ue/regulamentos/2017/32017R0745.md
 32017R0746	Artigo 1.º	Objeto e âmbito de aplicação	37	65	850	ue/regulamentos/2017/32017R0746.md
 32017R0746	Artigo 2.º	Definições	67	273	4911	ue/regulamentos/2017/32017R0746.md
 32017R0746	Artigo 3.º	Estatuto regulamentar dos produtos	277	285	468	ue/regulamentos/2017/32017R0746.md
@@ -4627,115 +4626,115 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32017R1506	Artigo 3.º	Entrada em vigor e data de aplicação	36	44	136	ue/regulamentos/2017/32017R1506.md
 32017R1506	ANEXO I		46	53	296	ue/regulamentos/2017/32017R1506.md
 32017R1506	ANEXO II		55	66	444	ue/regulamentos/2017/32017R1506.md
-32017R1509	Artigo 1.º		63	75	140	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 2.º		77	203	2760	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 3.º		207	261	1032	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 4.º		263	273	384	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 5.º		275	283	174	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 6.º		285	295	439	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 7.º		297	309	558	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 8.º		311	319	314	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 9.º		321	325	254	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 10.º		327	339	265	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 11.º		341	349	346	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 12.º		351	353	56	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 13.º		355	357	42	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 14.º		359	361	72	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 15.º		363	365	38	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º		367	371	76	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-A		373	379	94	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-B		381	385	56	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-C		387	391	45	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-D		393	395	49	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-E		397	409	360	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-F		411	415	46	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-G		417	431	161	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-H		433	435	44	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-I		437	449	230	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-J		451	453	48	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-K		455	457	48	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-L		459	461	52	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-M		463	465	42	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-N		467	469	42	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-O		471	479	176	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-P		481	483	66	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 16.º-Q		485	491	103	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 17.º		495	529	557	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 17.º-A		531	539	270	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 17.º-B		541	545	79	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 18.º		547	557	306	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 19.º		559	563	220	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 20.º		565	579	308	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 21.º		583	623	645	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 22.º		625	645	546	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 23.º		647	669	608	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 24.º		671	681	150	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 25.º		683	687	94	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 26.º		689	701	185	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 27.º		703	707	217	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 28.º		709	713	102	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 29.º		715	735	505	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 30.º		737	749	328	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 31.º		751	769	292	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 32.º		771	773	71	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 33.º		775	779	102	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 34.º		783	851	1636	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 35.º		853	871	641	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 36.º		873	895	610	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 37.º		897	901	132	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 38.º		905	929	618	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 39.º		931	959	272	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 40.º		961	977	353	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 41.º		979	987	82	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 42.º		989	993	91	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 43.º		995	1011	472	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 44.º		1013	1027	546	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 44.º-A		1029	1033	59	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 45.º		1039	1049	199	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 45.º-A		1051	1057	174	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 46.º		1059	1075	348	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 47.º		1077	1093	333	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 47.º-A		1095	1103	246	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 48.º		1105	1107	96	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 49.º		1109	1113	104	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 50.º		1115	1125	241	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 51.º		1127	1129	54	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 52.º		1131	1133	46	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 53.º		1135	1153	415	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 54.º		1155	1159	185	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 55.º		1161	1165	115	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 56.º		1167	1169	40	ue/regulamentos/2017/32017R1509.md
-32017R1509	Artigo 57.º		1171	1175	62	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO I		1177	1301	615	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO II		1303	1968	60674	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO III		1970	1983	184	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO IV		1985	1999	228	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO V		2001	2039	776	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO VI		2041	2071	643	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO VII		2073	2117	566	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO VIII		2119	2573	8522	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO IX		2575	2591	353	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO X		2593	2621	474	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI		2623	2647	317	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-A		2649	2666	330	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-B		2668	2690	459	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-C		2692	2703	161	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-D		2705	2738	921	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-E		2740	2750	163	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-F		2752	2777	399	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-G		2779	2791	202	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-H		2793	2804	216	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-I		2806	2816	158	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-J		2818	2828	144	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-K		2830	2840	144	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XI-L		2842	2878	486	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XII		2880	2923	1667	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XIII		2925	3198	17334	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XIV		3200	3272	2642	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XV		3274	3402	11094	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XVI		3404	3485	8862	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XVII		3487	3491	26	ue/regulamentos/2017/32017R1509.md
-32017R1509	ANEXO XVIII	Navios a que se refere o artigo 43.º, n.º 1, alíneas d), e) e f)	3493	3521	932	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 1.º		64	76	140	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 2.º		78	204	2760	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 3.º		208	262	1032	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 4.º		264	274	384	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 5.º		276	284	174	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 6.º		286	296	439	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 7.º		298	310	558	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 8.º		312	320	314	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 9.º		322	326	254	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 10.º		328	340	265	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 11.º		342	350	346	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 12.º		352	354	56	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 13.º		356	358	42	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 14.º		360	362	72	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 15.º		364	366	38	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º		368	372	76	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-A		374	380	94	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-B		382	386	56	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-C		388	392	45	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-D		394	396	49	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-E		398	410	360	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-F		412	416	46	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-G		418	432	161	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-H		434	436	44	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-I		438	450	230	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-J		452	454	48	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-K		456	458	48	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-L		460	462	52	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-M		464	466	42	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-N		468	470	42	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-O		472	480	176	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-P		482	484	66	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 16.º-Q		486	492	103	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 17.º		496	530	557	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 17.º-A		532	540	270	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 17.º-B		542	546	79	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 18.º		548	558	306	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 19.º		560	564	220	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 20.º		566	580	308	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 21.º		584	624	645	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 22.º		626	646	546	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 23.º		648	670	608	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 24.º		672	682	150	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 25.º		684	688	94	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 26.º		690	702	185	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 27.º		704	708	217	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 28.º		710	714	102	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 29.º		716	736	505	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 30.º		738	750	328	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 31.º		752	770	292	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 32.º		772	774	71	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 33.º		776	780	102	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 34.º		784	852	1636	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 35.º		854	872	641	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 36.º		874	896	610	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 37.º		898	902	132	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 38.º		906	930	618	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 39.º		932	960	272	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 40.º		962	978	353	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 41.º		980	988	82	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 42.º		990	994	91	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 43.º		996	1012	472	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 44.º		1014	1028	546	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 44.º-A		1030	1034	59	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 45.º		1040	1050	199	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 45.º-A		1052	1058	174	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 46.º		1060	1076	348	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 47.º		1078	1094	333	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 47.º-A		1096	1104	246	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 48.º		1106	1108	96	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 49.º		1110	1114	104	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 50.º		1116	1126	241	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 51.º		1128	1130	54	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 52.º		1132	1134	46	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 53.º		1136	1154	415	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 54.º		1156	1160	185	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 55.º		1162	1166	115	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 56.º		1168	1170	40	ue/regulamentos/2017/32017R1509.md
+32017R1509	Artigo 57.º		1172	1176	62	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO I		1178	1302	615	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO II		1304	1969	60674	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO III		1971	1984	184	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO IV		1986	2000	228	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO V		2002	2040	776	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO VI		2042	2072	643	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO VII		2074	2118	566	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO VIII		2120	2574	8522	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO IX		2576	2592	353	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO X		2594	2622	474	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI		2624	2648	317	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-A		2650	2667	330	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-B		2669	2691	459	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-C		2693	2704	161	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-D		2706	2739	921	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-E		2741	2751	163	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-F		2753	2778	399	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-G		2780	2792	202	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-H		2794	2805	216	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-I		2807	2817	158	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-J		2819	2829	144	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-K		2831	2841	144	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XI-L		2843	2879	486	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XII		2881	2924	1667	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XIII		2926	3199	17334	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XIV		3201	3273	2642	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XV		3275	3407	11712	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XVI		3409	3497	10172	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XVII		3499	3503	26	ue/regulamentos/2017/32017R1509.md
+32017R1509	ANEXO XVIII	Navios a que se refere o artigo 43.º, n.º 1, alíneas d), e) e f)	3505	3533	932	ue/regulamentos/2017/32017R1509.md
 32017R1510	Preâmbulo		18	40	559	ue/regulamentos/2017/32017R1510.md
 32017R1510	Artigo 1.º		44	46	26	ue/regulamentos/2017/32017R1510.md
 32017R1510	Artigo 2.º		48	78	628	ue/regulamentos/2017/32017R1510.md

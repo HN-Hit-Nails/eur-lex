@@ -1,48 +1,48 @@
 celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 codigo-iva	Artigo 1.º	Incidência objectiva	166	274	2292	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 2.º	Incidência subjectiva	276	390	1961	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 3.º	Conceito de transmissão de bens	392	440	1316	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 4.º	Conceito de prestação de serviços	442	462	506	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 5.º	Conceito de importação de bens	464	474	209	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 6.º	Localização das operações	476	710	5176	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 6.º-A	Derrogação à regra de localização no Estado-Membro do adquirente	712	748	1042	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 7.º	Facto gerador e exigibilidade do imposto	750	826	1534	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 8.º	Exigibilidade do imposto em caso de obrigação de emitir factura	828	872	588	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 9.º	Isenções nas operações internas	878	1050	3588	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 10.º	Conceito de organismos sem finalidade lucrativa	1052	1064	219	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 11.º	Sujeição a imposto em caso de distorções da concorrência	1066	1080	135	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 12.º	Renúncia à isenção	1082	1124	707	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 13.º	Isenções nas importações	1128	1222	1616	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 14.º	Isenções nas exportações, operações assimiladas e transportes internacionais	1226	1330	2672	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 15.º	Isenções nas operações relacionadas com regimes suspensivos	1334	1424	1581	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 16.º	Valor tributável nas operações internas	1430	1538	2219	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 17.º	Valor tributável nas importações	1542	1562	542	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 18.º	Taxas do imposto	1566	1660	1013	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 19.º	Direito à dedução	1666	1754	993	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 20.º	Operações que conferem o direito à dedução	1756	1786	422	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 21.º	Exclusões do direito à dedução	1792	1868	1491	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 22.º	Momento e modalidades do exercício do direito à dedução	1870	1934	1470	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 23.º	Métodos de dedução relativa a bens de utilização mista	1936	1964	1027	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 24.º	Regularizações das deduções relativas a bens do activo imobilizado	1966	2004	1075	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 25.º	Regularizações relativas a bens do activo imobilizado por motivo de alteração da actividade ou imposição legal	2006	2026	512	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 26.º	Regularizações das deduções relativas a imóveis não utilizados em fins empresariais	2028	2038	288	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 27.º	Pagamento do imposto apurado pelo sujeito passivo	2042	2150	1273	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 28.º	Pagamento do imposto liquidado pela administração	2152	2240	1618	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 29.º	Obrigações em geral	2244	2408	2957	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 29.º-A	Declaração periódica automática	2410	2432	482	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 30.º	Representante fiscal	2434	2452	484	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 31.º	Declaração de início de actividade	2454	2480	266	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 32.º	Declaração de alterações	2482	2502	298	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 33.º	Declaração de cessação de actividade	2504	2510	96	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 34.º	Conceito de cessação de actividade	2512	2538	532	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 35.º	Apresentação das declarações	2540	2598	806	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 35.º-A	Delimitação de competências em matéria de faturação	2600	2654	606	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 36.º	Prazo de emissão e formalidades das facturas	2656	2780	1872	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 37.º	Repercussão do imposto	2782	2804	250	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 38.º	Facturação de mercadorias enviadas à consignação	2806	2832	258	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 39.º	Facturas emitidas por retalhistas e prestadores de serviços	2834	2840	124	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 40.º	Faturas simplificadas	2842	2920	925	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 41.º	Prazo de entrega da declaração periódica	2922	2974	1074	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 2.º	Incidência subjectiva	276	388	1818	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 3.º	Conceito de transmissão de bens	390	438	1316	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 4.º	Conceito de prestação de serviços	440	460	506	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 5.º	Conceito de importação de bens	462	472	209	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 6.º	Localização das operações	474	708	5176	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 6.º-A	Derrogação à regra de localização no Estado-Membro do adquirente	710	746	1042	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 7.º	Facto gerador e exigibilidade do imposto	748	824	1534	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 8.º	Exigibilidade do imposto em caso de obrigação de emitir factura	826	870	588	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 9.º	Isenções nas operações internas	876	1048	3588	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 10.º	Conceito de organismos sem finalidade lucrativa	1050	1062	219	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 11.º	Sujeição a imposto em caso de distorções da concorrência	1064	1078	135	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 12.º	Renúncia à isenção	1080	1122	707	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 13.º	Isenções nas importações	1126	1220	1616	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 14.º	Isenções nas exportações, operações assimiladas e transportes internacionais	1224	1328	2672	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 15.º	Isenções nas operações relacionadas com regimes suspensivos	1332	1422	1581	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 16.º	Valor tributável nas operações internas	1428	1536	2219	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 17.º	Valor tributável nas importações	1540	1560	542	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 18.º	Taxas do imposto	1564	1658	1013	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 19.º	Direito à dedução	1664	1752	993	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 20.º	Operações que conferem o direito à dedução	1754	1784	422	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 21.º	Exclusões do direito à dedução	1790	1866	1491	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 22.º	Momento e modalidades do exercício do direito à dedução	1868	1932	1470	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 23.º	Métodos de dedução relativa a bens de utilização mista	1934	1962	1027	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 24.º	Regularizações das deduções relativas a bens do activo imobilizado	1964	2002	1075	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 25.º	Regularizações relativas a bens do activo imobilizado por motivo de alteração da actividade ou imposição legal	2004	2024	512	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 26.º	Regularizações das deduções relativas a imóveis não utilizados em fins empresariais	2026	2036	288	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 27.º	Pagamento do imposto apurado pelo sujeito passivo	2040	2148	1273	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 28.º	Pagamento do imposto liquidado pela administração	2150	2238	1618	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 29.º	Obrigações em geral	2242	2406	2957	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 29.º-A	Declaração periódica automática	2408	2430	482	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 30.º	Representante fiscal	2432	2450	484	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 31.º	Declaração de início de actividade	2452	2478	266	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 32.º	Declaração de alterações	2480	2500	298	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 33.º	Declaração de cessação de actividade	2502	2508	96	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 34.º	Conceito de cessação de actividade	2510	2536	532	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 35.º	Apresentação das declarações	2538	2596	806	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 35.º-A	Delimitação de competências em matéria de faturação	2598	2652	606	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 36.º	Prazo de emissão e formalidades das facturas	2654	2778	1872	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 37.º	Repercussão do imposto	2780	2802	250	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 38.º	Facturação de mercadorias enviadas à consignação	2804	2830	258	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 39.º	Facturas emitidas por retalhistas e prestadores de serviços	2832	2838	124	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 40.º	Faturas simplificadas	2840	2918	925	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 41.º	Prazo de entrega da declaração periódica	2920	2974	1109	legislacao-pt/codigo-iva.md
 codigo-iva	Artigo 42.º	Conceito de volume de negócios	2976	2988	194	legislacao-pt/codigo-iva.md
 codigo-iva	Artigo 43.º	(revogado pelo art.º 199.º da Lei n.º 66-B/2012, de 31 de dezembro)	2990	2998	45	legislacao-pt/codigo-iva.md
 codigo-iva	Artigo 44.º	Requisitos da contabilidade	3000	3032	460	legislacao-pt/codigo-iva.md
@@ -89,56 +89,56 @@ codigo-iva	Artigo 72.º	Direito a dedução dos adquirentes	4086	4110	382	legisl
 codigo-iva	Artigo 73.º	Registos das aquisições e vendas	4112	4118	89	legislacao-pt/codigo-iva.md
 codigo-iva	Artigo 74.º	Aquisições intracomunitárias	4120	4126	118	legislacao-pt/codigo-iva.md
 codigo-iva	Artigo 75.º	Exclusão dos regimes especiais	4128	4134	105	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 76.º	Centralização da escrita	4138	4166	203	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 77.º	Serviço de finanças competente	4168	4182	338	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 78.º	Regularizações	4184	4276	2391	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 78.º-A	Créditos de cobrança duvidosa ou incobráveis	4278	4378	1367	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 78.º-B	Procedimento de regularização	4380	4438	1057	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 78.º-C	Retificação a favor do Estado de dedução anteriormente efetuada	4440	4470	504	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 78.º-D	Documentação de suporte	4472	4514	594	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 79.º	Responsabilidade solidária do adquirente	4516	4542	638	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 80.º	Responsabilidade solidária dos sujeitos passivos	4544	4558	450	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 80.º-A	Responsabilidade solidária das interfaces eletrónicas	4560	4576	508	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 80.º-B	Devedor do imposto	4578	4588	156	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 81.º	Volume de negócios dos sujeitos passivos que pratiquem operações isentas sem direito a dedução	4590	4608	218	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 82.º	Notificações	4610	4640	196	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 83.º	Recurso hierárquico	4642	4676	509	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 84.º	Entidades fiscalizadoras	4680	4686	130	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 85.º	Dever de colaboração	4688	4696	250	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 86.º	Presunção de aquisição e de transmissão de bens	4698	4704	130	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 87.º	Rectificação das declarações e liquidações adicionais	4706	4722	635	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 88.º	Liquidação oficiosa do imposto pelos serviços centrais	4724	4766	725	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 89.º	Liquidação oficiosa pelo chefe do serviço de finanças	4768	4788	183	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 90.º	Liquidação com base em presunções e métodos indirectos	4790	4798	193	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 91.º	Liquidação do imposto	4800	4806	105	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 92.º	Notificação de liquidações adicionais e de juros compensatórios	4808	4826	173	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 93.º	Notificação da compensação	4828	4838	293	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 94.º	Caducidade	4840	4898	561	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 95.º	Anualização das liquidações	4900	4906	88	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 96.º	Juros compensatórios e de mora	4908	4916	172	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 97.º	Recurso hierárquico, reclamação e impugnação	4920	4946	399	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 98.º	Revisão oficiosa e prazo do exercício do direito à dedução	4948	4966	258	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 99.º	Anulação da liquidação	4968	4976	185	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 100.º	Recibo da entrega de declarações	4980	4984	68	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 101.º	Remessa de declarações e documentos pelo correio e por transmissão electrónica	4986	4990	164	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 102.º	Procedimento a aplicar a bens provenientes ou com destino a territórios terceiros	4992	4996	138	legislacao-pt/codigo-iva.md
-codigo-iva	ANEXO A	(Revogado pela Lei n.º 66-B/2012, de 31 de dezembro, a vigorar a partir de 1 de abril de 2013)	5562	5600	354	legislacao-pt/codigo-iva.md
-codigo-iva	ANEXO B	(Revogado pela Lei n.º 66-B/2012, de 31 de dezembro, a vigorar a partiir de 1 de abril de 2013	5602	5624	244	legislacao-pt/codigo-iva.md
-codigo-iva	ANEXO C	(Aditado pelo artigo 3.º do Dec.Lei n.º 206/96, de 26 de Outubro)	5626	5716	588	legislacao-pt/codigo-iva.md
-codigo-iva	ANEXO D	Lista exemplificativa de prestações de serviços por via electrónica	5718	5736	288	legislacao-pt/codigo-iva.md
-codigo-iva	ANEXO E		5738	5752	364	legislacao-pt/codigo-iva.md
-codigo-iva	ANEXO F	Lista das atividades de produção agrícola	5754	5782	229	legislacao-pt/codigo-iva.md
-codigo-iva	ANEXO G	Lista das prestações de serviços agrícolas	5784	5932	2374	legislacao-pt/codigo-iva.md
-codigo-iva	ANEXO	(a que se refere o artigo 5.º do DL nº 130/03, de 28 de Junho)	5934	6030	2110	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 1.º		5940	5942	104	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 2.º		5944	5954	238	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 3.º		5956	5960	109	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 4.º		5962	5968	191	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 5.º		5970	5994	625	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 6.º		5996	6004	166	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 7.º		6006	6018	386	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 8.º		6020	6024	142	legislacao-pt/codigo-iva.md
-codigo-iva	Artigo 9.º		6026	6030	57	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 76.º	Centralização da escrita	4138	4164	203	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 77.º	Serviço de finanças competente	4166	4180	338	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º	Regularizações	4182	4274	2391	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º-A	Créditos de cobrança duvidosa ou incobráveis	4276	4376	1367	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º-B	Procedimento de regularização	4378	4436	1057	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º-C	Retificação a favor do Estado de dedução anteriormente efetuada	4438	4468	504	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 78.º-D	Documentação de suporte	4470	4512	594	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 79.º	Responsabilidade solidária do adquirente	4514	4540	638	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 80.º	Responsabilidade solidária dos sujeitos passivos	4542	4556	450	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 80.º-A	Responsabilidade solidária das interfaces eletrónicas	4558	4574	508	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 80.º-B	Devedor do imposto	4576	4586	156	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 81.º	Volume de negócios dos sujeitos passivos que pratiquem operações isentas sem direito a dedução	4588	4606	218	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 82.º	Notificações	4608	4638	196	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 83.º	Recurso hierárquico	4640	4674	509	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 84.º	Entidades fiscalizadoras	4678	4684	130	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 85.º	Dever de colaboração	4686	4694	250	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 86.º	Presunção de aquisição e de transmissão de bens	4696	4702	130	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 87.º	Rectificação das declarações e liquidações adicionais	4704	4720	635	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 88.º	Liquidação oficiosa do imposto pelos serviços centrais	4722	4764	725	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 89.º	Liquidação oficiosa pelo chefe do serviço de finanças	4766	4786	183	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 90.º	Liquidação com base em presunções e métodos indirectos	4788	4796	193	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 91.º	Liquidação do imposto	4798	4804	105	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 92.º	Notificação de liquidações adicionais e de juros compensatórios	4806	4824	173	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 93.º	Notificação da compensação	4826	4836	293	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 94.º	Caducidade	4838	4896	561	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 95.º	Anualização das liquidações	4898	4904	88	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 96.º	Juros compensatórios e de mora	4906	4914	172	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 97.º	Recurso hierárquico, reclamação e impugnação	4918	4944	399	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 98.º	Revisão oficiosa e prazo do exercício do direito à dedução	4946	4964	258	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 99.º	Anulação da liquidação	4966	4974	185	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 100.º	Recibo da entrega de declarações	4978	4982	68	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 101.º	Remessa de declarações e documentos pelo correio e por transmissão electrónica	4984	4988	164	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 102.º	Procedimento a aplicar a bens provenientes ou com destino a territórios terceiros	4990	4994	138	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO A	(Revogado pela Lei n.º 66-B/2012, de 31 de dezembro, a vigorar a partir de 1 de abril de 2013)	5560	5598	354	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO B	(Revogado pela Lei n.º 66-B/2012, de 31 de dezembro, a vigorar a partiir de 1 de abril de 2013	5600	5622	244	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO C	(Aditado pelo artigo 3.º do Dec.Lei n.º 206/96, de 26 de Outubro)	5624	5714	588	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO D	Lista exemplificativa de prestações de serviços por via electrónica	5716	5734	288	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO E		5736	5750	364	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO F	Lista das atividades de produção agrícola	5752	5780	229	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO G	Lista das prestações de serviços agrícolas	5782	5930	2374	legislacao-pt/codigo-iva.md
+codigo-iva	ANEXO	(a que se refere o artigo 5.º do DL nº 130/03, de 28 de Junho)	5932	6028	2110	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 1.º		5938	5940	104	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 2.º		5942	5952	238	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 3.º		5954	5958	109	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 4.º		5960	5966	191	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 5.º		5968	5992	625	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 6.º		5994	6002	166	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 7.º		6004	6016	386	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 8.º		6018	6022	142	legislacao-pt/codigo-iva.md
+codigo-iva	Artigo 9.º		6024	6028	57	legislacao-pt/codigo-iva.md
 decreto-lei-1-2015	Artigo 1.º	Objeto	69	71	110	legislacao-pt/decreto-lei-1-2015.md
 decreto-lei-1-2015	Artigo 2.º	Redenominação	73	77	86	legislacao-pt/decreto-lei-1-2015.md
 decreto-lei-1-2015	Artigo 3.º	Aprovação dos estatutos da Autoridade de Supervisão de Seguros e Fundos de Pensões	79	81	64	legislacao-pt/decreto-lei-1-2015.md
@@ -3657,539 +3657,539 @@ decreto-lei-18-2008	Artigo 35.º-B	Iniciativas espontâneas	1057	1061	510	legisl
 decreto-lei-18-2008	Artigo 35.º-C	Período de teste de sistemas e tecnologias de informação	1063	1067	692	legislacao-pt/decreto-lei-18-2008.md
 decreto-lei-18-2008	Artigo 35.º-D	Identificação das necessidades de contratação	1069	1073	110	legislacao-pt/decreto-lei-18-2008.md
 decreto-lei-18-2008	Artigo 36.º	Decisão de contratar e decisão de autorização da despesa	1077	1085	667	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 37.º	Decisão de contratar nas parcerias públicas-privadas	1087	1097	365	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 38.º	Decisão de escolha do procedimento	1099	1101	62	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 39.º	Agrupamento de entidades adjudicantes	1103	1111	1038	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 40.º	Tipos de peças	1115	1143	502	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 41.º	Programa do procedimento	1145	1147	44	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 42.º	Caderno de encargos	1149	1161	1006	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 43.º	Caderno de encargos do procedimento de formação de contratos de empreitada	1163	1177	1085	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 43.º-A	Caderno de encargos do procedimento de formação de contratos de empreitada de conceção-construção	1179	1183	297	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 44.º	Cadernos de encargos relativos a contratos de concessão	1185	1191	202	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 45.º	Caderno de encargos das parcerias públicas-privadas	1193	1195	98	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 46.º	Formulários de caderno de encargos	1197	1201	252	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 46.º-A	Adjudicação por lotes	1203	1209	534	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 47.º	Preço base	1211	1217	243	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 48.º	Fundamentação do prazo de vigência	1219	1221	68	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 49.º	Especificações técnicas	1223	1233	1530	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 49.º-A	Rótulos e relatórios de ensaio, certificação e outros meios de prova	1235	1245	196	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 49.º-B	Especificações técnicas e prioridade à eficiência energética	1247	1251	139	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 50.º	Esclarecimentos, retificação e alteração das peças do procedimento	1253	1289	908	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 51.º	Prevalência	1291	1293	54	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 52.º	Candidatos	1297	1301	120	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 53.º	Concorrentes	1303	1305	49	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 54.º	Agrupamentos	1307	1315	215	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 54.º-A	Contratos reservados	1317	1327	646	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 55.º	Impedimentos	1329	1341	1888	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 55.º-A	Relevação dos impedimentos	1343	1349	460	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 56.º	Noção de proposta	1353	1357	372	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 57.º	Documentos da proposta	1359	1371	943	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 57.º-A	Documento demonstrativo da estrutura de custos do trabalho	1373	1379	316	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 58.º	Idioma dos documentos da proposta	1381	1389	267	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 59.º	Propostas variantes	1391	1399	470	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 60.º	Indicação do preço	1401	1407	214	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 61.º	Erros e omissões do caderno de encargos	1409	1439	756	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 62.º	Modo de apresentação das propostas	1441	1447	377	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 62.º-A	Catálogos eletrónicos	1449	1457	228	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 63.º	Fixação do prazo para a apresentação das propostas	1459	1463	176	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 64.º	Prorrogação do prazo fixado para a apresentação das propostas	1465	1473	532	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 65.º	Prazo da obrigação de manutenção das propostas	1475	1477	84	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 66.º	Classificação de documentos da proposta	1479	1495	518	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 67.º	Júri	1499	1505	391	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 68.º	Funcionamento	1507	1519	240	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 69.º	Competência do júri	1521	1527	216	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 70.º	Análise das propostas	1531	1545	1438	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 71.º	Preço ou custo anormalmente baixo	1547	1555	652	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 72.º	Esclarecimentos e suprimento de propostas e candidaturas	1557	1565	660	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 73.º	Noção de adjudicação	1567	1573	141	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 74.º	Critério de adjudicação	1575	1583	638	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 75.º	Factores e subfactores	1585	1595	1372	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 76.º	Dever de adjudicação	1597	1601	249	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 77.º	Notificação da decisão de adjudicação	1603	1611	422	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 78.º	Anúncio da adjudicação	1613	1621	943	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 78.º-A	Anúncio voluntário de transparência	1623	1631	328	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 79.º	Causas de não adjudicação	1633	1641	570	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 80.º	Revogação da decisão de contratar	1643	1649	86	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 80.º-A	Extinção do procedimento por impossibilidade de adjudicação	1651	1655	185	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 81.º	Habilitação para contratar	1659	1671	624	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 82.º	Idioma dos documentos de habilitação (revogado)	1673	1677	62	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 83.º	Modo de apresentação dos documentos de habilitação (revogado)	1679	1685	103	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 83.º-A	Força probatória dos documentos de habilitação	1687	1695	508	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 84.º	Apresentação dos documentos de habilitação por agrupamentos (revogado)	1697	1701	68	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 85.º	Notificação da apresentação dos documentos de habilitação	1703	1709	274	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 86.º	Não apresentação dos documentos de habilitação	1711	1723	699	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 87.º	Falsidade de documentos e declarações	1725	1727	86	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 87.º-A	Outras causas de caducidade da adjudicação	1729	1735	439	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 88.º	Função da caução	1739	1747	507	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 89.º	Valor da caução	1749	1757	457	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 90.º	Modo de prestação da caução	1759	1777	536	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 91.º	Não prestação da caução	1779	1785	418	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 92.º	Prorrogação do prazo para a confirmação de compromissos	1789	1791	85	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 93.º	Não confirmação de compromissos	1793	1797	204	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 94.º	Redução do contrato a escrito	1801	1807	191	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 95.º	Inexigibilidade e dispensa de redução do contrato a escrito	1809	1815	773	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 96.º	Conteúdo do contrato	1817	1823	803	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 97.º	Preço contratual	1825	1837	190	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 98.º	Aprovação da minuta do contrato	1839	1845	230	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 99.º	Ajustamentos ao conteúdo do contrato a celebrar	1847	1851	322	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 100.º	Notificação da minuta do contrato	1853	1859	117	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 101.º	Aceitação da minuta do contrato	1861	1865	132	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 102.º	Reclamação da minuta do contrato	1867	1871	294	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 103.º	Notificação dos ajustamentos ao contrato	1873	1875	54	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 104.º	Outorga do contrato	1877	1911	641	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 105.º	Não outorga do contrato	1913	1931	372	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 106.º	Representação na outorga do contrato	1933	1945	318	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 107.º	Informações sobre o procedimento	1949	1971	274	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 108.º	Relatório de contratação (revogado)	1973	1977	59	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 109.º	Norma de habilitação	1981	1993	440	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 110.º	Delegação de competências nos órgãos dos institutos públicos	1995	1997	134	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 111.º	Delegação das competências do Conselho de Ministros ou do Conselho do Governo Regional	1999	2001	95	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 112.º	Noção de consulta prévia e de ajuste direto	2013	2019	149	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 113.º	Escolha das entidades convidadas	2021	2031	740	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 114.º	Número de entidades convidadas	2033	2055	421	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 115.º	Convite	2057	2113	874	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 116.º	Esclarecimentos e rectificação das peças do procedimento	2115	2119	118	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 117.º	Agrupamentos	2121	2131	182	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 118.º	Negociações	2133	2145	299	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 119.º	Representação dos concorrentes nas sessões de negociação	2147	2149	78	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 120.º	Formalidades a observar	2151	2161	279	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 121.º	Versões finais das propostas	2163	2167	146	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 122.º	Relatório preliminar	2169	2179	281	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 123.º	Audiência prévia	2181	2187	181	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 124.º	Relatório final	2189	2199	325	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 125.º	Adjudicação no caso de apresentação de uma única proposta	2201	2205	134	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 126.º	Apresentação de documentos de habilitação	2207	2217	283	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 127.º	Publicitação e eficácia do contrato	2219	2233	295	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 127.º-A	Noção e regime de consulta prévia especial	2241	2249	168	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 127.º-B	Âmbito e condicionalismos de adoção da consulta prévia especial	2251	2267	460	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 127.º-C	Escolha das entidades convidadas	2269	2281	406	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 128.º	Tramitação	2289	2305	470	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 129.º	Prazo e preços	2307	2315	160	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 129.º-A	Contratação em situações excecionais	2317	2321	550	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 130.º	Anúncio	2327	2331	133	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 131.º	Anúncio no Jornal Oficial da União Europeia	2333	2341	484	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 132.º	Programa do concurso	2343	2355	924	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 133.º	Disponibilização eletrónica das peças do concurso	2357	2365	426	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 134.º	Devolução do preço pago pela disponibilização das peças do concurso (revogado)	2367	2371	70	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 135.º	Prazo mínimo para a apresentação das propostas em concursos públicos sem publicidade internacional	2375	2381	216	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 136.º	Prazos mínimos para a apresentação das propostas em concursos públicos com publicidade internacional	2383	2401	432	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 137.º	Retirada da proposta	2403	2407	91	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 138.º	Lista dos concorrentes e consulta das propostas apresentadas	2409	2417	246	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 139.º	Modelo de avaliação das propostas	2421	2435	432	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 140.º	Âmbito	2439	2451	294	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 141.º	Indicações relativas ao leilão electrónico	2453	2463	172	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 142.º	Convite	2465	2475	95	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 143.º	Regras do leilão electrónico	2477	2481	108	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 144.º	Confidencialidade	2483	2485	48	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 145.º	Modos de encerramento do leilão electrónico	2487	2499	205	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 146.º	Relatório preliminar	2503	2517	508	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 147.º	Audiência prévia	2519	2525	164	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 148.º	Relatório final	2527	2531	355	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 149.º	Âmbito	2535	2541	280	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 150.º	Indicações relativas à fase de negociação	2543	2553	248	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 151.º	Remissão	2555	2559	98	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 152.º	Segundo relatório preliminar	2561	2565	329	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 153.º	Audiência prévia	2567	2569	85	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 154.º	Segundo relatório final	2571	2573	36	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 155.º	Âmbito e pressupostos	2577	2583	238	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 156.º	Tramitação	2585	2591	152	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 157.º	Anúncio	2593	2599	140	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 158.º	Prazo mínimo para a apresentação das propostas	2601	2605	122	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 159.º	Prazo da obrigação de manutenção das propostas	2607	2609	43	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 160.º	Adjudicação	2611	2617	122	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 161.º	Prazo para a apresentação dos documentos de habilitação	2619	2621	72	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 161.º-A	Âmbito e condicionalismos de aplicação	2627	2643	303	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 161.º-B	Regras especiais	2645	2663	344	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 161.º-C	Programa do concurso	2665	2673	190	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 161.º-D	Requisitos mínimos de capacidade técnica e financeira	2675	2681	142	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 161.º-E	Avaliação faseada das propostas	2683	2693	256	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 162.º	Regime	2699	2703	85	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 163.º	Fases do procedimento	2705	2711	63	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 164.º	Programa do concurso	2713	2725	951	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 165.º	Requisitos mínimos de capacidade técnica e financeira	2727	2733	790	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 165.º-A	Recurso às capacidades de terceiros	2735	2739	104	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 166.º	Esclarecimentos e rectificação das peças do concurso	2741	2745	106	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 167.º	Anúncio	2749	2775	508	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 168.º	Documentos da candidatura	2777	2783	621	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 169.º	Idioma dos documentos da candidatura	2785	2789	208	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 170.º	Modo de apresentação das candidaturas	2791	2809	461	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 171.º	Apresentação das candidaturas por agrupamentos	2811	2813	76	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 172.º	Fixação do prazo para a apresentação das candidaturas	2815	2819	113	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 173.º	Prazo mínimo para a apresentação das candidaturas em concursos limitados por prévia qualificação sem publicidade internacional	2821	2825	152	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 174.º	Prazos mínimos para a apresentação das candidaturas em concursos limitados por prévia qualificação com publicidade internacional	2827	2839	434	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 175.º	Prorrogação do prazo fixado para a apresentação das candidaturas	2841	2849	355	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 176.º	Retirada da candidatura	2851	2855	91	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 176.º-A	Classificação de documentos da candidatura	2857	2861	83	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 177.º	Lista dos candidatos e consulta das candidaturas apresentadas	2863	2871	248	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 178.º	Análise das candidaturas	2873	2877	94	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 179.º	Modelo simples de qualificação	2879	2891	321	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 180.º	Revogação, invalidade, ineficácia ou extinção da declaração bancária	2893	2899	260	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 181.º	Modelo complexo de qualificação: Sistema de selecção	2901	2905	292	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 182.º	Preenchimento dos requisitos mínimos por agrupamentos candidatos	2907	2917	258	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 183.º	Esclarecimentos sobre os documentos destinados à qualificação dos candidatos	2919	2923	155	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 184.º	Relatório preliminar da fase de qualificação	2925	2931	773	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 185.º	Audiência prévia	2933	2935	66	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 186.º	Relatório final da fase de qualificação	2937	2947	327	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 187.º	Dever de qualificação	2949	2955	309	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 188.º	Notificação da decisão de qualificação	2957	2963	515	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 189.º	Convite	2967	2973	505	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 190.º	Prazo mínimo para a apresentação das propostas em concursos limitados por prévia qualificação sem publicidade internacional	2975	2981	219	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 191.º	Prazos mínimos para a apresentação das propostas em concursos limitados por prévia qualificação com publicidade internacional	2983	3001	519	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 192.º	Acordo sobre a fixação do prazo para a apresentação das propostas	3003	3013	383	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 193.º	Regime	3019	3021	60	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 194.º	Fases do procedimento	3023	3033	79	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 195.º	Inadmissibilidade de leilão electrónico	3035	3037	39	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 196.º	Programa do procedimento de negociação	3039	3045	229	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 197.º	Anúncios	3049	3055	170	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 198.º	Prazos mínimos para a apresentação das candidaturas	3057	3065	256	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 199.º	Convite	3069	3071	55	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 200.º	Remissão	3073	3075	46	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 201.º	Início da negociação	3079	3085	90	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 202.º	Negociação e apresentação das versões finais das propostas	3087	3089	57	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 203.º	Remissão	3093	3097	78	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 204.º	Regime	3103	3107	102	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 205.º	Fases do procedimento	3109	3117	76	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 206.º	Programa do procedimento de diálogo concorrencial	3119	3129	289	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 207.º	Memória descritiva e caderno de encargos	3131	3137	130	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 208.º	Anúncios	3141	3147	256	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 209.º	Convite à apresentação das soluções	3151	3163	206	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 210.º	Apresentação de soluções	3165	3169	52	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 211.º	Idioma das soluções	3171	3175	94	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 212.º	Admissão e exclusão das soluções	3177	3197	342	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 213.º	Diálogo	3199	3201	76	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 214.º	Formalidades a observar	3203	3219	396	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 215.º	Relatório do diálogo	3221	3227	177	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 216.º	Notificação da conclusão do diálogo	3229	3231	70	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 217.º	Convite	3235	3239	216	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 218.º	Prazos mínimos para a apresentação das propostas em procedimento de diálogo concorrencial	3241	3245	93	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 218.º-A	Regime	3251	3275	407	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 218.º-B	Convite à apresentação de propostas de projetos de investigação e desenvolvimento	3277	3293	292	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 218.º-C	Negociação das propostas de projetos de investigação e desenvolvimento	3295	3303	186	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 218.º-D	Análise das propostas e celebração da parceria	3305	3321	482	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º	Âmbito (revogado)	3327	3333	92	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-A	Âmbito e modalidades	3335	3349	493	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-B	Disposições gerais	3351	3363	346	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-C	Publicidade	3365	3371	442	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-D	Termos de referência	3373	3409	694	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-E	Júri do concurso de conceção	3411	3419	281	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-F	Formalidades do concurso público de conceção	3421	3437	407	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-G	Formalidades do concurso limitado de conceção	3439	3447	249	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-H	Formalidades do concurso de conceção simplificado	3449	3453	105	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-I	Decisão de seleção e prémios	3455	3473	480	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 219.º-J	Concurso de ideias	3475	3493	463	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 220.º	Modalidades do concurso de concepção (revogado)	3495	3499	62	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 221.º	Início do concurso de concepção (revogado)	3501	3505	61	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 222.º	Decisão de escolha da modalidade do concurso de concepção (revogado)	3507	3511	68	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 223.º	Agrupamento de entidades adjudicantes (revogado)	3513	3517	62	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 224.º	Anúncio do concurso de concepção (revogado)	3519	3523	61	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 225.º	Anúncio no Jornal Oficial da União Europeia (revogado)	3525	3529	64	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 226.º	Termos de referência (revogado)	3531	3535	58	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 227.º	Júri do concurso de concepção (revogado)	3537	3543	102	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 228.º	Anonimato (revogado)	3545	3549	56	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 229.º	Apresentação dos trabalhos de concepção (revogado)	3551	3555	63	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 230.º	Fixação dos prazos para a apresentação dos documentos (revogado)	3557	3561	66	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 231.º	Regras do concurso público (revogado)	3563	3569	102	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 232.º	Regras do concurso limitado por prévia qualificação (revogado)	3571	3575	66	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 233.º	Decisão de selecção e prémios (revogado)	3577	3581	60	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 234.º	Caducidade da decisão de selecção (revogado)	3583	3587	62	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 235.º	Anúncio da decisão de selecção (revogado)	3589	3593	61	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 236.º	Prevalência (revogado)	3595	3599	56	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 237.º	Noção	3603	3619	490	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 238.º	Fases do sistema	3621	3631	171	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 239.º	Instituição do sistema (revogado)	3633	3637	59	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 240.º	Peças do procedimento	3639	3653	348	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 241.º	Versões iniciais de proposta (revogado)	3655	3659	60	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 241.º-A	Participação e qualificação dos candidatos	3661	3673	349	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 241.º-B	Convite à apresentação de proposta	3675	3693	309	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 241.º-C	Leilão e catálogos eletrónicos	3695	3701	216	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 241.º-D	Atualização da documentação dos candidatos qualificados	3703	3707	140	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 242.º	Anúncio simplificado (revogado)	3709	3715	100	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 243.º	Convite (revogado)	3717	3721	55	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 244.º	Avaliação das propostas e adjudicação (revogado)	3723	3729	104	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 245.º	Instituição de sistemas de qualificação	3733	3739	496	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 246.º	Regras dos sistemas de qualificação	3741	3755	647	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 247.º	Participação num sistema de qualificação	3757	3761	114	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 248.º	Actualização das regras e dos critérios de qualificação	3763	3767	137	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 249.º	Decisão de qualificação	3769	3775	168	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 250.º	Selecção dos interessados qualificados	3777	3785	270	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 250.º-A	Contratos de serviços sociais e de outros serviços específicos	3791	3799	232	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 250.º-B	Publicação de anúncios	3801	3811	534	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 250.º-C	Procedimentos pré-contratuais	3813	3819	378	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 250.º-D	Contratos reservados para determinados serviços	3821	3847	667	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 251.º	Noção	3853	3855	74	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 252.º	Modalidades de acordos quadro	3857	3869	281	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 253.º	Procedimento de formação dos acordos quadro	3871	3883	345	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 254.º	Caução	3885	3889	76	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 255.º	Obrigação de celebração de contratos ao abrigo de acordo quadro	3891	3895	108	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 256.º	Prazo máximo de vigência dos acordos quadro	3897	3907	248	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 256.º-A	Obtenção de preço mais vantajoso fora do acordo-quadro	3909	3917	1046	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 257.º	Regras gerais	3921	3943	689	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 258.º	Celebração de contratos ao abrigo de acordos quadro cujos termos abranjam todos os seus aspectos submetidos à concorrência	3945	3949	266	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 259.º	Celebração de contratos ao abrigo de acordos quadro cujos termos não abranjam todos os seus aspectos submetidos à concorrência	3951	3955	581	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 260.º	Centrais de compras	3961	3973	294	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 261.º	Principais actividades das centrais de compras	3975	3995	346	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 262.º	Âmbito subjectivo das centrais de compras	3997	4001	131	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 263.º	Admissibilidade da celebração de acordos quadro por centrais de compras	4005	4009	180	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 264.º	Remissão	4011	4013	64	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 265.º	Procedimento de formação dos contratos públicos de aprovisionamento	4015	4019	127	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 266.º	Prazo máximo de vigência dos contratos públicos de aprovisionamento	4021	4023	47	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 266.º-A	Âmbito	4029	4049	272	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 266.º-B	Disponibilização	4051	4063	346	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 266.º-C	Alienação	4065	4085	478	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 267.º	Direito aplicável	4089	4095	155	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 268.º	Natureza	4097	4099	20	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 269.º	Decisões impugnáveis	4101	4105	79	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 270.º	Prazo de impugnação	4107	4109	86	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 271.º	Apresentação da impugnação	4111	4115	96	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 272.º	Efeitos da impugnação	4117	4127	106	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 273.º	Audiência dos contra-interessados	4129	4131	116	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 274.º	Decisão	4133	4137	99	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 275.º	Contratos subsidiados	4141	4153	608	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 276.º	Contratos a celebrar por concessionários de obras públicas que não sejam entidades adjudicantes (revogado)	4155	4167	226	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 277.º	Contratos a celebrar por entidades beneficiárias de direitos especiais ou exclusivos no exercício de actividades de serviço público (revogado)	4169	4173	82	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 278.º	Utilização do contrato administrativo	4183	4185	67	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 279.º	Contrato como fonte da relação jurídica administrativa	4187	4189	74	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 280.º	Direito aplicável	4191	4203	662	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 281.º	Proporcionalidade e conexão material das prestações contratuais	4205	4207	62	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 282.º	Reposição do equilíbrio financeiro do contrato	4209	4221	581	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 283.º	Invalidade consequente de actos procedimentais inválidos	4225	4231	310	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 283.º-A	Anulabilidade de contratos com fundamento em vícios procedimentais	4233	4245	598	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 284.º	Invalidade própria do contrato	4247	4253	264	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 285.º	Regime de invalidade	4255	4263	466	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 286.º	Princípios fundamentais	4267	4269	70	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 287.º	Eficácia do contrato	4271	4279	568	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 288.º	Execução pessoal	4281	4283	86	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 289.º	Colaboração recíproca	4285	4289	122	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 290.º	Informação e sigilo	4291	4297	220	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 290.º-A	Gestor do contrato	4299	4307	528	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 291.º	Protecção do co-contratante pelo contraente público	4309	4311	100	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 292.º	Adiantamentos de preço	4313	4329	462	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 293.º	Garantia suplementar dos adiantamentos	4331	4333	140	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 294.º	Substituição da caução	4335	4339	106	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 295.º	Liberação da caução	4341	4377	978	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 296.º	Execução da caução	4379	4391	224	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 297.º	Suspensão da execução	4393	4399	104	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 298.º	Recomeço da execução	4401	4409	249	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 299.º	Prazo de pagamento	4411	4429	410	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 299.º-A	Vencimento das obrigações pecuniárias	4431	4437	138	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 299.º-B	Fatura eletrónica	4439	4477	545	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 300.º	Revisão de preços	4479	4483	98	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 301.º	Prémios por cumprimento antecipado	4485	4489	101	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 301.º-A	Contratos com forte componente de inovação	4491	4509	509	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 302.º	Poderes do contraente público	4513	4519	244	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 303.º	Princípios respeitantes aos poderes de direcção e de fiscalização	4521	4527	264	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 304.º	Direcção do modo de execução das prestações	4529	4535	293	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 305.º	Fiscalização do modo de execução do contrato	4537	4547	302	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 306.º	Fiscalização do modo de execução dos projectos de investigação e desenvolvimento	4549	4551	79	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 307.º	Natureza das declarações do contraente público	4553	4569	284	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 308.º	Formação dos actos administrativos do contraente público	4571	4577	216	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 309.º	Executividade dos actos administrativos do contraente público	4579	4583	136	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 310.º	Acordos endocontratuais	4585	4591	165	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 311.º	Fonte	4595	4601	204	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 312.º	Permissões de modificação	4603	4611	703	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 313.º	Limites	4613	4625	371	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 314.º	Consequências	4627	4635	168	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 314.º-A	Alteração das circunstâncias	4637	4641	176	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 314.º-B	Alteração das circunstâncias imputável a decisão do contraente público	4643	4647	150	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 315.º	Publicidade das modificações	4649	4657	330	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 316.º	Âmbito	4661	4665	94	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 317.º	Limites à cessão e à subcontratação pelo co-contratante	4667	4679	283	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 318.º	Cessão da posição contratual	4681	4689	432	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 318.º-A	Cessão da posição contratual por incumprimento do cocontratante	4691	4701	659	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 319.º	Autorização à subcontratação pelo cocontratante na fase de execução (revogado)	4703	4709	108	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 319.º-A	Subcontratação	4711	4715	538	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 320.º	Recusa de autorização à subcontratação	4717	4719	128	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 321.º	Responsabilidade do co-contratante	4721	4723	59	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 321.º-A	Pagamento direto ao subcontratado	4725	4733	476	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 322.º	Direitos de step in e step out	4735	4747	396	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 323.º	Alterações societárias	4749	4753	173	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 324.º	Cessão da posição contratual pelo contraente público	4755	4757	93	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 325.º	Incumprimento por facto imputável ao co-contratante	4761	4769	320	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 326.º	Atrasos nos pagamentos	4771	4785	374	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 327.º	Excepção de não cumprimento invocável pelo co-contratante	4787	4791	335	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 328.º	Direito de retenção	4793	4795	42	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 329.º	Aplicação das sanções contratuais	4797	4803	402	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 330.º	Causas de extinção	4807	4815	92	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 331.º	Revogação	4817	4823	66	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 332.º	Resolução do contrato por iniciativa do co-contratante	4825	4843	468	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 333.º	Resolução sancionatória	4845	4849	550	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 334.º	Resolução por razões de interesse público	4851	4857	179	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 335.º	Outros fundamentos de resolução pelo contraente público	4859	4865	218	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 336.º	Negociabilidade da vigência dos vínculos contratuais	4871	4873	129	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 337.º	Causas específicas de caducidade	4875	4879	142	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 338.º	Contratos entre contraentes públicos	4883	4889	177	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 339.º	Dever de informação	4893	4895	150	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 340.º	Fiscalização, acompanhamento e modificação de parcerias públicas-privadas	4897	4913	444	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 341.º	Partilha de benefícios	4915	4919	181	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 342.º	Acompanhamento de processos arbitrais	4921	4925	240	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 343.º	Noção	4933	4937	154	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 344.º	Partes	4939	4949	320	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 345.º	Garantias administrativas do empreiteiro relativamente a eventos que devam ser formalizados em auto	4951	4965	390	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 346.º	Manutenção da boa ordem no local dos trabalhos	4969	4973	148	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 347.º	Publicidade	4975	4977	34	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 348.º	Menções obrigatórias no local dos trabalhos	4979	4987	222	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 349.º	Meios destinados à execução da obra e dos trabalhos preparatórios ou acessórios	4989	4991	91	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 350.º	Trabalhos preparatórios ou acessórios	4993	5003	266	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 351.º	Expropriações, servidões e ocupação de prédios	5005	5011	166	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 352.º	Posse administrativa e constituição de servidões	5013	5023	278	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 353.º	Reforço da caução	5025	5029	172	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 354.º	Reposição do equilíbrio financeiro por agravamento dos custos na realização da obra	5031	5043	354	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 355.º	Regra geral	5047	5049	37	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 356.º	Dever de consignar	5051	5053	67	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 357.º	Plano final de consignação	5055	5061	106	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 358.º	Consignação total e parcial	5063	5069	267	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 359.º	Prazo e auto de consignação	5071	5077	216	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 360.º	Modificação das condições locais e suspensão do procedimento de consignação	5079	5085	237	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 361.º	Plano de trabalhos	5089	5107	431	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 361.º-A	Plano de pagamentos	5109	5115	360	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 362.º	Prazo de execução da obra e das prestações de concepção	5117	5125	278	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 363.º	Início dos trabalhos	5127	5131	112	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 364.º	Património cultural e restos humanos	5133	5141	248	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 365.º	Suspensão pelo dono da obra	5145	5153	121	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 366.º	Suspensão pelo empreiteiro	5155	5171	456	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 367.º	Suspensão autorizada pelo dono da obra	5173	5175	63	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 368.º	Suspensão por período excessivo	5177	5179	85	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 369.º	Auto de suspensão	5181	5183	100	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 370.º	Trabalhos complementares	5187	5201	296	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 370.º-A	Alterações ao projeto da iniciativa do empreiteiro	5203	5207	263	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 371.º	Obrigação de execução de trabalhos complementares	5209	5215	447	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 372.º	Recusa da execução de trabalhos complementares	5217	5225	491	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 373.º	Preço e prazo de execução dos trabalhos complementares	5227	5235	782	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 374.º	Prorrogação do prazo de execução da obra	5237	5241	146	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 375.º	Formalização dos trabalhos complementares	5243	5247	249	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 376.º	Obrigação de execução de trabalhos de suprimento de erros e omissões	5249	5273	795	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 377.º	Preço e prazo de execução dos trabalhos de suprimento de erros e omissões	5275	5291	329	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 378.º	Responsabilidade pelos trabalhos complementares	5293	5317	724	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 379.º	Trabalhos a menos	5319	5323	98	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 380.º	Inutilização de trabalhos já executados	5325	5329	149	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 381.º	Indemnização por redução do preço contratual	5331	5341	234	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 382.º	Revisão ordinária de preços	5343	5347	111	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 383.º	Limites às subempreitadas	5351	5365	306	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 384.º	Forma e conteúdo	5367	5389	316	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 385.º	Subempreitadas na fase de execução	5391	5397	359	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 386.º	Oposição e recusa de autorização à subempreitada	5399	5403	137	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 387.º	Objecto da medição	5409	5411	52	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 388.º	Procedimento e critérios da medição	5413	5419	108	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 388.º-A	Cumprimento de marcos de execução	5421	5425	108	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 389.º	Situação de trabalhos	5427	5433	184	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 390.º	Erros de medição	5435	5439	118	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 391.º	Situação provisória de trabalhos	5441	5449	334	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 392.º	Liquidação e pagamento	5453	5459	222	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 393.º	Pagamento provisório	5461	5465	204	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 393.º-A	Liquidação e pagamento por marcos de execução	5467	5471	147	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 394.º	Vistoria	5475	5495	527	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 395.º	Auto de recepção provisória	5497	5519	637	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 396.º	Defeitos da obra	5521	5529	229	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 397.º	Garantia da obra	5531	5553	556	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 398.º	Recepção definitiva	5555	5573	419	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 399.º	Elaboração da conta	5577	5583	131	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 400.º	Elementos da conta	5585	5587	178	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 401.º	Notificação da conta final ao empreiteiro	5589	5597	197	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 402.º	Relatório final da obra	5599	5605	169	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 403.º	Atraso na execução da obra	5609	5617	252	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 404.º	Desvio do plano de trabalhos	5619	5627	382	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 405.º	Resolução pelo dono da obra	5631	5637	770	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 406.º	Resolução pelo empreiteiro	5639	5655	309	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 407.º	Noção	5663	5667	235	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 407.º-A	Transferência de risco de exploração	5669	5673	211	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 408.º	Aplicação subsidiária	5675	5677	40	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 409.º	Exercício de poderes e prerrogativas de autoridade	5679	5683	220	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 410.º	Prazo	5685	5693	240	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 410.º-A	Valor do contrato de concessão (revogado)	5695	5701	99	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 411.º	Concessionário	5703	5707	82	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 412.º	Outras actividades	5709	5715	203	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 413.º	Partilha de riscos (revogado)	5717	5723	96	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 414.º	Obrigações do concessionário	5725	5729	220	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 415.º	Direitos do concessionário	5731	5735	130	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 416.º	Viabilidade económico-financeira do projecto	5737	5741	141	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 417.º	Cedência de elementos ao concedente	5743	5747	136	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 418.º	Indicadores de acompanhamento e avaliação do desempenho do concessionário	5749	5753	220	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 419.º	Estabelecimento da concessão	5755	5759	545	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 419.º-A	Trabalhadores afetos à concessão	5761	5767	288	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 420.º	Direitos do concedente	5769	5773	162	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 420.º-A	Modificações ao contrato	5775	5783	121	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 421.º	Sequestro	5785	5803	526	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 422.º	Resgate	5805	5821	402	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 423.º	Resolução pelo concedente	5823	5843	416	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 424.º	Responsabilidade perante terceiros	5845	5849	154	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 425.º	Efeitos da extinção do contrato no termo previsto	5851	5855	376	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 426.º	Remissão	5859	5861	88	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 427.º	Conservação e uso da obra e dos bens afectos à concessão	5863	5869	195	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 428.º	Zonas de exploração comercial	5871	5879	291	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 428.º-A	Objeto da concessão de serviços	5881	5885	151	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 429.º	Princípios gerais e regime especial da concessão de serviços públicos	5891	5897	155	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 430.º	Contratos afins	5899	5903	104	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 431.º	Noção	5907	5911	90	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 432.º	Remissão	5913	5915	60	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 433.º	Obrigações de reparação e manutenção	5917	5921	126	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 434.º	Indemnização por mora do contraente público nos pagamentos	5923	5925	53	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 435.º	Cedência do gozo e sublocação do bem locado	5927	5929	79	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 436.º	Resolução pelo contraente público	5931	5933	104	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 437.º	Noção	5937	5939	36	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 438.º	Remissão (revogado)	5941	5945	48	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 439.º	Objecto	5947	5949	65	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 440.º	Prazo	5951	5955	152	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 441.º	Conformidade dos bens a entregar	5957	5963	166	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 442.º	Acompanhamento do fabrico	5965	5977	404	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 443.º	Entrega dos bens	5979	5985	154	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 444.º	Obrigações do fornecedor em relação aos bens entregues	5987	5999	436	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 445.º	Encargos gerais	6001	6011	250	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 446.º	Continuidade de fabrico	6013	6015	100	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 447.º	Direitos de propriedade intelectual	6017	6023	268	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 447.º-A	Modificações ao contrato	6025	6029	76	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 448.º	Resolução pelo contraente público	6031	6035	175	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 449.º	Resolução pelo fornecedor	6037	6039	78	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 450.º	Noção	6043	6045	48	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 451.º	Remissão	6047	6053	121	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 452.º	Instalações e equipamentos	6055	6057	65	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 453.º	Obrigações de serviço público	6059	6063	130	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 454.º	Modificações ao contrato	6065	6083	179	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 454.º-A	Acompanhamento e monitorização dos contratos públicos	6095	6099	152	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 454.º-B	Auditoria e fiscalização dos contratos públicos	6101	6105	114	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 454.º-C	Dever de colaboração com outras autoridades	6107	6113	215	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 455.º	Restrição do âmbito de aplicação	6119	6125	243	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 456.º	Contra-ordenações muito graves	6127	6137	456	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 457.º	Contra-ordenações graves	6139	6155	360	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 458.º	Contra-ordenações simples	6157	6169	181	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 459.º	Tentativa e negligência	6171	6175	55	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 460.º	Sanção de proibição de participação	6177	6183	171	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 461.º	Competência para o processo de contra-ordenação	6185	6195	209	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 462.º	Cobrança das coimas	6197	6205	184	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 463.º	Publicidade da sanção	6207	6211	95	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 464.º	Responsabilidade criminal	6213	6217	85	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 464.º-A	Proibição de participação decorrente de incumprimento contratual (revogado)	6219	6227	143	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 464.º-B	Princípio geral	6233	6237	111	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 464.º-C	Arbitragem	6239	6255	360	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 464.º-D	Prevenção e resolução amigável de litígios	6257	6263	142	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 464.º-E	Processo da conciliação	6265	6279	276	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 464.º-F	Acordo	6281	6285	68	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 464.º-G	Interrupção de prazos de prescrição e de caducidade	6287	6291	130	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 465.º	Publicitação dos contratos	6295	6305	200	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 466.º	Observatório das obras públicas (revogado)	6307	6311	61	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 467.º	Notificações	6313	6315	48	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 468.º	Comunicações	6317	6327	347	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 469.º	Data da notificação e da comunicação	6329	6333	197	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 470.º	Contagem dos prazos na fase de formação dos contratos	6335	6343	210	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 471.º	Contagem dos prazos na fase de execução dos contratos	6345	6357	272	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 472.º	Obrigações perante a Comissão Europeia	6359	6367	706	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 473.º	Imposto sobre o valor acrescentado	6369	6373	95	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 474.º	Montantes dos limiares europeus	6375	6387	1648	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 475.º	Base de dados de certificados (e-Certis)	6389	6395	279	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Artigo 476.º	Resolução alternativa de litígios (revogado)	6397	6403	99	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo I	Modelo de declaração (revogado)	6405	6413	164	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo II	Modelo de declaração (revogado)	6415	6425	206	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo III	Modelo de ficha (revogado)	6427	6431	88	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo IV	Expressão matemática que traduz o requisito mínimo de capacidade financeira [a que se refere a alínea i) do n.º 1, o n.º 4 do artigo 164.ºe o n.º 2 do artigo 16	6433	6437	128	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo V	Modelo de declaração (revogado)	6439	6445	129	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo VI	Modelo de declaração bancária [a que se refere a alínea a) do n.º 3 do artigo 179.º]	6447	6459	468	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo VII	Especificações técnicas	6461	6485	981	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo VIII	Lista de serviços de investigação e de desenvolvimento (revogado)	6487	6491	100	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo IX	Lista de serviços de saúde, serviços sociais, serviços de ensino, serviços artístico-culturais e outros serviços específicos	6493	6501	160	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo X	Lista de serviços de saúde, serviços sociais e serviços culturais que podem participar em procedimentos reservados	6503	6509	92	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo XI	Lista de atividades de construção civil	6511	6519	104	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo XII	Modelos para a aceitação da jurisdição de centro de arbitragem	6521	6531	279	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo XIII	Modelos de declaração de inexistência de conflito de interesses (revogado)	6533	6539	138	legislacao-pt/decreto-lei-18-2008.md
-decreto-lei-18-2008	Anexo XIV	Recurso a catálogos eletrónicos no sistema de aquisição dinâmico e nos acordos-quadro	6541	6571	624	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 37.º	Decisão de contratar nas parcerias público-privadas	1087	1093	292	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 38.º	Decisão de escolha do procedimento	1095	1097	62	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 39.º	Agrupamento de entidades adjudicantes	1099	1107	1038	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 40.º	Tipos de peças	1111	1139	502	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 41.º	Programa do procedimento	1141	1143	44	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 42.º	Caderno de encargos	1145	1157	1006	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 43.º	Caderno de encargos do procedimento de formação de contratos de empreitada	1159	1173	1085	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 43.º-A	Caderno de encargos do procedimento de formação de contratos de empreitada de conceção-construção	1175	1179	297	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 44.º	Cadernos de encargos relativos a contratos de concessão	1181	1187	202	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 45.º	Caderno de encargos das parcerias público-privadas	1189	1193	139	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 46.º	Formulários de caderno de encargos	1195	1199	252	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 46.º-A	Adjudicação por lotes	1201	1207	534	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 47.º	Preço base	1209	1215	243	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 48.º	Fundamentação do prazo de vigência	1217	1219	68	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 49.º	Especificações técnicas	1221	1231	1530	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 49.º-A	Rótulos e relatórios de ensaio, certificação e outros meios de prova	1233	1243	196	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 49.º-B	Especificações técnicas e prioridade à eficiência energética	1245	1249	139	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 50.º	Esclarecimentos, retificação e alteração das peças do procedimento	1251	1287	908	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 51.º	Prevalência	1289	1291	54	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 52.º	Candidatos	1295	1299	120	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 53.º	Concorrentes	1301	1303	49	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 54.º	Agrupamentos	1305	1313	215	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 54.º-A	Contratos reservados	1315	1325	646	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 55.º	Impedimentos	1327	1339	1888	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 55.º-A	Relevação dos impedimentos	1341	1347	460	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 56.º	Noção de proposta	1351	1355	372	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 57.º	Documentos da proposta	1357	1369	943	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 57.º-A	Documento demonstrativo da estrutura de custos do trabalho	1371	1377	316	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 58.º	Idioma dos documentos da proposta	1379	1387	267	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 59.º	Propostas variantes	1389	1397	470	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 60.º	Indicação do preço	1399	1405	214	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 61.º	Erros e omissões do caderno de encargos	1407	1437	756	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 62.º	Modo de apresentação das propostas	1439	1445	377	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 62.º-A	Catálogos eletrónicos	1447	1455	228	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 63.º	Fixação do prazo para a apresentação das propostas	1457	1461	176	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 64.º	Prorrogação do prazo fixado para a apresentação das propostas	1463	1471	532	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 65.º	Prazo da obrigação de manutenção das propostas	1473	1475	84	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 66.º	Classificação de documentos da proposta	1477	1493	518	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 67.º	Júri	1497	1503	391	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 68.º	Funcionamento	1505	1517	240	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 69.º	Competência do júri	1519	1525	216	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 70.º	Análise das propostas	1529	1543	1438	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 71.º	Preço ou custo anormalmente baixo	1545	1553	652	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 72.º	Esclarecimentos e suprimento de propostas e candidaturas	1555	1563	660	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 73.º	Noção de adjudicação	1565	1571	141	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 74.º	Critério de adjudicação	1573	1581	638	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 75.º	Factores e subfactores	1583	1593	1372	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 76.º	Dever de adjudicação	1595	1599	249	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 77.º	Notificação da decisão de adjudicação	1601	1609	422	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 78.º	Anúncio da adjudicação	1611	1619	943	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 78.º-A	Anúncio voluntário de transparência	1621	1629	328	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 79.º	Causas de não adjudicação	1631	1639	570	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 80.º	Revogação da decisão de contratar	1641	1647	86	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 80.º-A	Extinção do procedimento por impossibilidade de adjudicação	1649	1653	185	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 81.º	Habilitação para contratar	1657	1669	624	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 82.º	Idioma dos documentos de habilitação (revogado)	1671	1675	62	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 83.º	Modo de apresentação dos documentos de habilitação (revogado)	1677	1683	103	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 83.º-A	Força probatória dos documentos de habilitação	1685	1693	508	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 84.º	Apresentação dos documentos de habilitação por agrupamentos (revogado)	1695	1699	68	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 85.º	Notificação da apresentação dos documentos de habilitação	1701	1707	274	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 86.º	Não apresentação dos documentos de habilitação	1709	1721	699	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 87.º	Falsidade de documentos e declarações	1723	1725	86	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 87.º-A	Outras causas de caducidade da adjudicação	1727	1733	439	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 88.º	Função da caução	1737	1745	507	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 89.º	Valor da caução	1747	1755	457	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 90.º	Modo de prestação da caução	1757	1775	536	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 91.º	Não prestação da caução	1777	1783	418	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 92.º	Prorrogação do prazo para a confirmação de compromissos	1787	1789	85	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 93.º	Não confirmação de compromissos	1791	1795	204	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 94.º	Redução do contrato a escrito	1799	1805	191	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 95.º	Inexigibilidade e dispensa de redução do contrato a escrito	1807	1813	773	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 96.º	Conteúdo do contrato	1815	1821	803	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 97.º	Preço contratual	1823	1835	190	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 98.º	Aprovação da minuta do contrato	1837	1843	230	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 99.º	Ajustamentos ao conteúdo do contrato a celebrar	1845	1849	322	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 100.º	Notificação da minuta do contrato	1851	1857	117	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 101.º	Aceitação da minuta do contrato	1859	1863	132	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 102.º	Reclamação da minuta do contrato	1865	1869	294	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 103.º	Notificação dos ajustamentos ao contrato	1871	1873	54	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 104.º	Outorga do contrato	1875	1909	641	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 105.º	Não outorga do contrato	1911	1929	372	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 106.º	Representação na outorga do contrato	1931	1943	318	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 107.º	Informações sobre o procedimento	1947	1969	274	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 108.º	Relatório de contratação (revogado)	1971	1975	59	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 109.º	Norma de habilitação	1979	1991	440	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 110.º	Delegação de competências nos órgãos dos institutos públicos	1993	1995	134	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 111.º	Delegação das competências do Conselho de Ministros ou do Conselho do Governo Regional	1997	1999	95	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 112.º	Noção de consulta prévia e de ajuste direto	2011	2017	149	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 113.º	Escolha das entidades convidadas	2019	2029	740	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 114.º	Número de entidades convidadas	2031	2053	421	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 115.º	Convite	2055	2111	874	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 116.º	Esclarecimentos e rectificação das peças do procedimento	2113	2117	118	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 117.º	Agrupamentos	2119	2129	182	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 118.º	Negociações	2131	2143	299	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 119.º	Representação dos concorrentes nas sessões de negociação	2145	2147	78	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 120.º	Formalidades a observar	2149	2159	279	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 121.º	Versões finais das propostas	2161	2165	146	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 122.º	Relatório preliminar	2167	2177	281	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 123.º	Audiência prévia	2179	2185	181	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 124.º	Relatório final	2187	2197	325	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 125.º	Adjudicação no caso de apresentação de uma única proposta	2199	2203	134	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 126.º	Apresentação de documentos de habilitação	2205	2215	283	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 127.º	Publicitação e eficácia do contrato	2217	2231	295	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 127.º-A	Noção e regime de consulta prévia especial	2239	2247	168	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 127.º-B	Âmbito e condicionalismos de adoção da consulta prévia especial	2249	2265	460	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 127.º-C	Escolha das entidades convidadas	2267	2279	406	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 128.º	Tramitação	2287	2303	470	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 129.º	Prazo e preços	2305	2313	160	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 129.º-A	Contratação em situações excecionais	2315	2319	550	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 130.º	Anúncio	2325	2329	133	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 131.º	Anúncio no Jornal Oficial da União Europeia	2331	2339	484	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 132.º	Programa do concurso	2341	2353	924	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 133.º	Disponibilização eletrónica das peças do concurso	2355	2363	426	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 134.º	Devolução do preço pago pela disponibilização das peças do concurso (revogado)	2365	2369	70	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 135.º	Prazo mínimo para a apresentação das propostas em concursos públicos sem publicidade internacional	2373	2379	216	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 136.º	Prazos mínimos para a apresentação das propostas em concursos públicos com publicidade internacional	2381	2399	432	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 137.º	Retirada da proposta	2401	2405	91	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 138.º	Lista dos concorrentes e consulta das propostas apresentadas	2407	2415	246	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 139.º	Modelo de avaliação das propostas	2419	2433	432	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 140.º	Âmbito	2437	2449	294	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 141.º	Indicações relativas ao leilão electrónico	2451	2461	172	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 142.º	Convite	2463	2473	95	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 143.º	Regras do leilão electrónico	2475	2479	108	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 144.º	Confidencialidade	2481	2483	48	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 145.º	Modos de encerramento do leilão electrónico	2485	2497	205	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 146.º	Relatório preliminar	2501	2515	508	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 147.º	Audiência prévia	2517	2523	164	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 148.º	Relatório final	2525	2529	355	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 149.º	Âmbito	2533	2539	280	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 150.º	Indicações relativas à fase de negociação	2541	2551	248	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 151.º	Remissão	2553	2557	98	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 152.º	Segundo relatório preliminar	2559	2563	329	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 153.º	Audiência prévia	2565	2567	85	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 154.º	Segundo relatório final	2569	2571	36	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 155.º	Âmbito e pressupostos	2575	2581	238	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 156.º	Tramitação	2583	2589	152	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 157.º	Anúncio	2591	2597	140	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 158.º	Prazo mínimo para a apresentação das propostas	2599	2603	122	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 159.º	Prazo da obrigação de manutenção das propostas	2605	2607	43	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 160.º	Adjudicação	2609	2615	122	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 161.º	Prazo para a apresentação dos documentos de habilitação	2617	2619	72	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 161.º-A	Âmbito e condicionalismos de aplicação	2625	2641	303	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 161.º-B	Regras especiais	2643	2661	344	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 161.º-C	Programa do concurso	2663	2671	190	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 161.º-D	Requisitos mínimos de capacidade técnica e financeira	2673	2679	142	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 161.º-E	Avaliação faseada das propostas	2681	2691	256	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 162.º	Regime	2697	2701	85	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 163.º	Fases do procedimento	2703	2709	63	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 164.º	Programa do concurso	2711	2723	951	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 165.º	Requisitos mínimos de capacidade técnica e financeira	2725	2731	790	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 165.º-A	Recurso às capacidades de terceiros	2733	2737	104	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 166.º	Esclarecimentos e rectificação das peças do concurso	2739	2743	106	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 167.º	Anúncio	2747	2773	508	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 168.º	Documentos da candidatura	2775	2781	621	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 169.º	Idioma dos documentos da candidatura	2783	2787	208	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 170.º	Modo de apresentação das candidaturas	2789	2807	461	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 171.º	Apresentação das candidaturas por agrupamentos	2809	2811	76	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 172.º	Fixação do prazo para a apresentação das candidaturas	2813	2817	113	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 173.º	Prazo mínimo para a apresentação das candidaturas em concursos limitados por prévia qualificação sem publicidade internacional	2819	2823	152	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 174.º	Prazos mínimos para a apresentação das candidaturas em concursos limitados por prévia qualificação com publicidade internacional	2825	2837	434	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 175.º	Prorrogação do prazo fixado para a apresentação das candidaturas	2839	2847	355	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 176.º	Retirada da candidatura	2849	2853	91	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 176.º-A	Classificação de documentos da candidatura	2855	2859	83	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 177.º	Lista dos candidatos e consulta das candidaturas apresentadas	2861	2869	248	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 178.º	Análise das candidaturas	2871	2875	94	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 179.º	Modelo simples de qualificação	2877	2889	321	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 180.º	Revogação, invalidade, ineficácia ou extinção da declaração bancária	2891	2897	260	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 181.º	Modelo complexo de qualificação: Sistema de selecção	2899	2903	292	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 182.º	Preenchimento dos requisitos mínimos por agrupamentos candidatos	2905	2915	258	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 183.º	Esclarecimentos sobre os documentos destinados à qualificação dos candidatos	2917	2921	155	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 184.º	Relatório preliminar da fase de qualificação	2923	2929	773	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 185.º	Audiência prévia	2931	2933	66	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 186.º	Relatório final da fase de qualificação	2935	2945	327	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 187.º	Dever de qualificação	2947	2953	309	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 188.º	Notificação da decisão de qualificação	2955	2961	515	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 189.º	Convite	2965	2971	505	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 190.º	Prazo mínimo para a apresentação das propostas em concursos limitados por prévia qualificação sem publicidade internacional	2973	2979	219	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 191.º	Prazos mínimos para a apresentação das propostas em concursos limitados por prévia qualificação com publicidade internacional	2981	2999	519	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 192.º	Acordo sobre a fixação do prazo para a apresentação das propostas	3001	3011	383	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 193.º	Regime	3017	3019	60	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 194.º	Fases do procedimento	3021	3031	79	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 195.º	Inadmissibilidade de leilão electrónico	3033	3035	39	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 196.º	Programa do procedimento de negociação	3037	3043	229	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 197.º	Anúncios	3047	3053	170	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 198.º	Prazos mínimos para a apresentação das candidaturas	3055	3063	256	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 199.º	Convite	3067	3069	55	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 200.º	Remissão	3071	3073	46	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 201.º	Início da negociação	3077	3083	90	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 202.º	Negociação e apresentação das versões finais das propostas	3085	3087	57	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 203.º	Remissão	3091	3095	78	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 204.º	Regime	3101	3105	102	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 205.º	Fases do procedimento	3107	3115	76	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 206.º	Programa do procedimento de diálogo concorrencial	3117	3127	289	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 207.º	Memória descritiva e caderno de encargos	3129	3135	130	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 208.º	Anúncios	3139	3145	256	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 209.º	Convite à apresentação das soluções	3149	3161	206	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 210.º	Apresentação de soluções	3163	3167	52	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 211.º	Idioma das soluções	3169	3173	94	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 212.º	Admissão e exclusão das soluções	3175	3195	342	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 213.º	Diálogo	3197	3199	76	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 214.º	Formalidades a observar	3201	3217	396	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 215.º	Relatório do diálogo	3219	3225	177	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 216.º	Notificação da conclusão do diálogo	3227	3229	70	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 217.º	Convite	3233	3237	216	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 218.º	Prazos mínimos para a apresentação das propostas em procedimento de diálogo concorrencial	3239	3243	93	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 218.º-A	Regime	3249	3273	407	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 218.º-B	Convite à apresentação de propostas de projetos de investigação e desenvolvimento	3275	3291	292	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 218.º-C	Negociação das propostas de projetos de investigação e desenvolvimento	3293	3301	186	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 218.º-D	Análise das propostas e celebração da parceria	3303	3319	482	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º	Âmbito (revogado)	3325	3331	92	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-A	Âmbito e modalidades	3333	3347	493	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-B	Disposições gerais	3349	3361	346	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-C	Publicidade	3363	3369	442	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-D	Termos de referência	3371	3407	694	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-E	Júri do concurso de conceção	3409	3417	281	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-F	Formalidades do concurso público de conceção	3419	3435	407	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-G	Formalidades do concurso limitado de conceção	3437	3445	249	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-H	Formalidades do concurso de conceção simplificado	3447	3451	105	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-I	Decisão de seleção e prémios	3453	3471	480	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 219.º-J	Concurso de ideias	3473	3491	463	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 220.º	Modalidades do concurso de concepção (revogado)	3493	3497	62	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 221.º	Início do concurso de concepção (revogado)	3499	3503	61	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 222.º	Decisão de escolha da modalidade do concurso de concepção (revogado)	3505	3509	68	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 223.º	Agrupamento de entidades adjudicantes (revogado)	3511	3515	62	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 224.º	Anúncio do concurso de concepção (revogado)	3517	3521	61	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 225.º	Anúncio no Jornal Oficial da União Europeia (revogado)	3523	3527	64	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 226.º	Termos de referência (revogado)	3529	3533	58	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 227.º	Júri do concurso de concepção (revogado)	3535	3541	102	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 228.º	Anonimato (revogado)	3543	3547	56	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 229.º	Apresentação dos trabalhos de concepção (revogado)	3549	3553	63	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 230.º	Fixação dos prazos para a apresentação dos documentos (revogado)	3555	3559	66	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 231.º	Regras do concurso público (revogado)	3561	3567	102	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 232.º	Regras do concurso limitado por prévia qualificação (revogado)	3569	3573	66	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 233.º	Decisão de selecção e prémios (revogado)	3575	3579	60	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 234.º	Caducidade da decisão de selecção (revogado)	3581	3585	62	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 235.º	Anúncio da decisão de selecção (revogado)	3587	3591	61	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 236.º	Prevalência (revogado)	3593	3597	56	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 237.º	Noção	3601	3617	490	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 238.º	Fases do sistema	3619	3629	171	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 239.º	Instituição do sistema (revogado)	3631	3635	59	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 240.º	Peças do procedimento	3637	3651	348	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 241.º	Versões iniciais de proposta (revogado)	3653	3657	60	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 241.º-A	Participação e qualificação dos candidatos	3659	3671	349	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 241.º-B	Convite à apresentação de proposta	3673	3691	309	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 241.º-C	Leilão e catálogos eletrónicos	3693	3699	216	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 241.º-D	Atualização da documentação dos candidatos qualificados	3701	3705	140	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 242.º	Anúncio simplificado (revogado)	3707	3713	100	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 243.º	Convite (revogado)	3715	3719	55	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 244.º	Avaliação das propostas e adjudicação (revogado)	3721	3727	104	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 245.º	Instituição de sistemas de qualificação	3731	3737	496	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 246.º	Regras dos sistemas de qualificação	3739	3753	647	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 247.º	Participação num sistema de qualificação	3755	3759	114	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 248.º	Actualização das regras e dos critérios de qualificação	3761	3765	137	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 249.º	Decisão de qualificação	3767	3773	168	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 250.º	Selecção dos interessados qualificados	3775	3783	270	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 250.º-A	Contratos de serviços sociais e de outros serviços específicos	3789	3797	232	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 250.º-B	Publicação de anúncios	3799	3809	534	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 250.º-C	Procedimentos pré-contratuais	3811	3817	378	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 250.º-D	Contratos reservados para determinados serviços	3819	3845	667	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 251.º	Noção	3851	3853	74	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 252.º	Modalidades de acordos quadro	3855	3867	281	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 253.º	Procedimento de formação dos acordos quadro	3869	3881	345	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 254.º	Caução	3883	3887	76	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 255.º	Obrigação de celebração de contratos ao abrigo de acordo quadro	3889	3893	108	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 256.º	Prazo máximo de vigência dos acordos quadro	3895	3905	248	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 256.º-A	Obtenção de preço mais vantajoso fora do acordo-quadro	3907	3915	1046	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 257.º	Regras gerais	3919	3941	689	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 258.º	Celebração de contratos ao abrigo de acordos-quadro cujos termos abranjam todos os seus aspetos submetidos à concorrência	3943	3947	262	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 259.º	Celebração de contratos ao abrigo de acordos-quadro cujos termos não abranjam todos os seus aspetos submetidos à concorrência	3949	3953	581	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 260.º	Centrais de compras	3959	3971	294	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 261.º	Principais actividades das centrais de compras	3973	3993	346	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 262.º	Âmbito subjectivo das centrais de compras	3995	3999	131	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 263.º	Admissibilidade da celebração de acordos quadro por centrais de compras	4003	4007	180	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 264.º	Remissão	4009	4011	64	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 265.º	Procedimento de formação dos contratos públicos de aprovisionamento	4013	4017	127	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 266.º	Prazo máximo de vigência dos contratos públicos de aprovisionamento	4019	4021	47	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 266.º-A	Âmbito	4027	4047	272	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 266.º-B	Disponibilização	4049	4061	346	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 266.º-C	Alienação	4063	4083	478	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 267.º	Direito aplicável	4087	4093	155	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 268.º	Natureza	4095	4097	20	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 269.º	Decisões impugnáveis	4099	4103	79	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 270.º	Prazo de impugnação	4105	4107	86	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 271.º	Apresentação da impugnação	4109	4113	96	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 272.º	Efeitos da impugnação	4115	4125	106	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 273.º	Audiência dos contra-interessados	4127	4129	116	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 274.º	Decisão	4131	4135	99	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 275.º	Contratos subsidiados	4139	4151	608	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 276.º	Contratos a celebrar por concessionários de obras públicas que não sejam entidades adjudicantes (revogado)	4153	4165	226	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 277.º	Contratos a celebrar por entidades beneficiárias de direitos especiais ou exclusivos no exercício de actividades de serviço público (revogado)	4167	4171	82	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 278.º	Utilização do contrato administrativo	4181	4183	67	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 279.º	Contrato como fonte da relação jurídica administrativa	4185	4187	74	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 280.º	Direito aplicável	4189	4201	662	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 281.º	Proporcionalidade e conexão material das prestações contratuais	4203	4205	62	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 282.º	Reposição do equilíbrio financeiro do contrato	4207	4219	581	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 283.º	Invalidade consequente de actos procedimentais inválidos	4223	4229	310	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 283.º-A	Anulabilidade de contratos com fundamento em vícios procedimentais	4231	4243	598	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 284.º	Invalidade própria do contrato	4245	4251	264	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 285.º	Regime de invalidade	4253	4261	466	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 286.º	Princípios fundamentais	4265	4267	70	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 287.º	Eficácia do contrato	4269	4277	568	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 288.º	Execução pessoal	4279	4281	86	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 289.º	Colaboração recíproca	4283	4287	122	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 290.º	Informação e sigilo	4289	4295	220	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 290.º-A	Gestor do contrato	4297	4305	528	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 291.º	Protecção do co-contratante pelo contraente público	4307	4309	100	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 292.º	Adiantamentos de preço	4311	4327	462	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 293.º	Garantia suplementar dos adiantamentos	4329	4331	140	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 294.º	Substituição da caução	4333	4337	106	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 295.º	Liberação da caução	4339	4375	978	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 296.º	Execução da caução	4377	4389	224	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 297.º	Suspensão da execução	4391	4397	104	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 298.º	Recomeço da execução	4399	4407	249	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 299.º	Prazo de pagamento	4409	4427	410	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 299.º-A	Vencimento das obrigações pecuniárias	4429	4435	138	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 299.º-B	Fatura eletrónica	4437	4475	545	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 300.º	Revisão de preços	4477	4481	98	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 301.º	Prémios por cumprimento antecipado	4483	4487	101	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 301.º-A	Contratos com forte componente de inovação	4489	4507	509	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 302.º	Poderes do contraente público	4511	4517	244	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 303.º	Princípios respeitantes aos poderes de direcção e de fiscalização	4519	4525	264	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 304.º	Direcção do modo de execução das prestações	4527	4533	293	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 305.º	Fiscalização do modo de execução do contrato	4535	4545	302	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 306.º	Fiscalização do modo de execução dos projectos de investigação e desenvolvimento	4547	4549	79	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 307.º	Natureza das declarações do contraente público	4551	4567	284	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 308.º	Formação dos actos administrativos do contraente público	4569	4575	216	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 309.º	Executividade dos actos administrativos do contraente público	4577	4581	136	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 310.º	Acordos endocontratuais	4583	4589	165	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 311.º	Fonte	4593	4599	204	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 312.º	Permissões de modificação	4601	4609	703	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 313.º	Limites	4611	4623	371	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 314.º	Consequências	4625	4633	168	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 314.º-A	Alteração das circunstâncias	4635	4639	176	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 314.º-B	Alteração das circunstâncias imputável a decisão do contraente público	4641	4645	150	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 315.º	Publicidade das modificações	4647	4655	330	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 316.º	Âmbito	4659	4663	94	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 317.º	Limites à cessão e à subcontratação pelo co-contratante	4665	4677	283	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 318.º	Cessão da posição contratual	4679	4687	432	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 318.º-A	Cessão da posição contratual por incumprimento do cocontratante	4689	4699	659	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 319.º	Autorização à subcontratação pelo cocontratante na fase de execução (revogado)	4701	4707	108	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 319.º-A	Subcontratação	4709	4713	538	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 320.º	Recusa de autorização à subcontratação	4715	4717	128	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 321.º	Responsabilidade do co-contratante	4719	4721	59	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 321.º-A	Pagamento direto ao subcontratado	4723	4731	476	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 322.º	Direitos de step in e step out	4733	4745	396	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 323.º	Alterações societárias	4747	4751	173	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 324.º	Cessão da posição contratual pelo contraente público	4753	4755	93	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 325.º	Incumprimento por facto imputável ao co-contratante	4759	4767	320	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 326.º	Atrasos nos pagamentos	4769	4783	374	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 327.º	Excepção de não cumprimento invocável pelo co-contratante	4785	4789	335	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 328.º	Direito de retenção	4791	4793	42	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 329.º	Aplicação das sanções contratuais	4795	4801	402	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 330.º	Causas de extinção	4805	4813	92	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 331.º	Revogação	4815	4821	66	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 332.º	Resolução do contrato por iniciativa do co-contratante	4823	4841	468	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 333.º	Resolução sancionatória	4843	4847	550	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 334.º	Resolução por razões de interesse público	4849	4855	179	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 335.º	Outros fundamentos de resolução pelo contraente público	4857	4863	218	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 336.º	Negociabilidade da vigência dos vínculos contratuais	4869	4871	129	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 337.º	Causas específicas de caducidade	4873	4877	142	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 338.º	Contratos entre contraentes públicos	4881	4887	177	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 339.º	Dever de informação	4893	4897	196	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 340.º	Fiscalização, acompanhamento e modificação de parcerias público-privadas	4899	4905	415	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 341.º	Partilha de benefícios	4907	4911	222	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 342.º	Acompanhamento de processos arbitrais	4913	4917	286	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 343.º	Noção	4925	4929	154	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 344.º	Partes	4931	4941	320	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 345.º	Garantias administrativas do empreiteiro relativamente a eventos que devam ser formalizados em auto	4943	4957	390	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 346.º	Manutenção da boa ordem no local dos trabalhos	4961	4965	148	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 347.º	Publicidade	4967	4969	34	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 348.º	Menções obrigatórias no local dos trabalhos	4971	4979	222	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 349.º	Meios destinados à execução da obra e dos trabalhos preparatórios ou acessórios	4981	4983	91	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 350.º	Trabalhos preparatórios ou acessórios	4985	4995	266	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 351.º	Expropriações, servidões e ocupação de prédios	4997	5003	166	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 352.º	Posse administrativa e constituição de servidões	5005	5015	278	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 353.º	Reforço da caução	5017	5021	172	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 354.º	Reposição do equilíbrio financeiro por agravamento dos custos na realização da obra	5023	5035	354	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 355.º	Regra geral	5039	5041	37	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 356.º	Dever de consignar	5043	5045	67	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 357.º	Plano final de consignação	5047	5053	106	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 358.º	Consignação total e parcial	5055	5061	267	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 359.º	Prazo e auto de consignação	5063	5069	216	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 360.º	Modificação das condições locais e suspensão do procedimento de consignação	5071	5077	237	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 361.º	Plano de trabalhos	5081	5099	431	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 361.º-A	Plano de pagamentos	5101	5107	360	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 362.º	Prazo de execução da obra e das prestações de concepção	5109	5117	278	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 363.º	Início dos trabalhos	5119	5123	112	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 364.º	Património cultural e restos humanos	5125	5133	248	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 365.º	Suspensão pelo dono da obra	5137	5145	121	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 366.º	Suspensão pelo empreiteiro	5147	5163	456	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 367.º	Suspensão autorizada pelo dono da obra	5165	5167	63	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 368.º	Suspensão por período excessivo	5169	5171	85	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 369.º	Auto de suspensão	5173	5175	100	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 370.º	Trabalhos complementares	5179	5193	296	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 370.º-A	Alterações ao projeto da iniciativa do empreiteiro	5195	5199	263	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 371.º	Obrigação de execução de trabalhos complementares	5201	5207	447	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 372.º	Recusa da execução de trabalhos complementares	5209	5217	492	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 373.º	Preço e prazo de execução dos trabalhos complementares	5219	5227	782	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 374.º	Prorrogação do prazo de execução da obra	5229	5233	146	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 375.º	Formalização dos trabalhos complementares	5235	5239	249	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 376.º	Obrigação de execução de trabalhos de suprimento de erros e omissões	5241	5265	795	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 377.º	Preço e prazo de execução dos trabalhos de suprimento de erros e omissões	5267	5283	329	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 378.º	Responsabilidade pelos trabalhos complementares	5285	5309	724	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 379.º	Trabalhos a menos	5311	5315	98	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 380.º	Inutilização de trabalhos já executados	5317	5321	149	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 381.º	Indemnização por redução do preço contratual	5323	5333	234	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 382.º	Revisão ordinária de preços	5335	5339	111	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 383.º	Limites às subempreitadas	5343	5357	306	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 384.º	Forma e conteúdo	5359	5381	316	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 385.º	Subempreitadas na fase de execução	5383	5389	359	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 386.º	Oposição e recusa de autorização à subempreitada	5391	5395	137	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 387.º	Objecto da medição	5401	5403	52	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 388.º	Procedimento e critérios da medição	5405	5411	108	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 388.º-A	Cumprimento de marcos de execução	5413	5417	108	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 389.º	Situação de trabalhos	5419	5425	184	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 390.º	Erros de medição	5427	5431	118	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 391.º	Situação provisória de trabalhos	5433	5441	334	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 392.º	Liquidação e pagamento	5445	5451	222	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 393.º	Pagamento provisório	5453	5457	204	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 393.º-A	Liquidação e pagamento por marcos de execução	5459	5463	147	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 394.º	Vistoria	5467	5487	527	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 395.º	Auto de recepção provisória	5489	5511	637	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 396.º	Defeitos da obra	5513	5521	229	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 397.º	Garantia da obra	5523	5545	556	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 398.º	Recepção definitiva	5547	5565	419	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 399.º	Elaboração da conta	5569	5575	131	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 400.º	Elementos da conta	5577	5579	178	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 401.º	Notificação da conta final ao empreiteiro	5581	5589	197	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 402.º	Relatório final da obra	5591	5597	169	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 403.º	Atraso na execução da obra	5601	5609	252	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 404.º	Desvio do plano de trabalhos	5611	5619	382	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 405.º	Resolução pelo dono da obra	5623	5627	629	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 406.º	Resolução pelo empreiteiro	5629	5633	340	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 407.º	Noção	5641	5645	235	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 407.º-A	Transferência de risco de exploração	5647	5651	211	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 408.º	Aplicação subsidiária	5653	5655	40	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 409.º	Exercício de poderes e prerrogativas de autoridade	5657	5661	220	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 410.º	Prazo	5663	5671	240	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 410.º-A	Valor do contrato de concessão (revogado)	5673	5679	99	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 411.º	Concessionário	5681	5685	82	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 412.º	Outras actividades	5687	5693	203	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 413.º	Partilha de riscos (revogado)	5695	5701	96	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 414.º	Obrigações do concessionário	5703	5707	220	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 415.º	Direitos do concessionário	5709	5713	130	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 416.º	Viabilidade económico-financeira do projecto	5715	5719	141	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 417.º	Cedência de elementos ao concedente	5721	5725	136	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 418.º	Indicadores de acompanhamento e avaliação do desempenho do concessionário	5727	5731	220	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 419.º	Estabelecimento da concessão	5733	5737	545	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 419.º-A	Trabalhadores afetos à concessão	5739	5745	288	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 420.º	Direitos do concedente	5747	5751	162	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 420.º-A	Modificações ao contrato	5753	5761	121	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 421.º	Sequestro	5763	5781	526	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 422.º	Resgate	5783	5799	402	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 423.º	Resolução pelo concedente	5801	5821	416	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 424.º	Responsabilidade perante terceiros	5823	5827	154	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 425.º	Efeitos da extinção do contrato no termo previsto	5829	5833	376	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 426.º	Remissão	5837	5839	88	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 427.º	Conservação e uso da obra e dos bens afectos à concessão	5841	5847	195	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 428.º	Zonas de exploração comercial	5849	5857	291	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 428.º-A	Objeto da concessão de serviços	5859	5863	151	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 429.º	Princípios gerais e regime especial da concessão de serviços públicos	5869	5875	155	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 430.º	Contratos afins	5877	5881	104	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 431.º	Noção	5885	5889	90	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 432.º	Remissão	5891	5893	60	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 433.º	Obrigações de reparação e manutenção	5895	5899	126	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 434.º	Indemnização por mora do contraente público nos pagamentos	5901	5903	53	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 435.º	Cedência do gozo e sublocação do bem locado	5905	5907	79	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 436.º	Resolução pelo contraente público	5909	5911	104	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 437.º	Noção	5915	5917	36	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 438.º	Remissão (revogado)	5919	5923	48	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 439.º	Objecto	5925	5927	65	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 440.º	Prazo	5929	5933	152	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 441.º	Conformidade dos bens a entregar	5935	5941	166	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 442.º	Acompanhamento do fabrico	5943	5955	404	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 443.º	Entrega dos bens	5957	5963	154	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 444.º	Obrigações do fornecedor em relação aos bens entregues	5965	5977	436	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 445.º	Encargos gerais	5979	5989	250	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 446.º	Continuidade de fabrico	5991	5993	100	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 447.º	Direitos de propriedade intelectual	5995	6001	268	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 447.º-A	Modificações ao contrato	6003	6007	76	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 448.º	Resolução pelo contraente público	6009	6013	175	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 449.º	Resolução pelo fornecedor	6015	6017	78	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 450.º	Noção	6021	6023	48	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 451.º	Remissão	6025	6031	121	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 452.º	Instalações e equipamentos	6033	6035	65	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 453.º	Obrigações de serviço público	6037	6041	130	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 454.º	Modificações ao contrato	6043	6061	179	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 454.º-A	Acompanhamento e monitorização dos contratos públicos	6073	6077	152	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 454.º-B	Auditoria e fiscalização dos contratos públicos	6079	6083	114	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 454.º-C	Dever de colaboração com outras autoridades	6085	6091	215	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 455.º	Restrição do âmbito de aplicação	6097	6103	243	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 456.º	Contra-ordenações muito graves	6105	6115	456	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 457.º	Contra-ordenações graves	6117	6133	360	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 458.º	Contra-ordenações simples	6135	6147	181	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 459.º	Tentativa e negligência	6149	6153	55	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 460.º	Sanção de proibição de participação	6155	6161	171	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 461.º	Competência para o processo de contra-ordenação	6163	6173	209	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 462.º	Cobrança das coimas	6175	6183	184	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 463.º	Publicidade da sanção	6185	6189	95	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 464.º	Responsabilidade criminal	6191	6195	85	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 464.º-A	Proibição de participação decorrente de incumprimento contratual (revogado)	6197	6205	143	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 464.º-B	Princípio geral	6211	6215	111	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 464.º-C	Arbitragem	6217	6233	360	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 464.º-D	Prevenção e resolução amigável de litígios	6235	6241	142	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 464.º-E	Processo da conciliação	6243	6257	276	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 464.º-F	Acordo	6259	6263	68	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 464.º-G	Interrupção de prazos de prescrição e de caducidade	6265	6269	130	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 465.º	Publicitação dos contratos	6273	6283	200	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 466.º	Observatório das obras públicas (revogado)	6285	6289	61	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 467.º	Notificações	6291	6293	48	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 468.º	Comunicações	6295	6305	347	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 469.º	Data da notificação e da comunicação	6307	6311	197	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 470.º	Contagem dos prazos na fase de formação dos contratos	6313	6321	210	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 471.º	Contagem dos prazos na fase de execução dos contratos	6323	6335	272	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 472.º	Obrigações perante a Comissão Europeia	6337	6345	706	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 473.º	Imposto sobre o valor acrescentado	6347	6351	95	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 474.º	Montantes dos limiares europeus	6353	6365	1648	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 475.º	Base de dados de certificados (e-Certis)	6367	6373	279	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Artigo 476.º	Resolução alternativa de litígios (revogado)	6375	6381	99	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo I	Modelo de declaração (revogado)	6383	6391	164	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo II	Modelo de declaração (revogado)	6393	6403	206	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo III	Modelo de ficha (revogado)	6405	6409	88	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo IV	Expressão matemática que traduz o requisito mínimo de capacidade financeira [a que se refere a alínea i) do n.º 1, o n.º 4 do artigo 164.ºe o n.º 2 do artigo 16	6411	6415	128	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo V	Modelo de declaração (revogado)	6417	6423	129	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo VI	Modelo de declaração bancária [a que se refere a alínea a) do n.º 3 do artigo 179.º]	6425	6437	468	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo VII	Especificações técnicas	6439	6463	981	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo VIII	Lista de serviços de investigação e de desenvolvimento (revogado)	6465	6469	100	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo IX	Lista de serviços de saúde, serviços sociais, serviços de ensino, serviços artístico-culturais e outros serviços específicos	6471	6479	160	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo X	Lista de serviços de saúde, serviços sociais e serviços culturais que podem participar em procedimentos reservados	6481	6487	92	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo XI	Lista de atividades de construção civil	6489	6497	104	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo XII	Modelos para a aceitação da jurisdição de centro de arbitragem	6499	6509	279	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo XIII	Modelos de declaração de inexistência de conflito de interesses (revogado)	6511	6517	138	legislacao-pt/decreto-lei-18-2008.md
+decreto-lei-18-2008	Anexo XIV	Recurso a catálogos eletrónicos no sistema de aquisição dinâmico e nos acordos-quadro	6519	6549	624	legislacao-pt/decreto-lei-18-2008.md
 decreto-lei-185-2009	Artigo 1.º	Objecto	80	98	366	legislacao-pt/decreto-lei-185-2009.md
 decreto-lei-185-2009	Artigo 2.º	Alteração ao Código do Registo Predial	100	120	298	legislacao-pt/decreto-lei-185-2009.md
 decreto-lei-185-2009	Artigo 45.º	[...]	122	126	88	legislacao-pt/decreto-lei-185-2009.md

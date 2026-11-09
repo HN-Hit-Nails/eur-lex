@@ -4,2393 +4,1998 @@ titulo_en: "Article 29 Working Party - Guidelines on transparency under Regulati
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2018-04-11'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/article-29-working-party-guidelines-on-transparency-under-regulation-2016679_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2023-09/wp260rev01_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-09/wp260rev01_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
 # Article 29 Working Party - Guidelines on transparency under Regulation 2016/679
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-GRUPO DE TRABALHO DO ARTIGO 29.º PARA A PROTEÇÃO DE
-DADOS
+ARTICLE 29 DATA PROTECTION WORKING PARTY
 
 
 
 
-                                                                                     17/PT
+                                                                                     17/EN
 
                                                                                      WP260 rev.01
 
-                                          Grupo de trabalho do artigo 29.º
+                                               Article 29 Working Party
 
-                  Orientações relativas à transparência na aceção do Regulamento 2016/679
+                             Guidelines on transparency under Regulation 2016/679
 
-                                     Adotadas em 29 de novembro de 2017
+                                         Adopted on 29 November 2017
 
-                         Revistas e adotadas pela última vez em 11 de abril de 2018
+                                 As last Revised and Adopted on 11 April 2018
 
 
 
 
-O GRUPO DE PROTEÇÃO DAS PESSOAS NO QUE DIZ RESPEITO AO
+THE WORKING PARTY ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO THE
 
-TRATAMENTO DE DADOS PESSOAIS
+PROCESSING OF PERSONAL DATA
 
 
-Criado pela Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995,
+set up by Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995,
 
 
 
-Tendo em conta os artigos 29.º e 30.º,
+having regard to Articles 29 and 30 thereof,
 
 
 
-Tendo em conta o seu regulamento interno,
+having regard to its Rules of Procedure,
 
 
 
-ADOTOU AS PRESENTES ORIENTAÇÕES:
+HAS ADOPTED THE PRESENT GUIDELINES:
 
 
 
 
-Este grupo de trabalho foi instituído ao abrigo do artigo 29.º da Diretiva 95/46/CE. Trata-se de um órgão consultivo europeu
-independente em matéria de proteção de dados e privacidade. As suas atribuições encontram-se descritas no artigo 30.º da
-Diretiva 95/46/CE e no artigo 15.º da Diretiva 2002/58/CE.
+This Working Party was set up under Article 29 of Directive 95/46/EC. It is an independent European advisory body on data
+protection and privacy. Its tasks are descr bed in Article 30 of Directive 95/46/EC and Article 15 of Directive 2002/58/EC.
 
-Os serviços de secretariado são prestados pela Direção C (Direitos Fundamentais e Cidadania da União) da Comissão
-Europeia, Direção-Geral de Justiça, B-1049 Bruxelas, Bélgica, Gabinete n.º MO-59 02/013.
+The secretariat is provided by Directorate C (Fundamental Rights and Union Citizenship) of the European Commission,
+Directorate General Justice, B-1049 Brussels, Belgium, Office No MO-59 02/013.
 
-Sítio web: http://ec.europa.eu/newsroom/article29/news.cfm?item_type=1358&tpa_id=6936
+Website: http://ec.europa.eu/newsroom/article29/news.cfm?item type=1358&tpa id=6936
 
-GRUPO DE TRABALHO DO ARTIGO 29.º PARA A PROTEÇÃO DE
-DADOS
+ARTICLE 29 DATA PROTECTION WORKING PARTY
 
 
 
 
-                                                            Índice
-Introdução ........................................................................................................................ 4
-O significado de transparência ............................................................................................ 6
-Elementos da transparência nos termos do RGPD................................................................. 7
-   «Concisa, transparente, inteligível e de fácil acesso» .......................................................................... 7
-   «Linguagem clara e simples» ............................................................................................................... 9
-   Fornecer informações a crianças e outras pessoas vulneráveis .......................................................... 11
-   «Por escrito ou por outros meios» ...................................................................................................... 12
-   «...a informação pode ser prestada oralmente» ................................................................................ 14
-   «A título gratuito» ............................................................................................................................. 15
-Informações a fornecer ao titular dos dados – artigos 13.º e 14.º ........................................... 15
-   Conteúdo ........................................................................................................................................... 15
-   «Medidas adequadas» ....................................................................................................................... 16
-   Quando facultar as informações........................................................................................................ 16
-   Alterações das informações relativas ao artigo 13.º e ao artigo 14.º ................................................. 19
-   Quando notificar alterações das informações relativas ao artigo 13.º e ao artigo 14.º ...................... 20
-   Modalidades — formato da comunicação de informações ................................................................ 21
-   Abordagem estruturada num ambiente digital e declarações de confidencialidade estruturadas ..... 21
-   Abordagem estruturada num ambiente não digital ........................................................................... 23
-   Notificações «push» e «pull» ............................................................................................................. 23
-   Outros tipos de «medidas adequadas» .............................................................................................. 24
-   Informações sobre definição de perfis e decisões automatizadas ...................................................... 25
-   Outras questões — riscos, regras e garantias .................................................................................... 26
-Informações relativas ao tratamento posterior ....................................................................27
-Ferramentas de visualização ............................................................................................. 29
-   Ícones ................................................................................................................................................ 29
-   Procedimentos de certificação, selos e marcas .................................................................................. 30
-Exercício dos direitos dos titulares dos dados ..................................................................... 30
-Exceções à obrigação de fornecer informações .................................................................... 31
-   Exceções previstas no artigo 13.º ....................................................................................................... 31
+                                                   Table of Contents
+Introduction ...................................................................................................................... 4
+The meaning of transparency.............................................................................................. 6
+Elements of transparency under the GDPR........................................................................... 6
+   “Concise, transparent, intelligible and easily accessible” ..................................................................... 7
+   “Clear and plain language” .................................................................................................................. 8
+   Providing information to children and other vulnerable people ......................................................... 10
+   “In writing or by other means” ........................................................................................................... 11
+   “..the information may be provided orally”........................................................................................ 12
+   “Free of charge” ................................................................................................................................. 13
+Information to be provided to the data subject – Articles 13 & 14 ..........................................13
+   Content.............................................................................................................................................. 13
+   “Appropriate measures” .................................................................................................................... 14
+   Timing for provision of information ................................................................................................... 14
+   Changes to Article 13 and Article 14 information ............................................................................... 16
+   Timing of notification of changes to Article 13 and Article 14 information......................................... 17
+   Modalities - format of information provision ..................................................................................... 18
+   Layered approach in a digital environment and layered privacy statements/ notices........................ 19
+   Layered approach in a non-digital environment ................................................................................ 20
+   “Push” and “pull” notices................................................................................................................... 20
+   Other types of “appropriate measures” ............................................................................................. 21
+   Information on profiling and automated decision-making................................................................. 22
+   Other issues – risks, rules and safeguards.......................................................................................... 22
+Information related to further processing ...........................................................................23
+Visualisation tools ............................................................................................................25
+   Icons .................................................................................................................................................. 25
+   Certification mechanisms, seals and marks ....................................................................................... 26
+Exercise of data subjects’ rights ........................................................................................ 26
+Exceptions to the obligation to provide information ............................................................27
+   Article 13 exceptions .......................................................................................................................... 27
+   Article 14 exceptions .......................................................................................................................... 28
 
 
-                                                                   Página 2 de 47
+                                                                     Page 2 of 40
 
-   Exceções previstas no artigo 14.º ....................................................................................................... 32
-   Caso se comprove a impossibilidade, caso envolva um esforço desproporcionado e caso seja
-   suscetível de prejudicar gravemente a obtenção dos objetivos .......................................................... 33
-   «Caso se comprove a impossibilidade» .............................................................................................. 33
-   Impossibilidade de informar qual a origem dos dados ....................................................................... 34
-   «Esforço desproporcionado».............................................................................................................. 34
-   Prejudicar gravemente os objetivos ................................................................................................... 36
-   A obtenção ou divulgação está expressamente prevista no direito .................................................... 37
-   Confidencialidade em virtude de uma obrigação de sigilo profissional .............................................. 38
-Limitações dos direitos dos titulares dos dados .................................................................. 39
-Transparência e violações de dados ................................................................................... 40
-Anexo ............................................................................................................................. 41
+   Proves impossible, disproportionate effort and serious impairment of objectives .............................. 28
+   “Proves impossible” ........................................................................................................................... 29
+   Impossibility of providing the source of the data ............................................................................... 29
+   “Disproportionate effort” ................................................................................................................... 30
+   Serious impairment of objectives ....................................................................................................... 31
+   Obtaining or disclosing is expressly laid down in law ......................................................................... 32
+   Confidentiality by virtue of a secrecy obligation ................................................................................ 33
+Restrictions on data subject rights .....................................................................................33
+Transparency and data breaches ....................................................................................... 34
+Annex ..............................................................................................................................35
 
 
 
 
-                                                             Página 3 de 47
+                                                                 Page 3 of 40
 
-GRUPO DE TRABALHO DO ARTIGO 29.º PARA A PROTEÇÃO DE
-DADOS
-
-
-
-
-Introdução
-
-
-1.       As presentes orientações do Grupo de Trabalho do Artigo 29.º (GT29) servem de guia
-         prático e ajudam a interpretar a nova obrigação de transparência relativa ao tratamento de
-         dados pessoais nos termos do Regulamento Geral sobre a Proteção de Dados 1 («RGPD»). A
-         transparência é uma obrigação abrangente nos termos do RGPD aplicável a três domínios
-         centrais: 1) o fornecimento de informações aos titulares dos dados relacionado com o
-         tratamento leal; 2) de que forma os responsáveis pelo tratamento comunicam com os
-         titulares dos dados em relação aos direitos destes ao abrigo do RGPD; e 3) de que forma os
-         responsáveis pelo tratamento facilitam o exercício dos direitos dos titulares dos dados 2. Na
-         medida em que seja necessário cumprir os requisitos de transparência em relação ao
-         tratamento de dados ao abrigo da Diretiva (UE) 2016/680 3, as presentes orientações
-         também são aplicáveis à interpretação desse princípio 4. As presentes orientações, tal como
-         todas as orientações do GT29, visam ser aplicáveis em termos gerais e pertinentes pelos
-         responsáveis pelo tratamento independentemente das especificações setoriais, industriais
-         ou regulamentares próprias de cada responsável pelo tratamento. Como tal, as presentes
-         orientações não podem abordar as subtilezas e as muitas variáveis que podem surgir no
-         contexto das obrigações de transparência de um setor, de uma indústria ou de um domínio
-         regulamentar específico. Contudo, as presentes orientações visam permitir que os
-         responsáveis pelo tratamento compreendam, a um nível elevado, a interpretação do GT29
-         relativamente àquilo que as obrigações de transparência implicam na prática e dar a
-         conhecer a abordagem que o GT29 considera que os responsáveis pelo tratamento devem
-         seguir para serem transparentes, ao mesmo tempo que incorporam lealdade e
-         responsabilidade nas medidas que adotam em matéria de transparência.
-
-
-
-
-1 Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das
-
-pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a
-Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) (JO L 119 de 4.5.2016, p. 1—88).
-2 As presentes orientações estabelecem princípios gerais em relação ao exercício dos direitos dos titulares dos dados, em
-
-vez de considerarem modalidades específicas para cada um dos direitos individuais dos titulares dos dados ao abrigo do
-RGPD.
-3 Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à proteção das pessoas
-
-singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de
-prevenção, investigação, deteção ou repressão de infrações penais ou execução de sanções penais, e à livre circulação
-desses dados, e que revoga a Decisão-Quadro 2008/977/JAI do Conselho (JO L 119 de 4.5.2016, p. 89—131).
-4 Embora a transparência não seja um dos princípios relacionados com o tratamento de dados pessoais definidos no
-
-artigo 4.º da Diretiva (UE) 2016/680, o considerando 26 determina que o tratamento de dados pessoais tem de ser feito de
-forma «lícita, leal e transparente» para com as pessoas singulares em causa.
-
-
-
-                                                   Página 4 de 47
-
-2.       A transparência é um dos elementos há muito consagrados no direito da UE 5. Trata-se de
-         criar confiança nos processos que afetam os cidadãos fazendo com que estes
-         compreendam e, se necessário, se oponham a esses processos. Trata-se igualmente de uma
-         expressão do princípio da lealdade em relação ao tratamento dos dados pessoais enunciado
-         no artigo 8.º da Carta dos Direitos Fundamentais da União Europeia. Nos termos do RGPD
-         (artigo 5.º, n.º 1, alínea a) 6), para além dos requisitos de que os dados devem ser tratados de
-         forma lícita e leal, foi agora incluída a transparência como aspeto fundamental desses
-         princípios 7. A transparência está intrinsecamente ligada à lealdade e ao novo princípio da
-         responsabilidade ao abrigo do RGPD. Decorre também do artigo 5.º, n.º 2, que o
-         responsável pelo tratamento tem sempre de poder comprovar que os dados pessoais são
-         tratados de forma transparente em relação ao titular dos dados. 8 Associado a isto, o
-         princípio da responsabilidade exige a transparência das operações de tratamento para que
-         os responsáveis pelo tratamento possam comprovar o cumprimento das suas obrigações
-         nos termos do RGPD 9.
-
-3.       Em conformidade com o considerando 171 do RGPD, quando os tratamentos já se
-         encontram em curso antes de 25 de maio de 2018, o responsável pelo tratamento deve
-         assegurar a conformidade com as obrigações de transparência a partir de 25 de maio de
-         2018 (juntamente com todas as outras obrigações nos termos do RGPD). Significa isto que,
-         antes de 25 de maio de 2018, os responsáveis pelo tratamento devem rever todas as
-         informações fornecidas aos titulares dos dados em relação ao tratamento dos dados
-         pessoais desses titulares (por exemplo, em declarações de confidencialidade, etc.) para se
-         assegurarem de que cumpriram os requisitos relativos à transparência que são abordados
-         nas presentes orientações. Quando essas informações sofrem alterações ou são
-         complementadas, os responsáveis pelo tratamento devem esclarecer os titulares dos dados
-         acerca desse facto por forma a cumprirem o RGPD. O GT29 recomenda que se chame
-         ativamente a atenção dos titulares dos dados para as referidas alterações ou aditamentos,
-         mas no mínimo os responsáveis pelo tratamento devem disponibilizar essas informações ao
-         público (p. ex. no seu sítio web). Contudo, se as alterações ou os aditamentos são materiais
-         ou substantivos, em consonância com os pontos 29 a 32 abaixo, importa chamar
-         ativamente a atenção do titular dos dados para essas alterações.
-
-5 O artigo 1.º do TUE refere que as decisões serão tomadas «de uma forma tão aberta quanto possível e ao nível mais
-
-próximo possível dos cidadãos»; o artigo 11.º, n.º 2, determina que: «As instituições estabelecem um diálogo aberto,
-transparente e regular com as associações representativas e com a sociedade civil»; e o artigo 15.º do TFUE refere, entre
-outros aspetos, que todos os cidadãos da União têm direito de acesso aos documentos das instituições, órgãos e
-organismos da União e que cada uma das instituições, órgãos ou organismos deve assegurar a transparência dos seus
-trabalhos.
-6 «Os dados pessoais são: a) Objeto de um tratamento lícito, leal e transparente em relação ao titular dos dados».
-
-7 A Diretiva 95/46/CE só faz alusão à transparência no considerando 38 através de um requisito que determina que o
-
-tratamento de dados deve ser leal, mas não faz referência explícita no artigo equivalente, o artigo 6.º, n.º 1, alínea a).
-8 O artigo 5.º, n.º 2, do RGPD obriga o responsável pelo tratamento a comprovar a transparência (juntamente com cinco
-
-outros princípios relacionados com o tratamento de dados definidos no artigo 5.º, n.º 1) ao abrigo do princípio da
-responsabilidade.
-9 A obrigação que recai sobre os responsáveis pelo tratamento de aplicarem medidas técnicas e organizativas para
-
-assegurar e poder comprovar que o tratamento é efetuado em conformidade com o RGPD encontra-se estabelecida no
-artigo 24.º, n.º 1.
-
-
-
-                                                    Página 5 de 47
-
-4.       A transparência, quando é prática dos responsáveis pelo tratamento, capacita os titulares
-         dos dados a responsabilizarem os responsáveis pelo tratamento e os subcontratantes e a
-         exercerem controlo sobre os seus dados pessoais, por exemplo, dando ou retirando o
-         consentimento informado e fazendo valer os seus direitos enquanto titulares dos dados 10. O
-         conceito de transparência no RGPD, não sendo um conceito legalista, está centrado no
-         utilizador e é concretizado através de requisitos práticos específicos que recaem sobre os
-         responsáveis pelo tratamento e os subcontratantes em diversos artigos. Os requisitos
-         práticos (em matéria de informação) encontram-se definidos nos artigos 12.º a 14.º do
-         RGPD. Contudo, a qualidade, a acessibilidade e a compreensibilidade das informações são
-         tão importantes como o conteúdo efetivo das informações em matéria de transparência,
-         que devem ser fornecidas aos titulares dos dados.
-
-5.       Os requisitos de transparência no RGPD são aplicáveis independentemente do fundamento
-         jurídico do tratamento e ao longo do ciclo de vida do tratamento. Este aspeto está
-         claramente demonstrado no artigo 12.º que prevê que a transparência é aplicável nas
-         seguintes etapas do ciclo de tratamento de dados:
-
-         •         antes ou no início do ciclo de tratamento dos dados, ou seja, quando os dados
-                   pessoais são recolhidos junto do titular dos dados ou obtidos de outra forma,
-         •         ao longo de todo o período de tratamento, ou seja, quando comunicam com os
-                   titulares dos dados acerca dos seus direitos, e
-         •         em momentos específicos enquanto o tratamento está em curso, por exemplo,
-                   quando ocorrem violações de dados ou caso ocorram alterações materiais ao
-                   tratamento.
-
-
-O significado de transparência
-
-6.       A transparência não se encontra definida no RGPD. O considerando 39 do RGPD informa
-         quanto ao significado e ao efeito do princípio da transparência no contexto do tratamento
-         de dados:
-
-                   «Deverá ser transparente para as pessoas singulares que os dados pessoais que lhes
-                   dizem respeito são recolhidos, utilizados, consultados ou sujeitos a qualquer outro tipo
-                   de tratamento e a medida em que os dados pessoais são ou virão a ser tratados. O
-                   princípio da transparência exige que as informações ou comunicações relacionadas
-                   com o tratamento desses dados pessoais sejam de fácil acesso e compreensão, e
-                   formuladas numa linguagem clara e simples. Esse princípio diz respeito, em particular,
-
-
-10Ver, por exemplo, as conclusões do advogado-geral Cruz Villalón (9 de julho de 2015) no processo Bara (Processo C-
-
-201/14) no n.º 74: «esta exigência de informação às pessoas afetadas pelo tratamento dos dados pessoais, que garante a
-transparência de qualquer tratamento, é tanto mais importante quanto condiciona o exercício pelos interessados do seu direito
-de acesso aos dados tratados, previsto no artigo 12.º da Diretiva 95/46, e do seu direito de oposição ao tratamento dos
-referidos dados, previsto no artigo 14.º da mesma diretiva».
-
-
-
-                                                      Página 6 de 47
-
-              às informações fornecidas aos titulares dos dados sobre a identidade do responsável
-              pelo tratamento dos mesmos e os fins a que o tratamento se destina, bem como às
-              informações que se destinam a assegurar que seja efetuado com equidade e
-              transparência para com as pessoas singulares em causa, bem como a salvaguardar o
-              seu direito a obter a confirmação e a comunicação dos dados pessoais que lhes dizem
-              respeito que estão a ser tratados.»
-
-Elementos da transparência nos termos do RGPD
-
-7.    Os principais artigos relacionados com a transparência no RGPD, na medida em que se
-      aplicam aos direitos dos titulares dos dados, encontram-se no capítulo III (Direitos do titular
-      dos dados). O artigo 12.º define as regras gerais aplicáveis: ao fornecimento de informações
-      aos titulares dos dados (nos termos dos artigos 13.º a 14.º); às comunicações com os
-      titulares dos dados a respeito do exercício dos seus direitos (nos termos dos artigos 15.º a
-      22.º); e às comunicações em relação a violações de dados (artigo 34.º). Mais
-      especificamente, o artigo 12.º estipula que as informações ou a comunicação em causa
-      devem cumprir as regras seguintes:
-
-      •       devem ser concisas, transparentes, inteligíveis e de fácil acesso (artigo 12.º, n.º 1),
-      •       devem utilizar uma linguagem clara e simples (artigo 12.º, n.º 1),
-      •       o requisito de utilização de uma linguagem clara e simples é especialmente
-              importante quando as informações se dirigem a crianças (artigo 12.º, n.º 1),
-      •       devem ser prestadas por escrito «ou por outros meios, incluindo se for caso disso, por
-              meios eletrónicos» (artigo 12.º, n.º 1),
-      •       se o titular dos dados o solicitar, podem ser prestadas oralmente (artigo 12.º, n.º 1),
-              e
-      •       são em geral fornecidas a título gratuito (artigo 12.º, n.º 5).
-
-      «Concisa, transparente, inteligível e de fácil acesso»
-
-8.    O requisito de que o fornecimento de informações e a comunicação com os titulares dos
-      dados devem ser efetuados de forma «concisa e transparente» significa que os responsáveis
-      pelo tratamento devem apresentar as informações e comunicar de forma eficiente e sucinta
-      para evitar fadiga informativa. Estas informações devem diferenciar-se claramente de
-      outras informações não relacionadas com a confidencialidade, tais como disposições
-      contratuais ou condições gerais de utilização. Num contexto em linha, a utilização de uma
-      declaração de confidencialidade estruturada permitirá ao titular dos dados navegar para a
-      secção específica da declaração de confidencialidade a que queira aceder imediatamente
-      em vez de ter de percorrer grandes quantidades de texto à procura de questões específicas.
-
-9.    O requisito de que as informações devem ser «inteligíveis» significa que estas devem ser
-      compreendidas por uma pessoa média do público visado. A inteligibilidade está
-      estreitamente relacionada com o requisito de utilização de uma linguagem clara e simples.
-      Um responsável pelo tratamento com responsabilidade dispõe de informações acerca das
-      pessoas em relação às quais recolhe dados e pode utilizar essas informações para
-
-
-                                            Página 7 de 47
-
-      determinar o que esse público é suscetível de compreender. Por exemplo, um responsável
-      pelo tratamento que recolhe dados pessoais de profissionais no ativo pode assumir que o
-      seu público tem um nível mais elevado de compreensão do que um responsável pelo
-      tratamento que obtenha dados pessoais de crianças. Se os responsáveis pelo tratamento
-      não tiverem a certeza quanto ao nível de inteligibilidade e transparência das informações e
-      de eficácia das interfaces de utilizador/declarações/políticas/etc., podem testar estes
-      parâmetros através, por exemplo, de mecanismos como painéis de utilizadores, testes de
-      legibilidade, interações formais e informais e diálogo com grupos da indústria, grupos de
-      defesa dos consumidores e organismos reguladores, se for caso disso, entre outras opções.
-
-10.   Uma consideração central em relação ao princípio da transparência realçada nas presentes
-      disposições é que o titular dos dados deve poder determinar antecipadamente qual o
-      âmbito do tratamento e quais as consequências decorrentes desse tratamento, não
-      devendo mais tarde ser apanhado de surpresa acerca das formas como os seus dados
-      pessoais estão a ser utilizados. Trata-se também de um aspeto importante do princípio da
-      lealdade nos termos do artigo 5.º, n.º 1, do RGPD, estando efetivamente ligado ao
-      considerando 39 que determina que «[a]s pessoas singulares a quem os dados dizem respeito
-      deverão ser alertadas para os riscos, regras, garantias e direitos associados ao tratamento dos
-      dados pessoais...». Em especial, no que diz respeito ao tratamento de dados complexo,
-      técnico ou inesperado, a posição do GT29 é que, para além de fornecerem as informações
-      previstas nos artigos 13.º e 14.º (que serão alvo de análise mais adiante nas presentes
-      orientações), os responsáveis pelo tratamento devem também separadamente especificar
-      numa linguagem inequívoca quais serão as consequências mais importantes do tratamento.
-      Por outras palavras, que tipo de efeito é que o tratamento específico descrito numa
-      declaração de confidencialidade terá realmente num titular dos dados? Em conformidade
-      com o princípio da responsabilidade e em consonância com o considerando 39, os
-      responsáveis pelo tratamento devem avaliar se existem riscos específicos para as pessoas
-      singulares envolvidas neste tipo de tratamento que devam ser comunicados aos titulares
-      dos dados. Trata-se de algo que pode ajudar a proporcionar uma visão geral dos tipos de
-      tratamento que podem ter maior impacto nos direitos e liberdades fundamentais dos
-      titulares dos dados em relação à proteção dos seus dados pessoais.
-
-11.   O elemento «de fácil acesso» significa que o titular dos dados não deve ter de andar à
-      procura das informações; deve ser evidente para o titular dos dados onde e de que forma
-      aceder a essas informações, por exemplo, fornecendo-as diretamente aos titulares dos
-      dados, estabelecendo uma ligação entre os titulares dos dados e as informações,
-      assinalando as informações claramente ou como resposta a uma pergunta em linguagem
-      natural (por exemplo, numa declaração de confidencialidade estruturada em linha; nas
-      perguntas frequentes; através de janelas contextuais ativadas quando o titular dos dados
-      preenche um formulário em linha; ou num contexto digital interativo através de uma
-      interface de conversação, etc. Estes mecanismos serão alvo de mais considerações abaixo,
-      nomeadamente nos pontos 33 a 40).
-
-      Exemplo
-
-
-
-                                          Página 8 de 47
-
-         Todas as organizações que dispõem de sítios web devem publicar uma declaração de
-         confidencialidade no respetivo sítio web. A hiperligação direta para essa declaração de
-         confidencialidade deve estar bem visível em cada página do sítio web mediante a utilização
-         de um termo comum (tal como «Confidencialidade», «Política de confidencialidade» ou
-         «Declaração de Proteção de Dados»). O recurso a um posicionamento ou a um esquema de
-         cores que torne o texto menos visível ou difícil de encontrar na página web não é
-         considerado «de fácil acesso».
-
-         No caso de aplicações, as informações necessárias também devem ser disponibilizadas a
-         partir de uma loja em linha antes de o titular dos dados descarregar a aplicação. Uma vez
-         instalada a aplicação, as informações devem continuar a estar facilmente acessíveis dentro
-         da aplicação. Uma forma de cumprir este requisito é assegurar que as informações nunca
-         estão à distância de mais de «dois toques no ecrã» (p. ex. incluindo uma opção
-         «Confidencialidade»/«Proteção de Dados» nas funcionalidades do menu da aplicação).
-         Além disso, as referidas informações em matéria de confidencialidade devem ser
-         específicas da aplicação em causa e não devem ser apenas a política de confidencialidade
-         genérica da empresa que detém a aplicação ou que a disponibiliza ao público.
-
-         O GT29 recomenda como boa prática que, aquando da recolha de dados pessoais num
-         contexto em linha, seja fornecida uma hiperligação para a declaração de confidencialidade
-         ou que essas informações sejam disponibilizadas na mesma página em que os dados
-         pessoais são recolhidos.
-
-
-
-         «Linguagem clara e simples»
-
-12.      No que diz respeito às informações escritas (e quando as informações escritas são
-         veiculadas oralmente ou através de métodos áudio/audiovisuais, incluindo para os titulares
-         dos dados deficientes visuais), importa seguir as melhores práticas no que toca a escrever
-         com clareza 11. O legislador da UE já utilizou noutras ocasiões um requisito linguístico
-         semelhante (o de «linguagem simples e inteligível) 12, sendo este referido explicitamente no
-         contexto do consentimento no considerando 42 do RGPD 13. O requisito de linguagem clara
-         e simples significa que as informações devem ser veiculadas da forma mais simples possível,
-         evitando frases e estruturas linguísticas complexas. As informações devem ser concretas e
-         definitivas, não devem ser redigidas em termos abstratos ou ambíguos nem deixar margem
-         para interpretações diferentes. Em especial, as finalidades do tratamento dos dados
-         pessoais, bem como o fundamento jurídico do mesmo, devem ser claras.
-
-
-11   É possível consultar a publicação Redigir com Clareza da Comissão Europeia (2011) em:
-https://publications.europa.eu/pt/publication-detail/-/publication/c2dab20c-0414-408d-87b5-dd3c6e5dd9a5.
-12 Artigo 5.º da Diretiva 93/13/CEE do Conselho, de 5 de abril de 1993, relativa às cláusulas abusivas nos contratos
-
-celebrados com os consumidores.
-13 O considerando 42 determina que uma declaração de consentimento, previamente formulada pelo responsável pelo
-
-tratamento, deverá ser fornecida de uma forma inteligível e de fácil acesso, numa linguagem clara e simples e sem
-cláusulas abusivas.
-
-
-
-                                                  Página 9 de 47
-
-          Exemplos de más práticas
-
-         As frases seguintes não são suficientemente claras para as finalidades do tratamento:
-
-              •    «Podemos utilizar os seus dados pessoais para desenvolver novos serviços»
-                   (uma vez que não é claro quais são esses «serviços» nem como é que os
-                   dados ajudarão ao seu desenvolvimento);
-
-              •    «Podemos utilizar os seus dados pessoais para fins de investigação» (uma vez
-                   que não é claro a que tipo de «investigação» se refere); e
-
-              •    «Podemos utilizar os seus dados pessoais para oferecer serviços
-                   personalizados» (uma vez que não é claro o que implica a «personalização»).
-
-         Exemplos de boas práticas 14
-
-              •    «Conservaremos o seu historial de compras e utilizaremos as características dos
-                   produtos que comprou anteriormente para lhe apresentar sugestões de outros
-                   produtos que acreditamos poderem também interessar-lhe» (é claro quais os tipos de
-                   dados que serão tratados, que o titular dos dados está sujeito a receber publicidade
-                   personalizada de produtos e que os seus dados serão utilizados para essa
-                   finalidade);
-
-              •    «Conservaremos e analisaremos informações sobre as visitas que fez recentemente ao
-                   nosso sítio web e sobre a forma como navega nas diferentes secções do nosso sítio web
-                   com a finalidade analítica de compreender como é que as pessoas utilizam o nosso sítio
-                   web por forma a torná-lo mais intuitivo» (é claro quais os tipos de dados que serão
-                   tratados e o tipo de análise que o responsável pelo tratamento irá efetuar); e
-
-              •    «Conservaremos um registo dos artigos do nosso sítio web em que clicou e utilizaremos
-                   essas informações para personalizar a publicidade neste sítio web por forma a ser
-                   pertinente para os seus interesses, que identificamos com base nos artigos que leu» (é
-                   claro o que implica a personalização e de que forma os interesses atribuídos aos
-                   titulares dos dados foram identificados).
-
-
-
-13.      Em termos linguísticos, palavras como «pode», «possa», «alguns», «frequentemente» e
-         «possível» também devem ser evitadas. Quando os responsáveis pelo tratamento optam
-         por utilizar linguagem indefinida, devem conseguir demonstrar, em conformidade com o
-         princípio da responsabilidade, por que razão a utilização dessa linguagem não pôde ser
-
-
-14 O requisito de transparência existe de forma totalmente independente do requisito que recai sobre os responsáveis pelo
-
-tratamento de assegurar que existe um fundamento jurídico adequado para o tratamento nos termos do artigo 6.º.
-
-
-
-                                                   Página 10 de 47
-
-         evitada e que esta não compromete a lealdade do tratamento. As frases e os parágrafos
-         devem ser bem estruturados, utilizando marcas gráficas e níveis múltiplos para assinalar
-         relações hierárquicas. Deve ser utilizada a voz ativa em vez da voz passiva e importa evitar a
-         utilização excessiva de substantivos. As informações fornecidas aos titulares dos dados não
-         devem conter linguagem ou terminologia exageradamente jurídica, técnica ou
-         especializada. Quando as informações são traduzidas para uma ou mais línguas, os
-         responsáveis pelo tratamento devem assegurar que todas as traduções são rigorosas e que
-         a estrutura frásica e a sintaxe fazem sentido na(s) outra(s) língua(s) para que o texto
-         traduzido não tenha de ser decifrado ou reinterpretado. (Deve ser disponibilizada uma
-         tradução para uma ou mais línguas quando os alvos dos responsáveis pelo tratamento 15 são
-         titulares de dados que falam essas línguas.)
-
-         Fornecer informações a crianças e outras pessoas vulneráveis
-
-14.      Um responsável pelo tratamento, quando tem como alvo crianças 16 ou está (ou deveria
-         estar) ciente de que os seus bens/serviços são utilizados especialmente por crianças
-         (incluindo quando o responsável pelo tratamento invoca o consentimento da criança) 17,
-         deve assegurar que o vocabulário, o tom e o estilo da linguagem utilizada são adequados e
-         têm significado para as crianças, para que a criança destinatária das informações reconheça
-         que a mensagem/informação lhe é dirigida 18. É possível encontrar um exemplo útil de
-         linguagem centrada nas crianças utilizada como alternativa à linguagem jurídica original na
-         «Convenção das Nações Unidas sobre os Direitos da Criança em linguagem adequada para
-         crianças» 19.
-
-15.      A posição do GT29 é que a transparência é um direito independente que se aplica tanto às
-         crianças como aos adultos. O GT29 salienta, em especial, que as crianças enquanto titulares
-         de dados não perdem os seus direitos à transparência simplesmente porque o
-         consentimento foi dado/autorizado pelo titular da responsabilidade parental numa situação
-         em que o artigo 8.º do RGPD é aplicável. Embora esse consentimento, em muitos casos,
-         seja dado ou autorizado uma única vez pelo titular da responsabilidade parental, uma
-
-15 Por exemplo, quando o responsável pelo tratamento gere um sítio web na língua em causa e/ou oferece opções
-
-específicas por país e/ou facilita o pagamento de bens ou serviços na moeda de um Estado-Membro específico, então
-estas situações podem indicar que um responsável pelo tratamento tem como alvo titulares de dados de um Estado-
-Membro específico.
-16 A palavra «criança» não se encontra definida no RGPD. Contudo, o GT29 reconhece que, em conformidade com a
-
-Convenção das Nações Unidas sobre os Direitos da Criança, que foi ratificada por todos os Estados-Membros da UE, uma
-criança é uma pessoa com menos de 18 anos.
-17 Ou seja, crianças com 16 anos de idade ou mais velhas (ou, quando em conformidade com o artigo 8.º, n.º 1, do RGPD, o
-
-direito do Estado-Membro definiu a idade de consentimento especificamente entre os 13 e os 16 anos para que crianças
-possam dar o seu consentimento a uma oferta de prestação de serviços da sociedade da informação, crianças que tenham
-essa idade de consentimento a nível nacional).
-18 O considerando 38 determina que: «As crianças merecem proteção especial quanto aos seus dados pessoais, uma vez
-
-que podem estar menos cientes dos riscos, consequências e garantias em questão e dos seus direitos relacionados com o
-tratamento dos dados pessoais». O considerando 58 determina que: «Uma vez que as crianças merecem proteção
-específica, sempre que o tratamento lhes seja dirigido, qualquer informação e comunicação deverá estar redigida numa
-linguagem clara e simples que a criança compreenda facilmente».
+ARTICLE 29 DATA PROTECTION WORKING PARTY
+
+
+
+
+Introduction
+
+
+1.        These guidelines provide practical guidance and interpretative assistance from the Article 29
+          Working Party (WP29) on the new obligation of transparency concerning the processing of
+          personal data under the General Data Protection Regulation1 (the “GDPR”). Transparency is
+          an overarching obligation under the GDPR applying to three central areas: (1) the provision
+          of information to data subjects related to fair processing; (2) how data controllers
+          communicate with data subjects in relation to their rights under the GDPR; and (3) how data
+          controllers facilitate the exercise by data subjects of their rights2. Insofar as compliance with
+          transparency is required in relation to data processing under Directive (EU) 2016/6803, these
+          guidelines also apply to the interpretation of that principle.4 These guidelines are, like all
+          WP29 guidelines, intended to be generally applicable and relevant to controllers irrespective
+          of the sectoral, industry or regulatory specifications particular to any given data controller.
+          As such, these guidelines cannot address the nuances and many variables which may arise in
+          the context of the transparency obligations of a specific sector, industry or regulated area.
+          However, these guidelines are intended to enable controllers to understand, at a high level,
+          WP29’s interpretation of what the transparency obligations entail in practice and to indicate
+          the approach which WP29 considers controllers should take to being transparent while
+          embedding fairness and accountability into their transparency measures.
+
+2.        Transparency is a long established feature of the law of the EU5. It is about engendering trust
+          in the processes which affect the citizen by enabling them to understand, and if necessary,
+          challenge those processes. It is also an expression of the principle of fairness in relation to the
+
+
+1 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural
+
+persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive
+95/46/EC.
+2 These guidelines set out general principles in relation to the exercise of data subjects’ rights rather than considering
+
+specific modalities for each of the individual data subject rights under the GDPR.
+3 Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons
+
+with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation,
+detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data,
+and repealing Council Framework Decision 2008/977/JHA
+4 While transparency is not one of the principles relating to processing of personal data set out in Article 4 of Directive (EU)
+
+2016/680, Recital 26 states that any processing of personal data must be “lawful, fair and transparent” in relation to the
+natural persons concerned.
+5 Article 1 of the TEU refers to decisions being taken “as openly as possible and as close to the citizen as possible”; Article 11(2)
+
+states that “The institutions shall maintain an open, transparent and regular dialogue with representative associations and civil
+society”; and Article 15 of the TFEU refers amongst other things to citizens of the Union having a right of access to
+documents of Union institutions, bodies, offices and agencies and the requirements of those Union institutions, bodies,
+offices and agencies to ensure that their proceedings are transparent.
+
+
+
+                                                          Page 4 of 40
+
+          processing of personal data expressed in Article 8 of the Charter of Fundamental Rights of
+          the European Union. Under the GDPR (Article 5(1)(a)6), in addition to the requirements that
+          data must be processed lawfully and fairly, transparency is now included as a fundamental
+          aspect of these principles.7 Transparency is intrinsically linked to fairness and the new
+          principle of accountability under the GDPR. It also follows from Article 5.2 that the controller
+          must always be able to demonstrate that personal data are processed in a transparent
+          manner in relation to the data subject.8 Connected to this, the accountability principle
+          requires transparency of processing operations in order that data controllers are able to
+          demonstrate compliance with their obligations under the GDPR9.
+
+3.        In accordance with Recital 171 of the GDPR, where processing is already under way prior to
+          25 May 2018, a data controller should ensure that it is compliant with its transparency
+          obligations as of 25 May 2018 (along with all other obligations under the GDPR). This means
+          that prior to 25 May 2018, data controllers should revisit all information provided to data
+          subjects on processing of their personal data (for example in privacy statements/ notices etc.)
+          to ensure that they adhere to the requirements in relation to transparency which are
+          discussed in these guidelines. Where changes or additions are made to such information,
+          controllers should make it clear to data subjects that these changes have been effected in
+          order to comply with the GDPR. WP29 recommends that such changes or additions be
+          actively brought to the attention of data subjects but at a minimum controllers should make
+          this information publically available (e.g. on their website). However, if the changes or
+          additions are material or substantive, then in line with paragraphs 29 to 32 below, such
+          changes should be actively brought to the attention of the data subject.
+
+4.        Transparency, when adhered to by data controllers, empowers data subjects to hold data
+          controllers and processors accountable and to exercise control over their personal data by,
+          for example, providing or withdrawing informed consent and actioning their data subject
+          rights10. The concept of transparency in the GDPR is user-centric rather than legalistic and is
+          realised by way of specific practical requirements on data controllers and processors in a
+          number of articles. The practical (information) requirements are outlined in Articles 12 - 14 of
+          the GDPR. However, the quality, accessibility and comprehensibility of the information is as
+          important as the actual content of the transparency information, which must be provided to
+          data subjects.
+
+
+
+6 “Personal data shall be processed lawfully, fairly and in a transparent manner in relation to the data subject”.
+
+7 In Directive 95/46/EC, transparency was only alluded to in Recital 38 by way of a requirement for processing of data to be
+
+fair, but not expressly referenced in the equivalent Article 6(1)(a).
+8 Article 5.2 of the GDPR obliges a data controller to demonstrate transparency (together with the five other principles
+
+relating to data processing set out in Article 5.1) under the principle of accountability.
+9 The obligation upon data controllers to implement technical and organisational measures to ensure and be able to
+
+demonstrate that processing is performed in accordance with the GDPR is set out in Article 24.1.
+10See, for example, the Opinion of Advocate General Cruz Villalon (9 July 2015) in the Bara case (Case C-201/14) at paragraph
+
+74: “the requirement to inform the data subjects about the processing of their personal data, which guarantees transparency of
+all processing, is all the more important since it affects the exercise by the data subjects of their right of access to the data being
+processed, referred to in Article 12 of Directive 95/46, and their right to object to the processing of those data, set out in Article 14
+of that directive”.
+
+
+                                                            Page 5 of 40
+
+5.     The transparency requirements in the GDPR apply irrespective of the legal basis for
+       processing and throughout the life cycle of processing. This is clear from Article 12 which
+       provides that transparency applies at the following stages of the data processing cycle:
+
+              before or at the start of the data processing cycle, i.e. when the personal data is being
+               collected either from the data subject or otherwise obtained;
+              throughout the whole processing period, i.e. when communicating with data
+               subjects about their rights; and
+              at specific points while processing is ongoing, for example when data breaches occur
+               or in the case of material changes to the processing.
+
+
+The meaning of transparency
+
+6.     Transparency is not defined in the GDPR. Recital 39 of the GDPR is informative as to the
+       meaning and effect of the principle of transparency in the context of data processing:
+
+               “It should be transparent to natural persons that personal data concerning them are
+               collected, used, consulted or otherwise processed and to what extent the personal data
+               are or will be processed. The principle of transparency requires that any information and
+               communication relating to the processing of those personal data be easily accessible
+               and easy to understand, and that clear and plain language be used. That principle
+               concerns, in particular, information to the data subjects on the identity of the controller
+               and the purposes of the processing and further information to ensure fair and
+               transparent processing in respect of the natural persons concerned and their right to
+               obtain confirmation and communication of personal data concerning them which are
+               being processed…”
+
+Elements of transparency under the GDPR
+
+7.     The key articles in relation to transparency in the GDPR, as they apply to the rights of the
+       data subject, are found in Chapter III (Rights of the Data Subject). Article 12 sets out the
+       general rules which apply to: the provision of information to data subjects (under Articles 13
+       - 14); communications with data subjects concerning the exercise of their rights (under
+       Articles 15 - 22); and communications in relation to data breaches (Article 34). In particular
+       Article 12 requires that the information or communication in question must comply with the
+       following rules:
+
+              it must be concise, transparent, intelligible and easily accessible (Article 12.1);
+              clear and plain language must be used (Article 12.1);
+              the requirement for clear and plain language is of particular importance when
+               providing information to children (Article 12.1);
+              it must be in writing “or by other means, including where appropriate, by electronic
+               means” (Article 12.1);
+              where requested by the data subject it may be provided orally (Article 12.1) ; and
+
+
+                                             Page 6 of 40
+
+             it generally must be provided free of charge (Article 12.5).
+
+      “Concise, transparent, intelligible and easily accessible”
+
+8.    The requirement that the provision of information to, and communication with, data subjects
+      is done in a “concise and transparent” manner means that data controllers should present the
+      information/ communication efficiently and succinctly in order to avoid information fatigue.
+      This information should be clearly differentiated from other non-privacy related information
+      such as contractual provisions or general terms of use. In an online context, the use of a
+      layered privacy statement/ notice will enable a data subject to navigate to the particular
+      section of the privacy statement/ notice which they want to immediately access rather than
+      having to scroll through large amounts of text searching for particular issues.
+
+9.    The requirement that information is “intelligible” means that it should be understood by an
+      average member of the intended audience. Intelligibility is closely linked to the requirement
+      to use clear and plain language. An accountable data controller will have knowledge about
+      the people they collect information about and it can use this knowledge to determine what
+      that audience would likely understand. For example, a controller collecting the personal data
+      of working professionals can assume its audience has a higher level of understanding than a
+      controller that obtains the personal data of children. If controllers are uncertain about the
+      level of intelligibility and transparency of the information and effectiveness of user interfaces/
+      notices/ policies etc., they can test these, for example, through mechanisms such as user
+      panels, readability testing, formal and informal interactions and dialogue with industry
+      groups, consumer advocacy groups and regulatory bodies, where appropriate, amongst
+      other things.
+
+10.   A central consideration of the principle of transparency outlined in these provisions is that
+      the data subject should be able to determine in advance what the scope and consequences
+      of the processing entails and that they should not be taken by surprise at a later point about
+      the ways in which their personal data has been used. This is also an important aspect of the
+      principle of fairness under Article 5.1 of the GDPR and indeed is linked to Recital 39 which
+      states that “[n]atural persons should be made aware of risks, rules, safeguards and rights in
+      relation to the processing of personal data...” In particular, for complex, technical or
+      unexpected data processing, WP29’s position is that, as well as providing the prescribed
+      information under Articles 13 and 14 (dealt with later in these guidelines), controllers should
+      also separately spell out in unambiguous language what the most important consequences of
+      the processing will be: in other words, what kind of effect will the specific processing
+      described in a privacy statement/ notice actually have on a data subject? In accordance with
+      the principle of accountability and in line with Recital 39, data controllers should assess
+      whether there are particular risks for natural persons involved in this type of processing which
+      should be brought to the attention of data subjects. This can help to provide an overview of
+      the types of processing that could have the highest impact on the fundamental rights and
+      freedoms of data subjects in relation to the protection of their personal data.
+
+
+
+
+                                             Page 7 of 40
+
+11.      The “easily accessible” element means that the data subject should not have to seek out the
+         information; it should be immediately apparent to them where and how this information can
+         be accessed, for example by providing it directly to them, by linking them to it, by clearly
+         signposting it or as an answer to a natural language question (for example in an online layered
+         privacy statement/ notice, in FAQs, by way of contextual pop-ups which activate when a data
+         subject fills in an online form, or in an interactive digital context through a chatbot interface,
+         etc. These mechanisms are further considered below, including at paragraphs 33 to 40).
+
+           Example
+
+           Every organisation that maintains a website should publish a privacy statement/ notice on
+           the website. A direct link to this privacy statement/ notice should be clearly visible on each
+           page of this website under a commonly used term (such as “Privacy”, “Privacy Policy” or
+           “Data Protection Notice”). Positioning or colour schemes that make a text or link less
+           noticeable, or hard to find on a webpage, are not considered easily accessible.
+
+           For apps, the necessary information should also be made available from an online store
+           prior to download. Once the app is installed, the information still needs to be easily
+           accessible from within the app. One way to meet this requirement is to ensure that the
+           information is never more than “two taps away” (e.g. by including a “Privacy”/ “Data
+           Protection” option in the menu functionality of the app). Additionally, the privacy
+           information in question should be specific to the particular app and should not merely be
+           the generic privacy policy of the company that owns the app or makes it available to the
+           public.
+
+           WP29 recommends as a best practice that at the point of collection of the personal data in
+           an online context a link to the privacy statement/ notice is provided or that this information
+           is made available on the same page on which the personal data is collected.
+
+
+
+         “Clear and plain language”
+
+12.      With written information (and where written information is delivered orally, or by audio/
+         audiovisual methods, including for vision-impaired data subjects), best practices for clear
+         writing should be followed.11 A similar language requirement (for “plain, intelligible
+         language”) has previously been used by the EU legislator12 and is also explicitly referred to in
+         the context of consent in Recital 42 of the GDPR13. The requirement for clear and plain
+         language means that information should be provided in as simple a manner as possible,
+         avoiding complex sentence and language structures. The information should be concrete and
+         definitive; it should not be phrased in abstract or ambivalent terms or leave room for different
+
+11    See How to Write Clearly by the European Commission (2011), to be found at:
+https://publications.europa.eu/en/publication-detail/-/publication/c2dab20c-0414-408d-87b5-dd3c6e5dd9a5.
+12 Article 5 of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts
+
+13 Recital 42 states that a declaration of consent pre-formulated by a data controller should be provided in an intelligible
+
+and easily accessible form, using clear and plain language and it should not contain unfair terms.
+
+
+                                                      Page 8 of 40
+
+          interpretations. In particular the purposes of, and legal basis for, processing the personal data
+          should be clear.
+
+            Poor Practice Examples
+
+           The following phrases are not sufficiently clear as to the purposes of processing:
+
+                    “We may use your personal data to develop new services” (as it is unclear what
+                     the “services” are or how the data will help develop them);
+
+                    “We may use your personal data for research purposes (as it is unclear what kind
+                     of “research” this refers to); and
+
+                    “We may use your personal data to offer personalised services” (as it is unclear
+                     what the “personalisation” entails).
+
+           Good Practice Examples14
+
+                    “We will retain your shopping history and use details of the products you have
+                     previously purchased to make suggestions to you for other products which we believe
+                     you will also be interested in ” (it is clear that what types of data will be processed,
+                     that the data subject will be subject to targeted advertisements for products and
+                     that their data will be used to enable this);
+
+                    “We will retain and evaluate information on your recent visits to our website and how
+                     you move around different sections of our website for analytics purposes to
+                     understand how people use our website so that we can make it more intuitive” (it is
+                     clear what type of data will be processed and the type of analysis which the
+                     controller is going to undertake); and
+
+                    “We will keep a record of the articles on our website that you have clicked on and use
+                     that information to target advertising on this website to you that is relevant to your
+                     interests, which we have identified based on articles you have read” (it is clear what
+                     the personalisation entails and how the interests attributed to the data subject
+                     have been identified).
+
+
+
+13.       Language qualifiers such as “may”, “might”, “some”, “often” and “possible” should also be
+          avoided. Where data controllers opt to use indefinite language, they should be able, in
+          accordance with the principle of accountability, to demonstrate why the use of such language
+          could not be avoided and how it does not undermine the fairness of processing. Paragraphs
+          and sentences should be well structured, utilising bullets and indents to signal hierarchical
+
+
+14 The requirement for transparency exists entirely independently of the requirement upon data controllers to ensure that
+
+there is an appropriate legal basis for the processing under Article 6.
+
+
+                                                        Page 9 of 40
+
+         relationships. Writing should be in the active instead of the passive form and excess nouns
+         should be avoided. The information provided to a data subject should not contain overly
+         legalistic, technical or specialist language or terminology. Where the information is
+         translated into one or more other languages, the data controller should ensure that all the
+         translations are accurate and that the phraseology and syntax makes sense in the second
+         language(s) so that the translated text does not have to be deciphered or re-interpreted. (A
+         translation in one or more other languages should be provided where the controller targets15
+         data subjects speaking those languages.)
+
+         Providing information to children and other vulnerable people
+
+14.      Where a data controller is targeting children16 or is, or should be, aware that their goods/
+         services are particularly utilised by children (including where the controller is relying on the
+         consent of the child)17, it should ensure that the vocabulary, tone and style of the language
+         used is appropriate to and resonates with children so that the child addressee of the
+         information recognises that the message/ information is being directed at them.18 A useful
+         example of child-centred language used as an alternative to the original legal language can
+         be found in the “UN Convention on the Rights of the Child in Child Friendly Language”.19
+
+15.      WP29’s position is that transparency is a free-standing right which applies as much to
+         children as it does to adults. WP29 emphasises in particular that children do not lose their
+         rights as data subjects to transparency simply because consent has been given/ authorised
+         by the holder of parental responsibility in a situation to which Article 8 of the GDPR applies.
+         While such consent will, in many cases, be given or authorised on a once-off basis by the
+         holder of parental responsibility, a child (like any other data subject) has an ongoing right to
+         transparency throughout the continuum of their engagement with a data controller. This is
+         consistent with Article 13 of the UN Convention on the Rights of the Child which states that
+         a child has a right to freedom of expression which includes the right to seek, receive and
+         impart information and ideas of all kinds.20 It is important to point out that, while providing
+         for consent to be given on behalf of a child when under a particular age,21 Article 8 does not
+         provide for transparency measures to be directed at the holder of parental responsibility who
+
+15 For example, where the controller operates a website in the language in question and/or offers specific country options
+
+and/or facilitates the payment for goods or services in the currency of a particular member state then these may be
+indicative of a data controller targeting data subjects of a particular member state.
+16 The term “child” is not defined under the GDPR, however WP29 recognises that, in accordance with the UN Convention
+
+on the Rights of the Child, which all EU Member States have ratified, a child is a person under the age of 18 years.
+17 i.e. children of 16 years or older (or, where in accordance with Article 8.1 of the GDPR Member State national law has set
+
+the age of consent at a specific age between 13 and 16 years for children to consent to an offer for the provision of
+information society services, children who meet that national age of consent).
+18 Recital 38 states that “Children merit special protection with regard to their personal data as they may be less aware of
+
+the risks, consequences and safeguards concerned and their rights in relation to the processing of personal data”. Recital
+58 states that “Given that children merit specific protection, any information and communication, where processing is
+addressed to a child, should be in such a clear and plain language that the child can easily understand”.
 19 https://www.unicef.org/rightsite/files/uncrcchilldfriendlylanguage.pdf
 
+20 Article 13 of the UN Convention on the Rights of the Child states that: “The child shall have the right to freedom of
+
+expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of
+frontiers, either orally, in writing or in print, in the form of art, or through any other media of the child’s choice.”
+21 See footnote 17 above.
+
+
+
+
+                                                      Page 10 of 40
+
+          gives such consent. Therefore, data controllers have an obligation in accordance with the
+          specific mentions of transparency measures addressed to children in Article 12.1 (supported
+          by Recitals 38 and 58) to ensure that where they target children or are aware that their goods
+          or services are particularly utilised by children of a literate age, that any information and
+          communication should be conveyed in clear and plain language or in a medium that children
+          can easily understand. For the avoidance of doubt however, WP29 recognises that with very
+          young or pre-literate children, transparency measures may also be addressed to holders of
+          parental responsibility given that such children will, in most cases, be unlikely to understand
+          even the most basic written or non-written messages concerning transparency.
 
+16.       Equally, if a data controller is aware that their goods/ services are availed of by (or targeted
+          at) other vulnerable members of society, including people with disabilities or people who may
+          have difficulties accessing information, the vulnerabilities of such data subjects should be
+          taken into account by the data controller in its assessment of how to ensure that it complies
+          with its transparency obligations in relation to such data subjects.22 This relates to the need
+          for a data controller to assess its audience’s likely level of understanding, as discussed above
+          at paragraph 9.
 
 
-                                                   Página 11 de 47
-
-         criança (tal como qualquer outro titular de dados) tem permanentemente direito à
-         transparência enquanto durar o seu compromisso com um responsável pelo tratamento.
-         Esta posição é coerente com o artigo 13.º da Convenção das Nações Unidas sobre os
-         Direitos da Criança que determina que uma criança tem direito à liberdade de expressão,
-         que compreende a liberdade de procurar, receber e expandir informações e ideias de toda a
-         espécie 20. É importante salientar que, embora preveja o consentimento dado em nome da
-         criança quando esta tem menos de determinada idade, 21 o artigo 8.º não prevê medidas de
-         transparência dirigidas ao titular da responsabilidade parental que dá o referido
-         consentimento. Por conseguinte, os responsáveis pelo tratamento têm a obrigação, em
-         conformidade com as referências específicas às medidas de transparência dirigidas às
-         crianças que constam do artigo 12.º, n.º 1 (apoiadas pelos considerandos 38 e 58), de
-         assegurar que, quando as suas ações são dirigidas às crianças ou quando estão conscientes
-         de que os seus bens ou serviços são utilizados em especial por crianças com idade suficiente
-         para estarem alfabetizadas, qualquer informação e comunicação seja veiculada numa
-         linguagem clara e simples ou de uma forma que as crianças possam compreender
-         facilmente. Contudo, para evitar dúvidas, o GT29 reconhece que, quando se trata de
-         crianças muito novas ou crianças que não tenham idade para estarem alfabetizadas, as
-         medidas de transparência também podem dirigir-se aos titulares da responsabilidade
-         parental, uma vez que estas crianças, na maior parte dos casos, provavelmente não
-         compreenderão as mensagens escritas ou não escritas mais básicas relativas à
-         transparência.
-
-16.      De igual modo, se um responsável pelo tratamento está consciente de que os seus
-         bens/serviços são utilizados por (ou se destinam a) outros membros vulneráveis da
-         sociedade, incluindo pessoas com deficiência ou pessoas que possam ter dificuldade em
-         aceder às informações, as vulnerabilidades desses titulares de dados devem ser tidas em
-         consideração pelo responsável pelo tratamento na sua avaliação da forma como assegura o
-         cumprimento das suas obrigações de transparência em relação a esses titulares de dados 22.
-         Esta questão está relacionada com a necessidade de um responsável pelo tratamento
-         avaliar o nível provável de compreensão do seu público-alvo, tal como referido no n.º 9
-         acima.
-
-
-         «Por escrito ou por outros meios»
-
-17.      Nos termos do artigo 12.º, n.º 1, as informações ou as comunicações destinadas aos
-         titulares dos dados são, por defeito, efetuadas por escrito 23. (O artigo 12.º, n.º 7, também
-
-20 O artigo 13.º da Convenção das Nações Unidas sobre os Direitos da Criança determina que: «A criança tem direito à
-
-liberdade de expressão. Este direito compreende a liberdade de procurar, receber e expandir informações e ideias de toda
-a espécie, sem considerações de fronteiras, sob forma oral, escrita, impressa ou artística ou por qualquer outro meio à
-escolha da criança.»
-21 Ver nota de rodapé 17.
-22 Por exemplo, a Convenção das Nações Unidas sobre os Direitos das Pessoas com Deficiência requer a disponibilização
-
-de formas adequadas de assistência e apoio às pessoas com deficiência para garantir o acesso destas às informações.
-23 O artigo 12.º, n.º 1, refere-se a «linguagem» e determina que as informações são prestadas por escrito ou por outros
-
-meios, incluindo, se for caso disso, por meios eletrónicos.
-
-
-
-                                                   Página 12 de 47
-
-         prevê o fornecimento de informações em combinação com ícones normalizados, sendo que
-         esta questão é considerada na secção sobre ferramentas de visualização abordadas nos
-         pontos 49 a 53). Contudo, o RGPD também permite a utilização de outros «meios» não
-         especificados, nomeadamente meios eletrónicos. Relativamente aos meios eletrónicos
-         escritos, quando o responsável pelo tratamento gere (ou opera, total ou parcialmente,
-         através de) um sítio web, o GT29 recomenda a utilização de declarações de
-         confidencialidade estruturadas que permitam aos visitantes do sítio web navegar até
-         aspetos específicos da declaração de confidencialidade pertinente que sejam mais do seu
-         interesse (mais informações sobre as declarações de confidencialidade estruturadas nos
-         pontos 35 a 37) 24. Contudo, as informações destinadas aos titulares dos dados também
-         devem estar disponíveis na sua totalidade num único local ou num único documento
-         completo (seja em formato digital ou em papel) que possa ser facilmente acedido pelo
-         titular dos dados caso este pretenda consultar a totalidade das informações que lhe são
-         dirigidas. É importante referir que a utilização de uma abordagem estruturada não se limita
-         aos meios eletrónicos escritos no que toca ao fornecimento de informações aos titulares
-         dos dados. Tal como será analisado mais abaixo nos pontos 35 a 36 e 38, a abordagem
-         estruturada em relação ao fornecimento de informações aos titulares dos dados também
-         pode ser utilizada empregando uma combinação de métodos para assegurar a transparência
-         relativamente ao tratamento.
-
-18.      Evidentemente que a utilização de declarações de confidencialidade estruturadas digitais
-         não é o único meio eletrónico escrito que pode ser utilizado pelos responsáveis pelo
-         tratamento. Estão disponíveis outros meios eletrónicos como alertas contextuais que
-         aparecem no momento certo, alertas 3D de toque ou que aparecem momentaneamente
-         quando o rato passa por cima, bem como painéis sobre confidencialidade. Os meios
-         eletrónicos não escritos que podem ser utilizados complementarmente a uma declaração de
-         confidencialidade estruturada podem incluir vídeos ou alertas de voz em telemóveis
-         inteligentes ou IdC 25. «Outros meios», que não são necessariamente eletrónicos, podem
-         incluir, por exemplo, caricaturas, infografias ou gráficos. Quando as informações sobre a
-         transparência de destinam especificamente às crianças, os responsáveis pelo tratamento
-         devem considerar quais os tipos de medidas que podem ser particularmente acessíveis para
-         as crianças (p. ex. podem ser banda desenhada/caricaturas, pictogramas, animações, etc.,
-         entre outras medidas).
-
-19.      É fundamental que o(s) método(s) escolhido(s) para veicular as informações seja(m)
-         adequado(s) às circunstâncias específicas, ou seja, a maneira como o responsável pelo
-         tratamento e o titular dos dados interagem ou a maneira como as informações sobre o
-         titular dos dados são recolhidas. Por exemplo, fornecer as informações somente em
-         formato eletrónico escrito, como uma declaração de confidencialidade em linha, pode não
-         ser adequado/viável quando o dispositivo que recolhe os dados pessoais não tem um ecrã
-
-24 O facto de o GT29 reconhecer que as declarações estruturadas têm benefícios já foi referido no Parecer 10/2004 sobre a
+          “In writing or by other means”
 
-prestação mais harmonizada da informação e no Parecer 02/2013 sobre as aplicações em dispositivos inteligentes.
-25 Estes exemplos de meios eletrónicos são meramente indicativos e os responsáveis pelo tratamento podem desenvolver
+17.       Under Article 12.1, the default position for the provision of information to, or
+          communications with, data subjects is that the information is in writing.23 (Article 12.7 also
+          provides for information to be provided in combination with standardised icons and this issue
+          is considered in the section on visualisation tools at paragraphs 49 to 53). However, the GDPR
+          also allows for other, unspecified “means” including electronic means to be used. WP29’s
+          position with regard to written electronic means is that where a data controller maintains (or
+          operates, in part or in full, through) a website, WP29 recommends the use of layered privacy
+          statements/ notices, which allow website visitors to navigate to particular aspects of the
+          relevant privacy statement/ notice that are of most interest to them (see more on layered
+          privacy statements/ notices at paragraph 35 to 37).24 However, the entirety of the information
+          addressed to data subjects should also be available to them in one single place or one
+          complete document (whether in a digital or paper format) which can be easily accessed by a
+          data subject should they wish to consult the entirety of the information addressed to them.
+          Importantly, the use of a layered approach is not confined only to written electronic means
+          for providing information to data subjects. As discussed at paragraphs 35 to 36 and 38 below,
+          a layered approach to the provision of information to data subjects may also be utilised by
+          employing a combination of methods to ensure transparency in relation to processing.
+
 
-novos métodos inovadores para cumprir o artigo 12.º.
 
+22 For example, the UN Convention on the Rights of Persons with Disabilities requires that appropriate forms of assistance
 
-
-                                                   Página 13 de 47
+and support are provided to persons with disabilities to ensure their access to information.
+23 Article 12.1 refers to “language” and states that the information shall be provided in writing, or by other means, including,
 
-         (p. ex. dispositivos da IdC/dispositivos inteligentes) para aceder ao sítio web/mostrar essas
-         informações escritas. Nesses casos, importa considerar meios alternativos complementares
-         adequados, por exemplo, fornecer a declaração de confidencialidade em manuais de
-         instruções em papel ou incluir o endereço URL do sítio web (ou seja, a página específica no
-         sítio web) onde se pode encontrar a declaração de confidencialidade em linha nas
-         instruções em papel ou na embalagem. As informações também podem ser fornecidas
-         complementarmente em formato áudio (oral) se o dispositivo desprovido de ecrã tiver
-         funcionalidades áudio. O GT29 já emitiu anteriormente recomendações em torno da
-         transparência e do fornecimento de informações aos titulares dos dados no seu parecer
-         sobre os recentes desenvolvimentos na Internet das Coisas 26 (tais como a utilização de
-         códigos QR impressos em objetos da Internet das Coisas, para que, quando for lido, o
-         código QR exiba as informações necessárias sobre a transparência). Estas recomendações
-         continuam aplicáveis ao abrigo do RGPD.
+where appropriate, by electronic means.
+24 The WP29’s recognition of the benefits of layered notices has already been noted in Opinion 10/2004 on More Harmonised
 
-        «...a informação pode ser prestada oralmente»
+Information Provisions and Opinion 02/2013 on apps on smart devices.
 
-20.      O artigo 12.º, n.º 1, contempla especificamente que as informações podem ser prestadas
-         oralmente se um titular dos dados o solicitar, desde que a sua identidade seja comprovada
-         por outros meios. Por outras palavras, os meios utilizados não devem passar apenas por
-         confiar na mera palavra do indivíduo de que é determinada pessoa, devendo esses meios
-         permitir ao responsável pelo tratamento verificar a identidade do titular dos dados com
-         certeza suficiente. O requisito de verificar a identidade do titular dos dados antes de as
-         informações serem fornecidas oralmente é aplicável às informações relativas ao exercício
-         dos direitos de um determinado titular dos dados nos termos nos artigos 15.º a 22.º e 34.º.
-         Esta pré-condição relativa ao fornecimento de informações orais não é aplicável ao
-         fornecimento de informações gerais sobre confidencialidade tal como definido nos
-         artigos 13.º e 14.º, uma vez que as informações necessárias nos termos dos artigos 13.º e
-         14.º também devem estar acessíveis para os futuros utilizadores/clientes (cuja identidade o
-         responsável pelo tratamento não estaria em posição de verificar). Como tal, as informações
-         a fornecer nos termos dos artigos 13.º e 14.º podem ser fornecidas através de meios orais
-         sem que o responsável pelo tratamento tenha de comprovar a identidade do titular dos
-         dados.
-
-21.      O fornecimento oral de informações previsto nos termos dos artigos 13.º e 14.º não significa
-         necessariamente informações fornecidas oralmente a cada pessoa (ou seja, pessoalmente
-         ou por telefone). Podem ser fornecidas informações orais automatizadas
-         complementarmente aos meios escritos. Por exemplo, esta situação pode aplicar-se no
-         contexto de pessoas com deficiência visual quando interagem com prestadores de serviços
-         da sociedade da informação ou no contexto de dispositivos inteligentes desprovidos de
-         ecrã, como foi referido no n.º 19. Quando um responsável pelo tratamento escolhe fornecer
-         informações a um titular dos dados oralmente, ou quando um titular dos dados solicita o
-         fornecimento de informações ou a comunicação por meios orais, a posição do GT29 é que o
-
-
-26 Parecer 8/2014 do GT29 adotado em 16 de setembro de 2014.
-
-
-
-
-                                                 Página 14 de 47
-
-         responsável pelo tratamento deve fazer com que o titular dos dados possa voltar a ouvir
-         mensagens pré-gravadas. Este aspeto é fundamental quando as informações orais são
-         solicitadas por titulares de dados com deficiência visual ou por outros titulares de dados que
-         possam ter dificuldade em aceder ou compreender informações em formato escrito. O
-         responsável pelo tratamento deve também assegurar que conserva um registo e pode
-         demonstrar (para efeitos de cumprimento do requisito de responsabilidade): i) o pedido de
-         informações através de meios orais; ii) o método utilizado para verificar a identidade do
-         titular dos dados (quando aplicável - ver n.º 20 acima); e iii) o facto de as informações terem
-         sido fornecidas ao titular dos dados.
 
-         «A título gratuito»
-
-22.      Nos termos do artigo 12.º, n.º 5, 27 os responsáveis pelo tratamento não podem, regra geral,
-         exigir aos titulares dos dados um pagamento pelo fornecimento de informações nos termos
-         dos artigos 13.º e 14.º nem por comunicações e medidas tomadas nos termos dos
-         artigos 15.º a 22.º (sobre os direitos dos titulares dos dados) e do artigo 34.º (comunicação
-         de uma violação de dados pessoais ao titular dos dados) 28. Este aspeto da transparência
-         também significa que quaisquer informações fornecidas nos termos dos requisitos de
-         transparência não podem estar subordinadas a transações financeiras, por exemplo, o
-         pagamento ou a compra de serviços ou bens 29.
-
-Informações a fornecer ao titular dos dados – artigos 13.º e 14.º
-
-
-         Conteúdo
-
-23.      O RGPD enuncia as categorias de informações que devem ser facultadas a um titular dos
-         dados em relação ao tratamento dos seus dados pessoais quando estes forem recolhidos
-         junto do seu titular (artigo 13.º) ou obtidas a partir de outra fonte (artigo 14.º). O quadro
-         que consta do anexo das presentes orientações resume as categorias de informações que
-         devem ser facultadas nos termos dos artigos 13.º e 14.º. Também considera a natureza, o
-         âmbito e o conteúdo dos referidos requisitos. Por uma questão de clareza, a posição do
-         GT29 é que não existe diferença entre o estatuto das informações a facultar nos termos dos
-
-
-27 Este artigo determina que: «As informações fornecidas nos termos dos artigos 13.º e 14.º e quaisquer comunicações e
-
-medidas tomadas nos termos dos artigos 15.º a 22.º e 34.º são fornecidas a título gratuito».
-28 Contudo, nos termos do artigo 12.º, n.º 5, o responsável pelo tratamento pode exigir o pagamento de uma taxa razoável
-
-quando, por exemplo, um pedido apresentado pelo titular dos dados em relação às informações fornecidas nos termos
-dos artigos 13.º e 14.º ou aos direitos que constam dos artigos 15.º a 22.º ou do artigo 34.º é excessivo ou manifestamente
-infundado. (Separadamente, em relação ao direito de acesso nos termos do artigo 15.º, n.º 3, o responsável pelo
-tratamento pode exigir o pagamento de uma taxa razoável tendo em conta os custos administrativos pelo fornecimento
-de outras cópias solicitadas pelo titular dos dados).
-29 A título de exemplo, se os dados pessoais de um titular dos dados estão a ser recolhidos em relação a uma compra, as
-
-informações que é necessário fornecer nos termos do artigo 13.º devem ser fornecidas antes de o pagamento ser efetuado
-e na altura em que as informações estão a ser recolhidas, e não após a transação ter sido concluída. Porém, de igual modo,
-quando estão a ser prestados serviços gratuitos ao titular dos dados, as informações relativas ao artigo 13.º devem ser
-fornecidas antes, e não depois, da adesão, atendendo ao facto de o artigo 13.º, n.º 1, estipular que as informações são
-facultadas «aquando da recolha desses dados pessoais».
-
-
-
-                                                    Página 15 de 47
-
-         n.os 1 e 2 dos artigos 13.º e 14.º, respetivamente. Todas as informações que constam destes
-         números têm a mesma importância e devem ser facultadas ao titular dos dados.
-
-         «Medidas adequadas»
-
-24.      Para além do conteúdo, a forma e a maneira como as informações que constam dos
-         artigos 13.º e 14.º devem ser facultadas ao titular dos dados também são importantes. As
-         declarações que contêm estas informações são frequentemente denominadas declaração
-         relativa à proteção dos dados, declaração de confidencialidade, política de
-         confidencialidade ou declaração relativa ao tratamento leal. O RGPD não prevê o formato
-         nem a modalidade através dos quais as referidas informações devem ser facultadas ao
-         titular dos dados, mas deixa bem claro que é sobre o responsável pelo tratamento que recai
-         a responsabilidade de tomar «medidas adequadas» em relação ao fornecimento das
-         informações exigidas para fins de transparência. Significa isto que o responsável pelo
-         tratamento deve ter em conta todas as circunstâncias de recolha e tratamento dos dados
-         quando decide quais são a modalidade e o formato adequados para facultar as informações.
-         Em especial, as medidas adequadas terão de ser analisadas à luz da experiência de
-         utilização do produto/serviço. Ou seja, importa ter em conta o dispositivo utilizado (se
-         aplicável), a natureza das interfaces/interações do utilizador com o responsável pelo
-         tratamento (o «percurso» do utilizador) e as limitações decorrentes destes fatores. Como
-         foi referido no ponto 17, o GT29 recomenda que, quando um responsável pelo tratamento
-         tem presença em linha, deve ser fornecida uma declaração de confidencialidade
-         estruturada em linha.
-
-25.      Para ajudar a identificar a modalidade mais adequada para facultar as informações, antes
-         de tomarem a «decisão final», os responsáveis pelo tratamento podem querer experimentar
-         diferentes modalidades através de testes junto dos utilizadores (p. ex. testes normalizados
-         de legibilidade ou acessibilidade) com vista a recolher opiniões junto dos utilizadores sobre
-         o nível de acessibilidade, compreensão e facilidade de utilização da medida proposta. (Ver
-         também alguns dos comentários feitos acima sobre outros mecanismos para realizar testes
-         junto dos utilizadores no ponto 9). A documentação desta abordagem também pode ajudar
-         os responsáveis pelo tratamento no que toca às obrigações que sobre eles recaem em
-         matéria de responsabilidade, uma vez que poderão demonstrar de que forma a
-         ferramenta/abordagem escolhida para veicular as informações é a mais adequada dadas as
-         circunstâncias.
-
-         Quando facultar as informações
-
-26.      Os artigos 13.º e 14.º estipulam as informações que devem ser facultadas ao titular dos
-         dados na fase de início do ciclo de tratamento 30. O artigo 13.º é aplicável ao cenário em que
-         os dados são recolhidos junto do titular dos dados. Estão incluídos dados pessoais que:
-
-30 De acordo com os princípios da lealdade e da limitação da finalidade, a organização que recolhe os dados pessoais junto
-
-do titular dos dados deve sempre especificar as finalidades do tratamento aquando da recolha. Se a finalidade incluir a
-criação de dados pessoais inferidos, a finalidade pretendida de criar e tratar esses dados pessoais inferidos, bem como as
-
-
-
-                                                    Página 16 de 47
-
-         •          um titular dos dados fornece conscientemente a um responsável pelo tratamento
-                    (p. ex. quando preenche um formulário em linha), ou
-         •          um responsável pelo tratamento recolhe junto de um titular dos dados através de
-                    observação (p. ex. utilizando dispositivos automatizados de captação de dados ou
-                    programas informáticos de captação de dados como câmaras, equipamentos de
-                    rede, localização através de Wi-Fi, RFID ou outros tipos de sensores).
-
-         O artigo 14.º é aplicável no cenário em que os dados não foram obtidos junto do titular dos
-         dados. Estão incluídos dados pessoais que um responsável pelo tratamento obteve junto de
-         fontes como:
-
-         •         terceiros que também sejam responsáveis pelo tratamento,
-         •         fontes disponíveis ao público,
-         •         corretores de dados, ou
-         •         outros titulares de dados.
-
-27.       No que diz respeito ao fornecimento destas informações, fornecê-las em tempo útil é um
-          elemento vital da obrigação de transparência e da obrigação de tratar os dados lealmente.
-          Quando o artigo 13.º é aplicável, nos termos do artigo 13.º, n.º 1, as informações devem ser
-          facultadas «aquando da recolha desses dados pessoais». No caso dos dados pessoais obtidos
-          indiretamente nos termos do artigo 14.º, os prazos dentro dos quais as informações
-          exigidas devem ser comunicadas ao titular dos dados encontram-se definidos no
-          artigo 14.º, n.º 3, alíneas a) a c), da seguinte forma:
-
-         •          O requisito geral prevê que as informações sejam comunicadas num «prazo
-                    razoável» após a obtenção dos dados pessoais e, o mais tardar, no prazo de um mês
-                    «tendo em conta as circunstâncias específicas em que estes forem tratados»
-                    (artigo 14.º, n.º 3, alínea a)).
-
-         •          O prazo-limite de um mês previsto no artigo 14.º, n.º 3, alínea a), para a
-                    generalidade dos casos pode ser encurtado nos termos do artigo 14.º, n.º 3,
-                    alínea b),31 aplicável a uma situação em que os dados se destinam a ser utilizados
-                    para fins de comunicação com o titular dos dados. Neste caso, as informações
-                    devem ser comunicadas o mais tardar no momento da primeira comunicação com o
-                    titular dos dados. Se a primeira comunicação ocorrer antes do período-limite de um
-                    mês após a obtenção dos dados pessoais, então as informações devem ser
-                    comunicadas, o mais tardar, no momento da primeira comunicação com o titular
-                    dos dados não obstante o facto de ainda não ter decorrido um mês a contar do
-
-
-categorias dos dados inferidos tratados, deve sempre ser comunicada ao titular dos dados aquando da recolha ou antes de
-se continuar o tratamento para uma nova finalidade em conformidade com o artigo 13.º, n.º 3, ou o artigo 14.º, n.º 4.
-31 A utilização das palavras «[s]e os dados pessoais se destinarem a ser utilizados para...» no artigo 14.º, n.º 3, alínea b),
-
-indica uma especificação em relação à posição geral no que toca ao prazo máximo definido no artigo 14.º, n.º 3, alínea a),
-mas não a substitui.
-
-
-
-                                                     Página 17 de 47
-
-                    momento da obtenção dos dados. Se a primeira comunicação com o titular dos
-                    dados ocorrer mais de um mês após a obtenção dos dados pessoais, então o
-                    artigo 14.º, n.º 3, alínea a), continua a ser aplicável, pelo que as informações
-                    relativas ao artigo 14.º devem ser comunicadas ao titular dos dados, o mais tardar,
-                    no prazo de um mês após a sua obtenção.
-
-               •    O prazo-limite de um mês previsto no artigo 14.º, n.º 3, alínea a), para a
-                    generalidade dos casos também pode ser encurtado nos termos do artigo 14.º,
-                    n.º 3, alínea c), 32 aplicável a uma situação em que os dados são divulgados a outro
-                    destinatário (seja este um terceiro ou não) 33. Neste caso, as informações devem ser
-                    divulgadas o mais tardar no momento da primeira divulgação. Neste cenário
-                    concreto, se a divulgação ocorrer antes do prazo-limite de um mês, então as
-                    informações devem ser divulgadas o mais tardar no momento da primeira
-                    divulgação, não obstante o facto de ainda não ter decorrido um mês a contar do
-                    momento da obtenção dos dados. Tal como acontece em relação ao artigo 14.º, n.º
-                    3, alínea b), se qualquer divulgação de dados pessoais ocorrer mais de um mês após
-                    a obtenção dos dados pessoais, então o artigo 14.º, n.º 3, alínea a), também
-                    continua a ser aplicável, pelo que as informações relativas ao artigo 14.º devem ser
-                    divulgadas ao titular dos dados o mais tardar no prazo de um mês após a sua
-                    obtenção.
-
-28.       Por conseguinte, em todo o caso, o prazo-limite máximo no qual as informações relativas
-          ao artigo 14.º devem ser comunicadas a um titular dos dados é um mês. Contudo, os
-          princípios da lealdade e da responsabilidade ao abrigo do RGPD exigem que os responsáveis
-          pelo tratamento considerem sempre as expectativas razoáveis dos titulares dos dados, os
-          efeitos que o tratamento possa vir a ter sobre eles e a capacidade dos titulares dos dados
-          para exercerem os seus direitos em relação a esse tratamento quando decidem o momento
-          em que comunicam as informações relativas ao artigo 14.º. A responsabilidade exige que os
-          responsáveis pelo tratamento demonstrem a lógica subjacente à sua decisão e justifiquem
-          por que razão as informações foram comunicadas no momento em que foram. Na prática,
-          pode ser difícil cumprir estes requisitos quando as informações são comunicadas «à última
-          da hora». A este respeito, o considerando 39 estipula, entre outras coisas, que os titulares
-          dos dados devem ser alertados «para os riscos, regras, garantias e direitos associados ao
-          tratamento dos dados pessoais e para os meios de que dispõem para exercer os seus direitos
-          relativamente a esse tratamento». O considerando 60 também faz referência ao requisito de
-          que o titular dos dados deve ser informado da existência da operação de tratamento e das
-          suas finalidades no contexto dos princípios de um tratamento equitativo e transparente. Por
-          todas estas razões, a posição do GT29 é que, sempre que possível, os responsáveis pelo
-
-
-32 De igual modo, a utilização das palavras «[s]e estiver prevista a divulgação dos dados pessoais a outro destinatário» indica
-
-uma especificação em relação à posição geral no que toca ao prazo máximo definido no artigo 14.º, n.º 3, alínea a), mas
-não a substitui.
-33 O artigo 4.º, n.º 9, define «destinatário» e esclarece que um destinatário a quem sejam divulgados dados pessoais não
-
-tem necessariamente de ser um terceiro. Por conseguinte, um destinatário pode ser um responsável pelo tratamento, um
-responsável conjunto pelo tratamento ou um subcontratante.
-
-
-
-                                                      Página 18 de 47
-
-      tratamento dos dados devem, em conformidade com o princípio da lealdade, comunicar as
-      informações aos titulares dos dados com bastante antecedência em relação aos prazos-
-      limite estipulados. Outros comentários sobre a adequação dos prazos que decorrem entre a
-      notificação dos titulares dos dados acerca das operações de tratamento e a realização
-      efetiva dessas mesmas operações de tratamento encontram-se nos pontos 30 a 31 e 48.
-
-      Alterações das informações relativas ao artigo 13.º e ao artigo 14.º
-
-29.   A responsabilidade em matéria de transparência é aplicável não apenas no momento da
-      recolha dos dados pessoais, mas também ao longo do ciclo de vida do tratamento,
-      independentemente das informações a veicular ou da comunicação a efetuar. É o caso, por
-      exemplo, da alteração do conteúdo das declarações de confidencialidade existentes. O
-      responsável pelo tratamento deve observar os mesmos princípios tanto quando comunica a
-      declaração de confidencialidade inicial como quando comunica quaisquer alterações
-      substantivas ou materiais subsequentes dessa declaração de confidencialidade. Os fatores
-      que os responsáveis pelo tratamento devem considerar quando analisam o que é uma
-      alteração substantiva ou material incluem o impacto das alterações nos titulares dos dados
-      (nomeadamente a capacidade destes para exercer os seus direitos) e quão
-      inesperada/surpreendente seria a alteração para os titulares dos dados. As alterações de
-      uma declaração de confidencialidade que devem ser sempre comunicadas aos titulares dos
-      dados incluem, entre outras: uma alteração da finalidade do tratamento; uma alteração da
-      identidade do responsável pelo tratamento; ou uma alteração em relação à forma como os
-      titulares dos dados podem exercer os seus direitos relativamente ao tratamento. Pelo
-      contrário, um exemplo de alterações de uma declaração de confidencialidade que o GT29
-      não considera serem substantivas ou materiais incluem correções de erros ortográficos,
-      estilísticos ou gramaticais. Uma vez que a maioria dos clientes ou utilizadores apenas olha
-      de relance para as comunicações relativas a alterações das declarações de
-      confidencialidade, o responsável pelo tratamento deve tomar todas as medidas necessárias
-      para assegurar que essas alterações são comunicadas de uma forma que garanta que a
-      maioria dos destinatários realmente as assimila. Significa isto que, por exemplo, uma
-      notificação de alterações deve ser sempre comunicada através de uma modalidade
-      adequada (p. ex. correio eletrónico, carta em papel, um alerta que aparece no momento
-      certo na página web ou outra modalidade que efetivamente chame a atenção do titular dos
-      dados para as alterações) especificamente dedicada a essas alterações (p. ex. não devem
-      ser comunicadas juntamente com conteúdos publicitários para efeitos de comercialização
-      direta), devendo essa comunicação cumprir os requisitos que constam do artigo 12.º, ou
-      seja, deve ser concisa, transparente, inteligível, de fácil acesso e deve utilizar uma
-      linguagem clara e simples. A existência de referências na declaração de confidencialidade
-      no sentido de dizer aos titulares dos dados que devem verificar regularmente a declaração
-      de confidencialidade para saber se foram efetuadas alterações ou atualizações à mesma é
-      considerada não apenas insuficiente, mas também desleal no contexto do artigo 5.º, n.º 1,
-      alínea a). Mais orientações relativas aos prazos de notificação de alterações aos titulares
-      dos dados são consideradas abaixo nos pontos 30 a 31.
-
-
-
-
-                                          Página 19 de 47
-
-      Quando notificar alterações das informações relativas ao artigo 13.º e ao artigo 14.º
-
-30.   O RGPD não prevê requisitos temporais (nem tão pouco os métodos) aplicáveis às
-      notificações de alterações das informações que foram previamente comunicadas a um
-      titular de dados nos termos dos artigos 13.º ou 14.º (excluindo a situação em que existe
-      intenção por parte do responsável pelo tratamento de proceder ao tratamento posterior
-      com uma outra finalidade, em que as informações sobre essa outra finalidade devem ser
-      fornecidas antes do início desse tratamento posterior nos termos dos artigos 13.º, n.º 3, e
-      14.º, n.º 4 — ver o ponto 45 abaixo). Contudo, como foi referido no contexto de quando
-      devem ser fornecidas as informações relativas ao artigo 14.º, o responsável pelo tratamento
-      deve igualmente ter em conta os princípios da lealdade e da responsabilidade em termos
-      das expectativas razoáveis do titular dos dados ou do potencial impacto dessas alterações
-      no titular dos dados. Se a alteração das informações constituir uma alteração fundamental
-      da natureza do tratamento (p. ex. alargamento das categorias de destinatários ou
-      introdução de transferências para um país terceiro) ou uma alteração que talvez não seja
-      fundamental em termos da operação de tratamento, mas que possa ser pertinente e ter
-      impacto no titular dos dados, então essas informações devem ser fornecidas ao titular dos
-      dados com bastante antecedência em relação à data em que a alteração produz efeitos, e o
-      método utilizado para chamar a atenção do titular dos dados para as alterações deve ser
-      explícito e eficaz. Pretende-se assim que a alteração não «passe ao lado» do titular dos
-      dados, dando-lhe um prazo razoável para a) considerar a natureza e o impacto da alteração
-      e b) exercer os seus direitos ao abrigo do RGPD em relação à alteração (p. ex. retirar o
-      consentimento ou opor-se ao tratamento).
-
-31.   Os responsáveis pelo tratamento devem considerar cuidadosamente as circunstâncias e o
-      contexto de cada situação em que é necessário realizar uma atualização das informações
-      relativas à transparência, nomeadamente o potencial impacto das alterações no titular dos
-      dados e a modalidade utilizada para comunicar as alterações, bem como demonstrar que o
-      intervalo temporal entre a data da notificação das alterações e a data em que as alterações
-      produzem efeitos satisfaz o princípio da lealdade para com o titular dos dados. Além disso,
-      a posição do GT29 é que, sendo coerente com o princípio da lealdade, quando notifica os
-      titulares dos dados acerca das alterações, um responsável pelo tratamento também deve
-      explicar qual será o impacto provável dessas alterações nos titulares dos dados. Contudo, o
-      cumprimento dos requisitos de transparência não «branqueia» uma situação em que as
-      alterações do tratamento são tão significativas que a natureza do tratamento se torna
-      totalmente diferente em relação ao que era antes. O GT29 acentua que todas as outras
-      regras no RGPD, incluindo as que estão relacionadas com o tratamento posterior
-      incompatível, continuam a ser aplicáveis independentemente do cumprimento das
-      obrigações em matéria de transparência.
-
-32.   Adicionalmente, mesmo quando as informações relativas à transparência (p. ex. incluídas
-      numa declaração de confidencialidade) não sofrem alterações materiais, é provável que os
-      titulares dos dados que já utilizam um serviço há um período de tempo significativo não se
-      recordem das informações que lhes foram fornecidas no início nos termos dos artigos 13.º
-
-
-                                          Página 20 de 47
-
-      e/ou 14.º. O GT29 recomenda que os responsáveis pelo tratamento proporcionem aos
-      titulares dos dados acesso fácil e contínuo às informações para que estes se possam voltar a
-      familiarizar com o âmbito do tratamento dos dados. De acordo com o princípio da
-      responsabilidade, os responsáveis pelo tratamento também devem considerar se, e em que
-      intervalos, é adequado disponibilizarem alertas explícitos aos titulares dos dados em
-      relação à declaração de confidencialidade e onde a podem encontrar.
-
-
-      Modalidades — formato da comunicação de informações
-
-33.   Tanto o artigo 13.º como o artigo 14.º referem a obrigação que recai sobre o responsável
-      pelo tratamento de facultar/fornecer ao titular dos dados «as seguintes informações...» A
-      palavra mais importante aqui é «facultar/fornecer». Querendo esta dizer que o responsável
-      pelo tratamento deve tomar medidas ativas para fornecer as informações em causa ao
-      titular dos dados ou remeter ativamente o titular dos dados para o local onde estas se
-      encontram (p. ex. através de uma hiperligação direta, utilizando um código QR, etc.). O
-      titular dos dados não deve ter de procurar ativamente as informações relativas a estes
-      artigos no meio de outras informações, tais como termos e condições de utilização de um
-      sítio web ou de uma aplicação. O exemplo que consta do ponto 11 ilustra bem esta questão.
-      Como foi referido no ponto 17, o GT29 recomenda que a totalidade das informações
-      dirigidas aos titulares dos dados devem estar disponíveis num único local ou num
-      documento completo (p. ex. quer em formato digital num sítio web ou em formato papel)
-      que seja de fácil acesso caso os titulares dos dados pretendam consultar a totalidade das
-      informações.
-
-
-
-34.   Existe no RGPD uma tensão inerente entre, por um lado, os requisitos relativos ao
-      fornecimento de informações exaustivas aos titulares dos dados nos termos do RGPD e, por
-      outro lado, os requisitos relativos à forma de o fazer, que deve ser concisa, transparente,
-      inteligível e de fácil acesso. Como tal, e atendendo aos princípios fundamentais da
-      responsabilidade e da lealdade, os responsáveis pelo tratamento devem proceder à sua
-      própria análise da natureza, das circunstâncias, do âmbito e do contexto do tratamento dos
-      dados pessoais que efetuam e decidir, ao abrigo dos requisitos jurídicos do RGPD e tendo
-      em conta as recomendações que constam das presentes orientações, em especial as que
-      constam do ponto 36 abaixo, como estabelecer prioridades em relação às informações que
-      devem ser fornecidas aos titulares dos dados e quais são os níveis adequados de pormenor
-      das informações e os métodos para as veicular.
-
-      Abordagem estruturada num ambiente digital e declarações de confidencialidade estruturadas
-
-35.   No contexto digital, atendendo ao volume de informações que é necessário fornecer ao
-      titular dos dados, os responsáveis pelo tratamento podem adotar uma abordagem
-      estruturada quando escolhem utilizar uma combinação de métodos para garantir a
-      transparência. O GT29 recomenda, em especial, que as declarações de confidencialidade
-      estruturadas devem ser utilizadas para ligar as várias categorias de informações que
-      importa fornecer ao titular dos dados, em vez de conterem todas essas informações num
-
-                                        Página 21 de 47
-
-         único documento no ecrã, por forma a evitar a fadiga informativa. As declarações de
-         confidencialidade estruturadas podem ajudar a solucionar a tensão entre a exaustividade e
-         a compreensão, permitindo designadamente aos utilizadores navegarem diretamente para
-         a secção da declaração que pretendem ler. Importa referir que as declarações de
-         confidencialidade estruturadas não são meras páginas agrupadas que exigem vários cliques
-         para chegar às informações pertinentes. O design e a configuração do primeiro nível da
-         estrutura da declaração de confidencialidade devem possibilitar ao titular dos dados ter
-         uma perspetiva clara das informações disponíveis sobre o tratamento dos seus dados
-         pessoais e onde/como podem encontrar essas informações pormenorizadas nos vários
-         níveis da estrutura que compõe a declaração de confidencialidade. Também é importante
-         que as informações contidas nos diferentes níveis da estrutura de uma declaração de
-         confidencialidade estruturada sejam coerentes e que os vários níveis não contenham
-         informações contraditórias.
-
-36.      No que diz respeito ao conteúdo da primeira modalidade utilizada por um responsável pelo
-         tratamento para informar os titulares dos dados utilizando uma abordagem estruturada
-         (por outras palavras, a forma inicial como o responsável pelo tratamento entra em contacto
-         com o titular dos dados) ou ao conteúdo do primeiro nível de uma declaração de
-         confidencialidade estruturada, o GT29 recomenda que o primeiro nível da estrutura ou a
-         primeira modalidade inclua informações pormenorizadas sobre as finalidades do
-         tratamento, a identidade do responsável pelo tratamento e uma descrição dos direitos dos
-         titulares dos dados. (Além disso, estas informações devem ser veiculadas diretamente ao
-         titular dos dados no momento da recolha dos dados pessoais, por exemplo, mostradas
-         quando o titular dos dados preenche um formulário em linha). A importância de fornecer
-         estas informações à partida advém em especial do considerando 39 34. Apesar de os
-         responsáveis pelo tratamento terem de demonstrar que são responsáveis pelas outras
-         informações que venham a decidir dar prioridade, a posição do GT29 é que, em consonância
-         com o princípio da lealdade, para além das informações pormenorizadas referidas acima
-         neste mesmo ponto, o primeiro nível/a primeira modalidade deve também conter
-         informações sobre o tratamento com mais impacto no titular dos dados e sobre o
-         tratamento que o possa surpreender. Por conseguinte, o titular dos dados deve ser capaz de
-         compreender a partir das informações incluídas no primeiro nível/na primeira modalidade
-         quais são as consequências que o tratamento em causa terá para o titular dos dados (ver
-         também o ponto 10 acima).
-
-37.      Num contexto digital, para além de fornecer uma declaração de confidencialidade
-         estruturada em linha, os responsáveis pelo tratamento também podem optar por utilizar
-         ferramentas adicionais em matéria de transparência (ver os outros exemplos considerados
-         abaixo) que forneçam informações personalizadas ao titular de dados individualmente,
-         sendo estas específicas em relação à posição de cada um dos titulares de dados em causa e
-
-34 O considerando 39 determina, sobre o princípio da transparência, que: «Esse princípio diz respeito, em particular, às
-
-informações fornecidas aos titulares dos dados sobre a identidade do responsável pelo tratamento dos mesmos e as
-finalidades a que o tratamento se destina, bem como às informações que se destinam a assegurar que seja efetuado com
-lealdade e transparência em relação às pessoas singulares em causa, bem como a salvaguardar o seu direito a obter a
-confirmação e a comunicação dos dados pessoais que lhes digam respeito que estão a ser tratados».
-
-
-
-                                                   Página 22 de 47
-
-      aos bens/serviços de que esse titular de dados se está a servir. Contudo, importa referir que,
-      embora o GT29 recomende a utilização de declarações de confidencialidade estruturadas
-      em linha, esta recomendação não exclui o desenvolvimento e a utilização de outros
-      métodos inovadores para cumprir os requisitos de transparência.
-
-
-      Abordagem estruturada num ambiente não digital
-
-38.   Também é possível utilizar uma abordagem estruturada para fornecer informações no
-      âmbito da transparência aos titulares dos dados num contexto fora de linha/não digital (ou
-      seja, num ambiente real, tais como situações de contacto presencial ou comunicações
-      telefónicas) onde os responsáveis pelo tratamento podem utilizar várias modalidades para
-      facilitar o fornecimento das informações. (Ver também os pontos 33 a 37 e 39 a 40 em
-      relação às diferentes modalidades de fornecimento de informações.) Esta abordagem não
-      deve ser confundida com a questão totalmente distinta das declarações de
-      confidencialidade estruturadas. Sejam quais forem os formatos utilizados nesta abordagem
-      estruturada, o GT29 recomenda que o primeiro «nível da estrutura» (por outras palavras, a
-      forma inicial como o responsável pelo tratamento entra em contacto com o titular dos
-      dados) veicule em geral as informações mais importantes (como referido no ponto 36
-      acima), designadamente informações pormenorizadas sobre as finalidades do tratamento,
-      a identidade do responsável pelo tratamento e a existência dos direitos do titular dos dados,
-      juntamente com informações sobre o tratamento com maior impacto ou o tratamento que
-      possa vir a surpreender o titular dos dados. Por exemplo, quando o primeiro contacto com
-      um titular de dados é feito por telefone, estas informações devem ser fornecidas durante a
-      chamada telefónica com o titular dos dados e podem ser fornecidas mantendo um
-      equilíbrio com as informações que é necessário veicular ao abrigo dos artigos 13.º e 14.º
-      através de outros meios diferentes, como por exemplo, enviar uma cópia da política de
-      confidencialidade através de correio eletrónico e/ou enviar ao titular dos dados uma
-      hiperligação para a declaração de confidencialidade estruturada em linha por parte do
-      responsável pelo tratamento.
-
-      Notificações «push» e «pull»
-
-39.   Outra forma possível de fornecer informações no âmbito dos requisitos de transparência é
-      através da utilização de notificação «push» e «pull». As notificações «push» envolvem o
-      aparecimento de notificações «no momento certo», ao passo que as notificações «pull»
-      facilitam o acesso às informações através de métodos como a gestão de autorizações,
-      painéis de controlo da confidencialidade e tutoriais para «aprender mais». Estas
-      notificações permitem que o titular dos dados tenha uma experiência mais centrada no
-      utilizador no que toca à transparência.
-
-       •       Um painel de controlo da confidencialidade é um ponto único a partir do qual os
-               titulares dos dados podem ver «informações sobre confidencialidade» e gerir as
-               suas preferências em matéria de confidencialidade, autorizando ou impedindo que
-               os seus dados sejam utilizados de determinadas formas pelo serviço em causa.
-               Trata-se de algo particularmente útil quando o mesmo serviço é utilizado por
-
-                                         Página 23 de 47
-
-              titulares de dados numa variedade de dispositivos diferentes, uma vez que estes
-              podem aceder e controlar os seus dados pessoais independentemente da forma
-              como utilizam o serviço. Permitir que os titulares dos dados ajustem manualmente
-              as suas definições de confidencialidade através de um painel de controlo da
-              confidencialidade também pode facilitar a criação de uma declaração de
-              confidencialidade personalizada que reflita apenas os tipos de tratamento
-              possíveis para aquele titular de dados específico. Incorporar um painel de controlo
-              da confidencialidade na arquitetura existente de um serviço (p. ex. utilizando o
-              mesmo design e a mesma imagem de marca que o resto do serviço) é preferível
-              porque assegura um acesso e uma utilização intuitivos e pode ajudar a incentivar os
-              utilizadores a interagirem com estas informações, da mesma forma que interagem
-              com outros aspetos do serviço. Esta pode ser uma forma eficaz de demonstrar que
-              as «informações relativas à confidencialidade» são uma parte necessária e
-              indissociável de um serviço, em vez de uma lista interminável de jargão jurídico.
-
-       •      A notificação «no momento certo» (just-in-time) é utilizada para fornecer
-              «informações sobre a confidencialidade» específicas de uma maneira ad hoc, na
-              medida e na altura em que for mais pertinente para o titular dos dados ler essas
-              informações. Este método é útil para fornecer informações em vários momentos
-              ao longo do processo de recolha de dados; ajuda a distribuir as informações que
-              devem ser fornecidas por partes facilmente assimiláveis e reduz a dependência
-              numa única declaração de confidencialidade contendo informações difíceis de
-              compreender fora de contexto. Por exemplo, se o titular dos dados comprar um
-              produto em linha, é possível fornecer uma explicação abreviada em janelas que
-              aparecem (pop-ups) a acompanhar partes de texto importantes. As informações
-              que aparecem junto a um campo onde se solicita o número de telefone do titular
-              dos dados podem explicar, por exemplo, que estes dados estão a ser recolhidos
-              meramente para efeitos de contacto em relação à compra e que só serão
-              transmitidos ao serviço de entrega.
-
-
-      Outros tipos de «medidas adequadas»
-
-40.   Atendendo ao facto de, na UE, existir um nível muito elevado de acesso à Internet e ao
-      facto de os titulares dos dados poderem estar em linha a qualquer momento, a partir de
-      vários locais e diferentes dispositivos, como já foi referido, a posição do GT29 é que uma
-      «medida adequada» para fornecer informações no âmbito dos requisitos de transparência
-      no caso dos responsáveis pelo tratamento que têm presença digital/em linha pode ser a
-      utilização de uma declaração de confidencialidade eletrónica. Contudo, com base nas
-      circunstâncias da recolha e do tratamento dos dados, um responsável pelo tratamento pode
-      ter necessidade de adicionalmente (ou, em alternativa, quando o responsável pelo
-      tratamento não tem presença digital/em linha) utilizar outras modalidades e outros
-      formatos para fornecer as informações. Outras maneiras possíveis de veicular as
-      informações ao titular dos dados decorrentes dos diferentes contextos onde são recolhidos
-      dados pessoais podem incluir os seguintes modos aplicáveis ao contexto pertinente
-      apresentado abaixo. Como já foi referido anteriormente, os responsáveis pelo tratamento
-
-                                        Página 24 de 47
-
-         podem seguir uma abordagem estruturada sempre que optem por utilizar uma combinação
-         destes métodos desde que garantam que as informações mais importantes (ver pontos 36 e
-         38) são sempre veiculadas na primeira modalidade utilizada para comunicar com o titular
-         dos dados.
-
-         a.       Contexto cópia física/em papel, por exemplo, aquando da celebração de contratos
-                  por via postal: explicações escritas, folhetos informativos, informações em
-                  documentos contratuais, caricaturas, infografias ou gráficos;
-         b.       Contexto telefónico: explicações orais dadas por uma pessoa real por forma a
-                  permitir uma interação e permitir que eventuais perguntas sejam respondidas; ou
-                  então informações automatizadas ou pré-gravadas com opções para continuar a
-                  ouvir mais informações pormenorizadas;
-         c.       Contexto tecnologias inteligentes desprovidas de ecrã/IdC, tal como análise da
-                  localização através de Wi-Fi: ícones, códigos QR, alertas de voz, indicações escritas
-                  incorporadas em instruções em papel, vídeos incorporados em instruções digitais,
-                  informações escritas em dispositivos inteligentes, mensagens enviadas por SMS ou
-                  correio eletrónico, painéis visíveis contendo informações, sinalização pública ou
-                  campanhas de informação públicas;
-         d.       Contexto presencial, tal como responder a sondagens de opinião, efetuar o registo
-                  presencial para um serviço: explicações orais ou explicações escritas fornecidas em
-                  formato cópia física/digital;
-         e.       Contexto «vida real» com gravação em circuito fechado (CCTV)/através de um
-                  dispositivo não tripulado (drone): painéis visíveis contendo informações, sinalização
-                  pública, campanha de informação públicas ou notificações em jornais/comunicação
-                  social.
-
-         Informações sobre definição de perfis e decisões automatizadas
-
-41.      As informações sobre a existência de decisões automatizadas, incluindo a definição de
-         perfis, tal como referido no artigo 22.º, n.º 1, e no artigo 22.º, n.º 4, juntamente com as
-         informações úteis relativas à lógica subjacente às consequências previstas de tal tratamento
-         para o titular dos dados, fazem parte das informações obrigatórias que devem ser
-         fornecidas a um titular dos dados nos termos dos artigos 13.º, n.º 2, alínea f), e 14.º, n.º 2,
-         alínea g). O GT29 emitiu orientações sobre as decisões individuais automatizadas e a
-         definição de perfis 35 que devem ser consultadas para mais instruções sobre como aplicar os
-         requisitos de transparência nas circunstâncias particulares da definição de perfis. Importa
-         referir que, para além dos requisitos específicos em matéria de transparência aplicáveis às
-         decisões automatizadas nos termos dos artigos 13.º, n.º 2, alínea f), e 14.º, n.º 2, alínea g),
-         os comentários que constam das presentes orientações relacionados com a importância de
-         informar os titulares dos dados acerca das consequências do tratamento dos seus dados
-         pessoais, e o princípio geral de que os titulares dos dados não devem ser apanhados de
-
-35 Orientações sobre decisões individuais automatizadas e definição de perfis para efeitos do Regulamento 2016/679,
-
-atualmente apenas disponíveis na versão inglesa [Guidelines on Automated individual decision-making and Profiling for
-the purposes of Regulation 2016/679], WP 251.
-
-
-
-                                                  Página 25 de 47
-
-         surpresa pelo tratamento dos seus dados pessoais, também são aplicáveis à definição de
-         perfis em geral (não apenas à definição de perfis prevista no artigo 22.º 36), uma vez que se
-         trata de um tipo de tratamento 37.
-
-         Outras questões — riscos, regras e garantias
-
-42.      O considerando 39 do RGPD também refere o fornecimento de determinadas informações
-         que não são explicitamente abrangidas pelo artigo 13.º e pelo artigo 14.º (ver o texto do
-         considerando no ponto 28 acima). A referência que é feita neste considerando
-         relativamente a alertar os titulares dos dados para os riscos, as regras e as garantias
-         associados ao tratamento dos dados pessoais está relacionada com várias outras questões.
-         Entre elas, as avaliações de impacto sobre a proteção dos dados (AIPD). Tal como definido
-         nas orientações do GT29 sobre as AIPD, 38 os responsáveis pelo tratamento podem
-         considerar a publicação da AIPD (ou parte desta) como forma de fomentar a confiança nas
-         operações de tratamento e demonstrar transparência e responsabilidade, embora a
-         publicação não seja obrigatória. Além disso, o cumprimento de um código de conduta
-         (previsto no artigo 40.º) pode contribuir para demonstrar a transparência, uma vez que os
-         códigos de conduta podem ser elaborados com a finalidade de especificar a aplicação do
-         RGPD como por exemplo: o tratamento equitativo e transparente; a informação prestada
-         ao público e aos titulares dos dados; e as informações prestadas às crianças e a sua
-         proteção, entre outras questões.
-
-43.      Outra questão pertinente relacionada com a transparência é a proteção de dados desde a
-         conceção e por defeito (como previsto no artigo 25.º). Estes princípios exigem que os
-         responsáveis pelo tratamento incorporem medidas de proteção de dados nas suas
-         operações e nos seus sistemas de tratamento desde o início, em vez de só terem em conta a
-         proteção de dados como medida de última hora. O considerando 78 refere que os
-         responsáveis pelo tratamento de dados devem aplicar medidas que respeitem os requisitos
-         da proteção de dados desde a conceção e da proteção de dados por defeito,
-         nomeadamente medidas relativas à transparência no que toca às funções e ao tratamento
-         de dados pessoais.
-
-44.      Por outro lado, a questão dos responsáveis conjuntos pelo tratamento também está
-         relacionada com o facto de os titulares dos dados deverem ser alertados para os riscos,
-         regras e garantias. O artigo 26.º, n.º 1, prevê que os responsáveis conjuntos pelo
-         tratamento determinem as respetivas responsabilidades pelo cumprimento das obrigações
-         decorrentes do RGPD de modo transparente, nomeadamente no que diz respeito ao
-         exercício dos direitos do titular dos dados e aos respetivos deveres de fornecer as
-         informações nos termos dos artigos 13.º e 14.º. O artigo 26.º, n.º 2, prevê que a essência do
-
-36 Aplica-se apenas às decisões baseadas unicamente no tratamento automatizado, incluindo definição de perfis, que
-
-produzem efeitos jurídicos em relação ao titular dos dados ou que o afetem significativamente de forma similar.
-37 O considerando 60, pertinente nesta situação, determina que: «O titular dos dados deverá também ser informado da
-
-definição de perfis e das consequências que daí advêm».
-38 Orientações relativas à Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que determinam se o tratamento é
-
-«suscetível de resultar num elevado risco» para efeitos do Regulamento (UE) 2016/679, WP 248, rev. 1.
-
-
-
-                                                   Página 26 de 47
-
-         acordo seja disponibilizada ao titular dos dados. Por outras palavras, deve ser totalmente
-         claro para um titular de dados qual é o responsável pelo tratamento que deve abordar caso
-         pretendam exercer um ou mais dos seus direitos ao abrigo do RGPD 39.
-
-
-Informações relativas ao tratamento posterior
-
-45.      Tanto o artigo 13.º como o artigo 14.º contêm uma disposição 40 que exige que um
-         responsável pelo tratamento informe um titular de dados caso tenha intenção de proceder
-         ao tratamento posterior dos seus dados pessoais para um fim que não seja aquele para o
-         qual os dados tenham sido recolhidos/obtidos. Se assim for, «antes desse tratamento o
-         responsável fornece ao titular dos dados informações sobre esse fim e quaisquer outras
-         informações pertinentes, nos termos do n.º 2». Estas disposições aplicam especificamente o
-         princípio que consta do artigo 5.º, n.º 1, alínea b), de que os dados pessoais são recolhidos
-         para finalidades determinadas, explícitas e legítimas e não podendo ser tratados
-         posteriormente de uma forma incompatível com essas finalidades 41. A segunda parte do
-         artigo 5.º, n.º 1, alínea b), determina que o tratamento posterior para fins de arquivo de
-         interesse público, ou para fins de investigação científica ou histórica ou para fins
-         estatísticos, não é considerado incompatível com as finalidades iniciais, em conformidade
-         com o artigo 89.º, n.º 1. Quando os dados pessoais são alvo de tratamento posterior para
-         finalidades compatíveis com as finalidades originais (o artigo 6.º, n.º 4, informa sobre esta
-         questão 42), são aplicáveis os artigos 13.º, n.º 3, e 14.º, n.º 4. Os requisitos que constam
-         destes artigos de informar um titular de dados acerca de um tratamento posterior
-         promovem a posição adotada no RGPD de que um titular de dados deve poder prever
-         razoavelmente, no momento e no contexto em que os dados pessoais são recolhidos, que
-         esses poderão vir a ser tratados com essa finalidade 43. Por outras palavras, um titular de
-         dados não deve ser apanhado de surpresa quanto à finalidade do tratamento dos seus
-         dados pessoais.
-
-46.      Os artigos 13.º, n.º 3, e 14.º, n.º 4, na medida em que fazem referência à disposição de
-         «quaisquer outras informações pertinentes, nos termos do n.º 2», podem ser interpretados à
-         primeira vista como deixando algum elemento de apreciação nas mãos dos responsáveis
-         pelo tratamento quanto à extensão e às categorias especiais de informações que constam
-
-39 Ao abrigo do artigo 26.º, n.º 3, independentemente dos termos do acordo entre os responsáveis conjuntos pelo
-
-tratamento, nos termos do artigo 26.º, n.º 1, um titular de dados pode exercer os seus direitos ao abrigo do RGPD em
-relação a cada um dos responsáveis conjuntos pelo tratamento.
-40 Nos artigos 13.º, n.º 3, e 14.º, n.º 4, que foram redigidos em termos idênticos, exceto no que diz respeito à palavra
-
-«recolhidos», que foi utilizada no artigo 13.º e que foi substituída pela palavra «obtidos» no artigo 14.º.
-41 Relativamente a este princípio, ver, por exemplo, os considerandos 47, 50, 61, 156 e 158, os artigos 6.º, n.º 4, e 89.º.
-
-42 O artigo 6.º, n.º 4, indica, de forma não exaustiva, os fatores que devem ser tidos em conta quando o responsável pelo
-
-tratamento verifica se o tratamento para outra finalidade é compatível com a finalidade para a qual os dados pessoais
-foram inicialmente recolhidos, nomeadamente: a ligação entre as finalidades; o contexto em que os dados pessoais foram
-recolhidos; a natureza dos dados pessoais (em especial se as categorias especiais de dados pessoais ou se os dados
-pessoais relacionados com condenações penais e infrações estão incluídos); as eventuais consequências do tratamento
-posterior pretendido para os titulares dos dados; e a existência de salvaguardas adequadas.
-43 Considerandos 47 e 50.
-
-
-
-
-                                                    Página 27 de 47
-
-         do n.º 2 pertinente (ou seja, artigo 13.º, n.º 2, ou artigo 14.º, n.º 2, consoante o caso) e que
-         devem ser fornecidas ao titular dos dados. (O considerando 61 faz referência a esta questão
-         como «outras informações necessárias».) Contudo, a posição por defeito é que todas as
-         informações que constam desse número devem ser fornecidas ao titular dos dados, exceto
-         se uma ou mais categorias de informações não existirem ou não forem aplicáveis.
-
-47.      O GT29 recomenda que, para serem transparentes, leais e responsáveis, os responsáveis
-         pelo tratamento devem considerar disponibilizar aos titulares dos dados nas suas
-         declarações de confidencialidade informações sobre a análise de compatibilidade realizada
-         nos termos do artigo 6.º, n.º 4 44 sempre que seja invocado um fundamento jurídico
-         diferente do consentimento ou das disposições do direito nacional/da UE para a nova
-         finalidade de tratamento. (Por outras palavras, uma explicação sobre o que torna o
-         tratamento para outra(s) finalidade(s) compatível com a finalidade original). Pretende-se
-         assim que os titulares dos dados tenham oportunidade para considerarem a
-         compatibilidade do tratamento posterior e das garantias apresentadas e decidirem se
-         exercem os seus direitos, por exemplo, o direito de limitar o tratamento ou o direito de se
-         oporem ao tratamento, entre outros 45. Sempre que os responsáveis pelo tratamento
-         optarem por não incluir estas informações numa declaração de confidencialidade, o GT29
-         recomenda que deixem bem claro aos titulares dos dados que podem obter as informações
-         caso as solicitem.
-
-48.      Associada ao exercício dos direitos dos titulares dos dados está a questão de quando o
-         fazer. Como já foi destacado anteriormente, o fornecimento de informações em tempo útil
-         é um elemento fundamental dos requisitos de transparência nos termos dos artigos 13.º e
-         14.º e está intrinsecamente ligado ao conceito de tratamento leal. As informações relativas
-         ao tratamento posterior devem ser fornecidas «antes desse tratamento» posterior. A
-         posição do GT29 é que deve existir um período razoável entre a notificação e o início do
-         tratamento, não devendo o tratamento começar imediatamente após a notificação ser
-         recebida pelo titular dos dados. Os titulares dos dados podem assim beneficiar em termos
-         práticos do princípio da transparência, pois têm uma oportunidade significativa para
-         considerar o tratamento posterior (e potencialmente exercerem os seus direitos em relação
-         ao mesmo). Saber qual é o período razoável vai depender das circunstâncias particulares. O
-         princípio da lealdade exige que quanto mais intrusivo (ou menos esperado) for o tratamento
-         posterior, maior deve ser o período. De igual modo, o princípio da responsabilidade exige
-         que os responsáveis pelo tratamento sejam capazes de demonstrar de que forma as suas
-         decisões em relação a quando fornecer estas informações são justificadas nas
-         circunstâncias e de que forma a altura para o fazer é leal para com os titulares dos dados.
-         (Ver também os comentários anteriores relativos à verificação dos prazos razoáveis que
-         constam dos pontos 30 a 32 acima).
-
-
-
-
-44 O considerando 50 também o refere.
-
-45Como referido no considerando 63, isto permite que um titular de dados exerça o direito de acesso para ter
-conhecimento e verificar a licitude do tratamento.
-
-
-
-                                              Página 28 de 47
-
-Ferramentas de visualização
-
-49.       De grande importância é o facto de o princípio da transparência no RGPD não se limitar a
-          ser aplicado meramente através das comunicações a nível linguístico (quer escritas, quer
-          orais). O RGPD prevê ferramentas de visualização (fazendo particular referência a ícones,
-          procedimentos de certificação, selos e marcas relativos à proteção de dados), quando
-          adequado. O considerando 58 46 indica que a acessibilidade das informações destinadas ao
-          público ou aos titulares dos dados é especialmente importante no ambiente em linha 47.
-
-         Ícones
-
-50.       O considerando 60 prevê que as informações sejam fornecidas a um titular de dados «em
-          combinação» com ícones normalizados, permitindo assim uma abordagem estruturada
-          com vários níveis. Contudo, a utilização de ícones não deve simplesmente substituir as
-          informações necessárias para o exercício dos direitos dos titulares dos dados nem devem
-          ser utilizados como um substituto para o cumprimento das obrigações que recaem sobre os
-          responsáveis pelo tratamento nos termos dos artigos 13.º e 14.º. O artigo 12.º, n.º 7, prevê a
-          utilização destes ícones da seguinte forma:
-
-                    «As informações a fornecer pelos titulares dos dados nos termos dos artigos 13.º e 14.º
-                    podem ser dadas em combinação com ícones normalizados a fim de dar, de uma forma
-                    facilmente visível, inteligível e claramente legível, uma perspetiva geral significativa do
-                    tratamento previsto. Se forem apresentados por via eletrónica, os ícones devem ser de
-                    leitura automática.»
-
-51.       Uma vez que o artigo 12.º, n.º 7, determina que: «Se forem apresentados por via eletrónica,
-          os ícones devem ser de leitura automática», isto sugere que pode haver situações em que os
-          ícones não são apresentados por via eletrónica,48 por exemplo, ícones em documentação
-          física, dispositivos da IdC ou embalagens de dispositivos da IdC, notificações em locais
-
-
-
-46  «Essas informações poderão ser fornecidas por via eletrónica, por exemplo num sítio web, quando se destinarem ao
-     público. Isto é especialmente relevante em situações em que a proliferação de operadores e a complexidade
-     tecnológica das práticas tornam difícil que o titular dos dados saiba e compreenda se, por quem e para que fins os seus
-     dados pessoais estão a ser recolhidos, como no caso da publicidade por via eletrónica.»
-47 Neste contexto, os responsáveis pelo tratamento devem ter em conta os titulares de dados portadores de deficiência
-
-visual (p. ex. daltonismo).
-48 Não existe uma definição de «leitura automática» no RGPD, mas o considerando 21 da Diretiva 2013/37/UE define
-
-«legível por máquina» como:
-     «um formato de ficheiro estruturado de modo a ser facilmente possível, por meio de aplicações de software, identificar,
-     reconhecer e extrair dados específicos, incluindo declarações de facto, e a sua estrutura interna. Os dados codificados em
-     ficheiros estruturados num formato legível por máquina são dados legíveis por máquina. Os formatos legíveis por máquina
-     podem ser abertos ou exclusivos; podem ser normas formais ou não. Os documentos codificados num formato de ficheiro
-     que limita o tratamento automático, devido ao facto de ou não ser possível extrair os dados desses documentos ou isso
-     não ser facilmente possível, não deverão ser considerados documentos em formato legível por máquina. Os Estados-
-     Membros deverão, se adequado, encorajar a utilização de formatos abertos legíveis por máquina.»
-
-
-
-
-                                                      Página 29 de 47
-
-         públicos acerca da localização através de Wi-Fi, códigos QR e notificações através de
-         televisão em circuito fechado (CCTV).
-
-52.      Claramente, a utilização dos ícones tem como finalidade melhorar a transparência para os
-         titulares dos dados, reduzindo potencialmente a necessidade de apresentação de grandes
-         quantidades de informações escritas ao titular dos dados. Contudo, a utilidade dos ícones
-         para veicular eficazmente as informações necessárias nos termos dos artigos 13.º e 14.º aos
-         titulares dos dados depende da normalização dos símbolos/imagens que devem ser
-         utilizados e reconhecidos universalmente em toda a UE como se fossem «estenografia»
-         dessas informações. A este respeito, o RGPD atribui a responsabilidade pelo
-         desenvolvimento de um código de ícones à Comissão, mas, em última análise, o Comité
-         Europeu para a Proteção de Dados pode, seja a pedido da Comissão ou por iniciativa
-         própria, apresentar à Comissão um parecer sobre esses ícones 49. O GT29 reconhece que,
-         em consonância com o considerando 166, o desenvolvimento de um código de ícones deve
-         centrar-se numa abordagem baseada em dados concretos e, antes de qualquer tipo de
-         normalização, será necessária uma investigação exaustiva a realizar em conjunto com a
-         indústria e o público em geral relativamente à eficácia dos ícones neste contexto.
-
-
-         Procedimentos de certificação, selos e marcas
-
-53.      Para além da utilização de ícones normalizados, o RGPD (artigo 42.º) também prevê a
-         utilização de procedimentos de certificação em matéria de proteção de dados, selos e
-         marcas de proteção de dados para efeitos de comprovação da conformidade com o RGPD
-         das operações de tratamento efetuadas pelos responsáveis pelo tratamento e pelos
-         subcontratantes e de melhoria da transparência em relação aos titulares dos dados 50. O
-         GT29 pretende emitir orientações sobre os procedimentos de certificação oportunamente.
-
-
-Exercício dos direitos dos titulares dos dados
-
-54.      A transparência faz recair sobre os responsáveis pelo tratamento uma tripla obrigação, no
-         que diz respeito aos direitos dos titulares dos dados ao abrigo do RGPD, uma vez que
-         devem51:
-
-
-
-49 O artigo 12.º, n.º 8, prevê que a Comissão fique habilitada a adotar atos delegados nos termos do artigo 92.º, a fim de
-
-   determinar quais as informações a fornecer por meio dos ícones e as informações aplicáveis ao fornecimento de ícones
-   normalizados. O considerando 166 (que trata dos atos delegados da Comissão em geral) tem um caráter instrutivo,
-   prevendo que a Comissão deve proceder a consultas adequadas ao longo dos seus trabalhos preparatórios, incluindo a
-   nível de peritos. Contudo, o Comité Europeu para a Proteção de Dados também desempenha um papel consultivo
-   importante no que toca à normalização dos ícones, uma vez que o artigo 70.º, n.º 1, alínea r), determina que o Comité
-   Europeu para a Proteção de Dados deve, por iniciativa própria ou, quando pertinente, a pedido da Comissão, dar parecer
-   à Comissão sobre os ícones.
-50 Ver a referência no considerando 100.
-
-51 Nos termos da secção «Transparência e regras para o exercício dos direitos dos titulares dos dados» do RGPD em
-
-     matéria de direitos dos titulares dos dados (secção 1, capítulo III, designadamente, artigo 12.º).
-
-
-
-                                                    Página 30 de 47
-
-         •         fornecer informações aos titulares dos dados acerca dos seus direitos 52 (previsto
-                   nos artigos 13.º, n.º 2, alínea b), e 14.º, n.º 2, alínea c)),
-         •         cumprir o princípio da transparência (ou seja, em relação à qualidade das
-                   comunicações, tal como definido no artigo 12.º, n.º 1) quando comunicam com os
-                   titulares dos dados relativamente aos seus direitos nos termos dos artigos 15.º a
-                   22.º e 34.º, e
-         •         facilitar o exercício dos direitos dos titulares dos dados nos termos dos artigos 15.º
-                   a 22.º.
-
-55.      Os requisitos previstos no RGPD em relação ao exercício desses direitos e à natureza das
-         informações necessárias foram concebidos com vista a colocar os titulares dos dados numa
-         posição importante, para que estes possam reivindicar os seus direitos e responsabilizar os
-         responsáveis pelo tratamento pelas operações de tratamento dos seus dados pessoais. O
-         considerando 59 ressalta que «[d]everão ser previstas regras para facilitar o exercício pelo
-         titular dos dados dos direitos que lhe são conferidos» e que o responsável pelo tratamento
-         deve também «fornecer os meios necessários para que os pedidos possam ser apresentados
-         por via eletrónica, em especial quando os dados sejam também tratados por essa via». As
-         regras relativas à modalidade disponibilizada pelo responsável pelo tratamento para que os
-         titulares dos dados exerçam os seus direitos devem ser adequadas ao contexto e à natureza
-         da relação e das interações entre o responsável pelo tratamento e o titular dos dados. Para
-         o efeito, um responsável pelo tratamento pode querer disponibilizar uma ou mais
-         modalidades diferentes para o exercício dos direitos que reflitam as diferentes formas em
-         que os titulares dos dados interagem com esse responsável pelo tratamento.
-
-         Exemplo
-
-         Um prestador de serviços de saúde utiliza um formulário eletrónico no seu sítio web
-         e formulários em papel nas receções das suas clínicas médicas para facilitar a
-         apresentação dos pedidos de acesso aos dados pessoais, tanto em linha como
-         presencialmente. Embora disponibilize estas modalidades, o serviço de saúde
-         também aceita pedidos de acesso apresentados de outras formas (tais como, por
-         carta e por mensagem de correio eletrónico) e disponibiliza um ponto de contacto
-         especificamente dedicado a esta questão (que pode ser acedido através de correio
-         eletrónico ou por telefone) para ajudar os titulares dos dados a exercerem os seus
-         direitos.
-
-
-Exceções à obrigação de fornecer informações
-
-         Exceções previstas no artigo 13.º
-
-
-
-
-52 Acesso, retificação, apagamento, restrição do tratamento, oposição ao tratamento, portabilidade.
-
-
-
-
-                                                   Página 31 de 47
-
-56.        A única exceção às obrigações do artigo 13.º que recaem sobre os responsáveis pelo
-           tratamento quando estes recolhem dados pessoais diretamente junto de um titular dos
-           dados ocorre «quando e na medida em que o titular dos dados já tiver conhecimento das
-           informações» 53. O princípio da responsabilidade exige que os responsáveis pelo tratamento
-           demonstrem (e documentem) quais são as informações já fornecidas ao titular dos dados,
-           como e quando é que os titulares dos dados as receberam e que, desde então, não se
-           registaram alterações que tenham tornado as informações desatualizadas. Além disso, a
-           utilização da expressão «na medida em que» no artigo 13.º, n.º 4, deixa bem claro que,
-           mesmo que o titular dos dados tenha recebido previamente determinadas categorias de
-           informações do acervo de informações definido no artigo 13.º, continua a recair sobre o
-           responsável pelo tratamento a obrigação de complementar essas informações por forma a
-           assegurar que o titular dos dados passa a ter a totalidade das informações que constam do
-           artigo 13.º, n.os 1 e 2. A seguir apresenta-se um exemplo de uma boa prática em relação à
-           forma restrita em que a exceção que consta do artigo 13.º, n.º 4, deve ser interpretada.
-
-
-
-             Exemplo
-
-             Um indivíduo regista-se num serviço de correio eletrónico em linha e recebe todas as
-             informações necessárias previstas no artigo 13.º, n.os 1 e 2, aquando do registo. Seis
-             meses mais tarde, o titular dos dados ativa uma funcionalidade conexa de mensagens
-             instantâneas através do prestador de serviços de correio eletrónico e dá o seu número
-             de telemóvel para o fazer. O prestador do serviço fornece ao titular dos dados
-             determinadas informações previstas no artigo 13.º, n.os 1 e 2, acerca do tratamento
-             relativo ao número de telemóvel (p. ex. finalidades e fundamento jurídico para o
-             tratamento, destinatários, período de conservação), mas não fornece outras
-             informações que o indivíduo já recebeu seis meses antes e que desde então não
-             sofreram alterações (p. ex. identidade e dados de contacto do responsável pelo
-             tratamento e do encarregado da proteção de dados, informações sobre os direitos do
-             titular dos dados e sobre o direito de apresentar queixa junto da autoridade de
-             controlo). Contudo, por uma questão de boa prática, deve ser fornecido o conjunto
-             completo de informações ao titular dos dados, mas este também deve ser capaz de
-             distinguir facilmente quais são as informações novas. O novo tratamento para as
-             finalidades do serviço de mensagens instantâneas pode afetar o titular dos dados de tal
-             forma que este seja levado a querer exercer um direito de que já se tenha esquecido,
-             mas do qual tenha sido informado seis meses antes. Fornecer novamente todas as
-             informações ajuda a assegurar que o titular dos dados continua bem informado acerca
-             da forma como os seus dados estão a ser utilizados e acerca dos seus direitos.
-
-
-
-          Exceções previstas no artigo 14.º
-
-
-
-53 Artigo 13.º, n.º 4.
-
-
-
-
-                                              Página 32 de 47
-
-57.    O artigo 14.º contém um conjunto muito mais alargado de exceções à obrigação de
-       fornecer informações que recai sobre um responsável pelo tratamento sempre que os dados
-       pessoais não tenham sido obtidos junto do titular dos dados. Estas exceções devem, regra
-       geral, ser interpretadas e aplicadas de forma restrita. A juntar às circunstâncias em que o
-       titular dos dados já tem conhecimento das informações em causa (artigo 14.º, n.º 5,
-       alínea a)), o artigo 14.º, n.º 5, também prevê as seguintes exceções:
-
-       •       se comprove a impossibilidade de disponibilizar a informação, ou que o esforço
-               envolvido seja desproporcionado, nomeadamente para o tratamento para fins de
-               arquivo de interesse público, para fins de investigação científica ou histórica ou para
-               fins estatísticos, e na medida em que seja suscetível de tornar impossível ou
-               prejudicar gravemente a obtenção dos objetivos desse tratamento,
-       •       o responsável pelo tratamento está sujeito a um requisito previsto no direito
-               nacional ou no direito da União de obter ou divulgar os dados pessoais, prevendo
-               esse direito medidas adequadas para proteger os legítimos interesses do titular dos
-               dados, ou
-       •       em virtude de uma obrigação de sigilo profissional (inclusive uma obrigação legal de
-               confidencialidade) regulamentada pelo direito nacional ou da União, os dados
-               pessoais devam permanecer confidenciais.
-
-        Caso se comprove a impossibilidade, caso envolva um esforço desproporcionado e caso seja
-suscetível de prejudicar gravemente a obtenção dos objetivos
-
-58.    O artigo 14.º, n.º 5, alínea b), prevê três situações distintas em que a obrigação de fornecer
-       informações estipulada no artigo 14.º, n.os 1, 2 e 4 é revogada;
-
-       (i)     caso se comprove a impossibilidade (nomeadamente para fins de arquivo de
-               interesse público, para fins de investigação científica/histórica ou para fins
-               estatísticos),
-       (ii)    caso envolva um esforço desproporcionado (nomeadamente para fins de arquivo de
-               interesse público, para fins de investigação científica/histórica ou para fins
-               estatísticos), ou
-       (iii)   caso o fornecimento das informações previstas no artigo 14.º, n.º 1, seja suscetível
-               de tornar impossível ou prejudicar gravemente a obtenção dos objetivos desse
-               tratamento.
-
-       «Caso se comprove a impossibilidade»
-
-59.    A situação em que «se comprove a impossibilidade» nos termos do artigo 14.º, n.º 5,
-       alínea b), de fornecer as informações é uma situação de tudo ou nada, uma vez que alguma
-       coisa ou é impossível ou não é; não existem graus de impossibilidade. Assim sendo, se
-       pretender invocar esta exceção, um responsável pelo tratamento terá de demonstrar os
-       fatores que efetivamente o impedem de fornecer as informações em causa aos titulares dos
-       dados. Se, após determinado período de tempo, os fatores que determinaram a
-       «impossibilidade» deixarem de existir e passar a ser possível fornecer as informações aos
-
-                                          Página 33 de 47
-
-          titulares dos dados, então o responsável pelo tratamento deve fazê-lo de imediato. Na
-          prática, existirão muito poucas situações em que um responsável pelo tratamento consiga
-          demonstrar que é efetivamente impossível fornecer as informações aos titulares dos dados.
-          O seguinte exemplo ilustra esta situação.
-
-          Exemplo
-
-          Um titular de dados regista-se num serviço de subscrição em linha pós-pago. Após o
-          registo, o responsável pelo tratamento recolhe dados de crédito junto de uma agência
-          de informações de crédito acerca do titular dos dados por forma a decidir se presta ou
-          não o serviço. O protocolo do responsável pelo tratamento é informar os titulares dos
-          dados acerca da recolha destes dados de crédito no prazo de três dias a contar da
-          recolha, nos termos do artigo 14.º, n.º 3, alínea a). Contudo, a morada e o número de
-          telefone do titular dos dados não se encontram inscritos nos registos públicos (na
-          verdade, o titular dos dados vive no estrangeiro). O titular dos dados não deixou um
-          endereço de correio eletrónico quando se registou no serviço ou o endereço de correio
-          eletrónico é inválido. O responsável pelo tratamento descobre que não dispõe de
-          qualquer meio para contactar diretamente o titular dos dados. Contudo, neste caso, o
-          responsável pelo tratamento pode fornecer informações acerca da recolha de dados de
-          crédito no seu sítio web, antes do registo. Neste caso, não seria impossível fornecer as
-          informações nos termos do artigo 14.º.
-
-
-          Impossibilidade de informar qual a origem dos dados
-
-60.       O considerando 61 determina que «[q]uando não for possível informar o titular dos dados da
-          origem dos dados pessoais por se ter recorrido a várias fontes, devem ser-lhe facultadas
-          informações genéricas». A supressão do requisito que estipula o fornecimento aos titulares
-          dos dados de informações sobre a fonte dos seus dados pessoais só é aplicável quando tal
-          não for possível pelo facto de diferentes elementos dos dados pessoais relativos ao mesmo
-          titular dos dados não poderem ser atribuídos a uma única fonte. Por exemplo, o simples
-          facto de uma base de dados que contenha dados pessoais de múltiplos titulares de dados
-          ter sido compilada por um responsável pelo tratamento com recurso a mais do que uma
-          fonte não é suficiente para suprimir o referido requisito se for possível (ainda que moroso ou
-          oneroso) identificar a fonte de onde provêm os dados pessoais de cada um dos titulares dos
-          dados. Atendendo aos requisitos de proteção de dados desde a conceção e por defeito, 54
-          devem ser inseridos mecanismos de transparência nos sistemas de tratamento logo desde o
-          início para que todas as fontes de dados pessoais recebidos numa organização possam ser
-          localizadas e para que a fonte desses dados possa ser identificada em qualquer altura do
-          ciclo de vida do tratamento dos dados (ver ponto 43 acima).
-
-          «Esforço desproporcionado»
-
-
-54 Artigo 25.º
-
-
-
-
-                                             Página 34 de 47
-
-61.   Nos termos do artigo 14.º, n.º 5, alínea b), e tal como acontece na situação de «caso se
-      comprove a impossibilidade», o «esforço desproporcionado» pode também aplicar-se, em
-      especial, ao tratamento «para fins de arquivo de interesse público, para fins de investigação
-      científica ou histórica ou para fins estatísticos, sob reserva das condições e garantias previstas
-      no artigo 89.º, n.º 1». O considerando 62 também refere estes objetivos como casos em que
-      o fornecimento de informações ao titular dos dados implica um esforço desproporcionado e
-      determina a este respeito que o número de titulares de dados, a antiguidade dos dados e as
-      devidas garantias que tenham sido adotadas sejam tomadas em consideração. Atendendo
-      à ênfase que o considerando 62 e o artigo 14.º, n.º 5, alínea b), colocam nas finalidades de
-      arquivo, investigação e estatística relativamente à aplicação desta isenção, a posição do
-      GT29 é que esta exceção não deve ser invocada rotineiramente pelos responsáveis pelo
-      tratamento que não estejam a tratar dados pessoais para fins de arquivo de interesse
-      público, para fins de investigação científica ou histórica ou para fins estatísticos. O GT29
-      destaca o facto de, quando estas são as finalidades que se procura alcançar, as condições
-      definidas no artigo 89.º, n.º 1, devem continuar a ser cumpridas e o fornecimento de
-      informações deve constituir um esforço desproporcionado.
-
-62.   Quando se procura determinar o que pode constituir uma impossibilidade ou um esforço
-      desproporcionado nos termos do artigo 14.º, n.º 5, alínea b), é importante que não existam
-      exceções comparáveis nos termos do artigo 13.º (quando os dados pessoais são recolhidos
-      junto do titular dos dados). A única diferença entre uma situação do artigo 13.º e uma
-      situação do artigo 14.º é que, nesta última, os dados pessoais não são recolhidos junto do
-      titular dos dados. Por conseguinte, pode concluir-se que a impossibilidade ou o esforço
-      desproporcionado advêm tipicamente de circunstâncias que não se aplicam caso os dados
-      pessoais sejam recolhidos junto do titular dos dados. Por outras palavras, a impossibilidade
-      ou o esforço desproporcionado devem estar diretamente relacionados com o facto de os
-      dados pessoais terem sido obtidos de outra forma que não junto do titular dos dados.
-
-       Exemplo
-
-       Um grande hospital da zona metropolitana solicita a todos os pacientes que efetuem
-       tratamentos diários, que sejam admitidos por prazos longos e que tenham consultas
-       marcadas que preencham um formulário informativo sobre o paciente com vista a obter
-       os contactos de dois familiares (titulares dos dados). Atendendo à grande quantidade de
-       pacientes que passam pelo hospital diariamente, o fornecimento das informações
-       exigidas nos termos do artigo 14.º a todas as pessoas referidas como familiares nos
-       formulários preenchidos pelos pacientes todos os dias implicaria um esforço
-       desproporcionado da parte do hospital.
-
-
-63.   Os fatores supramencionados referidos no considerando 62 (o número de titulares de
-      dados, a antiguidade dos dados e as devidas garantias que tenham sido adotadas) podem
-      indicar os tipos de questões que contribuem para um esforço desproporcionado por parte
-      de um responsável pelo tratamento de notificar ao titular dos dados as informações
-      pertinentes que constam do artigo 14.º.
-
-
-
-                                           Página 35 de 47
-
-       Exemplo
-
-       Alguns investigadores históricos que procuram descobrir ramificações genealógicas
-       com base em apelidos conseguem obter indiretamente um grande conjunto de
-       dados relativo a 20 000 titulares de dados. Contudo, este conjunto de dados, que foi
-       recolhido há 50 anos e que não foi atualizado desde então, não contém quaisquer
-       dados de contacto. Atendendo à dimensão da base de dados e, mais
-       especificamente, à antiguidade dos dados, localizar cada um dos titulares dos dados
-       para lhes fornecer as informações exigidas pelo artigo 14.º implicaria um esforço
-       desproporcionado da parte dos investigadores.
-
-64.   Quando um responsável pelo tratamento procura invocar a exceção que consta do
-      artigo 14.º, n.º 5, alínea b), relativa ao esforço desproporcionado que implicaria o
-      fornecimento dos dados, esse responsável pelo tratamento deve procurar fazer uma
-      avaliação comparativa da situação, aplicando um critério de equilíbrio e analisando o
-      esforço envolvido no fornecimento das informações ao titular dos dados face ao impacto e
-      aos efeitos no titular dos dados se este não recebesse as informações. Esta avaliação deve
-      ser documentada pelo responsável pelo tratamento em conformidade com as suas
-      obrigações em matéria de responsabilidade. Neste caso, o artigo 14.º, n.º 5, alínea b),
-      especifica que o responsável pelo tratamento deve tomar as medidas adequadas para
-      defender os direitos, liberdades e interesses legítimos do titular dos dados. Algo que
-      também é aplicável sempre que um responsável pelo tratamento determine que o
-      fornecimento das informações é comprovadamente uma impossibilidade ou é suscetível de
-      tornar impossível ou prejudicar gravemente a obtenção dos objetivos desse tratamento.
-      Uma medida adequada, tal como especificado no artigo 14.º, n.º 5, alínea b), que os
-      responsáveis pelo tratamento devem sempre tomar é divulgar a informação ao público. Um
-      responsável pelo tratamento pode fazê-lo de diversas formas, por exemplo, colocando as
-      informações no seu sítio web ou publicitando pró-ativamente as informações num jornal ou
-      em cartazes nas suas instalações. Outras medidas adequadas, para além de divulgar as
-      informações ao público, dependerão das circunstâncias do tratamento, mas podem incluir:
-      a realização de uma avaliação de impacto sobre a proteção de dados; a aplicação de
-      técnicas de pseudonimização aos dados; a minimização dos dados recolhidos e do período
-      de conservação; e a adoção de medidas técnicas e organizacionais que assegurem um nível
-      elevado de segurança. Além disso, pode haver situações em que um responsável pelo
-      tratamento esteja a tratar dados pessoais que não exijam a identificação dos titulares dos
-      dados (por exemplo, com dados pseudonimizados). Nestes casos, o artigo 11.º, n.º 1,
-      também pode ser pertinente, uma vez que determina que um responsável pelo tratamento
-      não é obrigado a manter, obter ou tratar informações suplementares para identificar o
-      titular dos dados com o único objetivo de dar cumprimento ao RGPD.
-
-      Prejudicar gravemente os objetivos
-
-65.   A última situação abrangida pelo artigo 14.º, n.º 5, alínea b), refere-se ao fornecimento das
-      informações por parte do responsável pelo tratamento ao titular dos dados nos termos do
-      artigo 14.º, n.º 1, sendo suscetível de tornar impossível ou prejudicar gravemente a
-
-
-                                           Página 36 de 47
-
-      obtenção dos objetivos desse tratamento. Para invocarem esta exceção, os responsáveis
-      pelo tratamento devem demonstrar que o fornecimento das informações estipulado no
-      artigo 14.º, n.º 1, anularia por si só os objetivos do tratamento. Designadamente, invocar
-      este aspeto do artigo 14.º, n.º 5, alínea b), pressupõe que o tratamento dos dados satisfaz
-      todos os princípios estabelecidos no artigo 5.º e que, mais importante, em todas as
-      circunstâncias, o tratamento dos dados pessoais é leal e tem um fundamento jurídico.
-
-       Exemplo
-
-       O Banco A está sujeito a uma obrigação ao abrigo da legislação relativa ao combate
-       ao branqueamento de capitais de comunicar qualquer atividade suspeita relacionada
-       com contas abertas no banco à autoridade responsável pela aplicação da lei
-       competente no domínio financeiro. O Banco A recebe informações do Banco B
-       (noutro Estado-Membro) de que o titular de uma conta deu instruções para
-       transferir dinheiro para outra conta aberta no Banco A e que a operação parece
-       suspeita. O Banco A transmite estes dados relativos ao titular da conta e às
-       atividades suspeitas à autoridade responsável pela aplicação da lei competente no
-       domínio financeiro. A legislação de combate ao branqueamento de capitais em
-       causa qualifica como infração penal o facto de um banco que comunica estas
-       informações «alertar» o titular da conta para a possibilidade de estar sujeito a
-       investigações regulamentares. Nesta situação, o artigo 14.º, n.º 5, alínea b), é
-       aplicável porque fornecer ao titular dos dados (o titular da conta no Banco A) as
-       informações relativas ao artigo 14.º sobre o tratamento dos dados pessoais do
-       titular da conta recebidos do Banco A iria prejudicar gravemente os objetivos da
-       legislação, que inclui a prevenção deste tipo de «alertas». Contudo, quando abrem
-       uma conta, todos os titulares de conta clientes do Banco A devem receber
-       informações gerais acerca da possibilidade de os seus dados pessoais poderem vir a
-       ser tratados para fins de combate ao branqueamento de capitais.
-
-
-
-      A obtenção ou divulgação está expressamente prevista no direito
-
-66.   O artigo 14.º, n.º 5, alínea c), permite a supressão dos requisitos de informação previstos no
-      artigo 14.º, n.os 1, 2 e 4, na medida em que a obtenção ou divulgação de dados pessoais
-      «esteja expressamente prevista no direito da União ou do Estado-Membro ao qual o
-      responsável pelo tratamento estiver sujeito». Esta isenção está condicionada ao facto de o
-      direito em causa prever «medidas adequadas para proteger os legítimos interesses do titular
-      dos dados». O direito em causa deve referir diretamente o responsável pelo tratamento e a
-      obtenção ou divulgação em causa devem ser obrigações que recaem sobre o responsável
-      pelo tratamento. Assim, o responsável pelo tratamento deve conseguir demonstrar de que
-      forma o direito em causa lhe é aplicável e exige dele a obtenção ou divulgação dos dados
-      pessoais em causa. Ainda que caiba ao direito da União ou do Estado-Membro providenciar
-      o enquadramento legal por forma a prever «medidas adequadas para proteger os legítimos
-      interesses do titular dos dados», o responsável pelo tratamento deve assegurar (e conseguir
-      demonstrar) que o facto de obter ou divulgar os dados pessoais cumpre essas medidas.
-
-
-                                         Página 37 de 47
-
-      Além disso, o responsável pelo tratamento deve deixar claro aos titulares dos dados de que
-      obtém ou divulga dados pessoais em conformidade com o direito em causa, exceto quando
-      existe uma proibição legal que impeça o responsável pelo tratamento de o fazer. Este
-      aspeto está em consonância com o considerando 41 do RGPD, que determina que um
-      fundamento jurídico ou uma medida legislativa devem ser claros e precisos e a sua
-      aplicação deve ser previsível para os seus destinatários, em conformidade com a
-      jurisprudência do Tribunal de Justiça da União Europeia e do Tribunal Europeu dos Direitos
-      do Homem. Contudo, o artigo 14.º, n.º 5, alínea c), não é aplicável quando o responsável
-      pelo tratamento tem obrigação de obter os dados diretamente junto do titular dos dados,
-      caso em que passa a ser aplicável o artigo 13.º. Neste caso, a única isenção nos termos do
-      RGPD que isenta o responsável pelo tratamento de fornecer ao titular dos dados as
-      informações sobre o tratamento é a que consta do artigo 13.º, n.º 4 (ou seja, quando e na
-      medida em que o titular dos dados já tiver conhecimento das informações). Contudo, como
-      será referido no ponto 68, a nível nacional, os Estados-Membros também podem legislar,
-      em conformidade com o artigo 23.º, outras limitações específicas ao direito à transparência
-      nos termos do artigo 12.º e às informações relativas aos artigos 13.º e 14.º.
-
-       Exemplo
-
-       Uma autoridade tributária está sujeita a uma obrigação prevista no direito nacional de
-       obter informações sobre os salários dos trabalhadores junto dos seus empregadores. Os
-       dados pessoais não são obtidos junto dos titulares dos dados e, por conseguinte, a
-       autoridade tributária está sujeita aos requisitos do artigo 14.º. Como a obtenção dos
-       dados pessoais pela autoridade tributária junto dos empregadores está expressamente
-       prevista por lei, os requisitos de informação relativos ao artigo 14.º não são aplicáveis à
-       autoridade tributária neste caso concreto.
-
-
-
-      Confidencialidade em virtude de uma obrigação de sigilo profissional
-
-67.   O artigo 14.º, n.º 5, alínea d), prevê uma isenção do requisito de informação que recai sobre
-      os responsáveis pelo tratamento sempre que os dados pessoais «devam permanecer
-      confidenciais em virtude de uma obrigação de sigilo profissional regulamentada pelo direito da
-      União ou de um Estado-Membro, inclusive uma obrigação legal de confidencialidade». Quando
-      um responsável pelo tratamento pretende invocar esta isenção, deve conseguir demonstrar
-      que identificou adequadamente a referida isenção e comprovar de que forma a obrigação
-      de sigilo profissional diz respeito ao responsável pelo tratamento de tal forma que proíba o
-      responsável pelo tratamento de fornecer todas as informações estipuladas no artigo 14.º,
-      n.os 1, 2 e 4, ao titular dos dados.
-
-       Exemplo
-
-       Um profissional da área médica (responsável pelo tratamento) tem a obrigação
-       profissional de sigilo em relação às informações clínicas dos seus pacientes. Uma
-       paciente (em relação à qual se aplica a obrigação de sigilo profissional) fornece ao
-
-
-                                         Página 38 de 47
-
-           profissional da área médica informações acerca da sua saúde relacionadas com uma
-           doença genética, que vários outros familiares têm. A paciente fornece igualmente ao
-           profissional da área médica determinados dados pessoais dos seus familiares (titulares
-           dos dados) que têm a mesma doença. O profissional da área médica não é obrigado a
-           fornecer aos familiares em causa as informações relativas ao artigo 14.º, uma vez que a
-           isenção que consta do artigo 14.º, n.º 5, alínea d), é aplicável. Caso o profissional da área
-           médica fornecesse as informações relativas ao artigo 14.º aos familiares da sua
-           paciente, estaria a violar a obrigação de sigilo profissional que tem para com a paciente.
-
-
-Limitações dos direitos dos titulares dos dados
-
-68.      O artigo 23.º prevê que os Estados-Membros (ou a UE) podem legislar outras limitações do
-         âmbito dos direitos dos titulares dos dados em relação à transparência e aos direitos
-         substantivos dos titulares dos dados 55 sempre que essas medidas respeitem a essência dos
-         direitos e liberdades fundamentais e sejam necessárias e proporcionadas para salvaguardar
-         um ou mais dos dez objetivos definidos no artigo 23.º, n.º 1, alíneas a) a j). Sempre que as
-         referidas medidas reduzam os direitos específicos dos titulares dos dados ou as obrigações
-         gerais de transparência, que seriam de outro modo aplicáveis aos responsáveis pelo
-         tratamento nos termos do RGPD, o responsável pelo tratamento tem de conseguir
-         demonstrar de que forma é que a disposição nacional se aplica a ele. Tal como definido no
-         artigo 23.º, n.º 2, alínea h), a medida legislativa deve conter uma disposição relativa ao
-         direito do titular dos dados de ser informado acerca de uma limitação dos seus direitos, a
-         menos que tal possa prejudicar o objetivo da limitação. Em coerência com este aspeto e em
-         consonância com o princípio da lealdade, o responsável pelo tratamento deve também
-         informar os titulares dos dados de que estão a invocar (ou pretendem invocar, caso seja
-         exercido um direito específico pelo titular dos dados) essa limitação legislativa nacional em
-         relação ao exercício dos direitos dos titulares dos dados, ou em relação à obrigação de
-         transparência, a menos que tal possa prejudicar o objetivo da limitação legislativa. Assim
-         sendo, a transparência exige que os responsáveis pelo tratamento forneçam logo à partida
-         informações adequadas aos titulares dos dados acerca dos direitos destes e de quaisquer
-         condicionalismos particulares relativos a esses direitos que o responsável pelo tratamento
-         possa vir a invocar, para que o titular dos dados não seja apanhado de surpresa quanto à
-         alegada limitação de um direito específico quando, mais tarde, tentar exercê-lo contra o
-         responsável pelo tratamento. Em relação à pseudonimização e à minimização dos dados, e
-         na medida em que os responsáveis pelo tratamento possam alegadamente invocar o
-         artigo 11.º do RGPD, o GT29 confirmou anteriormente no Parecer 3/201756 que o artigo 11.º
-         do RGPD deve ser interpretado como forma de aplicar uma verdadeira minimização de
-         dados sem prejudicar o exercício dos direitos dos titulares dos dados e que o exercício dos
-
-
-
-55 Tal como definido nos artigos 12.º a 22.º e 34.º, e no artigo 5.º na medida em que as suas disposições correspondem aos
-
- direitos e às obrigações previstas nos artigos 12.º a 22.º.
-56Parecer 03/2017 sobre o tratamento de dados pessoais no contexto dos Sistemas de Transporte Inteligentes
-Cooperativos (STIC) — ver ponto 4.2.
-
-
-
-                                                    Página 39 de 47
-
-          direitos dos titulares dos dados deve ser possível com a ajuda de informações adicionais
-          fornecidas pelo titular dos dados.
-
-69.       Adicionalmente, o artigo 85.º exige que os Estados-Membros, por lei, conciliem a proteção
-          de dados com o direito à liberdade de expressão e de informação. Para tal é necessário,
-          entre outras coisas, que os Estados-Membros prevejam isenções ou derrogações adequadas
-          de determinadas disposições do RGPD (incluindo dos requisitos de transparência nos
-          termos dos artigos 12.º a 14.º) para o tratamento efetuado para fins jornalísticos,
-          académicos, artísticos ou de expressão literária, caso sejam necessárias para conciliar os
-          dois direitos.
-
-
-Transparência e violações de dados
-
-70.       O GT29 elaborou um documento distinto com orientações sobre violações de dados 57, mas
-          para efeitos das presentes orientações, as obrigações de um responsável pelo tratamento
-          em relação à comunicação de violações de dados a um titular de dados deve ter totalmente
-          em conta os requisitos de transparência definidos no artigo 12.º 58. A comunicação de uma
-          violação de dados deve satisfazer os mesmos requisitos referidos acima (em especial, os
-          relativos à utilização de uma linguagem clara e simples) aplicáveis às outras comunicações
-          com um titular de dados em relação aos seus direitos ou relacionadas com o fornecimento
-          das informações relativas aos artigos 13.º e 14.º.
-
-
-
-
-57 Orientações sobre a notificação de uma violação de dados pessoais ao abrigo do Regulamento 2016/ 679, WP 250
-
-58 O artigo 12.º, n.º 1, deixa esta questão muito clara ao fazer referência específica a «...qualquer comunicação prevista
-
-nos artigos 15.º a 22.º e 34.º a respeito do tratamento...» [sublinhado e negrito nossos].
-
-
-
-                                                     Página 40 de 47
-
-                                          Anexo
-Informações que devem ser fornecidas ao titular dos dados nos termos dos artigos 13.º ou 14.º
-
-                                               Artigo             Artigo
-                                             aplicável         pertinente
-                                           (se os dados       (se os dados
-         Tipo de informações                 pessoais           pessoais         Comentários do GT29 sobre os
-               exigidas                        forem           não forem           requisitos de informação
-                                            recolhidos           obtidos
-                                           diretamente          junto do
-                                             junto do          titular dos
-                                            titular dos          dados)
-                                              dados)
-
-   A identidade e os contactos Artigo 13.º, Artigo 14.º, Estas           informações      devem
-   do       responsável      pelo n.º 1,        n.º 1, alínea permitir a fácil identificação do
-   tratamento e, se for caso alínea a)          a)            responsável pelo tratamento e,
-                               59
-   disso, do seu representante                                de       preferência,     permitir
-                                                              diferentes        formas         de
-                                                              comunicação com o responsável
-                                                              pelo tratamento (p. ex. número
-                                                              de telefone, correio eletrónico,
-                                                              morada postal, etc.)
-   Os contactos do encarregado Artigo 13.º, Artigo 14.º, Ver as orientações do GT29
-   da proteção de dados, se for n.º 1, alínea n.º 1, alínea sobre encarregado da proteção
-   caso disso                      b)           b)            de dados 60
-   As      finalidades     e     o Artigo 13.º, Artigo 14.º, Para além de definir as
-   fundamento       jurídico   do n.º 1, alínea n.º 1, alínea finalidades do tratamento para
-   tratamento                      c)           c)            as quais os dados pessoais se
-                                                              destinam, deve ser especificado
-                                                              o       fundamento         jurídico
-                                                              pertinente em que assenta o
-                                                              tratamento nos termos do
-                                                              artigo 6.º.     No    caso      das
-                                                              categorias especiais de dados
-                                                              pessoais, deve ser especificada
-
-
-59 Tal como definido no artigo 4.º, n.º 17, do RGPD (e indicado no considerando 80), «representante» significa uma pessoa
-
-singular ou coletiva estabelecida na UE que é designada por escrito pelo responsável pelo tratamento ou subcontratante
-nos termos do artigo 27.º e que representa o responsável pelo tratamento ou o subcontratante no que se refere às suas
-obrigações respetivas nos termos do RGPD. Esta obrigação é aplicável quando, em conformidade com o artigo 3.º, n.º 2, o
-responsável pelo tratamento ou o subcontratante não se encontra estabelecido na UE, mas efetua o tratamento de dados
-pessoais de titulares residentes no território da UE, e o tratamento está relacionado com a oferta de bens ou serviços a
-esses titulares de dados na União ou com o controlo do seu comportamento.
-60 Orientações sobre encarregado da proteção de dados, WP 243, rev.01, última revisão e adoção em 5 de abril de 2017
-
-
-
-
-                                                   Página 41 de 47
-
-                                                             a disposição aplicável do
-                                                             artigo 9.º (e, quando pertinente,
-                                                             o direito aplicável da União ou
-                                                             do Estado-Membro ao abrigo
-                                                             do qual os dados são tratados).
-                                                             Quando são tratados, nos
-                                                             termos do artigo 10.º, dados
-                                                             pessoais relacionados com
-                                                             condenações penais e infrações
-                                                             ou relacionados com medidas
-                                                             de segurança com base no
-                                                             artigo 6.º, n.º 1, deve ser
-                                                             especificado, quando aplicável,
-                                                             o direito da União ou do Estado-
-                                                             Membro pertinente ao abrigo
-                                                             do qual o tratamento é
-                                                             efetuado.
-Quando        os   interesses    Artigo 13.º, Artigo 14.º, O interesse específico em causa
-legítimos (artigo 6.º, n.º 1,    n.º 1, alínea n.º 2, alínea deve ser identificado em prol do
-alínea f)) são o fundamento      d)            b)            titular dos dados. Por uma
-jurídico do tratamento, os                                   questão de boa prática, o
-interesses          legítimos                                responsável pelo tratamento
-prosseguidos              pelo                               também pode fornecer ao
-responsável pelo tratamento                                  titular dos dados informações
-ou por terceiros                                             sobre o critério do equilíbrio, que
-                                                             deve ser aplicado por forma a
-                                                             ser possível invocar o artigo 6.º,
-                                                             n.º     1,     alínea f),    como
-                                                             fundamento         jurídico      do
-                                                             tratamento, antes da recolha
-                                                             dos dados pessoais junto dos
-                                                             titulares dos dados. Para evitar
-                                                             a fadiga informativa, essas
-                                                             informações        podem         ser
-                                                             incluídas numa declaração de
-                                                             confidencialidade estruturada
-                                                             (ver ponto 35). De qualquer
-                                                             forma, a posição do GT29 é que
-                                                             as informações destinadas ao
-                                                             titular dos dados devem deixar
-                                                             claro que estes podem obter
-                                                             informações sobre o critério do
-                                                             equilíbrio caso as solicitem. Este
-                                                             aspeto é fundamental para que
-                                                             haja efetivamente transparência
-
-
-                                       Página 42 de 47
-
-                                                                                   quando os titulares dos dados
-                                                                                   têm dúvidas quanto ao facto de
-                                                                                   o critério do equilíbrio ter ou
-                                                                                   não sido aplicado lealmente ou
-                                                                                   quando pretendem apresentar
-                                                                                   uma queixa junto de uma
-                                                                                   autoridade de controlo.
-   As categorias dos             dados Não                    Artigo 14.º,         Estas informações são exigidas
-   pessoais em questão                 aplicável.             n.º 1, alínea        numa situação em que se
-                                                              d)                   aplique o artigo 14.º devido ao
-                                                                                   facto de os dados pessoais não
-                                                                                   terem sido obtidos junto do
-                                                                                   titular dos dados, que portanto
-                                                                                   não tem conhecimento de quais
-                                                                                   foram as categorias dos seus
-                                                                                   dados      pessoais     que     o
-                                                                                   responsável pelo tratamento
-                                                                                   obteve.
-   Os destinatários 61 (ou as Artigo 13.º, Artigo 14.º,                            O       termo      «destinatário»
-   categorias de destinatários) n.º 1, alínea n.º 1, alínea                        encontra-se      definido      no
-   dos dados pessoais           e)            e)                                   artigo 4.º, n.º 9, como sendo
-                                                                                   «uma pessoa singular ou
-                                                                                   coletiva, a autoridade pública,
-                                                                                   agência ou outro organismo que
-                                                                                   recebem comunicações de dados
-                                                                                   pessoais, independentemente
-                                                                                   de se tratar ou não de um
-                                                                                   terceiro» [negrito nosso]. Como
-                                                                                   tal, um destinatário não tem de
-                                                                                   ser      um     terceiro.     Por
-                                                                                   conseguinte,        o      termo
-                                                                                   «destinatário» abrange outros
-                                                                                   responsáveis pelo tratamento,
-                                                                                   responsáveis conjuntos pelo
-                                                                                   tratamento e subcontratantes
-                                                                                   para quem os dados sejam
-                                                                                   transferidos ou divulgados, pelo
-                                                                                   que devem ser fornecidas
-                                                                                   informações       sobre     estes
-                                                                                   destinatários para além das
-                                                                                   informações sobre destinatários
-                                                                                   terceiros.
-
-
-61 Tal como definido no artigo 4.º, n.º 9, do RGPD e indicado no considerando 31
-
-
-
-
-                                                    Página 43 de 47
-
-                                                                          Importa fornecer informações
-                                                                          que indiquem (referindo o
-                                                                          nome)       quem       são     os
-                                                                          destinatários       propriamente
-                                                                          ditos ou as categorias de
-                                                                          destinatários. Em conformidade
-                                                                          com o princípio da lealdade, os
-                                                                          responsáveis pelo tratamento
-                                                                          devem fornecer informações
-                                                                          sobre os destinatários tão úteis
-                                                                          quanto possível para os titulares
-                                                                          dos dados. Na prática, trata-se
-                                                                          em geral de identificar os
-                                                                          destinatários para que os
-                                                                          titulares dos dados saibam
-                                                                          exatamente quem tem os seus
-                                                                          dados pessoais. Caso os
-                                                                          responsáveis pelo tratamento
-                                                                          optem      por     fornecer    as
-                                                                          categorias dos destinatários, as
-                                                                          informações devem ser tão
-                                                                          específicas quanto possível
-                                                                          indicando o tipo de destinatário
-                                                                          (ou seja, fazendo referência às
-                                                                          atividades que este realiza), a
-                                                                          indústria, o setor e o subsetor,
-                                                                          bem como a localização dos
-                                                                          destinatários.
-    Informações       sobre      a            Artigo 13.º, Artigo 14.º, Devem ser especificados o
-    transferência para países                 n.º 1, alínea n.º 1, alínea artigo pertinente do RGPD que
-    terceiros, a ocorrência dessas            f)            f)            permite a transferência e o
-    transferências e informações                                          correspondente mecanismo (p.
-    sobre        as      garantias                                        ex. decisão de adequação nos
-                62
-    pertinentes     (incluindo a                                          termos do artigo 45.º/regras
-    existência ou não de uma                                              vinculativas     aplicáveis    às
-    decisão de adequação pela                                             empresas nos termos do
-    Comissão 63) e os meios de                                            artigo 47.º/cláusulas-tipo     de
-    obter cópia das mesmas, ou                                            proteção de dados nos termos
-    onde foram disponibilizadas.                                          do                    artigo 46.º,
-                                                                          n.º 2/derrogações e garantias
-                                                                          nos termos do artigo 49.º, etc.).
-
-
-62 Tal como definido no artigo 46.º, n.os 2 e 3
-
-63 Em conformidade com o artigo 45.º
-
-
-
-
-                                                    Página 44 de 47
-
-                                                            As informações acerca de onde
-                                                            e como aceder ou obter os
-                                                            documentos               pertinentes
-                                                            também devem ser fornecidas,
-                                                            por exemplo, fornecendo uma
-                                                            hiperligação para o mecanismo
-                                                            utilizado. Em conformidade
-                                                            com o princípio da lealdade, as
-                                                            informações fornecidas sobre
-                                                            transferências       para      países
-                                                            terceiros devem ser tão úteis
-                                                            quanto possível para os titulares
-                                                            dos dados; o que significa, em
-                                                            geral, que os países terceiros
-                                                            são identificados.
-O período de conservação Artigo 13.º, Artigo 14.º, Está relacionado com o
-(ou, caso não seja possível, os n.º 2, alínea n.º 2, alínea requisito da minimização dos
-critérios   utilizados    para a)             a)            dados no artigo 5.º, n.º 1,
-determinar esse período)                                    alínea c), e com o requisito da
-                                                            limitação da conservação no
-                                                            artigo 5.º, n.º 1, alínea e).
-                                                            O período de conservação (ou
-                                                            os critérios para o determinar)
-                                                            pode ser determinado por
-                                                            fatores como os requisitos
-                                                            estatutários ou as orientações
-                                                            da indústria, mas a sua redação
-                                                            deve permitir aos titulares dos
-                                                            dados avaliar, com base na sua
-                                                            própria situação, qual será o
-                                                            período de conservação para
-                                                            dados/finalidades específicas.
-                                                            Não é suficiente para o
-                                                            responsável pelo tratamento
-                                                            dizer de forma genérica que os
-                                                            dados         pessoais          serão
-                                                            conservados           o       tempo
-                                                            necessário para as finalidades
-                                                            legítimas      do       tratamento.
-                                                            Quando pertinente, importa
-                                                            estipular diferentes períodos de
-                                                            conservação para diferentes
-                                                            categorias de dados pessoais
-                                                            e/ou diferentes finalidades de
-                                                            tratamento, incluindo, quando
-
-
-                                       Página 45 de 47
-
-                                                                                    adequado,        períodos      de
-                                                                                    arquivamento.
-    Os direitos do titular dos Artigo 13.º, Artigo 14.º,                            As informações devem ser
-    dados:                     n.º 2, alínea n.º 2, alínea                          específicas em relação ao
-                               b)            c)                                     cenário do tratamento e devem
-    • acesso,                                                                       incluir um resumo daquilo que o
-    • retificação,                                                                  direito implica e de que forma o
-    • apagamento,                                                                   titular dos dados pode atuar
-    • limitação do tratamento,                                                      para o exercer, bem como
-    • oposição ao tratamento e                                                      quaisquer limitações em relação
-    • portabilidade.                                                                ao direito (ver ponto 68 acima).
-                                                                                    Em especial, importa chamar
-                                                                                    explicitamente a atenção do
-                                                                                    titular dos dados para o direito
-                                                                                    de se opor ao tratamento, o
-                                                                                    mais tardar, aquando da
-                                                                                    primeira comunicação com o
-                                                                                    titular dos dados, devendo este
-                                                                                    direito ser apresentado de
-                                                                                    forma clara e separada de
-                                                                                    quaisquer outras informações 64.
-                                                                                    Em relação ao direito de
-                                                                                    portabilidade,        ver      as
-                                                                                    orientações do GT29 sobre o
-                                                                                    direito de portabilidade dos
-                                                                                    dados 65.
-    Quando o tratamento é Artigo 13.º, Artigo 14.º,                                 Estas informações devem incluir
-    baseado no consentimento n.º 2, alínea n.º 2, alínea                            a forma como o consentimento
-    (ou      no      consentimento c)      d)                                       pode ser retirado, tendo em
-    explícito), o direito a retirar o                                               conta       que      retirar    o
-    consentimento em qualquer                                                       consentimento deve ser tão fácil
-    altura                                                                          para o titular dos dados como
-                                                                                    dar o consentimento 66.
-    O direito de apresentar Artigo 13.º, Artigo 14.º,                               Estas     informações      devem
-    reclamação a uma autoridade n.º 2, alínea n.º 2, alínea                         explicar que, em conformidade
-    de controlo                 d)            e)                                    com o artigo 77.º, o titular dos
-                                                                                    dados tem o direito de
-                                                                                    apresentar reclamação a uma
-                                                                                    autoridade de controlo, em
-                                                                                    especial, no Estado-Membro
-
-
-64 Artigo 21.º, n.º 4, e considerando 70 (aplicável em caso de comercialização direta).
-
-65 Orientações sobre o direito de portabilidade dos dados, WP 242, rev.01, última revisão e adoção em 5 de abril de 2017.
-
-66 Artigo 7.º, n.º 3
-
-
-
-
-                                                     Página 46 de 47
-
-                                                                              onde reside, onde trabalha ou
-                                                                              onde        alegadamente        foi
-                                                                              praticada uma infração do
-                                                                              RGPD.
-   Se a comunicação de dados Artigo 13.º, Não                                 Por exemplo, em contexto
-   pessoais constitui ou não uma n.º 2, alínea aplicável.                     laboral, o fornecimento de
-   obrigação legal ou contratual, e)                                          determinadas informações ao
-   ou um requisito necessário                                                 empregador atual ou potencial
-   para celebrar um contrato,                                                 pode constituir uma obrigação
-   bem como se o titular está                                                 contratual.
-   obrigado a fornecer os dados                                               Os formulários em linha devem
-   pessoais e as eventuais                                                    identificar claramente quais são
-   consequências       de     não                                             os campos «obrigatórios», e
-   fornecer esses dados                                                       quais não são, e explicar quais
-                                                                              serão as consequências de não
-                                                                              preencher          os     campos
-                                                                              obrigatórios.
-   A origem dos dados pessoais Não                          Artigo 14.º,      A fonte específica dos dados
-   e, eventualmente, se provêm aplicável.                   n.º 2, alínea     deve ser fornecida, exceto
-   de uma fonte acessível ao                                f)                quando não é possível fornecê-
-   público                                                                    la — ver mais indicações no
-                                                                              ponto 60. Se a fonte específica
-                                                                              não foi identificada, então as
-                                                                              informações fornecidas devem
-                                                                              incluir: a natureza das fontes (ou
-                                                                              seja, fontes públicas/privadas) e
-                                                                              os              tipos           de
-                                                                              organização/indústria/setor.
-   A existência de decisões Artigo 13.º, Artigo 14.º,                         Ver orientações do GT29 sobre
-   automatizadas incluindo a n.º 2, alínea n.º 2, alínea                      as        decisões     individuais
-   definição de perfis e, se f)            g)                                 automatizadas e a definição de
-   aplicável, informações úteis                                               perfis 67.
-   relativas à lógica subjacente,
-   bem como a importância e
-   consequências previstas de tal
-   tratamento para o titular dos
-   dados
-
-
-
-
-67 Orientações sobre decisões individuais automatizadas e definição de perfis para efeitos do Regulamento 2016/679,
-
-atualmente apenas disponíveis na versão inglesa [Guidelines on Automated individual decision-making and Profiling for
-the purposes of Regulation 2016/679], WP 251.
-
-
-
-                                                  Página 47 de 47
+
+                                                        Page 11 of 40
+
+18.      Of course, the use of digital layered privacy statements/ notices is not the only written
+         electronic means that can be deployed by controllers. Other electronic means include “just-
+         in-time” contextual pop-up notices, 3D touch or hover-over notices, and privacy dashboards.
+         Non-written electronic means which may be used in addition to a layered privacy statement/
+         notice might include videos and smartphone or IoT voice alerts.25 “Other means”, which are
+         not necessarily electronic, might include, for example, cartoons, infographics or flowcharts.
+         Where transparency information is directed at children specifically, controllers should
+         consider what types of measures may be particularly accessible to children (e.g. these might
+         be comics/ cartoons, pictograms, animations, etc. amongst other measures).
+
+19.      It is critical that the method(s) chosen to provide the information is/are appropriate to the
+         particular circumstances, i.e. the manner in which the data controller and data subject
+         interact or the manner in which the data subject’s information is collected. For example, only
+         providing the information in electronic written format, such as in an online privacy statement/
+         notice may not be appropriate/ workable where a device that captures personal data does
+         not have a screen (e.g. IoT devices/ smart devices) to access the website/ display such written
+         information. In such cases, appropriate alternative additional means should be considered,
+         for example providing the privacy statement/ notice in hard copy instruction manuals or
+         providing the URL website address (i.e. the specific page on the website) at which the online
+         privacy statement/ notice can be found in the hard copy instructions or in the packaging.
+         Audio (oral) delivery of the information could also be additionally provided if the screenless
+         device has audio capabilities. WP29 has previously made recommendations around
+         transparency and provision of information to data subjects in its Opinion on Recent
+         Developments in the Internet of Things26 (such as the use of QR codes printed on internet of
+         things objects, so that when scanned, the QR code will display the required transparency
+         information). These recommendations remain applicable under the GDPR.
+
+         “..the information may be provided orally”
+
+20.      Article 12.1 specifically contemplates that information may be provided orally to a data
+         subject on request, provided that their identity is proven by other means. In other words, the
+         means employed should be more than reliance on a mere assertion by the individual that they
+         are a specific named person and the means should enable the controller to verify a data
+         subject’s identity with sufficient assurance. The requirement to verify the identity of the data
+         subject before providing information orally only applies to information relating to the
+         exercise by a specific data subject of their rights under Articles 15 to 22 and 34. This
+         precondition to the provision of oral information cannot apply to the provision of general
+         privacy information as outlined in Articles 13 and 14, since information required under Articles
+         13 and 14 must also be made accessible to future users/ customers (whose identity a data
+         controller would not be in a position to verify). Hence, information to be provided under
+
+
+
+25 These examples of electronic means are indicative only and data controllers may develop new innovative methods to
+
+comply with Article 12.
+26 WP29 Opinion 8/2014 adopted on 16 September 2014
+
+
+
+
+                                                  Page 12 of 40
+
+          Articles 13 and 14 may be provided by oral means without the controller requiring a data
+          subject’s identity to be proven.
+
+21.       The oral provision of information required under Articles 13 and 14 does not necessarily mean
+          oral information provided on a person-to-person basis (i.e. in person or by telephone).
+          Automated oral information may be provided in addition to written means. For example, this
+          may apply in the context of persons who are visually impaired when interacting with
+          information society service providers, or in the context of screenless smart devices, as
+          referred to above at paragraph 19. Where a data controller has chosen to provide information
+          to a data subject orally, or a data subject requests the provision of oral information or
+          communications, WP29’s position is that the data controller should allow the data subject to
+          re-listen to pre-recorded messages. This is imperative where the request for oral information
+          relates to visually impaired data subjects or other data subjects who may have difficulty in
+          accessing or understanding information in written format. The data controller should also
+          ensure that it has a record of, and can demonstrate (for the purposes of complying with the
+          accountability requirement): (i) the request for the information by oral means, (ii) the method
+          by which the data subject’s identity was verified (where applicable – see above at paragraph
+          20) and (iii) the fact that information was provided to the data subject.
+
+          “Free of charge”
+
+22.       Under Article 12.5,27 data controllers cannot generally charge data subjects for the provision
+          of information under Articles 13 and 14, or for communications and actions taken under
+          Articles 15 - 22 (on the rights of data subjects) and Article 34 (communication of personal data
+          breaches to data subjects).28 This aspect of transparency also means that any information
+          provided under the transparency requirements cannot be made conditional upon financial
+          transactions, for example the payment for, or purchase of, services or goods.29
+
+Information to be provided to the data subject – Articles 13 & 14
+
+
+          Content
+
+23.       The GDPR lists the categories of information that must be provided to a data subject in
+          relation to the processing of their personal data where it is collected from the data subject
+          (Article 13) or obtained from another source (Article 14). The table in the Annex to these
+
+
+27 This states that “Information provided under Articles 13 and 14 and any communication and any actions taken under
+
+Articles 15 to 22 and 34 shall be provided free of charge.”
+28 However, under Article 12.5 the controller may charge a reasonable fee where, for example, a request by a data subject
+
+in relation to the information under Article 13 and 14 or the rights under Articles 15 - 22 or Article 34 is excessive or manifestly
+unfounded. (Separately, in relation to the right of access under Article 15.3 a controller may charge a reasonable fee based
+on administrative costs for any further copy of the personal data which is requested by a data subject).
+29 By way of illustration, if a data subject’s personal data is being collected in connection with a purchase, the information
+
+which is required to be provided under Article 13 should be provided prior to payment being made and at the point at which
+the information is being collected, rather than after the transaction has been concluded. Equally though, where free services
+are being provided to the data subject, the Article 13 information must be provided prior to, rather than after, sign-up given
+that Article 13.1 requires the provision of the information “at the time when the personal data are obtained”.
+
+
+                                                         Page 13 of 40
+
+         guidelines summarises the categories of information that must be provided under Articles 13
+         and 14. It also considers the nature, scope and content of these requirements. For clarity,
+         WP29’s position is that there is no difference between the status of the information to be
+         provided under sub-article 1 and 2 of Articles 13 and 14 respectively. All of the information
+         across these sub-articles is of equal importance and must be provided to the data subject.
+
+         “Appropriate measures”
+
+24.      As well as content, the form and manner in which the information required under Articles 13
+         and 14 should be provided to the data subject is also important. The notice containing such
+         information is frequently referred to as a data protection notice, privacy notice, privacy
+         policy, privacy statement or fair processing notice. The GDPR does not prescribe the format
+         or modality by which such information should be provided to the data subject but does make
+         it clear that it is the data controller’s responsibility to take “appropriate measures” in relation
+         to the provision of the required information for transparency purposes. This means that the
+         data controller should take into account all of the circumstances of the data collection and
+         processing when deciding upon the appropriate modality and format of the information
+         provision. In particular, appropriate measures will need to be assessed in light of the product/
+         service user experience. This means taking account of the device used (if applicable), the
+         nature of the user interfaces/ interactions with the data controller (the user “journey”) and
+         the limitations that those factors entail. As noted above at paragraph 17, WP29 recommends
+         that where a data controller has an online presence, an online layered privacy statement/
+         notice should be provided.
+
+25.      In order to help identify the most appropriate modality for providing the information, in
+         advance of “going live”, data controllers may wish to trial different modalities by way of user
+         testing (e.g. hall tests, or other standardised tests of readability or accessibility) to seek
+         feedback on how accessible, understandable and easy to use the proposed measure is for
+         users. (See also further comments above on other mechanisms for carrying out user testing
+         at paragraph 9). Documenting this approach should also assist data controllers with their
+         accountability obligations by demonstrating how the tool/ approach chosen to convey the
+         information is the most appropriate in the circumstances.
+
+         Timing for provision of information
+
+26.      Articles 13 and 14 set out information which must be provided to the data subject at the
+         commencement phase of the processing cycle30. Article 13 applies to the scenario where the
+         data is collected from the data subject. This includes personal data that:
+
+
+
+
+30 Pursuant to the principles of fairness and purpose limitation, the organisation which collects the personal data from the
+
+data subject should always specify the purposes of the processing at the time of collection. If the purpose includes the
+creation of inferred personal data, the intended purpose of creating and further processing such inferred personal data, as
+well as the categories of the inferred data processed, must always be communicated to the data subject at the time of
+collection, or prior to the further processing for a new purpose in compliance with Article 13.3 or Article 14.4.
+
+
+                                                      Page 14 of 40
+
+                   a data subject consciously provides to a data controller (e.g. when completing an
+                    online form); or
+                   a data controller collects from a data subject by observation (e.g. using automated
+                    data capturing devices or data capturing software such as cameras, network
+                    equipment, Wi-Fi tracking, RFID or other types of sensors).
+
+         Article 14 applies in the scenario where the data have not been obtained from the data
+         subject. This includes personal data which a data controller has obtained from sources such
+         as:
+
+                   third party data controllers;
+                   publicly available sources;
+                   data brokers; or
+                   other data subjects.
+
+27.       As regards timing of the provision of this information, providing it in a timely manner is a vital
+          element of the transparency obligation and the obligation to process data fairly. Where
+          Article 13 applies, under Article 13.1 the information must be provided “at the time when
+          personal data are obtained”. In the case of indirectly obtained personal data under Article 14,
+          the timeframes within which the required information must be provided to the data subject
+          are set out in Article 14.3 (a) to (c) as follows:
+
+                   The general requirement is that the information must be provided within a
+                    “reasonable period” after obtaining the personal data and no later than one month,
+                    “having regard to the specific circumstances in which the personal data are processed”
+                    (Article 14.3(a)).
+
+                   The general one-month time limit in Article 14.3(a) may be further curtailed under
+                    Article 14.3(b),31 which provides for a situation where the data are being used for
+                    communication with the data subject. In such a case, the information must be
+                    provided at the latest at the time of the first communication with the data subject. If
+                    the first communication occurs prior to the one-month time limit after obtaining the
+                    personal data, then the information must be provided at the latest at the time of the
+                    first communication with the data subject notwithstanding that one month from the
+                    point of obtaining the data has not expired. If the first communication with a data
+                    subject occurs more than one month after obtaining the personal data then Article
+                    14.3(a) continues to apply, so that the Article 14 information must be provided to the
+                    data subject at the latest within one month after it was obtained.
+
+
+
+
+31 The use of the words “if the personal data are to be used for..” in Article 14.3(b) indicates a specification to the general
+
+position with regard to the maximum time limit set out in Article 14.3(a) but does not replace it.
+
+
+
+                                                       Page 15 of 40
+
+                    The general one-month time limit in Article 14.3(a) can also be curtailed under Article
+                     14.3(c)32 which provides for a situation where the data are being disclosed to another
+                     recipient (whether a third party or not)33. In such a case, the information must be
+                     provided at the latest at the time of the first disclosure. In this scenario, if the
+                     disclosure occurs prior to the one-month time limit, then the information must be
+                     provided at the latest at the time of that first disclosure, notwithstanding that one
+                     month from the point of obtaining the data has not expired. Similar to the position
+                     with Article 14.3(b), if any disclosure of the personal data occurs more than one
+                     month after obtaining the personal data, then Article 14.3(a) again continues to
+                     apply, so that the Article 14 information must be provided to the data subject at the
+                     latest within one month after it was obtained.
+
+28.       Therefore, in any case, the maximum time limit within which Article 14 information must be
+          provided to a data subject is one month. However, the principles of fairness and
+          accountability under the GDPR require data controllers to always consider the reasonable
+          expectations of data subjects, the effect that the processing may have on them and their
+          ability to exercise their rights in relation to that processing, when deciding at what point to
+          provide the Article 14 information. Accountability requires controllers to demonstrate the
+          rationale for their decision and justify why the information was provided at the time it was.
+          In practice, it may be difficult to meet these requirements when providing information at the
+          ‘last moment’. In this regard, Recital 39 stipulates, amongst other things, that data subjects
+          should be “made aware of the risks, rules, safeguards and rights in relation to the processing of
+          personal data and how to exercise their rights in relation to such processing”. Recital 60 also
+          refers to the requirement that the data subject be informed of the existence of the processing
+          operation and its purposes in the context of the principles of fair and transparent processing.
+          For all of these reasons, WP29’s position is that, wherever possible, data controllers should,
+          in accordance with the principle of fairness, provide the information to data subjects well in
+          advance of the stipulated time limits. Further comments on the appropriateness of the
+          timeframe between notifying data subjects of the processing operations and such processing
+          operations actually taking effect are set out in paragraphs 30 to 31 and 48.
+
+          Changes to Article 13 and Article 14 information
+
+29.       Being accountable as regards transparency applies not only at the point of collection of
+          personal data but throughout the processing life cycle, irrespective of the information or
+          communication being conveyed. This is the case, for example, when changing the contents
+          of existing privacy statements/ notices. The controller should adhere to the same principles
+          when communicating both the initial privacy statement/ notice and any subsequent
+          substantive or material changes to this statement/ notice. Factors which controllers should
+          consider in assessing what is a substantive or material change include the impact on data
+          subjects (including their ability to exercise their rights), and how unexpected/ surprising the
+
+32 The use of the words “if a disclosure to anther recipient is envisaged...” in Article 14.3(c) likewise indicates a specification to
+
+the general position with regard to the maximum time limit set out in Article 14.3(a) but does not replace it.
+33 Article 4.9 defines “recipient” and clarifies that a recipient to whom personal data are disclosed does not have to be a third
+
+party. Therefore, a recipient may be a data controller, joint controller or processor.
+
+
+                                                          Page 16 of 40
+
+      change would be to data subjects. Changes to a privacy statement/ notice that should always
+      be communicated to data subjects include inter alia: a change in processing purpose; a
+      change to the identity of the controller; or a change as to how data subjects can exercise their
+      rights in relation to the processing. Conversely, an example of changes to a privacy
+      statement/ notice which are not considered by WP29 to be substantive or material include
+      corrections of misspellings, or stylistic/ grammatical flaws. Since most existing customers or
+      users will only glance over communications of changes to privacy statements/ notices, the
+      controller should take all measures necessary to ensure that these changes are
+      communicated in such a way that ensures that most recipients will actually notice them. This
+      means, for example, that a notification of changes should always be communicated by way
+      of an appropriate modality (e.g. email, hard copy letter, pop-up on a webpage or other
+      modality which will effectively bring the changes to the attention of the data subject)
+      specifically devoted to those changes (e.g. not together with direct marketing content), with
+      such a communication meeting the Article 12 requirements of being concise, transparent,
+      intelligible, easily accessible and using clear and plain language. References in the privacy
+      statement/ notice to the effect that the data subject should regularly check the privacy
+      statement/notice for changes or updates are considered not only insufficient but also unfair
+      in the context of Article 5.1(a). Further guidance in relation to the timing for notification of
+      changes to data subjects is considered below at paragraph 30 to 31.
+
+
+      Timing of notification of changes to Article 13 and Article 14 information
+
+30.   The GDPR is silent on the timing requirements (and indeed the methods) that apply for
+      notifications of changes to information that has previously been provided to a data subject
+      under Article 13 or 14 (excluding an intended further purpose for processing, in which case
+      information on that further purpose must be notified prior to the commencement of that
+      further processing as per Articles 13.3 and 14.4 – see below at paragraph 45). However, as
+      noted above in the context of the timing for the provision of Article 14 information, the data
+      controller must again have regard to the fairness and accountability principles in terms of any
+      reasonable expectations of the data subject, or the potential impact of those changes upon
+      the data subject. If the change to the information is indicative of a fundamental change to
+      the nature of the processing (e.g. enlargement of the categories of recipients or introduction
+      of transfers to a third country) or a change which may not be fundamental in terms of the
+      processing operation but which may be relevant to and impact upon the data subject, then
+      that information should be provided to the data subject well in advance of the change
+      actually taking effect and the method used to bring the changes to the data subject’s
+      attention should be explicit and effective. This is to ensure the data subject does not “miss”
+      the change and to allow the data subject a reasonable timeframe for them to (a) consider the
+      nature and impact of the change and (b) exercise their rights under the GDPR in relation to
+      the change (e.g. to withdraw consent or to object to the processing).
+
+31.   Data controllers should carefully consider the circumstances and context of each situation
+      where an update to transparency information is required, including the potential impact of
+      the changes upon the data subject and the modality used to communicate the changes, and
+      be able to demonstrate how the timeframe between notification of the changes and the
+
+                                            Page 17 of 40
+
+      change taking effect satisfies the principle of fairness to the data subject. Further, WP29’s
+      position is that, consistent with the principle of fairness, when notifying such changes to data
+      subjects, a data controller should also explain what will be the likely impact of those changes
+      on data subjects. However, compliance with transparency requirements does not
+      “whitewash” a situation where the changes to the processing are so significant that the
+      processing becomes completely different in nature to what it was before. WP29 emphasises
+      that all of the other rules in the GDPR, including those relating to incompatible further
+      processing, continue to apply irrespective of compliance with the transparency obligations.
+
+32.   Additionally, even when transparency information (e.g. contained in a privacy statement/
+      notice) does not materially change, it is likely that data subjects who have been using a
+      service for a significant period of time will not recall the information provided to them at the
+      outset under Articles 13 and/or 14. WP29 recommends that controllers facilitate data subjects
+      to have continuing easy access to the information to re-acquaint themselves with the scope
+      of the data processing. In accordance with the accountability principle, controllers should
+      also consider whether, and at what intervals, it is appropriate for them to provide express
+      reminders to data subjects as to the fact of the privacy statement/ notice and where they can
+      find it.
+
+
+      Modalities - format of information provision
+
+33.   Both Articles 13 and 14 refer to the obligation on the data controller to “provide the data
+      subject with all of the following information...” The operative word here is “provide”. This
+      means that the data controller must take active steps to furnish the information in question
+      to the data subject or to actively direct the data subject to the location of it (e.g. by way of a
+      direct link, use of a QR code, etc.). The data subject must not have to actively search for
+      information covered by these articles amongst other information, such as terms and
+      conditions of use of a website or app. The example at paragraph 11 illustrates this point. As
+      noted above at paragraph 17, WP29 recommends that the entirety of the information
+      addressed to data subjects should also be available to them in one single place or one
+      complete document (e.g. whether in a digital form on a website or in paper format) which
+      can be easily accessed should they wish to consult the entirety of the information.
+
+
+
+34.   There is an inherent tension in the GDPR between the requirements on the one hand to
+      provide the comprehensive information to data subjects which is required under the GDPR,
+      and on the other hand do so in a form that is concise, transparent, intelligible and easily
+      accessible. As such, and bearing in mind the fundamental principles of accountability and
+      fairness, controllers must undertake their own analysis of the nature, circumstances, scope
+      and context of the processing of personal data which they carry out and decide, within the
+      legal requirements of the GDPR and taking account of the recommendations in these
+      Guidelines particularly at paragraph 36 below, how to prioritise information which must be
+      provided to data subjects and what are the appropriate levels of detail and methods for
+      conveying the information.
+
+
+
+                                            Page 18 of 40
+
+         Layered approach in a digital environment and layered privacy statements/ notices
+
+35.      In the digital context, in light of the volume of information which is required to be provided
+         to the data subject, a layered approach may be followed by data controllers where they opt
+         to use a combination of methods to ensure transparency. WP29 recommends in particular
+         that layered privacy statements/ notices should be used to link to the various categories of
+         information which must be provided to the data subject, rather than displaying all such
+         information in a single notice on the screen, in order to avoid information fatigue. Layered
+         privacy statements/ notices can help resolve the tension between completeness and
+         understanding, notably by allowing users to navigate directly to the section of the statement/
+         notice that they wish to read. It should be noted that layered privacy statements/ notices are
+         not merely nested pages that require several clicks to get to the relevant information. The
+         design and layout of the first layer of the privacy statement/ notice should be such that the
+         data subject has a clear overview of the information available to them on the processing of
+         their personal data and where/ how they can find that detailed information within the layers
+         of the privacy statement/ notice. It is also important that the information contained within
+         the different layers of a layered notice is consistent and that the layers do not provide
+         conflicting information.
+
+36.      As regards the content of the first modality used by a controller to inform data subjects in a
+         layered approach (in other words the primary way in which the controller first engages with
+         a data subject), or the content of the first layer of a layered privacy statement/ notice, WP29
+         recommends that the first layer/ modality should include the details of the purposes of
+         processing, the identity of controller and a description of the data subject’s rights.
+         (Furthermore this information should be directly brought to the attention of a data subject
+         at the time of collection of the personal data e.g. displayed as a data subject fills in an online
+         form.) The importance of providing this information upfront arises in particular from Recital
+         39.34 While controllers must be able to demonstrate accountability as to what further
+         information they decide to prioritise, WP29’s position is that, in line with the fairness
+         principle, in addition to the information detailed above in this paragraph, the first layer/
+         modality should also contain information on the processing which has the most impact on
+         the data subject and processing which could surprise them. Therefore, the data subject
+         should be able to understand from information contained in the first layer/ modality what the
+         consequences of the processing in question will be for the data subject (see also above at
+         paragraph 10).
+
+37.      In a digital context, aside from providing an online layered privacy statement/ notice, data
+         controllers may also choose to use additional transparency tools (see further examples
+         considered below) which provide tailored information to the individual data subject which is
+         specific to the position of the individual data subject concerned and the goods/ services which
+         that data subject is availing of. It should be noted however that while WP29 recommends the
+
+
+34 Recital 39 states, on the principle of transparency, that “That principle concerns, in particular, information to the data
+
+subjects on the identity of the controller and the purposes of the processing and further information to ensure fair and
+transparent processing in respect of natural persons concerned and their right to obtain confirmation and communication
+of personal data concerning them which are being processed.”
+
+
+                                                      Page 19 of 40
+
+      use of online layered privacy statements/ notices, this recommendation does not exclude the
+      development and use of other innovative methods of compliance with transparency
+      requirements.
+
+
+      Layered approach in a non-digital environment
+
+38.   A layered approach to the provision of transparency information to data subjects can also be
+      deployed in an offline/ non-digital context (i.e. a real-world environment such as person-to-
+      person engagement or telephone communications) where multiple modalities may be
+      deployed by data controllers to facilitate the provision of information. (See also paragraphs
+      33 to 37 and 39 to 40 in relation to different modalities for providing the information.) This
+      approach should not be confused with the separate issue of layered privacy statements/
+      notices. Whatever the formats that are used in this layered approach, WP29 recommends
+      that the first “layer” (in other words the primary way in which the controller first engages with
+      the data subject) should generally convey the most important information (as referred to at
+      paragraph 36 above), namely the details of the purposes of processing, the identity of
+      controller and the existence of the rights of the data subject, together with information on
+      the greatest impact of processing or processing which could surprise the data subject. For
+      example, where the first point of contact with a data subject is by telephone, this information
+      could be provided during the telephone call with the data subject and they could be provided
+      with the balance of the information required under Article 13/ 14 by way of further, different
+      means, such as by sending a copy of the privacy policy by email and/ or sending the data
+      subject a link to the controller’s layered online privacy statement/ notice.
+
+      “Push” and “pull” notices
+
+39.   Another possible way of providing transparency information is through the use of “push” and
+      “pull” notices. Push notices involve the provision of “just-in-time” transparency information
+      notices while “pull” notices facilitate access to information by methods such as permission
+      management, privacy dashboards and “learn more” tutorials. These allow for a more user-
+      centric transparency experience for the data subject.
+
+              A privacy dashboard is a single point from which data subjects can view ‘privacy
+               information’ and manage their privacy preferences by allowing or preventing their
+               data from being used in certain ways by the service in question. This is particularly
+               useful when the same service is used by data subjects on a variety of different
+               devices as it gives them access to and control over their personal data no matter how
+               they use the service. Allowing data subjects to manually adjust their privacy settings
+               via a privacy dashboard can also make it easier for a privacy statement/ notice to be
+               personalised by reflecting only the types of processing occurring for that particular
+               data subject. Incorporating a privacy dashboard into the existing architecture of a
+               service (e.g. by using the same design and branding as the rest of the service) is
+               preferable because it will ensure that access and use of it will be intuitive and may
+               help to encourage users to engage with this information, in the same way that they
+               would with other aspects of the service. This can be an effective way of
+
+                                           Page 20 of 40
+
+              demonstrating that ‘privacy information’ is a necessary and integral part of a service
+              rather than a lengthy list of legalese.
+
+             A just-in-time notice is used to provide specific ‘privacy information’ in an ad hoc
+              manner, as and when it is most relevant for the data subject to read. This method is
+              useful for providing information at various points throughout the process of data
+              collection; it helps to spread the provision of information into easily digestible
+              chunks and reduces the reliance on a single privacy statement/ notice containing
+              information that is difficult to understand out of context. For example, if a data
+              subject purchases a product online, brief explanatory information can be provided
+              in pop-ups accompanying relevant fields of text. The information next to a field
+              requesting the data subject’s telephone number could explain for example that this
+              data is only being collected for the purposes of contact regarding the purchase and
+              that it will only be disclosed to the delivery service.
+
+
+      Other types of “appropriate measures”
+
+40.   Given the very high level of internet access in the EU and the fact that data subjects can go
+      online at any time, from multiple locations and different devices, as stated above, WP29’s
+      position is that an “appropriate measure” for providing transparency information in the case
+      of data controllers who maintain a digital/ online presence, is to do so through an electronic
+      privacy statement/ notice. However, based on the circumstances of the data collection and
+      processing, a data controller may need to additionally (or alternatively where the data
+      controller does not have any digital/online presence) use other modalities and formats to
+      provide the information. Other possible ways to convey the information to the data subject
+      arising from the following different personal data environments may include the following
+      modes applicable to the relevant environment which are listed below. As noted previously, a
+      layered approach may be followed by controllers where they opt to use a combination of such
+      methods while ensuring that the most important information (see paragraph 36 and 38) is
+      always conveyed in the first modality used to communicate with the data subject.
+
+      a.      Hard copy/ paper environment, for example when entering into contracts by postal
+              means: written explanations, leaflets, information in contractual documentation,
+              cartoons, infographics or flowcharts;
+      b.      Telephonic environment: oral explanations by a real person to allow interaction and
+              questions to be answered or automated or pre-recorded information with options to
+              hear further more detailed information;
+      c.      Screenless smart technology/ IoT environment such as Wi-Fi tracking analytics:
+              icons, QR codes, voice alerts, written details incorporated into paper set-up
+              instructions, videos incorporated into digital set-up instructions, written information
+              on the smart device, messages sent by SMS or email, visible boards containing the
+              information, public signage or public information campaigns;
+      d.      Person to person environment, such as responding to opinion polls, registering in
+              person for a service: oral explanations or written explanations provided in hard or soft
+              copy format;
+
+                                           Page 21 of 40
+
+         e.        “Real-life” environment with CCTV/ drone recording: visible boards containing the
+                   information, public signage, public information campaigns or newspaper/ media
+                   notices.
+
+         Information on profiling and automated decision-making
+
+41.      Information on the existence of automated decision-making, including profiling, as referred
+         to in Articles 22.1 and 22.4, together with meaningful information about the logic involved
+         and the significant and envisaged consequences of the processing for the data subject, forms
+         part of the obligatory information which must be provided to a data subject under Articles
+         13.2(f) and 14.2(g). WP29 has produced guidelines on automated individual decision-making
+         and profiling35 which should be referred to for further guidance on how transparency should
+         be given effect in the particular circumstances of profiling. It should be noted that, aside from
+         the specific transparency requirements applicable to automated decision-making under
+         Articles 13.2(f) and 14.2(g), the comments in these guidelines relating to the importance of
+         informing data subjects as to the consequences of processing of their personal data, and the
+         general principle that data subjects should not be taken by surprise by the processing of their
+         personal data, equally apply to profiling generally (not just profiling which is captured by
+         Article 2236), as a type of processing.37
+
+         Other issues – risks, rules and safeguards
+
+42.      Recital 39 of the GDPR also refers to the provision of certain information which is not
+         explicitly covered by Articles 13 and Article 14 (see recital text above at paragraph 28). The
+         reference in this recital to making data subjects aware of the risks, rules and safeguards in
+         relation to the processing of personal data is connected to a number of other issues. These
+         include data protection impact assessments (DPIAs). As set out in the WP29 Guidelines on
+         DPIAs,38 data controllers may consider publication of the DPIA (or part of it), as a way of
+         fostering trust in the processing operations and demonstrating transparency and
+         accountability, although such publication is not obligatory. Furthermore, adherence to a
+         code of conduct (provided for under Article 40) may go towards demonstrating transparency,
+         as codes of conduct may be drawn up for the purpose of specifying the application of the
+         GDPR with regard to: fair and transparent processing; information provided to the public and
+         to data subjects; and information provided to, and the protection of, children, amongst other
+         issues.
+
+43.      Another relevant issue relating to transparency is data protection by design and by default
+         (as required under Article 25). These principles require data controllers to build data
+
+
+35 Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, WP 251
+
+36 This applies to decision-making based solely on automated processing, including profiling, which produces legal effects
+
+concerning the data subject or similarly significantly affects him or her.
+37 Recital 60, which is relevant here, states that “Furthermore, the data subject should be informed of the existence of
+
+profiling and the consequences of such profiling”.
+38 Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is “likely to result in a high
+
+risk” for the purposes of Regulation 2016/679, WP 248 rev.1
+
+
+                                                     Page 22 of 40
+
+          protection considerations into their processing operations and systems from the ground up,
+          rather than taking account of data protection as a last-minute compliance issue. Recital 78
+          refers to data controllers implementing measures that meet the requirements of data
+          protection by design and by default including measures consisting of transparency with
+          regard to the functions and processing of personal data.
+
+44.       Separately, the issue of joint controllers is also related to making data subjects aware of the
+          risks, rules and safeguards. Article 26.1 requires joint controllers to determine their respective
+          responsibilities for complying with obligations under the GDPR in a transparent manner, in
+          particular with regard to the exercise by data subjects of their rights and the duties to provide
+          the information under Articles 13 and 14. Article 26.2 requires that the essence of the
+          arrangement between the data controllers must be made available to the data subject. In
+          other words, it must be completely clear to a data a subject as to which data controller he or
+          she can approach where they intend to exercise one or more of their rights under the GDPR.39
+
+
+Information related to further processing
+
+45.       Both Articles 13 and Article 14 contain a provision40 that requires a data controller to inform
+          a data subject if it intends to further process their personal data for a purpose other than that
+          for which it was collected/ obtained. If so, “the controller shall provide the data subject prior to
+          that further processing with information on that other purpose and with any relevant further
+          information as referred to in paragraph 2”. These provisions specifically give effect to the
+          principle in Article 5.1(b) that personal data shall be collected for specified, explicit and
+          legitimate purposes, and further processing in a manner that is incompatible with these
+          purposes is prohibited.41 The second part of Article 5.1(b) states that further processing for
+          archiving purposes in the public interest, scientific or historical research purposes or for
+          statistical purposes, shall, in accordance with Article 89.1, not be considered to be
+          incompatible with the initial purposes. Where personal data are further processed for
+          purposes that are compatible with the original purposes (Article 6.4 informs this issue42),
+          Articles 13.3 and 14.4 apply. The requirements in these articles to inform a data subject about
+          further processing promotes the position in the GDPR that a data subject should reasonably
+          expect that at the time and in the context of the collection of personal data that processing
+
+
+
+39 Under Article 26.3, irrespective of the terms of the arrangement between joint data controllers under Article 26.1, a data
+
+subject may exercise his or her rights under the GDPR in respect of and against each of the joint data controllers.
+40 At Articles 13.3 and 14.4, which are expressed in identical terms, apart from the word “collected”, which is used in Article
+
+13, and which is replaced with the word “obtained” in Article 14.
+41 See, for example on this principle, Recitals 47, 50, 61, 156, 158; Articles 6.4 and 89
+
+42 Article 6.4 sets out, in non-exhaustive fashion, the factors which are to be taken into account in ascertaining whether
+
+processing for another purpose is compatible with the purpose for which the personal data are initially collected, namely:
+the link between the purposes; the context in which the personal data have been collected; the nature of the personal data
+(in particular whether special categories of personal data or personal data relating to criminal offences and convictions are
+included); the possible consequences of the intended further processing for data subjects; and the existence of appropriate
+safeguards.
+
+
+
+                                                       Page 23 of 40
+
+          for a particular purpose may take place.43 In other words, a data subject should not be taken
+          by surprise at the purpose of processing of their personal data.
+
+46.       Articles 13.3 and 14.4, insofar as they refer to the provision of “any relevant further information
+          as referred to in paragraph 2”, may be interpreted at first glance as leaving some element of
+          appreciation to the data controller as to the extent of and the particular categories of
+          information from the relevant sub-paragraph 2 (i.e. Article 13.2 or 14.2 as applicable) that
+          should be provided to the data subject. (Recital 61 refers to this as “other necessary
+          information”.) However the default position is that all such information set out in that sub-
+          article should be provided to the data subject unless one or more categories of the
+          information does not exist or is not applicable.
+
+47.       WP29 recommends that, in order to be transparent, fair and accountable, controllers should
+          consider making information available to data subjects in their privacy statement/ notice on
+          the compatibility analysis carried out under Article 6.444 where a legal basis other than
+          consent or national/ EU law is relied on for the new processing purpose. (In other words, an
+          explanation as to how the processing for the other purpose(s) is compatible with the original
+          purpose). This is to allow data subjects the opportunity to consider the compatibility of the
+          further processing and the safeguards provided and to decide whether to exercise their rights
+          e.g. the right to restriction of processing or the right to object to processing, amongst
+          others.45 Where controllers choose not to include such information in a privacy notice/
+          statement, WP29 recommends that they make it clear to data subjects that they can obtain
+          the information on request.
+
+48.       Connected to the exercise of data subject rights is the issue of timing. As emphasised above,
+          the provision of information in a timely manner is a vital element of the transparency
+          requirements under Articles 13 and 14 and is inherently linked to the concept of fair
+          processing. Information in relation to further processing must be provided “prior to that
+          further processing”. WP29’s position is that a reasonable period should occur between the
+          notification and the processing commencing rather than an immediate start to the
+          processing upon notification being received by the data subject. This gives data subjects the
+          practical benefits of the principle of transparency, allowing them a meaningful opportunity
+          to consider (and potentially exercise their rights in relation to) the further processing. What
+          is a reasonable period will depend on the particular circumstances. The principle of fairness
+          requires that the more intrusive (or less expected) the further processing, the longer the
+          period should be. Equally, the principle of accountability requires that data controllers be able
+          to demonstrate how the determinations they have made as regards the timing for the
+          provision of this information are justified in the circumstances and how the timing overall is
+          fair to data subjects. (See also the previous comments in relation to ascertaining reasonable
+          timeframes above at paragraphs 30 to 32.)
+
+
+43 Recitals 47 and 50
+
+44 Also referenced in Recital 50
+
+45 As referenced in Recital 63, this will enable a data subject to exercise the right of access in order to be aware of and to
+
+verify the lawfulness of the processing.
+
+
+                                                       Page 24 of 40
+
+Visualisation tools
+
+49.       Importantly, the principle of transparency in the GDPR is not limited to being effected simply
+          through language communications (whether written or oral). The GDPR provides for
+          visualisation tools (referencing in particular, icons, certification mechanisms, and data
+          protection seals and marks) where appropriate. Recital 5846 indicates that the accessibility of
+          information addressed to the public or to data subjects is especially important in the online
+          environment.47
+
+          Icons
+
+50.       Recital 60 makes provision for information to be provided to a data subject “in combination”
+          with standardised icons, thus allowing for a multi-layered approach. However, the use of
+          icons should not simply replace information necessary for the exercise of a data subject’s
+          rights nor should they be used as a substitute to compliance with the data controller’s
+          obligations under Articles 13 and 14. Article 12.7 provides for the use of such icons stating
+          that:
+
+                    “The information to be provided to data subjects pursuant to Articles 13 and 14 may be
+                    provided in combination with standardised icons in order to give in an easily visible,
+                    intelligible and clearly legible manner a meaningful overview of the intended processing.
+                    Where icons are presented electronically they shall be machine-readable”.
+
+51.       As Article 12.7 states that “Where the icons are presented electronically, they shall be machine-
+          readable”, this suggests that there may be situations where icons are not presented
+          electronically,48 for example icons on physical paperwork, IoT devices or IoT device
+          packaging, notices in public places about Wi-Fi tracking, QR codes and CCTV notices.
+
+52.       Clearly, the purpose of using icons is to enhance transparency for data subjects by potentially
+          reducing the need for vast amounts of written information to be presented to a data subject.
+          However, the utility of icons to effectively convey information required under Articles 13 and
+          14 to data subjects is dependent upon the standardisation of symbols/ images to be
+
+46 “Such information could be provided in electronic form, for example, when addressed to the public, through a website.
+
+     This is of particular relevance in situations where the proliferation of actors and the technological complexity of practice
+     make it difficult for the data subject to know and understand whether, by whom and for what purpose personal data
+     relating to him or her are being collected, such as in the case of online advertising.”
+47 In this context, controllers should take into account visually impaired data subjects (e.g. red-green colour blindness).
+
+48 There is no definition of “machine-readable” in the GDPR but Recital 21 of Directive 2013/37/EU17 defines “machine-
+
+readable” as:
+     “a file format structured so that software applications can easily identify, recognize and extract specific data, including
+     individual statements of fact, and their internal structure. Data encoded in files that are structured in a machine-readable
+     format are machine-readable data. Machine-readable formats can be open or proprietary; they can be formal standards or
+     not. Documents encoded in a file format that limits automatic processing, because the data cannot, or cannot easily, be
+     extracted from them, should not be considered to be in a machine-readable format. Member States should where
+     appropriate encourage the use of open, machine-readable formats.”
+
+
+
+
+                                                        Page 25 of 40
+
+          universally used and recognised across the EU as shorthand for that information. In this
+          regard, the GDPR assigns responsibility for the development of a code of icons to the
+          Commission but ultimately the European Data Protection Board may, either at the request
+          of the Commission or of its own accord, provide the Commission with an opinion on such
+          icons.49 WP29 recognises that, in line with Recital 166, the development of a code of icons
+          should be centred upon an evidence-based approach and in advance of any such
+          standardisation it will be necessary for extensive research to be conducted in conjunction
+          with industry and the wider public as to the efficacy of icons in this context.
+
+
+          Certification mechanisms, seals and marks
+
+53.       Aside from the use of standardised icons, the GDPR (Article 42) also provides for the use of
+          data protection certification mechanisms, data protection seals and marks for the purpose of
+          demonstrating compliance with the GDPR of processing operations by data controllers and
+          processors and enhancing transparency for data subjects.50 WP29 will be issuing guidelines
+          on certification mechanisms in due course.
+
+
+Exercise of data subjects’ rights
+
+54.       Transparency places a triple obligation upon data controllers insofar as the rights of data
+          subjects under the GDPR are concerned, as they must:51
+
+                   provide information to data subjects on their rights52 (as required under Articles
+                    13.2(b) and 14.2(c));
+                   comply with the principle of transparency (i.e. relating to the quality of the
+                    communications as set out in Article 12.1) when communicating with data subjects
+                    in relation to their rights under Articles 15 to 22 and 34; and
+                   facilitate the exercise of data subjects’ rights under Articles 15 to 22.
+
+55.       The GDPR requirements in relation to the exercise of these rights and the nature of the
+          information required are designed to meaningfully position data subjects so that they can
+          vindicate their rights and hold data controllers accountable for the processing of their
+          personal data. Recital 59 emphasises that “modalities should be provided for facilitating the
+          exercise of the data subject’s rights” and that the data controller should “also provide means
+
+49 Article 12.8 provides that the Commission is empowered to adopt delegated acts under Article 92 for the purpose of
+
+   determining the information to be presented by the icons and the information for providing standardised icons. Recital
+   166 (which deals with delegated acts of the Commission in general) is instructive, providing that the Commission must
+   carry out appropriate consultations during its preparatory work, including at expert level. However, the European Data
+   Protection Board (EDPB) also has an important consultative role to play in relation to the standardisation of icons as
+   Article 70.1(r) states that the EDPB shall on its own initiative or, where relevant, at the request of the Commission, provide
+   the Commission with an opinion on icons.
+50 See the reference in Recital 100
+
+51 Under the Transparency and Modalities section of the GDPR on Data Subject Rights (Section 1, Chapter III, namely Article
+
+     12)
+52 Access, rectification, erasure, restriction on processing, object to processing, portability
+
+
+
+
+                                                        Page 26 of 40
+
+           for requests to be made electronically, especially where personal data are processed by electronic
+           means”. The modality provided by a data controller for data subjects to exercise their rights
+           should be appropriate to the context and the nature of the relationship and interactions
+           between the controller and a data subject. To this end, a data controller may wish to provide
+           one or more different modalities for the exercise of rights that are reflective of the different
+           ways in which data subjects interact with that data controller.
+
+            Example
+
+            A health service provider uses an electronic form on its website, and paper forms in
+            the receptions of its health clinics, to facilitate the submission of access requests for
+            personal data both online and in person. While it provides these modalities, the health
+            service still accepts access requests submitted in other ways (such as by letter and by
+            email) and provides a dedicated point of contact (which can be accessed by email and
+            by telephone) to help data subjects with the exercise of their rights.
+
+
+Exceptions to the obligation to provide information
+
+          Article 13 exceptions
+
+56.        The only exception to a data controller’s Article 13 obligations where it has collected personal
+           data directly from a data subject occurs “where and insofar as, the data subject already has the
+           information”.53 The principle of accountability requires that data controllers demonstrate
+           (and document) what information the data subject already has, how and when they received
+           it and that no changes have since occurred to that information that would render it out of
+           date. Further, the use of the phrase “insofar as” in Article 13.4 makes it clear that even if the
+           data subject has previously been provided with certain categories from the inventory of
+           information set out in Article 13, there is still an obligation on the data controller to
+           supplement that information in order to ensure that the data subject now has a complete set
+           of the information listed in Articles 13.1 and 13.2. The following is a best practice example
+           concerning the limited manner in which the Article 13.4 exception should be construed.
+
+
+
+                  Example
+
+                  An individual signs up to an online email service and receives all of the required Article
+                  13.1 and 13.2 information at the point of sign-up. Six months later the data subject
+                  activates a connected instant message functionality through the email service
+                  provider and provides their mobile telephone number to do so. The service provider
+                  gives the data subject certain Article 13.1 and 13.2 information about the processing
+                  of the telephone number (e.g. purposes and legal basis for processing, recipients,
+                  retention period) but does not provide other information that the individual already
+
+
+53 Article 13.4
+
+
+
+
+                                                    Page 27 of 40
+
+             has from 6 months ago and which has not since changed (e.g. the identity and contact
+             details of the controller and the data protection officer, information on data subject
+             rights and the right to complain to the relevant supervisory authority). As a matter of
+             best practice however, the complete suite of information should be provided to the
+             data subject again but the data subject also should be able to easily tell what
+             information amongst it is new. The new processing for the purposes of the instant
+             messaging service may affect the data subject in a way which would prompt them to
+             seek to exercise a right they may have forgotten about, having been informed six
+             months prior. Providing all the information again helps to ensure the data subject
+             remains well informed about how their data is being used and their rights.
+
+
+
+      Article 14 exceptions
+
+57.   Article 14 carves out a much broader set of exceptions to the information obligation on a data
+      controller where personal data has not been obtained from the data subject. These
+      exceptions should, as a general rule, be interpreted and applied narrowly. In addition to the
+      circumstances where the data subject already has the information in question (Article
+      14.5(a)), Article 14.5 also allows for the following exceptions:
+
+                The provision of such information is impossible or would involve a disproportionate
+                 effort, in particular for processing for archiving purposes in the public interest,
+                 scientific or historical research purposes or statistical purposes, or where it would
+                 make the achievement of the objectives of the processing impossible or seriously
+                 impair them;
+                The data controller is subject to a national law or EU law requirement to obtain or
+                 disclose the personal data and that the law provides appropriate protections for the
+                 data subject’s legitimate interests ; or
+                An obligation of professional secrecy (including a statutory obligation of secrecy)
+                 which is regulated by national or EU law means the personal data must remain
+                 confidential.
+
+      Proves impossible, disproportionate effort and serious impairment of objectives
+
+58.   Article 14.5(b) allows for 3 separate situations where the obligation to provide the
+      information set out in Articles 14.1, 14.2 and 14.4 is lifted:
+
+      (i)         Where it proves impossible (in particular for archiving, scientific/ historical research
+                  or statistical purposes);
+      (ii)        Where it would involve a disproportionate effort (in particular for archiving, scientific/
+                  historical research or statistical purposes); or
+      (iii)       Where providing the information required under Article 14.1 would make the
+                  achievement of the objectives of the processing impossible or seriously impair them.
+
+
+
+
+                                               Page 28 of 40
+
+          “Proves impossible”
+
+59.       The situation where it “proves impossible” under Article 14.5(b) to provide the information is
+          an all or nothing situation because something is either impossible or it is not; there are no
+          degrees of impossibility. Thus if a data controller seeks to rely on this exemption it must
+          demonstrate the factors that actually prevent it from providing the information in question
+          to data subjects. If, after a certain period of time, the factors that caused the “impossibility”
+          no longer exist and it becomes possible to provide the information to data subjects then the
+          data controller should immediately do so. In practice, there will be very few situations in
+          which a data controller can demonstrate that it is actually impossible to provide the
+          information to data subjects. The following example demonstrates this.
+
+            Example
+
+            A data subject registers for a post-paid online subscription service. After registration, the
+            data controller collects credit data from a credit-reporting agency on the data subject in
+            order to decide whether to provide the service. The controller’s protocol is to inform data
+            subjects of the collection of this credit data within three days of collection, pursuant to
+            Article 14.3(a). However, the data subject’s address and phone number is not registered
+            in public registries (the data subject is in fact living abroad). The data subject did not leave
+            an email address when registering for the service or the email address is invalid. The
+            controller finds that it has no means to directly contact the data subject. In this case,
+            however, the controller may give information about collection of credit reporting data on
+            its website, prior to registration. In this case, it would not be impossible to provide
+            information pursuant to Article 14.
+
+
+          Impossibility of providing the source of the data
+
+60.       Recital 61 states that “where the origin of the personal data cannot be provided to the data
+          subject because various sources have been used, general information should be provided”. The
+          lifting of the requirement to provide data subjects with information on the source of their
+          personal data applies only where this is not possible because different pieces of personal data
+          relating to the same data subject cannot be attributed to a particular source. For example,
+          the mere fact that a database comprising the personal data of multiple data subjects has
+          been compiled by a data controller using more than one source is not enough to lift this
+          requirement if it is possible (although time consuming or burdensome) to identify the source
+          from which the personal data of individual data subjects derived. Given the requirements of
+          data protection by design and by default,54 transparency mechanisms should be built into
+          processing systems from the ground up so that all sources of personal data received into an
+          organisation can be tracked and traced back to their source at any point in the data
+          processing life cycle (see paragraph 43 above).
+
+
+
+
+54 Article 25
+
+
+
+
+                                                 Page 29 of 40
+
+      “Disproportionate effort”
+
+61.   Under Article 14.5(b), as with the “proves impossible” situation, “disproportionate effort”
+      may also apply, in particular, for processing “for archiving purposes in the public interest,
+      scientific or historical research purposes or statistical purposes, subject to the safeguards
+      referred to in Article 89(1)”. Recital 62 also references these objectives as cases where the
+      provision of information to the data subject would involve a disproportionate effort and
+      states that in this regard, the number of data subjects, the age of the data and any
+      appropriate safeguards adopted should be taken into consideration. Given the emphasis in
+      Recital 62 and Article 14.5(b) on archiving, research and statistical purposes with regard to
+      the application of this exemption, WP29’s position is that this exception should not be
+      routinely relied upon by data controllers who are not processing personal data for the
+      purposes of archiving in the public interest, for scientific or historical research purposes or
+      statistical purposes. WP29 emphasises the fact that where these are the purposes pursued,
+      the conditions set out in Article 89.1 must still be complied with and the provision of the
+      information must constitute a disproportionate effort.
+
+62.   In determining what may constitute either impossibility or disproportionate effort under
+      Article 14.5(b), it is relevant that there are no comparable exemptions under Article 13 (where
+      personal data is collected from a data subject). The only difference between an Article 13 and
+      an Article 14 situation is that in the latter, the personal data is not collected from the data
+      subject. It therefore follows that impossibility or disproportionate effort typically arises by
+      virtue of circumstances which do not apply if the personal data is collected from the data
+      subject. In other words, the impossibility or disproportionate effort must be directly
+      connected to the fact that the personal data was obtained other than from the data subject.
+
+         Example
+
+         A large metropolitan hospital requires all patients for day procedures, longer-term
+         admissions and appointments to fill in a Patient Information Form which seeks the details
+         of two next-of-kin (data subjects). Given the very large volume of patients passing
+         through the hospital on a daily basis, it would involve disproportionate effort on the part
+         of the hospital to provide all persons who have been listed as next-of-kin on forms filled
+         in by patients each day with the information required under Article 14.
+
+
+63.   The factors referred to above in Recital 62 (number of data subjects, the age of the data and
+      any appropriate safeguards adopted) may be indicative of the types of issues that contribute
+      to a data controller having to use disproportionate effort to notify a data subject of the
+      relevant Article 14 information.
+
+         Example
+
+         Historical researchers seeking to trace lineage based on surnames indirectly obtain a
+         large dataset relating to 20,000 data subjects. However, the dataset was collected 50
+
+
+
+                                          Page 30 of 40
+
+         years ago, has not been updated since, and does not contain any contact details.
+         Given the size of the database and more particularly, the age of the data, it would
+         involve disproportionate effort for the researchers to try to trace the data subjects
+         individually in order to provide them with Article 14 information.
+
+64.   Where a data controller seeks to rely on the exception in Article 14.5(b) on the basis that
+      provision of the information would involve a disproportionate effort, it should carry out a
+      balancing exercise to assess the effort involved for the data controller to provide the
+      information to the data subject against the impact and effects on the data subject if he or she
+      was not provided with the information. This assessment should be documented by the data
+      controller in accordance with its accountability obligations. In such a case, Article 14.5(b)
+      specifies that the controller must take appropriate measures to protect the data subject’s
+      rights, freedoms and legitimate interests. This applies equally where a controller determines
+      that the provision of the information proves impossible, or would likely render impossible or
+      seriously impair the achievement of the objectives of the processing. One appropriate
+      measure, as specified in Article 14.5(b), that controllers must always take is to make the
+      information publicly available. A controller can do this in a number of ways, for instance by
+      putting the information on its website, or by proactively advertising the information in a
+      newspaper or on posters on its premises. Other appropriate measures, in addition to making
+      the information publicly available, will depend on the circumstances of the processing, but
+      may include: undertaking a data protection impact assessment; applying pseudonymisation
+      techniques to the data; minimising the data collected and the storage period; and
+      implementing technical and organisational measures to ensure a high level of security.
+      Furthermore, there may be situations where a data controller is processing personal data
+      which does not require the identification of a data subject (for example with pseudonymised
+      data). In such cases, Article 11.1 may also be relevant as it states that a data controller shall
+      not be obliged to maintain, acquire or process additional information in order to identify the
+      data subject for the sole purposes of complying with the GDPR.
+
+      Serious impairment of objectives
+
+65.   The final situation covered by Article 14.5(b) is where a data controller’s provision of the
+      information to a data subject under Article 14.1 is likely to make impossible or seriously impair
+      the achievement of the processing objectives. To rely on this exception, data controllers must
+      demonstrate that the provision of the information set out in Article 14.1 alone would nullify
+      the objectives of the processing. Notably, reliance on this aspect of Article 14.5(b) pre-
+      supposes that the data processing satisfies all of the principles set out in Article 5 and that
+      most importantly, in all of the circumstances, the processing of the personal data is fair and
+      that it has a legal basis.
+
+         Example
+
+         Bank A is subject to a mandatory requirement under anti-money laundering
+         legislation to report suspicious activity relating to accounts held with it to the relevant
+         financial law enforcement authority. Bank A receives information from Bank B (in
+
+
+                                            Page 31 of 40
+
+         another Member State) that an account holder has instructed it to transfer money to
+         another account held with Bank A which appears suspicious. Bank A passes this data
+         concerning its account holder and the suspicious activities to the relevant financial
+         law enforcement authority. The anti-money laundering legislation in question makes
+         it a criminal offence for a reporting bank to “tip off” the account holder that they may
+         be subject to regulatory investigations. In this situation, Article 14.5(b) applies
+         because providing the data subject (the account holder with Bank A) with Article 14
+         information on the processing of account holder’s personal data received from Bank
+         B would seriously impair the objectives of the legislation, which includes the
+         prevention of “tip-offs”. However, general information should be provided to all
+         account holders with Bank A when an account is opened that their personal data may
+         be processed for anti-money laundering purposes.
+
+
+
+      Obtaining or disclosing is expressly laid down in law
+
+66.   Article 14.5(c) allows for a lifting of the information requirements in Articles 14.1, 14.2 and
+      14.4 insofar as the obtaining or disclosure of personal data “is expressly laid down by Union or
+      Member State law to which the controller is subject”. This exemption is conditional upon the
+      law in question providing “appropriate measures to protect the data subject’s legitimate
+      interests”. Such a law must directly address the data controller and the obtaining or disclosure
+      in question should be mandatory upon the data controller. Accordingly, the data controller
+      must be able to demonstrate how the law in question applies to them and requires them to
+      either obtain or disclose the personal data in question. While it is for Union or Member State
+      law to frame the law such that it provides “appropriate measures to protect the data subject’s
+      legitimate interests”, the data controller should ensure (and be able to demonstrate) that its
+      obtaining or disclosure of personal data complies with those measures. Furthermore, the
+      data controller should make it clear to data subjects that it obtains or discloses personal data
+      in accordance with the law in question, unless there is a legal prohibition preventing the data
+      controller from doing so. This is in line with Recital 41 of the GDPR, which states that a legal
+      basis or legislative measure should be clear and precise, and its application should be
+      foreseeable to persons subject to it, in accordance with the case law of the Court of Justice of
+      the EU and the European Court of Human Rights. However, Article 14.5(c) will not apply
+      where the data controller is under an obligation to obtain data directly from a data subject, in
+      which case Article 13 will apply. In that case, the only exemption under the GDPR exempting
+      the controller from providing the data subject with information on the processing will be that
+      under Article 13.4 (i.e. where and insofar as the data subject already has the information).
+      However, as referred to below at paragraph 68, at a national level, Member States may also
+      legislate, in accordance with Article 23, for further specific restrictions to the right to
+      transparency under Article 12 and to information under Articles 13 and 14.
+
+         Example
+
+         A tax authority is subject to a mandatory requirement under national law to obtain the
+         details of employees’ salaries from their employers. The personal data is not obtained
+
+
+                                            Page 32 of 40
+
+             from the data subjects and therefore the tax authority is subject to the requirements of
+             Article 14. As the obtaining of the personal data by the tax authority from employers is
+             expressly laid down by law, the information requirements in Article 14 do not apply to the
+             tax authority in this instance.
+
+
+
+         Confidentiality by virtue of a secrecy obligation
+
+67.       Article 14.5(d) provides for an exemption to the information requirement upon data
+          controllers where the personal data “must remain confidential subject to an obligation of
+          professional secrecy regulated by Union or Member State law, including a statutory obligation
+          of secrecy”. Where a data controller seeks to rely on this exemption, it must be able to
+          demonstrate that it has appropriately identified such an exemption and to show how the
+          professional secrecy obligation directly addresses the data controller such that it prohibits
+          the data controller from providing all of the information set out in Articles 14.1, 14.2 and 14.4
+          to the data subject.
+
+             Example
+
+             A medical practitioner (data controller) is under a professional obligation of secrecy in
+             relation to his patients’ medical information. A patient (in respect of whom the obligation
+             of professional secrecy applies) provides the medical practitioner with information about
+             her health relating to a genetic condition, which a number of her close relatives also have.
+             The patient also provides the medical practitioner with certain personal data of her
+             relatives (data subjects) who have the same condition. The medical practitioner is not
+             required to provide those relatives with Article 14 information as the exemption in Article
+             14.5(d) applies. If the medical practitioner were to provide the Article 14 information to
+             the relatives, the obligation of professional secrecy, which he owes to his patient, would
+             be violated.
+
+
+Restrictions on data subject rights
+
+68.       Article 23 provides for Member States (or the EU) to legislate for further restrictions on the
+          scope of the data subject rights in relation to transparency and the substantive data subject
+          rights55 where such measures respect the essence of the fundamental rights and freedoms
+          and are necessary and proportionate to safeguard one or more of the ten objectives set out
+          in Article 23.1(a) to (j). Where such national measures lessen either the specific data subject
+          rights or the general transparency obligations, which would otherwise apply to data
+          controllers under the GDPR, the data controller should be able to demonstrate how the
+          national provision applies to them. As set out in Article 23.2(h), the legislative measure must
+          contain a provision as to the right of the data subject to be informed about a restriction on
+
+
+55 As set out in Articles 12 to 22 and 34, and in Article 5 insofar as its provisions correspond to the rights and obligations
+
+ provided for in Articles 12 to 22.
+
+
+                                                       Page 33 of 40
+
+         their rights, unless so informing them may be prejudicial to the purpose of the restriction.
+         Consistent with this, and in line with principle of fairness, the data controller should also
+         inform data subjects that they are relying on (or will rely on, in the event of a particular data
+         subject right being exercised) such a national legislative restriction to the exercise of data
+         subject rights, or to the transparency obligation, unless doing so would be prejudicial to the
+         purpose of the legislative restriction. As such, transparency requires data controllers to
+         provide adequate upfront information to data subjects about their rights and any particular
+         caveats to those rights which the controller may seek to rely on, so that the data subject is
+         not taken by surprise at a purported restriction of a particular right when they later attempt
+         to exercise it against the controller. In relation to pseudonymisation and data minimisation,
+         and insofar as data controllers may purport to rely on Article 11 of the GDPR, WP29 has
+         previously confirmed in Opinion 3/ 201756 that Article 11 of the GDPR should be interpreted
+         as a way of enforcing genuine data minimisation without hindering the exercise of data
+         subject rights, and that the exercise of data subject rights must be made possible with the
+         help of additional information provided by the data subject.
+
+69.      Additionally, Article 85 requires Member States, by law, to reconcile data protection with the
+         right to freedom of expression and information. This requires, amongst other things, that
+         Member States provide for appropriate exemptions or derogations from certain provisions
+         of the GDPR (including from the transparency requirements under Articles 12 - 14) for
+         processing carried out for journalistic, academic, artistic or literary expression purposes, if
+         they are necessary to reconcile the two rights.
+
+
+Transparency and data breaches
+
+70.      WP29 has produced separate Guidelines on Data Breaches57 but for the purposes of these
+         guidelines, a data controller’s obligations in relation to communication of data breaches to a
+         data subject must take full account of the transparency requirements set out in Article 12.58
+         The communication of a data breach must satisfy the same requirements, detailed above (in
+         particular for the use of clear and plain language), that apply to any other communication
+         with a data subject in relation to their rights or in connection with conveying information
+         under Articles 13 and 14.
+
+
+
+
+56 Opinion 03/2017 on Processing personal data in the context of Cooperative Intelligent Transport Systems (C-ITS) – see
+
+paragraph 4.2
+57 Guidelines on Personal data breach notification under Regulation 2016/679, WP 250
+
+58 This is made clear by Article 12.1 which specifically refers to “…any communication under Articles 15 to 22 and 34
+
+relating to processing to the data subject...” [emphasis added].
+
+
+                                                      Page 34 of 40
+
+
+                                                             measures based on Article 6.1 is
+                                                             processed, where applicable the
+                                                             relevant Union or Member State
+                                                             law under which the processing
+                                                             is carried out should be
+                                                             specified.
+Where legitimate interests Article                 Article   The specific interest in question
+(Article 6.1(f)) is the legal basis 13.1(d)        14.2(b)   must be identified for the benefit
+for the processing, the                                      of the data subject. As a matter
+legitimate interests pursued                                 of best practice, the controller
+by the data controller or a third                            can also provide the data subject
+party                                                        with the information from the
+                                                             balancing test, which must be
+                                                             carried out to allow reliance on
+                                                             Article 6.1(f) as a lawful basis for
+                                                             processing, in advance of any
+                                                             collection of data subjects’
+                                                             personal data. To avoid
+                                                             information fatigue, this can be
+                                                             included within a layered privacy
+                                                             statement/         notice      (see
+                                                             paragraph 35). In any case, the
+                                                             WP29       position       is   that
+                                                             information to the data subject
+                                                             should make it clear that they
+                                                             can obtain information on the
+                                                             balancing test upon request.
+                                                             This is essential for effective
+                                                             transparency        where      data
+                                                             subjects have doubts as to
+                                                             whether the balancing test has
+                                                             been carried out fairly or they
+                                                             wish to file a complaint with a
+                                                             supervisory authority.
+Categories of personal data Not required Article             This information is required in an
+concerned                                14.1(d)             Article 14 scenario because the
+                                                             personal data has not been
+                                                             obtained from the data subject,
+                                                             who      therefore      lacks     an
+                                                             awareness of which categories
+                                                             of their personal data the data
+                                                             controller has obtained.
+
+
+
+
+                                          Page 36 of 40
+
+     Recipients61 (or categories of Article                      Article         The term “recipient” is defined in
+     recipients) of the personal 13.1(e)                         14.1(e)         Article 4.9 as “a natural or legal
+     data                                                                        person, public authority, agency
+                                                                                 or another body, to which the
+                                                                                 personal data are disclosed,
+                                                                                 whether a third party or not”
+                                                                                 [emphasis added]. As such, a
+                                                                                 recipient does not have to be a
+                                                                                 third party. Therefore, other
+                                                                                 data controllers, joint controllers
+                                                                                 and processors to whom data is
+                                                                                 transferred or disclosed are
+                                                                                 covered by the term “recipient”
+                                                                                 and information on such
+                                                                                 recipients should be provided in
+                                                                                 addition to information on third
+                                                                                 party recipients.
+                                                                                 The actual (named) recipients of
+                                                                                 the personal data, or the
+                                                                                 categories of recipients, must be
+                                                                                 provided. In accordance with the
+                                                                                 principle of fairness, controllers
+                                                                                 must provide information on the
+                                                                                 recipients     that     is    most
+                                                                                 meaningful for data subjects. In
+                                                                                 practice, this will generally be
+                                                                                 the named recipients, so that
+                                                                                 data subjects know exactly who
+                                                                                 has their personal data. If
+                                                                                 controllers opt to provide the
+                                                                                 categories of recipients, the
+                                                                                 information should be as specific
+                                                                                 as possible by indicating the type
+                                                                                 of recipient (i.e. by reference to
+                                                                                 the activities it carries out), the
+                                                                                 industry, sector and sub-sector
+                                                                                 and the location of the
+                                                                                 recipients.
+     Details of transfers to third Article                       Article 14.1(f) The relevant GDPR article
+     countries, the fact of same and 13.1(f)                                     permitting the transfer and the
+     the details of the relevant                                                 corresponding mechanism (e.g.
+                                                                                 adequacy decision under Article
+
+
+61 As defined by Article 4.9 of the GDPR and referenced in Recital 31
+
+
+
+
+                                                      Page 37 of 40
+
+     safeguards62 (including the                            45/ binding corporate rules
+     existence or absence of a                              under Article 47/ standard data
+     Commission           adequacy                          protection clauses under Article
+              63
+     decision ) and the means to                            46.2/       derogations         and
+     obtain a copy of them or where                         safeguards under Article 49 etc.)
+     they have been made available                          should be specified. Information
+                                                            on where and how the relevant
+                                                            document may be accessed or
+                                                            obtained should also be
+                                                            provided e.g. by providing a link
+                                                            to the mechanism used. In
+                                                            accordance with the principle of
+                                                            fairness,     the       information
+                                                            provided on transfers to third
+                                                            countries      should       be    as
+                                                            meaningful as possible to data
+                                                            subjects; this will generally mean
+                                                            that the third countries be
+                                                            named.
+     The storage period (or if not Article        Article   This is linked to the data
+     possible, criteria used to 13.2(a)           14.2(a)   minimisation requirement in
+     determine that period)                                 Article 5.1(c) and storage
+                                                            limitation requirement in Article
+                                                            5.1(e).
+                                                            The storage period (or criteria to
+                                                            determine it) may be dictated by
+                                                            factors such as statutory
+                                                            requirements         or     industry
+                                                            guidelines but should be phrased
+                                                            in a way that allows the data
+                                                            subject to assess, on the basis of
+                                                            his or her own situation, what
+                                                            the retention period will be for
+                                                            specific data/ purposes. It is not
+                                                            sufficient for the data controller
+                                                            to generically state that personal
+                                                            data will be kept as long as
+                                                            necessary for the legitimate
+                                                            purposes of the processing.
+                                                            Where relevant, the different
+                                                            storage periods should be
+                                                            stipulated       for       different
+
+
+62 As set out in Article 46.2 and 46.3
+
+63 In accordance with Article 45
+
+
+
+
+                                         Page 38 of 40
+
+                                                                                      categories of personal data
+                                                                                      and/or different processing
+                                                                                      purposes, including where
+                                                                                      appropriate, archiving periods.
+      The rights of the data subject Article                       Article            This information should be
+      to:                            13.2(b)                       14.2(c)            specific to the processing
+                                                                                      scenario and include a summary
+       access;                                                                       of what the right involves and
+       rectification;                                                                how the data subject can take
+       erasure;                                                                      steps to exercise it and any
+       restriction on processing;                                                    limitations on the right (see
+       objection to processing                                                       paragraph 68 above).
+        and                                                                           In particular, the right to object
+       portability.                                                                  to processing must be explicitly
+                                                                                      brought to the data subject’s
+                                                                                      attention at the latest at the
+                                                                                      time of first communication with
+                                                                                      the data subject and must be
+                                                                                      presented clearly and separately
+                                                                                      from any other information.64
+                                                                                      In relation to the right to
+                                                                                      portability, see WP29 Guidelines
+                                                                                      on the right to data portability.65
+      Where processing is based on Article                         Article            This information should include
+      consent (or explicit consent), 13.2(c)                       14.2(d)            how consent may be withdrawn,
+      the right to withdraw consent                                                   taking into account that it should
+      at any time                                                                     be as easy for a data subject to
+                                                                                      withdraw consent as to give it.66
+      The right to lodge a complaint Article                       Article            This information should explain
+      with a supervisory authority   13.2(d)                       14.2(e)            that, in accordance with Article
+                                                                                      77, a data subject has the right to
+                                                                                      lodge a complaint with a
+                                                                                      supervisory      authority,      in
+                                                                                      particular in the Member State
+                                                                                      of his or her habitual residence,
+                                                                                      place of work or of an alleged
+                                                                                      infringement of the GDPR.
+      Whether there is a statutory or Article                      Not required       For example in an employment
+      contractual requirement to 13.2(e)                                              context, it may be a contractual
+      provide the information or                                                      requirement to provide certain
+      whether it is necessary to
+
+
+64 Article 21.4 and Recital 70 (which applies in the case of direct marketing)
+
+65 Guidelines on the right to data portability, WP 242 rev.01, last revised and adopted on 5 April 2017
+
+66 Article 7.3
+
+
+
+
+                                                        Page 39 of 40
+
+     enter into a contract or                                                    information to a current or
+     whether there is an obligation                                              prospective employer.
+     to provide the information and                                              Online forms should clearly
+     the possible consequences of                                                identify which fields are
+     failure.                                                                    “required”, which are not, and
+                                                                                 what will be the consequences of
+                                                                                 not filling in the required fields.
+     The source from which the Not required Article                              The specific source of the data
+     personal data originate, and if        14.2(f)                              should be provided unless it is
+     applicable, whether it came                                                 not possible to do so – see
+     from a publicly accessible                                                  further guidance at paragraph
+     source                                                                      60. If the specific source is not
+                                                                                 named         then     information
+                                                                                 provided should include: the
+                                                                                 nature of the sources (i.e.
+                                                                                 publicly/ privately held sources)
+                                                                                 and the types of organisation/
+                                                                                 industry/ sector.
+     The existence of automated Article                       Article            See WP29 Guidelines on
+     decision-making        including 13.2(f)                 14.2(g)            automated individual decision-
+     profiling and, if applicable,                                               making and Profiling.67
+     meaningful information about
+     the logic used and the
+     significance and envisaged
+     consequences        of      such
+     processing for the data subject
+
+
+
+
+67 Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, WP 251
+
+
+
+
+                                                    Page 40 of 40
 ```

@@ -1237,6 +1237,9 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D0529	Artigo 1.º		40	42	27	ue/decisoes/2026/32026D0529.md
 32026D0529	Artigo 2.º		44	56	71	ue/decisoes/2026/32026D0529.md
 32026D0529	ANEXO		58	125	2084	ue/decisoes/2026/32026D0529.md
+32026D05299	Preâmbulo		19	57	1547	ue/decisoes/2026/32026D05299.md
+32026D05299	Artigo 1.º		61	65	53	ue/decisoes/2026/32026D05299.md
+32026D05299	Artigo 2.º		67	91	274	ue/decisoes/2026/32026D05299.md
 32026D0533	Preâmbulo		18	56	2065	ue/decisoes/2026/32026D0533.md
 32026D0533	Artigo 1.º		60	110	1313	ue/decisoes/2026/32026D0533.md
 32026D0533	Artigo 2.º		112	122	350	ue/decisoes/2026/32026D0533.md
@@ -1392,6 +1395,22 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D0588	Artigo 1.º		38	40	26	ue/decisoes/2026/32026D0588.md
 32026D0588	Artigo 2.º		42	54	116	ue/decisoes/2026/32026D0588.md
 32026D0588	ANEXO		56	73	2175	ue/decisoes/2026/32026D0588.md
+32026D05943	Preâmbulo		18	34	241	ue/decisoes/2026/32026D05943.md
+32026D05943	Artigo 1.º		38	40	64	ue/decisoes/2026/32026D05943.md
+32026D05943	Artigo 2.º		42	60	128	ue/decisoes/2026/32026D05943.md
+32026D05944	Preâmbulo		20	50	1081	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 1.º	Objetivo e princípios	54	58	138	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 2.º	Âmbito das decisões individuais automatizadas	60	92	538	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 3.º	Natureza da medida	94	98	114	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 4.º	Informações aos candidatos	100	118	290	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 5.º	Direito de contestação	120	124	108	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 6.º	Intervenção humana e reexame	126	134	308	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 7.º	Medida corretiva	136	140	104	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 8.º	Categorias especiais de dados pessoais	142	144	67	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 9.º	Salvaguardas	146	166	386	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 10.º	Governação e supervisão	168	172	112	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 11.º	Revisão	174	176	48	ue/decisoes/2026/32026D05944.md
+32026D05944	Artigo 12.º	Entrada em vigor	178	196	124	ue/decisoes/2026/32026D05944.md
 32026D0599	Preâmbulo		18	80	3990	ue/decisoes/2026/32026D0599.md
 32026D0599	Artigo 1.º		84	86	51	ue/decisoes/2026/32026D0599.md
 32026D0599	Artigo 2.º		88	128	1064	ue/decisoes/2026/32026D0599.md
@@ -2127,8 +2146,8 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D1108	Artigo 1.º-C		56	60	63	ue/decisoes/2026/32026D1108.md
 32026D1108	Artigo 2.º		62	64	25	ue/decisoes/2026/32026D1108.md
 32026D1108	Artigo 3.º		66	70	17	ue/decisoes/2026/32026D1108.md
-32026D1108	ANEXO I		72	118	2564	ue/decisoes/2026/32026D1108.md
-32026D1108	ANEXO II		120	138	298	ue/decisoes/2026/32026D1108.md
+32026D1108	ANEXO I		72	128	4226	ue/decisoes/2026/32026D1108.md
+32026D1108	ANEXO II		130	150	335	ue/decisoes/2026/32026D1108.md
 32026D1109	Preâmbulo		18	46	914	ue/decisoes/2026/32026D1109.md
 32026D1109	Artigo 1.º		50	52	60	ue/decisoes/2026/32026D1109.md
 32026D1109	Artigo 2.º		54	72	175	ue/decisoes/2026/32026D1109.md
@@ -3199,6 +3218,10 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D1809	Preâmbulo		18	50	699	ue/decisoes/2026/32026D1809.md
 32026D1809	Artigo 1.º		54	62	150	ue/decisoes/2026/32026D1809.md
 32026D1809	Artigo 2.º		64	94	236	ue/decisoes/2026/32026D1809.md
+32026D1814	Preâmbulo		20	40	500	ue/decisoes/2026/32026D1814.md
+32026D1814	Artigo 1.º		44	46	30	ue/decisoes/2026/32026D1814.md
+32026D1814	Artigo 2.º		48	62	147	ue/decisoes/2026/32026D1814.md
+32026D1814	ANEXO		64	2111	51013	ue/decisoes/2026/32026D1814.md
 32026D1815	Preâmbulo		18	40	718	ue/decisoes/2026/32026D1815.md
 32026D1815	Artigo 1.º	Emissões específicas médias de CO2 por fabricante	44	46	69	ue/decisoes/2026/32026D1815.md
 32026D1815	Artigo 2.º	Fator «com nível nulo ou baixo de emissões» por fabricante	48	50	75	ue/decisoes/2026/32026D1815.md
@@ -3377,9 +3400,6 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D1831	Artigo 2.º		52	78	432	ue/decisoes/2026/32026D1831.md
 32026D1831	ANEXO I		80	99	754	ue/decisoes/2026/32026D1831.md
 32026D1831	ANEXO II		101	109	102	ue/decisoes/2026/32026D1831.md
-32026D1833	Preâmbulo		18	36	426	ue/decisoes/2026/32026D1833.md
-32026D1833	Artigo 1.º		40	42	62	ue/decisoes/2026/32026D1833.md
-32026D1833	Artigo 2.º		44	64	205	ue/decisoes/2026/32026D1833.md
 32026D1836	Preâmbulo		18	36	240	ue/decisoes/2026/32026D1836.md
 32026D1836	Artigo 1.º		40	42	26	ue/decisoes/2026/32026D1836.md
 32026D1836	Artigo 2.º		44	56	109	ue/decisoes/2026/32026D1836.md
@@ -4327,11 +4347,11 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2315	Preâmbulo		18	38	416	ue/decisoes/2026/32026D2315.md
 32026D2315	Artigo 1.º		42	44	102	ue/decisoes/2026/32026D2315.md
 32026D2315	Artigo 2.º		46	66	265	ue/decisoes/2026/32026D2315.md
-32026D2316	Preâmbulo		19	59	2310	ue/decisoes/2026/32026D2316.md
-32026D2316	Artigo 1.º		63	77	517	ue/decisoes/2026/32026D2316.md
-32026D2316	Artigo 2.º		79	83	150	ue/decisoes/2026/32026D2316.md
-32026D2316	Artigo 3.º		85	87	16	ue/decisoes/2026/32026D2316.md
-32026D2316	Artigo 4.º		89	117	756	ue/decisoes/2026/32026D2316.md
+32026D2316	Preâmbulo		18	58	2310	ue/decisoes/2026/32026D2316.md
+32026D2316	Artigo 1.º		62	76	517	ue/decisoes/2026/32026D2316.md
+32026D2316	Artigo 2.º		78	82	150	ue/decisoes/2026/32026D2316.md
+32026D2316	Artigo 3.º		84	86	16	ue/decisoes/2026/32026D2316.md
+32026D2316	Artigo 4.º		88	116	756	ue/decisoes/2026/32026D2316.md
 32026D2317	Preâmbulo		18	34	167	ue/decisoes/2026/32026D2317.md
 32026D2317	Artigo 1.º		38	44	61	ue/decisoes/2026/32026D2317.md
 32026D2317	Artigo 2.º		46	58	106	ue/decisoes/2026/32026D2317.md
@@ -4481,6 +4501,14 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2402	Preâmbulo		19	59	1901	ue/decisoes/2026/32026D2402.md
 32026D2402	Artigo 1.º	Alteração da Decisão (UE) 2015/1814	63	91	719	ue/decisoes/2026/32026D2402.md
 32026D2402	Artigo 2.º	Entrada em vigor	93	127	529	ue/decisoes/2026/32026D2402.md
+32026D2404	Preâmbulo		19	49	769	ue/decisoes/2026/32026D2404.md
+32026D2404	Artigo 1.º		53	57	64	ue/decisoes/2026/32026D2404.md
+32026D2404	Artigo 2.º		59	75	207	ue/decisoes/2026/32026D2404.md
+32026D2404	ANEXO		77	79	3	ue/decisoes/2026/32026D2404.md
+32026D2404	ANEXO	Lista do equipamento de segurança da aviação civil aprovado ao qual foi concedido o “Selo UE” (“EU stamp”)	81	779	27469	ue/decisoes/2026/32026D2404.md
+32026D2405	Preâmbulo		18	48	1248	ue/decisoes/2026/32026D2405.md
+32026D2405	Artigo 1.º		52	54	20	ue/decisoes/2026/32026D2405.md
+32026D2405	Artigo 2.º		56	78	343	ue/decisoes/2026/32026D2405.md
 32026D2407	Preâmbulo		19	59	1811	ue/decisoes/2026/32026D2407.md
 32026D2407	Artigo 1.º		63	65	60	ue/decisoes/2026/32026D2407.md
 32026D2407	Artigo 2.º		67	69	62	ue/decisoes/2026/32026D2407.md
@@ -4490,6 +4518,15 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2410	Preâmbulo		18	42	800	ue/decisoes/2026/32026D2410.md
 32026D2410	Artigo 1.º		46	48	71	ue/decisoes/2026/32026D2410.md
 32026D2410	Artigo 2.º		50	68	182	ue/decisoes/2026/32026D2410.md
+32026D2413	Preâmbulo		18	40	802	ue/decisoes/2026/32026D2413.md
+32026D2413	Artigo 1.º		44	50	152	ue/decisoes/2026/32026D2413.md
+32026D2413	Artigo 2.º		52	68	180	ue/decisoes/2026/32026D2413.md
+32026D2413	ANEXO	ELEMENTOS ESSENCIAIS DOS ESTATUTOS DO EDU-EDIC	70	134	910	ue/decisoes/2026/32026D2413.md
+32026D2413	«Artigo 2.º	Designação, sede, localização e língua de trabalho	74	84	87	ue/decisoes/2026/32026D2413.md
+32026D2413	«Artigo 27.º	Duração	86	88	22	ue/decisoes/2026/32026D2413.md
+32026D2413	Artigo 28.º	Liquidação	90	106	305	ue/decisoes/2026/32026D2413.md
+32026D2413	«Artigo 19.º	Responsabilidade e seguros	108	120	135	ue/decisoes/2026/32026D2413.md
+32026D2413	«Artigo 18.º	Isenções fiscais e de impostos especiais de consumo	122	134	324	ue/decisoes/2026/32026D2413.md
 32026D2448	Preâmbulo		18	44	810	ue/decisoes/2026/32026D2448.md
 32026D2448	Artigo 1.º		48	50	47	ue/decisoes/2026/32026D2448.md
 32026D2448	Artigo 2.º		52	70	235	ue/decisoes/2026/32026D2448.md
@@ -4522,9 +4559,53 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32026D2458	Artigo 5.º		66	68	74	ue/decisoes/2026/32026D2458.md
 32026D2458	Artigo 6.º		70	88	256	ue/decisoes/2026/32026D2458.md
 32026D2458	ANEXO		90	127	590	ue/decisoes/2026/32026D2458.md
+32026D2468	Preâmbulo		19	39	655	ue/decisoes/2026/32026D2468.md
+32026D2468	Artigo 1.º	Definições	43	57	291	ue/decisoes/2026/32026D2468.md
+32026D2468	Artigo 2.º	Princípios para a determinação das contribuições do areamento invernal ou do salgamento invernal	59	71	306	ue/decisoes/2026/32026D2468.md
+32026D2468	Artigo 3.º	Determinação dos dias com possíveis contribuições do areamento invernal ou do salgamento invernal	73	89	411	ue/decisoes/2026/32026D2468.md
+32026D2468	Artigo 4.º	Quantificação das contribuições do areamento invernal ou do salgamento invernal	91	125	1174	ue/decisoes/2026/32026D2468.md
+32026D2468	Artigo 5.º	Aplicação de medidas razoáveis para reduzir as concentrações de PM10	127	131	155	ue/decisoes/2026/32026D2468.md
+32026D2468	Artigo 6.º	Documentação	133	135	77	ue/decisoes/2026/32026D2468.md
+32026D2468	Artigo 7.º	Entrada em vigor	137	151	183	ue/decisoes/2026/32026D2468.md
+32026D2468	ANEXO	Informações a incluir no relatório técnico	153	228	940	ue/decisoes/2026/32026D2468.md
+32026D2469	Preâmbulo		18	54	922	ue/decisoes/2026/32026D2469.md
+32026D2469	Artigo 1.º		58	60	87	ue/decisoes/2026/32026D2469.md
+32026D2469	Artigo 2.º		62	80	284	ue/decisoes/2026/32026D2469.md
+32026D2469	Artigo 1.º		82	84	134	ue/decisoes/2026/32026D2469.md
+32026D2469	Artigo 2.º		86	100	204	ue/decisoes/2026/32026D2469.md
 32026D2471	Preâmbulo		18	46	484	ue/decisoes/2026/32026D2471.md
 32026D2471	Artigo 1.º		50	52	104	ue/decisoes/2026/32026D2471.md
 32026D2471	Artigo 2.º		54	74	318	ue/decisoes/2026/32026D2471.md
 32026D2472	Preâmbulo		18	42	496	ue/decisoes/2026/32026D2472.md
 32026D2472	Artigo 1.º		46	52	310	ue/decisoes/2026/32026D2472.md
 32026D2472	Artigo 2.º		54	70	146	ue/decisoes/2026/32026D2472.md
+32026D2475	Preâmbulo		18	54	1013	ue/decisoes/2026/32026D2475.md
+32026D2475	Artigo 1.º		58	60	88	ue/decisoes/2026/32026D2475.md
+32026D2475	Artigo 2.º		62	80	321	ue/decisoes/2026/32026D2475.md
+32026D2475	Artigo 1.º		82	84	188	ue/decisoes/2026/32026D2475.md
+32026D2475	Artigo 2.º		86	100	242	ue/decisoes/2026/32026D2475.md
+32026D2482	Preâmbulo		18	54	1185	ue/decisoes/2026/32026D2482.md
+32026D2482	Artigo 1.º		58	64	103	ue/decisoes/2026/32026D2482.md
+32026D2482	Artigo 2.º		66	68	20	ue/decisoes/2026/32026D2482.md
+32026D2482	Artigo 3.º		70	88	169	ue/decisoes/2026/32026D2482.md
+32026D2483	Preâmbulo		18	54	1450	ue/decisoes/2026/32026D2483.md
+32026D2483	Artigo 1.º		58	60	32	ue/decisoes/2026/32026D2483.md
+32026D2483	Artigo 2.º		62	80	302	ue/decisoes/2026/32026D2483.md
+32026D2483	ANEXO		82	84	3	ue/decisoes/2026/32026D2483.md
+32026D2483	ANEXO		86	197	3024	ue/decisoes/2026/32026D2483.md
+32026D2484	Preâmbulo		18	50	1141	ue/decisoes/2026/32026D2484.md
+32026D2484	Artigo 1.º		54	56	107	ue/decisoes/2026/32026D2484.md
+32026D2484	Artigo 2.º		58	60	16	ue/decisoes/2026/32026D2484.md
+32026D2484	Artigo 3.º		62	64	29	ue/decisoes/2026/32026D2484.md
+32026D2484	Artigo 4.º		66	68	53	ue/decisoes/2026/32026D2484.md
+32026D2484	Artigo 5.º		70	86	140	ue/decisoes/2026/32026D2484.md
+32026D2493	Preâmbulo		18	42	729	ue/decisoes/2026/32026D2493.md
+32026D2493	Artigo 1.º		46	48	64	ue/decisoes/2026/32026D2493.md
+32026D2493	Artigo 2.º		50	86	468	ue/decisoes/2026/32026D2493.md
+32026D2494	Preâmbulo		18	52	716	ue/decisoes/2026/32026D2494.md
+32026D2494	Artigo 1.º		56	66	172	ue/decisoes/2026/32026D2494.md
+32026D2494	Artigo 2.º		68	98	236	ue/decisoes/2026/32026D2494.md
+32026D2495	Preâmbulo		18	52	1014	ue/decisoes/2026/32026D2495.md
+32026D2495	Artigo 1.º		56	62	117	ue/decisoes/2026/32026D2495.md
+32026D2495	Artigo 2.º		64	66	20	ue/decisoes/2026/32026D2495.md
+32026D2495	Artigo 3.º		68	86	176	ue/decisoes/2026/32026D2495.md

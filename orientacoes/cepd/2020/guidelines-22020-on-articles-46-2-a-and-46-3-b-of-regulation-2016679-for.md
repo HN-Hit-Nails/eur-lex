@@ -1,974 +1,904 @@
 ---
-titulo: "Diretrizes 2/2020 sobre a aplicação do artigo 46.º, n.º 2, alínea a), e do artigo 46.º, n.º 3, alínea b), do Regulamento (UE) 2016/679 às transferências de dados pessoais entre autoridades e organismos públicos estabelecidos no EEE e fora do EEE"
+titulo: "Guidelines 2/2020 on articles 46 (2) (a) and 46 (3) (b) of Regulation 2016/679 for transfers of personal data between EEA and non-EEA public authorities and bodies"
 titulo_en: "Guidelines 2/2020 on articles 46 (2) (a) and 46 (3) (b) of Regulation 2016/679 for transfers of personal data between EEA and non-EEA public authorities and bodies"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2020-12-15'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-22020-on-articles-46-2-a-and-46-3-b-of-regulation-2016679-for_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2021-06/edpb_guidelines_202002_art46guidelines_internationaltransferspublicbodies_v2_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202002_art46guidelines_internationaltransferspublicbodies_v2_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 2/2020 sobre a aplicação do artigo 46.º, n.º 2, alínea a), e do artigo 46.º, n.º 3, alínea b), do Regulamento (UE) 2016/679 às transferências de dados pessoais entre autoridades e organismos públicos estabelecidos no EEE e fora do EEE
+# Guidelines 2/2020 on articles 46 (2) (a) and 46 (3) (b) of Regulation 2016/679 for transfers of personal data between EEA and non-EEA public authorities and bodies
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 2/2020 sobre a aplicação do artigo 46.º, n.º 2,
- alínea a), e do artigo 46.º, n.º 3, alínea b), do Regulamento
-  (UE) 2016/679 às transferências de dados pessoais entre
- autoridades e organismos públicos estabelecidos no EEE e
-                          fora do EEE
-                              Versão 2.0
+Guidelines 2/2020 on articles 46 (2) (a) and 46 (3) (b) of
+Regulation 2016/679 for transfers of personal data between
+      EEA and non-EEA public authorities and bodies
 
 
-             Adotadas em 15 de dezembro de 2020
+                        Version 2.0
 
 
-                   Translations proofread by EDPB Members.
-               This language version has not yet been proofread.
+                Adopted on 15 December 2020
 
 
 
 
-Adotadas                                                           1
+Adopted                                                    1
 
-Adotadas   2
-
-Histórico das versões
+Version history
 
 
- Versão 2.0   15 de dezembro de    Adoção das Diretrizes após consulta pública
-              2020
- Versão 1.0   18 de fevereiro de   Adoção das Diretrizes para consulta pública
-              2020
+ Version 2.0   15 December 2020   Adoption of the Guidelines after public consultation
+
+ Version 1.0   18 February 2020   Adoption of the Guidelines for public consulation
 
 
 
 
-Adotadas                                                                         3
+Adopted                                                                                  2
 
-Índice
-1   Aspetos gerais.................................................................................................................................. 6
-    1.1 Finalidade................................................................................................................................. 6
-    1.2 Regras gerais aplicáveis às transferências internacionais ....................................................... 7
-    1.3 Definição de autoridade ou organismo público ...................................................................... 8
-2   Recomendações gerais relativas às garantias adequadas nos termos do artigo 46.º, n.º 2, alínea
-    a), e do artigo 46.º, n.º 3, alínea b), do RGPD ................................................................................. 8
-    2.1 Finalidade e âmbito de aplicação ............................................................................................ 9
-    2.2 Definições ................................................................................................................................ 9
-    2.3 Princípios da proteção de dados.............................................................................................. 9
-           2.3.1Princípio da limitação da finalidade ................................................................................ 9
-           2.3.2Princípios da exatidão e da minimização dos dados ..................................................... 10
-           2.3.3Princípio da limitação da conservação .......................................................................... 10
-           2.3.4Segurança e confidencialidade dos dados .................................................................... 11
-    2.4 Direitos dos titulares dos dados ............................................................................................ 11
-           2.4.1Direito à transparência.................................................................................................. 11
-           2.4.2Direitos de acesso, retificação, apagamento, limitação do tratamento e oposição..... 12
-           2.4.3Decisões individuais automatizadas.............................................................................. 13
-           2.4.4Direito de recurso.......................................................................................................... 13
-           2.4.5Limitações dos direitos dos titulares dos dados ........................................................... 13
-    2.5 Limitações das transferências ulteriores e da partilha de dados (incluindo a divulgação e o
-        acesso governamental).......................................................................................................... 13
-    2.6 Dados sensíveis ...................................................................................................................... 15
-    2.7 Mecanismos de recurso......................................................................................................... 15
-    2.8 Mecanismos de supervisão.................................................................................................... 17
-    2.9 Cláusula de cessação.............................................................................................................. 18
-3   Informações específicas sobre o artigo 46.º do RGPD .................................................................. 19
-    3.1 Informações específicas sobre instrumentos juridicamente vinculativos e com força
-        executiva — artigo 46.º, n.º 2, alínea a), do RGPD ............................................................... 19
-    3.2 Informações específicas sobre acordos administrativos — artigo 46.º, n.º 3, alínea b), do
-        RGPD ...................................................................................................................................... 19
-4   Questões processuais .................................................................................................................... 21
-
+Table of contents
+1   General ............................................................................................................................................ 5
+    1.1 Purpose .................................................................................................................................... 5
+    1.2 General rules applicable to international transfers ................................................................. 6
+    1.3 Definition of a public authority or body .................................................................................. 6
+2   General Recommendations for the Appropriate Safeguards under both articles 46 (2) (a) and
+    46 (3) (b) GDPR ................................................................................................................................ 7
+    2.1 Purpose and scope ................................................................................................................... 8
+    2.2 Definitions ................................................................................................................................ 8
+    2.3 Data protection principles ....................................................................................................... 8
+           2.3.1 Purpose limitation principle ............................................................................................ 8
+           2.3.2 Data accuracy and minimisation principles ..................................................................... 8
+           2.3.3 Storage limitation principle ............................................................................................. 9
+           2.3.4 Security and confidentiality of data ................................................................................ 9
+    2.4 Rights of the data subjects....................................................................................................... 9
+           2.4.1 Right to Transparency ................................................................................................... 10
+           2.4.2 Rights of access, to rectification, erasure, restriction of processing and to object ...... 10
+           2.4.3 Automated individual decision-making ......................................................................... 11
+           2.4.4 Right to Redress............................................................................................................. 11
+           2.4.5 Restrictions to the Rights of the data subjects .............................................................. 11
+    2.5 Restrictions on onward transfers and sharing of data (including disclosure and government
+        access) .................................................................................................................................... 12
+    2.6 Sensitive data ......................................................................................................................... 13
+    2.7 Redress mechanisms.............................................................................................................. 13
+    2.8 Supervision mechanisms........................................................................................................ 15
+    2.9 Termination clause ................................................................................................................ 16
+3   Specific information on article 46 GDPR ....................................................................................... 17
+    3.1 Specific information on legally binding and enforceable instruments - Article
+        46 (2) (a) GDPR ....................................................................................................................... 17
+    3.2 Specific information on administrative arrangements - Article 46 (3) (b) GDPR................... 17
+4   Procedural questions ..................................................................................................................... 19
 
 
 
-Adotadas                                                                                                                                            4
 
-O Comité Europeu para a Proteção de Dados
+Adopted                                                                                                                                                 3
 
-Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-seguir designado por «RGPD»),
+The European Data Protection Board
 
-Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-foi dada pela Decisão do Comité Misto do EEE n.º 154/2018, de 6 de julho de 20181,
+Having regard to Article 70 (1e) of the Regulation 2016/679/EU of the European Parliament and of the
+Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter “GDPR”),
 
-Tendo em conta o artigo 12.º e o artigo 22.º do seu regulamento interno,
+Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+by the Decision of the EEA joint Committee No 154/2018 of 6 July 20181,
+
+Having regard to Article 12 and Article 22 of its Rules of Procedure,
 
 
 
-ADOTOU AS SEGUINTES DIRETRIZES
+HAS ADOPTED THE FOLLOWING GUIDELINES
 
 
 
 
 1
- As referências a «Estados-Membros» efetuadas ao longo das presentes diretrizes devem ser entendidas como
-referências a «Estados do EEE».
+ References to “Member States” made throughout these guidelines should be understood as references to
+“EEA Member States”.
 
 
 
-Adotadas                                                                                                5
+Adopted                                                                                                 4
 
-     1 ASPETOS GERAIS
-     1.1 Finalidade
+     1 GENERAL
+     1.1 Purpose
 
-1.   O presente documento visa fornecer orientações sobre a aplicação do artigo 46.º, n.º 2, alínea a), e do
-     artigo 46.º, n.º 3, alínea b), do Regulamento Geral sobre a Proteção de Dados (RGPD) às transferências
-     de dados pessoais das autoridades e organismos públicos (a seguir designados por «organismos
-     públicos») estabelecidos no EEE para organismos públicos estabelecidos em países terceiros ou para
-     organizações internacionais, na medida em que estas transferências não sejam abrangidas por uma
-     verificação de adequação realizada pela Comissão Europeia2. Os organismos públicos podem optar por
-     utilizar estes mecanismos, que o RGPD considera mais adequados à sua situação, mas podem também
-     optar por outros instrumentos pertinentes que prevejam garantias adequadas em conformidade com
-     o artigo 46.º do RGPD.
+1.   This document seeks to provide guidance as to the application of Articles 46 (2) (a) and 46 (3) (b) of
+     the General Data Protection Regulation (GDPR) on transfers of personal data from EEA public
+     authorities or bodies (hereafter “public bodies”) to public bodies in third countries or to international
+     organisations, to the extent that these are not covered by an adequacy finding adopted by the
+     European Commission2. Public bodies may choose to use these mechanisms, which the GDPR considers
+     more appropriate to their situation, but are also free to rely on other relevant tools providing for
+     appropriate safeguards in accordance with Article 46 GDPR.
 
-2.   As presentes diretrizes pretendem constituir uma indicação sobre as expectativas do Comité Europeu
-     para a Proteção de Dados (CEPD) para as garantias a aplicar através de um instrumento juridicamente
-     vinculativo e com força executiva entre organismos públicos nos termos do artigo 46.º, n.º 2, alínea a),
-     do RGPD, ou, sob reserva de autorização da autoridade de controlo (AC) competente, por meio de
-     disposições a inserir nos acordos administrativos entre os organismos públicos nos termos do artigo
-     46.º, n.º 3, alínea b), do RGPD3. O CEPD recomenda vivamente que as partes utilizem as diretrizes como
-     referência numa fase inicial, quando ponderam celebrar ou alterar instrumentos ou disposições desta
-     natureza4.
+2.   The guidelines are intended to give an indication as to the expectations of the European Data
+     Protection Board (EDPB) on the safeguards required to be put in place by a legally binding and
+     enforceable instrument between public bodies pursuant to Article 46 (2) (a) GDPR or, subject to
+     authorisation from the competent supervisory authority (SA), by provisions to be inserted into
+     administrative arrangements between public bodies pursuant to Article 46 (3) (b) GDPR.3 The EDPB
+     strongly recommends parties to use the guidelines as a reference at an early stage when envisaging
+     concluding or amending such instruments or arrangements.4
 
-3.   As diretrizes devem ser lidas em conjugação com trabalhos anteriores do CEPD (incluindo documentos
-     aprovados pelo seu antecessor, o Grupo de Trabalho do Artigo 29.º5) no que respeita às questões
-     centrais do âmbito de aplicação territorial e das transferências de dados pessoais para países
-     terceiros6. As diretrizes serão revistas e, se necessário, atualizadas, com base na experiência prática
-     adquirida com a aplicação do RGPD.
+3.   The guidelines are to be read in conjunction with other previous work done by the EDPB (including
+     endorsed documents by its predecessor, the Article 29 Working Party5 (“WP29”)) on the central
+     questions of territorial scope and transfers of personal data to third countries6. The guidelines will be
+     reviewed and if necessary updated, based on the practical experience gained from the application of
+     the GDPR.
 
-4.   As presentes diretrizes abrangem as transferências internacionais de dados entre organismos públicos
-     efetuadas para diferentes finalidades de cooperação administrativa inseridas no âmbito de aplicação
-     do RGPD. Por conseguinte, não abrangem, nos termos do artigo 2.º, n.º 2, do RGPD, as transferências
-     nos domínios da segurança pública, da defesa ou da segurança do Estado. Além disso, não abordam o
-     tratamento e as transferências de dados por autoridades competentes para efeitos de aplicação do
-     direito penal, já que estas ações são reguladas por um instrumento específico separado, a diretiva
-
+4.   The present guidelines cover international data transfers between public bodies occurring for various
+     administrative cooperation purposes falling within the scope of the GDPR. As a consequence and in
+     accordance with Article 2 (2) of the GDPR, they do not cover transfers in the area of public security,
+     defence or state security. In addition, they do not deal with data processing and transfers by
+     competent authorities for criminal law enforcement purposes, since this is governed by a separate
+     specific instrument, the law enforcement Directive7. Finally, the guidelines only focus on transfers
+     between public bodies and do not cover transfers of personal data from a public body to a private
+     entity or from a private entity to a public body.
 
 
 
      2
-       Por exemplo, os organismos públicos japoneses, que não são abrangidos pela decisão de adequação relativa
-     ao Japão, já que esta abrange apenas organizações do setor privado.
+       For example Japanese public bodies, which are not covered by the Japan Adequacy Decision as it only covers
+     private sector organisations.
      3
-       Nas presentes diretrizes, o termo «acordos internacionais» refere-se a instrumentos juridicamente
-     vinculativos e com força executiva nos termos do artigo 46.º, n.º 2, alínea a), do RGPD e a acordos
-     administrativos nos termos do artigo 46.º, n.º 3, alínea b), do RGPD.
+       These guidelines use the term "international agreements" to refer to legally binding and enforceable
+     instruments pursuant to Article 46(2)(a) GDPR and to administrative arrangements pursuant to Article 46(3)(b)
+     GDPR.
      4
-       O artigo 96.º do RGPD estabelece que os acordos celebrados antes de 24 de maio de 2016 permanecem em
-     vigor até serem alterados, substituídos ou revogados.
+       Art. 96 GDPR states that agreements that were concluded prior to 24 May 2016 shall remain in force until
+     amended, replaced or revoked.
      5
-       Grupo de Trabalho das Autoridades de Proteção de Dados da UE criado nos termos do artigo 29.º da
-     Diretiva 95/46/CE relativa à proteção de dados.
+       The Working Party of EU Data Protection Authorities established under Article 29 of the Data Protection
+     Directive 95/46/EC.
      6
-       Ver Grupo de Trabalho do Artigo 29.º, Documento de referência relativo à adequação (WP254 rev.01,
-     aprovado pelo CEPD em 25 de maio de 2018); CEPD, Diretrizes 2/2018 relativas às derrogações do artigo 49.º
-     do Regulamento (UE) 2016/679; e CEPD, Diretrizes 3/2018 sobre o âmbito de aplicação territorial do RGPD
-     (artigo 3.º).
-
-
-     Adotadas                                                                                                     6
-
-     relativa à aplicação da lei7. Por último, as diretrizes incidem apenas sobre as transferências entre
-     organismos públicos e não abrangem as transferências de dados pessoais de um organismo público
-     para uma entidade privada ou vice-versa.
-
-     1.2 Regras gerais aplicáveis às transferências internacionais
-
-5.   Nos termos do artigo 44.º do RGPD, o exportador de dados que transfere dados pessoais para países
-     terceiros ou organizações internacionais deve, além de cumprir o disposto no capítulo V do RGPD,
-     cumprir também as condições estabelecidas nas outras disposições do mesmo regulamento. Em
-     especial, cada atividade de tratamento deve cumprir os princípios de proteção de dados estabelecidos
-     no artigo 5.º do RGPD, ser lícita em conformidade com o artigo 6.º do RGPD e cumprir o disposto no
-     artigo 9.º do RGPD no que diz respeito às categorias especiais de dados. Por conseguinte, é necessário
-     realizar uma análise em dois passos: em primeiro lugar, deve existir um fundamento jurídico aplicável
-     ao tratamento de dados em si, conjugado com todas as disposições aplicáveis do RGPD; em segundo
-     lugar, devem ser cumpridas as disposições do capítulo V do RGPD.
-
-6.   O RGPD especifica, no artigo 46.º, que, «[n]ão tendo sido tomada qualquer decisão nos termos do
-     artigo 45.º, n.º 3, os responsáveis pelo tratamento ou subcontratantes só podem transferir dados
-     pessoais para um país terceiro ou uma organização internacional se tiverem apresentado garantias
-     adequadas, e na condição de os titulares dos dados gozarem de direitos oponíveis e de medidas
-     jurídicas corretivas eficazes». Essas garantias adequadas podem ser previstas por meio de um
-     instrumento juridicamente vinculativo e com força executiva entre organismos públicos (artigo 46.º,
-     n.º 2, alínea a), do RGPD) ou, sob reserva de autorização da AC competente, por meio de disposições
-     a inserir nos acordos administrativos entre os organismos públicos que contemplem os direitos
-     efetivos e oponíveis dos titulares dos dados (artigo 46.º, n.º 3, alínea b), do RGPD). Tal como
-     esclarecido pelo Tribunal de Justiça da União Europeia (TJUE), essas garantias adequadas devem ser
-     de natureza a assegurar que as pessoas cujos dados pessoais são transferidos beneficiam de um nível
-     de proteção substancialmente equivalente ao garantido no EEE8.
-
-7.   Na ausência desta solução, o artigo 49.º do RGPD prevê também um conjunto limitado de situações
-     específicas em que as transferências internacionais de dados podem ocorrer sem uma verificação de
-     adequação por parte da Comissão Europeia9. Uma das isenções diz respeito, nomeadamente, às
-     transferências necessárias por importantes razões de interesse público reconhecidas na legislação da
-     União ou do Estado-Membro a que o responsável pelo tratamento está sujeito, inclusivamente no
-     espírito de reciprocidade da cooperação internacional10. Contudo, conforme explicado em diretrizes
-     anteriores emitidas pelo CEPD, as derrogações previstas no artigo 49.º do RGPD devem ser
-     interpretadas de forma restritiva e dizem respeito principalmente a atividades de tratamento
-     ocasionais e não repetitivas11.
-
-
-
-
+       See Article 29 Working Party, Adequacy Referential (WP254 rev.01, endorsed by the EDPB on 25 May 2018),
+     EDPB Guidelines 2/2018 on derogations of Article 49 under Regulation 2016/679 and EDPB Guidelines 3/2018
+     on the territorial scope of the GDPR (Article 3).
      7
-       Diretiva (UE) 2016/680 de 27 de abril de 2016 relativa à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, investigação,
-     deteção ou repressão de infrações penais ou execução de sanções penais, e à livre circulação desses dados.
+       Directive (EU) 2016/680 of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data by competent authorities for the purposes of the prevention, investigation, detection or
+     prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data.
+
+
+     Adopted                                                                                                       5
+
+     1.2 General rules applicable to international transfers
+
+5.   According to Article 44 of the GDPR the data exporter transferring personal data to third countries or
+     international organisations must, in addition to complying with Chapter V of the GDPR, also meet the
+     conditions of the other provisions of the GDPR. In particular, each processing activity must comply with
+     the data protection principles in Article 5 GDPR, be lawful in accordance with Article 6 GDPR and
+     comply with Article 9 GDPR in case of special categories of data. Hence, a two-step test must be
+     applied: first, a legal basis must apply to the data processing as such together with all relevant
+     provisions of the GDPR; and as a second step, the provisions of Chapter V of the GDPR must be
+     complied with.
+
+6.   The GDPR specifies in its Article 46 that “in the absence of a decision pursuant to Article 45(3), a
+     controller or processor may transfer personal data to a third country or an international organisation
+     only if the controller or processor has provided appropriate safeguards, and on condition that
+     enforceable data subject rights and effective legal remedies for data subjects are available”. Such
+     appropriate safeguards may be provided for by a legally binding and enforceable instrument between
+     public bodies (Article 46 (2) (a) GDPR) or, subject to authorisation from the competent SA, by
+     provisions to be inserted into administrative arrangements between public bodies which include
+     enforceable and effective data subject rights (Article 46 (3) (b) GDPR). As clarified by the Court of
+     Justice of the European Union (CJEU), such appropriate safeguards must be capable of ensuring that
+     data subjects whose personal data are transferred are afforded a level of protection essentially
+     equivalent to that which is guaranteed within the EEA.8
+
+7.   Aside from this solution and in its absence, Article 49 of the GDPR also offers a limited number of
+     specific situations in which international data transfers may take place when there is no adequacy
+     finding by the European Commission9. In particular, one exemption covers transfers necessary for
+     important reasons of public interest recognised in Union law or in the law of the Member State to
+     which the controller is subject, including in the spirit of reciprocity of international cooperation10.
+     However, as explained in previous guidance issued by the EDPB, the derogations provided by Article
+     49 GDPR must be interpreted restrictively and mainly relate to processing activities that are occasional
+     and non-repetitive11.
+
+     1.3 Definition of a public authority or body
+
+8.   The GDPR does not define what constitutes a ‘public authority or body’. The EDPB considers that this
+     notion is broad enough to cover both public bodies in third countries and international organisations.12
+     With respect to public bodies in third countries, the notion is to be determined under domestic law.
+     Accordingly, public bodies include government authorities at different levels (e.g. national, regional
+     and local authorities), but may also include other bodies governed by public law (e.g. executive
+     agencies, universities, hospitals, etc.).13 In accordance with Article 4 (26) GDPR, ‘international
+
      8
-       Tribunal de Justiça da União Europeia, processo C-311/18, Data Protection Commissioner/Facebook Ireland
-     Limited, Maximillian Schrems («Schrems II»), n.º 96.
+       Court of Justice of the European Union, Case C-311/18, Data Protection Commissioner v. Facebook Ireland
+     and Maximillian Schrems (“Schrems II”), para. 96.
      9
-       Para mais informações sobre o artigo 49.º e a sua articulação com o artigo 46.º em geral, ver as
-     Diretrizes 2/2018 do CEPD relativas às derrogações do artigo 49.º do Regulamento (UE) 2016/679.
+       For further information on Article 49 and its interplay with Article 46 in general, please see EDPB Guidelines
+     2/2018 on derogations of Article 49 under Regulation 2016/679.
      10
-        Ver as Diretrizes 2/2018 do CEPD relativas às derrogações do artigo 49.º do Regulamento (UE) 2016/679,
-     página 12.
+        See EDPB Guidelines 2/2018 on derogations of Article 49 under Regulation 2016/679, page 10.
      11
-        Ver as Diretrizes do CEPD relativas às derrogações do artigo 49.º do Regulamento (UE) 2016/679, página 5.
+        See EDPB Guidelines on derogations of Article 49 under Regulation 2016/679, page 5.
+     12
+        See also recital 108 of the GDPR.
+     13
+        See, e.g. the definition of ‘public sector body’ and ‘body governed by public law’ in Article 2 (1) and (2) of
+     Directive 2003/98/EC of the European Parliament and of the Council of 17 November 2003 on the re-use of
+     public-sector information (OJ L 345, 31.12.2003, page 90).
 
 
-     Adotadas                                                                                                         7
+     Adopted                                                                                                             6
 
-      1.3 Definição de autoridade ou organismo público
+      organisation’ refers to an organisation and its subordinate bodies governed by public international law,
+      or any other body which is set up by, or on the basis of, an agreement between two countries.
 
-8.    O RGPD não define o que constitui «uma autoridade ou um organismo público». O CEPD considera que
-      este conceito é suficientemente amplo para abranger os organismos públicos de países terceiros e as
-      organizações internacionais12. O conceito de organismos públicos de países terceiros deve ser
-      determinado nos termos do direito nacional. De igual modo, os organismos públicos incluem
-      autoridades públicas a diferentes níveis (por exemplo, autoridades nacionais, regionais e locais), mas
-      podem também incluir outros organismos regidos pelo direito público (por exemplo, agências de
-      execução, universidades, hospitais, etc.)13. Nos termos do artigo 4.º, ponto 26, do RGPD, entende-se
-      por «organização internacional» uma organização e os organismos de direito internacional público por
-      ela tutelados, ou outro organismo criado por um acordo celebrado entre dois países ou com base num
-      acordo dessa natureza.
-
-9.    O CEPD recorda que a aplicação do RGPD não prejudica as disposições do direito internacional,
-      nomeadamente as que regulam os privilégios e imunidades de organizações internacionais.
-      Simultaneamente, importa recordar que qualquer organismo público estabelecido no EEE que
-      transfere dados para organizações internacionais tem de cumprir as regras do RGPD relativas a
-      transferências para países terceiros ou organizações internacionais14.
+9.    The EDPB recalls that the application of the GDPR is without prejudice to the provisions of international
+      law, such as the ones governing the privileges and immunities of international organisations. At the
+      same time, it is important to recall that any EEA public body transferring data to international
+      organisations has to comply with the GDPR rules on transfers to third countries or international
+      organisations.14
 
 
-      2 RECOMENDAÇÕES GERAIS RELATIVAS ÀS GARANTIAS ADEQUADAS
-        NOS TERMOS DO ARTIGO 46.º, N.º 2, ALÍNEA a), E DO ARTIGO 46.º,
-        N.º 3, ALÍNEA b), DO RGPD
-10.   Ao contrário do artigo 26.º, n.º 2, da Diretiva 95/46/CE, o artigo 46.º do RGPD prevê garantias
-      adequadas adicionais como instrumentos para as transferências entre organismos públicos:
+      2 GENERAL RECOMMENDATIONS FOR THE APPROPRIATE
+        SAFEGUARDS UNDER BOTH ARTICLES 46 (2) (a) AND 46 (3) (b)
+        GDPR
+10.   Unlike Article 26 (2) of the 95/46/EC Directive, Article 46 of the GDPR provides for additional
+      appropriate safeguards as tools for transfers between public bodies:
 
-             (i) um instrumento juridicamente vinculativo e com força executiva, artigo 46.º, n.º 2, alínea a),
-                  do RGPD, ou
-             (ii) disposições a inserir nos acordos administrativos, artigo 46.º, n.º 3, alínea b), do RGPD.
+           (i) a legally binding and enforceable instrument, Article 46 (2) (a) GDPR or
+           (ii) provisions to be inserted into administrative arrangements, Article 46 (3) (b) GDPR.
 
-      Estes instrumentos e acordos podem ser bilaterais ou plurilaterais.
+      These instruments and arrangements may be of bilateral or multilateral nature.
 
-11.   A secção seguinte apresenta algumas recomendações gerais para ajudar a assegurar que os
-      instrumentos juridicamente vinculativos ou acordos administrativos (a seguir designados por «acordos
-      internacionais») entre organismos públicos cumprem o disposto no RGPD.
+11.   The following section provides some general recommendations to help ensure that legally binding
+      instruments or administrative arrangements (hereinafter “international agreements”) between public
+      bodies are in compliance with the GDPR.
 
-12.   Embora o artigo 46.º e o considerando 108 do RGPD não contenham indicações específicas sobre as
-      garantias a incluir nos referidos acordos internacionais, o CEPD, tendo em conta o artigo 44.º do
+12.   Although Article 46 and recital 108 of the GDPR do not provide specific indications on the guarantees
+      to be included in such international agreements, taking into account Article 44 of the GPDR15 and the
+      recent CJEU case law16 the EDPB hereby has elaborated a list of minimum safeguards to be included in
+      international agreements between public bodies falling under Articles 46 (2) (a) or 46 (3) (b) GDPR.
+      These safeguards aim to ensure that the level of protection of natural persons under the GDPR is not
+      undermined when their personal data is transferred outside of the EEA and that data subjects are
+      afforded a level of protection essentially equivalent to that guaranteed within the EU by the GDPR.17
+
+13.   In accordance with the recent CJEU case law18, it is the responsibility of the transferring public body in
+      a Member State, if needed with the help of the receiving public body, to assess whether the level of
+      protection required by EU law is respected in the third country, in order to determine whether the list
+      of safeguards included in the international agreement can be complied with in practice, taking into
+      account the possible interference created by the third country legislation with compliance with these
+      safeguards.
 
 
 
-
-      12
-        Ver também o considerando 108 do RGPD.
-      13
-        Ver, por exemplo, a definição de «organismo do setor público» e de «organismo de direito público» no
-      artigo 2.º, pontos 1 e 2, da Diretiva 2003/98/CE do Parlamento Europeu e do Conselho, de 17 de novembro
-      de 2003, relativa à reutilização de informações do setor público (JO L 345 de 31.12.2003, p. 90).
 
       14
-           Ver as Diretrizes 3/2018 do CEPD sobre o âmbito de aplicação territorial do RGPD, p. 26.
-
-
-      Adotadas                                                                                                  8
-
-      RGPD15 e a jurisprudência recente do TJUE16, elaborou uma lista de garantias mínimas a incluir nos
-      acordos internacionais entre organismos públicos ao abrigo do artigo 46.º, n.º 2, alínea a), e do artigo
-      46.º, n.º 3, alínea b), do RGPD. Estas garantias visam assegurar que o nível de proteção das pessoas
-      singulares ao abrigo do RGPD não é comprometido quando os seus dados pessoais são transferidos
-      para fora do EEE e que os titulares dos dados beneficiam de um nível de proteção substancialmente
-      equivalente ao garantido na UE pelo RGPD17.
-
-13.   Segundo a jurisprudência recente do TJUE18, cabe ao organismo público que procede à transferência
-      num Estado-Membro, se necessário com o apoio do organismo público destinatário, verificar o
-      respeito, no país terceiro em causa, do nível de proteção exigido pelo direito da UE, a fim de
-      determinar se a lista de garantias incluída no acordo internacional pode ser cumprida na prática, tendo
-      em conta a possível interferência criada pela legislação desse país terceiro no cumprimento das
-      garantias.
-
-14.   A este respeito, importa salientar também que, a fim de assegurar o respeito das garantias
-      enumeradas nas presentes diretrizes, os acordos internacionais podem basear-se em elementos já
-      existentes no direito nacional de um país terceiro ou nas normas internas/quadro regulamentar de
-      uma organização internacional.
-
-      2.1 Finalidade e âmbito de aplicação
-
-15.   Os acordos internacionais devem definir o seu âmbito de aplicação e determinar, de forma explícita e
-      específica, as suas finalidades. Além disso, devem indicar claramente as categorias de dados pessoais
-      visadas e o tipo de tratamento dos dados pessoais que são transferidos e tratados ao abrigo do acordo.
-
-      2.2 Definições
-
-16.   Os acordos internacionais devem conter definições dos conceitos e direitos fundamentais pertinentes
-      em matéria de dados pessoais, em consonância com o RGPD. Por exemplo, os acordos devem, se os
-      mencionarem, incluir definições dos seguintes termos importantes: «dados pessoais», «tratamento
-      dos dados pessoais», «responsável pelo tratamento dos dados», «subcontratante», «destinatário» e
-      «dados sensíveis».
-
-      2.3 Princípios da proteção de dados
-
-17.   Os acordos internacionais devem conter disposições específicas que exijam a ambas as partes o
-      respeito dos princípios fundamentais em matéria de proteção de dados.
-
-      2.3.1 Princípio da limitação da finalidade
-
-18.   Os acordos internacionais devem especificar as finalidades para que os dados pessoais são transferidos
-      e tratados, incluindo finalidades compatíveis para tratamento posterior, bem como assegurar que os
-      dados não sejam tratados posteriormente para finalidades incompatíveis. As finalidades compatíveis
-
+         See EDPB Guidelines 3/2018 on the territorial scope of the GDPR, p. 23.
       15
-         Nos termos do artigo 44.° do RGPD: «Todas as disposições do presente capítulo são aplicadas de forma a
-      assegurar que não é comprometido o nível de proteção das pessoas singulares garantido pelo presente
-      regulamento.»
+         Article 44 of the GDPR states: “All provisions of this Chapter shall be applied in order to ensure that the level
+      of protection of natural persons guaranteed by this Regulation is not undermined.”
       16
-         TJUE, 16 de julho de 2020, Acórdão no processo C-311/18, Data Protection Commissioner/Facebook Ireland
-      Limited, Maximillian Schrems («Schrems II»).
+         CJEU, July 16, 2020, Judgment in case C-311/18, Data Protection Commissioner v Facebook Ireland Ltd and
+      Maximillian Schrems (“Schrems II”).
       17
-         TJUE, 16 de julho de 2020, Acórdão no processo C-311/18, Data Protection Commissioner/Facebook Ireland
-      Limited, Maximillian Schrems («Schrems II»), n.º 105.
+         CJEU, July 16, 2020, Judgment in case C-311/18, Data Protection Commissioner v Facebook Ireland Ltd and
+      Maximillian Schrems (“Schrems II”), para 105.
       18
          Idem.
 
 
-      Adotadas                                                                                                    9
+      Adopted                                                                                                                7
 
-      podem incluir a conservação para fins de arquivo de interesse público, bem como o tratamento para
-      fins de investigação científica ou histórica ou para fins estatísticos. É aconselhável, para maior clareza,
-      que as finalidades específicas do tratamento e da transferência dos dados sejam enumerados no
-      próprio acordo internacional.
+14.   In this respect, it should also be noted that, to ensure the safeguards listed in these guidelines,
+      international agreements can build on already existing elements in the national law of a third country
+      or the internal rules/regulatory framework of an international organisation.
 
-19.   Para evitar qualquer risco de «desvirtuamento da função», estes acordos devem também especificar
-      que os dados transferidos não podem ser utilizados para outra finalidade que não as expressamente
-      mencionadas no acordo, exceto no caso descrito no próximo ponto.
+      2.1 Purpose and scope
 
-20.   Se ambas as partes no acordo internacional pretenderem permitir que o organismo público
-      destinatário faça outra utilização compatível dos dados pessoais transmitidos, essa outra utilização
-      pelo organismo público destinatário apenas deve ser permitida se for compatível com a utilização
-      original e for previamente notificada ao organismo público que procede à transferência, que se pode
-      opor a essa utilização por razões específicas.
+15.   International agreements should define their scope and their purposes should be explicitly and
+      specifically determined. In addition, they should clearly state the categories of personal data affected
+      and the type of processing of the personal data which is transferred and processed under the
+      agreement.
 
-      2.3.2 Princípios da exatidão e da minimização dos dados
+      2.2 Definitions
 
-21.   O acordo internacional deve especificar que os dados transferidos e tratados posteriormente têm de
-      ser adequados, pertinentes e limitados ao que é necessário relativamente às finalidades para as quais
-      são transmitidos e tratados posteriormente.
+16.   International agreements should contain definitions of the basic personal data concepts and rights in
+      line with the GDPR relevant to the agreement in question. By way of example, such agreements should,
+      if referenced, include the following important definitions: “personal data”, “processing of personal
+      data”, “data controller”, “data processor", “recipient” and “sensitive data”.
 
-22.   Na prática, este princípio da minimização dos dados é importante para evitar a transferência de dados
-      pessoais quando são inadequados ou excessivos.
+      2.3 Data protection principles
 
-23.   Além disso, os dados devem ser exatos e atualizados, tendo em conta as finalidades para que são
-      tratados. Por conseguinte, um acordo internacional deve estabelecer que a parte que procede à
-      transferência tem de assegurar que os dados pessoais transferidos ao abrigo do acordo sejam exatos
-      e, se for caso disso, atualizados. O acordo deve estabelecer ainda que, se uma das partes tomar
-      conhecimento de que foram transmitidos ou estão a ser tratados dados inexatos ou desatualizados,
-      deve notificar sem demora a outra parte. Por último, o acordo deve assegurar que, caso se confirme
-      que os dados transmitidos ou em tratamento são inexatos, cada parte que trata os dados toma todas
-      as medidas razoáveis para retificar ou apagar as informações em causa.
+17.   International agreements shall contain specific wording requiring that the core data protection
+      principles are ensured by both parties.
 
-      2.3.3 Princípio da limitação da conservação
+      2.3.1 Purpose limitation principle
 
-24.   As partes devem assegurar que o acordo internacional contenha uma cláusula relativa à conservação
-      dos dados. Esta cláusula deve especificar, nomeadamente, que os dados pessoais não podem ser
-      conservados indefinidamente, mas sim de uma forma que permita a identificação dos titulares dos
-      dados apenas durante o período necessário para as finalidades para as quais foram transferidos e
-      tratados posteriormente. Tal pode incluir a conservação durante o período necessário para fins de
-      arquivo de interesse público, ou para fins de investigação científica ou histórica ou para fins
-      estatísticos, desde que sejam aplicadas medidas técnicas e organizativas adequadas para salvaguardar
-      os direitos e liberdades dos titulares dos dados, como medidas técnicas adicionais (por exemplo,
-      medidas de segurança, pseudonimização) e restrições de acesso. Caso a legislação nacional ou as
-      normas internas/ quadro regulamentar de uma organização internacional não estabeleçam um
-      período de conservação máximo, este deve ser fixado no texto do acordo.
+18.   International agreements need to specify the purposes for which personal data is to be transferred
+      and processed including compatible purposes for further processing, as well as to ensure that the data
+      will not be further processed for incompatible purposes. Compatible purposes may include storing for
+      archiving purposes in the public interest, as well as processing for scientific or historical research
+      purposes or statistical purposes. It is recommended, for better clarity, that the specific purposes for
+      the processing and transferring of the data are listed in the international agreement itself.
 
+19.   To avoid any risk of a “function creep”, such agreements should also specify that transferred data
+      cannot be used for any purpose other than those expressly mentioned in the agreement, except as set
+      out in the paragraph below.
 
+20.   If both parties to the international agreement wish to allow the receiving public body to make another
+      compatible use of the transmitted personal data, further use by the receiving public body shall only be
+      permitted if compatible with the original one and previously notified to the transferring public body
+      which may oppose for specific reasons.
 
+      2.3.2 Data accuracy and minimisation principles
 
-      Adotadas                                                                                                10
+21.   The international agreement must specify that the data transferred and further processed must be
+      adequate, relevant and limited to what is necessary in relation to the purposes for which they are
+      transmitted and further processed.
 
-      2.3.4 Segurança e confidencialidade dos dados
+22.   In practice, this data minimisation principle is important to avoid the transfer of personal data when
+      they are inadequate or excessive.
 
-25.   As partes devem comprometer-se a garantir a segurança e a confidencialidade do tratamento e das
-      transferências de dados pessoais que efetuam.
-      Em especial, as partes devem comprometer-se a adotar medidas técnicas e organizativas adequadas
-      para proteger os dados pessoais contra situações acidentais ou ilícitas de acesso, destruição, perda,
-      alteração ou divulgação não autorizada. Estas medidas podem incluir, por exemplo, cifragem, incluindo
-      em trânsito, pseudonimização, marcação de informações como dados pessoais transferidos a partir do
-      EEE, restrição das pessoas com acesso aos dados pessoais, medidas de conservação segura dos dados
-      pessoais ou aplicação de políticas concebidas para assegurar que os dados pessoais permaneçam
-      seguros e confidenciais.
-      O nível de segurança deve ter em consideração os riscos, as técnicas mais avançadas e os custos
-      conexos.
-
-26.   O acordo internacional poderá igualmente especificar que, se uma das partes tomar conhecimento de
-      uma violação de dados pessoais, deve informar a(s) outra(s) parte(s) o mais rapidamente possível e
-      utilizar meios razoáveis e adequados para corrigir a violação de dados pessoais e minimizar os seus
-      potenciais efeitos adversos, nomeadamente comunicando ao titular dos dados a existência de uma
-      violação de dados pessoais, sem demora injustificada, nos casos em que tal violação é suscetível de
-      resultar num risco elevado para os direitos e liberdades da pessoa singular em causa.
-      É aconselhável que o acordo internacional defina a linha cronológica da notificação de uma violação
-      de dados pessoais, bem como os procedimentos para comunicação ao titular dos dados.
-
-      2.4 Direitos dos titulares dos dados
-
-27.   O acordo internacional deve assegurar que os titulares dos dados gozem de direitos oponíveis e
-      efetivos, conforme especificado no artigo 46.º, n.º 1, e no considerando 108 do RGPD.
-
-28.   O acordo deve enumerar os direitos concedidos aos titulares dos dados e, nomeadamente, os
-      compromissos específicos assumidos pelas partes no sentido de garantir esses direitos. Para ser eficaz,
-      o acordo internacional tem de estabelecer mecanismos que assegurem a aplicação dos direitos na
-      prática. Além disso, qualquer violação dos direitos dos titulares dos dados deve estar associada a
-      medidas corretivas adequadas.
-
-      2.4.1 Direito à transparência
-
-29.   As partes devem assegurar que o acordo internacional contenha disposições claras que descrevam as
-      obrigações das partes em matéria de transparência.
-
-30.   Tais obrigações devem incluir, em primeiro lugar, uma notificação geral que contenha, no mínimo,
-      informações sobre a forma e os motivos pelos quais os organismos públicos podem tratar e transferir
-      dados pessoais, a ferramenta pertinente utilizada para a transferência, as entidades para que tais
-      dados podem ser transferidos, os direitos concedidos aos titulares dos dados e restrições aplicáveis,
-      os mecanismos de recurso disponíveis e os dados de contacto para a submissão de um litígio ou uma
-      ação.
-
-31.   Contudo, importa recordar que uma notificação geral no sítio Web do organismo público em causa
-      não é suficiente para o organismo público que procede à transferência. Este último deve prestar
-      informações individuais aos titulares dos dados em conformidade com os requisitos de notificação dos
+23.   Moreover, data should be accurate and up to date, having regard to the purposes for which they are
+      processed. An international agreement must therefore provide that the transferring party will ensure
 
 
+      Adopted                                                                                               8
+
+      that the personal data transferred under the agreement is accurate and, where applicable, up to date.
+      In addition, the agreement should provide that, if one of the parties becomes aware that inaccurate
+      or out of date data has been transmitted or is being processed, it must notify the other party without
+      delay. Finally, the agreement should ensure that, where it is confirmed that data transmitted or being
+      processed is inaccurate, each party processing the data shall take every reasonable step to rectify or
+      erase the information.
+
+      2.3.3 Storage limitation principle
+
+24.   Parties must ensure that the international agreement contains a data retention clause. This clause
+      should specify in particular that personal data shall not be retained indefinitely but shall be kept in a
+      form which permits identification of data subjects only for the time necessary for the purpose for which
+      it was transferred and subsequently processed. That may include storing it for as long as necessary for
+      archiving purposes in the public interest, scientific or historical research purposes or statistical
+      purposes, provided that appropriate technical and organisational measures are put in place to
+      safeguard the rights and freedoms of the data subjects, such as additional technical measures (e.g.
+      security measures, pseudonymisation) and access restrictions. When a maximum retention period is
+      not already set in national legislation or the internal rules/regulatory framework of an international
+      organisation, a maximum retention period should be set in the text of the agreement.
+
+      2.3.4 Security and confidentiality of data
+
+25.   The parties should commit to ensure the security and the confidentiality of the personal data
+      processing and transfers they carry out.
+      In particular, the parties should commit to having in place appropriate technical and organisational
+      measures to protect personal data against accidental or unlawful access, destruction, loss, alteration,
+      or unauthorised disclosure. These measures may include, for example, encryption including in transit,
+      pseudonymisation, marking information as personal data transferred from the EEA, restricting who
+      has access to personal data, providing secure storage of personal data, or implementing policies
+      designed to ensure personal data are kept secure and confidential.
+      The level of security should take into consideration the risks, the state of the art and the related costs.
+
+26.   The international agreement may furthermore specify that, if one of the parties becomes aware of a
+      personal data breach, it will inform the other party (ies) as soon as possible and use reasonable and
+      appropriate means to remedy the personal data breach and minimise the potential adverse effects,
+      including by communicating to the data subject a personal data breach, without undue delay, where
+      that personal data breach is likely to result in a high risk to the rights and freedoms of the natural
+      person.
+      It is recommended that the notification timeline for a personal data breach as well as the procedures
+      for communication to the data subject are defined in the international agreement.
+
+      2.4 Rights of the data subjects
+
+27.   The international agreement must ensure enforceable and effective data subject rights as specified in
+      article 46 (1) and recital 108 of the GDPR.
+
+28.   The rights available to the data subjects, including the specific commitments taken by the parties to
+      provide for such rights, should be listed in the agreement. To be effective, the international agreement
+      must provide for mechanisms that ensure their application in practice. Moreover, any breach of data
+      subject rights must carry an appropriate remedy.
 
 
-      Adotadas                                                                                            11
+      Adopted                                                                                                  9
 
-      artigos 13.º e 14.º do RGPD19.
-      O acordo internacional pode também prever algumas exceções à prestação de informações
-      individuais. Estas exceções são limitadas e devem estar em consonância com as previstas no artigo
-      14.º, n.º 5, do RGPD, por exemplo nos casos em que o titular dos dados já dispõe das informações ou
-      em que a prestação das informações em causa se afigura impossível ou implicaria um esforço
-      desproporcionado.
+      2.4.1 Right to Transparency
 
-32.   As partes devem comprometer-se a disponibilizar o acordo internacional aos titulares dos dados, a
-      pedido destes, e a disponibilizar publicamente no seu sítio Web o acordo internacional ou as suas
-      disposições que preveem garantias adequadas. Na medida do necessário para proteger informações
-      sensíveis ou outras informações confidenciais, o texto do acordo internacional pode ser editado antes
-      do seu envio a um titular de dados ou da sua divulgação pública. As partes devem disponibilizar um
-      resumo significativo do acordo internacional se tal for necessário para permitir que o titular dos dados
-      compreenda o seu conteúdo.
+29.   Parties must ensure that the international agreement contains clear wording describing the
+      transparency obligations of the parties.
 
-      2.4.2 Direitos de acesso, retificação, apagamento, limitação do tratamento e oposição
+30.   Such obligations should include on the one hand, a general information notice with, as a minimum,
+      information on how and why the public bodies may process and transfer personal data, the relevant
+      tool used for the transfer, the entities to which such data may be transferred, the rights available to
+      data subjects and applicable restrictions, available redress mechanisms and contact details for
+      submitting a dispute or claim.
 
-33.   O acordo internacional deve salvaguardar o direito do titular dos dados de obter informações e aceder
-      a todos os dados pessoais tratados que lhe digam respeito, o direito de retificação, apagamento e
-      limitação do tratamento e, quando for relevante, o direito de se opor ao tratamento dos dados por
-      motivos relacionados com a sua situação particular.
+31.   However, it is important to recall that, for the transferring public body, a general information notice
+      on the website of the public body concerned will not suffice. Individual information to data subjects
+      should be made by the transferring public body in accordance with the notification requirements of
+      Articles 13 and 14 GDPR19.
+      The international agreement can also provide for some exceptions to such individual information.
+      These exceptions are limited and should be in line with the ones provided under Article 14 (5) GDPR,
+      for example where the data subject already has the information or where the provision of such
+      information proves impossible or would involve a disproportionate effort.
 
-34.   No que diz respeito ao direito de acesso, o acordo internacional deve especificar que as pessoas têm
-      o direito de obter do organismo público destinatário a confirmação de que os dados pessoais que lhe
-      digam respeito são ou não objeto de tratamento e, se for esse o caso, aceder a esses dados, bem como
-      a informações específicas relativas ao tratamento, incluindo a finalidade do mesmo, as categorias dos
-      dados pessoais em questão, os destinatários a quem os dados pessoais são divulgados, o prazo de
-      conservação previsto e as possibilidades de recurso.
+32.   The parties must commit to make the international agreement available to data subjects on request
+      and to make the international agreement or the relevant provisions providing for appropriate
+      safeguards publicly available on their website. To the extent necessary to protect sensitive or other
+      confidential information, the text of the international agreement may be redacted prior to sharing a
+      copy or making it publicly available. Where necessary to allow the data subject to understand the
+      content of the international agreement, the parties must provide a meaningful summary thereof.
 
-35.   O acordo deve igualmente especificar quando é que estes direitos podem ser invocados e incluir as
-      formas como os titulares dos dados podem exercer estes direitos junto de ambas as partes, bem como
-      o modo como as partes responderão a tais pedidos. Por exemplo, no que diz respeito ao apagamento,
-      o acordo internacional pode estabelecer que os dados devem ser apagados se as informações tiverem
-      sido tratadas ilicitamente ou já não forem necessárias para a finalidade do tratamento. Além disso, o
-      acordo internacional deve estipular que as partes têm de responder de forma razoável e atempada
-      aos pedidos dos titulares dos dados. O acordo internacional pode também estabelecer que as partes
-      podem tomar medidas adequadas, como exigir o pagamento de taxas razoáveis para cobrir os custos
-      administrativos, se os pedidos apresentados por um titular de dados forem manifestamente
-      infundados ou excessivos, nomeadamente devido ao seu caráter repetitivo.
+      2.4.2 Rights of access, to rectification, erasure, restriction of processing and to object
 
-36.   O acordo internacional deve também obrigar o organismo público que procede à transferência a
-      prestar informações ao titular dos dados, assim que os seus dados pessoais tenham sido transferidos
-      sobre as medidas tomadas a seu pedido ao abrigo dos direitos previstos no acordo internacional, sem
-      demora injustificada, fixando para o efeito um prazo adequado (por exemplo, um mês). Por último, se
-      as partes não derem seguimento ao pedido apresentado pelo titular dos dados, o acordo internacional
-      deve prever que este seja informado sem demora, fixando para o efeito um prazo adequado (por
+33.   The international agreement should safeguard the data subject’s right to obtain information about and
+      access to all personal data relating to him/her that are processed, the right to rectification, erasure and
+      restriction of processing and where relevant the right to oppose to the data processing on grounds
+      relating to his or her particular situation.
 
+34.   As regards the right of access, the international agreement should specify that individuals shall have
+      the right vis-à-vis the receiving public body to obtain confirmation as to whether or not personal data
+      concerning him/her is being processed, and if that is the case, access to that data; as well as to specific
+      information concerning the processing, including the purpose of the processing, the categories of
+      personal data concerned, the recipients to whom personal data is disclosed, the envisaged storage
+      period and redress possibilities.
+
+35.   The agreement should furthermore specify when these rights can be invoked and include the
+      modalities on how the data subjects can exercise these rights before both parties as well as on how
+      the parties will respond to such requests. For example, with respect to deletion, the international
+      agreement could state that data is to be deleted when the information has been processed unlawfully
+      or is no longer necessary for the purpose of processing. Moreover, the international agreement should
+      stipulate that the parties will respond in a reasonable and timely manner to requests from data
+      subjects. The international agreement could also state that the parties may take appropriate steps,
 
 
       19
-        Ver as orientações do CEPD relativas à transparência na aceção do Regulamento 2016/679, WP 260 rev.01,
-      páginas 13 a 22.
+           See EDPB Guidelines on transparency under Regulation 2016/679, WP 260 rev.01, pages 13 to 22.
 
 
-      Adotadas                                                                                               12
+      Adopted                                                                                                 10
 
-      exemplo, de um mês a contar da data de receção do pedido), das razões que as levaram a não tomar
-      medidas e da possibilidade de apresentar uma reclamação e intentar uma ação judicial.
+      such as charging reasonable fees to cover administrative costs where requests from a data subject are
+      manifestly unfounded or excessive, in particular because of their repetitive character.
 
-37.   O acordo internacional pode também prever exceções a estes direitos, nomeadamente as exceções ao
-      direito de acesso e de apagamento previstas no artigo 15.º, n.º 4, e no artigo 17.º, n.º 3, do RGPD. De
-      igual modo, poderá prever exceções aos direitos individuais nos casos em que os dados pessoais são
-      tratados para fins de investigação científica ou histórica, para fins estatísticos ou para fins de arquivo,
-      na medida em que tais direitos sejam suscetíveis de tornar impossível ou prejudicar gravemente a
-      realização destes fins específicos, e desde que sejam adotadas garantias adequadas (por exemplo,
-      medidas técnicas e organizativas, incluindo a pseudonimização). Por último, o acordo pode estabelecer
-      a possibilidade de as partes se recusarem a dar seguimento a um pedido que seja manifestamente
-      infundado ou excessivo.
+36.   The international agreement should also allot an obligation of the transferring public body to provide
+      information to the data subject, once his/her personal data have been transferred, on the action taken
+      on his/her request under the rights provided for by the international agreement without undue delay
+      by setting an appropriate time limit (e.g. one month). Finally, information should be provided to the
+      data subject, if the parties do not take action on the request of the data subject, without delay by
+      setting an appropriate time limit (e.g. within one month of receipt of the request), of the reasons for
+      not taking action and on the possibility of lodging a complaint and of seeking a judicial remedy.
 
-      2.4.3 Decisões individuais automatizadas
+37.   The international agreement can also provide for exceptions to these rights. For example, exceptions
+      to the right of access and deletion such as the ones provided under Article 15 (4) and 17 (3) GDPR could
+      be provided. Similarly, exceptions to individual rights could be foreseen where personal data is
+      processed for scientific or historical research purposes, statistical purposes, or archiving purposes, in
+      so far as such rights would be likely to render impossible or seriously impair the achievement of these
+      specific purposes, and provided that appropriate safeguards are put in place (e.g. technical and
+      organisational measures, including pseudonymisation). Finally, the agreement may provide that the
+      parties may decline to act on a request that is manifestly unfounded or excessive.
 
-38.   Sempre que se justifique, os acordos internacionais devem, em princípio, conter uma cláusula que
-      impeça o organismo público destinatário de tomar uma decisão exclusivamente com base em decisões
-      individuais automatizadas, incluindo a definição de perfis, que produzam efeitos na esfera jurídica do
-      titular dos dados ou que o afetem significativamente de forma similar. Nos casos em que a finalidade
-      da transferência permite que o organismo público destinatário tome decisões exclusivamente com
-      base no tratamento automatizado, na aceção do artigo 22.º do RGPD, este tipo de tratamento deve
-      ocorrer apenas mediante determinadas condições, estabelecidas no acordo internacional, como a
-      necessidade de obter o consentimento explícito do titular dos dados. O titular dos dados deve ter o
-      direito de não ficar sujeito a uma decisão que não cumpra estas condições. Mesmo nos casos em que
-      permite decisões individuais automatizadas, o acordo internacional deve prever as garantias
-      necessárias, incluindo o direito de ser informado sobre os motivos específicos e a lógica subjacentes à
-      decisão, de corrigir informações inexatas ou incompletas e de contestar a decisão e obter intervenção
-      humana.
+      2.4.3 Automated individual decision-making
 
-      2.4.4 Direito de recurso
+38.   If relevant to the agreement in question, international agreements should as a general principle contain
+      a clause stating that the receiving public body will not take a decision based solely on automated
+      individual decision-making, including profiling, producing legal effects concerning the data subject in
+      question or similarly affecting this data subject. Where the purpose of the transfer includes the
+      possibility for the receiving public body to take decisions solely on automated processing in the sense
+      of Article 22 GDPR, this should only take place under certain conditions set forth in the international
+      agreement, such as the need to obtain the explicit consent of the data subject. If the decision does not
+      comply with such conditions, the data subject should have the right not to be subject to it. Where it
+      allows automated individual decision-making, the international agreement should, in any case, provide
+      for necessary safeguards, including the right to be informed about the specific reasons underlying the
+      decision and the logic involved, to correct inaccurate or incomplete information, and to contest the
+      decision and obtain human intervention.
 
-39.   Os direitos salvaguardados do titular dos dados devem ser efetivos e oponíveis. Por conseguinte, o
-      titular dos dados deve ter acesso a vias de recurso. As secções 2.7 e 3 abaixo apresentam diferentes
-      exemplos de formas de proporcionar mecanismos de recurso.
+      2.4.4 Right to Redress
 
-      2.4.5 Limitações dos direitos dos titulares dos dados
+39.   The safeguarded data subject rights have to be enforceable and effective. Therefore, the data subject
+      must have access to redress. Different examples of ways to offer redress mechanisms are indicated
+      below under sections 2.7 and 3.
 
-40.   O acordo internacional pode também prever limitações dos direitos dos titulares dos dados, que
-      devem estar em consonância com as limitações previstas no artigo 23.º do RGPD. A limitação dos
-      direitos tem de constituir uma medida necessária e proporcionada numa sociedade democrática para
-      assegurar o cumprimento de importantes objetivos de interesse público, em consonância com os
-      enumerados no artigo 23.º, n.º 1, do RGPD, incluindo os direitos e liberdades de outrem, a segurança
-      do Estado, a defesa ou a prevenção, investigação, deteção ou repressão de infrações penais. Deve
-      estar prevista na lei ou, no caso das organizações internacionais, nas normas internas/ quadro
-      regulamentar, e deve subsistir apenas enquanto o motivo da limitação se mantiver.
+      2.4.5 Restrictions to the Rights of the data subjects
 
-      2.5 Limitações das transferências ulteriores e da partilha de dados (incluindo a
-          divulgação e o acesso governamental)
+40.   The international agreement can also provide for restrictions to the rights of data subjects. These
+      restrictions should be in line with the restrictions envisaged by Article 23 GDPR. Such a restriction has
+      to be a necessary and proportionate measure in a democratic society to safeguard important
+      objectives of public interest, in line with the ones listed in Article 23(1) GDPR, including the rights and
+      freedom of others, national security, defence or the prevention, investigation, detection or
+      prosecution of criminal offences. It needs to be provided by law or, in the case of international
 
 
 
-      Adotadas                                                                                                13
+      Adopted                                                                                                 11
 
-41.   As transferências ulteriores efetuadas por um organismo público ou organização internacional de
-      destino para destinatários não vinculados pelo acordo devem, em regra, ser especificamente excluídas
-      pelo acordo internacional. Consoante a matéria ou as circunstâncias particulares em apreço, as partes
-      poderão considerar necessário permitir transferências ulteriores. Neste caso, desde que seja
-      respeitado o princípio da limitação da finalidade20, o acordo internacional deve prever que as referidas
-      transferências ulteriores apenas podem ocorrer se o organismo público que procede à transferência
-      as tiver prévia e expressamente autorizado e se os terceiros destinatários se comprometerem a
-      respeitar os princípios e garantias de proteção de dados incluídos no acordo internacional. Tal deve
-      incluir o compromisso de conferir aos titulares dos dados os direitos e garantias de proteção de dados
-      previstos no acordo internacional para evitar uma redução do nível de proteção se os dados forem
-      objeto de uma transferência ulterior.
+      organisations, the applicable internal rules/regulatory framework, and shall continue only for as long
+      as the reason for the restriction continues to exist.
 
-42.   Em regra, estas garantias relativas às transferências ulteriores devem aplicar-se à partilha de dados
-      pessoais dentro do mesmo país, o que significa que o acordo internacional deve excluir esta
-      transferência ulterior e que as isenções apenas devem ser permitidas, em geral, se o organismo público
-      que procede à transferência as tiver prévia e expressamente autorizado e se os terceiros destinatários
-      se comprometerem a respeitar os princípios e garantias de proteção de dados incluídos no acordo
-      internacional.
+      2.5 Restrictions on onward transfers and sharing of data (including disclosure and
+          government access)
 
-43.   É aconselhável que, antes de solicitar a autorização expressa do organismo público que procede à
-      transferência, o organismo público ou organização internacional de destino preste informações
-      suficientes sobre o tipo de dados pessoais que tenciona transferir/partilhar, os motivos e finalidades
-      que, no seu entender, tornam necessário transferir/partilhar os dados pessoais, bem como, no caso
-      das transferências ulteriores, os países ou organizações internacionais para que tenciona transferir
-      ulteriormente dados pessoais, para permitir avaliar a legislação do país terceiro, ou, no caso das
-      organizações internacionais, as normas internas/ quadro regulamentar aplicáveis.
+41.   Onward transfers by the receiving public body or international organisation to recipients not bound by
+      the agreement should, as a rule, be specifically excluded by the international agreement. Depending
+      on the subject matter and the particular circumstances at hand, the parties may find it necessary to
+      allow onward transfers. In this case, under the condition that the purpose limitation principle is
+      respected20, the international agreement should foresee that such onward transfers can only take place
+      if the transferring public body has given its prior and express authorisation and the receiving third
+      parties commit to respect the same data protection principles and safeguards as included in the
+      international agreement. This should include a commitment to provide to data subjects the same data
+      protection rights and guarantees as provided in the international agreement in order to ensure that
+      the level of protection will not be diminished if data are onward transferred.
 
-44.   Nos casos em que é necessário permitir a partilha de dados pessoais com um terceiro no mesmo país
-      do organismo público ou outra organização internacional destinatária, tal partilha pode ser permitida
-      em circunstâncias específicas, quer mediante a autorização prévia e expressa do organismo público
-      que procede à transferência, quer através de um compromisso vinculativo do terceiro destinatário de
-      respeitar os princípios e as garantias incluídos no acordo internacional.
+42.   As a rule, the same safeguards as for onward transfers should apply to sharing of personal data within
+      the same country, i.e. the international agreement shall exclude this onward sharing and exemptions
+      should in general only be allowed if the transferring public body has given its prior and express
+      authorization and the receiving third parties commit to respect the same data protection principles
+      and safeguards as included in the international agreement.
 
-45.   Além disso, o acordo internacional pode especificar circunstâncias excecionais em que a partilha
-      ulterior pode ocorrer sem autorização prévia ou sem os compromissos acima referidos, em
-      consonância com as derrogações enumeradas no artigo 49.º do RGPD, por exemplo quando esta
-      partilha específica for necessária para proteger interesses vitais do titular dos dados ou de outras
-      pessoas ou for necessária à declaração, ao exercício ou à defesa de um direito num processo judicial.
-      Estas circunstâncias excecionais podem também ocorrer se a partilha ulterior for exigida pela
-      legislação da parte destinatária como necessária para investigações/ processos judiciais diretamente
-      relacionados.
+43.   It is recommended that before requesting the express authorisation of the transferring public body the
+      receiving public body or international organisation provides sufficient information on the type of
+      personal data that it intends to transfer/share, the reasons and purposes for which it considers it to be
+      necessary to transfer/share the personal data as well as, in case of onward transfers, the countries or
+      international organisations to which it intends to onward transfer personal data so as to be able to
+      assess the third country legislation or, in the case of international organisations, the applicable internal
+      rules/regulatory framework.
 
-46.   Nos casos mencionados no ponto anterior, o acordo internacional deve estabelecer claramente as
-      circunstâncias específicas e excecionais em que tal partilha de dados é permitida. O organismo público
-      ou organização internacional de destino deve também ser obrigado a notificar o organismo público
-      que procede à transferência antes da partilha e incluir informações sobre os dados partilhados, o
-      terceiro destinatário e a base jurídica da partilha. Por sua vez, o organismo público que procede à
-      transferência deve manter um registo de tais notificações do organismo público ou organização
+44.   In cases where it is necessary to allow sharing of personal data with a third party in the same country
+      of the receiving public body or another international organisation, the sharing could be allowed in
+      specific circumstances either with prior and express authorization of the transferring public body or as
+      long as there is a binding commitment from the receiving third party to respect the principles and
+      guarantees included in the international agreement.
 
+45.   In addition, the international agreement could specify exceptional circumstances in which onward
+      sharing could take place without prior authorisation or the abovementioned commitments in line with
+      the derogations listed in Article 49 of the GDPR, for example when this specific sharing would be
+      necessary in order to protect the vital interests of the data subject or other persons or necessary for
+      the establishment, exercise or defence of legal claims. Such exceptional circumstances could also arise
+      if the onward sharing is required under the law of the receiving party, as necessary for directly related
+      investigations/ court proceedings.
+
+46.   In the cases mentioned in the paragraph above, the international agreement should clearly state the
+      specific and exceptional circumstances under which such data sharing is allowed. The receiving public
+      body or international organisation should also be obliged to notify the transferring public body prior
+      to the sharing and include information about the data shared, the receiving third party and the legal
 
       20
-           Ver ponto 2.3.1 acima.
+           See above under 2.3.1.
 
 
-      Adotadas                                                                                             14
+      Adopted                                                                                                  12
 
-      internacional de destino e facultar estas informações à AC, a pedido desta. Nos casos em que a
-      notificação anterior à partilha colide com obrigações de confidencialidade previstas na lei, por exemplo
-      preservar a confidencialidade de uma investigação, as informações específicas devem ser prestadas o
-      mais rapidamente possível após a partilha. Neste caso, devem ser facultadas regularmente ao
-      organismo que procede à transferência informações gerais sobre o tipo de pedidos recebidos ao longo
-      de um determinado período de tempo, incluindo informações relativas às categorias dos dados
-      solicitados, ao organismo requerente e à base jurídica da divulgação.
+      basis for the sharing. In its turn the transferring public body should keep a record of such notifications
+      from the receiving public body or international organisation and provide its SA with this information
+      upon request. Where providing such notification prior to the sharing will impinge on confidentiality
+      obligations provided for by law, e.g. to preserve the confidentiality of an investigation, the specific
+      information should be provided as soon as possible after the sharing. In such a case, general
+      information on the type of requests received over a specified period of time, including information
+      about the categories of data requested, the requesting body and the legal basis for disclosure, should
+      be provided to the transferring body at regular intervals.
 
-47.   Em todos os cenários acima descritos, o acordo internacional deve permitir divulgações de dados a
-      outras autoridades públicas no país terceiro do organismo público destinatário apenas enquanto
-      medidas necessárias e proporcionadas numa sociedade democrática de forma a salvaguardar
-      importantes objetivos de interesse público em consonância com os enumerados no artigo 23.º, n.º 1,
-      do RGPD e em conformidade com a jurisprudência do TJUE. A fim de avaliar um possível acesso de
-      autoridades públicas de países terceiros para fins de vigilância, a autoridade pública que procede à
-      transferência deve ter em conta os elementos recordados nas quatro garantias essenciais europeias21.
-      Estas garantias incluem a disponibilidade de medidas corretivas eficazes para os titulares dos dados no
-      país terceiro do organismo público destinatário se os seus dados pessoais forem objeto de acesso por
-      autoridades públicas22. No caso das transferências para organizações internacionais, qualquer acesso
-      deste tipo deve cumprir o direito internacional, sem prejuízo, em particular, dos privilégios e
-      imunidades da organização internacional.
+47.   In all of the above scenarios, the international agreement should only allow disclosures of personal
+      data to other public authorities in the third country of the receiving public body that do not go beyond
+      what is necessary and proportionate in a democratic society to safeguard important objectives of
+      public interest in line with the ones listed in Article 23 (1) GDPR and in accordance with the
+      jurisprudence of the CJEU. In order to assess a possible access by third country public authorities for
+      surveillance purposes, the transferring public authority should take into account the elements recalled
+      in the four European Essential Guarantees21. These include the availability of an effective remedy for
+      data subjects in the third country of the receiving public body if their personal data is accessed by
+      public authorities.22 In case of transfers to international organisations, any such access must be in
+      compliance with international law and without prejudice in particular to the privileges and immunities
+      of the international organisation.
 
-48.   Em alguns casos, poderá ser útil exigir a inclusão de um anexo no acordo internacional que enumere
-      os atos legislativos que regulam a partilha ulterior com outros organismos públicos, nomeadamente
-      para fins de vigilância, no país de destino. Quaisquer alterações neste anexo deverão ser notificadas à
-      parte que procede à transferência num determinado período de tempo.
+48.   Depending on the case at hand, it may be useful to require to include an annex to the international
+      agreement enumerating the laws governing onward sharing with other public bodies including for
+      surveillance purposes in the destination country. Any changes to this annex should be notified to the
+      transferring party within a set period of time.
 
-      2.6 Dados sensíveis
+      2.6 Sensitive data
 
-49.   Se um acordo internacional contemplar a transferência de dados pessoais sensíveis na aceção do artigo
-      9.º, n.º 1, do RGPD, deve incluir garantias adicionais relativas a riscos específicos que devem ser
-      aplicadas pelo organismo público ou organização internacional de destino. Estas garantias poderão
-      incluir limitações, por exemplo, limitações de acesso, limitações das finalidades para que as
-      informações podem ser tratadas, limitações de transferências ulteriores, etc., ou garantias específicas,
-      nomeadamente medidas de segurança adicionais, exigindo formação especializada para o pessoal a
-      quem é permitido acesso à informação.
+49.   If an international agreement provides for the transfer of sensitive personal data within the meaning
+      of Article 9 (1) of the GDPR, additional safeguards addressing the specific risks, to be implemented by
+      the receiving public body or international organisation, should be included. These could, for example,
+      include restrictions as access restrictions, restrictions of the purposes for which the information may
+      be processed, restrictions on onward transfers, etc. or specific safeguards, e.g. additional security
+      measures, requiring specialized training for staff allowed to access the information.
 
-      2.7 Mecanismos de recurso
+      2.7 Redress mechanisms
 
-50.   A fim de garantir os direitos efetivos e oponíveis dos titulares dos dados, o acordo internacional deve
-      prever um sistema que permita que os titulares dos dados continuem a beneficiar de mecanismos de
-      recurso depois de os seus dados serem transferidos para um país ou uma organização internacional
-      não pertencentes ao EEE. Estes mecanismos de recurso devem prever vias de recurso para as pessoas
-      afetadas pelo incumprimento das disposições do instrumento selecionado e, por conseguinte, a
-      possibilidade de os titulares dos dados, se os seus dados pessoais tiverem sido transferidos a partir do
-      EEE, apresentarem reclamações relativas ao referido incumprimento e obterem a resolução dessas
-      reclamações. Em particular, deve ser garantida ao titular dos dados uma via eficaz para apresentar
+50.   In order to guarantee enforceable and effective data subjects rights the international agreement must
+      provide for a system that enables data subjects to continue to benefit from redress mechanisms after
+      their data has been transferred to a non EEA country or an international organisation. These redress
+      mechanisms must provide recourse for individuals who are affected by non-compliance with the
+      provisions of the chosen instrument and thus the possibility for data subjects whose personal data
+      have been transferred from the EEA to lodge complaints regarding such non-compliance and to have
+      these complaints resolved. In particular, the data subject must be ensured an effective route to
+      complain to the public bodies that are parties to the international agreement and (either directly or
+
+
+
 
       21
-         Ver Recomendações 02/2020 do CEPD sobre as garantias essenciais europeias relativas às medidas de
-      vigilância.
+           See EDPB Recommendations 02/2020 on the European Essential Guarantees for surveillance measures.
       22
-         Ver Recomendações 02/2020 do CEPD, Garantia D, p. 13 e seguintes.
+           See EDPB Recommendations 02/2020, Guarantee D, p. 13 and seq.
 
 
-      Adotadas                                                                                               15
+      Adopted                                                                                                 13
 
-      reclamações aos organismos públicos que são partes no acordo internacional e (diretamente ou após
-      ter contactado a parte em questão) a um mecanismo de supervisão independente. Além disso, devem,
-      em princípio, estar disponíveis medidas jurídicas corretivas.
+      after having addressed the relevant party) to an independent oversight mechanism. Moreover, a
+      judicial remedy should, in principle, be available.
 
-51.   Em primeiro lugar, o organismo público destinatário deve comprometer-se a aplicar um mecanismo
-      para tratar e resolver de forma eficaz e atempada reclamações de titulares dos dados relativas ao
-      cumprimento das garantias acordadas em matéria de proteção de dados. Além disso, os titulares dos
-      dados devem poder dispor de vias efetivas de recurso administrativo recurso administrativo junto de
-      um organismo de supervisão independente, incluindo, quando disponível, uma autoridade de
-      proteção de dados independente23.
+51.   First, the receiving public body should commit to put in place a mechanism to effectively and timely
+      handle and resolve complaints from data subjects concerning compliance with the agreed data
+      protection safeguards. Moreover, data subjects should be provided with the possibility to obtain
+      effective administrative redress before an independent oversight body, including, where available, an
+      independent data protection authority23.
 
-52.   Em segundo lugar, o acordo deve permitir medidas jurídicas corretivas, incluindo uma indemnização
-      por danos sofridos — materiais ou imateriais — em resultado do tratamento ilícito dos dados pessoais.
-      Se não for possível assegurar vias efetivas de recurso judicial, por exemplo devido a restrições no
-      direito interno ou ao estatuto específico do organismo público destinatário, nomeadamente as
-      organizações internacionais, o acordo internacional deve prever garantias alternativas, que devem
-      oferecer ao titular dos dados garantias substancialmente equivalentes às exigidas pelo artigo 47.º da
-      Carta dos Direitos Fundamentais da União Europeia24.
+52.   Second, the agreement should allow for a judicial remedy including compensation for damages - both
+      material and non-material - as a result of the unlawful processing of the personal data. If there is no
+      possibility to ensure effective judicial redress, for example due to restrictions in the domestic law or
+      the specific status of the receiving public body, e.g. international organisations, the international
+      agreement must provide for alternative safeguards. Those alternative safeguards must offer the data
+      subject guarantees essentially equivalent to those required by Article 47 of the Charter of Fundamental
+      Rights of the European Union (EU Charter)24.
 
-53.   Nesse caso, o acordo internacional pode criar uma estrutura que permita ao titular dos dados fazer
-      aplicar os seus direitos fora dos tribunais, por exemplo através de mecanismos quase judiciais
-      vinculativos, como a arbitragem ou os mecanismos de resolução alternativa de litígios,
-      designadamente a mediação, que garantam uma fiscalização independente e vinculem o organismo
-      público destinatário25. Além disso, o organismo público que transfere os dados pessoais pode
-      comprometer-se a assumir a responsabilidade por indemnizações por danos decorrentes do
-      tratamento ilícito dos dados pessoais se este for confirmado pela fiscalização independente.
-      A título excecional, o acordo poderá introduzir mecanismos de recurso igualmente independentes e
-      efetivos, por exemplo mecanismos efetivos de recurso aplicados por organizações internacionais.
+53.   In that case, the international agreement could create a structure which enables the data subject to
+      enforce its rights outside the courts, for example through quasi-judicial, binding mechanisms such as
+      arbitration or alternative dispute resolution mechanisms such as mediation, which would guarantee
+      an independent review and bind the receiving public body25. Moreover, the public body transferring
+      the personal data could commit to be liable for compensation of damages through unlawful processing
+      of the personal data which are testified by the independent review.
+      Exceptionally, other, equally independent and effective redress mechanisms could be put in place by
+      the agreement, for instance effective redress mechanisms implemented by international organisations.
 
-54.   O acordo internacional deve obrigar as partes, relativamente a todos os mecanismos de recurso acima
-      referidos, a informar-se mutuamente sobre o resultado dos processos, em especial se uma reclamação
-      de uma pessoa for recusada ou não for resolvida.
+54.   For all of the abovementioned redress mechanisms, the international agreement should contain an
+      obligation for the parties to inform each other of the outcome of the proceedings, in particular if a
+      complaint of an individual is dismissed or not resolved.
 
-55.   O mecanismo de recurso deve ser combinado com a possibilidade de o organismo que procede à
-      transferência suspender ou cessar a transferência de dados pessoais ao abrigo do acordo internacional
-      caso as partes não consigam resolver um litígio de forma amigável, até considerar que a questão foi
-      resolvida de forma satisfatória pelo organismo público destinatário. Esta suspensão ou cessação, a
-      concretizar-se, deve ser acompanhada por um compromisso do organismo público destinatário de
-      devolver ou apagar os dados pessoais. O organismo público que procede à transferência deve notificar
-      a AC nacional competente da suspensão ou cessação.
+55.   The redress mechanism must be combined with the possibility for the transferring public body to
+      suspend or terminate the transfer of personal data under the international agreement where the
+      parties do not succeed in resolving a dispute amicably until it considers that the issue has been
+      satisfactorily addressed by the receiving public body. Such a suspension or termination, if carried out,
+      must be accompanied by a commitment from the receiving public body to return or delete the personal
+      data. The transferring public body must notify the suspension or termination to the competent national
+      SA.
 
 
 
 
       23
-         Ver também o ponto 2.8, relativo ao mecanismo de supervisão.
+         See also section 2.8 on supervision mechanism.
       24
-         TJUE, 16 de julho de 2020, Acórdão no processo C-311/18, Data Protection Commissioner/Facebook Ireland
-      Limited, Maximillian Schrems («Schrems II»), n.º 96 e n.os 186 e seguintes.
+         CJEU, July 16,2020, Judgment in case C-311/18, Data Protection Commissioner v Facebook Ireland Ltd and
+      Maximillian Schrems (“Schrems II”), paras 96, 186 and seq.
       25
-         TJUE, 6 de outubro de 2015, Acórdão no processo C-362/14, Maximillian Schrems/Data Protection
-      Commissioner («Schrems»), n.os 41 e 95; TJUE, 16 de julho de 2020, Acórdão no processo C-311/18, Data
-      Protection Commissioner/Facebook Ireland Limited, Maximillian Schrems («Schrems II»), n.os 186, 187 e 189, e
-      n.os 195 e seguintes.
+         CJEU, October 6, 2015, Judgment in case C-362/14, Maximillian Schrems v Data Protection Commissioner
+      (“Schrems”), paras 41 and 95; ECJ July 16,2020, Judgment in case C-311/18, Data Protection Commissioner v
+      Facebook Ireland Ltd and Maximillian Schrems (“Schrems II”), paras 186,187,189, 195 and seq.
 
 
-      Adotadas                                                                                                  16
+      Adopted                                                                                                     14
 
-      2.8 Mecanismos de supervisão
+      2.8 Supervision mechanisms
 
-56.   A fim de assegurar o cumprimento de todas as obrigações criadas ao abrigo do acordo internacional,
-      este deve prever uma supervisão independente relativa à aplicação correta do acordo e às
-      interferências com os direitos nele previstos.
+56.   In order to make sure that all obligations created under the international agreement are fulfilled, the
+      international agreement must provide for independent supervision monitoring the proper application
+      of the agreement and interferences with the rights provided under the agreement.
 
-57.   Em primeiro lugar, o acordo deve prever uma supervisão interna que assegure o seu cumprimento.
-      Cada uma das partes no acordo deve realizar verificações internas periódicas dos processos
-      introduzidos e da aplicação efetiva das garantias previstas no acordo. As verificações internas
-      periódicas devem também averiguar se houve alterações na legislação suscetíveis de impedir a(s)
-      parte(s) de respeitar os princípios e garantias de proteção de dados incluídos no acordo internacional.
-      Além disso, pode estabelecer-se que uma parte no acordo também pode solicitar à outra parte que
-      realize esta análise. O acordo internacional deve exigir que cada uma das partes responda a consultas
-      da outra parte a respeito da aplicação efetiva das garantias previstas no acordo. Cada uma das partes
-      que realiza a análise deve comunicar os resultados das verificações à(s) outra(s) parte(s) no acordo.
-      Esta comunicação também deve chegar, de preferência, ao mecanismo de supervisão independente
-      que regula o acordo.
+57.   First, the agreement should provide for internal supervision ensuring compliance with the agreement.
+      Each party to the agreement should conduct periodic internal checks of the procedures put in place
+      and of the effective application of the safeguards provided in the agreement. The periodic internal
+      checks should also verify any changes in legislation that would prevent the party (ies) to comply with
+      the data protection principles and safeguards included in the international agreement. Moreover, it
+      could be provided that a party to the agreement can also request from another party to the agreement
+      to conduct such a review. The international agreement must require that the parties must respond to
+      inquiries from the other party concerning the effective implementation of the safeguards in the
+      agreement. Each party conducting a review should communicate the results of the checks to the other
+      party (ies) to the agreement. Ideally, such communication should also be made to the independent
+      oversight mechanism governing the agreement.
 
-58.   Além disso, o acordo internacional deve incluir a obrigação de cada uma das partes informar a outra
-      parte sem demora se, por algum motivo, não conseguir aplicar efetivamente as garantias previstas no
-      acordo. Para dar resposta a estes casos, o acordo internacional deve prever a possibilidade de o
-      organismo público que procede à transferência suspender ou cessar a transferência de dados pessoais,
-      ao abrigo do acordo internacional, para o organismo público destinatário até que este informe o
-      organismo público que procede à transferência de que está novamente em condições de atuar em
-      conformidade com as garantias. O organismo que procede à transferência deve notificar a AC nacional
-      competente da alteração da situação, bem como da suspensão das transferências ou da cessação do
-      acordo.
+58.   In addition, the international agreement must include the obligation that a party informs the other
+      party without delay if it is unable to effectively implement the safeguards in the agreement for any
+      reason. For this case the international agreement must foresee the possibility for the transferring public
+      body to suspend or terminate the transfer of personal data under the international agreement to the
+      receiving public body until such time as the receiving public body informs the transferring public body
+      that it is again able to act consistent with the safeguards. The transferring body must notify the change
+      of situation as well as the suspension of transfers or termination of the agreement to the competent
+      national SA.
 
-59.   Em segundo lugar, o acordo deve prever uma supervisão independente destinada a assegurar que as
-      partes cumprem o disposto no acordo. Tal resulta diretamente da Carta dos Direitos Fundamentais da
-      UE26 e da Convenção Europeia dos Direitos Humanos (CEDH)27 de acordo com a jurisprudência do
-      Tribunal Europeu dos Direitos Humanos (TEDH) e nos termos estabelecidos no direito primário28, bem
-      como na jurisprudência correspondente.
+59.   Secondly, the agreement must provide for independent supervision in charge of ensuring that the
+      parties comply with the provisions set out in the agreement. This follows directly from the EU Charter26
+      and the European Convention of Human Rights (ECHR)27 in accordance with the jurisprudence of the
+      European Court of Human Rights (ECtHR) and in the terms established in primary law 28 as well as the
+      corresponding case law.
 
 
 
 
       26
-         Artigos 7.º, 8.º e 47.º da Carta dos Direitos Fundamentais da UE.
+         Articles 7, 8 and 47 of the EU Charter.
       27
-         Artigo 8.º da CEDH.
+         Article 8 ECHR.
       28
-         Artigo 6.º do Tratado de Lisboa.
-      «1.A União reconhece os direitos, as liberdades e os princípios enunciados na Carta dos Direitos Fundamentais
-      da União Europeia, de 7 de dezembro de 2000, com as adaptações que lhe foram introduzidas em 12 de
-      dezembro de 2007, em Estrasburgo, e que tem o mesmo valor jurídico que os Tratados.
-      De forma alguma o disposto na Carta pode alargar as competências da União, tal como definidas nos Tratados.
-      Os direitos, as liberdades e os princípios consagrados na Carta devem ser interpretados de acordo com as
-      disposições gerais constantes do Título VII da Carta que regem a sua interpretação e aplicação e tendo na
-      devida conta as anotações a que a Carta faz referência, que indicam as fontes dessas disposições.
-      2. A União adere à Convenção Europeia para a Proteção dos Direitos do Homem e das Liberdades
-      Fundamentais. Essa adesão não altera as competências da União, tal como definidas nos Tratados.
-      3. Do direito da União fazem parte, enquanto princípios gerais, os direitos fundamentais tal como os garante a
-      Convenção Europeia para a Proteção dos Direitos do Homem e das Liberdades Fundamentais e tal como
-      resultam das tradições constitucionais comuns aos Estados-Membros.»
+         Article 6 Lisbon Treaty
+      “1.The Union recognises the rights, freedoms and principles set out in the Charter of Fundamental Rights of the
+      European Union of 7 December 2000, as adapted at Strasbourg, on 12 December 2007, which shall have the
+      same legal value as the Treaties.
+      The provisions of the Charter shall not extend in any way the competences of the Union as defined in the
+      Treaties.
+      The rights, freedoms and principles in the Charter shall be interpreted in accordance with the general provisions
+      in Title VII of the Charter governing its interpretation and application and with due regard to the explanations
+      referred to in the Charter, that set out the sources of those provisions.
+      2. The Union shall accede to the European Convention for the Protection of Human Rights and Fundamental
+      Freedoms. Such accession shall not affect the Union's competences as defined in the Treaties.
+      3. Fundamental rights, as guaranteed by the European Convention for the Protection of Human Rights and
+      Fundamental Freedoms and as they result from the constitutional traditions common to the Member States,
+      shall constitute general principles of the Union's law.”
 
 
-      Adotadas                                                                                                    17
+      Adopted                                                                                                        15
 
-60.   O TJUE tem reiterado, desde 201529, a necessidade de um mecanismo de recurso e supervisão
-      independente30. De igual modo, o TEDH salientou frequentemente nas suas decisões que qualquer
-      interferência no direito à vida privada consagrado no artigo 8.º da CEDH deve estar sujeita a um
-      sistema de supervisão eficaz, independente e imparcial31.
+60.   The CJEU, has, since 201529, reiterated the necessity of having an independent redress and supervision
+      mechanism.30 Likewise, the ECtHR has frequently highlighted in its rulings that any interference with
+      the right to respect for private life as enshrined in Article 8 ECHR needs to be subject to an effective,
+      independent and impartial oversight system31.
 
-61.   O acordo pode, por exemplo, prever a supervisão por uma autoridade de controlo competente, caso
-      exista uma autoridade deste tipo no país do organismo público que recebe os dados pessoais do EEE,
-      ainda que o RGPD não especifique que a autoridade de controlo competente deve ser um organismo
-      de supervisão externo. Além disso, o acordo pode incluir o compromisso voluntário da parte
-      destinatária de cooperar com as AC no EEE.
+61.   The agreement could, for example, invoke oversight by a competent supervisory authority, if there is
+      one in the country of the public body receiving the EEA personal data, even if the GDPR does not specify
+      that the competent supervisory authority needs to be the external oversight body. Moreover, the
+      agreement could include the voluntary commitment of the receiving party to cooperate with the EEA
+      SAs.
 
-62.   Na ausência de uma autoridade de controlo especificamente incumbida da supervisão da legislação
-      em matéria de proteção de dados no país terceiro ou na organização internacional, será necessário
-      satisfazer de outras formas a necessidade de um mecanismo de supervisão independente, eficaz e
-      imparcial. O tipo de mecanismo de supervisão independente introduzido poderá depender da situação
-      em causa.
+62.   In the absence of a supervisory authority specifically in charge with the supervision of data protection
+      law in the third country or at the international organisation, the need for an independent, effective and
+      impartial supervisory oversight mechanism needs to be fulfilled by other means. The type of
+      independent supervision mechanism put in place may depend on the case at hand.
 
-63.   O acordo pode, por exemplo, remeter para organismos de supervisão existentes no país terceiro e não
-      para uma autoridade de controlo no domínio da proteção de dados. Além disso, se não for possível
-      assegurar uma supervisão independente externa, do ponto de vista estrutural ou institucional, por
-      exemplo devido aos privilégios e imunidades de determinadas organizações internacionais, poderá
-      garantir-se a supervisão através de mecanismos funcionalmente autónomos, nomeadamente um
-      organismo que, não sendo externo, exerce as suas funções de forma independente, ou seja, sem
-      receber instruções, com recursos humanos, técnicos e financeiros suficientes, etc. A parte destinatária
-      estará vinculada às decisões do organismo de supervisão.
+63.   The agreement could, for example, refer to existing oversight bodies in the third country other than a
+      supervisory authority in the area of data protection. In addition, if no external independent oversight
+      can be ensured from a structural or institutional point of view, e.g. because of the privileges and
+      immunities of certain international organisations, oversight could be guaranteed through functionally
+      autonomous mechanisms. The latter must be a body that, while not external itself, carries out its
+      functions independently, i.e. free from instructions, with sufficient human, technical and financial
+      resources, etc. The receiving party shall be bound by the decisions of the oversight body.
 
-      2.9 Cláusula de cessação
+      2.9 Termination clause
 
-64.   O acordo internacional deve prever que quaisquer dados pessoais transferidos a partir do EEE nos
-      termos desse acordo, antes da sua cessação efetiva, continuarão a ser tratados em conformidade com
-      as disposições do mesmo acordo.
+64.   The international agreement should envisage that any personal data transferred from the EEA pursuant
+      to the international agreement prior to its effective termination shall continue to be processed in
+      accordance with the provisions of the international agreement.
 
 
 
 
       29
-         TJUE, 6 de outubro de 2015, Acórdão no processo C-362/14, Maximillian Schrems/Data Protection
-      Commissioner («Schrems»), n.os 41 e 95.
+         CJEU, October 6, 2015, Judgment in case C-362/14, Maximillian Schrems v Data Protection Commissioner
+      (“Schrems”), paras 41 and 95.
       30
-         TJUE, 27 de julho de 2017, Parecer 1/15 relativo ao acordo projetado entre a União Europeia e o Canadá
-      sobre a transferência dos dados dos registos de identificação dos passageiros aéreos, n. os 228 e seguintes;
-      TJUE, 30 de abril de 2019, Parecer 1/17 relativo ao Acordo Económico e Comercial Global entre o Canadá e a
-      União Europeia, n.os 190 e seguintes.
+         CJEU, July 27, 2017, Opinion 1/15 on the agreement envisaged between the European Union and Canada on
+      the transfer of Passenger Name Record data, 26 July 2017, para. 228 and seq.; CJEU, 30 April 2019, Opinion
+      1/17 on the Comprehensive Economic and Trade agreement between Canada and the European Union, para.
+      190 and seq.
       31
-         TEDH, 6 de setembro de 1978, Klass/Alemanha, n.os 55 e 56. O requisito decorrente da jurisprudência do
-      TEDH também se aplica a qualquer interferência com os artigos 7.º e 8.º da Carta dos Direitos Fundamentais da
-      UE, uma vez que esta, no artigo 52.º, n.º 3, estabelece que o sentido e o âmbito desses direitos fundamentais
-      são iguais aos conferidos pelo artigo 8.º da CEDH.
+         ECtHR, September 6, 1978, Klass, v. Germany, para. 55 and 56. The requirement stemming from the ECtHR
+      also apply to any interference with Articles 7 and 8 of the EU Charter since, according to Article 52 (3)
+      EU Charter, the meaning and scope of these fundamental rights shall be the same as those laid down by
+      Article 8 ECHR.
 
 
-      Adotadas                                                                                                  18
+      Adopted                                                                                                 16
 
-      3 INFORMAÇÕES ESPECÍFICAS SOBRE O ARTIGO 46.º DO RGPD
-      3.1 Informações específicas sobre instrumentos juridicamente vinculativos e com
-          força executiva
-           — artigo 46.º, n.º 2, alínea a), do RGPD
+      3 SPECIFIC INFORMATION ON ARTICLE 46 GDPR
+      3.1 Specific information on legally binding and enforceable instruments
+          - Article 46 (2) (a) GDPR
 
-65.   O artigo 46.º, n.º 2, alínea a), do RGPD permite que os organismos públicos estabelecidos no EEE
-      baseiem as transferências para organismos públicos num país terceiro ou uma organização
-      internacional em instrumentos celebrados entre essas partes sem uma autorização prévia de uma AC.
-      Estes instrumentos têm de ser juridicamente vinculativos e ter força executiva. Por conseguinte,
-      podem ser utilizados ao abrigo desta disposição tratados internacionais, tratados de direito público ou
-      acordos administrativos diretamente aplicáveis.
+65.   Article 46 (2) (a) GDPR allows EEA public bodies to base transfers to public bodies in a third country or
+      an international organisation on instruments concluded between them without obtaining prior
+      authorisation from a SA. Such instruments have to be legally binding and enforceable. Therefore,
+      international treaties, public-law treaties or self-executing administrative agreements may be used
+      under this provision.
 
-66.   Qualquer instrumento juridicamente vinculativo e com força executiva deve incluir o conjunto central
-      de princípios de proteção de dados e direitos dos titulares dos dados, tal como exigido pelo RGPD.
+66.   Any legally binding and enforceable instrument should encompass the core set of data protection
+      principles and data subject rights as required by the GDPR.
 
-67.   Para transferirem dados, as partes têm de se comprometer a aplicar garantias suficientes em matéria
-      de proteção de dados. Consequentemente, o acordo deve estabelecer também a forma como o
-      organismo público destinatário aplicará o conjunto central e fundamental de princípios de proteção
-      de dados e direitos dos titulares dos dados a todos os dados pessoais transferidos, a fim de assegurar
-      que o nível de proteção das pessoas singulares ao abrigo do RGPD não seja comprometido.
+67.   The parties are obliged to commit themselves to putting sufficient data protection safeguards for
+      transferring data into place. As a consequence, the agreement should also set out the way in which the
+      receiving public body will apply the core set of basic data protection principles and data subject rights
+      to all transferred personal data in order to ensure that the level of protection of natural persons under
+      the GDPR is not undermined.
 
-68.   Se não for possível assegurar vias efetivas de recurso judicial em instrumentos juridicamente
-      vinculativos e com força executiva e for necessário acordar mecanismos de recurso alternativos, os
-      organismos públicos estabelecidos no EEE devem consultar a AC competente antes de celebrar tais
-      instrumentos.
+68.   If there is no possibility to ensure effective judicial redress in legally binding and enforceable
+      instruments so that alternative redress mechanism have to be agreed upon, EEA public bodies should
+      consult the competent SA before concluding these instruments.
 
-69.   O CEPD considera que, mesmo que a forma do instrumento não seja definitiva, desde que este seja
-      juridicamente vinculativo e tenha força executiva, a melhor opção será incorporar diretamente no
-      instrumento cláusulas pormenorizadas em matéria de proteção de dados. Se, no entanto, esta solução
-      não for viável devido às circunstâncias específicas, o CEPD recomenda vivamente que se incorpore
-      pelo menos uma cláusula geral que estabeleça os princípios da proteção de dados diretamente no
-      texto do instrumento e se insiram as disposições e garantias de forma mais pormenorizada num anexo
-      do mesmo.
+69.   Even if the form of the instrument is not decisive as long as it is legally binding and enforceable, the
+      EDPB considers that the best option would be to incorporate detailed data protection clauses directly
+      within the instrument. If, however, this solution is not feasible due to the particular circumstances, the
+      EDPB strongly recommends incorporating at least a general clause setting out the data protection
+      principles directly within the text of the instrument and inserting the more detailed provisions and
+      safeguards in an annex to the instrument.
 
-      3.2 Informações específicas sobre acordos administrativos — artigo 46.º, n.º 3,
-          alínea b), do RGPD
+      3.2 Specific information on administrative arrangements - Article 46 (3) (b) GDPR
 
-70.   O RGPD também prevê, no artigo 46.º, n.º 3, alínea b), instrumentos alternativos sob a forma de
-      acordos administrativos, por exemplo um memorando de entendimento, que assegurem proteção
-      através dos compromissos assumidos por ambas as partes, a fim de conferir força executiva ao seu
-      acordo comum.
+70.   The GDPR in its Article 46 (3) (b) also provides for alternative instruments in the form of administrative
+      arrangements, e.g. Memorandum of Understanding “MOU”, providing protection through the
+      commitments taken by both parties in order to bring their common arrangement into force.
 
-71.   A este respeito, o artigo 46.º, n.º 1, e o considerando 108 do RGPD especificam que estes acordos têm
-      de assegurar direitos oponíveis e medidas jurídicas corretivas eficazes aos titulares dos dados. Nos
-      casos em que as garantias estão previstas em acordos administrativos que não são juridicamente
-      vinculativos, é necessário obter a autorização da AC competente.
+71.   In this respect, Article 46 (1) and recital 108 of the GDPR specify that these arrangements have to
+      ensure enforceable data subject rights and effective legal remedies. Where safeguards are provided for
+      in administrative arrangements that are not legally binding, authorisation by the competent SA has to
+      be obtained.
 
-72.   Deve ser cuidadosamente avaliado se deve ou não recorrer a acordos administrativos juridicamente
-      não vinculativos para proporcionar garantias no setor público, tendo em conta a finalidade do
-
+72.   It should be carefully assessed whether or not to make use of non-legally binding administrative
+      arrangements to provide safeguards in the public sector, in view of the purpose of the processing and
+      the nature of the data at hand. If data protection rights and redress for EEA individuals are not provided
+      for in the domestic law of the third country or the internal rules/regulatory framework of the
+      international organisation, preference should be given to concluding a legally binding agreement.
+      Irrespective of the type of instrument adopted, the measures in place have to be effective to ensure
+      the appropriate implementation, enforcement and supervision.
 
 
-      Adotadas                                                                                            19
 
-      tratamento e a natureza dos dados em causa. Se os direitos de proteção de dados e as vias de recurso
-      para os cidadãos do EEE não estiverem previstos na legislação nacional do país terceiro ou nas normas
-      internas/ quadro regulamentar da organização internacional, deve ser dada preferência à celebração
-      de um acordo juridicamente vinculativo. Independentemente do tipo de instrumento adotado, as
-      medidas em vigor têm de ser eficazes para assegurar a aplicação, a execução e a supervisão adequadas.
 
-73.   Nos acordos administrativos, é necessário tomar medidas específicas para assegurar direitos
-      individuais, vias de recurso e supervisão efetivos. Mais concretamente, para assegurar direitos efetivos
-      e oponíveis, um instrumento não vinculativo deve conter garantias do organismo público que recebe
-      os dados pessoais do EEE de que os direitos individuais estão plenamente consagrados no seu direito
-      interno e podem ser exercidos por pessoas do EEE nas mesmas condições que os cidadãos e residentes
-      do país terceiro em causa. O mesmo se aplica se o quadro jurídico interno do organismo público
-      destinatário contemplar vias de recurso administrativo e judicial para as pessoas do EEE. De igual
-      forma, as organizações internacionais devem dar garantias sobre os direitos individuais previstos nas
-      suas normas internas, bem como sobre os mecanismos de recurso disponíveis.
+      Adopted                                                                                                17
 
-74.   Se tal não acontecer, os direitos individuais devem ser garantidos através de compromissos específicos
-      das partes, conjugados com mecanismos processuais para assegurar a sua eficácia e proporcionar vias
-      de recurso à pessoa em causa. Estes compromissos e mecanismos processuais específicos devem
-      permitir, na prática assegurar o respeito de um nível de proteção substancialmente equivalente ao
-      garantido na UE pelo RGPD.
-      Estes mecanismos processuais podem incluir, por exemplo, compromissos das partes no sentido de se
-      informarem mutuamente sobre pedidos de pessoas do EEE e de resolverem litígios ou ações de forma
-      atempada.
+73.   In administrative arrangements specific steps have to be taken to ensure effective individual rights,
+      redress and oversight. In particular, to ensure effective and enforceable rights, a non-binding
+      instrument should contain assurances from the public body receiving the EEA personal data that
+      individual rights are fully provided by its domestic law and can be exercised by EEA individuals under
+      the same conditions as is the case for citizens and residents of the concerned third country. The same
+      applies if administrative and judicial redress is available to EEA individuals in the domestic legal
+      framework of the receiving public body. Similarly, international organisations should provide
+      assurances about individual rights provided by their internal rules, as well as the available redress
+      mechanisms.
 
-75.   Além disso, nos casos em que tais litígios ou ações não possam ser resolvidos de forma amigável entre
-      as próprias partes, os mecanismos alternativos devem proporcionar vias independentes e efetivas de
-      recurso à pessoa em causa, por exemplo mediante a possibilidade de esta ter acesso a um mecanismo
-      de resolução alternativa de litígios, como a arbitragem ou a mediação. Este mecanismo de resolução
-      alternativa de litígios tem de ser vinculativo32.
+74.   If this is not the case, individual rights should be guaranteed by specific commitments from the parties,
+      combined with procedural mechanisms to ensure their effectiveness and provide redress to the
+      individual. These specific commitments and procedural mechanisms must make it possible, in practice,
+      to ensure compliance with the level of protection essentially equivalent to that guaranteed within the
+      EU by the GDPR.
+      Such procedural mechanisms may, for example, include commitments of the parties to inform each
+      other of requests from EEA individuals and to settle disputes or claims in a timely fashion.
 
-76.   Consoante a situação em causa, o acordo administrativo deverá prever uma combinação da totalidade
-      ou algumas das medidas acima descritas, a fim de assegurar vias efetivas de recurso. Poderão ser
-      aceitáveis outras medidas não incluídas nas presentes diretrizes, desde que proporcionem vias
-      independentes e efetivas de recurso.
+75.   In addition, in case such disputes or claims cannot be resolved in an amicable way between the parties
+      themselves, independent and effective redress to the individual must be provided by alternative
+      mechanisms, for example through a possibility for the individual to have recourse to an alternative
+      dispute resolution mechanism, such as arbitration or mediation. Such alternative dispute resolution
+      mechanism must be binding32.
 
-77.   Cada acordo administrativo desenvolvido em conformidade com o artigo 46.º, n.º 3, alínea b), do RGPD
-      serão examinadas pela AC competente caso a caso, seguindo-se o procedimento pertinente do CEPD,
-      se aplicável. A AC competente baseará o seu exame nas recomendações gerais formuladas nas
-      presentes diretrizes, mas poderão também solicitar mais garantias consoante a situação específica.
+76.   Depending on the case at hand, a combination of all or some of the above measures should be provided
+      for in the administrative agreement in order to ensure effective redress. Other measures not included
+      in these guidelines could also be acceptable as long as they provide for independent and effective
+      redress.
+
+77.   Each administrative arrangement developed in accordance with Article 46 (3) (b) GDPR will be
+      examined by the competent SA on a case by case basis, followed by the relevant EDPB procedure, if
+      applicable. The competent SA will base its examination on the general recommendations set out in
+      these guidelines, but might also ask for more guarantees depending on the specific case.
 
 
 
 
       32
-        TJUE, 16 de julho de 2020, Acórdão no processo C-311/18, Data Protection Commissioner/Facebook Ireland
-      Limited, Maximillian Schrems («Schrems II»), n.º 189 e n.os 196 e seguintes.
+       CJEU, July 16, 2020, Judgment in case C-311/18, Data Protection Commissioner v Facebook Ireland Ltd and
+      Maximillian Schrems (“Schrems II”), paras 189, 196 and seq.
 
 
-      Adotadas                                                                                               20
+      Adopted                                                                                                    18
 
-      4 QUESTÕES PROCESSUAIS
-78.   Os acordos administrativos previstos no artigo 46.º, n.º 3, alínea b), do RGPD serão examinados caso
-      a caso devido aos requisitos de autorização da AC competente, a qual, de acordo com o artigo 46.º,
-      n.º 4, do RGPD, deve aplicar o procedimento de controlo da coerência nos termos do artigo 64.º, n.º 2,
-      do mesmo regulamento. O CEPD recomenda também que, ao integrar mecanismos de recurso
-      alternativos em instrumentos juridicamente vinculativos e com força executiva nos termos do artigo
-      46.º, n.º 2, alínea a), do RGPD, se solicite aconselhamento à AC competente. O CEPD recomenda
-      vivamente que se consulte a AC numa fase inicial.
-
+      4 PROCEDURAL QUESTIONS
+78.   Administrative arrangements established under Article 46 (3) (b) GDPR will be examined on a case-by-
+      case basis due to the requirements for an authorisation by the competent SA which, according to
+      Article 46 (4) GDPR shall apply the consistency mechanism pursuant to Article 64 (2) GDPR. When
+      integrating alternative redress mechanisms in binding and enforceable instruments pursuant to
+      Article 46 (2) (a) GDPR, the EDPB recommends also seeking advice from the competent SA. The EDPB
+      strongly advises to consult the competent SA at an early stage.
 
 
 
-      Pelo Comité Europeu para a Proteção de Dados
 
-      A Presidente
+      For the European Data Protection Board
+
+      The Chair
 
 
 
@@ -977,5 +907,5 @@ Adotadas                                                                        
 
 
 
-      Adotadas                                                                                           21
+      Adopted                                                                                          19
 ```

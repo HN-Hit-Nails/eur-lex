@@ -11,7 +11,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34438775
 eli: https://data.dre.pt/eli/dec-lei/398/1998/p/cons/20250327/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Decreto-Lei n.º 398/98

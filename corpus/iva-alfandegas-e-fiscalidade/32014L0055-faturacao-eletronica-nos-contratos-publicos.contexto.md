@@ -1,7 +1,7 @@
 ---
 celex: 32014L0055
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 32014L0055 — Faturação eletrónica nos contratos públicos — contexto

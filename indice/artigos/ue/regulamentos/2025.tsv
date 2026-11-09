@@ -2410,15 +2410,14 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32025R0664	Preâmbulo		18	48	908	ue/regulamentos/2025/32025R0664.md
 32025R0664	Artigo 1.º		52	58	67	ue/regulamentos/2025/32025R0664.md
 32025R0664	Artigo 2.º		60	88	556	ue/regulamentos/2025/32025R0664.md
-32025R0666	Preâmbulo		18	60	2718	ue/regulamentos/2025/32025R0666.md
-32025R0666	Artigo 1.º		64	66	32	ue/regulamentos/2025/32025R0666.md
-32025R0666	Artigo 2.º		68	70	32	ue/regulamentos/2025/32025R0666.md
-32025R0666	Artigo 3.º		72	74	31	ue/regulamentos/2025/32025R0666.md
-32025R0666	Artigo 4.º		76	82	465	ue/regulamentos/2025/32025R0666.md
-32025R0666	Artigo 5.º		84	110	332	ue/regulamentos/2025/32025R0666.md
-32025R0666	ANEXO I		112	118	157	ue/regulamentos/2025/32025R0666.md
-32025R0666	ANEXO II		120	122	48	ue/regulamentos/2025/32025R0666.md
-32025R0666	ANEXO III		124	429	3696	ue/regulamentos/2025/32025R0666.md
+32025R0666	Artigo 1.º		28	30	32	ue/regulamentos/2025/32025R0666.md
+32025R0666	Artigo 2.º		32	34	32	ue/regulamentos/2025/32025R0666.md
+32025R0666	Artigo 3.º		36	38	31	ue/regulamentos/2025/32025R0666.md
+32025R0666	Artigo 4.º		40	50	468	ue/regulamentos/2025/32025R0666.md
+32025R0666	Artigo 5.º		52	58	96	ue/regulamentos/2025/32025R0666.md
+32025R0666	ANEXO I		60	66	157	ue/regulamentos/2025/32025R0666.md
+32025R0666	ANEXO II		68	70	48	ue/regulamentos/2025/32025R0666.md
+32025R0666	ANEXO III		72	377	3696	ue/regulamentos/2025/32025R0666.md
 32025R0668	Preâmbulo		18	34	319	ue/regulamentos/2025/32025R0668.md
 32025R0668	Artigo 1.º		38	40	44	ue/regulamentos/2025/32025R0668.md
 32025R0668	Artigo 2.º		42	56	98	ue/regulamentos/2025/32025R0668.md
@@ -4896,21 +4895,21 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32025R1568	ANEXO II	Lista das informações mínimas a incluir no livro branco referido no artigo 2.º, n.º 1, alínea b)	344	350	262	ue/regulamentos/2025/32025R1568.md
 32025R1568	ANEXO III	Modelo do documento de correspondência do quadro de interoperabilidade	352	365	1233	ue/regulamentos/2025/32025R1568.md
 32025R1568	ANEXO IV	Modelo do parecer sobre o sistema de identificação eletrónica de um Estado-Membro	367	423	928	ue/regulamentos/2025/32025R1568.md
-32025R1569	Artigo 1.º	Objeto e âmbito de aplicação	28	40	241	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 2.º	Definições	42	70	687	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 3.º	Emissão de certificados eletrónicos qualificados de atributos e de certificados eletrónicos de atributos emitidos por um organismo do setor público responsável 	72	80	343	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 4.º	Revogação de certificados eletrónicos qualificados de atributos e de certificados eletrónicos de atributos emitidos por um organismo do setor público responsáve	82	104	592	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 5.º	Notificação dos organismos do setor público	106	114	193	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 6.º	Publicação da lista de organismos do setor público	116	136	283	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 7.º	Criação e manutenção do catálogo de atributos	138	174	916	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 8.º	Criação e manutenção do catálogo de sistemas de certificação de atributos	176	210	1062	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 9.º	Verificação de atributos por confronto com fontes autênticas ou através de intermediários designados	212	222	716	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 10.º	Interoperabilidade e reutilização	224	228	160	ue/regulamentos/2025/32025R1569.md
-32025R1569	Artigo 11.º	Entrada em vigor e aplicação	230	238	91	ue/regulamentos/2025/32025R1569.md
-32025R1569	ANEXO I	Lista das normas de referência e especificações a que se refere o artigo 3.º	240	320	1586	ue/regulamentos/2025/32025R1569.md
-32025R1569	ANEXO II	Especificações técnicas a que se referem os artigos 3.º e 4.º	322	326	143	ue/regulamentos/2025/32025R1569.md
-32025R1569	ANEXO III	Notificações a que se refere o artigo 5.º	328	340	234	ue/regulamentos/2025/32025R1569.md
-32025R1569	ANEXO IV	Lista das normas e especificações técnicas a que se refere o artigo 9.º	342	368	962	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 1.º	Objeto e âmbito de aplicação	31	43	241	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 2.º	Definições	45	73	687	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 3.º	Emissão de certificados eletrónicos qualificados de atributos e de certificados eletrónicos de atributos emitidos por um organismo do setor público responsável 	75	83	343	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 4.º	Revogação de certificados eletrónicos qualificados de atributos e de certificados eletrónicos de atributos emitidos por um organismo do setor público responsáve	85	107	592	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 5.º	Notificação dos organismos do setor público	109	117	193	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 6.º	Publicação da lista de organismos do setor público	119	139	283	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 7.º	Criação e manutenção do catálogo de atributos	141	177	916	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 8.º	Criação e manutenção do catálogo de sistemas de certificação de atributos	179	213	1062	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 9.º	Verificação de atributos por confronto com fontes autênticas ou através de intermediários designados	215	225	716	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 10.º	Interoperabilidade e reutilização	227	231	160	ue/regulamentos/2025/32025R1569.md
+32025R1569	Artigo 11.º	Entrada em vigor e aplicação	233	241	91	ue/regulamentos/2025/32025R1569.md
+32025R1569	ANEXO I	Lista das normas de referência e especificações a que se refere o artigo 3.º	243	323	1586	ue/regulamentos/2025/32025R1569.md
+32025R1569	ANEXO II	Especificações técnicas a que se referem os artigos 3.º e 4.º	325	329	143	ue/regulamentos/2025/32025R1569.md
+32025R1569	ANEXO III	Notificações a que se refere o artigo 5.º	331	343	234	ue/regulamentos/2025/32025R1569.md
+32025R1569	ANEXO IV	Lista das normas e especificações técnicas a que se refere o artigo 9.º	345	371	962	ue/regulamentos/2025/32025R1569.md
 32025R1570	Artigo 1.º		28	32	178	ue/regulamentos/2025/32025R1570.md
 32025R1570	Artigo 2.º		34	44	84	ue/regulamentos/2025/32025R1570.md
 32025R1570	ANEXO	Informações a notificar pelos Estados-Membros em conformidade com o artigo 31.º, n.º 1	46	100	969	ue/regulamentos/2025/32025R1570.md
@@ -4936,71 +4935,80 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32025R1583	Artigo 1.º		42	44	28	ue/regulamentos/2025/32025R1583.md
 32025R1583	Artigo 2.º		46	60	103	ue/regulamentos/2025/32025R1583.md
 32025R1583	ANEXO		62	64	57	ue/regulamentos/2025/32025R1583.md
-32025R1706	Artigo 1.º	Âmbito de aplicação	28	34	91	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 2.º	Definições	36	82	1204	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 3.º	Requisitos de homologação de emissões	84	114	1063	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 4.º	Requisitos de homologação relativamente ao sistema OBD	116	118	44	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 5.º	Requisitos de homologação de emissões relativos aos dispositivos de monitorização do consumo de combustível e de energia elétrica a bordo	120	128	271	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 6.º	Pedido de homologação de emissões de um veículo	130	158	898	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 7.º	Disposições administrativas para a homologação de emissões de um veículo	160	172	459	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 8.º	Alteração das homologações de emissões	174	178	106	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 9.º	Conformidade da produção	180	184	136	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 10.º	Conformidade em circulação	186	212	1424	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 11.º	Dispositivos de controlo da poluição	214	230	433	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 12.º	Pedido de homologação de emissões de um tipo de dispositivo de substituição para controlo enquanto unidade técnica	232	260	511	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 13.º	Disposições administrativas relativas à homologação de emissões de um dispositivo de substituição para controlo da poluição enquanto unidade técnica	262	272	352	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 14.º	Dispositivos manipuladores e estratégias manipuladoras	274	280	271	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 15.º	Indicador de mudança de velocidades	282	284	52	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 16.º	Prevenção da manipulação não autorizada, segurança e cibersegurança	286	288	60	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 17.º	Disposições administrativas específicas relativas à homologação de emissões	290	304	474	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 18.º	Alteração do Regulamento de Execução (UE) 2020/683	306	308	52	ue/regulamentos/2025/32025R1706.md
-32025R1706	Artigo 19.º	Entrada em vigor	310	316	86	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO I	DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO DE EMISSÕES	368	458	2487	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1		460	462	7	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 2		464	466	7	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 3	MODELO	468	566	1173	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 4	MODELO DE CERTIFICADO DE HOMOLOGAÇÃO UE	568	630	376	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 5		770	772	7	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 6	Sistema de numeração dos certificados de homologação de emissões e do nível de emissões e certificado de conformidade	774	833	1934	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 7		835	837	7	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 8-A	Relatórios de ensaio	839	903	619	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 8-B	Relatório do ensaio da resistência ao avanço em estrada	905	907	54	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 8-C	Modelo da ficha de ensaio	909	915	116	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 8-D	Relatório do ensaio das emissões por evaporação	917	919	67	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO II	METODOLOGIA DE CONFORMIDADE EM CIRCULAÇÃO	921	1107	4583	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO III	VERIFICAÇÃO DAS EMISSÕES EM CONDIÇÕES REAIS DE CIRCULAÇÃO (RDE, SIGLA INGLESA)	1109	1209	2288	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO IV	DISPOSITIVOS MANIPULADORES E ESTRATÉGIAS MANIPULADORAS	1211	1315	4190	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1	Metodologia para a avaliação e homologação da AES e BES	1317	1375	1127	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 2	DOSSIÊS	1377	1425	1200	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO V	CONTROLO DAS EMISSÕES DE GASES DO CÁRTER	1427	1447	454	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1	DECLARAÇÃO DE CONFORMIDADE DO FABRICANTE COM OS REQUISITOS DO TIPO 3	1449	1473	250	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO VI	DETERMINAÇÃO DAS EMISSÕES POR EVAPORAÇÃO	1475	1489	182	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO VII	VERIFICAÇÃO DA DURABILIDADE DOS SISTEMAS DE CONTROLO DAS EMISSÕES	1491	1507	402	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1	Declaração de conformidade do fabricante com os requisitos do tipo 5	1509	1541	435	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO VIII	ENSAIO DAS EMISSÕES MÉDIAS A BAIXAS TEMPERATURAS AMBIENTE	1543	1557	150	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO IX	ESPECIFICAÇÕES DOS COMBUSTÍVEIS DE REFERÊNCIA	1559	1567	133	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO X	INDICADOR DE MUDANÇA DE VELOCIDADES (GSI)	1569	1587	400	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XI	SISTEMAS DE DIAGNÓSTICO A BORDO (OBD) DE VEÍCULOS A MOTOR	1589	1615	511	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1	DECLARAÇÃO DE CONFORMIDADE DO FABRICANTE COM OS REQUISITOS OBD PARA EFEITOS DE HOMOLOGAÇÃO	1617	1639	278	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XII	HOMOLOGAÇÃO DE VEÍCULOS EQUIPADOS COM ECOINOVAÇÕES E DETERMINAÇÃO DAS EMISSÕES DE CO2 E DO CONSUMO DE COMBUSTÍVEL DE VEÍCULOS SUBMETIDOS A HOMOLOGAÇÃO EM VÁRIAS	1641	1675	1179	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XIII	HOMOLOGAÇÃO DE EMISSÕES DE DISPOSITIVOS DE SUBSTITUIÇÃO PARA CONTROLO DA POLUIÇÃO ENQUANTO UNIDADES TÉCNICAS	1677	1793	2739	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1	MODELO	1795	1833	472	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 2	MODELO DE CERTIFICADO DE HOMOLOGAÇÃO UE	1835	1908	477	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 3	Modelo de marca de homologação de emissões	1910	1916	164	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XIV	PREVENÇÃO DA MANIPULAÇÃO NÃO AUTORIZADA, SEGURANÇA E CIBERSEGURANÇA	1918	2104	5529	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1	VULNERABILIDADES/AMEAÇAS DE ALTO NÍVEL, EXEMPLOS DE VULNERABILIDADES OU MÉTODOS DE ATAQUE E EXEMPLOS DE MEDIDAS DE ATENUAÇÃO	2106	2169	3803	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 2	DECLARAÇÃO DE CONFORMIDADE DO FABRICANTE COM OS REQUISITOS DE PREVENÇÃO DA MANIPULAÇÃO NÃO AUTORIZADA, DE SEGURANÇA E CIBERSEGURANÇA PARA EFEITOS DE HOMOLOGAÇÃO	2171	2197	442	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XV		2199	2201	6	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XVI	REQUISITOS NO CASO DOS VEÍCULOS QUE USAM UM REAGENTE PARA O SISTEMA DE PÓS-TRATAMENTO DAS EMISSÕES DE ESCAPE	2203	2219	300	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1	DECLARAÇÃO DE CONFORMIDADE DO FABRICANTE COM OS REQUISITOS DO REAGENTE	2221	2239	190	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XVII		2241	2243	7	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XVIII	ALTERAÇÃO DO REGULAMENTO DE EXECUÇÃO (UE) 2020/683	2245	2287	825	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XIX		2289	2291	6	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XX	MEDIÇÕES DA POTÊNCIA ÚTIL E DA POTÊNCIA MÁXIMA DE 30 MINUTOS DAS UNIDADES DE TRAÇÃO ELÉTRICAS	2293	2313	352	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XXI	PROCEDIMENTO DE ENSAIO HARMONIZADO A NÍVEL MUNDIAL PARA VEÍCULOS LIGEIROS (WLTP) — (ENSAIO DO TIPO 1)	2315	2413	1973	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 1	DECLARAÇÃO DO FABRICANTE PARA O ENSAIO DE CORREÇÃO DA TEMPERATURA AMBIENTE (ATCT)	2415	2443	287	ue/regulamentos/2025/32025R1706.md
-32025R1706	Apêndice 2	DECLARAÇÃO DO FABRICANTE RELATIVA AOS REQUISITOS DE REGENERAÇÃO	2445	2486	491	ue/regulamentos/2025/32025R1706.md
-32025R1706	ANEXO XXII	DISPOSITIVOS PARA MONITORIZAÇÃO DO CONSUMO DE COMBUSTÍVEL E DE ENERGIA ELÉTRICA A BORDO DO VEÍCULO	2488	2610	3115	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 1.º	Âmbito de aplicação	29	39	132	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 2.º	Definições	41	87	1204	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 3.º	Requisitos de homologação de emissões	89	123	1069	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 4.º	Requisitos de homologação relativamente ao sistema OBD	125	127	44	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 5.º	Requisitos de homologação de emissões relativos aos dispositivos de monitorização do consumo de combustível e de energia elétrica a bordo	129	137	271	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 6.º	Pedido de homologação de emissões de um veículo	139	171	749	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 7.º	Disposições administrativas para a homologação de emissões de um veículo	173	185	459	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 8.º	Alteração das homologações de emissões	187	191	106	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 9.º	Conformidade da produção	193	197	136	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 10.º		199	237	1445	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 10.º-A	Conformidade em circulação da durabilidade da bateria a bordo dos veículos	239	241	89	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 10.º-B	Conformidade em circulação da autonomia elétrica a baixa temperatura	243	245	99	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 10.º-C	Conformidade em circulação da potência do sistema	247	251	88	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 11.º	Dispositivos de controlo da poluição	253	269	433	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 12.º	Pedido de homologação de emissões de um tipo de dispositivo de substituição para controlo enquanto unidade técnica	271	299	511	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 13.º	Disposições administrativas relativas à homologação de emissões de um dispositivo de substituição para controlo da poluição enquanto unidade técnica	301	311	352	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 14.º	Dispositivos manipuladores e estratégias manipuladoras	313	319	271	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 15.º	Indicador de mudança de velocidades	321	323	52	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 16.º	Prevenção da manipulação não autorizada, segurança e cibersegurança	325	327	60	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 17.º	Disposições administrativas específicas relativas à homologação de emissões	329	343	474	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 18.º	Alteração do Regulamento de Execução (UE) 2020/683	345	347	52	ue/regulamentos/2025/32025R1706.md
+32025R1706	Artigo 19.º	Entrada em vigor	349	355	86	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO I	DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO DE EMISSÕES	407	515	2796	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1		517	519	7	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 2		521	523	7	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 3	MODELO	525	635	1249	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 4	MODELO DE CERTIFICADO DE HOMOLOGAÇÃO UE	637	699	376	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 5		849	851	7	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 6	Sistema de numeração dos certificados de homologação de emissões e do nível de emissões e certificado de conformidade	853	937	3191	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 7		939	941	7	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 8-A	Relatórios de ensaio	943	1018	666	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 8-B	Relatório do ensaio da resistência ao avanço em estrada	1020	1022	54	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 8-C	Modelo da ficha de ensaio	1024	1030	116	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 8-D	Relatório do ensaio das emissões por evaporação	1032	1036	68	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 8-E	Relatório do ensaio da potência do sistema	1038	1042	89	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO II	METODOLOGIA DE CONFORMIDADE EM CIRCULAÇÃO	1044	1230	4583	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO III	VERIFICAÇÃO DAS EMISSÕES EM CONDIÇÕES REAIS DE CIRCULAÇÃO (RDE, SIGLA INGLESA)	1232	1338	2324	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	Declaração de conformidade do fabricante com os requisitos de emissões em condições reais de condução	1340	1379	486	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO IV	DISPOSITIVOS MANIPULADORES E ESTRATÉGIAS MANIPULADORAS	1381	1485	4190	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	Metodologia para a avaliação e homologação da AES e BES	1487	1545	1127	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 2	DOSSIÊS	1547	1595	1200	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO V	CONTROLO DAS EMISSÕES DE GASES DO CÁRTER	1597	1617	454	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	DECLARAÇÃO DE CONFORMIDADE DO FABRICANTE COM OS REQUISITOS DO TIPO 3	1619	1643	250	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO VI	DETERMINAÇÃO DAS EMISSÕES POR EVAPORAÇÃO	1645	1659	182	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO VII	VERIFICAÇÃO DA DURABILIDADE DOS SISTEMAS DE CONTROLO DAS EMISSÕES	1661	1677	402	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	Declaração de conformidade do fabricante com os requisitos do tipo 5	1679	1711	435	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO VIII	ENSAIO DAS EMISSÕES MÉDIAS A BAIXAS TEMPERATURAS AMBIENTE	1713	1727	150	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO IX	ESPECIFICAÇÕES DOS COMBUSTÍVEIS DE REFERÊNCIA	1729	1737	133	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO X	INDICADOR DE MUDANÇA DE VELOCIDADES (GSI)	1739	1757	400	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XI	SISTEMAS DE DIAGNÓSTICO A BORDO (OBD) DE VEÍCULOS A MOTOR	1759	1785	511	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	DECLARAÇÃO DE CONFORMIDADE DO FABRICANTE COM OS REQUISITOS OBD PARA EFEITOS DE HOMOLOGAÇÃO	1787	1809	278	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XII	HOMOLOGAÇÃO DE VEÍCULOS EQUIPADOS COM ECOINOVAÇÕES E DETERMINAÇÃO DAS EMISSÕES DE CO2 E DO CONSUMO DE COMBUSTÍVEL DE VEÍCULOS SUBMETIDOS A HOMOLOGAÇÃO EM VÁRIAS	1811	1845	1179	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XIII	HOMOLOGAÇÃO DE EMISSÕES DE DISPOSITIVOS DE SUBSTITUIÇÃO PARA CONTROLO DA POLUIÇÃO ENQUANTO UNIDADES TÉCNICAS	1847	1963	2739	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	MODELO	1965	2003	472	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 2	MODELO DE CERTIFICADO DE HOMOLOGAÇÃO UE	2005	2078	477	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 3	Modelo de marca de homologação de emissões	2080	2086	164	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XIV	PREVENÇÃO DA MANIPULAÇÃO NÃO AUTORIZADA, SEGURANÇA E CIBERSEGURANÇA	2088	2274	5529	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	VULNERABILIDADES/AMEAÇAS DE ALTO NÍVEL, EXEMPLOS DE VULNERABILIDADES OU MÉTODOS DE ATAQUE E EXEMPLOS DE MEDIDAS DE ATENUAÇÃO	2276	2339	3803	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 2	DECLARAÇÃO DE CONFORMIDADE DO FABRICANTE COM OS REQUISITOS DE PREVENÇÃO DA MANIPULAÇÃO NÃO AUTORIZADA, DE SEGURANÇA E CIBERSEGURANÇA PARA EFEITOS DE HOMOLOGAÇÃO	2341	2369	443	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XV	Durabilidade da bateria a bordo	2371	2387	372	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	Metodologia de conformidade em circulação para a durabilidade da bateria a bordo dos veículos	2389	2391	93	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 2	Declaração de conformidade do fabricante com os requisitos de durabilidade da bateria a bordo dos veículos	2393	2434	680	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XVI	REQUISITOS NO CASO DOS VEÍCULOS QUE USAM UM REAGENTE PARA O SISTEMA DE PÓS-TRATAMENTO DAS EMISSÕES DE ESCAPE	2436	2452	300	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	DECLARAÇÃO DE CONFORMIDADE DO FABRICANTE COM OS REQUISITOS DO REAGENTE	2454	2474	191	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XVII	Autonomia elétrica a baixa temperatura	2476	2490	195	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	Metodologia facultativa da conformidade em circulação da autonomia elétrica a baixa temperatura	2492	2496	90	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XVIII	ALTERAÇÃO DO REGULAMENTO DE EXECUÇÃO (UE) 2020/683	2498	2542	826	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XIX	Determinação da potência do sistema	2544	2558	200	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	Metodologia facultativa para a avaliação da conformidade em circulação da determinação da potência do sistema	2560	2564	96	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XX	MEDIÇÕES DA POTÊNCIA ÚTIL E DA POTÊNCIA MÁXIMA DE 30 MINUTOS DAS UNIDADES DE TRAÇÃO ELÉTRICAS	2566	2586	352	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XXI	PROCEDIMENTO DE ENSAIO HARMONIZADO A NÍVEL MUNDIAL PARA VEÍCULOS LIGEIROS (WLTP) — (ENSAIO DO TIPO 1)	2588	2686	1973	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 1	DECLARAÇÃO DO FABRICANTE PARA O ENSAIO DE CORREÇÃO DA TEMPERATURA AMBIENTE (ATCT)	2688	2716	287	ue/regulamentos/2025/32025R1706.md
+32025R1706	Apêndice 2	DECLARAÇÃO DO FABRICANTE RELATIVA AOS REQUISITOS DE REGENERAÇÃO	2718	2759	491	ue/regulamentos/2025/32025R1706.md
+32025R1706	ANEXO XXII	DISPOSITIVOS PARA MONITORIZAÇÃO DO CONSUMO DE COMBUSTÍVEL E DE ENERGIA ELÉTRICA A BORDO DO VEÍCULO	2761	2885	3163	ue/regulamentos/2025/32025R1706.md
 32025R1707	Preâmbulo		22	64	2029	ue/regulamentos/2025/32025R1707.md
 32025R1707	Artigo 1.º	Objeto e âmbito de aplicação	68	86	246	ue/regulamentos/2025/32025R1707.md
 32025R1707	Artigo 2.º	Definições	88	112	672	ue/regulamentos/2025/32025R1707.md
@@ -7006,18 +7014,17 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32025R2349	Artigo 2.º		46	48	81	ue/regulamentos/2025/32025R2349.md
 32025R2349	Artigo 3.º		50	70	184	ue/regulamentos/2025/32025R2349.md
 32025R2349	ANEXO		72	81	675	ue/regulamentos/2025/32025R2349.md
-32025R2351	Preâmbulo		18	451	17864	ue/regulamentos/2025/32025R2351.md
-32025R2351	Artigo 1.º		455	465	412	ue/regulamentos/2025/32025R2351.md
-32025R2351	Artigo 2.º		467	471	76	ue/regulamentos/2025/32025R2351.md
-32025R2351	Artigo 3.º		473	475	81	ue/regulamentos/2025/32025R2351.md
-32025R2351	Artigo 4.º		477	479	33	ue/regulamentos/2025/32025R2351.md
-32025R2351	Artigo 5.º		481	483	42	ue/regulamentos/2025/32025R2351.md
-32025R2351	Artigo 6.º		485	487	34	ue/regulamentos/2025/32025R2351.md
-32025R2351	Artigo 7.º		489	491	90	ue/regulamentos/2025/32025R2351.md
-32025R2351	Artigo 8.º		493	583	2236	ue/regulamentos/2025/32025R2351.md
-32025R2351	ANEXO I		585	604	516	ue/regulamentos/2025/32025R2351.md
-32025R2351	ANEXO II	Limiar de preço aplicável para efeitos do aumento do direito	606	613	96	ue/regulamentos/2025/32025R2351.md
-32025R2351	ANEXO III	Volumes dos contingentes pautais	615	640	1277	ue/regulamentos/2025/32025R2351.md
+32025R2351	Artigo 1.º		28	38	412	ue/regulamentos/2025/32025R2351.md
+32025R2351	Artigo 2.º		40	44	76	ue/regulamentos/2025/32025R2351.md
+32025R2351	Artigo 3.º		46	48	81	ue/regulamentos/2025/32025R2351.md
+32025R2351	Artigo 4.º		50	52	33	ue/regulamentos/2025/32025R2351.md
+32025R2351	Artigo 5.º		54	56	42	ue/regulamentos/2025/32025R2351.md
+32025R2351	Artigo 6.º		58	60	34	ue/regulamentos/2025/32025R2351.md
+32025R2351	Artigo 7.º		62	64	90	ue/regulamentos/2025/32025R2351.md
+32025R2351	Artigo 8.º		66	70	58	ue/regulamentos/2025/32025R2351.md
+32025R2351	ANEXO I		72	91	516	ue/regulamentos/2025/32025R2351.md
+32025R2351	ANEXO II	Limiar de preço aplicável para efeitos do aumento do direito	93	100	96	ue/regulamentos/2025/32025R2351.md
+32025R2351	ANEXO III	Volumes dos contingentes pautais	102	127	1300	ue/regulamentos/2025/32025R2351.md
 32025R2356	Preâmbulo		18	38	247	ue/regulamentos/2025/32025R2356.md
 32025R2356	Artigo 1.º		42	44	28	ue/regulamentos/2025/32025R2356.md
 32025R2356	Artigo 2.º		46	60	102	ue/regulamentos/2025/32025R2356.md

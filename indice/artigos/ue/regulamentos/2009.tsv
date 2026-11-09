@@ -1393,11 +1393,11 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32009R0702	«Artigo 37.º-A	Comunicação relativa à ajuda estatal	83	133	1027	ue/regulamentos/2009/32009R0702.md
 32009R0702	Artigo 2.º		135	157	142	ue/regulamentos/2009/32009R0702.md
 32009R0702	ANEXO	«ANEXO VIII-C	159	355	3866	ue/regulamentos/2009/32009R0702.md
-32009R0703	Preâmbulo		18	446	13066	ue/regulamentos/2009/32009R0703.md
-32009R0703	Artigo 1.º		450	461	252	ue/regulamentos/2009/32009R0703.md
-32009R0703	Artigo 2.º		463	465	35	ue/regulamentos/2009/32009R0703.md
-32009R0703	Artigo 3.º		467	469	159	ue/regulamentos/2009/32009R0703.md
-32009R0703	Artigo 4.º		471	489	108	ue/regulamentos/2009/32009R0703.md
+32009R0703	Preâmbulo		22	450	13066	ue/regulamentos/2009/32009R0703.md
+32009R0703	Artigo 1.º		454	465	252	ue/regulamentos/2009/32009R0703.md
+32009R0703	Artigo 2.º		467	469	35	ue/regulamentos/2009/32009R0703.md
+32009R0703	Artigo 3.º		471	473	159	ue/regulamentos/2009/32009R0703.md
+32009R0703	Artigo 4.º		475	493	108	ue/regulamentos/2009/32009R0703.md
 32009R0707	Preâmbulo		18	42	708	ue/regulamentos/2009/32009R0707.md
 32009R0707	Artigo 1.º		46	48	29	ue/regulamentos/2009/32009R0707.md
 32009R0707	Artigo 2.º		50	68	115	ue/regulamentos/2009/32009R0707.md
@@ -3150,25 +3150,25 @@ celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
 32009R1268	Artigo 1.º		46	48	40	ue/regulamentos/2009/32009R1268.md
 32009R1268	Artigo 2.º		50	68	116	ue/regulamentos/2009/32009R1268.md
 32009R1270	Artigo 3.º		43	51	70	ue/regulamentos/2009/32009R1270.md
-32009R1284	Artigo 1.º		39	73	528	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 6.º		75	89	269	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 7.º		91	95	92	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 8.º		97	111	360	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 8.º-A		113	137	653	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 9.º		139	151	312	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 10.º		153	163	244	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 11.º		165	167	116	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 12.º		169	179	265	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 13.º		181	183	97	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 14.º		185	213	268	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 15.º		215	219	34	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 15.º-A		221	231	206	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 16.º		233	239	107	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 16.º.º‐A		241	259	417	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 17.º		261	267	158	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 18.º		269	281	139	ue/regulamentos/2009/32009R1284.md
-32009R1284	Artigo 19.º		283	291	63	ue/regulamentos/2009/32009R1284.md
-32009R1284	ANEXO II		293	306	547	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 1.º		40	74	528	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 6.º		76	90	269	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 7.º		92	96	92	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 8.º		98	112	360	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 8.º-A		114	138	653	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 9.º		140	152	312	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 10.º		154	164	244	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 11.º		166	168	116	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 12.º		170	180	265	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 13.º		182	184	97	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 14.º		186	214	268	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 15.º		216	220	34	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 15.º-A		222	232	206	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 16.º		234	240	107	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 16.º.º‐A		242	260	417	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 17.º		262	268	158	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 18.º		270	282	139	ue/regulamentos/2009/32009R1284.md
+32009R1284	Artigo 19.º		284	292	63	ue/regulamentos/2009/32009R1284.md
+32009R1284	ANEXO II		294	306	378	ue/regulamentos/2009/32009R1284.md
 32009R1284	ANEXO III		308	434	658	ue/regulamentos/2009/32009R1284.md
 32009R1286	Preâmbulo		18	60	1612	ue/regulamentos/2009/32009R1286.md
 32009R1286	Artigo 1.º		64	82	293	ue/regulamentos/2009/32009R1286.md

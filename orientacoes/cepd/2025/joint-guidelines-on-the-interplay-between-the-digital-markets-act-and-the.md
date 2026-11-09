@@ -7,7 +7,7 @@ data: '2025-10-09'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/joint-guidelines-on-the-interplay-between-the-digital-markets-act-and-the_en
 pdf: https://www.edpb.europa.eu/system/files/2025-10/joint_com-edpb_gls_interplay_dma_gdpr_for_public_consultation_en.pdf
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

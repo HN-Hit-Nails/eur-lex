@@ -21,7 +21,7 @@ repertorio:
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024R1624
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32024R1624 — Branqueamento de capitais (regulamento)

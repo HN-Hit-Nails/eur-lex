@@ -18,7 +18,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32017R1001
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02017R1001-20251201
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32017R1001 — Marca da União Europeia

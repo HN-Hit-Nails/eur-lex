@@ -1,7 +1,7 @@
 ---
 celex: 32006R1896
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32006R1896 — Procedimento europeu de injunção de pagamento — contexto

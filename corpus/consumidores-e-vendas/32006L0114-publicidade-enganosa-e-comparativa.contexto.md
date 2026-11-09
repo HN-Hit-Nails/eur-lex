@@ -1,7 +1,7 @@
 ---
 celex: 32006L0114
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 32006L0114 — Publicidade enganosa e comparativa — contexto

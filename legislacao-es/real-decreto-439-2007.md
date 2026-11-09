@@ -6,16 +6,16 @@ relacionado_com: []
 url: https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820
 fonte: Agencia Estatal Boletín Oficial del Estado — API de dados abertos
 lingua: es
-consolidado_ate: '2026-10-07'
+consolidado_ate: '2026-11-05'
 versoes_futuras: []
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Real Decreto 439/2007, de 30 de marzo, por el que se aprueba el Reglamento del Impuesto sobre la Renta de las Personas Físicas y se modifica el Reglamento de Planes y Fondos de Pensiones, aprobado por Real Decreto 304/2004, de 20 de febrero.
 
 **Nota:** Reglamento del IRPF (art. 30.º: as amortizações na estimação directa simplificada; os artigos do regulamento vêm depois de `## Anexo`).
 
-**Texto:** versão consolidada do BOE (em espanhol), bloco a bloco, na última redacção já aplicável; as linhas `> Se modifica …` indicam o diploma que deu a redacção. Não tem valor jurídico: faz fé o publicado no BOE. Consolidado pelo BOE até 2026-10-07. 170 artigos e disposições.
+**Texto:** versão consolidada do BOE (em espanhol), bloco a bloco, na última redacção já aplicável; as linhas `> Se modifica …` indicam o diploma que deu a redacção. Não tem valor jurídico: faz fé o publicado no BOE. Consolidado pelo BOE até 2026-11-05. 170 artigos e disposições.
 
 **Fonte:** https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820
 

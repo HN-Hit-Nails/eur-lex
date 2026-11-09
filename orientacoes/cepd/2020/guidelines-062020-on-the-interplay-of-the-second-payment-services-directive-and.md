@@ -1,1374 +1,1256 @@
 ---
-titulo: "Diretrizes 06/2020 sobre a interação entre a Segunda Diretiva Serviços de Pagamento e o RGPD"
+titulo: "Guidelines 06/2020 on the interplay of the Second Payment Services Directive and the GDPR"
 titulo_en: "Guidelines 06/2020 on the interplay of the Second Payment Services Directive and the GDPR"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2020-12-15'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-062020-on-the-interplay-of-the-second-payment-services-directive-and_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2021-06/edpb_guidelines_202006_psd2_afterpublicconsultation_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 06/2020 sobre a interação entre a Segunda Diretiva Serviços de Pagamento e o RGPD
+# Guidelines 06/2020 on the interplay of the Second Payment Services Directive and the GDPR
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 06/2020 sobre a interação entre a Segunda
-           Diretiva Serviços de Pagamento e o RGPD
-                               Versão 2.0
-              Adotadas em 15 de dezembro de 2020
-
-
-                    Translations proofread by EDPB Members.
-                This language version has not yet been proofread.
+Guidelines 06/2020 on the interplay of the Second Payment
+             Services Directive and the GDPR
+                       Version 2.0
+               Adopted on 15 December 2020
 
 
 
 
-Adotadas                                                            1
+Adopted                                                 1
 
-Histórico das versões
-
-
- Versão 2.0   15.12.2020   Adoção das Diretrizes após consulta pública
- Versão 1.0   17.7.2020    Adoção das Diretrizes para consulta pública
+Version history
 
 
-
-
-Adotadas                                                                 2
-
-Índice
-1. Introdução ........................................................................................................................................... 5
-    1.1        Definições ................................................................................................................................ 6
-    1.2        Serviços ao abrigo da DSP2 ..................................................................................................... 7
-2      Razões legítimas e tratamento posterior ao abrigo da DSP2........................................................ 10
-    2.1        Razões legítimas para o tratamento ..................................................................................... 10
-    2.2    Artigo 6.º, n.º 1, alínea b), do RGPD (o tratamento é necessário para a execução de um
-    contrato)............................................................................................................................................ 10
-    2.3        Prevenção da fraude ............................................................................................................. 12
-    2.4        Tratamento posterior (PSIC e PSIP)....................................................................................... 12
-    2.5        Razão legítima para conceder acesso à conta (PSPGC)......................................................... 13
-3      Consentimento explícito ............................................................................................................... 15
-    3.1        Consentimento ao abrigo do RGPD....................................................................................... 15
-    3.2        Consentimento ao abrigo da DSP2........................................................................................ 16
-       3.2.1          Consentimento expresso ao abrigo do artigo 94.º, n.º 2, da DSP2............................... 16
-    3.3        Conclusão .............................................................................................................................. 18
-4      Tratamento de dados de parte silenciosa..................................................................................... 19
-    4.1        Dados de parte silenciosa...................................................................................................... 19
-    4.2        Interesses legítimos do responsável pelo tratamento .......................................................... 19
-    4.3        Tratamento posterior de dados pessoais da parte silenciosa............................................... 19
-5      O tratamento de categorias especiais de dados pessoais ao abrigo da DSP2 .............................. 21
-    5.1        Categorias especiais de dados pessoais ................................................................................ 21
-    5.2        Possíveis derrogações ........................................................................................................... 22
-    5.3        Interesse público importante ................................................................................................ 22
-    5.4        Consentimento explícito ....................................................................................................... 22
-    5.5        Ausência de uma derrogação adequada............................................................................... 23
-6      Minimização dos dados, segurança, transparência, responsabilidade e definição de perfis ....... 24
-    6.1        Minimização dos dados e proteção de dados desde a conceção e por defeito ................... 24
-    6.2        Medidas de minimização dos dados ..................................................................................... 24
-    6.3        Segurança .............................................................................................................................. 26
-    6.4        Transparência e responsabilidade......................................................................................... 26
-    6.5        Definição de perfis................................................................................................................. 28
+ Version 2.0   15.12.2020   Adoption of the Guidelines after public consultation
+ Version 1.0   17.07.2020   Adoption of the Guidelines for publication consultation
 
 
 
 
-Adotadas                                                                                                                                                  3
+Adopted                                                                               2
 
-O Comité Europeu para a Proteção de Dados
+Table of contents
+1. Introduction......................................................................................................................................... 5
+    1.1       Definitions ............................................................................................................................... 6
+    1.2       Services under the PSD2.......................................................................................................... 7
+2      Lawful grounds and further processing under the PSD2 ................................................................ 9
+    2.1       Lawful grounds for processing ................................................................................................ 9
+    2.2       Article 6(1)(b) of the GDPR (processing is necessary for the performance of a contract)...... 9
+    2.3       Fraud prevention................................................................................................................... 11
+    2.4       Further processing (AISP and PISP) ....................................................................................... 11
+    2.5       Lawful ground for granting access to the Account (ASPSPs)................................................. 12
+3      Explicit Consent ............................................................................................................................. 13
+    3.1       Consent under the GDPR....................................................................................................... 13
+    3.2       Consent under the PSD2 ....................................................................................................... 13
+       3.2.1          Explicit consent under Article 94 (2) PSD2 .................................................................... 14
+    3.3       Conclusion ............................................................................................................................. 15
+4      The processing of silent party data ............................................................................................... 16
+    4.1       Silent party data .................................................................................................................... 16
+    4.2       The legitimate interest of the controller............................................................................... 16
+    4.3       Further processing of personal data of the silent party........................................................ 16
+5      The processing of special categories of personal data under the PSD2 ....................................... 18
+    5.1       Special categories of personal data....................................................................................... 18
+    5.2       Possible derogations ............................................................................................................. 19
+    5.3       Substantial public interest..................................................................................................... 19
+    5.4       Explicit consent...................................................................................................................... 19
+    5.5       No suitable derogation.......................................................................................................... 20
+6      Data minimisation, security, transparancy, accountability and profiling ..................................... 21
+    6.1       Data minimisation and data protection by design and default ............................................ 21
+    6.2       Data minimisation measures................................................................................................. 21
+    6.3       Security.................................................................................................................................. 22
+    6.4       Transparency and accountability .......................................................................................... 23
+    6.5       Profiling ................................................................................................................................. 25
 
-Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE
-(a seguir designado por «RGPD»),
 
-Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que
-lhe foi dada pela Decisão do Comité Misto do EEE n.º 154/2018, de 6 de julho de 20181,
 
-Tendo em conta o artigo 12.º e o artigo 22.º do seu regulamento interno,
 
-Considerando o seguinte:
+Adopted                                                                                                                                                   3
 
-(1) O Regulamento Geral sobre a Proteção de Dados estabelece um conjunto coerente de regras para
-o tratamento de dados pessoais em toda a UE.
+The European Data Protection Board
 
-(2) A segunda Diretiva Serviços de Pagamento [(Diretiva (UE) 2015/2366 do Parlamento Europeu e do
-Conselho, publicada em 23 de dezembro de 2015, a seguir designada por «DSP2»)] revoga a
-Diretiva 2007/64/CE e estabelece novas regras para garantir segurança jurídica aos consumidores, aos
-comerciantes e às empresas na cadeia de pagamentos e modernizar o quadro jurídico para o mercado
-dos serviços de pagamento2. Os Estados-Membros tinham de transpor a DSP2 para o direito nacional
-até 13 de janeiro de 2018.
+Having regard to Article 70 (1) (e) of Regulation 2016/679/EU of the European Parliament and of the
+Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter “GDPR”),
 
-(3) Um elemento importante da DSP2 é a introdução de um quadro jurídico para novos serviços de
-iniciação de pagamentos e serviços de informação sobre contas. A DSP2 permite que estes novos
-prestadores de serviços de pagamento obtenham acesso às contas de pagamento dos titulares dos
-dados para efeitos de prestação dos referidos serviços.
+Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as
+amended by the Decision of the EEA joint Committee No 154/2018 of 6 July 20181,
 
-(4) No que diz respeito à proteção de dados, o artigo 94.º, n.º 1, da DSP2 estabelece que qualquer
-tratamento de dados pessoais, incluindo a prestação de informação sobre esse tratamento, para
-efeitos da DSP2 é efetuado em conformidade com o RGPD3 e com o Regulamento (UE) 2018/1725.
+Having regard to Article 12 and Article 22 of its Rules of Procedure,
 
-(5) O considerando 89 da DSP2 afirma que, caso os dados pessoais sejam tratados para efeitos da
-mesma diretiva, deve ser especificado o objetivo exato do tratamento, deve ser indicada a base jurídica
-aplicável, devem ser cumpridos os requisitos de segurança aplicáveis estabelecidos no RGPD e devem
-ser respeitados os princípios da necessidade, da proporcionalidade, da limitação da finalidade e do
-período proporcionado de conservação de dados. De igual modo, a proteção de dados desde a
-conceção e a proteção de dados por defeito deverão estar incorporadas em todos os sistemas de
-tratamento de dados desenvolvidos e utilizados no quadro da DSP24.
+Whereas:
 
-(6) O considerando 93 da DSP2 afirma que os prestadores de serviços de iniciação de pagamentos e os
-prestadores de serviços de informação sobre contas, por um lado, e o prestador do serviço de
+(1) The General Data Protection Regulation provides for a consistent set of rules for the processing of
+personal data throughout the EU.
+
+(2) The second Payment Services Directive (Directive 2015/2366/EU of the European Parliament and
+of the Council of 23 December 2015, hereinafter “PSD2”) repeals Directive 2007/64/EC and provides
+new rules to ensure legal certainty for consumers, merchants and companies within the payment chain
+and modernizing the legal framework for the market for payment services2. Member States had to
+transpose the PSD2 into their national law before the 13 January 2018.
+
+(3) An important feature of the PSD2 is the introduction of a legal framework for new payment
+initiation services and account information services. The PSD2 allows these new payment service
+providers to obtain access to payment accounts of data subjects for the purposes of providing the said
+services.
+
+(4) With regard to data protection, in accordance with Article 94 (1) of the PSD2, any processing of
+personal data, including the provision of information about the processing, for the purposes of the
+PSD2, shall be carried out in accordance with the GDPR3 and with Regulation (EU) No 2018/1725.
+
+(5) Recital 89 of the PSD2 states that where personal data is processed for the purposes of the PSD2,
+the precise purpose of the processing should be specified, the applicable legal basis should be named,
+the relevant security requirements laid down in the GDPR must be implemented, and the principles of
+necessity, proportionality, purpose limitation and proportionate data retention periods respected.
+Also, data protection by design and data protection by default should be embedded in all data
+processing systems developed and used within the framework of the PSD24.
+
+(6) Recital 93 of the PSD2 states that the payment initiation service providers and the account
+information service providers on the one hand and the account servicing payment service provider on
+the other, should observe the necessary data protection and security requirements established by, or
+referred to in, this Directive or included in the regulatory technical standards.
+
+
+
 
 1
-        As referências a «Estados-Membros» efetuadas ao longo do presente documento devem ser entendidas
-        como referências a «Estados do EEE».
+  References to “Member States” made throughout this document should be understood as references to “EEA
+Member States”.
 2
-        Considerando 6 da DSP2.
+  Recital 6 PSD2
 3
-        A DSP2 é anterior ao RGPD e, por conseguinte, ainda remete para a Diretiva 95/46/CE. O artigo 94.º do
-        RGPD refere que as remissões para a Diretiva 95/46/CE revogada são consideradas remissões para o
-        RGPD.
+  As PSD2 predates the GDPR, it still refers to Directive 95/46. Article 94 GDPR states that references to the
+repealed Directive 95/46 shall be construed as references to the GDPR.
 4
-        Considerando 89 da DSP2.
+  Recital 89, PSD2
 
 
-Adotadas                                                                                                   4
+Adopted                                                                                                      4
 
-pagamento que gere a conta, por outro, devem observar os requisitos necessários em matéria de
-proteção e segurança dos dados estabelecidos ou referidos na mesma diretiva ou incluídos em normas
-técnicas de regulamentação.
+HAS ADOPTED THE FOLLOWING GUIDELINES
 
 
-ADOTOU AS SEGUINTES DIRETRIZES
+1. INTRODUCTION
+    The second Payment Services Directive (hereinafter “PSD2”) has introduced a number of novelties
+    in the payment services field. While it creates new opportunities for consumers and enhances
+    transparency in such field, the application of the PSD2 raises certain questions and concerns in
+    respect of the need that the data subjects remain in full control of their personal data. The General
+    Data Protection Regulation (hereinafter “GDPR”) applies to the processing of personal data
+    including processing activities carried out in the context of payment services as defined by the
+    PSD25. Thus, controllers acting in the field covered by the PSD2 must always ensure compliance
+    with the requirements of the GDPR, including the principles of data protection set out in Article 5
+    of the GDPR, as well as the relevant provisions of the ePrivacy Directive6. While the PSD27 and the
+    Regulatory Technical Standards for strong customer authentication and common and secure open
+    standards of communication (hereinafter “RTS”8) contain certain provisions relating to data
+    protection and security, uncertainty has arisen about the interpretation of these provisions as well
+    as the interplay between the general data protection framework and the PSD2.
 
+    On July 5 2018, the EDPB issued a letter regarding the PSD2, in which the EDPB provided
+    clarifications on questions concerning the protection of personal data in relation to the PSD2, in
+    particular on the processing of personal data of non-contracting parties (so called ‘silent party
+    data’) by account information service providers (hereinafter “AISPs”) and payment initiation
+    service providers (hereinafter “PISPs”), the procedures with regard to giving and withdrawing
+    consent, the RTS and the cooperation between account servicing payment services providers
+    (hereinafter “ASPSPs”) in relation to security measures. Whereas the preparatory work of these
+    guidelines involved the collection of inputs from stakeholders, both in writing and at a stakeholder
+    event, in order to identify the most pressing challenges.
 
-1. INTRODUÇÃO
-    A segunda Diretiva Serviços de Pagamento (a seguir designada por «DSP2») introduziu um
-    conjunto de novidades no domínio dos serviços de pagamento. Embora a DSP2 crie novas
-    oportunidades para os consumidores e reforce a transparência neste domínio, a sua aplicação
-    suscita algumas dúvidas e preocupações no que diz respeito à necessidade de manter o pleno
-    controlo dos titulares dos dados sobre os seus dados pessoais. O Regulamento Geral sobre a
-    Proteção de Dados (a seguir designado por «RGPD») é aplicável ao tratamento de dados pessoais,
-    incluindo atividades de tratamento realizadas no contexto dos serviços de pagamento na aceção
-    da DSP25. Por conseguinte, os responsáveis pelo tratamento que atuam no domínio abrangido pela
-    DSP2 devem sempre assegurar o cumprimento dos requisitos do RGPD, incluindo os princípios da
-    proteção de dados estabelecidos no artigo 5.º do RGPD, bem como as disposições aplicáveis da
-    Diretiva Privacidade Eletrónica6. Embora a DSP27 e as normas técnicas de regulamentação relativas
-    à autenticação forte do cliente e às normas abertas de comunicação comuns e seguras (a seguir
-    designadas por «NTR»8) contenham algumas disposições relativas à proteção e à segurança dos
-    dados, surgiu incerteza quanto à interpretação destas disposições, bem como à interação entre o
-    quadro geral da proteção de dados e a DSP2.
-
-    Em 5 de julho de 2018, o CEPD publicou uma carta relativa à DSP2 na qual clarificou algumas
-    questões relacionadas com a proteção de dados pessoais no âmbito da mesma diretiva e, em
-    especial, com o tratamento de dados pessoais de partes não contratantes (os chamados «dados
-    de parte silenciosa») por prestadores de serviços de informação sobre contas (PSIC) e prestadores
-    do serviço de iniciação do pagamento (PSIP), com os procedimentos de comunicação e de retirada
-    do consentimento, com as NTR e com a cooperação entre os prestadores de serviços de
-    pagamento que gerem as contas (PSPGC) no âmbito das medidas de segurança. Entretanto, o
-    trabalho de preparação das presentes diretrizes incluiu a recolha de contributos de partes
-    interessadas, por escrito e num evento específico, a fim de identificar os desafios mais prementes.
-
-    As presentes diretrizes visam fornecer mais orientações sobre os aspetos da proteção de dados no
-    contexto da DSP2, e em especial sobre a relação entre as disposições aplicáveis do RGPD e da
-    DSP2. As presentes diretrizes incidem principalmente no tratamento de dados pessoais pelos PSIC
+    These guidelines aim to provide further guidance on data protection aspects in the context of the
+    PSD2, in particular on the relationship between relevant provisions on the GDPR and the PSD2.
+    The main focus of these guidelines is on the processing of personal data by AISPs and PISPs. As
+    such, this document addresses conditions for granting access to payment account information by
+    ASPSPs and for the processing of personal data by PISPs and AISPs, including the requirements and
+    safeguards in relation to the processing of personal data by PISPs and AISPs for purposes other
+    than the initial purposes for which the data have been collected, especially when they have been
+    collected in the context of the provision of an account information service9. This document also
 
 5
-       Artigo 1.º, n.º 1, do RGPD.
+  Art. 1 (1) GDPR
 6
-       Diretiva 2002/58/CE do Parlamento Europeu e do Conselho, de 12 de julho de 2002, relativa ao
-       tratamento de dados pessoais e à proteção da privacidade no setor das comunicações eletrónicas
-       (Diretiva relativa à privacidade e às comunicações eletrónicas); JO L 201 de 31.7.2002, p. 37.
+  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the
+processing of personal data and the protection of privacy in the electronic communications sector (Directive on
+privacy and electronic communications); OJ L 201, 31/07/2002 P. 0037 - 0047
 7
-       Artigo 94.º da DSP, etc.
+  Art. 94 PSD etc.
 8
-       Regulamento Delegado (UE) 2018/389 da Comissão, de 27 de novembro de 2017, que complementa a
-       Diretiva (UE) 2015/2366 do Parlamento Europeu e do Conselho no que respeita às normas técnicas de
-       regulamentação relativas à autenticação forte do cliente e às normas abertas de comunicação comuns
-       e seguras (Texto relevante para efeitos do EEE); C/2017/7782; JO L 69 de 13.3.2018, p. 23; disponível
-       em https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32018R0389&from=PT
-
-
-
-Adotadas                                                                                                  5
-
-      e pelos PSIP. Por conseguinte, o presente documento aborda as condições para conceder acesso
-      às informações sobre a conta de pagamento pelos PSPGC e o tratamento de dados pessoais pelos
-      PSIP e pelos PSIC, incluindo os requisitos e salvaguardas relativos ao tratamento de dados pessoais
-      pelos PSIP e pelos PSIC para além das finalidades iniciais para que os dados foram recolhidos,
-      principalmente se tal recolha tiver ocorrido no contexto da prestação de um serviço de informação
-      sobre contas9. O presente documento aborda também diferentes conceitos de consentimento
-      explícito ao abrigo da DSP2 e do RGPD, o tratamento de «dados de parte silenciosa», o tratamento
-      de categorias especiais de dados pessoais pelos PSIP e pelos PSIC e a aplicação dos principais
-      princípios da proteção de dados estabelecidos no RGPD, incluindo a minimização dos dados, a
-      transparência, a responsabilidade e as medidas de segurança. A DSP2 implica responsabilidades
-      multidisciplinares nos domínios, nomeadamente, da proteção dos consumidores e do direito da
-      concorrência. O âmbito de aplicação das presentes diretrizes não abrange considerações relativas
-      a estes domínios do direito.
-
-      Para facilitar a leitura das diretrizes, apresentam-se em seguida as principais definições utilizadas
-      no presente documento.
-
-     1.1 Definições
-«Prestador de serviços de informação sobre contas» (PSIC), prestador de um serviço em linha para
-prestação de informações consolidadas sobre uma ou mais contas de pagamento detidas pelo
-utilizador de serviços de pagamento junto de outro ou outros prestadores de serviços de pagamento;
-
-«Prestador de serviços de pagamento que gere a conta» (PSPGC), um prestador de serviços de
-pagamento que disponibiliza e mantém contas de pagamento para um ordenante;
-
-«Minimização dos dados», um princípio da proteção de dados segundo o qual os dados pessoais devem
-ser adequados, pertinentes e limitados ao que é necessário relativamente às finalidades para as quais
-são tratados;
-
-«Ordenante», uma pessoa singular ou coletiva titular de uma conta de pagamento que autoriza uma
-ordem de pagamento a partir dessa conta, ou, na falta de conta de pagamento, a pessoa singular ou
-coletiva que emite uma ordem de pagamento;
-
-«Beneficiário», uma pessoa singular ou coletiva que seja o destinatário previsto dos fundos que foram
-objeto de uma operação de pagamento;
-
-«Conta de pagamento», uma conta detida em nome de um ou mais utilizadores de serviços de
-pagamento que é utilizada para a execução de operações de pagamento;
-
-«Prestador do serviço de iniciação do pagamento» (PSIP), prestador de um serviço que inicia uma
-ordem de pagamento a pedido do utilizador do serviço de pagamento relativamente a uma conta de
-pagamento detida noutro prestador de serviços de pagamento;
-
-«Prestador de serviços de pagamento», uma entidade a que se refere o artigo 1.º, n.º 1, da DSP210 ou
-uma pessoa singular ou coletiva que beneficie de uma isenção por força do artigo 32.º ou 33.º da DSP2;
-
-
+  Commission Delegated Regulation (EU) 2018/389 of 27 November 2017 supplementing Directive (EU)
+2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for
+strong customer authentication and common and secure open standards of communication (Text with EEA
+relevance.); C/2017/7782; OJ L 69, 13.3.2018, p. 23–43; available at https://eur-lex.europa.eu/legal-
+content/EN/TXT/PDF/?uri=CELEX:32018R0389&from=EN
 9
-          Um serviço de informação sobre contas consiste num serviço em linha para prestação de informações
-          consolidadas sobre uma ou mais contas de pagamento detidas pelo utilizador de serviços de pagamento
-          junto de outro ou outros prestadores de serviços de pagamento.
+  An account information service is an online service to provide consolidated information on one or more
+payment accounts held by the payment service user either with another payment service provider or with
+more than one payment service provider.
+
+
+Adopted                                                                                                       5
+
+      addresses different notions of explicit consent under the PSD2 and the GDPR, the processing of
+      ‘silent party data’, the processing of special categories of personal data by PISPs and AISPs, the
+      application of the main data protection principles set forth by the GDPR, including data
+      minimisation, transparency, accountability and security measures. The PSD2 involves cross-
+      functional responsibilities in the fields of, inter alia, consumer protection and competition law.
+      Considerations regarding these fields of law are beyond the scope of these guidelines.
+
+      To facilitate the reading of the guidelines the main definitions used in this document are provided
+      below.
+
+     1.1 Definitions
+‘Account Information Service Provider’ (‘AISP’)’ refers to the provider of an online service to provide
+consolidated information on one or more payment accounts held by the payment service user with
+either another payment service provider or with more than one payment service provider;
+
+‘Account Servicing Payment Service Provider’ (‘ASPSP’) refers to a payment service provider providing
+and maintaining a payment account for a payer;
+
+‘Data minimisation’ is a principle of data protection, according to which personal data shall be
+adequate, relevant and limited to what is necessary in relation to the purposes for which they are
+processed;
+
+‘Payer’ refers to a natural or legal person who holds a payment account and allows a payment order
+from that payment account, or, where there is no payment account, a natural or legal person who
+gives a payment order;
+
+‘Payee’ refers to a natural or legal person who is the intended recipient of funds, which have been the
+subject of a payment transaction;
+
+‘Payment account’ means an account held in the name of one or more payment service users, which
+is used for the execution of payment transactions;
+
+‘Payment Initiation Service Provider’ (‘PISP’) refers to the provider of a service to initiate a payment
+order at the request of the payment service user with respect to a payment account held at another
+payment service provider;
+
+‘Payment service provider’ refers to a means a body referred to in Article 1(1) of the PSD210 or a natural
+or legal person benefiting from an exemption pursuant to Article 32 or 33 of the PSD2;
+
+
 10
-          Nos termos do seu artigo 1.º, n.º 1, a DSP2 estabelece as regras nos termos das quais os
-          Estados-Membros distinguem as seguintes categorias de prestadores de serviços de pagamento:
+   Art. 1 (1) PSD2 states that the PSD2 establishes the rules in accordance with which Member States shall
+distinguish between the following categories of payment service provider:
+ (a) credit institutions as defined in point (1) of Art. 4(1) of Regulation (EU) No 575/2013 of the European
+Parliament and of the Council (1), including branches thereof within the meaning of point (17) Art. 4(1) of that
+Regulation where such branches are located in the Union, whether the head offices of those branches are
+located within the Union or, in accordance with Art. 47 of Directive 2013/36/EU and with national law, outside
+the Union;
+(b) electronic money institutions within the meaning of point (1) of Art. 2 of Directive 2009/110/EC, including,
+in accordance with Art. 8 of that Directive and with national law, branches thereof, where such branches are
+located within the Union and their head offices are located outside the Union, in as far as the payment services
+provided by those branches are linked to the issuance of electronic money;
+(c) post office giro institutions which are entitled under national law to provide payment services;
+(d) payment institutions;
 
 
 
-Adotadas                                                                                                   6
+Adopted                                                                                                        6
 
-«Utilizador de serviços de pagamento», uma pessoa singular ou coletiva que utiliza um serviço de
-pagamento a título de ordenante ou de beneficiário, ou a ambos os títulos;
+‘Payment service user’ means a natural or legal person making use of a payment service in the capacity
+of payer, payee, or both;
 
-«Dados pessoais», informação relativa a uma pessoa singular identificada ou identificável («titular dos
-dados»); é considerada identificável uma pessoa singular que possa ser identificada, direta ou
-indiretamente, em especial por referência a um identificador, como por exemplo um nome, um número
-de identificação, dados de localização, identificadores por via eletrónica ou a um ou mais elementos
-específicos da identidade física, fisiológica, genética, mental, económica, cultural ou social dessa
-pessoa singular;
+‘Personal data’ means any information relating to an identified or identifiable natural person (‘data
+subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular
+by reference to an identifier such as a name, an identification number, location data, an online identifier
+or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or
+social identity of that natural person;
 
-«Proteção de dados desde a conceção», medidas técnicas ou organizativas incorporadas num produto
-ou serviço, concebidas para aplicar princípios da proteção de dados de forma eficaz e integrar as
-salvaguardas necessárias no tratamento de modo a cumprir os requisitos do RGPD e proteger os
-direitos dos titulares dos dados;
+‘Data protection by design’ refers to technical and organizational measures embedded into a product
+or service, which are designed to implement data-protection principles, in an effective manner and to
+integrate the necessary safeguards into the processing in order to meet the requirements of the GDPR
+and protect the rights of data subjects;
 
-«Proteção de dados por defeito», medidas técnicas e organizativas adequadas aplicadas no produto
-ou serviço para assegurar que, por defeito, só sejam tratados os dados pessoais que forem necessários
-para cada finalidade específica do tratamento;
+‘Data protection by default’ refers to appropriate technical and organisational measures implemented
+in a product or service which ensure that, by default, only personal data which are necessary for each
+specific purpose of the processing are processed;
 
-«NTR», Regulamento Delegado (UE) 2018/389 da Comissão, de 27 de novembro de 2017, que
-complementa a Diretiva (UE) 2015/2366 do Parlamento Europeu e do Conselho no que respeita às
-normas técnicas de regulamentação relativas à autenticação forte do cliente e às normas abertas de
-comunicação comuns e seguras;
+‘RTS’ refers to the Commission Delegated Regulation (EU) 2018/389 of 27 November 2017
+supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard
+to regulatory technical standards for strong customer authentication and common and secure open
+standards of communication;
 
-«Terceiros prestadores de serviços» (TPS) refere-se aos PSIP e aos PSIC.
+‘Third Party Providers’ (‘TPP’) refers to both PISPs and AISPs.
 
-     1.2 Serviços ao abrigo da DSP2
-      A DSP2 introduz dois novos tipos de (prestadores de) serviços de pagamento: os PSIP e os PSIC. O
-      anexo I da DSP2 contém os oito serviços de pagamento abrangidos pela mesma diretiva.
+ 1.2 Services under the PSD2
+    The PSD2 introduces two new kinds of payment service (providers): PISPs and AISPs. Annex 1 of
+    the PSD2 contains the eight payment services that are covered by the PSD2.
 
-      Os PSIP prestam serviços que iniciam ordens de pagamento a pedido do utilizador do serviço de
-      pagamento relativamente a uma conta de pagamento de um utilizador detida noutro prestador
-      de serviços de pagamento11. Um PSIP pode solicitar a um PSPGC (geralmente um banco) que inicie
-      uma operação em nome do utilizador do serviço de pagamento. O utilizador (do serviço de
-      pagamento) pode ser uma pessoa singular (titular dos dados) ou coletiva.
+    PISPs provide services to initiate payment orders at the request of the payment service user with
+    respect to a user’s payment account held at another payment service provider11. A PISP can
+    request an ASPSP (usually a bank) to initiate a transaction on behalf of the payment service user.
+    The (payment service) user can be a natural person (data subject) or a legal person.
+
+    AISPs provide online services for consolidated information on one or more payment accounts held
+    by the payment service user either with another payment service provider or with more than one
+    payment service provider12. According to recital 28 PSD2, the payment service user is able to have
+    an overall view of its financial situation immediately at any given moment.
+
+    When it comes to account information services, there could be several different types of services
+    offered, with the emphasis on different features and purposes. For example, some providers may
+    offer users services such as budget planning and monitoring spending. The processing of personal
+    data in the context of these services is covered by the PSD2. Services that entail creditworthiness
+    assessments of the payment service user or audit services performed on the basis of the collection
+    of information via an account information service fall outside of the scope of the PSD2 and
+    therefore fall under the GDPR. Furthermore, accounts other than payment accounts (e.g. savings,
 
 
-          a) Instituições de crédito, na aceção do artigo 4.º, n.º 1, ponto 1, do Regulamento (UE) n.º 575/2013 do
-          Parlamento Europeu e do Conselho, incluindo as suas sucursais, na aceção do ponto 17 do n.º 1 desse
-          artigo, quer a sede dessas sucursais esteja situada na União, quer, nos termos do artigo 47.º da
-          Diretiva 2013/36/UE e do direito nacional, fora da União;
-          b) Instituições de moeda eletrónica, na aceção do artigo 2.º, ponto 1, da Diretiva 2009/110/CE,
-          incluindo, nos termos do artigo 8.º dessa diretiva e do direito nacional, as suas sucursais, caso essas
-          sucursais estejam situadas na União e a sua sede esteja situada fora da União, na medida em que os
-          serviços de pagamento prestados por essas sucursais estejam associados à emissão de moeda
-          eletrónica;
-          c) Instituições de giro postal autorizadas pelo direito nacional a prestar serviços de pagamento;
-          d) Instituições de pagamento;
-          e) O BCE e os bancos centrais nacionais, quando não atuem na qualidade de autoridades monetárias ou
-          de outras autoridades públicas;
-          f) Os Estados-Membros ou as respetivas autoridades regionais ou locais, quando não atuem na
-          qualidade de autoridades públicas.
+(e) the ECB and national central banks when not acting in their capacity as monetary authority or other public
+authorities;
+(f) Member States or their regional or local authorities when not acting in their capacity as public authorities.
 11
-          Artigo 4.º, ponto 15, da DSP2.
-
-
-
-Adotadas                                                                                                        7
-
-     Os PSIC prestam serviços em linha para prestação de informações consolidadas sobre uma ou mais
-     contas de pagamento detidas pelo utilizador de serviços de pagamento junto de outro ou outros
-     prestadores de serviços de pagamento12. Segundo o considerando 28 da DSP2, o utilizador de
-     serviços de pagamento pode ter imediatamente uma visão global da sua situação financeira num
-     dado momento.
-
-     No que diz respeito aos serviços de informação sobre contas, podem ser oferecidos vários tipos
-     diferentes de serviços, com ênfase em diferentes elementos e finalidades. Por exemplo, alguns
-     prestadores de serviços podem oferecer aos utilizadores serviços como o planeamento orçamental
-     ou o acompanhamento das despesas. O tratamento de dados pessoais no contexto destes serviços
-     é abrangido pela DSP2. Os serviços que implicam verificações da solvabilidade do utilizador de
-     serviços de pagamento ou serviços de auditoria prestados com base na recolha de informações
-     através de um serviço de informação sobre contas não se inserem no âmbito de aplicação da DSP2
-     e, por conseguinte, regem-se pelo RGPD. Além disso, as contas que não são de contas de
-     pagamento (por exemplo, poupanças, investimentos) também não são abrangidas pela DSP2. Em
-     qualquer caso, o RGPD é o quadro jurídico aplicável ao tratamento de dados pessoais.
-
- Exemplo 1:
-
- A Bons Pagamentos é uma empresa que presta um serviço em linha assente na prestação de
- informações sobre uma ou mais contas de pagamento através de uma aplicação móvel a fim de
- proporcionar uma visão geral da situação financeira (um serviço de informação sobre contas). Com
- este serviço, o utilizador de serviços de pagamento pode ver ao mesmo tempo os saldos e as
- operações recentes em duas ou mais contas de pagamento em bancos diferentes. É também
- disponibilizada, se for essa a opção do utilizador de serviços de pagamento, uma categorização das
- despesas e das receitas de acordo com diferentes tipologias (salário, lazer, energia, crédito
- hipotecário, etc.), de forma a apoiar o planeamento financeiro do utilizador em causa. Nesta
- aplicação, a Bons Pagamentos também presta um serviço que inicia pagamentos diretamente a
- partir da(s) conta(s) de pagamento designada(s) dos utilizadores (um serviço de iniciação do
- pagamento).
-
-     Tendo em vista a prestação destes serviços, a DSP2 estabelece as condições legais em que os PSIP
-     e os PSIC podem aceder às contas de pagamento para prestar um serviço ao utilizador de serviços
-     de pagamento.
-
-     O artigo 66.º, n.º 1, e o artigo 67.º, n.º 1, da DSP2 determinam que o acesso e recurso aos serviços
-     de pagamento e de informação sobre contas constituem direitos do utilizador de serviços de
-     pagamento. Por conseguinte, o utilizador de serviços de pagamento deve manter total liberdade
-     relativamente ao exercício deste direito e não pode ser obrigado a exercê-lo.
-
-     O acesso às contas de pagamento e a utilização de informações sobre as contas de pagamento são
-     parcialmente regulamentados pelos artigos 66.º e 67.º da DSP2, que contêm salvaguardas relativas
-     à proteção de dados (pessoais). O artigo 66.º, n.º 3, alínea f), da DSP2 estabelece que um PSIP não
-     pode exigir ao utilizador de serviços de pagamento quaisquer outros dados além dos necessários
-     para prestar o serviço de iniciação do pagamento, e o artigo 66.º, n.º 3, alínea g), da DSP2
-     estabelece que um PSIP não pode utilizar nem armazenar dados nem aceder aos mesmos para
-     outros fins que não sejam a prestação do serviço de iniciação do pagamento expressamente
-     solicitado pelo utilizador de serviços de pagamento. Além disso, o artigo 67.º, n.º 2, alínea d), da
-     DSP2 limita o acesso dos PSIC às informações das contas de pagamento designadas e das
-
+   Art. 4 (15) PSD2.
 12
-        Artigo 4.º, ponto 16, da DSP2.
+   Art. 4 (16) PSD2
 
 
-Adotadas                                                                                               8
+Adopted                                                                                                             7
 
-   operações de pagamento associadas, enquanto o artigo 67.º, n.º 2, alínea f), da DSP2 estabelece
-   que os PSIC não podem utilizar nem armazenar dados nem aceder aos mesmos para outros fins
-   que não sejam a prestação do serviço de informação sobre contas expressamente solicitado pelo
-   utilizador de serviços de pagamento, de acordo com as regras em matéria de proteção de dados.
-   Estas regras salientam que, no contexto dos serviços de informação sobre contas, os dados
-   pessoais apenas podem ser recolhidos para finalidades determinadas, explícitas e legítimas. Por
-   conseguinte, um PSIC deve explicitar no contrato as finalidades específicas para que serão tratados
-   dados pessoais no âmbito da informação sobre contas, no contexto dos serviços de informação
-   sobre contas por ele prestados. O contrato deve ser lícito, leal e transparente, nos termos do
-   artigo 5.° do RGPD, bem como cumprir outras leis relativas à proteção dos consumidores.
+   investments) are not covered by the PSD2 either. In any case, the GDPR is the applicable legal
+   framework for the processing of personal data.
 
-   Consoante as circunstâncias específicas, os prestadores de serviços de pagamento podem ser
-   responsáveis pelo tratamento ou subcontratantes nos termos do RGPD. Nas presentes diretrizes,
-   os «responsáveis pelo tratamento» são os prestadores de serviços de pagamento que,
-   individualmente ou em conjunto com outras partes, determina as finalidades e os meios de
-   tratamento de dados pessoais. As Diretrizes 07/2020 do CEPD, relativas aos conceitos de
-   responsável pelo tratamento e subcontratante no RGPD, contêm mais orientações sobre esta
-   questão.
+ Example 1:
+
+ HappyPayments is a company that offers an online service consisting of the provision of information
+ on one or more payment accounts through a mobile app in order to provide financial oversight (an
+ Account Information Service). With this service the payment service user can see at a glance the
+ balances and recent transactions in two or more payment accounts at different banks. It also offers,
+ when a payment service user chooses to do so, a categorisation of spending and income according
+ to different typologies (salary, leisure, energy, mortgage, etc.), thus helping the payment service
+ user with financial planning. Within this app, HappyPayments also offers a service to initiate
+ payments directly from the users designated payment account(s) (a Payment Initiation Service).
+
+   In order to provide those services, the PSD2 regulates the legal conditions under which PISPs and
+   AISPs can access payment accounts to provide a service to the payment service user.
+
+   Articles 66 (1) and 67 (1) PSD2 determine that the access and the use of payment and account
+   information services are rights of the payment service user. This means that the payment service
+   user should remain entirely free with regard to the exercise of such right and cannot be forced to
+   make use of this right.
+
+   Access to payment accounts and the use of payment account information is partly regulated in
+   Articles 66 and 67 PSD2, which contain safeguards regarding the protection of (personal) data.
+   Article 66 (3) (f) PSD2 states that the PISP shall not request from the payment service user any data
+   other than those necessary to provide the payment initiation service, and Article 66 (3) (g) PSD2
+   provides that PISPs shall not use, access or store any data for purposes other than for performing
+   the payment initiation service explicitly requested by the payment service user. Furthermore,
+   Article 67 (2) (d) PSD2 limits the access of AISPs to the information from designated payment
+   accounts and associated payment transactions, whereas Article 67 (2) (f) PSD2 states that AISPs
+   shall not use, access or store any data for purposes other than for performing the account
+   information service explicitly requested by the payment service user, in accordance with data
+   protection rules. The latter emphasises that, within the context of the account information
+   services, personal data can only be collected for specified, explicit and legitimate purposes. An
+   AISP should therefore make explicit in the contract for what specific purposes personal account
+   information data are going to be processed for, in the context of the account information service
+   it provides. The contract should be lawful, fair and transparent under Article 5 of the GDPR and
+   also comply with other consumer protection laws.
+
+   Depending on specific circumstances, payment service providers could be a controller or processor
+   under the GDPR. In these guidelines, ‘controllers’ are those payment service providers who, alone
+   or jointly with others, determine the purposes and means of the processing of personal data. More
+   guidance on this can be found in the EDPB Guidelines 07/2020 on the concepts of controller and
+   processor in the GDPR.
 
 
 
 
-Adotadas                                                                                            9
+Adopted                                                                                                 8
 
-2 RAZÕES LEGÍTIMAS E TRATAMENTO POSTERIOR AO ABRIGO DA
-  DSP2
-     2.1 Razões legítimas para o tratamento
-       Nos termos do RGPD, os responsáveis pelo tratamento devem ter um fundamento jurídico para
-       tratar dados pessoais. O artigo 6.º, n.º 1, do RGPD constitui uma lista exaustiva e restritiva de seis
-       fundamentos jurídicos para o tratamento de dados pessoais ao abrigo do RGPD13. Cabe ao
-       responsável pelo tratamento definir o fundamento jurídico adequado e assegurar que todas as
-       condições associadas ao mesmo se encontram preenchidas. A determinação do fundamento
-       válido e mais adequado numa determinada situação depende das circunstâncias em que o
-       tratamento ocorre, incluindo a finalidade do tratamento e a relação entre o responsável pelo
-       tratamento e o titular dos dados.
+2 LAWFUL GROUNDS AND FURTHER PROCESSING UNDER THE PSD2
+     2.1 Lawful grounds for processing
+       Under the GDPR, controllers must have a legal basis in order to process personal data. Article 6 (1)
+       of the GDPR constitutes an exhaustive and restrictive list of six legal bases for processing of
+       personal data under the GDPR13. It is up to the controller to define the appropriate legal basis and
+       ensure that all conditions for this legal basis are met. Determining which basis is valid and most
+       appropriate in a specific situation depends on the circumstances under which the processing takes
+       place, including the purpose of the processing and relationship between the controller and the
+       data subject.
 
-     2.2 Artigo 6.º, n.º 1, alínea b), do RGPD (o tratamento é necessário para a execução
-         de um contrato)
-       Os serviços de pagamento são prestados numa base contratual entre o utilizador e o prestador do
-       serviço de pagamento. Conforme referido no considerando 87 da DSP2, esta diretiva «deverá dizer
-       exclusivamente respeito às obrigações e responsabilidades contratuais entre o utilizador do serviço
-       de pagamento e o prestador do serviço de pagamento». No que diz respeito ao RGPD, o principal
-       fundamento jurídico para o tratamento de dados pessoais para a prestação de serviços de
-       pagamento é o artigo 6.º, n.º 1, alínea b), do RGPD, ou seja, a necessidade do tratamento para a
-       execução de um contrato no qual o titular dos dados é parte, ou para diligências pré-contratuais a
-       pedido do titular dos dados.
+     2.2 Article 6(1)(b) of the GDPR (processing is necessary for the performance of a
+         contract)
+       Payment services are provided on a contractual basis between the payment services user and the
+       payment services provider. As stated in recital 87 of the PSD2, "[t]his Directive should concern only
+       contractual obligations and responsibilities between the payment service user and the payment
+       service provider." In terms of the GDPR, the main legal basis for the processing of personal data
+       for the provision of payment services is Article 6(1)(b) of the GDPR, meaning that the processing is
+       necessary for the performance of a contract to which the data subject is party or in order to take
+       steps at the request of the data subject prior to entering into a contract.
 
-       Os serviços de pagamento ao abrigo da DSP2 são definidos no anexo I da mesma diretiva. A
-       prestação destes serviços, na aceção da DSP2, é um requisito da celebração de um contrato em
-       que as partes têm acesso aos dados da conta de pagamento do utilizador do serviço de pagamento.
-       Estes prestadores de serviços de pagamento têm de ser também operadores licenciados. No que
-       se refere aos serviços de iniciação de pagamentos e aos serviços de informação sobre contas ao
-
+       The payment services under the PSD2 are defined in annex 1 of the PSD2. The provision of these
+       services as defined by the PSD2 is a requirement for the establishment of a contract in which
+       parties have access to payment account data of the payment service user. These payment service
+       providers also have to be licenced operators. In relation to payment initiation services and account
+       information services under the PSD2, contracts may incorporate terms that also impose conditions
+       about additional services that are not regulated by the PSD2. The EDPB Guidelines 2/2019 on the
+       processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online
+       services to data subjects make clear that controllers have to assess what processing of personal
+       data is objectively necessary to perform the contract. These Guidelines point out that the
+       justification of the necessity is dependent on the nature of the service, the mutual perspectives
 
 13
-           Nos termos do artigo 6.º, o tratamento só é lícito se e na medida em que se verifique pelo menos uma
-           das seguintes situações:
-       (a) O titular dos dados tiver dado o seu consentimento para o tratamento dos seus dados pessoais para
-           uma ou mais finalidades específicas;
-       (b) O tratamento for necessário para a execução de um contrato no qual o titular dos dados é parte, ou
-           para diligências pré-contratuais a pedido do titular dos dados;
-       (c) O tratamento for necessário para o cumprimento de uma obrigação jurídica a que o responsável pelo
-           tratamento esteja sujeito;
-       (d) O tratamento for necessário para a defesa de interesses vitais do titular dos dados ou de outra pessoa
-           singular;
-       (e) O tratamento for necessário ao exercício de funções de interesse público ou ao exercício da autoridade
-           pública de que está investido o responsável pelo tratamento;
-       (f) O tratamento for necessário para efeito dos interesses legítimos prosseguidos pelo responsável pelo
-           tratamento ou por terceiros, exceto se prevalecerem os interesses ou direitos e liberdades
-           fundamentais do titular que exijam a proteção dos dados pessoais, em especial se o titular for uma
-           criança.
+  According to Article 6 processing shall be lawful only if and to the extent that at least one of the following
+applies:
+       (a) the data subject has given consent to the processing of his or her personal data for one or more
+           specific purposes;
+       (b) processing is necessary for the performance of a contract to which the data subject is party or in order
+           to take steps at the request of the data subject prior to entering into a contract;
+       (c) processing is necessary for compliance with a legal obligation to which the controller is subject;
+       (d) processing is necessary in order to protect the vital interests of the data subject or of another natural
+           person;
+       (e) processing is necessary for the performance of a task carried out in the public interest or in the
+           exercise of official authority vested in the controller;
+       (f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by a
+           third party, except where such interests are overridden by the interests or fundamental rights and
+           freedoms of the data subject which require protection of personal data, in particular where the data
+           subject is a child.
 
 
 
 
-Adotadas                                                                                                      10
+Adopted                                                                                                                9
 
-     abrigo da DSP2, os contratos podem conter cláusulas que também imponham condições sobre
-     serviços adicionais não regulados pela DSP2. As Diretrizes 2/2019 sobre o tratamento de dados
-     pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD no contexto da prestação de serviços em
-     linha aos titulares dos dados do CEPD esclarecem que os responsáveis pelo tratamento devem
-     avaliar que tratamento de dados pessoais é objetivamente necessário para a execução do
-     contrato. As referidas diretrizes salientam que a justificação da necessidade depende da natureza
-     do serviço, das perspetivas e expectativas mútuas das partes do contrato, da lógica do contrato e
-     dos elementos essenciais do contrato.
+     and expectations of the parties to the contract, the rationale of the contract and the essential
+     elements of the contract.
 
-     As Diretrizes 2/2019 do CEPD também clarificam que, à luz do artigo 7.º, n.º 4, do RGPD, existe
-     uma distinção entre as atividades de tratamento necessárias para a execução de um contrato e as
-     cláusulas que tornam o serviço subordinado a determinadas atividades de tratamento que não
-     são, de facto, necessárias para a execução do contrato. A expressão «necessário para a execução»
-     exige claramente algo mais do que uma cláusula contratual14. O responsável pelo tratamento deve
-     poder demonstrar de que modo o objeto principal do contrato específico com o titular dos dados
-     não pode, na realidade, ser executado se o tratamento específico dos dados pessoais em questão
-     não ocorrer. A simples referência ou menção do tratamento de dados num contrato não é
-     suficiente para inserir o tratamento em causa no âmbito de aplicação do artigo 6.º, n.º 1, alínea b),
-     do RGPD.
+     The EDPB guidelines 2/2019 also make clear that, in light of Article 7(4) of the GDPR, a distinction
+     is made between processing activities necessary for the performance of a contract and terms
+     making the service conditional on certain processing activities that are not in fact necessary for
+     the performance of the contract. ‘Necessary for performance’ clearly requires something more
+     than a contractual condition14. The controller should be able to demonstrate how the main object
+     of the specific contract with the data subject cannot, as a matter of fact, be performed if the
+     specific processing of the personal data in question does not occur. Merely referencing or
+     mentioning data processing in a contract is not enough to bring the processing in question within
+     the scope of Article 6(1)(b) of the GDPR.
 
-     O artigo 5.º, n.º 1, alínea b), do RGPD estabelece o princípio da limitação das finalidades, segundo
-     o qual os dados pessoais devem ser recolhidos para finalidades determinadas, explícitas e
-     legítimas, não podendo ser tratados posteriormente de uma forma incompatível com essas
-     finalidades. Ao avaliar se o artigo 6.º, n.º 1, alínea b), constitui um fundamento jurídico adequado
-     para um serviço (de pagamento) em linha, deve ter-se em conta o fim, a finalidade ou o objetivo
-     específicos do serviço15. As finalidades do tratamento devem ser claramente especificadas e
-     comunicadas ao titular dos dados, em conformidade com as obrigações de limitação das
-     finalidades e de transparência do responsável pelo tratamento. A avaliação do que é «necessário»
-     implica uma avaliação combinada, baseada em factos, do tratamento «para o objetivo prosseguido
-     e da sua menor intrusão em comparação com outras opções para atingir o mesmo objetivo». O
-     artigo 6.º, n.º 1, alínea b), não abrange o tratamento útil mas não objetivamente necessário para
-     a execução do serviço contratual ou para diligências pré-contratuais relevantes a pedido do titular
-     dos dados, mesmo que tal seja necessário para outros fins comerciais do responsável pelo
-     tratamento16.
+     Article 5 (1) (b) of the GDPR provides for the purpose limitation principle, which requires that
+     personal data must be collected for specified, explicit, and legitimate purposes and not further
+     processed in a manner that is incompatible with those purposes. When assessing whether Article
+     6(1)(b) is an appropriate legal basis for an online (payment) service, regard should be given to the
+     particular aim, purpose, or objective of the service15. The purposes of the processing must be
+     clearly specified and communicated to the data subject, in line with the controller’s purpose
+     limitation and transparency obligations. Assessing what is ‘necessary’ involves a combined, fact-
+     based assessment of the processing “for the objective pursued and of whether it is less intrusive
+     compared to other options for achieving the same goal”. Article 6(1)(b) does not cover processing
+     which is useful but not objectively necessary for performing the contractual service or for taking
+     relevant pre-contractual steps at the request of the data subject, even if it is necessary for the
+     controller’s other business purposes16.
 
-     As Diretrizes 2/2019 do CEPD esclarecem que os contratos não podem expandir artificialmente as
-     categorias de dados pessoais ou os tipos de operações de tratamento que o responsável pelo
-     tratamento tem de efetuar para a execução do contrato, na aceção do artigo 6.º, n.º 1, alínea b)17.
-     As referidas diretrizes também referem casos em que podem ser criadas situações de «pegar ou
-     largar» para os titulares dos dados que apenas possam estar interessados num dos serviços. Tal
-     pode acontecer quando o responsável pelo tratamento pretende agregar vários serviços distintos
-     ou elementos de um serviço com diferentes finalidades, características ou lógica fundamentais
-     num único contrato. Sempre que o contrato consista em vários serviços ou elementos de um
+     The EDPB Guidelines 2/2019 make clear that contracts cannot artificially expand the categories of
+     personal data or types of processing operation that the controller needs to carry out for the
+     performance of the contract within the meaning of Article 6(1)(b)17. These Guidelines also address
+     cases in which ‘take it or leave it’ situations may be created for data subjects who may only be
+     interested in one of the services. This could happen when a controller wishes to bundle several
+     separate services or elements of a service with different fundamental purposes, features or
+     rationale into one contract. Where the contract consists of several separate services or elements
+     of a service that can in fact reasonably be performed independently of one another, the
+     applicability of Article 6(1)(b) should be assessed in the context of each of those services
+     separately, looking at what is objectively necessary to perform each of the individual services
+     which the data subject has actively requested or signed up for18.
+
+     In line with the abovementioned Guidelines, controllers have to assess what is objectively
+     necessary for the performance of the contract. Where controllers cannot demonstrate that the
+     processing of the personal payment account data is objectively necessary for the provision of each
+     of these services separately, Article 6 (1) (b) of the GDPR is not a valid legal ground for processing.
+     In these cases, the controller should consider another legal basis for processing.
+
 
 14
-         Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD
-         no contexto da prestação de serviços em linha aos titulares dos dados, CEPD, página 9.
+   Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the
+provision of online services to data subjects, EDPB, page 8.
 15
-         Idem.
+   Idem.
 16
-         Idem, página 9.
+   Idem, page 7.
 17
-         Idem, página 10.
-
-
-
-Adotadas                                                                                                       11
-
-      serviço distintos que, de facto, podem ser razoavelmente prestados independentemente uns dos
-      outros, a aplicabilidade do artigo 6.º, n.º 1, alínea b), deve ser avaliada no contexto de cada um
-      desses serviços, isoladamente, verificando-se o que é objetivamente necessário para prestar cada
-      um dos serviços individuais que o titular dos dados tenha ativamente solicitado ou aceite18.
-
-      Em conformidade com as diretrizes supramencionadas, os responsáveis pelo tratamento têm de
-      avaliar o que é objetivamente necessário para a execução do contrato. Quando os responsáveis
-      pelo tratamento não podem demonstrar que o tratamento dos dados pessoais da conta de
-      pagamento é objetivamente necessário para a prestação de cada um dos serviços isoladamente,
-      o artigo 6.º, n.º 1, alínea b), do RGPD não é um fundamento jurídico válido para o tratamento.
-      Nestes casos, o responsável pelo tratamento deverá considerar outro fundamento jurídico para o
-      tratamento.
-
-     2.3 Prevenção da fraude
-      Nos termos do artigo 94.º, n.º 1, da DSP2, os Estados-Membros devem permitir o tratamento de
-      dados pessoais pelos sistemas de pagamento e pelos prestadores de serviços de pagamento
-      quando tal for necessário para salvaguardar a prevenção, a investigação e a deteção de fraudes
-      em matéria de pagamentos. O tratamento de dados pessoais estritamente necessário aos
-      objetivos de prevenção da fraude pode constituir um interesse legítimo do prestador de serviços
-      de pagamento em causa, desde que a esse interesse não se sobreponham os interesses ou os
-      direitos e liberdades fundamentais do titular dos dados19. As atividades de tratamento para efeitos
-      de prevenção da fraude devem basear-se numa avaliação cuidada, caso a caso, realizada pelo
-      responsável pelo tratamento, em conformidade com o princípio da responsabilidade. Além disso,
-      para prevenir a fraude, os responsáveis pelo tratamento poderão também ser sujeitos a
-      obrigações legais específicas subjacentes ao tratamento de dados pessoais.
-
-     2.4 Tratamento posterior (PSIC e PSIP)
-      O artigo 6.º, n.º 4, do RGPD determina as condições do tratamento de dados pessoais para fins
-      que não sejam aqueles para os quais os dados pessoais foram recolhidos. Mais concretamente,
-      este tratamento posterior pode ocorrer se se basear em disposições do direito da União ou dos
-      Estados-Membros que constituam uma medida necessária e proporcionada numa sociedade
-      democrática para salvaguardar os objetivos referidos no artigo 23.º, n.º 1, se o titular dos dados o
-      tiver consentido ou se o tratamento para outros fins for compatível com a finalidade para a qual
-      os dados pessoais foram inicialmente recolhidos.
-
-      O artigo 66.º, n.º 3, alínea g), e o artigo 67.º, n.º 2, alínea f), da DSP2 devem ser devidamente tidos
-      em consideração. Conforme referido acima, o artigo 66.º, n.º 3, alínea g), da DSP2 estabelece que
-      os PSIP não podem utilizar nem armazenar dados nem aceder aos mesmos para outros fins que
-      não sejam a prestação do serviço de iniciação do pagamento expressamente solicitado pelo
-      ordenante. O artigo 67.º, n.º 2, alínea f), da DSP2 estabelece que os PSIC não podem utilizar nem
-      armazenar dados nem aceder aos mesmos para outros fins que não sejam a prestação do serviço
-      de informação sobre contas expressamente solicitado pelo utilizador de serviços de pagamento,
-      de acordo com as regras em matéria de proteção de dados.
-
-      Consequentemente, o artigo 66.º, n.º 3, alínea g), e o artigo 67.º, n.º 2, alínea f), da DSP2 limitam
-      consideravelmente as possibilidades de tratamento para outras finalidades, na medida em que
-      este tratamento apenas é permitido se o titular dos dados o tiver consentido nos termos do
-
+   Idem, page 10.
 18
-          Idem, página 12.
+   Idem, page 11.
+
+
+Adopted                                                                                                    10
+
+     2.3 Fraud prevention
+       Article 94 (1) PSD2 states that Member States shall permit processing of personal data by payment
+       systems and payment service providers when necessary to safeguard the prevention, investigation
+       and detection of payment fraud. The processing of personal data strictly necessary for the
+       purposes of preventing fraud could constitute a legitimate interest of the payment service provider
+       concerned, provided that such interests are not overridden by the interests or fundamental rights
+       and freedoms of the data subject19. Processing activities for the purpose of fraud prevention
+       should be based on a careful case by case evaluation by the controller, in accordance with the
+       accountability principle. In addition, to prevent fraud, controllers may also be subject to specific
+       legal obligations that necessitate the processing of personal data.
+
+     2.4 Further processing (AISP and PISP)
+       Article 6 (4) of the GDPR determines the conditions for the processing of personal data for a
+       purpose other than that for which the personal data have been collected. More specifically, such
+       further processing may take place, where it is based on a Union or Member State law, which
+       constitutes a necessary and proportionate measure in a democratic society to safeguard the
+       objectives referred to in Article 23(1), where the data subject has given their consent or where the
+       processing for a purpose other than that for which the personal data were collected is compatible
+       with the initial purpose.
+
+       Articles 66 (3) (g) and 67 (2) (f) of the PSD2 have to be taken into careful consideration. As
+       mentioned above, Article 66 (3) (g) of the PSD2 states that the PISP shall not use, access or store
+       any data for purposes other than for the provision of the payment initiation service as explicitly
+       requested by the payer. Article 67 (2) (f) of the PSD2 states that the AISP shall not use, access or
+       store any data for purposes other than for performing the account information service explicitly
+       requested by the payment service user, in accordance with data protection rules.
+
+       Consequently, Article 66(3)(g) and Article 67 (2) (f) of the PSD2 considerably restrict the
+       possibilities for processing for other purposes, meaning that the processing for another purpose is
+       not allowed, unless the data subject has given consent pursuant to Article 6(1)(a) of the GDPR or
+       the processing is laid down by Union law or Member State law to which the controller is subject,
+       pursuant to Article 6 (4) of the GDPR. Where the processing for a purpose other than that for which
+       the personal data have been collected is not based on the data subject’s consent or on a Union or
+       Member State law, the restrictions laid down in Article 66(3)(g) and Article 67(2)(f) of the PSD2
+       make clear that any other purpose is not compatible with the purpose for which the personal data
+       are initially collected. The compatibility test of Article 6(4) GDPR cannot result in a legal basis for
+       processing.
+
+       Article 6 (4) of the GDPR allows for further processing based on Union or Member State law. For
+       example, all PISPs and AISPs are obliged entities under Article 3 (2) (a) Directive (EU) 2015/849 of
+       the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the
+       financial system for the purposes of money laundering or terrorist financing of the anti-money
+       laundering directive. These obliged entities are therefore compelled to apply the customer due
+       diligence measures as specified in the directive. The personal data processed in connection with a
+
+
+
+
 19
-          Considerando 47 do RGPD.
+     Recital 47 GDPR.
 
 
-Adotadas                                                                                                  12
 
-      artigo 6.º, n.º 1, alínea a), do RGPD ou se tal tratamento for definido pelo direito da União ou pelo
-      direito do Estado-Membro ao qual o responsável pelo tratamento está sujeito, nos termos do
-      artigo 6.º, n.º 4, do RGPD. Nos casos em que o tratamento para fins que não aqueles para os quais
-      os dados pessoais foram recolhidos não é realizado com base no consentimento do titular dos
-      dados ou em disposições do direito da União ou dos Estados-Membros, as restrições estabelecidas
-      no artigo 66.º, n.º 3, alínea g), e no artigo 67.º, n.º 2, alínea f), da DSP2 esclarecem que nenhum
-      outro fim é compatível com a finalidade para a qual os dados pessoais foram inicialmente
-      recolhidos. O teste de compatibilidade do artigo 6.º, n.º 4, do RGPD não pode resultar num
-      fundamento jurídico para o tratamento.
+Adopted                                                                                                    11
 
-      O artigo 6.º, n.º 4, do RGPD permite o tratamento posterior com base em disposições do direito
-      da União ou dos Estados-Membros. Por exemplo, todos os PSIP e PSIC são entidades obrigadas nos
-      termos do artigo 3.º, ponto 2, alínea a), da Diretiva (UE) 2015/849 do Parlamento Europeu e do
-      Conselho, de 20 de maio de 2015, relativa à prevenção da utilização do sistema financeiro para
-      efeitos de branqueamento de capitais ou de financiamento do terrorismo, ou Diretiva
-      Antibranqueamento de Capitais. Estas entidades obrigadas têm de aplicar medidas de diligência
-      quanto à clientela conforme especificado na diretiva. Por conseguinte, os dados pessoais tratados
-      no âmbito de um serviço previsto na DSP2 são objeto de tratamento posterior com base em pelo
-      menos uma obrigação jurídica do prestador de serviços20.
+       PSD2 service are, therefore, further processed based on at least one legal obligation resting on the
+       service provider20.
 
-      Conforme mencionado no ponto 20, o artigo 6.º, n.º 4, do RGPD indica que o tratamento para fins
-      que não sejam aqueles para os quais os dados pessoais foram recolhidos se pode basear no
-      consentimento do titular dos dados, se estiverem preenchidas todas as condições aplicáveis ao
-      consentimento nos termos do RGPD. Como descrito acima, o responsável pelo tratamento tem de
-      demonstrar que é possível recusar ou retirar o consentimento sem ser prejudicado (considerando
-      42 do RGPD).
+       As mentioned in paragraph 20, Article 6 (4) of the GDPR indicates that the processing for a purpose
+       other than that for which the personal data have been collected could be based on the data
+       subject's consent, if all the conditions for consent under the GDPR are met. As set out above, the
+       controller needs to demonstrate that it is possible to refuse or withdraw consent without
+       detriment (recital 42 of the GDPR).
 
-     2.5 Razão legítima para conceder acesso à conta (PSPGC)
-      Conforme mencionado no ponto 10, os utilizadores de serviços de pagamento podem exercer o
-      direito de utilizar serviços de iniciação de pagamentos e de informação sobre contas. As obrigações
-      impostas aos Estados-Membros pelo artigo 66.º, n.º 1, e pelo artigo 67.º, n.º 1, da DSP2 devem ser
-      transpostas para o direito nacional para garantir a aplicação efetiva do direito do utilizador do
-      serviço de pagamento a beneficiar dos serviços de pagamento supramencionados. A aplicação
-      efetiva destes direitos não seria possível sem uma obrigação correspondente do PSPGC,
-      geralmente um banco, de conceder ao prestador do serviço de pagamento acesso à conta desde
-      que este cumpra todos os requisitos para ter acesso à conta do utilizador do serviço de pagamento.
-      Além disso, o artigo 66.º, n.º 5, e o artigo 67.º, n.º 4, da DSP2 estabelecem claramente que a
-      prestação dos serviços de iniciação de pagamentos e dos serviços de informação sobre contas não
-      está subordinada à existência de uma relação contratual entre o PSIP/PSIC e o PSPGC.
+     2.5 Lawful ground for granting access to the Account (ASPSPs)
+       As mentioned in paragraph 10, payment service users can exercise their right to make use of
+       payment initiation and account information services. The obligations imposed on the Member
+       States in Articles 66(1) and 67(1) of the PSD2 should be implemented in national law in order to
+       guarantee the effective application of the right of the payment service user to benefit from the
+       aforementioned payment services. The effective application of such rights would not be possible
+       without the existence of a corresponding obligation on the ASPSP, typically a bank, to grant the
+       payment service provider access to the account under the condition that it has fulfilled all
+       requirements to get access to the account of the payment service user. Furthermore, Articles 66(5)
+       and 67(4) of the PSD2 state clearly that the provision of payment initiation services and of account
+       information services shall not be dependent on the existence of a contractual relationship
+       between the PISP/AISP and the ASPSP.
 
-      O tratamento de dados pessoais pelo PSPGC assente na concessão do acesso aos dados pessoais
-      solicitado pelo PSIP e pelo PSIC para executar o seu serviço de pagamento ao utilizador baseia-se
-      numa obrigação jurídica. A fim de alcançar os objetivos da DSP2, os PSPGC têm de fornecer os
-      dados pessoais para os serviços dos PSIP e dos PSIC, enquanto condição necessária para que estes
-      prestem os seus serviços e, consequentemente, garantam os direitos previstos no artigo 66.º,
+       The processing of personal data by the ASPSP consisting of granting access to the personal data
+       requested by the PISP and AISP in order to perform their payment service to the payment service
+       user is based on a legal obligation. In order to achieve the objectives of the PSD2, ASPSPs must
+       provide the personal data for the PISPs´ and AISPs´ services, which is a necessary condition for
+       PISPs and AISPs to provide their services and thus ensure the rights provided for in Articles 66(1)
+       and 67(1) of the PSD2. Therefore, the applicable legal ground in this case is Article 6 (1) (c) of the
+       GDPR.
+
+       As the GDPR has specified that processing based on a legal obligation should be clearly laid down
+       by Union or Member State law (see Article 6 (3) of the GDPR), the obligation for ASPSPs to grant
+       access should stem from the national law transposing the PSD2.
 
 
 
 
 20
-          Note-se que está fora do âmbito do presente documento examinar de forma aprofundada se a Diretiva
-          Antibranqueamento de Capitais cumpre a norma prevista no artigo 6.º, n.º 4, do RGPD.
+  Note that a thorough examination of the question whether the anti-money laundering directive meets the
+standard of Art. 6 (4) GDPR falls outside of the scope of this document.
 
 
-Adotadas                                                                                                13
+Adopted                                                                                                    12
 
-   n.º 1, e no artigo 67.º, n.º 1, da DSP2. Por conseguinte, o fundamento jurídico aplicável neste caso
-   é o artigo 6.º, n.º 1, alínea c), do RGPD.
+3 EXPLICIT CONSENT
+     3.1 Consent under the GDPR
+      Under the GDPR, consent serves as one of the six legal grounds for the lawfulness of processing of
+      personal data. Article 4 (11) of the GDPR defines consent as “any freely given, specific, informed
+      and unambiguous indication of the data subject's wishes by which he or she, by a statement or by
+      a clear affirmative action, signifies agreement to the processing of personal data relating to him or
+      her”. These four conditions, freely given, specific, informed, and unambiguous, are essential for
+      the validity of consent. According to the EDPB Guidelines 05/2020 on consent under Regulation
+      2016/679, consent can only be an appropriate lawful basis if a data subject is offered control and
+      a genuine choice with regard to accepting or declining the terms offered or declining them without
+      detriment. When asking for consent, a controller has the duty to assess whether it will meet all the
+      requirements to obtain valid consent. If obtained in full compliance with the GDPR, consent is a
+      tool that gives data subjects control over whether or not personal data concerning them will be
+      processed. If not, the data subject’s control becomes illusory and consent will be an invalid legal
+      basis for processing, rendering the processing activity unlawful21.
 
-   Uma vez que o RGPD especificou que o tratamento baseado numa obrigação jurídica deve ser
-   claramente definido pelo direito da União ou de um Estado-Membro (ver artigo 6.º, n.º 3, do
-   RGPD), a obrigação do PSPGC de conceder acesso deve decorrer da legislação nacional que
-   transpõe a DSP2.
+      The GDPR also contains further safeguards in Article 7, which sets out that the data controller must
+      be in a position to demonstrate that there had been valid consent at the time of processing. Also,
+      the request for consent must be presented in a manner which is clearly distinguishable from the
+      other matters, in an intelligible and easily accessible form, using clear and plain language.
+      Furthermore, the data subject must be informed of the right to withdraw consent at any time, in
+      just as simple a way as it was to grant consent.
 
+      According to Article 9 GDPR, consent is one of the exceptions from the general prohibition for
+      processing special categories of personal data. However, in such case the data subject’s consent
+      must be ‘explicit’22.
 
+      According to the EDPB Guidelines 05/2020 on consent under Regulation 2016/679, explicit consent
+      under the GDPR refers to the way consent is expressed by the data subject. It means that the data
+      subject should give an express statement of consent for specific processing purpose(s). An obvious
+      way to make sure consent is explicit would be to expressly confirm consent in a written statement.
+      Where appropriate, the controller could make sure the written statement is signed by the data
+      subject, in order to remove all possible doubt and potential lack of evidence in the future.
 
+      Under no circumstances can consent be inferred from potentially ambiguous statements or
+      actions. A controller must also beware that consent cannot be obtained through the same motion
+      as agreeing to a contract or accepting general terms and conditions of a service.
 
-Adotadas                                                                                            14
+     3.2 Consent under the PSD2
+      The EDPB notes that the legal framework regarding explicit consent is complex, since both the
+      PSD2 and the GDPR include the concept of ‘explicit consent’. This leads to the question whether
+      “explicit consent” as mentioned in Article 94 (2) PSD2 should be interpreted in the same way as
+      explicit consent under the GDPR.
 
-3 CONSENTIMENTO EXPLÍCITO
-     3.1 Consentimento ao abrigo do RGPD
-      Nos termos do RGPD, o consentimento é um dos seis fundamentos jurídicos para a licitude do
-      tratamento de dados pessoais. O artigo 4.º, ponto 11, do RGPD define consentimento como «uma
-      manifestação de vontade, livre, específica, informada e explícita, pela qual o titular dos dados
-      aceita, mediante declaração ou ato positivo inequívoco, que os dados pessoais que lhe dizem
-      respeito sejam objeto de tratamento». Estas quatro condições — livre, específica, informada e
-      explícita — são essenciais para a validade do consentimento. Segundo as Diretrizes 05/2020 do
-      CEPD relativas ao consentimento na aceção do Regulamento 2016/679, o consentimento só pode
-      constituir fundamento jurídico adequado se, ao titular dos dados, for oferecido controlo e uma
-      verdadeira opção de aceitar ou recusar os termos propostos ou recusá-los sem ser prejudicado.
-      Ao solicitar o consentimento, os responsáveis pelo tratamento têm o dever de avaliar se irão
-      cumprir todos os requisitos para obter um consentimento válido. Caso seja obtido em
-      conformidade com o RGPD, o consentimento é um instrumento que permite aos titulares dos
-      dados controlarem se os dados pessoais que lhes dizem respeito vão ou não ser tratados. Caso não
-      o seja, o controlo do titular dos dados torna-se ilusório e o consentimento será um fundamento
-      jurídico inválido para o tratamento, tornando essa atividade de tratamento ilícita21.
-
-      O RGPD contém ainda salvaguardas adicionais no artigo 7.º, segundo o qual o responsável pelo
-      tratamento deve poder demonstrar que houve um consentimento válido aquando do tratamento.
-      Além disso, o pedido de consentimento deve ser apresentado de uma forma que o distinga
-      claramente dos outros assuntos, de modo inteligível e de fácil acesso, e numa linguagem clara e
-      simples. Por outro lado, o titular dos dados deve ser informado do direito de retirar o
-      consentimento a qualquer momento, de forma tão simples como a utilizada para dar
-      consentimento.
-
-      Nos termos do artigo 9.º do RGPD, o consentimento é uma das exceções à proibição geral de
-      tratamento de categorias especiais de dados pessoais. Contudo, neste caso, o consentimento do
-      titular dos dados tem de ser «explícito»22.
-
-      Segundo as Diretrizes 05/2020 do CEPD relativas ao consentimento na aceção do Regulamento
-      2016/679, o consentimento explícito na aceção do RGPD refere-se à forma como o consentimento
-      é manifestado pelo titular dos dados. Tal significa que o titular dos dados deve manifestar
-      expressamente o consentimento para a(s) finalidade(s) específica(s) do tratamento. Uma maneira
-      óbvia de garantir que o consentimento é explícito seria confirmar expressamente o consentimento
-      numa declaração escrita. Quando adequado, o responsável pelo tratamento pode certificar-se de
-      que a declaração escrita é assinada pelo titular dos dados, por forma a eliminar todas as dúvidas
-      possíveis e uma potencial falta de provas no futuro.
-
-      O consentimento não pode, em nenhuma circunstância, ser inferido de declarações ou ações
-      potencialmente ambíguas. O responsável pelo tratamento também deve ter cuidado com o facto
-      de o consentimento não poder ser obtido através da mesma ação de concordar com o contrato ou
-      aceitar as condições gerais do serviço.
 
 
 21
-         Diretrizes 05/2020 relativas ao consentimento na aceção do Regulamento 2016/679, CEPD, n.º 3.
+  Guidelines 05/2020 on consent under Regulation 2016/679, EDPB, para. 3.
 22
-         Ver também o Parecer 15/2011 sobre a definição de consentimento (WP 187), p. 6-8, e/ou o
-         Parecer 06/2014 sobre o conceito de interesses legítimos do responsável pelo tratamento dos dados na
-         aceção do artigo 7.º da Diretiva 95/46/CE (WP 217), p. 9, 10, 13 e 14.
+  See also Opinion 15/2011 on the definition of consent (WP 187), pp. 6-8, and/or Opinion 06/2014 on the
+notion of legitimate interests of the data controller under Article 7 of Directive 95/46/EC (WP 217), pp. 9, 10,
+13 and 14.
 
 
-Adotadas                                                                                                  15
+Adopted                                                                                                            13
 
-     3.2 Consentimento ao abrigo da DSP2
-      O CEPD salienta que o quadro jurídico relativo ao consentimento explícito é complexo, já que este
-      conceito está incluído na DSP2 e no RGPD. Importa perceber, pois, se o «consentimento expresso»
-      a que se refere o artigo 94.º, n.º 2, da DSP2 deve ser interpretado da mesma forma que o
-      consentimento explícito ao abrigo do RGPD.
+3.2.1 Explicit consent under Article 94 (2) PSD2
+       The PSD2 includes a number of specific rules concerning the processing of personal data, in
+       particular in Article 94 (1) of the PSD2, which determines that the processing of personal data for
+       the purposes of the PSD2 must comply with EU data protection law. Furthermore, Article 94 (2) of
+       the PSD2 sets out that payment service providers shall only access, process and retain personal
+       data necessary for the provision of their payment services, with the explicit consent of the
+       payment service user. Pursuant to Article 33 (2) of the PSD2, this requirement of the explicit
+       consent of the payment service user does not apply to AISPs. However, Article 67 (2)(a) of the PSD2
+       still provides for explicit consent for AISPs for the provision of the service.
 
-3.2.1 Consentimento expresso ao abrigo do artigo 94.º, n.º 2, da DSP2
-      A DSP2 contém um conjunto de regras específicas relativas ao tratamento de dados pessoais, em
-      especial no artigo 94.º, n.º 1, que determina que o tratamento de dados pessoais para efeitos da
-      mesma diretiva tem de cumprir a legislação da UE em matéria de proteção de dados. Além disso,
-      o artigo 94.º, n.º 2, da DSP2 estabelece que os prestadores de serviços de pagamento só acedem
-      aos dados pessoais necessários para a prestação dos seus serviços de pagamento, e só os tratam
-      e conservam, com o consentimento expresso do utilizador de serviços de pagamento. Nos termos
-      do artigo 33.º, n.º 2, da DSP2, este requisito do consentimento expresso do utilizador de serviços
-      de pagamento não se aplica aos PSIC. Contudo, o artigo 67.º, n.º 2, alínea a), da DSP2 prevê o
-      consentimento expresso aos PSIC para a prestação do serviço.
+       As mentioned above, the list of lawful bases for processing under the GDPR is exhaustive. As
+       mentioned in paragraph 14, the legal basis for the processing of personal data for the provision of
+       payment services is, in principle, Article 6(1)(b) of the GDPR, meaning that the processing is
+       necessary for the performance of a contract to which the data subject is party or in order to take
+       steps at the request of the data subject prior to entering into a contract. From that, it follows that
+       Article 94 (2) of the PSD2 cannot be regarded as an additional legal basis for processing of personal
+       data. The EDPB considers that, in view of the foregoing, this paragraph should be interpreted, on
+       the one hand, in coherence with the applicable data protection legal framework and, on the other
+       hand, in a way that preserves its useful effect. Explicit consent under Article 94(2) PSD2 should
+       therefore be regarded as an additional requirement of a contractual nature23 in relation to the
+       access to and subsequently processing and storage of personal data for the purpose of providing
+       payment services and is therefore not the same as (explicit) consent under the GDPR.
 
-      Conforme referido acima, a lista de fundamentos jurídicos para o tratamento ao abrigo do RGPD
-      é exaustiva. Como indicado no ponto 14, o fundamento jurídico para o tratamento de dados
-      pessoais para a prestação de serviços de pagamento é, em princípio, o artigo 6.º, n.º 1, alínea b),
-      do RGPD, ou seja, a necessidade do tratamento para a execução de um contrato no qual o titular
-      dos dados é parte, ou para diligências pré-contratuais a pedido do titular dos dados. Daqui resulta
-      que o artigo 94.º, n.º 2, da DSP2 não pode ser encarado como um fundamento jurídico adicional
-      para o tratamento de dados pessoais. O CEPD considera que, face ao exposto, este número deve
-      ser interpretado, por um lado, de forma coerente com o quadro jurídico aplicável em matéria de
-      proteção de dados e, por outro, de forma a preservar o seu efeito útil. O consentimento expresso
-      ao abrigo do artigo 94.º, n.º 2, da DSP2 deve, portanto, ser encarado como um requisito adicional
-      de natureza contratual23 no que respeita ao acesso e ao posterior tratamento e armazenamento
-      de dados pessoais para efeitos de prestação de serviços de pagamento e não é, por conseguinte,
-      equivalente ao consentimento (explícito) ao abrigo do RGPD.
+       “Explicit consent” referred to in Article 94 (2) PSD2 is a contractual consent. This implies that Article
+       94 (2) PSD2 should be interpreted in the sense that when entering a contract with a payment
+       service provider under the PSD2, data subjects must be made fully aware of the specific categories
+       of personal data that will be processed. Further, they have to be made aware of the specific
+       (payment service) purpose for which their personal data will be processed and have to explicitly
+       agree to these clauses. Such clauses should be clearly distinguishable from the other matters dealt
+       with in the contract and would need to be explicitly accepted by the data subject.
 
-      O «consentimento expresso» a que se refere o artigo 94.º, n.º 2, da DSP2 é um consentimento
-      contratual. Por conseguinte, deve interpretar-se este número como dispondo que os titulares dos
-      dados, quando celebram um contrato com um prestador de serviços de pagamento ao abrigo da
-      DSP2, devem estar plenamente cientes das categorias específicas de dados pessoais que serão
-      tratados. Além disso, os titulares dos dados devem ser informados da finalidade específica (serviço
-      de pagamento) para que os seus dados pessoais serão tratados e concordar expressamente com
-      estas cláusulas. As cláusulas em questão devem ser apresentadas de uma forma que as distinga
-      claramente dos outros assuntos tratados no contrato e têm de ser expressamente aceites pelo
-      titular dos dados.
+       Central to the notion of “explicit consent” under Article 94 (2) of the PSD2 is the gaining of access
+       to personal data to subsequently process and store these data for the purpose of providing
+       payment services. This implies that the payment service24 provider is not yet processing the
+       personal data, but needs access to personal data that have been processed under the
+       responsibility of any other controller. If a payment service user enters into a contract with, for
+       example, a payment initiation service provider, this provider needs to obtain access to personal
+       data of the payment service user that is being processed under the responsibility of the account
+       servicing payment service provider. The object of the explicit consent under Article 94 (2) PSD2 is
+       the permission to obtain access to those personal data, to be able to process and store these
+       personal data that are necessary for the purpose of providing the payment service. If explicit
+       consent is given by the data subject, the account servicing payment service provider is obliged to
+       give access to the indicated personal data.
 
-      Um aspeto central do conceito de «consentimento expresso» ao abrigo do artigo 94.º, n.º 2, da
-      DSP2 é a obtenção de acesso a dados pessoais para os tratar e armazenar posteriormente para
-      efeitos de prestação de serviços de pagamento. Tal implica que o prestador do serviço de
-      pagamento24 ainda não trata os dados pessoais, mas precisa de aceder a dados pessoais que foram
-      tratados sob a responsabilidade de qualquer outro responsável pelo tratamento. Se o utilizador
-      do serviço de pagamento celebrar um contrato, por exemplo, com um prestador de serviços de
+       Although the consent of Article 94 (2) of the PSD2 is not a legal ground for the processing of
+       personal data, this consent is specifically related to personal data and data protection, and ensures
 
 23
-         Carta do CEPD relativa à DSP2, 5 de julho de 2018, página 4.
+     Letter of the EDPB regarding the PSD2 directive, 5 July 2018, page 4.
 24
-         Tal aplica-se aos serviços 1 a 7 do anexo I da DSP2.
+     This applies to services 1 to 7 of Annex 1 of the PSD2.
 
 
-Adotadas                                                                                              16
 
-     iniciação de pagamentos, este prestador de serviços precisa de aceder aos dados pessoais do
-     utilizador do serviço de pagamento que estão a ser tratados sob a responsabilidade do prestador
-     de serviços de pagamento que gere a conta. O objeto do consentimento expresso ao abrigo do
-     artigo 94.º, n.º 2, da DSP2 é a autorização para obter acesso aos dados pessoais em causa, a fim
-     de poder tratar e armazenar os dados pessoais necessários para efeitos de prestação do serviço
-     de pagamento. Caso o titular dos dados dê o seu consentimento expresso, o prestador de serviços
-     de pagamento que gere a conta é obrigado a conceder acesso aos dados pessoais indicados.
+Adopted                                                                                                      14
 
-     Embora o consentimento previsto no artigo 94.º, n.º 2, da DSP2 não constitua um fundamento
-     jurídico para o tratamento de dados pessoais, este consentimento está especificamente
-     relacionado com os dados pessoais e a proteção de dados e assegura transparência e um certo
-     nível de controlo ao utilizador do serviço de pagamento25. Embora a DSP2 não especifique as
-     condições substantivas aplicáveis ao consentimento nos termos do seu artigo 94.º, n.º 2, esta
-     diretiva deve, conforme referido acima, ser entendida de forma coerente com o quadro jurídico
-     aplicável em matéria de proteção de dados e de forma a preservar o seu efeito útil.
+      transparency and a degree of control for the payment service user25. While the PSD2 does not
+      specify the substantive conditions for consent under Article 94 (2) PSD2, it should, as stated above,
+      be understood in coherence with the applicable data protection legal framework and in a way that
+      preserves its useful effect.
 
-     No que diz respeito às informações a prestar pelos responsáveis pelo tratamento e ao requisito de
-     transparência, as Orientações do Grupo de Trabalho do Artigo 29.º relativas à transparência
-     especificam o seguinte: «Uma consideração central em relação ao princípio da transparência
-     realçada nas presentes disposições é que o titular dos dados deve poder determinar
-     antecipadamente qual o âmbito do tratamento e quais as consequências decorrentes desse
-     tratamento, não devendo mais tarde ser apanhado de surpresa acerca das formas como os seus
-     dados pessoais estão a ser utilizados.»26.
+      With regard to the information to be provided by controllers and the requirement of transparency,
+      Article 29 Working Party Guidelines on Transparency specifies that a “A central consideration of
+      the principle of transparency outlined in these provisions is that the data subject should be able to
+      determine in advance what the scope and consequences of the processing entails and that they
+      should not be taken by surprise at a later point about the ways in which their personal data has
+      been used”26.
 
-     Além disso, em conformidade com o princípio da limitação das finalidades, os dados pessoais
-     devem ser recolhidos para finalidades determinadas, explícitas e legítimas (artigo 5.º, n.º 1, alínea
-     b), do RGPD). Nos casos em que os dados são recolhidos para mais do que uma finalidade, os
-     responsáveis pelo tratamento devem evitar identificar uma única finalidade global para justificar
-     várias atividades de tratamento posterior que, na verdade, têm apenas uma relação remota com
-     a finalidade inicial em si27. O CEPD salientou, mais recentemente, no contexto dos contratos de
-     serviços em linha, que existe um risco de inclusão de cláusulas gerais de tratamento nos contratos
-     e afirmou que a finalidade da recolha deve ser clara e especificamente identificada: deve ser
-     suficientemente pormenorizada para determinar que tipo de tratamento está e não está incluído
-     na finalidade especificada, e para permitir que o cumprimento da lei possa ser avaliado e que
-     possam ser aplicadas salvaguardas em matéria de proteção de dados28.
+      Furthermore, as required by the principle of purpose limitation, personal data must be collected
+      for specified, explicit and legitimate purposes (Article 5 (1) (b) of the GDPR). Where personal data
+      are collected for more than one purpose, “controllers should avoid identifying only one broad
+      purpose in order to justify various further processing activities which are in fact only remotely
+      related to the actual initial purpose”27. The EDPB has highlighted, most recently in the context of
+      contracts for online services, the risk of inclusion of general processing terms in contracts and has
+      stated that the purpose of the collection should be clearly and specifically identified: it should be
+      detailed enough to determine what kind of processing is and is not included within the specified
+      purpose, and to allow that compliance with the law can be assessed and data protection
+      safeguards applied28.
 
-     No contexto do requisito adicional de consentimento expresso nos termos do artigo 94.º, n.º 2, da
-     DSP2, tal implica que os responsáveis pelo tratamento prestem aos titulares dos dados
-     informações específicas e explícitas sobre as finalidades específicas, identificadas pelo responsável
-     pelo tratamento, para as quais os seus dados são acedidos, tratados e conservados. Em
+      When considered in the context of the additional requirement of explicit consent pursuant to
+      Article 94(2) of the PSD2, this entails that controllers must provide data subjects with specific and
+      explicit information about the specific purposes identified by the controller for which their
+      personal data are accessed, processed and retained. In line with Article 94(2) of the PSD2, the data
+      subjects must explicitly accept these specific purposes.
+
+      Furthermore, as set out above in paragraph 10, the EDPB highlights that the payment service user
+      must be able to choose whether or not to use the service and cannot be forced to do so. Therefore,
+      the consent under Article 94 (2) of the PSD2 also has to be a freely given consent.
+
+     3.3 Conclusion
+      Explicit consent under the PSD2 is different from (explicit) consent under the GDPR. Explicit
+      consent under Article 94 (2) of the PSD2 is an additional requirement of a contractual nature.
+      When a payment service provider needs access to personal data for the provision of a payment
+      service, explicit consent in line with Article 94 (2) of the PSD2 of the payment service user is
+      needed.
+
 
 
 
 25
-         O artigo 94.º, n.º 2, da DSP2 faz parte do capítulo 4, «Proteção de dados».
+   Art. 94 (2) PSD2 falls under Chapter 4 ‘Data protection’.
 26
-         Grupo de Trabalho do Artigo 29.º, Orientações relativas à transparência na aceção do Regulamento
-         2016/679, n.º 10 (adotadas em 11 de abril de 2018) — aprovadas pelo CEPD.
+   Article 29 Working Party, Guidelines on transparency under Regulation 2016/679, paragraph 10 (adopted on
+11 April 2018) - endorsed by the EDPB.
 27
-         Parecer 03/2013 do Grupo de Trabalho do Artigo 29.º sobre a limitação das finalidades (WP203),
-         página 16.
+   Article 29 Working Party Opinion 03/2013 on purpose limitation (WP203), page 16.
 28
-         Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD
-         no contexto da prestação de serviços em linha aos titulares dos dados, n.º 16 (versão de consulta
-         pública), e Parecer 03/2013 do Grupo de Trabalho do Artigo 29.º sobre a limitação das finalidades
-         (WP203), páginas 15 e 16.
+   Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the
+provision of online services to data subjects, paragraph 16 (public consultation version) and Article 29 Working
+Party Opinion 03/2013 on purpose limitation (WP203), page 15–16.
 
 
-Adotadas                                                                                                       17
+Adopted                                                                                                       15
 
-   conformidade com o artigo 94.º, n.º 2, da DSP2, os titulares dos dados têm de aceitar
-   expressamente estas finalidades específicas.
+4 THE PROCESSING OF SILENT PARTY DATA
+ 4.1 Silent party data
+   A data protection issue that needs careful consideration, is the processing of so called ‘silent party
+   data’. In the context of this document, silent party data are personal data concerning a data subject
+   who is not the user of a specific payment service provider, but whose personal data are processed
+   by that specific payment service provider for the performance of a contract between the provider
+   and the payment service user. This is for example the case where a payment service user, data
+   subject A, makes use of the services of an AISP, and data subject B has made a series of payment
+   transactions to the payment account of data subject A. In this case, data subject B is regarded as
+   the ‘silent party’ and the personal data (such as the account number of data subject B and the
+   amount of money that was involved in these transactions) relating to data subject B, is regarded
+   as ‘silent party data’.
 
-   Além disso, conforme referido no ponto 10 supra, o CEPD salienta que o utilizador do serviço de
-   pagamento deve poder escolher se utiliza ou não o serviço e não pode ser obrigado a fazê-lo. Por
-   conseguinte, o consentimento ao abrigo do artigo 94.º, n.º 2, da DSP2 tem de ser também um
-   consentimento livre.
+ 4.2 The legitimate interest of the controller
+   Article 5 (1) (b) GDPR requires that personal data are only collected for specified, explicit and
+   legitimate purposes and may not be further processed in a manner that is incompatible with those
+   purposes. In addition, the GDPR requires that that any processing of personal data must be both
+   necessary as well as proportionate and in line with the data protection principles, such as those of
+   purpose limitation and data minimisation.
 
- 3.3 Conclusão
-   O consentimento expresso ao abrigo da DSP2 é diferente do consentimento (explícito) ao abrigo
-   do RGPD. O consentimento expresso ao abrigo do artigo 94.º, n.º 2, da DSP2 é um requisito
-   adicional de natureza contratual. Quando um prestador de serviços de pagamento precisa de
-   aceder a dados pessoais para prestar um serviço de pagamento, necessita do consentimento
-   expresso do utilizador deste serviço em conformidade com o artigo 94.º, n.º 2, da DSP2.
+   The GDPR may allow for the processing of silent party data when this processing is necessary for
+   purposes of the legitimate interests pursued by a controller or by a third party (Article 6 (1)(f)
+   GDPR). However, such processing can only take place when the legitimate interest of the controller
+   is not “overridden by the interests or fundamental rights and freedoms of the data subject which
+   require protection of personal data”.
 
+   A lawful basis for the processing of silent party data by PISPs and AISPs - in the context of the
+   provision of payment services under the PSD2 - could thus be the legitimate interest of a controller
+   or a third party to perform the contract with the payment service user. The necessity to process
+   personal data of the silent party is limited and determined by the reasonable expectations of these
+   data subjects. In the context of providing payment services that are covered by the PSD2, effective
+   and appropriate measures have to be established to safeguard that the interests or fundamental
+   rights and freedoms of the silent parties are not overridden, and to ensure that the reasonable
+   expectations of these data subjects regarding the processing of their personal data are respected.
+   In this respect, the controller (AISP or PISP) has to establish the necessary safeguards for the
+   processing in order to protect the rights of data subjects. This includes technical measures to
+   ensure that silent party data are not processed for a purpose other than the purpose for which the
+   personal data were originally collected by PISPs and AISPs. If feasible, also encryption or other
+   techniques should be applied to achieve an appropriate level of security and data minimisation.
 
+ 4.3 Further processing of personal data of the silent party
+   As stated under paragraph 29, personal data processed in connection with a payment service
+   regulated by the PSD2, could be further processed based on legal obligations resting on the service
+   provider. These legal obligations could concern personal data of the silent party.
 
-
-Adotadas                                                                                        18
-
-4 TRATAMENTO DE DADOS DE PARTE SILENCIOSA
- 4.1 Dados de parte silenciosa
-   O tratamento dos chamados «dados de parte silenciosa» é um aspeto da proteção de dados que
-   merece uma análise atenta. No contexto do presente documento, os dados de parte silenciosa são
-   dados pessoais relativos a um titular de dados que não é o utilizador de um determinado prestador
-   de serviços de pagamento mas cujos dados pessoais são tratados por esse prestador de serviços
-   para a execução de um contrato entre o prestador e o utilizador do serviço de pagamento. Tal
-   acontece, por exemplo, quando um utilizador de serviços de pagamento, o titular de dados A,
-   utiliza os serviços de um PSIC, e um titular de dados B efetuou uma série de operações de
-   pagamento para a conta de pagamento do titular de dados A. Neste caso, o titular de dados B é
-   considerando a «parte silenciosa» e os dados pessoais (como o número de conta do titular de
-   dados B e o montante envolvido nessas operações) relativos ao titular de dados B são considerados
-   «dados de parte silenciosa».
-
- 4.2 Interesses legítimos do responsável pelo tratamento
-   O artigo 5.º, n.º 1, alínea b), do RGPD estabelece que os dados pessoais apenas devem ser
-   recolhidos para finalidades determinadas, explícitas e legítimas, não podendo ser tratados
-   posteriormente de uma forma incompatível com essas finalidades. Além disso, o RGPD exige que
-   qualquer tratamento de dados pessoais seja necessário e proporcionado e esteja em
-   conformidade com os princípios de proteção de dados, nomeadamente a limitação das finalidades
-   e a minimização dos dados.
-
-   O RGPD poderá permitir o tratamento de dados de parte silenciosa quando tal tratamento for
-   necessário para efeito dos interesses legítimos prosseguidos pelo responsável pelo tratamento ou
-   por terceiros (artigo 6.º, n.º 1, alínea f), do RGPD). Contudo, este tratamento apenas pode ocorrer
-   quando aos interesses legítimos do responsável pelo tratamento não se sobrepõem «os interesses
-   ou direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais».
-
-   Por conseguinte, o interesse legítimo de um responsável pelo tratamento ou de um terceiro em
-   executar o contrato com o utilizador de serviços de pagamento pode constituir um fundamento
-   jurídico para o tratamento de dados de parte silenciosa por PSIP e PSIC, no contexto da prestação
-   de serviços de pagamento ao abrigo da DSP2. A necessidade de tratar dados pessoais da parte
-   silenciosa é limitada e determinada pelas expectativas razoáveis destes titulares de dados. No
-   contexto da prestação de serviços de pagamento abrangidos pela DSP2, é necessário estabelecer
-   medidas eficazes e adequadas para impedir que o referido interesse legítimo se sobreponha aos
-   interesses ou aos direitos e liberdades fundamentais das partes silenciosas e para assegurar o
-   cumprimento das expectativas razoáveis destes titulares de dados no que respeita ao tratamento
-   dos seus dados pessoais. Neste contexto, o responsável pelo tratamento (PSIC ou PSIP) deve
-   estabelecer as garantias necessárias para o tratamento, a fim de proteger os direitos dos titulares
-   dos dados, incluindo medidas técnicas para assegurar que os dados de parte silenciosa não sejam
-   tratados para outra finalidade que não aquela para que os dados pessoais foram inicialmente
-   recolhidos pelos PSIP ou PSIC. Se possível, também devem ser aplicadas a cifragem ou outras
-   técnicas para alcançar um nível adequado de segurança e de minimização dos dados.
-
- 4.3 Tratamento posterior de dados pessoais da parte silenciosa
-   Conforme referido no ponto 29, os dados pessoais tratados no âmbito de um serviço de
-   pagamento regulado pela DSP2 podem ser objeto de tratamento posterior com base em
+   With regard to further processing of silent party data on the basis of legitimate interest, the EDPB
+   is of the opinion that these data cannot be used for a purpose other than that for which the
+   personal data have been collected, other on the basis of EU or Member State law. Consent of the
 
 
 
-Adotadas                                                                                           19
+Adopted                                                                                               16
 
-     obrigações jurídicas do prestador de serviços. Estas obrigações jurídicas poderão dizer respeito aos
-     dados pessoais da parte silenciosa.
-
-     No que diz respeito ao tratamento posterior de dados de parte silenciosa com base em interesses
-     legítimos, o CEPD considera que estes dados não podem ser utilizados para outra finalidade que
-     não aquela para que os dados pessoais foram recolhidos, com base no direito da UE ou de um
-     Estado-Membro. O consentimento da parte silenciosa não é juridicamente viável, uma vez que,
-     para obter o consentimento, seria necessário recolher ou tratar dados pessoais da parte silenciosa,
-     sem que exista, para o efeito, fundamento jurídico no artigo 6.º do RGPS. O teste de
-     compatibilidade previsto no artigo 6.º, n.º 4, do RGPD também não pode proporcionar um
-     fundamento para o tratamento para outras finalidades (por exemplo, atividades de marketing
-     direto). Os direitos e liberdades dos titulares destes dados de parte silenciosa não serão
-     respeitados se o novo responsável pelo tratamento utilizar os dados pessoais para outras
-     finalidades, tendo em conta o contexto em que os dados pessoais foram recolhidos, em especial a
-     ausência de uma relação com os titulares de dados que são partes silenciosas29; a ausência de uma
-     ligação entre qualquer outra finalidade e a finalidade para que os dados pessoais foram
-     inicialmente recolhidos (ou seja, o facto de os prestadores de serviços de pagamento precisarem
-     apenas dos dados de parte silenciosa para executar um contrato com a outra parte contratante);
-     a natureza dos dados pessoais em causa30, a circunstância de os titulares dos dados não poderem
-     ter uma expectativa razoável em relação a qualquer tratamento posterior ou sequer saberem qual
-     o responsável pelo tratamento que poderá tratar os seus dados pessoais e as restrições legais ao
-     tratamento estabelecidas no artigo 66.º, n.º 3, alínea g), e no artigo 67.º, n.º 2, alínea f), da DSP2.
+     silent party is legally not feasible, because in order to obtain consent, personal data of the silent
+     party would have to be collected or processed, for which no legal ground can be found under
+     Article 6 GDPR. The compatibility test of Article 6.4 of the GDPR cannot offer a ground for the
+     processing for other purposes (e.g. direct marketing activities) either. The rights and freedoms of
+     these silent party data subjects will not be respected if the new data controller uses the personal
+     data for other purposes, taking into account the context in which the personal data have been
+     collected, especially the absence of any relationship with the data subjects that are silent parties29;
+     the absence of any connection between any other purpose and the purpose for which the personal
+     data were initially collected (i.e. the fact that PSPs only need the silent party data in order to
+     perform a contract with the other contracting party); the nature of the personal data involved30,
+     the circumstance that data subjects are not in a position to reasonably expect any further
+     processing or to even be aware which controller may be processing their personal data and given
+     the legal restrictions on processing set out in Article 66 (3) (g) and Article 67 (2) (f) of PSD2.
 
 
 
 
 29
-         O considerando 87 da DSP2 dispõe que esta diretiva diz exclusivamente respeito «às obrigações e
-         responsabilidades contratuais entre o utilizador do serviço de pagamento e o prestador do serviço de
-         pagamento». Como tal, os dados de parte silenciosa não se inserem no âmbito de aplicação da DSP2.
+   Recital 87 of PSD2 states that PSD2 only concerns ‘contractual obligations and responsibilities between the
+payment service user and the payment service provider’. Silent Party Data therefore do not fall under the
+scope of PSD2.
 30
-         Importa ter especial cuidado no tratamento de dados pessoais de natureza financeira, uma vez que este
-         tratamento pode ser considerado suscetível de aumentar os possíveis riscos para os direitos e as
-         liberdades dos indivíduos, de acordo com as Orientações relativas à Avaliação de Impacto sobre a
-         Proteção de Dados (AIPD).
+   Particular care should be taken when processing financial personal data, as the processing can be considered
+as increasing the possible risk to the rights and freedoms of individuals, according to the Guidelines on Data
+Protection Impact Assessment (DPIA).
 
 
-Adotadas                                                                                                   20
+Adopted                                                                                                      17
 
-5 O TRATAMENTO DE CATEGORIAS ESPECIAIS DE DADOS PESSOAIS
-  AO ABRIGO DA DSP2
-     5.1 Categorias especiais de dados pessoais
-      O artigo 9.º, n.º 1, do RGPD proíbe «o tratamento de dados pessoais que revelem a origem racial
-      ou étnica, as opiniões políticas, as convicções religiosas ou filosóficas, ou a filiação sindical, bem
-      como o tratamento de dados genéticos, dados biométricos para identificar uma pessoa de forma
-      inequívoca, dados relativos à saúde ou dados relativos à vida sexual ou orientação sexual de uma
-      pessoa».
+5 THE PROCESSING OF SPECIAL CATEGORIES OF PERSONAL DATA
+  UNDER THE PSD2
+     5.1 Special categories of personal data
+       Article 9 (1) GDPR prohibits the processing of “personal data revealing racial or ethnic origin,
+       political opinions, religious or philosophical beliefs, or trade union membership, and the processing
+       of genetic data, biometric data for the purpose of uniquely identifying a natural person, data
+       concerning health or data concerning a natural person's sex life or sexual orientation”.
 
-      É importante salientar que, em alguns Estados-Membros, os pagamentos eletrónicos já são
-      omnipresentes e são privilegiados por muitas pessoas em detrimento do dinheiro nas suas
-      operações diárias. Simultaneamente, as operações financeiras podem revelar informações
-      sensíveis sobre um titular de dados individual, incluindo informações relacionadas com categorias
-      especiais de dados pessoais. Por exemplo, consoante a operação concreta, é possível que
-      donativos efetuados a partidos ou organizações políticas, igrejas ou paróquias revelem as opiniões
-      políticas e as convicções religiosas do doador. A dedução de uma quota anual da conta bancária
-      de uma pessoa também pode revelar a filiação num sindicato. É possível obter dados pessoais
-      relativos à saúde analisando as contas médicas pagas por um titular de dados a um profissional de
-      medicina (por exemplo, um psiquiatra). Por último, as informações sobre determinadas aquisições
-      podem revelar informações sobre a vida sexual ou a orientação sexual de uma pessoa. Como
-      mostram estes exemplos, até operações simples podem conter categorias especiais de dados
-      pessoais. Além disso, os serviços de informação sobre contas podem basear-se na definição de
-      perfis, na aceção do artigo 4.º, ponto 4, do RGPD. Conforme afirmado anteriormente nas
-      Orientações do Grupo de Trabalho do Artigo 29.º sobre as decisões individuais automatizadas e a
-      definição de perfis para efeitos do Regulamento (UE) 2016/679, aprovadas pelo CEPD, a «definição
-      de perfis pode criar dados de categorias especiais por inferência a partir de dados que não sejam
-      dados de categorias especiais per se, mas que passem a sê-lo quando combinados com outros
-      dados»31. Isto significa que o conjunto das operações financeiras pode revelar diferentes tipos de
-      padrões comportamentais, que podem incluir categorias especiais de dados pessoais. Por
-      conseguinte, é muito provável que um prestador de serviços que trata informações sobre
-      operações financeiras de titulares de dados trate também categorias especiais de dados pessoais.
+       It should be emphasised that in some Member States, electronic payments are already ubiquitous,
+       and are favoured by many people over cash in their day to day transactions. At the same time,
+       financial transactions can reveal sensitive information about an individual data subject, including
+       those related to special categories of personal data. For example, depending on the transaction
+       details, political opinions and religious beliefs may be revealed by donations made to political
+       parties or organisations, churches or parishes. Trade union membership may be revealed by the
+       deduction of an annual membership fee from a person’s bank account. Personal data concerning
+       health may be gathered from analysing medical bills paid by a data subject to a medical
+       professional (for instance a psychiatrist). Finally, information on certain purchases may reveal
+       information concerning a person’s sex life or sexual orientation. As shown by these examples, even
+       single transactions can contain special categories of personal data. Moreover, account information
+       services might rely on profiling as defined by article 4 (4) of the GDPR. As previously stated in the
+       Working Party 29 Guidelines on Automated individual decision-making and Profiling for the
+       purposes of Regulation 2016/679, as endorsed by the EDPB , “profiling can create special category
+       of data by inference from data which is not special category of data in its own right, but becomes
+       so when combined with other data.”31 This means that, through the sum of financial transactions,
+       different kinds of behavioural patterns can be revealed, which may include special categories of
+       personal data. Therefore, the chances are considerable that a service provider processing
+       information on financial transactions of data subjects also processes special categories of personal
+       data.
 
-      No que diz respeito ao termo «dados de pagamento sensíveis», o CEPD observa o seguinte: a
-      definição de dados de pagamento sensíveis na DSP2 diverge consideravelmente da forma como o
-      termo «dados pessoais sensíveis» é geralmente utilizado no contexto do RGPD e da proteção de
-      dados (e respetiva legislação). Enquanto a DSP2 define «dados de pagamento sensíveis» como
-      «dados, incluindo credenciais de segurança personalizadas, que podem ser utilizados para
-      cometer fraudes», o RGPD salienta a necessidade de proteção específica de categorias especiais
-      de dados pessoais que, nos termos do artigo 9.° do mesmo regulamento, são, pela sua natureza,
-      especialmente sensíveis do ponto de vista dos direitos e liberdades fundamentais, como as
-      categorias especiais de dados pessoais32. Neste contexto, é aconselhável, pelo menos, identificar
-      e categorizar de forma precisa os tipos de dados pessoais que serão tratados. É provável que seja
+       With regard to the term ‘sensitive payment data’, the EDPB notes the following. The definition of
+       sensitive payment data in the PSD2 differs considerably from the way the term ‘sensitive personal
+       data’ is commonly used within the context of the GDPR and data protection (law). Where the PSD2
+       defines ‘sensitive payment data’ as ‘data, including personalized security credentials which can be
+       used to carry out fraud’, the GDPR emphasises the need for specific protection of special categories
+       of personal data which under Article 9 of the GDPR are, by their nature, particularly sensitive in
+       relation to fundamental rights and freedoms, such as special categories of personal data32. In this
+       regard it is recommended to at least map out and categorize precisely what kind of personal data
+       will be processed. Most probably a Data Protection Impact Assessment (DPIA) will be required in
+       accordance with article 35 GDPR, which will help in this mapping exercise. More guidance on DPIAs
+       can be found in the Working Party 29 Guidelines on Data Protection Impact Assessment (DPIA) and
+       determining whether processing is “likely to result in a high risk” for the purposes of Regulation
+
+
 
 31
-          Grupo de Trabalho do Artigo 29.º para a Proteção de Dados, Orientações sobre as decisões individuais
-          automatizadas e a definição de perfis para efeitos do Regulamento (UE) 2016/679, WP251rev.01,
-          página 16.
+   Article 29 Data Protection Working Party, Guidelines on Automated individual decision-making and Profiling
+for the purposes of Regulation 2016/679, WP251rev.01, page 15.
 32
-          Por exemplo, no considerando 10 do RGPD, as categorias especiais de dados pessoais são referidas como
-          «dados sensíveis».
+   For example, in recital 10 of the GDPR, special categories of personal data are being referred to as ‘sensitive
+data’.
 
 
-Adotadas                                                                                                    21
+Adopted                                                                                                         18
 
-   necessária uma avaliação de impacto sobre a proteção de dados (AIPD), em conformidade com o
-   artigo 35.º do RGPD, que contribua para este exercício de identificação. Estão disponíveis mais
-   orientações sobre as AIPD nas Orientações do Grupo de Trabalho do Artigo 29.º relativas à
-   Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que determinam se o tratamento é
-   «suscetível de resultar num elevado risco» para efeitos do Regulamento (UE) 2016/679, aprovadas
-   pelo CEPD.
+       2016/679, as endorsed by the EDPB.
 
 
- 5.2 Possíveis derrogações
-   A proibição estabelecida no artigo 9.º do RGPD não é absoluta. Em especial, enquanto as
-   derrogações das alíneas b) a f) e h) a j) do artigo 9.º, n.º 2, do RGPD não são, manifestamente,
-   aplicáveis ao tratamento de dados pessoais no contexto da DSP2, as seguintes duas derrogações
-   do artigo 9.º, n.º 2, podem ser pertinentes:
+     5.2 Possible derogations
+       The prohibition of Article 9 GDPR is not absolute. In particular, whereas derogations of paragraphs
+       (b)-(f) and (h)-(j) of Article 9 (2) GDPR are manifestly not applicable to the processing of personal
+       data in the PSD2 context, the following two derogations in Article 9 (2) GDPR could be considered:
 
-   A proibição não é aplicável se o titular dos dados tiver dado o seu consentimento explícito para o
-   tratamento desses dados pessoais para uma ou mais finalidades específicas (artigo 9.º, n.º 2,
-   alínea a), do RGPD).
+       The prohibition does not apply if the data subject has given explicit consent to the processing of
+       those personal data for one or more specified purposes (Article 9 (2) (a) GDPR).
 
-   A proibição não é aplicável se o tratamento for necessário por motivos de interesse público
-   importante, com base no direito da União ou de um Estado-Membro, que deve ser proporcional
-   ao objetivo visado, respeitar a essência do direito à proteção dos dados pessoais e prever medidas
-   adequadas e específicas que salvaguardem os direitos fundamentais e os interesses do titular dos
-   dados (artigo 9.º, n.º 2, alínea g), do RGPD).
+       The prohibition does not apply if the processing is necessary for reasons of substantial public
+       interest, on the basis of Union or Member State law which shall be proportionate to the aim
+       pursued, respect the essence of the right to data protection and provide for suitable and specific
+       measures to safeguard the fundamental rights and the interests of the data subject (Article 9 (2)
+       (g) GDPR).
 
-   Importa assinalar que a lista de derrogações do artigo 9.º, n.º 2, do RGPD é exaustiva. O prestador
-   de serviços tem de reconhecer a possibilidade de existirem categorias especiais de dados pessoais
-   nos dados pessoais tratados para a prestação de qualquer um dos serviços abrangidos pela DSP2.
-   Uma vez que a proibição estabelecida no artigo 9.º, n.º 1, do RGPD é aplicável a estes prestadores
-   de serviços, cabe-lhes assegurar que uma das exceções previstas no artigo 9.º, n.º 2, do RGPD lhes
-   é aplicável. Importa salientar que, quando o prestador de serviços não consegue demonstrar que
-   cumpre os requisitos de uma das derrogações, a proibição do artigo 9.º, n.º 1 é aplicável.
+       It should be pointed out that the list of derogations in Article 9 (2) GDPR is exhaustive. The
+       possibility that special categories of personal data are included in the personal data processed for
+       the provision of any of the services falling under the PSD2 must be recognised by the service
+       provider. As the prohibition of Article 9 (1) GDPR is applicable to these service providers, they must
+       ensure that one of the exceptions in Article 9 (2) GDPR is applicable to them. It should be
+       emphasised that where the service provider cannot show that one of the derogations is met, the
+       prohibition of article 9 (1) is applicable.
 
- 5.3 Interesse público importante
-   Os serviços de pagamentos podem tratar categorias especiais de dados pessoais por motivos de
-   interesse público importante, mas apenas se estiverem preenchidas todas as condições previstas
-   no artigo 9.º, n.º 2, alínea g), do RGPD. Por conseguinte, o tratamento das categorias especiais de
-   dados especiais tem de estar contemplado numa derrogação específica do artigo 9.º, n.º 1, do
-   RGPD prevista no direito da União ou de um Estado-Membro. Esta disposição terá de abordar a
-   proporcionalidade relativamente ao objetivo visado do tratamento e conter medidas adequadas e
-   específicas que salvaguardem os direitos fundamentais e os interesses do titular dos dados. Além
-   disso, esta disposição prevista no direito da União ou de um Estado-Membro terá de respeitar a
-   essência do direito à proteção dos dados. Por último, deve também demonstrar-se que o
-   tratamento das categorias especiais de dados é necessário por motivos de interesse público
-   importante, incluindo interesses de importância sistémica. Todas estas condições têm de ser
-   plenamente cumpridas para que esta derrogação possa ser aplicável aos tipos designados de
-   serviços de pagamentos.
+     5.3 Substantial public interest
+       Payments services may process special categories personal data for reasons of substantial public
+       interest, but only when all the conditions of Article 9 (2) (g) of the GDPR are met. This means that
+       the processing of the special categories of personal data has to be addressed in a specific
+       derogation to article 9 (1) GDPR in Union or Member State law. This provision will have to address
+       the proportionality in relation to the pursued aim of the processing and contain suitable and
+       specific measures to safeguard the fundamental rights and the interests of the data subject.
+       Furthermore, this provision under Union or Member State law will have to respect the essence of
+       the right to data protection. Finally, the processing of the special categories of data must also be
+       demonstrated to be necessary for the reason of the substantial public interest, including interests
+       of systemic importance. Only when all of these conditions are fully met, this derogation could be
+       made applicable to designated types of payment services.
 
- 5.4 Consentimento explícito
-   Nos casos em que a derrogação do artigo 9.º, n.º 2, alínea g), do RGPD não é aplicável, a obtenção
-   de consentimento explícito em conformidade com as condições para um consentimento válido
-
-
-Adotadas                                                                                           22
-
-      estabelecidas no RGPD parece ser a única derrogação lícita possível para o tratamento de
-      categorias especiais de dados pessoais por TPS. As Diretrizes 05/2020 do CEPD relativas ao
-      consentimento na aceção do Regulamento 2016/679 afirmam33 o seguinte: «O artigo 9.º, n.º 2,
-      não reconhece “necessário para a execução de um contrato” como uma exceção à proibição geral
-      de tratamento de categorias especiais de dados. Por conseguinte, os responsáveis pelo tratamento
-      e os Estados-Membros que se defrontam com esta situação devem recorrer às exceções previstas
-      no artigo 9.º, n.º 2, alíneas b) a j).» Quando os prestadores de serviços se baseiam no artigo 9.º,
-      n.º 2, alínea a), do RGPD, têm de assegurar que lhes foi dado consentimento explícito antes de
-      iniciarem o tratamento. O consentimento explícito estabelecido no artigo 9.º, n.º 2, alínea a), do
-      RGPD tem de cumprir todos os requisitos do RGPD.
-
-     5.5 Ausência de uma derrogação adequada
-      Conforme atrás referido, quando o prestador de serviços não consegue demonstrar que cumpre
-      os requisitos de uma das derrogações, a proibição do artigo 9.º, n.º 1 é aplicável. Neste caso,
-      podem ser aplicadas medidas técnicas para impedir o tratamento de categorias especiais de dados
-      pessoais, por exemplo, impedindo o tratamento de certos pontos de dados. Neste sentido, os
-      prestadores de serviços de pagamento podem avaliar as possibilidades técnicas que permitam
-      excluir categorias especiais de dados pessoais e permitir um acesso selecionado que impeça o
-      tratamento de categorias especiais de dados pessoais relacionados com partes silenciosas por TPS.
-
+     5.4 Explicit consent
+       In cases where the derogation of article 9 (2) (g) GDPR does not apply, obtaining explicit consent
+       in accordance with the conditions for valid consent in the GDPR, seems to remain the only possible
+       lawful derogation to process special categories of personal data by TPPs. The EDPB Guidelines
+       05/2020 on consent under Regulation 2016/679 states33 that: “Article 9(2) does not recognize
+       “necessary for the performance of a contract” as an exception to the general prohibition to process
+       special categories of data. Therefore, controllers and Member States that deal with this situation
+       should explore the specific exceptions in Article 9(2) subparagraphs (b) to (j). When service
+       providers rely on Article 9 (2) (a) GDPR, they must ensure that they have been granted explicit
 
 
 
 33
-         Diretrizes 05/2020 relativas ao consentimento na aceção do Regulamento 2016/679, CEPD, n.º 99.
+     Guidelines 05/2020 on consent under Regulation 2016/679, EDPB, para. 99
 
 
-Adotadas                                                                                                  23
+Adopted                                                                                                   19
 
-6 MINIMIZAÇÃO DOS DADOS, SEGURANÇA,                                                   TRANSPARÊNCIA,
-  RESPONSABILIDADE E DEFINIÇÃO DE PERFIS
-     6.1 Minimização dos dados e proteção de dados desde a conceção e por defeito
-      O princípio da minimização dos dados está consagrado no artigo 5.º, n.º 1, alínea c), do RGPD: «Os
-      dados pessoais são […] [a]dequados, pertinentes e limitados ao que é necessário relativamente às
-      finalidades para as quais são tratados». Essencialmente, ao abrigo do princípio da minimização dos
-      dados, os responsáveis pelo tratamento não devem tratar mais dados pessoais do que os
-      necessários para cumprir a finalidade específica em questão. Conforme salientado no capítulo 2,
-      a quantidade e o tipo de dados pessoais necessários para prestar o serviço de pagamento são
-      determinados pelo objeto contratual concreto e mutuamente compreendido34. A minimização dos
-      dados é aplicável a todos os tratamentos (por exemplo, todas as recolhas de dados pessoais ou
-      acessos e pedidos relativos a esses dados). As Diretrizes 4/2019 do CEPD sobre a proteção de
-      dados desde a conceção e por defeito prevista no artigo 25.º do RGPD afirmam que os
-      responsáveis pelo tratamento e os fornecedores de tecnologia são igualmente reconhecidos como
-      facilitadores essenciais da proteção de dados desde a conceção e por defeito e devem estar cientes
-      de que os responsáveis pelo tratamento são obrigados a tratar os dados pessoais com sistemas e
-      tecnologias que têm a proteção de dados incorporada35.
+   consent before commencing the processing.” Explicit consent as set out in Article 9 (2) (a) GDPR
+   must meet all the requirements of the GDPR.
 
-      O artigo 25.º do RGPD contém as obrigações a aplicar à proteção de dados desde a conceção e por
-      defeito. Estas obrigações são particularmente importantes para o princípio da minimização dos
-      dados. O referido artigo determina que os responsáveis pelo tratamento devem aplicar, tanto no
-      momento de definição dos meios de tratamento como no momento do próprio tratamento, as
-      medidas técnicas e organizativas adequadas destinadas a aplicar com eficácia os princípios da
-      proteção de dados e a incluir as garantias necessárias no tratamento, de uma forma que este
-      cumpra os requisitos do RGPD e proteja os direitos dos titulares dos dados. O responsável pelo
-      tratamento deve aplicar medidas técnicas e organizativas para assegurar que, por defeito, só sejam
-      tratados os dados pessoais que forem necessários para cada finalidade específica do tratamento.
-      Essa obrigação aplica-se à quantidade de dados pessoais recolhidos, à extensão do seu tratamento,
-      ao seu prazo de conservação e à sua acessibilidade. Estas medidas poderão incluir a cifragem, a
-      pseudonimização e outras medidas técnicas.
+ 5.5 No suitable derogation
+   As noted above, where the service provider cannot show that one of the derogations is met, the
+   prohibition of Article 9 (1) is applicable. In this case technical measures could be put in place to
+   prevent the processing of special categories of personal data, for instance by preventing the
+   processing of certain data points. In this respect, payment service providers may explore the
+   technical possibilities to exclude special categories of personal data and allow a selected access
+   which would prevent the processing of special categories of personal data related to silent parties
+   by TPPs.
 
-      Quando a obrigação prevista no artigo 25.º do RGPD é aplicada, os elementos a ter em conta são
-      as técnicas mais avançadas, os custos da sua aplicação, e a natureza, o âmbito, o contexto e as
-      finalidades do tratamento dos dados, bem como os riscos decorrentes do tratamento para os
-      direitos e liberdades das pessoas singulares, cuja probabilidade e gravidade podem ser variáveis.
-      As referidas Diretrizes 4/2019 do CEPD sobre a proteção de dados desde a conceção e por defeito
-      prevista no artigo 25.º do RGPD apresentam mais esclarecimentos sobre esta obrigação.
 
-     6.2 Medidas de minimização dos dados
-      Os TPS que acedem aos dados das contas de pagamento para prestar o serviço solicitado devem
-      também ter em conta o princípio da minimização dos dados e apenas recolher os dados pessoais
-      necessários para prestar os serviços de pagamento específicos solicitados pelo utilizador do serviço
-      de pagamento. Em princípio, o acesso aos dados pessoais deve ser limitado ao necessário para
+
+
+Adopted                                                                                             20
+
+6 DATA MINIMISATION, SECURITY, TRANSPARANCY,
+  ACCOUNTABILITY AND PROFILING
+     6.1 Data minimisation and data protection by design and default
+      The principle of data minimisation is enshrined in Article 5 (1) (c) GDPR: “Personal data shall be […]
+      adequate, relevant and limited to what is necessary in relation to the purposes for which they are
+      processed”. Essentially, under the principle of data minimisation, controllers should process no
+      more personal data than what is necessary in order to achieve the specific purpose in question. As
+      pointed out in Chapter 2, the amount and the kind of personal data necessary to provide the
+      payment service is determined by the objective and mutually understood contractual purpose34.
+      Data minimisation is applicable to every processing (e.g. every collection of or access to and
+      request of personal data). The EDPB Guidelines 4/2019 on Article 25 Data Protection by Design
+      and by Default (DPbDD), state that ‘processors and technology providers are also recognised as
+      key enablers for DPbDD, they should also be aware that controllers are required to only process
+      personal data with systems and technologies that have built-in data protection35.’
+
+      Article 25 of the GDPR contains the obligations to apply data protection by design and by default.
+      These obligations are of particular importance to the principle of data minimisation. This Article
+      determines that controllers shall, both at the time of the determination of the means for
+      processing and at the time of the processing itself, implement appropriate technical and
+      organisational measures, which are designed to implement data protection principles in an
+      effective manner and to integrate the necessary safeguards into the processing in order to meet
+      the requirements of the GDPR and protect the rights of data subjects. The controller shall
+      implement appropriate technical and organisational measures for ensuring that, by default, only
+      personal data which are necessary for each specific purpose of the processing are processed. That
+      obligation applies to the amount of personal data collected, the extent of their processing, the
+      period of their storage and their accessibility. These measures may include encryption,
+      pseudonymisation and other technical measures.
+
+      When the obligation of article 25 of the GDPR is applied, the state of the art, the cost of
+      implementation and the nature, scope, context and purposes of processing as well as the risks of
+      varying likelihood and severity for rights and freedoms of natural persons posed by the processing
+      are the elements that have to be taken into account. Further clarifications about this obligation
+      are given in the abovementioned EDPB Guidelines 4/2019 on Article 25 Data Protection by Design
+      and by Default.
+
+     6.2 Data minimisation measures
+      The TPP accessing payment account data in order to provide the requested services must also take
+      the principle of data minimisation into account and must only collect personal data necessary to
+      provide the specific payment services requested by the payment service user. As a principle, the
+      access to the personal data should be limited to what is necessary for the provision of payment
+      services. As has been shown in Chapter 2, the PSD2 requires ASPSPs to share payment service user
+      information on request of the payment service user, when the payment service user wishes to use
+      a payment initiation service or an account information service.
+
 
 34
-          Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD
-          no contexto da prestação de serviços em linha aos titulares dos dados, CEPD, n.º 32.
+   Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the
+provision of online services to data subjects, EDPB, para 32
 35
-          «Guidelines 4/2019 on Article 25 Data Protection by Design and by Default» [Diretrizes 4/2019 sobre a
-          proteção de dados desde a conceção e por defeito prevista no artigo 25.º do RGPD], página 29.
+   Guidelines 4/2019 on Article 25 Data Protection by Design and by Default, page 29.
 
 
-Adotadas                                                                                                        24
+Adopted                                                                                                    21
 
-   prestar os serviços de pagamento. Conforme demonstrado no capítulo 2, a DSP2 exige que os
-   PSPGC partilhem as informações do utilizador do serviço de pagamento a pedido deste, quando o
-   mesmo pretende utilizar um serviço de iniciação do pagamento ou um serviço de informação sobre
-   contas.
+   When not all payment account data are necessary for the provision of the contract, a selection of
+   the relevant data categories should be made by the AISP before the data are collected. For
+   instance, data categories that may not be necessary may include the identity of the silent party
+   and the transaction characteristics. Also, unless required by Member State or EU law, the IBAN of
+   the silent party’s bank account may not need to be displayed.
 
-   Se nem todos os dados da conta de pagamento forem necessários para a execução do contrato, o
-   PSIC deve fazer uma seleção das categorias de dados pertinentes antes da recolha dos dados. As
-   categorias de dados que poderão não ser necessárias incluirão, por exemplo, a identidade da parte
-   silenciosa e as características da operação. Além disso, a menos que o direito da União ou de um
-   Estado-Membro o exija, o IBAN da conta bancária da parte silenciosa poderá não ter de ser
-   apresentado.
+   In this respect, the possible application of technical measures that enable or support TPPs in their
+   obligation to access and retrieve only the personal data necessary for the provision of their services
+   could be considered, as part of the implementation of appropriate data protection policies, in line
+   with article 24 (2) GDPR. In this respect, the EDPB recommends the usage of digital tools in order
+   to support AISPs in their obligation to only collect personal data that are necessary for the
+   purposes for which they are processed. For instance, when a service provider does not need the
+   transaction characteristics (in the description field of the transaction records) for the provision of
+   their service, a digital selection tool could function as a means for TPPs to exclude this field from
+   the overall processing operations by the TPP.
 
-   A este respeito, a possível aplicação de medidas técnicas para habilitar ou ajudar os TPS a cumprir
-   a obrigação de aceder e recuperar apenas os dados necessários para a prestação dos seus serviços
-   pode ser considerada como parte da aplicação de políticas adequadas em matéria de proteção de
-   dados, em conformidade com o artigo 24.º, n.º 2, do RGPD. Neste sentido, o CEPD recomenda a
-   utilização de ferramentas digitais destinadas a ajudar os PSIC a cumprir a obrigação de recolher
-   apenas os dados pessoais necessários para as finalidades para que são tratados. Por exemplo
-   quando um prestador de serviços não precisa das características da operação (no campo da
-   descrição dos registos de operações) para prestar o seu serviço, poderá utilizar-se uma ferramenta
-   de seleção digital como forma de excluir este campo das operações de tratamento gerais do TPS.
+ Example 2:
+ HappyPayments, our Account Information Service provider from example 1, wants to ensure that it
+ only processes the personal payment account data which its users are interested in. To seek access
+ to more payment account data would not be necessary for the provision of the service. Therefore,
+ it allows the users to select the specific types of information they are interested in.
+ User A wants an overview of its spending for the last two months. Thus, it asks for its two banking
+ accounts, held with two different ASPSPs, the information on all transactions of the last two months,
+ the transaction amount, the date of execution and the recipient’s name, and ticks the corresponding
+ boxes in HappyPayments’ user interface.
+ HappyPayments then commences to request from the respective ASPSPs only the information
+ corresponding to the fields set by User A and only for the period of the last two months. Information
+ such as the “communication” of the transfer or even the IBAN are not requested, as User A did not
+ ask for this information.
+ To allow HappyPayments to comply with its data minimisation obligations, the ASPSPs allow
+ HappyPayments to request specific fields for a range of dates.
 
- Exemplo 2:
- A Bons Pagamentos, o prestador de serviços de informação sobre contas do exemplo 1, pretende
- assegurar que apenas trata os dados pessoais das contas de pagamento em que os seus utilizadores
- estão interessados. A prestação do serviço não exigiria o acesso a mais dados das contas de
- pagamento. Por conseguinte, o prestador de serviços permite que os utilizadores selecionem os
- tipos de informação específicos em que estão interessados.
- O utilizador A pretende uma visão geral das suas despesas nos últimos dois meses. Assim, solicita,
- relativamente às suas duas contas bancárias, detidas junto de dois PSPGC diferentes, as informações
- sobre todas as operações dos últimos dois meses, o montante das operações, a data de execução e
- o nome do destinatário, e assinala as caixas correspondentes na interface de utilizador da Bons
- Pagamentos.
- Em seguida, esta começa por solicitar aos respetivos PSPGC apenas as informações correspondentes
- aos campos definidos pelo utilizador A e relativas ao período dos últimos dois meses. Não solicita
- informações como a «comunicação» da transferência ou mesmo o IBAN, uma vez que o utilizador A
- não as pediu.
- O PSPGC, a fim de permitir que a Bons Pagamentos cumpra as suas obrigações de minimização dos
- dados, autoriza-a a solicitar campos específicos para um determinado intervalo de datas.
+   It should also be noted in this regard that under the PSD2, ASPSPs are only allowed to provide
+   access to payment account information. There is no legal basis under the PSD2 to provide access
+   with regard to personal data contained in other accounts, such as savings, mortgages or
+   investment accounts. Accordingly, under the PSD2, technical measures have to be implemented
+   to ensure that access is limited to the necessary payment account information.
 
-   Importa salientar também, a este respeito, que, nos termos da DSP2, os PSPGC apenas podem
-   conceder acesso a informações sobre contas de pagamento. A DSP2 não prevê qualquer
-   fundamento jurídico para conceder acesso a dados pessoais contidos noutras contas, como contas
-   de poupanças, créditos hipotecários ou investimentos. De igual forma, nos termos da DSP2, é
-   necessário aplicar medidas técnicas para assegurar que o acesso abrange apenas as informações
-   necessárias sobre as contas de pagamento.
+   Besides collecting as little data as possible, the service provider also has to implement limited
+   retention periods. Personal data should not be stored by the service provider for a period longer
+   than is necessary in relation to the purposes requested by the payment service user.
 
-   Além de recolher o mínimo possível de dados, o prestador de serviços tem de aplicar períodos de
-   conservação limitados. O prestador de serviços não deve armazenar os dados pessoais durante
+   If the contract between the data subject and the AISP requires the transmission of personal data
+   to third parties, then only those personal data that are necessary for the execution of the contract
+   can be transmitted. Data subjects should also be specifically informed about the transmission and
+   the personal data that are going to be transmitted to this third party.
 
+ 6.3 Security
 
 
-Adotadas                                                                                           25
 
-      um período superior ao necessário para cumprir as finalidades solicitadas pelo utilizador do serviço
-      de pagamento.
 
-      Se o contrato entre o titular dos dados e o PSIC exigir a transmissão de dados pessoais a terceiros,
-      apenas poderão ser transmitidos os dados pessoais necessários para a execução do contrato. Os
-      titulares dos dados devem também ser especificamente informados sobre a transmissão e os
-      dados pessoais que serão transmitidos ao terceiro em causa.
+Adopted                                                                                               22
 
-     6.3 Segurança
-      O CEPD já salientou que a violação de dados pessoais de natureza financeira «implica claramente
-      que a vida quotidiana do titular dos dados será gravemente afetada», citando como exemplo os
-      riscos de fraude de pagamentos36.
+      The EDPB already highlighted that the violation of financial personal data “clearly involves serious
+      impacts in the data subject’s daily life” and quotes the risks of payment fraud as an example36.
 
-      Quando uma violação de dados está associada a dados financeiros, o titular dos dados pode ser
-      exposto a riscos consideráveis. A fuga de determinadas informações pode expor os titulares dos
-      dados ao risco de usurpação de identidade ou furto de fundos nas contas e outros ativos. Além
-      disso, é possível que a exposição dos dados das operações esteja associado a riscos consideráveis
-      para a privacidade, uma vez que os dados das operações podem conter referências a todos os
-      aspetos da vida privada de um titular de dados. Por outro lado, os dados financeiros são,
-      naturalmente, valiosos para os infratores e constituem, por isso, um alvo atrativo.
+      Where a data breach involves financial data, the data subject may be exposed to considerable
+      risks. Depending on the information that is leaked, data subjects may be exposed to a risk of
+      identity theft, of theft of the funds in their accounts and other assets. Furthermore, there is the
+      possibility that the exposure of transaction data is related to considerable privacy risks, as
+      transaction data may contain references to all aspects of a data subject’s private life. At the same
+      time, financial data are obviously valuable to criminals and therefore an attractive target.
 
-      Enquanto responsáveis pelo tratamento, os prestadores de serviços de pagamento são obrigados
-      a tomar medidas para proteger os dados pessoais dos titulares dos dados (artigo 24.º, n.º 1, do
-      RGPD). Quanto maiores forem os riscos associados à atividade de tratamento realizada pelo
-      responsável, mais elevadas são as normas de segurança a aplicar. Uma vez que está ligado a
-      diversos riscos graves, o tratamento de dados financeiros exige medidas de segurança mais fortes.
+      As controllers, payment service providers are obligated to take adequate measures to protect the
+      personal data of data subjects (Article 24 (1) GDPR). The higher the risks associated with the
+      processing activity carried out by the controller, the higher the security standards that need to be
+      applied. As the processing of financial data is connected to a variety of severe risks, the security
+      measures should be accordingly high.
 
-      Os prestadores de serviços devem ser obrigados a respeitar normas elevadas, incluindo
-      mecanismos de autenticação forte dos clientes e normas de segurança elevadas para o
-      equipamento técnico37. Existem outros procedimentos importantes, como a verificação dos
-      responsáveis pelo tratamento no que diz respeito às normas de segurança e a aplicação de
-      procedimentos contra acesso não autorizado.
+      Service providers should be held to high standards, including strong customer authentication
+      mechanisms and high security standards for the technical equipment37. Other procedures, such as
+      vetting processors for security standards and implementing procedures against unauthorised
+      access, are also important.
 
-     6.4 Transparência e responsabilidade
-      A transparência e a responsabilidade são dois princípios fundamentais do RGPD.
+     6.4 Transparency and accountability
+      Transparency and accountability are two fundamental principles of the GDPR.
 
-      No que diz respeito à transparência (artigo 5.º, n.º 1, alínea a), do RGPD), o artigo 12.º do RGPD
-      especifica que os responsáveis pelo tratamento devem tomar as medidas adequadas para fornecer
-      as informações a que se referem os artigos 13.º e 14.º do mesmo regulamento. Além disso, exige
-      que as informações ou comunicações a respeito do tratamento de dados pessoais sejam
-      apresentadas de forma concisa, transparente, inteligível e de fácil acesso. As informações devem
-      ser prestadas numa linguagem clara e simples e por escrito «ou por outros meios, incluindo, se for
-      caso disso, por meios eletrónicos». As Orientações do Grupo de Trabalho do Artigo 29.º relativas
-      à transparência na aceção do Regulamento 2016/679, aprovadas pelo CEPD, apresentam
-      orientações específicas para o cumprimento do princípio da transparência em ambientes digitais.
+      With regard to transparency (Article 5 (1)(a) of the GDPR), Article 12 of the GDPR specifies that
+      controllers shall take appropriate measures to provide any information referred to in Articles 13
+      and 14 GDPR. Furthermore, it requires that the information or communication about the
+      processing of personal data must be concise, transparent, intelligible and easily accessible. The
+      information must be in clear and plain language and in writing “or by other means, including where
+      appropriate, by electronic means”. The Article 29 Working Party ‘Guidelines on transparency under
+      Regulation 2016/679’, as endorsed by the EDPB, offers specific guidance for compliance with the
+      principle of transparency in digital environments.
 
+      According to the abovementioned Guidelines on transparency under Regulation 2016/679, Article
+      11 GDPR should be interpreted as a way of enforcing genuine data minimisation without hindering
+      the exercise of data subject rights, and that the exercise of data subject rights should be made
+      possible with the help of additional information provided by the data subject. There may be
+      situations where a data controller is processing personal data which does not require the
+      identification of a data subject (for example with pseudonymised data). In such cases, Article 11.1
+      may also be relevant as it states that a data controller shall not be obliged to maintain, acquire or
+      process additional information in order to identify the data subject for the sole purposes of
+      complying with the GDPR.
+
+      For the services under the PSD2, Article 13 GDPR is applicable for the personal data collected from
+      the data subject and Article 14 is applicable where personal data have not been obtained from the
+      data subject.
 
 
 36
-          Orientações do Grupo de Trabalho do Artigo 29.º relativas à Avaliação de Impacto sobre a Proteção de
-          Dados (AIPD) e que determinam se o tratamento é «suscetível de resultar num elevado risco» para
-          efeitos do Regulamento (UE) 2016/679, WP248 rev.01 — aprovadas pelo CEPD.
+   Article 29 Working Party Guidelines on Data Protection Impact Assessment (DPIA) and determining whether
+processing is “likely to result in a high risk” for the purposes of Regulation 2016/679, WP248 rev.01 - endorsed
+by the EDPB.
 37
-          Ver as NTR.
+   See the RTS.
 
 
-Adotadas                                                                                                   26
+Adopted                                                                                                       23
 
-     Segundo as referidas Orientações relativas à transparência na aceção do Regulamento 2016/679,
-     o artigo 11.º do RGPD deve ser interpretado como forma de aplicar uma verdadeira minimização
-     de dados sem prejudicar o exercício dos direitos dos titulares dos dados e o exercício dos direitos
-     dos titulares dos dados deve ser possível com a ajuda de informações adicionais fornecidas pelo
-     titular dos dados. Pode haver situações em que um responsável pelo tratamento esteja a tratar
-     dados pessoais que não exijam a identificação dos titulares dos dados (por exemplo, com dados
-     pseudonimizados). Nestes casos, o artigo 11.º, n.º 1, também pode ser pertinente, uma vez que
-     determina que um responsável pelo tratamento não é obrigado a manter, obter ou tratar
-     informações suplementares para identificar o titular dos dados com o único objetivo de dar
-     cumprimento ao RGPD.
+     In particular, the data subject has to be informed about the period for which the personal data will
+     be stored, or if that is not possible, the criteria used to determine that period, and where
+     applicable, the legitimate interests pursued by the controller or by a possible third party. Where
+     processing is based on consent as referred to in Article 6(1) (a) GDPR or explicit consent as referred
+     to in Article 9(2) (a) GDPR, the data subject has to be informed of the existence of the right to
+     withdraw consent at any time.
 
-     No que diz respeito aos serviços ao abrigo da DSP2, o artigo 13.º do RGPD é aplicável aos dados
-     pessoais recolhidos junto do titular e o artigo 14.º é aplicável quando os dados pessoais não são
-     recolhidos junto do titular.
+     The controller shall provide the information to the data subject, having regard to the specific
+     circumstances in which the personal data are processed. If the personal data are to be used for
+     communication with the data subject38, which will probably will be the case for AISPs, the
+     information has to be provided at the latest at the time of the first communication to that data
+     subject. If personal data are to be disclosed to another recipient, the information has to be
+     provided at the latest when the personal data are first disclosed.
 
-     Em particular, o titular dos dados deve ser informado sobre o prazo de conservação dos dados
-     pessoais ou, se não for possível, os critérios usados para fixar esse prazo, e, quando aplicável, os
-     interesses legítimos do responsável pelo tratamento ou de um eventual terceiro. Se o tratamento
-     se basear no consentimento, nos termos do artigo 6.º, n.º 1, alínea a), do RGPD, ou no
-     consentimento explícito, nos termos do artigo 9.º, n.º 2, alínea a), do RGPD, o titular dos dados
-     tem de ser informado da existência do direito de retirar consentimento em qualquer altura.
+     With regard to online payment services, the abovementioned Guidelines clarify that a layered
+     approach may be followed by data controllers where they opt to use a combination of methods to
+     ensure transparency. It is in particularly recommended that layered privacy statements/ notices
+     should be used to link to the various categories of information which must be provided to the data
+     subject, rather than displaying all such information in a single notice on a screen, in order to avoid
+     information fatigue, and at the same time ensuring the effectiveness of the information.
 
-     O responsável pelo tratamento deve prestar as informações ao titular dos dados tendo em conta
-     as circunstâncias específicas em que os dados pessoais forem tratados. Se os dados pessoais se
-     destinarem a ser utilizados para fins de comunicação com o titular dos dados38, o que,
-     provavelmente acontecerá no caso dos PSIC, as informações devem ser prestadas o mais tardar
-     no momento da primeira comunicação ao titular dos dados. Se os dados pessoais se destinarem a
-     ser divulgados a outro destinatário, as informações devem ser prestadas o mais tardar aquando
-     da primeira divulgação desses dados.
+     The abovementioned Guidelines also clarify that controllers may choose to use additional tools to
+     provide information to the individual data subject, such as privacy dashboards. A privacy
+     dashboard is a single point from which data subjects can view ‘privacy information’ and manage
+     their privacy preferences by allowing or preventing their data from being used in certain ways by
+     the controller in question39. A privacy dashboard could provide an overview of the TPPs that have
+     obtained the data subjects explicit consent, and could also offer relevant information on the nature
+     and amount of personal data that has been accessed by TPPs. In principle, an ASPSP may offer the
+     user the possibility to withdraw a specific explicit PSD2 consent40 through the overview, which
+     would result in a denial of access to their payment accounts to one or more TPPs. The user could
+     also request an ASPSP to deny access to their payment account(s) to one or more particular TPPs41,
+     as it is the right of the user to (not) make use of an account information service. If privacy
+     dashboards are used in order to give or withdraw an explicit consent, they should be designed and
+     applied lawfully and in particular prevent creating obstacles to the TPPs right to provide services
+     in accordance with the PSD2. In this respect and in accordance with the applicable provisions under
+     the PSD2, a TPP has the possibility to obtain explicit consent from the user again after this consent
+     has been withdrawn.
 
-     No que se refere aos serviços de pagamento em linha, as orientações supramencionadas
-     esclarecem que os responsáveis pelo tratamento podem adotar uma abordagem estruturada
-     quando escolhem utilizar uma combinação de métodos para garantir a transparência. As
-     orientações recomendam, em especial, que as declarações de confidencialidade estruturadas
-     sejam utilizadas para ligar as várias categorias de informações que importa fornecer ao titular dos
-     dados, em vez de conterem todas essas informações num único documento no ecrã, por forma a
-     evitar a fadiga informativa e, ao mesmo tempo, assegurar a eficácia da informação.
+     The accountability principles requires the controller to lay down appropriate technical and
+     organisational measures to ensure and to be able to demonstrate that processing is performed in
 
-     As orientações esclarecem também que os responsáveis pelo tratamento podem optar por utilizar
-     ferramentas adicionais para prestar informações ao titular de dados individualmente, como
-     painéis de controlo da confidencialidade. Um painel de controlo da confidencialidade é um ponto
-     único a partir do qual os titulares dos dados podem ver «informações sobre confidencialidade» e
-     gerir as suas preferências em matéria de confidencialidade, autorizando ou impedindo que os seus
-     dados sejam utilizados de determinadas formas pelo responsável pelo tratamento em causa39. Um
 
 38
-        Artigo 14.º, n.º 3, alínea b), do RGPD.
+   Art. 14 (3) (b) of the GDPR.
 39
-        Segundo as Orientações do Grupo de Trabalho do Artigo 29.º relativas à transparência na aceção do
-        Regulamento 2016/679, aprovadas pelo CEPD, os painéis de controlo da confidencialidade são
-        particularmente úteis quando o mesmo serviço é utilizado por titulares de dados numa série de
-        dispositivos diferentes, uma vez que estes podem aceder e controlar os seus dados pessoais
-
-
-
-Adotadas                                                                                              27
-
-      painel de controlo da confidencialidade pode proporcionar uma visão geral dos TPS que obtiveram
-      o consentimento explícito dos titulares dos dados e podem também prestar informações
-      pertinentes sobre a natureza e a quantidade dos dados pessoais a que os TPS acederam. Em
-      princípio, um PSPGC poderá dar ao utilizador a possibilidade de retirar um consentimento expresso
-      ao abrigo da DSP240 através da visão geral, o que poderia resultar numa negação de acesso de um
-      ou mais TPS às suas contas de pagamento. O utilizador pode também solicitar ao PSPGC que negue
-      o acesso de um ou mais TPS específicos41 à(s) suas(s) conta(s) de pagamento, já que tem o direito
-      de (não) utilizar um serviço de informação sobre contas. Para poderem ser utilizados para dar ou
-      retirar consentimento expresso, os painéis de controlo da confidencialidade devem ser concebidos
-      e aplicados de forma lícita e, em particular, evitar criar obstáculos ao direito dos TPS de prestar
-      serviços em conformidade com a DSP2. Neste contexto, e em conformidade com as disposições
-      aplicáveis nos termos da DSP2, um TPS tem a possibilidade de obter novamente o consentimento
-      expresso do utilizador após a retirada do consentimento.
-
-      Os princípios da responsabilidade exigem que o responsável pelo tratamento estabeleça as
-      medidas técnicas e organizativas adequadas para assegurar e poder comprovar que o tratamento
-      é realizado em conformidade com o RGPD, nomeadamente os principais princípios da proteção de
-      dados previstos no artigo 5.º, n.º 1. Essas medidas devem ter em conta a natureza, o âmbito, o
-      contexto e as finalidades do tratamento dos dados, bem como o risco que possa implicar para os
-      direitos e liberdades das pessoas singulares, e devem ser revistas e atualizadas quando
-      necessário42.
-
-     6.5 Definição de perfis
-      O tratamento de dados pessoais por prestadores de serviços de pagamento pode implicar a
-      «definição de perfis» a que se refere o artigo 4.º, ponto 4, do RGPD. Por exemplo, os PSIC podem
-      utilizar o tratamento automatizado de dados pessoais para avaliar certos aspetos pessoais de uma
-      pessoa singular. Consoante as características específicas do serviço, pode ser possível avaliar a
-      situação financeira pessoal do titular dos dados. Os serviços de informação sobre contas, que
-      devem ser prestados conforme solicitado pelos utilizadores, poderão implicar uma avaliação
-      pormenorizada dos dados pessoais da conta de pagamento.
-
-      O responsável deve também informar de forma transparente o titular dos dados da existência de
-      decisões automatizadas, incluindo a definição de perfis. Nestes casos, o responsável pelo
-      tratamento deve prestar informações úteis relativas à lógica subjacente, bem como a importância
-      e as consequências previstas de tal tratamento para o titular dos dados (artigo 13.º, n.º 2, alínea f),
-      artigo 14.º, n.º 2, alínea g), e considerando 60)43. De igual modo, o artigo 15.° do RGPD estabelece
-      que o titular dos dados tem o direito de solicitar e obter do responsável pelo tratamento
-      informações relativas à existência de decisões automatizadas, incluindo a definição de perfis, à
-      lógica subjacente e às consequências para o titular dos dados e, em determinadas circunstâncias,
-
-          independentemente da forma como utilizam o serviço. Permitir que os titulares dos dados ajustem
-          manualmente as suas definições de confidencialidade através de um painel de controlo da
-          confidencialidade também pode facilitar a criação de uma declaração de confidencialidade
-          personalizada que reflita apenas os tipos de tratamento possíveis para aquele titular de dados
-          específico.
+   According to the Article 29 Working Party Guidelines on transparency under Regulation 2016/679 - endorsed
+by the EDPB, privacy dashboards are particularly useful when the same service is used by data subjects on a
+variety of different devices as they give them access to and control over their personal data no matter how they
+use the service. Allowing data subjects to manually adjust their privacy settings via a privacy dashboard can also
+make it easier for a privacy statement/ notice to be personalised by reflecting only the types of processing
+occurring for that particular data subject.
 40
-          Ver, por exemplo, o «consentimento expresso» mencionado no artigo 67.º, n.º 2, alínea a), da DSP2.
+   See for example the ‘explicit consent’ mentioned in Article 67 (2) (a) of the PSD2.
 41
-          Ver também EBA/OP/2020/10, ponto 45.
+   See also EBA/OP/2020/10, paragraph 45
+
+
+
+Adopted                                                                                                        24
+
+      accordance with the GDPR, in particular with the main data protection principles provided for by
+      Article 5 (1). Those measures should take into account the nature, scope, context and purposes of
+      the processing and the risk to the rights and freedoms of natural persons, and must be reviewed
+      and updated when necessary42.
+
+     6.5 Profiling
+      The processing of personal data by payment service providers may entail ‘profiling’ as referred to
+      in Article 4 (4) of the GDPR. For example, AISPs could rely on automated processing of personal
+      data in order to evaluate certain personal aspects relating to a natural person. A data subject’s
+      personal financial situation could be evaluated, depending on the specifics of the service. Account
+      information services, to be provided as requested by users, may involve an extensive evaluation
+      of personal payment account data.
+
+      The controller also has to be transparent to the data subject on the existence of automated
+      decision-making, including profiling. In those cases, the controller has to provide meaningful
+      information about the logic involved, as well as the significance and the envisaged consequences
+      of such processing for the data subject (Article 13(2) (f) and Article 14 (2) (g) and recital 60)43.
+      Likewise, under Article 15 of the GDPR the data subject has the right to request and obtain
+      information from the controller about the existence of automated decision-making, including
+      profiling, the logic involved and the consequences for the data subject, and, in certain
+      circumstances, a right to object to profiling, regardless of whether solely automated individual
+      decision-making based on profiling takes place44.
+
+      Furthermore, what is also relevant in this context is the right of the data subject not to be subject
+      to a decision based solely on automated processing, including profiling, which produces legal
+      effects concerning him or her or similarly significantly affecting him or her, provided for by Article
+      22 of GDPR. This norm also includes, in certain circumstances, the need for data controllers to
+      implement suitable measures to safeguard the data subject’s rights such as specific information to
+      the data subject, the right to obtain human intervention in the decision making and to express his
+      or her point of view and contest the decision. As also stated in recital 71 of GDPR this means, inter
+      alia, that data subjects have the right not to be subject to a decision, such as automatic refusal of
+      an online credit application without any human intervention45.
+
+      Automated decision-making, including profiling that involves special categories of personal data is
+      only allowed under the cumulative conditions of Article 22(4) GDPR:
+
+      -   there is an applicable Article 22(2) exemption;
+
+      -   and paragraph (a) or (g) of Article 9(2) GDPR applies. In both cases, the controller shall put in
+          place suitable measures to safeguard the data subject’s rights and freedoms and legitimate
+          interests46.
+
+      The requirements for further processing, as stated in these guidelines, should also be observed.
+      The clarifications and instructions on automated individual decision-making and profiling given by
+
 42
-          Artigo 5.º, n.º 2, e artigo 24.º do RGPD.
+   Art. 5(2) and Art. 24 GDPR.
 43
-          Orientações relativas à transparência na aceção do Regulamento 2016/679, WP 260 rev.01 — aprovadas
-          pelo CEPD.
+   Guidelines on transparency under Regulation 2016/679, WP 260 rev.01 - endorsed by the EDPB
+44
+   Article 29 Working Party Guidelines on Automated individual decision-making and Profiling for the purposes
+of Regulation 2016/679, WP251rev.01
+45
+   Recital 71 GDPR.
+46
+   Article 29 Working Party Guidelines on Automated individual decision-making and Profiling for the purposes
+of Regulation 2016/679, WP251rev.01, page 24.
+
+
+Adopted                                                                                                    25
+
+   the Working Party 29 Guidelines on Automated individual decision-making and Profiling for the
+   purposes of Regulation 2016/679, as endorsed by the EDPB, are fully relevant in the context of
+   payment services and should therefore be duly considered.
 
 
 
-Adotadas                                                                                                  28
+For the European Data Protection Board
 
-     o direito de se opor à definição de perfis, independentemente de serem ou não tomadas decisões
-     individuais exclusivamente automatizadas com base na definição de perfis44.
-
-     Além disso, é igualmente relevante neste contexto o direito do titular dos dados de não ficar
-     sujeito a nenhuma decisão tomada exclusivamente com base no tratamento automatizado,
-     incluindo a definição de perfis, que produza efeitos na sua esfera jurídica ou que o afete
-     significativamente de forma similar, conforme disposto no artigo 22.º do RGPD. Esta norma
-     também inclui, em determinadas circunstâncias, a necessidade de os responsáveis pelo
-     tratamento aplicarem medidas adequadas para salvaguardar os direitos do titular dos dados, como
-     a informação específica ao titular dos dados, o direito de obter a intervenção humana na tomada
-     de decisões e o direito de manifestar o seu ponto de vista e contestar a decisão. Conforme referido
-     também no considerando 71 do RGPD, tal implica, nomeadamente, que os titulares dos dados têm
-     o direito de não ficarem sujeitos a uma decisão, como a recusa automática de um pedido de
-     crédito por via eletrónica, sem qualquer intervenção humana45.
-
-     As decisões automatizadas, incluindo a definição de perfis, que digam respeito a categorias
-     especiais de dados pessoais são permitidas apenas se forem preenchidas as seguintes condições
-     cumulativas previstas no artigo 22.º, n.º 4, do RGPD:
-
-     -   é aplicável uma isenção ao artigo 22.º, n.º 2;
-
-     -   e aplica-se o artigo 9.º, n.º 2, alínea a) ou g) do RGPD. Nos dois casos, o responsável pelo
-         tratamento deve aplicar medidas adequadas para salvaguardar os direitos e liberdades e os
-         legítimos interesses do titular dos dados46.
-
-     Importa também cumprir os requisitos para o tratamento posterior, conforme descrito nas
-     presentes diretrizes. Os esclarecimentos e as instruções sobre as decisões individuais
-     automatizadas e a definição de perfis fornecidos pelas Orientações do Grupo de Trabalho do
-     Artigo 29.º sobre as decisões individuais automatizadas e a definição de perfis para efeitos do
-     Regulamento (UE) 2016/679, aprovadas pelo CEPD, são plenamente relevantes no contexto dos
-     serviços de pagamento e devem, portanto, ser devidamente tidas em consideração.
-
-
-
-Pelo Comité Europeu para a Proteção de Dados
-
-A Presidente
+The Chair
 
 
 
@@ -1377,15 +1259,5 @@ A Presidente
 
 
 
-44
-         Orientações do Grupo de Trabalho do Artigo 29.º sobre as decisões individuais automatizadas e a
-         definição de perfis para efeitos do Regulamento (UE) 2016/679, WP251rev.01.
-45
-         Considerando 71 do RGPD.
-46
-         Orientações do Grupo de Trabalho do Artigo 29.º sobre as decisões individuais automatizadas e a
-         definição de perfis para efeitos do Regulamento (UE) 2016/679, WP251rev.01, página 27.
-
-
-Adotadas                                                                                             29
+Adopted                                                                                       26
 ```

@@ -1,878 +1,795 @@
 ---
-titulo: "Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD no contexto da prestação de serviços em linha aos titulares dos dados"
+titulo: "Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects"
 titulo_en: "Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2019-10-16'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-22019-on-the-processing-of-personal-data-under-article-61b-gdpr-in_en
-pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines-art_6-1-b-adopted_after_public_consultation_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines-art_6-1-b-adopted_after_public_consultation_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD no contexto da prestação de serviços em linha aos titulares dos dados
+# Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 2/2019 sobre o tratamento de dados pessoais ao
- abrigo do artigo 6.º, n.º 1, alínea b), do RGPD no contexto
-  da prestação de serviços em linha aos titulares dos dados
+Guidelines 2/2019 on the processing of personal data under
+Article 6(1)(b) GDPR in the context of the provision of online
+                  services to data subjects
 
 
-                               Versão 2.0
+                         Version 2.0
 
 
-                       8 de outubro de 2019
-
-
-
-
-                   Translations proofread by EDPB Members.
-               This language version has not yet been proofread.
+                        8 October 2019
 
 
 
 
-                                                                   1
-Adotadas
+                                                             1
+Adopted
 
-Histórico de versões
-
-
- Versão 2.0   8 de outubro de 2019   Adoção das Diretrizes após consulta pública
-
- Versão 1.0   9 de abril de 2019     Adoção das Diretrizes para consulta sobre a
-                                     publicação
+Version history
 
 
+ Version 2.0   8 October 2019   Adoption of the Guidelines after public consultation
 
-
-                                                                                   2
-Adotadas
-
-1     Parte 1 – Introdução........................................................................................................................ 4
-    1.1     Contexto................................................................................................................................... 4
-    1.2     Âmbito de aplicação das presentes diretrizes ......................................................................... 5
-2     Parte 2 – Análise do artigo 6.º, n.º 1, alínea b) ............................................................................... 6
-    2.1     Observações gerais .................................................................................................................. 6
-    2.2     Interação entre o artigo 6.º, n.º 1, alínea b), e outros fundamentos jurídicos para o
-            tratamento............................................................................................................................... 7
-    2.3     Âmbito de aplicação do artigo 6.º, n.º 1, alínea b).................................................................. 8
-    2.4     Necessidade ............................................................................................................................. 8
-    2.5     Necessidade para a execução de um contrato com o titular dos dados ................................. 9
-    2.6     Cessação do contrato............................................................................................................. 13
-    2.7     Necessidade para diligências pré-contratuais ....................................................................... 14
-3     Parte 3 – Aplicabilidade do artigo 6.º, n.º 1, alínea b), em situações específicas......................... 15
-    3.1     Tratamento para «melhoria do serviço» .............................................................................. 15
-    3.2     Tratamento para «prevenção da fraude» ............................................................................. 15
-    3.3     Tratamento para publicidade comportamental em linha ..................................................... 15
-    3.4     Tratamento para personalização do conteúdo ..................................................................... 17
+ Version 1.0   9 April 2019     Adoption of the Guidelines for publication consultation
 
 
 
 
-                                                                                                                                                       3
-Adotadas
+                                                                                          2
+Adopted
 
-     O Comité Europeu para a Proteção de Dados
+1     Part 1 – Introduction ....................................................................................................................... 4
+    1.1      Background.............................................................................................................................. 4
+    1.2      Scope of these guidelines........................................................................................................ 5
+2     Part 2 - Analysis of Article 6(1)(b).................................................................................................... 5
+    2.1      General observations .............................................................................................................. 5
+    2.2      Interaction of Article 6(1)(b) with other lawful bases for processing ..................................... 7
+    2.3      Scope of Article 6(1)(b)............................................................................................................ 8
+    2.4      Necessity ................................................................................................................................. 8
+    2.5      Necessary for performance of a contract with the data subject ............................................ 9
+    2.6      Termination of contract ........................................................................................................ 12
+    2.7      Necessary for taking steps prior to entering into a contract ................................................ 13
+3     Part 3 – Applicability of Article 6(1)(b) in specific situations......................................................... 14
+    3.1      Processing for ‘service improvement’................................................................................... 14
+    3.2      Processing for ‘fraud prevention’.......................................................................................... 14
+    3.3      Processing for online behavioural advertising ...................................................................... 14
+    3.4      Processing for personalisation of content............................................................................. 15
 
-     Tendo em conta o artigo 70.º, n.º 1, alínea e) do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE,
 
 
-     ADOTOU AS SEGUINTES DIRETRIZES
+
+                                                                                                                                                        3
+Adopted
+
+     The European Data Protection Board
+
+     Having regard to Article 70(1)e of Regulation 2016/679/EU of the European Parliament and of the
+     Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+     data and on the free movement of such data, and repealing Directive 95/46/EC,
 
 
-     1 PARTE 1 – INTRODUÇÃO
-     1.1 Contexto
-1.   Nos termos do artigo 8.º da Carta dos Direitos Fundamentais da União Europeia, os dados pessoais
-     devem ser objeto de um tratamento leal, para fins específicos e com um fundamento legítimo previsto
-     por lei. A este respeito, o artigo 6.º, n.º 1, do Regulamento Geral sobre a Proteção de Dados 1 (RGPD)
-     especifica que o tratamento só é lícito com base numa das seis condições estabelecidas no artigo 6.º,
-     n.º 1, alíneas a) a f). É fundamental identificar o fundamento jurídico adequado que corresponde ao
-     objetivo e à essência do tratamento. Os responsáveis pelo tratamento devem, designadamente, ter
-     em conta o impacto sobre os direitos dos titulares dos dados ao identificarem o fundamento jurídico
-     adequado, a fim de respeitarem o princípio da lealdade.
+     HAS ADOPTED THE FOLLOWING GUIDELINES
 
-2.   O artigo 6.º, n.º 1, alínea b), do RGPD prevê um fundamento jurídico para o tratamento de dados
-     pessoais na medida em que «o tratamento for necessário para a execução de um contrato no qual o
-     titular dos dados é parte, ou para diligências pré-contratuais a pedido do titular dos dados» 2. Este
-     fundamento apoia a liberdade de empresa, garantida pelo artigo 16.º da Carta, e reflete o facto de,
-     por vezes, as obrigações contratuais para com o titular dos dados não poderem ser cumpridas sem que
-     este forneça determinados dados pessoais. Se o tratamento específico constituir parte integrante da
-     prestação do serviço solicitado, é do interesse de ambas as partes tratar esses dados, pois, caso
-     contrário, o serviço não poderá ser prestado e o contrato não poderá ser executado. No entanto, a
-     capacidade de invocar este ou um dos outros fundamentos jurídicos referidos no artigo 6.º, n.º 1, não
-     isenta o responsável pelo tratamento do cumprimento dos outros requisitos do RGPD.
 
-3.   Os artigos 56.º e 57.º do Tratado sobre o Funcionamento da União Europeia definem e regulam a livre
-     prestação de serviços na União Europeia. Foram adotadas medidas legislativas específicas da UE
-     relativamente aos «serviços da sociedade da informação» 3. Estes serviços são definidos como
-     «qualquer serviço prestado normalmente mediante remuneração, à distância, por via eletrónica e
-     mediante pedido individual de um destinatário de serviços». Esta definição abrange os serviços que
-     não são pagos diretamente pelas pessoas que os recebem 4, tais como os serviços em linha financiados
-     através de publicidade. Os «serviços em linha» utilizados nas presentes diretrizes referem-se aos
-     «serviços da sociedade da informação».
+     1 PART 1 – INTRODUCTION
+     1.1 Background
+1.   Pursuant to Article 8 of the Charter of Fundamental Rights of the European Union, personal data must
+     be processed fairly for specified purposes and on the basis of a legitimate basis laid down by law. In
+     this regard, Article 6(1) of the General Data Protection Regulation1 (GDPR) specifies that processing
+     shall be lawful only on the basis of one of six specified conditions set out in Article 6(1)(a) to (f).
+     Identifying the appropriate legal basis that corresponds to the objective and essence of the processing
+     is of essential importance. Controllers must, inter alia, take into account the impact on data subjects’
+     rights when identifying the appropriate lawful basis in order to respect the principle of fairness.
 
-     1 Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas
+2.   Article 6(1)(b) GDPR provides a lawful basis for the processing of personal data to the extent that
+     “processing is necessary for the performance of a contract to which the data subject is party or in order
+     to take steps at the request of the data subject prior to entering into a contract”.2 This supports the
+     freedom to conduct a business, which is guaranteed by Article 16 of the Charter, and reflects the fact
+     that sometimes the contractual obligations towards the data subject cannot be performed without the
+     data subject providing certain personal data. If the specific processing is part and parcel of delivery of
+     the requested service, it is in the interests of both parties to process that data, as otherwise the service
+     could not be provided and the contract could not be performed. However, the ability to rely on this or
+     one of the other legal bases mentioned in Article 6(1) does not exempt the controller from compliance
+     with the other requirements of the GDPR.
 
-     singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE
-     (Regulamento Geral sobre a Proteção de Dados).
-     2 Cfr. também considerando 44.
-     3 Cfr., por exemplo, Diretiva (UE) 2015/1535 do Parlamento Europeu e do Conselho e artigo 8.º do RGPD.
-     4 Cfr. considerando 18 da Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos
+3.   Articles 56 and 57 of the Treaty on the Functioning of the European Union define and regulate the
+     freedom to provide services within the European Union. Specific EU legislative measures have been
+     adopted in respect of ‘information society services’.3 These services are defined as “any service
+     normally provided for remuneration, at a distance, by electronic means and at the individual request
+     of a recipient of services.” This definition extends to services that are not paid for directly by the
+     persons who receive them,4 such as online services funded through advertising. ‘Online services’ as
+     used in these guidelines refers to ‘information society services’.
 
-     aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno.
+
+
+     1 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons
+
+     with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General
+     Data Protection Regulation).
+     2 See also recital 44.
+     3 See for example Directive (EU) 2015/1535 of the European Parliament and of the Council, and Article 8 GDPR.
+     4 See Recital 18 of Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of
+
+     information society services, in particular electronic commerce, in the Internal Market.
+
 
                                                                                                                                 4
-     Adotadas
-
-4.    O desenvolvimento do direito da UE reflete a importância central dos serviços em linha na sociedade
-      moderna. A proliferação da Internet móvel permanente e a disponibilidade generalizada de
-      dispositivos ligados à Internet permitiram o desenvolvimento de serviços em linha em domínios como
-      as redes sociais, o comércio eletrónico, a pesquisa na Internet, a comunicação e as viagens. Embora
-      alguns destes serviços sejam financiados por pagamentos dos utilizadores, outros são prestados sem
-      pagamento monetário pelo consumidor, sendo antes custeados pela venda de serviços de publicidade
-      em linha que permitem chegar aos titulares dos dados. O controlo do comportamento dos utilizadores
-      para efeitos de tal publicidade é frequentemente efetuado de uma forma impercetível para o
-      utilizador 5, podendo não ser imediatamente evidente com base na natureza do serviço prestado, o
-      que torna quase impossível, na prática, que o titular dos dados faça uma escolha informada sobre a
-      utilização dos seus dados.
-
-5.    Neste contexto, o Comité Europeu para a Proteção de Dados 6 (CEPD) considera oportuno fornecer
-      orientações sobre a aplicabilidade do artigo 6.º, n.º 1, alínea b), ao tratamento de dados pessoais no
-      contexto de serviços em linha, a fim de garantir que este fundamento jurídico só seja invocado quando
-      adequado.
-
-6.    O Grupo de Trabalho do Artigo 29.º (GT29) emitiu anteriormente o seu entendimento sobre o
-      fundamento da necessidade contratual nos termos da Diretiva 95/46/CE no seu parecer sobre o
-      conceito de interesses legítimos do responsável pelo tratamento 7. Em geral, essas orientações
-      continuam a ser relevantes para o artigo 6.º, n.º 1, alínea b), e para o RGPD.
-
-
-
-      1.2 Âmbito de aplicação das presentes diretrizes
-7.    As presentes diretrizes dizem respeito à aplicabilidade do artigo 6.º, n.º 1, alínea b), ao tratamento de
-      dados pessoais no contexto de contratos de serviços em linha, independentemente do modo como os
-      serviços são financiados. As diretrizes descreverão os elementos do tratamento lícito ao abrigo do
-      artigo 6.º, n.º 1, alínea b), do RGPD e considerarão o conceito de «necessidade», na aceção de
-      «necessário para a execução de um contrato».
-
-8.    As regras de proteção de dados regem aspetos importantes do modo como os serviços em linha
-      interagem com os seus utilizadores. No entanto, também se aplicam outras regras. A regulamentação
-      dos serviços em linha envolve responsabilidades interfuncionais nos domínios do direito em matéria
-      de proteção dos consumidores e do direito da concorrência, entre outros. As considerações relativas
-      a estes domínios jurídicos extravasam o âmbito de aplicação das presentes diretrizes.
-
-9.    Embora o artigo 6.º, n.º 1, alínea b), só possa ser aplicado num contexto contratual, as presentes
-      diretrizes não exprimem um entendimento sobre a validade dos contratos de serviços em linha em
-      geral, uma vez que tal não é da competência do CEPD. Não obstante, os contratos e as cláusulas
-      contratuais devem respeitar os requisitos do direito dos contratos e, como pode suceder no caso dos
-      contratos celebrados com os consumidores, do direito em matéria de proteção dos consumidores,
-      para que o tratamento baseado nessas cláusulas seja considerado leal e lícito.
-
-10.   Apresentam-se seguidamente algumas observações gerais sobre os princípios da proteção de dados,
-      mas nem todas as questões de proteção de dados que podem surgir no âmbito do tratamento ao
-
-
-      5 A este respeito, os responsáveis pelo tratamento têm de cumprir as obrigações de transparência estabelecidas no RGPD.
-      6 Criado nos termos do artigo 68.º do RGPD.
-      7 Parecer 06/2014 do Grupo de Trabalho do Artigo 29.º sobre o conceito de interesses legítimos do responsável pelo tratamento
-
-      na aceção do artigo 7.º da Diretiva 95/46/CE (WP217). Cfr., nomeadamente, páginas 16, 25, 26, 27 e 87.
-
-                                                                                                                                5
-      Adotadas
-
-      abrigo do 6.º, n.º 1, alínea b), serão abordadas. Os responsáveis pelo tratamento devem sempre
-      assegurar que observam os princípios de proteção de dados estabelecidos no artigo 5.º e todos os
-      outros requisitos do RGPD e, se for caso disso, a legislação relativa à privacidade eletrónica.
-
-
-      2 PARTE 2 – ANÁLISE DO ARTIGO 6.º, N.º 1, ALÍNEA B)
-      2.1 Observações gerais
-11.   O fundamento jurídico para o tratamento com base no artigo 6.º, n.º 1, alínea b), deve ser considerado
-      no contexto do RGPD como um todo, dos objetivos estabelecidos no artigo 1.º e conjuntamente com
-      o dever dos responsáveis pelo tratamento de tratarem os dados pessoais de acordo com os princípios
-      de proteção de dados previstos no artigo 5.º. Tal inclui o tratamento de dados pessoais de forma leal
-      e transparente e em conformidade com as obrigações de limitação das finalidades e de minimização
-      dos dados.
-
-12.   O artigo 5.º, n.º 1, alínea a), do RGPD estabelece que os dados pessoais devem ser tratados de forma
-      lícita, leal e transparente em relação ao titular dos dados. O princípio da lealdade inclui,
-      nomeadamente, o reconhecimento das expectativas razoáveis 8 dos titulares dos dados, tendo em
-      consideração as eventuais consequências adversas que o tratamento pode ter para estes e tendo em
-      conta a relação e os efeitos potenciais do desequilíbrio entre os mesmos e o responsável pelo
-      tratamento.
-
-13.   Tal como referido, por uma questão de licitude, os contratos de serviços em linha devem ser válidos
-      nos termos do direito dos contratos aplicável. Um exemplo de um fator relevante é a possibilidade de
-      o titular dos dados ser uma criança. Nesse caso (e para além de cumprir os requisitos do RGPD,
-      incluindo as «proteções específicas» aplicáveis às crianças) 9, o responsável pelo tratamento deve
-      assegurar que cumpre as leis nacionais relevantes sobre a capacidade das crianças para celebrarem
-      contratos. Além disso, para garantir o respeito dos princípios da lealdade e da licitude, o responsável
-      pelo tratamento tem de cumprir outros requisitos legais. Por exemplo, no caso dos contratos
-      celebrados com os consumidores, pode ser aplicável a Diretiva 93/13/CEE relativa às cláusulas abusivas
-      nos contratos celebrados com os consumidores («Diretiva relativa às cláusulas contratuais
-      abusivas») 10. O artigo 6.º, n.º 1, alínea b), não está limitado aos contratos regidos pela lei de um
-      Estado-Membro do EEE 11.
-
-14.   O artigo 5.º, n.º 1, alínea b), do RGPD prevê o princípio da limitação das finalidades, que exige que os
-      dados pessoais sejam recolhidos para finalidades determinadas, explícitas e legítimas, não podendo
-      ser tratados posteriormente de uma forma incompatível com essas finalidades.
-
-
-      8 Espera-se que alguns dados pessoais sejam privados ou tratados apenas de certas formas, e o tratamento de dados não
-
-      deverá surpreender o titular dos dados. No RGPD, o conceito de «expectativas razoáveis» é especificamente mencionado nos
-      considerandos 47 e 50 em relação ao artigo 6.º, n.º 1, alínea f), e n.º 4.
-      9 Cfr. considerando 38, que refere que as crianças merecem proteção especial quanto aos seus dados pessoais, uma vez que
-
-      podem estar menos cientes dos riscos, consequências e garantias em questão e dos seus direitos relacionados com o
-      tratamento dos dados pessoais.
-      10 Uma cláusula contratual que não tenha sido negociada individualmente é abusiva nos termos da Diretiva relativa às
-
-      cláusulas contratuais abusivas «quando, a despeito da exigência de boa fé, der origem a um desequilíbrio significativo em
-      detrimento do consumidor, entre os direitos e obrigações das partes decorrentes do contrato». Tal como a obrigação de
-      transparência constante do RGPD, a Diretiva relativa às cláusulas contratuais abusivas obriga ao uso de linguagem simples e
-      inteligível. O tratamento de dados pessoais com base no que é considerado uma cláusula abusiva nos termos da Diretiva
-      relativa às cláusulas contratuais abusivas não será, em geral, compatível com o requisito previsto no artigo 5.º, n.º 1, alínea
-      a), do RGPD de que o tratamento deve ser lícito e leal.
-      11 O RGPD aplica-se a determinados responsáveis pelo tratamento fora do EEE; cfr. artigo 3.º do RGPD.
-
-
-                                                                                                                                   6
-      Adotadas
-
-15.   O artigo 5.º, n.º 1, alínea c), estabelece, como princípio, a minimização dos dados, ou seja, o
-      tratamento do mínimo possível de dados para atingir a finalidade. Esta avaliação complementa as
-      avaliações da necessidade nos termos do artigo 6.º, n.º 1, alíneas b) a f).
-
-16.   Tanto o princípio da limitação das finalidades como o da minimização dos dados são particularmente
-      relevantes nos contratos de serviços em linha, que normalmente não são negociados de forma
-      individual. Os avanços tecnológicos permitem que os responsáveis pelo tratamento recolham e tratem
-      facilmente mais dados pessoais do que nunca. Consequentemente, existe um risco grave de os
-      responsáveis pelo tratamento poderem procurar incluir cláusulas gerais de tratamento nos contratos,
-      a fim de maximizar a possível recolha e utilização de dados, sem especificarem adequadamente as
-      finalidades ou ponderarem a possibilidade de impor obrigações de minimização dos dados. O GT29 já
-      declarou anteriormente:
-
-               A finalidade da recolha deve ser clara e especificamente identificada: deve ser suficientemente
-               pormenorizada para determinar que tipo de tratamento está e não está incluído na finalidade
-               especificada, e para permitir que o cumprimento da lei possa ser avaliado e que possam ser
-               aplicadas salvaguardas em matéria de proteção de dados. Por estas razões, uma finalidade
-               vaga ou geral, como, por exemplo, «melhorar a experiência dos utilizadores», «finalidades de
-               marketing», «objetivos de segurança de TI» ou «investigação futura», em princípio não
-               cumprirá – sem mais pormenores – o critério de ser «específica». 12
-
-
-
-      2.2 Interação entre o artigo 6.º, n.º 1, alínea b), e outros fundamentos jurídicos para
-          o tratamento
-17.   Quando o tratamento não for considerado «necessário para a execução de um contrato», ou seja,
-      quando um serviço solicitado puder ser prestado sem que o tratamento específico seja efetuado, o
-      CEPD reconhece que pode ser aplicável outro fundamento jurídico, desde que estejam preenchidas as
-      condições relevantes. Em particular, em algumas circunstâncias, pode ser mais adequado invocar o
-      consentimento livremente prestado previsto no artigo 6.º, n.º 1, alínea a). Noutros casos, o artigo 6.º,
-      n.º 1, alínea f), pode constituir um fundamento jurídico mais adequado para o tratamento. O
-      fundamento jurídico deve ser identificado no início do tratamento e as informações prestadas aos
-      titulares dos dados em conformidade com os artigos 13.º e 14.º devem especificar o fundamento
-      jurídico.
-
-18.   É possível que outro fundamento jurídico que não o artigo 6.º, n.º 1, alínea b), seja mais adequado ao
-      objetivo e ao contexto da operação de tratamento em causa. A identificação do fundamento jurídico
-      adequado está associada aos princípios da lealdade e da limitação das finalidades 13.
-
-19.   As diretrizes do GT29 sobre o consentimento também esclarecem que, quando «um responsável pelo
-      tratamento procura tratar dados pessoais que são efetivamente necessários para a execução de um
-      contrato, o consentimento não é o fundamento jurídico adequado». Inversamente, o CEPD considera
-      que, nos casos em que o tratamento não é efetivamente necessário para a execução de um contrato,
-      esse tratamento só pode ser efetuado se assentar noutro fundamento jurídico adequado 14.
-
-      12 Parecer 03/2013 do Grupo de Trabalho do Artigo 29.º sobre a limitação das finalidades (WP203), páginas 15-16.
-      13 Caso os responsáveis pelo tratamento pretendam identificar o fundamento jurídico adequado em conformidade com o
-
-      princípio da lealdade, tal será difícil de alcançar se não tiverem previamente identificado claramente as finalidades do
-      tratamento ou se o tratamento de dados pessoais exceder o que for necessário para as finalidades especificadas.
-      14 Para mais informações sobre as implicações em relação ao artigo 9.º, ver as Orientações do Grupo de Trabalho do Artigo
-
-      29.º relativas ao consentimento na aceção do Regulamento 2016/679 (WP259), aprovadas pelo CEPD, páginas 19-20.
-
-                                                                                                                             7
-      Adotadas
-
-20.   Em conformidade com as suas obrigações de transparência, os responsáveis pelo tratamento deverão
-      evitar qualquer confusão quanto ao fundamento jurídico aplicável. Isto é particularmente relevante
-      quando o fundamento jurídico adequado é o artigo 6.º, n.º 1, alínea b), e os titulares dos dados
-      celebram um contrato relativo a serviços em linha. Consoante as circunstâncias, os titulares dos dados
-      podem ter a impressão errada de que estão a dar o seu consentimento nos termos do artigo 6.º, n.º 1,
-      alínea a), ao assinarem um contrato ou ao aceitarem as condições de serviço. Ao mesmo tempo, um
-      responsável pelo tratamento pode presumir erradamente que a assinatura de um contrato
-      corresponde a um consentimento na aceção do artigo 6.º, n.º 1, alínea a). Estes conceitos são
-      completamente diferentes. É importante estabelecer uma distinção entre aceitar as condições de
-      serviço para celebrar um contrato e dar o consentimento na aceção do artigo 6.º, n.º 1, alínea a), uma
-      vez que estes conceitos têm requisitos e consequências jurídicas diferentes.
-
-21.   No que se refere ao tratamento de categorias de dados pessoais especiais, o GT29 observou
-      igualmente, nas diretrizes sobre o consentimento:
-
-               O artigo 9.º, n.º 2, não reconhece «necessário à execução de um contrato» como uma exceção
-               à proibição geral de tratamento de categorias de dados especiais. Por conseguinte, os
-               responsáveis pelo tratamento e os Estados-Membros que se ocupam desta situação devem
-               explorar as exceções específicas previstas nas alíneas b) a j) do n.º 2 do artigo 9.º. Se nenhuma
-               das exceções previstas nas alíneas b) a j) for aplicável, a obtenção de um consentimento
-               expresso em conformidade com as condições de consentimento válido do RGPD continua a ser
-               a única exceção legal possível para o tratamento desses dados 15.
-
-
-
-      2.3 Âmbito de aplicação do artigo 6.º, n.º 1, alínea b)
-22.   O artigo 6.º, n.º 1, alínea b), é aplicável sempre que esteja preenchida uma de duas condições: o
-      tratamento em questão deve ser objetivamente necessário para a execução de um contrato com um
-      titular dos dados, ou o tratamento deve ser objetivamente necessário para diligências pré-contratuais
-      a pedido do titular dos dados.
-
-
-
-      2.4 Necessidade
-23.   A necessidade do tratamento constitui um requisito prévio para ambas as partes do artigo 6.º, n.º 1,
-      alínea b). Antes de mais, é importante observar que o conceito do que é «necessário para a execução
-      de um contrato» não é simplesmente uma avaliação do que é permitido por um contrato ou do que
-      consta dos termos de um contrato. O conceito de necessidade tem um significado independente no
-      direito da União Europeia, que deve refletir os objetivos da lei em matéria de proteção de dados 16.
-      Por conseguinte, implica também a consideração do direito fundamental à privacidade e à proteção
-      dos dados pessoais 17, bem como dos requisitos dos princípios de proteção de dados, incluindo,
-      nomeadamente, o princípio da lealdade.
-
-
-
-      15 Orientações do Grupo de Trabalho do Artigo 29.º relativas ao consentimento na aceção do Regulamento 2016/679
-
-      (WP259), aprovadas pelo CEPD, página 19.
-      16 O TJUE afirmou no acórdão Huber que «[l]ogo, trata-se de um conceito [necessidade] autónomo de direito comunitário
-
-      que deve receber uma interpretação suscetível de cumprir plenamente o objetivo dessa diretiva [Diretiva 95/46], definido
-      no seu artigo 1.º, n.º 1». TJUE, C‑524/06, Heinz Huber c. Bundesrepublik Deutschland, 18 de dezembro de 2008, n.º 52.
-      17 Cfr. artigos 7.º e 8.º da Carta dos Direitos Fundamentais da União Europeia.
-
-
-                                                                                                                            8
-      Adotadas
-
-24.   O ponto de partida é identificar a finalidade do tratamento e, no contexto de uma relação contratual,
-      pode haver uma grande variedade de finalidades para o tratamento. Essas finalidades devem ser
-      claramente especificadas e comunicadas ao titular dos dados, em conformidade com as obrigações de
-      limitação das finalidades e de transparência do responsável pelo tratamento.
-
-25.   A avaliação do que é «necessário» implica uma avaliação combinada, baseada em factos, do
-      tratamento «para o objetivo prosseguido e da sua menor intrusão em comparação com outras opções
-      para atingir o mesmo objetivo» 18. Se existirem alternativas realistas e menos intrusivas, o tratamento
-      não é «necessário» 19. O artigo 6.º, n.º 1, alínea b), não abrangerá o tratamento útil mas não
-      objetivamente necessário para a execução do serviço contratual ou para diligências pré-contratuais a
-      pedido do titular dos dados, mesmo que tal seja necessário para outros fins comerciais do responsável
-      pelo tratamento.
-
-
-
-      2.5 Necessidade para a execução de um contrato com o titular dos dados
-26.   O responsável pelo tratamento pode recorrer à primeira opção prevista no artigo 6.º, n.º 1, alínea b),
-      para tratar dados pessoais, sempre que possa, em conformidade com as suas obrigações de
-      responsabilidade decorrentes do artigo 5.º, n.º 2, determinar que o tratamento é efetuado no contexto
-      de um contrato válido com o titular dos dados e que o tratamento é necessário para que o contrato
-      específico com o titular dos dados possa ser executado. Quando os responsáveis pelo tratamento não
-      puderem demonstrar que: a) existe um contrato; b) o contrato é válido nos termos do direito dos
-      contratos nacional; e c) o tratamento é objetivamente necessário para a execução do contrato, o
-      responsável pelo tratamento deverá considerar outro fundamento jurídico para o tratamento.
-
-27.   A simples referência ou menção do tratamento de dados num contrato não é suficiente para inserir o
-      tratamento em causa no âmbito de aplicação do artigo 6.º, n.º 1, alínea b). Por outro lado, o
-      tratamento pode ser objetivamente necessário, mesmo que não seja especificamente mencionado no
-      contrato. Em todo o caso, o responsável pelo tratamento deve cumprir as suas obrigações de
-      transparência. Sempre que um responsável pelo tratamento tentar determinar que o tratamento se
-      baseia na execução de um contrato com o titular dos dados, é importante avaliar o que é
-      objetivamente necessário para a execução do contrato. A expressão «necessário para a execução»
-      exige claramente algo mais do que uma cláusula contratual. Isto também é claro à luz do artigo 7.º,
-      n.º 4. Embora apenas diga respeito à validade do consentimento, esta disposição estabelece, a título
-      ilustrativo, uma distinção entre as atividades de tratamento necessárias para a execução de um
-      contrato e as cláusulas que tornam o serviço subordinado a determinadas atividades de tratamento
-      que não são, de facto, necessárias para a execução do contrato.
-
-
-
-      18 Cfr. o «Kit» de ferramentas da AEPD: Avaliação da Necessidade de Medidas que limitem o direito fundamental à proteção
-
-      de dados pessoais, página 5.
-      19 No acórdão Schecke, o TJUE considerou que, ao examinar a necessidade do tratamento de dados pessoais, o legislador
-
-      precisava de tomar em consideração medidas alternativas, menos intrusivas. TJUE, Processos Apensos C‑92/09 e C‑93/09,
-      Volker und Markus Schecke GbR e Hartmut Eifert c. Land Hessen, 9 de novembro de 2010. Tal foi reiterado pelo TJUE no
-      acórdão Rīgas, em que considerou que «[n]o que se refere ao requisito da necessidade do tratamento dos dados, há que
-      recordar que as derrogações e as restrições ao princípio da proteção dos dados pessoais devem ocorrer na estrita medida do
-      necessário». TJUE, C-13/16, Valsts policijas Rīgas reģiona pārvaldes Kārtības policijas pārvalde contra Rīgas pašvaldības SIA
-      «Rīgas satiksme», n.º 30. É necessário um teste da estrita medida do necessário para determinar as limitações ao exercício
-      dos direitos à privacidade e à proteção de dados pessoais no que respeita ao tratamento de dados pessoais (ver o «Kit» de
-      Ferramentas da AEPD: Avaliação da Necessidade de Medidas que limitem o direito fundamental à proteção de dados
-      pessoais, página 7).
-
-
-                                                                                                                                 9
-      Adotadas
-
-28.   A este respeito, o CEPD apoia as orientações anteriormente adotadas pelo GT29 sobre a disposição
-      equivalente da anterior Diretiva de que a expressão «necessário para a execução de um contrato com
-      o titular dos dados»:
+     Adopted
+
+4.    The development of EU law reflects the central importance of online services in modern society. The
+      proliferation of always-on mobile internet and the widespread availability of connected devices have
+      enabled the development of online services in fields such as social media, e-commerce, internet
+      search, communication, and travel. While some of these services are funded by user payments, others
+      are provided without monetary payment by the consumer, instead financed by the sale of online
+      advertising services allowing for targeting of data subjects. Tracking of user behaviour for the purposes
+      of such advertising is often carried out in ways the user is often not aware of,5 and it may not be
+      immediately obvious from the nature of the service provided, which makes it almost impossible in
+      practice for the data subject to exercise an informed choice over the use of their data.
+
+5.    Against this background, the European Data Protection Board6 (EDPB) considers it appropriate to
+      provide guidance on the applicability of Article 6(1)(b) to processing of personal data in the context of
+      online services, in order to ensure that this lawful basis is only relied upon where appropriate.
+
+6.    The Article 29 Working Party (WP29) has previously expressed views on the contractual necessity basis
+      under Directive 95/46/EC in its opinion on the notion of legitimate interests of the data controller.7
+      Generally, that guidance remains relevant to Article 6(1)(b) and the GDPR.
 
-               [...] deve ser interpretada de forma estrita e não abrange as situações nas quais o tratamento
-               não seja verdadeiramente necessário para a execução de um contrato, mas sim imposto
-               unilateralmente à pessoa em causa pelo responsável pelo tratamento .Também o facto de
-               determinado tratamento de dados ser abrangido por                 um contrato não significa
-               automaticamente que o tratamento é necessário para a execução desse contrato. [...] Mesmo
-               que essas atividades de tratamento estejam especificamente referidas no texto em carateres
-               reduzidos do contrato, este facto, por si só, não as torna “necessárias” para a execução do
-               contrato 20.
 
-29.   O CEPD recorda também as mesmas orientações do GT29, que estabelecem:
 
-               Neste contexto, existe uma ligação clara entre a avaliação da necessidade e a conformidade
-               com o princípio da limitação da finalidade. É importante determinar a razão de ser exata do
-               contrato, ou seja, o seu conteúdo e o seu objetivo fundamental, uma vez que será tida em conta
-               na apreciação da necessidade do tratamento dos dados para a execução do contrato 21.
+      1.2 Scope of these guidelines
+7.    These guidelines are concerned with the applicability of Article 6(1)(b) to processing of personal data
+      in the context of contracts for online services, irrespective of how the services are financed. The
+      guidelines will outline the elements of lawful processing under Article 6(1)(b) GDPR and consider the
+      concept of ‘necessity’ as it applies to ’necessary for the performance of a contract’.
 
-30.   Ao avaliar se o artigo 6.º, n.º 1, alínea b), constitui um fundamento jurídico adequado para o
-      tratamento no contexto de um serviço contratual em linha, deve ter-se em conta o fim, a finalidade
-      ou o objetivo específicos do serviço. Para efeitos de aplicabilidade do artigo 6.º, n.º 1, alínea b), é
-      necessário que o tratamento seja objetivamente necessário para uma finalidade que seja parte
-      integrante da prestação desse serviço contratual ao titular dos dados. Não está excluído o tratamento
-      dos dados relativos ao pagamento para efeitos de cobrança do serviço. O responsável pelo tratamento
-      deverá poder demonstrar de que modo o objeto principal do contrato específico com o titular dos
-      dados não pode, na realidade, ser executado se o tratamento específico dos dados pessoais em
-      questão não ocorrer. A questão importante aqui é a relação entre os dados pessoais e as operações
-      de tratamento em causa e a execução ou não execução do serviço prestado ao abrigo do contrato.
+8.    Data protection rules govern important aspects of how online services interact with their users,
+      however, other rules apply as well. Regulation of online services involves cross-functional
+      responsibilities in the fields of, inter alia, consumer protection law, and competition law.
+      Considerations regarding these fields of law are beyond the scope of these guidelines.
 
-31.   Os contratos de serviços digitais podem incluir termos expressos que imponham condições adicionais
-      em matéria de publicidade, pagamentos ou «cookies», entre outras coisas. Um contrato não pode
-      expandir artificialmente as categorias de dados pessoais ou os tipos de operações de tratamento que
-      o responsável pelo tratamento tem de efetuar para a execução do contrato, na aceção do artigo 6.º,
-      n.º 1, alínea b).
+9.    Although Article 6(1)(b) can only apply in a contractual context, these guidelines do not express a view
+      on the validity of contracts for online services generally, as this is outside the competence of the EDPB.
+      Nonetheless, contracts and contractual terms must comply with the requirements of contract laws
+      and, as the case may be for consumer contracts, consumer protection laws in order for processing
+      based on those terms to be considered fair and lawful.
 
-32.   O responsável pelo tratamento deverá poder justificar a necessidade do seu tratamento por referência
-      ao objeto contratual fundamental e mutuamente compreendido. Isto depende não só da perspetiva
-      do responsável pelo tratamento, mas também da perspetiva razoável do titular dos dados aquando da
-      celebração do contrato, e de este poder continuar a ser considerado «executado» sem o tratamento
-      em questão. Embora o responsável pelo tratamento possa considerar que o tratamento é necessário
-      para o objeto contratual, é importante que examine cuidadosamente a perspetiva de um titular dos
-      dados médio, a fim de assegurar que existe um verdadeiro entendimento mútuo sobre o objeto
-      contratual.
-
-
-
-
-      20 Parecer 06/2014 do Grupo de Trabalho do Artigo 29.º sobre o conceito de interesses legítimos do responsável pelo tratamento
-
-      na aceção do artigo 7.º da Diretiva 95/46/CE (WP217), página 26.
-      21 Ibid., página 26.
-
-
-                                                                                                                             10
-      Adotadas
+10.   Some general observations on data protection principles are included below, but not all data
+      protection issues that may arise when processing under Article 6(1)(b) will be elaborated on.
+      Controllers must always ensure that they comply with the data protection principles set out in Article
+      5 and all other requirements of the GDPR and, where applicable, the ePrivacy legislation.
 
-33.   Para avaliar se o artigo 6.º, n.º 1, alínea b), é aplicável, as seguintes questões podem constituir uma
-      orientação:
-
-                  Qual é a natureza do serviço prestado ao titular dos dados? Quais são as suas
-                   características distintivas?
 
-                  Qual é a lógica exata do contrato (ou seja, a sua substância e o seu objeto fundamental)?
+      2 PART 2 - ANALYSIS OF ARTICLE 6(1)(B)
+      2.1 General observations
 
-                  Quais são os elementos essenciais do contrato?
 
-                  Quais são as perspetivas e expectativas mútuas das partes do contrato? Como é
-                   promovido ou anunciado o serviço ao titular dos dados? Um utilizador comum do serviço
-                   esperaria de forma razoável que, tendo em conta a natureza do serviço, viesse a ser
-                   realizado o tratamento previsto para a execução do contrato de que é parte?
+      5 In this regard, controllers need to fulfil the transparency obligations set out in the GDPR.
+      6 Established under Article 68 GDPR.
+      7 Article 29 Working Party Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of Directive
+
+      95/46/EC (WP217). See in particular pages 11, 16, 17, 18 and 55.
+
+                                                                                                                                    5
+      Adopted
+
+11.   The lawful basis for processing on the basis of Article 6(1)(b) needs to be considered in the context of
+      the GDPR as a whole, the objectives set out in Article 1, and alongside controllers’ duty to process
+      personal data in compliance with the data protection principles pursuant to Article 5. This includes
+      processing personal data in a fair and transparent manner and in line with the purpose limitation and
+      data minimisation obligations.
+
+12.   Article 5(1)(a) GDPR provides that personal data must be processed lawfully, fairly and transparently
+      in relation to the data subject. The principle of fairness includes, inter alia, recognising the reasonable
+      expectations8 of the data subjects, considering possible adverse consequences processing may have
+      on them, and having regard to the relationship and potential effects of imbalance between them and
+      the controller.
 
-34.   Se a avaliação do que é «necessário para a execução de um contrato», que deve ser efetuada antes do
-      início do tratamento, revelar que o tratamento previsto excede o que é objetivamente necessário para
-      a execução de um contrato, tal facto não torna esse tratamento futuro ilegal por si só. Como já foi
-      referido, o artigo 6.º esclarece que existem outras bases legais potencialmente disponíveis antes do
-      início do tratamento 22.
+13.   As mentioned, as a matter of lawfulness, contracts for online services must be valid under the
+      applicable contract law. An example of a relevant factor is whether the data subject is a child. In such
+      a case (and aside from complying with the requirements of the GDPR, including the ‘specific
+      protections’ which apply to children),9 the controller must ensure that it complies with the relevant
+      national laws on the capacity of children to enter into contracts. Furthermore, to ensure compliance
+      with the fairness and lawfulness principles, the controller needs to satisfy other legal requirements.
+      For example, for consumer contracts, Directive 93/13/EEC on unfair terms in consumer contracts (the
+      “Unfair Contract Terms Directive”) may be applicable.10 Article 6(1)(b) is not limited to contracts
+      governed by the law of an EEA member state.11
 
-35.   Se, ao longo do tempo de vida de um serviço, for introduzida uma nova tecnologia que altere a forma
-      como os dados pessoais são tratados ou se o serviço evoluir de outra forma, os critérios acima
-      mencionados têm de ser avaliados de novo, a fim de determinar se qualquer operação de tratamento
-      nova ou alterada se pode basear no artigo 6.º, n.º 1, alínea b).
+14.   Article 5(1)(b) of the GDPR provides for the purpose limitation principle, which requires that personal
+      data must be collected for specified, explicit, and legitimate purposes and not further processed in a
+      manner that is incompatible with those purposes.
 
+15.   Article 5(1)(c) provides for data minimisation as a principle, i.e. processing as little data as possible in
+      order to achieve the purpose. This assessment complements the necessity assessments pursuant to
+      Article 6(1)(b) to (f).
 
+16.   Both purpose limitation and data minimisation principles are particularly relevant in contracts for
+      online services, which typically are not negotiated on an individual basis. Technological advancements
+      make it possible for controllers to easily collect and process more personal data than ever before. As
+      a result, there is an acute risk that data controllers may seek to include general processing terms in
+      contracts in order to maximise the possible collection and uses of data, without adequately specifying
+      those purposes or considering data minimisation obligations. WP29 has previously stated:
 
-      Exemplo 1
+                The purpose of the collection must be clearly and specifically identified: it must be detailed
+                enough to determine what kind of processing is and is not included within the specified purpose,
+                and to allow that compliance with the law can be assessed and data protection safeguards
 
-      Um titular dos dados compra artigos a um retalhista em linha. O titular dos dados quer pagar com
-      cartão de crédito e quer que os produtos sejam entregues na sua residência. A fim de cumprir o
-      contrato, o retalhista deve tratar as informações relativas ao cartão de crédito do titular dos dados e
-      o endereço de faturação para efeitos de pagamento, bem como a morada da residência do titular dos
-      dados para efeitos de entrega. Assim, o artigo 6.º, n.º 1, alínea b), é aplicável como fundamento
-      jurídico destas atividades de tratamento.
+      8 Some personal data are expected to be private or only processed in certain ways, and data processing should not be
 
-      No entanto, se o cliente tiver optado pela expedição para um ponto de recolha, o tratamento da
-      morada da residência do titular dos dados deixou de ser necessário para a execução do contrato de
-      compra. Qualquer tratamento da morada do titular dos dados neste contexto exigirá um fundamento
-      jurídico diferente do artigo 6.º, n.º 1, alínea b).
+      surprising to the data subject. In the GDPR, the concept of ‘reasonable expectations’ is specifically referenced in recitals 47
+      and 50 in relation to Article 6(1)(f) and (4).
+      9 See Recital 38, which refers to children meriting specific protection with regard to their personal data as they may be less
 
-
+      aware of the risks, consequences and safeguards concerned and their rights in relation to the processing of personal data.
+      10 A contractual term that has not been individually negotiated is unfair under the Unfair Contract Terms Directive “if, contrary
 
-      Exemplo 2
+      to the requirement of good faith, it causes a significant imbalance in the parties' rights and obligations arising under the
+      contract, to the detriment of the consumer”. Like the transparency obligation in the GDPR, the Unfair Contract Terms
+      Directive mandates the use of plain, intelligible language. Processing of personal data that is based on what is deemed to be
+      an unfair term under the Unfair Contract Terms Directive, will generally not be consistent with the requirement under Article
+      5(1)(a) GDPR that processing is lawful and fair.
+      11 The GDPR applies to certain controllers outside the EEA; see Article 3 GDPR.
 
-      O mesmo retalhista em linha pretende definir perfis dos gostos e das opções de estilo de vida dos
-      utilizadores com base nas suas visitas ao sítio Web. A celebração do contrato de compra não depende
-      da definição desses perfis. Mesmo que a definição de perfis seja especificamente mencionada no
-      contrato, este facto, por si só, não a torna «necessária» para a execução do contrato. Se o retalhista
-
-      22 Cfr. Orientações do Grupo de Trabalho do Artigo 29.º relativas ao consentimento na aceção do Regulamento (CE) n.º
 
-      2016/679 (WP259), aprovadas pelo CEPD, página 36, onde se afirma que: «Nos termos do RGPD, não é possível mudar de um
-      fundamento legal para outro.»
 
-                                                                                                                        11
-      Adotadas
 
-      em linha pretender proceder a essa definição de perfis, tem de invocar um fundamento jurídico
-      diferente.
+                                                                                                                                     6
+      Adopted
 
+                applied. For these reasons, a purpose that is vague or general, such as for instance 'improving
+                users' experience', 'marketing purposes', 'IT-security purposes' or 'future research' will - without
+                more detail - usually not meet the criteria of being ‘specific’. 12
 
 
-36.   Dentro dos limites do direito contratual e, se aplicável, do direito em matéria de proteção dos
-      consumidores, os responsáveis pelo tratamento são livres de conceber os seus negócios, serviços e
-      contratos. Em alguns casos, o responsável pelo tratamento pode desejar agregar vários serviços
-      distintos ou elementos de um serviço com diferentes finalidades, características ou lógica
-      fundamentais num único contrato. Esta circunstância pode criar uma situação de «pegar ou largar»
-      para os titulares dos dados que apenas possam estar interessados num dos serviços.
 
-37.   No âmbito da legislação em matéria de proteção de dados, os responsáveis pelo tratamento têm de
-      ter em conta que as atividades de tratamento previstas devem ter um fundamento jurídico adequado.
-      Sempre que o contrato consista em vários serviços ou elementos de um serviço distintos que, de facto,
-      podem ser razoavelmente prestados independentemente uns dos outros, coloca-se a questão de saber
-      em que medida o artigo 6.º, n.º 1, alínea b), pode servir de fundamento jurídico. A aplicabilidade do
-      artigo 6.º, n.º 1, alínea b), deverá ser avaliada no contexto de cada um desses serviços, isoladamente,
-      verificando se o que é objetivamente necessário para prestar cada um dos serviços individuais que o
-      titular dos dados tenha ativamente solicitado ou aceite. Esta avaliação pode revelar que determinadas
-      atividades de tratamento não são necessárias para os serviços individuais solicitados pelo titular dos
-      dados, sendo antes necessárias para o modelo de negócio mais amplo do responsável pelo tratamento.
-      Nesse caso, o artigo 6.º, n.º 1, alínea b), não constituirá um fundamento jurídico para essas atividades.
-      No entanto, podem estar disponíveis outros fundamentos jurídicos para esse tratamento, tais como o
-      artigo 6.º, n.º 1, alíneas a) ou f), desde que estejam preenchidos os critérios relevantes. Por
-      conseguinte, a avaliação da aplicabilidade do artigo 6.º, n.º 1, alínea b), não afeta a legalidade do
-      contrato nem da agregação de serviços enquanto tal.
+      2.2 Interaction of Article 6(1)(b) with other lawful bases for processing
+17.   Where processing is not considered ‘necessary for the performance of a contract’, i.e. when a
+      requested service can be provided without the specific processing taking place, the EDPB recognises
+      that another lawful basis may be applicable, provided the relevant conditions are met. In particular, in
+      some circumstances it may be more appropriate to rely on freely given consent under Article 6(1)(a).
+      In other instances, Article 6(1)(f) may provide a more appropriate lawful basis for processing. The legal
+      basis must be identified at the outset of processing, and information given to data subjects in line with
+      Articles 13 and 14 must specify the legal basis.
 
-38.   Tal como o GT29 observou anteriormente, o fundamento jurídico só se aplica ao que for necessário
-      para a execução de um contrato 23. Como tal, não se aplica automaticamente a todas as outras ações
-      desencadeadas pelo incumprimento ou a todos os outros incidentes na execução de um contrato.
-      Porém, certas ações podem ser razoavelmente previstas e necessárias no âmbito de uma relação
-      contratual normal, como o envio de avisos formais sobre pagamentos pendentes ou a correção de
-      erros ou atrasos na execução do contrato. O artigo 6.º, n.º 1, alínea b), pode abranger o tratamento
-      de dados pessoais necessário para essas ações.
+18.   It is possible that another lawful basis than Article 6(1)(b) may better match the objective and context
+      of the processing operation in question. The identification of the appropriate lawful basis is tied to
+      principles of fairness and purpose limitation.13
 
+19.   The WP29 guidelines on consent also clarify that where “a controller seeks to process personal data
+      that are in fact necessary for the performance of a contract, then consent is not the appropriate lawful
+      basis”. Conversely, the EDPB considers that where processing is not in fact necessary for the
+      performance of a contract, such processing can take place only if it relies on another appropriate legal
+      basis.14
 
+20.   In line with their transparency obligations, controllers should make sure to avoid any confusion as to
+      what the applicable legal basis is. This is particularly relevant where the appropriate legal basis is
+      Article 6(1)(b) and a contract regarding online services is entered into by data subjects. Depending on
+      the circumstances, data subjects may erroneously get the impression that they are giving their consent
+      in line with Article 6(1)(a) when signing a contract or accepting terms of service. At the same time, a
+      controller might erroneously assume that the signature of a contract corresponds to a consent in the
+      sense of article 6(1)(a). These are entirely different concepts. It is important to distinguish between
+      accepting terms of service to conclude a contract and giving consent within the meaning of Article
+      6(1)(a), as these concepts have different requirements and legal consequences.
 
-      Exemplo 3
+21.   In relation to the processing of special categories of personal data, in the guidelines on consent, WP29
+      has also observed that:
 
-      Uma empresa vende produtos em linha. Um cliente contacta a empresa porque a cor do produto
-      comprado é diferente da que foi acordada. O tratamento de dados pessoais do cliente para efeitos de
-      retificação desta questão pode basear-se no artigo 6.º, n.º 1, alínea b).
+                Article 9(2) does not recognize ‘necessary for the performance of a contract’ as an exception to
+                the general prohibition to process special categories of data. Therefore controllers and Member
+                States that deal with this situation should explore the specific exceptions in Article 9(2)
+                subparagraphs (b) to (j). Should none of the exceptions (b) to (j) apply, obtaining explicit
 
 
 
-39.   A garantia contratual pode fazer parte da execução de um contrato, pelo que a conservação de certos
-      dados por um determinado período após a conclusão da troca de bens/serviços/pagamento para
-      efeitos de garantias pode ser necessária para a execução de um contrato.
 
-      23 Parecer 06/2014 do Grupo de Trabalho do Artigo 29.º sobre o conceito de interesses legítimos do responsável pelo
+      12 Article 29 Working Party Opinion 03/2013 on purpose limitation (WP203), page 15–16.
+      13 When controllers set out to identify the appropriate legal basis in line with the fairness principle, this will be difficult to
 
-      tratamento dos dados na aceção do artigo 7.º da Diretiva 95/46/CE (WP217), páginas 27-28.
+      achieve if they have not first clearly identified the purposes of processing, or if processing personal data goes beyond what is
+      necessary for the specified purposes.
+      14 For more information on implications in relation to Article 9, see Article 29 Working Party Guidelines on consent under
 
-                                                                                                                      12
-      Adotadas
+      Regulation 2016/679 (WP259), endorsed by the EDPB, pages 19–20.
 
-      2.6 Cessação do contrato
-40.   Antes do início do tratamento, o responsável pelo tratamento tem de identificar o fundamento jurídico
-      adequado para as operações de tratamento previstas. Sempre que o artigo 6.º, n.º 1, alínea b),
-      constitua o fundamento para algumas ou todas as atividades de tratamento, o responsável pelo
-      tratamento deverá antecipar o que acontecerá no caso de cessação do contrato 24.
 
-41.   Se o tratamento de dados pessoais se basear no artigo 6.º, n.º 1, alínea b), e o contrato cessar na
-      íntegra, o tratamento desses dados deixará, regra geral, de ser necessário para a execução desse
-      contrato, pelo que o responsável pelo tratamento terá de deixar de os tratar. O titular dos dados pode
-      ter fornecido os seus dados pessoais no contexto de uma relação contratual confiando que os dados
-      só seriam tratados como parte necessária dessa relação. Assim, é geralmente desleal mudar para um
-      novo fundamento jurídico quando o fundamento original deixar de existir.
+                                                                                                                                      7
+      Adopted
 
-42.   Quando ocorre a cessação de um contrato, tal pode implicar alguns atos de gestão, como a devolução
-      de bens ou do pagamento. O tratamento associado pode basear-se no artigo 6.º, n.º 1, alínea b).
+                consent in accordance with the conditions for valid consent in the GDPR remains the only
+                possible lawful exception to process such data.15
 
-43.   O artigo 17.º, n.º 1, alínea a), estabelece que os dados pessoais devem ser apagados quando deixarem
-      de ser necessários para a finalidade que motivou a sua recolha. Todavia, tal não se aplica se o
-      tratamento for necessário para determinadas finalidades específicas, incluindo o cumprimento de uma
-      obrigação legal nos termos do artigo 17.º, n.º 3, alínea b), ou a declaração, exercício ou defesa de um
-      direito num processo judicial, nos termos do artigo 17.º, n.º 3, alínea e). Na prática, se os responsáveis
-      pelo tratamento constatarem uma necessidade geral de manter registos para fins legais, têm de
-      identificar um fundamento jurídico para isso no início do tratamento, e têm de comunicar claramente
-      desde o início durante quanto tempo tencionam conservar os registos para esses fins legais após a
-      cessação de um contrato. Se o fizerem, não terão de apagar os dados aquando da cessação do
-      contrato.
 
-44.   De qualquer modo, pode acontecer que, no início do tratamento, tenham sido identificadas várias
-      operações de tratamento com finalidades e bases jurídicas distintas. Desde que essas outras operações
-      de tratamento continuem a ser lícitas e o responsável pelo tratamento tenha comunicado claramente
-      essas operações no início do tratamento em conformidade com as obrigações de transparência do
-      RGPD, continuará a ser possível tratar os dados pessoais sobre o titular dos dados para essas
-      finalidades distintas após a cessação do contrato.
 
+      2.3 Scope of Article 6(1)(b)
+22.   Article 6(1)(b) applies where either of two conditions are met: the processing in question must be
+      objectively necessary for the performance of a contract with a data subject, or the processing must be
+      objectively necessary in order to take pre-contractual steps at the request of a data subject.
 
 
-      Exemplo 4
 
-      Um serviço em linha presta um serviço de assinatura que pode ser cancelado a qualquer momento.
-      Quando é celebrado um contrato para a prestação do serviço, o responsável pelo tratamento fornece
-      informações ao titular dos dados sobre o tratamento de dados pessoais.
+      2.4 Necessity
+23.   Necessity of processing is a prerequisite for both parts of Article 6(1)(b). At the outset, it is important
+      to note that the concept of what is ‘necessary for the performance of a contract’ is not simply an
+      assessment of what is permitted by or written into the terms of a contract. The concept of necessity
+      has an independent meaning in European Union law, which must reflect the objectives of data
+      protection law.16 Therefore, it also involves consideration of the fundamental right to privacy and
+      protection of personal data,17 as well as the requirements of data protection principles including,
+      notably, the fairness principle.
 
-      O responsável pelo tratamento explica, entre outras coisas, que, enquanto o contrato estiver em vigor,
-      tratará dados sobre a utilização do serviço para emitir faturas. O fundamento jurídico aplicável é o
-      artigo 6.º, n.º 1, alínea b), uma vez que o tratamento para efeitos de faturação pode ser considerado
-      objetivamente necessário para a execução do contrato. No entanto, quando ocorrer a cessação do
+24.   The starting point is to identify the purpose for the processing, and in the context of a contractual
+      relationship, there may be a variety of purposes for processing. Those purposes must be clearly
+      specified and communicated to the data subject, in line with the controller’s purpose limitation and
+      transparency obligations.
 
+25.   Assessing what is ‘necessary’ involves a combined, fact-based assessment of the processing “for the
+      objective pursued and of whether it is less intrusive compared to other options for achieving the same
+      goal”.18 If there are realistic, less intrusive alternatives, the processing is not ‘necessary’.19 Article
+      6(1)(b) will not cover processing which is useful but not objectively necessary for performing the
+      contractual service or for taking relevant pre-contractual steps at the request of the data subject, even
+      if it is necessary for the controller’s other business purposes.
 
 
-      24 Se um contrato for posteriormente invalidado, tal facto terá impacto na licitude [na aceção do artigo 5.º, n.º 1, alínea a)],
 
-      do tratamento continuado. No entanto, tal facto não implica automaticamente que a escolha do artigo 6.º, n.º 1, alínea b),
-      como fundamento jurídico fosse incorreta.
 
-                                                                                                                                   13
-      Adotadas
+      15 Article 29 Working Party Guidelines on consent under Regulation 2016/679 (WP259), endorsed by the EDPB, page 19.
+      16 The CJEU stated in Huber that “what is at issue is a concept [necessity] which has its own independent meaning in
 
-      contrato e pressupondo que não existem processos judiciais ou requisitos legais pendentes e
-      relevantes para conservar os dados, o histórico de uso será apagado.
+      Community law and which must be interpreted in a manner which fully reflects the objective of that Directive, [Directive
+      95/46], as laid down in Article 1(1) thereof”. CJEU, Case C‑524/06, Heinz Huber v Bundesrepublik Deutschland, 18 December
+      2008, para. 52.
+      17 See Articles 7 and 8 of the Charter of Fundamental Rights of the European Union
+      18 See EDPS Toolkit: Assessing the Necessity of Measures that limit the fundamental right to the protection of personal data,
 
-      Além disso, o responsável pelo tratamento informa os titulares dos dados de que a lei nacional lhe
-      impõe a obrigação legal de conservar determinados dados pessoais para fins contabilísticos durante
-      um determinado número de anos. O fundamento jurídico adequado é o artigo 6.º, n.º 1, alínea c), e a
-      conservação será efetuada mesmo no caso de cessação do contrato.
+      page 5.
+      19 In Schecke, the CJEU held that, when examining the necessity of processing personal data, the legislature needed to take
 
+      into account alternative, less intrusive measures. CJEU, Joined Cases C‑92/09 and C‑93/09, Volker und Markus Schecke GbR
+      and Hartmut Eifert v Land Hessen, 9. November 2010. This was repeated by the CJEU in the Rīgas case where it held that “As
+      regards the condition relating to the necessity of processing personal data, it should be borne in mind that derogations and
+      limitations in relation to the protection of personal data must apply only in so far as is strictly necessary”. CJEU, Case C‑13/16,
+      Valsts policijas Rīgas reģiona pārvaldes Kārtības policijas pārvalde v Rīgas pašvaldības SIA ‘Rīgas satiksme’, para. 30. A strict
+      necessary test is required for any limitations on the exercise of the rights to privacy and to personal data protection with
+      regard to the processing of personal data, see EDPS Toolkit: Assessing the Necessity of Measures that limit the fundamental
+      right to the protection of personal data, page 7.
 
+                                                                                                                                       8
+      Adopted
 
-      2.7 Necessidade para diligências pré-contratuais
-45.   A segunda opção do artigo 6.º, n.º 1, alínea b), aplica-se sempre que o tratamento for necessário para
-      diligências pré-contratuais a pedido do titular dos dados. Esta disposição reflete o facto de o
-      tratamento preliminar de dados pessoais poder ser necessário antes da celebração de um contrato, a
-      fim de facilitar a celebração efetiva desse contrato.
+      2.5 Necessary for performance of a contract with the data subject
+26.   A controller can rely on the first option of Article 6(1)(b) to process personal data when it can, in line
+      with its accountability obligations under Article 5(2), establish both that the processing takes place in
+      the context of a valid contract with the data subject and that processing is necessary in order that the
+      particular contract with the data subject can be performed. Where controllers cannot demonstrate
+      that (a) a contract exists, (b) the contract is valid pursuant to applicable national contract laws, and (c)
+      that the processing is objectively necessary for the performance of the contract, the controller should
+      consider another legal basis for processing.
 
-46.   No momento do tratamento, pode não ser claro se um contrato será efetivamente celebrado. A
-      segunda opção do artigo 6.º, n.º 1, alínea b), pode, todavia, ser aplicável desde que o titular dos dados
-      apresente o pedido no contexto de uma potencial celebração de um contrato e o tratamento em causa
-      seja necessário para as diligências solicitadas. Em conformidade com o referido, sempre que um titular
-      dos dados contacte o responsável pelo tratamento de dados para pedir informações sobre os
-      pormenores das ofertas de serviços do responsável pelo tratamento, o tratamento dos dados pessoais
-      do titular dos dados com a finalidade de responder à questão pode basear-se no artigo 6.º, n.º 1,
-      alínea b).
+27.   Merely referencing or mentioning data processing in a contract is not enough to bring the processing
+      in question within the scope of Article 6(1)(b). On the other hand, processing may be objectively
+      necessary even if not specifically mentioned in the contract. In any case, the controller must meet its
+      transparency obligations. Where a controller seeks to establish that the processing is based on the
+      performance of a contract with the data subject, it is important to assess what is objectively necessary
+      to perform the contract. ‘Necessary for performance’ clearly requires something more than a
+      contractual clause. This is also clear in light of Article 7(4). Albeit this provision only regards validity of
+      consent, it illustratively makes a distinction between processing activities necessary for the
+      performance of a contract, and clauses making the service conditional on certain processing activities
+      that are not in fact necessary for the performance of the contract.
 
-47.   De qualquer modo, esta disposição não abrange a comercialização não solicitada ou outro tratamento
-      não solicitado efetuado unicamente por iniciativa do responsável pelo tratamento de dados ou a
-      pedido de terceiros.
+28.   In this regard, the EDPB endorses the guidance previously adopted by WP29 on the equivalent
+      provision under the previous Directive that ‘necessary for the performance of a contract with the data
+      subject’:
 
+                … must be interpreted strictly and does not cover situations where the processing is not
+                genuinely necessary for the performance of a contract, but rather unilaterally imposed on the
+                data subject by the controller. Also the fact that some processing is covered by a contract does
+                not automatically mean that the processing is necessary for its performance. […] Even if these
+                processing activities are specifically mentioned in the small print of the contract, this fact alone
+                does not make them ‘necessary’ for the performance of the contract.20
 
+29.   The EDPB also recalls the same WP29 guidance stating:
 
-      Exemplo 5
+                There is a clear connection here between the assessment of necessity and compliance with the
+                purpose limitation principle. It is important to determine the exact rationale of the contract,
+                i.e. its substance and fundamental objective, as it is against this that it will be tested whether
+                the data processing is necessary for its performance.21
 
-      Um titular dos dados fornece o seu código postal para ver se um determinado prestador de serviços
-      opera na sua área. Pode considerar-se que se trata de um tratamento necessário para realizar
-      diligências pré-contratuais a pedido do titular dos dados nos termos do artigo 6.º, n.º 1, alínea b).
+30.   When assessing whether Article 6(1)(b) is an appropriate legal basis for processing in the context of an
+      online contractual service, regard should be given to the particular aim, purpose, or objective of the
+      service. For applicability of Article 6(1)(b), it is required that the processing is objectively necessary for
+      a purpose that is integral to the delivery of that contractual service to the data subject. Not excluded
+      is processing of payment details for the purpose of charging for the service. The controller should be
+      able to demonstrate how the main subject-matter of the specific contract with the data subject cannot,
+      as a matter of fact, be performed if the specific processing of the personal data in question does not
 
 
 
-      Exemplo 6
+      20 Article 29 Working Party Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of Directive
 
-      Em alguns casos, as instituições financeiras têm o dever de identificar os seus clientes nos termos das
-      leis nacionais. Em conformidade com este dever, antes de celebrar um contrato com os titulares dos
-      dados, um banco pede para ver os seus documentos de identidade.
+      95/46/EC (WP217), page 16–17.
+      21 Ibid., page 17.
 
-      Neste caso, a identificação é necessária para uma obrigação jurídica imposta ao banco e não para
-      diligências a pedido do titular dos dados. Por conseguinte, o fundamento jurídico adequado não é o
-      artigo 6.º, n.º 1, alínea b), mas sim o do artigo 6.º, n.º 1, alínea c).
 
+                                                                                                                                     9
+      Adopted
 
+      occur. The important issue here is the nexus between the personal data and processing operations
+      concerned, and the performance or non-performance of the service provided under the contract.
 
+31.   Contracts for digital services may incorporate express terms that impose additional conditions about
+      advertising, payments or cookies, amongst other things. A contract cannot artificially expand the
+      categories of personal data or types of processing operation that the controller needs to carry out for
+      the performance of the contract within the meaning of Article 6(1)(b).
 
-                                                                                                            14
-      Adotadas
+32.   The controller should be able to justify the necessity of its processing by reference to the fundamental
+      and mutually understood contractual purpose. This depends not just on the controller’s perspective,
+      but also a reasonable data subject’s perspective when entering into the contract, and whether the
+      contract can still be considered to be ‘performed’ without the processing in question. Although the
+      controller may consider that the processing is necessary for the contractual purpose, it is important
+      that they examine carefully the perspective of an average data subject in order to ensure that there is
+      a genuine mutual understanding on the contractual purpose.
 
-      3 PARTE 3 – APLICABILIDADE DO ARTIGO 6.º, N.º 1, ALÍNEA B), EM
-        SITUAÇÕES ESPECÍFICAS
-      3.1 Tratamento para «melhoria do serviço» 25
-48.   Os serviços em linha recolhem frequentemente informações detalhadas sobre a forma como os
-      utilizadores utilizam os seus serviços. Na maior parte dos casos, a recolha de métricas organizacionais
-      relativas a um serviço ou os dados relativos à utilização do utilizador não pode ser considerada
-      necessária para a prestação do serviço, uma vez que o serviço pode ser prestado na ausência de
-      tratamento desses dados pessoais. Todavia, um prestador de serviços pode conseguir sustentar-se em
-      bases legais alternativas para esse tratamento, tais como o interesse legítimo ou o consentimento.
+33.   In order to carry out the assessment of whether Article 6(1)(b) is applicable, the following questions
+      can be of guidance:
 
-49.   O CEPD não considera que o artigo 6.º, n.º 1, alínea b), constitua, em geral, um fundamento jurídico
-      adequado para o tratamento com a finalidade de melhorar um serviço ou de desenvolver novas
-      funções no âmbito de um serviço existente. Na maioria dos casos, um utilizador celebra um contrato
-      para utilizar um serviço existente. Embora a possibilidade de melhorias e modificações de um serviço
-      possa ser sistematicamente incluída nas cláusulas contratuais, esse tratamento não pode, por regra,
-      ser considerado objetivamente necessário para a execução do contrato com o utilizador.
+                   What is the nature of the service being provided to the data subject? What are its
+                    distinguishing characteristics?
 
+                   What is the exact rationale of the contract (i.e. its substance and fundamental object)?
 
+                   What are the essential elements of the contract?
 
-      3.2 Tratamento para «prevenção da fraude»
-50.   Como o GT29 já observou 26, o tratamento para efeitos de prevenção da fraude pode implicar o
-      acompanhamento e a definição de perfis dos clientes. Na opinião do CEPD, é provável que esse
-      tratamento exceda o que é objetivamente necessário para a execução de um contrato com um titular
-      dos dados. Contudo, o tratamento de dados pessoais estritamente necessários para efeitos de
-      prevenção da fraude pode constituir um interesse legítimo do responsável pelo tratamento de dados 27
-      e pode, por isso, ser considerado lícito, se o responsável pelo tratamento de dados satisfizer os
-      requisitos específicos do artigo 6.º, n.º 1, alínea f) (interesses legítimos). Além disso, o artigo 6.º, n.º 1,
-      alínea c) (obrigação jurídica), poderá também constituir um fundamento jurídico para esse tratamento
-      de dados.
+                   What are the mutual perspectives and expectations of the parties to the contract? How is
+                    the service promoted or advertised to the data subject? Would an ordinary user of the
+                    service reasonably expect that, considering the nature of the service, the envisaged
+                    processing will take place in order to perform the contract to which they are a party?
 
+34.   If the assessment of what is ‘necessary for the performance of a contract’, which must be conducted
+      prior to the commencement of processing, shows that the intended processing goes beyond what is
+      objectively necessary for the performance of a contract, this does not render such future processing
+      unlawful per se. As already mentioned, Article 6 makes clear that other lawful bases are potentially
+      available prior to the initiation of the processing.22
 
+35.   If, over the lifespan of a service, new technology is introduced that changes how personal data are
+      processed, or the service otherwise evolves, the criteria above need to be assessed anew to determine
+      if any new or altered processing operations can be based on Article 6(1)(b).
 
-      3.3 Tratamento para publicidade comportamental em linha
-51.   A publicidade comportamental em linha e o seguimento e a definição de perfis dos titulares dos dados
-      associados são frequentemente utilizados para financiar serviços em linha. O GT29 já se pronunciou
-      anteriormente sobre esse tratamento, declarando:
 
-               [a necessidade contratual] não constitui um fundamento jurídico adequado para construir um
-               perfil dos gostos e do estilo de vida do utilizador com base na sequência de cliques num sítio
-               Web e nos bens adquiridos. Isto porque o responsável pelo tratamento dos dados não foi
 
+      Example 1
 
-      25 Os serviços em linha podem também ter de ter em conta a Diretiva (UE) 2019/770 do Parlamento Europeu e do Conselho,
+      A data subject buys items from an online retailer. The data subject wants to pay by credit card and for
+      the products to be delivered to their home address. In order to fulfil the contract, the retailer must
+      process the data subject’s credit card information and billing address for payment purposes and the
+      data subject’s home address for delivery. Thus, Article 6(1)(b) is applicable as a legal basis for these
+      processing activities.
 
-      de 20 de maio de 2019, sobre certos aspetos relativos aos contratos de fornecimento de conteúdos e serviços digitais (JO L
-      136, 22.5.2019, pág. 1), que será aplicável a partir de 1 de janeiro de 2022.
-      26 Parecer 06/2014 do Grupo de Trabalho do Artigo 29.º sobre o conceito de interesses legítimos do responsável pelo
 
-      tratamento dos dados na aceção do artigo 7.º da Diretiva 95/46/CE (WP217), página 17.
-      27 Cfr. considerando 47, sexta frase.
+      22 See Article 29 Working Party Guidelines on consent under Regulation 2016/679 (WP259), endorsed by the EDPB, page 31,
 
+      in which it is stated that: “Under the GDPR, it is not possible to swap between one lawful basis and another.”
 
+                                                                                                                          10
+      Adopted
 
+      However, if the customer has opted for shipment to a pick-up point, the processing of the data
+      subject’s home address is no longer necessary for the performance of the purchase contract. Any
+      processing of the data subject’s address in this context will require a different legal basis than Article
+      6(1)(b).
+
+
+
+      Example 2
+
+      The same online retailer wishes to build profiles of the user’s tastes and lifestyle choices based on their
+      visits to the website. Completion of the purchase contract is not dependent upon building such
+      profiles. Even if profiling is specifically mentioned in the contract, this fact alone does not make it
+      ‘necessary’ for the performance of the contract. If the on-line retailer wants to carry out such profiling,
+      it needs to rely on a different legal basis.
+
+
+
+36.   Within the boundaries of contractual law, and if applicable, consumer law, controllers are free to
+      design their business, services and contracts. In some cases, a controller may wish to bundle several
+      separate services or elements of a service with different fundamental purposes, features or rationale
+      into one contract. This may create a ‘take it or leave it’ situation for data subjects who may only be
+      interested in one of the services.
+
+37.   As a matter of data protection law, controllers need to take into account that the processing activities
+      foreseen must have an appropriate legal basis. Where the contract consists of several separate services
+      or elements of a service that can in fact reasonably be performed independently of one another, the
+      question arises to which extent Article 6(1)(b) can serve as a legal basis. The applicability of Article
+      6(1)(b) should be assessed in the context of each of those services separately, looking at what is
+      objectively necessary to perform each of the individual services which the data subject has actively
+      requested or signed up for. This assessment may reveal that certain processing activities are not
+      necessary for the individual services requested by the data subject, but rather necessary for the
+      controller’s wider business model. In that case, Article 6(1)(b) will not be a legal basis for those
+      activities. However, other legal bases may be available for that processing, such as Article 6(1)(a) or (f),
+      provided that the relevant criteria are met. Therefore, the assessment of the applicability of Article
+      6(1)(b) does not affect the legality of the contract or the bundling of services as such.
+
+38.   As WP29 has previously observed, the legal basis only applies to what is necessary for the performance
+      of a contract.23 As such, it does not automatically apply to all further actions triggered by non-
+      compliance or to all other incidents in the execution of a contract. However, certain actions can be
+      reasonably foreseen and necessary within a normal contractual relationship, such as sending formal
+      reminders about outstanding payments or correcting errors or delays in the performance of the
+      contract. Article 6(1)(b) may cover processing of personal data which is necessary in relation to such
+      actions.
+
+
+
+
+      23 Article 29 Working Party Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of
+
+      Directive 95/46/EC (WP217) page 17–18.
+
+                                                                                                                              11
+      Adopted
+
+      Example 3
+
+      A company sells products online. A customer contacts the company because the colour of the product
+      purchased is different from what was agreed upon. The processing of personal data of the customer
+      for the purpose of rectifying this issue can be based on Article 6(1)(b).
+
+
+
+39.   Contractual warranty may be part of performing a contract, and thus storing certain data for a specified
+      retention time after exchange of goods/services/payment has been finalised for the purpose of
+      warranties may be necessary for the performance of a contract.
+
+
+
+      2.6 Termination of contract
+40.   A controller needs to identify the appropriate legal basis for the envisaged processing operations
+      before the processing commences. Where Article 6(1)(b) is the basis for some or all processing
+      activities, the controller should anticipate what happens if that contract is terminated.24
+
+41.   Where the processing of personal data is based on Article 6(1)(b) and the contract is terminated in full,
+      then as a general rule, the processing of that data will no longer be necessary for the performance of
+      that contract and thus the controller will need to stop processing. The data subject might have
+      provided their personal data in the context of a contractual relationship trusting that the data would
+      only be processed as a necessary part of that relationship. Hence, it is generally unfair to swap to a
+      new legal basis when the original basis ceases to exist.
+
+42.   When a contract is terminated, this may entail some administration, such as returning goods or
+      payment. The associated processing may be based on Article 6(1)(b).
+
+43.   Article 17(1)(a) provides that personal data shall be erased when they are no longer necessary in
+      relation to the purposes for which they were collected. Nonetheless, this does not apply if processing
+      is necessary for certain specific purposes, including compliance with a legal obligation pursuant to
+      Article 17(3)(b), or the establishment, exercise or defence of legal claims, pursuant to Article 17(3)(e).
+      In practice, if controllers see a general need to keep records for legal purposes, they need to identify
+      a legal basis for this at the outset of processing, and they need to communicate clearly from the start
+      for how long they plan to retain records for these legal purposes after the termination of a contract. If
+      they do so, they do not need to delete the data upon the termination of the contract.
+
+44.   In any case, it may be that several processing operations with separate purposes and legal bases were
+      identified at the outset of processing. As long as those other processing operations remain lawful and
+      the controller communicated clearly about those operations at the commencement of processing in
+      line with the transparency obligations of the GDPR, it will still be possible to process personal data
+      about the data subject for those separate purposes after the contract has been terminated.
+
+
+
+
+      24 If a contract is subsequently invalidated, it will impact the lawfulness (as understood in Article 5(1)(a)) of continued
+
+      processing. However, it does not automatically imply that the choice of Article 6(1)(b) as the legal basis was incorrect.
+
+                                                                                                                                  12
+      Adopted
+
+      Example 4
+
+      An online service provides a subscription service that can be cancelled at any time. When a contract
+      for the service is concluded, the controller provides information to the data subject on the processing
+      of personal data.
+
+      The controller explains, inter alia, that as long as the contract is in place, it will process data about the
+      use of the service to issue invoices. The applicable legal basis is Article 6(1)(b) as the processing for
+      invoicing purposes can be considered to be objectively necessary for the performance of the contract.
+      However, when the contract is terminated and assuming there are no pending, relevant legal claims
+      or legal requirements to retain the data, the usage history will be deleted.
+
+      Furthermore, the controller informs data subjects that it has a legal obligation in national law to retain
+      certain personal data for accounting purposes for a specified number of years. The appropriate legal
+      basis is Article 6(1)(c), and retention will take place even if the contract is terminated.
+
+
+
+      2.7 Necessary for taking steps prior to entering into a contract
+45.   The second option of Article 6(1)(b) applies where processing is necessary in order to take steps at the
+      request of the data subject prior to entering into a contract. This provision reflects the fact that
+      preliminary processing of personal data may be necessary before entering into a contract in order to
+      facilitate the actual entering into that contract.
+
+46.   At the time of processing, it may not be clear whether a contract will actually be entered into. The
+      second option of Article 6(1)(b) may nonetheless apply as long as the data subject makes the request
+      in the context of potentially entering into a contract and the processing in question is necessary to take
+      the steps requested. In line with this, where a data subject contacts the controller to enquire about
+      the details of the controller’s service offerings, the processing of the data subject’s personal data for
+      the purpose of responding to the enquiry can be based on Article 6(1)(b).
+
+47.   In any case, this provision would not cover unsolicited marketing or other processing which is carried
+      out solely on the initiative of the data controller, or at the request of a third party.
+
+
+
+      Example 5
+
+      A data subject provides their postal code to see if a particular service provider operates in their area.
+      This can be regarded as processing necessary to take steps at the request of the data subject prior to
+      entering into a contract pursuant to Article 6(1)(b).
+
+
+
+      Example 6
+
+      In some cases, financial institutions have a duty to identify their customers pursuant to national laws.
+      In line with this, before entering into a contract with data subjects, a bank requests to see their identity
+      documents.
+
+      In this case, the identification is necessary for a legal obligation on behalf of the bank rather than to
+      take steps at the data subject’s request. Therefore, the appropriate legal basis is not Article 6(1)(b),
+      but Article 6(1)(c).
+
+                                                                                                                13
+      Adopted
+
+      3 PART 3 – APPLICABILITY OF ARTICLE 6(1)(B) IN SPECIFIC
+        SITUATIONS
+      3.1 Processing for ‘service improvement’25
+48.   Online services often collect detailed information on how users engage with their service. In most
+      cases, collection of organisational metrics relating to a service or details of user engagement, cannot
+      be regarded as necessary for the provision of the service as the service could be delivered in the
+      absence of processing such personal data. Nevertheless, a service provider may be able to rely on
+      alternative lawful bases for this processing, such as legitimate interest or consent.
+
+49.   The EDPB does not consider that Article 6(1)(b) would generally be an appropriate lawful basis for
+      processing for the purposes of improving a service or developing new functions within an existing
+      service. In most cases, a user enters into a contract to avail of an existing service. While the possibility
+      of improvements and modifications to a service may routinely be included in contractual terms, such
+      processing usually cannot be regarded as being objectively necessary for the performance of the
+      contract with the user.
+
+
+
+      3.2 Processing for ‘fraud prevention’
+50.   As WP29 has previously noted,26 processing for fraud prevention purposes may involve monitoring and
+      profiling customers. In the view of the EDPB, such processing is likely to go beyond what is objectively
+      necessary for the performance of a contract with a data subject. However, the processing of personal
+      data strictly necessary for the purposes of preventing fraud may constitute a legitimate interest of the
+      data controller27 and could thus be considered lawful, if the specific requirements of Article
+      6(1)(f)(legitimate interests) are met by the data controller. In addition Article 6(1)(c) (legal obligation)
+      could also provide a lawful basis for such processing of data.
+
+
+
+      3.3 Processing for online behavioural advertising
+51.   Online behavioural advertising, and associated tracking and profiling of data subjects, is often used to
+      finance online services. WP29 has previously stated its view on such processing, stating:
+
+               [contractual necessity] is not a suitable legal ground for building a profile of the user’s tastes
+               and lifestyle choices based on his clickstream on a website and the items purchased. This is
+               because the data controller has not been contracted to carry out profiling, but rather to deliver
+               particular goods and services, for example.28
+
+52.   As a general rule, processing of personal data for behavioural advertising is not necessary for the
+      performance of a contract for online services. Normally, it would be hard to argue that the contract
+
+      25 Online services may also need to take into account Directive (EU) 2019/770 of the European Parliament and of the Council
+
+      of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (OJ L 136,
+      22.05.2019, p. 1), which will apply as from 1 January 2022.
+      26 Article 29 Working Party Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of
+
+      Directive 95/46/EC (WP217), page 17.
+      27 See Recital 47, sixth sentence.
+      28 Article 29 Working Party Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of
+
+      Directive 95/46/EC (WP217), page 17.
+
+                                                                                                                              14
+      Adopted
+
+      had not been performed because there were no behavioural ads. This is all the more supported by the
+      fact that data subjects have the absolute right under Article 21 to object to processing of their data for
+      direct marketing purposes.
+
+53.   Further to this, Article 6(1)(b) cannot provide a lawful basis for online behavioural advertising simply
+      because such advertising indirectly funds the provision of the service. Although such processing may
+      support the delivery of a service, this in itself is not sufficient to establish that it is necessary for the
+      performance of the contract at issue. The controller would need to consider the factors outlined in
+      paragraph 33.
+
+54.   Considering that data protection is a fundamental right guaranteed by Article 8 of the Charter of
+      Fundamental Rights, and taking into account that one of the main purposes of the GDPR is to provide
+      data subjects with control over information relating to them, personal data cannot be considered as a
+      tradeable commodity. Even if the data subject can agree to the processing of personal data,29 they
+      cannot trade away their fundamental rights through this agreement.30
+
+55.   The EDPB also notes that, in line with ePrivacy requirements and the existing WP29 opinion on
+      behavioural advertising,31 and Working Document 02/2013 providing guidance on obtaining consent
+      for cookies,32 controllers must obtain data subjects’ prior consent to place the cookies necessary to
+      engage in behavioural advertising.
+
+56.   The EDPB also notes that tracking and profiling of users may be carried out for the purpose of
+      identifying groups of individuals with similar characteristics, to enable targeting advertising to similar
+      audiences. Such processing cannot be carried out on the basis of Article 6(1)(b), as it cannot be said to
+      be objectively necessary for the performance of the contract with the user to track and compare users’
+      characteristics and behaviour for purposes which relate to advertising to other individuals.33
+
+
+
+      3.4 Processing for personalisation of content34
+57.   The EDPB acknowledges that personalisation of content may (but does not always) constitute an
+      intrinsic and expected element of certain online services, and therefore may be regarded as necessary
+      for the performance of the contract with the service user in some cases. Whether such processing can
+      be regarded as an intrinsic aspect of an online service, will depend on the nature of the service
+      provided, the expectations of the average data subject in light not only of the terms of service but also
+      the way the service is promoted to users, and whether the service can be provided without
+      personalisation. Where personalisation of content is not objectively necessary for the purpose of the
+      underlying contract, for example where personalised content delivery is intended to increase user
+
+
+      29 See Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning
+
+      contracts for the supply of digital content and digital services.
+      30 Besides the fact that the use of personal data is regulated by the GDPR, there are additional reasons why processing of
+
+      personal data is conceptually different from monetary payments. For example, money is countable, meaning that prices can
+      be compared in a competitive market, and monetary payments can normally only be made with the data subject’s
+      involvement. Furthermore, personal data can be exploited by several services at the same time. Once control over one’s
+      personal data has been lost, that control may not necessarily be regained.
+      31 Article 29 Working Party Opinion 2/2010 on online behavioural advertising (WP171).
+      32 Article 29 Working Party Working Document 02/2013 providing guidance on obtaining consent for cookies (WP208).
+      33 See also Article 29 Working Party Guidelines on Automated individual decision-making and Profiling for the purposes of
+
+      Regulation 2016/679 (WP251rev.01), endorsed by the EDPB, page 13.
+      34 Online services may also need to take into account Directive (EU) 2019/770 of the European Parliament and of the Council
+
+      of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (OJ L 136,
+      22.05.2019, p. 1), which will apply as from 1 January 2022.
 
                                                                                                                              15
-      Adotadas
+      Adopted
 
-               contratado para elaborar um perfil mas sim para entregar determinados bens e serviços, por
-               exemplo 28.
+engagement with a service but is not an integral part of using the service, data controllers should
+consider an alternative lawful basis where applicable.
 
-52.   Regra geral, o tratamento de dados pessoais para publicidade comportamental não é necessário para
-      a execução de um contrato de serviços em linha. Normalmente, será difícil argumentar que o contrato
-      não foi executado porque não havia anúncios comportamentais. Tal é ainda mais corroborado pelo
-      facto de os titulares dos dados terem o direito absoluto, nos termos do artigo 21.º, de se oporem ao
-      tratamento dos seus dados para efeitos de comercialização direta.
 
-53.   Além disso, o artigo 6.º, n.º 1, alínea b), não pode constituir um fundamento jurídico para a publicidade
-      comportamental em linha simplesmente porque essa publicidade financia indiretamente a prestação
-      do serviço. Embora esse tratamento possa apoiar a prestação de um serviço, tal não é, por si só,
-      suficiente para comprovar que o mesmo é necessário para a execução do contrato em causa. O
-      responsável pelo tratamento terá de ter em conta os fatores referidos no n.º 33.
 
-54.   Considerando que a proteção de dados é um direito fundamental garantido pelo artigo 8.º da Carta
-      dos Direitos Fundamentais, e tendo em conta que um dos principais objetivos do RGPD consiste em
-      proporcionar aos titulares dos dados o controlo das informações que lhes dizem respeito, os dados
-      pessoais não podem ser considerados uma mercadoria comercializável. Mesmo que o titular dos dados
-      possa concordar com o tratamento de dados pessoais 29, não pode dispor dos seus direitos
-      fundamentais através deste acordo 30.
+Example 7
 
-55.   O CEPD observa também que, em conformidade com os requisitos de privacidade eletrónica e com o
-      atual parecer do GT29 sobre publicidade comportamental 31, bem como com o Documento de
-      Trabalho 02/2013 que fornece orientações sobre a obtenção de consentimento para os «cookies» 32,
-      os responsáveis pelo tratamento devem obter o consentimento prévio dos titulares dos dados para
-      colocar os «cookies» necessários para a realização de publicidade comportamental.
+An online hotel search engine monitors past bookings of users in order to create a profile of their
+typical expenditure. This profile is subsequently used to recommend particular hotels to the user when
+returning search results. In this case, profiling of user’s past behaviour and financial data would not be
+objectively necessary for the performance of a contract, i.e. the provision of hospitality services based
+on particular search criteria provided by the user. Therefore, Article 6(1)(b) would not be applicable to
+this processing activity.
 
-56.   O CEPD observa ainda que o seguimento e a definição de perfis dos utilizadores podem ser efetuados
-      com a finalidade de identificar grupos de pessoas com características semelhantes, a fim de permitir
-      que a publicidade seja direcionada para públicos semelhantes. Este tratamento não pode ser efetuado
-      com base no artigo 6.º, n.º 1, alínea b), uma vez que não podem ser considerados objetivamente
-      necessários para a execução do contrato com o utilizador o seguimento e a comparação das
-      características e do comportamento dos utilizadores para finalidades relacionadas com a publicidade
-      para outras pessoas 33.
+
+
+Example 8
+
+An online marketplace allows potential buyers to browse for and purchase products. The marketplace
+wishes to display personalised product suggestions based on which listings the potential buyers have
+previously viewed on the platform in order to increase interactivity. This personalisation it is not
+objectively necessary to provide the marketplace service. Thus, such processing of personal data
+cannot rely on Article 6(1)(b) as a legal basis.
 
 
 
 
-      28 Parecer 06/2014 do Grupo de Trabalho do Artigo 29.º sobre o conceito de interesses legítimos do responsável pelo
-
-      tratamento dos dados na aceção do artigo 7.º da Diretiva 95/46/CE (WP217), página 26.
-      29 Cfr. Diretiva (UE) 2019/770 do Parlamento Europeu e do Conselho, de 20 de maio de 2019, sobre certos aspetos relativos
-
-      aos contratos de fornecimento de conteúdos e serviços digitais.
-      30 Para além do facto de a utilização de dados pessoais ser regulamentada pelo RGPD, existem outras razões pelas quais o
-
-      tratamento de dados pessoais é conceptualmente diferente dos pagamentos monetários. Por exemplo, o dinheiro é contável,
-      o que significa que os preços podem ser comparados num mercado concorrencial, e os pagamentos monetários só podem
-      normalmente ser efetuados com a participação do titular dos dados. Além disso, os dados pessoais podem ser explorados
-      simultaneamente por vários serviços. Uma vez perdido o controlo dos dados pessoais, esse controlo pode não ser
-      necessariamente recuperado.
-      31 Parecer 2/2010 do Grupo de Trabalho do Artigo 29.º sobre a publicidade comportamental em linha (WP171).
-      32 Documento de Trabalho 02/2013 do Grupo de Trabalho do Artigo 29.º que fornece orientações sobre a obtenção do
-
-      consentimento para os «cookies» (WP208).
-      33 Cfr. também as Diretrizes do Grupo de Trabalho do Artigo 29.º sobre a Automatização da Tomada de Decisões e da
-
-      Definição de Perfis para efeitos do Regulamento 2016/679 (WP251rev.01), aprovadas pelo CEPD, página 13.
-
-
-                                                                                                                            16
-      Adotadas
-
-      3.4 Tratamento para personalização do conteúdo 34
-57.   O CEPD reconhece que a personalização do conteúdo pode constituir (mas nem sempre constitui) um
-      elemento intrínseco e esperado de certos serviços em linha, podendo, por conseguinte, ser
-      considerada necessária para a execução do contrato com o utilizador do serviço em alguns casos. A
-      possibilidade de esse tratamento ser considerado como um aspeto intrínseco de um serviço em linha
-      dependerá da natureza do serviço prestado, das expectativas do titular dos dados médio à luz não só
-      das condições do serviço, mas também da forma como o serviço é promovido aos utilizadores, e de o
-      serviço poder ser prestado sem personalização. Nos casos em que a personalização do conteúdo não
-      seja objetivamente necessária para efeitos do contrato subjacente, por exemplo, quando a entrega de
-      conteúdo personalizado se destine a aumentar o envolvimento do utilizador num serviço, mas não seja
-      parte integrante da utilização do serviço, os responsáveis pelo tratamento de dados deverão
-      considerar um fundamento jurídico alternativo, quando aplicável.
-
-
-
-      Exemplo 7
-
-      Um motor de busca em linha de hotéis monitoriza as anteriores reservas dos utilizadores para definir
-      um perfil dos seus gastos típicos. Esse perfil é usado posteriormente para recomendar hotéis
-      específicos ao utilizador aquando da apresentação dos resultados da pesquisa. Neste caso, a definição
-      de perfis relativa ao comportamento passado e aos dados financeiros do utilizador não seria
-      objetivamente necessária para a execução de um contrato, ou seja, a prestação de serviços de
-      alojamento com base em critérios de pesquisa específicos fornecidos pelo utilizador. Por conseguinte,
-      o artigo 6.º, n.º 1, alínea b), não seria aplicável a esta atividade de tratamento.
-
-
-
-      Exemplo 8
-
-      Um mercado em linha permite que compradores potenciais procurem e comprem produtos. O
-      mercado deseja exibir sugestões personalizadas de produtos com base nos anúncios que os
-      compradores potenciais visualizaram anteriormente na plataforma, para aumentar a interatividade.
-      Esta personalização não é objetivamente necessária para prestar o serviço de mercado. Assim, esse
-      tratamento de dados pessoais não pode apoiar-se no artigo 6.º, n.º 1, alínea b), como fundamento
-      jurídico.
-
-
-
-
-      34 Os serviços em linha podem também ter de ter em conta a Diretiva (UE) 2019/770 do Parlamento Europeu e do Conselho,
-
-      de 20 de maio de 2019, sobre certos aspetos relativos aos contratos de fornecimento de conteúdos e serviços digitais (JO L
-      136, 22.5.2019, pág. 1), que será aplicável a partir de 1 de janeiro de 2022.
-
-                                                                                                                             17
-      Adotadas
+                                                                                                       16
+Adopted
 ```

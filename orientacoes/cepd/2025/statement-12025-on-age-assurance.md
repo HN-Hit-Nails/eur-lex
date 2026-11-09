@@ -1,679 +1,607 @@
 ---
-titulo: "Declaração 1/2025 sobre a garantia da idade"
+titulo: "Statement 1/2025 on Age Assurance"
 titulo_en: "Statement 1/2025 on Age Assurance"
 tipo: Declaração
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2025-02-12'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/statement/statement-12025-on-age-assurance_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2025-07/edpb_statement_20250211ageassurance_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2025-04/edpb_statement_20250211ageassurance_v1-2_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Declaração 1/2025 sobre a garantia da idade
+# Statement 1/2025 on Age Assurance
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-1
+Statement 1/2025 on Age Assurance
+
+                                      Adopted on 11 February 20251
+
+     The European Data Protection Board has adopted the following statement:
+
+
+     1.      BACKGROUND AND PURPOSE OF THIS STATEMENT
+1.   The European regulatory framework calls for the increased protection of children in the digital
+     environment. For example, the Audiovisual Media Services Directive2, which Member States
+     have transposed into their national laws, highlights the possibility to implement age
+     verification measures (Articles 6a and 28b), the GDPR introduces minimum age requirements
+     for consenting to the processing of personal data in the context of information society
+     services (Article 8), the Digital Services Act3 references age verification as a risk mitigation
+     measure (Article 35(1)), and a number of Member States have implemented minimum age
+     requirements for performing legal acts, exercising certain rights or accessing certain goods
+     and services into their own national laws.
+
+2.   In addition, different national and European initiatives, such as Better Internet for Kids (BIK+),
+     identify age assurance as one solution to improve children’s well-being online through a safe,
+     age-appropriate digital environment in line with the European Digital Rights and Principles4.
+
+3.   Based on the definition provided in the research report Mapping age assurance typologies
+     and requirements5, this document will use “age assurance” as ‘the umbrella term for the
+     methods that are used to determine the age or age range of an individual to varying levels of
+
+     1 Minor corrections to the formatting of this document were made on 24 February 2025. Further minor changes were made to paragraphs
+
+     16 and 22 point b on 1 April 2025.
+     2 Directive (EU) 2018/1808 of the European Parliament and of the Council of 14 November 2018 amending Directive 2010/13/EU on the
+
+     coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of
+     audiovisual media services (Audiovisual Media Services Directive) in view of changing market realities, https://eur-
+     lex.europa.eu/eli/dir/2018/1808/oj
+     3 Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and
+
+     amending Directive 2000/31/EC (Digital Services Act) , https://eur-lex.europa.eu/eli/reg/2022/2065/oj
+     4 Better Internet for Kids, Guide to age assurance, https://better-internet-for-kids.europa.eu/en/age-assurance-guide-oldest
+     5 Raiz Shaffique, M., & van der Hof, S. (2024). Mapping age assurance typologies and requirements. Research report, Part of the Better
+
+     Internet for Kids (BIK) project coordinated by European Schoolnet (EUN) and commissioned by the European Commission.
 
 
 
+                                                                                                                                           1
 
-                                           Translations proofread by EDPB Members.
-                                       This language version has not yet been proofread.
+     confidence or certainty’. The same report mentions three primary categories of age
+     assurance: age estimation, age verification and self-declaration.
+4.   Age assurance poses specific risks to data protection with the potential to adversely impact
+     not only natural persons’ right to the protection of their personal data, but also other rights
+     and freedoms6 such as the right to non-discrimination, the right to the integrity of the person,
+     the right to liberty and security, and the right to free expression and information.
 
+5.   In recognition of the importance of a consistent approach at EU level on the topic of age
+     assurance, the EDPB wishes to provide specific guidance and high-level principles stemming
+     from the GDPR that should be taken in consideration when personal data is processed in the
+     context of age assurance.
 
+6.   The proposed principles seek to reconcile the protection of children and the protection of
+     personal data in the context of age assurance.
 
-                      Declaração 1/2025 sobre a garantia da idade
+7.   Priority has been given to address the requirements concerning the main principles stated in
+     Article 5 GDPR (lawfulness, fairness, transparency, purpose limitation, data minimisation,
+     accuracy, storage limitation, confidentiality, integrity, and accountability), and to ensure
+     these data protection principles are properly implemented and remain robust over time, as
+     set out under Article 25 GDPR “Data protection by design and by default” and Article 32 GDPR
+     “Security of processing”.
 
-                               Adotada em 11 de fevereiro de 20251
+8.   This statement is focused on the principles applicable to different online use cases, including
+     when a minimum age is prescribed by law or otherwise for buying products, for using services
+     that may harm children or for performing legal acts; and when there is a duty of care to
+     protect children (for example, to ensure that services are designed or offered in an age-
+     appropriate way).
 
-     O Comité Europeu para a Proteção de Dados adotou a seguinte declaração:
-
-
-     1.      CONTEXTO E OBJETIVO DA PRESENTE DECLARAÇÃO
-1.   O quadro regulamentar europeu apela a uma maior proteção das crianças no ambiente
-     digital. Por exemplo, a Diretiva Serviços de Comunicação Social Audiovisual 2, transposta pelos
-     Estados-Membros para o seu direito nacional, destaca a possibilidade de aplicar medidas de
-     verificação da idade (artigos 6.º-A e 28.º-B), o Regulamento Geral sobre a Proteção de Dados
-     (RGPD) introduz requisitos de idade mínima para consentir no tratamento de dados pessoais
-     no contexto dos serviços da sociedade da informação (artigo 8.º), o Regulamento dos Serviços
-     Digitais3 faz referência à verificação da idade enquanto medida de atenuação dos riscos
-     (artigo 35.º, n.º 1) e vários Estados-Membros transpuseram para o seu direito nacional
-     requisitos de idade mínima para a prática de atos jurídicos, o exercício de determinados
-     direitos ou o acesso a determinados bens e serviços.
-
-2.   Além disso, diferentes iniciativas nacionais e europeias, como a Estratégia para uma Internet
-     Melhor para as Crianças, identificam a garantia da idade como uma solução para melhorar o
-
-
-
-     1 Em 24 de fevereiro de 2025, foram efetuadas pequenas correções à formatação do presente documento. Em 1 de abril de 2025, foram
-     introduzidas alterações menores nos n.os 16 e 22, alínea b).
-     2 Diretiva (UE) 2018/1808 do Parlamento Europeu e do Conselho, de 14 de novembro de 2018, que altera a Diretiva 2010/13/UE relativa à
-
-     coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à oferta de serviços de
-     comunicação social audiovisual (Diretiva Serviços de Comunicação Social Audiovisual), para a adaptar à evolução das realidades do mercado,
-     https://eur-lex.europa.eu/eli/dir/2018/1808/oj.
-     3 Regulamento (UE) 2022/2065 do Parlamento Europeu e do Conselho, de 19 de outubro de 2022, relativo a um mercado único para os
-
-     serviços digitais e que altera a Diretiva 2000/31/CE (Regulamento dos Serviços Digitais), https://eur-lex.europa.eu/eli/reg/2022/2065/oj.
+9.   The EDPB may also consider issuing – whenever relevant and in other documents – additional
+     guidance on specific use cases.
 
 
 
-                                                                                                                                             1
-
-     bem-estar das crianças em linha através de um ambiente digital seguro e adequado à idade,
-     em consonância com os princípios e direitos digitais europeus4.
-
-3.   Com base na definição apresentada no relatório de investigação intitulado «Mapping age
-     assurance typologies and requirements»5 [Visão geral das tipologias e dos requisitos em
-     matéria de garantia da idade], o presente documento utilizará a expressão «garantia da
-     idade» como termo genérico para os métodos utilizados para determinar a idade ou a faixa
-     etária de uma pessoa com diferentes níveis de confiança ou certeza. O mesmo relatório
-     menciona três categorias principais de garantia da idade: estimativa da idade, verificação da
-     idade e autodeclaração.
-4.   A garantia da idade apresenta riscos específicos para a proteção de dados suscetíveis de
-     afetar negativamente não só o direito das pessoas singulares à proteção dos seus dados
-     pessoais, mas também outros direitos e liberdades6, como o direito à não discriminação, o
-     direito à integridade pessoal, o direito à liberdade e à segurança e o direito à liberdade de
-     expressão e à informação.
-
-5.   Reconhecendo a importância de uma abordagem coerente a nível da UE sobre o tema da
-     garantia da idade, o Comité Europeu para a Proteção de Dados (CEPD) pretende fornecer
-     orientações específicas e princípios de alto nível decorrentes do RGPD que devem ser tidos
-     em conta aquando do tratamento de dados pessoais no contexto da garantia da idade.
-
-6.   Os princípios propostos visam conciliar a proteção das crianças e a proteção dos dados
-     pessoais no contexto da garantia da idade.
-
-7.   Foi dada prioridade ao cumprimento dos requisitos relativos aos princípios fundamentais
-     enunciados no artigo 5.º do RGPD (licitude, lealdade, transparência, limitação das finalidades,
-     minimização dos dados, exatidão, limitação da conservação, confidencialidade, integridade e
-     responsabilidade) e à garantia de que estes princípios em matéria de proteção de dados são
-     corretamente aplicados e se mantêm sólidos ao longo do tempo, tal como estabelecido no
-     artigo 25.º do RGPD intitulado «Proteção de dados desde a conceção e por defeito» e no
-     artigo 32.º do RGPD intitulado «Segurança do tratamento».
-
-8.   A presente declaração centra-se nos princípios aplicáveis a diferentes casos de utilização em
-     linha, nomeadamente quando disposições de caráter legislativo ou não legislativo
-     prescrevem uma idade mínima para a aquisição de produtos, para a utilização de serviços
-     suscetíveis de prejudicar as crianças ou para a prática de atos jurídicos, e quando existe um
-     dever de diligência destinado a proteger as crianças (por exemplo, para garantir que os
-     serviços são concebidos ou prestados de forma adequada à idade).
+     2. PRINCIPLES TO DESIGN GDPR-COMPLIANT AGE ASSURANCE
+     2.1 Full and effective enjoyment of rights and freedoms
+     Age assurance must respect the full complement of natural persons’ fundamental rights7 and
+     freedoms, and the best interests of the child should be a primary consideration for all parties
+     involved in the process.
 
 
-     4 Estratégia para uma Internet Melhor para as Crianças, Guia para a garantia da idade, https://better-internet-for-kids.europa.eu/en/age-
-     assurance-guide-oldest.
-     5 Raiz Shaffique, M., e van der Hof, S., Mapping age assurance typologies and requirements, 2024. Relatório de investigação, parte do projeto
+     6 About the potential impact of age assurance on rights and freedoms, see, e.g.: “Roadmap for age verification” (Australian eSafety
 
-     Uma Internet Melhor para as Crianças coordenado pela Rede Escolar Europeia (REE) e encomendado pela Comissão Europeia.
-     6 Sobre o potencial impacto da garantia da idade nos direitos e liberdades, ver, por exemplo: “Roadmap for age verification” (Roteiro para
-
-     a verificação da idade, comissário australiano para a segurança eletrónica, 2023) https://www.esafety.gov.au/sites/default/files/2023-
-     08/Age-verification-background-report.pdf?v=1731644498261, "A safe internet by default for children and the role of age verification”
-     (AEPD, 2024) https://www.aepd.es/guides/technical-note-safe-internet-by-default-for-children.pdf ou “Trustworthy Age Assurance?”,
-     estudo encomendado pelo Grupo Verts/ALE sobre Economia Verde e Social no Parlamento Europeu (2024) https://www.greens-
+     Commissionner,                   2023)               https://www.esafety.gov.au/sites/default/files/2023-08/Age-verification-background-
+     report.pdf?v=1731644498261, "A safe internet by default for children and the role of age verification” (AEPD, 2024)
+     https://www.aepd.es/guides/technical-note-safe-internet-by-default-for-children.pdf or “Trustworthy Age Assurance?” a study
+     commissioned by the Greens/EFA Cluster on Green and Social Economy at the European Parliament (2024) https://www.greens-
      efa.eu/en/article/document/trustworthy-age-assurance
-
-
-                                                                                                                                                 2
-     Adotada
-
-9.    O CEPD pode igualmente ponderar emitir — sempre que pertinente e noutros documentos
-      — orientações adicionais sobre casos de utilização específicos.
-
-
-
-      2. PRINCÍPIOS PARA A CONCEÇÃO DE UMA GARANTIA DA IDADE
-         CONFORME COM O RGPD
-      2.1 Exercício pleno e efetivo dos direitos e liberdades
-      A garantia da idade tem de respeitar os direitos e liberdades fundamentais 7 das pessoas
-      singulares na sua totalidade e o interesse superior da criança deve ser uma consideração
-      primordial para todas as partes envolvidas no processo.
-
-10.   Ao aplicarem a garantia da idade, os prestadores de serviços devem assegurar que têm em
-      conta não só o impacto no direito à proteção dos dados pessoais, mas também em todos os
-      direitos fundamentais das pessoas singulares.
-
-11.   No caso específico das crianças, o interesse superior da criança8 deve ser uma consideração
-      primordial para todas as partes envolvidas na garantia da idade. É importante notar que não
-      existe qualquer hierarquia na tomada em consideração do interesse superior da criança,
-      devendo ser tidos em conta todos os direitos das crianças9, nomeadamente o seu direito à
-      proteção dos dados pessoais e à proteção contra a violência e todas as outras formas de
-      exploração, o seu direito de acesso a informações provenientes de várias fontes e o direito a
-      que os seus pontos de vista sejam devidamente tomados em consideração.
-      2.2 Avaliação baseada no risco da proporcionalidade da garantia da idade
-      A garantia da idade deve ser sempre aplicada de forma proporcionada e baseada no risco,
-      compatível com os direitos e liberdades das pessoas singulares.
-
-12.   Aquando da conceção e prestação dos seus serviços, os prestadores de serviços devem adotar
-      uma abordagem baseada no risco. A necessidade e a proporcionalidade do recurso a medidas
-      de segurança, como a garantia da idade, devem ser demonstradas, tendo em conta os riscos
-      associados. A necessidade pode ser demonstrada através da realização de uma avaliação10
-      para identificar e avaliar os riscos que um determinado serviço representa para as crianças 11,
-      como a exposição a contactos ou conteúdos nocivos. No âmbito desta avaliação, os
-
-      7 Em especial, a Declaração Universal dos Direitos Humanos, a Convenção Europeia dos Direitos Humanos, a Carta dos Direitos Fundamentais
-      da União Europeia e a Convenção das Nações Unidas sobre os Direitos da Criança.
-      8 O Comité dos Direitos da Criança das Nações Unidas esclareceu que o princípio do interesse superior visa assegurar tanto o exercício pleno
-
-      e efetivo de todos os direitos reconhecidos na Convenção como o desenvolvimento holístico da criança. Alto-Comissariado das Nações Unidas
-      para os Direitos Humanos (ACDH), General comment No. 14 (2013) on the right of the child to have his or her best interests taken as a primary
-      consideration (art. 3, para. 1), https://www2.ohchr.org/English/bodies/crc/docs/GC/CRC_C_GC_14_ENG.pdf .
-      9 ACDH, General Comment No. 25 (2021) on children’s rights in relation to the digital environment, março de 2021.
-      10 Por exemplo, uma avaliação do impacto nos direitos das crianças, que pode ou não fazer parte de uma avaliação de impacto sobre a
-
-      proteção de dados (AIPD).
-      11 Peritos no domínio dos direitos das crianças destacaram os benefícios de utilizar as avaliações do impacto nos direitos das crianças como
-
-      um instrumento eficaz para traduzir, na prática e de forma concreta e estruturada, a Convenção [sobre os Direitos da Criança] e o seu
-      artigo 3.º, que dá prioridade ao interesse superior da criança (ver Mukherjee, S., Pothong, K., e Livingstone, S., Child Rights Impact
-      Assessment: A tool to realise child rights in the digital environment, Londres: 5Rights Foundation, 2021). Além disso, o Comité das Nações
-      Unidas instou os Estados a mandatarem a utilização de avaliações do impacto nos direitos das crianças para integrar os direitos das crianças
-      na regulamentação e na conceção do ambiente digital.
-
-
-                                                                                                                                                  3
-      Adotada
-
-      prestadores de serviços podem igualmente ter em conta os direitos das crianças, as
-      oportunidades proporcionadas pelo ambiente digital, os pontos de vista das crianças, bem
-      como as suas capacidades em evolução, a fim de assegurar uma participação adequada à
-      idade12.
-
-13.   Os prestadores de serviços têm igualmente de respeitar os direitos e liberdades dos seus
-      utilizadores, nomeadamente o direito à proteção dos seus dados pessoais, equilibrando-os
-      com a necessidade de adotar medidas de segurança, que devem ser sempre as menos
-      intrusivas de entre as disponíveis e que devem ser sempre eficazes. Em muitos casos, a
-      garantia da idade representa um risco elevado para os direitos e liberdades dos titulares dos
-      dados, o que exigiria, por conseguinte, a realização de uma avaliação de impacto sobre a
-      proteção de dados («AIPD», artigo 35.º do RGPD) antes do tratamento, tendo em conta a
-      natureza, o âmbito, o contexto e as finalidades do tratamento. A AIPD deve incluir uma
-      descrição sistemática das operações de tratamento previstas e a finalidade do tratamento,
-      inclusive, se for caso disso, os interesses legítimos do responsável pelo tratamento. Deve
-      também incluir uma avaliação da necessidade e da proporcionalidade do tratamento,
-      identificar os riscos decorrentes do tratamento de dados pessoais para efeitos de garantia da
-      idade e conter medidas para atenuar esses riscos13.
-
-14.   A AIPD deve orientar a conceção e a aplicação de medidas técnicas e organizativas adequadas
-      para assegurar o cumprimento da proteção de dados. Esta abordagem baseada no risco é
-      crucial para equilibrar a potencial interferência com os direitos e liberdades das pessoas
-      singulares com o objetivo pretendido neste contexto específico, nomeadamente a segurança
-      das crianças. O âmbito, a extensão e a intensidade desta ingerência em termos de impacto
-      nos direitos e liberdades devem ser sempre cuidadosamente avaliados 14. Por exemplo, um
-      prestador de serviços que trata dados pessoais para verificar a idade de todos os seus
-      utilizadores quando acedem a todos os seus conteúdos ou serviços, mesmo que os conteúdos
-      ou serviços sejam adequados a todos os públicos e desprovidos de qualquer risco, não
-      passaria nos testes de necessidade e proporcionalidade.
-      2.3 Prevenção dos riscos em matéria de proteção de dados
-      A garantia da idade não deve conduzir a quaisquer riscos desnecessários em matéria de
-      proteção de dados para as pessoas singulares. Em especial, a garantia da idade não deve
-      proporcionar aos prestadores de serviços meios adicionais que lhes permitam identificar,
-      localizar, traçar perfis ou seguir pessoas singulares.
-
-15.   Os prestadores de serviços e quaisquer terceiros envolvidos na garantia da idade devem
-      aplicar medidas e garantias eficazes para evitar que este processo cause riscos desnecessários
-      em matéria de proteção de dados, como os resultantes da identificação, localização, definição
-      de perfis ou seguimento de pessoas singulares. O tratamento de dados pessoais para efeitos
-      de garantia da idade não deve proporcionar meios adicionais para servir finalidades não
-      relacionadas com a própria garantia da idade. Tal exige a seleção de abordagens da garantia
-
-      12 ACDH, General Comment No. 25 (2021) on children’s rights in relation to the digital environment, março de 2021.
-
-      13 CEPD, Orientações relativas à Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que determinam se o tratamento é «suscetível de
-
-      resultar num elevado risco» para efeitos do Regulamento (UE) 2016/679, https://ec.europa.eu/newsroom/article29/items/611236/en .
-      14 AEPD, Guidelines on assessing the proportionality of measures that limit the fundamental rights to privacy and to the protection of personal
-
-      data, https://www.edps.europa.eu/sites/default/files/publication/19-02-25_proportionality_guidelines_en.pdf.
-
-
-                                                                                                                                                        4
-      Adotada
-
-      da idade que respeitem plenamente o princípio da proteção de dados desde a conceção e por
-      defeito (ver secção 2.8) e a aplicação de medidas que garantam o princípio da lealdade,
-      assegurando que os dados pessoais não sejam tratados de uma forma injustificadamente
-      prejudicial, ilegalmente discriminatória, inesperada ou enganosa para os titulares dos dados.
-
-16.   Por exemplo, uma pessoa singular obrigada a verificar a sua idade para aceder a conteúdos
-      para adultos não esperaria que o prestador de serviços utilizasse a garantia da idade para
-      determinar a sua identidade ou localização geográfica exata ou para monitorizar, avaliar ou
-      inferir aspetos pessoais da sua identidade. Este facto reveste-se de especial relevância para o
-      cumprimento dos princípios em matéria de proteção de dados previstos no artigo 5.º, n.º 1,
-      do RGPD, nomeadamente a lealdade, a transparência e a limitação das finalidades, bem como
-      das regras previstas no artigo 6.º, n.º 4, do RGPD, relativas às utilizações subsequentes de
-      dados pessoais. Do mesmo modo, de acordo com os princípios da limitação das finalidades e
-      da minimização dos dados nos termos do artigo 5.º, n.º 1, do RGPD, o processo de garantia
-      da idade não deve permitir o posterior direcionamento ou a definição de perfis dos
-      utilizadores, nomeadamente para fins comerciais (por exemplo, anúncios publicitários
-      personalizados) e maliciosos (por exemplo, aliciamento, intimidação, perseguição ou
-      assédio). O CEPD recorda que, nos termos do considerando 75 do RGPD, podem existir riscos
-      específicos para os direitos em matéria de proteção de dados quando os dados pessoais
-      digam respeito a pessoas singulares vulneráveis, em particular crianças. Em geral, não deve
-      ser possível saber mais do que o necessário sobre uma pessoa singular e as suas ações através
-      da definição do seu perfil com base nas informações utilizadas no processo de garantia da
-      idade. Tal deve ser assegurado, tanto quanto possível, também em caso de violação de dados.
-
-17.   Devem ser evitadas situações de desequilíbrio de poder, a fim de impedir que os prestadores
-      de serviços obriguem as pessoas a enfrentar riscos desnecessários em matéria de proteção
-      de dados devido à sua falta de poder de decisão15. Quando tal não for possível, estas situações
-      devem ser reconhecidas e tidas em conta, devendo ser tomadas as contramedidas
-      adequadas16. Por exemplo, devem ser disponibilizadas aos utilizadores que não possam ou
-      não pretendam utilizar um método específico de garantia da idade alternativas viáveis que
-      lhes permitam provar a sua idade. Além disso, os prestadores de serviços devem avaliar
-      regularmente se os métodos e tecnologias selecionados, nomeadamente os fornecidos por
-      terceiros, estão a funcionar em consonância com as suas finalidades e ajustá-los para garantir
-      a lealdade do tratamento. Os terceiros envolvidos na garantia da idade devem igualmente
-      procurar apoiar os prestadores de serviços no cumprimento das obrigações que lhes
-      incumbem, não introduzindo riscos desnecessários em matéria de proteção de dados e
-      notificando atempadamente quaisquer alterações relevantes das suas políticas, conceções,
-      serviços, etc.
-
-
-
-      15 Por exemplo, quando os titulares dos dados são confrontados com a tomada de decisões automatizada sem mecanismos de recurso
-
-      adequados ou quando o consentimento não pode ser dado livremente. O conceito de «desequilíbrio de poder» é debatido no
-      Parecer 8/2024 do CEPD sobre o consentimento válido no âmbito dos modelos de consentimento ou pagamento aplicados pelas plataformas
-      em         linha       de       grande         dimensão          (secção 4.2.1.3),       https://www.edpb.europa.eu/system/files/2024-
-      04/edpb_opinion_202408_consentorpay_en.pdf .
-      16 CEPD, Guidelines 03/2022 on Deceptive design patterns in social media platform interfaces: how to recognise and avoid them, secção 2.3,
-
-      versão 2.0,                                                                 https://www.edpb.europa.eu/system/files/2023-02/edpb_03-
-      2022_guidelines_on_deceptive_design_patterns_in_social_media_platform_interfaces_v2_en_0.pdf .
-
-
-                                                                                                                                               5
-      Adotada
-
-      2.4 Limitação das finalidades e minimização dos dados
-      Os prestadores de serviços e quaisquer terceiros envolvidos na garantia da idade só devem
-      proceder ao tratamento dos atributos relacionados com a idade que sejam estritamente
-      necessários para a sua finalidade determinada, explícita e legítima.
-
-18.   Na maioria dos casos, a finalidade da garantia da idade consiste em tomar decisões de
-      controlo do acesso relacionadas com a idade, prevenir danos em linha para as crianças,
-      disponibilizar uma conceção ou experiência adequadas em função da idade, etc.
-      Independentemente do caso de utilização, a finalidade do tratamento de dados pessoais deve
-      ser determinada e explícita (artigo 5.º, n.º 1, alínea b), do RGPD). Uma vez recolhidos, os
-      dados pessoais não podem ser tratados posteriormente nem combinados com dados
-      adicionais de forma incompatível com essas finalidades. Devem ser utilizadas medidas
-      técnicas, como as tecnologias de proteção da privacidade, para limitar a possibilidade de dar
-      nova finalidade ao tratamento de dados pessoais. Devem também ser adotadas medidas
-      organizativas, como políticas e obrigações contratuais, que limitem a reutilização de dados
-      pessoais17.
-
-19.   Um atributo relacionado com a idade é qualquer atributo que indique que uma pessoa
-      singular tem uma determinada idade, que a idade de uma pessoa singular é superior ou
-      inferior a uma determinada idade ou que uma pessoa singular se enquadra numa
-      determinada faixa etária. A especificação da finalidade determinará os atributos relacionados
-      com a idade pertinentes e necessários a recolher. Esta ação permitirá igualmente ao
-      responsável pelo tratamento avaliar a proporcionalidade do processo de garantia da idade.
-      As vantagens resultantes deste processo não devem ser superadas por quaisquer
-      desvantagens relativas ao exercício dos direitos fundamentais 18 (ver secção 2.2 acima).
-
-20.   Por conseguinte, o responsável pelo tratamento só deve recolher dados pessoais que sejam
-      necessários, adequados e pertinentes para as finalidades a que se destinam. Desta forma, a
-      minimização dos dados contribui para fundamentar e pôr em prática os princípios da
-      necessidade19 e da proporcionalidade. Por exemplo, o prestador de serviços pode apenas
-      necessitar de saber se a idade de um utilizador é superior ou inferior a um determinado limiar
-      de idade. Tal pode ser implementado através de uma abordagem toquenizada baseada na
-      participação de um prestador terceiro, em que o prestador de serviços apenas vê o resultado
-      funcional do processo de garantia da idade (por exemplo, «superior» ou «inferior» ao limiar
-      de idade)20. A adoção de abordagens diferentes pode ser pertinente quando o prestador de
-      serviços necessita de saber se o utilizador se enquadra numa determinada faixa etária ou se
-      nasceu num ano específico.
-
-
-      17  CEPD, Orientações 4/2019 relativas ao artigo 25.º — Proteção de Dados desde a Conceção e por Defeito, versão 2.0,
-      https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201904_dataprotection_by_design_and_by_default_v2.0_en
-      .pdf.
-      18 AEPD, EDPS Guidelines on assessing the proportionality of measures that limit the fundamental rights to privacy and to the protection of
-
-      personal data, https://www.edps.europa.eu/sites/default/files/publication/19-02-25_proportionality_guidelines_en.pdf .
-      19 AEPD, EDPS toolkit for Assessing the necessity of measures that limit the fundamental right to the protection of personal
-
-      data,https://www.edps.europa.eu/sites/default/files/publication/17-06-01_necessity_toolkit_final_en.pdf.
-      20 Um terceiro prestador efetua um controlo da idade e fornece ao utilizador um «token de idade» que o utilizador pode apresenta r ao
-
-      prestador de serviços sem necessidade de voltar a provar a sua idade. A ficha de idade pode conter diferentes atributos do utilizador e sobre
-      quando, onde ou como foi efetuada a verificação da idade.
-
-
-                                                                                                                                                  6
-      Adotada
-
-      2.5 Eficácia da garantia da idade
-      A garantia da idade deve, comprovadamente, atingir um nível de eficácia adequado ao fim a
-      que se destina.
-
-21.   Os meios através dos quais é efetuada a garantia da idade devem ser adequados para alcançar
-      a finalidade do tratamento. Em especial, a eficácia de qualquer medida de garantia da idade
-      legalmente exigida deve ser considerada uma condição prévia para satisfazer os princípios da
-      necessidade21 e da proporcionalidade 22.
-
-22.   A eficácia da garantia da idade deve ser avaliada em vários aspetos, nomeadamente:
-
-      a) Acessibilidade. A garantia da idade deve ser amplamente acessível às pessoas singulares,
-         a fim de lhes permitir verificar a sua idade ou provar que cumprem um requisito
-         relacionado com a idade. Quando determinadas categorias de pessoas corram o risco de
-         ser discriminadas por um método específico de garantia da idade, por exemplo, por não
-         possuírem um documento de identidade ou telefone móvel adequado ou por serem
-         portadoras de deficiência, devem ser disponibilizados métodos alternativos de garantia
-         da idade, sempre que razoavelmente possível, com níveis adequados de privacidade,
-         segurança e proteção. As soluções de garantia da idade devem igualmente cumprir
-         qualquer legislação aplicável em matéria de acessibilidade23;
-      b) Fiabilidade. De acordo com o princípio da exatidão (artigo 5.º, n.º 1, alínea d), do RGPD),
-         qualquer método cuja finalidade consista em determinar se uma pessoa singular cumpre
-         um requisito relacionado com a idade deve proporcionar um nível de exatidão adequado
-         e coerente ao determinar se a pessoa em causa cumpre ou não o referido requisito.
-         Devem ser disponibilizados mecanismos de recurso adequados, especialmente quando os
-         utilizadores possam ser significativamente afetados pela tomada de decisões
-         automatizada, por exemplo, quando os seus atributos relacionados com a idade não
-         tenham sido devidamente estabelecidos (ver secção 2.7 abaixo);
-      c) Robustez. A garantia da idade deve ser capaz de lidar com situações inesperadas e resistir
-         a tentativas razoavelmente prováveis de enganar ou contornar o sistema. Note-se que a
-         robustez tem pouco significado no contexto da autodeclaração de um atributo
-         relacionado com a idade, uma vez que a fiabilidade desse método depende sobretudo da
-         boa vontade do utilizador 24.
-
-      Além disso, os prestadores de serviços que aplicam a garantia de idade e quaisquer terceiros
-      envolvidos no processo devem ser capazes de demonstrar a sua eficácia e ser transparentes
-
-      21 AEPD, EDPS toolkit for Assessing the necessity of measures that limit the fundamental right to the protection of personal
-
-      data,https://www.edps.europa.eu/sites/default/files/publication/17-06-01_necessity_toolkit_final_en.pdf.
-      22 AEPD,   Guidelines on assessing the proportionality of measures that limit the fundamental rights to privacy and to the protection of
-      personal data, https://www.edps.europa.eu/sites/default/files/publication/19-02-25_proportionality_guidelines_en.pdf .
-      23 Por exemplo, a acessibilidade dos sítios Web e das aplicações móveis do setor público e a acessibilidade de produtos e serviços estão
-
-      previstas, respetivamente, na Diretiva Acessibilidade da Web e na Diretiva Acessibilidade. As soluções de garantia da idade têm de certificar-
-      se de que estão em conformidade com estas legislações, cumprindo os requisitos de acessibilidade funcionais para os produtos e serviços
-      TIC (norma europeia harmonizada EN 301 549 v3.2.1).
-      24 O CEPD manifestou anteriormente sérias dúvidas quanto à eficácia da autodeclaração como método de verificação da idade no contexto
-
-      do tratamento de alto risco na Decisão vinculativa 2/2023 sobre o litígio apresentado pela autoridade de controlo (AC) irlandesa
-      relativamente à TikTok Technology Limited (artigo 65.º do RGPD), https://www.edpb.europa.eu/system/files/2023-
-      09/edpb_bindingdecision_202302_ie_sa_ttl_children_en.pdf .
-
-
-                                                                                                                                                   7
-      Adotada
-
-      quanto aos meios através dos quais atingem níveis adequados de acessibilidade, fiabilidade e
-      robustez (ver secção 2.10).
-
-      2.6 Licitude, lealdade e transparência
-      Os prestadores de serviços e quaisquer terceiros envolvidos na garantia da idade devem
-      assegurar que o tratamento de quaisquer dados pessoais para efeitos de garantia da idade é
-      lícito, leal e transparente para os utilizadores.
-
-23.   Os prestadores de serviços têm de assegurar que dispõem de um fundamento jurídico
-      aplicável nos termos do artigo 6.º do RGPD (e, se pertinente, da exceção aplicável prevista no
-      artigo 9.º, n.º 2) para proceder ao tratamento de dados pessoais no contexto da garantia da
-      idade. Por exemplo, podem ter de recorrer à garantia da idade para cumprir uma obrigação
-      jurídica (artigo 6.º, n.º 1, alínea c), do RGPD), tendo em conta que a garantia da idade tem de
-      ser proporcional ao objetivo legítimo prosseguido e aos requisitos estabelecidos no artigo 6.º,
-      n.º 3, do RGPD.
-
-24.   Além disso, os prestadores de serviços têm de ser transparentes com os utilizadores quanto
-      à forma exata como os seus dados pessoais estão a ser utilizados e por quem. Este aspeto é
-      particularmente importante quando existem várias partes envolvidas no processo de garantia
-      da idade. Antes do tratamento de quaisquer dados pessoais para efeitos de garantia da idade,
-      os utilizadores têm de ser informados (nos termos dos artigos 12.º, 13.º e 14.º do RGPD),
-      nomeadamente, sobre o seguinte25:
-
-           •   os dados pessoais que serão tratados e de que forma,
-           •   se o processo envolverá a participação de terceiros e, em caso afirmativo, a sua
-               identidade, bem como a dos responsáveis pelo tratamento e a dos seus
-               subcontratantes neste cenário,
-           •   se os seus dados serão partilhados com terceiros ou transferidos para um país terceiro,
-           •   a duração da conservação dos seus dados pessoais ou, se tal não for possível, os
-               critérios para determinar o prazo de conservação,
-           •   os direitos que lhes assistem em relação aos seus dados pessoais (artigos 15.º a 22.º
-               do RGPD), incluindo a forma como podem contestar uma decisão incorreta tomada em
-               resultado da garantia da idade.
-
-25.   A transparência no contexto da garantia da idade é particularmente importante quando se
-      trata de crianças. Os prestadores de serviços têm de assegurar que transmitem às crianças
-      informações relativas à transparência, quando lhes diga respeito, de uma forma clara e fácil
-      de compreender.
-
-26.   O conceito de transparência está fundamentalmente associado à lealdade. Se os prestadores
-      de serviços não forem claros e transparentes quanto à forma como procedem ao tratamento
-      das informações das pessoas singulares para efeitos de garantia da idade, é pouco provável
-      que esse tratamento possa ser considerado leal, o que, por sua vez, torna pouco provável que
-
-      25 Ver Grupo de trabalho do artigo 29.º — Orientações relativas à transparência na aceção do Regulamento 2016/679,
-      https://www.edpb.europa.eu/system/files/2023-09/wp260rev01_pt.pdf.
-
-
-                                                                                                                           8
-      Adotada
-
-      esse tratamento seja lícito. Em especial, se um prestador disponibilizar diferentes métodos
-      aos utilizadores que lhes permitam verificar a sua idade, deve ser transparente quanto ao
-      impacto que cada método tem do ponto de vista da proteção de dados.
-      2.7 Tomada de decisões automatizada
-      Qualquer tomada de decisões automatizada no contexto da garantia da idade deve cumprir
-      o disposto no RGPD. Se aplicável, os prestadores de serviços e quaisquer terceiros envolvidos
-      devem prever medidas adequadas para salvaguardar os direitos, liberdades e interesses
-      legítimos das pessoas singulares.
-
-27.   O legislador da UE optou por uma definição lata da expressão tomada de decisões
-      automatizada que exige uma análise caso a caso26. As decisões automatizadas podem ser
-      envolvidas em diferentes fases do processo de garantia da idade, quer para aceder aos
-      conteúdos ou serviços, quer através dos métodos utilizados para provar a idade.
-
-28.   A garantia de idade totalmente automatizada pode produzir efeitos jurídicos nas pessoas
-      singulares em causa — por exemplo, no exercício da sua liberdade de expressão — ou, pelo
-      menos, pode afetá-las significativamente de forma semelhante27. O efeito da garantia da
-      idade automatizada nos direitos das pessoas singulares pode variar em função do tipo de
-      conteúdos ou serviços em causa.
-
-29.   Por conseguinte, os prestadores de serviços e quaisquer terceiros envolvidos na garantia da
-      idade devem prever medidas corretivas e mecanismos de recurso adequados para os
-      utilizadores cujos atributos relacionados com a idade não sejam corretamente estabelecidos.
-      Em função da arquitetura do processo de garantia da idade, têm de identificar quem deve o
-      titular dos dados contactar para exercer os seus direitos 28.
-
-30.   Os prestadores de serviços e quaisquer terceiros envolvidos devem prestar especial atenção
-      quando estão em causa crianças. Tal como referido no considerando 71 do RGPD, as decisões
-      exclusivamente automatizadas, quando produzam «efeitos jurídicos que lhe digam respeito
-      ou a afetem significativamente de forma similar […] não» deverão «dizer respeito a uma
-      criança». Só devem ser permitidas exceções a esta regra em circunstâncias limitadas,
-      nomeadamente quando tal seja necessário «no sentido de proteger o seu bem-estar»29. Em
-      todo o caso, os prestadores de serviços e quaisquer terceiros envolvidos devem aplicar
-      medidas adequadas — por exemplo, alternativas viáveis, mecanismos de recurso e, se
-
-      26 Processo C-634/21, SCHUFA Holding (Scoring): Acórdão do Tribunal de Justiça (Primeira Secção) de 7 de dezembro de 2023 (pedido de
-
-      decisão prejudicial apresentado pelo Verwaltungsgericht Wiesbaden — Alemanha) — OQ/Land Hessen [«Reenvio prejudicial — Proteção
-      das pessoas singulares no que diz respeito ao tratamento de dados pessoais — Regulamento (UE) 2016/679 — Artigo 22.º — Decisão
-      individual automatizada — Sociedades que fornecem informações comerciais — Determinação automatizada de um valor de probabilidade
-      relativamente à capacidade de uma pessoa para cumprir as suas obrigações de pagamento no futuro (“scoring”) — Utilização deste valor
-      de probabilidade por terceiros»],https://eur-lex.europa.eu/legal-content/PT/ALL/?uri=CELEX%3A62021CA0634.
-      27   Orientações sobre as decisões individuais automatizadas e a definição de perfis para efeitos do Regulamento (UE) 2016/679,
-      https://ec.europa.eu/newsroom/article29/items/612053/en .
-      28 Tal como referido nas orientações do CEPD (referidas na nota de rodapé 27): «estes direitos podem ser aplicados contra o responsável
-
-      pelo tratamento que cria o perfil e o responsável pelo tratamento que toma uma decisão automatizada sobre um titular dos dados (com ou
-      sem intervenção humana), caso estas entidades não sejam a mesma».
-      29 Conforme consta das Orientações sobre as decisões individuais automatizadas e a definição de perfis para efeitos do Regulamen to (UE)
-
-      2016/679: «[p]oderão, no entanto, verificar-se determinadas circunstâncias nas quais seja necessário que os responsáveis pelo tratamento
-      tomem decisões exclusivamente automatizadas, incluindo a definição de perfis, com efeitos jurídicos ou similarmente significativos em
-      relação a crianças, por exemplo, no sentido de proteger o seu bem-estar».
-
-
-                                                                                                                                             9
-      Adotada
-
-      aplicável, intervenção humana — com informações adaptadas às crianças, quando lhes diga
-      respeito.
-      2.8 Proteção de dados desde a conceção e por defeito
-      A garantia da idade deve ser concebida, aplicada e avaliada tendo em conta os métodos e
-      tecnologias disponíveis que mais preservam a privacidade, a fim de cumprir os requisitos do
-      RGPD e proteger eficazmente os direitos dos titulares dos dados.
-
-31.   Nos termos do artigo 25.º do RGPD, os responsáveis pelo tratamento de dados envolvidos na
-      garantia da idade devem aplicar as medidas técnicas e organizativas adequadas e as garantias
-      necessárias para assegurar a aplicação efetiva de todos os princípios em matéria de proteção
-      de dados e, consequentemente, dos direitos e liberdades dos titulares dos dados. O requisito
-      de os responsáveis pelo tratamento terem em conta a proteção de dados por defeito na fase
-      de conceção de qualquer atividade de tratamento de dados pessoais é igualmente aplicável
-      aos subcontratantes e ao longo de todo o ciclo de vida do tratamento.
-
-32.   Tendo em conta a diversidade e a gravidade dos riscos associados aos sistemas de garantia
-      da idade, especialmente quando se procede ao tratamento de documentos de identidade ou
-      categorias especiais de dados pessoais, como dados biométricos, deve ser prestada a máxima
-      atenção para evitar qualquer acesso, tratamento, partilha e conservação desnecessários de
-      dados pessoais. Os sistemas de garantia da idade e qualquer instrumento jurídico ou técnico
-      que estabeleça requisitos para esses sistemas devem igualmente ser regularmente revistos e
-      atualizados, se necessário, a fim de ter em conta a rápida evolução das tecnologias de
-      proteção da privacidade no domínio da gestão da identidade digital.
-
-33.   Tal como mencionado nas orientações do CEPD relativas à proteção de dados desde a
-      conceção e por defeito30, a referência às «técnicas mais avançadas» no contexto do
-      artigo 25.º impõe aos responsáveis pelo tratamento uma obrigação de terem em conta os
-      atuais progressos da tecnologia disponível no mercado aquando da determinação das
-      medidas técnicas e organizativas adequadas acima referidas. As normas, boas práticas e
-      códigos de conduta reconhecidos pelas partes interessadas podem ser úteis para determinar
-      essas medidas. No entanto, a adequação destas medidas a cada atividade de tratamento
-      específica deve ser verificada.
-
-34.   Por conseguinte, o CEPD recomenda que, com base na garantia da idade mais avançada no
-      momento da elaboração do presente documento, seja dada a devida atenção às tecnologias
-      e arquiteturas que favorecem os dados detidos pelo utilizador e o tratamento local seguro
-      (baseado em dispositivos), permitindo propriedades como a ausência de associação 31 (do
-      ponto de vista de diferentes partes e mesmo em caso de colusões ou violações de dados) e a
-      divulgação seletiva32 de dados pessoais sob o controlo do titular dos dados. Além disso, a
-
-
-      30 CEPD, Orientações 4/2019 relativas ao artigo 25.º — Proteção de Dados desde a Conceção e por Defeito, versão 2.0,
-
-      https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201904_dataprotection_by_design_and_by_default_v2.0_en
-      .pdf.
-      31 A propriedade de ausência de associação implica que é impossível associar ou correlacionar diferentes elementos de dados, açõ es ou
-
-      transações a um titular de dados específico.
-      32 A divulgação seletiva é uma característica dos tokens, credenciais e certificados que permite que os titulares dos dados partilhem apenas
-
-      as informações que pretendem com partes específicas numa base casuística.
-
-
-                                                                                                                                                 10
-      Adotada
-
-      utilização de abordagens como as que se baseiam na emissão por lotes 33 de credenciais de
-      utilização única ou protocolos criptográficos, como as provas de conhecimento zero 34, deve
-      ser disponibilizada aos titulares dos dados nos casos em que a garantia da idade possa
-      implicar riscos elevados para a sua privacidade.
-      2.9 Segurança da garantia da idade
-      Os prestadores de serviços e quaisquer terceiros envolvidos na garantia da idade devem
-      aplicar medidas técnicas e organizativas adequadas para assegurar um nível de segurança
-      adequado ao risco.
-
-35.   O RGPD exige que tanto os responsáveis pelo tratamento como os subcontratantes
-      disponham de medidas técnicas e organizativas adequadas para assegurar um nível de
-      segurança adequado ao risco incorrido pelos dados pessoais objeto de tratamento
-      (considerando 83 e artigo 32.º). A natureza, a sensibilidade e o volume de dados pessoais que
-      podem estar envolvidos na garantia da idade realçam o potencial efeito adverso que uma
-      violação de dados pode implicar.
-
-36.   Os modelos de confiança são cruciais para evitar violações de dados em contextos de garantia
-      da idade, uma vez que definem a forma como as diferentes partes podem verificar as
-      identidades e a integridade umas das outras. Facilitam a comunicação segura e o intercâmbio
-      de dados entre participantes que podem não ter estabelecido relações prévias. Além disso, a
-      pseudonimização e a cifragem dos dados pessoais podem constituir medidas úteis para
-      atenuar os eventuais efeitos adversos das violações de dados. O cumprimento do princípio
-      da limitação da conservação e o recurso a períodos de conservação curtos podem também
-      ser essenciais para a segurança em matéria de garantia da idade, reduzindo a superfície de
-      exposição. Uma política de ausência de registo pode ser considerada uma garantia valiosa:
-      uma vez verificada a idade do utilizador, não é conservado qualquer registo dos dados
-      pessoais utilizados para o processo de garantia da idade.
-
-37.   Na prática, dada a crescente pressão jurídica para aplicar a garantia da idade e o número de
-      prestadores que podem estar sujeitos a essas regras, é de esperar a ocorrência de violações
-      da segurança. Há que verificar se estão em vigor todas as medidas tecnológicas de proteção
-      e de organização adequadas para apurar imediatamente a ocorrência de uma violação, o que
-      determina se a obrigação de notificação é aplicável35. Um elemento fundamental de qualquer
-      política de segurança de dados é a capacidade de, sempre que possível, evitar uma violação
-      e de, quando esta ocorre, reagir em tempo útil. Por conseguinte, a capacidade de restabelecer
-      rapidamente a disponibilidade da garantia da idade após uma violação da segurança também
-      deve ser considerada essencial. Do mesmo modo, é crucial assegurar a resiliência do
-      ecossistema de garantia da idade, favorecendo a existência de diferentes alternativas e de
-
-
-
-      33 A emissão por lotes baseia-se na resposta a um pedido de credenciais do titular dos dados com um conjunto ou grupo de credenciais
-      produzidos ao mesmo tempo.
-      34Uma prova de conhecimento zero é um protocolo em que uma parte (o demonstrador) pode demonstrar a outra parte (o verificador) que
-
-      uma determinada declaração é verdadeira, sem transmitir ao verificador qualquer informação para além do simples facto de essa declaração
-      ser verdadeira.
-      35    CEPD, Orientações n.º 9/2022 sobre a notificação da violação de dados pessoais ao abrigo do RGPD,
-      https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202209_personal_data_breach_notification_v2.0_en.pdf .
-
-
-                                                                                                                                             11
-      Adotada
-
-      partes ligadas com flexibilidade36 que não dependam tanto umas das outras a ponto de a
-      falha ou avaria de uma delas poder causar limitações de acesso significativas.
-
-38.   Embora as medidas de segurança sejam da maior importância na garantia da idade, não
-      garantem que o acesso autorizado ou não autorizado aos dados pessoais não afete os direitos
-      das pessoas singulares. Não podem substituir a aplicação dos princípios da necessidade, da
-      proporcionalidade ou da proteção de dados desde a conceção e por defeito.
-
-
-      2.10 Responsabilidade
-      Os prestadores de serviços e quaisquer terceiros envolvidos devem aplicar métodos de
-      governação que lhes permitam ser responsáveis pela sua abordagem em matéria de garantia
-      da idade e pela demonstração da sua conformidade com a regulamentação em matéria de
-      proteção de dados e outros requisitos legais.
-
-39.   Dada a participação de diferentes partes interessadas, a governação da garantia da idade
-      desempenha um papel crucial na sua responsabilização. A garantia da idade deve funcionar
-      no âmbito de um quadro de governação, assegurando que todos os processos e sistemas são
-      concebidos, aplicados, revistos, documentados, avaliados, utilizados, mantidos, testados ou
-      auditados de uma forma que cumpra a regulamentação em matéria de proteção de dados e
-      outros requisitos legais. Este quadro deve incluir, pelo menos, as políticas em matéria de
-      proteção de dados (artigo 24.º, n.º 2, do RGPD) e os processos de definição de prioridades e
-      de tomada de decisões necessários para alcançar os objetivos de conformidade e para gerir
-      adequadamente os riscos ao longo de todo o ciclo de vida da garantia da idade.
-
-40.   Por exemplo, o quadro de governação deve definir quem é responsável e de que forma, do
-      ponto de vista do responsável pelo tratamento/subcontratante, pela execução de atividades
-      ou operações exatas no âmbito do tratamento. Deve igualmente assegurar que a garantia da
-      idade seja efetivamente auditável pelas autoridades competentes e pelas partes
-      interessadas. O quadro de governação é essencial para a responsabilização, mas também para
-      a transparência e a confiança na garantia da idade. É mais provável que os titulares dos dados
-      confiem em métodos que sejam transparentes quanto às suas operações, tomada de
-      decisões, etc.
-
-41.   Além disso, parte do quadro de governação implica assegurar a eficácia (secção 2.5), a
-      proteção de dados desde a conceção e por defeito (secção 2.8) e a segurança (secção 2.9) da
-      garantia da idade.
-
-
-      Pelo Comité Europeu para a Proteção de Dados
-
-      A Presidente
+     7 In particular, the Universal Declaration of Human Rights, the European Convention on Human Rights, the Charter of Fundamental Rights
+
+     of the European Union, and the UN Convention on the Rights of the Child.
+
+
+                                                                                                                                            2
+     Adopted
+
+10.   When implementing age assurance, service providers should ensure that they consider not
+      only the impact on the right to the protection of personal data, but on all fundamental rights
+      of natural persons.
+
+11.   In the specific case of children, the best interests of the child8 should be a primary
+      consideration for all parties involved in age assurance. It is important to note that there is no
+      hierarchy in considering the best interests of the child, and regard should be had for all
+      children’s rights9 including their right to the protection of personal data, to protection from
+      violence and all other forms of exploitation to access information from a variety of sources
+      and to have their views given due weight.
+      2.2 Risk-based assessment of the proportionality of age assurance
+      Age assurance should always be implemented in a risk-based and proportionate manner that
+      is compatible with natural persons’ rights and freedoms.
+
+12.   Service providers should adopt a risk-based approach when designing and operating their
+      services. The necessity and proportionality of using safety measures such as age assurance
+      should be demonstrated, taking into account the associated risks. The necessity could be
+      demonstrated by conducting an assessment10 to identify and evaluate the risks that a
+      particular service poses for children11, such as exposure to harmful contact or content. As part
+      of this assessment, service providers may also consider the rights of children, the
+      opportunities provided by the digital environment, the views of the children as well as their
+      evolving capacities in order to ensure age-appropriate participation12.
+
+13.   Service providers must also respect their users’ rights and freedoms, including the right to the
+      protection of their personal data, balancing these with the need for safety measures which
+      should always be the least intrusive of those available and which should always be effective.
+      In many cases, age assurance poses a high risk to the rights and freedoms of data subjects,
+      which would therefore require that a Data Protection Impact Assessment (“DPIA”, Article 35
+      GDPR) be conducted before processing, taking into account the nature, scope, context and
+      purposes of the processing. The DPIA should include a systematic description of the envisaged
+      processing operations and the purposes of the processing, including, where applicable, the
+      legitimate interest pursued by the controller. It should also contain an assessment of the
+      necessity and proportionality of the processing, identify risks arising from processing personal
+      data for the purpose of age assurance and contain measures to mitigate those risks13.
+
+
+      8
+        The UN Committee on the Rights of the Child has clarified that the best interest’s principle ‘is aimed at ensuring both the full and effective
+      enjoyment of all the rights recognized in the Convention and the holistic development of the child’. General comment No. 14 (2013) on the
+      right of the child to have his or her best interests taken as a primary consideration (art. 3, para. 1),
+      https://www2.ohchr.org/English/bodies/crc/docs/GC/CRC C GC 14 ENG.pdf
+      9 General Comment No. 25 (2021) on children’s rights in relation to the digital environment, OHCHR, March 2021.
+      10 For example, a Child Rights Impact Assessment (“CRIA”), which may or may not be part of a DPIA.
+      11 Experts in the field of children’s rights have highlighted the benefits of using Child Rights Impact Assessments (CRIA) as an effective tool
+
+      ‘for translating the Convention [on the Rights of the Child] and its Article 3, on giving priority to the child’s best interests, into practice in a
+      concrete, structured manner’ (in Mukherjee, S., Pothong, K., & Livingstone, S. (2021). Child Rights Impact Assessment: A tool to realise child
+      rights in the digital environment. London: 5Rights Foundation). Furthermore, the UN Committee has called on States to mandate the use
+      of CRIAs to embed children’s rights into the regulation and design of the digital environment.
+      12
+           General Comment No. 25 (2021) on children’s rights in relation to the digital environment, OHCHR, March 2021.
+      13
+         EDPB Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is “likely to result in a high risk” for
+      the purposes of Regulation 2016/679, https://ec.europa.eu/newsroom/article29/items/611236/en
+
+
+                                                                                                                                                         3
+      Adopted
+
+14.   The DPIA should guide the design and implementation of appropriate technical and
+      organisational measures for data protection compliance. This risk-based approach is crucial
+      when balancing the potential interference with natural persons’ rights and freedoms against
+      the intended objective in this particular context, namely children’s safety. The scope, extent,
+      and intensity of this interference in terms of impact on rights and freedoms must always be
+      carefully assessed14. For example, a service provider processing personal data to check the
+      age of all their users when accessing all their content or services, even when the content or
+      services are suitable for all audiences and devoid of any risk, would not pass the necessity and
+      proportionality tests.
+      2.3 Prevention of data protection risks
+      Age assurance should not lead to any unnecessary data protection risks for natural persons.
+      In particular, age assurance should not provide additional means for service providers to
+      identify, locate, profile or track natural persons.
+
+15.   Service providers and any third party involved in age assurance should implement effective
+      measures and safeguards to prevent this process from causing unnecessary data protection
+      risks such as those resulting from identifying, locating, profiling, or tracking natural persons.
+      The processing of personal data for age assurance should not provide additional means to
+      fulfil purposes unrelated to the age assurance itself. This requires the selection of age
+      assurance approaches that fully comply with the principle of data protection by design and
+      by default (see section 2.8) and implementing measures that guarantee the principle of
+      fairness, ensuring that personal data are not processed in a way that is unjustifiably
+      detrimental, unlawfully discriminatory, unexpected or misleading to data subjects.
+
+16.   For example, a natural person required to verify their age to access adult content would not
+      expect the service provider to use age assurance to determine their identity or precise
+      geographical location or to monitor, evaluate or infer personal aspects of their identity. This
+      fact is particularly relevant for compliance with the data protection principles under Article
+      5(1) GDPR, including fairness, transparency and purpose limitation, and the rules under
+      Article 6(4) GDPR relating to subsequent uses of personal data. Similarly, following the
+      principles of purpose limitation and data minimisation under Article 5(1) GDPR, the age
+      assurance process should not enable the further targeting or profiling of users, including for
+      both commercial (e.g. personalised advertisements) and malicious targeting (e.g. grooming,
+      bullying, stalking or harassment). The EDPB recalls that, under Recital 75 GDPR, there may be
+      particular risks to data protection rights when personal data relates to vulnerable natural
+      persons, in particular of children. In general, it should not be possible to learn more than
+      necessary about a natural person and their actions by profiling this person based on the
+      information used in the age assurance process. This should be ensured, to the greatest extent
+      possible, also in the event of a data breach.
+
+17.   Power imbalance situations should be avoided to prevent service providers from forcing
+      individuals to face unnecessary data protection risks due to their lack of agency15. When this
+
+      14 EDPS Guidelines on assessing the proportionality of measures that limit the fundamental rights to privacy and to the protection of personal
+
+      data, https://www.edps.europa.eu/sites/default/files/publication/19-02-25 proportionality guidelines en.pdf
+      15
+         For example, when data subjects face automated decision making without proper redress mechanisms or when consent cannot be freely
+      given. The “Imbalance of power” concept is discussed in the EDPB Opinion 08/2024 on Valid Consent in the Context of Consent or Pay
+
+
+                                                                                                                                                   4
+      Adopted
+
+      is not possible, these situations should be recognised and accounted for with suitable
+      countermeasures16. For example, viable alternatives to prove their age should be provided to
+      users who cannot or do not wish to use a specific method of age assurance. Furthermore,
+      service providers should regularly assess whether the selected methods and technologies,
+      including those provided by third parties, are functioning in line with their purposes and
+      adjust them to ensure fairness in the processing. Third parties involved in age assurance
+      should also seek to support service providers in complying with their obligations, by not
+      introducing unnecessary data protection risks and by notifying any relevant changes to their
+      policies, designs, services, etc. in a timely manner.
+      2.4 Purpose limitation and data minimisation
+      Service providers and any third party involved in age assurance should only process the age-
+      related attributes that are strictly necessary for their specified, explicit and legitimate purpose.
+
+18.   In most cases, the purpose of age assurance is to make age-related access control decisions,
+      prevent online harm for children, offer an appropriate design or experience according to age,
+      etc. Regardless of the use case, the purpose of the personal data processing should be specific
+      and explicit (Article 5(1)(b) GDPR). Once personal data are collected, they shall not be further
+      processed or combined with additional data in a way that is incompatible with those
+      purposes. Technical measures such as Privacy Enhancing Technologies (“PETs”) should be
+      used to limit the possibility of repurposing personal data. Organisational measures, such as
+      policies and contractual obligations, which limit the reuse of personal data,17 should also be
+      deployed.
+
+19.   An age-related attribute is any attribute indicating that a natural person is a certain age, over
+      or under a certain age or within an age range. The purpose specification will determine the
+      relevant and necessary age-related attributes to be collected. Doing this will also allow the
+      controller to assess the proportionality of the age assurance process. The advantages
+      resulting from this process should not be outweighed by any disadvantages concerning the
+      exercise of fundamental rights18 (see section 2.2 above).
+
+20.   The controller should therefore only collect personal data that are necessary, adequate, and
+      relevant for the purposes that are intended to be served. In this way, data minimisation helps
+      to substantiate and operationalise the principles of necessity19 and proportionality. For
+      example, the service provider may only need to know whether the user is over or under an
+      age threshold. This could be implemented by a tokenised approach based on the participation
+      of a third-party provider, in which the service provider only sees the functional result of the
+
+
+      Models Implemented by Large Online Platforms (section 4.2.1.3), https://www.edpb.europa.eu/system/files/2024-
+      04/edpb opinion 202408 consentorpay en.pdf
+      16 From the EDPB Guidelines 03/2022 on Deceptive design patterns in social media platform interfaces: how to recognise and avoid them
+
+      (section              2.3),           Version              2.0,            https://www.edpb.europa.eu/system/files/2023-02/edpb 03-
+      2022 guidelines on deceptive design patterns in social media platform interfaces v2 en 0.pdf
+      17   From the EDPB Guidelines 4/2019 on Article 25 Data Protection by Design and by Default, Version 2.0,
+      https://www.edpb.europa.eu/sites/default/files/files/file1/edpb guidelines 201904 dataprotection by design and by default v2.0 en
+      .pdf
+      18 From the EDPS Guidelines on assessing the proportionality of measures that limit the fundamental rights to privacy and to the protection
+
+      of personal data, https://www.edps.europa.eu/sites/default/files/publication/19-02-25 proportionality guidelines en.pdf
+      19 From the EDPS toolkit for Assessing the necessity of measures that limit the fundamental right to the protection of personal data,
+
+      https://www.edps.europa.eu/sites/default/files/publication/17-06-01 necessity toolkit final en.pdf
+
+
+                                                                                                                                                5
+      Adopted
+
+      age assurance process (e.g. ’over‘ or ‘under‘ the age threshold)20. Different approaches may
+      be relevant when the service provider needs to know if the user is within a particular age
+      range or born in a specific year.
+
+
+      2.5 Effectiveness of age assurance
+      Age assurance should demonstrably achieve a level of effectiveness adequate to the purpose
+      for which it is carried out.
+
+21.   The means by which age assurance is carried out should be adequate to achieve the purpose
+      of the processing. In particular, the effectiveness of any legally mandated age assurance
+      measure should be considered as a precondition to satisfy the principles of necessity21 and
+      proportionality22.
+
+22.   The effectiveness of age assurance should be evaluated on several aspects, including:
+
+      a) Accessibility. Age assurance should be broadly accessible for natural persons to verify
+         their age or prove they meet an age-related requirement. When certain categories of
+         individuals are at risk of being discriminated against by a specific age assurance method,
+         for example because they do not own a suitable identity document or mobile phone or
+         because of a disability, alternative methods for age assurance should be made available,
+         when reasonably possible, with adequate levels of privacy, safety and security. Age
+         assurance solutions should also comply with any applicable legislation on accessibility23.
+      b) Reliability. According to the accuracy principle (Article 5 (1) (d) GDPR), any method whose
+         purpose is to determine whether a natural person meets an age-related requirement
+         should provide an adequate and consistent level of accuracy when determining whether
+         or not they meet said requirement. Appropriate redress mechanisms should be made
+         available, particularly when users can be significantly affected by automated decision-
+         making, such as when their age-related attributes have not been properly established (see
+         section 2.7 below).
+      c) Robustness. Age assurance should be able to deal with unexpected situations and resist
+         reasonably likely attempts to trick or bypass the system. It should be noted that
+         robustness has little meaning in the context of the self-declaration of an age-related
+         attribute, since the reliability of such method depends mostly on the goodwill of the
+         user24.
+
+
+      20 A third-party provider performs an age check and provides the user with an “age token” that the user can present to the service provider
+
+      without needing to prove their age again. The age token may contain different user’s attributes and about when, where or how the age
+      check was performed.
+      21
+          EDPS toolkit for Assessing the necessity of measures that limit the fundamental right to the protection of personal data,
+      https://www.edps.europa.eu/sites/default/files/publication/17-06-01 necessity toolkit final en.pdf
+      22
+          Guidelines on assessing the proportionality of measures that limit the fundamental rights to privacy and to the protection of personal
+      data, https://www.edps.europa.eu/sites/default/files/publication/19-02-25 proportionality guidelines en.pdf
+      23 For example, the accessibility of public sector websites and mobile applications and the accessibility of products and services are provided
+
+      for by the Web Accessibility Directive (WAD) and the European Accessibility Act (EAA) respectively. Age assurance solutions must make sure
+      they confirm to these legislations, by meeting the requirements of the harmonised European standard on the Accessibility requirements for
+      ICT products and services, EN 301 549 v3.2.1.
+      24 The EDPB has previously expressed serious doubts as to the effectiveness of self-declaration as a method of age verification within the
+
+      context of high-risk processing in the Binding Decision 2/2023 on the dispute submitted by the Irish SA regarding TikTok Technology Limited
+      (Art. 65 GDPR), https://www.edpb.europa.eu/system/files/2023-09/edpb bindingdecision 202302 ie sa ttl children en.pdf
+
+
+                                                                                                                                                    6
+      Adopted
+
+      In addition, service providers implementing age assurance and any third parties involved in
+      the process should be able to demonstrate its effectiveness and be transparent about the
+      means by which they reach appropriate levels of accessibility, reliability and robustness (see
+      section 2.10).
+
+      2.6 Lawfulness, fairness and transparency
+      Service providers and any third party involved in age assurance should ensure that the
+      processing of any personal data for the purposes of age assurance is lawful, fair and
+      transparent to users.
+
+23.   Service providers must ensure that they have an applicable legal basis under Article 6 GDPR
+      (and, if relevant, applicable exception laid down in Article 9(2)) to process personal data in
+      the context of age assurance. For example, they may need to deploy age assurance in order
+      to comply with a legal obligation (Article 6(1)(c) GDPR), taking into account that age assurance
+      must be proportionate to the legitimate objective pursued and the requirements set out in
+      Article 6(3) GDPR.
+
+24.   Furthermore, service providers must be transparent with users about how exactly their
+      personal data is being used and by whom. This is particularly important when there are
+      multiple parties involved in the age assurance process. Before any personal data is processed
+      for the purposes of age assurance, users must be informed (pursuant to Articles 12, 13 and
+      14 GDPR), amongst other things, about25:
+
+         •    what personal data will be processed and how;
+         •    whether third parties will be involved in the process, and if so, who they are and who
+              the controllers and processors are in this scenario;
+         •    if their data will be shared with others or transferred to a third country;
+         •    how long their personal data is going to be retained or, if this is not possible, the criteria
+              to determine the storage period;
+         •    what their rights are in relation to their personal data (Articles 15 to 22 GDPR),
+              including how they can challenge an incorrect decision made as a result of age
+              assurance.
+
+25.   Transparency in the context of age assurance is particularly important when it comes to
+      children. Service providers must ensure that they convey transparency information to
+      children, when concerned, in a way that is clear and easy for them to understand.
+
+26.   The concept of transparency is fundamentally linked to fairness. If service providers are not
+      clear and transparent about how they are processing natural persons’ information for age
+      assurance, then it is unlikely that this processing can be considered fair, which in turn makes
+      it unlikely that this processing is lawful. In particular, if a provider offers different methods for
+      users to verify their age, they should be transparent about the impact that each method has
+      from a data protection perspective.
+
+      25    See   the    Article   29     Working     Party   Guidelines   on   transparency   under   Regulation   2016/679,
+      https://www.edpb.europa.eu/system/files/2023-09/wp260rev01 en.pdf
+
+
+                                                                                                                            7
+      Adopted
+
+      2.7 Automated decision-making
+      Any occurrence of automated decision-making in the context of age assurance should comply
+      with the GDPR. If applicable, service providers and any third party involved should provide
+      suitable measures to safeguard natural persons’ rights and freedoms and legitimate interests.
+
+27.   The EU legislator has opted for a broad definition of automated decision-making that requires
+      examination on a case-by-case basis26. Automated decisions can be involved at different
+      stages in the age assurance process, either for accessing the content or service, or through
+      the methods deployed to prove age.
+
+28.   Fully automated age assurance can produce legal effects on the natural persons concerned –
+      for example on the exercise of their freedom of expression – or, at the very least, can
+      significantly affect them in a similar way27. The effect of automated age assurance on natural
+      persons’ rights can vary according to the type of content or services involved.
+
+29.   Therefore, service providers and any third party involved in age assurance should provide
+      remedies and appropriate redress mechanisms for users whose age-related attributes are not
+      properly established. Depending on the architecture of the age assurance process, they must
+      identify who the data subject should contact to exercise their rights28.
+
+30.   Service providers and any third party involved should pay particular attention when children
+      are concerned. As stated in Recital 71 of the GDPR, ’solely automated decision-making […]
+      with legal or similarly significant effects […] should not concern a child’. Exceptions to this rule
+      should remain under limited circumstances, such as where it is necessary ‘to protect their
+      welfare’29. In any case, service providers and any third party involved should implement
+      suitable measures – e.g. viable alternatives, redress mechanisms, and, where applicable,
+      human intervention – with information adapted for children, when concerned.
+      2.8 Data protection by design and by default
+      Age assurance should be designed, implemented and evaluated taking into account the most
+      privacy-preserving available methods and technologies in order to meet the requirements of
+      the GDPR and effectively protect the rights of data subjects.
+
+31.   Under Article 25 GDPR, data controllers involved in age assurance should implement
+      appropriate technical and organisational measures and necessary safeguards to provide
+      effective implementation of all data protection principles and, consequentially, data subjects’
+
+      26
+         Case C-634/21, SCHUFA Holding (Scoring): Judgment of the Court (First Chamber) of 7 December 2023 (request for a preliminary ruling
+      from the Verwaltungsgericht Wiesbaden — Germany) — OQ v Land Hessen (Reference for a preliminary ruling — Protection of natural
+      persons with regard to the processing of personal data — Regulation (EU) 2016/679 — Article 22 — Automated individual decision-making
+      — Credit information agencies — Automated establishment of a probability value concerning the ability of a person to meet payment
+      commitments in the future (‘scoring’) — Use of that probability value by third parties), https://eur-lex.europa.eu/legal-
+      content/EN/ALL/?uri=CELEX%3A62021CA0634
+      27
+           Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679,
+      https://ec.europa.eu/newsroom/article29/items/612053/en
+      28 As stated in the EDPB guidelines (above-mentioned): ‘these rights are actionable against the controller creating the profile and the
+
+      controller making an automated decision about a data subject (with or without human intervention), if these entities are not the same’.
+      29 From the Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679: ‘There may
+
+      nevertheless be some circumstances in which it is necessary for controllers to carry out solely automated decision-making, including profiling,
+      with legal or similarly significant effects in relation to children, for example to protect their welfare’.
+
+
+                                                                                                                                                    8
+      Adopted
+
+      rights and freedoms. The requirement for controllers to have data protection taken into
+      account by default at design stage of any processing activity of personal data also applies to
+      processors and throughout a processing lifecycle.
+
+32.   Considering the diversity and severity of the risks associated with age assurance systems,
+      especially when identity documents or special categories of personal data such as biometric
+      data are processed, the utmost attention should be paid to avoid any unnecessary access to,
+      processing, sharing and storage of personal data. Age assurance systems and any legal or
+      technical instrument setting out requirements for such systems should also be regularly
+      revised and updated, if necessary, to take into account the quickly moving landscape of
+      privacy enhancing technologies in the field of digital identity management.
+
+33.   As mentioned in the EDPB guidelines on data protection by design and by default30, the
+      reference to “state of the art” in the context of Article 25 GDPR imposes an obligation on data
+      controllers to consider the current progress in technology that is available in the market when
+      determining the aforementioned appropriate technical and organisational measures.
+      Standards, best practices and codes of conduct that are recognised by relevant stakeholders
+      can be helpful in determining such measures. However, the appropriateness of these
+      measures should be verified for each particular processing activity.
+
+34.   Consequentially, the EDPB recommends that, based on the state of the art in age assurance
+      at the time this document was prepared, due consideration is given to technologies and
+      architectures favouring user-held data and secure local processing (device-based), allowing
+      properties such as unlinkability31 (from different parties’ point of view and even in the case
+      of collusions or data breaches) and selective disclosure32 of personal data under the control
+      of the data subject. In addition, the use of approaches such as those relying on batch
+      issuance33 of single-use credentials or cryptographic protocols such as zero-knowledge
+      proofs34 should be made available for the data subjects in cases where age assurance may
+      involve high risks to their privacy.
+      2.9 Security of age assurance
+      Service providers and any third party involved in age assurance should implement appropriate
+      technical and organisational measures to ensure a level of security appropriate to the risk.
+
+35.   The GDPR requires both controllers and processors to have appropriate technical and
+      organisational measures in place to ensure a level of security appropriate to the risk posed to
+      the personal data being processed (Recital 83 and Article 32). The nature, sensitivity, and
+
+
+      30
+          EDPB Guidelines 4/2019 on Article 25 Data Protection by Design and by Default, Version 2.0,
+      https://www.edpb.europa.eu/sites/default/files/files/file1/edpb guidelines 201904 dataprotection by design and by default v2.0 en
+      .pdf
+      31 The unlikability property implies that it is impossible to associate or correlate different data items, actions or transactions to a specific
+
+      data subject.
+      32 Selective disclosure is a feature of tokens, credentials and attestations that allows data subjects to share only the information they want
+
+      with specific parties on a case-by-case basis.
+      33 Batch issuance relies on responding to one credential request from the data subject with a set or group of credentials produced at the
+
+      same time.
+      34A zero-knowledge proof is a protocol in which one party (the prover) can demonstrate another party (the verifier) that some given
+
+      statement is true, without conveying to the verifier any information beyond the mere fact of that statement's truth.
+
+
+                                                                                                                                                     9
+      Adopted
+
+      volume of personal data that can be involved in age assurance highlight the potential adverse
+      effect that a data breach could entail.
+
+36.   Trust models are crucial to prevent data breaches in age assurance contexts, as they define
+      how the different parties can verify each other’s identities and integrity. They facilitate secure
+      communication and data exchange among participants who may not have prior relationships.
+      In addition, pseudonymisation and encryption of personal data may be helpful measures to
+      mitigate the possible adverse effects of data breaches. Fulfilling the storage limitation
+      principle and using short retention periods may also be essential for security in age assurance,
+      reducing the exposure surface. A no-log policy may be considered a valuable safeguard: once
+      the user’s age is verified, no record of the personal data used for the age assurance process
+      is kept.
+
+37.   In practice, given the increasing legal pressure to implement age assurance and the number
+      of providers that may be subject to such rules, the occurrence of security breaches should be
+      expected. It should be ascertained whether all appropriate technological protection and
+      organisational measures to be in place to establish immediately whether a breach has taken
+      place, which then determines whether the notification obligation is engaged35. A key element
+      of any data security policy is being able, where possible, to prevent a breach and, where it
+      occurs, to react in a timely manner. Therefore, the ability to promptly restore the availability
+      of age assurance after a security breach should also be considered as essential. Similarly, it is
+      crucial to ensure the resilience of the age assurance ecosystem, favouring the existence of
+      different alternatives and loosely coupled parties36 that do not depend so much on each other
+      that the failure or breakdown of one would cause significant access limitations.
+
+38.   While security measures are of the utmost importance in age assurance, they do not
+      guarantee that authorised or unauthorised access to personal data will not impact the rights
+      of natural persons. They cannot replace the application of the principles of necessity,
+      proportionality or data protection by design and by default.
+
+
+      2.10 Accountability
+      Service providers and any third party involved should implement governance methods that
+      allow them to be accountable for their approach to age assurance and for demonstrating their
+      compliance with data protection regulation and other legal requirements.
+
+39.   Given the involvement of different stakeholders, age assurance governance plays a crucial
+      role in its accountability. Age assurance should operate under a governance framework,
+      ensuring that all processes and systems are designed, implemented, revised, documented,
+      assessed, used, maintained, tested or audited in a way that meets data protection regulations
+      and other legal requirements. This framework should include, at least, the data protection
+      policies (Article 24(2) GDPR) and the prioritisation and decision-making processes required to
+
+
+
+      35
+          From the EDPB Guidelines 9/2022 on personal data breach notification under GDPR, https://www.edpb.europa.eu/system/files/2023-
+      04/edpb guidelines 202209 personal data breach notification v2.0 en.pdf
+      36 Parties depend on each other to the least extent possible, reducing the scope of impact when changes or failures occur.
+
+
+
+
+                                                                                                                                       10
+      Adopted
+
+      achieve compliance objectives and to manage the risks appropriately over the entire age
+      assurance lifecycle.
+
+40.   For example, the governance framework should delineate who is responsible and how, from
+      a controller/processor perspective, for which exact activities or operations within the
+      processing. It should also ensure that age assurance is effectively auditable by authorities and
+      relevant stakeholders. The governance framework is essential for accountability, but also for
+      transparency and trust in age assurance. Data subjects are more likely to trust methods that
+      are transparent about their operations, decision-making, etc.
+
+41.   Furthermore, part of the governance framework involves ensuring effectiveness (section 2.5),
+      data protection by design and by default (section 2.8), and security (section 2.9) of age
+      assurance.
+
+
+
+
+      For the European Data Protection Board
+
+      The Chair
 
       (Anu Talus)
 
 
 
-      36   As partes dependem o menos possível umas das outras, reduzindo o âmbito do impacto quando ocorrem alterações ou falhas.
 
-
-                                                                                                                                     12
-      Adotada
+                                                                                                     11
+      Adopted
 ```

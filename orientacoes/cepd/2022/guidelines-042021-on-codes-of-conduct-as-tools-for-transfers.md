@@ -1,848 +1,770 @@
 ---
-titulo: "Diretrizes 04/2021 relativas aos códigos de conduta enquanto instrumento para as transferências"
+titulo: "Guidelines 04/2021 on Codes of Conduct as tools for transfers"
 titulo_en: "Guidelines 04/2021 on Codes of Conduct as tools for transfers"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2022-02-22'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-042021-on-codes-of-conduct-as-tools-for-transfers_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2022-10/edpb_guidelines_codes_conduct_transfers_after_public_consultation_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2022-03/edpb_guidelines_codes_conduct_transfers_after_public_consultation_en_1.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 04/2021 relativas aos códigos de conduta enquanto instrumento para as transferências
+# Guidelines 04/2021 on Codes of Conduct as tools for transfers
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 04/2021 relativas aos códigos de conduta enquanto
-                instrumento para as transferências
+Guidelines 04/2021 on Codes of Conduct as tools for
+                          transfers
 
 
 
 
-                                   Versão 2.0
+                                      Version 2.0
 
-                     Adotadas em 22 de fevereiro de 2022
-
-
-
-
-                                                           Página 1 de 17
-Adotadas – Após consulta pública
-
-Histórico das versões
-
-
- Versão 2.0      22 de fevereiro de 2022   Adoção das diretrizes após consulta pública
-
- Versão 1.0      7 de julho de 2021        Adoção das diretrizes para consulta pública
+                            Adopted on 22 February 2022
 
 
 
 
-                                                                                   Página 2 de 17
-Adotadas – Após consulta pública
+                                                          Page 1 of 16
+Adopted - After public consultation
 
-RESUMO
-O RGPD exige, no seu artigo 46.º, que os responsáveis pelo tratamento/subcontratantes estabeleçam
-garantias adequadas para as transferências de dados pessoais para países terceiros ou organizações
-internacionais. Para o efeito, o RGPD diversifica as garantias adequadas que podem ser utilizadas pelas
-organizações ao abrigo do artigo 46.º para enquadrar as transferências para países terceiros,
-introduzindo, nomeadamente, códigos de conduta enquanto novo mecanismo de transferência
-[artigo 40.º, n.º 3.º, e artigo 46.º, n.º 2, alínea e)]. A este respeito, tal como previsto no artigo 40.º,
-n.º 3, uma vez aprovado pela autoridade de controlo competente e após lhe ter sido concedida
-aplicabilidade geral na União pela Comissão, um código de conduta pode ser adotado e utilizado pelos
-responsáveis pelo tratamento ou subcontratantes não sujeitos ao RGPD situados em países terceiros,
-a fim de fornecer garantias adequadas para os dados transferidos para países terceiros. Os
-responsáveis pelo tratamento e os subcontratantes são obrigados a assumir compromissos
-vinculativos e com força executiva, por meio de instrumentos contratuais ou de outros instrumentos
-juridicamente vinculativos, no sentido de aplicar as garantias adequadas previstas no código,
-inclusivamente em relação aos direitos dos titulares dos dados, tal como exigido pelo artigo 40.º, n.º 3.
-As diretrizes fornecem elementos que devem ser abordados nesses compromissos.
-
-Note-se igualmente que um código destinado às transferências adotado por um importador de dados
-num país terceiro pode ser utilizado pelos responsáveis pelo tratamento/subcontratantes sujeitos ao
-RGPD (ou seja, exportadores de dados) para cumprirem as suas obrigações em caso de transferências
-para países terceiros em conformidade com o RGPD, sem necessidade de aderirem eles próprios a
-esse código.
-
-No que respeita ao conteúdo de um código destinado às transferências e para fornecer garantias
-adequadas na aceção do artigo 46.º, um código de conduta deve incluir os princípios, direitos e
-obrigações essenciais decorrentes do RGPD para os responsáveis pelo tratamento/subcontratantes,
-mas também as garantias específicas do contexto das transferências (por exemplo, no que diz respeito
-à questão das transferências ulteriores, conflitos de leis no país terceiro). À luz das garantias
-fornecidas pelos instrumentos de transferência existentes ao abrigo do artigo 46.º do RGPD e para
-assegurar a coerência do nível de proteção, bem como tendo em conta o Acórdão Schrems II1 do TJUE,
-as diretrizes fornecem uma lista de verificação dos elementos a abranger num código de conduta
-destinado às transferências.
-
-Um código de conduta pode ser originalmente elaborado com o único propósito de especificar a
-aplicação do RGPD, em conformidade com o artigo 40.º, n.º 2 («código RGPD»), ou também como um
-código destinado às transferências, em conformidade com o artigo 40.º, n.º 3. Consequentemente,
-dependendo do âmbito de aplicação e do conteúdo do código originalmente especificados, pode ser
-necessário alterá-lo, a fim de abranger todos os elementos acima referidos, se for utilizado como
-instrumento para as transferências.
-
-As presentes diretrizes, que complementam as Diretrizes 1/2019 do CEPD relativas aos Códigos de
-Conduta e aos Organismos de Supervisão ao abrigo do Regulamento (UE) 2016/679, clarificam o papel
-das diferentes entidades envolvidas na criação de um código a utilizar como instrumento para as
-transferências, bem como o processo de adoção através de fluxogramas.
+Version history
 
 
+ Version 2.0      22 February 2022    Adoption of the Guidelines after public consultation
 
-1
- Acórdão do Tribunal de Justiça (Grande Secção) de 16 de julho de 2020, Data Protection
-Commissioner/Facebook Ireland Ltd e Maximillian Schrems.
-                                                                                           Página 3 de 17
-Adotadas – Após consulta pública
-
-Índice
-Histórico das versões.............................................................................................................................. 2
-RESUMO .................................................................................................................................................. 3
-1      OBJETIVO DAS DIRETRIZES .............................................................................................................. 5
-2      O QUE SÃO OS CÓDIGOS DE CONDUTA ENQUANTO INSTRUMENTO PARA AS TRANSFERÊNCIAS?6
-3 QUAL DEVE SER O CONTEÚDO DE UM CÓDIGO DE CONDUTA ENQUANTO INSTRUMENTO PARA
-AS TRANSFERÊNCIAS? ............................................................................................................................. 8
-4 QUAIS SÃO AS ENTIDADES ENVOLVIDAS NA CRIAÇÃO DE UM CÓDIGO A UTILIZAR COMO
-INSTRUMENTO PARA AS TRANSFERÊNCIAS E QUAL É O SEU PAPEL?..................................................... 9
-    4.1        Titular do código...................................................................................................................... 9
-    4.2        Organismo de supervisão........................................................................................................ 9
-    4.3        AC .......................................................................................................................................... 10
-    4.4        CEPD ...................................................................................................................................... 10
-    4.5        Comissão ............................................................................................................................... 11
-5      PROCESSO DE ADOÇÃO DE UM CÓDIGO DE CONDUTA PARA AS TRANSFERÊNCIAS.................... 11
-6      QUAIS SÃO AS GARANTIAS A FORNECER AO ABRIGO DO CÓDIGO?............................................. 12
-    6.1        Compromissos vinculativos e com força executiva a assumir .............................................. 12
-    6.2    Lista de verificação dos elementos a incluir num código de conduta destinado às
-    transferências.................................................................................................................................... 14
-Anexo 1 — ADOÇÃO DO CÓDIGO DE CONDUTA PARA AS TRANSFERÊNCIAS — FLUXOGRAMA.......... 16
-    a – Adoção de um código transnacional destinado às transferências .............................................. 16
-    b – Alterações de um código transnacional a utilizar como código destinado às transferências .... 16
+ Version 1.0      7 July 2021         Adoption of the Guidelines for public consultation
 
 
 
 
-                                                                                                                                        Página 4 de 17
-Adotadas – Após consulta pública
+                                                                                 Page 2 of 16
+Adopted - After public consultation
 
-     O Comité Europeu para a Proteção de Dados
+EXECUTIVE SUMMARY
+The GDPR requires in its Article 46 that controllers/processors shall put in place appropriate
+safeguards for transfers of personal data to third countries or international organisations. To that end,
+the GDPR diversifies the appropriate safeguards that may be used by organisations under Article 46
+for framing transfers to third countries by introducing amongst others, codes of conduct as a new
+transfer mechanism (articles 40-3 and 46-2-e). In this respect, as provided by Article 40-3, once
+approved by the competent supervisory authority and having been granted general validity within the
+Union by the Commission, a code of conduct may be adhered to and used by controllers or processors
+not subject to the GDPR located in third countries for the purpose of providing appropriate safeguards
+to data transferred to third countries. Such controllers and processors are required to make binding
+and enforceable commitments, via contractual or other legally binding instruments, to apply the
+appropriate safeguards provided by the code including with regard to the rights of data subjects as
+required by Article 40-3. The guidelines provide elements that should be addressed in such
+commitments.
 
-     Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-     seguir designado por «RGPD»),
+It should also be noted that a code intended for transfers adhered to by a data importer in a third
+country can be relied on by controllers/processors subject to the GDPR (i.e. data exporter s) for
+complying with their obligations in case of transfers to third countries in accordance with the GDPR
+without the need for such controllers/processors to adhere to such code themselves.
 
-     Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-     foi dada pela Decisão do Comité Misto do EEE n.º 154/2018, de 6 de julho de 20182,
+In terms of content of a code intended for transfers and for the purpose of providing appropriate
+safeguards in the meaning of Article 46, a code of conduct should address the essential principles,
+rights and obligations arising under the GDPR for controllers/processors but also the guarantees that
+are specific to the context of transfers (such as with respect to the issue of onward transfers, conflict
+of laws in the third country). In light of safeguards provided by existing transfer tools under Article 46
+GDPR and to ensure consistency in the level of protection, as well as taking into account the CJEU
+Schrems II ruling 1 , the guidelines provide a check-list of the elements to be covered by a code of
+conduct intended for transfers.
 
-     Tendo em conta os artigos 12.º e 22.º do seu regulamento interno,
+A code of conduct may originally be drawn up only for the purpose of specifying the application of the
+GDPR in accordance with Article 40-2 (“GDPR code”) or also as a code intended for transfers in
+accordance with Article 40-3. As a consequence, depending on the original scope and content of the
+code, it may need to be amended in order to cover all of the above-mentioned elements if it is to be
+used as a tool for transfers.
 
-
-     ADOTOU AS SEGUINTES DIRETRIZES
-
-
-     1 OBJETIVO DAS DIRETRIZES
-1.   O objetivo das presentes diretrizes é especificar a aplicação do artigo 40.º, n.º 3, do RGPD relativo aos
-     códigos de conduta enquanto garantias adequadas para as transferências de dados pessoais para
-     países terceiros em conformidade com o artigo 46.º, n.º 2, alínea e), do RGPD. Visam igualmente
-     fornecer orientações práticas, nomeadamente sobre o conteúdo desses códigos de conduta, o seu
-     processo de adoção e as entidades envolvidas, bem como sobre os requisitos a cumprir e as garantias
-     a incluir num código de conduta para as transferências.
-
-2.   As presentes diretrizes devem ainda fornecer uma referência clara a todas as autoridades de controlo
-     (AC) e ao Comité, bem como assistir a Comissão Europeia (a seguir designada por «Comissão») na
-     avaliação coerente dos códigos e na simplificação dos procedimentos envolvidos no processo de
-     avaliação. Devem também proporcionar maior transparência, assegurando que os titulares de códigos
-     que pretendam obter aprovação para um código de conduta destinado a ser utilizado como
-     instrumento para as transferências [a seguir designado por «código(s) destinado(s) às transferências»]
-     estão plenamente cientes do processo e compreendem os requisitos formais e os limites adequados
-     necessários para a criação desse código de conduta.
-
-3.   As presentes diretrizes complementam as Diretrizes 1/2019 do CEPD relativas aos Códigos de Conduta
-     e aos Organismos de Supervisão ao abrigo do Regulamento (UE) 2016/679, que estabelecem o quadro
-     geral para a adoção de códigos de conduta (a seguir designadas «Diretrizes 1/2019»). As considerações
-     expostas nas Diretrizes 1/2019, nomeadamente no que se refere à admissibilidade, apresentação e
-     critérios de aprovação, são igualmente válidas no contexto da elaboração de códigos destinados às
-     transferências.
+These guidelines, which complement the EDPB Guidelines 1/2019 on Codes of Conduct and
+Monitoring Bodies under Regulation 2016/679, provide clarification as to the role of the different
+actors involved for the setting of a code to be used as a tool for transfers and the adoption process
+with flow charts.
 
 
+
+
+1Judgment of the Court (Grand Chamber) of 16 July 2020; Data Protection Commissioner v Facebook Ireland
+Limited and Maximillian Schrems.
+                                                                                             Page 3 of 16
+Adopted - After public consultation
+
+Table of contents
+EXECUTIVE SUMMARY ............................................................................................................3
+1     AIM OF THE GUIDELINES ..................................................................................................5
+2     WHAT ARE CODES OF CONDUCT AS A TOOL FOR TRANSFERS? ...............................................5
+3     WHAT SHOULD BE THE CONTENT OF A CODE OF CONDUCT AS A TOOL FOR TRANSFERS? ..........7
+4 WHO ARE THE ACTORS INVOLVED FOR THE SETTING UP OF A CODE TO BE USED AS A TOOL FOR
+TRANSFERS AND WHAT IS THEIR ROLE?.....................................................................................9
+    4.1     Code owner.............................................................................................................9
+    4.2     Monitoring body ......................................................................................................9
+    4.3     SAs....................................................................................................................... 10
+    4.4     EDPB .................................................................................................................... 10
+    4.5     Commission .......................................................................................................... 10
+5     ADOPTION PROCESS OF A CODE OF CONDUCT FOR TRANSFERS........................................... 10
+6     WHAT ARE THE GUARANTEES TO BE PROVIDED UNDER THE CODE? ..................................... 11
+    6.1     Binding and enforceable commitments to be implemented .......................................... 11
+    6.2     Check-list of elements to be included in a code of conduct intended for transfers ........... 13
+Annex 1 - ADOPTION OF CODE OF CONDUCT FOR TRANSFERS – FLOW CHART .............................. 15
+    a -Adoption of a transnational code intended for transfers ..................................................... 15
+    b- Amendments to a transnational code to be used as a code intended for transfers .................. 15
+
+
+
+
+                                                                                                                        Page 4 of 16
+Adopted - After public consultation
+
+     The European Data Protection Board
+
+     Having regard to Article 70 (1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+     the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+     “GDPR”),
+
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018, 2
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+
+     HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+     1 AIM OF THE GUIDELINES
+1.   The aim of these guidelines is to specify the application of Article 40-3 of the GDPR relating to codes
+     of conduct as appropriate safeguards for transfers of personal data to third countries in accordance
+     with Article 46-2-e) of the GDPR. They also aim to provide practical guidance including on the content
+     of such codes of conduct, their adoption process and the actors involved as well as the requirements
+     to be met and guarantees to be provided by a code of conduct for transfers.
+
+2.   These guidelines should further act as a clear reference for all SAs, the Board and assist the European
+     Commission (hereinafter “Commission”) in evaluating codes in a consistent manner and to streamline
+     the procedures involved in the assessment process. They should also provide greater transparency,
+     ensuring that code owners who intend to seek approval for a code of conduct intended to be used as
+     a tool for transfers (“code(s) intended for transfers” hereafter) are fully aware of the process and
+     understand the formal requirements and the appropriate thresholds required for setting up such a
+     code of conduct.
+
+3.   The present guidelines complement the EDPB Guidelines 1/2019 on Codes of Conduct and Monitoring
+     Bodies under Regulation 2016/679 which establish the general framework for the adoption of codes
+     of conduct (hereinafter “Guidelines 1/2019”). The considerations set out in Guidelines 1/2019 notably
+     regarding the admissibility, submission and criteria for approval are thus also valid in the context of
+     the preparation of codes intended for transfers.
+
+
+     2 WHAT ARE CODES OF CONDUCT AS A TOOL FOR TRANSFERS?
+4.   The GDPR requires in its Article 46 that controllers/processors shall put in place appropriate safeguards
+     for transfers of personal data to third countries or international organisations.
+
+5.   To that end, the GDPR diversifies the appropriate safeguards that may be used by organisations under
+     Article 46 for framing transfers to third countries by introducing amongst others, codes of conduct as
 
 
      2
-      As referências a «Estados-Membros» ao longo do presente documento devem ser entendidas como
-     referências a «Estados do EEE».
+      References to “Member States” made throughout this document should be understood as references to “EEA
+     Member States”.
 
 
-                                                                                              Página 5 de 17
-     Adotadas – Após consulta pública
+                                                                                                 Page 5 of 16
+     Adopted - After public consultation
 
-     2 O QUE SÃO OS CÓDIGOS DE CONDUTA ENQUANTO INSTRUMENTO
-       PARA AS TRANSFERÊNCIAS?
-4.   O RGPD exige, no seu artigo 46.º, que os responsáveis pelo tratamento/subcontratantes estabeleçam
-     garantias adequadas para as transferências de dados pessoais para países terceiros ou organizações
-     internacionais.
+     a new transfer mechanism (Articles 40-3 and 46-2-e). In this respect, as provided by Article 40-3, once
+     approved by the competent supervisory authority (hereafter “competent SA”) and having been
+     granted general validity within the Union by the Commission, a code of conduct may also be adhered
+     to and used by controllers or processors not subject to the GDPR located in third countries for the
+     purpose of providing appropriate safeguards to data transferred to third countries. Such controllers
+     and processors are required to make binding and enforceable commitments, via contractual or other
+     legally binding instruments, to apply the appropriate safeguards provided by the code including with
+     regard to the rights of data subjects as required by Article 40-3.
 
-5.   Para o efeito, o RGPD diversifica as garantias adequadas que podem ser utilizadas pelas organizações
-     ao abrigo do artigo 46.º para enquadrar as transferências para países terceiros, introduzindo,
-     nomeadamente, códigos de conduta enquanto novo mecanismo de transferência [artigo 40.º, n.º 3.º,
-     e artigo 46.º, n.º 2, alínea e)]. A este respeito, tal como previsto no artigo 40.º, n.º 3, uma vez aprovado
-     pela autoridade de controlo competente (a seguir designada por «AC competente») e após lhe ter sido
-     concedida aplicabilidade geral na União pela Comissão, um código de conduta pode também ser
-     adotado e utilizado pelos responsáveis pelo tratamento ou subcontratantes não sujeitos ao RGPD
-     situados em países terceiros, a fim de fornecer garantias adequadas para os dados transferidos para
-     países terceiros. Os responsáveis pelo tratamento e os subcontratantes são obrigados a assumir
-     compromissos vinculativos e com força executiva, por meio de instrumentos contratuais ou de outros
-     instrumentos juridicamente vinculativos, no sentido de aplicar as garantias adequadas previstas no
-     código, inclusivamente em relação aos direitos dos titulares dos dados, tal como exigido pelo
-     artigo 40.º, n.º 3.
+6.   Codes of conduct may be prepared by associations or other bodies representing categories of
+     controllers or processors (code owners) as specified by Article 40-2. As indicated in the Guidelines
+     1/2019, a non-exhaustive list of possible code owners would include: trade and representative
+     associations, sectoral organisations, academic organisations and interest groups. According to the
+     same Guidelines, codes intended for transfers could for instance be elaborated by bodies representing
+     a sector (e.g. association/federation from banking and finance, insurance sector) but could also be
+     drawn up for separate sectors which have a common processing activity sharing the same processing
+     characteristics and needs (e.g. HR code drawn up by association/federation of HR professionals, or
+     code on children’s data). Such codes would thus allow controllers, processors in third countries,
+     receiving data under the code, to frame these transfers while better addressing the specific processing
+     needs of their sector or common processing activities. As such, they could serve as a more adapted
+     tool compared to other transfer mechanisms that are available under Article 46. Codes of conduct to
+     be used as a tool for transfers will notably allow a given controller or processor in a third country to
+     providing appropriate safeguards for multiple transfers to a third country that are specific to a sector
+     or data processing activity. In addition, entities using the codes of conduct do not need to be within
+     the same group to frame their transfers (as is the case for BCRs).
 
-6.   Os códigos de conduta podem ser elaborados por associações ou outros organismos representantes
-     de categorias de responsáveis pelo tratamento ou de subcontratantes (titulares de códigos), tal como
-     especificado no artigo 40.º, n.º 2. Tal como indicado nas Diretrizes 1/2019, uma lista não exaustiva de
-     possíveis titulares de códigos poderia incluir: associações comerciais e representativas, organizações
-     setoriais, instituições universitárias e grupos de interesse. De acordo com as mesmas diretrizes, os
-     códigos destinados às transferências poderiam, por exemplo, ser elaborados por organismos que
-     representam um setor (por exemplo, uma associação/federação do setor bancário e financeiro ou dos
-     seguros), mas também poderiam ser elaborados para setores distintos que partilham uma atividade
-     de tratamento com as mesmas características e necessidades em matéria de tratamento (por exemplo,
-     um código de recursos humanos elaborado por uma associação/federação de profissionais de RH, ou
-     um código sobre dados de crianças). Esses códigos permitiriam, assim, aos responsáveis pelo
-     tratamento e subcontratantes em países terceiros que recebem dados ao abrigo do código, enquadrar
-     essas transferências e responder melhor às necessidades de tratamento específicas do seu setor ou a
-     atividades de tratamento comuns. Como tal, poderiam servir como um instrumento mais adaptado do
-     que outros mecanismos de transferência disponíveis ao abrigo do artigo 46.º. Os códigos de conduta
-     a utilizar como instrumento para as transferências permitirão, nomeadamente, a um determinado
-     responsável pelo tratamento ou subcontratante num país terceiro fornecer garantias adequadas para
-     múltiplas transferências para um país terceiro que sejam específicas de um setor ou de uma atividade
-     de tratamento de dados. Além disso, as entidades que utilizam os códigos de conduta não precisam
-     de estar dentro do mesmo grupo para enquadrar as suas transferências (como é o caso das regras
-     vinculativas aplicáveis às empresas).
-
-7.   Note-se igualmente que um código destinado às transferências adotado por um importador de dados
-     num país terceiro pode ser utilizado pelos responsáveis pelo tratamento/subcontratantes sujeitos ao
-     RGPD (ou seja, exportadores de dados) para cumprirem as suas obrigações em caso de transferências
-     para países terceiros em conformidade com o RGPD, sem necessidade de adotarem eles próprios esse
-     código. Por conseguinte, um código destinado às transferências pode enquadrar as transferências de
-     responsáveis pelo tratamento/subcontratantes que não adotaram esse código de conduta para
-                                                                                                 Página 6 de 17
-     Adotadas – Após consulta pública
-
-     responsáveis pelo tratamento/subcontratantes num país terceiro que tenham adotado esse código de
-     conduta, desde que seja incluído num instrumento vinculativo o compromisso de cumprir as
-     obrigações estabelecidas pelo código de conduta aquando do tratamento dos dados transferidos,
-     incluindo, em especial, no que respeita aos direitos dos titulares dos dados. Tal significa que o
-     importador de dados no país terceiro tem de adotar o código destinado às transferências, ao passo
-     que os exportadores de dados sujeitos ao RGPD não têm necessariamente de o fazer. Os grupos de
-     empresas que transferem dados de entidades sujeitas ao RGPD para fora do EEE podem também
-     utilizar um código de conduta como instrumento de transferência se as entidades fora do EEE tiverem
-     adotado esse código destinado às transferências e tiverem assumido compromissos vinculativos e com
-     força executiva relacionados com a transferência.
+7.   It should also be noted that a code intended for transfers adhered to by a data importer in a third
+     country can be relied on by controllers/processors subject to the GDPR (i.e. data exporter) for
+     complying with their obligations in case of transfers to third countries in accordance with the GDPR
+     without the need for such controller/processors to adhere to such code themselves. Therefore, a code
+     intended for transfers could frame transfers from controller/processors that do not adhere to that
+     code of conduct to controller/processors in a third country having adhered to that code of conduct,
+     provided that a commitment to comply with the obligations set forth by the code of conduct when
+     processing the transferred data, including, in particular, with regard to the rights of data subjects, is
+     included in a binding instrument. This means that the data importer in the third country has to adhere
+     to the code intended for transfers whereas data exporters subject to the GDPR do not necessarily have
+     to adhere to such code. Groups of companies transferring data from entities subject to the GDPR to
+     those outside of the EEA may also use a code of conduct as a transfer tool where the entities outside
+     the EEA have adhered to that code intended for transfers and have undertaken binding and
+     enforceable commitments related to the transfer.
 
 
 
-         Exemplo n.º 13: A empresa XYZ está sedeada em Itália e tem filiais na Alemanha, nos Países Baixos,
-         em Espanha e na Bélgica. Para efeitos de gestão das ferramentas informáticas utilizadas pelo grupo,
-         a empresa XYZ utiliza os serviços de um prestador de serviços de computação em nuvem
-         estabelecido num país terceiro sem presença na UE. Os dados tratados no âmbito da utilização de
-         ferramentas informáticas implicam transferências de dados da empresa XYZ e das suas filiais para o
-         prestador de serviços de computação em nuvem, para efeitos de armazenamento de dados. Uma
-         vez que o prestador de serviços de computação em nuvem no país terceiro adotou um código de
-         conduta a utilizar como instrumento para as transferências relacionadas com serviços de
-         computação em nuvem aprovado nos termos do artigo 40.º, n.º 5, os fluxos de dados da empresa
-         XYZ e das suas filiais para o prestador de serviços de computação em nuvem podem ser enquadrados
-         pelo código de conduta que o prestador de serviços de computação em nuvem adotou. Neste caso,
-         a utilização de um código de conduta pelo prestador de serviços de computação em nuvem, em vez
-         de outros instrumentos de transferência, como as regras vinculativas aplicáveis às empresas,
-         afigura-se mais adequada, uma vez que um código de conduta não exige que o responsável pelo
-         tratamento/subcontratante que atua como importador tenha uma presença no EEE, ao passo que
-         um grupo de empresas tem de ter uma presença no EEE para poder utilizar regras vinculativas
-         aplicáveis às empresas. O código de conduta apresenta igualmente benefícios no tratamento de
-         múltiplas transferências de dados através de um instrumento único, em comparação com soluções
-         (totalmente) contratuais, como as cláusulas contratuais-tipo.
-
-
-
-8.   Um código destinado às transferências pode também enquadrar as transferências de responsáveis
-     pelo     tratamento/subcontratantes         sujeitos    ao    RGPD      para    responsáveis pelo
-     tratamento/subcontratantes no país terceiro que tenham aderido ao mesmo código de conduta para
-     as transferências, desde que, em qualquer caso, tal como explicado supra, seja incluído num
-     instrumento vinculativo o compromisso de cumprir as obrigações do código de conduta, incluindo no
-     que diz respeito aos direitos dos titulares dos dados, tal como consagrados no RGPD.
-
-
-
-         Exemplo n.º 2: Uma associação que representa categorias de responsáveis pelo
-         tratamento/subcontratantes envolvidos no mesmo tipo de atividades de investigação no setor da
-         saúde e que envolvem transferências regulares de dados para responsáveis pelo
-         tratamento/subcontratantes de países terceiros elabora um código de conduta que também se
+         Example n°13 : Company XYZ is headquartered in Italy and has affiliates in Germany, the Netherlands,
+         Spain and Belgium. For the purpose of managing the IT tools used by the group, Company XYZ uses
+         the services of a cloud service provider based in a third country with no presence in the EU. Data
+         processed as part of the use of IT tools involves transfers of data from Company XYZ and its affiliates
 
      3
-      Este exemplo não prejudica as Recomendações 01/2020 do CEPD relativas às medidas complementares aos
-     instrumentos de transferência.
+      The example is without prejudice to EDPB Recommendations 01/2020 on measures that supplement transfer
+     tools.
 
-                                                                                              Página 7 de 17
-     Adotadas – Após consulta pública
+                                                                                                    Page 6 of 16
+     Adopted - After public consultation
 
-          destina a ser utilizado como instrumento para as transferências. Os responsáveis pelo
-          tratamento/subcontratantes relevantes no EEE aderem a este código de conduta, o mesmo
-          acontecendo com os responsáveis pelo tratamento/subcontratantes de países terceiros. As
-          transferências de dados para responsáveis pelo tratamento/subcontratantes de países terceiros no
-          âmbito das atividades de investigação podem ser enquadradas por este código de conduta.
-
-
-
-9.    Na medida em que é muito provável que os códigos destinados às transferências sejam utilizados pelas
-      entidades relevantes para enquadrar as transferências a partir de mais do que um Estado-Membro e
-      tendo em conta que esses códigos de conduta devem ser de aplicabilidade geral nos termos do
-      artigo 40.º, n.º 9, do RGPD, os mesmos serão, enquanto tal, considerados «códigos transnacionais»,
-      na aceção das Diretrizes 1/20194.
+          to the cloud service provider, for the purpose of storage of data. As the cloud service provider in the
+          third country has adhered to a code of conduct to be used as a tool for transfers relating to cloud
+          services approved under Article 40-5, data flows from Company XYZ and its affiliates to the cloud
+          service provider can be framed with the code of conduct to which the cloud service provider has
+          adhered. In this case, the use of a code of conduct by the cloud service provider instead of other
+          transfer tools such as BCRs appears more appropriate to the extent that a code of conduct does not
+          require the controller/processor acting as importers to have a presence in the EEA while a presence
+          in the EEA is required for a group of companies for using BCRs. The code of conduct also presents
+          benefits for addressing multiple transfers of data with a single tool compared to (fully) contractual
+          solutions such as SCCs.
 
 
-      3 QUAL DEVE SER O CONTEÚDO DE UM CÓDIGO DE CONDUTA
-        ENQUANTO INSTRUMENTO PARA AS TRANSFERÊNCIAS?
-10.   Tal como acima referido, um código de conduta destinado às transferências é um dos instrumentos
-      que podem ser utilizados pelas organizações que realizam atividades específicas de tratamento de
-      dados — por exemplo, no âmbito de um setor específico ou de uma atividade de tratamento comum
-      que partilham as mesmas características e necessidades em matéria de tratamento — para fornecer
-      garantias adequadas para as transferências de dados pessoais para um país terceiro, em conformidade
-      com o artigo 46.º.
 
-11.   Além disso, as disposições do artigo 40.º, n.º 3, que referem o facto de os códigos destinados às
-      transferências poderem ser aplicados por responsáveis pelo tratamento/subcontratantes não sujeitos
-      ao RGPD nos termos do artigo 3.º, sugerem que os códigos destinados a transferências são, no seu
-      todo ou em parte, mais especificamente concebidos para responsáveis pelo
-      tratamento/subcontratantes de países terceiros. Por conseguinte, de acordo com o CEPD, o objetivo
-      de um código destinado às transferências deve ser o de estabelecer também as regras que terão de
-      ser cumpridas pelo responsável pelo tratamento/subcontratante do país terceiro (o importador de
-      dados) para assegurar que os dados pessoais são adequadamente protegidos em conformidade com
-      os requisitos do capítulo V do RGPD quando são tratados por esse responsável/subcontratante do país
-      terceiro (ou seja, o importador de dados).
+8.    A code intended for transfers could also frame transfers from controllers/processors subject to the
+      GDPR to controllers/processors in the third country having adhered to the same code of conduct for
+      transfers, provided in any case as explained above that a commitment to comply with the obligations
+      of the code of conduct including with respect to the rights of data subjects, as they are enshrined in
+      the GDPR, is included in a binding instrument.
 
-12.   Mais especificamente em termos de conteúdo, a fim de fornecer garantias adequadas na aceção do
-      artigo 46.º, devem ser abordados os seguintes elementos:
 
-           - Princípios, direitos e obrigações essenciais decorrentes do RGPD para os responsáveis pelo
-             tratamento/subcontratantes; e
 
-           - Garantias específicas do contexto das transferências (por exemplo, no que diz respeito à questão
-             das transferências ulteriores, conflitos de leis no país terceiro).
+          Example n°2: An association representing categories of controllers/processors involved in the same
+          type of research activities for the health sector and involving regular transfers of data to third
+          country controllers/processors develop a code of conduct which is also intended to be used as a tool
+          for transfers. Relevant controllers/processors in the EEA adhere to this code of conduct which is also
+          being adhered to by third country controllers/processors. The transfers of data to third country
+          controllers/processors as part of the research activities can be framed with this code of conduct.
 
-13.   A este respeito, importa salientar que um código de conduta pode ser originalmente elaborado com o
-      único propósito de especificar a aplicação do RGPD, em conformidade com o artigo 40.º, n.º 2 («código
+
+
+9.    To the extent that it is most likely that codes intended for transfers would be used by relevant entities
+      for framing transfers from more than one Member State and considering that those codes of conduct
+      should have general validity according to Article 40-9 GDPR, they would as such qualify as
+      “transnational codes” as defined in the Guidelines 1/20194 .
+
+
+      3 WHAT SHOULD BE THE CONTENT OF A CODE OF CONDUCT AS A
+        TOOL FOR TRANSFERS?
+10.   As set out above, a code of conduct intended for transfers is one of the tools that can be used by
+      organisations performing particular data processing activities - e.g. within a specific sector or a
+      common processing activity which share the same processing characteristics and needs - for providing
+      appropriate safeguards for transfers of personal data to a third country in accordance with Article 46.
+11.   Also, the provisions of Article 40-3, which refer to the fact that codes intended for transfers may be
+      adhered to by controllers/processors not subject to the GDPR under Article 3, suggest that codes
+      intended for transfers are, in part, or as a whole, more specifically designed for third country
+      controllers/processors. Therefore, according to the EDPB, the object of a code intended for transfers
 
 
       4
-        Os códigos transnacionais referem-se a um código que abrange as atividades de tratamento realizadas em
-      mais do que um Estado-Membro. Ver Diretrizes 1/2019, Apêndice 1 — Distinção entre códigos nacionais e
-      transnacionais.
+       Transnational codes refer to a code which covers processing activities in more than one Member State. See
+      Guidelines 1/2019, Appendix 1 – Distinction between national and transnational codes.
 
-                                                                                                  Página 8 de 17
-      Adotadas – Após consulta pública
+                                                                                                     Page 7 of 16
+      Adopted - After public consultation
 
-      RGPD»), ou também como um código destinado às transferências, em conformidade com o artigo 40.º,
-      n.º 3. Consequentemente, dependendo do âmbito de aplicação e do conteúdo do código
-      originalmente especificados, pode ser necessário alterá-lo, a fim de abranger todos os elementos
-      acima referidos, se for utilizado como instrumento para as transferências.
+      should be to set out also the rules that will need to be complied with by the third country
+      controller/processor (the data importer) to ensure that personal data is adequately protected in line
+      with the requirements of Chapter V GDPR when being processed by such third country
+      controller/processor (i.e. data importer).
 
+12.   More specifically in terms of content, for the purpose of providing appropriate safeguards in the
+      meaning of Article 46, the following elements need to be addressed:
 
+            - Essential principles, rights and obligations arising under the GDPR for controllers/processors;
+              and
 
-          Exemplo n.º 3: A associação ABC, que reúne organizações que operam no setor do marketing direto
-          a nível da UE, adotou um código de conduta que visa especificar a aplicação do princípio da
-          transparência e dos requisitos associados ao abrigo do RGPD como parte das atividades de
-          tratamento para esse setor. A associação pretende utilizar este código de conduta como
-          instrumento para enquadrar as transferências fora do EEE. Na medida em que o código de conduta
-          se centra no princípio da transparência, o mesmo teria de ser alterado a fim de abranger também
-          as garantias adequadas exigidas para as transferências internacionais de dados pessoais, todos os
-          princípios essenciais e requisitos principais decorrentes do RGPD (que não a transparência), bem
-          como as garantias específicas do contexto das transferências, a fim de obter a aprovação desse
-          código como um código destinado às transferências.
+            - Guarantees that are specific to the context of transfers (such as with respect to the issue of
+              onward transfers, conflict of laws in the third country).
 
-
-
-14.   Em qualquer caso, em consonância com os esclarecimentos prestados pelo CEPD nas suas
-      Diretrizes 1/2019, todos os elementos que forneçam as garantias adequadas, tal como acima referido,
-      terão de ser estabelecidos no código de modo a facilitar a sua aplicação efetiva e especificar a forma
-      como se aplicam, na prática, à atividade de tratamento ou setor específico5.
-
-15.   Na secção 6 das presentes diretrizes, é fornecida e explicada uma lista de verificação dos elementos a
-      incluir num código destinado às transferências para que possa ser considerado como fornecendo as
-      garantias adequadas.
+13.   In this regard, it is worth noting that a code of conduct may originally be drawn up only for the purpose
+      of specifying the application of the GDPR in accordance with Article 40-2 (“GDPR code”) or also as a
+      code intended for transfers in accordance with Article 40-3. As a consequence, depending on the
+      original scope and content of the code, it may need to be amended in order to cover all of the above-
+      mentioned elements if it is to be used as a tool for transfers.
 
 
-      4 QUAIS SÃO AS ENTIDADES ENVOLVIDAS NA CRIAÇÃO DE UM
-        CÓDIGO A UTILIZAR COMO INSTRUMENTO PARA AS
-        TRANSFERÊNCIAS E QUAL É O SEU PAPEL?
-      4.1 Titular do código
-16.   O titular do código é a entidade, associação/federação ou outro organismo que irá elaborar um código
-      de conduta destinado às transferências ou alterar um «código RGPD» aprovado para o utilizar como
-      instrumento para as transferências e submetê-lo à aprovação da AC competente6.
 
-      4.2 Organismo de supervisão
-17.   Tal como em qualquer código de conduta, é necessário que um organismo de supervisão seja
-      identificado no âmbito de um código destinado às transferências e acreditado pela AC competente,
-      em conformidade com o artigo 41.º. Mais precisamente, o seu papel consistirá em verificar se os
+          Example n°3: Association ABC gathering organisations operating in the direct marketing sector at
+          EU level has adopted a code of conduct which aims at specifying the application of the transparency
+          principle and associated requirements under the GDPR as part of the processing activities for such
+          sector. The Association wishes to use this code of conduct as a tool for framing transfers outside the
+          EEA. To the extent that the code of conduct is focused on the transparency principle, it would need
+          to be amended in order to cover additionally the appropriate safeguards that are required for
+          international transfers of personal data, all essential principles and main requirements arising under
+          the GDPR (other than transparency) as well as include guarantees that are specific to the context of
+          transfers in order to obtain approval for such code as a code intended for transfers.
+
+
+
+14.   In any event, in line with the clarifications provided by the EDPB in its Guidelines 1/2019, all elements
+      providing for appropriate safeguards as referred above will need to be set out in the code in a manner
+      that facilitates their effective application and specifies how they apply in practice to the specific
+      processing activity or sector 5 .
+
+15.   A check-list of the elements to be included in a code intended for transfers so that it can be considered
+      as providing appropriate safeguards is further provided and explained under section 6 of the present
+      guidelines.
 
 
 
 
       5
-       Ver Diretrizes 1/2019, secção 6.
+          See Guidelines 1/2019, section 6.
+
+                                                                                                    Page 8 of 16
+      Adopted - After public consultation
+
+      4 WHO ARE THE ACTORS INVOLVED FOR THE SETTING UP OF A CODE
+        TO BE USED AS A TOOL FOR TRANSFERS AND WHAT IS THEIR
+        ROLE?
+      4.1 Code owner
+16.   The code owner is the entity, association/federation or other body that will prepare a code of conduct
+      intended for transfers or amend an approved “GDPR code” for using it as a tool for transfers and submit
+      it to the competent SA for approval6 .
+
+      4.2 Monitoring body
+17.   As for any code of conduct, a monitoring body will need to be identified as part of a code intended for
+      transfers and accredited by the competent SA in line with Article 41. More precisely, its role will be to
+      monitor that third country controllers/processors having adhered to such code comply with the rules
+      set out in the code7 .
+
+18.   Considering that codes of conduct intended for transfers are also or more specifically aimed for third
+      country controllers/processors, it has to be made sure that monitoring bodies are capable of
+      effectively monitoring the code as specified in the Guidelines 1/2019. Monitoring bodies acting in the
+      framework of codes for transfers could be located either only inside or also outside of the EEA provided
+      that the concerned monitoring body has an establishment in the EEA. In this context, the monitoring
+      body’s establishment in the EEA shall be the one where the headquarters of the monitoring body are,
+      or the place where the final decisions concerning monitoring activities are taken and also requires that
+      an EEA entity shall be able to control the monitoring body’s entities outside the EEA and demonstrate
+      full accountability for all decisions and actions (including its liability for any breaches).
+
+19.   In addition, a monitoring body in the EEA may subcontract its activities to an external entity outside
+      the EEA, acting on its behalf, provided that such entity maintains the same competence and expertise
+      as required by the code of conduct as well as by the accreditation requirements, and that the EEA
+      monitoring body is able to ensure effective control over the services provided by the contracting entity
+      and retains the decision-making power about monitoring activities. In order to ensure compliance with
+      this accreditation requirements when the monitoring body subcontracts parts of its tasks, the
+      monitoring body shall establish a contract or any other legal act under European Union law binding on
+      the subcontractor with regard to the monitoring body in such a way that all subcontracted tasks will
+      meet the requirements of the GDPR. Recourse to subcontracting does not result in the delegation of
+      responsibilities: in any case, the monitoring body remains responsible for monitoring compliance with
+      the code of conduct to the supervisory authority. The monitoring body ensures that all subcontractors
+      meet the requirements set out by this accreditation requirements document, notably as regards
+      independence, absence of conflict of interest and expertise. The monitoring body includes a specific
+      clause in the contract signed with subcontractors to ensure the confidentiality of personal data that
+      may, where applicable, be disclosed to the subcontractor during the monitoring tasks and puts in place
+      appropriate safeguards in case of transfer of such personal data to its subcontractors.
+
+
+
       6
-       Para mais informações sobre os requisitos relativos ao titular do código, consultar a definição de titular do
-      código na secção 2 e na secção 5.3 das Diretrizes 1/2019.
-
-                                                                                                       Página 9 de 17
-      Adotadas – Após consulta pública
-
-      responsáveis pelo tratamento/subcontratantes de países terceiros que aderiram a esse código
-      cumprem as regras nele estabelecidas7.
-
-18.   Tendo em conta que os códigos de conduta destinados às transferências visam igualmente ou mais
-      especificamente os responsáveis pelo tratamento/subcontratantes de países terceiros, é necessário
-      garantir que os organismos de supervisão são capazes de controlar eficazmente o cumprimento do
-      código, tal como especificado nas Diretrizes 1/2019. Os organismos de supervisão que atuam no
-      âmbito de códigos para as transferências podem estar localizados apenas dentro ou também fora do
-      EEE, desde que o organismo de supervisão em causa tenha um estabelecimento no EEE. Neste
-      contexto, o estabelecimento do organismo de supervisão no EEE é o local onde se situa a sua sede ou
-      o local onde são tomadas as decisões finais relativas às atividades de supervisão, exigindo igualmente
-      que uma entidade do EEE seja capaz de controlar as entidades do organismo de supervisão fora do EEE
-      e demonstrar plena responsabilidade por todas as decisões e ações (incluindo a sua responsabilidade
-      por eventuais violações).
-
-19.   Além disso, um organismo de supervisão no EEE pode subcontratar as suas atividades a uma entidade
-      externa fora do EEE, agindo em seu nome, desde que essa entidade mantenha as mesmas
-      competências e conhecimentos especializados exigidos pelo código de conduta, bem como pelos
-      requisitos de acreditação, e que o organismo de supervisão do EEE seja capaz de assegurar um controlo
-      efetivo dos serviços prestados pela entidade contratante e mantenha o poder de decisão sobre as
-      atividades de supervisão. A fim de assegurar a conformidade com estes requisitos de acreditação
-      quando o organismo de supervisão subcontrata partes das suas tarefas, deve ser celebrado um
-      contrato ou qualquer outro ato jurídico ao abrigo do direito da União Europeia que vincule o
-      subcontratante perante o organismo de supervisão, de modo a que todas as tarefas subcontratadas
-      cumpram os requisitos do RGPD. O recurso à subcontratação não resulta na delegação de
-      responsabilidades: em qualquer caso, o organismo de supervisão continua a ser responsável pelo
-      controlo do cumprimento do código de conduta perante a autoridade de controlo. O organismo de
-      supervisão assegura que todos os subcontratantes cumprem os requisitos estabelecidos neste
-      documento relativo aos requisitos de acreditação, nomeadamente no que diz respeito à
-      independência, às competências e à ausência de conflitos de interesses. O organismo de supervisão
-      inclui uma cláusula específica no contrato assinado com os subcontratantes, a fim de assegurar a
-      confidencialidade dos dados pessoais que possam, se for caso disso, ser divulgados ao subcontratante
-      durante as tarefas de controlo e estabelece garantias adequadas em caso de transferência desses
-      dados pessoais para os seus subcontratantes.
-
-      4.3 AC
-20.   Em conformidade com o artigo 40.º, n.º 5, o papel da AC competente consistirá em aprovar o projeto
-      de código de conduta destinado às transferências ou as alterações ao mesmo para a sua utilização
-      enquanto instrumento para as transferências, bem como acreditar o organismo de supervisão
-      identificado no âmbito do código no que respeita a requisitos de acreditação adicionais relativos a
-      códigos de conduta para as transferências.
-
-      4.4 CEPD
-21.   Em conformidade com o artigo 40.º, n.º 7, e o artigo 64.º, n.º 1, alínea b), o CEPD será convidado a
-      emitir um parecer sobre o projeto de decisão de uma AC que visa aprovar um código destinado às
-
-
+        For further details on the requirements relating to the code owner, please refer to the definition of code
+      owner in section 2 and section 5.3 of Guidelines 1/2019.
       7
-       Para mais informações sobre a necessidade de criar um organismo de supervisão ao abrigo de um código de
-      conduta, consultar as secções 11 e 12 das Diretrizes 1/2019.
+        For further details on the need to set up a monitoring body under a code of conduct, please refer to sections
+      11 and 12 of Guidelines 1/2019.
 
-                                                                                               Página 10 de 17
-      Adotadas – Após consulta pública
+                                                                                                        Page 9 of 16
+      Adopted - After public consultation
 
-      transferências ou a alteração de um código de conduta para a sua utilização também como
-      instrumento para as transferências8.
+      4.3 SAs
+20.   In accordance with Article 40-5, the role of the competent SA will be to approve the draft code of
+      conduct intended for transfers or amendments to it for using it as a tool for transfers and to accredit
+      the monitoring body identified as part of the code with respect to additional accreditation
+      requirements relating to codes of conduct for transfers.
 
-      4.5 Comissão
-22.   Tal como previsto no artigo 40.º, n.º 9, a Comissão pode decidir, mediante a adoção de um ato de
-      execução, que um código destinado às transferências e aprovado por uma AC tem aplicabilidade geral
-      na União. Só os códigos a que tenha sido concedida aplicabilidade geral na União podem ser invocados
-      para enquadrar as transferências.
+      4.4 EDPB
+21.   In accordance with Articles 40-7 and 64-1-b, the EDPB will be asked to provide an opinion on the draft
+      decision of a SA aiming to approve a code intended for transfers or amendment to a code of conduct
+      for using it also as a tool for transfers8 .
 
-
-      5 PROCESSO DE ADOÇÃO DE UM CÓDIGO DE CONDUTA PARA AS
-        TRANSFERÊNCIAS
-23.   Resulta do artigo 40.º, n.º 5, e do artigo 40.º, n.º 9, que, para ser adotado, um código destinado às
-      transferências deve primeiro ser aprovado por uma AC competente no EEE e, em seguida, reconhecido
-      pela Comissão como sendo de aplicabilidade geral na União através de um ato de execução.
-
-24.   Tal como referido na secção 2 supra, na medida em que é muito provável que os códigos destinados
-      às transferências sejam utilizados pelos responsáveis pelo tratamento/subcontratantes para
-      enquadrar as transferências a partir de mais do que um Estado-Membro, os mesmos serão
-      considerados «códigos transnacionais» e devem seguir o procedimento de aprovação dos códigos
-      transnacionais, incluindo a necessidade de um parecer do CEPD, tal como especificado na secção 8 e
-      no anexo 4 das Diretrizes 1/20199. Na prática, podem surgir diferentes cenários quando uma
-      associação/federação ou outro organismo pretende adotar um código de conduta para as
-      transferências:
+      4.5 Commission
+22.   As provided by Article 40-9, the Commission may decide by adopting an implementing act that a code
+      intended for transfers and approved by a SA has general validity within the Union. Only those codes
+      having been granted general validity within the Union may be relied upon for framing transfers.
 
 
-          - Um projeto de código é concebido como um «código RGPD» e destina-se a ser utilizado como
-            instrumento de transferência por parte de responsáveis pelo tratamento/subcontratantes de
-            países terceiros. Esse projeto de código terá primeiro de ser aprovado pela AC competente de
-            acordo com o procedimento aplicável aos códigos transnacionais, que prevê a emissão de um
-            parecer do Comité, e, em seguida, reconhecido pela Comissão como sendo de aplicabilidade
-            geral na União, em conformidade com o artigo 40.º, n.º 9. Após a conclusão destas etapas, os
-            responsáveis pelo tratamento/subcontratantes em países terceiros podem aderir ao código e
-            este pode ser utilizado para fornecer garantias adequadas para as transferências de dados para
-            países terceiros.
+      5 ADOPTION PROCESS OF A CODE OF CONDUCT FOR TRANSFERS
+23.   It results from Articles 40-5 and 40-9 that to be adopted, a code intended for transfers shall first be
+      approved by a competent SA in the EEA and then recognized by the Commission as having general
+      validity within the Union by way of implementing act.
 
-          - Um código de conduta é inicialmente concebido e aprovado como «código RGPD». Este código
-            é depois alargado com vista a ser também utilizado como instrumento de transferência por
-            parte de responsáveis pelo tratamento/subcontratantes de países terceiros. A alteração do
-            código relativo às transferências terá de ser submetida à aprovação da AC competente, que
-            seguirá o procedimento aplicável aos códigos transnacionais que prevê a emissão de um parecer
-            do Comité. O código alterado terá então de ser reconhecido pela Comissão como sendo de
-            aplicabilidade geral na União, em conformidade com o artigo 40.º, n.º 9, após o que os
+24.   As mentioned in section 2 above, to the extent that codes intended for transfers are most likely to be
+      used by controllers/processors for framing transfers from more than one Member State, they would
+      as such qualify as “transnational codes” and should follow the procedure for approval for transnational
+      codes, including the need for an Opinion from the EDPB, as specified in section 8 and Annex 4 of the
+      Guidelines 1/20199 . In practice different scenarios may arise when an association/federation or other
+      body intends to adopt a code of conduct for transfers:
+
+
+          - A draft code is designed as a “GDPR code” as well as intended to be used as a tool for transfers
+            by third country controller/processors. Such draft code would first need to be approved by the
+            competent SA according to the procedure for transnational codes, including an Opinion from
+            the Board, and then recognized by the Commission as having general validity within the Union
+            in accordance with Article 40-9. After completion of these steps, controllers/processors in third
+            country may adhere to the code and the code may be used for providing appropriate safeguards
+            for transfers of data to third countries.
+
+          - A code of conduct is initially designed and approved as a “GDPR code”. Such code is further
+            expanded in view of being also used as a tool for transfers by third country
+            controller/processors. The amendment to the code relating to transfers will need to be
+            submitted to the competent SA for approval which will follow the procedure for transnational
+            codes involving an Opinion from the Board. The amended code will then need to be recognized
 
       8
-        Ver Documento do CEPD relativo ao procedimento para o desenvolvimento de sessões informais sobre Códigos
-      de
-      Conduta https://edpb.europa.eu/sites/default/files/files/file1/edpb_documentprocedurecodesconductsession
-      s_pt.pdf.
-      9
-        Ver Diretrizes 1/2019, Apêndice 1 — Distinção entre códigos nacionais e transnacionais.
-
-                                                                                               Página 11 de 17
-      Adotadas – Após consulta pública
-
-            responsáveis pelo tratamento/num país terceiro podem aderir a esse código e utilizá-lo para
-            fornecer garantias adequadas para as transferências de dados pessoais para países terceiros.
-
-25.   Um fluxograma incluído no anexo das diretrizes especifica as etapas processuais para a adoção de um
-      código de conduta destinado às transferências, tendo em conta os cenários possíveis acima referidos.
+         See the EDPB Document on the procedure for the development of informal “Codes of Conduct
+      sessions” https://edpb.europa.eu/sites/default/files/files/file1/edpb_documentprocedurecodesconductsessio
+      ns_en.pdf.
+      9 See Guidelines 1/2019, Appendix 1 – Distinction between national and transnational codes.
 
 
-      6 QUAIS SÃO AS GARANTIAS A FORNECER AO ABRIGO DO CÓDIGO?
-      6.1 Compromissos vinculativos e com força executiva a assumir
-26.   O RGPD exige, no seu artigo 40.º, n.º 3, que os responsáveis pelo tratamento e os subcontratantes não
-      sujeitos ao RGPD que adiram a um código destinado às transferências assumam compromissos
-      vinculativos e com força executiva, através de instrumentos contratuais ou de outros instrumentos
-      juridicamente vinculativos, no sentido de aplicar as garantias adequadas previstas no código,
-      incluindo, em especial, no que respeita aos direitos dos titulares dos dados.
+                                                                                                Page 10 of 16
+      Adopted - After public consultation
 
-27.   Tal como especificado no RGPD, esses compromissos podem ser assumidos através de um contrato, o
-      que parece ser a solução mais simples. Poderão também ser utilizados outros instrumentos, desde que
-      esses responsáveis pelo tratamento/subcontratantes que aderem ao código consigam demonstrar o
-      caráter vinculativo e executório desses outros meios.
+            by the Commission as having general validity within the Union in accordance with Article 40-9
+            after which controllers/in third country may adhere to such code and use it for providing
+            appropriate safeguards for transfers of personal data to third countries.
+25.   A flow chart set out in the annex to the guidelines details the procedural steps for adopting a code of
+      conduct intended for transfer in consideration of the above possible scenarios.
 
-28.   Em qualquer caso, o instrumento deve ter uma natureza vinculativa e executória em conformidade
-      com o direito da UE e deve também ser vinculativo e oponível pelos titulares dos dados enquanto
-      terceiros beneficiários.
 
-29.   Um código de conduta utilizado como instrumento de transferência pode ter membros situados no
-      EEE, bem como membros situados fora do EEE. Uma distinção entre os membros do código situados
-      no EEE e os membros do código situados fora do EEE é a aplicação direta do RGPD aos primeiros, mas
-      não aos segundos (desde que estes últimos não sejam abrangidos pelo artigo 3.º, n.º 2, do RGPD).
+      6 WHAT ARE THE GUARANTEES TO BE PROVIDED UNDER THE CODE?
+      6.1 Binding and enforceable commitments to be implemented
+26.   The GDPR requires in its Article 40-3 that controllers and processors not subject to the GDPR adhering
+      to a code intended for transfers take binding and enforceable commitments, via contractual or other
+      legally binding instruments, to apply the appropriate safeguards provided by the code including , in
+      particular, with regard to the rights of data subjects.
 
-30.   No que diz respeito aos membros do código situados fora do EEE, é necessário assegurar que o seu
-      compromisso de observar um «nível específico de proteção de dados» garante que o nível de proteção
-      de dados previsto no RGPD não é comprometido. Trata-se de um pré-requisito da sua elegibilidade
-      para participar no código de conduta enquanto instrumento de transferência.
+27.   As specified by the GDPR, such commitments may be taken by using a contract, which appears as the
+      most straightforward solution. Other instruments could also be used, provided that these
+      controller/processors adhering to the code are able to demonstrate the binding and enforceable
+      character of such other means.
 
-31.   Para o efeito, pode ser assinado um contrato pelo responsável pelo tratamento/subcontratante no
-      país terceiro (ou seja, o importador de dados) com, por exemplo, a entidade que transfere os dados
-      ao abrigo do código (ou seja, o exportador de dados). Na prática, é possível recorrer a um contrato
-      existente (por exemplo, um acordo de serviços entre o exportador e o importador de dados ou o
-      contrato a celebrar em conformidade com o artigo 28.º do RGPD no caso de subcontratantes
-      importadores), no qual poderiam ser incluídos os compromissos vinculativos e com força executiva.
-      Outra opção seria recorrer a um contrato separado, incluindo no código destinado às transferências
-      um modelo de contrato que teria de ser assinado, por exemplo, pelos responsáveis pelo
-      tratamento/subcontratantes no país terceiro e por todos os seus exportadores de dados.
+28.   In any event, the instrument needs to have a binding and enforceable nature in accordance with EU
+      law and should also be binding and enforceable by data subjects as third-party beneficiaries.
 
-32.   Deve haver flexibilidade para escolher a opção mais adequada em função da situação específica.
+29.   A code of conduct as a transfer tool can have Code members located in the EEA, as well as Code
+      members located outside the EEA. A distinction between Code members located in the EEA and Code
+      members located outside the EEA is the direct application of the GDPR to the former but not the latter
+      (provided that the latter does not fall under Article 3.2 GDPR).
 
-33.   Caso o código de conduta se destine a ser utilizado para transferências e transferências ulteriores de
-      um subcontratante para subcontratantes ulteriores, deve também ser feita referência ao código de
-      conduta e ao instrumento que prevê compromissos vinculativos e com força executiva no acordo de
+30.   As regards the Code members located outside the EEA, there is a need to ensure that their
+      commitment to adhere to a “specified level of data protection” guarantees that the level of data
+      protection provided for in the GDPR is not undermined. This is a prerequisite for their eligibility to
+      participate in the code of conduct as a transfer tool.
+
+31.   To this end, a contract could be signed by the controller/processor in the third country (i.e. the data
+      importer) with, for example, the entity transferring data under the code (i.e. data exporter). In practice,
+      it could use an existing contract if any (e.g. service agreement between the exporter and the data
+      importer or the contract to be put in place in accordance with Article 28 GDPR in case of importer-
+      processors) in which the binding and enforceable commitments could be included. Another option
+      could be to rely on a separate contract by adding to the code intended for transfers a model contract
+      that would need to be then signed by, for instance, controllers/processors in the third country and all
+      of its data exporters.
+
+32.   There should be flexibility to choose the most appropriate option depending on the specific situation.
+
+33.   When the code of conduct is to be used for transfers and onward transfers by a processor to sub-
+      processors, a reference to the code of conduct and the instrument providing for binding and
+      enforceable commitments should also be made in the processor agreement signed between the
+      processor and its controller, where possible.
 
 
 
-                                                                                            Página 12 de 17
-      Adotadas – Após consulta pública
 
-      subcontratação assinado entre o subcontratante e o seu responsável pelo tratamento, sempre que
-      possível.
+                                                                                                  Page 11 of 16
+      Adopted - After public consultation
 
-      Compromissos vinculativos e com força executiva assumidos pelo importador de dados (exemplo)
+      Binding and enforceable commitments by the data importer (example)
 
 
-       Responsável pelo                                              Responsável pelo tratamento ou
-      tratamento sujeito            TRANSFERÊNCIA                  subcontratante na Índia não sujeito
-           ao RGPD                                                  ao RGPD, que adere ao código de
-                                                                   conduta destinado às transferências
-        (exportador de
-                                                                         (importador de dados)
-            dados)
-                              Contrato com compromissos
-                              vinculativos e com força
-                              executiva
+      Controller subject                                             Controller or Processor in India not
+      to the GDPR (Data                TRANSFER                      subject to the GDPR adhering to the
+           exporter)                                                    code of conduct intended for
+                                                                         transfers (Data importer)
 
 
-34.   Em geral, o contrato ou outro instrumento deve estabelecer que o responsável pelo
-      tratamento/subcontratante se compromete a cumprir as regras especificadas no código destinado às
-      transferências aquando do tratamento dos dados recebidos ao abrigo do código. O contrato ou outro
-      instrumento deve também prever mecanismos que permitam exigir o cumprimento desses
-      compromissos em caso de violação pelo responsável pelo tratamento/subcontratante, em especial no
-      que diz respeito aos direitos dos titulares cujos dados serão transferidos ao abrigo do código.
+                               Contract with binding and
+                               enforceable commitments
 
-35.   Mais especificamente, o contrato ou outro instrumento devem abordar:
 
-         - A existência de um direito dos titulares dos dados transferidos ao abrigo do código de exigir o
-           cumprimento das regras estabelecidas no código enquanto terceiros beneficiários;
 
-         - A questão da responsabilidade em caso de violação das regras do código por um membro do
-           código fora do EEE. O código deve incluir uma cláusula atributiva de jurisdição que indique que
-           os titulares dos dados têm a possibilidade de, em caso de violação das regras do código por um
-           membro do código fora do EEE, instaurar uma ação, incluindo uma ação de indemnização,
-           contra essa entidade junto de uma AC do EEE e de um tribunal do EEE da residência habitual do
-           titular dos dados, invocando o seu direito de terceiro beneficiário. O membro do código fora do
-           EEE deve aceitar a decisão do titular dos dados de o fazer. Os titulares dos dados têm também
-           a possibilidade de instaurar uma ação, decorrente ou resultante do cumprimento pelo
-           importador do código de conduta, contra o exportador de dados junto da AC ou do tribunal
-           competente do local de estabelecimento do exportador de dados ou da residência habitual do
-           titular dos dados. Esta responsabilidade não deve prejudicar os mecanismos a aplicar ao abrigo
-           do código com o organismo de supervisão, que também pode tomar medidas contra os
-           responsáveis pelo tratamento/subcontratantes em conformidade com o código, impondo
-           medidas corretivas. O importador de dados e o exportador de dados devem também aceitar que
-           o titular dos dados possa ser representado por um organismo, organização ou associação sem
-           fins lucrativos, nas condições estabelecidas no artigo 80.º, n.º 1, do RGPD.
+34.   In general, the contract or other instrument must set out that the controller/processor commits to
+      comply with the rules specified in the code intended for transfers when processing data received under
+      the code. The contract or other instrument shall also provide for mechanisms allowing to enforce such
+      commitments in case of breaches by the controller/processor in particular with respect to the rights
+      of data subjects whose data will be transferred under the code.
 
-         - A existência de um direito do exportador de exigir o cumprimento, pelo membro do código que
-           atua como importador, das regras estabelecidas no código na qualidade de terceiro beneficiário.
+35.   More particularly, the contract or other instrument should address:
 
-         - A existência de uma obrigação do importador de notificar o exportador de dados e a autoridade
-            de controlo do exportador de dados sobre qualquer violação detetada do código pelo mesmo
-            membro do código que atua como importador fora do EEE, bem como sobre quaisquer medidas
-            corretivas tomadas pelo organismo de supervisão em resposta a essa violação.
+         - The existence of a right for data subjects whose data are transferred under the code to enforce
+           the rules under the code as third-party beneficiaries;
 
-                                                                                          Página 13 de 17
-      Adotadas – Após consulta pública
+         - The issue of liability in case of breaches to the rules under the code by code member outside of
+           the EEA. The code shall include a jurisdiction clause noting that data subjects shall have the
+           possibility in case of violation of rules under the code by a code member outside the EEA to bring
+           a claim, by invoking their third-party beneficiary right, including for compensation, against that
+           entity before an EEA SAs and EEA court of the data subject’s habitual residence. The code
+           member outside the EEA shall accept the decision of the data subject to do so. Data subjects
+           shall also have the possibility to bring any claim arising out or from the respect by the importer
+           of the code of conduct against the data exporter before the SA or the court of the data exporter’s
+           establishment or of the data subject’s habitual residence. This liability should be without
+           prejudice to the mechanisms to be implemented under the code with the monitoring body that
+           can also take action against controllers/processors in accordance with the code by imposing
+           corrective measures. The data importer and the data exporter should also accept that the data
+           subject may be represented by a not-for-profit body, organisation or association under the
+           conditions set out in Article 80(1) of the GDPR.
 
-      6.2 Lista de verificação dos elementos a incluir num código de conduta destinado às
-          transferências
-36.   À luz das garantias fornecidas pelos instrumentos de transferência existentes ao abrigo do artigo 46.º
-      do RGPD (como as regras vinculativas aplicáveis às empresas) e para assegurar a coerência do nível de
-      proteção, bem como tendo em conta o Acórdão Schrems II10 do TJUE, o CEPD considera que, para
-      serem considerados como fornecendo as garantias adequadas, os elementos a abranger num código
-      de conduta destinado às transferências devem incluir o seguinte:
+         - The existence of a right for the exporter to enforce against the code member acting as importer
+           the rules under the code as a third-party beneficiary.
 
-           - A descrição das transferências a abranger pelo código (natureza dos dados transferidos,
-             categorias de titulares dos dados, países);
+         - The existence of an obligation of the importer to notify the exporter and the Supervisory
+           Authority of the data exporter of any detected violation of the code by the same code member
+           acting as an importer outside the EEA and of any corrective measures taken by the monitoring
+           body in response to that violation.
 
-           - A descrição dos princípios de proteção de dados a respeitar nos termos do código
-             (transparência, lealdade e licitude, limitação das finalidades, minimização e exatidão dos dados,
-             limitação da conservação dos dados, tratamento de dados sensíveis, segurança, cumprimento
-             pelos subcontratantes das instruções do responsável pelo tratamento), incluindo regras sobre a
-             utilização de subcontratantes ou subcontratantes ulteriores e regras sobre transferências
-             posteriores;
 
-           - As medidas de aplicação do princípio da responsabilização a adotar ao abrigo do código;
 
-           - A criação de uma governação adequada através dos encarregados da proteção de dados ou de
-             outro pessoal responsável pelo cumprimento das obrigações de proteção de dados decorrentes
-             do código;
 
-           - A existência de um programa de formação adequado sobre as obrigações decorrentes do
-             código;
+                                                                                               Page 12 of 16
+      Adopted - After public consultation
 
-           - A existência de uma auditoria sobre a proteção de dados (realizada por auditores internos ou
-             externos) ou de outro mecanismo interno para controlar o cumprimento do código,
-             independentemente da fiscalização a efetuar pelo organismo de supervisão, tal como para
-             qualquer código de conduta; Considerando que o objetivo do programa de auditoria em matéria
-             de proteção de dados é assegurar e demonstrar a conformidade com o código, o objetivo das
-             auditorias realizadas pelo organismo de supervisão é avaliar se o candidato é elegível para
-             participar no código, se continua a ser elegível após se tornar membro e se são necessárias
-             sanções em caso de infração;
+      6.2 Check-list of elements to be included in a code of conduct intended for transfers
+36.   In light of safeguards provided by existing transfer tools under Article 46 GDPR (such as binding
+      corporate rules), and to ensure consistency in the level of protection, as well as taking into account
+      the CJEU Schrems II ruling 10 , the EDPB is of the view that to be considered as providing appropriate
+      safeguards, the elements to be covered by a code of conduct intended for transfers should include the
+      following:
 
-           - As medidas de transparência, incluindo um acesso fácil, em matéria de utilização do código, em
-             especial no que respeita aos direitos de terceiros beneficiários;
+           - A description of transfers to be covered by the code (nature of data transferred, categories of
+             data subjects, countries);
 
-           - A atribuição ao titular dos dados dos direitos de acesso, retificação, apagamento, limitação do
-             tratamento, notificação da retificação, apagamento ou limitação do tratamento, oposição ao
-             tratamento, bem como do direito de não ficar sujeito a decisões baseadas exclusivamente no
-             tratamento automatizado, incluindo a definição de perfis, tal como previsto nos artigos 12.º,
-             13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 21.º e 22.º do RGPD;
+           - A description of the data protection principles to be complied with under the code
+             (transparency, fairness and lawfulness, purpose limitation, data minimization and accuracy,
+             limited storage of data, processing of sensitive data, security, for processors compliance with
+             instructions from the controller), including rules on using processors or sub-processors and rules
+             on onward transfers;
 
-           - A criação de direitos de terceiros beneficiários para que os titulares dos dados possam exigir o
-             cumprimento das regras do código enquanto terceiros beneficiários (bem como a possibilidade
-             de apresentar uma reclamação junto da AC competente e dos tribunais do EEE);
+           - Accountability principle measures to be taken under the code;
 
+           - The setting up of an appropriate governance through DPOs or other privacy staff in charge of
+             compliance with data protection obligations resulting from the code;
+
+           - The existence of a suitable training program on the obligations arising from the code;
+           - The existence of a data protection audit (by either internal or external auditors) or other internal
+             mechanism for monitoring compliance with the code, independently from the oversight to be
+             performed by the monitoring body as for any code of conduct; Whereas the aim of the data
+             protection audit program is to ensure and demonstrate compliance with the code, the aim of
+             the audits performed by the monitoring body is to assess whether the applicant is eligible to
+             participate to the code, continues to be eligible once it is a member, and whether sanctions are
+             necessary in case of infringements;
+
+           - Transparency measures, including easy access, regarding the use of the code in particular with
+             respect to third party beneficiary rights;
+
+           - The provision of data subject rights of access, rectification, erasure, restriction, notification
+             regarding rectification or erasure or restriction, objection to processing, right not to be subject
+             to decisions based solely on automated processing, including profiling as those provided for by
+             Articles 12, 13, 14, 15, 16, 17, 18, 19, 21, and 22 GDPR;
+           - The creation of third-party beneficiary rights for data subjects to enforce the rules of the code
+             as third-party beneficiaries (as well as the possibility to lodge a complaint before the competent
+             SA and before EEA Courts);
+
+           - The existence of an appropriate complaint handling process for data protection rules
+             infringements maintained by the monitoring body which if deemed appropriate may be
+             complemented with an internal procedure to the code member for managing complaints;
+
+           - A warranty that at the time of adhering to the code, the third country controller/processor has
+             no reasons to believe that the laws applicable to the processing of personal data in the third
+             country of transfer, prevent it from fulfilling its obligations under the code and to implement
 
       10
-        Acórdão do Tribunal de Justiça (Grande Secção) de 16 de julho de 2020, Data Protection
-      Commissioner/Facebook Ireland Ltd e Maximillian Schrems.
+        Judgment of the Court (Grand Chamber) of 16 July 2020; Data Protection Commissioner v Facebook Ireland
+      Limited and Maximillian Schrems.
 
-                                                                                                 Página 14 de 17
-      Adotadas – Após consulta pública
+                                                                                                  Page 13 of 16
+      Adopted - After public consultation
 
-           - A existência de um processo adequado de tratamento das reclamações relativas a infrações às
-             regras de proteção de dados gerido pelo organismo de supervisão, que, se for considerado
-             adequado, pode ser complementado com um procedimento interno de gestão de reclamações
-             para o membro do código;
+              where necessary together with the exporter supplementary measures11 to ensure the required
+              level of protection under EEA law12 . In addition, a description of the steps to be taken (including
+              notification to the exporter in the EEA, implementation of appropriate supplementary
+              measures) in case after having adhered to the code the third country controller/processor
+              becomes aware of any legislation of the third country preventing compliance by the code
+              member with commitments taken as part of the code and measures to be taken in case of third
+              country government access requests;
 
-           - A garantia de que, no momento da adesão ao código, o responsável pelo
-             tratamento/subcontratante do país terceiro não tem motivos para crer que a legislação aplicável
-             ao tratamento de dados pessoais no país terceiro de transferência o impede de cumprir as suas
-             obrigações ao abrigo do código e de aplicar, se necessário, em conjunto com o exportador,
-             medidas complementares11 para assegurar o nível de proteção exigido ao abrigo do direito do
-             EEE12. Além disso, a descrição das etapas a seguir (incluindo a notificação ao exportador no EEE,
-             a aplicação de medidas complementares adequadas) caso, após ter aderido ao código, o
-             responsável pelo tratamento/subcontratante do país terceiro tome conhecimento de qualquer
-             legislação do país terceiro que impeça o cumprimento, por parte do membro do código, dos
-             compromissos assumidos no âmbito do código e das medidas a tomar em caso de pedidos de
-             acesso governamental de países terceiros;
+           - The mechanisms for dealing with changes to the code;
 
-           - Os mecanismos que tratam das alterações do código;
+           - The consequences of withdrawal of a member from the code;
 
-           - As consequências da exclusão de um membro do código;
+           - A commitment for the code member and monitoring body to cooperate with EEA SAs;
 
-           - O compromisso de que o membro do código e o organismo de supervisão cooperarão com as
-             AC do EEE;
+           - A commitment for the code member to accept to be subject to the jurisdiction of EEA SAs in any
+             procedure aimed at ensuring compliance with the code of conduct and EEA Courts;
 
-           - O compromisso de que o membro do código aceita estar sujeito à jurisdição das AC do EEE, em
-             qualquer procedimento destinado a assegurar o cumprimento do código de conduta, e dos
-             tribunais do EEE;
+           - The criteria of selection of the monitoring body for a code intended for transfers i.e. to
+             demonstrate that the monitoring body has the requisite level of expertise to carry out its role in
+             an effective manner for such a code intended for data transfers
 
-           - Os critérios de seleção do organismo de supervisão para um código destinado às transferências,
-             ou seja, para demonstrar que o organismo de supervisão possui o nível de competências
-             necessário para desempenhar o seu papel de forma eficaz
+37.   In any event, it should be noted that these elements constitute minimum guarantees which may need
+      to be complemented with additional commitments and measures depending on the transfer at stake
+      under the code of conduct.
 
-37.   De qualquer modo, é de notar que estes elementos constituem garantias mínimas que podem ter de
-      ser complementadas por compromissos e medidas adicionais, em função da transferência em causa
-      ao abrigo do código de conduta.
-
-38.   O CEPD avaliará o funcionamento das presentes diretrizes à luz da experiência adquirida com a sua
-      aplicação na prática e fornecerá orientações adicionais para clarificar a aplicação dos elementos acima
-      enumerados.
+38.   The EDPB will evaluate the functioning of these guidelines in light of the experience gained with their
+      application in practice and provide further guidance to clarify the application of the above listed
+      elements.
 
 
 
 
       11
-         O Comité Europeu para a Proteção de Dados publicou uma recomendação sobre medidas complementares
-      aos instrumentos de transferência para assegurar o cumprimento do nível de proteção dos dados pessoais da
-      UE, que podem contribuir para a avaliação do país terceiro e para a identificação de medidas complementares
-      adequadas.
-      12
-         Tal baseia-se no pressuposto de que as legislações e as práticas que respeitam a essência dos direitos e das
-      liberdades fundamentais e não excedem o necessário e proporcional numa sociedade democrática para
-      salvaguardar um dos objetivos enumerados no artigo 23.º, n.º 1, do Regulamento (UE) 2016/679 não estão em
-      contradição com as garantias especificadas no código de conduta destinado às transferências.
+         The European Data Protection Board has published a Recommendation on measures that supplement
+      transfer tools to ensure compliance with the EU level of protection of personal data which can assist in the
+      assessment relating to the third country and for identifying appropriate supplementary measures.
+      12 This is based on the understanding that laws and practices that respect the essence of the fundamental rights
 
-                                                                                                   Página 15 de 17
-      Adotadas – Após consulta pública
+      and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one
+      of the objectives listed in Article 23(1) of Regulation (EU) 2016/679, are not in contradiction with the safeguards
+      specified in the code of conduct intended for transfers.
 
-ANEXO 1 — ADOÇÃO DO CÓDIGO DE CONDUTA PARA AS
-TRANSFERÊNCIAS — FLUXOGRAMA
-a – Adoção de um código transnacional destinado às transferências
+                                                                                                         Page 14 of 16
+      Adopted - After public consultation
 
-                             Código transnacional destinado às
-                                      transferências
+ANNEX 1 - ADOPTION OF CODE OF CONDUCT FOR TRANSFERS – FLOW
+CHART
+a -Adoption of a transnational code intended for transfers
 
 
-
-
-   A aprovação pela AC competente                        O parecer do CEPD recomenda
-  segue o parecer do CEPD favorável                   alterações do projeto de decisão da
-      ao projeto de decisão da AC                           AC competente/código
-              competente
-
-                                                        A AC competente comunica ao
-   Notificação do parecer pelo CEPD                      CEPD se mantém ou altera a
-                                                                  decisão
+                           Transnational code intended for transfers
 
 
 
 
-              Comissão                                  O titular do código apresenta o
-                                                       código alterado à AC competente
+  Approval by competent SA follows                         EDPB Opinion recommends
+    EDPB Opinion endorsing draft                         amendments to draft decision of
+      decision of competent SA                                competent SA/code
+
+
+
+                                                         Competent SA communicates to
+    Notification by EDPB of opinion                     EDPB if it maintains or amends the
+                                                                     decision
+
+
+
+              Commission                                Code owner submits amended code
+                                                                to competent SA
 
 
 
 
-                                                       A aprovação pela AC competente
-                                                       segue o parecer do CEPD sobre as
-  Reconhecimento da aplicabilidade
-                                                         novas alterações favorável ao
-      geral do código na União
-                                                        (novo) projeto de decisão da AC
-                                                                  competente
-
-
-                                                        Notificação do parecer pelo CEPD
+                                                        Approval by competent SA follows
+                                                           EDPB Opinion on the new
+  Recognition of general validity to
+                                                        amendments endorsing (new) draft
+        code within Union
+                                                           decision of competent SA
 
 
 
-
-                                                                   Comissão
+                                                           Notification by EDPB of opinion
 
 
 
 
-                                                       Reconhecimento da aplicabilidade
-                                                           geral do código na União
+                                                                       Commission
 
 
 
 
-                                                                                Página 16 de 17
-Adotadas – Após consulta pública
-
-         b – Alterações de um código transnacional a utilizar como código destinado às
-         transferências
-
-
-                                            Código transnacional
+                                                         Recognition of general validity to
+                                                             code within the Union
 
 
 
 
-                                  Código alterado pelo titular do código para
-                                          abranger as transferências
+                                                                                     Page 15 of 16
+Adopted - After public consultation
+
+       b- Amendments to a transnational code to be used as a code intended for transfers
 
 
-
-                                 Apresentação das alterações à AC competente
-
-
-
-                                  Avaliação das alterações do código pela AC
-                                                 competente
-
-
-
-                                    Apresentação do projeto de decisão para
-                                           aprovação das alterações
+                                             Transnational code
 
 
 
 
-                                                      CEPD
+                                 Code amended by code owner for covering
+                                               transfers
+
+
+
+                                 Submission of amendment to competent SA
+
+
+
+                                   Assessment of amendment to code by
+                                             competent SA
+
+
+
+                                  Submission of draft decision for approval of
+                                                 amendment
 
 
 
 
-                                                                                Parecer do CEPD com as alterações do
-     Parecer do CEPD favorável ao projeto                                       projeto de decisão da AC competente
-        de decisão da AC competente
-
-                                                                                 A AC competente comunica ao
-                                                                                  CEPD se mantém ou altera a
-                                                                                           decisão
-                                    Notificação do
-A AC competente adota a                                                           O titular do código apresenta o
-                                       parecer
-  decisão que aprova o                                                           código alterado à AC competente
-    código alterado
+                                                       EDPB
 
 
-                                      Comissão               Notificação do       A aprovação segue o parecer do
-                                                                parecer           CEPD sobre as novas alterações
-                                                                                   favorável ao (novo) projeto de
-                                                                                     decisão da AC competente
-                   Reconhecimento da aplicabilidade
-                       geral do código na União
-                                                                                           Página 17 de 17
-         Adotadas – Após consulta pública
+
+
+                                                                                 EDPB Opinion with amendments to
+     EDPB Opinion endorsing draft
+                                                                                   draft decision of competent SA
+       decision of competent SA
+
+                                                                                  Competent SA communicates to
+                                                                                 EDPB if it maintains or amends the
+                                                                                              decision
+                                   Notification of
+Competent SA adopts                                                              Code owner submits amended code
+                                      opinion
+ decision approving                                                                      to competent SA
+   amended code
+
+
+                                    Commission                Notification of     Approval follows EDPB opinion on
+                                                                 opinion           the new amendments endorsing
+                                                                                  (new) draft decision of competent
+                                                                                                  SA
+                  Recognition of general validity to
+                      code within the Union
+
+                                                                                              Page 16 of 16
+       Adopted - After public consultation
 ```

@@ -1,7 +1,7 @@
 ---
 celex: 32019L0790
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 32019L0790 — Direitos de autor no mercado único digital — contexto

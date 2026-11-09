@@ -23,7 +23,7 @@ repertorio:
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32023R2854
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32023R2854 — Regulamento dos Dados (Data Act)

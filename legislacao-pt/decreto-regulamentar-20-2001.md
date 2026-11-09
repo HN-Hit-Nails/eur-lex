@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2001-53
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2001-107689240
 eli: https://data.dre.pt/eli/decregul/20/2001/p/cons/20051230/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Decreto Regulamentar n.º 20/2001

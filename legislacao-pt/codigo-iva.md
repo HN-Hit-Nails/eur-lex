@@ -5,7 +5,7 @@ texto: actualizado (compilação da AT, Portal das Finanças)
 relacionado_com: ['32006L0112']
 url: https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/codigo-do-iva-indice.aspx
 fonte: Autoridade Tributária e Aduaneira — Portal das Finanças
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Código do Imposto sobre o Valor Acrescentado (CIVA)
@@ -301,17 +301,11 @@ f)
 
 g) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquirentes em transmissões de bens ou prestações de serviços efectuadas no território nacional por sujeitos passivos que aqui não tenham sede, estabelecimento estável ou domicílio nem disponham de representante nos termos do artigo 30.º;
 
-h) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquirentes dos bens indicados no n.º 4 do artigo 6.º, nas condições aí previstas, desde que os respectivos transmitentes não tenham, no território nacional, sede, estabelecimento estável ou, na sua falta, o domicílio, a partir do qual as transmissões são efectuadas;
-
-(Redacção dada pelo artigo 2.º do Decreto-Lei n.º 186/2009, de 12/08, com efeitos a partir de 01/01/2010)
+h) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquirentes dos bens indicados no n.º 4 do artigo 6.º, nas condições aí previstas, desde que os respectivos transmitentes não tenham, no território nacional, sede, estabelecimento estável ou, na sua falta, o domicílio, a partir do qual as transmissões são efectuadas; (Redacção dada pelo artigo 2.º do Decreto-Lei n.º 186/2009, de 12/08, com efeitos a partir de 01/01/2010)
 
 i) As pessoas singulares ou colectivas referidas na alínea a) que, no território nacional, sejam adquirentes dos bens ou dos serviços mencionados no anexo E ao presente Código e tenham direito à dedução total ou parcial do imposto, desde que os respectivos transmitentes ou prestadores sejam sujeitos passivos do imposto;
 
-j) (**) As pessoas singulares ou coletivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional e que pratiquem operações que confiram o direito à dedução total ou parcial do imposto, quando sejam adquirentes de serviços de construção civil, incluindo a remodelação, reparação, manutenção, conservação e demolição de bens imóveis, em regime de empreitada ou subempreitada, bem como aquelas que apenas pratiquem operações que não confiram direito à dedução do imposto quando sejam adquirentes de empreitadas de construção ou reabilitação previstas na verba 2.42 da lista I anexa ao presente Código; (Redacão do Decreto-Lei n.º 97/2026 -20/05) -ver
-
-Nota(**)
-
-Nota(**)-Produz efeitos em 1 de julho de 2026, nos termos do n.º 4 do artigo 18.º do Decreto-Lei n.º 97/2026, de 20/05, podendo aplicar-se a partir de 1 de janeiro de 2026, caso exista opção conjunta do prestador e do adquirente, conforme previsto no n.º 7 do mesmo artigo.
+j) As pessoas singulares ou coletivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional, quando sejam adquirentes de serviços de construção civil, incluindo a remodelação, reparação, manutenção, conservação e demolição de bens imóveis, em regime de empreitada ou subempreitada; (Redacão da Lei n.º 65/2026-05/11)
 
 l) As pessoas singulares ou colectivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional e que pratiquem operações que confiram o direito à dedução total ou parcial do imposto, quando sejam adquirentes de prestações de serviços que tenham por objecto direitos de emissão, reduções certificadas de emissões ou unidades de redução de emissões de gases com efeito de estufa, aos quais se refere o Decreto-Lei n.º 233/2004, de 14 de Dezembro.(Aditada pela Lei n.º 3-B/2010-28/04)
 
@@ -357,6 +351,8 @@ l) Radiodifusão e radiotelevisão.
 
 [+ info] Redações anteriores, em vigor até:
 
+novembro de 2026
+
 maio de 2026
 
 dezembro de 2022
@@ -372,6 +368,8 @@ março de 2010
 julho de 2009
 
 [+ info] Artigo alterado por:
+
+Lei n.º 65/2026 - 05/11
 
 Decreto-Lei n.º 97/2026, de 20/05
 
@@ -2941,11 +2939,9 @@ b) Nos casos de sujeitos passivos já registados e abrangidos pelo regime normal
 
 5 - Os sujeitos passivos abrangidos pela alínea b) do n.º 1 que tenham obtido, no ano civil anterior, um volume de negócios igual ou superior a 650 000 €, devem apresentar a declaração a que se refere o artigo 32.º durante o mês de janeiro seguinte, ficando obrigados ao envio da declaração periódica mensal a partir de 1 de janeiro do ano da sua apresentação. (Redação do D.L. nº 49/2025, de 27 de março, com entrada em vigor em 1 de julho de 2025)
 
-6 - O disposto na alínea b) do n.º 1 não é aplicável aos sujeitos passivos que tenham exercido a opção prevista no n.º 8 do artigo 27.º e aos inscritos no registo de reembolso mensal previsto no n.º 8 do artigo 22.º (Redação do D.L. nº 49/2025, de 27 de março, com entrada em vigor em 1 de julho de 2025)
+6 - O disposto na alínea b) do n.º 1 não é aplicável aos sujeitos passivos que tenham exercido a opção prevista no n.º 8 do artigo 27.º, aos inscritos no registo de reembolso mensal previsto no n.º 8 do artigo 22.º, não sendo igualmente aplicável aos que realizem transmissões de combustíveis, designadamente de gasolina, gasóleo e petróleo carburante. (Redação da Lei n.º 65/2026, de 05 de novembro)
 
-7 - Para efeitos do n.º 1, sempre que o volume de negócios respeitar a uma fracção do ano, é convertido num volume de negócios anual correspondente.
-
-(Anterior nº 5 - Redação do D.L. nº 49/2025, de 27 de março, com entrada em vigor em 1 de julho de 2025)
+7 - Para efeitos do n.º 1, sempre que o volume de negócios respeitar a uma fracção do ano, é convertido num volume de negócios anual correspondente. (Anterior nº 5 - Redação do D.L. nº 49/2025, de 27 de março, com entrada em vigor em 1 de julho de 2025)
 
 8 - Para os sujeitos passivos que iniciem a atividade ou deixem de enquadrar-se no disposto na alínea c) do n.º 3 do artigo 29.º, o volume de negócios para os fins previstos no n.º 1 é estabelecido de acordo com a sua previsão para o ano civil corrente.(Redação do D.L. nº 49/2025, de 27 de março, com entrada em vigor em 1 de julho de 2025)
 
@@ -2955,6 +2951,8 @@ b) Nos casos de sujeitos passivos já registados e abrangidos pelo regime normal
 
 [+ info] Redações anteriores, em vigor até:
 
+novembro de 2026
+
 junho de 2025
 
 dezembro de 2022
@@ -2962,6 +2960,8 @@ dezembro de 2022
 junho de 2022
 
 [+ info] Artigo alterado por:
+
+Lei n.º 65/2026, de 05/11
 
 Decreto-Lei n.º 49/2025, de 27/03
 
@@ -4149,9 +4149,7 @@ b) Devem existir registos dos movimentos de cada estabelecimento, incluindo os e
 
 Versão até:
 
-→
-
-fevereiro de 2019
+→ fevereiro de 2019
 
 •••
 

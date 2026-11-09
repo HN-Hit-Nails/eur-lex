@@ -1,977 +1,888 @@
 ---
-titulo: "Diretrizes 2/2018 relativas às derrogações do artigo 49.º do Regulamento (UE) 2016/679"
+titulo: "Guidelines 2/2018 on derogations of Article 49 under Regulation 2016/679"
 titulo_en: "Guidelines 2/2018 on derogations of Article 49 under Regulation 2016/679"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2018-05-25'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-22018-on-derogations-of-article-49-under-regulation-2016679_en
-pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_2_2018_derogations_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_2_2018_derogations_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 2/2018 relativas às derrogações do artigo 49.º do Regulamento (UE) 2016/679
+# Guidelines 2/2018 on derogations of Article 49 under Regulation 2016/679
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 2/2018 relativas às derrogações do artigo 49.º do
-                Regulamento (UE) 2016/679
+Guidelines 2/2018 on derogations of Article 49 under
+               Regulation 2016/679
 
 
-                Adotadas em 25 de maio de 2018
-
-
-
-
-                Translations proofread by EDPB Members.
-            This language version has not yet been proofread.
+               Adopted on 25 May 2018
 
 
 
 
-                                                                1
+                                                       1
 
-Índice
-1. CONSIDERAÇÕES GERAIS..................................................................................................................... 3
-2. INTERPRETAÇÃO ESPECÍFICA DAS DISPOSIÇÕES DO ARTIGO 49.º...................................................... 7
-   2.1 Consentimento explícito do titular dos dados à transferência prevista, após ter sido informado
-   dos possíveis riscos dessa transferência para si próprio devido à falta de uma decisão de
-   adequação e de garantias adequadas – artigo 49.º, n.º 1, alínea a)................................................... 7
-      2.1.1 O consentimento deve ser explícito....................................................................................... 7
-      2.1.2 O consentimento deve ser específico para cada transferência/conjunto de transferências
-      de dados .......................................................................................................................................... 8
-      2.1.3 O consentimento deve ser informado, em particular quanto aos possíveis riscos da
-      transferência ................................................................................................................................... 8
-   2.2 Transferência necessária para a execução de um contrato entre o titular dos dados e o
-   responsável pelo tratamento, ou de diligências prévias à celebração do contrato decididas a
-   pedido do titular dos dados – [artigo 49.º, n.º 1, alínea b)]................................................................ 9
-   2.3 Transferência necessária para a celebração ou execução de um contrato celebrado no
-   interesse do titular dos dados entre o responsável pelo seu tratamento e outra pessoa, singular ou
-   coletiva – [artigo 49.º, n.º 1, alínea c)].............................................................................................. 11
-   2.4 Transferência necessária por importantes razões de interesse público – [artigo 49.º, n.º 1,
-   alínea d)]............................................................................................................................................ 11
-   2.5 Transferência necessária à declaração, ao exercício ou à defesa de um direito num processo
-   judicial – [artigo 49.º, n.º 1, alínea e)]............................................................................................... 13
-   2.6 Transferência necessária para proteger os interesses vitais do titular dos dados ou de outras
-   pessoas, se esse titular estiver física ou legalmente incapaz de dar o seu consentimento –
-   [artigo 49.º, n.º 1, alínea f)]............................................................................................................... 14
-   2.7. Transferência realizada a partir de um registo público - [artigo 49.º, n.º 1, alínea g), e n.º 2)] 15
-   2.8. Interesses legítimos imperiosos – (artigo 49.º, n.º 1, segundo parágrafo)................................ 16
+Contents
+1. GENERAL .............................................................................................................................................. 3
+2. SPECIFIC INTERPRETATION OF THE PROVISIONS OF ARTICLE 49 ........................................................ 6
+   2.1 The data subject has explicitly consented to the proposed transfer, after having been informed
+   of the possible risks of such transfers for the data subject due to the absence of an adequacy
+   decision and appropriate safeguards - Article (49 (1) (a)) .................................................................. 6
+       2.1.1 Consent must be explicit ........................................................................................................ 6
+       2.1.2 Consent must be specific for the particular data transfer/set of transfers ........................... 7
+       2.1.3 Consent must be informed particularly as to the possible risks of the transfer ................... 7
+   2.2 Transfer necessary for the performance of a contract between the data subject and the
+   controller or for the implementation of precontractual measures taken at the data subject’s
+   request - (49 (1) (b)) ............................................................................................................................ 8
+   2.3 Transfer necessary for the conclusion or performance of a contract concluded in the interest of
+   the data subject between the controller and another natural or legal person - (49 (1) (c)) .............. 9
+   2.4 Transfer is necessary for important reasons of public interest - (49 (1) (d)) .............................. 10
+   2.5 Transfer is necessary for the establishment, exercise or defense of legal claims - (49 (1) (e)) .. 11
+   2.6 Transfer necessary in order to protect the vital interests of the data subject or of other
+   persons, where the data subject is physically or legally incapable of giving consent – (49 (1) (f)) .. 12
+   2.7. Transfer made from a public register - (49 (1) (g) and 49 (2)) ................................................... 13
+   2.8. Compelling legitimate interests – (49 (1) § 2) ............................................................................ 14
 
 
 
 
-                                                                                                                                                          2
+                                                                                                                                                         2
 
-O Comité Europeu para a Proteção de Dados,
-
-
-Tendo em conta o artigo 70.º, n.º 1, alíneas j) e e), do Regulamento (UE) 2016/679 do Parlamento
-Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz
-respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a
-Diretiva 95/46/CE,
+The European Data Protection Board
 
 
-
-ADOTOU AS SEGUINTES DIRETRIZES:
+Having regard to Article 70 (1j) and (1e) of the Regulation 2016/679/EU of the European Parliament
+and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing
+of personal data and on the free movement of such data, and repealing Directive 95/46/EC,
 
 
 
-1. CONSIDERAÇÕES GERAIS
-O presente documento destina-se a servir de orientação na aplicação do artigo 49.º do Regulamento
-Geral sobre a Proteção de Dados (RGPD)1, referente a derrogações no contexto de transferências de
-dados pessoais para países terceiros.
-
-O presente documento baseia-se no trabalho anteriormente realizado2 pelo Grupo de Trabalho das
-Autoridades de Proteção de Dados da UE, criado ao abrigo do artigo 29.º da Diretiva Proteção de
-Dados (Grupo de Trabalho do Artigo 29.º), agora retomado pelo Comité Europeu para a Proteção de
-Dados (CEPD), sobre questões essenciais suscitadas pela aplicação das derrogações no contexto de
-transferências de dados pessoais para países terceiros. Este documento será revisto e, se necessário,
-atualizado, com base na experiência prática adquirida com a aplicação do RGPD.
-
-Na aplicação do artigo 49.º há que ter em conta que, por força do artigo 44.º, o exportador de dados
-que transfira dados pessoais para países terceiros ou organizações internacionais deve satisfazer
-também as condições estabelecidas nas outras disposições do RGPD. Cada atividade de tratamento
-deve respeitar as disposições aplicáveis em matéria de proteção dos dados, em particular os artigos
-5.º e 6.º. Por conseguinte, deve efetuar-se um teste em duas fases: 1.ª - fundamentação do
-tratamento dos dados, enquanto tal, numa base legal e aplicação a esse tratamento das pertinentes
-disposições do RGPD; 2.ª - cumprimento das disposições do capítulo V.
-
-Dispõe o artigo 49.º no seu n.º 1 que, na falta de uma decisão de adequação ou de garantias
-adequadas, as transferências ou conjunto de transferências de dados pessoais para países terceiros
-ou organizações internacionais só são efetuadas caso se verifiquem determinadas condições. Por
-outro lado, dispõe o artigo 44.º que todas as disposições do capítulo V sejam aplicadas de forma a
-não comprometer-se o nível de proteção das pessoas singulares garantido pelo RGPD. Tal implica
-também que o recurso às derrogações do artigo 49.º não pode resultar nunca numa situação em que
-os direitos fundamentais possam ser violados3.
+HAS ADOPTED FOLLOWING GUIDELINES:
 
 
+
+1. GENERAL
+This document seeks to provide guidance as to the application of Article 49 of the General Data
+Protection Regulation (GDPR)1 on derogations in the context of transfers of personal data to third
+countries.
+
+The document builds on the previous work2 done by the Working Party of EU Data Protection
+Authorities established under Article 29 of the Data Protection Directive (the WP29) which is taken
+over by the European Data Protection Board (EDPB) regarding central questions raised by the
+application of derogations in the context of transfers of personal data to third countries. This document
+will be reviewed and if necessary updated, based on the practical experience gained through the
+application of the GDPR.
+
+When applying Article 49 one must bear in mind that according to Article 44 the data exporter
+transferring personal data to third countries or international organizations must also meet the
+conditions of the other provisions of the GDPR. Each processing activity must comply with the relevant
+data protection provisions, in particular with Articles 5 and 6. Hence, a two-step test must be applied:
+first, a legal basis must apply to the data processing as such together with all relevant provisions of the
+GDPR; and as a second step, the provisions of Chapter V must be complied with.
+
+Article 49 (1) states that in the absence of an adequacy decision or of appropriate safeguards, a transfer
+or a set of transfers of personal data to a third country or an international organization shall take place
+only under certain conditions. At the same time, Article 44 requires all provisions in Chapter V to be
+applied in such a way as to ensure that the level of protection of natural persons guaranteed by the
+GDPR is not undermined. This also implies that recourse to the derogations of Article 49 should never
+lead to a situation where fundamental rights might be breached.3
+
+The WP29, as predecessor of the EDPB, has long advocated as best practice a layered approach4 to
+transfers of considering first whether the third country provides an adequate level of protection and
+ensuring that the exported data will be safeguarded in the third country. If the level of protection is
+not adequate in light of all the circumstances, the data exporter should consider providing adequate
 
 1
-  REGULAMENTO (UE) 2016/679 DO PARLAMENTO EUROPEU E DO CONSELHO, de 27 de abril de 2016, relativo
-à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação
-desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) (JO L 119 de
-4.5.2016, p. 1).
+  REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the
+protection of natural persons with regard to the processing of personal data and on the free movement of such
+data, and repealing Directive 95/46/EC (General Data Protection Regulation).
 2
-  Grupo de Trabalho do Artigo 29.º, Documento de Trabalho sobre uma Interpretação Comum do n.º 1 do
-artigo 26.º da Diretiva 95/46/CE, de 24 de outubro de 1995 - 25 de novembro de 2005 (WP114).
+  Article 29 Working Party, Working Document on a common interpretation of Article 26(1) of Directive 95/46/EC
+of 24 October 1995, November 25,2005 (WP114)
 3
- Grupo de Trabalho do Artigo 29.º, WP 114, p. 9, e Documento de Trabalho sobre a Vigilância das
-Comunicações Eletrónicas para fins de Informação e Segurança Nacional (WP228), p. 39.
-
-                                                                                                        3
-
-O Grupo de Trabalho do Artigo 29.º, antecessor do CEPD, defendeu durante muito tempo que a
-melhor prática consistiria numa abordagem das transferências por níveis4: analisando-se
-primeiramente se o país terceiro tem um nível de proteção adequado e assegurando-se depois que
-os dados exportados serão devidamente protegidos no país terceiro. Se o nível de proteção não for
-adequado, atendendo a todas as circunstâncias, o exportador de dados deve considerar a
-possibilidade de apresentar garantias adequadas. Por conseguinte, os exportadores de dados devem
-começar por procurar enquadrar a transferência num dos mecanismos previstos nos artigos 45.º e
-46.º do RGPD e só na sua falta recorrer às derrogações estabelecidas no artigo 49.º, n.º 1.
-
-Por conseguinte, as derrogações previstas pelo artigo 49.º são isenções à aplicação do princípio geral
-de que os dados pessoais só podem ser transferidos para países terceiros se estes oferecerem um
-nível de proteção adequado, ou se tiverem sido apresentadas garantias adequadas e os titulares dos
-dados usufruírem de direitos efetivos e oponíveis que lhes permitam continuar a beneficiar dos seus
-direitos e garantias fundamentais5. Devido a este facto, e em conformidade com os princípios
-inerentes ao direito da UE6, as derrogações devem ser interpretadas de forma restritiva, para que a
-exceção se não torne na regra7. Este entendimento é confirmado pelo título do artigo 49.º, o qual
-indica que as derrogações devem ser utilizadas em situações específicas («Derrogações para
-situações específicas»).
-
-Ao ponderarem a transferência de dados pessoais para países terceiros ou organizações
-internacionais, os exportadores de dados devem, por conseguinte, preferir as soluções que deem aos
-titulares dos dados uma garantia de que os seus direitos e garantias fundamentais continuarão a ser
-respeitados no tratamento dos seus dados, depois de estes serem transferidos. Uma vez que as
-derrogações não proporcionam aos dados pessoais transferidos nem proteção adequada nem
-garantias adequadas, e que as transferências baseadas numa derrogação não estão sujeitas a
-qualquer tipo de autorização das autoridades de controlo, a transferência de dados pessoais para
-países terceiros nesses termos acarreta riscos acrescidos para os direitos e liberdades dos titulares
-dos dados em causa.
-
-Os exportadores de dados devem estar igualmente cientes de que, na falta de uma decisão de
-adequação, o direito da União ou de um Estado-Membro pode, por razões importantes de interesse
-público, limitar expressamente as transferências de categorias específicas de dados pessoais para
-países terceiros ou organizações internacionais (artigo 49.º, n.º 5).
-
-Transferências ocasionais e não repetitivas
-
-O CEPD observa que no considerando 111 se utiliza o termo «ocasional» e no artigo 49.º, n.º 1,
-segundo parágrafo, na derrogação por «interesses legítimos», é utilizada a expressão «não
-repetitiva». Esses termos indicam que tais transferências podem ser efetuadas mais de uma vez, mas
-
+ Article 29 Working Party, WP 114, p.9, and Article 29 Working Party Working Document on surveillance of
+electronic communications for intelligence and national security purposes (WP228), p.39.
 4
-  Grupo de Trabalho do Artigo 29.º, WP114, p. 9
+  Article 29 Working Party, WP114, p.9
+
+                                                                                                            3
+
+safeguards. Hence, data exporters should first endeavor possibilities to frame the transfer with one of
+the mechanisms included in Articles 45 and 46 GDPR, and only in their absence use the derogations
+provided in Article 49 (1).
+
+Therefore, derogations under Article 49 are exemptions from the general principle that personal data
+may only be transferred to third countries if an adequate level of protection is provided for in the third
+country or if appropriate safeguards have been adduced and the data subjects enjoy enforceable and
+effective rights in order to continue to benefit from their fundamental rights and safeguards.5 Due to
+this fact and in accordance with the principles inherent in European law,6 the derogations must be
+interpreted restrictively so that the exception does not become the rule.7 This is also supported by the
+wording of the title of Article 49 which states that derogations are to be used for specific situations
+(“Derogations for specific situations”).
+
+When considering transferring personal data to third countries or international organizations, data
+exporters should therefore favour solutions that provide data subjects with a guarantee that they will
+continue to benefit from the fundamental rights and safeguards to which they are entitled as regards
+processing of their data once this data has been transferred. As derogations do not provide adequate
+protection or appropriate safeguards for the personal data transferred and as transfers based on a
+derogation are not required to have any kind of prior authorisation from the supervisory authorities,
+transferring personal data to third countries on the basis of derogations leads to increased risks for the
+rights and freedoms of the data subjects concerned.
+
+Data exporters should also be aware that, in the absence of an adequacy decision, Union or Member
+State law may, for important reasons of public interest, expressly limit transfers of specific categories
+of personal data to a third country or an international organization (Article 49 (5)).
+
+Occasional and not repetitive transfers
+
+The EDPB notes that the term “occasional” is used in recital 111 and the term “not repetitive” is used
+in the “compelling legitimate interests” derogation under Article 49 par. 1 §2. These terms indicate
+that such transfers may happen more than once, but not regularly, and would occur outside the regular
+course of actions, for example, under random, unknown circumstances and within arbitrary time
+intervals. For example, a data transfer that occurs regularly within a stable relationship between the
+data exporter and a certain data importer can basically be deemed as systematic and repeated and
+can therefore not be considered occasional or not-repetitive. Besides, a transfer will for example
+generally be considered to be non-occasional or repetitive when the data importer is granted direct
+access to a database (e.g. via an interface to an IT-application) on a general basis.
+
+Recital 111 differentiates among the derogations by expressly stating that the “contract” and the “legal
+claims” derogations (Article 49 (1) subpar. 1 (b), (c) and (e)) shall be limited to “occasional” transfers,
+
+
 5
-  Considerando 114.
+  Recital 114
 6
-  Grupo de Trabalho do Artigo 29.º, WP114, p. 7
+  Article 29 Working Party, WP114, p.7
 7
-  Cf. Grupo de Trabalho do Artigo 29.º, WP114, p. 7, já citado. O Tribunal de Justiça da União Europeia
-sublinhou repetidamente que «a proteção do direito fundamental ao respeito da vida privada a nível da União
-exige que as derrogações e as limitações à proteção dos dados pessoais operem na estrita medida do
-necessário» (acórdãos de 16 de dezembro de 2008, Satakunnan Markkinapörssi e Satamedia, C 73/07, n.º 56;
-de 9 de novembro de 2010, Volker und Markus Schecke e Eifert, C 92/09 e C 93/09, n.º 77; de 6 de outubro de
-2015, Digital Rights e Schrems, C 362/14, n.os 52 e 92; de 21 de dezembro de 2016, Tele2 Sverige AB, C 203/15,
-n.º 96). Cf. também Report on the Additional Protocol to the Convention for the Protection of Individuals with
-regard to Automatic Processing of Personal Data, regarding supervisory authorities and transborder data flows,
-p. 6, acessível em https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/181.1)
+  See already Article 29 Working Party, WP114, pg. 7. The European Court of Justice repeatedly underlined that
+“the protection of the fundamental right to respect for private life at EU level requires that derogations from and
+limitations on the protection of personal data should apply only in so far as is strictly necessary” (judgments of
+16 December 2008, Satakunnan Markkinapörssi and Satamedia, C 73/07, paragraph 56; of 9 November 2010,
+Volker und Markus Schecke and Eifert, C 92/09 and C 93/09, paragraph 77; the Digital Rights judgment, paragraph
+52, and of 6 October 2015, Schrems, C 362/14, paragraph 92, and of 21 December 2016, Tele2 Sverige AB, C
+203/15, paragraph 96). See also report on the Additional Protocol to Convention 108 on the control authorities
+and cross border flows of data, Article 2(2) (a), p.6 accessible at https://www.coe.int/en/web/conventions/full-
+list/-/conventions/treaty/181.1)
 
-                                                                                                            4
+                                                                                                                 4
 
-não regularmente nem por rotina, devendo realizar-se, por exemplo, em circunstâncias aleatórias e
-desconhecidas, a intervalos temporais arbitrários. Por exemplo, uma transferência de dados que
-ocorra regularmente no âmbito de uma relação estável entre o exportador de dados e um
-determinado importador de dados pode, basicamente, ser considerada sistemática e repetida, e não
-como ocasional ou não repetitiva. Além disso, considera-se geralmente que uma transferência é não
-ocasional ou repetitiva quando o importador de dados tem acesso direto a uma base de dados (por
-exemplo, através de uma interface com uma aplicação informática).
+while such limitation is absent from the “explicit consent derogation”, the “important reasons of public
+interest derogation”, the “vital interests derogation” and the “register derogation” pursuant to Article
+49 (1) subpar. 1 (a), (d), (f) and, respectively, (g).
 
-No considerando 111 diferenciam-se as derrogações afirmando-se expressamente que as
-derrogações relacionadas com um «contrato» ou um «contencioso judicial» [artigo 49.º, n.º 1,
-primeiro parágrafo, alíneas b), c) e e)] se devem limitar às transferências «ocasionais», estando tal
-limitação ausente das derrogações «em situação de consentimento explícito», «por razões
-importantes de interesse público», «para proteção de interesses vitais» e «para transferências
-realizadas a partir de um registo», previstas no artigo 49.º, n.º 1, primeiro parágrafo, alíneas a), d), f)
-e g), respetivamente.
+Nonetheless, it has to be highlighted that even those derogations which are not expressly limited to
+“occasional” or “not repetitive” transfers have to be interpreted in a way which does not contradict
+the very nature of the derogations as being exceptions from the rule that personal data may not be
+transferred to a third country unless the country provides for an adequate level of data protection or,
+alternatively, appropriate safeguards are put in place.8
 
-Importa salientar, todavia, que mesmo as derrogações não expressamente limitadas às
-transferências «ocasionais» ou «não repetitivas» devem ser interpretadas de forma a não
-contradizer a própria natureza das derrogações, enquanto exceções à regra de que os dados pessoais
-não podem ser transferidos para países terceiros se estes não previrem um nível adequado para a
-sua proteção ou, alternativamente, se não forem apresentadas garantias adequadas8.
+Necessity test
 
-Critério da necessidade
+One overarching condition for the use of several derogations is that the data transfer has to be
+“necessary” for a certain purpose. The necessity test should be applied to assess the possible use of
+the derogations of Articles 49 (1) (b), (c), (d), (e) and (f). This test requires an evaluation by the data
+exporter in the EU of whether a transfer of personal data can be considered necessary for the specific
+purpose of the derogation to be used. For more information on the specific application of the necessity
+test in each of the concerned derogations, please refer to the relevant sections below.
 
-Uma condição geral necessária para a utilização de várias derrogações é a de que a transferência de
-dados seja «necessária» para determinado fim. O critério da necessidade deve ser aplicado para
-ponderar a um eventual recurso às derrogações previstas no artigo 49.º, n.º 1, alíneas b), c), d), e) e
-f). Segundo este critério, o exportador de dados estabelecido na UE tem de verificar se a
-transferência de dados pessoais pode ser considerada necessária para o fim específico da derrogação
-que se pretende utilizar. Para mais informações sobre a aplicação concreta do teste da necessidade
-em cada uma das derrogações consultem-se, infra, as respetivas secções.
+Article 48 in relation to derogations
 
-O artigo 48.º e as derrogações
+The GDPR introduces a new provision in Article 48 that needs to be taken into account when
+considering transfers of personal data. Article 48 and the corresponding recital 115 provide that
+decisions from third country authorities, courts or tribunals are not in themselves legitimate grounds
+for data transfers to third countries. Therefore, a transfer in response to a decision from third country
+authorities is in any case only lawful, if in line with the conditions set out in Chapter V.9
 
-O RGPD introduz no artigo 48.º uma nova disposição que tem de ser tida em conta na ponderação de
-transferências de dados pessoais. Dispõe o artigo 48.º, corroborado pelo considerando 115, que as
-decisões de autoridades e órgãos jurisdicionais de países terceiros não constituem, por si sós, um
-fundamento legítimo para transferências de dados para países terceiros. Consequentemente, as
-transferências que respondam a decisões de autoridades de países terceiros só serão, em qualquer
-caso, legítimas se satisfizerem as condições estabelecidas no capítulo V9.
+In situations where there is an international agreement, such as a mutual legal assistance treaty
+(MLAT), EU companies should generally refuse direct requests and refer the requesting third country
+authority to existing MLAT or agreement.
 
-Quando exista um acordo internacional, como um acordo de assistência judiciária mútua, as
-empresas da UE devem, de um modo geral, recusar os pedidos diretos e remeter a autoridade
-requerente do país terceiro para o acordo existente.
-
-Este entendimento está em estreita consonância com o artigo 44.º, que estabelece um princípio
-geral aplicável a todas as disposições do capítulo V, a fim de evitar que seja comprometido o nível de
-proteção das pessoas singulares garantido pelo RGPD.
+This understanding also closely follows Article 44, which sets an overarching principle applying to all
+provisions of Chapter V, in order to ensure that the level of protection of natural persons guaranteed
+by the GDPR is not undermined.
 
 
 
 
-Cf. considerando 115, quarto período.
 9
-
+See Recital 115 sentence 4
 
                                                                                                          5
 
-6
+2. SPECIFIC INTERPRETATION OF THE PROVISIONS OF ARTICLE 49
+2.1 The data subject has explicitly consented to the proposed transfer, after having
+been informed of the possible risks of such transfers for the data subject due to the
+absence of an adequacy decision and appropriate safeguards - Article (49 (1) (a))
 
-2. INTERPRETAÇÃO ESPECÍFICA DAS DISPOSIÇÕES DO ARTIGO 49.º
-2.1 Consentimento explícito do titular dos dados à transferência prevista, após ter sido
-informado dos possíveis riscos dessa transferência para si próprio devido à falta de
-uma decisão de adequação e de garantias adequadas – artigo 49.º, n.º 1, alínea a)
+The general conditions for consent to be considered as valid are defined in Articles 4 (11)10 and 7 of
+the GDPR11. The WP29 provides guidance on these general conditions for consent in a separate
+document, which is endorsed by the EDPB.12 These conditions also apply to consent in the context of
+Article 49 (1) (a). However, there are specific, additional elements required for consent to be
+considered a valid legal ground for international data transfers to third countries and international
+organizations as provided for in Article 49 (1) (a), and this document will focus on them.
 
-As condições gerais para que o consentimento seja considerado válido são definidas nos artigos 4.º,
-n.º 1110, e 7.º do RGPD11. O Grupo de Trabalho do Artigo 29.º formula orientações sobre essas
-condições gerais em documento separado, aprovado pelo CEPD12. As condições aplicam-se
-igualmente ao consentimento no contexto do artigo 49.º, n.º 1, alínea a). Contudo, outros requisitos
-há, específicos, para que o consentimento seja considerado um fundamento jurídico válido para
-transferências internacionais de dados para países terceiros e organizações internacionais, nos
-termos do artigo 49.º, n.º 1, alínea a), e é nesses requisitos que o presente documento se centrará.
+Therefore, this section (1) of the present guidelines shall be read in conjunction with the WP29
+guidelines on consent, endorsed by the EDPB, which provide a more detailed analysis on the
+interpretation of the general conditions and criteria of consent under the GDPR.13 It should also be
+noted that, according to Article 49 (3), public authorities are not able to rely on this derogation in the
+exercise of their public powers.
 
-Por conseguinte, a secção 1 das presentes diretrizes deve ser lida em conjugação com as orientações
-do Grupo de Trabalho do Artigo 29.º sobre o consentimento, aprovadas pelo CEPD, que contêm uma
-análise mais pormenorizada da interpretação das condições gerais e dos critérios aplicáveis ao
-consentimento por força do RGPD13. Importa observar também que, nos termos do artigo 49.º, n.º 3,
-as autoridades públicas não podem invocar esta derrogação no exercício dos seus poderes.
+Article 49 (1) (a) states that a transfer of personal data to a third country or an international
+organization may be made in the absence of an adequacy decision pursuant to Article 45(3), or of
+appropriate safeguards pursuant to Article 46, including binding corporate rules, on the condition that
+‘the data subject has explicitly consented to the proposed transfer, after having been informed of the
+possible risks of such transfers for the data subject due to the absence of an adequacy decision and
+appropriate safeguards’.
 
-O artigo 49.º, n.º 1, alínea a), dispõe que, na falta de uma decisão de adequação nos termos do
-artigo 45.º, n.º 3, ou de garantias adequadas nos termos do artigo 46.º, designadamente de regras
-vinculativas aplicáveis às empresas, as transferências de dados pessoais para países terceiros ou
-organizações internacionais só poderão ser efetuadas se «o titular dos dados tiver explicitamente
-dado o seu consentimento à transferência prevista, após ter sido informado dos possíveis riscos de
-tais transferências para si próprio devido à falta de uma decisão de adequação e das garantias
-adequadas».
+2.1.1 Consent must be explicit
+According to Article 4 (11) of the GDPR, any consent should be freely given, specific, informed and
+unambiguous. On this very last condition, Article 49 (1) (a) is stricter as it requires “explicit” consent.
+This is also a new requirement in comparison to Article 26 (1) (a) of Directive 95/46/EC, which only
+required “unambiguous” consent. The GDPR requires explicit consent in situations where particular
+data protection risks may emerge, and so, a high individual level of control over personal data is
+required, as is the case for the processing of special category data (Article 9 (2) (a)) and automated
+decisions (Article 22 (2) (c)). Such particular risks also appear in the context of international data
+transfers.
 
-2.1.1 O consentimento deve ser explícito
-Por força do artigo 4.º, n.º 11, do RGPD, o consentimento deve ser livre, específico, informado e
-explícito. Esta última condição é retomada pelo artigo 49.º, n.º 1, alínea a) (consentimento dado
-«explicitamente»). Este requisito também é novo relativamente ao artigo 26.º, n.º 1, alínea a), da
-Diretiva 95/46/CE, em cujos termos o consentimento devia ser dado «de forma inequívoca». Por
-força do RGPD o consentimento deve ser explícito em situações em que possam surgir riscos
-específicos para a proteção de dados e seja, por conseguinte, necessário um elevado nível de
-controlo individual dos dados pessoais, como é o caso do tratamento de categorias especiais de
-dados [artigo 9.º, n.º 2, alínea a)] e das decisões automatizadas [artigo 22.º, n.º 2, alínea c)]. Esses
-riscos específicos também surgem no contexto das transferências internacionais de dados.
+For further guidance on the requirement of explicit consent, and for the other applicable requirements
+needed for consent to be considered valid, please refer to the WP29’s Guidelines on Consent which
+are endorsed by the EDPB.14
 
 
 
 
 10
-    Nos termos do artigo 4.º, n.º 11, do RGPD, entende-se por «consentimento» do titular dos dados, uma
-manifestação de vontade, livre, específica, informada e explícita, pela qual o titular dos dados aceita, mediante
-declaração ou ato positivo inequívoco, que os dados pessoais que lhe dizem respeito sejam objeto de
-tratamento;
+   According to Article 4(11) of the GDPR, 'consent' of the data subject means any freely given, specific, informed
+and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear
+affirmative action, signifies agreement to the processing of personal data relating to him or her.
 11
-   Os considerandos 32, 33, 42 e 43 contêm orientações adicionais sobre o consentimento.
+   Also recitals 32, 33, 42 and 43 give further guidance on consent
 12
-   Cf. Grupo de Trabalho do Artigo 29.º, Orientações relativas ao consentimento na aceção do Regulamento
-(UE) 2016/679 (WP259).
+   See Article 29 Working Party Guidelines on Consent under Regulation 2016/679 (WP259)
 13
-   Idem.
+   Idem
+14
+   Idem
+
+                                                                                                                 6
+
+2.1.2 Consent must be specific for the particular data transfer/set of transfers
+One of the requirements of valid consent is that it must be specific. In order to constitute a valid ground
+for a data transfer pursuant to Article 49 (1) (a), hence, consent needs to be specifically given for the
+particular data transfer or set of transfers.
+
+The element “specific” in the definition of consent intends to ensure a degree of user control and
+transparency for the data subject. This element is also closely linked with the requirement that consent
+should be “informed”.
+
+Since consent must be specific, it is sometimes impossible to obtain the data subject’s prior consent
+for a future transfer at the time of the collection of the data, e.g. if the occurrence and specific
+circumstances of a transfer are not known at the time consent is requested, the impact on the data
+subject cannot be assessed. As an example, an EU company collects its customers’ data for a specific
+purpose (delivery of goods) without considering transferring this data, at that time, to a third party
+outside the EU. However, some years later, the same company is acquired by a non-EU company which
+wishes to transfer the personal data of its customers to another company outside the EU. In order for
+this transfer to be valid on the grounds of the consent derogation, the data subject should give his/her
+consent for this specific transfer at the time when the transfer is envisaged. Therefore, the consent
+provided at the time of the collection of the data by the EU company for delivery purposes is not
+sufficient to justify the use of this derogation for the transfer of the personal data outside the EU which
+is envisaged later.
+
+Therefore, the data exporter must make sure to obtain specific consent before the transfer is put in
+place even if this occurs after the collection of the data has been made. This requirement is also related
+to the necessity for consent to be informed. It is possible to obtain the specific consent of a data subject
+prior to the transfer and at the time of the collection of the personal data as long as this specific
+transfer is made known to the data subject and the circumstances of the transfer do not change after
+the specific consent has been given by the data subject. Therefore the data exporter must make sure
+that the requirements set out in section 1.3 below are also complied with.
+
+2.1.3 Consent must be informed15 particularly as to the possible risks of the transfer
+This condition is particularly important since it reinforces and further specifies the general requirement
+of “informed” consent as applicable to any consent and laid down in Art. 4 (11).16 As such, the general
+requirement of “informed” consent, requires, in the case of consent as a lawful basis pursuant to
+Article 6(1) (a) for a data transfer, that the data subject is properly informed in advance of the specific
+circumstances of the transfer, (i.e. the data controller’s identity, the purpose of the transfer, the type
+of data, the existence of the right to withdraw consent, the identity or the categories of recipients).17
+
+In addition to this general requirement of “informed” consent, where personal data are transferred to
+a third country under Article 49 (1) (a), this provision requires data subjects to be also informed of the
+specific risks resulting from the fact that their data will be transferred to a country that does not
+provide adequate protection and that no adequate safeguards aimed at providing protection for the
+data are being implemented. The provision of this information is essential in order to enable the data
+subject to consent with full knowledge of these specific facts of the transfer and therefore if it is not
+supplied, the derogation will not apply.
+
+
+
+15
+   The general transparency requirements of Articles 13 and 14 of the GDPR should also be complied with. For
+more information see Guidelines on transparency under Regulation 2016/679 (WP 260)
+16
+   See Article 29 Working Party Guidelines on Consent under Regulation 2016/679 (WP259)
+17
+   Idem, page 13
 
                                                                                                                7
 
-Para mais orientações sobre o requisito de consentimento explícito e restantes requisitos de validade
-do consentimento, consultem-se as orientações do Grupo de Trabalho do Artigo 29.º sobre o
-consentimento, aprovadas pelo CEPD14.
+The information provided to data subjects in order to obtain consent for the transfer of their personal
+data to third parties established in third countries should also specify all data recipients or categories
+of recipients, all countries to which the personal data are being transferred to, that the consent is the
+lawful ground for the transfer, and that the third country to which the data will be transferred does
+not provide for an adequate level of data protection based on a European Commission decision.18 In
+addition, as mentioned above, information has to be given as to the possible risks for the data subject
+arising from the absence of adequate protection in the third country and the absence of appropriate
+safeguards. Such notice, which could be standardized, should include for example information that in
+the third country there might not be a supervisory authority and/or data processing principles and/or
+data subject rights might not be provided for in the third country.
 
-2.1.2 O consentimento deve ser específico para cada transferência/conjunto de
-transferências de dados
-Um dos requisitos de validade do consentimento é o da especificidade. Assim, para que constitua um
-fundamento válido para uma transferência de dados nos termos do artigo 49.º, n.º 1, alínea a), o
-consentimento tem de ser dado especificamente para essa transferência, ou conjunto de
-transferências, de dados.
+In the specific case where a transfer is performed after the collection of personal data from the data
+subject has been made, the data exporter should inform the data subject of the transfer and of its risks
+before it takes place so as to collect his explicit consent to the “proposed” transfer.
 
-O elemento «especificidade», constante da definição de «consentimento» visa assegurar ao titular
-dos dados um certo grau de controlo do utilizador e a transparência. Este elemento está também
-estreitamente associado ao requisito de que o consentimento deve ser «informado».
+As shown by the analysis above, the GDPR sets a high threshold for the use the derogation of consent.
+This high threshold, combined with the fact that the consent provided by a data subject can be
+withdrawn at any time, means that consent might prove not to be a feasible long term solution for
+transfers to third countries.
 
-Uma vez que o consentimento deve ser específico e que, por vezes não é possível obter-se, à data da
-recolha dos dados, para uma transferência futura, o consentimento prévio do seu titular – por
-exemplo, se a ocorrência e as circunstâncias concretas de uma transferência não forem conhecidas à
-data em que o consentimento é pedido -, não pode ser apreciado o impacto no titular dos dados. A
-título de exemplo, uma empresa da UE recolhe os dados dos seus clientes para um fim específico
-(entrega de bens) sem prever, nessa altura, a transferência desses dados para países terceiros,
-exteriores à UE. Contudo, alguns anos depois, essa empresa é adquirida por uma empresa de um país
-terceiro que pretende transferir os dados pessoais dos seus clientes para outra empresa no exterior
-da UE. Para que a transferência seja válida ao abrigo na derrogação baseada no consentimento, o
-titular dos dados deve dar o seu consentimento para essa transferência específica no momento da
-sua previsão. Por conseguinte, o consentimento dado à data da recolha dos dados pela empresa da
-UE para efeitos de entrega de bens não é suficiente para justificar o recurso a esta derrogação para
-uma transferência posterior dos dados pessoais para fora da União.
+2.2 Transfer necessary for the performance of a contract between the data subject
+and the controller or for the implementation of precontractual measures taken at the
+data subject’s request - (49 (1) (b))
+In view of recital 111, data transfers on the grounds of this derogation may take place “where the
+transfer is occasional and necessary in relation to a contract (…)”19
 
-O exportador dos dados te, pois, de se certificar de que obtém um consentimento específico antes
-de a transferência ser decidida, ainda que tal aconteça depois de a recolha dos dados ter sido
-efetuada. Este requisito está igualmente relacionado com a necessidade de o consentimento ser
-informado. É possível obter o consentimento específico de um titular de dados antes da
-transferência e à data da recolha dos dados pessoais, desde que essa transferência específica seja
-comunicada ao titular dos dados e as suas circunstâncias se não alterem depois de este ter dado o
-seu consentimento específico. Consequentemente, o exportador de dados tem de se certificar de
-que os requisitos enunciados infra, no ponto 1.3 são igualmente cumpridos.
+In general, although the derogations relating to the performance of a contract may appear to be
+potentially rather broad, they are being limited by the criterions of “necessity” and of “occasional
+transfers”.
 
-2.1.3 O consentimento deve ser informado15, em particular quanto aos possíveis riscos da
-transferência
-Esta condição é particularmente importante na medida em que reforça e precisa o requisito geral do
-«consentimento informado», aplicável a qualquer consentimento, estabelecido no artigo 4.º, n.º
-1116. Como tal, para cumprimento do requisito geral do «consentimento informado», no caso de o
-consentimento constituir, nos termos do artigo 6.º, n.º 1, alínea a), a base jurídica de uma
+Necessity of the data transfer
 
-14
-   Idem.
-15
-   Os requisitos gerais de transparência estabelecidos nos artigos 13.º e 14.º do RGPD devem ser igualmente
-cumpridos. Para mais informações, consultem-se as Orientações relativas à Transparência na aceção do
-Regulamento (UE) 2016/679 (WP 260).
-16
-   Cf. Grupo de Trabalho do Artigo 29.º, Orientações relativas ao consentimento na aceção do Regulamento
-(UE) 2016/679 (WP259).
+The “necessity test” 20 limits the number of cases in which recourse can be made to Article 49 (1) (b).21
+It requires a close and substantial connection between the data transfer and the purposes of the
+contract.
 
-                                                                                                         8
+This derogation cannot be used for example when a corporate group has, for business purposes,
+centralized its payment and human resources management functions for all its staff in a third country
+as there is no direct and objective link between the performance of the employment contract and such
+transfer.22 Other grounds for transfer as provided for in Chapter V such as standard contractual clauses
+or binding corporate rules may, however, be suitable for the particular transfer.
 
-transferência de dados, o titular dos dados deve ser prévia e adequadamente informado sobre as
-circunstâncias específicas da transferência (ou seja, da identidade do responsável pelo tratamento
-dos dados, da finalidade da transferência, do tipo de dados, do direito de retirar o consentimento e
-da identidade ou das categorias dos destinatários)17.
 
-Complementarmente ao requisito geral do «consentimento informado», se forem transferidos dados
-pessoais para um país terceiro ao abrigo do artigo 49.º, n.º 1, alínea a), os titulares dos dados devem,
-por força desta disposição, ser igualmente informados dos riscos específicos resultantes do facto de
-os seus dados serem transferidos para um país que não oferece um nível adequado de proteção dos
-dados e de não serem dadas garantias adequadas dessa proteção. A comunicação destas
-informações é essencial para que o titular dos dados possa dar o seu consentimento com pleno
-conhecimento das circunstâncias específicas da transferência, pelo que, se lhe não forem
-comunicadas essas informações, a derrogação não será aplicável.
 
-Das informações comunicadas aos titulares dos dados com o intuito de obter o seu consentimento
-para a transferência dos seus dados pessoais para terceiros estabelecidos em países terceiros devem
-constar também as indicações de todos os destinatários ou categorias de destinatário dos dados, de
-todos os países para onde estes serão transferidos, de que o consentimento constitui a base legal da
-transferência e de que o país terceiro para onde os dados serão transferidos não prevê um nível
-adequado de proteção dos dados confirmado por uma decisão da Comissão Europeia18. Além disso,
-como já foi dito, devem ser comunicadas informações sobre os riscos que para o titular dos dados
-podem advir da falta de proteção adequada no país terceiro e da inexistência de garantias
-adequadas. O aviso, eventualmente normalizado, deve incluir, entre outras, a informação de que, no
-país terceiro, podem não existir uma autoridade de controlo nem/ou princípios de tratamento de
-dados nem/ou reconhecimento dos direitos dos titulares dos dados.
-
-No caso específico de uma transferência efetuada depois da recolha dos dados pessoais do titular
-dos dados, o exportador de dados deve informar o titular sobre a transferência e os seus riscos,
-antes de a efetuar, para obter o seu consentimento explícito para a transferência «prevista».
-
-Tal como o demonstra a análise acima exposta, o RGPD estabelece um limiar elevado para o recurso
-à derrogação baseada no consentimento. Este limiar elevado, conjugado com o facto de o
-consentimento dado por um titular dos dados poder ser retirado a qualquer momento, significa que
-o consentimento poderá não ser uma solução exequível a longo prazo para transferências para
-países terceiros.
-
-2.2 Transferência necessária para a execução de um contrato entre o titular dos dados
-e o responsável pelo tratamento, ou de diligências prévias à celebração do contrato
-decididas a pedido do titular dos dados – [artigo 49.º, n.º 1, alínea b)]
-Tendo em conta o considerando 111, as transferências de dados com base nesta derrogação podem
-ter lugar em circunstâncias «em que a transferência seja ocasional e necessária em relação a um
-contrato (…)»19.
-
-De um modo geral, embora as derrogações relativas à execução de um contrato possam afigurar-se
-bastante latas, são limitadas pelos critérios da «necessidade» e das «transferências ocasionais».
-
-17
-   Idem, página 13.
 18
-   O último requisito mencionado também decorre do dever de informar os titulares dos dados [artigo 13.º,
-n.º 1, alínea f), e artigo 14.º, n.º 1, alínea e)].
+   The last mentioned requirement also stems from the duty to inform the data subjects (Article 13(1)(f), Article
+14(1)(e))
 19
-    O critério de que as transferências sejam «ocasionais» é referido no considerando 111 e é aplicável às
-derrogações previstas no artigo 49.º, n.º 1, alíneas b), c) e e).
-
-                                                                                                        9
-
-Necessidade da transferência de dados
-
-O «critério da necessidade» 20 limita o número de casos em que é possível recorrer-se ao disposto no
-artigo 49.º, n.º 1, alínea b)21. Exige uma ligação estreita e substancial entre a transferência de dados e
-as finalidades do contrato.
-
-Esta derrogação não pode ser utilizada, por exemplo, se um grupo empresarial, para fins
-empresariais, tiver centralizado num país terceiro as funções de pagamento e de gestão de recursos
-humanos de todo o seu pessoal, e não existir uma ligação direta e objetiva entre a execução do
-contrato de trabalho e essa transferência22. Porém, poderão ser adequados para essa transferência
-específica outros fundamentos para transferências previstos no capítulo V, como os das cláusulas
-contratuais normalizadas e das regras vinculativas aplicáveis às empresas.
-
-Por outro lado, a transferência, por agentes de viagens, de dados pessoais dos clientes para hotéis ou
-outros parceiros comerciais participantes na organização das estadas desses clientes no estrangeiro
-pode ser considerada necessária para a execução dos contratos entre o agente de viagens e os
-clientes, uma vez que, neste caso, há uma ligação suficientemente estreita e substancial entre a
-transferência de dados e a finalidade do contrato (organização da viagem dos clientes).
-
-Esta derrogação não pode ser aplicada a transferências de informações complementares que não
-sejam necessárias para a execução do contrato ou para diligências prévias à celebração do contrato
-solicitadas pelo titular dos dados23; outros dados carecerão, portanto, de outros instrumentos.
-
-Transferências ocasionais
-
-Os dados pessoais só podem ser transferidos ao abrigo desta derrogação se a transferência for
-ocasional24. Terá, assim, de se determinar caso a caso se uma ou mais transferências de dados devem
-ser consideradas «ocasionais» ou «não ocasionais».
-
-Neste contexto, pode considerar-se que uma transferência é ocasional se, por exemplo, os dados
-pessoais de um gestor de vendas, que, no âmbito do seu contrato de trabalho, visite diversos clientes
-em países terceiros, forem enviados a esses clientes para organização das reuniões. Poderá também
-ser considerada ocasional a transferência, por um banco estabelecido na UE, de dados pessoais para
-um banco estabelecido num país terceiro, a fim de executar a ordem de pagamento dada por um
-cliente, desde que essa transferência não ocorra no âmbito de uma relação de cooperação estável
-entre os dois bancos.
-
-Pelo contrário, se uma empresa multinacional que organize cursos de formação num centro de
-formação de um país terceiro e transfira sistematicamente os dados pessoais dos trabalhadores que
-frequentem um curso de formação (por exemplo, não só dados como o nome e o cargo, mas
-também, eventualmente, informações sobre o regime alimentar ou as restrições à mobilidade), essas
-transferências não podem ser consideradas «ocasionais». As transferências regulares de dados no
-âmbito de uma relação estável são consideradas sistemáticas e repetidas, porquanto não têm caráter
-
-
+   The criterion of “occasional” transfers is found in recital 111 and applies to the derogations of Article 49 (1)
+(b), (c) and (e).
 20
-   Cf. também o Parecer 06/2014 do Grupo de Trabalho do Artigo 29.º sobre o conceito de interesses legítimos
-do responsável pelo tratamento, enunciado no artigo 7.º da Diretiva 95/46/CE (WP 217).
+   See also Article 29 Working Party Opinion 06/2014 on the notion of legitimate interests of the data controller
+under Article 7 of Directive 95/46/EC (WP 217)
 21
-   O requisito da «necessidade» encontra-se também nas derrogações estabelecidas pelo artigo 49.º, n.º 1,
-alíneas c) a f).
+   The “necessity” requirement also can be found in the derogations set forth in Article 49 (1) (c) to (f).
 22
-   Além disso, essa não será considerada ocasional (cf. infra).
+   In addition it will not be seen as being occasional (see below).
+
+                                                                                                                 8
+
+On the other hand, the transfer by travel agents of personal data concerning their individual clients to
+hotels or to other commercial partners that would be called upon in the organization of these clients’
+stay abroad can be deemed necessary for the purposes of the contract entered into by the travel agent
+and the client, since, in this case, there is a sufficient close and substantial connection between the
+data transfer and the purposes of the contract (organization of clients’ travel).
+
+This derogation cannot be applied to transfers of additional information not necessary for the
+performance of the contract or, respectively, for the implementation of precontractual measures
+requested by the data subject23; for additional data other tools would hence be required.
+
+Occasional transfers
+
+Personal data may only be transferred under this derogation when this transfer is occasional.24 It would
+have to be established on a case by case basis whether data transfers or a data transfer would be
+determined as “occasional” or “non-occasional”.
+
+A transfer here may be deemed occasional for example if personal data of a sales manager, who in the
+context of his/her employment contract travels to different clients in third countries, are to be sent to
+those clients in order to arrange the meetings. A transfer could also be considered as occasional if a
+bank in the EU transfers personal data to a bank in a third country in order to execute a client’s request
+for making a payment, as long as this transfer does not occur in the framework of a stable cooperation
+relationship between the two banks.
+
+On the contrary, transfers would not qualify as “occasional” in a case where a multi-national company
+organises trainings in a training centre in a third country and systematically transfers the personal data
+of those employees that attend a training course (e.g. data such as name and job title, but potentially
+also dietary requirements or mobility restrictions). Data transfers regularly occurring within a stable
+relationship would be deemed as systematic and repeated, hence exceeding an “occasional” character.
+Consequently, in this case many data transfers within a business relationship may not be based on
+Article 49 (1) (b).
+
+According to Article 49(1) (3), this derogation cannot apply to activities carried out by public authorities
+in the exercise of their public powers.
+
+2.3 Transfer necessary for the conclusion or performance of a contract concluded in
+the interest of the data subject between the controller and another natural or legal
+person - (49 (1) (c))
+The interpretation of this provision is necessarily similar to that of Article 49 (1) (b); namely, that a
+transfer of data to a third country or an international organization in the absence of an adequacy
+decision pursuant to Article 45(3), or of appropriate safeguards pursuant to Article 46, can only be
+deemed to fall under the derogation of Article 49(1) (c), if it can be considered to be “necessary for the
+conclusion or performance of a contract between the data controller and another natural or legal
+person, in the interest of the data subject”.
+
+Aside from being necessary, recital 111 indicates that, data transfers may only take place “where the
+transfer is occasional and necessary in relation to a contract (...)” Therefore, apart from the “necessity
+
+
+
 23
-   De um modo mais geral, as derrogações previstas no artigo 49.º, n.º 1, alíneas b) a f), só permitem transferir
-os dados necessários para a finalidade da transferência.
+   More generally, all derogations of Article 49(1) (b) to (f) only allow that the data which are necessary for the
+purpose of the transfer may be transferred.
 24
-   Quanto à definição geral do termo «ocasional», cf. página 4.
+   As to the general definition of the term « occasional » see page 4
 
-                                                                                                              10
+                                                                                                                      9
 
-«ocasional». Consequentemente, podem não se basear no artigo 49.º, n.º 1, alínea b), muitas
-transferências de dados no âmbito de relações empresariais.
+test”, personal data here as well may only be transferred under this derogation only when the transfer
+is occasional.
 
-Por força do artigo 49.º, n.os 1 e 3, esta derrogação não pode ser aplicada a atividades exercidas por
-autoridades públicas na sua esfera de competências.
+Necessity of the data transfer and conclusion of the contract in the interest of the data subject
 
-2.3 Transferência necessária para a celebração ou execução de um contrato celebrado
-no interesse do titular dos dados entre o responsável pelo seu tratamento e outra
-pessoa, singular ou coletiva – [artigo 49.º, n.º 1, alínea c)]
-Do mesmo modo, a interpretação desta disposição é, necessariamente, semelhante à do artigo 49.º,
-n.º 1, alínea b); designadamente, só pode considerar-se que, na falta de uma decisão de adequação
-nos termos do artigo 45.º, n.º 3, ou de garantias adequadas nos termos do artigo 46.º, uma
-transferência de dados para um país terceiro ou uma organização internacional só estará abrangida
-pela derrogação prevista no artigo 49.º, n.º 1, alínea c), se for possível considerar que a mesma é
-«necessária para a celebração ou execução de um contrato, celebrado no interesse do titular dos
-dados, entre o responsável pelo seu tratamento e outra pessoa singular ou coletiva».
+Where an organization has, for business purposes, outsourced activities such as payroll management
+to service providers outside the EU, this derogation will not provide a basis for data transfers for such
+purposes, since no close and substantial link between the transfer and a contract concluded in the data
+subject’s interest can be established even if the end purpose of the transfer is the management of the
+pay of the employee.25 Other transfer tools provided in Chapter V may provide a more suitable basis
+for such transfers such as standard contractual clauses or binding corporate rules.
 
-Além de serem necessárias, o considerando 111 indica que as transferências de dados só podem
-efetuar-se se «a transferência [for] ocasional e necessária em relação a um contrato (...)». Por
-conseguinte, além do «critério da necessidade», também neste caso só é possível transferirem-se
-dados pessoais ao abrigo desta derrogação se a transferência for ocasional.
+Occasional transfers
 
-Necessidade da transferência de dados e celebração do contrato no interesse do titular dos dados
+Moreover, personal data may only be transferred under this derogation, when the transfer is
+occasional as it is the case under the derogation of Article 49 (1) (b). Therefore, in order to assess
+whether such transfer is occasional, the same test has to be carried out26.
 
-Se uma organização tiver, para fins empresariais, externalizado atividades como a gestão dos salários
-a prestadores de serviços estabelecidos fora da UE, esta derrogação não serve de base para
-transferências de dados com tais fins, visto não ser possível estabelecer-se uma ligação estreita e
-substancial entre a transferência e um contrato celebrado no interesse do titular dos dados, mesmo
-que o fim último da transferência seja a gestão do salário do trabalhador25. Outros instrumentos de
-transferência referidos no capítulo V podem constituir bases mais adequadas para tais
-transferências, como as cláusulas contratuais normalizadas e as regras vinculativas aplicáveis às
-empresas.
+Finally, according to Article 49(1) (3), this derogation cannot apply to activities carried out by public
+authorities in the exercise of their public powers.27
 
-Transferências ocasionais
+2.4 Transfer is necessary for important reasons of public interest - (49 (1) (d))
+This derogation, usually referred to as the “important public interest derogation”, is very similar to the
+provision contained in Directive 95/46/EC28 under Article 26 (1) (d), which provides that a transfer shall
+take place only where it is necessary or legally required on important public interest grounds.
 
-Acresce que os dados pessoais só podem ser transferidos ao abrigo desta derrogação se a
-transferência for ocasional, como acontece com a derrogação do artigo 49.º, n.º 1, alínea b). Assim,
-para se verificar se tal transferência é ocasional, deve aplicar-se o mesmo critério26.
+According to Article 49 (4), only public interests recognized in Union law or in the law of the Member
+State to which the controller is subject can lead to the application of this derogation.
 
-Por último, nos termos do artigo 49.º, n.os 1 e 3, esta derrogação não pode ser aplicada a atividades
-exercidas por autoridades públicas na sua esfera de competências27.
+However, for the application of this derogation, it is not sufficient that the data transfer is requested
+(for example by a third country authority) for an investigation which serves a public interest of a third
+country which, in an abstract sense, also exists in EU or Member State law. Where for example a third
+country authority requires a data transfer for an investigation aimed at combatting terrorism, the mere
+existence of EU or member state legislation also aimed at combatting terrorism is not as such a
+sufficient trigger to apply Article 49 (1) (d) to such transfer. Rather, as emphasized by the WP29,
+predecessor of the EDPB, in previous statements,29 the derogation only applies when it can also be
+deduced from EU law or the law of the member state to which the controller is subject that such data
+transfers are allowed for important public interest purposes including in the spirit of reciprocity for
+international cooperation. The existence of an international agreement or convention which
+recognises a certain objective and provides for international cooperation to foster that objective can
+be an indicator when assessing the existence of a public interest pursuant to Article 49 (1) (d), as long
+as the EU or the Member States are a party to that agreement or convention.
 
-2.4 Transferência necessária por importantes razões de interesse público –
-[artigo 49.º, n.º 1, alínea d)]
-Esta derrogação, habitualmente designada por «derrogação para proteção de um interesse público
-importante», é muito semelhante à disposição constante do artigo 26.º, n.º 1, alínea d), da Diretiva
 
 
 
 25
-   Além disso, essas transferências não serão consideradas ocasionais (cf. infra).
+   In addition it will not be seen as being occasional (see below).
 26
-   Quanto à definição geral do termo «ocasional», cf. página 4.
+   As to the general definition of the term “occasional” please see page 4
 27
-   Para mais informações, cf. supra, secção 1, página 5.
-
-                                                                                                   11
-
-95/46/CE28, em cujos termos uma transferência só pode ter lugar se for necessária ou legalmente
-exigida para a proteção de um interesse público importante.
-
-Nos termos do artigo 49.º, n.º 4, só o interesse público reconhecido pelo direito da União ou pelo
-direito do Estado-Membro a que o responsável pelo tratamento se encontre sujeito pode levar à
-aplicação desta derrogação.
-
-Contudo, para que a derrogação seja aplicada, não basta que a transferência de dados seja pedida
-(por exemplo, por uma autoridade de um país terceiro) para fins de um inquérito que sirva um
-interesse público de um país terceiro, que, em termos abstratos, também exista no direito da UE ou
-do Estado-Membro. Se, por exemplo, uma autoridade de um país terceiro, pedir uma transferência
-de dados para um inquérito destinado a combater o terrorismo, a mera existência de legislação da
-UE ou dos Estados-Membros que prossiga o mesmo fim não é, por si só, suficiente para desencadear
-a aplicação do artigo 49.º, n.º 1, alínea d), a essa transferência. Pelo contrário, conforme salientado
-pelo Grupo de Trabalho do Artigo 29.º, antecessor do CEPDE, em declarações anteriores29, a
-derrogação só é aplicável se for igualmente possível deduzir da legislação da UE ou do
-Estado-Membro a que o responsável pelo tratamento está sujeito que essas transferências de dados
-são autorizadas para proteger interesses públicos importantes, inclusivamente no espírito de
-reciprocidade da cooperação internacional. A existência de um acordo ou de uma convenção
-internacional que reconheça um determinado objetivo e preveja o recurso à cooperação
-internacional para promovê-lo pode servir de indicador para se aferir da existência de um interesse
-público nos termos do artigo 49.º, n.º 1, alínea d), desde que a UE ou os Estados-Membros sejam
-Parte nesse acordo ou nessa convenção.
-
-Embora se destine principalmente a ser utilizado por autoridades públicas, o artigo 49.º, n.º 1, alínea
-d), também pode ser invocado por entidades privadas. Esta possibilidade é corroborada por alguns
-dos exemplos enunciados no considerando 112, que refere transferências efetuadas tanto por
-autoridades públicas como por entidades privadas30.
-
-Como tal, o requisito essencial para a aplicabilidade desta derrogação é a constatação de um
-interesse público importante e não a natureza da organização (pública, privada ou internacional) que
-transfere e/ou recebe os dados.
-
-Os considerandos 111 e 112 indicam que esta derrogação não está limitada às transferências de
-dados «ocasionais»31, mas isso não significa que as transferências de dados baseadas na derrogação
-relativa à proteção de um interesse público importante nos termos do artigo 49.º, n.º 1, alínea d),
-possam realizar-se em larga escala e de forma sistemática. Pelo contrário, há que respeitar o
-princípio geral de que as derrogações estabelecidas no artigo 49.º não devem tornar-se «a regra» na
-prática, antes devendo restringir-se a situações específicas, tendo cada exportador de dados de
-assegurar que a transferência satisfaz o critério da estrita necessidade32.
-
-
+   For more information please refer to section 1, page 5 above.
 28
-   Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das
-pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados
-(JO L 281 de 23.11.1995, p. 31).
+    DIRECTIVE 95/46/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL, of 24 October 1995 on the
+protection of individuals with regard to the processing of personal data and on the free movement of such data
 29
-   Parecer 10/2006 do Grupo de trabalho do artigo 29.º sobre o tratamento de dados pessoais pela Sociedade
-de Telecomunicações Financeiras Interbancárias Mundiais (SWIFT) (WP128), p. 25
+   Article 29 Working Party Opinion 10/2006 on the processing of personal data by the Society for Worldwide
+Interbank Financial Telecommunication (SWIFT) (WP128), p. 25
+
+                                                                                                           10
+
+Although mainly focused to be used by public authorities, Article 49 (1) (d) may also be relied upon by
+private entities. This is supported by some of the examples enumerated in recital 112 which mention
+both transfers by public authorities and private entities30.
+
+As such, the essential requirement for the applicability of this derogation is the finding of an important
+public interest and not the nature of the organization (public, private or international organization)
+that transfers and/or receives the data.
+
+Recitals 111 and 112 indicate that this derogation is not limited to data transfers that are
+“occasional”31. Yet, this does not mean that data transfers on the basis of the important public interest
+derogation under Article 49 (1) (d) can take place on a large scale and in a systematic manner. Rather,
+the general principle needs to be respected according to which the derogations as set out in Article 49
+shall not become “the rule” in practice, but need to be restricted to specific situations and each data
+exporter needs to ensure that the transfer meets the strict necessity test.32
+
+Where transfers are made in the usual course of business or practice, the EDPB strongly encourages
+all data exporters (in particular public bodies33) to frame these by putting in place appropriate
+safeguards in accordance with Article 46 rather than relying on the derogation as per Article 49(1) (d).
+
+2.5 Transfer is necessary for the establishment, exercise or defense of legal claims -
+(49 (1) (e))
+Establishment, exercise or defense of legal claims
+
+Under Article 49 (1) (e), transfers may take place when “the transfer is necessary for the establishment,
+exercise or defense of legal claims”. Recital 111 states that a transfer can be made where it is
+“occasional and necessary in relation to a contract or a legal claim, regardless of whether in a judicial
+procedure or whether in an administrative or any out-of-court procedure, including procedures before
+regulatory bodies”. This covers a range of activities for example, in the context of a criminal or
+administrative investigation in a third country (e.g. anti-trust law, corruption, insider trading or similar
+situations), where the derogation may apply to a transfer of data for the purpose of defending oneself
+or for obtaining a reduction or waiver of a fine legally foreseen e.g. in anti-trust investigations. As well,
+data transfers for the purpose of formal pre-trial discovery procedures in civil litigation may fall under
+this derogation. It can also cover actions by the data exporter to institute procedures in a third country
+for example commencing litigation or seeking approval for a merger. The derogation cannot be used
+to justify the transfer of personal data on the grounds of the mere possibility that legal proceedings or
+formal procedures may be brought in the future.
+
+This derogation can apply to activities carried out by public authorities in the exercise of their public
+powers (Article 49 (3)).
+
+The combination of the terms “legal claim” and “procedure” implies that the relevant procedure must
+have a basis in law, including a formal, legally defined process, but is not necessarily limited to judicial
+or administrative procedures (“or any out of court procedure”). As a transfer needs to be made in a
+
+
 30
-    «intercâmbio internacional de dados entre autoridades de concorrência, administrações fiscais ou
-aduaneiras, entre autoridades de supervisão financeira, entre serviços competentes em matéria de segurança
-social ou de saúde pública, por exemplo em caso de localização de contactos no que respeita a doenças
-contagiosas ou para reduzir e/ou eliminar a dopagem no desporto.»
+   “international data exchange between competition authorities, tax or customs administrations, between
+financial supervisory authorities, between services competent for social security matters, or for public health, for
+example in the case of contact tracing for contagious diseases or in order to reduce and/or eliminate doping in
+sport.”
 31
-   Quanto à definição geral do termo «ocasional», cf. página 4.
+   As to the general definition of the term « occasional » see page 4
 32
-   Cf. também a página 3.
-
-                                                                                                        12
-
-Se as transferências forem efetuadas no decurso de atividades ou práticas empresariais correntes, o
-CEPD insta vivamente todos os exportadores de dados (em especial os organismos públicos33) a
-estabelecerem garantias adequadas, em conformidade com o artigo 46.º, em vez de invocarem a
-derrogação prevista pelo artigo 49.º, n.º 1, alínea d).
-
-2.5 Transferência necessária à declaração, ao exercício ou à defesa de um direito num
-processo judicial – [artigo 49.º, n.º 1, alínea e)]
-Declaração, exercício ou defesa de um direito num processo judicial
-
-Nos termos do artigo 49.º, n.º 1, alínea e), as transferências podem ser realizadas se forem
-necessárias «à declaração, ao exercício ou à defesa de um direito num processo judicial». O
-considerando 111 refere que uma transferência pode ser efetuada caso «seja ocasional e necessária
-em relação a um contrato ou a um contencioso judicial, independentemente de se tratar de um
-processo judicial, de um processo administrativo ou de um qualquer procedimento não judicial,
-incluindo procedimentos junto de organismos de regulação». Esta disposição abrange uma série de
-atividades, por exemplo, no contexto de um inquérito criminal ou administrativo num país terceiro
-(em aplicação de legislação em matéria de defesa da concorrência e de luta contra a corrupção, de
-abuso de informação privilegiada ou situações semelhantes), em que a derrogação pode ser aplicada
-a uma transferência de dados para fins de autodefesa ou de obtenção de redução ou de
-não-aplicação de uma coima prevista por lei; por exemplo em inquéritos de infrações à legislação em
-matéria de defesa da concorrência. As transferências de dados no âmbito de procedimentos formais
-de averiguação pré-processual também podem ser abrangidas pela derrogação. Esta pode ainda ser
-invocada pelo exportador de dados em diligências para instaurar procedimentos em país terceiro;
-por exemplo para intentar um processo contencioso ou obter a aprovação de uma fusão. Não pode,
-todavia, ser utilizada para justificar a transferência de dados pessoais invocando-se a mera
-possibilidade de se intentarem ações judiciais ou procedimentos formais no futuro.
-
-Esta derrogação não pode ser aplicada a atividades exercidas por autoridades públicas na sua esfera
-de competências (artigo 49.º, n.º 3).
-
-A combinação dos termos «contencioso judicial» e «processo» implica que o procedimento em causa
-deve ter uma base jurídica, incluindo um processo formal, definido por lei, mas que não está
-necessariamente limitado aos processos judiciais ou administrativos («ou de um qualquer
-procedimento não judicial»). Dado que uma transferência tem de ser efetuada no âmbito de um
-procedimento, tem de haver uma ligação estreita entre a transferência de dados e o procedimento
-específico utilizado na situação em causa. A aplicabilidade em abstrato de um determinado tipo de
-procedimento não seria suficiente.
-
-Os responsáveis pelo tratamento dos dados e os subcontratantes devem ter em atenção que a
-legislação nacional também pode conter «disposições de bloqueio» que os proíbam de transferir
-dados pessoais, ou limitem a transferência desses dados para tribunais ou outros organismos oficiais
-estrangeiros.
-
-Necessidade da transferência de dados
-
-Uma determinada transferência de dados só pode ser efetuada se for necessária para a declaração, o
-exercício ou a defesa do direito em causa. Este «critério da necessidade» exige uma ligação estreita e
-substancial entre os dados em questão e a declaração, o exercício ou a defesa específicos do direito
-
+   See also page 3
 33
-  Por exemplo, as autoridades de supervisão financeira que procedem ao intercâmbio de dados no contexto
-de transferências internacionais de dados pessoais para fins de cooperação administrativa.
+   For example financial supervisory authorities exchanging data in the context of international transfers of
+personal data for administrative cooperation purposes
 
-                                                                                                    13
+                                                                                                                 11
 
-legal34. O mero interesse das autoridades de países terceiros ou a eventual «boa-vontade» que se
-obteria da sua parte não é, por si só, suficiente.
+procedure, a close link is necessary between a data transfer and a specific procedure regarding the
+situation in question. The abstract applicability of a certain type of procedure would not be sufficient.
 
-Embora um exportador de dados possa ter a tentação de transferir todos dados pessoais que possam
-ter pertinência em resposta a um pedido ou com o fim de instaurar um processo judicial, esse
-procedimento não seria consentâneo com esta derrogação nem com o RGPD em geral, uma vez que
-este regulamento (no princípio da minimização dos dados) destaca a necessidade de os dados
-pessoais serem adequados, pertinentes e limitados ao necessário para as finalidades para as quais
-são tratados.
+Data controllers and data processors need to be aware that national law may also contain so-called
+“blocking statutes”, prohibiting them from or restricting them in transferring personal data to foreign
+courts or possibly other foreign official bodies.
 
-Em relação aos processos contenciosos, o Grupo de Trabalho do artigo 29º, antecessor do CEPD,
-estabeleceu uma abordagem por níveis da questão de saber se os dados pessoais devem ser
-transferidos, a qual inclui a aplicação deste princípio. Em primeiro lugar, deve avaliar-se
-cuidadosamente se no caso concreto, será suficiente a anonimização dos dados. Se não for
-suficiente, pode ponderar-se a transferência de dados pseudonimizados. Caso seja necessário enviar
-dados pessoais para um país terceiro, a sua pertinência para a questão em apreço deve ser apreciada
-antes da transferência, de modo a que só o conjunto de dados pessoais realmente necessário seja
-transferido e divulgado.
+Necessity of the data transfer
 
-Transferência ocasional
+A data transfer in question may only take place when it is necessary for the establishment, exercise or
+defense of the legal claim in question. This “necessity test” requires a close and substantial connection
+between the data in question and the specific establishment, exercise or defense of the legal
+position.34 The mere interest of third country authorities or possible “good will” to be obtained from
+the third country authority as such would not be sufficient.
 
-Essas transferências só podem ser efetuadas se forem ocasionais. Para mais informações sobre a
-definição de transferências ocasionais, consulte-se a secção sobre transferências «ocasionais e não
-repetitivas»35. Os exportadores de dados terão de avaliar cada caso específico.
+Whilst there may be a temptation for a data exporter to transfer all possibly relevant personal data in
+response to a request or for instituting legal procedures, this would not be in line with this derogation
+or with the GDPR more generally as this (in the principle of data minimization) emphasizes the need
+for personal data to be adequate, relevant and limited to what is necessary in relation to the purposes
+for which they are processed.
 
-2.6 Transferência necessária para proteger os interesses vitais do titular dos dados ou
-de outras pessoas, se esse titular estiver física ou legalmente incapaz de dar o seu
-consentimento – [artigo 49.º, n.º 1, alínea f)]
-Evidentemente, a derrogação do artigo 49.º, n.º 1, alínea f), é aplicável quando os dados são
-transferidos em situação de emergência médica e se considera que tal transferência é diretamente
-necessária para a prestação dos cuidados médicos que se impõem.
+In relation to litigation proceedings the WP29, predecessor of the EDPB, has already set out a layered
+approach to the question of whether the personal data should be transferred, including the application
+of this principle. As a first step, there should be a careful assessment of whether anonymized data
+would be sufficient in the particular case. If this is not the case, then transfer of pseudonymized data
+could be considered. If it is necessary to send personal data to a third country, its relevance to the
+particular matter should be assessed before the transfer – so only a set of personal data that is actually
+necessary is transferred and disclosed.
 
-Assim, por exemplo, deve ser legalmente possível transferir dados (incluindo determinados dados
-pessoais) se o seu titular se encontrar fora da UE, inconsciente e necessitado de cuidados médicos
-urgentes, e só um exportador (por exemplo, o seu médico assistente) estabelecido num
-Estado-Membro da UE puder facultar esses dados. Nesses casos, a lei parte do princípio de que o
-risco iminente de danos graves para o titular dos dados prevalece sobre as preocupações quanto à
-proteção destes.
+Occasional transfer
 
-A transferência deve estar relacionada com o interesse individual do titular dos dados ou de outra
-pessoa e, estando em causa dados de saúde, deve ser necessária para um diagnóstico essencial. Em
-consequência, esta derrogação não pode ser utilizada para justificar a transferência de dados
-pessoais de natureza médica para fora da UE se a finalidade da transferência não for o tratamento do
-caso específico do titular dos dados ou de outra pessoa, mas sim, por exemplo, a realização de
-investigação médica geral que só venha a produzir resultados num futuro incerto.
+Such transfers should only be made if they are occasional. For information on the definition of
+occasional transfers please see the relevant section on “occasional and “non-repetitive” transfers.35
+Data exporters would need to carefully assess each specific case.
 
-Efetivamente, o RGPD não restringe a utilização desta derrogação a situações relativas à integridade
-física de uma pessoa, deixando igualmente margem para atender, por exemplo, aos casos em que a
+2.6 Transfer necessary in order to protect the vital interests of the data subject or of
+other persons, where the data subject is physically or legally incapable of giving
+consent – (49 (1) (f))
+The derogation of Article 49 (1) (f) obviously applies when data is transferred in the event of a medical
+emergency and where it is considered that such transfer is directly necessary in order to give the
+medical care required.
+
+Thus, for example, it must be legally possible to transfer data (including certain personal data) if the
+data subject, whilst outside the EU, is unconscious and in need of urgent medical care, and only a
+exporter (e.g. his usual doctor), established in an EU Member State, is able to supply these data. In
+such cases the law assumes that the imminent risk of serious harm to the data subject outweighs data
+protection concerns.
+
+
 
 
 34
-     Considerando 111: «necessária em relação a um contrato ou a um contencioso judicial».
+     Recital 111: “necessary in relation to a contract or a legal claim.”
 35
-     Página 4.
+     Page 4
 
-                                                                                                 14
+                                                                                                       12
 
-sua integridade mental tenha de ser protegida. Nesses casos, a pessoa em causa terá também de
-estar – física ou legalmente – incapaz de dar o consentimento para a transferência dos seus dados
-pessoais. Além disso, a pessoa cujos dados pessoais são objeto da transferência não pode estar –
-física e legalmente – em condições de dar o seu consentimento para que a transferência seja
-efetuada.
+The transfer must relate to the individual interest of the data subject or to that of another person’s
+and, when it bears on health data, it must be necessary for an essential diagnosis. Accordingly, this
+derogation cannot be used to justify transferring personal medical data outside the EU if the purpose
+of the transfer is not to treat the particular case of the data subject or that of another person’s but, for
+example, to carry out general medical research that will not yield results until sometime in the future.
 
-Porém, sempre que o titular dos dados tiver capacidade para tomar uma decisão válida e puder ser
-solicitado o seu consentimento, esta derrogação não pode ser aplicada.
+Indeed, the GDPR does not restrict the use of this derogation to the physical integrity of a person but
+also leaves room for example to consider the cases where the mental integrity of a person should be
+protected. In this case, the person concerned would also be incapable - physically or legally - of
+providing his/her consent for the transfer of his/her personal data. In addition, the concerned
+individual whose personal data are the subject of the transfer specifically must not be able to give
+his/her consent – physically or legally - to this transfer.
 
-Por exemplo, se os dados pessoais forem necessários para evitar o despejo de um imóvel, a sua
-transferência não estará abrangida por esta derrogação pois, embora a habitação seja considerada
-um interesse vital, a pessoa em causa pode dar o seu consentimento à transferência dos seus dados.
+However, whenever the data subject has the ability to make a valid decision, and his/her consent can
+be solicited, then this derogation cannot apply.
 
-Esta capacidade de tomar uma decisão válida pode depender de uma incapacidade física ou mental,
-mas também legal. Uma incapacidade legal pode incluir, sem prejuízo dos mecanismos de
-representação nacionais, o caso de um menor, por exemplo. A incapacidade legal deve ser
-comprovada, consoante os casos, através de um atestado médico que demonstre a incapacidade
-mental da pessoa em causa ou de um documento administrativo que confirme a situação legal dessa
-pessoa.
+For example, where the personal data is required to prevent eviction from a property, this would not
+fall under this derogation as, even though housing be considered as a vital interest, the person
+concerned can provide his/her consent for the transfer of his/her data.
 
-As transferências de dados para uma organização internacional humanitária, que sejam necessários
-para o cumprimento de uma missão no âmbito das Convenções de Genebra, ou para cumprir o
-direito internacional humanitário aplicável em conflitos armados, também podem ser abrangidas
-pelo artigo 49.º, n.º 1, alínea f) (cf. considerando 112). Também nesses casos é necessário que o
-titular dos dados esteja física ou legalmente incapaz de dar o consentimento.
+This ability to make a valid decision can depend on physical, mental but also legal incapability. A legal
+incapability can encompass, without prejudice to national representation mechanisms, for example,
+the case of a minor. This legal incapability has to be proved, depending on the case, through either a
+medical certificate showing the mental incapability of the person concerned or through a
+governmental document confirming the legal situation of the person concerned.
 
-A transferência de dados pessoais após a ocorrência de catástrofes naturais e num contexto de
-partilha de informações pessoais com entidades e pessoas envolvidas em operações de busca e
-salvamento (por exemplo, com familiares das vítimas de catástrofes, bem como com as autoridades
-governamentais e os serviços de emergência) pode ser justificada ao abrigo desta derrogação. Esse
-tipo de acontecimentos inesperados (inundações, sismos, furacões, etc.) pode justificar a
-transferência urgente de certos dados pessoais para se localizarem as vítimas e se conhecer o estado
-em que se encontram, por exemplo. Em tais situações, considera-se que o titular dos dados em causa
-está incapacitado de dar consentimento para a transferência dos seus dados.
+Data transfers to an international humanitarian organization, necessary to fulfil a task under the
+Geneva Conventions or to comply with international humanitarian law applicable in armed conflict
+may also fall under Article 49 (1) (f), see recital 112. Again, in such cases the data subject needs to be
+physically or legally incapable of giving consent.
 
-2.7. Transferência realizada a partir de um registo público - [artigo 49.º, n.º 1,
-alínea g), e n.º 2)]
-Nos termos do artigo 49.º, n.os 1, alínea g), e 2, a transferência de dados pessoais a partir de registos
-pode ser efetuada em determinadas condições. Entende-se geralmente por registo uma «anotação
-(por escrito) regular de factos ou elementos» ou «uma lista ou registo oficial de nomes ou
-elementos»36, onde, no contexto do artigo 49.º, é possível conservar um registo em suporte papel ou
-em formato eletrónico.
+The transfer of personal data after the occurrence of natural disasters and in the context of sharing of
+personal information with entities and persons for the purpose of rescue and retrieval operations (for
+example, relatives of disaster victims as well as with government and emergency services), can be
+justified under this derogation. Such unexpected events (floods, earthquakes, hurricanes etc.) can
+warrant the urgent transfer of certain personal data to learn for example, the location and status of
+victims. In such situations it is considered that the data subject concerned is unable to provide his/her
+consent for the transfer of his/her data.
 
-Nos termos do direito da União ou do Estado-Membro, o registo em causa deve ser destinado a
-informar o público. Por conseguinte, os registos privados (da responsabilidade de organismos
-privados) estão fora do âmbito de aplicação desta derrogação (por exemplo, os registos privados
-através dos quais a qualidade creditícia é apreciada).
+2.7. Transfer made from a public register - (49 (1) (g) and 49 (2))
+Article 49 (1) (g) and Article 49 (2) allow the transfer of personal data from registers under certain
+conditions. A register in general is defined as a “(written) record containing regular entries of items or
+details” or as “an official list or record of names or items » 36, where in the context of Article 49, a
+register could be in written or electronic form.
 
-O registo deve encontrar-se aberto à consulta, alternativamente:
+The register in question must, according to Union or Member State law, be intended to provide
+information to the public. Therefore, private registers (those in the responsibility of private bodies) are
+
+
 
 36
-   Merriam Webster Dictionary, https://www.merriam-webster.com/dictionary/register (22.01.2018); Oxford
+  Merriam Webster Dictionary, https://www.merriam-webster.com/dictionary/register (22.01.2018); Oxford
 Dictionary https://en.oxforddictionaries.com/definition/register (22.01.2018).
 
-                                                                                                      15
+                                                                                                         13
 
-a) Do público em geral;
+outside of the scope of this derogation (for example private registers through which credit-worthiness
+is appraised.
 
-b) De qualquer pessoa que possa provar nela ter um interesse legítimo.
+The register must be open to consultation by either:
 
-Pode tratar-se, por exemplo, de registos de empresas, registos de associações, registos criminais,
-registos fundiários ou registos públicos de veículos.
+(a) the public in general or
 
-Além dos requisitos gerais aplicáveis à criação dos próprios registos, as transferências a partir destes
-só podem ter lugar se e na medida em que, em cada caso concreto, as condições de consulta
-previstas pelo direito da União ou do Estado-Membro forem satisfeitas [sobre essas condições gerais,
-cf. artigo 49.º, n.º 1, alínea g)].
+(b) any person who can demonstrate a legitimate interest.
 
-Os responsáveis pelo tratamento de dados e os subcontratantes que pretendam transferir dados
-pessoais ao abrigo desta derrogação devem ter em atenção que uma transferência não pode incluir
-todos os dados pessoais nem todas as categorias de dados pessoais existentes no registo (artigo 49.º,
-n.º 2). Se uma transferência for efetuada a partir de um registo criado por lei e destinado a ser
-consultado por pessoas que tenham um interesse legítimo, a transferência só pode ter lugar a pedido
-dessas pessoas ou, se estas forem as destinatárias, tendo em conta os interesses dos titulares dos
-dados e os direitos fundamentais37. Ao aferirem caso a caso da adequação de uma transferência, os
-exportadores de dados terão sempre de tomar em consideração os interesses e direitos do titular
-dos dados.
+These could be, for example: registers of companies, registers of associations, registers of criminal
+convictions, (land) title registers or public vehicle registers.
 
-Quaisquer outras utilizações dos dados pessoais a partir desses registos só podem ter lugar, como
-acima se refere, em conformidade com a legislação aplicável em matéria de proteção de dados.
+In addition to the general requirements regarding the set-up of the registers themselves, transfers
+from these registers may only take place if and to the extent that, in each specific case, the conditions
+for consultation that are set forth by Union or Member State law are fulfilled (regarding these general
+conditions, see Article 49 (1) (g).
 
-Esta derrogação também pode ser aplicada às atividades exercidas por autoridades públicas na sua
-esfera de competências (artigo 49.º, n.º 3).
+Data controllers and data processors wishing to transfer personal data under this derogation need to
+be aware that a transfer cannot include the entirety of the personal data or entire categories of the
+personal data contained in the register (Article 49 (2)). Where a transfer is made from a register
+established by law and where it is to be consulted by persons having a legitimate interest, the transfer
+can only be made at the request of those persons or if they are recipients, taking into account of the
+data subjects’ interests and fundamental rights37. On a case by case basis, data exporters, in assessing
+whether the transfer is appropriate, would always have to consider the interests and rights of the data
+subject.
 
-2.8. Interesses legítimos imperiosos – (artigo 49.º, n.º 1, segundo parágrafo)
-O artigo 49.º, n.º 1, segundo parágrafo, introduz uma nova derrogação, que não constava
-anteriormente da diretiva. Num determinado número de condições específicas expressamente
-previstas, os dados pessoais podem ser transferidos se tal for necessário para proteger interesses
-legítimos do exportador de dados.
+Further use of personal data from such registers as stated above may only take place in compliance
+with applicable data protection law.
 
-Esta derrogação é prevista pela lei como último recurso, uma vez que só será aplicável se «uma
-transferência não puder basear-se no disposto no artigo 45.º ou 46.º, incluindo nas regras
-vinculativas aplicáveis às empresas, e não for aplicável nenhuma das derrogações previstas para as
-situações específicas»38.
+This derogation can also apply to activities carried out by public authorities in the exercise of their
+public powers (Article 49 (3)).
 
-Esta abordagem por níveis da ponderação do recurso às derrogações como base das transferências
-exige a análise da possibilidade de se utilizar um instrumento de transferência constante dos artigos
-45.º ou 46.º, ou uma das derrogações específicas estabelecidas no artigo 49.º, n.º 1, primeiro
-parágrafo, antes de se recorrer à derrogação do artigo 49.º, n.º 1, segundo parágrafo. Esta só pode
-ser utilizada em casos residuais, em conformidade com o considerando 113, e depende de um
-número significativo de condições expressamente previstas por lei. Em conformidade com o princípio
-da responsabilidade, consagrado no RGPD39, o exportador de dados deve, por conseguinte, poder
-provar que não foi possível basear a transferência de dados nas garantias adequadas a que o
+2.8. Compelling legitimate interests – (49 (1) § 2)
+Article 49 (1) § 2 introduces a new derogation which was not previously included in the Directive.
+Under a number of specific, expressly enumerated conditions, personal data can be transferred if it is
+necessary for the purposes of compelling legitimate interests pursued by the data exporter.
 
+This derogation is envisaged by the law as a last resort, as it will only apply where “a transfer could not
+be based on a provision in Article 45 or 46, including the provisions on binding corporate rules, and
+none of the derogations for a specific situation is applicable”.38
 
+This layered approach to considering the use of derogations as a basis for transfers requires
+consideration of whether it is possible to use a transfer tool provided in Article 45 or 46 or one of the
+specific derogations set out in Article 49 (1) § 1, before resorting to the derogation of Article 49 (1) §2.
+This can only be used in residual cases according to recital 113 and is dependent on a significant
+number of conditions expressly laid down by law. In line with the principle of accountability enshrined
+in the GDPR39 the data exporter must be therefore able to demonstrate that it was neither possible to
+frame the data transfer by appropriate safeguards pursuant to Article 46 nor to apply one of the
+derogations as contained in Article 49 (1) § 1.
 
 37
-   Considerando 111 do RGPD.
+   Recital 111 of the GDPR
 38
-   Artigo 49.º, n.º 1, segundo parágrafo, do RGPD.
+   Article 49 (1) § 2 GDPR
 39
-   Artigo 5.º, n.º 2, e artigo 24.º, n.º 1.
+   Article 5 (2) and Article 24 (1)
 
-                                                                                                     16
+                                                                                                         14
 
-artigo 46.º se refere, nem aplicar uma das derrogações previstas no artigo 49.º, n.º 1, primeiro
-parágrafo.
+This implies that the data exporter can demonstrate serious attempts in this regard, taking into
+account the circumstances of the data transfer. This may for example and depending on the case,
+include demonstrating verification of whether the data transfer can be performed on the basis of the
+data subjects’ explicit consent to the transfer under Article 49 (1) (a). However, in some circumstances
+the use of other tools might not be practically possible. For example, some types of appropriate
+safeguards pursuant to Article 46 may not be a realistic option for a data exporter that is a small or
+medium-sized company.40 This may also be the case for example, where the data importer has
+expressly refused to enter into a data transfer contract on the basis of standard data protection clauses
+(Article 46 (2) (c)) and no other option is available (including, depending on the case, the choice of a
+different “data importer”) – see also the paragraph below on ‘compelling’ legitimate interest.
 
-Tal implica que o exportador de dados possa demonstrar que foram feitas tentativas sérias nesse
-sentido, tendo em conta as circunstâncias da transferência de dados. Por exemplo, e consoante os
-casos, tal pode incluir a demonstração da verificação da possibilidade ou impossibilidade da
-transferência dos dados com base no consentimento explícito dos titulares de dados nos termos do
-artigo 49.º, n.º 1, alínea a). Contudo, nalgumas circunstâncias, a utilização de outros instrumentos
-pode não ser exequível. Por exemplo, alguns tipos de garantia adequada enunciados no artigo 46.º
-podem não constituir uma opção realista para um exportador de dados que seja uma pequena ou
-média empresa40. O mesmo poderá acontecer, por exemplo, se o importador de dados se recusar
-expressamente a celebrar um contrato de transferência de dados com base nas cláusulas-tipo de
-proteção de dados [artigo 46.º, n.º 2, alínea c)] e não houver outra opção disponível (incluindo,
-consoante os casos, a escolha de um «importador de dados» diferente) – cf. também ponto seguinte
-sobre os interesses legítimos «imperiosos».
+Compelling legitimate interests of the controller
 
-Interesses legítimos imperiosos do responsável pelo tratamento
+According to the wording of the derogation, the transfer must be necessary for the purposes of
+pursuing compelling legitimate interests of the data controller which are not overridden by the
+interests or rights and freedoms of the data subject. Consideration of the interests of a data exporter
+in its capacity as data processor or of the data importer are not relevant.
 
-Nos termos da derrogação, a transferência deve ser necessária para efeitos de interesses legítimos
-visados pelo responsável do tratamento de dados, desde que a esses interesses se não sobreponham
-interesses ou direitos e liberdades do titular dos dados. A ponderação dos interesses de um
-exportador de dados enquanto subcontratante ou importador de dados não é relevante.
+Moreover, only interests that can be recognized as “compelling” are relevant and this considerably
+limits the scope of the application of the derogation as not all conceivable “legitimate interests” under
+Article 6 (1) (f) will apply here. Rather a certain higher threshold will apply, requiring the compelling
+legitimate interest to be essential for the data controller. For example, this might be the case if a data
+controller is compelled to transfer the personal data in order to protect its organization or systems
+from serious immediate harm or from a severe penalty which would seriously affect its business.
 
-Além disso, só os interesses que possam ser reconhecidos como «imperiosos» são relevantes e este
-requisito limita consideravelmente o âmbito de aplicação da derrogação, dado que nem todos os
-«interesses legítimos» concebíveis ao abrigo do artigo 6.º, n.º 1, alínea f), serão aplicáveis neste caso.
-Pelo contrário, aplica-se um certo limiar mais elevado, que exige que o interesse legítimo imperioso
-seja essencial para o responsável pelo tratamento dos dados. Poderá ser o caso, por exemplo, de um
-responsável pelo tratamento que seja obrigado a transferir os dados pessoais para proteger a sua
-organização ou os seus sistemas de danos graves imediatos ou de uma sanção severa que afetaria
-gravemente a sua empresa.
+Not repetitive
 
-Não repetitiva
+According to its express wording, Article 49 (1) § 2 can only apply to a transfer that is not repetitive41.
 
-O artigo 49.º, n.º 1, segundo parágrafo, refere expressamente que só pode ser aplicado a uma
-transferência que não seja repetitiva41.
+Limited number of data subjects
 
-Número limitado de titulares dos dados
+Additionally, the transfer must only concern a limited number of data subjects. No absolute threshold
+has been set as this will depend on the context but the number must be appropriately small taking into
+consideration the type of transfer in question.
 
-Além disso, a transferência deve dizer respeito apenas a um número limitado de titulares dos dados.
-Não foi estabelecido um limiar absoluto, visto que este dependerá do contexto, mas deve tratar-se
-de um número adequadamente pequeno, tendo em consideração o tipo de transferência em causa.
+In a practical context, the notion “limited number of data subjects” is dependent on the actual case in
+hand. For example, if a data controller needs to transfer personal data to detect a unique and serious
+security incident in order to protect its organization, the question here would be how many employees’
+data the data controller would have to transfer in order to achieve this compelling legitimate interest.
 
-Em termos práticos, o conceito de «número limitado de titulares dos dados» depende do caso
-concreto. Por exemplo, se um responsável pelo tratamento dos dados necessitar de transferir dados
-pessoais para detetar um incidente de segurança único e grave, a fim de proteger a sua organização,
-será necessário apurar quantos dados dos trabalhadores o responsável pelo tratamento teria de
-transferir para acautelar esse interesse legítimo imperioso.
+As such, in order for the derogation to apply, this transfer should not apply to all the employees of the
+data controller but rather to a certain confined few.
+
+Balancing the “compelling legitimate interests of the controller” against the “interests or rights and
+freedoms of the data subject” on the basis of an assessment of all circumstances surrounding the data
+transfer and providing for suitable safeguards
+
+As a further requirement, a balancing test between the data exporter’s (compelling) legitimate interest
+pursued and the interests or rights and freedoms of the data subject has to be performed. In this
 
 
 40
-   Por exemplo, as regras vinculativas aplicáveis às empresas podem não ser, muitas vezes, uma opção viável
-para as pequenas e médias empresas, devido aos consideráveis investimentos administrativos que implicam.
+   For example binding corporate rules may often not be a feasible option for small and medium-sized
+enterprises due to the considerable administrative investments they imply.
 41
-   Para mais informações sobre a expressão «não repetitiva», consulte-se a página 4.
+   For more information on the term « not repetitive » see page 4
 
-                                                                                                        17
+                                                                                                        15
 
-Como tal, para que a derrogação seja aplicável, esta transferência não deve abranger todos os
-trabalhadores do responsável pelo tratamento, mas apenas um número limitado dos mesmos.
+regard, the law expressly requires the data exporter to assess all circumstances of the data transfer in
+question and, based on this assessment, to provide “suitable safeguards” regarding the protection of
+the data transferred. This requirement highlights the special role that safeguards may play in reducing
+the undue impact of the data transfer on the data subjects and thereby in possibly influencing the
+balance of rights and interests to the extent that the data controller’s interests will not be overridden.42
 
-Equilíbrio entre os «interesses legítimos imperiosos do responsável pelo tratamento» e «os interesses
-ou os direitos e liberdades do titular dos dados», com base numa ponderação de todas as
-circunstâncias relativas à transferência de dados, e apresentação das garantias adequadas
+As to the interests, rights and freedoms of the data subject which need to be taken into consideration,
+the possible negative effects, i.e. the risks of the data transfer on any type of (legitimate) interest of
+the data subject have to be carefully forecasted and assessed, by taking into consideration their
+likelihood and severity.43 In this regard, in particular any possible damage (physical and material, but
+also non-material as e.g. relating to a loss of reputation) needs to be taken into consideration44. When
+assessing these risks and what could under the given circumstances possibly be considered as “suitable
+safeguards” for the rights and freedoms of the data subject, the data exporter needs to particularly
+take into account the nature of the data, the purpose and duration of the processing as well as the
+situation in the country of origin, the third country and, if any, the country of final destination of the
+transfer.45
 
-A título de condição suplementar, deve aplicar-se um critério de equilíbrio entre os interesses
-legítimos (imperiosos) do responsável pelo tratamento e os interesses ou os direitos e liberdades do
-titular dos dados. Neste aspeto, a lei exige expressamente que o exportador de dados pondere todas
-as circunstâncias da transferência dos dados em questão e, com base nessa avaliação, apresente
-«garantias adequadas» de proteção dos dados pessoais transferidos. Este requisito salienta a função
-especial que as garantias podem desempenhar na redução do impacto indevido da transferência dos
-dados sobre os seus titulares, assim influenciando, eventualmente, o equilíbrio dos direitos e
-interesses de modo a que os interesses do responsável pelo tratamento dos dados não sejam
-ignorados42.
+Furthermore, the law requires the data exporter to apply additional measures as safeguards in order
+to minimize the identified risks caused by the data transfer for the data subject.46 This is set up by the
+law as a mandatory requirement, so it can be followed that in the absence of additional safeguards,
+the controller’s interests in the transfer will in any case be overridden by the interests or rights and
+freedoms of the data subject.47 As to the nature of such safeguards, it is not possible to set up general
+requirements applicable to all cases in this regard, but these will rather very much depend on the
+specific data transfer in question. Safeguards might include, depending on the case, for example
+measures aimed at ensuring deletion of the data as soon as possible after the transfer, or limiting the
+purposes for which the data may be processed following the transfer. Particular attention should be
+paid to whether it may be sufficient to transfer pseudonymized or encrypted data.48 Moreover,
+technical and organizational measures aimed at ensuring that the transferred data cannot be used for
+other purposes than those strictly foreseen by the data exporter should be examined.
 
-Quanto aos interesses, direitos e liberdades do titular dos dados que devem ser tidos em
-consideração, devem ser cuidadosamente previstos e avaliados os possíveis efeitos negativos, ou
-seja, os riscos da transferência de dados para qualquer tipo de interesse (legítimo) do titular dos
-dados, tendo em conta a sua probabilidade e gravidade43. Neste aspeto, é necessário ter em atenção
-os eventuais danos (não só físicos e materiais, mas também imateriais, como, por exemplo, um
-prejuízo para a reputação)44. Na análise desses riscos e do que, nas circunstâncias concretas, se
-poderão considerar «garantias adequadas» para os direitos e liberdades do titular dos dados, o
-exportador de dados deve ter particularmente em conta a natureza dos dados, a finalidade e a
-duração do tratamento, bem como a situação no país de origem, no país terceiro e, se for caso disso,
-no país de destino final da transferência45.
+Information of the supervisory authority
 
-A lei exige ainda que o exportador de dados aplique medidas suplementares como garantias para
-minimizar os riscos identificados como suscetíveis de virem a afetar o titular dos dados46. Esta
-exigência constitui um requisito obrigatório e implica que, na falta de garantias suplementares, os
-interesses ou os direitos e liberdades do titular dos dados se sobrepõem sempre aos interesses que o
-responsável pelo tratamento possa ter na transferência47. Quanto à natureza dessas garantias, não é
+The duty to inform the supervisory authority does not mean that the transfer needs to be authorized
+by the supervisory authority, but rather it serves as an additional safeguard by enabling the supervisory
 
 42
-   A importante função das garantias no contexto do equilíbrio dos interesses do responsável pelo tratamento e
-dos titulares dos dados já foi destacado pelo Grupo de Trabalho do Artigo 29.º no documento WP 217,
-página 31.
+   The important role of safeguards in the context of balancing the interests of the data controller and the data
+subjects has already been highlighted by the Article 29 Working Party in WP 217, p. 31.
 43
-   Cf. considerando 75: «O risco para os direitos e liberdades das pessoas singulares, cuja probabilidade e
-gravidade podem ser variáveis [...].»
+   See Recital 75: “The risk to the rights and freedoms of natural persons, of varying likelihood and severity (…)”
 44
-   Cf. considerando 75: «O risco para os direitos e liberdades das pessoas singulares, cuja probabilidade e
-gravidade podem ser variáveis, poderá resultar de operações de tratamento de dados pessoais suscetíveis de
-causar danos físicos, materiais ou imateriais.»
+   See Recital 75: “The risk to the rights and freedoms of natural persons, of varying likelihood and severity, may
+result from personal data processing which could lead to physical, material or non-material damage.”
 45
-   Considerando 113.
+   Recital 113
 46
-   Embora no contexto da aplicação de um critério do equilíbrio «normal» previsto pela lei essas medidas
-(suplementares) possam não ser necessárias em todos os casos (ver documento do Grupo de trabalho do
-artigo 29.º sobre projetos de cláusulas contratuais ad hoc entre o subcontratante da UE e um subcontratante
-ulterior de um país terceiro (WP 214), p. 41), a redação do artigo 49.º, n.º 1, segundo parágrafo, indica que as
-medidas suplementares são obrigatórias para que a transferência de dados cumpra o «critério do equilíbrio» e
-seja, por conseguinte, exequível ao abrigo desta derrogação.
+   While in the context of an “ordinary” balancing test foreseen by the law such (additional) measures might not
+be necessary in each case (see Article 29 Working Party Working document on Draft Ad hoc contractual clauses
+“EU data processor to non-EU sub-processor" (WP 214), p. 41), the wording of Art. 49 (1) § 2 suggests that
+additional measures are mandatory in order the data transfer to comply with the “balancing test” and therefore
+to be feasible under this derogation.
 47
-   Embora no contexto da aplicação de um critério do equilíbrio «normal» previsto pela lei essas medidas
-suplementares possam não ser necessárias em todos os casos (ver Parecer 06/2014 do Grupo de Trabalho do
-Artigo 29.º sobre o conceito de interesses legítimos do responsável pelo tratamento nos termos do artigo 7.º
-da Diretiva 95/46/CE, WP 217, p. 41), a redação do artigo 49.º, n.º 1, segundo parágrafo, indica que as medidas
+   While in the context of an “ordinary” balancing test foreseen by the law such (additional) measures might not
+be necessary in each case (see Article 29 Working Party Opinion 06/2014 on the notion of legitimate interests of
+the data controller under Article 7 of Directive 95/46/EC, WP 217, p. 41), the wording of Art. 49 (1) § 2 suggests
+that additional measures are mandatory in order the data transfer to comply with the “balancing test” and
+therefore to be feasible under this derogation.
+48
+   For other examples of possible safeguards see Article 29 Working Party Working document on Draft Ad hoc
+contractual clauses “EU data processor to non-EU sub-processor" (WP 214), p. 41-43
 
-                                                                                                             18
+                                                                                                                16
 
-possível estabelecer requisitos gerais aplicáveis a todos os casos nesta matéria, uma vez que tais
-requisitos dependem em grande medida da transferência de dados específica em causa. As garantias
-podem consistir, por exemplo e consoante os casos, em medidas destinadas a garantir que os dados
-serão apagados o mais rapidamente possível após a transferência, ou a limitar as finalidades para
-que os dados podem ser tratados após a transferência. A questão de saber se poderá ser ou não
-suficiente transferir dados sob pseudónimo ou encriptados, deve merecer especial atenção48. Além
-disso, deve ponderar-se a utilização de medidas técnicas ou organizativas destinadas a garantir que
-os dados transferidos só podem ser utilizados para os fins estritamente previstos pelo exportador de
-dados.
+authority to assess the data transfer (if it considers it appropriate) as to its possible impact on the rights
+and freedoms of the data subjects affected. As part of its compliance with the accountability principle,
+it is recommended that the data exporter records all relevant aspects of the data transfer e.g. the
+compelling legitimate interest pursued, the “competing” interests of the individual, the nature of the
+data transferred and the purpose of the transfer.
 
-Informação da autoridade de controlo
+Providing information of the transfer and the compelling legitimate interests pursued to the data
+subject
 
-O dever de informar a autoridade de controlo não significa que esta tem de autorizar a transferência,
-constituindo apenas uma garantia suplementar ao permitir que a autoridade de controlo avalie a
-transferência de dados (se considerar adequado fazê-lo) no que se refere ao seu possível impacto
-nos direitos e liberdades dos titulares dos dados afetados. No âmbito do cumprimento do princípio
-da responsabilidade, recomenda-se que o exportador de dados registe todos os aspetos pertinentes
-da transferência de dados, por exemplo, o interesse legítimo imperioso prosseguido, os interesses
-«concorrentes» individuais, a natureza dos dados transferidos e a finalidade da transferência.
-
-Fornecimento de informações da transferência e os interesses legítimos imperiosos prosseguidos pelo
-titular dos dados
-
-O responsável pelo tratamento dos dados deve informar o titular dos dados a respeito da
-transferência e dos interesses legítimos imperiosos visados. Essas informações devem ser facultadas
-complementarmente às exigidas nos termos dos artigos 13.º e 14.º do RGPD.
+The data controller must inform the data subject of the transfer and of the compelling legitimate
+interests pursued. This information must be provided in addition to that required to be provided under
+to Articles 13 and 14 of the GDPR.
 
 
 
-Pelo Comité Europeu para a Proteção de Dados
+For the European Data Protection Board
 
-O Presidente
+The Chair
 
 
 
@@ -980,12 +891,5 @@ O Presidente
 
 
 
-suplementares são obrigatórias para que a transferência de dados cumpra o «critério do equilíbrio» e seja, por
-conseguinte, exequível ao abrigo desta derrogação.
-48
-   Para outros exemplos de possíveis garantias, ver documento do Grupo de trabalho do artigo 29.º sobre
-projetos de cláusulas contratuais ad hoc entre o subcontratante da UE e um subcontratante ulterior de um país
-terceiro (WP 214), p. 41-43.
-
-                                                                                                           19
+                                                                                                           17
 ```

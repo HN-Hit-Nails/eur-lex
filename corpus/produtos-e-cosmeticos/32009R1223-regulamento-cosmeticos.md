@@ -20,7 +20,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32009R1223
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02009R1223-20260518
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32009R1223 — Regulamento Cosméticos

@@ -1,1591 +1,1462 @@
 ---
-titulo: "Diretrizes 3/2019 sobre tratamento de dados pessoais através de dispositivos de vídeo"
+titulo: "Guidelines 3/2019 on processing of personal data through video devices"
 titulo_en: "Guidelines 3/2019 on processing of personal data through video devices"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2020-01-30'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-32019-on-processing-of-personal-data-through-video-devices_en
-pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_201903_video_devices_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_201903_video_devices_en_0.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 3/2019 sobre tratamento de dados pessoais através de dispositivos de vídeo
+# Guidelines 3/2019 on processing of personal data through video devices
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 3/2019 sobre tratamento de dados
-      pessoais através de dispositivos de vídeo
+Guidelines 3/2019 on processing of personal data
+               through video devices
 
-                            Versão 2.0
-             Adotado em 29 de janeiro de 2020
-
-
-                 Translations proofread by EDPB Members.
-             This language version has not yet been proofread.
+                      Version 2.0
+               Adopted on 29 January 2020
 
 
 
 
-Adotado                                                          1
+Adopted                                              1
 
-Histórico de versões
-Versão 2.1   26 de fevereiro de 2020 Alteração de erros materiais
+Version history
+ Version 2.1   26 February 2020   Amending material mistake
 
-Versão 2.0   29 de janeiro de 2020   Adoção das diretrizes após consulta pública
+ Version 2.0   29 January 2020    Adoption of the Guidelines after public consultation
 
-Versão 1.0   10 de julho de 2019     Adoção das diretrizes para consulta pública
-
-
-
-
-Adotado                                                                            2
-
-Índice
-1      Introdução ....................................................................................................................................... 5
-2      Âmbito de aplicação........................................................................................................................ 7
-    2.1        Dados pessoais ........................................................................................................................ 7
-    2.2   Aplicação da Diretiva sobre a Proteção de Dados na Aplicação da Lei – Diretiva (UE)
-    2016/680 ............................................................................................................................................. 7
-    2.3        Isenção doméstica................................................................................................................... 8
-3      Licitude do tratamento.................................................................................................................... 9
-    3.1        Interesse legítimo – artigo 6.º, n.º 1, alínea f) ........................................................................ 9
-       3.1.1          Existência de interesses legítimos ................................................................................... 9
-       3.1.2          Necessidade do tratamento .......................................................................................... 10
-       3.1.3          Ponderação dos interesses............................................................................................ 11
-    3.2    A necessidade de exercer funções de interesse público ou de exercer a autoridade pública
-    de que está investido o responsável pelo tratamento – artigo 6.º, n.º 1, alínea e) ......................... 13
-    3.3        Consentimento – artigo 6.º, n.º 1, alínea a).......................................................................... 14
-4      Divulgação de gravações de vídeo a terceiros .............................................................................. 15
-    4.1        Divulgação de gravações de vídeo a terceiros em geral ....................................................... 15
-    4.2        Divulgação de gravações de vídeo a autoridades de aplicação da lei................................... 15
-5      Tratamento de categorias especiais de dados .............................................................................. 17
-    5.1        Considerações gerais relativas ao tratamento de dados biométricos .................................. 18
-    5.2        Medidas propostas para minimizar os riscos no tratamento de dados biométricos............ 21
-6      Direitos do titular dos dados ......................................................................................................... 23
-    6.1        Direito de acesso ................................................................................................................... 23
-    6.2        Direito ao apagamento dos dados e direito de se opor........................................................ 24
-       6.2.1          Direito ao apagamento dos dados (direito a ser esquecido) ........................................ 24
-       6.2.2          Direito de se opor.......................................................................................................... 25
-7      Obrigações em matéria de transparência e informação............................................................... 27
-    7.1        Informações do primeiro nível (sinal de aviso) ..................................................................... 27
-       7.1.1          Posicionamento do sinal de aviso ................................................................................. 27
-       7.1.2          Conteúdo do primeiro nível da estrutura ..................................................................... 27
-    7.2        Informações do segundo nível .............................................................................................. 28
-8      Prazos de conservação e obrigação de apagamento .................................................................... 30
-9      Medidas técnicas e organizativas.................................................................................................. 30
-    9.1        Síntese do sistema de videovigilância ................................................................................... 31
-    9.2        Proteção de dados desde a conceção e por defeito ............................................................. 32
-
-
-
-Adotado                                                                                                                                               3
-
- 9.3      Exemplos concretos de medidas pertinentes ....................................................................... 33
-     9.3.1      Medidas organizativas................................................................................................... 33
-     9.3.2      Medidas técnicas........................................................................................................... 34
-10     Avaliação de impacto da proteção de dados ............................................................................ 36
+ Version 1.0   10 July 2019       Adoption of the Guidelines for public consultation
 
 
 
 
-Adotado                                                                                                                                 4
+Adopted                                                                                  2
 
-     O Comité Europeu para a Proteção de Dados
-
-     Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-     seguir designado «RGPD»),
-
-     Tendo em conta o Acordo sobre o Espaço Económico Europeu (EEE) e, nomeadamente, o anexo XI e o
-     Protocolo n.º 37, com a redação que lhe foi dada pela Decisão do Comité Misto do EEE n.º 154/2018,
-     de 6 de julho de 20181,
-
-     Tendo em conta o artigo 12.º e o artigo 22.º do seu Regulamento Interno,
-
-
-
-     ADOTOU AS SEGUINTES DIRETRIZES
-
-
-     1 INTRODUÇÃO
-1.   O uso intensivo de dispositivos de vídeo tem repercussões no comportamento dos cidadãos. A
-     utilização significativa deste tipo de equipamentos em muitas esferas da vida dos indivíduos exercerá
-     uma maior pressão sobre o indivíduo para que evite a deteção de tudo o que possa ser percecionado
-     como uma anomalia. Na verdade, estas tecnologias podem limitar as possibilidades de circulação
-     anónima e de utilização anónima dos serviços e, regra geral, limitam a possibilidade de passar
-     despercebido. As suas implicações em termos de proteção de dados são enormes.
-
-2.   Embora as pessoas possam não se incomodar com a utilização de videovigilância para determinadas
-     finalidades de segurança, devem ser previstas garantias para evitar qualquer uso indevido para
-     finalidades totalmente diferentes e – para o titular dos dados – inesperadas (por exemplo, finalidades
-     de comercialização, controlo do desempenho dos trabalhadores, etc.). Além disso, são agora utilizadas
-     muitas ferramentas que permitem explorar as imagens captadas e transformar as câmaras tradicionais
-     em câmaras inteligentes. A quantidade de dados gerados pelo vídeo, combinada com estas
-     ferramentas e técnicas, aumenta os riscos de utilização secundária (relacionada ou não com a
-     finalidade originalmente atribuída ao sistema) ou mesmo de utilização indevida. Os princípios gerais
-     do RGPD (artigo 5.º) devem ser sempre cuidadosamente considerados ao lidar com videovigilância.
-
-3.   Os sistemas de videovigilância mudam, de muitas formas, o modo como os profissionais dos setores
-     privado e público interagem em locais privados ou públicos com o objetivo de aumentar a segurança,
-     obter análises de audiência, apresentar publicidade personalizada, etc. A videovigilância adquiriu um
-     elevado nível de desempenho através da crescente utilização da análise inteligente dos vídeos. Estas
-     técnicas podem ser mais intrusivas (por exemplo, tecnologias biométricas complexas) ou menos
-     intrusivas (por exemplo, algoritmos de contagem simples). É cada vez mais difícil manter o anonimato
+Table of contents
+1      Introduction ..................................................................................................................................... 5
+2      Scope of application ......................................................................................................................... 7
+    2.1       Personal Data ........................................................................................................................... 7
+    2.2       Application of the Law Enforcement Directive, LED (EU2016/680) ........................................ 7
+    2.3       Household exemption .............................................................................................................. 7
+3      Lawfulness of processing ................................................................................................................. 9
+    3.1       Legitimate interest, Article 6 (1) (f) .......................................................................................... 9
+       3.1.1          Existence of legitimate interests ...................................................................................... 9
+       3.1.2          Necessity of processing .................................................................................................. 10
+       3.1.3          Balancing of interests ..................................................................................................... 11
+    3.2    Necessity to perform a task carried out in the public interest or in the exercise of official
+    authority vested in the controller, Article 6 (1) (e) ............................................................................ 13
+    3.3       Consent, Article 6 (1) (a) ........................................................................................................ 14
+4      Disclosure of video footage to third parties .................................................................................. 15
+    4.1       Disclosure of video footage to third parties in general ......................................................... 15
+    4.2       Disclosure of video footage to law enforcement agencies.................................................... 15
+5      Processing of special categories of data ........................................................................................ 17
+    5.1       General considerations when processing biometric data ..................................................... 18
+    5.2       Suggested measures to minimize the risks when processing biometric data ....................... 21
+6      Rights of the data subject .............................................................................................................. 22
+    6.1       Right to access........................................................................................................................ 22
+    6.2       Right to erasure and right to object ....................................................................................... 23
+       6.2.1          Right to erasure (Right to be forgotten) ........................................................................ 23
+       6.2.2          Right to object ................................................................................................................ 24
+7      Transparency and information obligations .................................................................................... 26
+    7.1       First layer information (warning sign) .................................................................................... 26
+       7.1.1          Positioning of the warning sign ...................................................................................... 26
+       7.1.2          Content of the first layer ................................................................................................ 26
+    7.2       Second layer information ....................................................................................................... 27
+8      Storage periods and obligation to erasure .................................................................................... 28
+9      Technical and organisational measures ......................................................................................... 28
+    9.1       Overview of video surveillance system .................................................................................. 29
+    9.2       Data protection by design and by default ............................................................................. 30
+    9.3       Concrete examples of relevant measures ............................................................................. 30
 
 
 
+Adopted                                                                                                                                                  3
 
-     1
-       As referências a «Estados Membros» no presente parecer devem ser entendidas como referências aos
-     «Estados-Membros do EEE».
-
-
-
-         Adotado                                                                                       5
-
-     e preservar a privacidade individual. As questões de proteção de dados inerentes a cada situação e a
-     análise jurídica podem diferir em função da tecnologia utilizada.
-
-4.   Para além das questões de privacidade, existem também riscos relacionados com possíveis avarias
-     destes dispositivos e com o enviesamento que estes podem induzir. Os investigadores afirmam que o
-     software utilizado para identificação, reconhecimento ou análise facial tem um desempenho diferente
-     em função da idade, do género e da etnia da pessoa que está a ser identificada. O desempenho dos
-     algoritmos varia em função da demografia, pelo que o enviesamento no reconhecimento facial ameaça
-     reforçar os preconceitos da sociedade. Por este motivo, os responsáveis pelo tratamento dos dados
-     também devem garantir que o tratamento de dados biométricos oriundos da videovigilância seja
-     submetido a uma avaliação regular da sua pertinência e da adequação das garantias fornecidas.
-
-5.   A videovigilância não é por definição uma necessidade quando existem outros meios para alcançar o
-     objetivo subjacente. Caso contrário, corremos o risco de mudar as normas culturais, levando à
-     aceitação da falta de privacidade como o princípio geral.
-
-6.   Estas diretrizes visam dar orientações sobre como aplicar o RGPD em relação ao tratamento de dados
-     pessoais através de dispositivos de vídeo. Os exemplos não são exaustivos, e a fundamentação geral
-     pode ser aplicada a todas as potenciais áreas de utilização.
+     9.3.1      Organisational measures ............................................................................................... 31
+     9.3.2      Technical measures ........................................................................................................ 31
+10     Data protection impact assessment .......................................................................................... 33
 
 
 
 
-      Adotado                                                                                        6
+Adopted                                                                                                                                     4
 
-      2 ÂMBITO DE APLICAÇÃO2
-      2.1 Dados pessoais
-7.    O controlo automatizado sistemático de um espaço específico por meios óticos ou audiovisuais,
-      principalmente para fins de proteção de bens ou para proteger a vida e a saúde do indivíduo, tornou-
-      se um fenómeno significativo nos nossos dias. Esta atividade resulta na recolha e conservação de
-      informação pictórica ou audiovisual sobre todas as pessoas que entrem no espaço sob vigilância e que
-      sejam identificáveis com base na sua aparência ou noutros elementos específicos. A identidade destas
-      pessoas pode ser determinada com base nestes dados. Esta atividade permite também o tratamento
-      posterior dos dados pessoais para obter informações sobre a presença e o comportamento das
-      pessoas no espaço em questão. O risco potencial de utilização abusiva destes dados aumenta em
-      função da dimensão do espaço sob vigilância e do número de pessoas que o frequentam. Este facto é
-      refletido no Regulamento Geral sobre a Proteção de Dados, nomeadamente no artigo 35.º, n.º 3,
-      alínea c), que exige a realização de uma avaliação de impacto da proteção de dados em caso de
-      controlo sistemático de zonas acessíveis ao público em grande escala, bem como no artigo 37.º, n.º 1,
-      alínea b), que exige que os subcontratantes designem um encarregado da proteção de dados sempre
-      que as operações de tratamento, devido à sua natureza, exijam um controlo regular e sistemático dos
-      titulares dos dados.
+     The European Data Protection Board
 
-8.    No entanto, o regulamento não se aplica ao tratamento de dados que não façam qualquer referência
-      a uma pessoa, por exemplo, que não permitam identificar, direta ou indiretamente, um indivíduo.
+     Having regard to Article 70 (1e) of the Regulation 2016/679/EU of the European Parliament and of the
+     Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+     data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter “GDPR”),
 
-          Exemplo: O RGPD não é aplicável a câmaras falsas (ou seja, qualquer câmara que não esteja a
-          funcionar como tal e, portanto, não efetue o tratamento de dados pessoais). Contudo, em
-          alguns Estados-Membros, estas poderão estar sujeitas a outra legislação.
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 1,
 
-          Exemplo: As gravações realizadas a altitudes elevadas só se enquadram no âmbito do RGPD se,
-          nas circunstâncias em causa, os dados tratados puderem ser associados a uma pessoa
-          específica.
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
 
-          Exemplo: Há uma câmara de vídeo integrada num automóvel para prestar assistência de
-          estacionamento. Se a câmara for construída ou adaptada de forma a não recolher quaisquer
-          informações relativas a pessoas singulares (como matrículas ou informações que permitam
-          identificar transeuntes), o RGPD não se aplica.
+
+
+
+     HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+     1 INTRODUCTION
+1.   The intensive use of video devices has an impact on citizen’s behaviour. Significant implementation of
+     such tools in many spheres of the individuals’ life will put an additional pressure on the individual to
+     prevent the detection of what might be perceived as anomalies. De facto, these technologies may limit
+     the possibilities of anonymous movement and anonymous use of services and generally limit the
+     possibility of remaining unnoticed. Data protection implications are massive.
+
+2.   While individuals might be comfortable with video surveillance set up for a certain security purpose
+     for example, guarantees must be taken to avoid any misuse for totally different and – to the data
+     subject – unexpected purposes (e.g. marketing purpose, employee performance monitoring etc.). In
+     addition, many tools are now implemented to exploit the images captured and turn traditional
+     cameras into smart cameras. The amount of data generated by the video, combined with these tools
+     and techniques increase the risks of secondary use (whether related or not to the purpose originally
+     assigned to the system) or even the risks of misuse. The general principles in GDPR (Article 5), should
+     always be carefully considered when dealing with video surveillance.
+
+3.   Video surveillance systems in many ways change the way professionals from the private and public
+     sector interact in private or public places for the purpose of enhancing security, obtaining audience
+     analysis, delivering personalized advertising, etc. Video surveillance has become high performing
+     through the growing implementation of intelligent video analysis. These techniques can be more
+     intrusive (e.g. complex biometric technologies) or less intrusive (e.g. simple counting algorithms).
+     Remaining anonymous and preserving one’s privacy is in general increasingly difficult. The data
+     protection issues raised in each situation may differ, so will the legal analysis when using one or the
+     other of these technologies.
+
+4.   In addition to privacy issues, there are also risks related to possible malfunctions of these devices and
+     the biases they may induce. Researchers report that software used for facial identification, recognition,
+     or analysis performs differently based on the age, gender, and ethnicity of the person it’s identifying.
+
+
+     1 References to “Member States” made throughout this opinion should be understood as references to “EEA
+
+     Member States”.
+
+
+
+     Adopted                                                                                                   5
+
+     Algorithms would perform based on different demographics, thus, bias in facial recognition threatens
+     to reinforce the prejudices of society. That is why, data controllers must also ensure that biometric
+     data processing deriving from video surveillance be subject to regular assessment of its relevance and
+     sufficiency of guarantees provided.
+
+5.   Video surveillance is not by default a necessity when there are other means to achieve the underlying
+     purpose. Otherwise we risk a change in cultural norms leading to the acceptance of lack of privacy as
+     the general outset.
+
+6.   These guidelines aim at giving guidance on how to apply the GDPR in relation to processing personal
+     data through video devices. The examples are not exhaustive, the general reasoning can be applied to
+     all potential areas of use.
+
+
+
+
+     Adopted                                                                                             6
+
+      2 SCOPE OF APPLICATION2
+      2.1 Personal Data
+7.    Systematic automated monitoring of a specific space by optical or audio-visual means, mostly for
+      property protection purposes, or to protect individual´s life and health, has become a significant
+      phenomenon of our days. This activity brings about collection and retention of pictorial or audio-visual
+      information on all persons entering the monitored space that are identifiable on basis of their looks or
+      other specific elements. Identity of these persons may be established on grounds of these details. It
+      also enables further processing of personal data as to the persons´ presence and behaviour in the given
+      space. The potential risk of misuse of these data grows in relation to the dimension of the monitored
+      space as well as to the number of persons frequenting the space. This fact is reflected by the General
+      Data Protection Regulation in the Article 35 (3) (c) which requires the carrying out of a data protection
+      impact assessment in case of a systematic monitoring of a publicly accessible area on a large scale, as
+      well as in Article 37 (1) (b) which requires processors to designate a data protection officer, if the
+      processing operation by its nature entails regular and systematic monitoring of data subjects.
+
+8.    However, the Regulation does not apply to processing of data that has no reference to a person, e.g.
+      if an individual cannot be identified, directly or indirectly.
+
+        Example: The GDPR is not applicable for fake cameras (i.e. any camera that is not functioning
+        as a camera and thereby is not processing any personal data). However, in some Member States
+        it might be subject to other legislation.
+
+        Example: Recordings from a high altitude only fall under the scope of the GDPR if under the
+        circumstances the data processed can be related to a specific person.
+
+        Example: A video camera is integrated in a car for providing parking assistance. If the camera is
+        constructed or adjusted in such a way that it does not collect any information relating to a
+        natural person (such as licence plates or information which could identify passers-by) the GDPR
+        does not apply.
 9.
-      2.2 Aplicação da Diretiva sobre a Proteção de Dados na Aplicação da Lei – Diretiva (UE)
-          2016/680
-10.   O tratamento de dados pessoais efetuado pelas autoridades competentes para efeitos de prevenção,
-      investigação, deteção ou repressão de infrações penais ou execução de sanções penais, incluindo a
-      salvaguarda e prevenção de ameaças à segurança pública, é abrangido pelo âmbito de aplicação da
-      Diretiva (UE) 2016/680.
+      2.2 Application of the Law Enforcement Directive, LED (EU2016/680)
+10.   Notably processing of personal data by competent authorities for the purposes of prevention,
+      investigation, detection or prosecution of criminal offences or the execution of criminal penalties,
+      including the safeguarding against and the prevention of threats to public security, falls under the
+      directive EU2016/680.
+
+      2.3 Household exemption
+11.   Pursuant to Article 2 (2) (c), the processing of personal data by a natural person in the course of a
+      purely personal or household activity, which can also include online activity, is out of the scope of the
+      GDPR.3
+
+12.   This provision – the so-called household exemption – in the context of video surveillance must be
+      narrowly construed. Hence, as considered by the European Court of Justice, the so called “household
+
+
+
+      2 The EDPB notes that where the GDPR so allows, specific requirements in national legislation might apply.
+
+
+      3 See also Recital 18.
 
 
 
 
-      2
-       O Comité Europeu para a Proteção de Dados (CEPD) observa que, sempre que o RGPD o permita, poderão
-      aplicar-se requisitos específicos previstos na legislação nacional.
+      Adopted                                                                                                      7
 
+      exemption” must “be interpreted as relating only to activities which are carried out in the course of
+      private or family life of individuals, which is clearly not the case with the processing of personal data
+      consisting in publication on the internet so that those data are made accessible to an indefinite number
+      of people”.4 Furthermore, if a video surveillance system, to the extent it involves the constant
+      recording and storage of personal data and covers, “even partially, a public space and is accordingly
+      directed outwards from the private setting of the person processing the data in that manner, it cannot
+      be regarded as an activity which is a purely ‘personal or household’ activity for the purposes of the
+      second indent of Article 3(2) of Directive 95/46” 5.
 
+13.   What regards video devices operated inside a private person’s premises, it may fall under the
+      household exemption. It will depend on several factors, which all have to be considered in order to
+      reach a conclusion. Besides the above mentioned elements identified by ECJ rulings, the user of video
+      surveillance at home needs to look at whether he has some kind of personal relationship with the data
+      subject, whether the scale or frequency of the surveillance suggests some kind of professional activity
+      on his side, and of the surveillance’s potential adverse impact on the data subjects. The presence of
+      any single one of the aforementioned elements does not necessarily suggest that the processing is
+      outside the scope of the household exemption, an overall assessment is needed for that
+      determination.
 
-          Adotado                                                                                       7
+       Example: A tourist is recording videos both through his mobile phone and through a camcorder
+       to document his holidays. He shows the footage to friends and family but does not make it
+       accessible for an indefinite number of people. This would fall under the household exemption.
 
-      2.3 Isenção doméstica
-11.   Nos termos do artigo 2.º, n.º 2, alínea c), o tratamento de dados pessoais efetuado por uma pessoa
-      singular no exercício de atividades exclusivamente pessoais ou domésticas, que podem incluir
-      atividades em linha, está fora do âmbito de aplicação do RGPD3.
+       Example: A downhill mountain biker wants to record her descent with an actioncam. She is
+       riding in a remote area and only plans to use the recordings for her personal entertainment at
+       home. This would fall under the household exemption even if to some extent personal data is
+       processed.
 
-12.   Esta disposição – a chamada isenção doméstica – no contexto da videovigilância deve ser interpretada
-      de forma restrita. Assim, de acordo com o Tribunal de Justiça da União Europeia (TJUE), a chamada
-      «isenção doméstica» deve «ser interpretada como tendo unicamente por objeto as atividades que se
-      inserem no âmbito da vida privada ou familiar dos particulares, o que não é manifestamente o caso do
-      tratamento de dados de caráter pessoal que consiste na sua publicação na Internet de maneira que
-      esses dados são disponibilizados a um número indefinido de pessoas»4. Além disso, um sistema de
-      videovigilância que envolve o registo e a conservação constantes de dados pessoais e se estende,
-      «ainda que parcialmente, ao espaço público e, por esse motivo, se dirige para fora da esfera privada
-      da pessoa que procede ao tratamento de dados por esse meio, não pode ser considerada uma
-      atividade exclusivamente “pessoal ou doméstica”, na aceção do artigo 3.º, n.º 2, segundo travessão,
-      da Diretiva 95/46»5.
-
-13.   Quanto aos dispositivos de vídeo operados dentro das instalações de um particular, podem ser
-      abrangidos pela isenção doméstica. Tal dependerá de vários fatores, que têm de ser analisados no seu
-      conjunto para se chegar a uma conclusão. Além dos elementos supramencionados identificados pelos
-      acórdãos do TJUE, o utilizador da videovigilância em casa tem de verificar se possui algum tipo de
-      relação pessoal com o titular dos dados, se a escala ou frequência da vigilância sugere algum tipo de
-      atividade profissional da sua parte e se a vigilância tem algum possível impacto adverso nos titulares
-      dos dados. A presença de qualquer um dos elementos acima mencionados não sugere
-      necessariamente que o tratamento esteja fora do âmbito de aplicação da isenção doméstica, sendo
-      necessária uma avaliação global para chegar a essa conclusão.
-
-          Exemplo: Um turista está a gravar vídeos através do telemóvel e de uma câmara de vídeo para
-          ficar com um registo das suas férias. Mostra as gravações a amigos e familiares, mas não as
-          disponibiliza a um número indefinido de pessoas. Este caso seria abrangido pela isenção
-          doméstica.
-
-          Exemplo: Uma ciclista de downhill quer filmar a sua descida com uma action cam. Está numa
-          zona remota e só planeia utilizar as gravações para entretenimento pessoal em casa. Esta
-          situação seria abrangida pela isenção doméstica, embora envolva, em certa medida, o
-          tratamento de dados pessoais.
-
-          Exemplo: Um indivíduo monitoriza e grava imagens do seu próprio jardim. A propriedade é
-          vedada e apenas o próprio responsável pelo tratamento e a sua família entram regularmente
-          no jardim. Esta situação é abrangida pela isenção doméstica, contanto que a videovigilância
-          não se estenda, ainda que parcialmente, a um espaço público ou a uma propriedade vizinha.
+       Example: Somebody is monitoring and recording his own garden. The property is fenced and
+       only the controller himself and his family are entering the garden on a regular basis. This would
+       fall under the household exemption, provided that the video surveillance does not extend even
+       partially to a public space or neighbouring property.
 14.
 
 
 
-      3
-          Ver também o considerando 18.
-      4
-          Tribunal de Justiça, acórdão de 6 de novembro de 2003, Bodil Lindqvist, C-101/01, EU:C:2003:596, n.º 47.
-      5
-       Tribunal de Justiça, acórdão de 11 de dezembro de 2014, František Ryneš contra Úřad pro ochranu osobních
-      údajů, C-212/13, EU:C:2014:2428, n.º 33.
+
+      4 European Court of Justice, Judgment in Case C-101/01, Bodil Lindqvist case, 6th November 2003, para 47.
+
+
+      5 European Court of Justice, Judgment in Case C-212/13, František Ryneš v Úřad pro ochranu osobních údajů, 11
+
+      December 2014, para. 33.
 
 
 
-          Adotado                                                                                                    8
+      Adopted                                                                                                     8
 
-      3 LICITUDE DO TRATAMENTO
-15.   Antes da utilização, as finalidades do tratamento têm de ser determinadas em pormenor (artigo 5.º,
-      n.º 1, alínea b)). A videovigilância pode servir muitas finalidades, por exemplo apoiar a proteção de
-      bens e de outros ativos, apoiar a proteção da vida e da integridade física dos indivíduos e recolher
-      provas para ações cíveis6. Estas finalidades do controlo devem ser documentadas por escrito (artigo
-      5.º, n.º 2) e têm de ser especificadas para cada câmara de vigilância em utilização. As câmaras que são
-      utilizadas para a mesma finalidade por um único responsável pelo tratamento podem ser
-      documentadas em conjunto. Além disso, os titulares dos dados devem ser informados sobre a(s)
-      finalidade(s) do tratamento em conformidade com o artigo 13.º (ver secção 7, Obrigações em matéria
-      de transparência e informação). A videovigilância baseada na mera finalidade de «segurança» ou
-      «salvaguarda da segurança» não é suficientemente específica (artigo 5.º, n.º 1, alínea b)). Além disso,
-      é contrária ao princípio de que os dados pessoais devem ser objeto de um tratamento lícito, leal e
-      transparente em relação ao titular dos dados (ver artigo 5.º, n.º 1, alínea a)).
+      3 LAWFULNESS OF PROCESSING
+15.   Before use, the purposes of processing have to be specified in detail (Article 5 (1) (b)). Video
+      surveillance can serve many purposes, e.g. supporting the protection of property and other assets,
+      supporting the protection of life and physical integrity of individuals, collecting evidence for civil
+      claims.6 These monitoring purposes should be documented in writing (Article 5 (2)) and need to be
+      specified for every surveillance camera in use. Cameras that are used for the same purpose by a single
+      controller can be documented together. Furthermore, data subjects must be informed of the
+      purpose(s) of the processing in accordance with Article 13 (see section 7, Transparency and information
+      obligations). Video surveillance based on the mere purpose of “safety” or “for your safety” is not
+      sufficiently specific (Article 5 (1) (b)). It is furthermore contrary to the principle that personal data shall
+      be processed lawfully, fairly and in a transparent manner in relation to the data subject (see Article 5
+      (1) (a)).
 
-16.   Em princípio, todos os fundamentos jurídicos previstos no artigo 6.º, n.º 1, podem constituir uma base
-      jurídica para o tratamento de dados de videovigilância. Por exemplo, o artigo 6.º, n.º 1, alínea c),
-      aplica-se se a legislação nacional estipular a obrigação de realizar videovigilância7. Contudo, na prática,
-      as disposições mais suscetíveis de serem utilizadas são:
+16.   In principle, every legal ground under Article 6 (1) can provide a legal basis for processing video
+      surveillance data. For example, Article 6 (1) (c) applies where national law stipulates an obligation to
+      carry out video surveillance.7 However in practice, the provisions most likely to be used are
 
-                o artigo 6.º, n.º 1, alínea f) (interesses legítimos);
+          •    Article 6 (1) (f) (legitimate interest),
 
-                o artigo 6.º, n.º 1, alínea e) (necessidade de exercer funções de interesse público ou de exercer
-                 a autoridade pública).
+          •    Article 6 (1) (e) (necessity to perform a task carried out in the public interest or in the exercise
+               of official authority).
 
-      Em casos bastante excecionais, o artigo 6.º, n.º 1, alínea a) (consentimento) pode ser usado como
-      base jurídica pelo responsável pelo tratamento.
+      In rather exceptional cases Article 6 (1) (a) (consent) might be used as a legal basis by the controller.
 
-      3.1 Interesse legítimo – artigo 6.º, n.º 1, alínea f)
-17.   A avaliação jurídica do artigo 6.º, n.º 1, alínea f), deve assentar nos seguintes critérios, em
-      conformidade com o considerando 47.
+      3.1 Legitimate interest, Article 6 (1) (f)
+17.   The legal assessment of Article 6 (1) (f) should be based on the following criteria in compliance with
+      Recital 47.
 
-      3.1.1 Existência de interesses legítimos
-18.   A videovigilância é lícita se for necessária para satisfazer os interesses legítimos prosseguidos pelo
-      responsável pelo tratamento ou por terceiros, exceto se prevalecerem os interesses ou direitos e
-      liberdades fundamentais do titular (artigo 6.º, n.º 1, alínea f)). Os interesses legítimos prosseguidos
-      pelo responsável pelo tratamento ou por terceiros podem ser de natureza jurídica8, económica ou
-      imaterial9. No entanto, o responsável pelo tratamento deve ter em conta que, se o titular dos dados
-      se opuser à vigilância em conformidade com o artigo 21.º, o responsável pelo tratamento só pode
-      efetuar a videovigilância desse titular dos dados se se tratar de interesses legítimos imperiosos que
+      3.1.1 Existence of legitimate interests
+18.   Video surveillance is lawful if it is necessary in order to meet the purpose of a legitimate interest
+      pursued by a controller or a third party, unless such interests are overridden by the data subject’s
+      interests or fundamental rights and freedoms (Article 6 (1) (f)). Legitimate interests pursued by a
+      controller or a third party can be legal8, economic or non-material interests.9 However, the controller
+      should consider that if the data subject objects to the surveillance in accordance with Article 21 the
+      controller can only proceed with the video surveillance of that data subject if it is a compelling
+      legitimate interest which overrides the interests, rights and freedoms of the data subject or for the
+      establishment, exercise or defence of legal claims.
 
-
-
-
-      6
-          As regras relativas à obtenção de prova para ações cíveis variam entre os Estados-Membros.
-      7
-       As presentes diretrizes não analisam nem descrevem em pormenor as legislações nacionais que possam divergir
-      entre Estados-Membros.
-      8
-          Tribunal de Justiça, acórdão de 4 de maio de 2017, Rīgas satiksme, C-13/16, EU:C:2017:336.
-      9
-          Ver WP 217, Grupo de Trabalho do Artigo 29.º.
+19.   Given a real and hazardous situation, the purpose to protect property against burglary, theft or
+      vandalism can constitute a legitimate interest for video surveillance.
 
 
 
-          Adotado                                                                                             9
 
-      prevalecem sobre os interesses, os direitos e as liberdades do titular dos dados ou se o tratamento for
-      necessário à declaração, ao exercício ou à defesa de um direito.
+      6 Rules on collecting evidence for civil claims varies in Member States.
 
-19.   Numa situação real e perigosa, a finalidade de proteger bens contra assalto, furto ou vandalismo pode
-      constituir um interesse legítimo para a videovigilância.
 
-20.   O interesse legítimo tem de ser real e atual (ou seja, não pode ser ficcional nem especulativo)10. É
-      necessário que exista uma situação de perigo real – como danos ou incidentes graves no passado –
-      antes de a vigilância poder ser iniciada. À luz do princípio da responsabilidade, seria aconselhável que
-      os responsáveis pelo tratamento documentassem incidentes relevantes (data, método, perda
-      financeira) e as acusações criminais correspondentes. Esses incidentes documentados podem
-      constituir provas sólidas da existência de um interesse legítimo. A existência de um interesse legítimo
-      e da necessidade de controlo devem ser reavaliadas periodicamente (por exemplo, uma vez por ano,
-      dependendo das circunstâncias).
+      7 These guidelines do not analyse or go into details of national law that might differ between Member States.
 
-           Exemplo: O proprietário de uma loja quer abrir um novo estabelecimento e pretende instalar
-           um sistema de videovigilância para prevenir o vandalismo. Consegue demonstrar, mediante a
-           apresentação de estatísticas, que existe uma expectativa elevada de vandalismo na vizinhança
-           próxima. É útil também, neste caso, a experiência das lojas vizinhas. Não é necessário que o
-           responsável pelo tratamento em questão tenha sofrido danos, contanto que os danos na
-           vizinhança sugiram um perigo ou uma situação semelhante e possam, desse modo, constituir
-           uma indicação de interesse legítimo. No entanto, não basta apresentar estatísticas nacionais
-           ou gerais de criminalidade sem analisar a zona em questão ou os perigos para o
-           estabelecimento em causa.
+
+      8 European Court of Justice, Judgment in Case C-13/16, Rīgas satiksme case, 4 may 2017
+
+      9 see WP217, Article 29 Working Party.
+
+
+
+
+      Adopted                                                                                                         9
+
+20.   The legitimate interest needs to be of real existence and has to be a present issue (i.e. it must not be
+      fictional or speculative)10. A real-life situation of distress needs to be at hand – such as damages or
+      serious incidents in the past – before starting the surveillance. In light of the principle of accountability,
+      controllers would be well advised to document relevant incidents (date, manner, financial loss) and
+      related criminal charges. Those documented incidents can be a strong evidence for the existence of a
+      legitimate interest. The existence of a legitimate interest as well as the necessity of the monitoring
+      should be reassessed in periodic intervals (e. g. once a year, depending on the circumstances).
+
+        Example: A shop owner wants to open a new shop and wants to install a video surveillance
+        system to prevent vandalism. He can show, by presenting statistics, that there is a high
+        expectation of vandalism in the near neighbourhood. Also, experience from neighbouring shops
+        is useful. It is not necessary that a damage to the controller in question must have occurred. As
+        long as damages in the neighbourhood suggest a danger or similar, and thus can be an
+        indication of a legitimate interest. It is however not sufficient to present national or general
+        crime statistic without analysing the area in question or the dangers for this specific shop.
 21.
-22.   As situações de perigo iminente podem constituir um interesse legítimo, nomeadamente no caso de
-      bancos ou lojas que vendem artigos valiosos (por exemplo, joalharias) ou de zonas conhecidas por
-      serem cenários habituais de crimes contra a propriedade (por exemplo, bombas de gasolina).
+22.   Imminent danger situations may constitute a legitimate interest, such as banks or shops selling
+      precious goods (e.g. jewellers), or areas that are known to be typical crime scenes for property offences
+      (e. g. petrol stations).
 
-23.    O RGPD também estabelece claramente que as autoridades públicas não podem invocar o interesse
-      legítimo para justificar o tratamento dos dados na prossecução das suas atribuições (artigo 6.º, n.º 1,
-      segundo parágrafo).
+23.    The GDPR also clearly states that public authorities cannot rely their processing on the grounds of
+      legitimate interest, as long as they are carrying out their tasks, Article 6 (1) sentence 2.
 
-      3.1.2 Necessidade do tratamento
-24.   Os dados pessoais devem ser adequados, pertinentes e limitados ao que é necessário relativamente
-      às finalidades para as quais são tratados («minimização dos dados»); ver artigo 5.º, n.º 1, alínea c).
-      Antes de instalar um sistema de videovigilância, o responsável pelo tratamento deve sempre examinar
-      criticamente se esta medida é, em primeiro lugar, adequada para atingir o objetivo desejado e, em
-      segundo lugar, adequada e necessária às respetivas finalidades. As medidas de videovigilância só
-      devem ser escolhidas se a finalidade do tratamento não puder ser razoavelmente cumprida por outros
-      meios que sejam menos intrusivos para os direitos e liberdades fundamentais do titular dos dados.
+      3.1.2 Necessity of processing
+24.   Personal data should be adequate, relevant and limited to what is necessary in relation to the purposes
+      for which they are processed (‘data minimisation’), see Article 5 (1) (c). Before installing a video-
+      surveillance system the controller should always critically examine if this measure is firstly suitable to
+      attain the desired goal, and secondly adequate and necessary for its purposes. Video surveillance
+      measures should only be chosen if the purpose of the processing could not reasonably be fulfilled by
+      other means which are less intrusive to the fundamental rights and freedoms of the data subject.
 
-25.   Por exemplo, um responsável pelo tratamento que pretenda evitar crimes contra a propriedade pode,
-      em vez de instalar um sistema de videovigilância, adotar medidas de segurança alternativas, como
-      vedar a propriedade, introduzir patrulhas regulares por pessoal de segurança, utilizar porteiros,
-      melhorar a iluminação, instalar fechaduras de segurança e janelas e portas invioláveis ou aplicar
+25.   Given the situation that a controller wants to prevent property related crimes, instead of installing a
+      video surveillance system the controller could also take alternative security measures such as fencing
+      the property, installing regular patrols of security personnel, using gatekeepers, providing better
+      lighting, installing security locks, tamper-proof windows and doors or applying anti-graffiti coating or
+      foils to walls. Those measures can be as effective as video surveillance systems against burglary, theft
+      and vandalism. The controller has to assess on a case-by-case basis whether such measures can be a
+      reasonable solution.
+
+26.   Before operating a camera system, the controller is obliged to assess where and when video
+      surveillance measures are strictly necessary. Usually a surveillance system operating at night-time as
+      well as outside the regular working hours will meet the needs of the controller to prevent any dangers
+      to his property.
 
 
-      10
-        Ver WP 217, Grupo de Trabalho do Artigo 29.º, p. 24 e seguintes. Ver também processo C-708/18 do TJUE,
-      n.º 44.
+
+
+      10 see WP217, Article 29 Working Party, p. 24 seq. See also ECJ Case C-708/18 p.44
 
 
 
-       Adotado                                                                                            10
 
-      revestimento ou película antigrafitti nas paredes. Estas medidas podem ser tão eficazes como os
-      sistemas de videovigilância contra assaltos, furto e vandalismo. O responsável pelo tratamento tem de
-      avaliar caso a caso se estas medidas podem constituir uma solução razoável.
+      Adopted                                                                                                    10
 
-26.   Antes de operar um sistema de câmaras, o responsável pelo tratamento é obrigado a avaliar onde e
-      quando as medidas de videovigilância são estritamente necessárias. Normalmente, um sistema de
-      vigilância que funcione de noite e fora do horário normal de trabalho satisfaz as necessidades do
-      responsável pelo tratamento relativamente à prevenção de eventuais perigos para a sua propriedade.
+27.   In general, the necessity to use video surveillance to protect the controllers’ premises ends at the
+      property boundaries.11 However, there are cases where the surveillance of the property is not
+      sufficient for an effective protection. In some individual cases it might be necessary to exceed the video
+      surveillance to the immediate surroundings of the premises. In this context, the controller should
+      consider physical and technical means, for example blocking out or pixelating not relevant areas.
 
-27.   Regra geral, a necessidade de utilizar videovigilância para proteger as instalações dos responsáveis
-      pelo tratamento termina nos limites da propriedade.11 No entanto, há casos em que a vigilância da
-      propriedade não é suficiente para assegurar uma proteção eficaz. Em determinados casos, pode ser
-      necessário alargar a videovigilância às imediações das instalações. Nesta situação, o responsável pelo
-      tratamento deve ponderar a utilização de meios físicos e técnicos, por exemplo a ocultação ou a
-      pixelização das zonas não relevantes.
-
-           Exemplo: Uma livraria quer proteger as suas instalações contra vandalismo. Regra geral, as
-           câmaras só devem filmar as próprias instalações, uma vez que a finalidade em questão não
-           exige a vigilância das instalações vizinhas nem dos espaços públicos circundantes.
+        Example: A bookshop wants to protect its premises against vandalism. In general, cameras
+        should only be filming the premises itself because it is not necessary to watch neighbouring
+        premises or public areas in the surrounding of the bookshop premises for that purpose.
 28.
-29.   Relativamente à forma como os elementos de prova são preservados, também se colocam questões
-      relacionadas com a necessidade de tratamento. Em alguns casos, pode ser necessário utilizar soluções
-      de caixa negra em que as gravações são automaticamente apagadas após um determinado prazo de
-      conservação e só são consultadas caso ocorra um incidente. Noutras situações, pode não ser
-      necessário gravar o material de vídeo, justificando-se em vez disso recorrer ao controlo em tempo real.
-      A decisão entre as soluções de caixa negra e o controlo em tempo real também se deve basear na
-      finalidade em questão. Se, por exemplo, a finalidade da videovigilância for a preservação de provas,
-      os métodos em tempo real geralmente não são adequados. Por vezes, o controlo em tempo real
-      também pode ser mais intrusivo do que a conservação e a eliminação automática do material após um
-      período de tempo limitado (por exemplo, se alguém estiver constantemente a visualizar o monitor, o
-      método pode ser mais intrusivo do que se não houver nenhum monitor e o material for diretamente
-      armazenado numa caixa negra). O princípio da minimização dos dados deve ser considerado neste
-      contexto (artigo 5.º, n.º 1, alínea c)). Importa também ter em mente a possibilidade de o responsável
-      pelo tratamento utilizar, em vez de videovigilância, pessoal de segurança capaz de reagir e intervir
-      imediatamente.
+29.   Questions concerning the processing’s necessity also arise regarding the way evidence is preserved. In
+      some cases it might be necessary to use black box solutions where the footage is automatically deleted
+      after a certain storage period and only accessed in case of an incident. In other situations, it might not
+      be necessary to record the video material at all but more appropriate to use real-time monitoring
+      instead. The decision between black box solutions and real-time monitoring should also be based on
+      the purpose pursued. If for example the purpose of video surveillance is the preservation of evidence,
+      real-time methods are usually not suitable. Sometimes real-time monitoring may also be more
+      intrusive than storing and automatically deleting material after a limited timeframe (e. g. if someone
+      is constantly viewing the monitor it might be more intrusive than if there is no monitor at all and
+      material is directly stored in a black box). The data minimisation principle must be regarded in this
+      context (Article 5 (1) (c)). It should also be kept in mind that it might be possible that the controller
+      could use security personnel instead of video surveillance that are able to react and intervene
+      immediately.
 
-      3.1.3 Ponderação dos interesses
-30.   Partindo do princípio de que a videovigilância é necessária para proteger os interesses legítimos de um
-      responsável pelo tratamento, um sistema de videovigilância só pode ser acionado se aos interesses
-      legítimos do responsável pelo tratamento ou de terceiros (por exemplo, proteção de bens ou da
-      integridade física) não se sobrepuserem os interesses ou os direitos e liberdades fundamentais do
-      titular dos dados. O responsável pelo tratamento tem de considerar 1) em que medida o controlo afeta
-      os interesses e os direitos e liberdades fundamentais dos indivíduos e 2) se este controlo resulta em
-      violações ou consequências negativas no que diz respeito aos direitos do titular dos dados. Na verdade,
-      a ponderação dos interesses é obrigatória. Os direitos e liberdades fundamentais, por um lado, e os
+      3.1.3 Balancing of interests
+30.   Presuming that video surveillance is necessary to protect the legitimate interests of a controller, a
+      video surveillance system may only be put in operation, if the legitimate interests of the controller or
+      those of a third party (e.g. protection of property or physical integrity) are not overridden by the
+      interests or fundamental rights and freedoms of the data subject. The controller needs to consider 1)
+      to what extent the monitoring affects interests, fundamental rights and freedoms of individuals and 2)
+      if this causes violations or negative consequences with regard to the data subject’s rights. In fact,
+      balancing the interests is mandatory. Fundamental rights and freedoms on one hand and the
+      controller’s legitimate interests on the other hand have to be evaluated and balanced carefully.
 
 
 
-      11
-           Além disso, poderá estar sujeita à legislação nacional em alguns Estados-Membros.
+
+      11 This might also be subject to national legislation in some Member States.
 
 
 
-       Adotado                                                                                          11
 
-      interesses legítimos do responsável pelo tratamento, por outro, têm de ser cuidadosamente avaliados
-      e ponderados.
+      Adopted                                                                                                11
 
-       Exemplo: Uma empresa de estacionamento privado tem registado problemas recorrentes com
-       furtos nos carros estacionados. A zona de estacionamento é um espaço aberto, de fácil acesso
-       a qualquer pessoa, mas está claramente identificada com sinais e delimitada por bloqueadores
-       rodoviários. A empresa de estacionamento tem um interesse legítimo (evitar furtos nos carros
-       dos clientes) em controlar a área durante o período do dia em que têm ocorrido os problemas.
-       Os titulares dos dados são controlados num período de tempo limitado, não se encontram na
-       área em questão para fins recreativos e também têm interesse em evitar os furtos. Neste caso,
-       o interesse legítimo do responsável pelo tratamento prevalece sobre o interesse dos titulares
-       dos dados de não serem controlados.
+       Example: A private parking company has documented reoccurring problems with thefts in the
+       cars parked. The parking area is an open space and can be easily accessed by anyone, but is
+       clearly marked with signs and road blockers surrounding the space. The parking company have
+       a legitimate interest (preventing thefts in the customers’ cars) to monitor the area during the
+       time of day that they are experiencing problems. Data subjects are monitored in a limited
+       timeframe, they are not in the area for recreational purposes and it is also in their own interest
+       that thefts are prevented. The interest of the data subjects not to be monitored is in this case
+       overridden by the controller’s legitimate interest.
 
-       Exemplo: Um restaurante decide instalar câmaras de vídeo nos lavabos para controlar o asseio
-       das instalações sanitárias. Neste caso, os direitos dos titulares dos dados prevalecem
-       claramente sobre os interesses do responsável pelo tratamento, pelo que as câmaras não
-       podem ser instaladas nesse local.
+       Example: A restaurant decides to install video cameras in the restrooms to control the tidiness
+       of the sanitary facilities. In this case the rights of the data subjects clearly overrides the interest
+       of the controller, therefore cameras cannot be installed there.
 31.
-      3.1.3.1 Tomada de decisões caso a caso
-32.   Sendo a ponderação dos interesses obrigatória nos termos do regulamento, a decisão tem de ser
-      tomada caso a caso (ver artigo 6.º, n.º 1, alínea f)). É insuficiente referir situações abstratas ou
-      comparar casos similares. O responsável pelo tratamento tem de avaliar os riscos de interferência com
-      os direitos do titular dos dados, sendo o critério decisivo a intensidade da intervenção no que diz
-      respeito aos direitos e liberdades do indivíduo.
+      3.1.3.1 Making case-by-case decisions
+32.   As the balancing of interests is mandatory according to the regulation, the decision has to be made on
+      a case-by-case basis (see Article 6 (1) (f)). Referencing abstract situations or comparing similar cases to
+      one another is insufficient. The controller has to evaluate the risks of the intrusion of the data subject’s
+      rights; here the decisive criterion is the intensity of intervention for the rights and freedoms of the
+      individual.
 
-33.   A intensidade pode ser definida, nomeadamente, pelo tipo de informação recolhida (conteúdo
-      informativo), pelo âmbito (densidade da informação, extensão espacial e geográfica), pelo número de
-      titulares dos dados em causa, quer como um número específico, quer em percentagem da população
-      relevante, pela situação em questão, pelos interesses reais do grupo de titulares dos dados, pelos
-      meios alternativos e pela natureza e âmbito da avaliação dos dados.
+33.   Intensity can inter alia be defined by the type of information that is gathered (information content),
+      the scope (information density, spatial and geographical extent), the number of data subjects
+      concerned, either as a specific number or as a proportion of the relevant population, the situation in
+      question, the actual interests of the group of data subjects, alternative means, as well as by the nature
+      and scope of the data assessment.
 
-34.   Os fatores de ponderação importantes podem incluir o tamanho da área que está sob vigilância e a
-      quantidade de titulares de dados sob vigilância. O uso de videovigilância numa zona remota (por
-      exemplo, para observar vida selvagem ou para proteger infraestruturas críticas, como uma antena de
-      rádio privada) tem de ser avaliado de forma diferente do uso de videovigilância numa zona pedonal
-      ou num centro comercial.
+34.   Important balancing factors can be the size of the area, which is under surveillance and the amount of
+      data subjects under surveillance. The use of video surveillance in a remote area (e. g. to watch wildlife
+      or to protect critical infrastructure such as a privately owned radio antenna) has to be assessed
+      differently than video surveillance in a pedestrian zone or a shopping mall.
 
- 1.    Exemplo: Ao instalar uma câmara de trânsito (por exemplo, com o objetivo de recolher provas
-       em caso de acidente), é importante assegurar que a câmara não está constantemente a gravar
-       o trânsito, bem como as pessoas que se encontram junto à estrada. Caso contrário, o interesse
-       de possuir gravações de vídeo como prova no caso mais hipotético de um acidente rodoviário
-       não poderá justificar esta grave interferência com os direitos dos titulares dos dados11.
+ 1.    Example: If a dash cam is installed (e. g. for the purpose of collecting evidence in case of an
+       accident), it is important to ensure that this camera is not constantly recording traffic, as well
+       as persons who are near a road. Otherwise the interest in having video recordings as evidence
+       in the more theoretical case of a road accident cannot justify this serious interference with data
+       subjects’ rights.11
 35.
-      3.1.3.2 Expectativas razoáveis dos titulares dos dados
-36.   De acordo com o considerando 47, a existência de um interesse legítimo requer uma avaliação cuidada.
-      Neste caso, há que ter em conta as expectativas razoáveis do titular dos dados no momento e no
-      contexto do tratamento dos seus dados pessoais. No que diz respeito ao controlo sistemático, a
-      relação entre o titular dos dados e o responsável pelo tratamento pode variar significativamente e
+      3.1.3.2 Data subjects’ reasonable expectations
+36.   According to Recital 47, the existence of a legitimate interest needs careful assessment. Here the
+      reasonable expectations of the data subject at the time and in the context of the processing of its
+      personal data have to be included. Concerning systematic monitoring, the relationship between data
+      subject and controller may vary significantly and may affect what reasonable expectations the data
+      subject might have. The interpretation of the concept of reasonable expectations should not only be
+      based on the subjective expectations in question. Rather, the decisive criterion has to be if an objective
+      third party could reasonably expect and conclude to be subject to monitoring in this specific situation.
 
 
 
-       Adotado                                                                                         12
 
-      pode afetar as expectativas razoáveis do titular dos dados. A interpretação do conceito de expectativas
-      razoáveis não se deve basear apenas nas expectativas subjetivas em questão. Pelo contrário, o critério
-      decisivo tem de ser a possibilidade razoável de um terceiro prever e concluir que seria sujeito a
-      controlo nessa situação específica.
+      Adopted                                                                                                    12
 
-37.   Por exemplo, um trabalhador no seu local de trabalho provavelmente não espera, na maioria dos
-      casos, ser controlado pelo seu empregador12. Além disso, não é de esperar a realização de controlo
-      num jardim privado, em espaços habitados ou em gabinetes de exame e tratamento. No mesmo
-      sentido, não é razoável esperar que seja realizado controlo em instalações sanitárias ou saunas, uma
-      vez que o controlo deste tipo de espaços constitui uma forte interferência nos direitos do titular dos
-      dados. Os titulares dos dados têm a expectativa razoável de que não será realizada qualquer
-      videovigilância nesses espaços. Por outro lado, o cliente de um banco poderá esperar ser objeto de
-      vigilância no interior do banco ou junto de uma caixa multibanco.
+37.   For instance, an employee in his/her workplace is in most cases not likely expecting to be monitored
+      by his or her employer.12 Furthermore, monitoring is not to be expected in one’s private garden, in
+      living areas, or in examination and treatment rooms. In the same vein, it is not reasonable to expect
+      monitoring in sanitary or sauna facilities – monitoring such areas is an intense intrusion into the rights
+      of the data subject. The reasonable expectations of data subjects are that no video surveillance will
+      take place in those areas. On the other hand, the customer of a bank might expect that he/she is
+      monitored inside the bank or by the ATM.
 
-38.   Os titulares dos dados também podem ter a expectativa de não ser controlados no interior de espaços
-      públicos, especialmente se esses espaços forem normalmente utilizados para atividades de
-      recuperação, reabilitação e lazer, bem como em lugares onde os indivíduos permanecem e/ou
-      comunicam, como áreas de repouso, mesas de restaurantes, parques, cinemas e ginásios. Neste caso,
-      os interesses ou direitos e liberdades do titular dos dados sobrepõem-se frequentemente aos
-      interesses legítimos do responsável pelo tratamento.
+38.   Data subjects can also expect to be free of monitoring within publicly accessible areas especially if
+      those areas are typically used for recovery, regeneration, and leisure activities as well as in places
+      where individuals stay and/or communicate, such as sitting areas, tables in restaurants, parks, cinemas
+      and fitness facilities. Here the interests or rights and freedoms of the data subject will often override
+      the controller’s legitimate interests.
 
-           Exemplo: Em casas de banho, os titulares dos dados não esperam ser objeto de vigilância. A
-           videovigilância para prevenir acidentes, por exemplo, não é proporcionada.
+        Example: In toilets data subjects expect not to be monitored. Video surveillance for example to
+        prevent accidents is not proportional.
 39.
-40.   Os sinais que informam o titular dos dados sobre a videovigilância são irrelevantes quando se
-      determina o que o titular dos dados pode esperar objetivamente. Isto significa que, por exemplo, o
-      proprietário de uma loja não pode argumentar que os clientes têm objetivamente a expectativa
-      razoável de serem vigiados só porque existe um sinal à entrada a informá-los sobre a vigilância.
+40.   Signs informing the data subject about the video surveillance have no relevance when determining
+      what a data subject objectively can expect. This means that e.g. a shop owner cannot rely on customers
+      objectively having reasonable expectations to be monitored just because a sign informs the individual
+      at the entrance about the surveillance.
 
-      3.2 A necessidade de exercer funções de interesse público ou de exercer a autoridade
-          pública de que está investido o responsável pelo tratamento – artigo 6.º, n.º 1,
-          alínea e)
-41.   Os dados pessoais podem ser tratados por meio de videovigilância nos termos do artigo 6.º, n.º 1,
-      alínea e), se o tratamento for necessário ao exercício de funções de interesse público ou ao exercício
-      da autoridade pública13. O exercício da autoridade pública poderá não permitir esse tratamento, mas
-      outras bases legislativas, nomeadamente questões de «saúde e segurança» tendo em vista a proteção
-      de visitantes e trabalhadores, poderão proporcionar uma margem de manobra limitada para o
-      tratamento, sem deixar de ter em conta as obrigações e os direitos dos titulares dos dados previstos
-      no RGPD.
+      3.2 Necessity to perform a task carried out in the public interest or in the exercise of
+          official authority vested in the controller, Article 6 (1) (e)
+41.   Personal data could be processed through video surveillance under Article 6 (1) (e) if it is necessary to
+      perform a task carried out in the public interest or in in the exercise of official authority. 13 It may be
+      that the exercise of official authority does not allow for such processing, but other legislative bases
+      such as “health and safety” for the protection of visitors and employees may provide limited scope for
+      processing, while still having regard for GDPR obligations and data subject rights.
 
-
-
-
-      12
-         Ver também: Grupo de Trabalho do Artigo 29.º, Parecer 2/2017 sobre o tratamento de dados no local de
-      trabalho, WP 249, adotado em 8 de junho de 2017.
-      13
-        O fundamento jurídico para o tratamento referido é definido pelo direito da União ou pelo direito do Estado-
-      Membro e a finalidade do tratamento «deve ser necessária ao exercício de funções de interesse público ou ao
-      exercício da autoridade pública de que está investido o responsável pelo tratamento» (artigo 6.º, n.º 3).
+42.   Member States may maintain or introduce specific national legislation for video surveillance to adapt
+      the application of the rules of the GDPR by determining more precisely specific requirements for
+      processing as long as it is in accordance with the principles laid down by the GDPR (e.g. storage
+      limitation, proportionality).
 
 
 
-       Adotado                                                                                                13
 
-42.   Os Estados-Membros podem manter ou introduzir legislação nacional específica relativa à
-      videovigilância para adaptar a aplicação das regras do RGPD, determinando com maior precisão os
-      requisitos específicos para o tratamento, desde que o façam em conformidade com os princípios
-      estabelecidos no RGPD (por exemplo, em matéria de limitação da conservação ou de
-      proporcionalidade).
+      12 See also: Article 29 Working Party, Opinion 2/2017 on data processing at work, WP249, adopted on 8 June
 
-      3.3 Consentimento – artigo 6.º, n.º 1, alínea a)
-43.   O consentimento tem de ser uma manifestação de vontade, livre, específica, informada e explícita,
-      conforme descrito nas orientações relativas ao consentimento14.
+      2017.
+      13 The basis for the processing referred shall be laid down by Union law or Member State law» and «shall be
 
-44.   No que diz respeito ao controlo sistemático, o consentimento do titular dos dados só pode servir de
-      base jurídica em conformidade com o artigo 7.º (ver considerando 43) em casos excecionais. Pela sua
-      própria natureza, esta tecnologia controla um número desconhecido de pessoas em simultâneo. O
-      responsável pelo tratamento dificilmente conseguirá provar que o titular dos dados deu o seu
-      consentimento antes do tratamento dos seus dados pessoais (artigo 7.º, n.º 1). Pressupondo que o
-      titular dos dados retira o seu consentimento, será difícil ao responsável pelo tratamento provar que já
-      não são tratados dados pessoais (artigo 7.º, n.º 3).
+      necessary for the performance of a task carried out in the public interest or in the exercise of official authority
+      vested in the controller (Article 6 (3)).
 
-           Exemplo: Os atletas podem solicitar monitorização durante exercícios individuais para analisar
-           as suas técnicas e o seu desempenho. Por outro lado, quando um clube desportivo toma a
-           iniciativa de monitorizar uma equipa inteira com o mesmo objetivo, o consentimento muitas
-           vezes não será válido, pois os atletas individuais podem sentir-se pressionados a dar o seu
-           consentimento tendo em conta que uma eventual recusa poderia prejudicar os colegas de
-           equipa.
+
+
+      Adopted                                                                                                          13
+
+      3.3 Consent, Article 6 (1) (a)
+43.   Consent has to be freely given, specific, informed and unambiguous as described in the guidelines on
+      consent.14
+
+44.   Regarding systematic monitoring, the data subject’s consent can only serve as a legal basis in
+      accordance with Article 7 (see Recital 43) in exceptional cases. It is in the surveillance’s nature that this
+      technology monitors an unknown number of people at once. The controller will hardly be able to prove
+      that the data subject has given consent prior to processing of its personal data (Article 7 (1)). Assumed
+      that the data subject withdraws its consent it will be difficult for the controller to prove that personal
+      data is no longer processed (Article 7 (3)).
+
+        Example: Athletes may request monitoring during individual exercises in order to analyse their
+        techniques and performance. On the other hand, where a sports club takes the initiative to
+        monitor a whole team for the same purpose, consent will often not be valid, as the individual
+        athletes may feel pressured into giving consent so that their refusal of consent does not
+        adversely affect teammates.
 45.
-46.   Se o responsável pelo tratamento quiser basear-se no consentimento, tem o dever de se certificar de
-      que cada titular dos dados que entra na área que está sob videovigilância deu o seu consentimento.
-      Este consentimento tem de cumprir as condições previstas no artigo 7.º. A entrada numa zona
-      assinalada como estando sob vigilância (por exemplo, se a pessoa for convidada a atravessar um átrio
-      ou um portão específico para entrar numa zona sob vigilância) não constitui uma declaração nem um
-      ato positivo claro para efeitos de consentimento, a menos que cumpra os critérios dos artigos 4.º e
-      7.º conforme descrito nas orientações relativas ao consentimento15.
+46.   If the controller wishes to rely on consent it is his duty to make sure that every data subject who enters
+      the area which is under video surveillance has given her or his consent. This consent has to meet the
+      conditions of Article 7. Entering a marked monitored area (e.g. people are invited to go through a
+      specific hallway or gate to enter a monitored area), does not constitute a statement or a clear
+      affirmative action needed for consent, unless it meets the criteria of Article 4 and 7 as described in the
+      guidelines on consent.15
 
-47.   Dado o desequilíbrio de poder entre empregadores e trabalhadores, na maioria dos casos os
-      empregadores não devem basear-se no consentimento para efetuar o tratamento de dados pessoais,
-      uma vez que é improvável que este tenha sido dado de livre vontade. As orientações relativas ao
-      consentimento devem ser tidas em consideração neste contexto.
+47.   Given the imbalance of power between employers and employees, in most cases employers should
+      not rely on consent when processing personal data, as it is unlikely to be freely given. The guidelines
+      on consent should be taken into consideration in this context.
 
-48.   O direito do Estado-Membro ou as convenções coletivas (incluindo «acordos setoriais») podem prever
-      regras específicas para o tratamento de dados pessoais dos trabalhadores no contexto laboral (ver
-      artigo 88.º).
+48.   Member State law or collective agreements, including ‘works agreements’, may provide for specific
+      rules on the processing of employees' personal data in the employment context (see Article 88).
 
 
 
 
-      14
-        Grupo de Trabalho do Artigo 29.º (GT29), «Orientações relativas ao consentimento na aceção do Regulamento
-      (UE) 2016/679» (WP 259 rev.01). – aprovadas pelo CEPD
-      15
-        Grupo de Trabalho do Artigo 29.º (GT29), «Orientações relativas ao consentimento na aceção do Regulamento
-      (UE) 2016/679» (WP 259) – aprovadas pelo CEPD – que devem ser tidas em conta.
+      14 Article 29 Working Party (Art. 29 WP) „Guidelines on consent under Regulation 2016/679“ (WP 259 rev. 01). -
+
+      endorsed by the EDPB
+      15 Article 29 Working Party (Art. 29 WP) „Guidelines on consent under Regulation 2016/679“ (WP 259) -
+
+      endorsed by the EDPB - which should be taken in account.
 
 
 
-       Adotado                                                                                              14
+      Adopted                                                                                                    14
 
-      4 DIVULGAÇÃO DE GRAVAÇÕES DE VÍDEO A TERCEIROS
-49.   Em princípio, as regras gerais do RGPD aplicam-se à divulgação de gravações de vídeo a terceiros.
+      4 DISCLOSURE OF VIDEO FOOTAGE TO THIRD PARTIES
+49.   In principle, the general regulations of the GDPR apply to the disclosure of video recordings to third
+      parties.
 
-      4.1 Divulgação de gravações de vídeo a terceiros em geral
-50.   O termo «divulgação» é definido no artigo 4.º, ponto 2, como transmissão (por exemplo, comunicação
-      individual), difusão (por exemplo, publicação em linha) ou qualquer outra forma de disponibilização.
-      O termo «terceiro» é definido no artigo 4.º, ponto 10. Quando a divulgação é efetuada para países
-      terceiros ou organizações internacionais, também se aplicam as disposições especiais dos artigos 44.º
-      e seguintes.
+      4.1 Disclosure of video footage to third parties in general
+50.   Disclosure is defined in Article 4 (2) as transmission (e.g. individual communication), dissemination
+      (e.g. publishing online) or otherwise making available. Third parties are defined in Article 4 (10). Where
+      disclosure is made to third countries or international organisations, the special provisions of Article 44
+      et seq. also apply.
 
-51.   Qualquer divulgação de dados pessoais é um tipo separado de tratamento de dados pessoais
-      relativamente ao qual o responsável pelo tratamento tem de ter uma base jurídica nos termos do
-      artigo 6.º.
+51.   Any disclosure of personal data is a separate kind of processing of personal data for which the
+      controller needs to have a legal basis in Article 6.
 
-       Exemplo: Um responsável pelo tratamento que pretenda carregar uma gravação para a Internet
-       tem de utilizar uma base jurídica para esse tratamento, por exemplo obtendo o consentimento
-       do titular dos dados em conformidade com o artigo 6.º, n.º 1, alínea a).
+       Example: A controller who wishes to upload a recording to the Internet needs to rely on a legal
+       basis for that processing, for instance by obtaining consent from the data subject according to
+       Article 6 (1) (a).
 52.
-53.   A transmissão de gravações de vídeo a terceiros para fins que não sejam aqueles para os quais os dados
-      pessoais foram recolhidos é possível nos termos das regras do artigo 6.º, n.º 4.
+53.   The transmission of video footage to third parties for the purpose other than that for which the data
+      has been collected is possible under the rules of Article 6 (4).
 
-       Exemplo: É instalada videovigilância de uma cancela (num parque de estacionamento) com o
-       objetivo de resolver questões relacionadas com danos. Ocorre um dano e a gravação é
-       transferida para um advogado para agir judicialmente. Neste caso, a finalidade da gravação é a
-       mesma que a da transferência.
+       Example: Video surveillance of a barrier (at a parking lot) is installed for the purpose of resolving
+       damages. A damage occurs and the recording is transferred to a lawyer to pursue a case. In this
+       case the purpose for recording is the same as the one for transferring.
 
-       Exemplo: É instalada videovigilância de uma cancela (num parque de estacionamento) com o
-       objetivo de resolver questões relacionadas com danos. A gravação é publicada na Internet
-       apenas por razões de diversão. Neste caso, a finalidade mudou e não é compatível com a
-       finalidade inicial. Além disso, seria problemático identificar uma base jurídica para este
-       tratamento (publicação).
+       Example: Video surveillance of a barrier (at a parking lot) is installed for the purpose of resolving
+       damages. The recording is published online for pure amusement reasons. In this case the
+       purpose has changed and is not compatible with the initial purpose. It would furthermore be
+       problematic to identify a legal basis for that processing (publishing).
 54.
-55.   Um terceiro destinatário terá de fazer a sua própria análise jurídica, nomeadamente identificando a
-      sua base jurídica ao abrigo do artigo 6.º para o tratamento (por exemplo, a receção do material).
+55.   A third party recipient will have to make its own legal analysis, in particular identifying its legal basis
+      under Article 6 for his processing (e.g. receiving the material).
 
-      4.2 Divulgação de gravações de vídeo a autoridades de aplicação da lei
-56.   A divulgação de gravações de vídeo às autoridades de aplicação da lei é também um processo
-      independente, que requer uma justificação distinta para o responsável pelo tratamento.
+      4.2 Disclosure of video footage to law enforcement agencies
+56.   The disclosure of video recordings to law enforcement agencies is also an independent process, which
+      requires a separate justification for the controller.
 
-57.   Nos termos do artigo 6.º, n.º 1, alínea c), o tratamento é lícito se for necessário para o cumprimento
-      de uma obrigação jurídica a que o responsável pelo tratamento esteja sujeito. Embora a legislação
-      aplicável em matéria de forças policiais esteja sob o controlo exclusivo dos Estados-Membros, existem
-      muito provavelmente regras gerais que regulam a transferência de provas para as autoridades de
-      aplicação da lei em todos os Estados-Membros. A transmissão dos dados pelo responsável pelo
-      tratamento é regida pelo RGPD. Se a legislação nacional exigir que o responsável pelo tratamento
-      coopere com as autoridades de aplicação da lei (por exemplo, de investigação), a base jurídica para a
-      transmissão dos dados é a obrigação jurídica prevista no artigo 6.º, n.º 1, alínea c).
+57.   According to Article 6 (1) (c), processing is legal if it is necessary for compliance with a legal obligation
+      to which the controller is subject. Although the applicable police law is an affair under the sole control
+      of the Member States, there are most likely general rules that regulate the transfer of evidence to law
+      enforcement agencies in every Member State. The processing of the controller handing over the data
+      is regulated by the GDPR. If national legislation requires the controller to cooperate with law
+      enforcement (e. g. investigation), the legal basis for handing over the data is legal obligation under
+      Article 6 (1) (c).
+
+58.   The purpose limitation in Article 6 (4) is then often unproblematic, since the disclosure explicitly goes
+      back to Member State law. A consideration of the special requirements for a change of purpose in the
+      sense of lit. a - e is therefore not necessary.
 
 
 
 
-       Adotado                                                                                          15
+      Adopted                                                                                                   15
 
-58.   Por conseguinte, a limitação das finalidades prevista no artigo 6.º, n.º 4, raramente é problemática,
-      uma vez que a divulgação remete explicitamente para a legislação dos Estados-Membros. Não é, pois,
-      necessária uma consideração dos requisitos especiais para uma mudança de finalidade na aceção das
-      alíneas a) a e).
-
-       Exemplo: O proprietário de uma loja grava imagens na entrada do estabelecimento. As
-       gravações mostram uma pessoa a roubar a carteira de outra pessoa. A polícia pede ao
-       responsável pelo tratamento que entregue o material a fim de auxiliar na investigação. Nesse
-       caso, o proprietário da loja utilizaria a base jurídica prevista no artigo 6.º, n.º 1, alínea c)
-       (obrigação jurídica), em conjugação com a legislação nacional pertinente, para o
-       processamento da transferência.
+       Example: A shop owner records footage at its entrance. The footage shows a person stealing
+       another person’s wallet. The police asks the controller to hand over the material in order to
+       assist in their investigation. In that case the shop owner would use the legal basis under Article
+       6 (1) (c) (legal obligation) read in conjunction with the relevant national law for the transfer
+       processing.
 59.
 
-       Exemplo: Uma câmara é instalada numa loja por razões de segurança. O proprietário da loja
-       acredita ter gravado algo suspeito e decide enviar o material para a polícia (sem qualquer
-       indicação de que existe algum tipo de investigação em curso). Neste caso, o proprietário da loja
-       tem de avaliar se se encontram reunidas as condições, que, na maioria dos casos, são as
-       previstas no artigo 6.º, n.º 1, alínea f). Isto acontece geralmente se o proprietário da loja tiver
-       uma suspeita razoável de que foi cometido um crime.
+       Example: A camera is installed in a shop for security reasons. The shop owner believes he has
+       recorded something suspicious in his footage and decides to send the material to the police
+       (without any indication that there is an ongoing investigation of some kind). In this case the
+       shop owner has to assess whether the conditions under, in most cases, Article 6 (1) (f) are met.
+       This is usually the case if the shop owner has a reasonable suspicion of that a crime has been
+       committed.
 60.
-61.   O tratamento dos dados pessoais pelas próprias autoridades de aplicação da lei não segue o RGPD (ver
-      artigo 2.º, n.º 2, alínea d)), mas sim a Diretiva sobre a Proteção de Dados na Aplicação da Lei – Diretiva
-      (UE) 2016/680.
+61.   The processing of the personal data by the law enforcement agencies themselves does not follow the
+      GDPR (see Article 2 (2) (d)), but follows instead the Law Enforcement Directive (EU2016/680).
 
 
 
 
-       Adotado                                                                                               16
+      Adopted                                                                                               16
 
-      5 TRATAMENTO DE CATEGORIAS ESPECIAIS DE DADOS
-62.   Os sistemas de videovigilância geralmente recolhem quantidades maciças de dados pessoais
-      suscetíveis de revelar informações de natureza altamente pessoal e até mesmo categorias especiais
-      de dados. Na verdade, dados aparentemente não significativos originalmente recolhidos por vídeo
-      podem ser utilizados para inferir outras informações com o intuito de atingir finalidades diferentes
-      (por exemplo, registar os hábitos de um indivíduo). No entanto, a videovigilância nem sempre é
-      considerada como tratamento de categorias especiais de dados pessoais.
+      5 PROCESSING OF SPECIAL CATEGORIES OF DATA
+62.   Video surveillance systems usually collect massive amounts of personal data which may reveal data of
+      a highly personal nature and even special categories of data. Indeed, apparently non-significant data
+      originally collected through video can be used to infer other information to achieve a different purpose
+      (e.g. to map an individual’s habits). However, video surveillance is not always considered to be
+      processing of special categories of personal data.
 
-       Exemplo: Gravações de vídeo que mostrem um titular de dados de óculos ou numa cadeira de
-       rodas não são, por si só, consideradas categorias especiais de dados pessoais.
+       Example: Video footage showing a data subject wearing glasses or using a wheel chair are not
+       per se considered to be special categories of personal data.
 63.
-64.   No entanto, se as gravações forem objeto de tratamento com o intuito de deduzir categorias especiais
-      de dados, aplica-se o artigo 9.º.
+64.   However, if the video footage is processed to deduce special categories of data Article 9 applies.
 
- 1.    Exemplo: Poderiam, por exemplo, deduzir-se opiniões políticas a partir de imagens que
-       mostrem titulares de dados identificáveis a participar num evento, numa manifestação, etc.
-       Esta situação seria abrangida pelo artigo 9.º.
+ 1.    Example: Political opinions could for example be deduced from images showing identifiable
+       data subjects taking part in an event, engaging in a strike, etc. This would fall under Article 9.
 
-       Exemplo: A instalação de uma câmara de vídeo num hospital para monitorizar o estado de
-       saúde de um doente seria considerada como tratamento de categorias especiais de dados
-       pessoais (artigo 9.º).
+       Example: A hospital installing a video camera in order to monitor a patient’s health condition
+       would be considered as processing of special categories of personal data (Article 9).
 65.
-66.   De um modo geral, por princípio, sempre que se instala um sistema de videovigilância, deve ter-se
-      devidamente em conta o princípio da minimização dos dados. Assim, mesmo nos casos em que o artigo
-      9.º, n.º 1, não se aplica, o responsável pelo tratamento deve sempre tentar minimizar o risco de
-      captação de imagens que revelem outros dados sensíveis (para além do artigo 9.º),
-      independentemente do objetivo.
+66.   In general, as a principle, whenever installing a video surveillance system careful consideration should
+      be given to the data minimization principle. Hence, even in cases where Article 9 (1) does not apply,
+      the data controller should always try to minimize the risk of capturing footage revealing other sensitive
+      data (beyond Article 9), regardless of the aim.
 
-       Exemplo: Um sistema de videovigilância que efetua a vigilância de uma igreja não se enquadra,
-       por si só, no artigo 9.º. No entanto, o responsável pelo tratamento tem de proceder a uma
-       avaliação especialmente cuidada nos termos do artigo 6.º, n.º 1, alínea f), tendo em conta a
-       natureza dos dados, bem como o risco de captação de outros dados sensíveis (para além do
-       artigo 9.º), ao avaliar os interesses do titular dos dados.
+       Example: Video surveillance capturing a church does not per se fall under Article 9. However,
+       the controller has to conduct an especially careful assessment under Article 6 (1) (f) taken into
+       account the nature of the data as well as the risk of capturing other sensitive data (beyond
+       Article 9) when assessing the interests of the data subject.
 67.
-68.   Se for utilizado um sistema de videovigilância para tratar categorias especiais de dados, o responsável
-      pelo tratamento deve identificar tanto uma exceção para o tratamento de categorias especiais de
-      dados ao abrigo do artigo 9.º (ou seja, uma exceção à regra geral de não tratamento de categorias
-      especiais de dados) como uma base jurídica ao abrigo do artigo 6.º.
+68.   If a video surveillance system is used in order to process special categories of data, the data controller
+      must identify both an exception for processing special categories of data under Article 9 (i.e. an
+      exemption from the general rule that one should not process special categories of data) and a legal
+      basis under Article 6.
 
-69.   Por exemplo, o artigo 9.º, n.º 2, alínea c), («Se o tratamento for necessário para proteger os interesses
-      vitais do titular dos dados ou de outra pessoa singular») poderia ser utilizado – teórica e
-      excecionalmente –, mas o responsável pelo tratamento teria de o justificar como uma necessidade
-      absoluta para salvaguardar os interesses vitais de uma pessoa e comprovar que o titular dos dados em
-      questão estava «[...] física ou legalmente incapacitado de dar o seu consentimento». Além disso, o
-      responsável pelo tratamento não poderá usar o sistema por nenhum outro motivo.
+69.   For instance, Article 9 (2) (c) (“[…] processing is necessary to protect the vital interests of the data
+      subject or of another natural person […]”) could – in theory and exceptionally – be used, but the data
+      controller would have to justify it as an absolute necessity to safeguard the vital interests of a person
+      and prove that this “[…] data subject is physically or legally incapable of giving his consent.". In
+      addition, the data controller won’t be allowed to use the system for any other reason.
+
+70.   It is important to note here that every exemption listed in Article 9 is not likely to be usable to justify
+      processing of special categories of data through video surveillance. More specifically, data controllers
+      processing those data in the context of video surveillance cannot rely on Article 9 (2) (e), which allows
+      processing that relates to personal data that are manifestly made public by the data subject. The mere
+      fact of entering into the range of the camera does not imply that the data subject intends to make
+      public special categories of data relating to him or her.
 
 
 
 
-       Adotado                                                                                           17
+      Adopted                                                                                                 17
 
-70.   Neste caso, é importante observar que nem todas as isenções enumeradas no artigo 9.º são suscetíveis
-      de serem utilizadas para justificar o tratamento de categorias especiais de dados através de
-      videovigilância. Mais concretamente, os responsáveis pelo tratamento desses dados no contexto da
-      videovigilância não podem basear-se no artigo 9.º, n.º 2, alínea e), que permite o tratamento se este
-      se referir a dados pessoais que tenham sido manifestamente tornados públicos pelo seu titular. O
-      simples facto de o titular dos dados entrar no enquadramento da câmara não significa que pretenda
-      tornar públicas categorias especiais de dados que lhe digam respeito.
+71.   Furthermore, processing of special categories of data requires a heightened and continued vigilance
+      to certain obligations; for example high level of security and data protection impact assessment where
+      necessary.
 
-71.   Além disso, o tratamento de categorias especiais de dados requer uma vigilância reforçada e contínua
-      de certas obrigações; por exemplo, um elevado nível de segurança e uma avaliação de impacto da
-      proteção de dados, quando necessário.
-
-           Exemplo: Um empregador não deve usar registos de videovigilância que mostrem uma
-           manifestação com o objetivo de identificar os manifestantes.
+           Example: An employer must not use video surveillance recordings showing a demonstration in
+           order to identify strikers.
 72.
-      5.1 Considerações gerais relativas ao tratamento de dados biométricos
-73.   A utilização de dados biométricos, mais concretamente o reconhecimento facial, implica riscos
-      acrescidos para os direitos dos titulares dos dados. É crucial que o recurso a este tipo de tecnologias
-      se faça no devido respeito pelos princípios da licitude, da necessidade, da proporcionalidade e da
-      minimização dos dados, tal como estabelecido no RGPD. Embora a utilização destas tecnologias possa
-      ser considerada particularmente eficaz, os responsáveis pelo tratamento devem, antes de mais, avaliar
-      o seu impacto nos direitos e liberdades fundamentais e ponderar a utilização de meios menos
-      intrusivos para atingir a finalidade legítima do tratamento.
+      5.1 General considerations when processing biometric data
+73.   The use of biometric data and in particular facial recognition entail heightened risks for data subjects’
+      rights. It is crucial that recourse to such technologies takes place with due respect to the principles of
+      lawfulness, necessity, proportionality and data minimisation as set forth in the GDPR. Whereas the use
+      of these technologies can be perceived as particularly effective, controllers should first of all assess the
+      impact on fundamental rights and freedoms and consider less intrusive means to achieve their
+      legitimate purpose of the processing.
 
-74.   Para ser considerado tratamento de dados biométricos na aceção do RGPD, o tratamento de dados
-      em bruto, nomeadamente características físicas, fisiológicas ou comportamentais de uma pessoa
-      singular, tem de incluir uma medição dessas características. Uma vez que os dados biométricos são o
-      resultado dessas medições, o RGPD prevê, no seu artigo 4.º, ponto 14, que são «[...] resultantes de um
-      tratamento técnico específico relativo às características físicas, fisiológicas ou comportamentais de
-      uma pessoa singular que permitam ou confirmem a identificação única dessa pessoa singular [...]». As
-      gravações de vídeo de um indivíduo não podem, contudo, ser consideradas, por si só, como dados
-      biométricos nos termos do artigo 9.º, uma vez que não foram processadas por meios técnicos
-      específicos de modo a contribuir para a identificação do indivíduo16.
+74.   To qualify as biometric data as defined in the GDPR, processing of raw data, such as the physical,
+      physiological or behavioural characteristics of a natural person, must imply a measurement of this
+      characteristics. Since biometric data is the result of such measurements, the GDPR states in its Article
+      4.14 that it is “[…] resulting from specific technical processing relating to the physical, physiological or
+      behavioural characteristics of a natural person, which allow or confirm the unique identification of that
+      natural person […]”. The video footage of an individual cannot however in itself be considered as
+      biometric data under Article 9, if it has not been specifically technically processed in order to contribute
+      to the identification of an individual. 16
 
-75.   Para que o tratamento seja considerado um tratamento de categorias especiais de dados pessoais
-      (artigo 9.º), é necessário que os dados biométricos sejam tratados «para identificar uma pessoa de
-      forma inequívoca».
+75.   In order for it to be considered as processing of special categories of personal data (Article 9) it requires
+      that biometric data is processed “for the purpose of uniquely identifying a natural person”.
 
-76.   Em suma, à luz do artigo 4.º, ponto 14, e do artigo 9.º, há que ter em conta três critérios:
+76.   To sum up, in light of Article 4.14 and 9, three criteria must be considered:
 
-            -   a natureza dos dados: dados relacionados com as características físicas, fisiológicas ou
-                comportamentais de uma pessoa singular,
+             -   Nature of data : data relating to physical, physiological or behavioural characteristics of a
+                 natural person,
 
-            -   o meio e a forma de tratamento: dados «resultantes de um tratamento técnico específico»,
+             -   Means and way of processing : data “resulting from a specific technical processing”,
+
+             -   Purpose of processing: data must be used for the purpose of uniquely identifying a natural
+                 person.
+
+77.   The use of video surveillance including biometric recognition functionality installed by private entities
+      for their own purposes (e.g. marketing, statistical, or even security) will, in most cases, require explicit
+      consent from all data subjects (Article 9 (2) (a)), however another suitable exception in Article 9 could
+      also be applicable.
+
+
 
 
       16
-        O considerando 51 do RGPD apoia esta análise, prevendo que «[o] tratamento de fotografias não deverá ser
-      considerado sistematicamente um tratamento de categorias especiais de dados pessoais, uma vez que são
-      apenas abrangidas pela definição de dados biométricos quando forem processadas por meios técnicos
-      específicos que permitam a identificação inequívoca ou a autenticação de uma pessoa singular.».
+         Recital 51 GDPR supports this analysis, stating that “[…] The processing of photographs should not
+      systematically be considered to be processing of special categories of personal data as they are covered by the
+      definition of biometric data only when processed through a specific technical means allowing the unique
+      identification or authentication of a natural person. […]”.
 
 
 
-       Adotado                                                                                            18
+      Adopted                                                                                                     18
 
-         -   a finalidade do tratamento: os dados devem ser utilizados para identificar uma pessoa de
-             forma inequívoca.
+ 2.    Example: To improve its service a private company replaces passenger identification check
+       points within an airport (luggage drop-off, boarding) with video surveillance systems that use
+       facial recognition techniques to verify the identity of the passengers that have chosen to
+       consent to such a procedure. Since the processing falls under Article 9, the passengers, who will
+       have previously given their explicit and informed consent, will have to enlist themselves at for
+       example an automatic terminal in order to create and register their facial template associated
+       with their boarding pass and identity. The check points with facial recognition need to be clearly
+       separated, e. g. the system must be installed within a gantry so that the biometric templates of
+       non-consenting person will not be captured. Only the passengers, who will have previously
+       given their consent and proceeded with their enrolment, will use the gantry equipped with the
+       biometric system.
 
-77.   A utilização da videovigilância, incluindo a funcionalidade de reconhecimento biométrico, instalada
-      por entidades privadas para os seus próprios fins (por exemplo, comercialização, estatísticas ou até
-      mesmo segurança) exigirá, na maioria dos casos, o consentimento explícito de todas os titulares dos
-      dados (artigo 9.º, n.º 2, alínea a)), embora também possa ser aplicável outra exceção adequada
-      prevista no artigo 9.º .
-
- 2.    Exemplo: Para melhorar os seus serviços, uma empresa privada substitui os pontos de controlo
-       da identificação de passageiros no interior de um aeroporto (entrega de bagagem, embarque)
-       por sistemas de videovigilância que utilizam técnicas de reconhecimento facial para verificar a
-       identidade dos passageiros que optaram por consentir em tal procedimento. Uma vez que o
-       tratamento se enquadra no artigo 9.º, os passageiros, que terão previamente dado o seu
-       consentimento explícito e informado, terão de se inscrever num terminal automático, por
-       exemplo, para criar e registar o seu modelo facial associado ao seu cartão de embarque e
-       identidade. Os pontos de verificação com reconhecimento facial têm de ser claramente
-       separados, por exemplo instalando o sistema dentro de um pórtico, para que os modelos
-       biométricos das pessoas que não deram o seu consentimento não sejam captados. Apenas os
-       passageiros que tenham dado previamente o seu consentimento e que tenham efetuado a
-       inscrição utilizarão o pórtico equipado com o sistema biométrico.
-
- 3.    Exemplo: Um responsável pelo tratamento gere o acesso ao seu edifício através de um método
-       de reconhecimento facial. As pessoas só podem utilizar esta forma de acesso se tiverem dado
-       previamente o seu consentimento explícito e informado (de acordo com o artigo 9.º, n.º 2,
-       alínea a)). No entanto, a fim de garantir que o sistema não capta ninguém que não tenha dado
-       previamente o seu consentimento, o método de reconhecimento facial deve ser acionado pelo
-       próprio titular dos dados, por exemplo premindo um botão. Para garantir a licitude do
-       tratamento, o responsável pelo tratamento deve sempre oferecer uma forma alternativa de
-       acesso ao edifício, sem tratamento biométrico, tal como cartões de identificação ou chaves.
+ 3.    Example: A controller manages access to his building using a facial recognition method. People
+       can only use this way of access if they have given their explicitly informed consent (according
+       to Article 9 (2) (a)) beforehand. However, in order to ensure that no one who has not previously
+       given his or her consent is captured, the facial recognition method should be triggered by the
+       data subject himself, for instance by pushing a button. To ensure the lawfulness of the
+       processing, the controller must always offer an alternative way to access the building, without
+       biometric processing, such as badges or keys.
 78.
-79.   Neste tipo de casos, em que são gerados modelos biométricos, os responsáveis pelo tratamento
-      devem garantir que, uma vez obtido um resultado com ou sem correspondência, todos os modelos
-      intermédios feitos na hora (com o consentimento explícito e informado do titular dos dados) para
-      serem comparados com os criados pelos titulares dos dados no momento da inscrição são apagados
-      imediatamente e de forma segura. Os modelos criados para a inscrição só devem ser conservados para
-      a realização da finalidade do tratamento e não devem ser armazenados nem arquivados.
+79.   In this type of cases, where biometric templates are generated, controllers shall ensure that once a
+      match or no-match result has been obtained, all the intermediate templates made on the fly (with the
+      explicit and informed consent of the data subject) in order to be compared to the ones created by the
+      data subjects at the time of the enlistment, are immediately and securely deleted. The templates
+      created for the enlistment should only be retained for the realisation of the purpose of the processing
+      and should not be stored or archived.
 
-80.   No entanto, quando a finalidade do tratamento é, por exemplo, distinguir uma categoria de pessoas
-      de outra, mas não identificar ninguém de forma inequívoca, o tratamento não se enquadra no
-      artigo 9.º.
+80.   However, when the purpose of the processing is for example to distinguish one category of people
+      from another but not to uniquely identify anyone the processing does not fall under Article 9.
 
- 4.    Exemplo: O proprietário de uma loja gostaria de personalizar o seu anúncio publicitário com
-       base nas características de género e de idade do cliente captadas por um sistema de
-       videovigilância. Se o sistema não gerar modelos biométricos para identificar as pessoas de
-       forma inequívoca, mas apenas detetar essas características físicas para classificar a pessoa, o
-       tratamento não se enquadra no artigo 9.º (desde que não seja efetuado o tratamento de
-       nenhum outro tipo de categorias especiais de dados).
+ 4.    Example: A shop owner would like to customize its advertisement based on gender and age
+       characteristics of the customer captured by a video surveillance system. If that system does not
+       generate biometric templates in order to uniquely identify persons but instead just detects
+       those physical characteristics in order to classify the person then the processing would not fall
+       under Article 9 (as long as no other types of special categories of data are being processed).
 81.
+82.   However, Article 9 applies if the controller stores biometric data (most commonly through templates
+      that are created by the extraction of key features from the raw form of biometric data (e.g. facial
+      measurements from an image)) in order to uniquely identify a person. If a controller wishes to detect
+      a data subject re-entering the area or entering another area (for example in order to project continued
+      customized advertisement), the purpose would then be to uniquely identify a natural person, meaning
+      that the operation would from the start fall under Article 9. This could be the case if a controller stores
+      generated templates to provide further tailored advertisement on several billboards throughout
+      different locations inside the shop. Since the system is using physical characteristics to detect specific
+      individuals coming back in the range of the camera (like the visitors of a shopping mall) and tracking
+      them, it would constitute a biometric identification method because it is aimed at recognition through
+      the use of specific technical processing.
 
 
-       Adotado                                                                                           19
 
-82.   Contudo, o artigo 9.º aplica-se se o responsável pelo tratamento conservar dados biométricos
-      (geralmente através de modelos que são criados pela extração de determinadas características da
-      forma bruta dos dados biométricos – por exemplo, as medidas faciais de uma imagem) com o objetivo
-      de identificar uma pessoa de forma inequívoca. Se um responsável pelo tratamento desejar detetar
-      um titular dos dados que volte a entrar naquele espaço ou que entre noutro espaço (por exemplo,
-      para projetar publicidade personalizada de forma contínua), a finalidade consistirá em identificar de
-      forma inequívoca uma pessoa singular, o que significa que a operação em questão será, desde o início,
-      abrangida pelo artigo 9.º. Este poderia ser o caso se um responsável pelo tratamento conservasse
-      modelos gerados para apresentar mais publicidade personalizada em vários painéis em diferentes
-      locais dentro da loja. Uma vez que o sistema utiliza características físicas para detetar indivíduos
-      específicos que voltam a entrar no enquadramento da câmara (como os visitantes de um centro
-      comercial) e para os localizar, este seria um método de identificação biométrica, pois teria por objetivo
-      o reconhecimento através do uso de um tratamento técnico específico.
+      Adopted                                                                                                 19
 
- 5.        Exemplo: O proprietário de uma loja instalou um sistema de reconhecimento facial dentro da
-           sua loja a fim de personalizar a publicidade que é apresentada a cada indivíduo. O responsável
-           pelo tratamento tem de obter o consentimento explícito e informado de todos os titulares dos
-           dados antes de utilizar este sistema biométrico e de apresentar publicidade personalizada. O
-           sistema seria ilegal se captasse visitantes ou transeuntes que não tivessem consentido na
-           criação do seu modelo biométrico, mesmo que o seu modelo fosse apagado no menor espaço
-           de tempo possível. Na verdade, estes modelos temporários constituem dados biométricos
-           tratados para identificar de forma inequívoca uma pessoa que pode não desejar receber
-           publicidade personalizada.
+ 5.    Example: A shop owner has installed a facial recognition system inside his shop in order to
+       customize its advertisement towards individuals. The data controller has to obtain the explicit
+       and informed consent of all data subjects before using this biometric system and delivering
+       tailored advertisement. The system would be unlawful if it captures visitors or passers-by who
+       have not consented to the creation of their biometric template, even if their template is deleted
+       within the shortest possible period. Indeed, these temporary templates constitute biometric
+       data processed in order to uniquely identify a person who may not want to receive targeted
+       advertisement.
 83.
-84.   O Comité Europeu para a Proteção de Dados (CEPD) observa que alguns sistemas biométricos são
-      instalados em ambientes não controlados17, o que significa que o sistema envolve a captação, em
-      tempo real, dos rostos de qualquer indivíduo que passe em frente à câmara criando modelos
-      biométricos, incluindo de pessoas que não deram o seu consentimento para a utilização do dispositivo
-      biométrico. Estes modelos são comparados com os criados em relação a titulares dos dados que deram
-      o seu consentimento prévio durante um processo de inscrição (isto é, os utilizadores do dispositivo
-      biométrico) para que o responsável pelo tratamento reconheça se a pessoa é ou não um utilizador do
-      dispositivo biométrico. Neste caso, o sistema é frequentemente concebido para estabelecer uma
-      distinção entre os indivíduos que pretende reconhecer a partir de uma base de dados e os indivíduos
-      que não estão inscritos. Uma vez que o objetivo consiste em identificar pessoas singulares de forma
-      inequívoca, continua a ser necessária uma exceção nos termos do artigo 9.º, n.º 2, do RGPD para
-      qualquer pessoa que seja captada pela câmara.
+84.   The EDPB observes that some biometric systems are installed in uncontrolled environments17, which
+      means that the system involves capturing on the fly the faces of any individual passing in the range of
+      the camera, including persons who have not consented to the biometric device, and thereby creating
+      biometric templates. These templates are compared to the ones created of data subjects having given
+      their prior consent during an enlistment process (i.e. a biometric devise user) in order for the data
+      controller to recognise whether the person is a biometric device user or not. In this case, the system is
+      often designed to discriminate the individuals it wants to recognize from a database from those who
+      are not enlisted. Since the purpose is to uniquely identify natural persons, an exception under Article
+      9 (2) GDPR is still needed for anyone captured by the camera.
 
+ 6.    Example: A hotel uses video surveillance to automatically alert the hotel manager that a VIP has
+       arrived when the face of the guest is recognized. These VIPs have priory given their explicit
+       consent to the use of facial recognition before being recorded in a database established for that
+       purpose. These processing systems of biometric data would be unlawful unless all other guests
+       monitored (in order to identify the VIPs) have consented to the processing according to Article
+       9 (2) (a) GDPR.
 
-
-
-      17
-        Isto significa que o dispositivo biométrico está situado num espaço aberto ao público e é capaz de atuar sobre
-      qualquer pessoa que passe no local, por oposição aos sistemas biométricos em ambientes controlados, que só
-      podem ser utilizados com o consentimento das pessoas.
-
-
-
-       Adotado                                                                                                  20
-
- 6.    Exemplo: Um hotel usa videovigilância para alertar automaticamente o gerente do hotel da
-       chegada de um VIP quando o rosto do hóspede é reconhecido. Estes VIP deram previamente o
-       seu consentimento explícito para o uso do reconhecimento facial antes de serem registados
-       numa base de dados criada para o efeito. Estes sistemas de tratamento de dados biométricos
-       seriam ilegais, a menos que todos os outros hóspedes captados pelo sistema (a fim de
-       identificar os VIP) tivessem consentido no tratamento de acordo com o artigo 9.º, n.º 2,
-       alínea a), do RGPD.
-
- 7.    Exemplo: Um responsável pelo tratamento instala um sistema de videovigilância com
-       reconhecimento facial na entrada de uma sala de concertos gerida por si. O responsável pelo
-       tratamento deve definir entradas claramente separadas; uma com um sistema biométrico e
-       outra sem este sistema (por exemplo, com leitura ótica dos bilhetes). As entradas equipadas
-       com dispositivos biométricos devem ser instaladas e estar acessíveis de forma a evitar que o
-       sistema capte modelos biométricos de espetadores que não tenham dado o seu
-       consentimento.
+ 7.    Example: A controller installs a video surveillance system with facial recognition at the entrance
+       of the concert hall he manages. The controller must set up clearly separated entrances; one
+       with a biometric system and one without (where you instead for example scan a ticket). The
+       entrances equipped with biometric devices, must be installed and made accessible in a way
+       that prevents the system from capturing biometric templates of non-consenting spectators.
 85.
-86.   Por último, quando o consentimento é exigido pelo artigo 9.º do RGPD, o responsável pelo tratamento
-      não deve fazer depender o acesso aos seus serviços da aceitação do tratamento biométrico. Por outras
-      palavras, e nomeadamente quando o tratamento biométrico é utilizado para fins de autenticação, o
-      responsável pelo tratamento tem de oferecer uma solução alternativa que não implique o tratamento
-      biométrico – sem restrições ou custos adicionais para o titular dos dados. Esta solução alternativa
-      também é necessária para as pessoas que não satisfaçam as condições do dispositivo biométrico
-      (impossibilidade de inscrição ou leitura dos dados biométricos, situação de deficiência que dificulte a
-      sua utilização, etc.), devendo, além disso, para um eventual caso de indisponibilidade do dispositivo
-      biométrico (como uma avaria do dispositivo), ser implementada uma «solução de reserva» que
-      assegure a continuidade do serviço proposto, limitada, contudo, a utilização em casos excecionais. Em
-      casos excecionais, pode surgir uma situação em que o tratamento de dados biométricos seja a
-      atividade central de um serviço contratualmente prestado, por exemplo, um museu que monta uma
-      exposição para demonstrar o modo de utilização de um dispositivo de reconhecimento facial. Nesse
-      caso, o titular dos dados não poderá rejeitar o tratamento dos dados biométricos caso deseje participar
-      na exposição. Nesta situação, o consentimento exigido pelo artigo 9.º continua a ser válido se os
-      requisitos do artigo 7.º forem cumpridos.
-
-      5.2 Medidas propostas para minimizar os riscos no tratamento de dados biométricos
-87.   Em conformidade com o princípio da minimização dos dados, os responsáveis pelo tratamento devem
-      assegurar que os dados extraídos de uma imagem digital para construir um modelo não são excessivos
-      e contêm apenas as informações necessárias para a finalidade especificada, evitando assim qualquer
-      tratamento ulterior. Devem ser instituídas medidas para garantir que os modelos não podem ser
-      transferidos através de sistemas biométricos.
-
-88.   É provável que a identificação e a autenticação/verificação exijam o armazenamento do modelo para
-      utilização numa comparação posterior. O responsável pelo tratamento deve escolher o local mais
-      apropriado para o armazenamento dos dados. Num ambiente sob controlo (átrios ou postos de
-      controlo delimitados), os modelos devem ser armazenados num dispositivo individual guardado pelo
-      utilizador e sob o seu controlo exclusivo (num smartphone ou no cartão de identificação) ou – quando
-      necessário para fins específicos e na presença de necessidades objetivas – numa base de dados
-      centralizada de forma cifrada e com uma chave/senha apenas do conhecimento da pessoa para
-      impedir o acesso não autorizado ao modelo ou ao local de armazenamento. Se o responsável pelo
+86.   Finally, when the consent is required by Article 9 GDPR, the data controller shall not condition the
+      access to its services to the acceptance of the biometric processing. In other words and notably when
+      the biometric processing is used for authentication purpose, the data controller must offer an
+      alternative solution that does not involve biometric processing – without restraints or additional cost
+      for the data subject. This alternative solution is also needed for persons who do not meet the
+      constraints of the biometric device (enrolment or reading of the biometric data impossible, disability
+      situation making it difficult to use, etc.) and in anticipation of unavailability of the biometric device
+      (such as a malfunction of the device), a "back-up solution" must be implemented to ensure continuity
+      of the proposed service, limited however to exceptional use. In exceptional cases, there might be a
+      situation where processing biometric data is the core activity of a service provided by contract, e.g. a
 
 
 
-       Adotado                                                                                         21
+      17 It means that the biometric device is located in a space open to the public and is able to work on anyone
 
-      tratamento não puder evitar o acesso aos modelos, deve tomar medidas apropriadas para garantir a
-      segurança dos dados armazenados. Tal poderá incluir a cifragem do modelo utilizando um algoritmo
-      de encriptação.
-
-89.   Em todo o caso, o responsável pelo tratamento deve tomar todas as precauções necessárias para
-      preservar a disponibilidade, a integridade e a confidencialidade dos dados tratados. Para o efeito, o
-      responsável pelo tratamento deve, nomeadamente, adotar as seguintes medidas: compartimentar os
-      dados durante a transmissão e o armazenamento, armazenar os modelos biométricos e os dados
-      brutos ou dados de identidade em bases de dados distintas, cifrar os dados biométricos,
-      nomeadamente modelos biométricos, e definir uma política de cifragem e gestão de chaves, integrar
-      uma medida organizativa e técnica de deteção de fraude, associar um código de integridade aos dados
-      (por exemplo, assinatura ou hash) e proibir qualquer acesso externo aos dados biométricos. Estas
-      medidas terão de evoluir com o avanço das tecnologias.
-
-90.   Além disso, os responsáveis pelo tratamento devem proceder à eliminação dos dados brutos (imagens
-      faciais, sinais vocais, marcha, etc.) e garantir a eficácia dessa eliminação. Se deixar de haver uma base
-      lícita para o tratamento, os dados brutos têm de ser eliminados. Na verdade, na medida em que os
-      modelos biométricos derivam desses dados, pode considerar-se que a constituição de bases de dados
-      pode representar uma ameaça igual, ou até mesmo maior (porque pode nem sempre ser fácil ler um
-      modelo biométrico sem o conhecimento do modo como foi programado, enquanto os dados brutos
-      serão as peças constituintes de qualquer modelo). Caso o responsável pelo tratamento tenha de
-      conservar esses dados, há que explorar métodos de ruídos aditivos (por exemplo, marca de água) para
-      tornar a criação do modelo ineficaz. O responsável pelo tratamento também deve apagar os dados
-      biométricos e os modelos em caso de acesso não autorizado ao terminal de comparação de leitura ou
-      ao servidor de armazenamento e apagar quaisquer dados que não sejam úteis para o tratamento
-      posterior no final da vida útil do dispositivo biométrico.
+      passing by, as opposed to the biometric systems in controlled environments that can be used only by
+      consenting person’s participation.
 
 
 
+      Adopted                                                                                                        20
 
-       Adotado                                                                                           22
+      museum that sets up an exhibition to demonstrate the use of a facial recognition device, in which case
+      the data subject will not be able to reject the processing of biometric data should they wish to
+      participate in the exhibition. In such case the consent required under Article 9 is still valid if the
+      requirements in Article 7 are met.
 
-      6 DIREITOS DO TITULAR DOS DADOS
-91.   Devido ao caráter do tratamento de dados quando se utiliza videovigilância, alguns direitos do titular
-      dos dados ao abrigo do RGPD justificam uma maior clarificação. Contudo, este capítulo não é
-      exaustivo, e todos os direitos previstos no RGPD são aplicáveis ao tratamento de dados pessoais
-      através de videovigilância.
+      5.2 Suggested measures to minimize the risks when processing biometric data
+87.   In compliance with the data minimization principle, data controllers must ensure that data extracted
+      from a digital image to build a template will not be excessive and will only contain the information
+      required for the specified purpose, thereby avoiding any possible further processing. Measures should
+      be put in place to guarantee that templates cannot be transferred across biometric systems.
 
-      6.1 Direito de acesso
-92.   O titular dos dados tem o direito de confirmar, junto do responsável pelo tratamento, se os seus dados
-      pessoais estão ou não a ser objeto de tratamento. No caso da videovigilância, isto significa que, se não
-      houver qualquer tipo de conservação ou transferência de dados, uma vez passado o momento do
-      controlo em tempo real, o responsável pelo tratamento só pode transmitir a informação de que já não
-      estão a ser tratados dados pessoais (para além das obrigações gerais de informação previstas no
-      artigo 13.º. Ver secção 7 – Obrigações em matéria de transparência e informação). Contudo, se os
-      dados ainda estiverem a ser tratados no momento do pedido (ou seja, se os dados forem de algum
-      outro modo conservados ou tratados de forma contínua), o titular dos dados deve obter acesso e
-      informações em conformidade com o artigo 15.º.
+88.   Identification and authentication/verification are likely to require the storage of the template for use
+      in a later comparison. The data controller must consider the most appropriate location for storage of
+      the data. In an environment under control (delimited hallways or checkpoints), templates shall be
+      stored on an individual device kept by the user and under his or her sole control (in a smartphone or
+      the id card) or – when needed for specific purposes and in presence of objective needs – stored in a
+      centralized database in an encrypted form with a key/secret solely in the hands of the person to
+      prevent unauthorised access to the template or storage location. If the data controller cannot avoid
+      having access to the templates, he must take appropriate steps to ensure the security of the data
+      stored. This may include encrypting the template using a cryptographic algorithm.
 
-93.   Existem, no entanto, algumas limitações que, em alguns casos, podem aplicar-se em relação ao direito
-      de acesso.
+89.   In any case, the controller shall take all necessary precautions to preserve the availability, integrity and
+      confidentiality of the data processed. To this end, the controller shall notably take the following
+      measures: compartmentalize data during transmission and storage, store biometric templates and raw
+      data or identity data on distinct databases, encrypt biometric data, notably biometric templates, and
+      define a policy for encryption and key management, integrate an organisational and technical measure
+      for fraud detection, associate an integrity code with the data (for example signature or hash) and
+      prohibit any external access to the biometric data. Such measures will need to evolve with the
+      advancement of technologies.
 
-             Artigo 15.º, n.º 4, do RGPD – prejuízo dos direitos de terceiros
-
-94.       Uma vez que vários titulares de dados podem ser captados na mesma sequência de
-          videovigilância, uma triagem implicaria o tratamento adicional de dados pessoais de outros
-          titulares de dados. Se o titular dos dados desejar receber uma cópia do material (artigo 15.º,
-          n.º 3), isso pode prejudicar os direitos e as liberdades de outros titulares dos dados que figurem
-          nesse material. Para evitar esta situação, o responsável pelo tratamento deve ter em
-          consideração que, em alguns casos, devido à natureza intrusiva das gravações de vídeo, não deve
-          transmitir gravações a partir das quais seja possível identificar outros titulares de dados. A
-          proteção dos direitos de terceiros não deve, contudo, ser utilizada como desculpa para impedir
-          pedidos legítimos de acesso por parte de indivíduos, devendo o responsável pelo tratamento,
-          nesses casos, aplicar medidas técnicas para satisfazer o pedido de acesso (por exemplo, edição de
-          imagens, como mascaramento ou codificação). No entanto, os responsáveis pelo tratamento não
-          são obrigados a aplicar estas medidas técnicas se puderem garantir, de outro modo, que são
-          capazes de responder a um pedido nos termos do artigo 15.º dentro do prazo estipulado pelo
-          artigo 12.º, n.º 3.
-
-             Artigo 11.º, n.º 2, do RGPD – o responsável pelo tratamento não consegue identificar o titular
-              dos dados
-
-95.       Se as gravações de vídeo não forem pesquisáveis para localizar dados pessoais (ou seja, o
-          responsável pelo tratamento teria provavelmente de examinar uma grande quantidade de
-          material armazenado para encontrar o titular dos dados em questão), o responsável pelo
-          tratamento pode não conseguir identificar o titular dos dados.
-
-96.       Por estas razões, o titular dos dados deve (além de se identificar a si próprio, inclusive por meio
-          de um documento de identificação ou pessoalmente), no seu pedido ao responsável pelo
-          tratamento, especificar quando – dentro de um prazo razoável e proporcional à quantidade de
-          titulares de dados registados – entrou na área sob vigilância. O responsável pelo tratamento deve
+90.   Besides, data controllers should proceed to the deletion of raw data (face images, speech signals, the
+      gait, etc.) and ensure the effectiveness of this deletion. If there is no longer a lawful basis for the
+      processing, the raw data has to be deleted. Indeed, insofar as biometric templates derives from such
+      data, one can consider that the constitution of databases could represent an equal if not even bigger
+      threat (because it may not always be easy to read a biometric template without the knowledge of how
+      it was programmed, whereas raw data will be the building blocks of any template). In case the data
+      controller would need to keep such data, noise-additive methods (such as watermarking) must be
+      explored, which would render the creation of the template ineffective. The controller must also delete
+      biometric data and templates in the event of unauthorized access to the read-comparison terminal or
+      storage server and delete any data not useful for further processing at the end of the biometric device's
+      life.
 
 
 
-       Adotado                                                                                          23
 
-          notificar previamente o titular dos dados sobre quais as informações de que precisa para
-          responder ao pedido. Se o responsável pelo tratamento puder demonstrar que não está em
-          condições de identificar o titular dos dados, deve informá-lo, se possível, desse facto. Nesta
-          situação, na sua resposta ao titular dos dados, o responsável pelo tratamento deve informá-lo
-          sobre a área exata sob vigilância, verificar as câmaras que estavam a ser utilizadas, etc., de modo
-          que o titular dos dados tenha a plena compreensão de quais os dados pessoais que lhe dizem
-          respeito que possam ter sido objeto de tratamento.
+      Adopted                                                                                                  21
 
-       Exemplo: Se um titular dos dados solicitar uma cópia dos seus dados pessoais tratados através
-       de videovigilância à entrada de um centro comercial com 30 000 visitantes por dia, deve
-       especificar quando é que passou na área sob vigilância, num intervalo de aproximadamente
-       uma hora. Se o responsável pelo tratamento ainda estiver a efetuar o tratamento do material,
-       deve fornecer uma cópia das gravações de vídeo. Se outros titulares dos dados puderem ser
-       identificados no mesmo material, então essa parte do material deve ser anonimizada (por
-       exemplo, desfocando a cópia ou partes da mesma) antes de esta ser transmitida ao titular dos
-       dados que apresentou o pedido.
+      6 RIGHTS OF THE DATA SUBJECT
+91.   Due to the character of data processing when using video surveillance some data subject’s rights under
+      GDPR serves further clarification. This chapter is however not exhaustive, all rights under the GDPR
+      applies to processing of personal data through video surveillance.
 
-       Exemplo: Se apagar automaticamente todas as gravações, por exemplo no prazo de dois dias,
-       o responsável pelo tratamento não pode fornecer as gravações ao titular dos dados após esses
-       dois dias. Se o responsável pelo tratamento receber um pedido após esses dois dias, o titular
-       dos dados deve ser informado desse facto.
+      6.1 Right to access
+92.   A data subject has the right to obtain confirmation from the controller as to whether or not their
+      personal data are being processed. For video surveillance this means that if no data is stored or
+      transferred in any way then once the real-time monitoring moment has passed the controller could
+      only give the information that no personal data is any longer being processed (besides the general
+      information obligations under Article 13, see section 7 – Transparency and information obligations). If
+      however data is still being processed at the time of the request (i.e. if the data is stored or continuously
+      processed in any other way), the data subject should receive access and information in accordance
+      with Article 15.
+
+93.   There are however, a number of limitations that may in some cases apply in relation to the right to
+      access.
+
+          •   Article 15 (4) GDPR, adversely affect the rights of others
+
+94.        Given that any number of data subjects may be recorded in the same sequence of video
+           surveillance a screening would then cause additional processing of personal data of other data
+           subjects. If the data subject wishes to receive a copy of the material (article 15 (3)), this could
+           adversely affect the rights and freedoms of other data subject in the material. To prevent that
+           effect the controller should therefore take into consideration that due to the intrusive nature of
+           the video footage the controller should not in some cases hand out video footage where other
+           data subjects can be identified. The protection of the rights of third parties should however not
+           be used as an excuse to prevent legitimate claims of access by individuals, the controller should
+           in those cases implement technical measures to fulfil the access request (for example, image-
+           editing such as masking or scrambling).However, controllers are not obliged to implement such
+           technical measures if they can otherwise ensure that they are able to react upon a request under
+           Article 15 within the timeframe stipulated by Article 12 (3).
+
+          •   Article 11 (2) GDPR, controller is unable to identify the data subject
+
+95.        If the video footage is not searchable for personal data, (i.e. the controller would likely have to go
+           through a large amount of stored material in order to find the data subject in question) the
+           controller may be unable to identify the data subject.
+
+96.        For these reasons the data subject should (besides identifying themselves including with
+           identification document or in person) in its request to the controller, specify when – within a
+           reasonable timeframe in proportion to the amount of data subjects recorded – he or she entered
+           the monitored area. The controller should notify the data subject beforehand on what
+           information is needed in order for the controller to comply with the request. If the controller is
+           able to demonstrate that it is not in a position to identify the data subject, the controller must
+           inform the data subject accordingly, if possible. In such a situation, in its response to the data
+           subject the controller should inform about the exact area for the monitoring, verification of
+           cameras that were in use etc. so that the data subject will have the full understanding of what
+           personal data of him/her may have been processed.
+
+
+
+      Adopted                                                                                                  22
+
+        Example: If a data subject is requesting a copy of his or her personal data processed through
+        video surveillance at the entrance of a shopping mall with 30 000 visitors per day, the data
+        subject should specify when he or she passed the monitored area within approximately a one-
+        hour-timeframe. If the controller still processes the material a copy of the video footage should
+        be provided. If other data subjects can be identified in the same material then that part of the
+        material should be anonymised (for example by blurring the copy or parts thereof) before giving
+        the copy to the data subject that filed the request.
+
+        Example: If the controller is automatically erasing all footage for example within 2 days, the
+        controller is not able to supply footage to the data subject after those 2 days. If the controller
+        receives a request after those 2 days the data subject should be informed accordingly.
 97.
-            Artigo 12.º do RGPD – pedidos excessivos
+          •   Article 12 GDPR, excessive requests
 
-98.       Em caso de pedidos excessivos ou manifestamente infundados de um titular dos dados, o
-          responsável pelo tratamento pode exigir o pagamento de uma taxa razoável de acordo com o
-          artigo 12.º, n.º 5, alínea a), do RGPD, ou recusar-se a dar seguimento ao pedido (artigo 12.º, n.º 5,
-          alínea b), do RGPD). O responsável pelo tratamento tem de ser capaz de demonstrar o caráter
-          manifestamente infundado ou excessivo do pedido.
+98.        In case of excessive or manifestly unfounded requests from a data subject, the controller may
+           either charge a reasonable fee in accordance with Article 12 (5) (a) GDPR, or refuse to act on the
+           request (Article 12 (5) (b) GDPR). The controller needs to be able to demonstrate the manifestly
+           unfounded or excessive character of the request.
 
-      6.2 Direito ao apagamento dos dados e direito de se opor
-      6.2.1 Direito ao apagamento dos dados (direito a ser esquecido)
-99.   Se o responsável pelo tratamento continuar a efetuar o tratamento de dados pessoais para além do
-      controlo em tempo real (por exemplo, conservando os dados), o titular dos dados pode solicitar que
-      os dados pessoais sejam apagados ao abrigo do artigo 17.º do RGPD.
+      6.2 Right to erasure and right to object
+      6.2.1 Right to erasure (Right to be forgotten)
+99.   If the controller continues to process personal data beyond real-time monitoring (e.g. storing) the data
+      subject may request for the personal data to be erased under Article 17 GDPR.
 
-100. Perante um pedido neste sentido, o responsável pelo tratamento é obrigado a apagar os dados
-     pessoais sem demora injustificada se se aplicar uma das circunstâncias enumeradas no artigo 17.º,
-     n.º 1, do RGPD (e nenhuma das exceções enumeradas no artigo 17.º, n.º 3, do RGPD). Tal inclui a
-     obrigação de apagar os dados pessoais quando já não forem necessários para a finalidade para a qual
-     foram inicialmente conservados, ou quando o tratamento for ilícito (ver também secção 8 – Prazos de
-     conservação e obrigação de apagamento). Além disso, dependendo da base jurídica do tratamento,
-     os dados pessoais devem ser apagados:
+100. Upon a request, the controller is obliged to erase the personal data without undue delay if one of the
+     circumstances listed under Article 17 (1) GDPR applies (and none of the exceptions listed under Article
+     17 (3) GDPR does). That includes the obligation to erase personal data when they are no longer needed
+     for the purpose for which they were initially stored, or when the processing is unlawful (see also
+     Section 8 – Storage periods and obligation to erasure). Furthermore, depending on the legal basis of
+     processing, personal data should be erased:
 
-         -   por razões de consentimento, sempre que o consentimento seja retirado (e não exista outro
-             fundamento jurídico para o tratamento),
+          -   for consent whenever the consent is withdrawn (and there is no other legal basis for the
+              processing)
 
-         -   por razões de interesse legítimo:
+          -   for legitimate interest:
+
+                  o    whenever the data subject exercises the right to object (see Section 6.2.2) and there
+                       are no overriding compelling legitimate grounds for the processing, or
+
+                  o    in case of direct marketing (including profiling) whenever the data subject objects to
+                       the processing.
+
+101. If the controller has made the video footage public (e.g. broadcasting or streaming online), reasonable
+     steps need to be taken in order to inform other controllers (that are now processing the personal data
+     in question) of the request pursuant to Article 17 (2) GDPR. The reasonable steps should include
+     technical measures, taking into account available technology and the cost of implementation. To the
+     extent possible, the controller should notify – upon erasure of personal data – anyone to which the
+     personal data previously have been disclosed, in accordance with Article 19 GDPR.
 
 
 
 
-       Adotado                                                                                           24
+      Adopted                                                                                                23
 
-                  o   sempre que o titular dos dados exerça o direito de se opor (ver secção 6.2.2) e não
-                      existam interesses legítimos imperiosos prevalecentes que justifiquem o tratamento,
-                      ou
+102. Besides the controller’s obligation to erase personal data upon the data subject’s request, the
+     controller is obliged under the general principles of the GDPR to limit the personal data stored (see
+     Section 8).
 
-                  o   em caso de comercialização direta (incluindo definição de perfis) sempre que o titular
-                      dos dados se oponha ao tratamento.
+103. For video surveillance it is worth noticing that by for instance blurring the picture with no retroactive
+     ability to recover the personal data that the picture previously contained, the personal data are
+     considered erased in accordance with GDPR.
 
-101. Se o responsável pelo tratamento tiver divulgado as gravações ao público (por exemplo, difundindo-
-     as ou transmitindo-as em contínuo na Internet), é necessário tomar medidas razoáveis para informar
-     outros responsáveis pelo tratamento (que estarão nessa altura a efetuar o tratamento dos dados
-     pessoais em questão) sobre o pedido nos termos do artigo 17.º, n.º 2, do RGPD. As medidas razoáveis
-     devem incluir medidas de caráter técnico, tendo em consideração a tecnologia disponível e o custo da
-     sua aplicação. Na medida do possível, o responsável pelo tratamento deve notificar – após o
-     apagamento dos dados pessoais – qualquer pessoa a quem os dados pessoais tenham sido
-     anteriormente transmitidos, em conformidade com o artigo 19.º do RGPD.
-
-102. Para além da obrigação de apagar os dados pessoais a pedido do titular dos dados, o responsável pelo
-     tratamento também é obrigado, ao abrigo dos princípios gerais do RGPD, a limitar os dados pessoais
-     conservados (ver secção 8).
-
-103. No caso da videovigilância, importa salientar que, por exemplo, ao desfocar a imagem sem
-     possibilidade de recuperação retroativa dos dados pessoais previamente nela contidos, os dados
-     pessoais são considerados apagados em conformidade com o RGPD.
-
-        Exemplo: Uma loja de conveniência tem tido problemas com vandalismo, sobretudo no exterior
-        da loja, pelo que está a utilizar videovigilância do lado exterior da entrada que está em contacto
-        direto com as paredes. Um transeunte solicita que os seus dados pessoais sejam apagados a
-        partir desse preciso momento. O responsável pelo tratamento é obrigado a responder ao
-        pedido sem demora injustificada e, no máximo, no prazo de um mês. Como as gravações em
-        questão já não correspondem à finalidade para a qual foram inicialmente conservadas (não
-        ocorreu vandalismo durante o tempo em que o titular dos dados passou pela loja), não existe,
-        no momento do pedido, nenhum interesse legítimo em conservar os dados que prevaleça sobre
-        os interesses dos titulares dos dados. O responsável pelo tratamento tem de apagar os dados
-        pessoais.
+        Example: A convenience store is having trouble with vandalism in particular on its exterior and
+        is therefore using video surveillance outside of their entrance in direct connection to the walls.
+        A passer-by requests to have his personal data erased from that very moment. The controller
+        is obliged to respond to the request without undue delay and at the latest within one month.
+        Since the footage in question does no longer meet the purpose for which it was initially stored
+        (no vandalism occurred during the time the data subject passed by), there is at the time of the
+        request, no legitimate interest to store the data that would override the interests of the data
+        subjects. The controller needs to erase the personal data.
 104.
-       6.2.2 Direito de se opor
-105. No caso da videovigilância baseada no interesse legítimo (artigo 6.º, n.º 1, alínea f), do RGPD) ou se o
-     tratamento for necessário ao exercício de funções de interesse público (artigo 6.º, n.º 1, alínea e), do
-     RGPD), o titular dos dados tem o direito de – a qualquer momento – se opor ao tratamento, por
-     motivos relacionados com a sua situação particular, em conformidade com o artigo 21.º do RGPD. A
-     menos que o responsável pelo tratamento apresente razões imperiosas e legítimas que prevaleçam
-     sobre os direitos e interesses do titular dos dados, o tratamento dos dados do indivíduo que se opôs
-     deve cessar. O responsável pelo tratamento deve ser obrigado a responder aos pedidos do titular dos
-     dados sem demora injustificada e, no máximo, no prazo de um mês.
+       6.2.2 Right to object
+105. For video surveillance based on legitimate interest (Article 6 (1) (f) GDPR) or for the necessity when
+     carrying out a task in the public interest (Article 6 (1) (e) GDPR) the data subject has the right – at any
+     time – to object, on grounds relating to his or her particular situation, to the processing in accordance
+     with Article 21 GDPR. Unless the controller demonstrates compelling legitimate grounds that overrides
+     the rights and interests of the data subject, the processing of data of the individual who objected must
+     then stop. The controller should be obliged to respond to requests from the data subject without
+     undue delay and at the latest within one month.
 
-106. No contexto da videovigilância, esta oposição poderia ser feita à entrada, durante a permanência ou
-     após a saída da área sob vigilância. Na prática, isto significa que, a menos que o responsável pelo
-     tratamento apresente razões imperiosas e legítimas, a vigilância de uma área onde seja possível
-     identificar pessoas singulares só é lícita se:
+106. In the context of video surveillance this objection could be made either when entering, during the time
+     in, or after leaving, the monitored area. In practice this means that unless the controller has compelling
+     legitimate grounds, monitoring an area where natural persons could be identified is only lawful if either
+
+          (1) the controller is able to immediately stop the camera from processing personal data when
+              requested, or
+
+          (2) the monitored area is in such detail restricted so that the controller can assure the approval
+              from the data subject prior to entering the area and it is not an area that the data subject as a
+              citizen is entitled to access.
+
+107. These guidelines do not aim to identify what is considered a compelling legitimate interest (Article 21
+     GDPR).
+
+108. When using video surveillance for direct marketing purposes, the data subject has the right to object
+     to the processing on a discretionary basis as the right to object is absolute in that context (Article 21
+     (2) and (3) GDPR).
 
 
 
-        Adotado                                                                                              25
 
-          (1) O responsável pelo tratamento puder impedir imediatamente a câmara de tratar dados
-              pessoais quando solicitado; ou
+       Adopted                                                                                               24
 
-          (2) A área sob vigilância estiver de tal modo limitada que o responsável pelo tratamento consiga
-              obter a aprovação do titular dos dados antes de entrar na área e não se trate de uma área à
-              qual o titular dos dados tenha direito de acesso como cidadão.
-
-107. Está fora do âmbito destas diretrizes identificar o que se entende por interesse legítimo imperioso
-     (artigo 21.º do RGPD).
-
-108. Ao utilizar a videovigilância para fins de comercialização direta, o titular dos dados tem o direito de se
-     opor ao tratamento numa base discricionária, uma vez que o direito de se opor é absoluto nesse
-     contexto (artigo 21.º, n.os 2 e 3, do RGPD).
-
-        Exemplo: Uma empresa está com problemas relacionados com violações de segurança na sua
-        entrada pública e está a utilizar videovigilância com base em motivos de interesse legítimo, com
-        o objetivo de detetar os intrusos. Um visitante opõe-se ao tratamento dos seus dados através
-        do sistema de videovigilância por motivos relacionados com a sua situação particular. No
-        entanto, a empresa rejeita, neste caso, o pedido justificando que as imagens conservadas são
-        necessárias no âmbito de uma investigação interna em curso, o que lhe confere razões
-        imperiosas e legítimas para continuar a efetuar o tratamento dos dados pessoais.
+        Example: A company is experiencing difficulties with security breaches in their public entrance
+        and is using video surveillance on the grounds of legitimate interest, with the purpose to catch
+        those unlawfully entering. A visitor objects to the processing of his or her data through the
+        video surveillance system on grounds relating to his or her particular situation. The company
+        however in this case rejects the request with the explanation that the footage stored is needed
+        due to an ongoing internal investigation, thereby having compelling legitimate grounds to
+        continue processing the personal data.
 109.
 
 
 
 
-       Adotado                                                                                             26
+       Adopted                                                                                             25
 
-      7 OBRIGAÇÕES EM MATÉRIA DE TRANSPARÊNCIA E INFORMAÇÃO18
-110. Desde há muito que o direito europeu em matéria de proteção de dados pressupõe que os titulares
-     dos dados devem ter conhecimento de que está implementada videovigilância, obtendo informações
-     pormenorizadas sobre os locais sob vigilância19. No RGPD, as obrigações gerais em matéria de
-     transparência e informação estão estabelecidas no artigo 12.º e seguintes. As «Orientações relativas à
-     transparência na aceção do Regulamento 2016/679» (WP 260) do Grupo de Trabalho do Artigo 29.º,
-     que foram aprovadas pelo CEPD em 25 de maio de 2018, contêm informações mais pormenorizadas.
-     De acordo com o WP 260, n.º 26, é o artigo 13.º do RGPD que é aplicável se for efetuada recolha de
-     dados pessoais «[...] junto de um titular dos dados através de observação (p. ex. utilizando dispositivos
-     automatizados de captação de dados ou software de captação de dados como câmaras [...]».
+      7 TRANSPARENCY AND INFORMATION OBLIGATIONS18
+110. It has long been inherent in European data protection law that data subjects should be aware of the
+     fact that video surveillance is in operation. They should be informed in a detailed manner as to the
+     places monitored.19 Under the GDPR the general transparency and information obligations are set out
+     in Article 12 GDPR and following. Article 29 Working Party’s “Guidelines on transparency under
+     Regulation 2016/679 (WP260)” which were endorsed by the EDPB on May 25 th 2018 provide further
+     details. In line with WP260 par. 26, it is Article 13 GDPR, which is applicable if personal data are
+     collected “[…] from a data subject by observation (e.g. using automated data capturing devices or data
+     capturing software such as cameras […].”.
 
-111. Atendendo ao volume de informações que é necessário fornecer ao titular dos dados, os responsáveis
-     pelo tratamento podem adotar uma abordagem estruturada quando escolhem utilizar uma
-     combinação de métodos para garantir a transparência (WP 260, n.º 35; WP 89, p. 22). Em relação à
-     videovigilância, as informações mais importantes devem ser apresentadas no próprio sinal de aviso
-     (primeiro nível da estrutura), enquanto os detalhes adicionais obrigatórios podem ser fornecidos por
-     outros meios (segundo nível).
+111. In light of the volume of information, which is required to be provided to the data subject, a layered
+     approach may be followed by data controllers where they opt to use a combination of methods to
+     ensure transparency (WP260, par. 35; WP89, par. 22). Regarding video surveillance the most important
+     information should be displayed on the warning sign itself (first layer) while the further mandatory
+     details may be provided by other means (second layer).
 
-      7.1 Informações do primeiro nível (sinal de aviso)
-112. O primeiro nível da estrutura diz respeito à forma inicial como o responsável pelo tratamento entra
-     em contacto com o titular dos dados. Nesta fase, os responsáveis pelo tratamento podem usar um
-     sinal de aviso que contenha as informações relevantes. Essas informações podem ser fornecidas em
-     combinação com um ícone a fim de dar, de modo facilmente visível, inteligível e claramente legível,
-     uma perspetiva geral significativa do tratamento previsto (artigo 12.º, n.º 7, do RGPD). O formato da
-     informação deverá ser adaptado ao local em questão (WP 89, p. 22).
+      7.1 First layer information (warning sign)
+112. The first layer concerns the primary way in which the controller first engages with the data subject. At
+     this stage, controllers may use a warning sign showing the relevant information. The displayed
+     information may be provided in combination with an icon in order to give, in an easily visible,
+     intelligible and clearly readable manner, a meaningful overview of the intended processing (Article 12
+     (7) GDPR). The format of the information should be adjusted to the individual location (WP89 par. 22).
 
-      7.1.1 Posicionamento do sinal de aviso
-113. A informação deve ser posicionada de tal forma que o titular dos dados possa reconhecer facilmente
-     as circunstâncias da vigilância antes de entrar na área sob vigilância (aproximadamente ao nível dos
-     olhos). Não é necessário revelar a posição exata da câmara de vigilância desde que os locais sob
-     vigilância e o contexto da vigilância sejam inequivocamente esclarecidos (WP 89, p. 22). O titular dos
-     dados deve ser capaz de estimar qual é a área captada por uma câmara, a fim de poder evitar a
-     vigilância ou adaptar o seu comportamento, se necessário.
+      7.1.1 Positioning of the warning sign
+113. The information should be positioned in such a way that the data subject can easily recognize the
+     circumstances of the surveillance before entering the monitored area (approximately at eye level). It
+     is not necessary to reveal the position of the camera as long as there is no doubt as to which areas are
+     subject to monitoring and the context of surveillance is clarified unambiguously (WP 89, par. 22). The
+     data subject must be able to estimate which area is captured by a camera so that he or she is able to
+     avoid surveillance or adapt his or her behaviour if necessary.
 
-      7.1.2 Conteúdo do primeiro nível da estrutura
-114. O primeiro nível da estrutura (sinal de aviso) deve veicular em geral as informações mais importantes,
-     designadamente informações pormenorizadas sobre as finalidades do tratamento, a identidade do
-     responsável pelo tratamento e a existência dos direitos do titular dos dados, juntamente com
-     informações sobre o tratamento com maior impacto20. Tal pode incluir, por exemplo, os interesses
-     legítimos perseguidos pelo responsável pelo tratamento (ou por um terceiro) e os contactos do
+      7.1.2 Content of the first layer
+114. The first layer information (warning sign) should generally convey the most important information, e.g.
+     the details of the purposes of processing, the identity of controller and the existence of the rights of
+     the data subject, together with information on the greatest impacts of the processing. 20 This can
+     include for example the legitimate interests pursued by the controller (or by a third party) and contact
+     details of the data protection officer (if applicable). It also has to refer to the more detailed second
+     layer of information and where and how to find it.
 
-
-
-
-      18
-           Poderão aplicar-se requisitos específicos previstos na legislação nacional.
-      19
-        Ver WP 89, Parecer 4/2004 sobre o Tratamento de Dados Pessoais por meio de Videovigilância, do Grupo de
-      Trabalho do Artigo 29.º.
-      20
-           Ver WP 260, n.º 38.
+115. In addition the sign should also contain any information that could surprise the data subject (WP260,
+     par. 38). That could for example be transmissions to third parties, particularly if they are located
 
 
 
-       Adotado                                                                                            27
-
-       encarregado da proteção de dados (se for caso disso). Além disso, tem de fazer referência ao segundo
-       nível da estrutura, mais pormenorizado, e ao local onde está disponível.
-
-115. O sinal deve conter também informações sobre um eventual tratamento que possa vir a surpreender
-     o titular dos dados (WP 260, n.º 38). Pode ser o caso, por exemplo, de transmissões a terceiros,
-     sobretudo se estes estiverem localizados fora da UE, e sobre o prazo de conservação dos dados. Se
-     estas informações não forem indicadas, o titular dos dados deve poder confiar que é efetuada apenas
-     vigilância em direto (sem qualquer registo ou transmissão de dados a terceiros).
-
-        Exemplo (sugestão não vinculativa):
+      18 Specific requirements in national legislation might apply.
 
 
+      19 See WP89, Opinion 4/2004 on the Processing of Personal Data by means of Video Surveillance by Article 29
+
+      Working Party).
+      20 See WP260, par. 38.
+
+
+
+
+      Adopted                                                                                                   26
+
+       outside the EU, and the storage period. If this information is not indicated, the data subject should be
+       able to trust that there is solely a live monitoring (without any data recording or transmission to third
+       parties).
+
+        Example (non-binding suggestion):
+                                                         Identity of the controller and, where applicable, of the controller’s representative:
+
+
+                                                         Contact details, including of the data protection officer (where applicable):
+
+
+
+
+                                                         Information on the processing that has the most impact on the data subject (e.g.
+                                                         retention period or live monitoring, publication or transmission of video footage
+                                                         to third parties):
+
+
+
+
+                                                         Purpose(s) of the video surveillance:
+
+
+
+
+           Video surveillance!
+                     Further information is available:
+                     • via notice                        Data subjects rights: As a data subject you have several rights to exercise, in particular the right
+                     • at our reception/ customer
+                                                         to request from the controller access to or erasure of your personal data.
+                          information/ register
+                     • via internet (URL)…               For details on this video surveillance including your rights, see the full information provided by the
+                                                         controller through the options presented on the left.
 
 
 116.
-       7.2 Informações do segundo nível
-117. As informações do segundo nível também devem ser disponibilizadas num local facilmente acessível
-     para o titular dos dados, por exemplo como uma ficha informativa completa disponível num local
-     central (por exemplo, balcão de informação, receção ou caixa) ou incluídas num cartaz facilmente
-     acessível. Como atrás se refere, o sinal de aviso do primeiro nível tem de fazer uma referência clara às
-     informações do segundo nível. Além disso, é desejável que as informações do primeiro nível façam
-     referência a uma fonte digital (por exemplo, código QR ou endereço de um sítio Web) do segundo
-     nível. No entanto, as informações também devem ser facilmente acessíveis de forma não digital. Deve
-     ser possível aceder às informações do segundo nível sem entrar na área sob vigilância, sobretudo se
-     as informações forem fornecidas por via digital (por exemplo, através de uma hiperligação). Outro
-     meio apropriado poderia ser um número de telefone. Independentemente do modo como é
-     transmitida, a informação deve conter todos os elementos obrigatórios nos termos do artigo 13.º do
-     RGPD.
+       7.2 Second layer information
+117. The second layer information must also be made available at a place easily accessible to the data
+     subject, for example as a complete information sheet available at a central location (e.g. information
+     desk, reception or cashier) or displayed on an easy accessible poster. As mentioned above, the first
+     layer warning sign has to refer clearly to the second layer information. In addition, it is best if the first
+     layer information refers to a digital source (e.g. QR-code or a website address) of the second layer.
+     However, the information should also be easily available non-digitally. It should be possible to access
+     the second layer information without entering the surveyed area, especially if the information is
+     provided digitally (this can be achieved for example by a link). Other appropriate means could be a
+     phone number that can be called. However the information is provided, it must contain all that is
+     mandatory under Article 13 GDPR.
 
+118. In addition to these options, and also to make them more effective, the EDPB promotes the use of
+     technological means to provide information to data subjects. This may include for instance; geo-
+     locating cameras and including information in mapping apps or websites so that individuals can easily,
+     on the one hand, identify and specify the video sources related to the exercise of their rights, and on
+     the other hand, obtain more detailed information on the processing operation.
 
-
-
-        Adotado                                                                                        28
-
-118. Além destas opções, e também para as tornar mais eficazes, o CEPD promove o uso de meios
-     tecnológicos para transmitir informações aos titulares dos dados. Estes podem incluir, por exemplo,
-     câmaras de localização geográfica e a inclusão de informações em aplicações de mapas ou sítios Web
-     para que os indivíduos possam facilmente, por um lado, identificar e especificar as fontes de vídeo
-     relacionadas com o exercício dos seus direitos e, por outro lado, obter informações mais
-     pormenorizadas sobre a operação de tratamento.
-
-       Exemplo: O proprietário de uma loja efetua vigilância do seu estabelecimento. Para cumprir o
-       artigo 13.º, é suficiente colocar um sinal de aviso num local bem visível, à entrada da sua loja,
-       que contenha as informações do primeiro nível. Além disso, tem de fornecer uma ficha
-       informativa que contenha o segundo nível de informação na caixa ou em qualquer outro local
-       central e de fácil acesso no seu estabelecimento.
+        Example: A shop owner is monitoring his shop. To comply with Article 13 it is sufficient to place
+        a warning sign at an easy visible point at the entrance of his shop, which contains the first layer
+        information. In addition, he has to provide an information sheet containing the second layer
+        information at the cashier or any other central and easy accessible location in his shop.
 119.
 
 
 
 
-       Adotado                                                                                             29
+       Adopted                                                                                                                                                    27
 
-       8 PRAZOS DE CONSERVAÇÃO E OBRIGAÇÃO DE APAGAMENTO
-120. Os dados pessoais não podem ser conservados por um período superior ao necessário para as
-     finalidades para as quais são tratados (artigo 5.º, n.º 1, alíneas c) e e), do RGPD). Em alguns Estados-
-     Membros, podem existir disposições específicas relativas aos prazos de conservação no que diz
-     respeito à videovigilância, em conformidade com o artigo 6.º, n.º 2, do RGPD.
+       8 STORAGE PERIODS AND OBLIGATION TO ERASURE
+120. Personal data may not be stored longer than what is necessary for the purposes for which the personal
+     data is processed (Article 5 (1) (c) and (e) GDPR). In some Member States, there may be specific
+     provisions for storage periods with regards to video surveillance in accordance with Article 6 (2) GDPR.
 
-121. A necessidade ou não de conservar os dados pessoais deve ser determinada num prazo curto. As
-     finalidades legítimas da videovigilância são, geralmente, a proteção da propriedade ou a preservação
-     de provas. Normalmente, os danos ocorridos podem ser reconhecidos no prazo de um ou dois dias.
-     Para facilitar a demonstração da conformidade com o quadro de proteção de dados, é do interesse do
-     responsável pelo tratamento tomar antecipadamente medidas organizativas (por exemplo, nomear,
-     se necessário, um representante para a análise e a proteção do material de vídeo). Tendo em
-     consideração os princípios do artigo 5.º, n.º 1, alíneas c) e e), do RGPD, nomeadamente a minimização
-     dos dados e a limitação da conservação, os dados pessoais devem, na maioria dos casos (por exemplo,
-     para efeitos de deteção de vandalismo), ser apagados, de preferência automaticamente, após alguns
-     dias. Quanto mais longo for o prazo de conservação definido (sobretudo quando ultrapassa as
-     72 horas), mais argumentos sobre a legitimidade da finalidade e a necessidade de conservação têm de
-     ser apresentados. Se o responsável pelo tratamento, para além de utilizar a videovigilância para vigiar
-     as suas instalações, também tencionar conservar os dados, deve assegurar que essa conservação é
-     realmente necessária para atingir a sua finalidade. Se assim for, o prazo de conservação tem de ser
-     claramente definido e estipulado individualmente para cada finalidade específica. Cabe ao responsável
-     pelo tratamento definir o prazo de conservação em conformidade com os princípios da necessidade e
-     da proporcionalidade e demonstrar o cumprimento das disposições do RGPD.
+121. Whether the personal data is necessary to store or not should be controlled within a narrow timeline.
+     In general, legitimate purposes for video surveillance are often property protection or preservation of
+     evidence. Usually damages that occurred can be recognized within one or two days. To facilitate the
+     demonstration of compliance with the data protection framework it is in the controller’s interest to
+     make organisational arrangements in advance (e. g. nominate, if necessary, a representative for
+     screening and securing video material). Taking into consideration the principles of Article 5 (1) (c) and
+     (e) GDPR, namely data minimization and storage limitation, the personal data should in most cases
+     (e.g. for the purpose of detecting vandalism) be erased, ideally automatically, after a few days. The
+     longer the storage period set (especially when beyond 72 hours), the more argumentation for the
+     legitimacy of the purpose and the necessity of storage has to be provided. If the controller uses video
+     surveillance not only for monitoring its premises but also intends to store the data, the controller must
+     assure that the storage is actually necessary in order to achieve the purpose. If so, the storage period
+     needs to be clearly defined and individually set for each particular purpose. It is the controller’s
+     responsibility to define the retention period in accordance with the principles of necessity and
+     proportionality and to demonstrate compliance with the provisions of the GDPR.
 
-        Exemplo: O proprietário de uma pequena loja aperceber-se-ia normalmente de qualquer ato
-        de vandalismo no próprio dia. Assim sendo, um prazo de conservação normal de 24 horas é
-        suficiente. No entanto, os fins de semana ou férias mais prolongadas, em que a loja está
-        fechada, poderiam ser argumentos a favor de um prazo de conservação mais longo. Se for
-        detetado um dano, o proprietário também pode precisar de conservar as gravações por um
-        período mais longo, a fim de tomar medidas judiciais contra o infrator.
+        Example: An owner of a small shop would normally take notice of any vandalism the same day.
+        In consequence, a regular storage period of 24 hours is sufficient. Closed weekends or longer
+        holidays might however be reasons for a longer storage period. If a damage is detected he may
+        also need to store the video footage a longer period in order to take legal action against the
+        offender.
 122.
 
 
-       9 MEDIDAS TÉCNICAS E ORGANIZATIVAS
-123. Tal como referido no artigo 32.º, n.º 1, do RGPD, para além de o tratamento de dados pessoais durante
-     a videovigilância dever ser permitido por lei, os responsáveis pelo tratamento e os subcontratantes
-     também devem garantir a sua segurança. As medidas técnicas e organizativas aplicadas devem ser
-     proporcionais aos riscos para os direitos e liberdades das pessoas singulares resultantes de
-     destruição, perda e alteração acidentais ou ilícitas, e da divulgação ou acesso não autorizados aos
-     dados da videovigilância. De acordo com os artigos 24.º e 25.º do RGPD, os responsáveis pelo
-     tratamento devem aplicar medidas técnicas e organizativas também para salvaguardar todos os
-     princípios de proteção de dados durante o tratamento e estabelecer meios que permitam aos titulares
-     dos dados exercerem os seus direitos definidos nos artigos 15.º a 22.º do RGPD. Os responsáveis pelo
-     tratamento devem adotar um quadro e políticas a nível interno que garantam essa aplicação, tanto no
-     momento de definição dos meios de tratamento como no momento do próprio tratamento, incluindo
-     a realização de avaliações de impacto da proteção de dados, quando necessário.
+       9 TECHNICAL AND ORGANISATIONAL MEASURES
+123. As stated in Article 32 (1) GDPR, processing of personal data during video surveillance must not only
+     be legally permissible but controllers and processors must also adequately secure it. Implemented
+     organizational and technical measures must be proportional to the risks to rights and freedoms of
+     natural persons, resulting from accidental or unlawful destruction, loss, alteration, unauthorized
+     disclosure or access to video surveillance data. According to Article 24 and 25 GDPR, controllers need
+     to implement technical and organisational measures also in order to safeguard all data-protection
+     principles during processing, and to establish means for data subjects to exercise their rights as defined
+     in Articles 15-22 GDPR. Data controllers should adopt internal framework and policies that ensure this
+     implementation both at the time of the determination of the means for processing and at the time of
+     the processing itself, including the performance of data protection impact assessments when needed.
 
 
 
 
-       Adotado                                                                                         30
+       Adopted                                                                                              28
 
-     9.1 Síntese do sistema de videovigilância
-124. Um sistema de videovigilância (SVV)21 consiste em sistemas analógicos e digitais e software que
-     captam imagens de uma cena, tratam as imagens e apresentam-nas a um operador. Os seus
-     componentes estão agrupados nas seguintes categorias:
+      9.1 Overview of video surveillance system
+124. A video surveillance system (VSS)21 consists of analogue and digital devices as well as software for the
+     purpose of capturing images of a scene, handling the images and displaying them to an operator. Its
+     components are grouped into the following categories:
 
-             Ambiente de vídeo: captação de imagens, interconexões e tratamento de imagens:
+          •   Video environment: image capture, interconnections and image handling:
 
-                 o   a finalidade da captação da imagem é a geração de uma imagem do mundo real num
-                     formato que possa ser utilizado pelo resto do sistema,
+                   o   the purpose of image capture is the generation of an image of the real world in such
+                       format that it can be used by the rest of the system,
 
-                 o   as interconexões descrevem todas as transmissões de dados dentro do ambiente de
-                     vídeo, ou seja, as conexões e comunicações. Exemplos de conexões são cabos, redes
-                     digitais e transmissões sem fio. As comunicações descrevem todos os sinais de vídeo
-                     e dados de controlo, que podem ser digitais ou analógicos,
+                   o   interconnections describe all transmission of data within the video environment, i.e.
+                       connections and communications. Examples of connections are cables, digital
+                       networks, and wireless transmissions. Communications describe all video and control
+                       data signals, which could be digital or analogue,
 
-                 o   o tratamento de imagens inclui a análise, o armazenamento e a apresentação de uma
-                     imagem ou de uma sequência de imagens.
+                   o   image handling includes analysis, storage and presentation of an image or a sequence
+                       of images.
 
-             Do ponto de vista da gestão do sistema, um SVV tem as seguintes funções lógicas:
+          •   From the system management perspective, a VSS has the following logical functions:
 
-                 o   gestão de dados e gestão de atividades, incluindo o tratamento de comandos do
-                     operador e atividades geradas pelo sistema (procedimentos de alarme, alertas para os
-                     operadores),
+                   o   data management and activity management, which includes handling operator
+                       commands and system generated activities (alarm procedures, alerting operators),
 
-                 o   interfaces com outros sistemas, que podem incluir a ligação a outros sistemas, de
-                     segurança (controlo de acesso, alarme de incêndio) ou não (sistemas de gestão de
-                     edifícios, reconhecimento automático de matrículas).
+                   o   interfaces to other systems might include connection to other security (access control,
+                       fire alarm) and non-security systems (building management systems, automatic
+                       license plate recognition).
 
-             A segurança do SVV consiste na confidencialidade, integridade e disponibilidade do sistema e
-              dos dados:
+          •   VSS security consists of system and data confidentiality, integrity and availability:
 
-                 o   a segurança do sistema inclui a segurança física de todos os seus componentes e o
-                     controlo do acesso ao SVV,
+                   o   system security includes physical security of all system components and control of
+                       access to the VSS,
 
-                 o   a segurança dos dados inclui a prevenção da perda ou da manipulação dos dados.
+                   o   data security includes prevention of loss or manipulation of data.
 
 
 
 
-     21
-       O RGPD não contém uma definição de sistema de videovigilância. Pode ser encontrada uma descrição técnica,
-     por exemplo, na norma EN 62676-1-1:2014 – Sistemas de videovigilância para utilização em aplicações de
-     segurança eletrónica – Parte 1-1: Requisitos do sistema.
+      21 GDPR does not provide a definition for it, a technical description can for example be found in EN 62676-1-
+
+      1:2014 Video surveillance systems for use in security applications – Part 1-1: Video system requirements.
 
 
 
-      Adotado                                                                                             31
+      Adopted                                                                                                         29
 
 125.
-        Image Capture                                          Captação de imagens
-        Interconnections                                       Interconexões
-        Image Handling                                         Tratamento de imagens
-        Video Environment                                      Ambiente de vídeo
-        Activity and Data Management                           Gestão de atividades e dados
-        Interfacing to Other Systems                           Interface com outros sistemas
-        System Management                                      Gestão do sistema
-        System                                                 Sistema
-        Data                                                   Dados
-        Security                                               Segurança
-       Figura 1 – Sistema de videovigilância
+       Figure 1- video surveillance system
 
-       9.2 Proteção de dados desde a conceção e por defeito
-126. Tal como referido no artigo 25.º do RGPD, os responsáveis pelo tratamento têm de aplicar medidas
-     técnicas e organizativas adequadas de proteção dos dados logo que começam a planear a
-     videovigilância – antes de iniciarem a recolha e o tratamento das gravações. Estes princípios enfatizam
-     a necessidade de tecnologias integradas de reforço da privacidade, de configurações predefinidas que
-     minimizem o tratamento dos dados e de instrumentos que permitam a proteção mais elevada possível
-     dos dados pessoais22.
+       9.2 Data protection by design and by default
+126. As stated in Article 25 GDPR, controllers need to implement appropriate data protection technical and
+     organisational measures as soon as they plan for video surveillance – before they start the collection
+     and processing of video footage. These principles emphasize the need for built-in privacy enhancing
+     technologies, default settings that minimise the data processing, and the provision of the necessary
+     tools that enable the highest possible protection of personal data22.
 
-127. Os responsáveis pelo tratamento devem integrar salvaguardas em matéria de proteção de dados e
-     privacidade não só nas especificações de projeto da tecnologia, mas também nas práticas
-     organizativas. No que diz respeito a estas últimas, o responsável pelo tratamento deve adotar uma
-     estrutura de gestão apropriada e estabelecer e aplicar políticas e procedimentos relacionados com a
-     videovigilância. Do ponto de vista técnico, a especificação e a conceção do sistema devem incluir
-     requisitos em matéria de tratamento de dados pessoais em conformidade com os princípios
+127. Controllers should build data protection and privacy safeguards not only into the design specifications
+     of the technology but also into organisational practices. When it comes to organisational practices, the
+     controller should adopt an appropriate management framework, establish and enforce policies and
+     procedures related to video surveillance. From the technical point of view, system specification and
+     design should include requirements for processing personal data in accordance with principles stated
+     in Article 5 GDPR (lawfulness of processing, purpose and data limitation, data minimisation by default
+     in the sense of Article 25 (2) GDPR, integrity and confidentiality, accountability etc.). In case a controller
+     plans to acquire a commercial video surveillance system, the controller needs to include these
+     requirements in the purchase specification. The controller needs to ensure compliance with these
+     requirements applying them to all components of the system and to all data processed by it, during
+     their entire lifecycle.
 
-
-       22
-         WP 168, Parecer intitulado «The Future of Privacy» (O futuro da privacidade), contributo conjunto do Grupo
-       de Trabalho do Artigo 29.º para a Proteção de Dados e do Grupo de Trabalho «Polícia e Justiça» para a consulta
-       da Comissão Europeia sobre o quadro jurídico do direito fundamental à proteção dos dados pessoais (adotado
-       em 1 de dezembro de 2009).
-
-
-
-        Adotado                                                                                                32
-
-      enunciados no artigo 5.º do RGPD (licitude do tratamento, limitação das finalidades e dos dados,
-      minimização dos dados por defeito na aceção do artigo 25.º, n.º 2, do RGPD, integridade e
-      confidencialidade, responsabilidade, etc.). Caso planeie adquirir um sistema de videovigilância
-      comercial, o responsável pelo tratamento tem de incluir estes requisitos na especificação de compra.
-      O responsável pelo tratamento tem de garantir o cumprimento destes requisitos aplicando-os a todos
-      os componentes do sistema e a todos os dados por ele tratados, durante todo o seu ciclo de vida.
-
-      9.3 Exemplos concretos de medidas pertinentes
-128. A maioria das medidas que podem ser usadas para garantir uma videovigilância segura, especialmente
-     quando são usados equipamentos digitais e software, não diferem das utilizadas noutros sistemas
-     informáticos. Contudo, independentemente da solução escolhida, o responsável pelo tratamento deve
-     proteger adequadamente todos os componentes de um sistema de videovigilância e dados em todas
-     as etapas, ou seja, durante a conservação (dados em repouso), a transmissão (dados em trânsito) e o
-     tratamento (dados em utilização). Para isso, é necessário que os responsáveis pelo tratamento e os
-     subcontratantes combinem medidas organizativas e técnicas.
-
-129. Aquando da escolha das soluções técnicas, o responsável pelo tratamento deve considerar tecnologias
-     respeitadoras da privacidade, nomeadamente porque reforçam a segurança. Exemplos deste tipo de
-     tecnologias são os sistemas que permitem o mascaramento ou a codificação de áreas que não sejam
-     pertinentes para a vigilância, ou a remoção de imagens de terceiros, aquando da transmissão das
-     gravações aos titulares dos dados23. Por outro lado, as soluções escolhidas não devem incluir funções
-     que não sejam necessárias (por exemplo, movimentação ilimitada das câmaras, capacidade de zoom,
-     transmissão de rádio, análise e gravações de áudio). As funções incluídas mas não necessárias devem
-     ser desativadas.
-
-130. Existe vasta literatura disponível sobre este tema, incluindo normas internacionais e especificações
-     técnicas sobre a segurança física dos sistemas multimédia24 e a segurança dos sistemas informáticos
-     em geral25. Por conseguinte, a presente secção apresenta apenas uma síntese global sobre este tema.
-
-      9.3.1 Medidas organizativas
-131. Para além de uma possível avaliação de impacto da proteção de dados necessária (ver secção 10), os
-     responsáveis pelo tratamento devem ter em conta os seguintes temas quando criam as suas próprias
-     políticas e procedimentos de videovigilância:
-
-                Quem é responsável pela gestão e pela operação do sistema de videovigilância.
-                Finalidade e âmbito de aplicação do projeto de videovigilância.
-                Utilização adequada e proibida (onde e quando a videovigilância é permitida e onde e quando
-                 não o é; por exemplo, a utilização de câmaras ocultas e de gravação de áudio para além da
-                 gravação de vídeo)26.
+       9.3 Concrete examples of relevant measures
+128. Most of the measures that can be used to secure video surveillance, especially when digital equipment
+     and software are used, will not differ from those used in other IT systems. However, regardless of the
+     solution selected, the controller must adequately protect all components of a video surveillance
+     system and data under all stages, i.e. during storage (data at rest), transmission (data in transit) and
 
 
 
 
-      23
-        A utilização destas tecnologias pode até ser obrigatória em alguns casos, a fim de assegurar o cumprimento do
-      artigo 5.º, n.º 1, alínea c). Em todo o caso, podem servir como exemplos de boas práticas.
-      24
-         IEC TS 62045 — Segurança multimédia – Orientações para a proteção da privacidade dos equipamentos e
-      sistemas em utilização ou não.
-      25
-           ISO/IEC 27000 — Série sobre sistemas de gestão da segurança da informação.
-      26
-           Pode depender da legislação nacional e dos regulamentos do setor.
+       22 WP 168, Opinion on the "The Future of Privacy", joint contribution by the Article 29 Data Protection Working
+
+       Party and the Working Party on Police and Justice to the Consultation of the European Commission on the
+       legal framework for the fundamental right to protection of personal data (adopted on 01 December 2009).
 
 
 
-       Adotado                                                                                                 33
+       Adopted                                                                                                     30
 
-             Medidas em matéria de transparência, conforme mencionado na secção 7 (Obrigações em
-              matéria de transparência e informação).
-             De que modo o vídeo é gravado e por quanto tempo, incluindo o armazenamento em arquivo
-              de gravações de vídeo relacionadas com incidentes de segurança.
-             Quem deve fazer formação pertinente e quando.
-             Quem tem acesso às gravações de vídeo e para que finalidades.
-             Procedimentos operacionais (por exemplo, por quem e a partir de onde a videovigilância é
-              controlada; o que fazer em caso de violação de dados).
-             Que procedimentos as partes externas têm de seguir para solicitar gravações de vídeo, e quais
-              os procedimentos para indeferir ou deferir esses pedidos.
-             Procedimentos para aquisição, instalação e manutenção do SVV.
-             Gestão de incidentes e procedimentos de recuperação.
-      9.3.2 Medidas técnicas
-132. Por segurança do sistema entende-se a segurança física de todos os componentes do sistema e a
-     respetiva integridade, ou seja, proteção e resiliência contra interferência intencional e não
-     intencional no seu funcionamento normal, bem como controlo do acesso. Por segurança dos dados
-     entende-se a confidencialidade (os dados são acessíveis apenas a indivíduos aos quais é concedido
-     acesso), a integridade (prevenção contra perda ou manipulação dos dados) e a disponibilidade (acesso
-     aos dados quando necessário).
+      processing (data in use). For this, it is necessary that controllers and processors combine organisational
+      and technical measures.
 
-133. A segurança física é uma parte vital da proteção de dados e a primeira linha de defesa, uma vez que
-     protege os equipamentos de videovigilância contra furto, vandalismo, catástrofes naturais, catástrofes
-     de origem humana e danos acidentais (por exemplo, devido a picos de corrente, temperaturas
-     extremas e derrames de bebidas). No caso dos sistemas analógicos, a segurança física desempenha o
-     papel principal na sua proteção.
+129. When selecting technical solutions, the controller should consider privacy-friendly technologies also
+     because they enhance security. Examples of such technologies are systems that allow masking or
+     scrambling areas that are not relevant for the surveillance, or the editing out of images of third
+     persons, when providing video footage to data subjects.23 On the other hand, the selected solutions
+     should not provide functions that are not necessary (e.g., unlimited movement of cameras, zoom
+     capability, radio transmission, analysis and audio recordings). Functions provided, but not necessary,
+     must be deactivated.
 
-134. A segurança dos sistemas e dos dados, ou seja, a proteção contra a interferência intencional e não
-     intencional no seu funcionamento normal, pode incluir:
+130. There is a lot of literature available on this subject, including international standards and technical
+     specifications on the physical security of multimedia systems24, and the security of general IT
+     systems25. Therefore, this section provides only a high-level overview of this topic.
 
-             A proteção de toda a infraestrutura do SVV (incluindo câmaras remotas, cabos e alimentação
-              elétrica) contra adulteração física e furto.
-          Proteção da transmissão de imagens com canais de comunicação seguros contra interceção.
-          Cifragem dos dados.
-          Utilização de soluções de hardware e software, tais como firewalls, antivírus ou sistemas de
-              deteção de intrusões contra ciberataques.
-          Deteção de falhas de componentes, software e interconexões.
-          Meios para restaurar a disponibilidade e o acesso ao sistema no caso de um incidente físico
-              ou técnico.
-135. O controlo do acesso garante que apenas pessoas autorizadas podem aceder ao sistema e aos dados,
-     sendo as restantes pessoas impedidas de o fazer. As medidas que apoiam o controlo do acesso físico
-     e lógico incluem:
+      9.3.1 Organisational measures
+131. Apart from a potential DPIA needed (see Section 10), controllers should consider the following topics
+     when they create their own video surveillance policies and procedures:
 
-             Garantir que todas as instalações onde é efetuado o controlo por videovigilância e onde as
-              gravações de vídeo são armazenadas estão protegidas contra o acesso não supervisionado por
-              terceiros.
-             Posicionar os monitores (especialmente quando se encontram em espaços abertos, como uma
-              receção) de forma a apenas poderem ser vistos por operadores autorizados.
-             Os procedimentos de concessão, alteração e revogação do acesso físico e lógico são definidos
-              e aplicados.
-
-
-       Adotado                                                                                        34
-
-     São implementados métodos e meios de autenticação e autorização dos utilizadores,
-      incluindo, por exemplo, o comprimento das palavras-passe e a frequência com que são
-      alteradas.
-     As ações executadas pelo utilizador (tanto no sistema como em relação aos dados) são
-      registadas e revistas regularmente.
-     A monitorização e deteção de falhas de acesso é assegurada continuamente e as lacunas
-      identificadas são resolvidas o mais rapidamente possível.
+          •   Who is responsible for management and operation of the video surveillance system.
+          •   Purpose and scope of the video surveillance project.
+          •   Appropriate and prohibited use (where and when video surveillance is allowed and where and
+              when it is not; e.g. use of hidden cameras and audio in addition to video recording) 26.
+          •   Transparency measures as referred to in Section 7 (Transparency and information obligations).
+          •   How video is recorded and for what duration, including archival storage of video recordings
+              related to security incidents.
+          •   Who must undergo relevant training and when.
+          •   Who has access to video recordings and for what purposes.
+          •   Operational procedures (e.g. by whom and from where video surveillance is monitored, what
+              to do in case of a data breach incident).
+          •   What procedures external parties need to follow in order to request video recordings, and
+              procedures for denying or granting such requests.
+          •   Procedures for VSS procurement, installation and maintenance.
+          •   Incident management and recovery procedures.
+      9.3.2 Technical measures
+132. System security means physical security of all system components, and system integrity i.e. protection
+     against and resilience under intentional and unintentional interference with its normal operations
+     and access control. Data security means confidentiality (data is accessible only to those who are
+     granted access), integrity (prevention against data loss or manipulation) and availability (data can be
+     accessed when it is required).
 
 
 
 
-Adotado                                                                               35
+      23 The use of such technologies may even be mandatory in some cases in order to comply with Article 5 (1) (c).
 
-      10 AVALIAÇÃO DE IMPACTO DA PROTEÇÃO DE DADOS
-136. Nos termos do artigo 35.º, n.º 1, do RGPD, os responsáveis pelo tratamento devem proceder a
-     avaliações de impacto da proteção de dados (AIPD) quando um certo tipo de tratamento for suscetível
-     de implicar um elevado risco para os direitos e liberdades das pessoas singulares. O artigo 35.º, n.º 3,
-     alínea c), do RGPD estipula que os responsáveis pelo tratamento são obrigados a realizar avaliações de
-     impacto da proteção de dados se o tratamento constituir um controlo sistemático de zonas acessíveis
-     ao público em grande escala. Além disso, de acordo com o artigo 35.º, n.º 3, alínea b), do RGPD,
-     também é necessária uma avaliação de impacto da proteção de dados quando o responsável pelo
-     tratamento tenciona efetuar o tratamento em grande escala de categorias especiais de dados.
+      In any case they can serve as best practice examples.
+      24 IEC TS 62045 — Multimedia security - Guideline for privacy protection of equipment and systems in and out
 
-137. As Orientações relativas à Avaliação de Impacto sobre a Proteção de Dados27 contêm aconselhamento
-     adicional, bem como exemplos mais pormenorizados pertinentes para a videovigilância (por exemplo,
-     relacionados com a «[u]tilização de um sistema de câmaras para controlar o comportamento dos
-     condutores nas autoestradas»). O artigo 35.º, n.º 4, do RGPD exige que cada autoridade de controlo
-     publique uma lista dos tipos de operações de tratamento sujeitos ao requisito de AIPD no seu país.
-     Estas listas estão normalmente disponíveis nos sítios Web das autoridades. Tendo em conta as
-     finalidades típicas da videovigilância (proteção de pessoas e bens; deteção, prevenção e controlo de
-     infrações; recolha de provas e identificação biométrica de suspeitos), é razoável presumir que muitos
-     casos de videovigilância exigirão uma AIPD. Assim, os responsáveis pelo tratamento devem consultar
-     cuidadosamente estes documentos para determinar se essa avaliação é necessária e, em caso
-     afirmativo, para a realizar. O resultado da AIPD realizada deve determinar a escolha do responsável
-     pelo tratamento em relação às medidas de proteção de dados aplicadas.
+      of use.
+      25 ISO/IEC 27000 — Information security management systems series.
 
-138. É igualmente importante observar que, se os resultados da AIPD indicarem que o tratamento é
-     suscetível de resultar num risco elevado apesar das medidas de segurança previstas pelo responsável
-     pelo tratamento, será necessário consultar a autoridade de controlo competente antes de efetuar o
-     tratamento. O artigo 36.º contém informações pormenorizadas sobre as consultas prévias.
+      26 This may depend on national laws and sector regulations.
 
 
 
 
-      Pelo Comité Europeu para a Proteção de Dados
+      Adopted                                                                                                     31
 
-      A Presidente
+133. Physical security is a vital part of data protection and the first line of defence, because it protect VSS
+     equipment from theft, vandalism, natural disaster, manmade catastrophes and accidental damage
+     (e.g. from electrical surges, extreme temperatures and spilled coffee). In case of an analogue based
+     systems, physical security plays the main role in their protection.
+
+134. System and data security, i.e. protection against intentional and unintentional interference with its
+     normal operations may include:
+
+          •  Protection of the entire VSS infrastructure (including remote cameras, cabling and power
+             supply) against physical tampering and theft.
+         • Protection of footage transmission with communication channels secure against interception
+         • Data encryption.
+         • Use of hardware and software based solutions such as firewalls, antivirus or intrusion
+             detection systems against cyber attacks.
+         • Detection of failures of components, software and interconnections.
+         • Means to restore availability and access to the system in the event of a physical or technical
+             incident.
+135. Access control ensures that only authorized people can access the system and data, while others are
+     prevented from doing it. Measures that support physical and logical access control include:
+
+          •   Ensuring that all premises where monitoring by video surveillance is done and where video
+              footage is stored are secured against unsupervised access by third parties.
+          •   Positioning monitors in such a way (especially when they are in open areas, like a reception)
+              so that only authorized operators can view them.
+          •   Procedures for granting, changing and revoking physical and logical access are defined and
+              enforced.
+          •   Methods and means of user authentication and authorization including e.g. passwords length
+              and change frequency are implemented.
+          •   User performed actions (both to the system and data) are recorded and regularly reviewed.
+          •   Monitoring and detection of access failures is done continuously and identified weaknesses
+              are addressed as soon as possible.
+
+
+
+
+      Adopted                                                                                               32
+
+      10 DATA PROTECTION IMPACT ASSESSMENT
+136. According to Article 35 (1) GDPR controllers are required to conduct data protection impact
+     assessments (DPIA) when a type of data processing is likely to result in a high risk to the rights and
+     freedoms of natural persons. Article 35 (3) (c) GDPR stipulates that controllers are required to carry
+     out data protection impact assessments if the processing constitutes a systematic monitoring of a
+     publicly accessible area on a large scale. Moreover, according to Article 35 (3) (b) GDPR a data
+     protection impact assessment is also required when the controller intends to process special
+     categories of data on a large scale.
+
+137. The Guidelines on Data Protection Impact Assessment 27 provide further advice, and more detailed
+     examples relevant to video surveillance (e.g. concerning the “use of a camera system to monitor
+     driving behaviour on highways”). Article 35 (4) GDPR requires that each supervisory authority publish
+     a list of the kind of processing operations that are subject to mandatory DPIA within their country.
+     These lists can usually be found on the authorities’ websites. Given the typical purposes of video
+     surveillance (protection of people and property, detection, prevention and control of offences,
+     collection of evidence and biometric identification of suspects), it is reasonable to assume that many
+     cases of video surveillance will require a DPIA. Therefore, data controllers should carefully consult
+     these documents in order to determine whether such an assessment is required and conduct it if
+     necessary. The outcome of the performed DPIA should determine the controller’s choice of
+     implemented data protection measures.
+
+138. It is also important to note that if the results of the DPIA indicate that processing would result in a high
+     risk despite security measures planned by the controller, then it will be necessary to consult the
+     relevant supervisory authority prior to the processing. Details on prior consultations can be found in
+     Article 36.
+
+
+
+
+      For the European Data Protection Board
+
+      The Chair
 
 
 
@@ -1594,12 +1465,11 @@ Adotado                                                                         
 
 
 
-      27
-        WP 248 rev.01, Orientações relativas à Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que
-      determinam se o tratamento é «suscetível de resultar num elevado risco» para efeitos do
-      Regulamento (UE) 2016/679. – aprovadas pelo CEPD
+      27 WP248 rev.01, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether
+
+      processing is "likely to result in a high risk" for the purposes of Regulation 2016/679. - endorsed by the EDPB
 
 
 
-       Adotado                                                                                         36
+      Adopted                                                                                                           33
 ```

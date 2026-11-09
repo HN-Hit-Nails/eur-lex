@@ -1,5 +1,5 @@
 ---
-titulo: "Encarregado de proteção dos dados"
+titulo: "Data Protection Officer"
 titulo_en: "Data Protection Officer"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
@@ -7,11 +7,11 @@ data: '2018-05-25'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/data-protection-officer_en
 pdf: https://ec.europa.eu/newsroom/just/document.cfm?doc_id=44100
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Encarregado de proteção dos dados
+# Data Protection Officer
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
 

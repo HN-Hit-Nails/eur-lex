@@ -1,3811 +1,3411 @@
 ---
-titulo: "Orientações 01/2022 sobre os direitos dos titulares dos dados — Direito de acesso"
+titulo: "Guidelines 01/2022 on data subject rights - Right of access"
 titulo_en: "Guidelines 01/2022 on data subject rights - Right of access"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2023-04-17'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-012022-on-data-subject-rights-right-of-access_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2024-04/edpb_guidelines_202201_data_subject_rights_access_v2_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-04/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Orientações 01/2022 sobre os direitos dos titulares dos dados — Direito de acesso
+# Guidelines 01/2022 on data subject rights - Right of access
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Orientações 01/2022 sobre os direitos dos titulares dos
-                dados — Direito de acesso
+Guidelines 01/2022 on data subject rights - Right of access
 
 
-                         Versão 2.1
+                        Version 2.1
 
 
-               Adotadas em 28 de março de 2023
+                  Adopted on 28 March 2023
 
 
 
 
-Adotadas
+Adopted
 
-Histórico de versões
+Version history
 
 
- Versão 1.0   18 de janeiro de 2022   Adoção das orientações para consulta pública
- Versão 2.0   28 de março de 2023     Adoção das orientações após consulta pública
- Versão 2.1   30 de maio de 2024      Correções menores
+ Version 1.0   18 January 2022   Adoption of the Guidelines for public consultation
+ Version 2.0   28 March 2023     Adoption of the Guidelines after public consultation
+ Version 2.1   30 May 2024       Minor corrections
 
 
 
 
-                                             2
-Adotadas
+                                          2
+Adopted
 
-                                             RESUMO
+                                      EXECUTIVE SUMMARY
 
 
-O direito de acesso dos titulares dos dados está consagrado no artigo 8.º da Carta dos Direitos
-Fundamentais da UE. Faz parte do quadro jurídico europeu em matéria de proteção de dados desde a
-sua criação e foi aprofundado através de regras mais específicas e precisas no artigo 15.º do RGPD.
+The right of access of data subjects is enshrined in Art. 8 of the EU Charter of Fundamental Rights. It
+has been a part of the European data protection legal framework since its beginning and is now further
+developed by more specified and precise rules in Art. 15 GDPR.
 
-Objetivo e estrutura geral do direito de acesso
+Aim and overall structure of the right of access
 
-O objetivo geral do direito de acesso consiste em fornecer às pessoas informações suficientes,
-transparentes e facilmente acessíveis sobre o tratamento dos seus dados pessoais, para que possam
-tomar conhecimento do mesmo e verificar a sua licitude, bem como a exatidão dos dados tratados.
-Tal facilitará o exercício de outros direitos, como o direito ao apagamento ou à retificação, embora
-não se trate de uma condição para esse efeito.
+The overall aim of the right of access is to provide individuals with sufficient, transparent and easily
+accessible information about the processing of their personal data so that they can be aware of and
+verify the lawfulness of the processing and the accuracy of the processed data. This will make it easier
+- but is not a condition - for the individual to exercise other rights such as the right to erasure or
+rectification.
 
-O direito de acesso no quadro da legislação em matéria de proteção de dados deve ser distinguido de
-direitos semelhantes com outros objetivos, nomeadamente o direito de acesso a documentos
-públicos, que visa garantir a transparência no processo de tomada de decisões das autoridades
-públicas e as boas práticas administrativas.
+The right of access according to data protection law is to be distinguished from similar rights with other
+objectives, for example the right of access to public documents which aims at guaranteeing
+transparency in public authorities’ decision-making and good administrative practice.
 
-No entanto, o titular dos dados não tem de fundamentar o pedido de acesso e não cabe ao responsável
-pelo tratamento analisar se o pedido ajudará efetivamente o titular dos dados a verificar a licitude do
-tratamento em causa ou a exercer outros direitos. O responsável pelo tratamento terá de tratar o
-pedido, a menos que seja claro que este é apresentado ao abrigo de outras regras que não as regras
-de proteção de dados.
+However, the data subject does not have to give reasons for the access request and it is not up to the
+controller to analyse whether the request will actually help the data subject to verify the lawfulness of
+the relevant processing or exercise other rights. The controller will have to deal with the request unless
+it is clear that the request is made under other rules than data protection rules.
 
-O direito de acesso inclui três componentes diferentes:
+The right of access includes three different components:
 
-       a confirmação de que os dados pessoais são ou não objeto de tratamento,
-       o acesso a esses dados pessoais, e
-       o acesso a informações sobre o tratamento, ou seja, a finalidade, as categorias dos dados e
-        destinatários, a duração do tratamento, os direitos dos titulares dos dados e as garantias
-        adequadas em caso de transferências para países terceiros.
+       Confirmation as to whether data about the person is processed or not,
+       Access to this personal data and
+       Access to information about the processing, such as purpose, categories of data and recipients,
+        duration of the processing, data subjects’ rights and appropriate safeguards in case of third
+        country transfers.
 
-Considerações gerais sobre a apreciação do pedido do titular dos dados
+General considerations on the assessment of the data subject’s request
 
-Ao analisar o teor do pedido, o responsável pelo tratamento deve determinar se o mesmo diz respeito
-a dados pessoais da pessoa que o apresenta, se é abrangido pelo âmbito de aplicação do artigo 15.º e
-se existem outras disposições mais específicas que regulem o acesso num determinado setor. Deve
-igualmente determinar se o pedido se refere à totalidade ou apenas a partes dos dados tratados sobre
-o respetivo titular.
+When analysing the content of the request, the controller must assess whether the request concerns
+personal data of the individual making the request, whether the request falls within the scope of
+Art. 15 and whether there are other, more specific, provisions that regulate access in a certain sector.
+It must also assess whether the request refers to all or only parts of the data processed about the data
+subject.
 
-Não existem requisitos específicos em relação ao formato do pedido. O responsável pelo tratamento
-deve disponibilizar canais de comunicação adequados e conviviais que o titular dos dados possa utilizar
-facilmente. Porém, o titular dos dados não é obrigado a utilizar esses canais específicos, podendo, em
-vez disso, enviar o pedido para um ponto de contacto oficial do responsável pelo tratamento.
-O responsável pelo tratamento não é obrigado a dar seguimento aos pedidos enviados para endereços
-totalmente aleatórios ou aparentemente incorretos.
+There are no specific requirements on the format of a request. The controller should provide
+appropriate and user-friendly communication channels that can easily be used by the data subject.
+However, the data subject is not required to use these specific channels and may instead send the
+request to an official contact point of the controller. The controller is not obliged to act on requests
+that are sent to completely random, or apparently incorrect, addresses.
 
-Caso o responsável pelo tratamento não consiga identificar os dados referentes ao titular dos dados,
-deve informá-lo desse facto e pode recusar o acesso, a menos que o titular dos dados preste
-informações suplementares que possibilitem a identificação. Além disso, se tiver dúvidas sobre se o
-                                                3
-Adotadas
+Where the controller is not able to identify data that refers to the data subject, it shall inform the data
+subject about this and may refuse to give access unless the data subject provides additional
+information that enables identification. Further more, if the controller has doubts about whether the
+data subject is who they claim to be, the controller may request additional information in order to
+confirm the identity of the data subject. The request for additional information must be proportionate
 
-titular dos dados é quem alega ser, o responsável pelo tratamento pode solicitar informações
-suplementares para confirmar a identidade do titular dos dados. A fim de evitar uma recolha excessiva
-de dados, o pedido de informações suplementares deve ser proporcionado em relação ao tipo de
-dados tratados e aos danos que podem ocorrer, entre outros.
+                                                    3
+Adopted
 
-Âmbito do direito de acesso
+to the type of data processed, the damage that could occur etc. in order to avoid excessive data
+collection.
 
-O âmbito do direito de acesso é determinado pelo âmbito do conceito de dados pessoais, na aceção
-do artigo 4.º, ponto 1, do RGPD. Para além dos dados pessoais básicos, como o nome, o endereço, o
-número de telefone, etc., esta definição pode abranger uma grande variedade de dados, como
-conclusões médicas, historial de compras, indicadores de solvabilidade, registos de atividades,
-atividades de pesquisa, etc. Os dados pessoais que tenham sido objeto de pseudonimização continuam
-a ser dados pessoais por oposição a dados anonimizados. O direito de acesso refere-se aos dados
-pessoais relativos à pessoa que apresenta o pedido. Tal não deve ser interpretado de forma demasiado
-restritiva, podendo incluir dados que também possam dizer respeito a outras pessoas, nomeadamente
-o historial de comunicação que envolve mensagens recebidas e enviadas.
+Scope of the right of access
 
-Para além de facultar o acesso aos dados pessoais, o responsável pelo tratamento tem de fornecer
-informações suplementares sobre o tratamento e sobre os direitos dos titulares dos dados.
-Essas informações podem basear-se no que já consta do registo das atividades de tratamento do
-responsável pelo tratamento (artigo 30.º do RGPD) e da declaração de confidencialidade (artigos 13.º
-e 14.º do RGPD). No entanto, estas informações gerais podem ter de ser atualizadas em função da data
-do pedido ou adaptadas de modo a refletir as operações de tratamento efetuadas em relação à pessoa
-específica que apresenta o pedido.
-
-Como facultar acesso
-
-As formas de facultar acesso podem variar em função da quantidade de dados e da complexidade do
-tratamento efetuado. Salvo indicação expressa em contrário, o pedido deve ser entendido como
-referindo-se a todos os dados pessoais relativos ao respetivo titular e o responsável pelo tratamento
-pode solicitar ao titular dos dados que especifique o pedido, caso tenha a seu cargo o tratamento de
-uma grande quantidade de dados.
-
-O responsável pelo tratamento terá de pesquisar os dados pessoais em todos os sistemas informáticos
-e ficheiros não informáticos, com base em critérios de pesquisa que reflitam a forma como as
-informações estão estruturadas, por exemplo, o nome e o número de cliente. A comunicação de dados
-e outras informações sobre o tratamento deve ser realizada de forma concisa, transparente, inteligível
-e facilmente acessível, numa linguagem clara e simples. Os requisitos mais precisos a este respeito
-dependem das circunstâncias do tratamento de dados, bem como da capacidade do titular dos dados
-para apreender e compreender a comunicação (por exemplo, tendo em conta esse facto quando o
-titular dos dados seja uma criança ou uma pessoa com necessidades especiais). Se os dados
-comportarem códigos ou outros «dados em bruto», poderão ter de ser explicados para que façam
-sentido para o titular dos dados.
-
-Embora a principal modalidade de concessão de acesso consista em fornecer ao titular dos dados uma
-cópia dos seus dados, podem ser previstas outras modalidades (a saber, informações orais e acesso no
-local) quando o titular dos dados o solicite. Os dados podem ser enviados por correio eletrónico, desde
-que sejam aplicadas todas as salvaguardas necessárias em função, por exemplo, da natureza dos
-dados, ou por outras formas, como uma ferramenta de autosserviço.
-
-
-
-                                                  4
-Adotadas
-
-Por vezes, quando existe uma grande quantidade de dados que tornaria difícil para o titular dos dados
-compreender as informações se estas fossem todas disponibilizadas num único volume, especialmente
-no contexto em linha, a medida mais adequada poderá ser uma abordagem estruturada por níveis.
-A prestação de informações em diferentes níveis pode facilitar a compreensão dos dados por parte do
-respetivo titular. O responsável pelo tratamento deve poder demonstrar que a abordagem estruturada
-por níveis tem um valor acrescentado para o titular dos dados e todos os níveis devem ser fornecidos
-ao mesmo tempo, se o titular dos dados assim o decidir.
-
-A cópia dos dados e as informações suplementares devem ser fornecidas de forma permanente, como
-é o caso do texto escrito, nomeadamente em formato eletrónico de uso corrente, para que o titular
-dos dados possa descarregá-las facilmente. Os dados podem ser disponibilizados numa transcrição ou
-de forma compilada, desde que todas as informações estejam incluídas e tal não afete ou altere o
-conteúdo das mesmas.
-
-O pedido deve ser satisfeito o mais rapidamente possível, no prazo máximo de um mês a contar da
-sua receção. Esse prazo pode ser prorrogado até dois meses, sempre que necessário, atendendo à
-complexidade do pedido e ao número de pedidos. Nesse caso, o titular dos dados tem de ser
-informado do motivo da demora. O responsável pelo tratamento tem de aplicar as medidas
-necessárias para tratar os pedidos o mais cedo possível e adaptá-las às circunstâncias do tratamento.
-Quando os dados são conservados apenas por um período muito curto, devem ser tomadas medidas
-para garantir que um pedido de acesso possa ser satisfeito sem que os dados sejam apagados durante
-o tratamento do pedido. Em caso de tratamento de uma grande quantidade de dados, o responsável
-pelo tratamento terá de pôr em prática rotinas e mecanismos adaptados à complexidade do
-tratamento.
-
-A apreciação do pedido deve refletir a situação existente no momento em que o responsável pelo
-tratamento recebeu o pedido. Mesmo os dados que possam estar incorretos ou tenham sido tratados
-ilicitamente terão de ser fornecidos. Não podem ser fornecidos dados já apagados, por exemplo em
-conformidade com uma política de conservação, que o responsável pelo tratamento já não tenha à
-sua disposição.
-
-Limites e restrições
-
-O RGPD prevê determinadas limitações do direito de acesso. Não existem outras isenções ou
-derrogações. O direito de acesso não está sujeito a qualquer reserva geral quanto à proporcionalidade
-no que diz respeito aos esforços que o responsável pelo tratamento tem de envidar para dar
-cumprimento ao pedido do titular dos dados.
-
-Nos termos do artigo 15.º, n.º 4, o direito de obter uma cópia não prejudica os direitos e liberdades de
-terceiros (outros)*. O Comité Europeu para a Proteção de Dados (CEPD) considera que estes direitos
-devem ser tidos em conta não só aquando da concessão de acesso através do fornecimento de uma
-cópia, mas também se o acesso aos dados for facultado por outros meios (acesso no local, por
-exemplo). Porém, o artigo 15.º, n.º 4, não é aplicável às informações suplementares sobre o
-tratamento previstas no artigo 15.º, n.º 1, alíneas a) a h). O responsável pelo tratamento deve poder
-demonstrar que os direitos ou liberdades de terceiros (outros) seriam prejudicados na situação
-
-
-*
- Nota do tradutor: A versão em língua inglesa do RGPD faz uma distinção entre «third party» (artigo 4.º,
-ponto 10) e «other» (artigo 15.º, n.º 4). Na versão portuguesa, essa distinção perde-se, já que ambos os termos
-foram traduzidos por «terceiro(s)». Para garantir a compreensão do presente documento, sempre que é feita
-referência a «terceiros» na aceção do artigo 15.º, n.º 4 («others» na versão inglesa), o tradutor usa «terceiros
-(outros)».
-                                                       5
-Adotadas
-
-concreta. A aplicação do artigo 15.º, n.º 4, não deve levar à recusa total do pedido do titular dos dados,
-levando apenas a excluir ou tornar ilegíveis as partes que possam ter efeitos negativos para os direitos
-e liberdades de terceiros (outros).
-
-O artigo 12.º, n.º 5, do RGPD permite aos responsáveis pelo tratamento rejeitar pedidos
-manifestamente infundados ou excessivos, ou exigir o pagamento de uma taxa razoável por esses
-pedidos. Estes conceitos devem ser interpretados de forma restritiva. Uma vez que existem poucos
-requisitos prévios para os pedidos de acesso, o âmbito de apreciação de um pedido como
-manifestamente infundado é bastante limitado. Os pedidos excessivos dependem das especificidades
-do setor em que o responsável pelo tratamento opera. Quanto mais frequentes forem as alterações
-efetuadas na base de dados do responsável pelo tratamento, mais frequentemente o titular dos dados
-pode ser autorizado a solicitar o acesso sem que tal seja considerado excessivo. Em vez de recusar o
-acesso, o responsável pelo tratamento pode optar por exigir o pagamento de uma taxa ao titular dos
-dados. Tal só seria aplicável no caso de pedidos excessivos, a fim de cobrir os custos administrativos
-que esses pedidos podem causar. O responsável pelo tratamento deve poder demonstrar o caráter
-manifestamente infundado ou excessivo de um pedido.
-
-Podem também existir limitações do direito de acesso previstas no direito nacional dos
-Estados-Membros, em conformidade com o artigo 23.º do RGPD e as derrogações nele previstas.
-Os responsáveis pelo tratamento que pretendam invocar essas limitações devem verificar
-cuidadosamente os requisitos das disposições nacionais e tomar nota de eventuais condições
-específicas que possam ser aplicáveis. A título de exemplo, uma condição pode ser que o direito de
-acesso seja adiado apenas temporariamente ou que a limitação se aplique apenas a determinadas
-categorias de dados.
-
-
-
-
-                                                    6
-Adotadas
-
-Índice
-1     Introdução — observações gerais ................................................................................................... 9
-2     Objetivo do direito de acesso, estrutura do artigo 15.º do RGPD e princípios gerais .................. 11
-    2.1       Objetivo do direito de acesso ................................................................................................ 11
-    2.2       Estrutura do artigo 15.º do RGPD ......................................................................................... 12
-      2.2.1          Definição do teor do direito de acesso .................................................................................... 13
-          2.2.1.1        Confirmação de que os dados pessoais são ou não objeto de tratamento .............. 14
-          2.2.1.2        Acesso aos dados pessoais objeto de tratamento .................................................... 14
-          2.2.1.3        Informações sobre o tratamento e os direitos dos titulares dos dados ................... 14
-      2.2.2          Disposições relativas às modalidades ...................................................................................... 15
-          2.2.2.1        Fornecer uma cópia ................................................................................................... 15
-          2.2.2.2        Fornecer outras cópias .............................................................................................. 16
-          2.2.2.3        Disponibilizar as informações num formato eletrónico de uso corrente ................. 17
-      2.2.3          Possível limitação do direito de acesso ................................................................................... 17
-    2.3       Princípios gerais do direito de acesso ................................................................................... 17
-      2.3.1          Exaustividade das informações ................................................................................................ 18
-      2.3.2          Exatidão das informações ......................................................................................................... 20
-      2.3.3          Momento de referência da avaliação ...................................................................................... 20
-      2.3.4          Cumprimento dos requisitos de segurança de dados ............................................................ 22
-3     Considerações gerais relativas à apreciação dos pedidos de acesso ............................................ 22
-    3.1       Introdução ............................................................................................................................. 22
-      3.1.1          Análise do teor do pedido ........................................................................................................ 23
-      3.1.2          Forma do pedido ....................................................................................................................... 25
-    3.2       Identificação e autenticação ................................................................................................. 27
-    3.3       Avaliação da proporcionalidade no que respeita à autenticação da pessoa requerente ..... 30
-    3.4       Pedidos apresentados através de terceiros/intermediários ................................................. 33
-      3.4.1          Exercício do direito de acesso em nome de crianças ............................................................. 34
-      3.4.2          Exercício do direito de acesso através de portais/canais disponibilizados por terceiros .... 34
-4     Âmbito de aplicação do direito de acesso e dos dados e informações pessoais a que se refere . 35
-    4.1       Definição de dados pessoais ................................................................................................. 35
-    4.2       Os dados pessoais a que se refere o direito de acesso ......................................................... 39
-      4.2.1          «Dados pessoais que lhe digam respeito» .............................................................................. 39
-      4.2.2          Dados pessoais que são «objeto de tratamento» .................................................................. 41
-      4.2.3          Âmbito de um novo pedido de acesso .................................................................................... 42
-    4.3       Informações sobre o tratamento e os direitos dos titulares dos dados ............................... 42
-
-                                                                             7
-Adotadas
-
-5      Como pode o responsável pelo tratamento facultar o acesso?.................................................... 46
-    5.1        Como pode o responsável pelo tratamento obter os dados solicitados?............................. 46
-    5.2        Medidas adequadas para facultar o acesso .......................................................................... 47
-       5.2.1          Tomar «medidas adequadas» .................................................................................................. 47
-       5.2.2          Diferentes meios de facultar o acesso ..................................................................................... 48
-       5.2.3    Facultar acesso «de forma concisa, transparente, inteligível e de fácil acesso, utilizando
-       uma linguagem clara e simples» ............................................................................................................... 50
-       5.2.4     Uma grande quantidade de informações impõe requisitos específicos sobre a forma como
-       as informações são facultadas ................................................................................................................... 52
-       5.2.5          Formato...................................................................................................................................... 54
-    5.3        Prazos para conceder acesso ................................................................................................ 56
-6      Limites e limitações do direito de acesso...................................................................................... 58
-    6.1        Observações gerais................................................................................................................ 58
-    6.2        Artigo 15.º, n.º 4, do RGPD.................................................................................................... 59
-    6.3        Artigo 12.º, n.º 5, do RGPD.................................................................................................... 62
-       6.3.1          O que se entende por «manifestamente infundado»?.......................................................... 62
-       6.3.2          O que se entende por «excessivo»? ........................................................................................ 63
-       6.3.3          Consequências ........................................................................................................................... 66
-    6.4   Eventuais limitações no direito da União ou dos Estados-Membros com base no artigo 23.º
-    do RGPD e derrogações ..................................................................................................................... 67
-Anexo — Fluxograma ............................................................................................................................ 69
-
-
-
-
-                                                                                8
-Adotadas
-
-     O Comité Europeu para a Proteção de Dados,
-
-     Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE
-     (a seguir designado por «RGPD»),
-
-     Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-     foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 20181,
-
-     Tendo em conta os artigos 12.º e 22.º do seu regulamento interno,
-
-     Considerando que os trabalhos preparatórios das presentes orientações envolveram a recolha de
-     contributos das partes interessadas, tanto por escrito como num evento dedicado às partes
-     interessadas sobre os direitos dos titulares dos dados, a fim de identificar os desafios e os problemas
-     de interpretação enfrentados na aplicação das disposições pertinentes do RGPD,
-
-
-     ADOTOU AS SEGUINTES ORIENTAÇÕES
-
-
-     1 INTRODUÇÃO — OBSERVAÇÕES GERAIS
-1.   Hoje em dia, os dados pessoais são tratados por entidades públicas e privadas, durante muitas
-     atividades, para uma grande diversidade de finalidades e de muitas formas diferentes. As pessoas
-     podem, muitas vezes, estar numa posição de desvantagem para compreenderem a forma como os
-     seus dados pessoais são tratados, incluindo a tecnologia utilizada no caso concreto, quer o tratamento
-     seja efetuado por uma entidade pública ou privada. A fim de proteger os dados pessoais das pessoas
-     singulares nestas situações, o RGPD criou um quadro jurídico coerente e sólido, geralmente aplicável
-     aos diferentes tipos de tratamento, incluindo disposições específicas relativas aos direitos dos titulares
-     dos dados.
-
-2.   O direito de acesso aos dados pessoais é um dos direitos dos titulares dos dados previsto no capítulo III
-     do RGPD, entre outros direitos, como o direito de retificação e apagamento, o direito à limitação do
-     tratamento, o direito à portabilidade, o direito de oposição ou o direito de não ser sujeito a decisões
-     individuais automatizadas, incluindo a definição de perfis2. O direito de acesso do titular dos dados
-     está consagrado tanto na Carta dos Direitos Fundamentais da UE (a Carta)3 como no artigo 15.º do
-     RGPD, onde se especifica que se trata do direito de acesso aos dados pessoais e a outras informações
-     conexas.
-
-3.   Nos termos do RGPD, o direito de acesso tem três componentes: a confirmação de que os dados
-     pessoais são ou não objeto de tratamento, o acesso aos mesmos e o acesso a informações sobre o
+The scope of the right of access is determined by the scope of the concept of personal data as defined
+in Art. 4(1) GDPR. Aside from basic personal data like name, address, phone number etc. a broad
+variety of data may fall within this definition like medical findings, history of purchases,
+creditworthiness indicators, activity logs, search activities etc. Personal data which have undergone
+pseudonymisation are still personal data as opposed to anonymised data. The right of access refers to
+personal data concerning the person making the request. This should not be interpreted overly
+restrictively and may include data that could concern other persons too, for example communication
+history involving incoming and outgoing messages.
 
+In addition to providing access to the personal data, the controller has to provide additional
+information about the processing and on data subjects’ rights. Such information can be based on what
+is already compiled in the controller’s record of processing activities (Art. 30 GDPR) and the privacy
+notice (Art. 13 and 14 GDPR). However, this general information may have to be updated to the time
+of the request or tailored to reflect the processing operations that are carried out in relation to the
+specific person making the request.
+
+How to provide access
+
+The ways to provide access may vary depending on the amount of data and the complexity of the
+processing that is carried out. Unless explicitly stated otherwise, the request should be understood as
+referring to all personal data concerning the data subject and the controller may ask the data subject
+to specify the request if they process a large quantity of data.
+
+The controller will have to search for personal data throughout all IT systems and non-IT filing systems
+based on search criteria that mirrors the way in which the information is structured, for example name
+and customer number. The communication of data and other information about the processing must
+be provided in a concise, transparent, intelligible and easily accessible form, using clear and plain
+language. The more precise requirements in this regard depend on the circumstances of the data
+processing as well as the data subject’s ability to grasp and comprehend the communication (for
+example taking into account that the data subject is a child or a person with special needs). If the data
+consists of codes or other “raw data”, these may have to be explained in order to make sense to the
+data subject.
+
+The main modality for providing access is to provide the data subject with a copy of their data but
+other modalities (such as oral information and on site access) can be foreseen if the data subject
+requests it. The data can be sent by e-mail, provided that all necessary safeguards are applied taken
+into consideration, for example, the nature of the data, or in other ways, for example a self-service
+tool.
+
+Sometimes, when there is a large quantity of data and it would be difficult for the data subject to
+comprehend the information if given all in one bulk – especially in the online context - the most
+appropriate measure could be a layered approach. Providing information in different layers may
+facilitate the data subject’s understanding of the data. The controller must be able to demonstrate
+that the layered approach has an added value for the data subject and all layers should be provided at
+the same time if the data subject chooses it.
+
+
+                                                   4
+Adopted
+
+The copy of the data and the additional information should be provided in a permanent form such as
+written text, which could be in a commonly used electronic form, so that the data subject can easily
+download it. The data can be given in a transcript or a compiled form as long as all the information is
+included and this does not alter or change the content of the information.
+
+The request must be fulfilled as soon as possible and in any event within one month of receipt of the
+request. This can be extended by two further months where necessary, taking into account the
+complexity and number of the request. The data subject then has to be informed about the reason for
+the delay. The controller must implement necessary measures to deal with requests as soon as possible
+and adapt these measures to the circumstances of the processing. Where data is stored only for a very
+short period, there must be measures to guarantee that a request for access can be fulfilled without
+the data being erased while the request is being dealt with. Where a large quantityof data is processed,
+the controller will have to put in place routines and mechanisms that are adapted to the complexity of
+the processing.
+
+The assessment of the request should reflect the situation at the moment when the request was
+received by the controller. Even data that may be incorrect or unlawfully processed will have to be
+provided. Data that has already been deleted, for example in accordance with a retention policy, and
+therefore is no longer available to the controller cannot be provided.
+
+Limits and restrictions
+
+The GDPR allows for certain limitations of the right of access. There are no further exemptions or
+derogations. The right of access is without any general reservation to proportionality with regard to
+the efforts the controller has to take to comply with the data subject´s request.
+
+According to Art. 15(4) the right to obtain a copy shall not adversely affect the rights and freedoms of
+others. The EDPB is of the opinion that these rights must be taken into consideration not only when
+granting access by providing a copy, but also, if access to data is provided by other means (on-site
+access for example). Art. 15(4) is not, however, applicable to the additional information on the
+processing as stated in Art. 15(1) lit. a.-h. The controller must be able to demonstrate that the rights
+or freedoms of others would be adversely affected in the concrete situation. Applying Art. 15(4) should
+not result in refusing the data subject’s request altogether; it would only result in leaving out or
+rendering illegible those parts that may have negative effects for the rights and freedoms of others.
+
+Art. 12(5) GDPR allows controllers to reject requests that are manifestly unfounded or excessive, or to
+charge a reasonable fee for such requests. These concepts have to be interpreted narrowly. Since there
+are very few prerequisites regarding access requests, the scope of considering a request as manifestly
+unfounded is rather limited. Excessive requests depend on the specifics of the sector in which the
+controller operates. The more often changes occur in the controller’s data base, the more often the
+data subject may be permitted to request access without it being excessive. Instead of refusing access,
+the controller may decide to charge a fee from the data subject. This would only be relevant in the
+case of excessive requests in order to cover the administrative costs that such requests may cause. The
+controller must be able to demonstrate the manifestly unfounded or excessive character of a request.
+
+Restrictions of the right of access may also exist in Member States’ national law as per Art. 23 GDPR
+and the derogations therein. Controllers who intend to rely on such restrictions must carefully check
+the requirements of the national provisions and take note of any specific conditions that may apply.
+Such conditions may be that the right of access is only temporarily delayed or that the restriction only
+applies to certain categories of data.
+
+
+                                                   5
+Adopted
+
+Table of contents
+1     Introduction - general observations ................................................................................................ 8
+2     Aim of the right of access, structure of Article 15 GDPR and general principles .......................... 10
+    2.1     Aim of the right of access ...................................................................................................... 10
+    2.2     Structure of Article 15 GDPR ................................................................................................. 11
+      2.2.1         Defining the content of the right of access ................................................................... 12
+          2.2.1.1      Confirmation as to ‘whether’ or not personal data are being processed ................. 12
+          2.2.1.2      Access to the personal data being processed ........................................................... 12
+          2.2.1.3      Information on the processing and on data subject rights ....................................... 13
+      2.2.2         Provisions on Modalities ............................................................................................... 13
+          2.2.2.1      Providing a copy ........................................................................................................ 13
+          2.2.2.2      Providing further copies ............................................................................................ 14
+          2.2.2.3      Making the information available in a commonly used electronic form .................. 15
+      2.2.3         Possible limitation of the right of access ....................................................................... 15
+    2.3     General principles of the right of access ............................................................................... 15
+      2.3.1         Completeness of the information ................................................................................. 16
+      2.3.2         Correctness of the information ..................................................................................... 18
+      2.3.3         Time reference point of the assessment ....................................................................... 18
+      2.3.4         Compliance with data security requirements ............................................................... 19
+3     General considerations regarding the assessment of access requests ......................................... 20
+    3.1     Introduction........................................................................................................................... 20
+      3.1.1         Analysis of the content of the request .......................................................................... 20
+      3.1.2         Form of the request....................................................................................................... 22
+    3.2     Identification and authentication.......................................................................................... 24
+    3.3     Proportionality assessment regarding authentication of the requesting person ................. 26
+    3.4     Requests made via third parties / proxies............................................................................. 29
+      3.4.1         Exercise of the right of access on behalf of children..................................................... 29
+      3.4.2         Exercising the right of access through portals / channels provided by a third party.... 30
+4     Scope of the right of access and the personal data and information to which it refers............... 31
+    4.1     Definition of personal data.................................................................................................... 31
+    4.2     The personal data the right of access refers to ..................................................................... 34
+      4.2.1         “personal data concerning him or her” ......................................................................... 34
+      4.2.2         Personal data which “are being processed” ................................................................. 36
+      4.2.3         The scope of a new request to access ........................................................................... 37
+    4.3     Information on the processing and on data subject rights ................................................... 37
+
+                                                                        6
+Adopted
+
+5      How can a controller provide access? ........................................................................................... 41
+    5.1        How can the controller retrieve the requested data? .......................................................... 41
+    5.2        Appropriate measures for providing access.......................................................................... 42
+       5.2.1          Taking “appropriate measures” .................................................................................... 42
+       5.2.2          Different means to provide access ................................................................................ 43
+       5.2.3     Providing access in a ”concise, transparent, intelligible and easily accessible form using
+       clear and plain language” .............................................................................................................. 44
+       5.2.4    A large quantity of information necessitates specific requirements on how the
+       information is provided ................................................................................................................. 46
+       5.2.5          Format ........................................................................................................................... 47
+    5.3        Timing for the provision of access ......................................................................................... 50
+6      Limits and restrictions of the right of access................................................................................. 51
+    6.1        General remarks .................................................................................................................... 51
+    6.2        Article 15 (4) GDPR ................................................................................................................ 52
+    6.3        Article 12(5) GDPR ................................................................................................................. 55
+       6.3.1          What does manifestly unfounded mean? ..................................................................... 55
+       6.3.2          What does excessive mean? ......................................................................................... 56
+       6.3.3          Consequences................................................................................................................ 59
+    6.4   Possible restrictions in Union or Member States law based on Article 23 GDPR and
+    derogations ....................................................................................................................................... 60
+Annex – Flowchart ................................................................................................................................. 61
+
+
+
+
+                                                                            7
+Adopted
+
+     The European Data Protection Board
+
+     Having regard to Article 70 (1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+     the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+     “GDPR”),
+
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 20181,
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+     Whereas the preparatory work of these guidelines involved the collection of inputs from stakeholders,
+     both in writing and at a dedicated stakeholders event on data subject rights, in order to identify the
+     challenges and interpretation issues faced in the application of the relevant provisions of the GDPR;
+
+
+     HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+     1 INTRODUCTION - GENERAL OBSERVATIONS
+1.   In today´s society, personal data are processed by public and private entities, during many activities,
+     for a wide array of purposes and in many different ways. Individuals may often be in a disadvantaged
+     position in terms of understanding how their personal data are processed, including the technology
+     used in the particular case, whether it is by a private or a public entity. In order to protect personal
+     data of natural persons in these situations, the GDPR has created a coherent and robust legal
+     framework, generally applicable with regard to different types of processing, including specific
+     provisions relating to data subject rights.
+
+2.   The right of access to personal data is one of the data subjects’ rights provided for in Chapter III of the
+     GDPR among other rights, such as for instance the right to rectification and erasure, the right to
+     restriction of processing, the right to portability, the right to object or the right of not being subject to
+     automated individual decision making, including profiling2. The right of access by the data subject is
+     enshrined both in the Charter of Fundamental Rights of the EU (the Charter)3 and in Art. 15 GDPR,
+     where it is precisely formulated as the right of access to personal data and to other related information.
+
+3.   Under the GDPR, the right of access consists of three components i.e. confirmation of whether or not
+     personal data are processed, access to it, and information about the processing itself. The data subject
+     can also obtain a copy of the processed personal data, whereas this possibility is not an additional data
+     subject right but the modality of providing access to the data. Thus, the right of access can be
+     understood both as the possibility of the data subject to ask the controller if personal data about him
+     or her are processed and as the possibility to access and to verify these data. The controller shall
 
 
      1
-       As referências a «Estados-Membros» ao longo do presente documento devem ser entendidas como
-     referências a «Estados do EEE».
+       References to “Member States” made throughout this document should be understood as references to “EEA
+     Member States”.
      2
-       Artigos 15.º a 22.º do RGPD.
+       Art. 15 - 22 GDPR.
      3
-       Nos termos do artigo 8.º, n.º 1, da Carta dos Direitos Fundamentais da União Europeia, todas as pessoas têm
-     direito à proteção dos dados de caráter pessoal que lhes digam respeito. O artigo 8.º, n.º 2, segunda frase, da
-     Carta dispõe que todas as pessoas têm o direito de aceder aos dados coligidos que lhes digam respeito e de obter
-     a respetiva retificação.
-                                                            9
-     Adotadas
+       Under Art. 8 para. 1 of the Charter of Fundamental Rights of the European Union Everyone has the right to the
+     protection of personal data concerning him or her. Under Art. 8 para. 2 sentence 2 Everyone has the right of
+     access to data which has been collected concerning him or her and the right to have it rectified.
+                                                           8
+     Adopted
 
-     tratamento propriamente dito. O titular dos dados também pode obter uma cópia dos dados pessoais
-     tratados, embora esta possibilidade não constitua um direito adicional do titular dos dados, mas sim a
-     modalidade de facultar acesso aos dados. Assim, o direito de acesso pode ser entendido como a
-     possibilidade de o titular dos dados perguntar ao responsável pelo tratamento se os dados pessoais
-     que lhe dizem respeito são ou não objeto de tratamento e como a possibilidade de aceder a esses
-     dados e verificá-los. O responsável pelo tratamento deve fornecer ao titular dos dados, a pedido deste,
-     as informações abrangidas pelo âmbito de aplicação do artigo 15.º, n.os 1 e 2, do RGPD.
+     provide to the data subject, on the basis of his/her request, the information falling within the scope of
+     Art. 15(1) and (2) GDPR.
 
-4.   O exercício do direito de acesso realiza-se tanto no quadro da legislação em matéria de proteção de
-     dados, em conformidade com os objetivos dessa legislação, como, mais especificamente, no quadro
-     dos «direitos e […] liberdades fundamentais das pessoas singulares, nomeadamente o seu direito à
-     proteção dos dados pessoais», conforme previsto no artigo 1.º, n.º 2, do RGPD. O direito de acesso é
-     um elemento importante de todo o sistema de proteção de dados.
+4.   The exercise of the right of access is realised both in the framework of data protection law, in
+     accordance with the objectives of data protection law, and more specifically, in the framework of
+     “fundamental rights and freedoms of natural persons and in particular their right to the protection of
+     personal data”, as put forward by Art. 1(2) GDPR. The right of access is an important element of the
+     whole data protection system.
 
-5.   O seu objetivo prático é permitir que as pessoas singulares tenham o controlo sobre os seus próprios
-     dados pessoais4. Para concretizar este objetivo de forma eficaz na prática, o RGPD procura facilitar
-     este exercício através de várias garantias que permitam ao titular dos dados exercer facilmente o
-     direito de acesso, sem restrições desnecessárias, a intervalos razoáveis e sem atrasos ou custos
-     excessivos. Todas estas medidas deverão conduzir a uma aplicação mais eficaz do direito de acesso
-     por parte do titular dos dados na era digital, incluindo também, num sentido mais lato, o direito do
-     titular dos dados de apresentar uma reclamação à autoridade de controlo e o direito a uma tutela
-     jurisdicional efetiva5.
+5.   The practical aim of the right of access is to enable the natural persons to have the control over their
+     own personal data4. In order to realise this goal effectively in practice, the GDPR is aiming to facilitate
+     this exercise by number of guarantees enabling the data subject to exercise this right easily, without
+     unnecessary constraints, at reasonable intervals and without excessive delay or expense. All this
+     should lead to more effective enforcement of the right of access by data subject in the digital age, part
+     of which in a broader sense is also the data subject’s right to file a complaint to the supervisory
+     authority and the right to effective judicial protection5.
 
-6.   No que diz respeito ao desenvolvimento do direito de acesso, no âmbito do quadro jurídico em matéria
-     de proteção de dados, importa salientar que este tem sido um elemento do sistema europeu de
-     proteção de dados desde a sua criação. Em comparação com a Diretiva 95/46/CE, o nível dos direitos
-     dos titulares dos dados estabelecido no RGPD foi aperfeiçoado e reforçado; o mesmo se aplica ao
-     direito de acesso. Uma vez que as modalidades do direito de acesso são agora especificadas de forma
-     mais precisa no RGPD, este direito é também mais instrutivo do ponto de vista da segurança jurídica,
-     tanto para o titular dos dados como para o responsável pelo tratamento. Além disso, a redação
-     específica do artigo 15.º e o prazo específico para o fornecimento de dados ao abrigo do artigo 12.º,
-     n.º 3, do RGPD obrigam o responsável pelo tratamento a preparar-se para os pedidos de informação
-     por parte dos titulares dos dados, mediante a elaboração de procedimentos para o tratamento dos
-     pedidos.
+6.   With regards to the development of the right of access, as part of the data protection legal framework,
+     it should be stressed that it has been an element of the European data protection system from its
+     beginning. In comparison with Directive 95/46/EC, the standard of the data subject rights set out in
+     the GDPR has been both refined and strengthened; this also applies to the right of access. As the
+     modalities of the right of access are now specified more precisely in the GDPR, this right is also more
+     instructive from the point of legal certainty for both the data subject and the controller. Besides, the
+     specific wording of Art. 15, and the precise deadline for the provision of data under Art. 12(3) GDPR,
+     obliges the controller to be prepared for data subject inquiries by developing procedures for handling
+     requests.
 
-7.   O direito de acesso não deve ser considerado isoladamente, uma vez que está estreitamente
-     relacionado com outras disposições do RGPD, em especial com os princípios da proteção de dados,
-     incluindo a lealdade e a licitude do tratamento, a obrigação de transparência do responsável pelo
-     tratamento e outros direitos do titular dos dados previstos no capítulo III do RGPD.
+7.   The right of access should not be seen in isolation as it is closely linked with other provisions of the
+     GDPR, in particular with data protection principles including the fairness and lawfulness of processing,
+     the controller´s transparency obligation and with other data subject rights provided for in Chapter III
+     of the GDPR.
 
-8.   No quadro dos direitos dos titulares dos dados, é igualmente importante salientar a importância do
-     artigo 12.º do RGPD, que estabelece requisitos para as medidas adequadas adotadas pelo responsável
-     pelo tratamento no fornecimento das informações a que se referem os artigos 13.º e 14.º do RGPD, e
-     das comunicações a que se referem os artigos 15.º a 22.º e 34.º do RGPD; estes requisitos especificam,
-     em geral, a forma, o modo e o prazo para as respostas ao titular dos dados e, em especial, para
-     qualquer informação dirigida a crianças.
+8.   In the framework of data subject rights, it is also important both to stress the significance of Art. 12
+     GDPR, which lays down requirements for appropriate measures adopted by the controller in providing
+     the information referred to in Art. 13 and 14 GDPR, and the communications referred to in Art. 15-22
+     and 34 GDPR; these requirements generally specify the form, manner and time limit for the responses
+     to the data subject, and in particular for any information addressed to the child.
+
+9.   The EDPB considers it necessary to provide more precise guidance on how the right of access has to
+     be implemented in different situations. These guidelines aim at analysing the various aspects of the
+     right of access. More particularly, the section hereafter is meant to give a general overview and
+     explanation of the content of the Art. 15 itself whereas the subsequent sections provide deeper
+     analysis of the most frequent practical questions and issues concerning the implementation of the
+     right of access.
 
 
 
 
      4
-         Ver considerandos 7, 68, 75 e 85 do RGPD.
+         See recitals 7, 68, 75 and 85 of the GDPR
      5
-         Ver capítulo VIII, artigos 77.º, 78.º e 79.º, do RGPD.
-                                                                  10
-     Adotadas
+         See Chapter VIII Articles 77, 78 and 79 of the GDPR
+                                                               9
+     Adopted
 
-9.    O CEPD considera necessário fornecer orientações mais precisas sobre o modo de aplicação do direito
-      de acesso em diferentes situações. As presentes orientações visam analisar os vários aspetos do direito
-      de acesso. Mais concretamente, a secção seguinte destina-se a fornecer uma panorâmica geral e uma
-      explicação do conteúdo do artigo 15.º, enquanto as secções subsequentes fornecem uma análise mais
-      aprofundada das questões práticas mais frequentes e das questões relativas à aplicação do direito de
-      acesso.
+      2 AIM OF THE RIGHT OF ACCESS, STRUCTURE OF ARTICLE 15 GDPR
+        AND GENERAL PRINCIPLES
+      2.1 Aim of the right of access
 
+10.   The right of access is thus designed to enable natural persons to have control over personal data
+      relating to them in that it allows them, “to be aware of, and verify, the lawfulness of the processing”6.
+      More specifically, the purpose of the right of access is to make it possible for the data subjects to
+      understand how their personal data are being processed as well as the consequences of such
+      processing, and to verify the accuracy of the data processed without having to justify their intention.
+      In other words, the purpose of the right of access is to provide individuals with sufficient, transparent
+      and easily accessible information about data processing, regardless of the technologies used, and to
+      enable them to verify different aspects of a particular processing activity under the GDPR (e.g.
+      lawfulness, accuracy).
 
-      2 OBJETIVO DO DIREITO DE ACESSO, ESTRUTURA DO ARTIGO 15.º
-        DO RGPD E PRINCÍPIOS GERAIS
-      2.1 Objetivo do direito de acesso
+11.   The interpretation of the GDPR provided in these guidelines is based on the CJEU case law which has
+      been rendered so far. Taking into account the importance of the right of access, related case law can
+      be expected to evolve significantly in future.
 
-10.   O direito de acesso destina-se, assim, a permitir que as pessoas singulares tenham controlo sobre os
-      dados pessoais que lhes dizem respeito, na medida em que lhes permite «tomar conhecimento do
-      tratamento e verificar a sua licitude»6. Mais especificamente, o objetivo do direito de acesso é permitir
-      que os titulares dos dados compreendam a forma como os seus dados pessoais são tratados, bem
-      como as consequências desse tratamento, e verifiquem a exatidão dos dados tratados sem terem de
-      justificar a sua intenção. Por outras palavras, o objetivo do direito de acesso é fornecer às pessoas
-      informações suficientes, transparentes e facilmente acessíveis sobre o tratamento de dados,
-      independentemente das tecnologias utilizadas, e permitir-lhes verificar diferentes aspetos de uma
-      determinada atividade de tratamento ao abrigo do RGPD (por exemplo, licitude e exatidão).
+12.   In accordance with CJEU decisions7, the right of access serves the purpose of guaranteeing the
+      protection of the data subjects’ right to privacy and data protection with regard to the processing of
+      data relating to them 8 and may facilitate the exercise of their rights flowing from, for example, Art. 16
+      to 19, 21 to 22 and 82 GDPR. However, the exercise of the right of access is an individual’s right and
+      not conditional upon the exercise of those other rights and the exercise of the other rights does not
+      depend on the exercise of the right of access.
 
-11.   A interpretação do RGPD prevista nas presentes orientações baseia-se na jurisprudência proferida pelo
-      TJUE até à data. Tendo em conta a importância do direito de acesso, a jurisprudência conexa deverá
-      evoluir significativamente no futuro.
+13.   Given the broad aim of the right of access, the aim of the right of access is not suitable to be analysed
+      as a precondition for the exercise of the right of access by the controller as part of its assessment of
+      access requests. Thus, controllers should not assess “why” the data subject is requesting access, but
+      only “what” the data subject is requesting (see section 3 on the analysis of the request) and whether
+      they hold personal data relating to that individual (see section 4). Therefore, for example, the
+      controller should not deny access on the grounds or the suspicion that the requested data could be
+      used by the data subject to defend themselves in court in the event of a dismissal or a commercial
+      dispute with the controller.9 Regarding limits and restrictions of the right of access, please see section
+      6.
 
-12.   Em conformidade com as decisões do TJUE7, o direito de acesso tem por objetivo garantir a proteção
-      do direito dos titulares dos dados à privacidade e à proteção de dados no que diz respeito ao
-      tratamento dos dados que lhes dizem respeito8 e pode facilitar o exercício dos seus direitos
-      decorrentes, por exemplo, dos artigos 16.º a 19.º, 21.º, 22.º e 82.º do RGPD. No entanto, o exercício
-      do direito de acesso é um direito individual que não está subordinado ao exercício desses outros
-      direitos e o exercício dos outros direitos não depende do exercício do direito de acesso.
+      Example 1: An employer dismissed an individual. One week later, the individual decides to collect
+      evidence to file an unfair dismissal lawsuit against this former employer. With that in mind, the
+      individual writes to the former employer requesting access to all personal data relating to him or her,
+      as data subject, that the former employer, as controller, processes.
 
-13.   Atendendo ao caráter geral do objetivo do direito de acesso, este não deve ser analisado enquanto
-      condição prévia para o exercício do direito de acesso pelo responsável pelo tratamento no âmbito da
-      sua apreciação dos pedidos de acesso. Desta forma, os responsáveis pelo tratamento não deverão
-      avaliar «por que motivo» o titular dos dados pede o acesso, mas apenas «o que pede» (ver secção 3
-      sobre a análise do pedido) e se possuem dados pessoais relativos a essa pessoa (ver secção 4). Por
-      conseguinte, por exemplo, o responsável pelo tratamento não deve negar o acesso com base ou na
-      suspeita de que os dados pedidos possam ser utilizados pelo titular dos dados para se defender em
+      The controller shall not assess the intention of the data subject, and the data subject does not need to
+      provide the controller with the reason for the request. Therefore, if the request fulfils all other
+      requirements (see section 3), the controller needs to comply with the request, unless the request
 
 
       6
-        Considerando 63 do RGPD.
+        Recital 63 GDPR.
       7
-        Acórdão do Tribunal de Justiça de 20 de dezembro de 2017, Peter Nowak/Data Protection Commissioner, C-
-      434/16, ECLI:EU:C:2017:994, e Acórdão do Tribunal de Justiça de 17 de julho de 2014, YS e o., processos
-      apensos C-141/12 e C-372/12, ECLI:EU:C:2014:2081.
+        CJEU, C-434/16, Nowak, and joined cases C-141/12 and C-372/12, YS and Others.
       8
-        Acórdão do Tribunal de Justiça de 20 de dezembro de 2017, Peter Nowak/Data Protection Commissioner, C-
-      434/16, ECLI:EU:C:2017:994, n.º 56.
-
-
-                                                         11
-      Adotadas
-
-      tribunal em caso de despedimento ou litígio comercial com o responsável pelo tratamento9. No que
-      diz respeito aos limites e restrições do direito de acesso, ver secção 6.
-
-      Exemplo 1: um empregador despede uma pessoa. Uma semana mais tarde, essa pessoa decide
-      recolher elementos de prova para intentar uma ação por despedimento sem justa causa contra o
-      antigo empregador. Para este efeito, enquanto titular dos dados, a pessoa escreve ao antigo
-      empregador pedindo acesso a todos os dados pessoais que lhe dizem respeito, que são objeto de
-      tratamento pelo antigo empregador, na qualidade de responsável pelo tratamento.
-
-      O responsável pelo tratamento não deve avaliar a intenção do titular dos dados e este último não
-      precisa de lhe comunicar o motivo do pedido. Por conseguinte, se o pedido preencher todos os outros
-      requisitos (ver secção 3), o responsável pelo tratamento tem de o satisfazer, a menos que se revele
-      manifestamente infundado ou excessivo, em conformidade com o artigo 12.º, n.º 5, do RGPD (ver
-      secção 6.3), o que o responsável pelo tratamento é obrigado a demonstrar.
-
-      Variante: o titular dos dados exerce o direito de acesso aos dados pessoais que lhe dizem respeito
-      durante uma ação judicial. No entanto, o direito nacional do Estado-Membro, que rege a relação
-      laboral entre o responsável pelo tratamento e o titular dos dados, contém determinadas disposições
-      que limitam o âmbito das informações a prestar ou a trocar entre as partes em processos judiciais em
-      curso ou em vias de ser instaurados, que são aplicáveis à ação por despedimento sem justa causa
-      intentada pelo titular dos dados. Neste contexto e desde que as disposições nacionais em causa
-      cumpram os requisitos estabelecidos no artigo 23.º do RGPD10, o titular dos dados não tem direito a
-      receber mais informações do responsável pelo tratamento do que as previstas nas disposições de
-      direito nacional do Estado-Membro que regem o intercâmbio de informações entre as partes em
-      litígios judiciais.
-
-14.   Embora o objetivo do direito de acesso seja amplo, o TJUE também demonstrou os limites do âmbito
-      de aplicação da legislação em matéria de proteção de dados e do direito de acesso. Por exemplo, o
-      TJUE considerou que o objetivo do direito de acesso garantido pela legislação da UE em matéria de
-      proteção de dados deve ser distinguido do objetivo do direito de acesso aos documentos públicos
-      estabelecido pela legislação nacional e da UE, que visa «a transparência do processo decisório das
-      autoridades públicas [e] promover boas práticas administrativas»11, um objetivo que não é perseguido
-      pela legislação em matéria de proteção de dados. O TJUE concluiu que o direito de acesso aos dados
-      pessoais é aplicável independentemente de se aplicar um outro tipo de direito de acesso com um
-      objetivo diferente, como no contexto de um procedimento de exame.
-
-      2.2 Estrutura do artigo 15.º do RGPD
-
-15.   A fim de responder a um pedido de acesso e assegurar que nenhum dos seus aspetos possa ser
-      ignorado, é necessário, em primeiro lugar, compreender a estrutura do artigo 15.º e os elementos
-      constitutivos do direito de acesso previstos no referido artigo.
-
-
-
-
+        CJEU, C-434/16, Nowak, para. 56.
       9
-        As questões relacionadas com este tema são abordadas num processo atualmente pendente no TJUE (C-
-      307/22).
+        Questions related to this topic are at issue in a case currently pending before the CJEU (C-307/22).
+                                                             10
+      Adopted
+
+      proves to be manifestly unfounded or excessive in accordance with Art. 12 (5) of the GDPR (see section
+      6.3), which the controller is required to demonstrate.
+
+      Variation: The data subject exercises the right of access with regard to the personal data relating to
+      him or her during the course of the lawsuit. However, the national law of the Member State, which
+      governs the employment relation between the controller and the data subject, contains certain
+      provisions that limit the scope of information to be provided to or exchanged between parties to
+      ongoing or prospective legal proceedings, which are applicable to the unfair dismissal lawsuit that the
+      data subject filed. In this context and provided that, these national provisions comply with the
+      requirements posed by Art. 23 GDPR10, the data subject is not entitled to receive more information
+      from the controller than is prescribed by the national law provisions of the Member State governing
+      the information exchange between parties to legal disputes.
+
+14.   Although the aim of the right of access is broad, the CJEU illustrated also the limits of the remit of data
+      protection law and the right of access. For instance, the CJEU found that the objective of the right of
+      access guaranteed by EU data protection law is to be distinguished from that of the right of access to
+      public documents established by EU and national legislation, the latter aiming at, “the greatest possible
+      transparency of the decision-making process of the public authorities and to promote good
+      administrative practices”11, an objective not sought by data protection law. The CJEU concluded that
+      the right of access to personal data applies irrespective of whether a different kind of right of access
+      with a different aim applies, such as in the context of an examination procedure.
+
+      2.2 Structure of Article 15 GDPR
+
+15.   In order to reply to a request for access and to ensure that none of its aspects might be disregarded,
+      it is necessary first to understand the structure of Art. 15 and the constituent components of the right
+      of access stipulated in this Article.
+
+16.   Art. 15 can be broken down into eight different elements as listed in the table below:
+
+      1.          Confirmation as to whether or not the controller is       Art. 15(1), first half of the
+                  processing personal data concerning the requesting person sentence
+      2.          Access to the personal data concerning the requesting             Art. 15(1), second half of the
+                  person                                                            sentence (first part)
+      3.          Access to the following information on the processing:            Art. 15(1), second half of the
+                  (a) the purposes of the processing;                               sentence (second part)
+                  (b) the categories of personal data;
+                  (c) the recipients or categories of recipients;
+                  (d) the envisaged duration of the processing or the criteria
+                  for determining the duration;
+                  (e) the existence of the rights to rectification, erasure,
+                  restriction of processing and objection to processing;
+                  (f) the right to lodge a complaint with a supervisory
+                  authority;
+                  (g) any available information on the source of the data, if
+                  not collected from the data subject;
+
+
       10
-         Diretrizes 10/2020 do CEPD relativas às limitações nos termos do artigo 23.º do RGPD, versão para consulta
-      pública, 18 de dezembro de 2020.
+         EDPB Guidelines 10/2020 on restrictions under article 23 GDPR, version for public consultation, 18 December
+      2020.
       11
-         Acórdão do Tribunal de Justiça de 17 de julho de 2014, YS e o., processos apensos C-141/12 e C-372/12,
-      ECLI:EU:C:2014:2081, n.º 47.
-                                                            12
-      Adotadas
+         CJEU, Joined cases C-141/12 and C-372/12, YS and Others, para. 47.
+                                                           11
+      Adopted
 
-16.   O artigo 15.º pode ser dividido em oito elementos diferentes, conforme enumerados no quadro
-      seguinte:
-
-      1.         Confirmação de que o responsável pelo tratamento está ou Artigo 15.º, n.º 1, primeira
-                 não a tratar dados pessoais que dizem respeito à pessoa  metade da frase
-                 requerente
-      2.         Acesso aos dados pessoais relativos à pessoa requerente       Artigo 15.º, n.º 1, segunda
-                                                                               metade da frase (primeira
-                                                                               parte)
-      3.         Acesso às seguintes informações sobre o tratamento:           Artigo 15.º, n.º 1, segunda
-                 a) As finalidades do tratamento dos dados;                    metade da frase (segunda
-                 b) As categorias dos dados pessoais em questão;               parte)
-                 c) Os destinatários ou categorias de destinatários;
-                 d) A duração prevista do tratamento ou os critérios para
-                 determinar a duração;
-                 e) A existência dos direitos de retificação, apagamento,
-                 limitação do tratamento e oposição ao tratamento;
-                 f) O direito de apresentar reclamação a uma autoridade de
-                 controlo;
-                 g) As informações disponíveis sobre a origem dos dados,
-                 caso não tenham sido recolhidos junto do titular;
-                 h) A existência de decisões automatizadas, incluindo a
-                 definição de perfis e outras informações conexas.
-      4.         Informações sobre as garantias nos termos do artigo 46.º,     Artigo 15.º, n.º 2
-                 caso os dados pessoais sejam transferidos para um país
-                 terceiro ou para uma organização internacional
-      5.         A obrigação de o responsável pelo tratamento fornecer uma Artigo 15.º, n.º 3, primeira
-                 cópia dos dados pessoais em fase de tratamento            frase
-      6.         Exigência, pelo responsável pelo tratamento, do pagamento Artigo 15.º, n.º 3, segunda
-                 de uma taxa razoável tendo em conta os custos                 frase
-                 administrativos, para fornecer outras cópias solicitadas pelo
-                 titular dos dados
-      7.         Fornecimento de informações em formato eletrónico             Artigo 15.º, n.º 3, terceira
-                                                                               frase
-      8.         Tomada em consideração dos direitos e liberdades de           Artigo 15.º, n.º 4
-                 terceiros (outros)
+                     (h) the existence of automated decision-making, including
+                     profiling and other information relating thereto.
+      4.             Information on safeguards pursuant to Art. 46 where the      Art. 15(2)
+                     personal data are transferred to a third country or to an
+                     international organisation
+      5.             The obligation of the controller to provide a copy of the    Art. 15(3), first sentence
+                     personal data undergoing processing
+      6.             Charging of a reasonable fee by the controller based on      Art.15(3), second sentence
+                     administrative costs for any further copies requested by the
+                     data subject
+      7.             Provision of information in electronic form                  Art. 15(3), third sentence
+      8.             Taking into account the rights and freedoms of others        Art. 15(4)
 
 
-      Embora todos os elementos do artigo 15.º, n.os 1 e 2, definam, conjuntamente, o teor do direito de
-      acesso, o artigo 15.º, n.º 3, trata das modalidades de acesso, para além dos requisitos gerais
-      estabelecidos no artigo 12.º do RGPD. O artigo 15.º, n.º 4, complementa os limites e restrições que o
-      artigo 12.º, n.º 5, do RGPD prevê para todos os direitos dos titulares dos dados, com especial destaque
-      para os direitos e liberdades de terceiros (outros) no contexto do acesso.
+      While all elements of Art. 15(1) and (2) together define the content of the right of access, Art.15(3)
+      deals with the modalities of access, in addition to the general requirements set out in Art. 12 GDPR.
+      Art. 15(4) supplements the limits and restrictions that Art. 12(5) GDPR provides for all data subjects’
+      rights with a specific focus on rights and freedoms of others in the context of access.
 
-      2.2.1 Definição do teor do direito de acesso
+      2.2.1 Defining the content of the right of access
 
-17.   O artigo 15.º, n.os 1 e 2, prevê os três aspetos seguintes: em primeiro lugar, a confirmação de que os
-      dados pessoais da pessoa requerente são ou não objeto de tratamento; em caso afirmativo e em
-      segundo lugar, o acesso a esses dados; e, em terceiro lugar, informações sobre o tratamento. Estes
-                                                          13
-      Adotadas
+17.   Art. 15(1) and (2) contain the following three aspects: first, the confirmation whether personal data of
+      the requesting person are being processed, if yes, second, access to those data, and, third, information
+      on the processing. They can be regarded as three different components which together build the right
+      of access.
 
-      aspetos podem ser considerados três componentes diferentes que, em conjunto, constituem o direito
-      de acesso.
+      2.2.1.1      Confirmation as to ‘whether’ or not personal data are being processed
+18.   When making a request for access to personal data, the first thing that the data subjects need to know
+      is whether or not the controller processes data concerning them. Consequently, this information
+      constitutes the first component of the right of access under Art. 15(1). Where the controller does not
+      process personal data relating to the data subject requesting the access, the information to be
+      provided would be limited to confirming that no personal data relating to the data subject are being
+      processed. Where the controller does process data relating to the requesting person, the controller
+      must confirm this fact to this person. This confirmation may be communicated separately, or it may
+      be encompassed as part of the information on the personal data being processed (see below).
 
-      2.2.1.1    Confirmação de que os dados pessoais são ou não objeto de tratamento
-18.   Ao apresentar um pedido de acesso a dados pessoais, os titulares dos dados precisam de saber, antes
-      de mais, se o responsável pelo tratamento trata ou não os dados que lhes dizem respeito. Por
-      conseguinte, esta informação constitui a primeira componente do direito de acesso ao abrigo do
-      artigo 15.º, n.º 1. Se o responsável pelo tratamento não proceder ao tratamento de dados pessoais
-      relativos ao titular dos dados que solicita o acesso, as informações a fornecer limitar-se-ão à
-      confirmação de que não são objeto de tratamento quaisquer dados pessoais relativos ao titular dos
-      dados. Se o responsável pelo tratamento proceder ao tratamento de dados relativos à pessoa
-      requerente, deve confirmar esse facto à pessoa em causa. Esta confirmação pode ser comunicada
-      separadamente ou incluída nas informações sobre os dados pessoais objeto de tratamento (ver infra).
-
-      2.2.1.2    Acesso aos dados pessoais objeto de tratamento
-19.   O acesso aos dados pessoais é a segunda componente do direito de acesso previsto no artigo 15.º,
-      n.º 1, e constitui o núcleo deste direito. Diz respeito ao conceito de dados pessoais, na aceção do
-      artigo 4.º, ponto 1, do RGPD. Para além dos dados pessoais básicos, como o nome e o endereço, esta
-      definição pode abranger uma variedade ilimitada de dados, desde que sejam abrangidos pelo âmbito
-      de aplicação material do RGPD, designadamente no que diz respeito à forma como são tratados
-      (artigo 2.º do RGPD). Entende-se por acesso aos dados pessoais o acesso aos dados pessoais
-      propriamente ditos e não apenas a uma descrição geral dos dados nem a uma simples referência às
-      categorias de dados pessoais tratados pelo responsável pelo tratamento. Se não forem aplicáveis
-      limites ou restrições12, os titulares dos dados têm o direito de aceder a todos os dados tratados que
-      lhes digam respeito, ou a partes dos dados, em função do âmbito do pedido (ver secção 2.3.1). A
-      obrigação de facultar acesso aos dados não depende do tipo ou da origem desses dados; aplica-se na
-      sua plenitude mesmo nos casos em que a pessoa requerente tenha, inicialmente, fornecido os dados
-      ao responsável pelo tratamento, uma vez que visa informar o titular dos dados sobre o tratamento
-      efetivo dos dados em causa pelo responsável pelo tratamento. O âmbito dos dados pessoais ao abrigo
-      do artigo 15.º é explicado em pormenor nas secções 4.1 e 4.2.
-
-      2.2.1.3    Informações sobre o tratamento e os direitos dos titulares dos dados
-20.   A terceira componente do direito de acesso é a informação sobre o tratamento e os direitos dos
-      titulares dos dados que o responsável pelo tratamento deve facultar nos termos do artigo 15.º, n.º 1,
-      alíneas a) a h), e do artigo 15.º, n.º 2. Essas informações podem basear-se em texto retirado, por
-      exemplo, da declaração de confidencialidade do responsável pelo tratamento13 ou do registo das
-      atividades de tratamento do responsável pelo tratamento a que se refere o artigo 30.º do RGPD, mas
-      podem ter de ser atualizadas e adaptadas ao pedido do titular dos dados. O conteúdo e o grau de
-      especificação das informações são aprofundados na secção 4.3.
-
-
+      2.2.1.2      Access to the personal data being processed
+19.   Access to personal data is the second component of the right of access under Art. 15(1) and it
+      constitutes the core of this right. It relates to the notion of personal data as defined by Art. 4(1) GDPR.
+      Aside from basic personal data like name and address, an unlimited variety of data may fall within this
+      definition, provided that they fall under the material scope of the GDPR, notably with regards to the
+      way in which there are processed (Art. 2 GDPR). Access to personal data hereby means access to the
+      actual personal data themselves, not only a general description of the data nor a mere reference to
+      the categories of personal data processed by the controller. If no limits or restrictions apply12, data
+      subjects are entitled to have access to all data processed relating to them, or to parts of the data,
 
 
       12
-        Ver secção 6 das presentes orientações.
+           See section 6 of these Guidelines.
+                                                            12
+      Adopted
+
+      depending on the scope of the request (see sec. 2.3.1). The obligation to provide access to the data
+      does not depend on the type or source of those data. It applies to its full extent even in cases where
+      the requesting person had initially provided the controller with the data, because its aim is to let the
+      data subject know about the actual processing of those data by the controller. The scope of personal
+      data under Art. 15 is explained in detail in sec. 4.1 and 4.2.
+
+      2.2.1.3   Information on the processing and on data subject rights
+20.   The third component of the right of access is the information on the processing and on data subjects’
+      rights that the controller has to provide under Art. 15(1)(a) to (h) and 15(2). Such information could be
+      based on text taken, for example, from the privacy notice of the controller13 or from the controller’s
+      record of processing activities referred to in Art. 30 GDPR, but may have to be updated and tailored to
+      the data subject’s request. The content and degree of specification of the information is further
+      elaborated in section 4.3.
+
+      2.2.2 Provisions on Modalities
+
+21.   Art. 15(3) supplements the requirements for the modalities of the reply to access requests laid down
+      in Art. 12 GDPR by some specifications in context of access requests.
+
+      2.2.2.1   Providing a copy
+22.   Under the first sentence of Art. 15(3) GDPR, the controller shall provide a free copy of the personal
+      data which the processing relates to. The copy therefore refers only to the second component of the
+      right of access («access to the personal data processed», see above). The controller must ensure that
+      the first copy is free of charge, even where it considers the cost of reproduction to be high (example:
+      the cost of providing a copy of the recording of a telephone conversation).
+
+23.   The obligation to provide a copy is not to be understood as an additional right of the data subject, but
+      as modality of providing access to the data. It strengthens the right of access to the data14 and helps
+      to interpret this right because it makes clear, that access to the data under Art. 15(1) comprises
+      complete information on all data and cannot be understood as granting only a summary of the data.
+      At the same time, the obligation to provide a copy is not designed to widen the scope of the right of
+      access: it refers (only) to a copy of the personal data undergoing processing, not necessarily to a
+      reproduction of the original documents (see section 5, para. 152). More generally speaking, there is
+      no additional information to be given to the data subject upon providing a copy: the scope of the
+      information to be contained in the copy is the scope of the access to the data under 15(1) (second
+      component of the right of access as referred to above, see para. 19), which includes all information
+      necessary to enable the data subject to understand and verify the lawfulness of the processing.15
+
+24.   In light of the above, if access to the data in the sense of Art. 15(1) is given by providing a copy, the
+      obligation to provide a copy mentioned under 15(3) is complied with. The obligation to provide a copy
+      serves the objectives of the right of access to allow the data subject to be aware of, and verify the
+      lawfulness of the processing (Recital 63). To achieve these objectives, the data subject will in most
+
+
+
       13
-        Para mais informações, ver Grupo do Artigo 29.º, WP260 rev. 01, 11 de abril de 2018, Orientações relativas à
-      transparência na aceção do Regulamento 2016/679 — aprovadas pelo CEPD (a seguir designadas por
-      «Orientações do GT29 relativas à transparência — aprovadas pelo CEPD»).
-                                                            14
-      Adotadas
-
-      2.2.2 Disposições relativas às modalidades
-
-21.   O artigo 15.º, n.º 3, complementa os requisitos relativos às modalidades de resposta aos pedidos de
-      acesso estabelecidos no artigo 12.º do RGPD, com algumas especificações no contexto dos pedidos de
-      acesso.
-
-      2.2.2.1    Fornecer uma cópia
-22.   Nos termos do artigo 15.º, n.º 3, primeira frase, do RGPD, o responsável pelo tratamento deve
-      fornecer uma cópia gratuita dos dados pessoais a que o tratamento diz respeito. Por conseguinte, a
-      cópia refere-se apenas à segunda componente do direito de acesso («acesso aos dados pessoais objeto
-      de tratamento», ver supra). O responsável pelo tratamento deve assegurar que a primeira cópia é
-      gratuita, mesmo que considere que o custo de reprodução é elevado (exemplo: o custo do
-      fornecimento de uma cópia da gravação de uma conversa telefónica).
-
-23.   A obrigação de fornecer uma cópia não deve ser entendida como um direito adicional do titular dos
-      dados, mas sim como uma modalidade de concessão de acesso aos dados. Reforça o direito de acesso
-      aos dados14 e ajuda a interpretar este direito, uma vez que torna claro que o acesso aos dados nos
-      termos do artigo 15.º, n.º 1, inclui informações completas sobre todos os dados e não pode ser
-      entendido como a concessão de apenas um resumo dos dados. Paralelamente, a obrigação de fornecer
-      uma cópia não se destina a alargar o âmbito do direito de acesso: refere-se (apenas) a uma cópia dos
-      dados pessoais objeto de tratamento e não necessariamente a uma reprodução dos documentos
-      originais (ver secção 5, ponto 152). Em termos mais gerais, não há informações suplementares a
-      prestar ao titular dos dados aquando do fornecimento de uma cópia: o âmbito das informações a
-      incluir na cópia é o âmbito do acesso aos dados nos termos do artigo 15.º, n.º 1 (segunda componente
-      do direito de acesso acima referido; ver ponto 19), que inclui todas as informações necessárias para
-      permitir ao titular dos dados compreender e verificar a licitude do tratamento15.
-
-24.   Tendo em conta o que precede, se o acesso aos dados na aceção do artigo 15.º, n.º 1, for concedido
-      mediante o fornecimento de uma cópia, considera-se cumprida a obrigação de fornecer uma cópia
-      mencionada no artigo 15.º, n.º 3. A obrigação de fornecer uma cópia serve os objetivos do direito de
-      acesso, permitindo que o titular dos dados tome conhecimento do tratamento e verifique a sua licitude
-      (considerando 63). Para alcançar estes objetivos, o titular dos dados terá, na maioria dos casos, de
-      poder visualizar as informações não apenas de forma temporária. Por conseguinte, deverá ter acesso
-      às informações mediante a receção de uma cópia dos dados pessoais.
-
-25.   Atendendo ao que precede, o conceito de cópia deve ser interpretado em sentido lato, incluindo os
-      diferentes tipos de acesso aos dados pessoais, desde que o acesso seja completo (ou seja, inclua todos
-      os dados pessoais solicitados) e passível de ser mantido pelo titular dos dados. Assim, a obrigação de
-      fornecer uma cópia significa que as informações sobre os dados pessoais relativos à pessoa que
-      apresenta o pedido são fornecidas ao titular dos dados de uma forma que lhe permita conservar todas
-      as informações e voltar às mesmas mais tarde.
-
-26.   Apesar desta aceção ampla de cópia e tendo em conta que se trata da principal modalidade através
-      da qual o acesso deve ser facultado, poderão ser mais adequadas, em determinadas circunstâncias,
-
-
-
-
+         See for information on this Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency
+      under Regulation 2016/679 - endorsed by the EDPB (hereinafter “WP29 Guidelines on transparency - endorsed
+      by the EDPB”).
       14
-        A obrigação de fornecer uma cópia não era mencionada na Diretiva 95/46/CE relativa à proteção de dados.
+         The obligation to provide a copy was not mentioned in the Data Protection Directive 95/46/EC.
       15
-        As questões relacionadas com o tema deste ponto são abordadas num processo atualmente pendente no
-      TJUE (C-487/21).
+         Questions related to the topic of this paragraph are at issue in a case currently pending before the CJEU (C-
+      487/21
+                                                            13
+      Adopted
+
+      cases need to see the information not only temporarily. Therefore, the data subject will need to get
+      access to the information by receiving a copy of the personal data.
+
+25.   In view of the above, the notion of a copy has to be interpreted in a broad sense and includes the
+      different kinds of access to personal data as long as it is complete (i.e. it includes all personal data
+      requested) and possible for the data subject to keep. Thus, the requirement to provide a copy means,
+      that the information on the personal data concerning the person who makes the request is provided
+      to the data subject in a way which allows the data subject to retain all of the information and to come
+      back to it.
+
+26.   In spite of this broad understanding of a copy, and regarding that it is the main modality by which
+      access should be provided, under some circumstances other modalities could be appropriate. Further
+      explanations on copies and other modalities of providing access are given in section 5, in particular
+      5.2.2 - 5.2.5.
+
+      2.2.2.2   Providing further copies
+27.   Art. 15(3), second sentence concerns situations where the data subject asks the controller for more
+      than one copy, for example in case the first copy was lost or damaged or the data subject wants to
+      pass on a copy to another person or a Supervisory Authority. On the basis that further copies must be
+      provided by the controller upon request of the data subject, Art. 15(3) rules, that for any further copy
+      requested, the controller may charge a reasonable fee based on administrative costs (Art. 15(3) second
+      sentence).
+
+28.   If the data subject asks for an additional copy after the first request was made, questions may arise on
+      whether this should be regarded as a new request, or whether the data subject wants an additional
+      copy of the data in the sense of Art. 15(3) second sentence, in which case a fee for an additional copy
+      may be charged. The response to these questions depends solely on the content of the request: the
+      request should be interpreted as asking for an additional copy, insofar as, in terms of time and scope,
+      it concerns the same processing of personal data as the former request. If, however, the data subject
+      aims to get information on the data processed at a different point in time or relating to a different set
+      of data from the one initially requested, the right to obtain a free copy according to Art. 15(3), applies
+      once again. This also is valid in cases where the data subject has made a first request shortly
+      beforehand. A data subject may exercise its right of access through a subsequent request and obtain
+      a free copy, unless the request is regarded as excessive under Art. 12(5) with the possibility of charging
+      a reasonable fee in accordance with Art. 12(5)(a) (on excessive character of repetitive requests, see
+      section 6).
+
+      Example 2: A customer submits an access request to a trading company. One year after the reply of
+      the company, the same customer makes a request for access under Art. 15 to the same company.
+      Irrespective of whether there have been new business transactions or other contacts between the
+      parties since the previous request, this second request is to be regarded as a new request. Even if no
+      change in the data processing by the company occurred– which is not necessarily apparent to the data
+      subject – the data subject has the right to get a free copy of the data.
+
+      Variation 1: Even if the customer in the above cases places the new request for example only one week
+      after the first request, this may well be regarded as a new request under Art. 15(1) and (3), first
+      sentence, if it is not to be interpreted as a mere reminder of the first request. Regarding the short
+      interval and depending on the specific circumstances of the new request, its excessiveness according
+      to Art. 12(5) is at issue (see section 6).
+
+
+                                                         14
+      Adopted
+
+      Variation 2: The request for a “new copy” of the information that had already been given in form of a
+      copy in response to a previous request, for example in case that the customer lost the copy previously
+      received, should, as a matter of course, be regarded as a request for an additional copy as it refers to
+      the previous request in scope and time of the processing.
+
+29.   If the data subject repeats a first request for access on the grounds that the answer received was not
+      complete or that no reasons had been given for the refusal, this request is not to be regarded as a new
+      request, since it is merely a reminder of a first unsatisfied request.
+
+30.   Concerning the allocation of costs in cases of requests for an additional copy, Art. 15(3) establishes
+      that the controller may charge a reasonable fee based on the administrative costs that are caused by
+      the request. This means, that the administrative costs are a relevant criterion for fixing the level of the
+      fee. At the same time, the fee should be appropriate, taking into account the importance of the right
+      of access as a fundamental right of the data subject. The controller should not pass on overhead costs
+      or other general expenses to the data subject, but should focus on the specific costs that where caused
+      by providing the additional copy. When organising this process the controller should deploy its human
+      and material resources efficiently in order to keep the costs of the copy low, including if the controller
+      involves external support.
+
+31.   In case the controller decides to charge a fee, the controller should indicate in advance that a fee will
+      be charged and – as accurately as is possible - the amount of costs it is planning to charge to the data
+      subject in order to give the data subject the possibility to determine whether to maintain or to
+      withdraw the request.
+
+      2.2.2.3   Making the information available in a commonly used electronic form
+32.   In the event of a request by electronic form means, information shall be provided by electronic means
+      where possible and unless otherwise requested by the data subject (see Art. 12(3) GDPR). Art. 15(3),
+      third sentence, complements this requirement in the context of access requests by stating, that the
+      controller is in addition obliged to provide the answer in a commonly used electronic form, unless
+      otherwise requested by the data subject. Art. 15(3) presupposes, that for controllers who are able to
+      receive electronic requests it will be possible to provide the reply to the request in a commonly used
+      electronic form (for details see sec. 5.2.5). This provision refers to all the information that needs to be
+      provided in accordance with Art. 15(1) and (2). Therefore, if the data subject submits the request for
+      access by electronic means, all information must be provided in a commonly used electronic form.
+      Questions of format are further developed in section 5. The controller should, as always, deploy
+      appropriate security measures, in particular when dealing with special category of personal data (see
+      below, under 2.3.4 ).
+
+      2.2.3 Possible limitation of the right of access
+
+33.   Finally, in context of the right of access, a specific limitation is foreseen in Art. 15(4). It states, that
+      possible adverse effects on the rights and freedoms of others have to be considered. Questions as to
+      the scope and the consequences of this limitation as well as to additional limits and restrictions set
+      forth in Art. 12(5) GDPR or under Art. 23 GDPR are explained in section 6.
+
+      2.3 General principles of the right of access
+
+34.   When data subjects make a request for access to their data, in principle, the information referred to
+      in Art. 15 GDPR must always be provided in full. Accordingly, where the controller processes data
+      relating to the data subject, the controller shall provide all the information referred to in Art. 15(1)
                                                           15
-      Adotadas
+      Adopted
 
-      outras modalidades. Na secção 5, em especial nas secções 5.2.2 a 5.2.5, são apresentadas mais
-      explicações sobre as cópias e sobre as outras modalidades de concessão de acesso.
+      and, where applicable, the information referred to in Art. 15(2). The controller has to take the
+      appropriate measures to ensure that the information is complete, correct and up-to-date,
+      corresponding as close as possible to the state of data processing at the time of receiving the request16.
+      Where two or more controllers process data jointly, the arrangement of the joint controllers regarding
+      their respective responsibilities with regards to the exercise of data subject’s rights, especially
+      concerning the answer to access requests, does not affect the rights of the data subjects towards the
+      controller to whom they address their request17.
 
-      2.2.2.2    Fornecer outras cópias
-27.   O artigo 15.º, n.º 3, segunda frase, diz respeito a situações em que o titular dos dados solicita ao
-      responsável pelo tratamento mais do que uma cópia, nomeadamente no caso de a primeira ter sido
-      perdida ou danificada ou de o titular dos dados pretender transmitir uma cópia a outra pessoa ou a
-      uma autoridade de controlo. Com base no facto de o responsável pelo tratamento ter de fornecer
-      outras cópias a pedido do titular dos dados, o artigo 15.º, n.º 3, estipula que, para o fazer, o
-      responsável pelo tratamento pode exigir o pagamento de uma taxa razoável tendo em conta os custos
-      administrativos (artigo 15.º, n.º 3, segunda frase).
+      2.3.1 Completeness of the information
 
-28.   Se o titular dos dados solicitar uma cópia adicional após a apresentação do primeiro pedido, pode
-      colocar-se a questão de saber se este deve ser considerado um novo pedido ou se o titular dos dados
-      pretende uma cópia adicional dos dados na aceção do artigo 15.º, n.º 3, segunda frase, caso em que
-      pode ser exigido o pagamento de uma taxa por uma cópia adicional. A resposta a esta questão
-      depende exclusivamente do teor do pedido: o pedido deve ser interpretado como a solicitação de uma
-      cópia adicional, se, em termos de tempo e de âmbito, disser respeito ao mesmo tratamento de dados
-      pessoais que o pedido anterior. Se, no entanto, o titular dos dados pretender obter informações sobre
-      os dados tratados num momento diferente do inicialmente solicitado ou sobre um conjunto de dados
-      diferente do inicialmente solicitado, aplica-se novamente o direito de obter uma cópia gratuita nos
-      termos do artigo 15.º, n.º 3. O mesmo é válido nos casos em que o titular dos dados tenha apresentado
-      um primeiro pedido pouco tempo antes. O titular dos dados pode exercer o seu direito de acesso
-      através de um pedido subsequente e obter uma cópia gratuita, a menos que o pedido seja considerado
-      excessivo nos termos do artigo 12.º, n.º 5, caso em que o responsável pelo tratamento pode exigir o
-      pagamento de uma taxa razoável nos termos do artigo 12.º, n.º 5, alínea a) (sobre o caráter excessivo
-      dos pedidos repetitivos, ver secção 6).
+35.   Data subjects have the right to obtain, with the exceptions mentioned below, full disclosure of all data
+      relating to them (for details on the scope, see section 4.2). Unless explicitly requested otherwise by
+      the data subject, a request to exercise the right of access shall be understood in general terms,
+      encompassing all personal data concerning the data subject18. Limiting access to part of the
+      information may be considered in the following cases:
 
-      Exemplo 2: um cliente apresenta um pedido de acesso junto de uma empresa comercial. Um ano após
-      a resposta da empresa, o cliente apresenta à mesma empresa um pedido de acesso ao abrigo do
-      artigo 15.º. Independentemente de terem existido novas transações comerciais ou outros contactos
-      entre as partes desde o pedido anterior, este segundo pedido deve ser considerado um novo pedido.
-      Mesmo que o tratamento de dados por parte da empresa não tenha sofrido alterações, o que não é
-      necessariamente evidente para o titular dos dados, este tem o direito de obter uma cópia gratuita dos
-      dados.
+a)    The data subject has explicitly limited the request to a subset. In order to avoid providing incomplete
+      information, the controller may consider this limitation of the data subject’s request only if it can be
+      certain that this interpretation corresponds to the wish of the data subject (for further details, see
+      section 3.1.1, para. 51). In principle, the data subject shall not have to repeat the request for the
+      transmission of all the data the data subject is entitled to obtain.
 
-      Variante 1: ainda que, nos casos acima referidos, o cliente apresente o novo pedido, por exemplo,
-      apenas uma semana após o primeiro pedido, este pode ser considerado um novo pedido nos termos
-      do artigo 15.º, n.º 1, e do artigo 15.º, n.º 3, primeira frase, se não for interpretado como um simples
-      lembrete do primeiro pedido. Tendo em conta o curto intervalo de tempo e em função das
-      circunstâncias específicas do novo pedido, está em causa o seu caráter excessivo em conformidade
-      com o artigo 12.º, n.º 5 (ver secção 6).
+b)    In situations where the controller processes a large quantity of data concerning the data subject, the
+      controller may have doubts if a request of access, that is expressed in very general terms, really aims
+      at receiving information on all kind of data being processed or on all branches of activity of the
+      controller in detail. These may arise in particular in situations, where there was no possibility to provide
+      the data subject with tools to specify their request from the beginning or where the data subject did
+      not make use of them. The controller then faces problems of how to give a full answer while
+      simultaneously avoiding the creation of an overflow of information for the data subject that the data
+      subject is not interested in and cannot effectively handle. There may be ways to solve this problem,
+      depending on the circumstances and the technical possibilities, for example by providing self-service
+      tools in online contexts (see section 5 on the layered approach). If such solutions are not applicable, a
+      controller who processes a large quantity of information relating to the data subject may request the
+      data subject to specify the information or processing to which the request relates before the
+      information is delivered (see Recital 63 GDPR). Examples of this may include a company with several
+      fields of activity or a public authority with different administrative units, if the controller found that
+      numerous data relating to the data subject are processed in those branches. In addition, a large
+      quantity of data may be processed by controllers who collect data regarding frequent activities of the
+      data subject over a prolonged time period.
 
-      Variante 2: o pedido de uma «nova cópia» das informações que já tinham sido fornecidas sob a forma
-      de cópia em resposta a um pedido anterior, por exemplo, no caso de o cliente ter perdido a cópia
-      anteriormente recebida, deve, obviamente, ser considerado um pedido de cópia adicional, uma vez
-      que se refere ao pedido anterior em termos de âmbito e momento do tratamento.
+       Example 3: A public authority processes data on the data subject in a number of different
+       departments concerning various contexts. File management and file keeping are partly processed by
+       non-automated means and most of the data is only stored in paper files. Regarding the general
+       wording of the request, the public authority doubts whether the data subject is aware of the extent
 
-29.   Se o titular dos dados repetir um primeiro pedido de acesso com base no facto de a resposta recebida
-      estar incompleta ou de não ter sido indicado qualquer motivo para o indeferimento, esse pedido não
-                                                        16
-      Adotadas
-
-      deve ser considerado um novo pedido, uma vez que constitui apenas um lembrete de um primeiro
-      pedido não satisfeito.
-
-30.   No que diz respeito à imputação de custos nos casos de pedidos de cópia adicional, o artigo 15.º, n.º 3,
-      estabelece que o responsável pelo tratamento pode exigir o pagamento de uma taxa razoável tendo
-      em conta os custos administrativos decorrentes do pedido, o que significa que os custos
-      administrativos são um critério pertinente para a fixação do nível da taxa. Paralelamente, a taxa deve
-      ser adequada, tendo em conta a importância do direito de acesso enquanto direito fundamental do
-      titular dos dados. O responsável pelo tratamento não deve repercutir as despesas gerais ou outros
-      custos gerais sobre o titular dos dados, devendo antes centrar-se nos custos específicos decorrentes
-      do fornecimento da cópia adicional. Ao organizar este processo, o responsável pelo tratamento deve
-      utilizar os seus recursos humanos e materiais de forma eficiente, a fim de minimizar os custos da cópia,
-      inclusive se recorrer a apoio externo.
-
-31.   Caso o responsável pelo tratamento decida exigir o pagamento de uma taxa, deve indicar previamente
-      que será cobrada uma taxa e, com a maior precisão possível, o montante que pretende cobrar ao
-      titular dos dados, a fim de lhe ser dada a possibilidade de determinar se mantém ou retira o pedido.
-
-      2.2.2.3    Disponibilizar as informações num formato eletrónico de uso corrente
-32.   Em caso de pedido apresentado por meios eletrónicos, a informação deve, sempre que possível, ser
-      fornecida por meios eletrónicos, salvo pedido em contrário do titular dos dados (ver artigo 12.º, n.º 3,
-      do RGPD). O artigo 15.º, n.º 3, terceira frase, complementa este requisito no contexto dos pedidos de
-      acesso, estabelecendo que o responsável pelo tratamento é, além disso, obrigado a fornecer a
-      resposta num formato eletrónico de uso corrente, salvo pedido em contrário do titular dos dados.
-      O artigo 15.º, n.º 3, pressupõe que, no caso dos responsáveis pelo tratamento que possam receber
-      pedidos eletrónicos, será possível responder ao pedido num formato eletrónico de uso corrente (para
-      mais pormenores, ver secção 5.2.5). Esta disposição refere-se a todas as informações que devem ser
-      fornecidas em conformidade com o artigo 15.º, n.os 1 e 2. Por conseguinte, se o titular dos dados
-      apresentar o pedido de acesso por meios eletrónicos, todas as informações devem ser fornecidas num
-      formato eletrónico de uso corrente. As questões relativas ao formato são aprofundadas na secção 5.
-      O responsável pelo tratamento deve, como sempre, aplicar medidas de segurança adequadas, em
-      especial quando se trata de uma categoria especial de dados pessoais (ver secção 2.3.4 infra).
-
-      2.2.3 Possível limitação do direito de acesso
-
-33.   Por último, no contexto do direito de acesso, o artigo 15.º, n.º 4, prevê uma limitação específica,
-      obrigando a que sejam tidos em conta os eventuais efeitos negativos nos direitos e liberdades de
-      terceiros (outros). As perguntas sobre o âmbito e as consequências desta limitação, bem como sobre
-      os limites e restrições adicionais estabelecidos no artigo 12.º, n.º 5, do RGPD ou no artigo 23.º do
-      RGPD, são explicadas na secção 6.
-
-      2.3 Princípios gerais do direito de acesso
-
-34.   Quando os titulares dos dados apresentam um pedido de acesso aos seus dados, em princípio, as
-      informações referidas no artigo 15.º do RGPD devem ser sempre fornecidas na íntegra.
-      Por conseguinte, sempre que tratar dados relativos ao titular dos dados, o responsável pelo
-      tratamento deve fornecer todas as informações a que se refere no artigo 15.º, n.º 1, e, se for caso
-      disso, as informações a que se refere o artigo 15.º, n.º 2. O responsável pelo tratamento deve tomar
-      as medidas adequadas para assegurar que as informações estejam completas, corretas e atualizadas,
-      correspondendo o máximo possível ao estado de tratamento dos dados no momento da receção do
-                                                        17
-      Adotadas
-
-      pedido16. Sempre que dois ou mais responsáveis pelo tratamento tratem dados conjuntamente, o
-      acordo entre os mesmos no que respeita às respetivas responsabilidades relativas ao exercício dos
-      direitos do titular dos dados, especialmente no que diz respeito à resposta aos pedidos de acesso, não
-      afeta os direitos dos titulares dos dados em relação ao responsável pelo tratamento a quem dirigem o
-      seu pedido17.
-
-      2.3.1 Exaustividade das informações
-
-35.   Os titulares dos dados têm o direito de obter, com as exceções abaixo mencionadas, a divulgação
-      integral de todos os dados que lhes digam respeito (para mais pormenores sobre o âmbito, ver
-      secção 4.2). Salvo pedido expresso em contrário do titular dos dados, o pedido de exercício do direito
-      de acesso deve ser entendido em termos gerais, abrangendo todos os dados pessoais que lhe digam
-      respeito18. Pode ser ponderada a possibilidade de limitar o acesso a parte da informação nos seguintes
-      casos:
-
-a)    O titular dos dados limitou explicitamente o pedido a um subconjunto. A fim de evitar fornecer
-      informações incompletas, o responsável pelo tratamento só pode considerar esta limitação do pedido
-      do titular dos dados se for possível garantir que esta interpretação corresponde ao desejo do titular
-      dos dados (para mais pormenores, ver secção 3.1.1, ponto 51). Em princípio, o titular dos dados não
-      tem de repetir o pedido de transmissão de todos os dados que tem o direito de obter.
-
-b)    Nas situações em que trata uma grande quantidade de dados relativos ao titular dos dados, o
-      responsável pelo tratamento pode ter dúvidas se um pedido de acesso, expresso em termos muito
-      gerais, visa realmente receber informações sobre todo o tipo de dados objeto de tratamento ou sobre
-      todos os ramos de atividade do responsável pelo tratamento em pormenor. Estas dúvidas podem
-      surgir particularmente em situações em que não tenha sido possível fornecer ao titular dos dados
-      ferramentas para especificar o seu pedido logo à partida ou em que o titular dos dados não tenha
-      utilizado essas ferramentas. O responsável pelo tratamento enfrenta então problemas quanto à forma
-      de dar uma resposta completa, tentando ao mesmo tempo evitar a criação de um fluxo excessivo de
-      informações que não sejam do interesse do titular dos dados e que este não possa tratar eficazmente.
-      Pode haver formas de resolver este problema, dependendo das circunstâncias e das possibilidades
-      técnicas, nomeadamente através da disponibilização de ferramentas de autosserviço em contextos em
-      linha (ver secção 5 sobre a abordagem estruturada por níveis). Se essas soluções não forem aplicáveis,
-      o responsável pelo tratamento que trata uma grande quantidade de informações relacionadas com o
-      titular dos dados pode solicitar a este que especifique as informações ou o tratamento a que o pedido
-      se refere antes de as informações lhe serem fornecidas (ver considerando 63 do RGPD). Pode citar-se,
-      a título de exemplo, uma empresa com vários domínios de atividade ou uma autoridade pública com
-      diferentes unidades administrativas, se o responsável pelo tratamento constatar que nessas sucursais
-      são tratados numerosos dados relativos ao titular dos dados. Além disso, os responsáveis pelo
-      tratamento que recolhem dados relativos a atividades frequentes do titular dos dados durante um
-      período prolongado podem ter a seu cargo o tratamento de uma grande quantidade de dados.
-
-       Exemplo 3: uma autoridade pública trata dados referentes ao titular dos dados em vários
-       departamentos diferentes relativamente a diferentes contextos. A gestão e a conservação de
 
 
       16
-         Para orientações sobre as medidas adequadas, ver secção 5, pontos 123 a 129.
+         For guidance on appropriate measures see sec. 5 para. 123 - 129
       17
-         Orientações 07/2020 do CEPD sobre os conceitos de responsável pelo tratamento e subcontratante no
-      RGPD, ponto 162. Os subcontratantes devem prestar assistência ao responsável pelo tratamento; ibid.,
-      ponto 129.
+         EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR, par. 162f.. Processors
+      have to assist the controller, ibd., para. 129.
       18
-         Para mais informações, ver secção 5.2.3 infra sobre o tema da abordagem estruturada por níveis.
-                                                         18
-      Adotadas
+         For details please see section 5.2.3 below on the topic of layered approach.
+                                                           16
+      Adopted
 
- ficheiros são parcialmente realizadas por meios não automatizados e a maior parte dos dados só é
- armazenada em ficheiros em papel. No que diz respeito à formulação geral do pedido, a autoridade
- pública duvida que o titular dos dados esteja ciente da extensão do pedido, em especial da variedade
- de operações de tratamento que abrangeria, da quantidade de informações e do número de páginas
- que o titular dos dados receberia.
+      of the request, especially the variety of processing operations that it would encompass, the amount
+      of information and the number of pages that the data subject would receive.
 
 
- Exemplo 4: uma grande companhia de seguros recebe um pedido de acesso geral por carta de uma
- pessoa que é cliente há muitos anos. Embora os prazos de eliminação sejam plenamente respeitados,
- a empresa trata efetivamente uma grande quantidade de dados relativos ao cliente, uma vez que o
- tratamento continua a ser necessário para cumprir obrigações contratuais decorrentes da relação
- contratual com o cliente (incluindo, por exemplo, obrigações contínuas, comunicação sobre questões
- controversas com o cliente e com terceiros, etc.) ou para cumprir obrigações legais (dados arquivados
- que devam ser conservados para efeitos fiscais, etc.). A companhia de seguros pode ter dúvidas
- quanto ao facto de o pedido, formulado em termos muito gerais, visar efetivamente abranger todos
- os tipos de dados. Tal pode ser especialmente problemático se a companhia de seguros tiver apenas
- um endereço postal do titular dos dados e, por conseguinte, tiver de enviar as informações em papel.
- No entanto, as mesmas dúvidas podem também ser relevantes para o fornecimento das informações
- por outros meios.
+      Example 4: A big insurance company receives a general access request by letter from a person who
+      has been a customer for many years. Even though deletion periods are fully respected, the company
+      actually processes a vast amount of data concerning the customer, because processing is still
+      necessary to fulfil contractual obligations arising from the contractual relationship with the customer
+      (including for example continuing obligations, communication on controversial issues with the
+      customer and with third parties, …) or to comply with legal obligations (archived data that have to be
+      stored for tax purposes, etc.). The insurance company may have doubts as to whether the request,
+      that was made in very general terms, is really intended to encompass all kinds of those data. This may
+      be especially problematic if the insurance company only has a postal address of the data subject and
+      therefore has to send any information on paper. However, the same doubts may be relevant also
+      when providing the information by other means.
 
-Se, nesses casos, o responsável pelo tratamento decidir solicitar ao titular dos dados que especifique
-o pedido, a fim de cumprir a sua obrigação de facilitar o exercício do direito de acesso (artigo 12.º,
-n.º 2, do RGPD), deve, ao mesmo tempo, fornecer informações úteis sobre as suas operações de
-tratamento suscetíveis de afetar o titular dos dados, informando sobre os ramos relevantes das suas
-atividades, bases de dados, etc.
+     If, in such cases, the controller decides to ask the data subject to specify the request, in order to fulfil
+     its obligation to facilitate the exercise of the right of access (Art. 12(2) GDPR) the controller shall at the
+     same time give meaningful information about its processing operations that could concern the data
+     subject, by informing about relevant branches of its activities, databases etc.
 
-Exemplo 5: numa relação laboral, no caso de um pedido de acesso formulado de forma geral, pode
-não ser por si só claro que o trabalhador pretende receber todos os dados de início de sessão do
-utilizador, dados sobre o acesso a um local de trabalho, dados sobre pagamentos na cantina, dados
-sobre pagamentos salariais, etc. Um pedido de especificação apresentado pelo empregador pode, por
-exemplo, levar à clarificação de que o interesse do trabalhador é compreender ou verificar a quem foi
-transmitida a sua avaliação de desempenho. Sem um pedido de especificação, o trabalhador receberia
-uma grande quantidade de informações, sem ter qualquer interesse na maior parte delas.
-Paralelamente, o empregador teria de fornecer informações sobre os diferentes contextos de
-tratamento que poderiam dizer respeito ao trabalhador, para que este pudesse especificar o seu
-pedido de forma sensata.
+     Example 5: In an employment relationship, in case of a generally formulated request for access, it is
+     not per se clear that the employee wants to receive all user-login data, data on access to a workplace,
+     data on settlements in the canteen, data on salary payments, etc. A request for specification made by
+     the employer could for example lead to the clarification, that the employee’s interest is to understand
+     or verify to whom his performance assessment has been passed on. Without request for specification,
+     the employee would receive a large quantity of information, without having an interest in most of the
+     data. At the same time, the employer would need to give information on the different contexts of
+     processing which could concern the employee in order to allow the employee to specify the request
+     sensibly.
 
-É importante sublinhar que o pedido de especificação não tem por objetivo limitar a resposta ao
-pedido de acesso e não pode ser utilizado para ocultar informações sobre o tratamento ou os dados
-relativos ao titular dos dados. Se o titular dos dados, a quem for solicitado que especifique o âmbito
-do seu pedido, confirmar que pretende obter todos os dados pessoais que lhe digam respeito, o
-responsável pelo tratamento tem, evidentemente, de os fornecer na íntegra.
+     It is important to underline that the request for specification shall not aim at a limitation of the reply
+     to the access request and shall not be used to hide any information on the data or the processing
+     concerning the data subject. If the data subject, who has been asked to specify the scope of its request,
+     confirms to seek all personal data concerning him or her, the controller of course has to provide it in
+     full.
 
-Em qualquer caso, o responsável pelo tratamento deve sempre poder demonstrar que a forma de
-tratar o pedido visa conferir o efeito mais amplo possível ao direito de acesso e que está em
-conformidade com a sua obrigação de facilitar o exercício dos direitos dos titulares dos dados
-(artigo 12.º, n.º 2, do RGPD). Sob reserva destes princípios, o responsável pelo tratamento pode
-aguardar a resposta do titular dos dados antes de lhe fornecer os dados adicionais que pretende, se
-tiver fornecido ao titular dos dados uma panorâmica clara de todas as operações de tratamento que
-lhe possam dizer respeito, incluindo, em especial, aquelas com que o titular dos dados poderia não
-contar, se tiver também dado acesso a todos os dados que o titular dos dados pretendia claramente e
-                                                19
-Adotadas
+     In any case, the controller should always be able to demonstrate, that the way to handle the request
+     aims to give the broadest effect to the right of access and that it is in line with its obligation to facilitate
+     the exercise of data subjects rights (Art. 12(2) GDPR). Subject to these principles, the controller may
+     await the answer of the data subject before providing additional data according to the data subject’s
+     wish, if the controller has provided the data subject with a clear overview of all processing operations
+     that could concern the data subject, including especially those that the data subject might not have
+     expected, if the controller has also given access to all data that the data subject clearly aimed for, and
+     if, furthermore, this information has been combined with clear indication of how to get access to the
+     remaining parts of the processed data.
 
-      se, além disso, essas informações tiverem sido combinadas com uma indicação clara da forma de obter
-      acesso às restantes partes dos dados tratados.
+c)   Exceptions or restrictions to the right of access apply (see below in section 6). In such cases, the
+     controller should carefully check to which parts of the information the exception relates to and provide
+     all information that is not excluded by the exception. For example, confirmation of the processing of
+     personal data itself (component 1) may not be affected by the exception. As a result, information has
+                                                         17
+     Adopted
 
-c)    Aplicam-se exceções ou limitações do direito de acesso (ver secção 6 infra). Nesses casos, o
-      responsável pelo tratamento deve verificar cuidadosamente a que partes da informação a exceção diz
-      respeito e fornecer todas as informações que não sejam excluídas pela exceção. Por exemplo, a
-      confirmação do tratamento de dados pessoais propriamente dito (componente 1) não pode ser
-      afetada pela exceção. Consequentemente, devem ser fornecidas informações sobre todos os dados
-      pessoais e todas as informações referidas no artigo 15.º, n.os 1 e 2, que não sejam abrangidas pela
-      exceção ou limitação.
+      to be provided about all the personal data and all the information referred to in Art. 15(1) and (2) that
+      are not concerned by the exception or the restriction.
 
-      2.3.2 Exatidão das informações
+      2.3.2 Correctness of the information
 
-36.   A cópia dos dados pessoais fornecida ao titular dos dados deve incluir as informações concretas ou os
-      dados pessoais detidos sobre o mesmo. Tal inclui a obrigação de prestar informações sobre dados
-      inexatos ou sobre o tratamento de dados que não seja ou tenha deixado de ser lícito. O titular dos
-      dados pode, por exemplo, utilizar o direito de acesso para obter informações sobre a origem de dados
-      inexatos que estão a ser distribuídos entre diferentes responsáveis pelo tratamento. Se o responsável
-      pelo tratamento corrigisse dados inexatos antes de informar o titular dos dados sobre os mesmos, o
-      titular dos dados ficaria privado dessa possibilidade. O mesmo se aplica em caso de tratamento ilícito.
-      A possibilidade de tomar conhecimento de um tratamento ilícito relativo ao titular dos dados é uma
-      das principais finalidades do direito de acesso. A obrigação de informar sobre o estado inalterado do
-      tratamento não prejudica a obrigação do responsável pelo tratamento de pôr termo ao tratamento
-      ilícito ou de corrigir dados inexatos. Na secção seguinte, responde-se às questões relativas à ordem
-      pela qual essas obrigações devem ser cumpridas.
+36.   The information included in the copy of the personal data given to the data subject has to comprise
+      the actual information or personal data held about the data subject. This includes the obligation to
+      give information about data that are inaccurate or about data processing which is not or no longer
+      lawful. The data subject may for example use the right of access to find out about the source of
+      inaccurate data being circulated between different controllers. If the controller corrected inaccurate
+      data before informing the data subject about it, the data subject would be deprived of this possibility.
+      The same applies in case of unlawful processing. The possibility to know about unlawful processing
+      concerning the data subject is one of the main purposes of the right of access. The obligation to inform
+      about the unchanged state of processing is without prejudice to the obligation of the controller to end
+      unlawful processing or to correct inaccurate data. Questions about the order in which those obligations
+      should be fulfilled, are answered in the following.
 
-      2.3.3 Momento de referência da avaliação
+      2.3.3 Time reference point of the assessment
 
-37.   A avaliação dos dados objeto de tratamento deve refletir o máximo possível a situação em que o
-      responsável pelo tratamento recebe o pedido e a resposta deve abranger todos os dados disponíveis
-      nesse momento. Tal significa que o responsável pelo tratamento deve tentar obter informações sobre
-      todas as atividades de tratamento de dados relacionadas com o titular dos dados sem demora
-      injustificada. Por conseguinte, os responsáveis pelo tratamento não são obrigados a fornecer dados
-      pessoais que trataram no passado e que já não estejam ao seu dispor19. Por exemplo, o responsável
-      pelo tratamento pode ter apagado dados pessoais em conformidade com a sua política de conservação
-      de dados e/ou disposições estatutárias, não estando assim em condições de fornecer os dados
-      pessoais solicitados. Neste contexto, importa recordar que o período de conservação dos dados deve
-      ser fixado em conformidade com o artigo 5.º, n.º 1, alínea e), do RGPD, uma vez que a conservação de
-      dados deve ser objetivamente justificável.
+37.   The assessment of the data being processed shall reflect as close as possible the situation when the
+      controller receives the request and the response should cover all data available at that point in time.
+      This means that the controller has to try to find out about all the data processing activities relating to
+      the data subject without undue delay. Controllers are thus not required to provide personal data,
+      which they processed in the past but which they no longer have at their disposal19. For instance, the
+      controller may have deleted personal data in accordance with its data retention policy and/or statutory
+      provisions and may thus no longer be able to provide the requested personal data. In this context, it
+      should be recalled that the length of time for which the data are stored should be fixed in accordance
+      with Art. 5(1)(e) GDPR, as any retention of data must be objectively justifiable.
 
-38.   Por outro lado, o responsável pelo tratamento deve aplicar antecipadamente as medidas necessárias
-      para facilitar o exercício do direito de acesso e tratar esses pedidos o mais rapidamente possível (ver
-      artigo 12.º, n.º 3) e antes de os dados terem de ser apagados. Por conseguinte, no caso de períodos
+38.   At the same time, the controller shall implement in advance the necessary measures in order to
+      facilitate the exercise of the right of access and to deal with such requests as soon as possible (see
+      Art. 12(3)) and before the data will have to be deleted. Therefore, in the case of short retention
+      periods, the measures taken to answer the request should be adapted to the appropriate retention
+      period in order to facilitate the exercise of the right of access and to avoid the permanent impossibility
+      of providing access to the data processed at the moment of the request20. In some cases it may
+      nevertheless not be possible to reply to a request before the time the data are scheduled for deletion.
+      For example, if in course of replying to a request as promptly as possible, a controller retrieves personal
+      data that were scheduled to be deleted the following day, the controller may need some additional
+      time to consider whether redactions need to be made to protect the freedoms of others before
+      releasing a copy of the personal data to the requester. If the data have been retrieved within the
 
 
       19
-         Ver, para o efeito, mais esclarecimentos na secção 4 das presentes orientações, bem como no Acórdão do
-      Tribunal de Justiça de 7 de maio de 2009, College van burgemeester en wethouders van Rotterdam/M. E. E.
-      Rijkeboer, C-553/07, ECLI:EU:C:2009:293, relativamente ao direito de acesso à informação sobre os destinatários
-      ou categorias de destinatários no que respeita ao passado.
-
-
-                                                            20
-      Adotadas
-
-      de conservação curtos, as medidas tomadas para responder ao pedido devem ser adaptadas ao
-      período de conservação adequado, a fim de facilitar o exercício do direito de acesso e evitar a
-      impossibilidade permanente de conceder acesso aos dados objeto de tratamento no momento do
-      pedido20. Em alguns casos, pode, no entanto, não ser possível responder a um pedido antes da data
-      prevista para a eliminação dos dados. Por exemplo, se, no decurso da resposta a um pedido o mais
-      rapidamente possível, um responsável pelo tratamento extrair dados pessoais cuja eliminação estava
-      prevista para o dia seguinte, o responsável pelo tratamento pode necessitar de algum tempo adicional
-      para ponderar se é necessário rasurar os dados a fim de proteger as liberdades de terceiros (outros)
-      antes de transmitir uma cópia dos dados pessoais ao requerente. Se os dados tiverem sido extraídos
-      dentro do período de conservação previsto, o responsável pelo tratamento pode continuar a tratar
-      esses dados para cumprir a sua obrigação de responder ao pedido. Nesses casos, o tratamento pode
-      basear-se no artigo 6.º, n.º 1, alínea c), em conjugação com o artigo 15.º do RGPD, e a sua duração tem
-      de cumprir os requisitos do artigo 12.º, n.º 3, do RGPD21. A aplicação desta base jurídica limita-se ao
-      tratamento dos dados identificados como necessários para responder ao pedido concreto e não deve
-      ser utilizada como justificação para prorrogações gerais dos períodos de conservação.
-
-39.   Além disso, o responsável pelo tratamento não pode eximir-se deliberadamente à obrigação de
-      fornecer os dados pessoais solicitados, apagando ou alterando os dados pessoais em resposta a um
-      pedido de acesso (ver secção 2.3.2). Se, no decurso do tratamento do pedido de acesso, o responsável
-      pelo tratamento detetar dados inexatos ou um tratamento ilícito, deve avaliar o estado do tratamento
-      e informar o titular dos dados em conformidade antes de dar cumprimento às suas outras obrigações.
-      No seu próprio interesse, a fim de evitar a necessidade de uma nova comunicação a este respeito, bem
-      como de respeitar o princípio da transparência, o responsável pelo tratamento deve acrescentar
-      informações sobre as retificações ou eliminações subsequentes.
-
-      Exemplo 6: ao responder a um pedido de acesso, o responsável pelo tratamento verifica que uma
-      candidatura do titular dos dados a um cargo na empresa do responsável pelo tratamento foi
-      conservada para além do período de conservação. Neste caso, o responsável pelo tratamento não
-      pode apagar primeiro os dados e, em seguida, responder ao titular dos dados de que não são tratados
-      quaisquer dados (relativos à candidatura). Tem de dar primeiro acesso aos dados e apagá-los
-      posteriormente. A fim de evitar um pedido subsequente de apagamento, recomenda-se que sejam
-      acrescentadas informações sobre o facto e o momento da eliminação.
-
-      Tendo em vista o respeito do princípio da transparência, o responsável pelo tratamento deve informar
-      o titular dos dados quanto ao momento específico do tratamento a que se refere a sua resposta. Em
-      alguns casos, nomeadamente em contextos de atividades de comunicação frequentes, pode ocorrer
-      um tratamento adicional ou alterações dos dados entre este momento de referência, em que o
-      tratamento foi apreciado, e a resposta do responsável pelo tratamento. Se o responsável pelo
-      tratamento tiver conhecimento dessas alterações, recomenda-se a inclusão de informações sobre as
-      mesmas, bem como de informações sobre o tratamento adicional necessário para responder ao
-      pedido.
-
-
-
+         See, to that effect, further clarifications in section 4 of these guidelines, as well as in Court of Justice of the
+      European Union, C-553/07, 7 May 2009, College van burgemeester en wethouders van Rotterdam v M. E. E.
+      Rijkeboer on a right of access to information on the recipients or categories of recipients in respect of the past.
       20
-        Por exemplo, a fim de facilitar uma ação rápida, pode ser equacionada a aplicação de uma ferramenta de
-      autosserviço que permita ao titular dos dados aceder facilmente aos dados pessoais solicitados, bem como de
-      um sistema de notificação que alerte o responsável pelo tratamento para um pedido relativo a dados pessoais
-      com períodos de conservação curtos.
+         For example, the implementation of a self-service tool enabling the data subject to easily access the
+      requested personal data and a notification system alerting the controller about a request that relates to
+      personal data with short retention periods could be considered in order to facilitate prompt action.
+
+
+
+                                                               18
+      Adopted
+
+      scheduled retention period, the controller may continue to process those data for the purpose to fulfill
+      its obligation to answer the request. Processing in such cases may be based on Art. 6(1)(c) in
+      combination with Article 15 GDPR and its duration has to comply with the requirements of Art. 12(3)
+      GDPR21. The application of this legal basis is limited to processing of the data identified to be necessary
+      for answering the concrete request and is not to be used as a justification for general extentions of
+      retention periods.
+
+39.   Furthermore, the controller shall not deliberately escape the obligation to provide the requested
+      personal data by erasing or modifying personal data in response to a request for access (see 2.3.2). If,
+      in the course of processing the access request, the controller discovers inaccurate data or unlawful
+      processing, the controller has to assess the state of the processing and to inform the data subject
+      accordingly before complying with its other obligations. In its own interest, to avoid the need of further
+      communication on this as well as to be compliant with the transparency principle, the controller should
+      add information about the subsequent rectifications or deletions.
+
+      Example 6: On the occasion of replying to an access request a controller realises, that an application
+      of the data subject for a vacancy in the company of the controller has been stored beyond the retention
+      period. In this case the controller cannot delete first and then reply to the data subject that no data
+      (concerning the application) is processed. It has to give access first and delete the data afterwards. In
+      order to prevent a subsequent request for erasure it would then be recommended to add information
+      about the fact and time of the deletion.
+
+      In order to comply with the principle of transparency, controllers should infom the data subject as of
+      the specific point in time of the processing to which the response of the controller refers. In some
+      cases, for example in contexts of frequent communication activities, additional processing or
+      modifications of the data may occur between this time reference point, at which the processing was
+      assessed, and the response of the controller. If the controller is aware of such changes, it is
+      recommended to include information about those changes as well as information about additional
+      processing necessary to reply to the request.
+
+      2.3.4 Compliance with data security requirements
+
+40.   Since communicating and making available personal data to the data subject is a processing operation,
+      the controller is always obliged to implement appropriate technical and organisational measures to
+      ensure a level of security appropriate to the risk of the processing (see Art. 5(1)(f), 24 and 32 GDPR).
+      This applies independently of the modality in which access is provided. In case of non-electronic
+      transmission of the data to the data subject, depending on the risks that are presented by the
+      processing, the controller may consider using registered mail or, alternatively, to offer, but not oblige,
+      the data subject to collect the file against signature directly from one of the controller's
+      establishments. If, in line with Art. 12(1) and (3), information is provided by electronic means, the
+      controller shall choose electronic means that comply with data security requirements. Also in case of
+      providing a copy of the data in a commonly used electronic form (see Art. 15(3)), the controller shall
+      take into account data security requirements when choosing the means of how to transmit the
+      electronic file to the data subject. This may include applying encryption, password protection etc. In
+      order to facilitate access to the encrypted data, the controller should also ensure that appropriate
+      information is made available so that the data subject can access the decrypted information. In cases
+
 
       21
-        Tal não prejudica o posterior tratamento de dados para fins de prova em relação ao tratamento do pedido
-      de acesso durante um período de tempo adequado.
-                                                          21
-      Adotadas
+        This is without prejudice to subsequent processing of data for evidence purposes in connection with the
+      handling of the access request for an appropriate period of time.
+                                                           19
+      Adopted
 
-      2.3.4 Cumprimento dos requisitos de segurança de dados
-
-40.   Uma vez que a comunicação e disponibilização de dados pessoais ao titular dos dados constitui uma
-      operação de tratamento, o responsável pelo tratamento é sempre obrigado a adotar medidas técnicas
-      e organizativas adequadas para garantir um nível de segurança adequado ao risco do tratamento [ver
-      artigo 5.º, n.º 1, alínea f), e artigos 24.º e 32.º do RGPD]. Tal aplica-se independentemente da
-      modalidade em que o acesso é facultado. Em caso de transmissão não eletrónica dos dados ao
-      respetivo titular, em função dos riscos apresentados pelo tratamento, o responsável pelo tratamento
-      pode equacionar a possibilidade de utilizar correio registado ou, em alternativa, de oferecer, sem
-      caráter obrigatório, ao titular dos dados a opção de recolher o ficheiro contra assinatura diretamente
-      num dos estabelecimentos do responsável pelo tratamento. Se, em conformidade com o artigo 12.º,
-      n.os 1 e 3, as informações forem fornecidas por meios eletrónicos, o responsável pelo tratamento deve
-      escolher meios eletrónicos que cumpram os requisitos de segurança de dados. Também no caso de
-      fornecer uma cópia dos dados num formato eletrónico de uso corrente (ver artigo 15.º, n.º 3), o
-      responsável pelo tratamento deve ter em conta os requisitos de segurança de dados ao escolher os
-      meios de transmissão do ficheiro eletrónico ao titular dos dados. Tal pode incluir a aplicação de
-      cifragem, proteção por chave de acesso, etc. A fim de facilitar o acesso aos dados encriptados, o
-      responsável pelo tratamento deve igualmente assegurar a disponibilização de informações adequadas,
-      para que o titular dos dados possa aceder às informações desencriptadas. Nos casos em que os
-      requisitos de segurança de dados exijam cifragem de ponta a ponta das mensagens eletrónicas, mas o
-      responsável pelo tratamento só possa enviar uma mensagem de correio eletrónico normal, este terá
-      de utilizar outros meios, como o envio de um dispositivo de memória USB por carta (registada) ao
-      titular dos dados.
+      where data security requirements would necessitate end-to-end encryption of electronic mails but the
+      controller would only be able to send a normal e-mail, the controller will have to use other means,
+      such as sending a USB-stick by (registered) letter post to the data subject.
 
 
-      3 CONSIDERAÇÕES GERAIS RELATIVAS À APRECIAÇÃO DOS PEDIDOS
-        DE ACESSO
-      3.1 Introdução
+      3 GENERAL CONSIDERATIONS REGARDING THE ASSESSMENT OF
+        ACCESS REQUESTS
+      3.1 Introduction
 
-41.   Quando receber pedidos de acesso a dados pessoais, o responsável pelo tratamento deve apreciar
-      cada pedido individualmente. O responsável pelo tratamento deve ter em conta, nomeadamente, as
-      seguintes questões, aprofundadas nos pontos que se seguem: se o pedido diz respeito a dados
-      pessoais relacionados com a pessoa requerente e quem é o requerente. Esta secção visa clarificar quais
-      os elementos do pedido de acesso que o responsável pelo tratamento deve ter em conta ao realizar a
-      sua apreciação e debater possíveis cenários para essa apreciação, bem como as suas consequências.
-      Ao apreciar um pedido de acesso a dados pessoais, o responsável pelo tratamento deve ter igualmente
-      em conta, nos termos do artigo 12.º, n.º 2, do RGPD, a obrigação de facilitar o exercício dos direitos
-      do titular dos dados, tendo simultaneamente em mente a segurança adequada dos dados pessoais22.
+41.   When receiving requests for access to personal data, the controller must assess each request
+      individually. The controller shall take into consideration, inter alia, the following issues, further
+      developed in the following paragraphs: whether the request concerns personal data linked to the
+      requesting person and who the requesting person is. This section aims to clarify what elements of the
+      request for access the controller should take into account when carrying out its assessment and to
+      discuss possible scenarios for such an assessment as well as its consequences. The controller, when
+      assessing a request for access to personal data, shall also take into account, pursuant to Art. 12(2)
+      GDPR, the obligation to facilitate the exercise of the data subject rights, while keeping in mind the
+      appropriate security of the personal data22.
 
+42.   Therefore, the controllers should be proactively ready to handle the requests for access to personal
+      data. This means that the controller should be prepared to receive the request, assess it properly (this
+      assessment is the subject of this section of the guidelines) and provide an appropriate reply without
+      undue delay to the requesting person. The way the controllers will prepare themselves for the exercise
+      of access requests should be adequate and proportionate and depend on the nature, scope, context
+      and purposes of processing as well as the risks to the rights and freedoms of natural persons, in
+      accordance with Art. 24 GDPR. Depending on the particular circumstances, the controllers may, for
+      example, be required to implement an appropriate procedure, the implementation of which should
+      guarantee the security of the data without hindering the exercise of the data subject’s rights.
 
+      3.1.1 Analysis of the content of the request
+
+43.   This issue can be more specifically assessed by asking the following questions.
+
+               a) Does the request concern personal data?
+
+44.   Under the GDPR, the scope of the request shall only cover personal data23. Therefore, any request for
+      information about other issues, including general information about the controller, its business models
+      or its processing activities not related to personal data, is not to be considered as a request made
+      pursuant to Art. 15 GDPR. Additionally, a request for information about anonymous data or data that
 
 
       22
-        O responsável pelo tratamento deve garantir a segurança adequada dos dados pessoais, em conformidade
-      com o princípio da integridade e da confidencialidade [artigo 5.º, n.º 1, alínea f), do RGPD], adotando medidas
-      técnicas e organizativas adequadas, conforme referido no artigo 32.º do RGPD e aprofundado no artigo 24.º do
-      RGPD. O responsável pelo tratamento deve poder demonstrar que assegura um nível adequado de proteção dos
-      dados, em consonância com o princípio da responsabilidade (ver também: Parecer 3/2010 do Grupo do
-      Artigo 29.º sobre o princípio da responsabilidade, adotado em 13 de julho de 2010, 00062/10/PT WP 173, e
-      Orientações 07/2020 do CEPD sobre os conceitos de responsável pelo tratamento e subcontratante no RGPD).
-                                                            22
-      Adotadas
-
-42.   Por conseguinte, os responsáveis pelo tratamento devem estar proativamente preparados para tratar
-      os pedidos de acesso a dados pessoais. Tal significa que devem estar preparados para receber o
-      pedido, para apreciá-lo corretamente (esta apreciação é objeto da presente secção das orientações) e
-      para fornecer uma resposta adequada à pessoa requerente sem demora injustificada. A forma como
-      os responsáveis pelo tratamento se prepararão para o exercício dos pedidos de acesso deve ser
-      adequada e proporcionada, em função da natureza, do âmbito, do contexto e das finalidades do
-      tratamento, bem como dos riscos para os direitos e liberdades das pessoas singulares, em
-      conformidade com o artigo 24.º do RGPD. Dependendo das circunstâncias específicas, os responsáveis
-      pelo tratamento podem, por exemplo, ser obrigados a aplicar um procedimento adequado, cuja
-      aplicação deverá garantir a segurança dos dados sem prejudicar o exercício dos direitos do titular dos
-      dados.
-
-      3.1.1 Análise do teor do pedido
-
-43.   Esta questão pode ser avaliada mais especificamente através das perguntas que se seguem.
-
-              a) O pedido diz respeito a dados pessoais?
-
-44.   Nos termos do RGPD, o âmbito do pedido abrange apenas os dados pessoais23. Por conseguinte,
-      qualquer pedido de informações sobre outras questões, incluindo informações gerais sobre o
-      responsável pelo tratamento, os seus modelos de negócio ou as suas atividades de tratamento não
-      relacionadas com dados pessoais, não deve ser considerado um pedido apresentado nos termos do
-      artigo 15.º do RGPD. Além disso, um pedido de informações sobre dados anónimos ou que não digam
-      respeito à pessoa requerente ou à pessoa em nome da qual a pessoa autorizada apresentou o pedido
-      não estará dentro do âmbito do direito de acesso. Esta questão será analisada em maior pormenor na
-      secção 4.
-
-45.   Ao contrário dos dados anónimos (que não são dados pessoais), os dados pseudonimizados, que
-      podem ser atribuídos a uma pessoa singular mediante a utilização de informações suplementares, são
-      dados pessoais24. Assim, os dados pseudonimizados que podem ser associados a um titular de dados
-      — por exemplo, quando o titular dos dados fornece o respetivo identificador que permite a sua
-      identificação, ou quando o responsável pelo tratamento é capaz de ligar os dados à pessoa requerente
-      pelos seus próprios meios — devem ser considerados abrangidos pelo pedido25.
-
-              b) O pedido diz respeito à pessoa requerente (ou à pessoa em nome da qual a pessoa
-                 autorizada apresenta o pedido)?
-
-46.   Regra geral, um pedido só pode dizer respeito aos dados da pessoa que apresenta o pedido. O acesso
-      aos dados de outras pessoas só pode ser solicitado mediante autorização adequada26.
-
-      Exemplo 7: o titular dos dados X trabalha como gestor de departamento de uma empresa que
-      disponibiliza lugares de estacionamento para os seus gestores num parque de estacionamento da
-
-
+         The controller shall ensure appropriate security of the personal data, in accordance with the integrity and
+      confidentiality principle (Art. 5(1)(f) GDPR), by implementing appropriate technical and organisational measures,
+      as referred to in Art. 32 GDPR and elaborated in Art. 24 GDPR. The controller shall be able to demonstrate that
+      it ensures an adequate level of data protection, in line with the accountability principle (see also: Art. 29 Working
+      Party Opinion 3/2010 on the principle of accountability adopted on 13 July 2010, 00062/10/EN WP 173 and EDPB
+      Guidelines nr 07/2020 on the concepts of controller and processor in the GDPR).
       23
-         A menos que o pedido abranja também dados não pessoais indissociavelmente ligados aos dados pessoais
-      do titular dos dados. Para mais explicações, ver ponto 100.
+         Unless the request covers also non-personal data inextricably linked to the personal data of the data subject.
+      For further explanations see para 100.
+
+
+                                                               20
+      Adopted
+
+      does not concern the requesting person or the person on whose behalf the authorised person made
+      the request, will not be within the scope of the right of access. This question will be analysed more in
+      detail in section 4.
+
+45.   Unlike anonymous data (which are not personal data), pseudonymised data, which could be attributed
+      to a natural person by the use of additional information, are personal data24. Thus, pseudonymised
+      data that can be linked to a data subject - e.g. when the data subject provides the respective identifier
+      allowing their identification, or when the controller is able to connect the data to the requesting person
+      by its own means - are to be considered within the scope of the request25.
+
+              b) Does the request relate to the requesting person (or the person on whose behalf the
+                 authorised person makes the request)?
+
+46.   As a general rule, a request may only concern the data of the person making the request. Access to
+      other people’s data can only be requested subject to appropriate authorisation26.
+
+      Example 7: Data subject X works as a department manager for a company that provides parking spaces
+      for its managers at a company car park. Although data subject X has a permanent parking space, when
+      the data subject arrives at the office for their second shift, this space is often already occupied by
+      another car. Since this situation is repetitive, in order to identify the driver who unauthorised occupies
+      its slot, the data subject asks the controller of the video surveillance system covering the office’s
+      parking lot area, for access to the personal data of this driver. In such a case, data subject X’s request
+      will not be a request for access to their personal data, as the request does not concern the requesting
+      person’sdata, but the data of another person - and therefore it should not be considered a request
+      under Art. 15 GDPR.
+
+              c) Do provisions, other than the GDPR, regulating access to a certain category of data apply?
+
+47.   Data subjects are not required to specify the legal basis in their request. However, if the data subjects
+      clarify that their request is based on sectoral legislation or on national legislation regulating the specific
+      issue of access to certain categories of data, and not on the GDPR, such a request shall be examined
+      by the controller in accordance with such sectoral or national rules, where applicable. Often,
+      depending on the relevant national legislation, controllers may be required to provide separate replies,
+      each dealing with the specific requirements set out by the different legislative acts. This is not to be
+      confused with national or EU legislation setting out restrictions on the right of access which needs to
+      be complied with when answering access requests.
+
+48.   If the controller has doubts as to which right the data subject wishes to exercise, it is recommended to
+      ask the data subject making the request to explain the subject matter of the request. Such
+      correspondence with the data subject shall not affect the duty of the controller to act without undue
+      delay27. However, in case of doubts, if the controller asks the data subject for further explanation and
+      receives no response, bearing in mind the obligation to facilitate the exercise of the person’s right of
+      access, the controller should interpret the information contained in the first request and act on this
+      basis. In accordance with the accountability principle, the controller may determine an appropriate
+
+
       24
-         Ver considerando 26 do RGPD. Para mais explicações sobre os conceitos de dados anónimos e de dados
-      pseudonimizados, consultar o Parecer 4/2007 do Grupo do Artigo 29.º sobre o conceito de dados pessoais,
-      pp. 18-21.
+         See Recital 26 GDPR. Further explanations on the concepts of anonymous data and pseudonymised data can
+      be found in WP29 Opinion 4/2007 on the concept of personal data, p. 18-21.
       25
-         Grupo do Artigo 29.º, WP242 rev.01, 5 de abril de 2017, Orientações sobre o direito à portabilidade dos dados
-      — aprovadas pelo CEPD (a seguir designadas por «Orientações do GT29 sobre o direito à portabilidade dos dados
-      — aprovadas pelo CEPD»), p. 9.
+         Art. 29 Working Party, WP242 rev.01, 5 April 2017, Guidelines on the right to data portability - endorsed by
+      the EDPB (hereinafter “WP29 Guidelines on the right to data portability - endorsed by the EDPB”), p. 9.
       26
-         Ver secção 3.4 («Pedidos apresentados através de terceiros/intermediários»).
-                                                            23
-      Adotadas
-
-      empresa. Embora o titular dos dados X disponha de um lugar de estacionamento permanente, quando
-      chega ao escritório para o seu segundo turno, este espaço já está muitas vezes ocupado por outro
-      automóvel. Uma vez que esta situação é recorrente, a fim de identificar o condutor que ocupa
-      indevidamente o seu lugar, o titular dos dados solicita ao responsável pelo tratamento do sistema de
-      videovigilância que cobre a área do parque de estacionamento do escritório o acesso aos dados
-      pessoais desse condutor. Nesse caso, o pedido do titular dos dados X não será um pedido de acesso
-      aos seus dados pessoais, uma vez que o pedido não diz respeito aos dados da pessoa requerente, mas
-      sim aos dados de outra pessoa, pelo que não deve ser considerado um pedido ao abrigo do artigo 15.º
-      do RGPD.
-
-                 c) São aplicáveis outras disposições, para além do RGPD, que regulam o acesso a uma
-                    determinada categoria de dados?
-
-47.   Os titulares dos dados não são obrigados a especificar a base jurídica no seu pedido. No entanto, se os
-      titulares dos dados esclarecerem que o seu pedido se baseia na legislação setorial ou na legislação
-      nacional que regula a questão específica do acesso a determinadas categorias de dados, e não no
-      RGPD, esse pedido deve ser examinado pelo responsável pelo tratamento em conformidade com as
-      regras setoriais ou nacionais em causa, se for caso disso. Muitas vezes, dependendo da legislação
-      nacional aplicável, os responsáveis pelo tratamento podem ser obrigados a fornecer respostas
-      separadas, tratando cada uma delas os requisitos específicos estabelecidos pelos diferentes atos
-      legislativos. Tal não deve ser confundido com a legislação nacional ou da UE que estabelece restrições
-      ao direito de acesso, que deve ser respeitada na resposta aos pedidos de acesso.
-
-48.   Se o responsável pelo tratamento tiver dúvidas quanto ao direito que o titular dos dados pretende
-      exercer, recomenda-se que solicite ao titular dos dados que apresenta o pedido que explique o objeto
-      do pedido. Essa correspondência com o titular dos dados não afeta o dever do responsável pelo
-      tratamento de agir sem demora injustificada27. No entanto, em caso de dúvida, se o responsável pelo
-      tratamento solicitar ao titular dos dados uma explicação adicional e não receber qualquer resposta,
-      tendo em conta a obrigação de facilitar o exercício do direito de acesso da pessoa, o responsável pelo
-      tratamento deve interpretar as informações contidas no primeiro pedido e agir nessa base. Em
-      conformidade com o princípio da responsabilidade, o responsável pelo tratamento pode determinar
-      um prazo adequado durante o qual o titular dos dados pode fornecer explicações adicionais. Ao fixar
-      esse prazo, o responsável pelo tratamento deve deixar tempo suficiente para dar seguimento ao
-      pedido após o seu termo e, por conseguinte, determinar o tempo objetivamente necessário para
-      compilar e fornecer os dados solicitados uma vez fornecida (ou não) a especificação pelo titular dos
-      dados.
-
-49.   Se o pedido for abrangido pelo âmbito de aplicação do RGPD, a existência dessa legislação específica
-      não prevalece sobre a aplicação geral do direito de acesso, conforme previsto no RGPD. Podem existir
-      limitações estabelecidas pelo direito da UE ou pelo direito nacional, quando autorizadas pelo
-      artigo 23.º do RGPD (ver secção 6.4).
-
-                 d) O pedido é abrangido pelo âmbito de aplicação do artigo 15.º?
-
-50.   Importa notar que o RGPD não introduz quaisquer requisitos formais para as pessoas que solicitam o
-      acesso aos dados. A fim de apresentar o pedido de acesso, é suficiente que as pessoas requerentes
-      especifiquem que querem saber que dados pessoais que lhes dizem respeito são objeto de tratamento
-      pelo responsável pelo tratamento. Por conseguinte, o responsável pelo tratamento não pode recusar-
-
-
+         See section 3.4 (“Requests made via third parties/proxies”).
       27
-           Ver mais orientações sobre os prazos na secção 5.3.
-                                                                 24
-      Adotadas
+         See further guidance on the timing in section 5.3.
+                                                            21
+      Adopted
 
-      se a fornecer os dados invocando a falta de indicação da base jurídica do pedido, nomeadamente a
-      falta de uma referência específica ao direito de acesso ou ao RGPD.
+      timeframe during which the data subject may provide further explanation. When fixing such
+      timeframe, the controller should leave enough time to comply with the request after it elapsed and
+      therefore consider how much time is objectively necessary to compile and provide the requested data
+      once the specification was provided (or not) by the data subject.
 
-      Por exemplo, para apresentar um pedido, bastaria que a pessoa requerente indicasse que:
+49.   If the request is in the scope of the GDPR, the existence of such specific legislation does not override
+      the general application of the right of access, as provided by the GDPR. There might be restrictions set
+      out by EU or national law, when allowed by Art. 23 GDPR (see section 6.4).
 
-              deseja obter acesso aos dados pessoais que lhe dizem respeito,
+              d) Does the request fall within the scope of Article 15?
 
-              está a exercer o seu direito de acesso, ou
+50.   It should be noted that the GDPR does not introduce any formal requirements for persons requesting
+      access to data. In order to make the access request, it is sufficient for the requesting persons to specify
+      that they want to know what personal data concerning them the controller processes. Therefore, the
+      controller cannot refuse to provide the data by referring to the lack of indication of the legal basis of
+      the request, especially to the lack of a specific reference to the right of access or to the GDPR.
 
-              quer saber quais as informações que lhe dizem respeito que são objeto de tratamento pelo
-               responsável pelo tratamento.
+      For example, in order to make a request, it would be sufficient for the requesting person to indicate
+      that:
 
-      Importa recordar que os requerentes podem não estar familiarizados com as complexidades do RGPD
-      e que é aconselhável ser tolerante em relação às pessoas que exercem o direito de acesso, em especial
-      quando é exercido por menores. Tal como acima indicado, em caso de dúvida, recomenda-se que o
-      responsável pelo tratamento solicite ao titular dos dados que apresenta o pedido que especifique o
-      objeto do pedido.
+              they wish to obtain access to the personal data concerning them;
 
-               e) Os titulares dos dados pretendem aceder à totalidade ou a parte das informações tratadas
-                  a seu respeito?
+              they are exercising their right of access; or
 
-51.   Adicionalmente, o responsável pelo tratamento deve determinar se os pedidos apresentados pelas
-      pessoas requerentes se referem à totalidade ou a parte das informações tratadas a seu respeito.
-      Qualquer limitação do âmbito de um pedido a uma disposição específica do artigo 15.º do RGPD, por
-      parte dos titulares dos dados, deve ser clara e inequívoca. Por exemplo, se os titulares dos dados
-      exigirem literalmente «informações sobre os dados tratados em relação aos mesmos», o responsável
-      pelo tratamento deve presumir que os titulares dos dados tencionam exercer plenamente o seu direito
-      ao abrigo do artigo 15.º, n.os 1 e 2, do RGPD. Esse pedido não deve ser interpretado no sentido de que
-      os titulares dos dados pretendem receber apenas as categorias de dados pessoais objeto de
-      tratamento e renunciar ao seu direito de receber as informações enumeradas no artigo 15.º, n.º 1,
-      alíneas a) a h). Tal seria diferente, por exemplo, no caso de os titulares dos dados pretenderem, no
-      que diz respeito aos dados que especificam, ter acesso à fonte ou à origem dos dados pessoais ou ao
-      período de conservação especificado. Nesse caso, o responsável pelo tratamento pode limitar a sua
-      resposta às informações específicas solicitadas.
+              they wish to know the information concerning them that the controller processes.
 
-      3.1.2 Forma do pedido
+      It should be borne in mind that applicants may not be familiar with the intricacies of the GDPR and
+      that it is advisable to be lenient towards persons exercising their right of access, in particular when it
+      is exercised by minors. As indicated above, in case of any doubts it is recommended for the controller
+      to ask the data subject making the request to specify the subject matter of the request.
 
-52.   Conforme anteriormente referido, o RGPD não impõe requisitos aos titulares dos dados no que diz
-      respeito à forma do pedido de acesso aos dados pessoais. Por conseguinte, em princípio, não existem
-      requisitos ao abrigo do RGPD que os titulares dos dados devam observar para a escolha do canal de
-      comunicação através do qual entram em contacto com o responsável pelo tratamento.
+              e) Do the data subjects want to access all or parts of the information processed about them?
 
-53.   O CEPD incentiva os responsáveis pelo tratamento a disponibilizarem os canais de comunicação mais
-      adequados e acessíveis, em conformidade com o artigo 12.º, n.º 2, e o artigo 25.º do RGPD, para que
-      o titular dos dados possa apresentar eficazmente o pedido. No entanto, se o titular dos dados
-      apresentar um pedido através de um canal de comunicação disponibilizado pelo responsável pelo
-      tratamento28 que seja diferente daquele indicado como a opção preferível, esse pedido deve, em geral,
+51.   Additionally, the controller needs to assess whether the requests made by the requesting persons refer
+      to all or parts of the information processed about them. Any limitation of the scope of a request to a
+      specific provision of Art. 15 GDPR, made by the data subjects, must be clear and unambiguous. For
+      example, if the data subjects require verbatim “information about the data processed in relation to
+      them”, the controller should assume that the data subjects intend to exercise their full right under
+      Art. 15(1) – (2) GDPR. Such a request should not be interpreted as meaning that the data subjects wish
+      to receive only the categories of personal data that are being processed and to waive their right to
+      receive the information listed in Art. 15(1)(a) to (h). This would be different, for example, where the
+      data subjects wish, with regard to data which they specify, to have access to the source or origin of the
+      personal data or to the specified period of storage. In such a case the controller may limit its reply to
+      the specific information requested.
+
+      3.1.2 Form of the request
+
+52.   As noted previously, the GDPR does not impose any requirements on data subjects regarding the form
+      of the request for access to the personal data. Therefore, there are, in principle, no requirements under
+      the GDPR that the data subjects must observe when choosing a communication channel through which
+      they enter into contact with the controller.
+
+
+
+                                                          22
+      Adopted
+
+53.   The EDPB encourages controllers to provide the most appropriate and user-friendly communication
+      channels, in line with Art. 12(2) and Art. 25 GDPR, to enable the data subject to make an effective
+      request. Nevertheless, if a data subject makes a request using a communication channel provided by
+      the controller28, which is different from the one indicated as the preferable one, such request shall be,
+      in general, considered effective and the controller should handle such a request accordingly (see the
+      examples below). The controllers should undertake all reasonable efforts to make sure that the
+      exercise of data subject rights is facilitated (for example, when a data subject sends an access request
+      to an employee who is on leave, an automatic message informing the data subject about an alternative
+      communication channel for this request could be a reasonable effort).
+
+54.   It should be noted that the controller is not obliged to act on a request sent to a random or incorrect
+      e-mail (or postal) address, not directly provided by the controller, or to any communication channel
+      that is clearly not intended to receive requests regarding data subject's rights if the controller has
+      provided an appropriate communication channel, that can be used by the data subject.
+
+55.   The controller is also not obliged to act on a request sent to the e-mail address of a controller’s
+      employee who may not be involved in the processing of requests concerning data subjects’ rights (e.g.
+      drivers, cleaning staff, etc.). Such requests shall not be considered effective, if the controller has clearly
+      provided the data subject with appropriate communication channel. However, if the data subject
+      sends a request to the controller’s employee who has been assigned to them as their regular contact
+      person (such as e.g. a personal account manager at a bank or a regular consultant at a mobile phone
+      operator), such contact should not to be considered as a random one and the controller should make
+      all reasonable efforts, to handle such a request so that it can be redirected to the contact point and
+      answered within the time limits provided for by the GDPR.
+
+56.   Nevertheless, the EDPB recommends, as good practice, that controllers introduce appropriate
+      mechanisms to facilitate the exercise of data subjects' rights, including autoresponder systems to
+      inform of staff absences and appropriate alternate contact and, where possible, mechanisms to
+      improve internal communication between employees on requests received by those who may not be
+      competent to deal with such requests.
+
+      Example 8: Controller C provides, both on its website and in the privacy notice, two e-mail addresses
+      - the general e-mail address of the controller: CONTACT@C.COM and the e-mail address of the
+      controller’s data protection contact point: QUERIES@C.COM. Additionally, controller C indicates on its
+      website that in order to submit any inquiries or to make a request with regard to the processing of
+      personal data, individuals should contact the data protection contact point by way of the e-mail
+      address provided. However, the data subject sends a request to the controller’s general e-mail
+      address: CONTACT@C.COM.
+
+      In such a case, the controller should make all reasonable efforts, to make its services aware of the
+      request, which was made through the general e-mail, so that it can be redirected to the data protection
+      contact point and answered within the time limits provided for by the GDPR. Moreover, the controller
+      is not entitled to extend the period for responding to a request, merely because the data subject has
+
+
 
 
       28
-        Tal pode incluir, por exemplo, dados de comunicação do responsável pelo tratamento fornecidos nas suas
-      comunicações diretamente dirigidas aos titulares dos dados ou dados de contacto disponibilizados publicamente
+        This may include, for example, communication data of the controller provided in its communications addressed
+      directly to data subjects or contact data provided by the controller publicly, such as in the controller's privacy
+      policy or other mandatory legal notices of the controller (e.g. owner or business contact information on a
+      website).
+                                                             23
+      Adopted
 
-
-                                                           25
-      Adotadas
-
-      ser considerado como tendo sido apresentado eficazmente e o responsável pelo tratamento deve
-      tratá-lo em conformidade (ver exemplos infra). Os responsáveis pelo tratamento devem envidar todos
-      os esforços razoáveis para facilitar o exercício dos direitos dos titulares dos dados (por exemplo,
-      quando um titular dos dados envia um pedido de acesso a um empregado que esteja de licença, uma
-      mensagem automática a informar o titular dos dados sobre um canal de comunicação alternativo para
-      esse pedido pode ser considerado um esforço razoável).
-
-54.   Note-se que o responsável pelo tratamento não é obrigado a dar seguimento a um pedido enviado
-      para um endereço de correio eletrónico (ou postal) aleatório ou incorreto, não diretamente
-      disponibilizado pelo responsável pelo tratamento, ou para qualquer canal de comunicação que
-      claramente não se destine a receber pedidos relativos aos direitos do titular dos dados, se o
-      responsável pelo tratamento tiver disponibilizado um canal de comunicação adequado que possa ser
-      utilizado pelos titulares dos dados.
-
-55.   O responsável pelo tratamento também não é obrigado a dar seguimento a um pedido enviado para
-      o endereço de correio eletrónico de um empregado seu que possa não estar envolvido no tratamento
-      de pedidos relativos aos direitos dos titulares dos dados (por exemplo, condutores, pessoal de limpeza,
-      etc.). Tais pedidos não são considerados como tendo sido apresentado eficazmente se o responsável
-      pelo tratamento tiver claramente disponibilizado ao titular dos dados o canal de comunicação
-      adequado. No entanto, se o titular dos dados enviar um pedido ao empregado do responsável pelo
-      tratamento que lhe tiver sido indicado como pessoa de contacto regular (por exemplo, um gestor de
-      conta pessoal num banco ou um consultor de um operador de serviços de comunicações móveis), esse
-      contacto não deve ser considerado aleatório e o responsável pelo tratamento deve envidar todos os
-      esforços razoáveis para tratar esse pedido de modo que possa ser reencaminhado para o ponto de
-      contacto e obtenha resposta dentro dos prazos previstos no RGPD.
-
-56.   No entanto, o CEPD recomenda, a título de boa prática, que os responsáveis pelo tratamento
-      introduzam mecanismos adequados para facilitar o exercício dos direitos dos titulares dos dados,
-      incluindo sistemas de resposta automática para informar das ausências do pessoal e dos contactos
-      alternativos adequados e, sempre que possível, mecanismos para melhorar a comunicação interna
-      entre os trabalhadores sobre pedidos recebidos por pessoas que possam não ter competência para
-      tratá-los.
-
-      Exemplo 8: o responsável pelo tratamento C disponibiliza, tanto no seu sítio Web como na declaração
-      de confidencialidade, dois endereços de correio eletrónico — o endereço eletrónico geral do
-      responsável pelo tratamento: CONTACT@C.COM e o endereço eletrónico do ponto de contacto para
-      a proteção de dados do responsável pelo tratamento: QUERIES@C.COM. Além disso, o responsável
-      pelo tratamento C indica no seu sítio Web que, para apresentar pedidos de informação ou pedidos
-      relativos ao tratamento de dados pessoais, as pessoas devem contactar o ponto de contacto para a
-      proteção de dados através do endereço eletrónico disponibilizado. No entanto, o titular dos dados
-      envia um pedido para o endereço eletrónico geral do responsável pelo tratamento:
-      CONTACT@C.COM.
-
-      Nesse caso, o responsável pelo tratamento deve envidar todos os esforços razoáveis para informar os
-      seus serviços sobre o pedido, que foi feito através do correio eletrónico geral, de modo que possa ser
-      reencaminhado para o ponto de contacto para a proteção de dados e obtenha resposta dentro dos
-
-
-      pelo responsável pelo tratamento, como a política de confidencialidade do responsável pelo tratamento ou
-      outras advertências jurídicas obrigatórias do mesmo (por exemplo, informações de contacto do proprietário ou
-      da empresa num sítio Web).
-                                                          26
-      Adotadas
-
-      prazos previstos no RGPD. Além disso, o responsável pelo tratamento não tem o direito de prorrogar
-      o prazo de resposta a um pedido pelo simples facto de o titular dos dados ter enviado o pedido para o
-      endereço eletrónico geral do responsável pelo tratamento e não para o endereço eletrónico do ponto
-      de contacto para a proteção de dados do responsável pelo tratamento.
+      sent a request to the controller’s general e-mail address, not the controller's data protection contact
+      point e-mail address.
 
 
 
-      Exemplo 9: o responsável pelo tratamento Y gere uma rede de ginásios. O responsável pelo tratamento
-      Y indica no seu sítio Web e na declaração de confidencialidade dirigida aos clientes do ginásio que,
-      para apresentarem pedidos de informação ou um pedido relativo ao tratamento de dados pessoais,
-      devem contactar o responsável pelo tratamento através do endereço eletrónico: QUERIES@Y.COM.
-      No entanto, o titular dos dados envia um pedido para um endereço eletrónico que encontrou no
-      vestiário, onde havia um aviso com a seguinte redação: «Se não estiver satisfeito com a limpeza do
-      vestiário, contacte-nos através do seguinte endereço: CLEANERS@Y.COM», que é o endereço de
-      correio eletrónico do pessoal de limpeza que trabalha para Y. Obviamente, o pessoal de limpeza não
-      está envolvido no tratamento de questões relacionadas com o exercício dos direitos dos titulares dos
-      dados, que são os clientes do ginásio. Embora o endereço de correio eletrónico estivesse disponível
-      nas instalações do ginásio, o titular dos dados não podia razoavelmente esperar que se tratasse de um
-      endereço de contacto adequado para tais pedidos, uma vez que o sítio Web e a declaração de
-      confidencialidade indicavam claramente o canal de comunicação a utilizar para o exercício dos direitos
-      dos titulares dos dados.
+      Example 9: Controller Y runs a network of fitness clubs. Controller Y indicates on its website and in the
+      privacy notice for clients of the fitness club that in order to submit any inquiries or to make a request
+      with regard to the processing of personal data, individuals should contact the controller under the e-
+      mail address: QUERIES@Y.COM. Nevertheless, the data subject sends a request to an e-mail address
+      found in the changing room, where he found a notice that reads "If you are not satisfied with the
+      cleanliness of the room, please contact us at: CLEANERS@Y.COM", which is the e-mail address of the
+      cleaning staff employed by Y. The cleaning staff are obviously not involved in handling matters
+      concerning the exercise of the rights of data subjects - customers of the fitness club. Although the e-
+      mail address was available on the premises of the fitness club, the data subject could not reasonably
+      expect that this was an appropriate contact address for such requests, since the website and the
+      privacy notice clearly informed about the communication channel to be used for the exercise of data
+      subjects' rights.
 
-57.   Regra geral, a data de receção do pedido pelo responsável pelo tratamento dá início à contagem do
-      prazo de um mês para o responsável pelo tratamento fornecer informações sobre as medidas tomadas
-      na sequência do pedido, em conformidade com o artigo 12.º, n.º 3, do RGPD (são fornecidas mais
-      orientações sobre os prazos na secção 5.3). O CEPD considera uma boa prática que os responsáveis
-      pelo tratamento confirmem a receção dos pedidos por escrito, por exemplo, enviando mensagens de
-      correio eletrónico (ou informações por correio, se for caso disso) às pessoas requerentes a confirmar
-      a receção dos seus pedidos e que o prazo de um mês decorre entre o dia X e o dia Y.
+57.   Date of receipt of the request by the controller triggers, as a rule, the one month period for the
+      controller to provide information on action taken on a request, in accordance with Art. 12(3) GDPR
+      (further guidance on timing is provided in section 5.3). The EDPB considers as good practice for the
+      controllers to confirm receipt of requests in writing, for example by sending e-mails (or information by
+      post, if applicable) to the requesting persons confirming that their requests have been received and
+      that the one month period runs from day X to day Y.
 
-      3.2       Identificação e autenticação
-58.   A fim de garantir a segurança do tratamento e minimizar o risco de divulgação não autorizada de dados
-      pessoais, o responsável pelo tratamento deve ter conhecimento dos dados que se referem ao titular
-      dos dados (identificação) e confirmar a identidade dessa pessoa (autenticação).
+      3.2       Identification and authentication
+58.   In order to ensure the security of processing and minimise the risk of unauthorised disclosure of
+      personal data, the controller must be able to find out which data refer to the data subject
+      (identification) and confirm the identity of that person (authentication).
 
-59.   Recorde-se que, nos casos em que a finalidade para a qual se procede ao tratamento de dados não
-      exija ou tiver deixado de exigir a identificação do titular dos dados, o responsável pelo tratamento não
-      necessita de manter a identificação com o único objetivo de respeitar os direitos dos titulares dos
-      dados, também à luz do princípio da minimização dos dados. Estes casos são abordados no artigo 11.º,
-      n.º 1, do RGPD.
+59.   It may be recalled that in situations in which the purpose for which the personal data are processed
+      do not or no longer require the identification of a data subject, the controller does not need to
+      maintain identification for the sole purpose of complying with data subjects’ rights, also in light of the
+      principle of data minimisation. These situations are dealt with in Art. 11(1) GDPR.
 
-60.   O artigo 12.º, n.º 2, do RGPD estabelece que o responsável pelo tratamento não pode recusar-se a dar
-      seguimento ao pedido do titular no sentido de exercer os seus direitos, exceto se tratar dados pessoais
-      para uma finalidade que não exija a identificação do titular dos dados e se demonstrar que não está
-      em condições de o identificar. Em tais circunstâncias, o titular dos dados pode, ainda assim, decidir
-      fornecer informações adicionais que permitam essa identificação (artigo 11.º, n.º 2, do RGPD)29.
+60.   Art. 12(2) GDPR states that the controller shall not refuse to act on the request of the data subject to
+      exercise his or her rights, unless the controller processes personal data for a purpose that does not
+      require the identification of the data subject and it demonstrates that it is not in a position to identify
+      the data subject. In such circumstances, the data subject may, however, decide to provide additional
+      information enabling this identification (Art. 11(2) GDPR)29.
 
+61.   The controller is not obliged to acquire such additional information in order to identify the data subject
+      for the sole purpose of complying with the data subject’s request, also in light of the principle of data
+      minimisation. However, it should not refuse to take such additional information provided by the data
+      subject in order to support the exercise of his or her rights (Recital 57 GDPR).
+
+      Example 10: C is the controller of the data processed in connection with the video surveillance of a
+      building. In accordance with Art. 11(1) GDPR, the controller is not obliged to identify all persons who
 
 
 
       29
-           Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, p. 13.
-                                                             27
-      Adotadas
+           WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 13.
+                                                               24
+      Adopted
 
-61.   O responsável pelo tratamento não é obrigado a obter essas informações suplementares para
-      identificar o titular dos dados com o único objetivo de satisfazer o pedido do titular dos dados, também
-      à luz do princípio da minimização dos dados. Todavia, não deverá recusar receber essas informações
-      suplementares fornecidas pelo titular dos dados no intuito de apoiar o exercício dos seus direitos
-      (considerando 57 do RGPD).
-
-      Exemplo 10: C é o responsável pelo tratamento de dados no âmbito da videovigilância de um edifício.
-      Em conformidade com o artigo 11.º, n.º 1, do RGPD, o responsável pelo tratamento não é obrigado a
-      identificar todas as pessoas que tenham sido registadas por uma câmara de segurança como parte da
-      monitorização (finalidade que não exige identificação). O responsável pelo tratamento recebe um
-      pedido de acesso aos dados pessoais da pessoa que alega ter sido registada pelo equipamento de
-      videovigilância do responsável pelo tratamento. As medidas do responsável pelo tratamento irão
-      depender das informações suplementares fornecidas. Se a pessoa requerente indicar o dia e hora
-      específicos em que as câmaras possam ter gravado o evento em causa, é provável que o responsável
-      pelo tratamento possa fornecer esses dados (artigo 11.º, n.º 2, do RGPD). No entanto, se o responsável
-      pelo tratamento não estiver em condições de identificar o titular dos dados (por exemplo, se for
-      impossível ao responsável pelo tratamento confirmar que a pessoa requerente é efetivamente o titular
-      dos dados ou se o pedido disser respeito, por exemplo, a um longo período de gravações e o
-      responsável pelo tratamento não puder tratar essa grande quantidade de dados), pode recusar-se a
-      tomar medidas se demonstrar que não está em condições de identificar o titular dos dados (artigo 12.º,
-      n.º 2, do RGPD).
+      have been registered by a security camera as a part of the monitoring (purpose not requiring
+      identification). The controller receives a request for access to the personal data from the person who
+      claims that to have been recorded by the controller’s video surveillance. The controller's actions will
+      depend on the additional information provided. If the requesting person indicates a particular day and
+      time when the cameras may have recorded the event in question, it is likely that the controller will be
+      able to provide such data (Art. 11(2) GDPR). However, if the controller is not in a position to identify
+      the data subject (e.g. if it is impossible for the controller to be certain that a requesting person is in
+      fact the data subject or if the request concerns e.g. a long period of recordings and a controller is
+      unable to process such a large quantity of data), the controller may refuse to take action if it
+      demonstrates that it is not in the position to identify the data subject (Art. 12(2) GDPR).
 
 
 
-      Exemplo 11: um responsável pelo tratamento C trata dados pessoais com a finalidade de dirigir
-      publicidade comportamental aos seus utilizadores Web. Geralmente, os dados pessoais para
-      publicidade comportamental são recolhidos por meio da utilização de testemunhos de conexão
-      (cookies) e estão associados a identificadores de pseudónimo aleatórios. Um titular dos dados, o Sr. X,
-      exerce o seu direito de acesso através do sítio Web de C. C é capaz de identificar com precisão o Sr. X
-      para mostrar a publicidade comportamental do titular dos dados ao associar o equipamento terminal
-      do Sr. X ao seu perfil publicitário com os testemunhos de conexão colocados no terminal. C deve então
-      também ser capaz de identificar com precisão o Sr. X para lhe conceder acesso aos seus dados pessoais,
-      uma vez que é possível encontrar uma ligação entre os dados tratados e o titular dos dados. Por
-      conseguinte, e tendo em conta os princípios do RGPD, o exemplo anterior não seria abrangido pelo
-      âmbito de aplicação do artigo 11.º do RGPD. Mais precisamente, no exemplo acima, as finalidades de
-      C exigem a identificação dos titulares dos dados, ao passo que o artigo 11.º do RGPD aborda a situação
-      do tratamento que não exige identificação, em que o responsável pelo tratamento não é obrigado a
-      tratar dados suplementares na aceção do artigo 11.º, n.º 1, do RGPD com o único objetivo de dar
-      cumprimento ao RGPD. Por conseguinte, em alguns casos, não devem ser solicitados dados
-      suplementares para o exercício dos direitos do titular dos dados.
+      Example 11: A controller C processes personal data for the purpose of addressing behavioral
+      advertising to its web users. Personal data collected for behavioral advertising are usually collected by
+      means of cookies and associated with pseudonymous random identifiers. A data subject Mr. X
+      exercises his right of access with C via C’s website. C is able to precisely identify Mr. X to show the data
+      subject’s behavioral advertising, by linking the terminal equipment of Mr. X to its advertising profile
+      with the cookies dropped in the terminal. C should then also be able to precisely identify Mr. X to grant
+      him access to his personal data, as a link between the data processed and the data subject can be
+      found. Therefore, and taking into account the principles of the GDPR, the above example would not
+      fall within the scope of Art. 11 GDPR. More precisely, in the above example, the purposes of C require
+      the identification of the data subjects while Art. 11 GDPR addresses the situation of processing which
+      does not require identification where a controller shall not be obliged to process additional data within
+      the meaning of Art. 11(1) GDPR for the sole purpose of being able to comply with the GDPR.
+      Consequently, in some cases, no additional data should be requested in order to exercise the rights of
+      the data subject.
 
-      No entanto, se o Sr. X tentar exercer o seu direito de acesso por correio eletrónico ou por correio
-      normal, nesse contexto, C não terá outra opção senão solicitar ao Sr. X que forneça «informações
-      adicionais» (artigo 12.º, n.º 6, do RGPD) para poder identificar o perfil publicitário associado ao Sr. X.
-      Neste caso, as informações adicionais serão o identificador do testemunho de conexão armazenado
-      no equipamento terminal do Sr. X.
+      However, if Mr. X tries to exercise his access right by e-mail or by regular mail, then, in this context, C
+      will have no other choice but to ask Mr. X to provide “additional information” (Art. 12(6) GDPR) in
+      order to be able to identify the advertising profile associated with Mr. X. In this case, the additional
+      information will be the cookie identifier stored in the terminal equipment of Mr. X.
 
-62.   Em caso de impossibilidade comprovada de identificar o titular dos dados (artigo 11.º do RGPD), o
-      responsável pelo tratamento deve informar o titular dos dados em conformidade, se tal for possível,
-      uma vez que o responsável pelo tratamento deve responder aos pedidos do titular dos dados sem
-                                                      28
-      Adotadas
+62.   In case of demonstrated impossibility to identify the data subject (Art. 11 GDPR), the controller needs
+      to inform the data subject accordingly, if possible, since the controller shall respond to requests from
+      the data subject without undue delay and give reasons where it does not intend to comply with such
+      requests . This information needs to be provided only “if possible”, as the controller may not be in a
+      position to inform the data subjects if their identification is impossible.
 
-      demora injustificada e expor as suas razões quando tiver intenção de recusar o pedido. Estas
-      informações só têm de ser fornecidas «se possível», uma vez que o responsável pelo tratamento pode
-      não estar em condições de informar os titulares dos dados caso a identificação destes não seja possível.
+63.   Both where the processing does not require identification and where it requires it, if the controller has
+      reasonable doubts concerning the identity of the natural person making the request, the controller
+      may request the provision of additional information necessary to confirm the identity of the data
+      subject (Art.12(6) GDPR).
 
-63.   Tanto nos casos em que o tratamento não exige identificação como nos casos em que o responsável
-      pelo tratamento tenha dúvidas razoáveis quanto à identidade da pessoa singular que apresenta o
-      pedido, o responsável pelo tratamento pode solicitar que lhe sejam fornecidas as informações
-      adicionais que forem necessárias para confirmar a identidade do titular dos dados (artigo 12.º, n.º 6,
-      do RGPD).
+64.   The GDPR does not impose any requirements on how to authenticate the data subject. However,
+      Art. 11 and 12 GDPR indicate the conditions for the exercise of all the data subject rights, including the
+      right of access to personal data.
 
-64.   O RGPD não impõe requisitos sobre a forma de autenticar o titular dos dados. No entanto, os
-      artigos 11.º e 12.º do RGPD indicam as condições para o exercício de todos os direitos dos titulares dos
-      dados, incluindo o direito de acesso aos dados pessoais.
+65.   It should be remembered that, as a rule, the controller cannot request more personal data than is
+      necessary to enable this authentication, and that the use of such information should be strictly limited
+      to fulfilling the data subjects’ request.
+                                                        25
+      Adopted
 
-65.   Importa recordar que, regra geral, o responsável pelo tratamento não pode solicitar mais dados
-      pessoais do que o necessário para permitir essa autenticação, e que a utilização dessas informações
-      deve ser estritamente limitada à satisfação do pedido dos titulares dos dados.
+66.   Authentication procedures often already exist between the data subjects and the controllers. The
+      controllers may use these authentication procedures in order to ascertain the identity of the data
+      subjects requesting their personal data or exercising the rights granted by the GDPR30. Otherwise,
+      controllers should implement an authentication procedure to do so31.
 
-66.   Muitas vezes, já existem procedimentos de autenticação entre os titulares dos dados e os responsáveis
-      pelo tratamento. Os responsáveis pelo tratamento podem utilizar estes procedimentos de
-      autenticação no sentido de apurar a identidade dos titulares dos dados que solicitam os seus dados
-      pessoais ou que exercem os direitos garantidos pelo RGPD30. Caso contrário, os responsáveis pelo
-      tratamento devem aplicar um procedimento de autenticação para o efeito31.
+67.   In cases where the controller requests or is provided by the data subject with additional information
+      necessary to confirm the identity of the data subject, the controller shall, each time, assess what
+      information will allow it to confirm the data subject’s identity and possibly ask additional questions to
+      the requesting person or request the data subject to present some additional identification elements,
+      if it is proportionate (see section 3.3).
 
-67.   Nos casos em que o responsável pelo tratamento solicite ou receba informações adicionais necessárias
-      para confirmar a identidade do titular dos dados, o responsável pelo tratamento deve, de cada vez,
-      avaliar que informações lhe permitirão confirmar a identidade do titular dos dados e, eventualmente,
-      colocar questões adicionais à pessoa requerente ou solicitar ao titular dos dados a apresentação de
-      elementos de identificação adicionais, se tal for proporcionado (ver secção 3.3).
+68.   In order to allow the data subject to provide the additional information required to identify his or her
+      data, the controller should inform the data subject of the nature of the additional information required
+      to allow identification. Such additional information should not be more than the information initially
+      needed for the authentication of the data subject. In general, the fact that the controller may request
+      additional information to assess the data subject’s identity cannot lead to excessive demands and to
+      the collection of personal data which are not relevant or necessary to strengthen the link between the
+      individual and the personal data requested32.
 
-68.   A fim de permitir que o titular dos dados forneça as informações adicionais necessárias para identificar
-      os seus dados, o responsável pelo tratamento deve informar o titular dos dados da natureza das
-      informações adicionais necessárias para permitir a identificação. Essas informações adicionais não
-      devem exceder as informações inicialmente necessárias para a autenticação do titular dos dados. De
-      um modo geral, a capacidade do responsável pelo tratamento de solicitar informações adicionais para
-      apurar a identidade do titular dos dados não pode dar origem a exigências excessivas nem à recolha
-      de dados pessoais que não sejam pertinentes ou necessárias para reforçar a ligação entre a pessoa e
-      os dados pessoais solicitados32.
+69.   As a consequence, where information collected online is linked to pseudonyms or other unique
+      identifiers, the controller can implement appropriate procedures enabling the requesting person to
+      make a data access request and receive the data relating to them33.
 
-69.   Consequentemente, caso as informações recolhidas em linha estejam associadas a pseudónimos ou
-      outros identificadores únicos, o responsável pelo tratamento pode executar procedimentos
-      adequados que permitam às pessoas requerentes apresentar um pedido de acesso aos dados e
-      receber os dados que lhes digam respeito33.
+      Example 12: The data subject Ms. X requests access to her data while speaking to a helpline consultant
+      of an electricity company with which she has concluded a contract. The consultant, having doubts as
+      to the identity of the person making the request, generates in the company's system a one-time unique
+      code sent to the user’s mobile phone number, provided when the account was set up, as part of the
+      double verification system, which action should be considered proportionate in this case.
 
-      Exemplo 12: o titular dos dados X solicita o acesso aos seus dados enquanto fala com um consultor da
-      linha de apoio de uma empresa de eletricidade com a qual celebrou um contrato. O consultor, tendo
 
+      3.3 Proportionality assessment regarding authentication of the requesting person
+
+70.   As indicated above, if the controller has reasonable grounds for doubting the identity of the requesting
+      person, it may request additional information to confirm the data subject’s identity. However, the
+      controller must at the same time ensure that it does not collect more personal data than is necessary
+      to enable authentication of the requesting person. Therefore, the controller shall carry out
+      a proportionality assessment, which must take into account the type of personal data being processed
+      (e.g. special categories of data or not), the nature of the request, the context within which the request
+      is being made, as well as any damage that could result from improper disclosure. When assessing
+      proportionality, it should be remembered to avoid excessive data collection while ensuring an
+      adequate level of processing security.
+
+71.   The controller should implement an authentication procedure in order to be certain of the identity of
+      the persons requesting access to their data34, and ensure security of the processing throughout the
+      process of handling an access requests in accordance with Art. 32 GDPR, including for instance a secure
 
 
       30
-         Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, p. 14.
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 14.
       31
-         Ver orientações adicionais relativas à autenticação na secção 3.3.
+         See further guidance regarding authentication in section 3.3.
       32
-         Ibidem, p. 14.
+         Ibid, p. 14.
       33
-         Ibidem, pp. 13-14.
-                                                           29
-      Adotadas
-
-      dúvidas quanto à identidade da pessoa que apresenta o pedido, gera no sistema da empresa um código
-      único e de utilização única que é enviado para o número de telemóvel do utilizador, fornecido aquando
-      da criação da conta, como parte do sistema de dupla verificação, que deve ser considerado
-      proporcionado neste caso.
-
-
-
-      3.3 Avaliação da proporcionalidade no que respeita à autenticação da pessoa
-          requerente
-
-70.   Conforme acima indicado, se o responsável pelo tratamento tiver motivos razoáveis para duvidar da
-      identidade da pessoa requerente, pode solicitar informações adicionais para confirmar a identidade
-      do titular dos dados. No entanto, o responsável pelo tratamento deve simultaneamente assegurar que
-      não recolhe mais dados pessoais do que o necessário para permitir a autenticação da pessoa
-      requerente. Por conseguinte, o responsável pelo tratamento deve realizar uma avaliação da
-      proporcionalidade, que deve ter em conta o tipo de dados pessoais tratados (por exemplo, categorias
-      especiais de dados ou não), a natureza do pedido e o contexto em que o pedido é apresentado, bem
-      como eventuais danos que possam resultar de uma divulgação indevida. Ao avaliar a
-      proporcionalidade, cabe recordar que se deve evitar uma recolha excessiva de dados, garantindo
-      simultaneamente um nível adequado de segurança do tratamento.
-
-71.   O responsável pelo tratamento deve aplicar um procedimento de autenticação para se certificar da
-      identidade das pessoas que solicitam o acesso aos seus dados34 e garantir a segurança do tratamento
-      ao longo de todo o processo de tratamento de pedidos de acesso em conformidade com o artigo 32.º
-      do RGPD, incluindo, por exemplo, um canal seguro para os titulares dos dados fornecerem informações
-      adicionais. O método utilizado para a autenticação deve ser pertinente, adequado, proporcionado e
-      respeitar o princípio da minimização dos dados. Se o responsável pelo tratamento impuser medidas
-      destinadas a autenticar o titular dos dados que sejam onerosas, deve justificá-lo adequadamente e
-      assegurar o cumprimento de todos os princípios fundamentais, nomeadamente a minimização dos
-      dados e a obrigação de facilitar o exercício dos direitos dos titulares dos dados (artigo 12.º, n.º 2, do
-      RGPD).
-
-72.   Num contexto em linha, o mecanismo de autenticação pode incluir as mesmas credenciais utilizadas
-      pelo titular dos dados para iniciar sessão no serviço em linha oferecido pelo responsável pelo
-      tratamento (considerando 57 do RGPD)35.
-
-73.   Na prática, existem frequentemente procedimentos de autenticação e os responsáveis pelo
-      tratamento não precisam de introduzir salvaguardas adicionais para impedir o acesso não autorizado
-      aos serviços. A fim de permitir que as pessoas tenham acesso aos dados contidos nas suas contas
-      (como uma conta de correio eletrónico, uma conta em redes sociais ou em lojas em linha), é muito
-      provável que os responsáveis pelo tratamento solicitem o registo através do nome de utilizador e da
-      senha, o que, nesses casos, deve ser suficiente para autenticar o titular dos dados36. Além disso, muitas
-
-
+         Ibid, p. 13-14.
       34
-         Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, p. 14.
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 14.
+                                                             26
+      Adopted
+
+      channel for the data subjects to provide additional information. The method used for authentication
+      should be relevant, appropriate, proportionate and respect the data minimisation principle. If the
+      controller imposes measures aimed at authentifying the data subject which are burdensome, it needs
+      to adequately justify this and ensure compliance with all fundamental principles, including data
+      minimisation and the obligation to facilitate the exercise of data subjects’ rights (Art. 12(2) GDPR).
+
+72.   In an online context, the authentication mechanism may include the same credentials, used by the
+      data subject to log-in to the online service offered by the controller (Recital 57 GDPR)35.
+
+73.   In practice, authentication procedures often exist and controllers do not need to introduce additional
+      safeguards to prevent unauthorised access to services. In order to enable individuals to access the data
+      contained in their accounts (such as an e-mail account, an account on social networks or online shops),
+      controllers are most likely to request the logging through the login and password of the user, which in
+      such cases should be sufficient to authenticate a data subject36. Furthermore, the data subjects are
+      often already authenticated by the controller before entering into a contract or collecting their consent
+      to the processing and, as a result, the personal data used to register the individual concerned by the
+      processing can also be used as evidence to authenticate the data subject for access purposes37.
+      Consequently, it is disproportionate to require a copy of an identity document in the event where the
+      data subject making a request is already authenticated by the controller.
+
+74.   It should be emphasised that using a copy of an identity document as a part of the authentication
+      process creates a risk for the security of personal data and may lead to unauthorised or unlawful
+      processing, and, as such, it should be considered inappropriate, unless it is necessary, suitable, and in
+      line with national law. In such cases, the controllers should have systems in place that ensure a level
+      of security appropriate to mitigate the higher risks for the rights and freedoms of the data subject to
+      receive such data. It is also important to note that authentication by means of an identity card does
+      not necessarily help in the online context (e.g. with the use of pseudonyms) if the person concerned
+      cannot contribute any other evidence, e.g. further characteristics matching to the user account.
+
+75.   Taking into account the fact, that many organisations (e.g. hotels, banks, car rentals) request copies of
+      their clients’ ID card, it should generally not be considered an appropriate way of authentication.
+      Alternatively, the controller may implement a quick and effective security measure to identify a data
+      subject based on the authentication it has previously carried out, e.g. via e-mail or text message
+      containing confirmation links, security questions or confirmation codes38.
+
+76.   Information on the ID that is not necessary for confirming the identity of the data subject, such as the
+      access and serial-number, nationality, size, eye colour, photo and machine-readable zone, depending
+      on a case by case assessment, may be redacted or hidden by the data subject before submitting it to
+      the controller, except where national legislation requires a full unredacted copy of the identity card
+      (see para. 78 below). Generally, the date of issue or expiry date, the issuing authority and the full name
+      matching with the online account are sufficient for the controller to verify the identity, always provided
+      that the authenticity of the copy and the relation to the applicant are ensured. Additional information
+
+
       35
-         Ver orientações adicionais relativas aos métodos de autenticação nas orientações do CEPD intituladas
-      «Guidelines 01/2021 on Examples regarding Data Breach Notification» (não traduzidas para português),
-      adotadas em 14 de janeiro de 2021, pp. 30-31, e nas orientações do CEPD intituladas «Guidelines 02/2021 on
-      virtual voice assistants» (não traduzidas para português), versão 2.0, adotadas em 7 de julho de 2021, secção 3.7.
+         See further guidance regarding authentication methods in the EDPB Guidelines 01/2021 on Examples regarding
+      Data Breach Notification, adopted on 14 January 2021, p. 30-31., and in the EDPBGuidelines 02/2021 on virtual
+      voice assistants , Version 2.0, Adopted on 7 July 2021, section 3.7.
       36
-         Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, p. 14.
-
-
-                                                             30
-      Adotadas
-
-      vezes, o responsável pelo tratamento autentica os titulares de dados ainda antes de celebrar um
-      contrato ou de obter o seu consentimento para o tratamento e, por conseguinte, os dados pessoais
-      utilizados para registar a pessoa a quem o tratamento diz respeito também podem ser utilizados como
-      elementos comprovativos para autenticar o titular dos dados para efeitos de acesso37. Por
-      conseguinte, é desproporcionado exigir uma cópia de um documento de identidade caso o responsável
-      pelo tratamento já tenha autenticado o titular dos dados que apresenta o pedido.
-
-74.   Importa salientar que a utilização de uma cópia de um documento de identidade como parte do
-      processo de autenticação cria um risco para a segurança dos dados pessoais e pode conduzir a um
-      tratamento não autorizado ou ilícito e, como tal, deve ser considerado inapropriada, a menos que seja
-      necessária, adequada e conforme com o direito nacional. Nesses casos, os responsáveis pelo
-      tratamento devem dispor de sistemas que garantam um nível de segurança adequado para atenuar os
-      riscos mais elevados para os direitos e liberdades do titular dos dados de receber esses dados. É
-      igualmente importante notar que a autenticação através de um bilhete de identidade não ajuda
-      necessariamente no contexto em linha (por exemplo, com a utilização de pseudónimos) se a pessoa
-      em causa não puder fornecer outros elementos de prova, por exemplo, outras características que
-      correspondam à conta de utilizador.
-
-75.   Tendo em conta o facto de muitas organizações (por exemplo, hotéis, bancos, alugueres de
-      automóveis) solicitarem cópias dos bilhetes de identidade dos seus clientes, esta não deve, em geral,
-      ser considerada uma forma de autenticação adequada. Em alternativa, o responsável pelo tratamento
-      pode aplicar uma medida de segurança rápida e eficaz para identificar o titular dos dados com base na
-      autenticação que efetuou anteriormente, por exemplo, por correio eletrónico ou mensagem de texto
-      que contenha ligações de confirmação, perguntas de segurança ou códigos de confirmação38.
-
-76.   As informações constantes do bilhete de identidade que não sejam necessárias para confirmar a
-      identidade do titular dos dados, como o número de acesso e de série, a nacionalidade, a altura, a cor
-      dos olhos, a fotografia e a zona de leitura ótica, consoante uma avaliação caso a caso, podem ser
-      rasuradas ou ocultadas pelo titular dos dados antes da sua apresentação ao responsável pelo
-      tratamento, exceto se a legislação nacional exigir uma cópia integral e não rasurada do bilhete de
-      identidade (ver ponto 78 infra). Em geral, a correspondência da data de emissão ou da data de
-      validade, da entidade emissora e do nome completo com a conta em linha é suficiente para que o
-      responsável pelo tratamento verifique a identidade, desde que sejam asseguradas a autenticidade da
-      cópia e a relação com o requerente. Só podem ser exigidas informações adicionais, como a data de
-      nascimento do titular dos dados, caso o risco de erro de identidade persista, desde que o responsável
-      pelo tratamento possa compará-las com as informações que já está a tratar.
-
-77.   A fim de respeitar o princípio da minimização dos dados, o responsável pelo tratamento deve informar
-      o titular dos dados sobre as informações que não são necessárias e sobre a possibilidade de ocultar ou
-      rasurar essas partes do documento de identificação. Nesse caso, se o titular dos dados não souber
-      como ou não estiver em condições de ocultar essas informações, é boa prática que o responsável pelo
-      tratamento as rasure após a receção do documento, se tal lhe for possível, tendo em conta os meios
-      à sua disposição nas circunstâncias em causa.
-
-
-
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 14.
       37
-        Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, p. 14.
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 14.
       38
-        Ver também o Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014,
-      relativo à identificação eletrónica e aos serviços de confiança para as transações eletrónicas no mercado interno
-      e que revoga a Diretiva 1999/93/CE, que apresentou diferentes serviços que permitem uma identificação remota
-      segura.
-                                                             31
-      Adotadas
+         See also Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on
+      electronic identification and trust services for electronic transactions in the internal market and repealing
+      Directive 1999/93/EC that has put forth different services that allow secure remote identification.
+                                                           27
+      Adopted
 
-      Exemplo 13: a utilizadora, Sra. Y, criou uma conta protegida por palavra-passe numa loja em linha,
-      fornecendo o seu correio eletrónico e/ou o seu nome de utilizador. Posteriormente, a titular da conta
-      pergunta ao responsável pelo tratamento se os seus dados pessoais são tratados e, em caso afirmativo,
-      solicita o acesso aos mesmos no quadro do artigo 15.º. O responsável pelo tratamento solicita o bilhete
-      de identidade da pessoa que apresenta o pedido para confirmar a sua identidade. A ação do
-      responsável pelo tratamento neste caso é desproporcionada e conduz a uma recolha de dados
-      desnecessária.
+      such as the birth date of the data subject may only be required in case the risk of mistaken identity
+      persists, if the controller is able to compare it with the information it already processes.
 
-      No entanto, a fim de confirmar a identidade da pessoa requerente, evitando simultaneamente a
-      recolha desnecessária de dados, o responsável pelo tratamento pode exigir a sua autenticação através
-      do registo na conta ou colocar-lhe perguntas de segurança (não intrusivas) cuja resposta apenas seja
-      do conhecimento do titular dos dados, ou utilizar uma autenticação multifatorial configurada quando
-      o titular dos dados registou a sua conta, ou utilizar outros meios de comunicação que se saiba
-      pertencerem ao titular dos dados, como o endereço de correio eletrónico ou um número de telefone,
-      para enviar uma palavra-passe de acesso.
+77.   To follow the principle of data minimisation the controller should inform the data subject about the
+      information that is not needed and about the possibility to redact or hide those parts of the ID
+      document. In such a case, if the data subject does not know how or is not able to redact such
+      information, it is good practice for the controller to redact it upon receipt of the document, if this is
+      possible for the controller, taking into account the means available to the controller in the given
+      circumstances.
+
+      Example 13: The user Ms. Y has created a password protected account in the online store, providing
+      her e-mail and/or username. Subsequently, the account owner asks the controller for information
+      whether it processes their personal data, and if so, asks for access to them within the scope indicated
+      in Art. 15. The controller requests the ID of the person making request to confirm her identity. The
+      controller's action in this case is disproportionate and leads to unnecessary data collection.
+
+      However, in order to confirm the identity of the requesting person while preventing unnecessary data
+      collection, the controller could require her to authenticate via logging into the account or ask her (non-
+      intrusive) security questions, the answer to which only the data subject should know, or use
+      multifactor authentication that were configured when the data subject registered their account, or use
+      other existing means of communication known as to belong to the data subject, such as the e-mail
+      address or a phone number, in order to send an access password.
 
 
 
-      Exemplo 14: o cliente de um banco, o Sr. Y, pretende obter um crédito ao consumo. Para o efeito,
-      dirige-se a uma sucursal para obter informações, incluindo os seus dados pessoais, necessárias para a
-      avaliação da sua solvabilidade. Para verificar a identidade do titular dos dados, o consultor solicita uma
-      certificação notarial da sua identidade a fim de lhe fornecer as informações exigidas.
+      Example 14: A bank customer, Mr. Y, plans to get a consumer credit. For this purpose, Mr. Y goes to a
+      bank branch to obtain information, including his personal data, necessary for the assessment of his
+      creditworthiness. To verify the data subject’s identity, the consultant asks for a notarised certification
+      of his identity to be able to provide him with the required information.
 
-      O responsável pelo tratamento não deve exigir a confirmação notarial da identidade, a menos que esta
-      seja necessária, adequada e conforme com o direito nacional (por exemplo, se uma pessoa não estiver
-      temporariamente na posse de um documento de identidade e a legislação nacional exigir a prova da
-      identidade do titular dos dados para a execução de um ato jurídico). Tal prática expõe as pessoas
-      requerentes a custos adicionais e impõe um encargo excessivo aos titulares dos dados, entravando o
-      exercício do seu direito de acesso.
+      The controller should not require notarised confirmation of identity, unless it is necessary, suitable and
+      in line with the national law (for example, where a person is temporarily not in possession of any
+      identity document and proof of the data subject’s identity is required by the national law for the
+      performance of a legal act). Such practice exposes the requesting persons to additional costs and
+      imposes an excessive burden on the data subjects, hampering the exercise of their right of access.
 
-78.   Sem prejuízo dos princípios gerais acima referidos, em determinadas circunstâncias, a autenticação
-      com base num documento de identificação pode ser uma medida justificada e proporcionada, em
-      especial para as entidades que tratam categorias especiais de dados pessoais ou que procedem ao
-      tratamento de dados que possam constituir um risco para o titular dos dados (por exemplo,
-      informações médicas ou de saúde). No entanto, ao mesmo tempo, importa ter em conta que
-      determinadas disposições nacionais preveem restrições ao tratamento de dados contidos em
-      documentos públicos, incluindo documentos que confirmem a identidade de uma pessoa (também
-      com base no artigo 87.º do RGPD). As restrições ao tratamento de dados derivados destes documentos
-      podem dizer respeito, nomeadamente, à digitalização ou fotocópia de bilhetes de identidade ou ao
-      tratamento de números de identificação pessoal oficiais39.
+78.   Without prejudice to the above general principles, under certain circumstances, authentication on the
+      basis of an ID may be a justified and proportionate measure, in particular for entities processing special
+      categories of personal data or undertaking data processing which may pose a risk for data subject (e.g.
+      medical or health information). However, at the same time, it should be borne in mind that certain
+      national provisions provide for restrictions on the processing of data contained in public documents,
+      including documents confirming the identity of a person (also on the basis of Art. 87 GDPR).
+      Restrictions on the processing of data from these documents may relate in particular to the scanning
+      or photocopying of ID cards or processing of official personal identification numbers39.
 
-79.   Tendo em conta o que precede, sempre que seja solicitado um documento de identificação (e tal esteja
-      em conformidade com o direito nacional e seja justificado e proporcionado nos termos do RGPD), o
-      responsável pelo tratamento deve aplicar garantias para evitar o tratamento ilícito do mesmo. Não
-      obstante quaisquer disposições nacionais aplicáveis em matéria de autenticação da identidade, tal
-      pode incluir abster-se de realizar uma cópia ou proceder à supressão de uma cópia de um documento
+79.   Taking the above into account, where an ID is requested (and this is both in line with national law and
+      justified and proportionate under the GDPR), the controller must implement safeguards to prevent
+      unlawful processing of the ID. Notwithstanding any applicable national provisions regarding ID
 
 
       39
-        Vários Estados-Membros introduziram essa restrição nas suas disposições nacionais a este respeito,
-      afirmando, por exemplo, que a realização de cópias de bilhetes de identidade só é lícita se resultar diretamente
-      das disposições de um ato jurídico.
-                                                            32
-      Adotadas
+        Several member states introduced such restriction in their national provisions in this regard stating, for
+      example, that making copies of ID cards is lawful only if it results directly from the provisions of a legal act.
+                                                               28
+      Adopted
 
-      de identificação imediatamente após uma autenticação da identidade bem-sucedida do titular dos
-      dados. Tal deve-se ao facto de a conservação posterior de uma cópia de um documento de
-      identificação poder constituir uma violação dos princípios da limitação das finalidades e da limitação
-      da conservação [artigo 5.º, n.º 1, alíneas b) e e), do RGPD] e também da legislação nacional relativa ao
-      tratamento do número de identificação nacional (artigo 87.º do RGPD). O CEPD recomenda, a título de
-      boa prática, que o responsável pelo tratamento, após verificar o bilhete de identidade, faça uma nota,
-      por exemplo, «bilhete de identidade verificado», a fim de evitar a cópia ou a conservação
-      desnecessárias de cópias de bilhetes de identidade.
+      authentication, this may include refraining from making a copy or deleting a copy of an ID immediately
+      after the successful authentication of the identity of the data subject. This is because further storage
+      of a copy of an ID is likely to amount to an infringement of the principles of purpose limitation and
+      storage limitation (Art. 5(1)(b) and (e) GDPR) and, in addition, national legislation regarding the
+      processing of the national identification number (Art. 87 GDPR). The EDPB recommends, as good
+      practice, that the controller, after checking the ID card, makes a note e.g. " ID card was checked " to
+      avoid unnecessary copying or storage of copies of ID cards.
 
-      3.4 Pedidos apresentados através de terceiros/intermediários
+      3.4 Requests made via third parties / proxies
 
-80.   Embora o direito de acesso seja geralmente exercido pelos titulares dos dados uma vez que estes lhes
-      pertencem, é possível a um terceiro apresentar um pedido em nome do titular dos dados. Tal pode
-      aplicar-se, nomeadamente, à atuação por procuração ou de tutores legais em nome de menores, bem
-      como através de outras entidades através de portais em linha. Em determinadas circunstâncias, a
-      identidade da pessoa autorizada a exercer o direito de acesso, bem como a autorização para agir em
-      nome do titular dos dados, pode exigir uma verificação, se tal for adequado e proporcionado (ver
-      secção 3.3 supra)40. Importa recordar que a disponibilização de dados pessoais a alguém que não tenha
-      direito de acesso aos mesmos pode constituir uma violação de dados pessoais41.
+80.   Although the right of access is generally exercised by the data subjects as it pertains to them, it is
+      possible for a third party to make a request on behalf of the data subject. This may apply to, among
+      others, acting through a proxy or legal guardians on behalf of minors, as well as acting through other
+      entities via online portals. In some circumstances, the identity of the person authorised to exercise the
+      right of access as well as authorisation to act on behalf of the data subject may require verification,
+      where it is suitable and proportionate (see section 3.3 above)40. It should be recalled that making
+      personal data available to someone who is not entitled to access it can amount to a personal data
+      breach41.
 
-81.   Para o efeito, devem ser tidas em conta as leis nacionais que regem a representação legal (por
-      exemplo, procurações), que podem impor requisitos específicos para demonstrar a autorização para
-      apresentar um pedido em nome do titular dos dados, uma vez que o RGPD não regula esta questão.
-      Em conformidade com o princípio da responsabilidade, bem como com os outros princípios em
-      matéria de proteção de dados, os responsáveis pelo tratamento devem poder demonstrar a existência
-      da autorização pertinente para apresentar um pedido em nome do titular dos dados e para receber as
-      informações solicitadas, exceto se o direito nacional divergir (por exemplo, quando o direito nacional
-      contém regras específicas relativas à fiabilidade dos advogados), deixando ao responsável pelo
-      tratamento a verificação da identidade do intermediário (por exemplo, no caso dos advogados,
-      verificar a inscrição na Ordem dos Advogados). Por conseguinte, recomenda-se a recolha de
-      documentação adequada a este respeito, em relação às regras gerais anteriormente indicadas
-      relativas à confirmação da identidade de uma pessoa singular que apresente um pedido e, se o
-      responsável pelo tratamento tiver dúvidas razoáveis quanto à identidade de uma pessoa que atue em
-      nome do titular dos dados, deve solicitar informações adicionais para confirmar a identidade dessa
-      pessoa.
+81.   In doing so, national laws governing legal representation (e.g. powers of attorney), which may impose
+      specific requirements for demonstrating authorisation to make a request on behalf of the data subject,
+      should be taken into account, since the GDPR does not regulate this issue. In accordance with the
+      principle of accountability, as well as of the other data protection principles, controllers shall be able
+      to demonstrate the existence of the relevant authorisation to make a request on behalf of the data
+      subject, and to receive the requested information, except if national law differs (e.g. national law
+      contains specific rules regarding the trustworthiness of lawyers) leaving the controller to verify the
+      identity of the proxy (e.g. in the case of lawyers checking enrolment at the bar). Therefore, it is
+      recommended to collect appropriate documentation in this respect, in relation to the previously
+      indicated general rules regarding confirmation of identity of a natural person making a request and, if
+      the controller has reasonable doubts concerning the identity of a person acting on behalf of data
+      subject, it shall request additional information to confirm the identity of this person.
 
-82.   Embora o exercício do direito de acesso aos dados pessoais das pessoas falecidas constitua outro
-      exemplo de acesso por terceiros que não o titular dos dados, o considerando 27 especifica que o RGPD
-      não se aplica aos dados pessoais de pessoas falecidas. Por conseguinte, a questão é regulada pelo
-      direito nacional e os Estados-Membros podem prever regras relativas ao tratamento de dados pessoais
-      de pessoas falecidas. No entanto, cabe ter em conta que os dados podem igualmente dizer respeito a
-      terceiros vivos, por exemplo, no contexto do acesso solicitado à correspondência de uma pessoa
-      falecida. Continua a ser necessário manter a confidencialidade desses dados.
+82.   While the exercise of the right of access to personal data of deceased persons amounts to another
+      example of access by a third party other than the data subject, Recital 27 specifies that the GDPR does
+      not apply to the personal data of deceased persons. The matter is therefore dealt with by national law
+      and Member States may provide for rules regarding the processing of personal data of deceased
+      persons. However, it should be borne in mind that the data may, in addition, relate to living third
+      persons, e.g. in the context of requested access to a deceased person’s correspondence. The
+      confidentiality of such data still needs to be protected.
 
+      3.4.1 Exercise of the right of access on behalf of children
+
+83.   Children deserve specific protection with regard to their personal data, as they may be less aware of
+      the risks, consequences and safeguards concerning their rights in relation to the processing of personal
 
 
       40
-         Ver ponto 157 no que diz respeito aos prazos para o exercício do direito de acesso quando o responsável
-      pelo tratamento necessita de obter informações adicionais.
+         Regarding the time limits for exercising the right of access when the controller needs to obtain additional
+      information, see para. 157.
       41
-         Artigo 4.º, n.º 12, do RGPD.
+         Art. 4(12) GDPR.
 
 
-                                                           33
-      Adotadas
+                                                             29
+      Adopted
 
-      3.4.1 Exercício do direito de acesso em nome de crianças
+      data42. Any information and communication to a child, where personal data of a child are processed,
+      should be in clear and plain language so that the child can easily understand43.
 
-83.   As crianças merecem proteção especial quanto aos seus dados pessoais, uma vez que podem estar
-      menos cientes dos riscos, consequências e garantias relativamente aos direitos que lhes assistem em
-      matéria de tratamento dos dados pessoais42. Sempre que sejam tratados dados pessoais de uma
-      criança, qualquer informação e comunicação a ela dirigida deve estar redigida numa linguagem clara
-      e simples para que a criança a possa compreender facilmente43.
+84.   Children are data subjects in their own right and, as such, the right of access belongs to the child.
+      Depending on the maturity and capacity of the child, the child may need a third party to act on it’s
+      behalf e.g. the holder of parental responsibility.
 
-84.   As crianças são titulares de dados por direito próprio e, como tal, o direito de acesso pertence à
-      criança. Dependendo da sua maturidade e capacidade, a criança pode necessitar de um terceiro que
-      atue em seu nome, por exemplo, o titular da responsabilidade parental.
+85.   The best interests of the child should be a leading consideration in all decisions taken with respect to
+      the exercise of the right of access in the context of children, in particular where the right of access is
+      exercised on behalf of the child, for example, by the holder of parental authority.
 
-85.   O interesse superior da criança deve ser uma consideração determinante em todas as decisões
-      tomadas relativamente ao exercício do direito de acesso no caso das crianças, em especial quando é
-      exercido em nome da criança, por exemplo, pelo titular da autoridade parental.
+86.   Due to the special protection of children's personal data contained in the GDPR, the controller shall
+      take appropriate measures to avoid any disclosure of personal data of a minor to an unauthorised
+      person (in this respect see also section 3.4 above).
 
-86.   Devido à proteção especial dos dados pessoais das crianças prevista no RGPD, o responsável pelo
-      tratamento deve tomar as medidas adequadas para evitar a divulgação de dados pessoais de um
-      menor a pessoas não autorizadas (ver também a secção 3.4 supra a este respeito).
+87.   Finally, the right of the holder of parental responsibility to act on behalf of the child should not be
+      confused with instances, outside of data protection law, where national legislation may provide the
+      right of the holder of parental responsibility to ask and receive information on the child (e.g.
+      performance of the child at school).
 
-87.   Por último, o direito do titular da responsabilidade parental de atuar em nome da criança não deve ser
-      confundido com casos, fora do âmbito do direito em matéria de proteção de dados, em que a
-      legislação nacional pode prever o direito de o mesmo solicitar e receber informações sobre a criança
-      (por exemplo, o desempenho da criança na escola).
+      3.4.2 Exercising the right of access through portals / channels provided by a third party
 
-      3.4.2 Exercício do direito de acesso através de portais/canais disponibilizados por terceiros
+88.   There are companies that provide services which enable data subjects to make access requests
+      through a portal. The data subject signs in and gets access to a portal through which they can submit
+      for example an access request, request data rectification or data erasure from different controllers.
+      Different questions arise from the use of portals provided for by a third party.
 
-88.   Algumas empresas prestam serviços que permitem aos titulares dos dados apresentar pedidos de
-      acesso através de um portal. O titular dos dados inicia sessão e obtém acesso a um portal através do
-      qual pode apresentar, por exemplo, um pedido de acesso, um pedido de retificação dos dados ou de
-      supressão dos dados a diferentes responsáveis pelo tratamento. A utilização de portais
-      disponibilizados por terceiros suscita diferentes questões.
+89.   The first issue controllers need to deal with when facing these circumstances is to ensure that the third
+      party is acting legitimately on behalf of the data subject, as it is necessary to make sure that no data is
+      disclosed to unauthorised parties.
 
-89.   A primeira questão com a qual os responsáveis pelo tratamento têm de lidar quando se confrontam
-      com estas circunstâncias consiste em assegurar que o terceiro atua legitimamente em nome do titular
-      dos dados, uma vez que importa garantir que não são divulgados dados a terceiros não autorizados.
+90.   Additionally, a controller that receives a request made through such a portal needs, invariably, to
+      handle that request in a timely manner44. There is, however, no obligation for the controller to provide
+      the data under Art. 15 GDPR directly to the portal, if the controller, for example, establishes that the
+      security measures are insufficient or it would be deemed appropriate to use another way for the
+      disclosure of data to the data subject. Under such circumstances, when the controller has other
+      procedures in place to deal with access requests in an efficient and secure way, the controller can
+      provide the requested information through these procedures.
 
-90.   Além disso, um responsável pelo tratamento que receba um pedido apresentado através desse portal
-      necessita, invariavelmente, de tratar esse pedido em tempo útil44. No entanto, o responsável pelo
-      tratamento não tem qualquer obrigação de disponibilizar os dados ao abrigo do artigo 15.º do RGPD
-      diretamente ao portal se, por exemplo, determinar que as medidas de segurança são insuficientes ou
-      se considerar adequado utilizar outra forma para divulgar os dados ao seu titular. Nessas
-      circunstâncias, quando o responsável pelo tratamento dispõe de outros procedimentos para tratar os
+
 
 
       42
-         Considerando 38 do RGPD. Conforme previsto no programa de trabalho do CEPD, é sua intenção fornecer
-      orientações sobre os dados das crianças. Prevê-se que esse documento forneça orientações adicionais sobre as
-      condições em que uma criança pode exercer o seu próprio direito de acesso e o titular da responsabilidade
-      parental pode exercer o direito de acesso em nome da criança.
+         Recital 38 GDPR. As provided in the work programme of the EDPB, it is its intent to provide guidance on
+      children’s data. Such a document is expected to provide more guidance on the conditions under which a child
+      may exercise their own right of access, and the holder of parental responsibility can exercise the right of access
+      on behalf of the child.
       43
-         Considerando 58 do RGPD. Orientações do CEPD intituladas «EDPB Guidelines 05/2020 on consent under
-      Regulation 2016/679» (não traduzidas para português), secção 7.
+         Recital 58 GDPR. EDPB Guidelines 05/2020 on consent under Regulation 2016/679, section 7.
       44
-         Ver ponto 157 no que diz respeito aos prazos para o exercício do direito de acesso quando o responsável
-      pelo tratamento necessita de obter informações adicionais.
-                                                          34
-      Adotadas
-
-      pedidos de acesso de forma eficiente e segura, pode disponibilizar as informações solicitadas através
-      desses procedimentos.
+         Regarding the time limits for exercising the right of access when the controller needs to obtain additional
+      information, see para. 157
 
 
-      4 ÂMBITO DE APLICAÇÃO DO DIREITO DE ACESSO E DOS DADOS E
-        INFORMAÇÕES PESSOAIS A QUE SE REFERE
-91.   A presente secção visa esclarecer a definição de dados pessoais (4.1) e clarificar o âmbito das
-      informações abrangidas pelo direito de acesso em geral (4.2 e 4.3). Note-se que o âmbito de aplicação
-      do conceito de dados pessoais e, por conseguinte, a diferenciação entre dados pessoais e outros
-      dados, faz parte integrante da avaliação efetuada pelo responsável pelo tratamento para identificar o
-      âmbito de aplicação dos dados aos quais o titular dos dados tem o direito de obter acesso45.
+                                                             30
+      Adopted
 
-92.   A título preliminar, importa recordar que o direito de acesso só pode ser exercido no que diz respeito
-      ao tratamento de dados pessoais abrangidos pelo âmbito material e territorial do RGPD. Por
-      conseguinte, os dados pessoais que não sejam tratados por meios automatizados ou que não estejam
-      contidos em ficheiros nem a eles se destinem, nos termos do artigo 2.º, n.º 1, do RGPD, ou cujo
-      tratamento seja efetuado por uma pessoa singular no exercício de atividades exclusivamente pessoais
-      ou domésticas, nos termos do artigo 2.º, n.º 2, do RGPD, não estão abrangidos pelo direito de acesso.
+      4 SCOPE OF THE RIGHT OF ACCESS AND THE PERSONAL DATA AND
+        INFORMATION TO WHICH IT REFERS
+91.   The present section aims at shedding light on the definition of personal data (4.1) and clarifying the
+      scope of the information covered by the right of access in general (4.2 and 4.3). Of note is that the
+      scope of the concept of personal data and thus, the differentiation between personal data and other
+      data, is an integral part of the assessment carried out by the controller to identify the scope of the
+      data that the data subject is entitled to obtain access to45.
 
-      4.1 Definição de dados pessoais
+92.   As a preliminary consideration it should be recalled that the right of access can only be exercised with
+      regard to processing of personal data falling within the material and territorial scope of the GDPR.
+      Therefore, personal data that are not processed by automated means or that are not part of or
+      intended to become part of a filing system as per Art. 2(1) GDPR or processed by a natural person in
+      the course of a purely personal or household activity as per Art. 2 (2) GDPR, are not covered by the
+      right of access.
 
-93.   No artigo 15.º do RGPD, o n.º 1 e o n.º 3 referem-se, respetivamente, a «dados pessoais» e a «dados
-      pessoais em fase de tratamento». Por conseguinte, o âmbito de aplicação do direito de acesso é
-      determinado, em primeiro lugar, pelo âmbito de aplicação do conceito de dados pessoais, definido no
-      artigo 4.º, n.º 1, do RGPD46. O conceito de dados pessoais já foi abordado pelo Grupo do Artigo 29.º47
-      em vários documentos48 e interpretado pelo TJUE, nomeadamente no contexto do direito de acesso
-      previsto no artigo 12.º da Diretiva 95/46/CE.
+      4.1 Definition of personal data
 
-94.   O GT29 considerou que a definição de dados pessoais constante da Diretiva 95/46/CE «reflete a
-      intenção do legislador comunitário de uma noção ampla de “dados pessoais”»49. Nos termos do RGPD,
+93.   Art. 15(1) and (3) GDPR refer to “personal data”, and “personal data undergoing processing”,
+      respectively. Therefore, the scope of the right of access is first and foremost determined by the scope
+      of the concept of personal data, defined in Art. 4(1) GDPR46. The concept of personal data has already
+      been the subject of several Art. 29 Working Party47 documents48 and has been interpreted by the CJEU,
+      including in the context of the right of access under Art. 12 of the Directive 95/46/CE.
+
+94.   The WP29 considered that the definition of personal data in the Directive 95/46/EC “reflects the
+      intention of the European lawmaker for a wide notion of ‘personal data’”49. Under the GDPR, the
+      definition still refers to “any information relating to an identified or identifiable natural person”. Aside
+      from basic personal data like name and address, telephone number etc., unlimited broad variety of
+      data may fall within this definition, including medical findings, history of purchases, creditworthiness
+      indicators, communication contents, etc. In light of the broad scope of the definition of personal data,
+
+
 
 
       45
-         Em conformidade com o princípio da privacidade desde a conceção, essa análise faz parte da avaliação das
-      medidas e garantias adequadas para proteger os princípios da proteção de dados e os direitos dos seus titulares,
-      que é efetuada «tanto no momento de definição dos meios de tratamento como no momento do próprio
-      tratamento». Uma das métricas poderá ser, por exemplo, a redução do tempo de resposta quando os titulares
-      dos dados exercem os seus direitos. Para mais explicações, ver as orientações intituladas «Guidelines 4/2019 on
-      Article 25 data protection by design and by default» (não traduzidas para português).
+         In accordance with the principle of privacy by design, such analysis is part of the assessment of appropriate
+      measures and safeguards to protect data protection principles and data subject rights, which is carried out “at
+      the time of the determination of the means for processing and at the time of the processing itself”, e.g. reducing
+      the response time when data subjects exercise their rights may be one of the metrics. For further explanations,
+      see guidelines 4/2019 on Article 25 Data Protection by Design and by Default.
       46
-         Nos termos do artigo 4.º, n.º 1, «“dados pessoais”, informação relativa a uma pessoa singular identificada ou
-      identificável (“titular dos dados”); é considerada identificável uma pessoa singular que possa ser identificada, direta
-      ou indiretamente, em especial por referência a um identificador, como por exemplo um nome, um número de
-      identificação, dados de localização, identificadores por via eletrónica ou a um ou mais elementos específicos da
-      identidade física, fisiológica, genética, mental, económica, cultural ou social dessa pessoa singular;».
+         As per Art. 4(1) GDPR, “‘personal data’ means any information relating to an identified or identifiable natural person
+      (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by
+      reference to an identifier such as a name, an identification number, location data, an online identifier or to one or
+      more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural
+      person;”
       47
-         O Grupo do Artigo 29.º (GT29) é o grupo de trabalho europeu independente que abordou questões
-      relacionadas com a proteção da privacidade e dos dados pessoais até 25 de maio de 2018 (entrada em vigor do
-      RGPD), sendo o antecessor do CEPD.
+         The Art. 29 Working Party (Art. 29 WP) is the independent European working party that dealt with issues
+      relating to the protection of privacy and personal data until 25 May 2018 (entry into application of the GDPR),
+      the predecessor of the EDPB.
       48
-         Por exemplo, WP251 rev.01, Orientações sobre as decisões individuais automatizadas e a definição de perfis
-      para efeitos do Regulamento (UE) 2016/679, p. 19; Orientações do GT29 sobre o direito à portabilidade dos
-      dados — aprovadas pelo CEPD, p. 9.
+         e.g. WP251 rev01 Guidelines on automated individual decision-making and profiling for the purposes of
+      regulation 2016/679 i.e., p.19; WP29 Guidelines on the right to data portability - endorsed by the EDPB,p. 9.
       49
-         GT29, Parecer 4/2007 sobre o conceito de dados pessoais, p. 4.
+         WP29 Opinion 4/2007 on the concept of personal data, p. 4.
 
 
-                                                                35
-      Adotadas
+                                                                  31
+      Adopted
 
-      a definição continua a referir-se à «informação relativa a uma pessoa singular identificada ou
-      identificável». Para além dos dados pessoais de base, como o nome e o endereço, o número de
-      telefone, etc., esta definição pode abranger uma variedade ilimitada de dados, incluindo conclusões
-      médicas, histórico de compras, indicadores de solvabilidade, conteúdos de comunicação, etc. Tendo
-      em conta o âmbito alargado da definição de dados pessoais, uma avaliação restritiva dessa definição
-      pelo responsável pelo tratamento conduziria a uma classificação errada dos dados pessoais50 e, em
-      última análise, a uma violação do direito de acesso.
+      a restrictive assessment of that definition by the controller would lead to an erroneous classification
+      of personal data50 and ultimately to a violation of the right of access.
 
-95.   Nos processos apensos C-141/12 e C-372/1251, o TJUE decidiu que o direito de acesso abrangia os
-      dados pessoais contidos em minutas, nomeadamente «o nome, a data de nascimento, a
-      nacionalidade, o sexo, a etnia, a religião e a língua do requerente» e, «se for caso disso, os que figuram
-      na análise jurídica incluída na mesma», mas não a própria análise jurídica52. Neste contexto, a análise
-      jurídica não era, por si só, suscetível de ser objeto de uma verificação da exatidão nem de uma
-      retificação por parte do titular dos dados. Além disso, o acesso à análise jurídica não cumpre o objetivo
-      de garantir a privacidade, mas sim o acesso a documentos administrativos.
+95.   In joint cases C-141/12 and C-372/1251 the CJEU ruled that the right of access covered personal data
+      contained in minutes, namely the “name, date of birth, nationality, gender, ethnicity, religion and
+      language of the applicant” “and, “where relevant, the data in the legal analysis contained in the
+      minute”, but not the legal analysis itself52. The legal analysis was in this context not liable in itself to be
+      the subject of a check of its accuracy by the data subject nor of rectification. Furthermore, providing
+      access to the legal analysis does not fulfil the purpose of guaranteeing privacy but access to
+      administrative documents.
 
-96.   No processo Nowak53, o TJUE procedeu a uma análise mais ampla e considerou que as respostas
-      escritas dadas por um candidato num exame profissional e as eventuais anotações do examinador
-      relativas a essas respostas constituem dados pessoais que dizem respeito ao candidato ao exame. Mais
-      precisamente, essas informações subjetivas são dados pessoais «sob a forma de opiniões ou de
-      apreciações, na condição de “dizerem respeito” à pessoa em causa»54, por oposição às perguntas do
-      exame, que não são consideradas dados pessoais55. Assim, uma avaliação contextual deve esclarecer
-      o efeito ou o resultado que uma informação pode ter sobre uma pessoa singular e, por conseguinte, o
-      âmbito de aplicação do direito de acesso.
+96.   In Nowak53, the CJEU made a broader analysis and found that written answers submitted by a
+      candidate at a professional examination and any comments of an examiner with respect to those
+      answers constitute personal data concerning the exam candidate. More precisely, such subjective
+      information are personal data “in the form of opinions and assessments, provided that it ‘relates’ to
+      the data subject”54 as opposed to the examination questions, which are not considered personal
+      data55. Thus, a contextual assessment should shed light on the effect or result an information may have
+      on an individual and thus the scope of the right of access.
 
-      Exemplo 15: uma pessoa tem uma entrevista de emprego com uma empresa. Neste contexto, o
-      candidato a emprego entrega um CV e uma carta de candidatura. Durante a entrevista, o responsável
-      pelos recursos humanos toma notas num computador para documentar a entrevista. Posteriormente,
-      o candidato a emprego, na qualidade de titular dos dados, solicita o acesso aos dados pessoais que lhe
-      dizem respeito que a empresa, na qualidade de responsável pelo tratamento, recolheu durante o
-      processo de recrutamento.
+      Example 15: An individual has a job interview with a company. In this context, the job applicant hands
+      over a CV and an application letter. During the interview, the HR officer takes notes on a computer to
+      document the interview. Afterwards, the job applicant, as data subject requests access to personal
+      data relating to him or her that the company, as controller, collected in the course of the recruitment
+      procedure.
 
-      O responsável pelo tratamento é obrigado a fornecer-lhe os dados pessoais que este comunicou
-      expressamente no CV e na carta de candidatura. Além disso, o responsável pelo tratamento deve
-      fornecer ao titular dos dados o resumo da entrevista, incluindo as observações subjetivas sobre o
-      comportamento do titular dos dados que o responsável pelos recursos humanos tenha anotado
-      durante a entrevista, sob reserva de eventuais derrogações ao abrigo do direito nacional e em
-      conformidade com o artigo 23.º do RGPD.
+      The controller is obliged to provide the data subject with personal data actively communicated by
+      them in their CV and letter of application. Moreover, the controller needs to provide the data subject
+      with the summary of the interview, including the subjective comments on the behaviour of the data
+      subject the HR officer wrote during the job interview, subject to any exemptions under national law
+      and in compliance with Art. 23 GDPR.
+
+97.   Thus, subject to the specific facts of the case, when assessing a specific request for access, the following
+      types of data are, inter alia, to be provided by controllers without prejudice to Art. 15(4) GDPR:
+
+           -   Special categories of personal data as per Art. 9 GDPR;
+           -   Personal data relating to criminal convictions and offences as per Art. 10 GDPR;
+           -   Data knowingly and actively provided by the data subject (e.g. account data submitted via
+               forms, answers to a questionnaire)56;
+           -   Observed data or raw data provided by the data subject by virtue of the use of the service or
+               the device (e.g. data processed by connected objects, transaction history, activity logs such as
 
 
 
       50
-         Como informação não relativa a uma pessoa singular identificada ou identificável.
+         as information not relating to an identified or identifiable natural person.
       51
-         Acórdão do TJUE de 17 de julho de 2014, YS/Minister voor Immigratie, Integratie en Asiel e Minister voor
-      Immigratie, Integratie en Asiel/M e S, processos apensos C-141/12 e C-372/12, ECLI:EU:C:2014:2081.
+         CJEU, joined Cases C-141/12 and C-372/12, YS v Minister voor Immigratie, Integratie en Asiel and Minister voor
+      Immigratie, Integratie en Asiel v M and S, 17 July 2014.
       52
-         Acórdão do TJUE de 17 de julho de 2014, YS e o., processos apensos C-141/12 e C-372/12,
-      ECLI:EU:C:2014:2081, n.os 38 e 48.
+         CJEU, joined Cases C-141/12 and C-372/12, YS and Others, paras. 38 and 48.
       53
-         Acórdão do TJUE de 20 de dezembro de 2017, Peter Nowak/Data Protection Commissioner, C-434/16,
-      ECLI:EU:C:2017:994.
+         CJEU, C-434/16, Peter Nowak v Data Protection Commissioner, 20 December 2017.
       54
-         Acórdão do TJUE de 20 de dezembro de 2017, Nowak, C-434/16, ECLI:EU:C:2017:994, n.os 34-35.
+         CJEU, C 434/16, Nowak, paras. 34- 35.
       55
-         Acórdão do TJUE de 20 de dezembro de 2017, Nowak, C-434/16, ECLI:EU:C:2017:994, nº 58.
-
-
-                                                          36
-      Adotadas
-
-97.   Assim, sob reserva dos factos concretos do caso, ao avaliar um pedido específico de acesso, os
-      responsáveis pelo tratamento devem disponibilizar, entre outros, os tipos de dados a seguir indicados,
-      sem prejuízo do artigo 15.º, n.º 4, do RGPD:
-
-           -   categorias especiais de dados pessoais, nos termos do artigo 9.º do RGPD,
-           -   dados pessoais relacionados com condenações penais e infrações, nos termos do artigo 10.º
-               do RGPD,
-           -   dados fornecidos pelo titular dos dados de forma ativa e consciente (por exemplo, dados de
-               conta transmitidos através de formulários e respostas a um questionário)56,
-           -   dados observados ou dados brutos fornecidos pelo titular dos dados em virtude da utilização
-               do serviço ou do dispositivo (por exemplo, dados tratados por objetos conectados, histórico
-               de uma transação, registos de atividades, como registos de acesso, histórico da utilização de
-               um sítio Web, pesquisas realizadas, dados de localização, cliques, aspetos comportamentais
-               únicos de uma pessoa, como a caligrafia, digitação, forma particular de andar ou falar)57,
-           -   dados derivados de outros dados, em vez de serem fornecidos diretamente pelo titular dos
-               dados (por exemplo, rácio de crédito, classificação baseada nos atributos comuns dos titulares
-               dos dados e país de residência derivado do código postal)58,
-           -   dados inferidos a partir de outros dados, em vez de serem fornecidos diretamente pelo titular
-               dos dados (por exemplo, para atribuir uma pontuação de crédito ou cumprir regras de
-               combate ao branqueamento de capitais, resultados algorítmicos, resultados de um exame
-               médico ou de um processo de personalização ou recomendação)59,
-           -   dados pseudonimizados por oposição aos dados anonimizados (ver também a secção 3 das
-               presentes orientações).
-
-      Exemplo 16: os elementos que foram utilizados para tomar uma decisão sobre, por exemplo, a
-      promoção, o aumento salarial ou a nova afetação de funções do trabalhador (por exemplo, avaliações
-      anuais do desempenho, pedidos de formação, registos disciplinares, classificação, potencial de
-      carreira) são dados pessoais relativos a esse trabalhador. Assim, o titular dos dados pode aceder a
-      esses elementos mediante pedido e no respeito do artigo 15.º, n.º 4, do RGPD, caso os dados pessoais,
-      por exemplo, também digam respeito a outra pessoa (por exemplo, a identidade ou elementos que
-      revelem a identidade de outro trabalhador cujo testemunho sobre o desempenho profissional esteja
-      incluído numa avaliação anual do desempenho podem estar sujeitos a limitações nos termos do
-      artigo 15.º, n.º 4, do RGPD e, por conseguinte, é possível que não possam ser comunicados ao titular
-      dos dados a fim de proteger os direitos e liberdades do referido trabalhador). No entanto, podem
-      aplicar-se disposições da legislação laboral nacional, por exemplo, no que diz respeito ao acesso dos
-      trabalhadores aos processos do pessoal ou outras disposições nacionais, como as relativas ao sigilo
-      profissional. Em todas as circunstâncias, tais limitações ao exercício do direito de acesso do titular dos
-      dados (ou outros direitos) previstos numa lei nacional devem respeitar as condições do artigo 23.º do
-      RGPD (ver secção 6.4).
-
-
-
-
+         CJEU, C-434/16, Nowak, para. 58.
       56
-         Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, p. 9.
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9.
+
+
+                                                             32
+      Adopted
+
+               access logs, history of website usage, search activities, location data, clicking activity, unique
+               aspects of a person’s behaviour such as handwriting, keystrokes, particular way of walking or
+               speaking) 57;
+           -   Data derived from other data, rather than directly provided by the data subject (e.g. credit
+               ratio, classification based on common attributes of data subjects, country of residence derived
+               from postcode)58;
+           -   Data inferred from other data, rather than directly provided by the data subject (e.g. to assign
+               a credit score or comply with anti-money laundering rules, algorithmic results, results of a
+               health assessment or a personalization or recommendation process)59;
+           -   Pseudonymised data as opposed to anonymized data (see also section 3 of these guidelines).
+
+
+      Example 16: Elements that have been used to reach a decision about e.g. employee’s promotion, pay
+      rise or new job assignment (e.g. annual performance reviews, training requests, disciplinary records,
+      ranking, career potential) are personal data relating to that employee. Thus such elements can be
+      accessed by the data subject on request and respecting Art. 15(4) GDPR in case personal data for
+      example, also relate to another individual (e.g. the identity or elements revealing the identity of
+      another employee whose testimony about the professional performance is included in an annual
+      performance review may be subject to limitations under Art. 15(4) GDPR and hence it is possible that
+      they cannot be communicated to the data subject in order to protect the rights and freedoms of said
+      employee). Nevertheless, national labour law provisions may apply for instance regarding the access
+      to personnel files by employees or other national provisions such as those concerning professional
+      secrecy. Under all circumstances, such restrictions to the exercise of the right of access of the data
+      subject (or other rights) provided in a national law must respect the conditions of Art. 23 GDPR (see
+      section 6.4).
+
+98.   Several considerations may be drawn from the above non-exhaustive list of personal data which may
+      be provided to the data subject in the context of an access request. It is apparent from the above, that
+      the controller may not operate a distinction when providing access to personal data between those
+      data contained in paper files and those stored electronically as long as they fall within the scope of the
+      GDPR. In other words, personal data which are contained in paper files as part of a filing system, or
+      which are intended to form part of a filing system, are covered by the right of access in the same way
+      as personal data stored in a computer memory by means of, for example, binary code or videotape.
+
+99.   Moreover, like most data subject rights, the right of access includes both inferred and derived data,
+      including personal data created by a service provider, whereas the right to data portability only
+      includes data provided by the data subject60. Therefore, in case of an access request and unlike a data
+      portability request, the data subject should be provided not only with personal data provided to the
+
+
       57
-         GT29, Parecer 4/2007 sobre o conceito de dados pessoais, p. 8.
+         WP29 Opinion 4/2007 on the concept of personal data, p. 8
       58
-         Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, pp. 10-11.
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 10-11
       59
-         Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, pp. 10-11; Grupo do
-      Artigo 29.º, WP251 rev.01, de 6 de fevereiro de 2018, Orientações sobre as decisões individuais automatizadas
-      e a definição de perfis para efeitos do Regulamento (UE) 2016/679 — aprovadas pelo CEPD (a seguir designadas
-      por «Orientações do GT29 sobre as decisões individuais automatizadas e a definição de perfis — aprovadas pelo
-      CEPD»), pp. 9-10.
-                                                           37
-      Adotadas
-
-98.   É possível retirar várias considerações da lista não exaustiva de dados pessoais que podem ser
-      fornecidos ao titular dos dados no contexto de um pedido de acesso. Resulta do que precede que o
-      responsável pelo tratamento não pode estabelecer uma distinção entre os dados pessoais contidos
-      em ficheiros em papel e os dados armazenados eletronicamente, desde que sejam abrangidos pelo
-      âmbito de aplicação do RGPD. Por outras palavras, os dados pessoais em papel que façam parte de um
-      ficheiro, ou que se destinem a fazer parte de um ficheiro, estão abrangidos pelo direito de acesso do
-      mesmo modo que os dados pessoais armazenados na memória de um computador através, por
-      exemplo, de um código binário ou de uma fita de vídeo.
-
-99.   Além disso, como a maioria dos direitos dos titulares dos dados, o direito de acesso inclui tanto os
-      dados inferidos como os dados derivados, incluindo os dados pessoais criados por um prestador de
-      serviços, ao passo que o direito à portabilidade dos dados apenas inclui os dados fornecidos pelo titular
-      dos dados60. Por conseguinte, no caso de um pedido de acesso, e ao contrário de um pedido de
-      portabilidade dos dados, o titular dos dados deve receber não só os dados pessoais fornecidos ao
-      responsável pelo tratamento a fim de efetuar uma análise ou avaliação subsequente sobre esses
-      dados, mas também o resultado de qualquer análise ou avaliação subsequente.
-
-100. É igualmente importante recordar que existem informações, como dados anónimos61, que não estão
-     direta ou indiretamente relacionados com uma pessoa identificável e que, por conseguinte, estão
-     excluídas do âmbito de aplicação do RGPD. Por exemplo, a localização do servidor em que os dados
-     pessoais do titular dos dados são tratados não são dados pessoais. A distinção pode ser difícil e os
-     responsáveis pelo tratamento podem perguntar-se como estabelecer uma distinção clara entre dados
-     pessoais e não pessoais, em especial no caso de conjuntos de dados mistos. Nesse caso, pode ser útil
-     fazer a distinção entre conjuntos de dados mistos, em que os dados pessoais e não pessoais estão
-     indissociavelmente ligados, e aqueles em que tal não é o caso. Os dados pessoais e não pessoais podem
-     estar indissociavelmente ligados em conjuntos de dados mistos e ser abrangidos pelo âmbito de
-     aplicação do direito de acesso do titular dos dados a que os dados pessoais se referem62. Noutros
-     casos, os dados pessoais e não pessoais em conjuntos de dados mistos podem não estar
-     indissociavelmente ligados, tornando apenas os dados pessoais do conjunto acessíveis ao titular dos
-     dados. Por exemplo, uma empresa pode ter de fornecer a um titular de dados os relatórios individuais
-     de incidentes informáticos que desencadeou, mas não a base de dados de conhecimentos da empresa
-     sobre problemas informáticos. No entanto, as medidas de segurança adotadas pelo responsável pelo
-     tratamento não devem, em geral, ser entendidas como dados pessoais, desde que não estejam
-     indissociavelmente ligadas a dados pessoais e, por conseguinte, não estejam abrangidas pelo direito
-     de acesso.
-
-101. Antes de concluir a secção, o CEPD recorda, neste contexto, que a proteção das pessoas singulares no
-     que diz respeito ao tratamento de dados pessoais abrange todos os tipos de dados pessoais acima
-     enumerados e que uma interpretação restritiva da definição viola as disposições do RGPD e, em última
-     análise, o artigo 8.º da Carta dos Direitos Fundamentais. A aplicação de um regime diferente para o
-     exercício de um direito relacionado com alguns tipos de dados pessoais, que não foi previsto no RGPD,
-
-
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p.10-11; Art. 29 Working Party, WP
+      251 rev.01, 6 February 2018, Guidelines on Automated individual decision-making and Profiling for the purposes
+      of Regulation 2016/679 - endorsed by the EDPB (hereinafter “WP29 Guidelines on Automated individual
+      decision-making and profiling - endorsed by the EDPB”), p. 9-10.
       60
-         Conforme anteriormente referido nas Orientações do GT29 sobre o direito à portabilidade dos dados —
-      aprovadas pelo CEPD, p. 10, e reiteradas nas Orientações do GT29 sobre as decisões individuais automatizadas
-      e a definição de perfis — aprovadas pelo CEPD, p. 17.
+         As previously stated in WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 10 and
+      reiterated in WP29 Guidelines on Automated individual decision-making and profiling - endorsed by the EDPB,
+      p. 17.
+
+
+                                                           33
+      Adopted
+
+      controller in order to make a subsequent analysis or assessment about these data but also with the
+      result of any such subsequent analysis or assessment.
+
+100. It also is important to recall that there is information, such as anonymous data61, which is data that do
+     not relate directly or indirectly to an identifiable person, and that are hence excluded from the scope
+     of the GDPR. For example, the location of the server on which the personal data of the data subject
+     processed is not personal data. The distinction can be challenging and controllers may wonder how to
+     draw a clear line between personal and non-personal data in particular in the case of mixed datasets.
+     In such case it may be useful to differentiate between mixed datasets in which personal and non-
+     personal data are inextricably linked and those in which this is not the case. Personal and non-personal
+     data may be inextricably linked in mixed datasets and fall altogether under the scope of the right of
+     access of the data subject to which the personal data relates62. In other cases personal and non-
+     personal data in mixed datasets may not be inextricably linked rendering only the personal data in the
+     set accessible to the data subject. For example, a company might need to provide a data subject with
+     the individual IT incident reports it triggered, but not with the company’s knowledge database of IT
+     problems. However, which security measures the controller has put in place is generally not to be
+     understood as being personal data, provided that these are not inextricably linked with personal data,
+     and therefore not covered by the right of access.
+
+101. Before concluding the section, the EDPB recalls in this context that the protection of natural persons
+     with regard to the processing of personal data encompasses all the types of personal data listed above
+     and that a restrictive interpretation of the definition contravenes the provisions of the GDPR and
+     ultimately violates Art. 8 of the Charter of Fundamental Rights. The application of a differing regime
+     for the exercise of a right in relation to some types of personal data, which has not been foreseen by
+     the GDPR can be introduced exclusively by law, in accordance with Art. 23 GDPR (as further explained
+     in section 6.4). Thus, controllers cannot limit the exercise of the right of access by unduly restricting
+     the scope of personal data.
+
+      4.2 The personal data the right of access refers to
+
+102. According to Art. 15(1) GDPR, “the data subject shall have the right to obtain from the controller
+     confirmation as to whether or not personal data concerning him or her are being processed, and, where
+     that is the case, access to the personal data and the following information”(emphasis added).
+
+103. Several elements emerge from paragraph (1) of Art. 15 GDPR. The paragraph refers expressis verbis to
+     “personal data concerning him or her”(4.2.1) , which “are being processed”(4.2.2) by the controller:
+
+      4.2.1 “personal data concerning him or her”
+
+104. The right of access can be exercised exclusively with regard to personal data relating to the data subject
+      requesting access or, where applicable, by an authorised person or proxy (see section 3.4). There are
+      also situations in which data do not have a link to the person exercising the right of access but to
+
+
+
+
       61
-         Para mais explicações sobre o conceito de anonimização, consultar o Parecer 05/2014 sobre técnicas de
-      anonimização do Grupo do Artigo 29.º, WP216, 10 de abril de 2014, pp. 5-19.
+         Further explanations on the concept of anonymization can be found in Art. 29 Working Party, Opinion 05/2014
+      on Anonymisation Techniques, WP216, 10 April 2014, p. 5-19.
       62
-         Comunicação da Comissão ao Parlamento Europeu e ao Conselho — Orientações sobre o regulamento relativo
-      a um quadro para o livre fluxo de dados não pessoais na União Europeia [COM(2019) 250 final de 29 de maio de
-      2019].
-                                                          38
-      Adotadas
-
-      só pode ser introduzida por lei, em conformidade com o artigo 23.º do RGPD (como a seguir se explica
-      na secção 6.4). Assim, os responsáveis pelo tratamento não podem limitar o exercício do direito de
-      acesso ao limitar indevidamente o âmbito dos dados pessoais.
+         Communication from the Commission to the European Parliament and the Council, Guidance on the Regulation
+      on a framework for the free flow of non-personal data in the European Union, 29.05.2019, COM/2019/250 final.
 
 
+                                                           34
+      Adopted
 
-      4.2 Os dados pessoais a que se refere o direito de acesso
+      another individual. The data subject is however, only entitled to personal data relating to themselves
+      excluding data which exclusively concern someone else63.
 
-102. De acordo com o artigo 15.º, n.º 1, do RGPD, «o titular dos dados tem o direito de obter do responsável
-     pelo tratamento a confirmação de que os dados pessoais que lhe digam respeito são ou não objeto de
-     tratamento e, se for esse o caso, o direito de aceder aos seus dados pessoais e às seguintes
-     informações» (sublinhado nosso).
+105. The classification of data as personal data concerning the data subject does, however, not depend
+     upon the fact that those personal data also relate to someone else64. It is thus possible that personal
+     data relate to more than one individual at the same time. This does not automatically mean that access
+     to personal data also relating to someone else should be granted, as the controller needs to comply
+     with Art. 15(4) GDPR.
 
-103. Vários elementos emergem do artigo 15.º, n.º 1, do RGPD, que refere expressis verbis «dados pessoais
-     que lhe digam respeito» (4.2.1), que «são […] objeto de tratamento» (4.2.2) pelo responsável pelo
-     tratamento:
+106. The words “personal data concerning him or her” should not be interpreted in an “overly restrictive”
+     way by controllers, as the Art. 29 Working Party already stated with regard to the right to data
+     portability65. Applied to the right of access, the EDPB considers for example that recordings of
+     telephone conversations (and their transcription) between the data subject that requests access and
+     the controller, may fall under the right of access provided that the latter are personal data66. Provided
+     that the GDPR applies and that the processing is not covered by the household exemption as per
+     Art. 2(2)(c) GDPR, if the data subject uses the obtained record which includes personal data of the
+     interlocutor for other purposes by, for instance, publishing the record, the data subject will become a
+     controller for this processing of personal data relating to the other person whose voice was recorded.
+     Although this will not exempt the controller from its data protection obligations when duly analysing
+     whether access to the full record may be given, the controller is encouraged to inform the data subject
+     about the fact that they may become controller in such case. This is without prejudice to any further
+     assessment under Art. 15(4) GDPR detailed in section 6. In the same vein, messages that data subjects
+     have sent to others in the form of interpersonal messages and deleted themselves from their device,
+     that are still avaible to the service provider, may fall under the right of access.
 
-      4.2.1 «Dados pessoais que lhe digam respeito»
+107. Then again, there are situations in which the link between the data and several individuals may seem
+     blurred to the controller, such as in the case of identity theft. In case of identity theft, a person
+     fraudulently acts in the name of another person. In this context it is important to recall that the victim
+     should be provided with information on all personal data the controller stores in connection with their
+     identity, including those that have been collected on the basis of the fraudster’s actions. In other
+     words, even after the controller learned about the identity theft, personal data which are associated
+     with or related to the identity of the victim constitute personal data of the data subject.
 
-104. O direito de acesso pode ser exercido exclusivamente no que diz respeito aos dados pessoais relativos
-      ao titular dos dados que solicita o acesso ou, se for caso disso, por uma pessoa autorizada ou por um
-      intermediário (ver secção 3.4). Existem também situações em que os dados não estão associados à
-      pessoa que exerce o direito de acesso, mas sim a outra pessoa. No entanto, o titular dos dados só tem
-      direito aos dados pessoais que lhe digam respeito, excluindo os dados que digam exclusivamente
-      respeito a outra pessoa63.
 
-105. Contudo, a classificação dos dados como dados pessoais que digam respeito ao titular dos dados não
-     depende do facto de esses dados pessoais também se referirem a outra pessoa64. Por conseguinte, é
-     possível que os dados pessoais digam respeito a mais do que uma pessoa ao mesmo tempo. Tal não
-     significa automaticamente que deva ser concedido acesso a dados pessoais também relativos a outra
-     pessoa, uma vez que o responsável pelo tratamento tem de cumprir o disposto no artigo 15.º, n.º 4,
-     do RGPD.
-
-106. A expressão «dados pessoais que lhe digam respeito» não deve ser interpretada de forma «demasiado
-     restritiva» pelos responsáveis pelo tratamento, como o Grupo do Artigo 29.º já tinha declarado no que
-     diz respeito ao direito à portabilidade dos dados65. Aplicado ao direito de acesso, o CEPD considera,
 
 
       63
-         Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, p. 9: «Apenas os dados
-      pessoais são abrangidos pelo âmbito de um pedido de portabilidade dos dados. Por conseguinte, todos os dados
-      que sejam anónimos ou não digam respeito ao titular dos dados não se inserem neste âmbito. Todavia, os dados
-      sob pseudónimos que possam claramente ser associados a um titular de dados (p. ex., quando este fornece o
-      respetivo identificador; ver artigo 11.º, n.º 2) são abrangidos pelo âmbito.»
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9: “Only personal data is in scope
+      of a data portability request. Therefore, any data that is anonymous or does not concern the data subject, will
+      not be in scope. However, pseudonymous data that can be clearly linked to a data subject (e.g. by them providing
+      the respective identifier, cf. Article 11 (2)) is within the scope.”
       64
-         Acórdão do TJUE de 20 de dezembro de 2017, Peter Nowak/Data Protection Commissioner, C-434/16,
-      ECLI:EU:C:2017:994, n.º 44.
+         CJEU, judgment in case C-434/16 Peter Nowak v. Data Protection Commissioner, 2017, para. 44.
       65
-         Orientações do GT29 sobre o direito à portabilidade dos dados — aprovadas pelo CEPD, p. 9: Em diversas
-      circunstâncias, os responsáveis pelo tratamento procedem ao tratamento de informações que contêm os dados
-      pessoais de vários titulares de dados. Nestes casos, os responsáveis pelo tratamento não devem fazer uma
-      interpretação demasiado restritiva da frase «dados pessoais no que diz respeito ao titular dos dados». A título de
-      exemplo, os registos de chamadas telefónicas e de VoIP ou de mensagens interpessoais podem incluir (no
-      histórico da conta do assinante) informação detalhada sobre terceiros que participaram nas chamadas recebidas
-      ou efetuadas. Embora os registos contenham, portanto, dados pessoais relativos a várias pessoas, os assinantes
-
-
-                                                             39
-      Adotadas
-
-      por exemplo, que as gravações de conversas telefónicas (e a sua transcrição) entre o titular dos dados
-      que solicita o acesso e o responsável pelo tratamento podem ser abrangidas pelo direito de acesso,
-      desde que estas últimas sejam dados pessoais66. Desde que o RGPD seja aplicável e que o tratamento
-      não esteja abrangido pela isenção relativa às atividades domésticas nos termos do artigo 2.º, n.º 2,
-      alínea c), do RGPD, se o titular dos dados utilizar a gravação obtida, que inclui dados pessoais do
-      interlocutor, para outros fins, por exemplo, ao publicar a gravação, o titular dos dados tornar-se-á
-      responsável pelo tratamento dos dados pessoais relativos à outra pessoa cuja voz foi gravada. Embora
-      tal não isente o responsável pelo tratamento das suas obrigações em matéria de proteção de dados
-      de analisar devidamente a possibilidade de dar acesso à gravação completa, o responsável pelo
-      tratamento é incentivado a informar o titular dos dados de que, nesse caso, pode tornar-se
-      responsável pelo tratamento. Tal não prejudica qualquer avaliação mais aprofundada nos termos do
-      artigo 15.º, n.º 4, do RGPD, descrita na secção 6. Na mesma ordem de ideias, as mensagens que os
-      titulares dos dados enviaram a terceiros sob a forma de mensagens interpessoais e apagaram do seu
-      dispositivo, que continuem acessíveis ao prestador de serviços, podem ser abrangidas pelo direito de
-      acesso.
-
-107. Mais uma vez, há situações em que a ligação entre os dados e várias pessoas pode não ser nítida para
-     o responsável pelo tratamento, como no caso de usurpação de identidade. Em caso de usurpação de
-     identidade, uma pessoa atua fraudulentamente em nome de outrem. Neste contexto, é importante
-     recordar que a vítima deve receber informações sobre todos os dados pessoais que o responsável pelo
-     tratamento conserva relativamente à sua identidade, incluindo os que foram recolhidos com base nos
-     atos do autor de fraude. Por outras palavras, mesmo depois de o responsável pelo tratamento ter tido
-     conhecimento da usurpação de identidade, os dados pessoais associados ou relacionados com a
-     identidade da vítima constituem dados pessoais do titular dos dados.
-
-    Exemplo 17: uma pessoa utiliza fraudulentamente a identidade de outra pessoa para jogar póquer em
-    linha. O autor do crime paga ao casino em linha com o cartão de crédito que roubou à vítima. Quando a
-    vítima descobre a usurpação de identidade, solicita ao prestador do casino em linha que lhe faculte o
-    acesso aos seus dados pessoais e, mais especificamente, aos jogos em linha realizados e às informações
-    sobre o cartão de crédito utilizado pelo autor do crime.
-
-    Existe uma ligação entre os dados recolhidos e a vítima, uma vez que foi utilizada a identidade desta
-    última. Após a deteção da fraude, os dados pessoais acima referidos continuam a ter uma ligação devido
-    ao seu conteúdo (o cartão de crédito da vítima diz claramente respeito à vítima), à finalidade e ao efeito
-    (as informações sobre os jogos em que o autor do crime participou, por exemplo, podem ser utilizadas
-    para emitir faturas à vítima). Por conseguinte, o casino em linha deve conceder à vítima o acesso aos
-    dados pessoais acima referidos.
-
-
-108. Se for caso disso, podem ser utilizados registos de ligação interna para guardar um registo sobre os
-     acessos a um ficheiro e para rastrear as ações realizadas no âmbito de acessos a um registo, como a
-     impressão, cópia ou supressão de dados pessoais. Estes registos podem incluir a hora do registo e o
-     motivo do acesso ao ficheiro, bem como as informações que identificam a pessoa que teve acesso. Um
-     processo atualmente pendente no TJUE (C-579/21) aborda questões relacionadas com este tema. A
-
-
-      devem poder aceder a estes registos no seguimento de pedidos de portabilidade dos dados, uma vez que os
-      registos dizem (igualmente) respeito ao titular dos dados. No entanto, se esses registos forem subsequentemente
-      transmitidos a um novo responsável pelo tratamento, este último não deve tratá-los para qualquer finalidade
-      suscetível de prejudicar os direitos e as liberdades de terceiros (ver infra: terceira condição).
+         WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9: In many circumstances,
+      controllers will process information that contains the personal data of several data subjects. Where this is the
+      case, controllers should not take an overly restrictive interpretation of the sentence “personal data concerning
+      the data subject”. As an example, telephone, interpersonal messaging or VoIP records may include (in the
+      subscriber’s account history) details of third parties involved in incoming and outgoing calls. Although records will
+      therefore contain personal data concerning multiple people, subscribers should be able to have these records
+      provided to them in response to data portability requests, because the records are (also) concerning the data
+      subject. However, where such records are then transmitted to a new controller, this new controller should not
+      process them for any purpose which would adversely affect the rights and freedoms of the third-parties (see
+      below: third condition).”
       66
-         Ver exemplo 34, na secção 6.2.
-                                                            40
-      Adotadas
+         See example 34 in section 6.2.
+                                                               35
+      Adopted
 
-      aplicação, supervisão e revisão dos registos de ligação incumbem ao responsável pelo tratamento e
-      podem ser verificadas pelas autoridades de controlo. O responsável pelo tratamento deve, por
-      conseguinte, certificar-se de que as pessoas que atuam sob a sua autoridade e que têm acesso a dados
-      pessoais não procedem ao tratamento de dados pessoais, exceto por instrução do responsável pelo
-      tratamento, nos termos do artigo 29.º do RGPD. Se, no entanto, a pessoa tratar os dados pessoais para
-      outros fins que não o cumprimento das instruções do responsável pelo tratamento, pode tornar-se
-      responsável pelo tratamento e ser alvo de processos disciplinares ou penais ou de sanções
-      administrativas impostas pelas autoridades de controlo. O CEPD observa que, nos termos do
-      artigo 24.º do RGPD, faz parte da responsabilidade do empregador recorrer a medidas adequadas,
-      desde formação até processos disciplinares, a fim de assegurar que o tratamento está em
-      conformidade com o RGPD e que não ocorre qualquer infração.
+    Example 17: An individual fraudulently uses the identity of someone else in order to play poker online.
+    The perpetrator pays the online casino using the credit card they stole from the victim. When the victim
+    finds out about the identity theft, the victim asks the provider of the online casino to provide him or her
+    with access to his or her personal data and more specifically, to the online games played and information
+    about the credit card used by the perpetrator.
 
-      4.2.2 Dados pessoais que são «objeto de tratamento»
+    There is a link between the collected data and the victim as the latter’s identity has been used. After the
+    detection of the fraud, the personal data mentioned above still has a link by reason of their content (the
+    victim’s credit card is clearly about the victim), purpose and effect (the information about the online
+    games played by the perpetrator may for instance be used to issue invoices to the victim). Therefore,
+    the online casino shall grant the victim access to the aforementioned personal data.
 
-109. O artigo 15.º, n.º 1, do RGPD refere-se igualmente a dados pessoais que são «objeto de tratamento».
-     O momento de referência para determinar o leque de dados pessoais abrangidos pelo pedido de
-     acesso foi já abordado na secção 2.3.3. No entanto, a redação também sugere que o direito de acesso
-     não faz a distinção entre as finalidades das operações de tratamento.
+108. If appropriate, internal connection logs can be used to hold record about accesses to a file and to trace
+     back which actions were performed in connection with accesses to a record, such as printing, copying,
+     or deleting personal data. These logs may include the time of logging, the reason for the access to file
+     as well as information identifying the person having had access. Questions related to this topic are at
+     issue in a case currently pending before the CJEU (C-579/21). The putting in place and the supervision
+     and revision of connection logs fall within the controller’s responsibility and are liable to be checked
+     by the supervisory authorities. The controller should thus make sure that the persons acting under its
+     authority who have access to personal data do not process personal data except on instructions from
+     the controller, as per Art. 29 GDPR. If the person nevertheless processes the personal data for other
+     purposes than fulfilling the controller’s instructions, it may become controller for that processing and
+     subject to disciplinary or criminal proceedings or administrative sanctions issued by supervisory
+     authorities. The EDPB notes that it is part of the employer’s responsibility under Art. 24 GDPR to make
+     use of appropriate measures, extending from education to disciplinary procedures, to ensure that
+     processing is in compliance with the GDPR and that no infringement occurs.
 
-      Exemplo 18: uma empresa tratou dados pessoais relativos a um titular de dados a fim de tratar a sua
-      ordem de compra e organizar o envio para o endereço do mesmo. Após estas finalidades iniciais para
-      as quais os dados pessoais foram recolhidos, o responsável pelo tratamento conserva alguns dos dados
-      pessoais unicamente para cumprir as suas obrigações legais em matéria de conservação de registos.
+      4.2.2 Personal data which “are being processed”
 
-      O titular dos dados solicita o acesso aos dados pessoais que lhe dizem respeito. Para cumprir a
-      obrigação que lhe incumbe por força do artigo 15.º, n.º 1, do RGPD, o responsável pelo tratamento
-      deve fornecer ao titular dos dados os dados pessoais solicitados que foram conservados para cumprir
-      as obrigações legais.
+109. Paragraph (1) of Art. 15 GDPR moreover refers to personal data, which “are being processed”. The
+     time reference point for determining the range of personal data falling within the access request has
+     already been elaborated in section 2.3.3. The wording however also suggests that the right of access
+     does not distinguish between the purposes of the processing operations.
 
-110. Os dados pessoais arquivados devem ser diferenciados dos dados de salvaguarda, que são dados
-     pessoais armazenados exclusivamente para efeitos de restauro dos dados em caso de perda dos
-     mesmos. Importa salientar que, no que diz respeito aos princípios da proteção de dados desde a
-     conceção e da minimização dos dados, os dados de salvaguarda são, em princípio, semelhantes aos
-     dados que se encontram no sistema operacional. Quando existem ligeiras diferenças entre os dados
-     pessoais no sistema de salvaguarda e no sistema de produção ativo, estas estão geralmente associadas
-     à recolha de dados adicionais desde a última cópia de segurança. Nalguns casos, uma diminuição dos
-     dados no sistema ativo (por exemplo, o apagamento após o termo do período de conservação de
-     alguns dados ou na sequência de um pedido de apagamento) só será aplicada nos dados de
-     salvaguarda no momento da cópia de segurança subsequente. Caso surja um pedido de acesso no
-     momento em que existam mais dados pessoais relativos ao titular dos dados no sistema de
-     salvaguarda do que no sistema ativo ou dados pessoais diferentes (percetíveis, por exemplo, através
-     de um registo de supressões no sistema de produção ativo executado em plena conformidade com o
-     princípio da minimização dos dados), o responsável pelo tratamento deve ser transparente sobre a
-     situação e, sempre que tecnicamente viável, facultar o acesso solicitado pelo titular dos dados,
-     incluindo aos dados pessoais armazenados na cópia de segurança. Por exemplo, com o intuito de ser
-     transparente para os titulares dos dados que exercem o seu direito, um registo das supressões no
-     sistema de produção ativo pode permitir ao responsável pelo tratamento verificar que existem dados
-     de salvaguarda que já não se encontram no sistema ativo, uma vez que foram recentemente
-     suprimidos e ainda não foram substituídos na cópia de segurança.
+      Example 18: A company processed personal data relating to a data subject in order to process their
+      purchase order and arrange shipping to data subject’s home address. After these initial purposes for
+      which the personal data were collected no longer exist, the controller keeps some of the personal data
+      solely to comply with its legal obligations relating to the keeping of records.
 
-                                                       41
-      Adotadas
+      The data subject requests access to personal data relating to them. To comply with its obligation under
+      article 15 (1) GDPR, the controller needs to provide the data subject with the requested personal data
+      which are stored to comply with its legal obligations.
 
-      4.2.3 Âmbito de um novo pedido de acesso
+110. Archived personal data needs to be distinguished from back-up data that is personal data stored solely
+     for the purpose of restoring the data in the case of a data loss event. It should be pointed out, that in
+     respect of the principles of data protection by design and data minimisation, the back-up data is in
+     principle similar to the data in the live system. Where there are slight differences between personal
+     data in the back-up and the live production system, these are generally linked to the collection of
+     additional data since the last back-up. A decrease in data in the live system (e.g. erasure after the
+     retention period of some data came to an end or following an erasure request) will in some cases only
 
-111. Resta dizer que os titulares dos dados têm o direito de aceder a todos os dados tratados que lhes
-     digam respeito, ou a partes desses dados, em função do âmbito do pedido (ver também a secção 2.3.1
-     sobre a exaustividade das informações e a secção 3.1.1 relativa à análise do conteúdo do pedido).
-     Consequentemente, se um responsável pelo tratamento já tiver satisfeito um pedido de acesso no
-     passado, e desde que o pedido não seja excessivo, o responsável pelo tratamento não pode restringir
-     o âmbito deste novo pedido. Tal significa que, em relação a qualquer novo pedido de acesso do mesmo
-     titular de dados, o responsável pelo tratamento não deve informar o titular dos dados apenas das
-     meras alterações dos dados pessoais tratados ou do próprio tratamento desde o último pedido, salvo
-     se o titular dos dados concordar expressamente com tal. Caso contrário, os titulares dos dados seriam
-     obrigados a compilar os seus dados pessoais fornecidos para obter um conjunto completo de dados
-     pessoais relativos às suas informações sobre o tratamento e os direitos dos titulares dos dados.
+                                                         36
+      Adopted
 
-      4.3 Informações sobre o tratamento e os direitos dos titulares dos dados
+      be overwritten in the back-up data at the time of the subsequent back-up. In case there is an access
+      request at the moment where there are more personal data relating to the data subject in the back-
+      up than in the live system or different personal data (noticeable for example via log of deletions in the
+      live production system implemented in full compliance with the principle of data minimisation), the
+      controller needs to be transparent about this situation and where technically feasible provide access
+      as requested by the data subject, including to personal data stored in the back-up. For instance, with
+      the aim of being transparent to data subjects who exercise their right, a log of deletions in the live
+      production system may enable the controller to see that there are data in the back-up which are not
+      in the live system anymore as they have been recently deleted has and have not yet been overwritten
+      in the back-up.
 
-112. Para além do acesso aos próprios dados pessoais, o responsável pelo tratamento deve prestar
-     informações sobre o tratamento e os direitos dos titulares dos dados, em conformidade com o
-     artigo 15.º, n.º 1, alíneas a) a h), e o artigo 15.º, n.º 2, do RGPD. A maioria das informações sobre esses
-     pontos específicos já está compilada, pelo menos de forma geral, no registo de todas as atividades de
-     tratamento do responsável pelo tratamento a que se refere o artigo 30.º do RGPD e/ou na sua
-     declaração de confidencialidade elaborada em conformidade com os artigos 12.º a 14.º do RGPD. Por
-     conseguinte, como primeiro passo, poderá ser útil consultar as «Orientações relativas à transparência
-     na aceção do Regulamento 2016/679»67 do Grupo do Artigo 29.º sobre o conteúdo das informações a
-     fornecer nos termos dos artigos 13.º e 14.º do RGPD.
+      4.2.3 The scope of a new request to access
 
-113. A fim de cumprir o disposto no artigo 15.º, n.º 1, alíneas a) a h), e no artigo 15.º, n.º 2, os responsáveis
-     pelo tratamento podem utilizar com precaução módulos de texto da sua declaração de
-     confidencialidade, desde que se certifiquem de que estão atualizados e são precisos no que diz
-     respeito ao pedido do titular dos dados. Antes ou no início do tratamento dos dados, muitas vezes
-     ainda não é possível fornecer algumas informações, como a identificação de destinatários específicos
-     ou a duração específica do tratamento de dados. Algumas informações, como, por exemplo, o direito
-     de apresentar reclamação a uma autoridade de controlo [ver artigo 15.º, n.º 1, alínea f)], não mudam
-     em função da pessoa que apresenta o pedido de acesso. Por conseguinte, podem ser comunicadas em
-     termos gerais, como também acontece na declaração de confidencialidade. Outros tipos de
-     informações, como as informações sobre os destinatários, as categorias e a origem dos dados, podem
-     variar em função de quem apresenta o pedido e do âmbito do pedido. No contexto de um pedido de
-     acesso nos termos do artigo 15.º, qualquer informação sobre o tratamento à disposição do
-     responsável pelo tratamento pode, por conseguinte, ter de ser atualizada e adaptada às operações de
-     tratamento efetivamente efetuadas em relação ao titular dos dados que apresenta o pedido. Assim,
-     remeter para a redação da sua política de confidencialidade não seria uma forma suficiente de o
-     responsável pelo tratamento fornecer as informações exigidas pelo artigo 15.º, n.º 1, alíneas a) a h), e
-     n.º 2, a menos que a informação «personalizada e atualizada» seja a mesma que a informação
-     fornecida no início do tratamento. Ao explicar quais são as informações relativas à pessoa requerente,
-     o responsável pelo tratamento pode, se for caso disso, referir-se a determinadas atividades (como «se
+111. What remains to say is that data subjects are entitled to have access to all data processed relating to
+     them, or to parts of the data, depending on the scope of the request (see also 2.3.1 on the
+     completeness of the information and 3.1.1 for the analysis of the content of the request). As a
+     consequence, where a controller already complied with a request for access in the past and provided
+     that the request is not excessive, the controller cannot narrow the scope of this new request. This
+     means that in relation to any further access request of the same data subject, the controller should
+     not inform the data subject only about the mere changes in the personal data processed or the
+     processing itself since the last request, unless the data subject expressly agrees to this. Otherwise, data
+     subjects would be obliged to compile their personal data provided in order to a complete set of
+     personal data concerning their information on the processing and on data subjects rights.
+
+      4.3 Information on the processing and on data subject rights
+
+112. In addition to the access to the personal data themselves, the controller has to provide information on
+     the processing and on data subject rights according to Art. 15(1)(a) to (h) and 15(2) GDPR. Most of the
+     information on those specific points is already compiled, at least in general form, in the controller’s
+     record of processing activities referred to in Art. 30 GDPR and/or in its privacy notice elaborated in
+     accordance with Art.s 12 to 14 GDPR. Therefore, it might be helpful as a first step to consult the
+     “Guidelines on transparency under Regulation 2016/679” 67 of the Art. 29 Working Party, on the
+     content of the information to be given under Art. 13 and 14 GDPR.
+
+113. In order to comply with Art. 15(1)(a) to (h) and 15(2), controllers may carefully use text modules of
+     their privacy notice as long as they make sure that they are up-to-date and precise with regards to the
+     request of the data subject. Before or at the beginning of the data processing, some information, such
+     as the identification of specific recipients or the specific duration of the data processing, can often not
+     yet be provided. Some information, like for example the right to complain to a supervisory authority
+     (see Art. 15(1)(f)), does not change depending on the person making the access request.Therefore, it
+     may be communicated in general terms as it is also done in the privacy notice. Other types of
+     information, such as the information on recipients, on categories and on the source of the data may
+     vary depending on who makes the request and what the scope of the request is. In the context of an
+     access request under Art. 15, any information on the processing available to the controller may
+     therefore have to be updated and tailored for the processing operations actually carried out with
+     regard to the data subject making the request. Thus, referring to the wording of its privacy policy would
 
 
       67
-        Grupo do Artigo 29.º, WP260 rev.01, 11 de abril de 2018, Orientações relativas à transparência na aceção do
-      Regulamento 2016/679 — aprovadas pelo CEPD (a seguir designadas por «Orientações do GT29 relativas à
-      transparência — aprovadas pelo CEPD»).
-                                                           42
-      Adotadas
+        Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 -
+      endorsed by the EDPB (hereinafter “WP29 Guidelines on transparency - endorsed by the EDPB”).
+                                                          37
+      Adopted
 
-      tiver recorrido a este serviço…», «se tiver pago por fatura»), desde que seja evidente para os titulares
-      dos dados que tal lhes diz respeito. Em seguida, explica-se o grau de especificação exigido em relação
-      a cada tipo de informação.
+      not be a sufficient way for the controller to give information required by Art. 15(1)(a) to (h) and (2)
+      unless the « tailored and updated » information is the same as the information provided at the
+      beginning of the processing. In explaining which information relates to the requesting person, the
+      controller could, where appropriate, refer to certain activities (such as “if you have used this service
+      …”, “if you have payed by invoice”) as long as it is obvious for the data subjects if they are concerned.
+      In the following, the degree of specification required is explained in relation to the individual types of
+      information.
 
-114. As informações sobre as finalidades, de acordo com o artigo 15.º, n.º 1, alínea a), devem ser específicas
-     quanto à(s) finalidade(s) exata(s) no caso concreto do titular dos dados requerente. Não seria
-     suficiente enumerar as finalidades gerais do responsável pelo tratamento sem esclarecer a(s)
-     finalidade(s) que o responsável pelo tratamento prossegue no caso atual do titular dos dados
-     requerente. Se o tratamento for efetuado para várias finalidades, o responsável pelo tratamento tem
-     de esclarecer que dados ou categorias de dados são tratados para cada uma das finalidades.
-     Contrariamente ao artigo 13.º, n.º 1, alínea c), e ao artigo 14.º, n.º 1, alínea c), do RGPD, as
-     informações sobre o tratamento a que se refere o artigo 15.º, n.º 1, alínea a), não contêm informações
-     sobre o fundamento jurídico para o tratamento. No entanto, uma vez que alguns direitos dos titulares
-     dos dados dependem do fundamento jurídico aplicável, esta informação é importante para os titulares
-     dos dados verificarem a licitude do tratamento de dados e determinarem quais os direitos dos titulares
-     dos dados aplicáveis na situação específica. Por conseguinte, a fim de facilitar o exercício dos direitos
-     dos titulares dos dados em conformidade com o artigo 12.º, n.º 2, do RGPD, recomenda-se que o
-     responsável pelo tratamento informe também o titular dos dados sobre o fundamento jurídico
-     aplicável a cada operação de tratamento ou indique onde pode encontrar essas informações. Em
-     qualquer caso, o princípio da transparência do tratamento exige que as informações sobre os
-     fundamentos jurídicos do tratamento sejam disponibilizadas ao titular dos dados de forma acessível
-     (por exemplo, numa declaração de confidencialidade).
+114. Information on the purposes according to Art. 15(1)(a) needs to be specific as to the precise purpose(s)
+     in the actual case of the requesting data subject. It would not be enough to list the general purposes
+     of the controller without clarifying which purpose(s) the controller pursues in the current case of the
+     requesting data subject. If the processing is carried out for several purposes, the controller has to
+     clarify which data or which categories of data are processed for which purpose(s). Unlike Art. 13(1)(c)
+     and Art. 14(1)(c) GDPR, the information on the processing referred to in Art. 15(1)(a) does not contain
+     information on the legal basis for the processing. However, as some data subjects’ rights depend on
+     the applicable legal basis, this information is important for the data subjects to verify the lawfulness
+     of the data processing and to determine which data subject’s rights are applicable in the specific
+     situation. Therefore, in order to facilitate the exercise of data subjects’ rights in line with Art. 12(2)
+     GDPR, the controller is recommended to also inform the data subject as to the applicable legal basis
+     for each processing operation or to indicate where they can find this information. In any event, the
+     principle of transparent processing requires that the information on the legal bases of the processing
+     be made available to the data subject in an accessible way (e.g. in a privacy notice).
 
-115. As informações sobre as categorias dos dados [artigo 15.º, n.º 1, alínea b)] podem também ter de ser
-     adaptadas à situação do titular dos dados, devendo eliminar-se as categorias que se tenham revelado
-     irrelevantes no caso do requerente.
+115. Information on categories of data (Art. 15(1)(b)) may also have to be tailored to the data subject’s
+     situation such that categories which have turned out not to be relevant in case of the requester should
+     be eliminated.
 
-      Exemplo 19: no contexto das informações a que se referem os artigos 13.º e 14.º do RGPD, um hotel
-      declara tratar uma série de categorias de dados dos clientes (dados de identificação, dados de
-      contacto, dados bancários, número de cartão de crédito, etc.). Se for apresentado um pedido de acesso
-      com base no artigo 15.º, o titular dos dados que apresenta o pedido deve, para além do acesso aos
-      dados efetivamente tratados (componente 2), em conformidade com o artigo 15.º, n.º 1, alínea b), ser
-      igualmente informado sobre as categorias específicas de dados que estão a ser tratados no caso
-      específico (por exemplo, não incluindo dados bancários ou dados relativos a cartões de crédito caso o
-      pagamento tenha sido efetuado em numerário).
+      Example 19: In the context of the information referred to in Art. 13/14 GDPR, a hotel states that they
+      process a number of categories of customer data (identification data, contact data, bank data, and
+      number of credit card etc.). If a request of access is made on the basis of Art. 15, the data subject who
+      makes the request must, in addition to the access to the actual data being processed (component 2),
+      in line with Art. 15(1)(b) also be informed as to the specific categories of data which are being
+      processed in the specific case (e.g. not including bank data or credit card data in the event payment
+      was made in cash).
 
-116. As informações sobre os «destinatários ou categorias de destinatários» [artigo 15.º, n.º 1, alínea c)]
-     devem, em primeiro lugar, ter em conta a definição de destinatário constante do artigo 4.º, n.º 9, do
-     RGPD. A definição de destinatário baseia-se na divulgação de dados pessoais a uma pessoa singular ou
-     coletiva, autoridade pública, agência ou outro organismo68. Do artigo 4.º, n.º 9, do RGPD decorre que
-     as autoridades públicas que atuam no âmbito de um inquérito específico sujeito a disposições
-     nacionais específicas não devem ser consideradas destinatários.
+116. Information on “recipients or categories of recipients” (Art. 15(1)(c)) has firstly to take into account
+     the definition of recipients given in Art. 4(9) GDPR. The definition of recipients is based on the
+     disclosure of personal data to a natural or legal person, public authority, agency or other body68. From
+     Art. 4(9) GDPR follows, that public authorities acting in the framework of a particular enquiry subject
+     to specific national provisions are not to be considered as recipients.
 
-
+117. Concerning the question, if the controller is free to choose between information on recipients or on
+     categories of recipients, it has to be noted that “unlike Art. 13 and 14 of the GDPR, which lay down an
+     obligation on the part of the controller (…), Article 15 of the GDPR lays down a genuine right of access
+     for the data subject, with the result that the data subject must have the option of obtaining either
 
 
       68
-        Note-se ainda que podem existir diferentes responsáveis pelo tratamento na mesma empresa, na aceção do
-      artigo 4.º, n.º 7, do RGPD. Neste tipo de situações, é possível divulgar dados de um destinatário para outro dentro
-      de uma empresa.
+        It should further be noted, that different controllers as defined by Art. 4(7) GDPR may exist within the same
+      company. In this constellation a disclosure of data from one recipient to another within one company is possible.
 
 
-                                                              43
-      Adotadas
+                                                             38
+      Adopted
 
-117. No que diz respeito à questão de saber se se o responsável pelo tratamento é livre de escolher entre
-     informações sobre destinatários ou categorias de destinatários, importa salientar que
-     «contrariamente aos artigos 13.º e 14.º do RGPD, que preveem uma obrigação a cargo do responsável
-     pelo tratamento (…), o artigo 15.º do RGPD prevê um verdadeiro direito de acesso a favor do titular
-     dos dados, de modo que este tenha a opção de obter quer as informações sobre os destinatários
-     específicos a quem os referidos dados foram ou serão divulgados, quando possível, quer as
-     informações relativas às categorias de destinatários.»69. Importa igualmente recordar que, como
-     referido nas supramencionadas orientações relativas à transparência70, já nos termos dos artigos 13.º
-     e 14.º do RGPD, as informações sobre os destinatários ou categorias de destinatários devem ser tão
-     concretas quanto possível no que diz respeito aos princípios da transparência e da equidade. Nos
-     termos do artigo 15.º, se o titular dos dados não tiver escolhido de outro modo, o responsável pelo
-     tratamento é obrigado a indicar os destinatários efetivos, a menos que seja impossível identificar esses
-     destinatários ou que o responsável pelo tratamento demonstre que os pedidos de acesso do titular
-     dos dados são manifestamente infundados ou excessivos na aceção do artigo 12.º, n.º 5, do RGPD7172.
-     O CEPD recorda, a este respeito, que o armazenamento de informações relativas aos destinatários
-     efetivos é necessário, nomeadamente, para o cumprimento das obrigações do responsável pelo
-     tratamento nos termos do artigo 5.º, n.º 2, e do artigo 19.º do RGPD.
+      information about the specific recipients to whom the data have been or will be disclosed, where
+      possible, or information about the categories of recipients.”69 It has also to be recalled, that, as stated
+      in the above-mentioned guidelines on transparency70, already under Art. 13 and 14 GDPR information
+      on the recipients or categories of recipients should be as concrete as possible in respect of the
+      principles of transparency and fairness. Under Article 15, if the data subject has not chosen otherwise,
+      the controller is obliged to name the actual recipients, unless it is impossible to identify those
+      recipients or the controller demonstrates that the data subject’s requests for access are manifestly
+      unfounded or excessive within the meaning of Article 12(5) GDPR71 72. The EDPB recalls in this regard,
+      that storing information relating to the actual recipients is necessary inter alia to be able to comply
+      with the controller’s obligations under Art. 5(2) and 19 GDPR.
 
-      Exemplo 20: na sua declaração de confidencialidade, o empregador fornece informações sobre as
-      categorias de dados que são transmitidas a «agências de viagens» ou «hotéis» em caso de viagens de
-      negócios, em conformidade com o artigo 13.º, n.º 1, alínea e), e o artigo 14.º, n.º 1, alínea e), do RGPD.
-      Se um trabalhador apresentar um pedido de acesso aos dados pessoais após a realização de viagens
-      de negócios, o empregador deve, então, relativamente aos destinatários dos dados pessoais nos
-      termos do artigo 15.º, n.º 1, alínea c), indicar na sua resposta a(s) agência(s) de viagens e o(s) hotel(is)
-      que receberam os dados. Embora o empregador tenha legitimamente referido categorias de
-      destinatários na sua declaração de confidencialidade nos termos dos artigos 13.º e 14.º, uma vez que,
-      nesta fase, ainda não era possível identificar os destinatários, deve, salvo escolha em contrário do
-      empregado, fornecer informações sobre os destinatários específicos (nome das agências de viagens,
-      hotéis, etc.) quando o trabalhador apresenta um pedido de acesso.
+      Example 20: In its privacy notice an employer gives information about which categories of data are
+      passed on to “travel agencies” or “hotels” in case of business trips, in accordance with Art. 13(1)(e)
+      and 14(1)(e) GDPR. If an employee makes a request for access to the personal data after business trips
+      have taken place, the employer should then, concerning the recipients of the personal data pursuant
+      to Art. 15(1)(c), indicate in its reply the travel agency(ies) and hotel(s) that received the data. While
+      the employer legitimately referred to categories of recipients in its privacy notice pursuant to Art. 13
+      and 14, because at this stage, it was not yet possible to name the recipients, it should, unless the
+      employee has chosen otherwise, provide information as to the specific recipients (name of travel
+      agencies, hotels etc.) when the employee is making an access request.
 
-      Sempre que, respeitando as condições acima referidas, um responsável pelo tratamento só possa
-      fornecer as categorias de destinatários, as informações devem ser tão específicas quanto possível,
-      indicando o tipo de destinatário (ou seja, por referência às atividades que exerce), a indústria, o setor
-      e subsetor e a localização dos destinatários73.
+      Where, respecting the conditions mentioned above, a controller may only provide the categories of
+      recipients, the information should be as specific as possible by indicating the type of recipient (i.e. by
+      reference to the activities it carries out), the industry, sector and sub-sector and the location of the
+      recipients73.
 
-118. Nos termos do artigo 15.º, n.º 1, alínea d), sempre que possível, devem ser fornecidas informações
-     sobre o prazo previsto de conservação dos dados pessoais. Caso contrário, devem ser indicados os
-     critérios usados para fixar esse prazo. As informações prestadas pelo responsável pelo tratamento
-     devem ser suficientemente precisas para que o titular dos dados possa saber durante quanto tempo
+118. According to Art. 15(1)(d), information has to be given on the envisaged period for which the personal
+     data will be stored, where possible. Otherwise, the criteria used to determine that period have to be
+     provided. The information given by the controller has to be precise enough for the data subject to
+     know how long the data relating to the data subject will continue to be stored. If it is not possible to
+     specify the time of deletion, the duration of storage periods and the beginning of this period or the
+     triggering event (e.g. termination of a contract, expiration of a warranty period, etc.) shall be specified.
+     The mere reference, for example to "deletion after expiry of the statutory storage periods" is not
+     sufficient. Indications concerning data storage periods will have to focus on the specific data relating
+     to the data subject. If the personal data of the data subject is subject to different deletion periods (e.g.
+     because not all data is subject to legal storage obligations), the deletion periods shall be stated in
+     relation to the respective processing operations and categories of data.
+
+119. Whereas information on the right to lodge a complaint with a supervisory authority (Art. 15(1)(f)) is
+     not dependant on the specific circumstances, the data subjects rights mentioned in Art. 15(1)(e) vary
+     depending on the legal basis underlying the processing. With regard to its obligation to facilitate the
+     exercise of data subject rights pursuant to Art. 12(2) GDPR, the response by the controller on those
 
 
       69
-         Acórdão do TJUE de 12 de janeiro de 2023, Österreichische Post (Informations relatives aux destinataires de
-      données personnelles), C-154/21, ECLI:EU:C:2023:3, n.º 36.
+         CJEU, C-154/21 (Österreichische Post AG), para. 36.
       70
-         Grupo do Artigo 29.º, WP260 rev.01, 11 de abril de 2018, Orientações relativas à transparência na aceção do
-      Regulamento 2016/679 — aprovadas pelo CEPD (a seguir designadas por «Orientações do GT29 relativas à
-      transparência — aprovadas pelo CEPD»), p. 37 (anexo).
+         Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 -
+      endorsed by the EDPB (hereinafter “WP29 Guidelines on transparency - endorsed by the EDPB”), p. 37 (Annex)
       71
-         Acórdão do TJUE de 12 de janeiro de 2023, Österreichische Post (Informations relatives aux destinataires de
-      données personnelles), C-154/21, ECLI:EU:C:2023:3.
+         CJEU, C-154/21 (Österreichische Post AG)
       72
-         O simples facto de os dados terem sido divulgados a um grande número de destinatários não tornaria, por si
-      só, o pedido excessivo (ver secção 6, ponto 188).
+         The mere fact, that the data have been disclosed to a large number of recipients would not per se render the
+      request excessive,see section 6, para 188.
       73
-         Orientações do GT29 relativas à transparência — aprovadas pelo CEPD, p. 37 (anexo).
-                                                            44
-      Adotadas
+         WP29 Guidelines on transparency - endorsed by the EDPB, p. 37 (Annex)
+                                                            39
+      Adopted
 
-      os dados que lhe dizem respeito continuarão a ser conservados. Se não for possível especificar o
-      momento da supressão, deve especificar-se a duração dos prazos de conservação e o início desse prazo
-      ou o fator de desencadeamento (por exemplo, rescisão de um contrato, termo de um prazo de
-      garantia, etc.). A mera referência, por exemplo, à «supressão após o termo dos prazos de conservação
-      legais» não é suficiente. As indicações relativas aos períodos de conservação de dados terão de se
-      centrar nos dados específicos relativos ao titular dos dados. Se os dados pessoais do titular dos dados
-      estiverem sujeitos a diferentes prazos de supressão (por exemplo, devido ao facto de nem todos os
-      dados estarem sujeitos a obrigações legais de conservação), os prazos de supressão devem ser
-      indicados em relação às respetivas operações de tratamento e categorias de dados.
+      rights shall be individually tailored to the case of the data subject and relate to the processing
+      operations concerned. Information on rights that are not applicable for the data subject in the specific
+      situation should be avoided.
 
-119. Embora a informação sobre o direito de apresentar reclamação a uma autoridade de controlo
-     [artigo 15.º, n.º 1, alínea f)] não dependa das circunstâncias específicas, os direitos dos titulares dos
-     dados mencionados no artigo 15.º, n.º 1, alínea e), variam em função do fundamento jurídico
-     subjacente ao tratamento. No que diz respeito à sua obrigação de facilitar o exercício dos direitos do
-     titular dos dados nos termos do artigo 12.º, n.º 2, do RGPD, a resposta do responsável pelo tratamento
-     sobre esses direitos deve ser individualmente adaptada ao caso do titular dos dados e estar
-     relacionada com as operações de tratamento em causa. Devem ser evitadas informações sobre os
-     direitos que não sejam aplicáveis ao titular dos dados na situação específica.
+120. According to Art. 15(1)(g), “any available information” as to the source of the data has to be provided,
+     where the personal data are not collected from the data subject. The degree of available information
+     may change over time.
 
-120. Nos termos do artigo 15.º, n.º 1, alínea g), devem ser fornecidas «as informações disponíveis» sobre a
-     origem dos dados, se os dados pessoais não tiverem sido recolhidos junto do titular dos dados. O grau
-     de informação disponível pode variar ao longo do tempo.
+      Example 21: The privacy policy of a large company states:
 
-      Exemplo 21: a política de confidencialidade de uma grande empresa declara o seguinte:
+      “Credit checks help us to prevent problems in payment transactions. They guarantee the protection of
+      our company against financial risks, which can also affect sales prices in the medium to long term. A
+      credit check is necessarily carried out when we are going to ship goods without receiving the respective
+      purchase price at the same time, e.g. in the case of a purchase on account. Without carrying out the
+      credit check, only a prepayment payment option (immediate bank transfer, online payment provider,
+      credit card) is possible.
 
-      «As verificações de crédito ajudam-nos a evitar problemas nas operações de pagamento. Garantem a
-      proteção da nossa empresa contra riscos financeiros, que também podem afetar os preços de venda
-      a médio e longo prazo. Procede-se necessariamente a uma verificação de crédito quando expedimos
-      mercadorias sem receber simultaneamente o respetivo preço de compra, por exemplo, no caso de
-      uma compra por conta. Sem a verificação de crédito, só é possível uma opção de pré-pagamento
-      (transferência bancária imediata, prestador de serviços de pagamento em linha ou cartão de crédito).
+      For the purpose of credit checking, we will send your name, address and date of birth to the following
+      service providers, for example: (1) Financial Information Agency X (2) Business Information Provider Y,
+      (3) Commercial Credit Reference Agency Z.
 
-      Para efeitos de verificação de crédito, enviaremos o seu nome, endereço e data de nascimento aos
-      seguintes prestadores de serviços, por exemplo: 1) serviço de informação financeira X, 2) fornecedor
-      de informações comerciais Y, 3) agência de referência de crédito comercial Z.
+      The data are passed on to the above-mentioned credit institutions only within the scope of what is
+      legally permissible and only for the purposes of the analysis of your past payment behaviour as well as
+      for the assessment of the risk of default on the basis of mathematical-statistical procedures using
+      address data as well as for verification of your address (examination of delivery). Depending on the
+      result of the credit check, we may no longer be able to offer you individual payment methods, such as
+      the purchase of invoices.”
 
-      Os dados são transmitidos às instituições de crédito acima referidas apenas no âmbito do que é
-      legalmente admissível e apenas para efeitos de análise do seu comportamento em pagamentos
-      anteriores, bem como para a avaliação do risco de incumprimento com base em métodos matemáticos
-      e estatísticos utilizando dados de endereço também para a verificação do seu endereço (exame da
-      entrega). Em função do resultado da verificação de crédito, podemos deixar de proporcionar métodos
-      de pagamento individuais, como notas de encomenda.»
+      The privacy notice thus contains general information on the possibility of obtaining information from
+      the listed Economic Information Offices in accordance with Art. 13 and 14 GDPR. If it is not clear ex
+      ante, which of the companies will get involved in the processing, it is sufficient to mention the names
+      of the eligible companies in the privacy policy. In the context of a request based on Art. 15, in addition
+      to the information that a creditworthiness information has been obtained, it would then (ex post) be
+      necessary to disclose, which of the companies mentioned has been involved exactly. It is clearly
+      expressed by Art. 15(1)(g), that information on the processing of the data comprise “any available
+      information as to their source” where the personal data are not collected from the data subject.
 
-      A declaração de confidencialidade contém, assim, informações gerais sobre a possibilidade de obter
-      informações junto dos gabinetes de informação económica constantes da lista, em conformidade com
-      os artigos 13.º e 14.º do RGPD. Se não for claro ex ante qual das empresas participará no tratamento,
-      basta mencionar os nomes das empresas elegíveis na política de confidencialidade. No contexto de um
-      pedido baseado no artigo 15.º, para além da informação de que foi obtida informação sobre a
-      solvabilidade, seria então necessário (ex post) divulgar quais das empresas mencionadas estiveram
-      efetivamente envolvidas. É claramente expresso no artigo 15.º, n.º 1, alínea g), que as informações
-                                                        45
-      Adotadas
+121. Art. 15(1)(h) provides that every data subject should have the right to be informed, in a meaningful
+     way, inter alia, about the existence and underlying logic of automated decision-making including
+     profiling concerning the data subject and about the significance and the envisaged consequences that
+     such processing could have74. If possible, information under Art. 15(1)(h) has to be more specific in
+     relation to the reasoning that lead to specific decisions concerning the data subject who asked for
+     access.
 
-      sobre o tratamento dos dados incluem «as informações disponíveis sobre a origem desses dados» se
-      os dados pessoais não tiverem sido recolhidos junto do seu titular.
-
-121. O artigo 15.º, n.º 1, alínea h), estabelece que todos os titulares de dados devem ter o direito de receber
-     informações úteis, nomeadamente, relativas à existência e à lógica subjacente de decisões
-     automatizadas, incluindo a definição de perfis relativa ao titular dos dados, bem como sobre a
-     importância e as consequências previstas de tal tratamento74. Se possível, as informações prestadas
-     ao abrigo do artigo 15.º, n.º 1, alínea h), devem ser mais específicas em relação à fundamentação que
-     conduz a decisões específicas relativas ao titular dos dados que solicitou o acesso.
-
-122. Ao abrigo do artigo 13.º, n.º 1, alínea f), e do artigo 14.º, n.º 1, alínea f), do RGPD, é necessário fornecer
-     informações sobre as transferências de dados para um país terceiro ou uma organização internacional,
-     incluindo a existência de uma decisão de adequação adotada pela Comissão ou de garantias
-     adequadas. No contexto de um pedido de acesso ao abrigo do artigo 15.º, o n.º 2 desse artigo, só exige
-     informações sobre as garantias adequadas nos termos do artigo 46.º do RGPD quando tenha
-     efetivamente lugar uma transferência para um país terceiro ou uma organização internacional.
-
-
-      5 COMO PODE O RESPONSÁVEL PELO TRATAMENTO FACULTAR O
-        ACESSO?
-123. O RGPD não é muito prescritivo quanto à forma como o responsável pelo tratamento deve facultar o
-     acesso. O direito de acesso pode ser fácil e simples de aplicar em algumas situações, por exemplo,
-     quando uma pequena organização detém informações limitadas sobre o titular dos dados. Noutras
-     situações, o direito de acesso pode ser mais complicado, uma vez que o tratamento de dados é mais
-     complexo no que diz respeito ao número de titulares de dados e às categorias de dados tratados, bem
-     como ao fluxo de dados dentro das diferentes organizações e entre as mesmas. Tendo em conta as
-     diferenças no tratamento de dados pessoais, a forma adequada de facultar o acesso pode variar.
-
-124. A presente secção visa dar algumas orientações e exemplos práticos sobre as diferentes formas de os
-     responsáveis pelo tratamento satisfazerem um pedido de acesso, bem como sobre o sentido do
-     artigo 12.º, n.º 1, do RGPD no que respeita ao direito de acesso. Esta secção dá também algumas
-     orientações sobre o que é considerado um formulário eletrónico de uso corrente, bem como sobre os
-     prazos para a concessão de acesso ao abrigo do artigo 12.º, n.º 3, do RGPD.
-
-      5.1 Como pode o responsável pelo tratamento obter os dados solicitados?
-
-125. Os titulares dos dados devem ter acesso a todas as informações que o responsável pelo tratamento
-     trate a seu respeito. Tal significa, por exemplo, que o responsável pelo tratamento é obrigado a
-     pesquisar dados pessoais em todos os seus sistemas informáticos e ficheiros não informáticos. Ao
-     efetuar essa pesquisa, o responsável pelo tratamento deve utilizar as informações disponíveis na
-     organização relativas ao titular dos dados que provavelmente resultarão em correspondências nos
-     sistemas, dependendo da forma como as informações estão estruturadas75. Por exemplo, se as
-     informações forem ordenadas em ficheiros em função do nome ou de um número de referência, a
+122. Information about intended transfers of data to a third country or an international organisation,
+     including the existence of a Commission adequacy decision or suitable safeguards, has to be given
 
 
       74
-         Ver, a este respeito, as Orientações relativas à transparência na aceção do Regulamento 2016/679 (WP 260),
-      ponto 41, com referência às Orientações sobre as decisões individuais automatizadas e a definição de perfis para
-      efeitos do Regulamento (UE) 2016/679 (WP 251).
+        See on this behalf Guidelines on transparency under Regulation 2016/679 (WP 260), para. 41, with reference
+      to Guidelines on automated individual decision-making and profiling for the purposes of Regulation 2016/679
+      (WP 251).
+                                                          40
+      Adopted
+
+      under Art. 13(1)(f) and 14(1)(f) GDPR. In the context of a request for access under Art. 15, Art. 15(2)
+      requires information on the appropriate safeguards pursuant to Art. 46 GDPR only in cases where
+      transfer to a third country or an international organisation is actually taking place.
+
+
+      5 HOW CAN A CONTROLLER PROVIDE ACCESS?
+123. The GDPR is not very prescriptive as to how the controller has to provide access. The right of access
+     may be easy and straight forward to apply in some situations, for example when a small organisation
+     holds limited information about the data subject. In other situations, the right of access is more
+     complicated because the data processing is more complex; with regard to the number of data subjects,
+     the categories of processed data as well as the flow of data within and between different
+     organisations. Considering the differences in personal data processing, the appropriate way to provide
+     access may vary accordingly.
+
+124. This section aims at giving some guidance and practical examples on different ways for controllers to
+     comply with an access request as well as to the meaning of Art. 12(1) GDPR in relation to the right of
+     access. This section will also give some guidance about what is considered to be a commonly used
+     electronic form as well as the timing for the provision of access under Art. 12(3) GDPR.
+
+      5.1 How can the controller retrieve the requested data?
+
+125. The data subjects should have access to all the information that the controller processes regarding
+     them. This means, for example, that the controller is obliged to search for personal data throughout
+     its IT systems and non-IT filing systems. When carrying out such search, the controller should use
+     available information in the organisation regarding the data subject that likely will result in matches in
+     the systems depending on how the information is structured75. For example, if the information is
+     sorted in files depending on name or a reference number, the search could be limited to these factors.
+     But if the structure of the data depends on other factors, such as family relations or professional titles
+     or any kind of direct or indirect identifiers (e.g. customer number, user name or IP-addresses), the
+     search needs to be extended to include these, provided that the controller also holds this information
+     related to the data subject, or is provided with that information by the data subject. The same applies
+     when records regarding third persons are likely to contain personal data regarding the data subject.
+     The controller may, however, not require the data subject to provide more information than necessary
+     to identify the data subject. If a controller uses a processor for its data processing activities the search
+     naturally has to be extended to also include personal data processed by the processor.
+
+126. In line with Art. 25 GDPR on data protection by design and by default, the controller (and any
+     processors it uses) should also already have implemented functions enabling the compliance with data
+     subject rights. This means, in this context, that there should be appropriate ways to find and retrieve
+     information regarding a data subject when handling a request. However, it should be noted that an
+     excessive interpretation in this regard could lead to functions for finding and retrieving information
+     that in itself pose a risk for the privacy of data subjects. It is therefore important to keep in mind that
+     the process to retrieve data should also be designed in a data protection friendly way, so that it doesn’t
+     compromise the privacy of others, for example the employees of the controller.
+
+
+
+
       75
-         Essa pesquisa deve, naturalmente, incluir também informações que estejam na posse do subcontratante, ver
-      artigo 28.º, n.º 3, alínea e), do RGPD.
-                                                            46
-      Adotadas
+       Such a search should naturally also include information that is held by a processor, see. Article 28(3)(e)
+      GDPR.
+                                                             41
+      Adopted
 
-      pesquisa pode limitar-se a estes fatores. No entanto, se a estrutura dos dados depender de outros
-      fatores, como relações familiares, títulos profissionais ou qualquer tipo de identificadores diretos ou
-      indiretos (por exemplo, número de cliente, nome de utilizador ou endereços IP), a pesquisa deve ser
-      alargada de modo a incluir esses elementos, desde que o responsável pelo tratamento detenha
-      igualmente essas informações relativas ao titular dos dados ou que essas informações lhe sejam
-      fornecidas por este. O mesmo se aplica quando exista a probabilidade de os registos relativos a
-      terceiros conterem dados pessoais relativos ao titular dos dados. No entanto, o responsável pelo
-      tratamento não pode exigir que o titular dos dados forneça mais informações do que as necessárias
-      para o identificar. Se um responsável pelo tratamento utilizar um subcontratante para as suas
-      atividades de tratamento de dados, a pesquisa tem naturalmente de ser alargada de modo a incluir
-      também os dados pessoais tratados pelo subcontratante.
+      5.2 Appropriate measures for providing access
 
-126. Em conformidade com o artigo 25.º do RGPD relativo à proteção de dados desde a conceção e por
-     defeito, o responsável pelo tratamento (e os subcontratantes a que recorra) deve também ter já
-     funções implementadas que permitam o exercício dos direitos dos titulares dos dados. Neste contexto,
-     tal significa que devem existir formas adequadas de encontrar e extrair informações relativas a um
-     titular de dados aquando do tratamento de um pedido. No entanto, importa salientar que uma
-     interpretação excessiva a este respeito pode conduzir a funções de pesquisa e extração de informações
-     que, por si só, podem representar um risco para a privacidade das pessoas em causa. Por conseguinte,
-     importa ter em mente que o processo de extração de dados também deve ser concebido de uma forma
-     que atenda às exigências da proteção de dados, de modo a não comprometer a privacidade de outros
-     (terceiros), por exemplo, dos empregados do responsável pelo tratamento.
+      5.2.1 Taking “appropriate measures”
 
-      5.2 Medidas adequadas para facultar o acesso
+127. Art. 12 GDPR lays down the requirements for providing access, i.e. for providing the confirmation, the
+     personal data and the supplementary information under Art. 15, and also specifies the form, manner
+     and time limit in relation to the right of access. Art. 29 Working Party’s “Guidelines on transparency
+     under Regulation 2016/679”76 provides further guidance as regards Art. 12, mostly in relation to Art. 13
+     and 14 GDPR but also in relation to Art. 15 and on transparency in general. Thus, what is defined in
+     those guidelines can often equally apply with regards to providing access under Article 15.
 
-      5.2.1 Tomar «medidas adequadas»
+128. Art. 12(1) of the GDPR states that the controller shall take appropriate measures to provide any
+     communication under Art. 15 relating to processing to the data subject in a concise, transparent,
+     intelligible and easily accessible form, using clear and plain language. Art. 12(2) provides that the
+     controller shall facilitate the data subject’s exercise of access right. The more precise requirements in
+     this regard will have to be assessed case by case. When deciding which measures are appropriate, the
+     controllers have to take into account all the relevant circumstances, including, but not limited to, the
+     amount of data being processed, the complexity of their data processing and the knowledge they have
+     about their data subjects, for example if the majority of the data subjects are children, elderly people
+     or people with disabilities. In addition, in situations where the controller is made aware of any
+     particular needs of the data subject making the request, for example through additional information
+     in the request made, the controller needs to take these circumstances into consideration. As a result
+     the appropriate measures will vary.
 
-127. O artigo 12.º do RGPD estabelece os requisitos para a concessão de acesso, ou seja, para fornecer a
-     confirmação, os dados pessoais e as informações suplementares nos termos do artigo 15.º, bem como
-     a forma, a modalidade e o prazo em relação ao direito de acesso. As «Orientações relativas à
-     transparência na aceção do Regulamento 2016/679»76 do Grupo do Artigo 29.º fornecem orientações
-     adicionais no que diz respeito ao artigo 12.º, principalmente em relação aos artigos 13.º e 14.º do
-     RGPD, mas também em relação ao artigo 15.º e à transparência em geral. Assim, o que é definido
-     nessas orientações pode muitas vezes aplicar-se igualmente no que diz respeito à concessão de acesso
-     nos termos do artigo 15.º.
+129. It is important to keep in mind when making the assessment that the term ”appropriate” should never
+     be understood as a way of limiting the scope of the data covered by the right of access. The term
+     “appropriate” does not mean that the efforts to provide the information can be balanced against, for
+     example, any interest the data subject may have in obtaining the personal data. Instead the
+     assessment should aim at choosing the most appropriate method for providing all information covered
+     by this right, depending on the specific circumstances in each case. As a consequence, a controller who
+     processes a large quantity of data on a large scale must accept to undertake great efforts to ensure
+     the right of access to the data subjects in a consice, transparent, intelligible and easily accessible form,
+     by using plain and clear language.
 
-128. O artigo 12.º, n.º 1, do RGPD estabelece que o responsável pelo tratamento deve tomar as medidas
-     adequadas para fornecer ao titular dos dados qualquer comunicação prevista no artigo 15.º a respeito
-     do tratamento, de forma concisa, transparente, inteligível e de fácil acesso, utilizando uma linguagem
-     clara e simples. O artigo 12.º, n.º 2, prevê que o responsável pelo tratamento facilite o exercício do
-     direito de acesso do titular dos dados. Os requisitos mais precisos a este respeito terão de ser avaliados
-     caso a caso. Ao decidir sobre as medidas adequadas, os responsáveis pelo tratamento devem ter em
-     conta todas as circunstâncias pertinentes, incluindo, mas não exclusivamente, a quantidade de dados
-     tratados, a complexidade do seu tratamento e os conhecimentos de que dispõem sobre os titulares
-     dos dados, por exemplo, se a maioria dos titulares dos dados for constituída por crianças, idosos ou
+130. It needs to be avoided to direct the data subject to different sources in response to a data access
+     request. As previously stated in the WP29 Guidelines on Transparency (with regard to the notion of
+     “provide” in Art. 13 and 14 GDPR), the notion of “provide” entails that “the data subject must not have
+     to actively search for information covered by these articles amongst other information, such as terms
+     and conditions of use of a website or app”77. Therefore, and in respect of the transparency principle,
+     data subjects must obtain from the controller the information and personal data required by Art. 15(1),
+     15(2) and 15(3) in a way that enables complete access to the requested information. In special
+     circumstances, it would be inappropriate or even unlawful to share the information within the
+     controller, for example due to the sensitive nature of the information (such as information relating to
+     whistleblowing). In these cases, it would be deemed appropriate to split the information into several
+     replies as a response to the data subjects access request. The method chosen by the controller must
 
 
       76
-        Grupo do Artigo 29.º, WP260 rev. 01, 11 de abril de 2018, Orientações relativas à transparência na aceção do
-      Regulamento 2016/679 — aprovadas pelo CEPD (a seguir designadas por «Orientações do GT29 relativas à
-      transparência — aprovadas pelo CEPD»).
-                                                           47
-      Adotadas
-
-      pessoas com deficiência. Além disso, nas situações em que o responsável pelo tratamento seja
-      informado de necessidades específicas do titular dos dados que apresenta o pedido, por exemplo,
-      através de informações adicionais no pedido apresentado, deve ter em conta essas circunstâncias.
-      Consequentemente, as medidas adequadas podem variar.
-
-129. Ao efetuar a avaliação, é importante ter em conta que o termo «adequado» nunca deve ser entendido
-     como uma forma de limitar o âmbito dos dados abrangidos pelo direito de acesso. O termo
-     «adequado» não significa que os esforços para fornecer as informações possam ser contrabalançados
-     com, por exemplo, qualquer interesse que o titular dos dados possa ter na obtenção dos dados
-     pessoais. Pelo contrário, a avaliação deve ter por objetivo escolher o método mais adequado para
-     fornecer todas as informações abrangidas por este direito, em função das circunstâncias específicas
-     de cada caso. Consequentemente, qualquer responsável pelo tratamento que trate uma grande
-     quantidade de dados em grande escala deve aceitar envidar todos os esforços para garantir o direito
-     de acesso aos titulares dos dados de forma concisa, transparente, inteligível e de fácil acesso,
-     utilizando uma linguagem simples e clara.
-
-130. Importa evitar orientar o titular dos dados para diferentes fontes em resposta a um pedido de acesso
-     aos dados. Conforme referido anteriormente nas Orientações do GT29 relativas à transparência (no
-     que diz respeito à noção de «facultar/fornecer» nos artigos 13.º e 14.º do RGPD), o conceito de
-     «facultar/fornecer» implica que «o titular dos dados não deve ter de procurar ativamente as
-     informações relativas a estes artigos no meio de outras informações, tais como termos e condições de
-     utilização de um sítio Web ou de uma aplicação»77. Por conseguinte, e no respeito do princípio da
-     transparência, os titulares dos dados devem obter do responsável pelo tratamento as informações e
-     os dados pessoais exigidos no artigo 15.º, n.os 1, 2 e 3, de uma forma que permita o acesso total às
-     informações solicitadas. Em circunstâncias especiais, seria inadequado ou mesmo ilegal partilhar as
-     informações com o responsável pelo tratamento, por exemplo, devido à natureza sensível das mesmas
-     (nomeadamente informações relativas à denúncia de irregularidades). Nestes casos, considera-se
-     adequado dividir as informações em várias respostas ao satisfazer o pedido de acesso do titular dos
-     dados. O método escolhido pelo responsável pelo tratamento deve fornecer efetivamente ao titular
-     dos dados os dados e informações solicitados, pelo que não seria adequado remetê-lo apenas para a
-     verificação dos dados solicitados armazenados no seu próprio dispositivo, incluindo, por exemplo, a
-     verificação do histórico de sequência de cliques e dos endereços IP no seu telemóvel.
-
-131. Em conformidade com o princípio da responsabilidade, o responsável pelo tratamento deve
-     documentar a sua abordagem para poder demonstrar de que forma os meios escolhidos para fornecer
-     as informações necessárias nos termos do artigo 15.º são adequados nas circunstâncias em apreço.
-
-      5.2.2 Diferentes meios de facultar o acesso
-
-132. Conforme já explicado na secção 2.2.2 supra, ao apresentarem um pedido de acesso, os titulares dos
-     dados têm o direito de receber uma cópia dos seus dados em fase de tratamento nos termos do
-     artigo 15.º, n.º 3, juntamente com as informações suplementares, sendo esta considerada a principal
-     modalidade para facultar acesso aos dados pessoais.
-
-133. No entanto, em algumas circunstâncias, poderá ser adequado que o responsável pelo tratamento
-     faculte o acesso por outros meios que não o fornecimento de uma cópia. Essas modalidades não
-     permanentes de acesso aos dados podem incluir, por exemplo, informações orais, inspeção de
-     ficheiros e acesso no local ou à distância sem possibilidade de descarregamento. Estas modalidades
-
-
+         Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 -
+      endorsed by the EDPB (hereinafter “WP29 Guidelines on transparency - endorsed by the EDPB”).
       77
-           Orientações do GT29 relativas à transparência — aprovadas pelo CEPD, n.º 33.
-                                                             48
-      Adotadas
+         WP29 Guidelines on transparency - endorsed by the EDPB, para. 33.
+                                                           42
+      Adopted
 
-      podem ser formas adequadas de conceder acesso, por exemplo, nos casos em que tal seja do interesse
-      do titular dos dados ou em que o titular dos dados as solicite. O acesso no local pode também ser
-      adequado, como medida inicial, quando um responsável pelo tratamento trate uma grande
-      quantidade de dados não digitalizados, a fim de permitir que o titular dos dados seja informado sobre
-      os dados pessoais que estão a ser tratados e possa tomar uma decisão informada sobre os dados
-      pessoais que pretende obter através de uma cópia. As formas de acesso não permanentes podem ser
-      suficientes e adequadas em determinadas situações; por exemplo, podem satisfazer a necessidade dos
-      titulares dos dados de verificar se os dados tratados pelo responsável pelo tratamento estão corretos,
-      dando-lhes a oportunidade de visualizar os dados originais. O responsável pelo tratamento não é
-      obrigado a fornecer as informações por outros meios que não a entrega de uma cópia, mas deve adotar
-      uma abordagem razoável ao considerar esse pedido. A concessão de acesso por outros meios que não
-      o fornecimento de uma cópia não exclui o direito de os titulares dos dados também disporem de uma
-      cópia, a menos que optem por não o fazer.
+      actually provide the data subject with the requested data and information, hence it would not be
+      appropriate to solely refer the data subject to check the requested data stored on their own device
+      including, for example, to check clickstream history and IP addresses on their mobile phone.
 
-134. O responsável pelo tratamento pode optar, consoante a situação em causa, por fornecer a cópia dos
-     dados objeto de tratamento, juntamente com as informações suplementares, de diferentes formas,
-     por exemplo, por correio eletrónico, correio postal ou através da utilização de uma ferramenta de
-     autosserviço. Se o titular dos dados apresentar o pedido por meios eletrónicos, e salvo pedido em
-     contrário do mesmo, a informação é fornecida num formato eletrónico de uso corrente, nos termos
-     do artigo 15.º, n.º 3. Em qualquer caso, o responsável pelo tratamento deve considerar medidas
-     técnicas e organizativas adequadas, incluindo cifragem adequada, ao fornecer informações através de
-     correio eletrónico ou de ferramentas de autosserviço em linha.
+131. In accordance with the accountability principle, a controller must document their approach to be able
+     to demonstrate how the means chosen to provide the necessary information under Art. 15 are
+     appropriate in the circumstances at hand.
 
-135. Caso o responsável pelo tratamento trate dados pessoais relativos à pessoa que apresenta o pedido
-     apenas em pequena escala, a cópia dos mesmos e as informações suplementares podem e devem ser
-     fornecidas através de um procedimento simples.
+      5.2.2 Different means to provide access
 
-      Exemplo 22: uma livraria local mantém um registo com o nome e endereço dos clientes que
-      encomendaram entregas ao domicílio. Um cliente visita a livraria e apresenta um pedido de acesso.
-      Nesta situação, seria suficiente imprimir os dados pessoais relativos ao cliente diretamente a partir do
-      sistema da empresa, fornecendo simultaneamente as informações suplementares previstas no
-      artigo 15.º, n.os 1 e 2.
+132. As already explained in section 2.2.2 above, when making an access request the data subjects are
+     entitled to receive a copy of their data undergoing processing pursuant to Art. 15(3) together with the
+     supplementary information, which is considered as the main modality for providing access to the
+     personal data.
 
-      Exemplo 23: um doador mensal de uma organização de beneficência apresenta um pedido de acesso
-      por correio eletrónico. A organização de beneficência possui informações sobre donativos efetuados
-      nos últimos doze meses, bem como os nomes e endereços eletrónicos dos doadores. O responsável
-      pelo tratamento pode fornecer a cópia dos dados pessoais e as informações suplementares em
-      resposta ao correio eletrónico, desde que sejam aplicadas todas as garantias necessárias, tendo em
-      conta, por exemplo, a natureza dos dados.
+133. However, in some circumstances it could be appropriate for the controller to provide access through
+     other ways than providing a copy. Such non-permanent modalities of access to the data could be, for
+     example: oral information, inspection of files, onsite or remote access without possibility to download.
+     These modalities may be appropriate ways of granting access for example in cases where it is in the
+     interest of the data subject or the data subject asks for it. Onsite access could also be appropriate, as
+     an initial measure, when a controller handles a large quantity of non-digitalized data to allow the data
+     subject to be made aware of what personal data are undergoing processing and to be able to make an
+     informed decision about what personal data he or she wants to be provided through a copy. Non-
+     permanent ways of access can be sufficient and adequate in certain situations; for example, it can
+     satisfy the need of the data subjects to verify that the data processed by the controller are correct by
+     giving data subjects a chance to view the original data. A controller is not obliged to provide the
+     information through other ways than providing a copy but should take a reasonable approach when
+     considering such a request. Giving access through other ways than providing a copy does not preclude
+     the data subjects from the right to also have a copy, unless they choose not to.
 
-136. Mesmo os responsáveis pelo tratamento de uma grande quantidade de dados podem optar por
-     recorrer a rotinas manuais para tratar os pedidos de acesso. Se tratar dados em vários departamentos
-     diferentes, o responsável pelo tratamento deve recolher os dados pessoais de cada departamento
-     para poder responder ao pedido do titular dos dados.
+134. The controller may choose, depending on the situation at hand, to provide the copy of the data
+     undergoing processing, together with the supplementary information, in different ways, e.g. by e-mail,
+     physical mail or by the use of a self-service tool. If the data subject makes the request by electronic
+     means, and unless otherwise requested by the data subject, the information shall be provided in a
+     commonly used electronic form as stated in Art. 15(3). In any case, the controller has to consider
+     appropriate technical and organizational measures, including adequate encryption when providing
+     information via e-mail or online-self-service tools.
 
-      Exemplo 24: o responsável pelo tratamento nomeia um administrador para tratar as questões práticas
-      relativas aos pedidos de acesso. Ao receber um pedido, o administrador envia uma consulta por
-      correio eletrónico aos diferentes departamentos da organização, solicitando-lhes que recolham dados
-      pessoais relativos ao titular dos dados. Os representantes de cada departamento fornecem ao
-      administrador os dados pessoais tratados pelo respetivo departamento. Em seguida, o administrador
-                                                      49
-      Adotadas
+135. In the situation, where the controller is processing personal data regarding the person making the
+     request only in a small scale, the copy of the personal data and the supplementary information can
+     and should be provided through a simple procedure.
 
-      envia todos os dados pessoais ao titular dos dados, juntamente com as informações suplementares
-      necessárias, por exemplo e, se for caso disso, por correio eletrónico.
+      Example 22: A local bookstore keeps a record of name and addresses of their customers that have
+      ordered home delivery. A customer visits the bookstore and makes a request for access. In this
+      situation it would be sufficient to print out the personal data concerning the customer directly from
+      the business system, while also supplying the supplementary information in Art. 15(1) and (2).
 
-137. Embora os processos manuais para o tratamento de pedidos de acesso possam ser considerados
-     adequados, alguns responsáveis pelo tratamento podem beneficiar da utilização de processos
-     automatizados para tratar os pedidos dos titulares dos dados. Tal pode ser o caso, por exemplo, dos
-     responsáveis pelo tratamento que recebem um grande número de pedidos. Uma forma de fornecer
-     as informações previstas no artigo 15.º consiste em facultar ao titular dos dados ferramentas de
-     autosserviço. Tal poderá facilitar um tratamento eficiente e atempado dos pedidos de acesso dos
-     titulares dos dados, permitindo igualmente ao responsável pelo tratamento incluir o mecanismo de
-     verificação na ferramenta de autosserviço.
+      Example 23: A monthly donor to a charity organisation makes an access request through e-mail. The
+      charity organisation holds information about donations made in the past twelve months, as well as
+      names and e-mail addresses of the donors. The controller could provide the copy of the personal data
 
-      Exemplo 25: um serviço de redes sociais dispõe de um processo automatizado para o tratamento de
-      pedidos de acesso que permite ao titular dos dados aceder aos seus dados pessoais a partir da sua
-      conta de utilizador. Para obter os dados pessoais, os utilizadores das redes sociais podem escolher a
-      opção «Descarregar os seus dados pessoais» ao iniciar sessão na conta de utilizador. Esta opção de
-      autosserviço permite aos utilizadores descarregar um ficheiro que contém os seus dados pessoais
-      diretamente da conta de utilizador para o seu próprio computador.
+                                                        43
+      Adopted
 
-138. Em nenhum caso a utilização de ferramentas de autosserviço deve limitar o âmbito dos dados pessoais
-     recebidos. Se não for possível fornecer todas as informações ao abrigo do artigo 15.º através da
-     ferramenta de autosserviço, as restantes informações devem ser fornecidas de forma diferente. O
-     responsável pelo tratamento pode incentivar o titular dos dados a utilizar uma ferramenta de
-     autosserviço que este tenha criado para tratar os pedidos de acesso. No entanto, importa salientar
-     que o responsável pelo tratamento é obrigado a tratar os pedidos de acesso que não sejam enviados
-     através do canal de comunicação estabelecido78.
+      and the supplementary information by responding to the e-mail, provided that all necessary
+      safeguards are applied, taking into consideration for example the nature of the data.
 
-      5.2.3 Facultar acesso «de forma concisa, transparente, inteligível e de fácil acesso,
-            utilizando uma linguagem clara e simples»
+136. Even controllers that process a large quantity of data can choose to rely on manual routines for
+     handling access requests. If the controller processes data in several different departments, the
+     controller needs to collect the personal data from each department to be able to respond to the data
+     subject request.
 
-139. Em conformidade com o artigo 12.º, n.º 1, do RGPD, o responsável pelo tratamento deve tomar as
-     medidas adequadas para facultar o acesso nos termos do artigo 15.º de forma concisa, transparente,
-     inteligível e de fácil acesso, utilizando uma linguagem clara e simples.
+      Example 24: An administrator is appointed by the controller to handle the practical issues regarding
+      access requests. When receiving a request the administrator sends an enquiry by e-mail to the
+      different departments of the organisation asking them to collect personal data regarding the data
+      subject. Representatives of each department give the administrator the personal data processed by
+      their department. The administrator then sends all the personal data to the data subject together with
+      the necessary supplementary information, for example and when appropriate, by e-mail.
 
-140. O requisito de que o acesso ao titular dos dados deve ser efetuado de forma concisa e transparente
-     significa que os responsáveis pelo tratamento devem apresentar as informações de forma eficiente e
-     sucinta, para que sejam facilmente compreendidas pelo titular dos dados, especialmente se se tratar
-     de uma criança. O responsável pelo tratamento deve ter em conta a quantidade e a complexidade dos
-     dados ao escolher os meios para facultar acesso nos termos do artigo 15.º.
+137. Although manual processes for handling access requests could be regarded as appropriate, some
+     controllers may benefit from using automated processes to handle data subject requests. This could,
+     for example, be the case for controllers that receive a large number of requests. One way to provide
+     the information under Art. 15 is by providing the data subject with self-service tools. This could
+     facilitate an efficient and timely handling of data subjects’ requests of access and will also enable the
+     controller to include the verification mechanism in the self-service tool.
 
-      Exemplo 26: um fornecedor de redes sociais trata uma grande quantidade de informações sobre um
-      determinado titular de dados. Grande parte desses dados pessoais são informações contidas em
-      centenas de páginas de ficheiros de registo onde estão registadas as atividades desse titular dos dados
-      no sítio Web. Se os titulares dos dados solicitarem o acesso aos seus dados pessoais, os dados pessoais
-      constantes desses ficheiros de registo são efetivamente abrangidos pelo direito de acesso. Por
-      conseguinte, o direito de acesso pode ser formalmente cumprido ao disponibilizar estas centenas de
-      páginas de ficheiros de registo ao titular dos dados. No entanto, sem a adoção de medidas para facilitar
-      a compreensão das informações constantes dos ficheiros de registo, o direito de acesso do titular dos
+      Example 25: A social media service has an automated process for handling access requests in place
+      that enables the data subject to access their personal data from their user account. To retrieve the
+      personal data the social media users can choose the option to “Download your personal data” when
+      logged into their user account. This self-service option allows the users to download a file containing
+      their personal data directly from the user account to their own computer.
+
+138. The use of self-service tools should never limit the scope of personal data received. If not possible to
+     give all the information under Art. 15 through the self-service tool, the remaining information needs
+     to be provided in a different manner. The controller may indeed encourage the data subject to use a
+     self-service tool that the controller has set in place for handling access requests. However, it should be
+     noted that the controller must also handle access requests that are not sent through the established
+     channel of communication78.
+
+      5.2.3 Providing access in a ”concise, transparent, intelligible and easily accessible form using
+            clear and plain language”
+
+139. According to Art. 12(1) GDPR the controller shall take appropriate measures to provide access under
+     Art. 15 in a concise, transparent, intelligible and easily accessible form, using clear and plain language.
+
+140. The requirement that providing access to the data subject has to be done in a concise and transparent
+     form means, that controllers should present the information efficiently and succinctly in order to be
+     easily understood by the data subject, especially if it is a child. The controller needs to take into account
+     the quantity and complexity of the data when choosing the means for providing access under Art. 15.
+
+      Example 26: A social media provider processes a large quantity of information about a data subject. A
+      large part of this personal data is information contained in hundreds of pages of log files where the
+
 
 
       78
-           Ver secção 3.1.2.
-                                                        50
-      Adotadas
+           See section 3.1.2.
+                                                           44
+      Adopted
 
-      dados pode não ser satisfeito na prática, uma vez que não é fácil obter conhecimentos dos ficheiros
-      de registo, não cumprindo assim o requisito do artigo 12.º, n.º 1, do RGPD. Por conseguinte, o
-      responsável pelo tratamento deve ser criterioso e rigoroso ao escolher a forma como as informações
-      e os dados pessoais são apresentados ao titular dos dados.
+      data subject’s activities on the website are registered. If data subjects request access to their personal
+      data, the personal data in these log files are indeed covered by the right of access. The right of access
+      may therefore be formally fulfilled if these hundreds of pages of log files were to be provided to the
+      data subject. However, without measures taken to facilitate the understanding of the information in
+      the log files, the data subject’s right of access might not be met in practice, because no knowledge can
+      easily be drawn from the log files, therefore not fulfilling the requirement of Art. 12(1) GDPR. The
+      controller must therefore be careful and thorough when choosing the way the information and
+      personal data is presented to the data subject.
 
-141. Nas circunstâncias do exemplo supra, a utilização de uma abordagem estruturada por níveis,
-     semelhante à abordagem estruturada preconizada nas Orientações relativas à transparência no que
-     diz respeito às declarações de confidencialidade79, pode ser uma medida adequada para cumprir os
-     requisitos do artigo 15.º e do artigo 12.º, n.º 1, do RGPD. Esta questão será aprofundada na
-     secção 5.2.4. infra. O requisito de que as informações sejam «inteligíveis» significa que devem poder
-     ser compreendidas pelo público visado80, tendo simultaneamente em conta quaisquer necessidades
-     específicas que o titular dos dados possa ter que sejam do conhecimento do responsável pelo
-     tratamento81. Uma vez que o direito de acesso permite frequentemente o exercício de outros direitos
-     do titular dos dados, é fundamental que as informações fornecidas sejam compreensíveis e claras. Tal
-     deve-se ao facto de os titulares dos dados só poderem ponderar a possibilidade de invocar o seu
-     direito, por exemplo, à retificação, nos termos do artigo 16.º do RGPD, depois de saberem que dados
-     pessoais estão a ser tratados, para que finalidades, etc. Consequentemente, o responsável pelo
-     tratamento poderá ter de fornecer ao titular dos dados informações adicionais que expliquem os
-     dados fornecidos. Importa salientar que a complexidade do tratamento de dados obriga o responsável
-     pelo tratamento a fornecer os meios para tornar os dados compreensíveis e não pode ser utilizada
-     como argumento para limitar o acesso à totalidade dos dados. Do mesmo modo, a obrigação do
-     responsável pelo tratamento de fornecer os dados de forma concisa não pode ser utilizada como
-     argumento para limitar o acesso à totalidade dos dados.
+141. Under the circumstances in the example above, the use of a layered approach, similar to the layered
+     approach advocated in the Guidelines on transparency with regard to privacy notices79, could be an
+     appropriate measure to fulfil both the requirements in Art. 15 and 12(1) GDPR. This will be further
+     developed under section 5.2.4. below. The requirement that the information is “intelligible” means
+     that it should be understood by the intended audience80, whilst keeping in mind any particular needs
+     that the data subject might have that is known to the controller81. Since the right of access often
+     enables the exercise of other data subject rights, it is crucial that the information provided is made
+     understandable and clear. This is because data subjects will only be able to consider whether to invoke
+     their right to, for example, rectification under Art. 16 GDPR once they know what personal data are
+     being processed, for what purposes etc. As a result, the controller might need to supply the data
+     subject with additional information that explains the data provided. It should be emphasised that the
+     complexity of data processing obliges the controller to provide the means to make the data
+     understandable and could not be used as an argument to limit the access to all data. Similarly, the
+     controller’s obligation to provide data in a concise manner cannot be used as an argument to limit
+     access to all data.
 
-      Exemplo 27: um sítio Web de comércio eletrónico recolhe dados sobre artigos nele visualizados ou
-      adquiridos para fins de marketing. Uma parte desses dados consistirá em dados em formato bruto82,
-      que não foram analisados e podem não ser diretamente significativos para o leitor (códigos, histórico
-      de atividades, etc.). Esses dados relacionados com as atividades dos titulares dos dados também são
-      abrangidos pelo direito de acesso e, consequentemente, devem ser fornecidos ao titular dos dados
-      em resposta a um pedido de acesso. Ao fornecer dados em formato bruto, é importante que o
-      responsável pelo tratamento tome as medidas necessárias para assegurar que o titular dos dados os
-      pode compreender, por exemplo, fornecendo um documento explicativo que traduza o formato em
-      bruto num formato de fácil utilização. Além disso, esse documento poderá explicar as abreviaturas e
-      outros acrónimos, por exemplo, «A» significa que a compra foi interrompida e «B» significa que a
-      compra foi concretizada.
+      Example 27: An ecommerce website collects data about items viewed or purchased on its website for
+      marketing purposes. A part of this data will consist of data in a raw format82, which has not been
+      analysed and may not be directly meaningful to the reader (codes, activity history etc.). Such data
+      related to the data subjects activities is also covered by the right of access and should, as a
+      consequence, be provided to the data subject in response to an access request. When providing data
+      in a raw format it is important that the controller takes the necessary measures to ensure that the data
+      subject understands the data, for example, by providing an explanatory document that translates the
+      raw format into a user friendly form. Also, such a document could explain that abbreviations and
+      other acronyms for example “A” means that the purchase has been interrupted and “B” means that
+      the purchase has gone through.
 
 
-142. O elemento «facilmente acessível» significa que as informações previstas no artigo 15.º devem ser
-     apresentadas de forma a permitir o acesso fácil pelo titular dos dados. Tal aplica-se, por exemplo, à
+142. The “easily accessible” element means that the information under Art. 15 should be presented in a
+     way that is easy for the data subject to access. This applies for example, to the layout, appropriate
 
 
       79
-         Orientações do GT29 relativas à transparência — aprovadas pelo CEPD, n.º 35.
+         WP29 Guidelines on transparency - endorsed by the EDPB, para. 35.
       80
-         A inteligibilidade está estreitamente relacionada com o requisito de utilização de uma linguagem clara e
-      simples (Orientações do GT29 relativas à transparência — aprovadas pelo CEPD, n.º 9). O que é dito sobre uma
-      linguagem clara e simples nos n.os 12 a 16 no que diz respeito às informações a que se referem os artigos 13.º e
-      14.º do RGPD é igualmente aplicável à comunicação ao abrigo do artigo 15.º.
+         Intelligibility is closely linked to the requirement to use a plain and clear language (WP29 Guidelines on
+      transparency - endorsed by the EDPB, para. 9). What is said about a plain and clear language in para. 12-16 with
+      regards to information referred to in Articles 13 and 14 GDPR, equally applies to communication under Article
+      15.
       81
-         Ver n.º 128.
+         See para. 128.
       82
-         O formato bruto no exemplo deve ser entendido como dados não analisados subjacentes a um tratamento e
-      não o nível mais baixo de dados em bruto que possam ser legíveis apenas por máquina (por exemplo, «bits»).
+         The raw format in the example is to be understood as unanalysed data underlying a processing, and not the
+      lowest level of raw data that may only be machine-readable (such as “bits”).
 
 
-                                                            51
-      Adotadas
+                                                            45
+      Adopted
 
-      configuração, aos títulos e parágrafos adequados. As informações devem ser sempre fornecidas numa
-      linguagem simples e clara. Qualquer responsável pelo tratamento que ofereça um serviço num país
-      deve responder na língua que seja compreendida pelos titulares dos dados nesse país. A utilização de
-      ícones normalizados é igualmente incentivada se facilitar a inteligibilidade e a acessibilidade da
-      informação. Se o pedido de informação disser respeito a titulares de dados com deficiência visual ou
-      a outros titulares de dados que possam ter dificuldade em aceder a ou em compreender informações,
-      espera-se que o responsável pelo tratamento tome medidas que facilitem a compreensão das
-      informações prestadas, incluindo informações orais, sempre que adequado83. O responsável pelo
-      tratamento deve ter especial cuidado para assegurar que as pessoas idosas, as crianças, as pessoas
-      com deficiência visual ou com deficiência cognitiva ou de outro tipo possam exercer os seus direitos,
-      por exemplo, fornecendo de forma proativa elementos de fácil acesso para facilitar o exercício desses
-      direitos.
+      headings and paragraphing. The information should always be provided in plain and clear language. A
+      controller that offers a service in a country should also offer answers in the language that is understood
+      by the data subjects in that country. The use of standardised icons is also encouraged when it facilitates
+      the intelligibility and accessibility of the information. When the request for information relates to
+      visually impaired data subjects or other data subjects who may have difficulty in accessing or
+      understanding information, the controller is expected to take measures facilitating the understanding
+      of the information provided, including oral information, when adequate83. The controller should take
+      special care to ensure that elderly people, children, visually impaired persons or persons with cognitive
+      or other disabilities can exercise their rights, for instance, by proactively providing easily accessible
+      elements to facilitate exercise of these rights.
 
-      5.2.4 Uma grande quantidade de informações impõe requisitos específicos sobre a forma
-            como as informações são facultadas
+      5.2.4 A large quantity of information necessitates specific requirements on how the
+            information is provided
 
-143. Independentemente dos meios utilizados para permitir o acesso, pode haver um conflito entre a
-     quantidade de informações que o responsável pelo tratamento tem de fornecer aos titulares dos
-     dados e o requisito de ser conciso. Uma forma de alcançar ambos, e um exemplo de uma medida
-     adequada para determinados responsáveis pelo tratamento que necessitam de fornecer uma grande
-     quantidade de dados, consiste em recorrer a uma abordagem estruturada por níveis. Tal abordagem
-     pode facilitar a compreensão dos dados por parte dos titulares dos dados. Cabe, no entanto, salientar
-     que esta abordagem só pode ser utilizada em determinadas circunstâncias e deve ser aplicada de uma
-     forma que não limite o direito de acesso, conforme se explica a seguir. Além disso, a utilização de uma
-     abordagem estruturada por níveis não deve criar encargos adicionais para o titular dos dados. Por
-     conseguinte, seria mais adequado quando o acesso é facultado num contexto em linha. A abordagem
-     estruturada por níveis é apenas uma forma de apresentar as informações previstas no artigo 15.º que
-     também está em conformidade com os requisitos do artigo 12.º, n.º 1, do RGPD e não deve ser
-     confundida com a possibilidade de os responsáveis pelo tratamento solicitarem ao titular dos dados
-     que especifique a que informações ou a que atividades de tratamento se refere o pedido, tal como
-     previsto no considerando 63 do RGPD84.
+143. Regardless of the means used to provide access there may be a tension between the amount of
+     information the controller needs to provide data subjects with and the requirement that it must be
+     concise. One way of achieving both, and an example of an appropriate measure for certain controllers,
+     when a large quantity of data is to be provided, is to use a layered approach. This approach can
+     facilitate the data subjects’ understanding of the data. It should nevertheless be stressed that this
+     approach can only be used under certain circumstances and needs to be carried out in a way that does
+     not limit the right of access, as explained below. Furthermore, the use of a layered approach should
+     not create an extra burden for the data subject. Hence, it would be best suited when access is provided
+     in an online context. A layered approach is merely a way to present the information under Art. 15 in a
+     manner which is also compliant with the requirements in Art. 12(1) GDPR and should not be confused
+     with the possibility for the controllers to request that the data subject specifies the information or
+     processing activities to which the request relates, as prescribed in Recital 63 of the GDPR84.
 
-144. Uma abordagem estruturada por níveis em relação ao direito de acesso significa que o responsável
-     pelo tratamento pode, em determinadas circunstâncias, fornecer os dados pessoais e as informações
-     suplementares exigidos nos termos do artigo 15.º em diferentes níveis. O primeiro nível deve incluir
-     informações sobre o tratamento e os direitos do titular dos dados nos termos do artigo 15.º, n.º 1,
-     alíneas a) a h), e do artigo 15.º, n.º 2, bem como uma primeira parte dos dados pessoais tratados. Num
-     segundo nível, devem ser fornecidos dados pessoais adicionais.
+144. A layered approach in relation to the right of access means that a controller, under certain
+     circumstances, can provide the personal data and the supplementary information required under
+     Art. 15 in different layers. The first layer should include information about the processing and data
+     subject’s rights according to Art. 15(1)(a)-(h) and 15(2) as well as a first part of the processed personal
+     data. In a second layer, more personal data should be provided.
 
-145. Ao decidir que informações devem ser prestadas nos diferentes níveis, o responsável pelo tratamento
-     deve ter em conta as informações que o titular dos dados, em geral, considera mais relevantes. Em
-     conformidade com o princípio da equidade, o primeiro nível deve também conter informações sobre
-     o tratamento com mais impacto no titular dos dados85. Os responsáveis pelo tratamento devem poder
-     demonstrar a sua responsabilidade quanto à fundamentação do acima exposto.
+145. When deciding what information should be given in the different layers the controller should consider
+     what information the data subject in general would consider as most relevant. In line with the fairness
+     principle, the first layer should also contain information on the processing which has the most impact
+     on the data subject85. The controllers need to be able to demonstrate accountability as to their
+     reasoning of the above.
+
+      Example 28: A controller analyses big data sets to place customers in different segments depending
+      on their online behaviour. In this situation, it can be assumed that the information that is the most
+      important for the data subjects to obtain is information about what segment they have been put in.
+      As a result, this information should be included in the first layer. The data in a raw format86 that has
+      not yet been analysed or further processed, such as user activity on a website, is also personal data
 
 
 
       83
-         Ver Orientações do GT29 relativas à transparência — aprovadas pelo CEPD, n.º 21.
+         See WP29 Guidelines on transparency - endorsed by the EDPB, para. 21.
       84
-         Ver também a secção 2.3.1.
+         See also section 2.3.1.
       85
-         Ver Orientações do GT29 relativas à transparência — aprovadas pelo CEPD, n.º 36.
-                                                           52
-      Adotadas
-
-      Exemplo 28: um responsável pelo tratamento analisa conjuntos de megadados para classificar os
-      clientes em diferentes segmentos consoante o seu comportamento em linha. Nesta situação, pode
-      presumir-se que a informação mais importante a obter pelos titulares dos dados é a informação sobre
-      o segmento em que foram classificados. Consequentemente, esta informação deve ser incluída no
-      primeiro nível. Os dados em formato bruto86 que ainda não tenham sido analisados ou objeto de
-      tratamento posterior, como a atividade dos utilizadores num sítio Web, são também dados pessoais
-      abrangidos pelo direito de acesso, mas, em alguns casos, poderá ser suficiente fornecer essas
-      informações noutro nível.
-
-146. Para que a utilização de uma abordagem estruturada seja considerada uma medida adequada, é
-     necessário que o titular dos dados seja informado, desde o início, de que as informações previstas no
-     artigo 15.º estão estruturadas em diferentes níveis e são fornecidas com uma descrição dos dados
-     pessoais e das informações que serão contidos nos diferentes níveis. Desta forma, será mais fácil para
-     o titular dos dados decidir a que níveis pretende aceder. A descrição deve refletir objetivamente todas
-     as categorias de dados pessoais que forem efetivamente tratadas pelo responsável pelo tratamento.
-     Deve também ser claro de que forma o titular dos dados pode aceder aos diferentes níveis. O acesso
-     aos diferentes níveis não implica qualquer esforço desproporcionado para o titular dos dados nem está
-     subordinado à formulação de um novo pedido do titular dos dados. Tal significa que os titulares dos
-     dados devem ter a possibilidade de optar por aceder a todos os níveis de uma só vez ou de aceder a
-     um ou dois níveis, se considerarem que tal é suficiente.
-
-      Exemplo 29: o titular dos dados apresenta um pedido de acesso a um serviço de transmissão em
-      contínuo de vídeo. O pedido é apresentado através de uma opção que está disponível quando os
-      titulares dos dados iniciam a sessão na sua conta. São apresentadas duas opções ao titular dos dados
-      sob a forma de botões na página Web. A primeira opção consiste em descarregar a parte 1 dos dados
-      pessoais e as informações suplementares, que incluem, por exemplo, o histórico de transmissão em
-      contínuo, informações sobre a conta e informações sobre pagamentos. A segunda opção consiste em
-      descarregar a parte 2 dos dados pessoais que contém ficheiros de registo técnicos sobre as atividades
-      dos titulares dos dados e informações históricas sobre a conta. Neste caso, o responsável pelo
-      tratamento permitiu que os titulares dos dados exercessem o seu direito de uma forma que não cria
-      encargos adicionais para o titular dos dados.
-
-      Variante 1: nos casos em que o titular dos dados escolha apenas o botão para descarregar a parte 1
-      dos dados pessoais, o responsável pelo tratamento só é obrigado a fornecer-lhe a parte 1 dos dados.
-
-      Variante 2: nos casos em que o titular dos dados escolha os botões relativos às partes 1 e 2 dos dados,
-      o responsável pelo tratamento não pode fornecer apenas a parte 1 dos dados e solicitar uma nova
-      confirmação antes de fornecer a parte 2 dos dados. Em vez disso, deve fornecer ambas as partes dos
-      dados ao titular dos dados, em conformidade com o pedido apresentado.
-
-147. O recurso a uma abordagem estruturada por níveis pode não ser considerado adequado para todos os
-     responsáveis pelo tratamento ou em todas as situações. Esta abordagem só deve ser utilizada quando
-     a apresentação das informações numa só vez dificultar a sua compreensão pelo titular dos dados. Por
-     outras palavras, o responsável pelo tratamento deve poder demonstrar que o recurso a uma
-     abordagem estruturada por níveis comporta benefícios para o titular dos dados, ajudando-o a
-     compreender as informações fornecidas. Por conseguinte, a abordagem estruturada por níveis só será
-     considerada adequada nos casos em que o responsável pelo tratamento trate uma grande quantidade
-
-
+         See WP29 Guidelines on transparency - endorsed by the EDPB, para. 36.
       86
-           Ver nota de rodapé 82.
-                                                        53
-      Adotadas
+         See footnote 82.
+                                                          46
+      Adopted
 
-      de dados pessoais sobre o titular dos dados que apresenta o pedido e em que seja evidente que este
-      teria dificuldade em assimilar ou compreender as informações se fossem fornecidas de uma só vez. O
-      facto de o fornecimento das informações solicitadas ao abrigo do artigo 15.º exigir um esforço e
-      recursos consideráveis por parte do responsável pelo tratamento não constitui, por si só, um
-      argumento para a utilização de uma abordagem estruturada por níveis.
+      covered by the right of access, however, it could in some cases be sufficient to provide this information
+      in another layer.
 
-      5.2.5 Formato
+146. For the use of layered approach to be considered as an appropriate measure, it is necessary that the
+     data subject is informed at the outset that the information under Art. 15 is structured into different
+     layers and provided with a description of what personal data and information that will be contained in
+     the different layers. In this way it will be easier for the data subject to decide what layers they want to
+     access. The description should objectively reflect all the categories of personal data that are actually
+     processed by the controller. It also needs to be clear how the data subject can get access to the
+     different layers. Access to the different layers shall not entail any disproportionate effort for the data
+     subject and shall not be made conditional on the formulation of a new data subject request. This means
+     that the data subjects must have the possibility to choose whether to access all layers at once or to
+     access one or two of the layers, if they are satisfied with this.
 
-148. Nos termos do artigo 12.º, n.º 1, do RGPD, as informações previstas no artigo 15.º devem ser prestadas
-     por escrito ou por outros meios, incluindo, se for caso disso, por meios eletrónicos. No que diz respeito
-     ao acesso aos dados pessoais em fase de tratamento, o artigo 15.º, n.º 3, estabelece que, se o titular
-     dos dados apresentar o pedido por meios eletrónicos, e salvo pedido em contrário do mesmo, a
-     informação é fornecida num formato eletrónico de uso corrente. Uma vez que o RGPD não especifica
-     o que se entende por formato eletrónico de uso corrente, são admissíveis vários formatos. Este
-     conceito também varia ao longo do tempo.
+      Example 29: A data subject makes an access request to a video streaming service. The request is made
+      through an option that is available when data subjects have logged into their account. The data subject
+      is presented with two options which appear as buttons on the webpage. Option one is to download
+      part 1 of the personal data and the supplementary information. This contains, for example, recent
+      streaming history, account information and payment information. Option two is to download part 2 of
+      the personal data that contains technical log files about the data subjects activities and historical
+      information on the account. In this case, the controller has made it possible for data subjects to
+      exercise their right in a way that does not create an extra burden for the data subject.
 
-149. Aquilo que pode ser considerado um formato eletrónico de uso corrente deve basear-se numa
-     avaliação objetiva e não no formato utilizado pelo responsável pelo tratamento nas suas operações
-     quotidianas. A fim de determinar o formato que deve ser considerado um formato de uso corrente na
-     situação em causa, o responsável pelo tratamento terá de determinar se existem formatos específicos
-     geralmente utilizados na sua área de operação ou no contexto em questão. Caso não existam tais
-     formatos, devem, em geral, ser considerados formatos eletrónicos de uso corrente os formatos
-     abertos definidos numa norma internacional, como a ISO. No entanto, o CEPD não exclui a
-     possibilidade de outros formatos poderem também ser considerados de uso corrente na aceção do
-     artigo 15.º, n.º 3. Ao avaliar se um formato é um formato eletrónico de uso corrente, o CEPD tem em
-     consideração a facilidade com que a pessoa pode aceder às informações fornecidas no formato atual.
-     A este respeito, importa ter em conta as informações que o responsável pelo tratamento fornece ao
-     titular dos dados sobre a forma de aceder a um ficheiro disponibilizado num formato específico, como
-     os programas ou o software que podem ser utilizados, para tornar o formato mais acessível ao titular
-     dos dados. No entanto, o titular dos dados não deve ser obrigado a comprar software para ter acesso
-     às informações.
+      Variation 1: In cases where the data subject only chooses the button to download part 1 of the
+      personal data, the controller is obliged only to provide part 1 of the data.
 
-150. Na decisão sobre o formato em que deve ser fornecida a cópia dos dados pessoais e as informações
-     nos termos do artigo 15.º, o responsável pelo tratamento deve ter em conta que esse formato deve
-     permitir que as informações sejam apresentadas de forma inteligível e de fácil acesso. É importante
-     que o titular dos dados receba as informações num formato corpóreo e permanente (texto, suporte
-     eletrónico). Uma vez que as informações devem perdurar no tempo, a prestação de informações por
-     escrito, incluindo por meios eletrónicos, é, em princípio, preferível a outras formas. A cópia dos dados
-     pessoais pode, se for caso disso, ser armazenada num dispositivo eletrónico de armazenamento, como
-     um CD ou USB.
+      Variation 2: In cases where the data subject chooses the buttons for both part 1 and part 2 of the data,
+      the controller cannot communicate only part 1 of the data and ask for a new confirmation before
+      communication of part 2 of the data. Instead both parts of the data must be provided to the data
+      subject, as it follows from the request made.
 
-151. Note-se que, para que um responsável pelo tratamento possa considerar que foi fornecida aos
-     titulares dos dados uma cópia dos dados pessoais, não basta que lhes tenha sido facultado acesso aos
-     seus dados pessoais. Para que o requisito de fornecer uma cópia dos dados pessoais seja cumprido e
-     caso os dados sejam fornecidos por via eletrónica/digital, os titulares dos dados devem poder
-     descarregar os seus dados num formato eletrónico de uso corrente.
+147. The use of a layered approach will not be considered appropriate for all controllers or in all situations.
+     It should only be used when it would be difficult for the data subject to comprehend the information
+     if given in its entirety. In other words, the controller needs to be able to demonstrate that the use of
+     layered approach adds value for the data subject in helping them understand the information
+     provided. A layered approach would therefore only be considered appropriate when a controller
+     processes a large quantity of personal data about the data subject making a request and where there
+     would be apparent difficulties for the data subject to grasp or comprehend the information if it were
+     to be provided all at once. The fact that it would require great effort and resources from the controller
+     to provide the information under Art. 15 is not in itself an argument for using a layered approach.
 
-152. Cabe ao responsável pelo tratamento decidir o formato adequado em que os dados pessoais serão
-     fornecidos. Embora não seja obrigado a fazê-lo, o responsável pelo tratamento pode fornecer os
-     documentos que contêm dados pessoais sobre os titulares dos dados que apresentam o pedido no seu
+      5.2.5 Format
 
-                                                        54
-      Adotadas
+148. According to Art. 12(1) GDPR, information under Art.15 shall be provided in writing or by other means
+     including, where appropriate, by electronic means. As regards access to the personal data undergoing
+     processing, Art. 15(3) states that where the data subject makes the request by electronic means, and
+     unless otherwise requested by the data subject, the information shall be provided in a commonly used
+     electronic form. The GDPR does not specify what a commonly used electronic form is. Thus there are
+     several conceivable formats that can be used. What is considered to be a commonly used electronic
+     form will also vary over time.
 
-      formato original. O responsável pelo tratamento pode, por exemplo, consoante os casos, facultar
-      acesso a uma cópia do suporte propriamente dito, dada a necessidade de transparência (por exemplo,
-      para verificar a exatidão dos dados na posse do responsável pelo tratamento no caso de um pedido de
-      acesso ao processo clínico ou a uma gravação áudio cuja transcrição seja contestada). Contudo, na sua
-      interpretação do direito de acesso previsto na Diretiva 95/46/CE, o TJUE afirmou que «[p]ara que [o
-      direito de acesso] seja satisfeito, basta fornecer ao requerente [...] uma descrição completa desses
-      dados sob forma inteligível, isto é, uma forma que lhe permita tomar conhecimento dos referidos
-      dados e verificar que são exatos e tratados em conformidade com essa diretiva, para que possa, se for
-      caso disso, exercer os direitos que lhe são conferidos pela referida diretiva»87. Ao contrário da diretiva,
-      o RGPD prevê expressamente a obrigação de fornecer ao titular dos dados uma cópia dos dados
-      pessoais em fase de tratamento. Tal não significa, contudo, que o titular dos dados tenha sempre o
-      direito de obter uma cópia dos documentos que contêm os dados pessoais, mas sim uma cópia
-      inalterada dos dados pessoais que são tratados nesses documentos. 88 Essa cópia dos dados pessoais
-      pode ser fornecida através de uma compilação que contenha todos os dados pessoais abrangidos pelo
-      direito de acesso, desde que a mesma permita que o titular dos dados tome conhecimento do
-      tratamento e verifique a sua licitude. Assim, não existe qualquer contradição entre a redação do RGPD
-      e o acórdão do TJUE sobre esta matéria. O termo «descrição completa» utilizado no acórdão não deve
-      ser incorretamente interpretado no sentido de que a compilação não compreenderia todos os dados
-      abrangidos pelo direito de acesso, sendo apenas uma forma de apresentar todos esses dados sem
-      conceder acesso aos documentos subjacentes que contêm os dados pessoais. Uma vez que a
-      compilação deve conter uma cópia dos dados pessoais, importa salientar que não pode ser efetuada
-      de uma forma que modifique ou altere de algum modo o conteúdo das informações.
+                                                         47
+      Adopted
 
-      Exemplo 30: o titular dos dados está segurado numa companhia de seguros há muitos anos, durante
-      os quais ocorreram vários sinistros segurados. Em cada caso, o titular dos dados e a companhia de
-      seguros trocaram correspondência por correio eletrónico. Uma vez que o titular dos dados teve de
-      fornecer informações sobre as circunstâncias específicas de cada sinistro, a correspondência inclui
-      muitas informações pessoais sobre o titular dos dados (ocupação dos tempos livres, pessoas com que
-      partilha o apartamento, hábitos quotidianos, etc.). Em alguns casos, surgiram divergências quanto à
-      obrigação da companhia de seguros de indemnizar o titular dos dados, o que gerou um grande volume
-      de comunicação entre as duas partes. A companhia de seguros conserva toda esta correspondência.
-      O titular dos dados apresenta um pedido de acesso. Nesta situação, o responsável pelo tratamento
-      não tem necessariamente de fornecer as mensagens de correio eletrónico no seu formato original,
-      encaminhando-as para o titular dos dados. O responsável pelo tratamento pode, em vez disso, optar
-      por compilar a correspondência eletrónica que contém os dados pessoais do titular dos dados num
-      ficheiro que lhe é fornecido.
+149. What could be considered as a commonly used electronic form should be based on an objective
+     assessment and not on what format the controller uses in its daily operations. In order to determine
+     what format is to be considered as a commonly used format in the situation at hand, the controller
+     will have to assess if there are specific formats generally used in the controller’s area of operation or
+     in the given context. When there are no such formats generally used, open formats set in an
+     international standard, such as ISO, should, in general, be considered as commonly used electronic
+     formats. However, the EDPB does not exclude the possibility that other formats may also be
+     considered to be commonly used within the meaning of Article 15(3). When assessing if a format is a
+     commonly used electronic format, the EDPB considers that it is of importance how easily the individual
+     can access information provided in the current format. In this regard it should be noted what
+     information the controller has provided to the data subject about how to access a file which has been
+     provided in a specific format, such as what programs or software that could be used, to make the
+     format more accessible to the data subject. The data subject should, however, not be obliged to buy
+     software in order to get access to the information.
 
-153. Independentemente da forma como o responsável pelo tratamento fornece os dados pessoais, por
-     exemplo, fornecendo os documentos que contêm os dados pessoais ou uma compilação dos dados
-     pessoais, as informações devem cumprir os requisitos de transparência estabelecidos no artigo 12.º
-     do RGPD. Em alguns casos, uma forma de cumprir estes requisitos seria elaborar uma compilação e/ou
-     extrair os dados de modo que as informações fossem de fácil compreensão. Noutros casos, a
-     disponibilização de uma cópia do próprio documento que contém os dados pessoais permitirá
+150. When deciding upon the format in which the copy of the personal data and the information under
+     Art. 15 should be provided, the controller needs to keep in mind that the format must enable the
+     information to be presented in a way that is both intelligible and easily accessible. It is important that
+     the data subject is provided with information in embodied, permanent form (text, electronic). Since
+     the information should persist over time, information in writing, including by electronic means, is, in
+     principle, preferable over other forms. The copy of the personal data could, when appropriate, be
+     stored on an electronic storage device such as CD or USB.
 
+151. It should be noted that for a controller to be able to consider that data subjects have been provided
+     with a copy of personal data it is not enough to have provided them with access to their personal data.
+     For the requirement to provide a copy of personal data to be fulfilled and in case the data are provided
+     electronically/digitally, the data subjects need to be able to download their data in a commonly used
+     electronic form.
+
+152. It is the responsibility of the controller to decide upon the appropriate form in which the personal data
+     will be provided. The controller can, although is not necessarily obliged to, provide the documents
+     which contain personal data about the data subjects making the request, in their original form. The
+     controller could, for example, on a case-by-case basis, provide access to a copy of the medium as such,
+     given the need for transparency (for example, to verify the accuracy of the data held by the controller
+     in the event of a request for access to the medical file or an audio recording whose transcript is
+     disputed). However, the CJEU, in its interpretation of the right of access under the Directive 95/46/EC,
+     stated that “for [the right of access] to be complied with, it is sufficient for the applicant to be provided
+     with a full summary of those data in an intelligible form, that is, a form which allows him to become
+     aware of those data and to check that they are accurate and processed in compliance with that
+     directive, so that he may, where relevant, exercise the rights conferred on him”87. Unlike the directive,
+     the GDPR expressly contains an obligation to provide the data subject with a copy of the personal data
+     undergoing processing. This, however, does not mean that the data subject always has the right to
+     obtain a copy of the documents containing the personal data, but an unaltered copy of the personal
+     data being processed in these documents. 88 Such copy of the personal data could be provided through
+     a compilation containing all personal data covered by the right of access as long as the compilation
 
 
       87
-         Acórdão do Tribunal de Justiça de 17 de julho de 2014, YS e o., C-141/12 e C-372/12, ECLI:EU:C:2014:2081,
-      n.º 60.
+        CJEU, Joined Cases C-141/12 and 372/12, YS and Others, para. 60.
       88
-         Foram suscitadas questões relacionadas com este tema em processos atualmente pendentes no TJUE (C-
-      487/21 e C-307/21).
-                                                            55
-      Adotadas
+        Questions related to this topic are at issue in cases currently pending before the CJEU ( C-487/21 and C-
+      307/21).
+                                                             48
+      Adopted
 
-       compreender melhor as informações. Por conseguinte, a decisão sobre a solução mais adequada deve
-       ser tomada caso a caso.
+      makes it possible for the data subject to be made aware and verify the lawfulness of the processing.
+      Hence, there is no contradiction between the wording of the GDPR and the ruling by the CJEU
+      regarding this matter. The word summary in the ruling should not be misinterpreted as meaning that
+      the compilation would not encompass all data covered by the right of access, but is merely a way to
+      present all that data without giving access to the underlying documents which contain the personal
+      data. Since the compilation needs to contain a copy of the personal data, it should be stressed that it
+      cannot be made in a way that somehow alters or changes the content of the information.
 
-154. Neste contexto, é importante recordar que existe uma distinção entre o direito de obter acesso
-     previsto no artigo 15.º do RGPD e o direito de receber uma cópia de documentos administrativos
-     regulado pelo direito nacional, sendo este último um direito de receber uma cópia do documento
-     propriamente dito. Tal não significa que o direito de acesso previsto no artigo 15.º do RGPD exclui a
-     possibilidade de receber uma cópia do documento/suporte que contém os dados pessoais.
+      Example 30: A data subject has been insured with an insurance company for many years. Several
+      insured incidents have occurred. In each case there has been some written correspondence through
+      e-mail between the data subject and the insurance company. As the data subject had to provide
+      information regarding the specific circumstances of each incident, the correspondence entails a lot of
+      personal information about the data subject (hobbies, flatmates, daily habits etc.). In some cases
+      disagreement arose about the insurance company’s obligation to compensate the data subject which
+      caused a vast amount of communication back and forth. All this correspondence is stored by the
+      insurance company. The data subject makes an access request. In this situation the controller does not
+      necessarily have to provide the e-mails in their original form by forwarding them to the data subject.
+      Instead the controller could choose to compile the e-mail correspondence containing the data
+      subject’s personal data in a file that is provided to the data subject.
 
-155. Em alguns casos, os próprios dados pessoais estabelecem os requisitos quanto ao formato em que
-     devem ser fornecidos. Por exemplo, se os dados pessoais constituírem informações manuscritas pelo
-     titular dos dados, poderá ser necessário fornecer-lhe uma fotocópia dessas informações manuscritas,
-     uma vez que a própria caligrafia constitui dados pessoais. É o que acontecerá, nomeadamente, se a
-     caligrafia for um elemento relevante para o tratamento, por exemplo, uma análise grafológica. O
-     mesmo é válido, em geral, para as gravações áudio, uma vez que a voz do próprio titular dos dados
-     constitui dados pessoais. No entanto, em alguns casos, o acesso pode ser facultado fornecendo uma
-     transcrição da conversa, por exemplo, se tal for acordado entre o titular dos dados e o responsável
-     pelo tratamento.
+153. Notwithstanding the form in which the controller provides the personal data, e.g. by providing the
+     actual documents containing the personal data or a compilation of the personal data, the information
+     shall comply with the transparency requirements laid down in Art. 12 GDPR. Making some kind of
+     compilation and/or extracting the data in a way that makes the information easy to comprehend could,
+     in some cases, be a way to comply with these requirements. In other cases the information is better
+     understood by providing a copy of the actual document containing the personal data. Hence which
+     form is most suitable must be decided on a case by case basis.
 
-156. Note-se que as disposições em matéria de requisitos do formato são diferentes para o direito de acesso
-     e para o direito de portabilidade dos dados. Enquanto o direito de portabilidade dos dados previsto
-     no artigo 20.º do RGPD exige que as informações sejam fornecidas num formato de leitura automática,
-     o mesmo não acontece com o direito à informação previsto no artigo 15.º. Consequentemente, alguns
-     formatos que não são considerados adequados para satisfazer um pedido de portabilidade dos dados,
-     por exemplo, ficheiros pdf, podem ser adequados para satisfazer um pedido de acesso.
+154. In this context, it is important to remember that there is a distinction between the right to obtain
+     access under Art. 15 GDPR and the right to receive a copy of administrative documents regulated under
+     national law, the latter being a right to receive a copy of the actual document. This does not mean
+     that the right of access under Art. 15 GDPR excludes the possibility to receive a copy of the
+     document/media on which the personal data appear.
 
-       5.3 Prazos para conceder acesso
+155. In some cases, the personal data itself sets the requirements in what format the personal data should
+     be provided. For example, when the personal data constitutes handwritten information by the data
+     subject, the data subject may need to be provided with a photocopy of that handwritten information,
+     as the handwriting itself is personal data. That could especially be the case when the handwriting is
+     something that matters to the processing, e.g. scripture analysis. The same applies in general for audio
+     recordings because the voice of the data subject itself is personal data. In some cases, however, access
+     can be given by providing a transcription of the conversation, for example, if agreed upon between the
+     data subject and the controller.
 
-157. O artigo 12.º, n.º 3, do RGPD exige que o responsável pelo tratamento forneça informações ao titular
-     dos dados sobre as medidas tomadas em relação a um pedido apresentado nos termos do artigo 15.º
-     sem demora injustificada e no prazo de um mês a contar da receção do pedido. Este prazo pode ser
-     prorrogado por um período máximo de dois meses, tendo em conta a complexidade e o número de
-     pedidos, desde que o titular dos dados tenha sido informado dos motivos desse atraso no prazo de um
-     mês a contar da receção do pedido. Esta obrigação de informar o titular dos dados sobre a prorrogação
-     e os seus motivos não deve ser confundida com as informações que devem ser prestadas sem demora
-     e, o mais tardar, no prazo de um mês quando o responsável pelo tratamento não der seguimento ao
-     pedido, conforme especificado no artigo 12.º, n.º 4, do RGPD.
+156. It should be noted that the provisions on format requirements are different regarding the right of
+     access and the right of data portability. Whilst the right of data portability under Art. 20 GDPR requires
+     that the information is provided in a machine readable format, the right to information under Art. 15
+     does not. Hence, formats that are considered not to be appropriate when complying with a data
+     portability request, for example pdf-files, could still be suitable when complying with an access
+     request.
 
-158. O responsável pelo tratamento deve responder e, regra geral, fornecer as informações previstas no
-     artigo 15.º sem demora injustificada, o que significa que as informações devem ser prestadas o mais
-     rapidamente possível. Por conseguinte, se for possível fornecer as informações solicitadas num prazo
-     inferior a um mês, o responsável pelo tratamento deve fazê-lo. O CEPD também considera que, em
-     algumas situações, o prazo para responder ao pedido deve ser adaptado ao período de conservação,
-     a fim de ser possível conceder acesso89.
 
-159.    O prazo começa a correr na data em que o responsável pelo tratamento tiver recebido um pedido nos
-       termos do artigo 15.º, ou seja, quando o pedido chegar ao responsável pelo tratamento através de um
+                                                         49
+      Adopted
+
+       5.3 Timing for the provision of access
+
+157. Art. 12(3) GDPR requires that the controller provides information to the data subject regarding action
+     taken in respect of a request under Art. 15 without undue delay and in any event within one month of
+     receipt of the request. This deadline can be extended by a maximum of two months taking into account
+     the complexity and the number of the requests, provided that the data subject has been informed
+     about the reasons for such delay within one month of the receipt of the request. This obligation to
+     inform the data subject about the extension and its reasons should not be confused with the
+     information that has to be given without delay and at the latest within one month when the controller
+     does not take action on the request, as detailed by Art. 12(4) GDPR.
+
+158. The controller shall react and, as a general rule, provide the information under Art. 15 without undue
+     delay, which means that the information should be given as soon as possible. This means that, if it is
+     possible to provide the requested information in a shorter amount of time than one month, the
+     controller should do so. The EDPB also considers that the timing to answer the request in some
+     situations must be adapted to the storage period in order to be able to provide access89.
+
+159.    The time limit starts when the controller has received an Art. 15 request, meaning when the request
+       reaches the controller through one of its official channels.90 It is not necessary that the controller is in
+       fact aware of the request. However, when the controller needs to communicate with the data subject
+       due to the uncertainty regarding the identity of the person making the request there may be a
+       suspension in time until the controller has obtained the information needed from the data subject,
+       provided the controller has asked for additional information without undue delay. The same applies
+       for when a controller has asked a data subject to specify the processing operations to which the
+       request relates, when the conditions set out in Recital 63 are met. 91.
+
+       Example 31: Following the reception of the request, a controller reacts immediately and asks the
+       information it needs to confirm the identity of the person making the request. The latter replies only
+       several days later and the information that the data subject sends to verify the identity does not seem
+       sufficient which requires the controller to ask for clarifications. In this situation there will be a
+       suspension in time until the controller has obtained enough information to verify the identity of the
+       data subject.
+
+160. The time period to respond to an access request needs to be calculated in accordance with Regulation
+     No 1182/7192.
+
+       Example 32: An organisation receives a request on 5 March. The time limit starts from the same day.
+       This gives the organisation until and including 5 April to comply with the request, at the latest.
+
+
+
 
        89
-            Ver a secção 2.3.3.
+          See section 2.3.3
+       90
+          In some member states there is national law determining when a message is to be considered as received,
+       taking into account weekends and national holidays.
+       91
+          See further section 2.3.1.
+       92
+          Regulation (EEC, EURATOM) No 1182/71 of the Council of 3 June 1971 determining the rules applicable to
+       periods, dates and time limits.
+                                                            50
+       Adopted
+
+      Example 33: If the organisation receives a request on 31 August, and as the following month is
+      shorter there is no corresponding date, the date for response, at the latest, is the last day of the
+      following month, hence 30 September.
+
+161. If the last day of this time period falls on a weekend or a public holiday, the controller has until the
+     next working day to respond.
+
+162. Under certain circumstances the controller can extend the time to respond to a request of access by
+     two further months if necessary, taking into account the complexity and number of the requests. It
+     should be emphasised that this possibility is an exemption from the general rule and should not be
+     overused. If controllers often find themselves forced to extend the time limit, it could be an indication
+     of a need to further develop their general procedures to handle requests.
+
+163. What constitutes a complex request varies depending upon the specific circumstances of each case.
+     Some of the factors that could be considered relevant are for example:
+
+                 the amount of data processed by the controller,
+                 how the information is stored, especially when it is difficult to retrieve the information,
+                  for example when data are processed by different units of the organisation,
+                 the need to redact information when an exemption applies, for example information
+                  regarding other data subjects or that constitutes trade secrets, and
+                 when the information requires further work in order to be intelligible.
+
+164. The mere fact that complying with the request would require a large effort does not make a request
+     complex. Similarly, the fact that a big company receives a large number of requests would not
+     automatically trigger an extension of the time limit. However, when a controller temporarily receives
+     a large amount of requests, for example due to an extraordinary publicity regarding their activities,
+     this could be regarded as a legitimate reason for prolonging the time of the response. Nevertheless, a
+     controller, especially one who handles a large quantity of data, should have procedures and
+     mechanisms in place in order to be able to handle requests within the time limit under normal
+     circumstances.
 
 
-                                                       56
-       Adotadas
+      6 LIMITS AND RESTRICTIONS OF THE RIGHT OF ACCESS
+      6.1 General remarks
 
-      dos seus canais oficiais90. Não é necessário que o responsável pelo tratamento tenha efetivamente
-      conhecimento do pedido. No entanto, se o responsável pelo tratamento tiver de contactar o titular
-      dos dados devido à incerteza quanto à identidade da pessoa que apresenta o pedido, o prazo poderá
-      ser suspenso até que o primeiro tenha obtido as informações necessárias junto do titular dos dados,
-      desde que tenha solicitado informações suplementares sem demora injustificada. O mesmo é válido
-      para os casos em que o responsável pelo tratamento tenha solicitado ao titular dos dados que
-      especifique as operações de tratamento a que o pedido se refere, caso estejam preenchidas as
-      condições previstas no considerando 6391.
+165. The right of access is subject to the limits that result from Art. 15(4) GDPR (rights and freedoms of
+     others) and Art. 12 (5) GDPR (manifestly unfounded or excessive requests). Furthermore, Union or
+     Member State law may restrict the right of access in accordance with Art. 23 GDPR. Derogations
+     regarding the processing of personal data for scientific, historical research or statistical purposes or
+     archiving purposes in the public interest can be based on Art. 89(2) and Art. 89(3) GDPR accordingly
+     and derogations for processing carried out for journalistic purposes or the purpose of academic, artistic
+     or literary expression can be based on Art. 85(2) GDPR.
 
-      Exemplo 31: após a receção do pedido, o responsável pelo tratamento responde imediatamente e
-      solicita as informações de que necessita para confirmar a identidade da pessoa que apresenta o
-      pedido. Esta responde apenas alguns dias mais tarde e as informações que o titular dos dados envia
-      para efeitos de verificação da identidade não se afiguram suficientes, o que exige que o responsável
-      pelo tratamento solicite esclarecimentos. Nesta situação, o prazo é suspenso até que o responsável
-      pelo tratamento tenha obtido informações suficientes para verificar a identidade do titular dos dados.
-
-160. O prazo para responder a um pedido de acesso é calculado em conformidade com o Regulamento
-     n.º 1182/7192.
-
-      Exemplo 32: uma organização recebe um pedido em 5 de março. O prazo começa a correr no mesmo
-      dia, o que significa que a organização tem, o mais tardar, até 5 de abril, inclusive, para satisfazer o
-      pedido.
-
-
-
-      Exemplo 33: se a organização receber um pedido em 31 de agosto, como o mês seguinte é mais
-      curto, não há data correspondente; assim, a data-limite para a resposta é o último dia do mês
-      seguinte, ou seja, 30 de setembro.
-
-161. Se o último dia deste prazo coincidir com um fim de semana ou um feriado, o responsável pelo
-     tratamento tem até ao dia útil seguinte para responder.
-
-162. Em determinadas circunstâncias, o responsável pelo tratamento pode eventualmente prorrogar o
-     prazo de resposta a um pedido de acesso por mais dois meses, atendendo à complexidade e ao número
-     de pedidos apresentados. Importa sublinhar que esta possibilidade constitui uma derrogação à regra
-     geral e não deve ser utilizada com demasiada frequência. Se os responsáveis pelo tratamento forem
-     frequentemente obrigados a prorrogar o prazo, este facto poderá ser um sinal de que é necessário
-     aperfeiçoar os seus procedimentos gerais de tratamento de pedidos.
-
-163. A qualificação de um pedido como complexo depende das circunstâncias específicas de cada caso.
-     Alguns dos fatores que podem ser considerados relevantes são, por exemplo:
-
-                 a quantidade de dados tratados pelo responsável pelo tratamento,
-                 a forma como as informações são conservadas, especialmente quando é difícil extraí-las,
-                  por exemplo quando os dados são tratados por diferentes unidades da organização,
-
-
-
-      90
-         Em alguns Estados-Membros, existe legislação nacional que determina o momento em que se deve
-      considerar que uma mensagem foi recebida, tendo em conta fins de semana e feriados nacionais.
-      91
-         Ver ainda a secção 2.3.1.
-      92
-         Regulamento (CEE, Euratom) n.º 1182/71 do Conselho, de 3 de junho de 1971, relativo à determinação das
-      regras aplicáveis aos prazos, às datas e aos termos.
-                                                          57
-      Adotadas
-
-                  a necessidade de rasurar informações quando é aplicável uma derrogação, por exemplo
-                   informações relativas a outros titulares de dados ou que constituam segredos comerciais,
-                   e
-                  casos em que é necessário um trabalho adicional para tornar a informação inteligível.
-
-164. O simples facto de a satisfação do pedido exigir um esforço considerável não é suficiente para que o
-     mesmo seja considerado complexo. Do mesmo modo, o facto de uma grande empresa receber um
-     elevado número de pedidos não desencadeia automaticamente uma prorrogação do prazo. No
-     entanto, se um responsável pelo tratamento receber temporariamente um elevado número de
-     pedidos, por exemplo devido a uma publicidade extraordinária das suas atividades, tal pode ser
-     considerado um motivo legítimo para prorrogar o prazo de resposta. Não obstante, os responsáveis
-     pelo tratamento, especialmente aqueles que tratam uma grande quantidade de dados, devem dispor
-     de procedimentos e mecanismos que permitam dar resposta aos pedidos dentro do prazo em
-     circunstâncias normais.
-
-
-      6 LIMITES E LIMITAÇÕES DO DIREITO DE ACESSO
-      6.1 Observações gerais
-
-165. O direito de acesso está sujeito aos limites que decorrem do artigo 15.º, n.º 4, do RGPD [direitos e
-     liberdades de terceiros (outros)] e do artigo 12.º, n.º 5, do RGPD (pedidos manifestamente infundados
-     ou excessivos). Além disso, o direito da União ou dos Estados-Membros pode limitar o direito de acesso
-     em conformidade com o artigo 23.º do RGPD. As derrogações relativas ao tratamento de dados
-     pessoais para fins de investigação científica ou histórica ou estatísticos ou para fins de arquivo de
-     interesse público podem basear-se no artigo 89.º, n.º 2, e no artigo 89.º, n.º 3, do RGPD,
-     respetivamente, e as derrogações relativas ao tratamento efetuado para fins jornalísticos ou para fins
-     de expressão académica, artística ou literária podem basear-se no artigo 85.º, n.º 2, do RGPD.
-
-166. Importa salientar que, com exceção dos limites, derrogações e eventuais limitações
-     supramencionados, o RGPD não permite quaisquer outras isenções ou derrogações ao direito de
-     acesso. Tal significa, nomeadamente, que o direito de acesso não está sujeito a qualquer ressalva geral
-     quanto à proporcionalidade dos esforços que o responsável pelo tratamento deve envidar para
-     satisfazer os pedidos dos titulares dos dados apresentados nos termos do artigo 15.º do RGPD93. Além
-     disso, não é permitido limitar ou restringir o direito de acesso num contrato celebrado entre o
-     responsável pelo tratamento e o titular dos dados.
-
-167. De acordo com o considerando 63, o direito de acesso é concedido aos titulares dos dados para que
-     tomem conhecimento do tratamento e verifiquem a sua licitude. O direito de acesso permite ao titular
-     dos dados obter, consoante as circunstâncias, a retificação, o apagamento ou o bloqueio de dados
-     pessoais94. Porém, os titulares dos dados não são obrigados a fundamentar ou a justificar o seu pedido.
+166. It is important to note that, apart from the above mentioned limits, derogations and possible
+     restrictions, the GDPR does not allow any further exemptions or derogations to the right of access.
+     That means inter alia that the right of access is without any general reservation to proportionality with
+     regard to the efforts the controller has to take to comply with the data subjects request under Art. 15
 
 
 
+                                                         51
+      Adopted
 
-      93
-         Nos casos em que proceda ao tratamento de uma grande quantidade de informação relativa ao titular dos
-      dados, como mencionado no considerando 63, o responsável pelo tratamento pode solicitar-lhe que
-      especifique as informações ou as atividades de tratamento a que se refere o seu pedido. Ver também a
-      secção 2.3.1.
-      94
-         Acórdão do Tribunal de Justiça de 17 de julho de 2014, YS e o., C-141/12 e C-372/12, ECLI:EU:C:2014:2081.
+       GDPR93. Furthermore, it is not permitted to limit or restrict the right of access in a contract between
+       the controller and the data subject.
 
+167. According to Recital 63, the right of access is granted to data subjects in order to be aware of, and
+     verify, the lawfulness of the processing. The right of access enables, inter alia, the data subject to
+     obtain, depending on the circumstances, the rectification, erasure or blocking of personal data94.
+     However, data subjects are not obliged to give reasons or to justify their request. As long as the
+     requirements of Art. 15 GDPR are met the purposes behind the request should be regarded as
+     irrelevant95.
 
-                                                            58
-      Adotadas
+       6.2 Article 15 (4) GDPR
 
-       Desde que os requisitos do artigo 15.º do RGPD estejam preenchidos, as finalidades do pedido devem
-       ser consideradas irrelevantes95.
+168. According to Art. 15(4) GDPR, the right to obtain a copy shall not adversely affect the rights and
+     freedoms of others. Explanations about this limitation are given in the fifth and sixth sentences of
+     Recital 63. That right should not adversely affect the rights or freedoms of others, including trade
+     secrets or intellectual property and in particular the copyright protecting the software.
+     However, the result of those considerations should not be a refusal to provide all information to the
+     data subject. When interpreting Art. 15(4) GDPR special caution has to be taken not to unjustifiably
+     widen the restrictions laid down in Art. 23 GDPR, which are permissible only under strict conditions.
 
-       6.2 Artigo 15.º, n.º 4, do RGPD
+169.   Art. 15(4) GDPR applies to the right to obtain a copy of the data, which is the main modality of giving
+       access to the data processed (second component of the right of access). It is also applicable, and rights
+       and freedoms of others shall be taken into account, if access to the personal data is exceptionally
+       granted by other means than a copy. For example, there is no difference justified whether trade secrets
+       are affected by providing a copy or by granting on site access to the data subject. Art. 15(4) GDPR is
+       not applicable to the additional information on the processing as stated in Art. 15(1) lit. a.-h. GDPR.
 
-168. Nos termos do artigo 15.º, n.º 4, do RGPD, o direito de obter uma cópia não prejudica os direitos e as
-     liberdades de terceiros (outros). A quinta e sexta frases do considerando 63 explicam esta limitação.
-     Esse direito não deve prejudicar os direitos ou as liberdades de terceiros (outros), incluindo segredos
-     comerciais ou propriedade intelectual e, em especial, os direitos de autor que protegem o software.
-     Todavia, essas considerações não devem resultar na recusa de prestação de todas as informações ao
-     titular dos dados. Na interpretação do artigo 15.º, n.º 4, do RGPD, há que ter um cuidado especial para
-     não alargar injustificadamente as limitações previstas no artigo 23.º do RGPD, que só são permitidas
-     em condições estritas.
-
-169.   O artigo 15.º, n.º 4, do RGPD aplica-se ao direito de obter uma cópia dos dados, que é a principal
-       modalidade de acesso aos dados objeto de tratamento (segunda componente do direito de acesso). É
-       igualmente aplicável se o acesso aos dados pessoais for excecionalmente concedido por meios
-       diferentes de uma cópia, sendo tidos em conta os direitos e as liberdades de terceiros (outros). Por
-       exemplo, não existe qualquer justificação para um tratamento diferenciado entre os casos em que
-       segredos comerciais são prejudicados pelo fornecimento de uma cópia ou pela concessão ao titular
-       dos dados de acesso no local. O artigo 15.º, n.º 4, do RGPD não é aplicável às informações
-       suplementares sobre o tratamento previstas no artigo 15.º, n.º 1, alíneas a) a h), do RGPD.
-
-170.   Segundo o considerando 63, entre os direitos e as liberdades concorrentes incluem-se os segredos
-       comerciais ou a propriedade intelectual e, em especial, os direitos de autor que protegem o software.
-       Estes direitos e liberdades expressamente mencionados devem ser considerados meros exemplos,
-       uma vez que, em princípio, a limitação do artigo 15.º, n.º 4, do RGPD pode ser invocada com base em
-       qualquer direito ou liberdade consagrado no direito da União ou de um Estado-Membro96. Assim, o
-       direito à proteção dos dados pessoais (artigo 8.º da Carta dos Direitos Fundamentais da União
-       Europeia) também pode ser considerado um direito prejudicado para efeitos do artigo 15.º, n.º 4, do
-       RGPD. No que diz respeito ao direito de obter uma cópia, o direito de terceiros (outros) à proteção de
-       dados é um caso típico em que a limitação deve ser avaliada. Além disso, tem de ser tido em conta o
-       direito à confidencialidade da correspondência, por exemplo no que diz respeito à correspondência
-       eletrónica privada no contexto laboral97. É importante referir que nem todos os interesses constituem
-       «direitos e liberdades» para efeitos do artigo 15.º, n.º 4, do RGPD. Por exemplo, os interesses
-       económicos de uma empresa em não divulgar dados pessoais não satisfazem as condições para o
-       recurso à exceção prevista no artigo 15.º, n.º 4, desde que não sejam prejudicados segredos
-       comerciais, propriedade intelectual ou outros direitos protegidos.
-
-171.   Entende-se por «terceiros (outros)» qualquer outra pessoa ou entidade, com exceção do titular dos
-       dados, que exerça o respetivo direito de acesso. Por conseguinte, podem estar em causa os direitos e
-       as liberdades do responsável pelo tratamento ou do subcontratante (por exemplo, no que se refere à
+170.   According to Recital 63, conflicting rights and freedoms include trade secrets or intellectual property
+       and in particular the copyright protecting the software. These explicitly mentioned rights and freedoms
+       should be regarded merely as examples, as, in principle, any right or freedom based on Union or
+       Member State law may be considered to invoke the limitation of Art. 15(4) GDPR96. Thus, the right to
+       the protection of personal data (Art. 8 European Charter of Fundamental Rights) can also be
+       considered as an affected right in terms of Art. 15(4) GDPR. Regarding the right to obtain a copy, the
+       right to data protection of others is a typical case where the limitation needs to be assessed.
+       Furthermore, the right to confidentiality of correspondence has to be taken into account, for example
+       with regard to private e-mail-correspondence in the employment context97. It is important to note that
+       not every interest amounts to “rights and freedoms” pursuant to Art. 15(4) GDPR. For example, the
+       economic interests of a company not to disclose personal data do not reach the threshold for the
 
 
+
+
+       93
+          Where the controller processes a large quantity of information concerning the data subject, as mentioned in
+       recital 63 GDPR, the controller may request the data subject to specify the information or processing activities
+       to which the request relates. See also section 2.3.1.
+       94
+          CJEU, Joined Cases C-141/12 and C-372/12, YS and Others.
        95
-          Sem prejuízo de legislação nacional aplicável que cumpra os requisitos previstos no artigo 23.º do RGPD (ver
-       capítulo 6.4).
+          This is without prejudice to any applicable national law that comply with the requirements posed by Art. 23
+       GDPR, see Chapter 6.4.
        96
-          O peso ou a prioridade dos direitos e liberdades concorrentes não se prende com a definição dos termos
-       «direitos e liberdades». No entanto, a ponderação desses interesses faz parte de uma segunda fase da avaliação,
-       ou seja, a determinação da aplicabilidade do artigo 15.º, n.º 4. Ver ponto 173 infra.
+          The weight or priority of the conflicting rights and freedoms is not a question of the definition of the terms
+       “rights and freedoms“. However, balancing of such interests is part of a second step of the assessment, whether
+       Art. 15(4) is applicable. See para. 173 below.
        97
-          Acórdão do Tribunal Europeu dos Direitos Humanos de 5 de setembro de 2017, Bărbulescu/Roménia,
-       61496/08, n.º 80.
-                                                             59
-       Adotadas
+          ECHR, Bărbulescu v. Romania, no 61496/08, para. 80, 5 September 2017.
+                                                              52
+       Adopted
 
-      garantia da confidencialidade dos segredos comerciais e da propriedade intelectual). Se o legislador
-      da UE pretendesse excluir os direitos e as liberdades dos responsáveis pelo tratamento ou dos
-      subcontratantes, teria utilizado o termo «terceiro», tal como definido no artigo 4.º, ponto 10, do
-      RGPD.
+       recourse to the excemption in Art. 15(4) as long as there are no trade secrets, intellectual property or
+       other protected rights affected.
 
-172. O receio de que, em abstrato, a satisfação do pedido de acesso prejudique os direitos e as liberdades
-     de terceiros (outros) não é suficiente para se poder invocar o artigo 15.º, n.º 4, do RGPD. O responsável
-     pelo tratamento deve poder demonstrar que, na situação concreta, os direitos ou as liberdades de
-     terceiros (outros) seriam, de facto, afetados.
+171.    “Others” means any other person or entity apart from the data subject who is exercising their right of
+       access. Hence, the rights and freedoms of the controller or processor (in keeping trade secrets and
+       intellectual property confidential for example) might be considered. If the EU legislator wanted to
+       exclude controllers or processors rights and freedoms, it would have used the term “third party”, which
+       is defined in Art. 4(10) GDPR.
 
-      Exemplo 34: uma pessoa que é agora adulta esteve ao cuidado do serviço de assistência social a
-      menores durante vários anos. Os correspondentes processos poderão conter informações sensíveis
-      sobre outras pessoas (pais, assistentes sociais, outros menores). No entanto, não é possível, em geral,
-      indeferir um pedido de informações apresentado pelo titular dos dados com base neste motivo,
-      invocando o artigo 15.º, n.º 4, do RGPD. Neste caso, o serviço de assistência social a menores,
-      enquanto responsável pelo tratamento, deve analisar em pormenor e demonstrar os direitos e as
-      liberdades de terceiros (outros). Dependendo dos interesses em causa e do seu peso relativo, pode
-      ser recusada a prestação de informações tão específicas (por exemplo, rasurando nomes).
+172. The general concern that rights and freedoms of others might be affected by complying with the
+     request for access, is not enough to rely on Art. 15 (4) GDPR. The controller must be able to
+     demonstrate that in the concrete situation, rights or freedoms of others would, in fact, be impacted.
 
-173. No que diz respeito ao considerando 4 do RGPD e à lógica subjacente ao artigo 52.º, n.º 1, da Carta
-     dos Direitos Fundamentais da União Europeia, o direito à proteção dos dados pessoais não é um direito
-     absoluto98. Por conseguinte, o exercício do direito de acesso tem de ser ponderado em relação a outros
-     direitos fundamentais, em conformidade com o princípio da proporcionalidade. Se a avaliação
-     realizada para efeitos do artigo 15.º, n.º 4, do RGPD revelar que a satisfação do pedido pode ter efeitos
-     adversos (negativos) nos direitos e liberdades de outros participantes (etapa 1), é necessário ponderar
-     os interesses de todos os participantes à luz das circunstâncias do caso concreto e, em especial, da
-     probabilidade e da gravidade dos riscos presentes na comunicação dos dados. O responsável pelo
-     tratamento deve tentar conciliar os direitos concorrentes (etapa 2), por exemplo mediante a adoção
-     de medidas adequadas que atenuem o risco para os direitos e as liberdades de terceiros (outros).
-     Conforme sublinhado no considerando 63, a proteção dos direitos e das liberdades de terceiros
-     (outros) por força do artigo 15.º, n.º 4, do RGPD não deve resultar na recusa de prestação de todas as
-     informações ao titular dos dados. Daqui decorre, por exemplo, que, nos casos em que a limitação seja
-     aplicável, as informações relativas a terceiros (outros) têm de ser tornadas ilegíveis, tanto quanto
-     possível, em vez de ser recusado o fornecimento de uma cópia dos dados pessoais. No entanto, se for
-     impossível encontrar uma solução para conciliar os direitos em causa, o responsável pelo tratamento
-     tem de decidir, na etapa seguinte, quais os direitos e as liberdades concorrentes que prevalecem
-     (etapa 3).
+       Example 34: A person who is now an adult was cared for by the youth welfare office over a number of
+       years in the past. The corresponding files may possibly contain sensitive information about other
+       persons (parents, social workers, other minors). However, a request for information from the data
+       subject cannot generally be rejected for this reason with reference to Art. 15(4) GDPR. Rather, the
+       rights and freedoms of others must be examined in detail and demonstrated by the youth welfare
+       office as the controller. Depending on the interests in question and their relative weight, providing
+       such specific information may be rejected (e.g. by redacting names).
 
-       Exemplo 35: um retalhista oferece aos seus clientes a possibilidade de encomendarem produtos
-       através de uma linha direta do seu serviço de apoio ao cliente. Para efeitos de prova das transações
-       comerciais, o retalhista conserva uma gravação das chamadas, em conformidade com os rigorosos
-       requisitos da legislação aplicável. Um cliente pretende receber uma cópia da conversa que manteve
-       com um agente do serviço de apoio ao cliente. Numa primeira etapa, o retalhista analisa o pedido e
-       constata que a gravação contém dados pessoais que também dizem respeito a outra pessoa, ou
-       seja, o agente do serviço de apoio ao cliente. Numa segunda etapa, a fim de determinar se o
-       fornecimento da cópia prejudicaria os direitos e as liberdades de terceiros (outros), o retalhista deve
+173. With regard to Recital 4 GDPR and the rationale behind Art. 52(1) of the European Charter of
+     Fundamental Rights, the right to protection of personal data is not an absolute right98. Hence also the
+     exercise of the right of access has to be balanced against other fundamental rights in accordance with
+     the principle of proportionality. When the Art. 15(4) GDPR assessment proves that complying with the
+     request has adverse (negative) effects on other participants’ rights and freedoms (step 1), the interests
+     of all participants need to be weighed taking into account the specific circumstances of the case and
+     in particular the likelihood and severity of the risks present in the communication of the data. The
+     controller should try to reconcile the conflicting rights (step 2), for example through the
+     implementation of appropriate measures mitigating the risk to the rights and freedoms of others. As
+     emphasised in Recital 63, protecting the rights and freedoms of others by virtue of Art. 15(4) GDPR
+     should not result in a refusal to provide all information to the data subject. This means, for example,
+     where the limitation applies, that information concerning others has to be rendered illegible as far as
+     possible instead of refusing to provide a copy of the personal data. However, if it is impossible to find
+     a solution of reconciliation of the relevant rights, the controller has to decide in a next step which of
+     the conflicting rights and freedoms prevails (step 3).
 
-
-      98
-        Ver também, por exemplo, o Acórdão do Tribunal de Justiça (Grande Secção) de 9 de novembro de 2010,
-      Volker und Markus Schecke GbR e Hartmut Eifert/Land Hessen, C-92/09 e C-93/09, ECLI:EU:C:2010:662, n.º 48.
-                                                         60
-      Adotadas
-
- ponderar os interesses concorrentes, especialmente tendo em conta a probabilidade e a gravidade
- de eventuais riscos para os direitos e as liberdades do agente do serviço de apoio ao cliente,
- suscitados pela comunicação da gravação ao cliente. O retalhista conclui que os dados pessoais
- relativos ao agente do serviço de apoio ao cliente constantes da gravação são muito limitados,
- apenas a sua voz. O retalhista/responsável pelo tratamento considera que o agente não é facilmente
- identificável. Além disso, a conversa tem teor profissional e o titular dos dados era o interlocutor.
- Com base nas circunstâncias acima referidas, o responsável pelo tratamento conclui objetivamente
- que o direito de acesso não prejudica os direitos e as liberdades do agente do serviço de apoio ao
- cliente e, por conseguinte, pode fornecer ao titular dos dados a gravação integral, incluindo as
- partes que contêm a voz do referido agente.
+        Example 35: A retailer offers its clients the possibility to order products via a hotline operated by its
+        customer service. For the purpose of proving the commercial transactions, the retailer stores a call
+        recording, in accordance with the strict requirements of applicable legislation. A customer wants to
+        receive a copy of the conversation he had with an agent of the customer service. In a first step, the
+        retailer analyses the request and realises that the record contains personal data that also relate to
+        someone else, namely to the agent of the customer service. In a second step, in order to assess
+        whether providing the copy would affect the rights and freedoms of others, the retailer has to
+        balance the conflicting interests, especially taking into account the likelihood and severity of
+        possible risks to the rights and freedoms of the customer service agent, that are present in the
+        communication of the record to the client. The retailer concludes that there are very limited
 
 
- Exemplo 36: uma cliente de uma loja de equipamento médico pretende ter acesso aos resultados
- da medição das suas pernas com base no artigo 15.º do RGPD. A referida loja tinha medido as
- pernas da titular dos dados para criar meias de compressão médica personalizadas.
- Aparentemente, a loja de equipamento médico tinha muita experiência e tinha estabelecido uma
- técnica especial para medir com precisão. Após a medição na loja, a cliente pretende utilizar os
- resultados da medição para comprar meias mais baratas noutro local (numa loja em linha). A loja
- recusa parcialmente o acesso aos dados com base no artigo 15.º, n.º 4, do RGPD, alegando que,
- em virtude das suas técnicas especiais e precisas de medição, os resultados estavam protegidos
- como segredos comerciais. Se o responsável pelo tratamento puder provar que:
-              não é possível fornecer à titular dos dados informações sobre os resultados da
-                 medição sem revelar a forma como as medições foram realizadas, e
-              as informações sobre a forma como as medições foram realizadas, incluindo, se
-                 relevante, a determinação exata dos pontos de medição, constituem segredos
-                 comerciais,
+       98
+          See, for example, also CJEU, Joined cases C-92/09 and C-93/09, Volker und Markus Schecke GbR and Hartmut
+       Eifert v. Land Hessen [GC], 9 November 2010, para. 48.
+                                                           53
+       Adopted
 
- pode aplicar o artigo 15.º, n.º 4, do RGPD.
- O responsável pelo tratamento teria, ainda assim, de fornecer todas as informações sobre os
- resultados da medição que não revelassem o seu segredo comercial, mesmo que tal implicasse o
- esforço de rever e editar os resultados.
+personal data relating to the customer service agent in the record, only his voice. The
+retailer/controller finds that the agent is not easily identifiable. Moreover, the content of the
+discussion is of a professional nature and the data subject was the interlocutor. On the basis of the
+aforementioned circumstances the controller objectively concludes that the right to access does not
+adversely affect the rights and freedoms of the agent of the customer service and therefore, the
+controller may provide the data subject with the full record, including the parts of the voice record
+that relate to the agent of the customer service.
+
+
+Example 36: A client of a medical supply store wants access to the measuring results concerning
+her legs on the basis of Art. 15 GDPR. The medical supply store had measured the data subject’s
+legs in order to craft individual medical compression stockings. Apparently the medical supply
+store had a lot of experience and had established a special technique to measure accurately. After
+the measuring in the medical supply store, the client wants to use the measuring results to buy
+cheaper socks elsewhere (ordering them in an online-shop). The medical supply store partially
+refuses access to the data on the basis of Art. 15(4) GDPR claiming that due to their special,
+accurate measuring techniques the results were protected as trade secrets. If and in so far the
+controller is able to prove that:
+              providing the data subject with information about the measuring results is not
+                 possible without revealing how the measurements were taken and
+              the information about how the measurements were taken including, if relevant, the
+                 exact determination of the measuring points are trade secrets
+
+they may apply Art. 15(4) GDPR.
+The controller would still have to provide as much information as it could about the measuring
+results that would not reveal its trade secret, even if that would imply the effort to revise and edit
+the results.
 
 
 
- Exemplo 37: o utilizador GAMER X está registado na plataforma de jogos PLATAFORMA Y. Um dia,
- o GAMER X é notificado de que a sua conta em linha foi restringida. Uma vez que deixou de poder
- entrar na plataforma, o GAMER X solicita ao responsável pelo tratamento acesso a todos os dados
- pessoais que lhe digam respeito. Além disso, o GAMER X pretende conhecer os motivos da restrição
- da conta. A PLATAFORMA Y, responsável pelo tratamento da plataforma de jogos em linha à qual
- foi apresentado o pedido, informa os utilizadores, nos termos e condições gerais disponíveis no seu
- sítio Web, de que qualquer tipo de batota (principalmente mediante a utilização de software de
- terceiros) implicará uma interdição temporária ou permanente de acesso à plataforma. A
- PLATAFORMA Y também informa os utilizadores, na sua política de privacidade, sobre o tratamento
- de dados pessoais para efeitos de deteção de códigos de batota (cheats), em conformidade com os
- requisitos estabelecidos no artigo 13.º do RGPD.
+ Example 37: GAMER X is registered as a user on the gaming platform of PLATFORM Y. One day,
+ GAMER X is notified that his online account has been restricted. As he is unable to log in anymore,
+ GAMER X asks the controller for access to all personal data relating to him. In addition, GAMER X
+ requires access to the reasons for the account restriction. PLATFORM Y, the controller of the online
+ gaming platform with which the request has been lodged, informs the users in its general terms and
+ conditions available on its website, that any kind of cheating (mainly by the use of third party
+ software) will entail a temporal or permanent ban from its platform. PLATFORM Y also informs the
+ users in its privacy policy about the processing of personal data for the purpose of detecting gaming
+ cheats, in accordance with the requirements set out in Art. 13 GDPR.
 
- Quando receber o pedido de acesso do GAMER X, a PLATAFORMA Y deve fornecer-lhe uma cópia
- dos seus dados pessoais que são objeto de tratamento. Relativamente ao motivo da restrição da
- conta, a PLATAFORMA Y deve confirmar ao GAMER X que decidiu restringir o seu acesso a jogos em
+ Upon receipt of GAMER X’s request for access, PLATFORM Y should provide GAMER X with a copy
+ of the personal data processed about GAMER X. Regarding the reason for the account restriction,
+ PLATFORM Y should confirm GAMER X that it decided to restrict GAMER X’s access to online games
+ due to the use of one or repeated gaming cheats which are in violation with the general terms of
+ use. In addition to the information provided about the processing for the purpose of gaming cheat
+ detection, PLATFORM Y should grant GAMER X access to the information it has stored about GAMER
+ X’s gaming cheats which led to the restriction. In particular, PLATFORM Y should provide GAMER X
+ with the information that led to the restriction of the account (e.g. log overview, date and time of
 
-                                                  61
-Adotadas
 
-       linha devido ao recurso isolado ou reiterado a códigos de batota, em violação das condições gerais
-       de utilização. Para além das informações fornecidas sobre o tratamento para efeitos de deteção de
-       códigos de batota, a PLATAFORMA Y deve conceder ao GAMER X acesso às informações que
-       conservou sobre os códigos de batota por ele utilizados que conduziram à restrição. Mais
-       concretamente, a PLATAFORMA Y deve fornecer ao GAMER X as informações que conduziram à
-       restrição da conta (por exemplo, síntese dos registos, data e hora da utilização de códigos de batota,
-       deteção de software de terceiros, etc.) para que o titular dos dados (ou seja, o GAMER X) possa
-       verificar a exatidão do tratamento dos dados.
+                                                  54
+Adopted
 
-       No entanto, nos termos do artigo 15.º, n.º 4, do RGPD e do considerando 63 do RGPD, a
-       PLATAFORMA Y não é obrigada a revelar qualquer parte do funcionamento técnico do software
-       antibatota que possa ser considerada um segredo comercial, mesmo que esta informação diga
-       respeito ao GAMER X. Em virtude da necessária ponderação dos interesses em jogo nos termos do
-       artigo 15.º, n.º 4, do RGPD, os segredos comerciais da PLATAFORMA Y obstam à divulgação destes
-       dados pessoais, uma vez que o conhecimento do funcionamento técnico do software antibatota
-       poderia também permitir ao utilizador contornar a deteção de códigos de batota ou de fraudes no
-       futuro99.
+       cheating, detection of third party software,…) in order for the data subject (i.e. GAMER X) to verify
+       that the data processing has been accurate.
+
+       However, according to Art. 15(4) GDPR and Recital 63 GDPR, PLATFORM Y is not bound to reveal
+       any part of the technical operation of the anti-cheat software even if this information relates to
+       GAMER X, as long as this is can be regarded as trade secrets. The necessary balancing of interests
+       under Art. 15(4) GDPR will have the result that the trade secrets of PLATFORM Y preclude the
+       disclosure of this personal data because knowledge of the technical operation of the anti-cheat
+       software could also allow the user to circumvent future cheat or fraud detection99.
 
 
 
-174. Se os responsáveis pelo tratamento se recusarem a dar seguimento a um pedido de acesso, no todo
-     ou em parte, com fundamento no artigo 15.º, n.º 4, do RGPD, devem informar o titular dos dados dos
-     motivos dessa recusa sem demora e, o mais tardar, no prazo de um mês (artigo 12.º, n.º 4, do RGPD).
-     A exposição de motivos deve mencionar as circunstâncias concretas para que os titulares dos dados
-     possam avaliar a situação e decidir se desejam ou não contestar a recusa. Essa exposição tem de incluir
-     informações sobre a possibilidade de apresentar uma reclamação a uma autoridade de controlo
-     (artigo 77.º do RGPD) e de intentar uma ação judicial (artigo 79.º do RGPD).
+174. If controllers refuse to act on a request for the right of access in whole or in part under Art. 15(4) GDPR,
+     they have to inform the data subject of the reasons without delay and at the latest within one month
+     (Art. 12(4) GDPR). The explanatory statement has to refer to the concrete circumstances in order to
+     allow the data subjects to assess whether they want to take action against the refusal. It must include
+     information about the possibility of lodging a complaint with a supervisory authority (Art. 77 GDPR)
+     and seeking judicial remedy (Art. 79 GDPR).
 
-      6.3 Artigo 12.º, n.º 5, do RGPD
+      6.3 Article 12(5) GDPR
 
-175. O artigo 12.º, n.º 5, do RGPD permite que os responsáveis pelo tratamento se recusem a dar
-     seguimento a pedidos de acesso que sejam manifestamente infundados ou excessivos. Estes conceitos
-     devem ser interpretados de forma restritiva, uma vez que os princípios da transparência e da
-     gratuitidade do exercício dos direitos dos titulares dos dados não podem ser postos em causa.
+175. Art. 12(5) GDPR enables controllers to override requests for the right of access that are manifestly
+     unfounded or excessive. These concepts have to be interpreted narrowly, as the principles of
+     transparency and cost free data subjects rights must not be undermined.
 
-176. Os responsáveis pelo tratamento têm de poder demonstrar à pessoa em causa as razões pelas quais
-     consideram que o pedido é manifestamente infundado ou excessivo e, se solicitado, explicar essas
-     razões à autoridade de controlo competente. Cada pedido deve ser analisado caso a caso, no contexto
-     em que é apresentado, a fim de se decidir se é manifestamente infundado ou excessivo.
+176. Controllers must be able to demonstrate to the individual why they consider that the request is
+     manifestly unfounded or excessive and, if asked, explain the reasons to the competent supervisory
+     authority. Each request should be considered on a case by case basis in the context in which it is made
+     in order to decide if it is manifestly unfounded or excessive.
 
-      6.3.1 O que se entende por «manifestamente infundado»?
+      6.3.1 What does manifestly unfounded mean?
 
-177. Um pedido de acesso é manifestamente infundado se for claro e evidente, adotando uma abordagem
-     objetiva, que os requisitos do artigo 15.º do RGPD não estão preenchidos. Porém, tal como explicado,
-     em especial, na secção 3 supra, são muito poucas as condições prévias a que o exercício do direito de
-     acesso está sujeito. Por conseguinte, o CEPD salienta que existe apenas uma margem muito limitada
+177. A request for the right of access is manifestly unfounded, if the requirements of Art. 15 GDPR are
+     clearly and obviously not met when applying an objective approach. However, as explained especially
+     in section 3 above, there are only very few prerequisites for requests for the right of access. Therefore,
+     the EDPB emphasises that there is only very limited scope for relying on the “manifestly unfounded”
+     alternative of Art. 12(5) GDPR in terms of requests for the right of access.
+
+178. Furthermore, it is important to recall that prior to invoking the restriction, controllers must carefully
+     analyse the content and scope of the request. For example, a request should not be regarded as
+     manifestly unfounded if the request is related to the processing of personal data not subject to the
+     GDPR (in this case, the request should not be dealt with as an Art. 15-request at all).
+
+
 
 
       99
-        O alcance das informações prestadas às pessoas dependerá muito do contexto, tendo em conta a natureza do
-      responsável pelo tratamento e a natureza da violação das condições de utilização. Em alguns casos, o responsável
-      pelo tratamento só poderá fornecer informações básicas em resposta a um pedido de acesso ao qual se aplica o
-      artigo 15.º, n.º 4.
-                                                            62
-      Adotadas
+        The extent of the information provided to individuals will be heavily context dependent, taking into account
+      the nature of the controller and the nature of the breach of the terms of service. In some cases, it may only be
+      possible for the controller to provide basic information in response to an access request to which Art. 15(4)
+      applies.
 
-      para invocar o fundamento do pedido «manifestamente infundado» do artigo 12.º, n.º 5, do RGPD no
-      contexto dos pedidos de acesso.
 
-178. Além disso, é importante recordar que, antes de invocarem a limitação, os responsáveis pelo
-     tratamento devem analisar cuidadosamente o conteúdo e o âmbito do pedido. Por exemplo, um
-     pedido não deve ser considerado manifestamente infundado se estiver relacionado com o tratamento
-     de dados pessoais que não estão sujeitos ao RGPD (neste caso, o pedido não deve sequer ser tratado
-     como um pedido apresentado ao abrigo do artigo 15.º).
+                                                            55
+      Adopted
 
-179. Outro caso em que a aplicabilidade do artigo 12.º, n.º 5, do RGPD é questionável diz respeito aos
-     pedidos relacionados com informações que clara e obviamente não estão sujeitas às atividades de
-     tratamento do responsável pelo tratamento ou com atividades de tratamento que clara e obviamente
-     não são realizadas por este.
+179. Other cases in which the applicability of Art. 12(5) GDPR is questionable are requests related to
+     information or processing activities that are clearly and obviously not subject to the processing
+     activities of the controller.
 
-      Exemplo 38: o titular dos dados dirige um pedido a uma autoridade municipal relativo a dados tratados
-      por uma autoridade central. Em vez de alegar que o pedido é manifestamente infundado, seria mais
-      adequado e também mais fácil para a autoridade a quem o pedido foi dirigido confirmar que esses
-      dados não estão a ser tratados por ela (primeira componente do artigo 15.º do RGPD: confirmação de
-      que os dados pessoais são ou não objeto de tratamento)100.
+      Example 38: A data subject addresses a request to a municipal authority concerning data that are
+      processed by a state authority. Instead of arguing that the request is manifestly unfounded it would
+      be more suitable as well as easier for the authority addressed to confirm that these data are not being
+      processed by the authority (first component of Art. 15 GDPR: “whether” personal data are being
+      processed)100.
 
-180. O responsável pelo tratamento não deve presumir que um pedido é manifestamente infundado pelo
-     facto de o titular dos dados ter apresentado anteriormente pedidos manifestamente infundados ou
-     excessivos ou se a linguagem utilizada no pedido não for objetiva e apropriada.
+180. A controller should not presume that a request is manifestly unfounded because the data subject has
+     previously submitted requests which have been manifestly unfounded or excessive or if it includes
+     unobjective or improper language.
 
-      6.3.2 O que se entende por «excessivo»?
+      6.3.2 What does excessive mean?
 
-181. O RGPD não contém uma definição do termo «excessivo». Por um lado, a expressão «nomeadamente
-     devido ao seu caráter repetitivo» no artigo 12.º, n.º 5, do RGPD permite concluir que o cenário
-     principal da aplicação desta parte no que diz respeito ao artigo 15.º do RGPD está relacionado com a
-     quantidade de pedidos de acesso apresentados por um titular de dados. Por outro lado, a formulação
-     acima referida mostra que não estão a priori excluídos outros motivos suscetíveis de fundamentar o
-     caráter excessivo.
+181. There is no definition of the term “excessive” in the GDPR. On the one hand, the wording “in particular
+     because of their repetitive character” in Art. 12(5) GDPR allows for the conclusion that the main
+     scenario for application of this limb with regard to Art. 15 GDPR is linked to the quantity of requests of
+     a data subject for the right of access. On the other hand, the aforementioned phrasing shows that
+     other reasons that might cause excessiveness are not excluded a priori.
 
-182. É certo que, de acordo com o artigo 15.º, n.º 3, do RGPD relativo ao direito de obter uma cópia, o
-     titular dos dados pode apresentar mais do que um pedido a um responsável pelo tratamento101. No
-     caso de pedidos potencialmente qualificáveis como excessivos, a avaliação do «caráter excessivo»
-     depende da análise efetuada pelo responsável pelo tratamento e das especificidades do setor em que
-     este atua.
+182. Certainly, according to Art. 15(3) GDPR regarding the right to obtain a copy, a data subject may submit
+     more than one request to a controller101. In the event of requests that could potentially be regarded
+     as excessive, the assessment of “excessiveness” depends on the analysis carried out by the controller
+     and the specifics of the sector in which it operates.
 
-183. No caso de pedidos subsequentes, é necessário determinar se o critério dos intervalos razoáveis (ver
-     considerando 63) foi ou não cumprido. Os responsáveis pelo tratamento devem analisar
-     cuidadosamente as circunstâncias específicas de cada caso concreto.
+183. In case of subsequent requests, it has to be assessed whether the threshold of reasonable intervals
+     (see Recital 63) has been exceeded or not. Controllers must take into account the particular
+     circumstances of each case carefully.
 
-184. Por exemplo, no caso das redes sociais, será de esperar uma alteração do conjunto de dados a
-     intervalos mais curtos do que no caso dos registos prediais ou dos registos comerciais centrais. No caso
-     de parceiros comerciais, há que ter em conta a frequência dos contactos com o cliente.
+184. For example, in the case of social networks, a change in the data set will be expected at shorter
+     intervals than in the case of land registers or central company registers. In the case of business
+     associates, the frequency of contacts with the customer should be considered. Accordingly the
+     “reasonable intervals” within which data subjects may again exercise their right of access are also
+     different. The more often changes occur in the database of the controller, the more often data subjects
+     may be permitted to request access to their personal data without it being excessive. On the other
+     hand, a second request by the same data subject could be considered to be repetitive in certain
+     circumstances.
+
+185. When deciding whether a reasonable interval has elapsed, controllers should consider the following in
+     the light of the reasonable expectations of the data subject:
+
+               how often the data is altered – is information unlikely to have changed between requests? If
+                a data pool is obviously not subject to a processing other than storage and the data subject is
+
 
 
 
       100
-          Outra questão consiste em saber se a autoridade à qual o pedido de acesso foi dirigido está autorizada a
-      transmitir o pedido à autoridade central competente.
+          A different question is whether the authority which the access request was addressed to is entitled to transmit
+      the request to the competent state authority.
       101
-          Nos termos do artigo 15.º, n.º 3, segunda frase, o responsável pelo tratamento pode exigir o pagamento de
-      uma taxa razoável por outras cópias que sejam solicitadas.
-                                                           63
-      Adotadas
+          According to the second sentence of Article 15(3), the controller may charge a reasonable fee for further
+      copies requested.
+                                                              56
+      Adopted
 
-      Consequentemente, os «intervalos razoáveis» entre pedidos de acesso apresentados pelos titulares
-      dos dados também são diferentes. Quanto mais frequentes forem as alterações da base de dados do
-      responsável pelo tratamento, mais frequentemente os titulares dos dados poderão solicitar acesso aos
-      seus dados pessoais sem que tal pedido seja considerado excessivo. Por outro lado, em determinadas
-      circunstâncias, um segundo pedido do mesmo titular dos dados pode ser considerado repetitivo.
+          aware of this, e.g. because of a previous request for the right of access, this might be an
+          indication for an excessive request;
 
-185. Ao decidirem se decorreu um intervalo razoável, os responsáveis pelo tratamento devem ter em conta
-     os seguintes fatores, à luz das expectativas razoáveis do titular dos dados:
+         the nature of the data – this could include whether it is particularly sensitive;
 
-               a frequência com que os dados são alterados — é pouco provável que as informações
-                tenham sofrido alterações entre pedidos? Se um grupo de dados não for, por razões óbvias,
-                objeto de outro tratamento para além da sua conservação e o titular dos dados tiver
-                conhecimento desse facto, por exemplo devido a um pedido anterior de acesso, esta
-                circunstância poderá constituir um indício de um pedido excessivo,
+         the purposes of the processing – these could include whether the processing is likely to
+          cause detriment (harm) to the requester if disclosed;
 
-               a natureza dos dados — por exemplo, os dados são particularmente sensíveis?
+         whether the subsequent requests concern the same type of information or processing
+          activities or different ones102.
 
-               as finalidades do tratamento — por exemplo, o tratamento é suscetível de causar prejuízos
-                (danos) à pessoa que apresenta o pedido, caso os dados sejam divulgados?
-
-               o objeto dos pedidos subsequentes — estes dizem respeito ao mesmo tipo de informações
-                ou atividades de tratamento ou a informações ou atividades diferentes102?
-
-      Exemplo 39 (carpinteiro): o titular dos dados apresenta pedidos de acesso de dois em dois meses a
-      um carpinteiro a quem encomendou uma mesa. O carpinteiro respondeu integralmente ao primeiro
-      pedido. Para decidir se decorreu um intervalo razoável, importa ter em conta que o carpinteiro só
-      recolhe e trata dados pessoais ocasionalmente (primeiro ponto supra) e não como parte da sua
-      atividade principal, sendo ainda menos provável que o carpinteiro em causa preste frequentemente
-      serviços ao mesmo titular de dados. Com efeito, no caso em apreço, o carpinteiro só prestou um
-      serviço ao titular dos dados, pelo que é pouco provável que tenham ocorrido alterações no conjunto
-      de dados que lhe dizem respeito. Mais concretamente, tendo em conta a natureza e a quantidade dos
-      dados pessoais tratados, os riscos relacionados com o tratamento podem ser considerados baixos
-      (segundo ponto supra), nomeadamente a finalidade do tratamento (faturação e cumprimento da
-      obrigação de manter registos) não é suscetível de causar prejuízos ao titular dos dados (terceiro ponto
-      supra). Além disso, o pedido diz respeito às mesmas informações que o último pedido (quarto ponto
-      supra). Tais pedidos podem, por conseguinte, ser considerados excessivos devido ao seu caráter
-      repetitivo.
+Example 39 (carpenter): A data subject lodges access requests every two months with the carpenter
+that manufactured a table for them. The carpenter answered the first request completely. When
+deciding whether a reasonable interval has elapsed, one should consider that the carpenter only
+occasionally (first bullet point above) and not as part of its core activity processes and collects personal
+data and it is even less likely that the carpenter often provides services to the same data subject.
+Indeed, in the case, the carpenter did not provide more than one service to the data subject, rendering
+it unlikely that changes occurred in the dataset concerning the data subject. Notably given the nature
+and amount of the personal data processed, the risks related to the processing can be considered as
+low (second bullet point above), such as the purpose of the processing (billing purposes and
+compliance with obligation to keep records) is not likely to cause detriment to the data subject (third
+bullet point above). The request furthermore concerns the same information as the last request (forth
+bullet point above). Such requests may as a consequence be regarded as excessive due to their
+repetitiveness.
 
 
 
-      Exemplo 40 (plataforma de redes sociais): uma plataforma de redes sociais cuja atividade principal
-      consiste na recolha e/ou no tratamento de dados pessoais do titular dos dados realiza atividades de
-      tratamento complexas e contínuas em grande escala. Um titular de dados que utiliza os serviços dessa
-      plataforma apresenta pedidos de acesso de três em três meses. Neste caso, é muito provável que os
-      dados pessoais relativos ao titular dos dados sejam objeto de alterações frequentes (primeiro ponto
-      supra) e que o vasto leque de dados recolhidos inclua dados pessoais sensíveis inferidos (segundo
-      ponto supra) que são tratados para efeitos de apresentação de membros da rede e conteúdos
-
-
-      102
-         Se o pedido subsequente disser respeito ao mesmo tipo de informações em termos de âmbito E de período
-      temporal, não está em causa o caráter excessivo do pedido, mas sim um pedido de uma cópia adicional (ver
-      secção 2.2.2.2).
-                                                        64
-      Adotadas
-
-      relevantes ao titular dos dados (terceiro ponto). Os pedidos de acesso apresentados de três em três
-      meses poderão, nestas circunstâncias, não ser, em princípio, considerados excessivos por força do seu
-      caráter repetitivo.
+Example 40 (social media platform): A social media platform whose core business is the collection
+and/or processing of personal data of the data subject carries out large-scale complex and continuous
+processing activities. A data subject that uses the services of the platform lodges access requests every
+three months. In this case, frequent changes to the personal data relating to the data subject are highly
+likely (first bullet point above), the broad range of collected data includes inferred sensitive personal
+data (second bullet point above) processed for the purpose of showing relevant content and network
+members to the data subject (third bullet point). Access requests every three months may - under
+these circumstances - in principle not be regarded as excessive due to repetitiveness.
 
 
 
-      Exemplo 41 (organismos de crédito): como sucede com as redes sociais, não se pode excluir que as
-      alterações dos dados relevantes detidos pelos organismos que concedem crédito ocorram a
-      intervalos muito mais curtos do que noutros domínios (primeiro ponto supra). Esta circunstância
-      resulta de vários fatores de que o titular dos dados, estando de fora, não tem geralmente
-      conhecimento devido à complexidade do modelo de negócio. Por conseguinte, apenas o próprio
-      organismo de crédito está em posição de fornecer informações sobre os tipos de dados recolhidos
-      pelo responsável pelo tratamento para efeitos de cálculo da notação de crédito e que estão
-      atualmente incluídos no cálculo. Além disso, o tratamento de dados através de organismos de
-      crédito e a notação daí resultante podem ter consequências profundas para o titular dos dados no
-      que diz respeito aos negócios jurídicos que pretende realizar, como a celebração de contratos de
-      compra, arrendamento ou locação financeira (terceiro ponto supra).
+Example 41 (credit agencies): As with social networks, it cannot be ruled out that modifications of
+the relevant data held by credit agencies will occur at much shorter intervals than in other areas (first
+bulletpoint above). This results from numerous factors of which the data subject, as a person from
+outside, is usually not aware due to the complexity of the business model. The answer to the
+question as to which types of data were collected for a score value calculation by the controller and
+which are currently included in the calculation can therefore only be provided by the credit agency
+itself. In addition, data processing through credit agencies and the resulting score value can have far-
+reaching consequences for the data subject with regard to intended legal transactions, such as the
+conclusion of purchasing, rent or leasing contracts (third bullet point above).
 
-      De um modo geral, não é possível determinar, em concreto, o intervalo de tempo que deve decorrer
-      para que a apresentação de um novo pedido de acesso não seja considerada excessiva nos termos do
-      artigo 12.º, n.º 5, segunda frase, do RGPD, sendo necessária uma análise global das circunstâncias do
-      caso concreto. No entanto, dada a importância do tratamento de dados para a vida quotidiana dos
-      titulares de dados, pode presumir-se que um intervalo de um ano entre a prestação de informações
-      a título gratuito será, de qualquer modo, demasiado longo para que o pedido seja considerado
-      excessivo. Se o intervalo entre dois pedidos for muito curto, o fator decisivo deve ser a existência de
-      motivos que levem o titular dos dados a presumir que as informações ou o tratamento sofreram
-      alterações desde o último pedido. Por exemplo, se o titular dos dados tiver realizado uma transação
-      financeira, como a contração de um empréstimo, deve poder solicitar acesso às informações de
-      crédito, mesmo que tenha apresentado o mesmo pedido e obtido uma resposta recentemente.
 
-186. Nos casos em que é possível fornecer facilmente as informações por meios eletrónicos ou através de
-     acesso remoto a um sistema seguro (pelo que a satisfação de tais pedidos não sobrecarrega o
-     responsável pelo tratamento), é pouco provável que os pedidos subsequentes possam ser
-     considerados excessivos.
 
-187. Se um pedido se sobrepuser a um pedido anterior, o segundo pedido pode, em regra, ser considerado
-     excessivo, se e na medida em que abranja exatamente as mesmas informações ou atividades de
-     tratamento e o responsável pelo tratamento ainda não tiver dado resposta ao pedido anterior sem ter
-     incorrido em «demora injustificada» (ver artigo 12.º, n.º 3, do RGPD). Consequentemente, na prática,
-     seria possível combinar os dois pedidos.
+102
+   If the subsequent request concerns the same type of information in scope AND time, this is not a question of
+excessiveness but a question of request for an additional copy, see section 2.2.2.2.
+                                                      57
+Adopted
 
-188. O facto de o responsável pelo tratamento ser obrigado a despender muito tempo e a envidar grandes
-     esforço para fornecer as informações ou a cópia ao titular dos dados não é suficiente, por si só, para
-     que o pedido seja considerado excessivo103. Um grande número de atividades de tratamento implica
-     normalmente maiores esforços para satisfazer pedidos de acesso. Contudo, como acima referido, em
-     determinadas circunstâncias, os pedidos podem ser considerados excessivos por motivos diferentes
-     do seu caráter repetitivo. No entender do CEPD, incluem-se aqui, em especial, os casos de invocação
-     abusiva do artigo 15.º do RGPD, ou seja, casos em que os titulares dos dados recorrem excessivamente
+      It is not possible to generally determine any specific interval in which the submission of a further
+      access request could be deemed excessive under Art. 12(5) second sentence GDPR. An overall
+      consideration of the circumstances of the individual case is rather required. However, given the
+      importance of data processing for the data subjects’ reality of everyday life, it can be assumed that a
+      one-year interval between information provided free of charge will in any case be too large for the
+      request to be considered excessive. If a request is submitted within a very short interval, the decisive
+      factor should be whether the data subject has reason to assume that the information or the
+      processing has changed since the last request. For example, if the data subject has conducted a
+      financial transaction, such as taking a loan, the data subject should be entitled to request access to
+      the credit information even though such a request was submitted and responded to shortly before.
+
+186. When it is possible to provide the information easily by electronic means or by remote access to a
+     secure system, which means that complying with such requests actually doesn’t strain the controller,
+     it is unlikely that subsequent requests can be regarded as excessive.
+
+187. If a request overlaps with a previous request, the overlapping request can generally be regarded as
+     excessive, if and insofar as it covers exactly the same information or processing activities and the
+     previous request is not yet complied with by the controller without reaching the state of “undue delay”
+     (see Art. 12(3) GDPR). In practice, as a consequence both requests could be combined.
+
+188. The fact that it would take the controller a vast amount of time and effort to provide the information
+     or the copy to the data subject cannot on its own render a request excessive103. A large number of
+     processing activities typically implicates bigger efforts when complying with access requests. However,
+     as stated above, under certain circumstances requests can be regarded as excessive due to other
+     reasons than their repetitive character. In the view of the EDPB this encompasses particularly cases of
+     abusively relying on Art. 15 GDPR, which means cases in which data subjects make an excessive use of
+     the right of access with the only intent of causing damage or harm to the controller.
+
+189. Against this background, a request should not be regarded as excessive on the ground that:
+
+               no reasons are given by the data subject for the request or the controller regards the request
+                as meaningless;
+
+               improper or impolite language is used by the data subject;
+
+               the data subject intends to use the data to file further claims against the controller.104
+
+190. On the other hand, a request may be found excessive, for example, if:
+
+               an individual makes a request, but at the same time offers to withdraw it in return for some
+                form of benefit from the controller or
+
+               the request is malicious in intent and is being used to harass the controller or its employees
+                with no other purposes than to cause disruption, for example based on the fact that:
+
+
 
 
       103
-            Não é realizado um teste de proporcionalidade, ver ponto 166 supra.
-                                                              65
-      Adotadas
-
-      ao direito de acesso com a única intenção de causar danos ou prejuízos ao responsável pelo
-      tratamento.
-
-189. Neste cenário, um pedido não deve ser considerado excessivo pelo facto de:
-
-               o titular dos dados não fundamentar o pedido ou o responsável pelo tratamento considerar
-                que o pedido é desprovido de sentido,
-
-               o titular dos dados utilizar uma linguagem imprópria ou grosseira,
-
-               o titular dos dados tencionar utilizar os dados para apresentar outras reclamações contra o
-                responsável pelo tratamento104.
-
-190. Por outro lado, um pedido pode ser considerado excessivo, por exemplo, se:
-
-               uma pessoa apresentar um pedido, mas, ao mesmo tempo, propuser retirá-lo em troca da
-                concessão de algum tipo de vantagem pelo responsável pelo tratamento, ou
-
-               o pedido for apresentado com intenção dolosa e for utilizado para assediar o responsável pelo
-                tratamento ou os seus trabalhadores, tendo como única finalidade causar transtorno, por
-                exemplo com base no facto de:
-
-                    o   a pessoa ter declarado expressamente, no próprio pedido ou noutras comunicações,
-                        que pretende apenas causar transtorno e nada mais, ou
-
-                    o   a pessoa enviar sistematicamente diferentes pedidos a um responsável pelo
-                        tratamento no âmbito de uma campanha, por exemplo, uma vez por semana, com a
-                        intenção e o efeito de causar transtorno105.
-
-      6.3.3 Consequências
-
-191. Caso recebam um pedido de acesso manifestamente infundado ou excessivo, os responsáveis pelo
-     tratamento podem, nos termos do artigo 12.º, n.º 5, do RGPD, exigir o pagamento de uma taxa
-     razoável (tendo em conta os custos administrativos do fornecimento das informações ou da
-     comunicação, ou de tomada das medidas solicitadas) ou recusar-se a dar seguimento ao pedido.
-
-192. O CEPD salienta que, por um lado, os responsáveis pelo tratamento não estão, de um modo geral,
-     obrigados a exigir o pagamento de uma taxa razoável antes de se recusarem a dar seguimento a um
-     pedido. Por outro lado, também não são totalmente livres de escolher entre as duas alternativas. Com
-     efeito, os responsáveis pelo tratamento têm de tomar uma decisão adequada em função das
-     circunstâncias do caso concreto. Embora dificilmente seja concebível que a cobrança de uma taxa
-     razoável seja uma medida adequada em caso de pedidos manifestamente infundados, no caso de
-     pedidos excessivos — em conformidade com o princípio da transparência — muitas vezes fará mais
-     sentido cobrar uma taxa a título de compensação pelos custos administrativos resultantes dos pedidos
-     repetitivos.
-
-
-
-
+        No proportionality test, see above para. 166.
       104
-          Sem prejuízo de legislação nacional aplicável que cumpra os requisitos previstos no artigo 23.º do RGPD (ver
-      capítulo 6.4).
+        This is without prejudice to any applicable national law that comply with the requirements posed by Art. 23
+      GDPR, see Chapter 6.4.
+
+
+                                                           58
+      Adopted
+
+                   o    the individual has explicitly stated, in the request itself or in other communications,
+                        that it intends to cause disruption and nothing else; or
+
+                   o    the individual systematically sends different requests to a controller as part of a
+                        campaign, e.g. once a week, with the intention and the effect of causing disruption105.
+
+      6.3.3 Consequences
+
+191. In case of a manifestly unfounded or excessive request for the right of access controllers may,
+     according to Art. 12(5) GDPR, either charge a reasonable fee (taking into account the administrative
+     costs of providing information or communication or taking the action requested) or refuse to comply
+     with the request.
+
+192. The EDPB points out that controllers are – on the one hand – not generally obliged to charge a
+     reasonable fee before refusing to act on a request. On the other hand, they aren´t completely free to
+     choose between the two alternatives either. In fact, controllers have to make an adequate decision
+     depending on the specific circumstances of the case. Whereas it is hardly imaginable that charging a
+     reasonable fee is a suitable measure in case of manifestly unfounded requests, for excessive requests
+     – in line with the principle of transparency – it will often be more appropriate to charge a fee as a
+     compensation for the administrative costs the repetitive requests are causing.
+
+193. Controllers must be able to demonstrate the manifestly unfounded or excessive character of a request
+     (Art. 12(5) third sentence GDPR). Hence, it is recommended to ensure proper documentation of the
+     underlying facts. In line with Art. 12(4) GDPR, if controllers refuse to act on an access request in whole
+     or partly, they must inform the data subject without delay and at the latest within one month of receipt
+     of the request of
+
+               the reason why,
+
+               the right to lodge a complaint with a supervisory authority,
+
+               the possibility to seek a judicial remedy.
+
+194. Before charging a reasonable fee based on Art. 12(5) GDPR, controllers should provide an indication
+     of their plan to do so to the data subjects. The latter have to be enabled to decide whether they will
+     withdraw the request to avoid being charged.
+
+195. Unjustified rejections of requests of the right of access can be regarded as infringements of data
+     subject rights pursuant to Art. 12 to 22 GDPR and can therefore be subject to the exercise of corrective
+     powers by competent supervisory authorities, including administrative fines based on Art. 83(5)(b)
+     GDPR. If data subjects consider there is an infringement of their data subject rights, they have the right
+     to lodge a complaint based on Art. 77 GDPR.
+
+
+
+
       105
-          «Enviar sistematicamente no âmbito de uma campanha» significa que o titular dos dados, embora pudesse
-      agrupar facilmente os pedidos, decide dividi-los artificialmente, não apenas em alguns, mas em muitos pedidos
-      individuais, com a óbvia intenção de causar transtorno.
-                                                            66
-      Adotadas
-
-193. Os responsáveis pelo tratamento têm de poder demonstrar o caráter manifestamente infundado ou
-     excessivo do pedido (artigo 12.º, n.º 5, terceira frase, do RGPD). Por conseguinte, é aconselhável
-     garantir que os factos subjacentes estão devidamente documentados. Nos termos do artigo 12.º, n.º 4,
-     do RGPD, se os responsáveis pelo tratamento se recusarem a dar seguimento a um pedido de acesso
-     no todo ou em parte, devem informar o titular dos dados sem demora e, o mais tardar, no prazo de
-     um mês a contar da receção do pedido, sobre:
-
-               as razões da recusa,
-
-               o direito de apresentar uma reclamação junto da autoridade de controlo,
-
-               a possibilidade de intentar uma ação judicial.
-
-194. Antes de exigirem o pagamento de uma taxa razoável com base no artigo 12.º, n.º 5, do RGPD, é
-     conveniente que os responsáveis pelo tratamento informem os titulares dos dados da sua intenção de
-     o fazer. Importa criar condições para que estes últimos possam decidir se retirarão ou não o pedido, a
-     fim de evitar o pagamento da taxa.
-
-195. O indeferimento injustificado de um pedido de acesso pode ser considerado uma violação dos direitos
-     do titular dos dados nos termos dos artigos 12.º a 22.º do RGPD e, consequentemente, pode estar
-     sujeito ao exercício de poderes de correção pelas autoridades de controlo competentes, incluindo a
-     imposição de coimas com base no artigo 83.º, n.º 5, alínea b), do RGPD. Se os titulares dos dados
-     considerarem que os seus direitos foram violados, têm o direito de apresentar uma reclamação com
-     base no artigo 77.º do RGPD.
+         “Systematically sending as part of a campaign” means that requests which could easily be combined to one
+      are artificially split into not just a few but many single pieces by the data subject with the apparent intention to
+      cause disruption.
 
 
-      6.4 Eventuais limitações no direito da União ou dos Estados-Membros com base no
-          artigo 23.º do RGPD e derrogações
+                                                              59
+      Adopted
 
-196. O âmbito das obrigações e dos direitos previstos no artigo 15.º do RGPD pode ser limitado por meio
-     de medidas legislativas previstas no direito da União ou dos Estados-Membros106.
+      6.4 Possible restrictions in Union or Member States law based on Article 23 GDPR
+          and derogations
 
-197. Os responsáveis pelo tratamento que tencionem aplicar uma limitação baseada no direito nacional
-     devem verificar cuidadosamente os requisitos da disposição da respetiva legislação nacional. Além
-     disso, importa salientar que as limitações do direito de acesso estabelecidas no direito dos Estados-
-     Membros (ou da União) com base no artigo 23.º do RGPD têm de preencher cabalmente as condições
-     impostas por esta disposição. O CEPD publicou as Diretrizes 10/2020 relativas às limitações nos termos
-     do artigo 23.º do RGPD, que contêm explicações adicionais sobre esta matéria. Em termos do direito
-     de acesso, o CEPD recorda que os responsáveis pelo tratamento devem anular as limitações assim que
-     as circunstâncias que as justificam deixem de se aplicar107.
+196. The scope of the obligations and rights provided for in Art. 15 GDPR may be restricted by way of
+     legislative measures in Union or Member States law106.
 
-198. As medidas legislativas relacionadas com limitações estabelecidas nos termos do artigo 23.º do RGPD
-     podem também prever que o exercício de um direito seja adiado no tempo, que um direito seja
+197. Controllers, who plan to rely on a restriction based on national law must carefully check the
+     requirements of the provision of the respective national legislation. Furthermore, it is important to
+     note, that restrictions of the right of access in Member States (or Union) law which are based on Art. 23
+     GDPR must strictly fulfil the conditions laid down in this provision. The EDPB has issued the Guidelines
+     10/2020 on restrictions under Art. 23 GDPR with further explanations on this. In terms of the right of
+     access, the EDPB recalls that controllers should lift the restrictions as soon as the circumstances that
+     justify them no longer apply107.
+
+198. Legislative measures which relate to restrictions under Art. 23 GDPR may also foresee that the exercise
+     of a right is delayed in time, that a right is exercised partially or circumscribed to certain categories of
+     data or that a right can be exercised indirectly through an independent supervisory authority108.
 
 
 
 
       106
-          Ver, por exemplo, os artigos 32.º a 37.º da Lei Federal de Proteção de Dados alemã (BDSG), os artigos 16.º e
-      17.º da Lei de Proteção de Dados Pessoais norueguesa e o capítulo 5 da Lei de Proteção de Dados sueca.
+          See for example sections 32 to 37 of the German Federal Data Protection Act (BDSG), sections 16 and 17 of
+      the Norwegian Personal Data Act and chapter 5 of the Swedish Data Protection Act.
       107
-          Ponto 76 das Diretrizes 10/2020 relativas às limitações nos termos do artigo 23.º do RGPD, versão 2.0,
-      adotadas em 13 de outubro de 2021.
+          Paragraph 76 of the Guidelines 10/2020 on restrictions under Art. 23 GDPR, Version 2.0, adopted on 13
+      October 2021.
+      108
+          Paragraph 12 of the Guidelines 10/2020 on restrictions under Art. 23 GDPR, Version 2.0, adopted on 13
+      October 2021. Section 34 (3) of the German Federal data protection act for example states that if a public
+      authority doesn´t provide information to a data subject complying with a request for the right of access because
+      of certain restrictions, such information shall be provided to the federal supervisory authority at the request of
+      the data subject, unless the responsible supreme federal authority (of the authority which was subject to the
+      request) determines in the individual case that doing so would endanger the security of the Federation or a Land.
+      The Italian DPCode provides for indirect access (through the authority) in case the access could impact with
+      adverse consequence on a number of interests (e.g. Interest to contrast money laundering) see Art. 2-L of the
+      Italian DPCode.
+                                                             60
+      Adopted
 
+ANNEX – FLOWCHART
 
-                                                            67
-      Adotadas
 
-exercido parcialmente ou circunscrito a determinadas categorias de dados ou que um direito possa ser
-exercido indiretamente, por intermédio de uma autoridade de controlo independente108.
+Step 1: How to interpret and assess the request?
+                                 NO
+ Does the request                         NO access request
+ concern personal
+ data?
+              YES
 
 
 
 
-108
-    Ponto 12 das Diretrizes 10/2020 relativas às limitações nos termos do artigo 23.º do RGPD, versão 2.0,
-adotadas em 13 de outubro de 2021. O artigo 34.º, n.º 3, da Lei Federal de Proteção de Dados alemã, por
-exemplo, estabelece que, se uma autoridade pública não fornecer informações a um titular de dados na
-sequência de um pedido de acesso devido a determinadas limitações, essas informações devem ser fornecidas à
-autoridade federal de controlo a pedido do titular dos dados, a menos que a autoridade federal superior
-responsável (com tutela sobre a autoridade a quem foi dirigido o pedido) determine, no caso concreto, que tal
-colocaria em risco a segurança da Federação ou de um dos Estados federados. O Código da Proteção de Dados
-italiano prevê o acesso indireto (por intermédio da autoridade) no caso de o acesso poder ter consequências
-negativas para vários interesses (por exemplo, interesse no combate ao branqueamento de capitais)
-(ver artigo 2.º-L do Código da Proteção de Dados italiano).
-                                                     68
-Adotadas
+                                 NO
+ Is it a GDPR request?                    Request on a different
+                                          legal basis
+              YES
 
-ANEXO — FLUXOGRAMA
 
 
-Etapa 1: Como interpretar e avaliar o pedido?
-                               NÃO
- O pedido diz respeito                    NÃO se trata de um
- a dados pessoais?                        pedido de acesso
+                                 NO
+ Is it an Art. 15                         Request on a different
+ request?                                 data subject right
+              YES
 
-             SIM
 
 
 
+                                 NO                                NO
+ Does the request                         Authorisation check           No access
+ relate to the                            (in case of a request
+ requesting person?                       by a third party)
+              YES                                    YES
 
- Trata-se de um pedido         NÃO
-                                          Pedido com uma base
- ao abrigo do RGPD?                       jurídica diferente
-             SIM
 
 
 
-                                NÃO
- Trata-se de um pedido ao                 Pedido com base noutro
- abrigo do artigo 15.º?                   direito do titular dos dados
-             SIM
+ Identity check, in case
+ of doubts
 
 
 
+ What is the scope of
+ the request?
 
-                               NÃO                                       NÃO
- O pedido diz respeito                    Verificação da autorização           Recusa de acesso
- ao requerente?                           (no caso de um pedido de
-                                          terceiro)
-             SIM
-                                                      SIM
+ Verify the scope of the
+ request in line with section
+ 4 of the Guidelines (if a
+ large      quantity       of
+ information                is
+ processed/request          is
+ imprecise  ask the data
+ subject to further specify
+ the request).
 
 
 
- Verificação da
- identidade, em caso
- de dúvida
 
+                                                61
+Adopted
 
- Qual é o âmbito do
- pedido?
+Step 2: How to answer the request (1)?
 
- Verificar o âmbito do
- pedido em conformidade
- com a secção 4 das
- orientações (se for tratada
- uma grande quantidade de
- informações ou se o
- pedido for impreciso 
- solicitar ao titular dos
- dados que especifique
- mais pormenorizadamente
- o pedido).
+ 3 main components of the right of access (structure of Art. 15)
 
 
+ Confirmation whether        Access to the      Additional information
+ or not personal data        personal data      on purposes, recipients
+ are being processed                            etc. (Art. 15(1)(a) – h))
 
 
-                                                69
-Adotadas
 
-Etapa 2: Como responder ao pedido (1)?
 
- Três principais componentes do direito de acesso (estrutura do
- artigo 15.º)
+Step 2: How to answer the request (2)?
+  Take appropriate measures
 
- Confirmação de que          Acesso aos          Informações suplementares
- os dados pessoais são       dados               sobre as finalidades, os
- ou não objeto de            pessoais            destinatários, etc. [artigo 15.º,
- tratamento                                      n.º 1, alíneas a) a h)]
 
+ Art. 12(1): concise, transparent,   Art. 12(2): facilitate the excercise
+ intelligible, easily accessible     of the right of access
 
 
+ Choose between        Provide a copy, if not      Use a layered approach    Timing – without undue delay, in any
+ different means       agreed otherwise (Art.      if appropriate (most      event within one month (extension by
+                       15(3))                      relevant in online-       two further months in exceptional
+                                                   context)                  cases) (Art. 12 (3))
 
-Etapa 2: Como responder ao pedido (2)?
-  Tomar medidas adequadas
 
 
- Artigo 12.º, n.º 1: de forma concisa,      Artigo 12.º, n.º 2: facilitar o exercício
- transparente, inteligível e de fácil       do direito de acesso
- acesso
 
- Escolher entre        Fornecer uma cópia,           Utilizar uma abordagem              Prazo – sem demora
- diferentes meios      salvo    acordo    em         estruturada por níveis, se for      injustificada e no prazo de um
-                       contrário (artigo 15.º,       caso disso (mais relevante no       mês (prorrogação por mais dois
-                       n.º 3)                        contexto em linha)                  meses em casos excecionais)
-                                                                                         (artigo 12.º, n.º 3)
+Step 2: How to answer the request (3)?
+ How can the controller retrieve all data about the data subject?
 
 
+ Define search criteria – based      Identify any technical      Search through all       Compile, extract or otherwise collect
+ on what the data subject has        functions that may be       relevant IT or non-IT    data that relates to the data subject in a
+ provided, other information         available to retrieve       filing systems.          way that fully mirrors the processing, i.e.
+ that the controller holds about     data.                                                that includes all personal data regarding
+ the data subject and the factors                                                         the data subject, and enables the data
+ on which data is structured                                                              subject to be aware of and verify the
+ (e.g. customer number, IP-                                                               lawfulness of the processing. The
+ addresses, professional title,                                                           retrieving of the information could be
+ family relations etc.).                                                                  done case-by-case or, when relevant, by
+                                                                                          the use of a privacy by design tool
+                                                                                          already implemented by the controller.
 
 
-Etapa 2: Como responder ao pedido (3)?
- Como pode o responsável pelo tratamento obter todos os
- dados sobre o titular dos dados?
 
- Definir critérios de pesquisa —         Identificar funções         Pesquisar em todos os     Compilar, extrair ou de outro modo
- com base nas informações                técnicas                    ficheiros informáticos    recolher dados que digam respeito ao
- fornecidas pelo titular dos             eventualmente               ou não informáticos       titular dos dados de uma forma que
- dados, noutras informações que          disponíveis    para         pertinentes.              reflita plenamente o tratamento, ou
- o responsável pelo tratamento           extrair dados.                                        seja, que inclua todos os dados pessoais
- tenha na sua posse sobre o                                                                    relativos ao titular dos dados, e lhe
- titular dos dados e nos fatores                                                               permita tomar conhecimento do
- com base nos quais os dados                                                                   tratamento e verificar sua licitude. A
- estão      estruturados       (por                                                            recuperação das informações pode ser
- exemplo, número de cliente,                                                                   feita caso a caso ou, quando pertinente,
- endereços IP, título profissional,                                                            mediante a utilização de uma
- relações familiares, etc.).                                                                   ferramenta de privacidade desde a
-                                                                                               conceção já implementada pelo
-                                                                                               responsável pelo tratamento.
 
+                                                            62
+Adopted
 
+Step 3: Checking limits and restrictions (1)
+                                  YES   Balancing                                           YES
+ Article 15 (4): Would                                                                                Can the conflict be resolved by
+ rights or freedoms of                                                                                reconciliation, e.g. redacting certain
+ others be affected by                                                                                information?
+ answering the access                                                                                         YES                NO
+ request?                               Is there a negative            Do the rights and
+                                        impact on the rights or        freedoms of others
+ Would right or freedoms                freedoms (assessment           prevail over the
+ of others be affected by               of    likeliness    and        rights of the data
+ answering the access                   severity of risks to           subject?
+ request?                               other individuals)?
 
 
-                                                               70
-Adotadas
+           NO                                                     NO
 
-Etapa 3: Verificação de limites e limitações (1)
-                                   SIM   Ponderação                                         SIM
- Artigo 15.º, n.º 4: A                                                                                O conflito pode ser resolvido
- resposta ao pedido de                                                                                mediante conciliação, por exemplo,
- acesso      prejudicaria                                                                             rasurando determinadas
- direitos ou liberdades                  Existe algum impacto          Os direitos e as               informações?
- de terceiros (outros)?                  negativo nos direitos         liberdades de
-                                                                                                                SIM            NÃO
-                                         ou nas liberdades             terceiros (outros)
- A resposta ao pedido de                 (avaliação da                 prevalecem sobre
- acesso prejudicaria                     probabilidade e               os direitos do
- direitos ou liberdades de               gravidade dos riscos          titular dos dados?
- terceiros (outros)?                     para outras pessoas)?
 
-            NÃO                                                  NÃO
 
 
+ Provide information to                                                                                 Provide          Do not provide
+ the data subject.                                                                                      information      information to
+                                                                                                        to the data      the         data
+                                                                                                        subject    in    subject in so far
+                                                                                                        adjusted         as rights and
+                                                                                                        form.            freedoms       of
+                                                                                                                         others would
+                                                                                                                         be affected and
+                                                                                                                         prevail.
 
 
- Fornecer informações                                                                                   Fornecer         Não fornecer
- ao titular dos dados.                                                                                  informações      informações ao
-                                                                                                        ao titular dos   titular dos dados
-                                                                                                        dados de         na medida em
-                                                                                                        forma            que os direitos e
-                                                                                                        adaptada.        as liberdades de
-                                                                                                                         terceiros (outros)
-                                                                                                                         sejam
-                                                                                                                         prejudicados e
-                                                                                                                         prevaleçam.
 
 
+Step 3: Checking limits and restrictions (2)
+                                                              YES                                 Charge a reasonable fee, or
+ Art. 12(5): Is the request manifestly unfounded?
+                                                                                                  Refuse to act
+ Very limited scope for relying on this ground.
 
+                            NO
 
-Etapa 3: Verificação de limites e limitações (2)
 
- Artigo 12.º, n.º 5: O pedido é manifestamente                   SIM                              Exigir o pagamento de uma
- infundado?                                                                                       taxa razoável, ou
 
- A possibilidade de invocar este fundamento é muito                                               Não dar seguimento
- limitada.
-                             NÃO
 
+ Is the request excessive?                                    YES                                 Charge a reasonable fee, or
 
+                                                                                                  Refuse to act
+     due to the repetitive character
+     due to other reasons for excessiveness
+      (abusive requests)
 
-                                                                                                  Exigir o pagamento de uma
- O pedido é excessivo?                                           SIM
-                                                                                                  taxa razoável, ou
-     devido ao caráter repetitivo
-     devido a outras razões que determinem o caráter                                             Não dar seguimento
-      excessivo
-      (pedidos abusivos)
+ Cases in which data subjects make a request for the
+ right of access with the only intent of causing damage
+ or harm to the controller.
 
- Casos em que os titulares dos dados apresentam um
- pedido de acesso com a única intenção de causar
- danos ou prejuízos ao responsável pelo tratamento.
+                             NO
 
-                             NÃO
+ Provide information to the data subject for
+ free
 
- Fornecer gratuitamente informações ao titular
- dos dados
 
 
 
-
-                                                                 71
-Adotadas
+                                                              63
+Adopted
 ```

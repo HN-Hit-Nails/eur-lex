@@ -1,1963 +1,1796 @@
 ---
-titulo: "Orientações n.º 9/2022 sobre a notificação da violação de dados pessoais ao abrigo do RGPD"
+titulo: "Guidelines 9/2022 on personal data breach notification under GDPR"
 titulo_en: "Guidelines 9/2022 on personal data breach notification under GDPR"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2023-04-04'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-92022-on-personal-data-breach-notification-under-gdpr_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2024-10/edpb_guidelines_202209_personal_data_breach_notification_v2.0_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-04/edpb_guidelines_202209_personal_data_breach_notification_v2.0_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Orientações n.º 9/2022 sobre a notificação da violação de dados pessoais ao abrigo do RGPD
+# Guidelines 9/2022 on personal data breach notification under GDPR
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Orientações n.º 9/2022 sobre a notificação da violação de
-           dados pessoais ao abrigo do RGPD
+Guidelines 9/2022 on personal data breach notification
+                    under GDPR
 
-                             Versão 2.0
+                      Version 2.0
 
-             Adotadas em 28 de março de 2023
+                Adopted 28 March 2023
 
-             This language version has not yet been proofread.
+Version history
+ Version 1.0   10 October 2022   Adoption of the Guidelines (updated version of the previous
+                                 guidelines WP250 (rev.01) adopted by the Working Party 29
+                                 and endorsed by the EDPB on 25 May 2018) for a targeted
+                                 public consultation.
 
-Histórico de versões
- Versão 1.0   10 de outubro de Adoção das orientações (versão atualizada das anteriores
-              2022             orientações, WP250 rev.01, adotadas pelo Grupo do Artigo
-                               29.º e aprovadas pelo CEPD em 25 de maio de 2018) para
-                               uma consulta pública específica.
+ Version 2.0   28 March 2023     Adoption of the Guidelines following the targeted public
+                                 consultation on the subject of data breach notification for
+                                 controllers not established in the EEA.
 
- Versão 2.0   28 de março de 2023   Adoção das orientações na sequência da consulta pública
-                                    específica sobre a notificação da violação de dados para os
-                                    responsáveis pelo tratamento não estabelecidos no EEE.
 
 
 
+Adopted                                                                                    2
 
-Adotadas                                                                                      2
+TABLE OF CONTENTS
+0          PREFACE ............................................................................................................................... 5
 
-ÍNDICE
-0           PREFÁCIO ................................................................................................................................................. 5
+INTRODUCTION ............................................................................................................................ 5
 
-INTRODUÇÃO ................................................................................................................................................... 5
+I.         PERSONAL DATA BREACH NOTIFICATION UNDER THE GDPR ................................................... 7
 
-I.           NOTIFICAÇÃO DA VIOLAÇÃO DE DADOS PESSOAIS AO ABRIGO DO RGPD .....................................................7
+      A.      Basic security considerations ..................................................................................................... 7
 
-       A.      Considerações básicas de segurança .......................................................................................................... 7
+      B.      What is a personal data breach? ................................................................................................ 7
 
-       B.      Em que consiste uma violação de dados pessoais? .................................................................................... 7
+           1. Definition ................................................................................................................................... 7
+           2. Types of personal data breaches................................................................................................ 8
+           3. The possible consequences of a personal data breach ............................................................... 9
+II.        ARTICLE 33 - NOTIFICATION TO THE SUPERVISORY AUTHORITY ............................................ 10
 
-            1. Definição ..................................................................................................................................................... 7
-            2. Tipos de violações de dados pessoais .......................................................................................................... 8
-            3. Possíveis consequências de uma violação dos dados pessoais ................................................................. 10
-II.         ARTIGO 33.º - NOTIFICAÇÃO À AUTORIDADE DE CONTROLO ...................................................................... 11
+      A. When to notify ............................................................................................................................. 10
 
-       A. Quando notificar............................................................................................................................................ 11
+           1. Article 33 requirements............................................................................................................ 10
+           2. When does a controller become “aware”? .............................................................................. 11
+           3. Joint controllers........................................................................................................................ 13
+           4. Processor obligations ............................................................................................................... 13
+      B. Providing information to the supervisory authority..................................................................... 14
 
-            1. Requisitos do artigo 33.º ........................................................................................................................... 11
-            2. Quando é que um responsável pelo tratamento tem «conhecimento»? ................................................... 12
-            3. Responsáveis conjuntos pelo tratamento .................................................................................................. 14
-            4. Obrigações do subcontratante .................................................................................................................. 14
-       B. Prestação de informações à autoridade de controlo ..................................................................................... 15
+           1. Information to be provided ...................................................................................................... 14
+           2. Notification in phases .............................................................................................................. 15
+           3. Delayed notifications ............................................................................................................... 16
+      C. Cross-border breaches and breaches at non-EU establishments ................................................. 17
 
-            1. Informações a comunicar .......................................................................................................................... 15
-            2. Notificação por fases ................................................................................................................................. 16
-            3. Notificações atrasadas .............................................................................................................................. 18
-       C. Violações transfronteiriças e violações em estabelecimentos exteriores à UE .............................................. 18
+           1. Cross-border breaches ............................................................................................................. 17
+           2. Breaches at non-EU establishments ......................................................................................... 17
+      D. Conditions where notification is not required ............................................................................. 18
 
-            1. Violações transfronteiriças ........................................................................................................................ 18
-            2. Violações em estabelecimentos exteriores à UE ........................................................................................ 19
-       D. Condições em que não é exigida notificação ................................................................................................. 20
+III.          ARTICLE 34 – COMMUNICATION TO THE DATA SUBJECT .................................................... 20
 
-III.           ARTIGO 34.º – COMUNICAÇÃO AO TITULAR DOS DADOS ....................................................................... 22
+      A. Informing individuals ................................................................................................................... 20
 
-       A. Informar as pessoas singulares ...................................................................................................................... 22
+      B. Information to be provided ......................................................................................................... 20
 
-       B. Informações a comunicar .............................................................................................................................. 22
+      C. Contacting individuals .................................................................................................................. 21
 
-       C. Contactar as pessoas singulares .................................................................................................................... 23
+      D. Conditions where communication is not required ...................................................................... 22
 
-       D. Condições em que não é exigida comunicação ............................................................................................. 24
+IV. ASSESSING RISK AND HIGH RISK ............................................................................................. 23
 
-IV. AVALIAR O RISCO E O RISCO ELEVADO .......................................................................................................... 25
+      A. Risk as a trigger for notification ................................................................................................... 23
 
-       A. O risco como um estímulo para a notificação ............................................................................................... 25
+      B. Factors to consider when assessing risk....................................................................................... 23
 
-       B. Fatores a ter em conta ao avaliar o risco ....................................................................................................... 25
+V. ACCOUNTABILITY AND RECORD KEEPING ................................................................................ 26
 
-V. RESPONSABILIDADE E MANUTENÇÃO DE REGISTOS ....................................................................................... 29
+      A. Documenting breaches ................................................................................................................ 26
 
-       A. Documentação de violações .......................................................................................................................... 29
+      B. Role of the Data Protection Officer .............................................................................................. 27
 
-       B. Função do Encarregado da Proteção de Dados ............................................................................................. 30
+VI.           NOTIFICATION OBLIGATIONS UNDER OTHER LEGAL INSTRUMENTS ................................... 28
 
-VI.            OBRIGAÇÕES DE NOTIFICAÇÃO AO ABRIGO DE OUTROS INSTRUMENTOS JURÍDICOS............................... 31
 
+Adopted                                                                                                                                                    3
 
+VII. ANNEX ................................................................................................................................. 30
 
+   A. Flowchart showing notification requirements ............................................................................. 30
 
-Adotadas                                                                                                                                                                     3
+   B. Examples of personal data breaches and who to notify .............................................................. 31
 
-VII. ANEXO ....................................................................................................................................................... 33
 
-   A. Fluxograma que apresenta os requisitos de notificação................................................................................ 33
 
-   B. Exemplos de violações de dados pessoais e quem notificar .......................................................................... 34
 
+Adopted                                                                                                                                     4
 
+   The European Data Protection Board
 
+   Having regard to Article 70(1)(e) and (l) of the Regulation 2016/679/EU of the European Parliament
+   and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing
+   of personal data and on the free movement of such data, and repealing Directive 95/46/EC,
+   (hereinafter “GDPR”),
 
-Adotadas                                                                                                                                                          4
+   Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+   by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 1,
+
+    Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+    Having regard to the Article 29 Working Party Guidelines on Personal data breach notification under
+    Regulation 2016/679, WP250 rev.01,
+
+
+   HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+   0 PREFACE
+1. On 3 October 2017, the Working Party 29 (hereinafter “WP29”) adopted its Guidelines on Personal
+   data breach notification under Regulation 2016/679 (WP250 rev.01) 2, which were endorsed by the
+   European Data Protection Board (hereinafter “EDPB”) at its first Plenary meeting 3. This document is a
+   slightly updated version of those guidelines. Any reference to the WP29 Guidelines on Personal data
+   breach notification under Regulation 2016/679 (WP250 rev.01) should, from now on, be interpreted
+   as a reference to these EDPB Guidelines 9/2022.
+
+2. The EDPB noticed that there was a need to clarify the notification requirements concerning the
+   personal data breaches at non-EU establishments. The paragraph concerning this matter has been
+   revised and updated, while the rest of the document was left unchanged, except for editorial changes.
+   The revision concerns, more specifically, paragraph 73 in Section II.C.2 of this document.
+
+
+   INTRODUCTION
+3. The GDPR introduced the requirement for a personal data breach (henceforth “breach”) to be notified
+   to the competent national supervisory authority 4 (or in the case of a cross-border breach, to the lead
+   authority) and, in certain cases, to communicate the breach to the individuals whose personal data
+   have been affected by the breach.
+
+4. Obligations to notify in cases of breaches existed for certain organisations, such as providers of
+   publicly-available electronic communications services (as specified in Directive 2009/136/EC and
+   Regulation (EU) No 611/2013) 5. There were also some Member States that already had their own
+
+
+   1
+     References to “Member States” made throughout this document should be understood as references to “EEA
+   Member States”.
+   2
+     WP29 Guidelines on Personal data breach notification under Regulation 2016/679 (WP250 rev.01) (last revised
+   and updated on 6 February 2018), available at https://ec.europa.eu/newsroom/article29/items/612052.
+   3
+     See https://edpb.europa.eu/news/news/2018/endorsement-gdpr-wp29-guidelines-edpb_en.
+   4
+     See Article 4(21) GDPR.
+   5
+     See http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32009L0136 and http://eur-
+   lex.europa.eu/legalcontent/EN/TXT/?uri=CELEX%3A32013R0611
+
+   Adopted                                                                                                    5
+
+   national breach notification obligation. This might included the obligation to notify breaches involving
+   categories of controllers in addition to providers of publicly available electronic communication
+   services (for example in Germany and Italy), or an obligation to report all breaches involving personal
+   data (such as in the Netherlands). Other Member States might had relevant Codes of Practice (for
+   example, in Ireland 6). Whilst a number of EU data protection authorities encouraged controllers to
+   report breaches, the Data Protection Directive 95/46/EC 7, which the GDPR replaced, did not contain a
+   specific breach notification obligation and therefore such a requirement was new for many
+   organisations. The GDPR makes notification mandatory for all controllers unless a breach is unlikely to
+   result in a risk to the rights and freedoms of individuals 8. Processors also have an important role to
+   play and they must notify any breach to their controller 9.
+
+5. The EDPB considers that the notification requirement has a number of benefits. When notifying the
+   supervisory authority, controllers can obtain advice on whether the affected individuals need to be
+   informed. Indeed, the supervisory authority may order the controller to inform those individuals about
+   the breach 10. Communicating a breach to individuals allows the controller to provide information on
+   the risks presented as a result of the breach and the steps those individuals can take to protect
+   themselves from its potential consequences. The focus of any breach response plan should be on
+   protecting individuals and their personal data. Consequently, breach notification should be seen as a
+   tool enhancing compliance in relation to the protection of personal data. At the same time, it should
+   be noted that failure to report a breach to either an individual or a supervisory authority may mean
+   that under Article 83 GDPR a possible sanction is applicable to the controller.
+
+6. Controllers and processors are therefore encouraged to plan in advance and put in place processes to
+   be able to detect and promptly contain a breach, to assess the risk to individuals 11 , and then to
+   determine whether it is necessary to notify the competent supervisory authority, and to communicate
+   the breach to the individuals concerned when necessary. Notification to the supervisory authority
+   should form a part of that incident response plan.
+
+7. The GDPR contains provisions on when a breach needs to be notified, and to whom, as well as what
+   information should be provided as part of the notification. Information required for the notification
+   can be provided in phases, but in any event controllers should act on any breach in a timely manner.
+
+8. In its Opinion 03/2014 on personal data breach notification 12, WP29 provided guidance to controllers
+   in order to help them to decide whether to notify data subjects in case of a breach. The opinion
+   considered the obligation of providers of electronic communications regarding Directive 2002/58/EC
+   and provided examples from multiple sectors, in the context of the then draft GDPR, and presented
+   good practices for all controllers.
+
+9. The current Guidelines explain the mandatory breach notification and communication requirements
+   of the GDPR and some of the steps controllers and processors can take to meet these obligations. They
+
+
+
+
+   6
+     See https://www.dataprotection.ie/docs/Data_Security_Breach_Code_of_Practice/1082.htm
+   7
+     See http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:31995L0046
+   8
+     The rights enshrined in the Charter of Fundamental Rights of the EU, available at http://eurlex.europa.eu/legal-
+   content/EN/TXT/?uri=CELEX:12012P/TXT
+   9
+     See Article 33(2) GDPR. This is similar in concept to Article 5 of Regulation (EU) No 611/2013 which states that
+   a provider that is contracted to deliver part of an electronic communications service (without having a direct
+   contractual relationship with subscribers) is obliged to notify the contracting provider in the event of a personal
+   data breach.
+   10
+      See Articles 34(4) and 58(2)(e) GDPR.
+   11
+      This can be ensured under the monitoring and review requirement of a DPIA, which is required for processing
+   operations likely to result in a high risk to the rights and freedoms of natural persons (Article 35(1) and (11).
+   12
+       See WP29 Opinion 03/2014 on Personal Data Breach Notification http://ec.europa.eu/justice/data-
+   protection/article29/documentation/opinion-recommendation/files/2014/wp213_en.pdf
+
+   Adopted                                                                                                         6
+
+    also give examples of various types of breaches and who would need to be notified in different
+    scenarios.
+
+    I. PERSONAL DATA BREACH NOTIFICATION UNDER THE GDPR
+    A. Basic security considerations
+10. One of the requirements of the GDPR is that, by using appropriate technical and organisational
+    measures, personal data shall be processed in a manner to ensure the appropriate security of the
+    personal data, including protection against unauthorised or unlawful processing and against accidental
+    loss, destruction or damage 13.
+
+11. Accordingly, the GDPR requires both controllers and processors to have in place appropriate technical
+    and organisational measures to ensure a level of security appropriate to the risk posed to the personal
+    data being processed. They should take into account the state of the art, the costs of implementation
+    and the nature, the scope, context and purposes of processing, as well as the risk of varying likelihood
+    and severity for the rights and freedoms of natural persons 14. Also, the GDPR requires all appropriate
+    technological protection an organisational measures to be in place to establish immediately whether
+    a breach has taken place, which then determines whether the notification obligation is engaged 15.
+
+12. Consequently, a key element of any data security policy is being able, where possible, to prevent a
+    breach and, where it nevertheless occurs, to react to it in a timely manner.
+
+    B. What is a personal data breach?
+         1. Definition
+13. As part of any attempt to address a breach the controller should first be able to recognise one. The
+    GDPR defines a “personal data breach” in Article 4(12) as:
+
+    “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised
+    disclosure of, or access to, personal data transmitted, stored or otherwise processed.”
+
+14. What is meant by “destruction” of personal data should be quite clear: this is where the data no longer
+    exists, or no longer exists in a form that is of any use to the controller. “Damage” should also be
+    relatively clear: this is where personal data has been altered, corrupted, or is no longer complete. In
+    terms of “loss” of personal data, this should be interpreted as the data may still exist, but the controller
+    has lost control or access to it, or no longer has it in its possession. Finally, unauthorised or unlawful
+    processing may include disclosure of personal data to (or access by) recipients who are not authorised
+    to receive (or access) the data, or any other form of processing which violates the GDPR.
+
+    Example
+
+    An example of loss of personal data can include where a device containing a copy of a controller’s
+    customer database has been lost or stolen. A further example of loss may be where the only copy of
+    a set of personal data has been encrypted by ransomware, or has been encrypted by the controller
+    using a key that is no longer in its possession.
+
+15. What should be clear is that a breach is a type of security incident. However, as indicated by Article
+    4(12), the GDPR only applies where there is a breach of personal data. The consequence of such a
+    breach is that the controller will be unable to ensure compliance with the principles relating to the
 
-    O Comité Europeu para a Proteção de Dados,
 
-    Tendo em conta o artigo 70.º, n.º 1, alíneas e) e l), do Regulamento (UE) 2016/679 do Parlamento
-    Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz
-    respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva
-    95/46/CE (a seguir designado por «RGPD»),
-
-    Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-    foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 2018 1,
-
-    Tendo em conta os artigos 12.º e 22.º do seu regulamento interno,
-
-    Tendo em conta as orientações do Grupo de Trabalho do Artigo 29.º sobre a notificação de uma
-    violação de dados pessoais ao abrigo do Regulamento (UE) 2016/679 (WP250 rev.01),
-
-
-    ADOTOU AS SEGUINTES ORIENTAÇÕES
-
-
-    0 PREFÁCIO
-1. Em 3 de outubro de 2017, Grupo de Trabalho do Artigo 29.º (GT29) adotou as suas orientações sobre
-   a notificação de violações de dados pessoais nos termos do Regulamento (UE) 2016/679 (WP250
-   rev.01) 2, que foram aprovadas pelo Comité Europeu para a Proteção de Dados (CEPD) na sua primeira
-   reunião plenária 3. O presente documento constitui uma versão ligeiramente atualizada das referidas
-   orientações. Qualquer referência às orientações do GT29 sobre a notificação de violações de dados
-   pessoais ao abrigo do Regulamento (UE) 2016/679 (WP250 rev.01) deve, a partir de agora, ser
-   interpretada como uma referência às presentes orientações n.º 9/2022 do CEPD.
-
-2. O CEPD observou que era necessário clarificar os requisitos de notificação relativos às violações de
-   dados pessoais em estabelecimentos de países terceiros. O ponto relativo a esta matéria foi revisto e
-   atualizado, enquanto o resto do documento não foi alterado, exceto no que se refere a alterações de
-   redação. A revisão diz respeito, mais especificamente, ao ponto 73 da secção II.C.2 do presente
-   documento.
-
-
-    INTRODUÇÃO
-3. O RGPD introduziu o requisito de que seja notificada a violação de dados pessoais (a seguir «violação»)
-   à autoridade de controlo nacional competente 4 (ou, no caso de uma violação transfronteiriça, à
-   autoridade principal) e, em certos casos, de comunicar a violação às pessoas singulares cujos dados
-   pessoais tenham sido afetados pela violação.
-
-4. A obrigação de notificar casos de violação já existe atualmente para certas organizações, como os
-   fornecedores de serviços de comunicações eletrónicas acessíveis ao público (conforme especificado
-
-
-    1
-      As referências a «Estados-Membros» ao longo do presente documento devem ser entendidas como referências
-    a «Estados do EEE».
-    2
-      Orientações do GT29 sobre a notificação de violações de dados pessoais ao abrigo do Regulamento (UE)
-    2016/679 (WP250 rev.01) (última revisão e atualização em 6 de fevereiro de 2018), disponíveis em
-    https://ec.europa.eu/newsroom/article29/items/612052.
-    3
-      Ver https://edpb.europa.eu/news/news/2018/endorsement-gdpr-wp29-guidelines-edpb pt.
-    4
-      Ver o artigo 4.º, n.º 21, do RGPD.
-
-    Adotadas                                                                                               5
-
-    na Diretiva 2009/136/CE e no Regulamento (UE) n.º 611/2013) 5. Alguns Estados-Membros também já
-    impunham a sua própria obrigação nacional de notificação da violação. Tal poderia incluir a obrigação
-    de notificar violações que envolvam categorias de responsáveis pelo tratamento, além dos
-    fornecedores de serviços de comunicações eletrónicas acessíveis ao público (por exemplo, na
-    Alemanha e em Itália), ou uma obrigação de comunicar todas as violações que envolvem dados
-    pessoais (como nos Países Baixos). Outros Estados-Membros poderiam dispor de Códigos de Conduta
-    (por exemplo, na Irlanda 6). Enquanto algumas autoridades de proteção de dados da UE incentivavam
-    os responsáveis pelo tratamento a comunicar violações, a Diretiva 95/46/CE, relativa à proteção de
-    dados 7, que o RGPD substituiu, não continha uma obrigação específica de notificação de violação, pelo
-    que tal requisito será uma novidade para muitas organizações. O RGPD torna a notificação obrigatória
-    para todos os responsáveis pelo tratamento, a menos que a violação não seja suscetível de resultar
-    num risco para os direitos e liberdades das pessoas singulares 8. Os subcontratantes também têm um
-    papel importante a desempenhar e devem notificar qualquer violação ao seu responsável pelo
-    tratamento 9.
-
-5. O CEPD considera que o novo requisito de notificação possui vários benefícios. Ao notificarem a
-   autoridade de controlo, os responsáveis pelo tratamento podem obter aconselhamento sobre se as
-   pessoas singulares afetadas devem ser informadas. De facto, a autoridade de controlo pode ordenar
-   ao responsável pelo tratamento que informe essas pessoas da violação 10. Comunicar uma violação às
-   pessoas singulares permite ao responsável pelo tratamento prestar informação sobre os riscos
-   decorrentes da violação e as medidas que essas pessoas podem tomar para se protegerem das suas
-   eventuais consequências. Qualquer plano de resposta a uma violação deve incidir sobre a proteção
-   das pessoas e dos seus dados pessoais. Por conseguinte, a notificação da violação deve ser encarada
-   como um instrumento de reforço da conformidade em relação à proteção de dados pessoais.
-   Simultaneamente, deve-se salientar que a não comunicação de uma violação a uma pessoa singular
-   ou a uma autoridade de controlo pode significar que, de acordo com o artigo 83.º do RGPD, é aplicável
-   uma possível sanção ao responsável pelo tratamento.
-
-6. Os responsáveis pelo tratamento e os subcontratantes são, por conseguinte, encorajados a planear
-   antecipadamente e a pôr em prática processos que permitam detetar e deter prontamente uma
-   violação, avaliar o risco para as pessoas singulares 11 e determinar se é necessário notificar a autoridade
-   de controlo competente e comunicar a violação às pessoas em causa sempre que necessário. A
-   notificação à autoridade de controlo deve fazer parte desse plano de resposta a incidentes.
-
-7. O RGPD contém disposições sobre quando uma violação deve ser notificada e a quem, assim como
-   sobre que informação deve ser prestada. A informação necessária para a notificação pode ser
-   fornecida por fases, mas, em todo o caso, os responsáveis pelo tratamento devem dar uma resposta
-   em tempo útil a qualquer violação.
-
-
-
-
-    5
-      Ver https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=celex:32009L0136 e https://eur-lex.europa.eu/legal-
-    content/PT/TXT/?uri= CELEX%3A32013R0611.
-    Ver https://www.dataprotection.ie/docs/Data Security Breach Code of Practice/1082.htm.
-    7
-     Ver https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=celex:31995L0046.
-    8
-       Os direitos consagrados na Carta dos Direitos Fundamentais da UE, disponível em https://eur-
-    lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:12012P/TXT.
-    9
-      Ver o artigo 33.º, n.º 2, do RGPD. Em teoria, assemelha-se ao artigo 5.º do Regulamento (UE) n.º 611/2013, que
-    estabelece que um operador que seja contratado para fornecer parte do serviço de comunicações eletrónicas
-    (sem que tenha uma relação contratual direta com os assinantes) é obrigado a informar o operador contratante
-    de qualquer violação de dados pessoais.
-    10
-       Ver artigo 34.º, n.º 4, e artigo 58.º, n.º 2, alínea e), do RGPD.
-    11
-       Isto pode ser assegurado ao abrigo do requisito de controlo e de revisão de uma AIPD, exigida para as
-    operações de tratamento suscetíveis de resultarem num risco elevado para os direitos e liberdades das pessoas
-    singulares (artigo 35.º, n.os 1 e 11).
-
-    Adotadas                                                                                                     6
-
-8. No seu Parecer 03/2014, relativo à notificação da violação de dados pessoais 12 , o GT29 forneceu
-   orientações aos responsáveis pelo tratamento para os ajudar a decidir se notificam os titulares dos
-   dados em caso de violação. O parecer teve em consideração a obrigação dos fornecedores de
-   comunicações eletrónicas ao abrigo da Diretiva 2002/58/CE e forneceu exemplos de vários setores no
-   contexto do então projeto de RGPD, e apresentou boas práticas para todos os responsáveis pelo
-   tratamento.
-
-9. As atuais orientações explicam os requisitos obrigatórios de notificação da violação e de comunicação
-   do RGPD e algumas das medidas que os responsáveis pelo tratamento e subcontratantes podem tomar
-   para cumprirem estas obrigações. Também fornecem exemplos de vários tipos de violações e de quem
-   deveria ser notificado nos diferentes cenários.
-
-    I. NOTIFICAÇÃO DA VIOLAÇÃO DE DADOS PESSOAIS AO ABRIGO DO
-    RGPD
-    A. Considerações básicas de segurança
-10. Um dos requisitos do RGPD é que, através da adoção de medidas técnicas e organizativas adequadas,
-    os dados pessoais sejam tratados, por forma a assegurar a segurança adequada dos dados pessoais,
-    incluindo a proteção contra o seu tratamento não autorizado ou ilícito e contra a sua perda, destruição
-    ou danificação acidental 13.
-
-11. Por conseguinte, o RGPD exige que tanto os responsáveis pelo tratamento como os subcontratantes
-    apliquem medidas técnicas e organizativas adequadas para assegurar um nível de segurança adequado
-    ao risco imposto aos dados pessoais que estão a ser tratados. Devem ter em conta as técnicas mais
-    avançadas, os custos da sua aplicação e a natureza, o âmbito, o contexto e as finalidades do tratamento
-    dos dados, bem como o risco decorrente do tratamento, cuja probabilidade e gravidade podem ser
-    variáveis, para os direitos e liberdades das pessoas singulares 14. Além disso, o RGPD exige que sejam
-    adotadas todas as medidas tecnológicas de proteção e de organização adequadas para apurar
-    imediatamente a ocorrência de uma violação, o que determina se está envolvida a obrigação de
-    notificação 15.
-
-12. Por conseguinte, um elemento fundamental de qualquer política em matéria de segurança de dados é
-    conseguir, sempre que possível, prevenir uma violação e, quando esta aconteça, dar uma resposta em
-    tempo útil.
-
-
-
-
-    B. Em que consiste uma violação de dados pessoais?
-         1. Definição
-13. Em qualquer tentativa de resolver uma violação, o responsável pelo tratamento deve primeiro ser
-    capaz de reconhecer uma. O RGPD define «violação de dados pessoais» no artigo 4.º, n.º 12, como:
-
-
-
-
-    12
-         Ver Parecer 03/2014 do GT29, relativo à notificação da violação              de   dados   pessoais
-    http://ec.europa.eu/justice/data-protection/article29/documentation/opinion-
-    recommendation/files/2014/wp213 en.pdf.
     13
-       Ver artigo 5.º, n.º 1, alínea f) e artigo 32.º do RGPD.
+       See Articles 5(1)(f) and 32 GDPR.
     14
-       Artigo 32.º, ver igualmente o considerando 83 do RGPD.
+       Article 32; see also Recital 83 GDPR.
     15
-       Ver considerando 87 do RGPD.
+       See Recital 87 GDPR.
 
-    Adotadas                                                                                             7
+    Adopted                                                                                                   7
 
-   «[...] uma violação da segurança que provoque, de modo acidental ou ilícito, a destruição, a perda, a
-   alteração, a divulgação ou o acesso, não autorizados, a dados pessoais transmitidos, conservados ou
-   sujeitos a qualquer outro tipo de tratamento».
+    processing of personal data as outlined in Article 5 GDPR. This highlights the difference between a
+    security incident and a personal data breach – in essence, whilst all personal data breaches are security
+    incidents, not all security incidents are necessarily personal data breaches 16.
 
-14. O que se entende por «destruição» de dados pessoais deve ser bem claro: refere-se aos dados que
-    deixam de existir, ou deixam de existir num formato que seja de alguma utilidade para o responsável
-    pelo tratamento. O significado de «dano» também deve ser relativamente claro: trata-se dos dados
-    pessoais que foram alterados, corrompidos, ou já não estão completos. Em termos de «perda» de
-    dados pessoais, tal deve ser interpretado como os dados ainda poderem existir, mas o responsável
-    pelo tratamento perdeu o controlo ou o acesso a eles, ou já não os tem em sua posse. Por último, o
-    tratamento não autorizado ou ilícito pode incluir a divulgação de dados pessoais a (ou o acesso por)
-    destinatários que não estão autorizados a receber (ou a aceder) os dados, ou qualquer outra forma de
-    tratamento que viole o RGPD.
+16. The potential adverse effects of a breach on individuals are considered below.
 
-   Exemplo
+         2. Types of personal data breaches
+17. In its Opinion 03/2014 on breach notification, WP29 explained that breaches can be categorised
+    according to the following three well-known information security principles 17:
 
-   Um exemplo de perda de dados pessoais pode ser quando um dispositivo que contém uma cópia da
-   base de dados do cliente de um responsável pelo tratamento se perde ou tenha sido roubado. Outro
-   exemplo de perda pode ser quando a única cópia de um conjunto de dados pessoais tiver sido cifrada
-   por software de sequestro, ou tenha sido cifrada pelo responsável pelo tratamento recorrendo a
-   uma chave que já não está na sua posse.
+         •   “Confidentiality breach” - where there is an unauthorised or accidental disclosure of, or access
+             to, personal data.
 
-15. O que deve ficar claro é que uma violação é um tipo de incidente de segurança. No entanto, como
-    indicado pelo artigo 4.º, n.º 12, o RGPD só é aplicável quando existe uma violação de dados pessoais.
-    A consequência de tal violação é que o responsável pelo tratamento não poderá assegurar o
-    cumprimento dos princípios relativos ao tratamento de dados pessoais, conforme definido no artigo
-    5.º do RGPD. Isto realça a diferença entre um incidente de segurança e uma violação de dados pessoais
-    – em essência, enquanto todas as violações de dados pessoais são incidentes de segurança, nem todos
-    os incidentes de segurança são necessariamente violações de dados pessoais 16.
+         •   “Integrity breach” - where there is an unauthorised or accidental alteration of personal data.
 
-16. Os potenciais efeitos adversos de uma violação sobre as pessoas singulares são analisados abaixo.
+         •   “Availability breach” - where there is an accidental or unauthorised loss of access 18 to, or
+             destruction of, personal data.
 
+18. It should also be noted that, depending on the circumstances, a breach can concern confidentiality,
+    integrity and availability of personal data at the same time, as well as any combination of these.
 
+19. Whereas determining if there has been a breach of confidentiality or integrity is relatively clear,
+    whether there has been an availability breach may be less obvious. A breach will always be regarded
+    as an availability breach when there has been a permanent loss of, or destruction of, personal data.
 
+   Example
 
-        2. Tipos de violações de dados pessoais
-17. No seu Parecer 03/2014, relativo à notificação de violação, o GT29 explicou que as violações podem
-    ser categorizadas de acordo com os três princípios bem conhecidos de segurança da informação que
-    se seguem 17:
+   Examples of a loss of availability include where data has been deleted either accidentally or by an
+   unauthorised person, or, in the example of securely encrypted data, the decryption key has been lost.
+   In the event that the controller cannot restore access to the data, for example, from a backup, then
+   this is regarded as a permanent loss of availability.
 
-        •   «Violação da confidencialidade» - quando existe uma divulgação ou acesso acidental ou não
-            autorizado a dados pessoais.
+   A loss of availability may also occur where there has been significant disruption to the normal service
+   of an organisation, for example, experiencing a power failure or denial of service attack, rendering
+   personal data unavailable.
 
-        •   «Violação da integridade» - quando existe uma alteração acidental ou não autorizada dos dados
-            pessoais.
+20. The question may be asked whether a temporary loss of availability of personal data should be
+    considered as a breach and, if so, one which needs to be notified. Article 32 GDPR, “security of
+    processing”, explains that when implementing technical and organisational measures to ensure a level
+    of security appropriate to the risk, consideration should be given, amongst other things, to “the ability
+    to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and
 
 
 
 
-   16
-      Deve notar-se que um incidente de segurança não se limita a modelos de ameaça em que é efetuado um
-   ataque a uma organização por parte de uma fonte externa, mas inclui incidentes decorrentes do tratamento
-   interno que violam os princípios de segurança.
-   17
-     Ver Parecer 03/2014 do GT29.
-
-   Adotadas                                                                                              8
-
-         •    «Violação da disponibilidade» - quando existe uma perda de acesso ou a destruição acidental
-              ou não autorizada 18 de dados pessoais.
-
-18. Importa igualmente notar que, dependendo das circunstâncias, uma violação pode dizer respeito à
-    confidencialidade, à integridade e à disponibilidade de dados pessoais simultaneamente, assim como
-    a qualquer combinação destas.
-
-19. Enquanto determinar se existiu uma violação da confidencialidade ou da integridade é relativamente
-    claro, determinar a ocorrência de uma violação da disponibilidade pode ser menos óbvio. Uma violação
-    será sempre considerada uma violação da disponibilidade, se tiver ocorrido uma perda permanente
-    ou uma destruição de dados pessoais.
-
-   Exemplo
-
-   Exemplos de uma perda de disponibilidade: dados que foram apagados acidentalmente ou por uma
-   pessoa não autorizada ou, no caso de dados cifrados de forma segura, a perda da chave de decifração.
-   Caso o responsável pelo tratamento não consiga restaurar o acesso aos dados, por exemplo, a partir
-   de uma cópia de segurança, tal é considerado uma perda permanente de disponibilidade.
-
-   Uma perda de disponibilidade também pode ocorrer quando tiver havido uma interrupção significativa
-   do serviço normal de uma organização, por exemplo, uma falha de energia ou um ataque de negação
-   de serviço, que torne os dados pessoais indisponíveis.
-
-20. Pode colocar-se a questão de saber se uma perda temporária de disponibilidade dos dados pessoais
-    deve ser considerada uma violação e, em caso afirmativo, se deve ser notificada. O artigo 32.º do RGPD,
-    «segurança do tratamento», explica que ao aplicar medidas técnicas e organizativas para assegurar
-    um nível de segurança adequado ao risco, deve ter-se em conta, nomeadamente, a «[a] capacidade
-    de assegurar a confidencialidade, integridade, disponibilidade e resiliência permanentes dos sistemas
-    e dos serviços de tratamento» e «[a] capacidade de restabelecer a disponibilidade e o acesso aos dados
-    pessoais de forma atempada no caso de um incidente físico ou técnico».
-
-21. Por conseguinte, um incidente de segurança que resulte na indisponibilidade dos dados pessoais por
-    um período de tempo também é um tipo de violação, uma vez que a falta de acesso aos dados pode
-    ter um impacto significativo sobre os direitos e liberdades das pessoas singulares. Para que fique claro,
-    quando os dados pessoais estão indisponíveis devido à realização de uma manutenção dos sistemas,
-    isso não é uma «violação da segurança», conforme definida no artigo 4.º, n.º 12, do RGPD.
-
-22. Tal como acontece com a perda permanente ou a destruição de dados pessoais (ou, de facto, qualquer
-    outro tipo de violação), uma violação que envolva a perda temporária de disponibilidade deve ser
-    documentada de acordo com o artigo 33.º, n.º 5, do RGPD. Tal ajuda o responsável pelo tratamento a
-    demonstrar a responsabilização perante a autoridade de controlo, que pode pedir para ver esses
-    registos 19 . No entanto, dependendo das circunstâncias da violação, esta pode ou não exigir a
-    notificação à autoridade de controlo e comunicação às pessoas afetadas. O responsável pelo
-    tratamento necessitará de avaliar a probabilidade e a gravidade do impacto sobre os direitos e
-    liberdades das pessoas singulares resultantes da falta de disponibilidade dos dados pessoais. De
-
-
+    16
+       It should be noted that a security incident is not limited to threat models where an attack is made on an
+    organisation from an external source, but includes incidents from internal processing that breach security
+    principles.
+    17
+       See WP29 Opinion 03/2014.
     18
-       É um facto que o «acesso» é uma parte fundamental da «disponibilidade». Ver, por exemplo, NIST
-    SP80053rev4, que define «disponibilidade» como: «Assegurar o acesso atempado e fiável e a utilização de
-    informação», disponível em http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf. O
-    CNSSI-4009 também se refere a: «Acesso atempado e fiável a dados e serviços de informação para utilizadores
-    autorizados». Ver https://rmf.org/wp-content/uploads/2017/10/CNSSI-4009.pdf. A ISO/IEC 27000:2016
-    também define «disponibilidade» como a «Propriedade de estar acessível e de poder ser utilizada a pedido de uma
-    entidade autorizada»: https://www.iso.org/obp/ui/#iso:std:isoiec:27000:ed-4:v1:en
+       It is well established that “access” is fundamentally part of “availability”. See, for example, NIST
+    SP80053rev4, which defines “availability” as: "Ensuring timely and reliable access to and use of information,"
+    available at http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf. CNSSI-4009 also refers
+    to: “Timely, reliable access to data and information services for authorized users”. See
+    https://rmf.org/wpcontent/uploads/2017/10/CNSSI-4009.pdf. ISO/IEC 27000:2016 also defines “availability” as
+    “Property of being accessible and usable upon demand by an authorized entity”:
+    https://www.iso.org/obp/ui/#iso:std:isoiec:27000:ed-4:v1:en
+
+
+
+    Adopted                                                                                                     8
+
+    services,” and “the ability to restore the availability and access to personal data in a timely manner in
+    the event of a physical or technical incident”.
+
+21. Therefore, a security incident resulting in personal data being made unavailable for a period of time is
+    also a type of breach, as the lack of access to the data can have a significant impact on the rights and
+    freedoms of natural persons. To be clear, where personal data is unavailable due to planned system
+    maintenance being carried out this is not a ‘breach of security’ as defined in Article 4(12) GDPR.
+
+22. As with a permanent loss or destruction of personal data (or indeed any other type of breach), a breach
+    involving the temporary loss of availability should be documented in accordance with Article 33(5)
+    GDPR. This assists the controller in demonstrating accountability to the supervisory authority, which
+    may ask to see those records 19. However, depending on the circumstances of the breach, it may or
+    may not require notification to the supervisory authority and communication to affected individuals.
+    The controller will need to assess the likelihood and severity of the impact on the rights and freedoms
+    of natural persons as a result of the lack of availability of personal data. In accordance with Article 33
+    GDPR, the controller will need to notify unless the breach is unlikely to result in a risk to individuals’
+    rights and freedoms. Of course, this will need to be assessed on a case-by-case basis.
+
+    Example
+
+    In the context of a hospital, if critical medical data about patients are unavailable, even temporarily,
+    this could present a risk to individuals’ rights and freedoms; for example, operations may be cancelled
+    and lives put at risk.
+
+    Conversely, in the case of a media company’s systems being unavailable for several hours (e.g. due to
+    a power outage), if that company is then prevented from sending newsletters to its subscribers, this is
+    unlikely to present a risk to individuals’ rights and freedoms.
+
+23. It should be noted that although a loss of availability of a controller’s systems might be only temporary
+    and may not have an impact on individuals, it is important for the controller to consider all possible
+    consequences of a breach, as it may still require notification for other reasons.
+
+    Example
+
+    Infection by ransomware (malicious software which encrypts the controller’s data until a ransom is
+    paid) could lead to a temporary loss of availability if the data can be restored from backup. However,
+    a network intrusion still occurred, and notification could be required if the incident is qualified as
+    confidentiality breach (i.e. personal data is accessed by the attacker) and this presents a risk to the
+    rights and freedoms of individuals.
+
+         3. The possible consequences of a personal data breach
+24. A breach can potentially have a range of significant adverse effects on individuals, which can result in
+    physical, material, or non-material damage. The GDPR explains that this can include loss of control
+    over their personal data, limitation of their rights, discrimination, identity theft or fraud, financial loss,
+    unauthorised reversal of pseudonymisation, damage to reputation, and loss of confidentiality of
+    personal data protected by professional secrecy. It can also include any other significant economic or
+    social disadvantage to those individuals 20.
+
+25. Accordingly, the GDPR requires the controller to notify a breach to the competent supervisory
+    authority, unless it is unlikely to result in a risk of such adverse effects taking place. Where there is a
+
+
+
 
     19
-         Ver o artigo 33.º, n.º 5, do RGPD.
+         See Article 33(5) GDPR.
+    20
+         See also Recitals 85 and 75 GDPR.
 
-    Adotadas                                                                                                    9
+    Adopted                                                                                                     9
 
-   acordo com o artigo 33.º do RGPD, o responsável pelo tratamento deverá proceder à notificação, a
-   menos que a violação dos dados pessoais não seja suscetível de resultar num risco para os direitos e
-   liberdades das pessoas singulares. É evidente que será necessário analisar cada caso.
+    likely high risk of these adverse effects occurring, the GDPR requires the controller to communicate
+    the breach to the affected individuals as soon as is reasonably feasible 21.
 
+26. The importance of being able to identify a breach, to assess the risk to individuals, and then notify if
+    required, is emphasised in Recital 87 of the GDPR:
 
+   “It should be ascertained whether all appropriate technological protection and organisational
+   measures have been implemented to establish immediately whether a personal data breach has taken
+   place and to inform promptly the supervisory authority and the data subject. The fact that the
+   notification was made without undue delay should be established taking into account in particular the
+   nature and gravity of the personal data breach and its consequences and adverse effects for the data
+   subject. Such notification may result in an intervention of the supervisory authority in accordance with
+   its tasks and powers laid down in this Regulation.”
 
-   Exemplo
+27. Further guidelines on assessing the risk of adverse effects to individuals are considered in section IV.
 
-   No contexto de um hospital, se os dados médicos importantes dos pacientes estiverem indisponíveis,
-   mesmo que temporariamente, tal pode representar um risco para os direitos e liberdades das pessoas;
-   por exemplo, as operações podem ser canceladas e pôr-se em risco vidas.
+28. If controllers fail to notify either the supervisory authority or data subjects of a data breach or both
+    even though the requirements of Articles 33 and/or 34 GDPR are fulfilled, then the supervisory
+    authority is presented with a choice that must include consideration of all of the corrective measures
+    at its disposal, which would include consideration of the imposition of the appropriate administrative
+    fine 22, either accompanying a corrective measure under Article 58(2) GDPR or on its own. Where an
+    administrative fine is chosen, its value can be up to 10,000,000 EUR or up to 2 % if the total worldwide
+    annual turnover of an undertaking under Article 83(4)(a) of the GDPR. It is also important to bear in
+    mind that in some cases, the failure to notify a breach could reveal either an absence of existing
+    security measures or an inadequacy of the existing security measures. The WP29 Guidelines on
+    administrative fines state: “The occurrence of several different infringements committed together in
+    any particular single case means that the supervisory authority is able to apply the administrative fines
+    at a level which is effective, proportionate and dissuasive within the limit of the gravest infringement”.
+    In that case, the supervisory authority will also have the possibility to issue sanctions for failure to
+    notify or communicate the breach (Articles 33 and 34 GDPR) on the one hand, and absence of
+    (adequate) security measures (Article 32 GDPR) on the other hand, as they are two separate
+    infringements.
 
-   Por outro lado, se os sistemas de uma empresa de comunicação estiverem indisponíveis durante várias
-   horas (por exemplo, devido a uma falta de energia) e essa empresa estiver impedida de enviar boletins
-   informativos aos seus subscritores, é pouco provável que isso represente um risco para os direitos e
-   liberdades das pessoas.
+    II. ARTICLE 33 - NOTIFICATION TO THE SUPERVISORY AUTHORITY
+    A. When to notify
+         1. Article 33 requirements
+29. Article 33(1) GDPR provides that:
 
-23. É de salientar que, embora a perda de disponibilidade dos sistemas de um responsável pelo tratamento
-    possa ser apenas temporária e não ter impacto sobre as pessoas, é importante que o responsável pelo
-    tratamento tenha em conta todas as possíveis consequências de uma violação, uma vez que esta pode
-    exigir notificação por outras razões.
+   “In the case of a personal data breach, the controller shall without undue delay and, where feasible,
+   not later than 72 hours after having become aware of it, notify the personal data breach to the
+   supervisory authority competent in accordance with Article 55, unless the personal data breach is
+   unlikely to result in a risk to the rights and freedoms of natural persons. Where the notification to the
+   supervisory authority is not made within 72 hours, it shall be accompanied by reasons for the delay.”
 
-   Exemplo
-
-   A infeção por software de sequestro (software malicioso que cifra os dados do responsável pelo
-   tratamento até que seja pago um resgate) pode levar a uma perda temporária de disponibilidade, se
-   os dados puderem ser restaurados a partir de uma cópia de segurança. Contudo, a intrusão na rede
-   ocorreu e pode ser exigida notificação, se o incidente for classificado como uma violação da
-   confidencialidade (ou seja, os dados pessoais forem acedidos pelo atacante) e isto representar um
-   risco para os direitos e liberdades das pessoas.
-
-        3. Possíveis consequências de uma violação dos dados pessoais
-24. Uma violação pode potencialmente ter um leque de efeitos adversos significativos sobre as pessoas,
-    que podem resultar em danos físicos, materiais ou imateriais. O RGPD explica que estes podem incluir
-    a perda de controlo sobre os seus dados pessoais, a limitação dos seus direitos, a discriminação, o
-    roubo ou usurpação da identidade, perdas financeiras, a inversão não autorizada da pseudonimização,
-    danos para a reputação e a perda de confidencialidade de dados pessoais protegidos por sigilo
-    profissional. Podem incluir igualmente qualquer outra desvantagem económica ou social significativa
-    para essas pessoas singulares 20.
-
-25. Assim, o RGPD exige que o responsável pelo tratamento notifique a violação à autoridade de controlo
-    competente, a menos que seja improvável que resulte no risco de tais efeitos adversos ocorrerem.
-    Quando existe um risco elevado de ocorrência destes efeitos adversos, o RGPD exige que o responsável
-    pelo tratamento comunique a violação às pessoas singulares afetadas logo que seja razoavelmente
-    possível 21.
-
-26. A importância de ser capaz de identificar uma violação, avaliar o risco para as pessoas e, então,
-    proceder à notificação, se necessário, é salientada no considerando 87 do RGPD.
-
-   «Há que verificar se foram aplicadas todas as medidas tecnológicas de proteção e de organização para
-   apurar imediatamente a ocorrência de uma violação de dados pessoais e para informar rapidamente
-   a autoridade de controlo e o titular. Para comprovar que a notificação foi enviada sem demora
-
-
-   20
-        Ver igualmente considerandos 85 e 75 do RGPD.
-   21
-        Ver igualmente o considerando 86 do RGPD.
-
-   Adotadas                                                                                         10
-
-   injustificada importa ter em consideração, em especial, a natureza e a gravidade da violação dos dados
-   pessoais e as respetivas consequências e efeitos adversos para o titular dos dados. Essa notificação
-   poderá resultar numa intervenção da autoridade de controlo em conformidade com as suas funções e
-   competências, definidas pelo presente regulamento».
-
-27. São consideradas na secção IV outras orientações sobre a avaliação do risco de efeitos adversos para
-    as pessoas.
-
-28. Se os responsáveis pelo tratamento não notificarem a autoridade de controlo ou os titulares dos dados
-    de uma violação de dados, ou ambos, mesmo que os requisitos do artigo 33.º e/ou 34.º do RGPD sejam
-    cumpridos, é colocada à autoridade de controlo uma escolha que deve incluir a análise de todas as
-    medidas corretivas à sua disposição, incluindo a imposição de uma coima adequada 22 , quer
-    acompanhada de uma medida corretiva nos termos do artigo 58.º, n.º 2, do RGPD, quer por si própria.
-    Caso se opte por uma coima, o seu valor pode ser até 10 000 000 EUR ou até 2 % do volume de
-    negócios anual a nível mundial, de uma empresa de acordo com o artigo 83.º, n.º 4, alínea a), do RGPD.
-    É igualmente importante ter em mente que, em certos casos, a não notificação de uma violação pode
-    revelar uma ausência de medidas de segurança ou uma inadequação das medidas de segurança
-    existentes. As orientações do GT29 relativas às coimas estabelecem o seguinte: «A ocorrência de várias
-    infrações distintas, cometidas em conjunto em qualquer caso individual específico, significa que a
-    autoridade de controlo pode aplicar as coimas a um nível que seja efetivo, proporcionado e dissuasivo,
-    dentro do limite aplicável à infração mais grave». Nesse caso, a autoridade de controlo terá também
-    a possibilidade de emitir sanções, por um lado, por falta de notificação ou de comunicação da violação
-    (artigos 33.º e 34.º do RGPD) e, por outro, por ausência de medidas (adequadas) de segurança (artigo
-    32.º do RGPD), uma vez que se trata de duas infrações separadas.
-
-    II. ARTIGO 33.º - NOTIFICAÇÃO À AUTORIDADE DE CONTROLO
-    A. Quando notificar
-         1. Requisitos do artigo 33.º
-29. O artigo 33.º, n.º 1, do RGPD estabelece o seguinte:
-
-   «Em caso de violação de dados pessoais, o responsável pelo tratamento notifica desse facto a
-   autoridade de controlo competente nos termos do artigo 55.º, sem demora injustificada e, sempre que
-   possível, até 72 horas após ter tido conhecimento da mesma, a menos que a violação dos dados
-   pessoais não seja suscetível de resultar num risco para os direitos e liberdades das pessoas singulares.
-   Se a notificação à autoridade de controlo não for transmitida no prazo de 72 horas, é acompanhada
-   dos motivos do atraso».
-
-30. O considerando 87 do RGPD determina 23:
-
-   «Há que verificar se foram aplicadas todas as medidas tecnológicas de proteção e de organização para
-   apurar imediatamente a ocorrência de uma violação de dados pessoais e para informar rapidamente
-   a autoridade de controlo e o titular. Para comprovar que a notificação foi enviada sem demora
-   injustificada importa ter em consideração, em especial, a natureza e a gravidade da violação dos dados
-   pessoais e as respetivas consequências e efeitos adversos para o titular dos dados. Essa notificação
+30. Recital 87 GDPR states 23:
 
 
 
 
+    21
+         See also Recital 86 GDPR.
     22
-         Para informações mais pormenorizadas, ver as orientações do GT29 sobre a aplicação e a fixação do valor das
-    coimas, disponível em: http://ec.europa.eu/newsroom/just/document.cfm?doc_id=47889.
+         For further details, please see WP29 Guidelines on the application and setting of administrative fines, available
+    here: http://ec.europa.eu/newsroom/just/document.cfm?doc_id=47889
     23
-         O considerando 85 também é importante neste caso.
+         Recital 85 GDPR is also important here.
 
-    Adotadas                                                                                                    11
+    Adopted                                                                                                           10
 
-   poderá resultar numa intervenção da autoridade de controlo em conformidade com as suas funções e
-   competências, definidas pelo presente regulamento».
+   “It should be ascertained whether all appropriate technological protection and organisational
+   measures have been implemented to establish immediately whether a personal data breach has taken
+   place and to inform promptly the supervisory authority and the data subject. The fact that the
+   notification was made without undue delay should be established taking into account in particular the
+   nature and gravity of the personal data breach and its consequences and adverse effects for the data
+   subject. Such notification may result in an intervention of the supervisory authority in accordance with
+   its tasks and powers laid down in this Regulation.”
 
 
-         2. Quando é que um responsável pelo tratamento tem «conhecimento»?
-31. Conforme pormenorizado acima, o RGPD exige que, em caso de violação, o responsável pelo
-    tratamento notifique a violação sem demora injustificada e, sempre que possível, até 72 horas após
-    ter tido conhecimento da mesma. Isto pode levantar a questão de saber quando é que se pode
-    considerar que um responsável pelo tratamento teve «conhecimento» da violação. O CEPD considera
-    que se deve considerar que um responsável pelo tratamento tem «conhecimento» quando tem um
-    grau razoável de certeza de que ocorreu um incidente de segurança que afetou dados pessoais.
+         2. When does a controller become “aware”?
+31. As detailed above, the GDPR requires that, in the case of a breach, the controller shall notify the breach
+    without undue delay and, where feasible, not later than 72 hours after having become aware of it. This
+    may raise the question of when a controller can be considered to have become “aware” of a breach.
+    The EDPB considers that a controller should be regarded as having become “aware” when that
+    controller has a reasonable degree of certainty that a security incident has occurred that has led to
+    personal data being compromised.
 
-32. No entanto, conforme indicado anteriormente, o RGPD exige que o responsável pelo tratamento
-    aplique todas as medidas técnicas de proteção e de organização para apurar imediatamente a
-    ocorrência de uma violação e para informar rapidamente a autoridade de controlo e os titulares dos
-    dados. Estabelece igualmente que, para comprovar que a notificação foi enviada sem demora
-    injustificada, importa ter em conta, em especial, a natureza e a gravidade da violação e as respetivas
-    consequências e efeitos adversos para o titular dos dados 24. O responsável pelo tratamento fica assim
-    obrigado a assegurar que este tenha «conhecimento» de eventuais violações em tempo útil, para que
-    possa tomar medidas adequadas.
+32. However, as indicated earlier, the GDPR requires the controller to implement all appropriate technical
+    protection and organisational measures to establish immediately whether a breach has taken place
+    and to inform promptly the supervisory authority and the data subjects. It also states that the fact that
+    the notification was made without undue delay should be established taking into account in particular
+    the nature and gravity of the breach and its consequences and adverse effects for the data subject 24.
+    This puts an obligation on the controller to ensure that they will be “aware” of any breaches in a timely
+    manner so that they can take appropriate action.
 
-33. As circunstâncias de uma violação irão ditar as condições exatas em que se pode considerar que um
-    responsável pelo tratamento tem «conhecimento» dessa violação. Nalguns casos, será relativamente
-    claro desde o início se ocorreu uma violação, ao passo que noutros poderá ser necessário algum tempo
-    para apurar se foram afetados dados pessoais. No entanto, a ênfase deve estar na ação imediata para
-    investigar um incidente, a fim de determinar se os dados pessoais foram de facto violados e, em caso
-    afirmativo, tomar medidas de reparação e notificar, se necessário.
+33. When, exactly, a controller can be considered to be “aware” of a particular breach will depend on the
+    circumstances of the specific breach. In some cases, it will be relatively clear from the outset that there
+    has been a breach, whereas in others, it may take some time to establish if personal data have been
+    compromised. However, the emphasis should be on prompt action to investigate an incident to
+    determine whether personal data have indeed been breached, and if so, to take remedial action and
+    notify if required.
 
-   Exemplos
+   Examples
 
-   1.      No caso de perda de uma chave USB com dados pessoais não encriptados, muitas vezes não é
-   possível determinar se houve acesso de pessoas não autorizadas a esses dados. Contudo, mesmo que
-   o responsável pelo tratamento não consiga determinar se ocorreu uma violação da confidencialidade
-   esse caso tem de ser notificado, uma vez que existe um grau razoável de certeza de que ocorreu uma
-   violação da disponibilidade; o responsável pelo tratamento teria tomado «conhecimento» ao
-   aperceber-se da perda da chave USB.
+   1.      In the case of a loss of a USB key with unencrypted personal data it is often not possible to
+   ascertain whether unauthorised persons gained access to that data. Nevertheless, even though the
+   controller may not be able to establish if a confidentiality breach has taken place, such a case has to
+   be notified as there is a reasonable degree of certainty that an availability breach has occurred; the
+   controller would become “aware” when it realised the USB key had been lost.
 
-   2.     Um terceiro informa um responsável pelo tratamento de que recebeu acidentalmente os
-   dados pessoais de um dos seus clientes e fornece elementos de prova da divulgação não autorizada.
-   Uma vez apresentadas provas de uma violação da confidencialidade ao responsável pelo tratamento,
-   não podem existir dúvidas de que este tomou «conhecimento».
+   2.       A third party informs a controller that they have accidentally received the personal data of
+   one of its customers and provides evidence of the unauthorised disclosure. As the controller has been
+   presented with clear evidence of a confidentiality breach then there can be no doubt that it has
+   become “aware”.
 
-   3.      Um responsável pelo tratamento deteta uma eventual intrusão na sua rede. Verifica os seus
-   sistemas para apurar se os dados pessoais contidos nesse sistema foram afetados e confirma ser esse
-   o caso. Mais uma vez, dado que o responsável pelo tratamento possui agora provas inequívocas de
-   uma violação, não podem existir dúvidas de que este tomou «conhecimento».
-
-   4.      Um cibercriminoso contacta o responsável pelo tratamento para pedir um resgate após ter
-   pirateado o seu sistema. Nesse caso, após ter verificado o seu sistema para confirmar que foi
-   pirateado, o responsável pelo tratamento possui provas inequívocas de que ocorreu uma violação,
-   pelo que existem dúvidas de que tomou conhecimento.
+   3.      A controller detects that there has been a possible intrusion into its network. The controller
+   checks its systems to establish whether personal data held on that system has been compromised and
+   confirms this is the case. Once again, as the controller now has clear evidence of a breach there can
+   be no doubt that it has become “aware”.
 
 
 
 
     24
-         Ver considerando 87 do RGPD.
+         See Recital 87 GDPR.
 
-    Adotadas                                                                                          12
+    Adopted                                                                                                11
 
-34. Após ter sido informado de uma potencial violação por um indivíduo, uma organização de
-    comunicação ou outra fonte, ou ao detetar ele próprio um incidente de segurança, o responsável pelo
-    tratamento pode realizar um curto período de investigação para apurar se ocorreu ou não uma
-    violação. Durante este período de investigação o responsável pelo tratamento não deve ser
-    considerado como tendo «conhecimento». No entanto, é expectável que a investigação inicial comece
-    o mais rapidamente possível, para apurar, com razoável grau de certeza, a ocorrência de uma violação;
-    pode seguir-se uma investigação mais aprofundada.
+   4.     A cybercriminal contacts the controller after having hacked its system in order to ask for a
+   ransom. In that case, after checking its system to confirm it has been attacked the controller has clear
+   evidence that a breach has occurred and there is no doubt that it has become aware.
 
-35. Assim que o responsável pelo tratamento tenha tomado conhecimento, uma violação notificável deve
-    ser notificada sem demora injustificada, e sempre que possível, até 72 horas. Durante este período, o
-    responsável pelo tratamento deve avaliar o risco provável para as pessoas, a fim de determinar se o
-    requisito de notificação foi acionado, bem como as medidas necessárias para abordar a violação. No
-    entanto, um responsável pelo tratamento pode já ter uma avaliação inicial do risco potencial, que pode
-    resultar de uma violação, no âmbito de uma avaliação de impacto sobre a proteção de dados (AIPD) 25
-    feita antes da operação de tratamento em causa. Contudo, a AIPD pode ser mais generalizada em
-    comparação com as circunstâncias específicas de qualquer violação real e, assim, em qualquer caso,
-    deverá ser realizada uma avaliação adicional que tenha em conta essas circunstâncias. Para mais
-    pormenores sobre a avaliação do risco, ver a secção IV.
+34. After first being informed of a potential breach by an individual, a media organisation, or another
+    source, or when it has itself detected a security incident, the controller may undertake a short period
+    of investigation in order to establish whether or not a breach has in fact occurred. During this period
+    of investigation the controller may not be regarded as being “aware”. However, it is expected that the
+    initial investigation should begin as soon as possible and establish with a reasonable degree of certainty
+    whether a breach has taken place; a more detailed investigation can then follow.
 
-36. Na maioria dos casos, estas medidas preliminares devem estar concluídas logo após o alerta inicial (ou
-    seja, quando o responsável pelo tratamento ou subcontratante suspeita da ocorrência de um incidente
-    de segurança que pode envolver dados pessoais) só deve demorar mais em casos excecionais.
+35. Once the controller has become aware, a notifiable breach must be notified without undue delay, and
+    where feasible, not later than 72 hours. During this period, the controller should assess the likely risk
+    to individuals in order to determine whether the requirement for notification has been triggered, as
+    well as the action(s) needed to address the breach. However, a controller may already have an initial
+    assessment of the potential risk that could result from a breach as part of a data protection impact
+    assessment (DPIA) 25 made prior to carrying out the processing operation concerned. However, the
+    DPIA may be more generalised in comparison to the specific circumstances of any actual breach, and
+    so in any event an additional assessment taking into account those circumstances will need to be made.
+    For more detail on assessing risk, see section IV.
 
+36. In most cases these preliminary actions should be completed soon after the initial alert (i.e. when the
+    controller or processor suspects there has been a security incident which may involve personal data.)
+    – it should take longer than this only in exceptional cases.
 
+   Example
 
-   Exemplo
+   An individual informs the controller that they have received an email impersonating the controller
+   which contains personal data relating to his (actual) use of the controller’s service, suggesting that the
+   security of the controller has been compromised. The controller conducts a short period of
+   investigation and identifies an intrusion into their network and evidence of unauthorised access to
+   personal data. The controller would now be considered as “aware” and notification to the supervisory
+   authority is required unless this is unlikely to present a risk to the rights and freedoms of individuals.
+   The controller will need to take appropriate remedial action to address the breach.
 
-   Um indivíduo informa o responsável pelo tratamento de que recebeu uma mensagem de correio
-   eletrónico a fazer-se passar pelo responsável pelo tratamento relativamente à sua (real) utilização do
-   serviço deste, sugerindo que a segurança do responsável pelo tratamento foi comprometida. O
-   responsável pelo tratamento conduz um curto período de investigação e identifica uma intrusão na
-   sua rede, bem como provas de acesso não autorizado aos dados pessoais. Seria agora considerado
-   como tendo «conhecimento», sendo exigida a notificação à autoridade de controlo, a menos que seja
-   pouco provável que represente um risco para os direitos e liberdades das pessoas. O responsável pelo
-   tratamento deve tomar medidas de reparação para fazer face à violação.
+37. The controller should therefore have internal processes in place to be able to detect and address a
+    breach. For example, for finding some irregularities in data processing the controller or processor may
+    use certain technical measures such as data flow and log analysers, from which is possible to define
+    events and alerts by correlating any log data 26. It is important that when a breach is detected it is
+    reported upwards to the appropriate level of management so it can be addressed and, if required,
+    notified in accordance with Article 33 and, if necessary, Article 34. Such measures and reporting
+    mechanisms could be detailed in the controller’s incident response plans and/or governance
+    arrangements. These will help the controller to plan effectively and determine who has operational
+    responsibility within the organisation for managing a breach and how or whether to escalate an
+    incident as appropriate.
 
-37. Por conseguinte, deve possuir processos internos para ser capaz de detetar e fazer face a uma violação.
-    Por exemplo, para encontrar algumas irregularidades no tratamento de dados, o responsável pelo
-    tratamento ou subcontratante pode utilizar certas medidas técnicas, como o fluxo de dados e
-    analisadores de registos, a partir dos quais é possível definir eventos e alertas através da correlação
-    de quaisquer dados de registo 26. Quando uma violação é detetada, é importante que seja comunicada
-    aos níveis superiores competentes, para que possa ser reparada e, se for caso disso, notificada em
-    conformidade com o artigo 33.º e, se necessário, com o artigo 34.º. Tais medidas e mecanismos de
-    comunicação podem ser pormenorizados nos planos de resposta a incidentes do responsável pelo
-    tratamento e/ou mecanismos de governação. Estes vão ajudar o responsável pelo tratamento a
-    planear de maneira eficaz e a determinar quem detém a responsabilidade operacional dentro da
-    organização para gerir uma violação e como fazer face ou não a um incidente, se necessário.
+38. The controller should also have in place arrangements with any processors the controller uses, which
+    themselves have an obligation to notify the controller in the event of a breach (see below).
 
 
 
 
     25
-            Ver      as       orientações      WP248       do   GT29       sobre       as     AIPD      em:
-    http://ec.europa.eu/newsroom/document.cfm?doc id=44137.
+       See WP29 Guidelines WP248 on DPIAs here: http://ec.europa.eu/newsroom/document.cfm?doc_id=44137
     26
-       Importa notar que os dados de registo que facilitam a realização de auditorias, por exemplo, sobre o
-    armazenamento, alterações ou apagamento de dados, podem também ser considerados dados pessoais relativos
-    à pessoa que iniciou a respetiva operação de tratamento.
+       It should be noted that log data facilitating auditability of, e.g., storage, modifications or erasure of data may
+    also qualify as personal data relating to the person who initiated the respective processing operation.
 
-    Adotadas                                                                                            13
+    Adopted                                                                                                           12
 
-38. O responsável pelo tratamento deve também possuir acordos com quaisquer subcontratantes a que
-    recorra, que também têm a obrigação de notificar o responsável pelo tratamento no caso de uma
-    violação (ver abaixo).
+39. Whilst it is the responsibility of controllers and processors to put in place suitable measures to be able
+    to prevent, react and address a breach, there are some practical steps that should be taken in all cases.
 
-39. Embora seja da responsabilidade dos responsáveis pelo tratamento e dos subcontratantes adotar
-    medidas adequadas para prevenir, dar resposta e fazer face a uma violação, existem algumas medidas
-    práticas que devem ser tomadas em todos os casos.
+           •   Information concerning all security-related events should be directed towards a responsible
+               person or persons with the task of addressing incidents, establishing the existence of a breach
+               and assessing risk.
+           •   Risk to individuals as a result of a breach should then be assessed (likelihood of no risk, risk or
+               high risk), with relevant sections of the organisation being informed.
+           •   Notification to the supervisory authority, and potentially communication of the breach to the
+               affected individuals should be made, if required.
+           •   At the same time, the controller should act to contain and recover the breach. Documentation
+               of the breach should take place as it develops.
 
-           •   As informações relativas a todos os eventos relacionados com segurança devem ser dirigidas
-               à pessoa ou pessoas responsáveis com a tarefa de responder a incidentes, apurar a existência
-               de uma violação e avaliar o risco.
-           •   Os riscos para as pessoas resultantes de uma violação devem, pois, ser avaliados
-               (probabilidade de nenhum risco, de risco ou de risco elevado), com secções relevantes da
-               organização a serem informadas.
-           •   Se necessário, deve-se notificar a autoridade de controlo e comunicar eventualmente a
-               violação às pessoas afetadas.
-           •   Simultaneamente, o responsável pelo tratamento deve agir para conter e reparar a violação.
-               A documentação da violação deve ocorrer à medida que esta se desenvolve.
-40. Por conseguinte, deve ficar claro que existe a obrigação de o responsável pelo tratamento responder
-    a qualquer alerta inicial e apurar se ocorreu, de facto, uma violação. Este breve período permite levar
-    a cabo uma investigação e que o responsável pelo tratamento recolha provas e outros pormenores
-    relevantes. No entanto, assim que o responsável pelo tratamento tiver estabelecido com um grau
-    razoável de certeza que ocorreu uma violação, se as condições do artigo 33.º, n.º 1, do RGPD estiverem
-    preenchidas, deve notificar a autoridade de controlo sem demora injustificada e, se possível, no prazo
-    de 72 horas 27. Se o responsável pelo tratamento não agir em tempo útil e se tornar evidente que
-    ocorreu uma violação, tal pode ser considerado uma não notificação nos termos do artigo 33.º do
-    RGPD.
+40. Accordingly, it should be clear that there is an obligation on the controller to act on any initial alert and
+    establish whether or not a breach has, in fact, occurred. This brief period allows for some investigation,
+    and for the controller to gather evidence and other relevant details. However, once the controller has
+    established with a reasonable degree of certainty that a breach has occurred, if the conditions in Article
+    33(1) GDPR have been met, it must then notify the supervisory authority without undue delay and,
+    where feasible, not later than 72 hours 27. If a controller fails to act in a timely manner and it becomes
+    apparent that a breach did occur, this could be considered as a failure to notify in accordance with
+    Article 33 GDPR.
 
-41. O artigo 32.º do RGPD clarifica que o responsável pelo tratamento e o subcontratante devem adotar
-    medidas técnicas e organizativas adequadas para assegurar um nível adequado de segurança dos
-    dados pessoais: a capacidade de detetar, de dar resposta e de comunicar uma violação em tempo útil
-    deve ser encarada como um elemento essencial destas medidas.
+41. Article 32 GDPR makes clear that the controller and processor should have appropriate technical and
+    organisational measures in place to ensure an appropriate level of security of personal data: the ability
+    to detect, address, and report a breach in a timely manner should be seen as essential elements of
+    these measures.
 
-         3. Responsáveis conjuntos pelo tratamento
-42. O artigo 26.º do RGPD diz respeito aos responsáveis conjuntos pelo tratamento e especifica que os
-    responsáveis conjuntos devem determinar as respetivas responsabilidades pelo cumprimento do
-    RGPD 28 . Tal inclui determinar que parte terá responsabilidade pelo cumprimento das obrigações
-    previstas nos artigos 33.º e 34.º do RGPD. O CEPD recomenda que os acordos contratuais entre
-    responsáveis conjuntos incluam disposições que determinem que responsável pelo tratamento
-    assumirá a liderança ou será responsável pelo cumprimento das obrigações de notificação de violação
-    do RGPD.
+         3. Joint controllers
+42. Article 26 GDPR concerns joint controllers and specifies that joint controllers shall determine their
+    respective responsibilities for compliance with the GDPR 28. This will include determining which party
+    will have responsibility for complying with the obligations under Articles 33 and 34 GDPR. The EDPB
+    recommends that the contractual arrangements between joint controllers include provisions that
+    determine which controller will take the lead on, or be responsible for, compliance with the GDPR’s
+    breach notification obligations.
 
-         4. Obrigações do subcontratante
-43. O responsável pelo tratamento detém a responsabilidade global pela proteção dos dados pessoais,
-    mas o subcontratante desempenha um papel importante para que o responsável pelo tratamento
-    consiga cumprir as suas obrigações, e isto inclui a notificação de violação. De facto, o artigo 28.º, n.º 3,
-    do RGPD especifica que o tratamento em subcontratação deve ser regulado por um contrato ou por
-    outro ato normativo. O artigo 28.º, n.º 3, alínea f), estabelece que o contrato ou outro ato normativo
+         4. Processor obligations
+43. The controller retains overall responsibility for the protection of personal data, but the processor has
+    an important role to play to enable the controller to comply with its obligations; and this includes
+    breach notification. Indeed, Article 28(3) GDPR specifies that the processing by a processor shall be
+    governed by a contract or other legal act. Article 28(3)(f) states that the contract or other legal act shall
+    stipulate that the processor “assists the controller in ensuring compliance with the obligations
+    pursuant to Articles 32 to 36 taking into account the nature of processing and the information available
+    to the processor”.
+
+44. Article 33(2) GDPR makes it clear that if a processor is used by a controller and the processor becomes
+    aware of a breach of the personal data it is processing on behalf of the controller, it must notify the
+    controller “without undue delay”. It should be noted that the processor does not need to first assess
+    the likelihood of risk arising from a breach before notifying the controller; it is the controller that must
+    make this assessment on becoming aware of the breach. The processor just needs to establish whether
 
 
     27
-         Ver Regulamento n.º 1182/71, relativo à determinação das regras aplicáveis aos prazos, às datas e aos termos,
-    disponível em:https://eur-lex.europa.eu/legal-content/PT/TXT/HTML/?uri=CELEX:31971R1182&from=PT.
+       See Regulation No 1182/71 determining the rules applicable to periods, dates and time limits, available at:
+    http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31971R1182&from=EN
     28
-         Ver igualmente o considerando 79 do RGPD.
+       See also Recital 79 GDPR.
 
-    Adotadas                                                                                                      14
+    Adopted                                                                                                      13
 
-    deve estipular que o subcontratante «[p]resta assistência ao responsável pelo tratamento no sentido
-    de assegurar o cumprimento das obrigações previstas nos artigos 32.º a 36.º, tendo em conta a
-    natureza do tratamento e a informação ao dispor do subcontratante».
+    a breach has occurred and then notify the controller. The controller uses the processor to achieve its
+    purposes; therefore, in principle, the controller should be considered as “aware” once the processor
+    has informed it of the breach. The obligation on the processor to notify its controller allows the
+    controller to address the breach and to determine whether or not it is required to notify the
+    supervisory authority in accordance with Article 33(1) and the affected individuals in accordance with
+    Article 34(1). The controller might also want to investigate the breach, as the processor might not be
+    in a position to know all the relevant facts relating to the matter, for example, if a copy or backup of
+    personal data destroyed or lost by the processor is still held by the controller. This may affect whether
+    the controller would then need to notify.
 
-44. O artigo 33.º, n.º 2, do RGPD esclarece que, se um responsável pelo tratamento recorrer a um
-    subcontratante e este tomar conhecimento de uma violação dos dados pessoais que está a tratar em
-    nome do responsável pelo tratamento, deve notificar o responsável pelo tratamento «sem demora
-    injustificada». É de salientar que o subcontratante não necessita de avaliar primeiro a probabilidade
-    de risco resultante de uma violação antes de notificar o responsável pelo tratamento; cabe ao
-    responsável pelo tratamento efetuar essa avaliação ao ter conhecimento da violação. O
-    subcontratante só necessita de apurar a ocorrência de uma violação e notificá-la ao responsável pelo
-    tratamento. O responsável pelo tratamento recorre ao subcontratante para alcançar os seus objetivos;
-    por conseguinte, em princípio, considera-se que o responsável pelo tratamento tomou
-    «conhecimento» assim que o subcontratante o informa da violação. A obrigação de o subcontratante
-    notificar o seu responsável pelo tratamento permite ao responsável pelo tratamento responder a uma
-    violação e determinar se é ou não exigido notificar a autoridade de controlo em conformidade com o
-    artigo 33.º, n.º 1, e as pessoas afetadas em conformidade com o artigo 34.º, n.º 1. O responsável pelo
-    tratamento também pode querer investigar a violação, uma vez que o subcontratante pode não estar
-    em posição de saber todos os fatos relevantes relacionados com o assunto, por exemplo, se uma cópia
-    ou cópia de segurança dos dados pessoais destruídos ou perdidos pelo subcontratante ainda se
-    encontra na posse do responsável pelo tratamento. Tal pode ditar a necessidade de o responsável pelo
-    tratamento proceder ou não à notificação.
+45. The GDPR does not provide an explicit time limit within which the processor must alert the controller,
+    except that it must do so “without undue delay”. Therefore, the EDPB recommends the processor
+    promptly notifies the controller, with further information about the breach provided in phases as more
+    details become available. This is important in order to help the controller to meet the requirement of
+    notification to the supervisory authority within 72 hours.
 
-45. O RGPD não prevê um prazo limite explícito para o subcontratante alertar o responsável pelo
-    tratamento, apenas que o deve fazer «sem demora injustificada». Por conseguinte, o CEPD recomenda
-    que o subcontratante notifique imediatamente o responsável pelo tratamento, fornecendo
-    informações adicionais sobre a violação por fases à medida que os pormenores se tornam disponíveis.
-    Isto é importante para ajudar o responsável pelo tratamento a cumprir o requisito de notificação à
-    autoridade de controlo no prazo de 72 horas.
+46. As is explained above, the contract between the controller and processor should specify how the
+    requirements expressed in Article 33(2) should be met in addition to other provisions in the GDPR. This
+    can include requirements for early notification by the processor that in turn support the controller’s
+    obligations to report to the supervisory authority within 72 hours.
 
-46. Conforme explicado acima, o contrato entre o responsável pelo tratamento e o subcontratante deve
-    especificar como cumprir os requisitos expressos no artigo 33.º, n.º 2, além de outras disposições do
-    RGPD. Isto pode incluir requisitos de notificação precoce por parte do subcontratante, que, por sua
-    vez, apoiam as obrigações do responsável pelo tratamento de informar a autoridade de controlo no
-    prazo de 72 horas.
+47. Where the processor provides services to multiple controllers that are all affected by the same
+    incident, the processor will have to report details of the incident to each controller.
 
-47. Sempre que o subcontratante presta serviços a vários responsáveis pelo tratamento que são todos
-    afetados pelo mesmo incidente, o subcontratante terá de comunicar pormenores do incidente a cada
-    um dos responsáveis pelo tratamento.
+48. A processor could make a notification on behalf of the controller, if the controller has given the
+    processor the proper authorisation and this is part of the contractual arrangements between controller
+    and processor. Such notification must be made in accordance with Article 33 and 34 GDPR. However,
+    it is important to note that the legal responsibility to notify remains with the controller.
 
-48. Um subcontratante pode fazer uma notificação em nome do responsável pelo tratamento, se este lhe
-    tiver dado a autorização adequada e isto fizer parte do acordo contratual entre responsável pelo
-    tratamento e subcontratante. A notificação deve ser efetuada em conformidade com os artigos 33.º e
-    34.º do RGPD. No entanto, importa salientar que a responsabilidade jurídica de notificar continua a ser
-    do responsável pelo tratamento.
+    B. Providing information to the supervisory authority
+     1. Information to be provided
+49. When a controller notifies a breach to the supervisory authority, Article 33(3) GDPR states that, at the
+    minimum, it should:
 
-    B. Prestação de informações à autoridade de controlo
-     1. Informações a comunicar
-49. Quando um responsável pelo tratamento notifica uma violação à autoridade de controlo, o artigo 33.º,
-    n.º 3, do RGPD prevê que, no mínimo, deve:
+   “(a) describe the nature of the personal data breach including where possible, the categories and
+   approximate number of data subjects concerned and the categories and approximate number of
+   personal data records concerned;
 
-   «a) Descrever a natureza da violação dos dados pessoais incluindo, se possível, as categorias e o
-   número aproximado de titulares de dados afetados, bem como as categorias e o número aproximado
-   de registos de dados pessoais em causa;
+   (b) communicate the name and contact details of the data protection officer or other contact point
+       where more information can be obtained;
 
+   (c) describe the likely consequences of the personal data breach;
 
-    Adotadas                                                                                           15
+   (d) describe the measures taken or proposed to be taken by the controller to address the personal data
+       breach, including, where appropriate, measures to mitigate its possible adverse effects.”
 
-   (b) Comunicar o nome e os contactos do encarregado da proteção de dados ou de outro ponto de
-       contacto onde possam ser obtidas mais informações;
-
-   (c) Descrever as consequências prováveis da violação de dados pessoais;
-
-   (d) Descrever as medidas adotadas ou propostas pelo responsável pelo tratamento para reparar a
-       violação de dados pessoais, inclusive, se for caso disso, medidas para atenuar os seus eventuais
-       efeitos negativos».
-
-50. O RGPD não define categorias de titulares de dados ou de registos de dados pessoais. No entanto, o
-    CEPD sugere que as categorias de titulares de dados digam respeito aos vários tipos de pessoas
-    singulares cujos dados pessoais foram afetados por uma violação: dependendo dos descritores
-    utilizados, pode incluir, entre outros, crianças e outros grupos vulneráveis, pessoas com deficiência,
-    trabalhadores ou clientes. De igual modo, as categorias de registos de dados pessoais podem referir-se
-    a diferentes tipos de registos que o responsável pelo tratamento pode tratar, como dados relativos à
-    saúde, registos escolares, informação relativa à ação social, dados financeiros, números de contas
-    bancárias, números de passaporte, etc.
-
-51. O considerando 85 do RGPD esclarece que um dos objetivos da notificação consiste em limitar os danos
-    para as pessoas singulares. Assim, se os tipos de titulares de dados ou os tipos de dados pessoais
-    indicarem um risco de dano específico decorrente de uma violação (por exemplo, roubo de identidade,
-    fraude, perdas financeiras, ameaça ao sigilo profissional), então, é importante que a notificação
-    indique estas categorias. Desta forma, está ligada ao requisito de descrição das consequências
-    prováveis da violação.
-
-52. Quando não estiverem disponíveis informações exatas (por exemplo, o número exato de titulares dos
-    dados afetados), tal não deve ser um obstáculo à notificação atempada da violação. O RGPD permite
-    que sejam feitas aproximações quanto ao número de pessoas afetadas e ao número de registos de
-    dados pessoais em causa. É mais importante atenuar os efeitos adversos da violação do que fornecer
-    números precisos.
-
-53. Deste modo, quando se torna evidente que ocorreu uma violação, mas a sua dimensão ainda não é
-    conhecida, uma notificação por fases (ver abaixo) é uma maneira segura de cumprir as obrigações de
-    notificação.
-
-54. O artigo 33.º, n.º 3, do RGPD estabelece que um responsável pelo tratamento «deve, pelo menos»
-    prestar esta informação com uma notificação, para que o responsável pelo tratamento possa, se
-    necessário, optar por fornecer pormenores adicionais. Diferentes tipos de violações
-    (confidencialidade, integridade ou disponibilidade) podem exigir que seja fornecida informação
-    adicional de modo a explicar plenamente as circunstâncias de cada caso.
-
-   Exemplo
-
-   Como parte da sua notificação à autoridade de controlo, um responsável pelo tratamento pode
-   considerar útil nomear o seu subcontratante, se ele for a principal causa da violação, especialmente
-   se isso tiver levado a um incidente que afeta os registos de dados pessoais de muitos outros
-   responsáveis pelo tratamento que recorrem ao mesmo subcontratante.
-
-55. De qualquer forma, a autoridade de controlo pode solicitar mais informações no âmbito da sua
-    investigação a uma violação.
-
-     2. Notificação por fases
-56. Dependendo da natureza da violação, pode ser necessária investigação adicional por parte do
-    responsável pelo tratamento, para apurar todos os factos relevantes relacionados com o incidente. O
-    artigo 33.º, n.º 4, do RGPD prevê o seguinte:
-
-    Adotadas                                                                                          16
-
-   «Caso, e na medida em que não seja possível fornecer todas as informações ao mesmo tempo, estas
-   podem ser fornecidas por fases, sem demora injustificada».
-
-57. Isto significa que o RGPD reconhece que os responsáveis pelo tratamento nem sempre estarão na
-    posse de todas as informações necessárias relativas a uma violação no prazo de 72 horas após terem
-    tido conhecimento da mesma, uma vez que podem não estar disponíveis durante o período inicial
-    pormenores completos e abrangentes do incidente. Assim sendo, permite uma notificação por fases.
-    É mais provável que esse seja o caso de violações mais complexas, como alguns tipos de incidentes de
-    cibersegurança em que, por exemplo, possa ser necessária uma investigação forense aprofundada
-    para determinar plenamente a natureza da violação e em que medida os dados pessoais foram
-    afetados. Por conseguinte, em muitos casos, o responsável pelo tratamento terá de proceder a uma
-    investigação e um acompanhamento mais aprofundados, com informação suplementar num momento
-    posterior. Tal é admissível, desde que o responsável pelo tratamento justifique o seu atraso, nos
-    termos do artigo 33.º, n.º 1, do RGPD. O CEPD recomenda que, quando um responsável pelo
-    tratamento notificar inicialmente a autoridade de controlo, também informe a mesma se ainda não
-    possuir todas as informações necessárias e forneça mais pormenores posteriormente. A autoridade de
-    controlo deve acordar como e quando deve ser fornecida a informação suplementar. Tal não impede
-    que o responsável pelo tratamento forneça informação suplementar em qualquer outra fase, se tiver
-    conhecimento de informações adicionais relevantes acerca da violação que devam ser fornecidos à
-    autoridade de controlo.
-
-58. O requisito de notificação visa encorajar os responsáveis pelo tratamento a agir rapidamente em caso
-    de violação, contê-la e, se possível, recuperar os dados pessoais afetados, e procurar o
-    aconselhamento relevante da autoridade de controlo. Notificar a autoridade de controlo nas primeiras
-    72 horas pode permitir ao responsável pelo tratamento certificar-se de que as decisões sobre notificar
-    ou não notificar as pessoas singulares estão corretas.
-
-59. No entanto, o objetivo de notificar a autoridade de controlo não consiste apenas em obter orientações
-    sobre a notificação das pessoas singulares afetadas. Em alguns casos, será óbvio que, devido à natureza
-    da violação e à gravidade do risco, o responsável pelo tratamento terá de notificar as pessoas afetadas
-    sem demora. Por exemplo, se existir uma ameaça imediata de roubo de identidade, ou se categorias
-    especiais de dados pessoais 29 forem divulgadas em linha, o responsável pelo tratamento deve agir sem
-    demora injustificada para conter a violação e comunicá-la às pessoas em causa (ver secção III). Em
-    circunstâncias excecionais, isto pode mesmo acontecer antes da notificação à autoridade de controlo.
-    De um modo mais geral, a notificação à autoridade de controlo não pode servir de justificação para
-    não comunicar a violação ao titular dos dados, quando tal é exigido.
-
-60. Deve também ficar claro que, após efetuar uma notificação inicial, o responsável pelo tratamento pode
-    facultar informações atualizadas à autoridade de controlo, se uma investigação subsequente revelar
-    provas de que o incidente de segurança foi contido e não ocorreu uma violação. Esta informação pode
-    depois ser acrescentada à informação já fornecida à autoridade de controlo e o incidente registado em
-    conformidade como não se tratando de uma violação. Não existe uma sanção por comunicar um
-    incidente que, em última análise, não é uma violação.
+50. The GDPR does not define categories of data subjects or personal data records. However, the EDPB
+    suggests categories of data subjects to refer to the various types of individuals whose personal data
+    has been affected by a breach: depending on the descriptors used, this could include, amongst others,
+    children and other vulnerable groups, people with disabilities, employees or customers. Similarly,
+    categories of personal data records can refer to the different types of records that the controller may
+    process, such as health data, educational records, social care information, financial details, bank
+    account numbers, passport numbers and so on.
 
 
 
-   Exemplo
 
-   Um responsável pelo tratamento notifica a autoridade de controlo no prazo de 72 horas após ter
-   detetado uma violação de que perdeu a chave USB que contém uma cópia dos dados pessoais de
-   alguns dos seus clientes. A chave USB é posteriormente encontrada mal arquivada nas instalações do
+    Adopted                                                                                              14
+
+51. Recital 85 GDPR makes it clear that one of the purposes of notification is limiting damage to individuals.
+    Accordingly, if the types of data subjects or the types of personal data indicate a risk of particular
+    damage occurring as a result of a breach (e.g. identity theft, fraud, financial loss, threat to professional
+    secrecy), then it is important the notification indicates these categories. In this way, it is linked to the
+    requirement of describing the likely consequences of the breach.
+
+52. Where precise information is not available (e.g. exact number of data subjects affected) this should
+    not be a barrier to timely breach notification. The GDPR allows for approximations to be made in the
+    number of individuals affected and the number of personal data records concerned. The focus should
+    be directed towards addressing the adverse effects of the breach rather than providing precise figures.
+
+53. Thus, when it has become clear that here has been a breach, but the extent of it is not yet known, a
+    notification in phases (see below) is a safe way to meet the notification obligations.
+
+54. Article 33(3) GDPR states that the controller “shall at least” provide this information with a notification,
+    so a controller can, if necessary, choose to provide further details. Different types of breaches
+    (confidentiality, integrity or availability) might require further information to be provided to fully
+    explain the circumstances of each case.
+
+    Example
+
+    As part of its notification to the supervisory authority, a controller may find it useful to name its
+    processor if it is at the root cause of a breach, particularly if this has led to an incident affecting the
+    personal data records of many other controllers that use the same processor.
+
+55. In any event, the supervisory authority may request further details as part of its investigation into a
+    breach.
+
+     2. Notification in phases
+56. Depending on the nature of a breach, further investigation by the controller may be necessary to
+    establish all of the relevant facts relating to the incident. Article 33(4) GDPR therefore states:
+
+    “Where, and in so far as, it is not possible to provide the information at the same time, the information
+    may be provided in phases without undue further delay.”
+
+57. This means that the GDPR recognises that controllers will not always have all of the necessary
+    information concerning a breach within 72 hours of becoming aware of it, as full and comprehensive
+    details of the incident may not always be available during this initial period. As such, it allows for a
+    notification in phases. It is more likely this will be the case for more complex breaches, such as some
+    types of cyber security incidents where, for example, an in-depth forensic investigation may be
+    necessary to fully establish the nature of the breach and the extent to which personal data have been
+    compromised. Consequently, in many cases the controller will have to do more investigation and
+    follow-up with additional information at a later point. This is permissible, providing the controller gives
+    reasons for the delay, in accordance with Article 33(1) GDPR. The EDPB recommends that when the
+    controller first notifies the supervisory authority, the controller should also inform the supervisory
+    authority if the controller does not yet have all the required information and will provide more details
+    later on. The supervisory authority should agree how and when additional information should be
+    provided. This does not prevent the controller from providing further information at any other stage,
+    if it becomes aware of additional relevant details about the breach that need to be provided to the
+    supervisory authority.
+
+58. The focus of the notification requirement is to encourage controllers to act promptly on a breach,
+    contain it and, if possible, recover the compromised personal data, and to seek relevant advice from
+    the supervisory authority. Notifying the supervisory authority within the first 72 hours can allow the
+    controller to make sure that decisions about notifying or not notifying individuals are correct.
+
+    Adopted                                                                                                 15
+
+59. However, the purpose of notifying the supervisory authority is not solely to obtain guidance on
+    whether to notify the affected individuals. It will be obvious in some cases that, due to the nature of
+    the breach and the severity of the risk, the controller will need to notify the affected individuals
+    without delay. For example, if there is an immediate threat of identity theft, or if special categories of
+    personal data 29 are disclosed online, the controller should act without undue delay to contain the
+    breach and to communicate it to the individuals concerned (see section III). In exceptional
+    circumstances, this might even take place before notifying the supervisory authority. More generally,
+    notification of the supervisory authority may not serve as a justification for failure to communicate the
+    breach to the data subject where it is required.
+
+60. It should also be clear that after making an initial notification, a controller could update the supervisory
+    authority if a follow-up investigation uncovers evidence that the security incident was contained and
+    no breach actually occurred. This information could then be added to the information already given to
+    the supervisory authority and the incident recorded accordingly as not being a breach. There is no
+    penalty for reporting an incident that ultimately transpires not to be a breach.
+
+    Example
+
+    A controller notifies the supervisory authority within 72 hours of detecting a breach that it has lost a
+    USB key containing a copy of the personal data of some of its customers. The USB key is later found
+    misfiled within the controller’s premises and recovered. The controller updates the supervisory
+    authority and requests the notification be amended.
+
+61. It should be noted that a phased approach to notification is already the case under the existing
+    obligations of Directive 2002/58/EC, Regulation 611/2013 and other self-reported incidents.
+
+         3. Delayed notifications
+62. Article 33(1) GDPR makes it clear that where notification to the supervisory authority is not made
+    within 72 hours, it shall be accompanied by reasons for the delay. This, along with the concept of
+    notification in phases, recognises that a controller may not always be able to notify a breach within
+    that time period, and that a delayed notification may be permissible.
+
+63. Such a scenario might take place where, for example, a controller experiences multiple, similar
+    confidentiality breaches over a short period of time, affecting large numbers of data subjects in the
+    same way. A controller could become aware of a breach and, whilst beginning its investigation, and
+    before notification, detect further similar breaches, which have different causes. Depending on the
+    circumstances, it may take the controller some time to establish the extent of the breaches and, rather
+    than notify each breach individually, the controller instead organises a meaningful notification that
+    represents several very similar breaches, with possible different causes. This could lead to notification
+    to the supervisory authority being delayed by more than 72 hours after the controller first becomes
+    aware of these breaches.
+
+64. Strictly speaking, each individual breach is a reportable incident. However, to avoid being overly
+    burdensome, the controller may be able to submit a “bundled” notification representing all these
+    breaches, provided that they concern the same type of personal data breached in the same way, over
+    a relatively short space of time. If a series of breaches take place that concern different types of
+    personal data, breached in different ways, then notification should proceed in the normal way, with
+    each breach being reported in accordance with Article 33.
+
 
 
 
     29
-         Ver artigo 9.º do RGPD.
+         See Article 9 GDPR.
 
-    Adotadas                                                                                           17
+    Adopted                                                                                                 16
 
-   responsável pelo tratamento e recuperada. O responsável pelo tratamento atualiza a autoridade de
-   controlo e solicita que a notificação seja alterada.
+65. Whilst the GDPR allows for delayed notifications to an extent, this should not be seen as something
+    that regularly takes place. It is worth pointing out that bundled notifications can also be made for
+    multiple similar breaches reported within 72 hours.
 
-61. É de salientar que uma abordagem faseada da notificação já existe ao abrigo das obrigações aplicáveis
-    da Diretiva 2002/58/CE e do Regulamento (UE) n.º 611/2013, e de outros incidentes comunicados pelo
-    próprio.
+    C. Cross-border breaches and breaches at non-EU establishments
+         1. Cross-border breaches
+66. Where there is cross-border processing 30 of personal data, a breach may affect data subjects in more
+    than one Member State. Article 33(1) GDPR makes it clear that when a breach has occurred, the
+    controller should notify the supervisory authority competent in accordance with Article 55 of the
+    GDPR 31. Article 55(1) GDPR says that:
 
-         3. Notificações atrasadas
-62. O artigo 33.º, n.º 1, do RGPD esclarece que, se a notificação à autoridade de controlo não for
-    transmitida no prazo de 72 horas, deve ser acompanhada dos motivos do atraso. Isto, juntamente com
-    o conceito de notificação por fases, leva a reconhecer que o responsável pelo tratamento nem sempre
-    pode ser capaz de notificar uma violação dentro desse prazo, e que pode ser admissível uma
-    notificação atrasada.
+    “Each supervisory authority shall be competent for the performance of the tasks assigned to and the
+    exercise of the powers conferred on it in accordance with this Regulation on the territory of its own
+    Member State.”
 
-63. Tal cenário pode ocorrer se, por exemplo, um responsável pelo tratamento for alvo de várias violações
-    de confidencialidade semelhantes num curto período de tempo, que afetem um grande número de
-    titulares de dados da mesma maneira. Um responsável pelo tratamento podia ter conhecimento de
-    uma violação e, ao iniciar a sua investigação, e antes da notificação, detetar outras violações
-    semelhantes com causas diferentes. Dependendo das circunstâncias, o responsável pelo tratamento
-    pode demorar algum tempo a apurar a dimensão das violações e, em vez de notificar cada uma das
-    violações individualmente, pode organizar uma notificação útil, que represente várias violações muito
-    semelhantes, com causas possíveis diferentes. Isso pode levar a que a notificação à autoridade de
-    controlo se atrase por mais de 72 horas após o responsável pelo tratamento ter tido conhecimento
-    dessas violações.
+67. However, Article 56(1) GDPR states:
 
-64. Em rigor, cada violação individual é um incidente cuja comunicação é obrigatória. No entanto, para
-    evitar que seja demasiado oneroso, o responsável pelo tratamento pode apresentar uma notificação
-    «agregada», que represente todas estas violações, desde que digam respeito ao mesmo tipo de dados
-    pessoais violados da mesma maneira, num espaço de tempo relativamente curto. Se ocorrerem várias
-    violações que digam respeito a diferentes tipos de dados pessoais, violados de maneiras diferentes,
-    então, a notificação deve prosseguir de forma normal, com cada violação a ser comunicada de acordo
-    com o artigo 33.º.
+    “Without prejudice to Article 55, the supervisory authority of the main establishment or of the single
+    establishment of the controller or processor shall be competent to act as lead supervisory authority for
+    the cross-border processing carried out by that controller or processor in accordance with the
+    procedure provided in Article 60.”
 
-65. Embora o RGPD permita, até certo ponto, notificações atrasadas, tal não deve ser visto como algo que
-    acontece frequentemente. Vale a pena salientar que as notificações agregadas também podem ser
-    efetuadas para violações múltiplas semelhantes comunicadas no prazo de 72 horas.
+68. Furthermore, Article 56(6) GDPR states:
 
-    C. Violações transfronteiriças e violações em estabelecimentos exteriores à UE
-         1. Violações transfronteiriças
-66. Quando existe um tratamento transfronteiriço 30 de dados pessoais, uma violação pode afetar titulares
-    de dados em mais de um Estado-Membro. O artigo 33.º, n.º 1, do RGPD esclarece que quando ocorre
-    uma violação, o responsável pelo tratamento deve notificar a autoridade de controlo competente de
-    acordo com o artigo 55.º do RGPD 31. O artigo 55.º, n.º 1, do RGPD dispõe o seguinte:
+    “The lead supervisory authority shall be the sole interlocutor of the controller or processor for the cross-
+    border processing carried out by that controller or processor.”
 
-   «As autoridades de controlo são competentes para prosseguir as atribuições e exercer os poderes que
-   lhes são conferidos pelo presente regulamento no território do seu próprio Estado-Membro».
+69. This means that whenever a breach takes place in the context of cross-border processing and
+    notification is required, the controller will need to notify the lead supervisory authority 32. Therefore,
+    when drafting its breach response plan, a controller must make an assessment as to which supervisory
+    authority is the lead supervisory authority that it will need to notify 33. This will allow the controller to
+    respond promptly to a breach and to meet its obligations in respect of Article 33. It should be clear
+    that in the event of a breach involving cross-border processing, notification must be made to the lead
+    supervisory authority, which is not necessarily where the affected data subjects are located, or indeed
+    where the breach has taken place. When notifying the lead authority, the controller should indicate,
+    where appropriate, whether the breach involves establishments located in other Member States, and
+    in which Member States data subjects are likely to have been affected by the breach. If the controller
+    has any doubt as to the identity of the lead supervisory authority then it should, at a minimum, notify
+    the local supervisory authority where the breach has taken place.
 
-67. No entanto, o artigo 56.º, n.º 1, do RGPD prevê o seguinte:
-
+         2. Breaches at non-EU establishments
+70. Article 3 GDPR concerns the territorial scope of the GDPR, including when it applies to the processing
+    of personal data by a controller or processor that is not established in the EU. In particular, Article 3(2)
+    GDPR states 34:
 
 
 
     30
-         Ver o artigo 4.º, n.º 23, do RGPD.
+       See Article 4(23) GDPR.
     31
-         Ver igualmente o considerando 122 do RGPD.
-
-    Adotadas                                                                                         18
-
-   «Sem prejuízo do disposto no artigo 55.º, a autoridade de controlo do estabelecimento principal ou do
-   estabelecimento único do responsável pelo tratamento ou do subcontratante é competente para agir
-   como autoridade de controlo principal para o tratamento transfronteiriço efetuado pelo referido
-   responsável pelo tratamento ou subcontratante nos termos do artigo 60.º».
-
-68. O artigo 56.º, n.º 6, do RGPD acrescenta:
-
-   «A autoridade de controlo principal é o único interlocutor do responsável pelo tratamento ou do
-   subcontratante no tratamento transfronteiriço efetuado pelo referido responsável pelo tratamento ou
-   subcontratante».
-
-69. Isto significa que, sempre que ocorra uma violação no contexto do tratamento transfronteiriço e seja
-    exigida notificação, o responsável pelo tratamento necessitará de notificar a autoridade de controlo
-    principal 32. Por conseguinte, ao elaborar o seu plano de resposta a violações, um responsável pelo
-    tratamento deve determinar qual a autoridade de controlo que corresponde à autoridade de controlo
-    principal que deverá notificar 33. Tal permitirá ao responsável pelo tratamento responder rapidamente
-    a uma violação e cumprir as suas obrigações no que respeita ao artigo 33.º. Deve ficar claro que no
-    caso de uma violação que envolva o tratamento transfronteiriço, a notificação deve ser feita à
-    autoridade de controlo principal, que não se encontra necessariamente onde os titulares de dados
-    afetados estão localizados, ou mesmo onde a violação ocorreu. Ao notificar a autoridade principal, o
-    responsável pelo tratamento deve indicar, se necessário, se a violação envolve estabelecimentos
-    localizados noutros Estados-Membros e em que Estados-Membros é provável que os titulares de dados
-    tenham sido afetados pela violação. Se o responsável pelo tratamento tiver alguma dúvida quanto à
-    identidade da autoridade de controlo principal deve, pelo menos, notificar a autoridade de controlo
-    local onde a violação ocorreu.
-
-         2. Violações em estabelecimentos exteriores à UE
-70. O artigo 3.º do RGPD diz respeito ao âmbito de aplicação territorial do RGPD, inclusive quando é
-    aplicável ao tratamento de dados pessoais efetuado por um responsável pelo tratamento ou
-    subcontratante não estabelecido na UE. Em especial, o artigo 3.º, n.º 2, do RGPD especifica o
-    seguinte 34:
-
-   «O presente regulamento aplica-se ao tratamento de dados pessoais de titulares residentes no
-   território da União, efetuado por um responsável pelo tratamento ou subcontratante não estabelecido
-   na União, quando as atividades de tratamento estejam relacionadas com:
-
-   (a) A oferta de bens ou serviços a esses titulares de dados na União, independentemente da exigência
-       de os titulares dos dados procederem a um pagamento; ou
-
-   (b) o controlo do seu comportamento, desde que esse comportamento tenha lugar na União».
-
-71. O artigo 3.º, n.º 3, do RGPD também é relevante e refere o seguinte 35:
-
-   «O presente regulamento aplica-se ao tratamento de dados pessoais por um responsável pelo
-   tratamento estabelecido não na União, mas num lugar em que se aplique o direito de um
-   Estado-Membro por força do direito internacional público».
-
-
-
+       See also Recital 122 GDPR.
     32
-       Ver orientações do GT29 para a identificação da autoridade de controlo principal de um responsável pelo
-    tratamento ou subcontratante, disponível em http://ec.europa.eu/newsroom/document.cfm?doc id=44102.
+       See WP29 Guidelines for identifying a controller or processor’s lead supervisory authority, available at
+    http://ec.europa.eu/newsroom/document.cfm?doc_id=44102
     33
-       Pode encontrar-se uma lista de dados de contacto de todas as autoridades nacionais de proteção de dados
-    europeias em: https://edpb.europa.eu/about-edpb/about-edpb/members pt
+        A list of contact details for all European national data protection authorities can be found at:
+    https://edpb.europa.eu/about-edpb/about-edpb/members_en
     34
-       Ver igualmente considerandos 23 e 24 do RGPD.
+       See also Recitals 23 and 24 GDPR.
+
+    Adopted                                                                                                  17
+
+    “This Regulation applies to the processing of personal data of data subjects who are in the Union by a
+    controller or processor not established in the Union, where the processing activities are related to:
+
+    (a) the offering of goods or services, irrespective of whether a payment of the data subject is required,
+        to such data subjects in the Union; or
+
+    (b) the monitoring of their behaviour as far as their behaviour takes place within the Union.”
+
+71. Article 3(3) GDPR is also relevant and states 35:
+
+    “This Regulation applies to the processing of personal data by a controller not established in the Union,
+    but in a place where Member State law applies by virtue of public international law.”
+
+72. Where a controller not established in the EU is subject to Article 3(2) or Article 3(3) GDPR and
+    experiences a breach, it is therefore still bound by the notification obligations under Articles 33 and 34
+    GDPR. Article 27 GDPR requires a controller (and a processor) to designate a representative in the EU
+    where Article 3(2) GDPR applies.
+
+73. However, the mere presence of a representative in a Member State does not trigger the one-stop-
+    shop system. 36 For this reason the breach will need to be notified to every supervisory authority for
+    which affected data subjects reside in their Member State. This (These) notification(s) shall be the
+    responsibility of the controller. 37
+
+74. Similarly, where a processor is subject to Article 3(2) GDPR, it will be bound by the obligations on
+    processors, of particular relevance here, the duty to notify a breach to the controller under Article
+    33(2) GDPR.
+
+    D. Conditions where notification is not required
+75. Article 33(1) GDPR makes it clear that breaches that are “unlikely to result in a risk to the rights and
+    freedoms of natural persons” do not require notification to the supervisory authority. An example
+    might be where personal data are already publically available and a disclosure of such data does not
+    constitute a likely risk to the individual. This is in contrast to existing breach notification requirements
+    for providers of publically available electronic communications services in Directive 2009/136/EC that
+    state all relevant breaches have to be notified to the competent authority.
+
+76. In its Opinion 03/2014 on breach notification 38 , WP29 explained that a confidentiality breach of
+    personal data that were encrypted with a state of the art algorithm is still a personal data breach, and
+    has to be notified. However, if the confidentiality of the key is intact – i.e., the key was not
+    compromised in any security breach, and was generated so that it cannot be ascertained by available
+    technical means by any person who is not authorised to access it – then the data are in principle
+    unintelligible. Thus, the breach is unlikely to adversely affect individuals and therefore would not
+
+
+
+
     35
-       Ver igualmente o considerando 25 do RGPD.
-
-    Adotadas                                                                                              19
-
-72. Se um responsável pelo tratamento não estabelecido na UE estiver sujeito ao artigo 3.º, n.º 2, ou ao
-    artigo 3.º, n.º 3, do RGPD e tiver sido alvo de uma violação, continua vinculado pelas obrigações de
-    notificação nos termos dos artigos 33.º e 34.º do RGPD. O artigo 27.º do RGPD exige que um
-    responsável pelo tratamento (e subcontratante) designe um representante na UE onde for aplicável o
-    artigo 3.º, n.º 2, do RGPD.
-
-73. No entanto, a mera presença de um representante num Estado-Membro não desencadeia o sistema
-    de balcão único 36. Por este motivo, a violação terá de ser notificada a todas as autoridades de controlo
-    cujos titulares de dados afetados residam no seu Estado-Membro. Esta(s) notificação(ões) é (são) da
-    responsabilidade do responsável pelo tratamento 37.
-
-74. De igual modo, se um subcontratante estiver sujeito ao artigo 3.º, n.º 2, do RGPD ficará vinculado pelas
-    obrigações que incumbem aos subcontratantes, de especial pertinência aqui, o dever de notificar o
-    responsável pelo tratamento de acordo com o artigo 33.º, n.º 2, do RGPD.
-
-    D. Condições em que não é exigida notificação
-75. O artigo 33.º, n.º 1, do RGPD esclarece que as violações que «não sejam suscetíveis de resultar num
-    risco para os direitos e liberdades das pessoas singulares» não exigem notificação à autoridade de
-    controlo. Um exemplo disto pode ser quando os dados pessoais já se encontram disponíveis ao público
-    e uma divulgação desses dados não constitui um risco provável para a pessoa. Isto contraria os
-    requisitos de notificação de violações para os fornecedores de serviços de comunicações eletrónicas
-    acessíveis ao público existentes na Diretiva 2009/136/CE, que prevê que todas as violações relevantes
-    devem ser notificadas à autoridade competente.
-
-76. No seu Parecer 03/2014 relativo à notificação de violação 38, o GT29 explicou que uma violação da
-    confidencialidade de dados pessoais que tenham sido encriptados com um algoritmo de ponta
-    constitui, ainda assim, uma violação de dados pessoais, e deve ser notificada. No entanto, se a
-    confidencialidade da chave estiver intacta – ou seja, a chave não foi comprometida numa qualquer
-    violação da segurança e tiver sido gerada de modo que não possa ser determinada através de meios
-    eletrónicos disponíveis por qualquer pessoa que não esteja autorizada a aceder-lhe – então, os dados
-    são, em princípio, ininteligíveis. Logo, é pouco provável que a violação afete negativamente as pessoas
-    em causa e, por conseguinte, não exige a comunicação a essas pessoas 39. No entanto, mesmo quando
-    os dados se encontram encriptados, uma perda ou alteração podem ter consequências negativas para
-    os titulares de dados quando o responsável pelo tratamento não possui cópias de segurança
-    adequadas. Neste caso, a comunicação aos titulares de dados seria exigida, mesmo que os próprios
-    dados tivessem sido sujeitos a medidas de encriptação adequadas.
-
-77. O GT29 explicou igualmente que este também seria o caso se os dados pessoais, como palavras-passe,
-    foram colocados em hash de forma segura e salgados (salted), o valor hash foi calculado com uma
-    função hash de ponta encriptada com chave, a chave utilizada para codificar os dados não foi posta
-
-
+       See also Recital 25 GDPR.
     36
-       Ver orientações do GT29 para a identificação da autoridade de controlo principal de um responsável pelo
-    tratamento ou subcontratante, disponível em http://ec.europa.eu/newsroom/document.cfm?doc id=44102.
+       See WP29 Guidelines for identifying a controller or processor’s lead supervisory authority, available at
+    http://ec.europa.eu/newsroom/document.cfm?doc_id=44102
     37
-       Em conformidade com as Orientações 3/2018 sobre o âmbito de aplicação territorial do RGPD (artigo 3.º),
-    disponíveis em https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-32018-territorial-
-    scope-gdpr-article-3-version pt, o CEPD considera que a função de representante na União não é compatível
-    com o papel de encarregado externo da proteção de dados («encarregado da proteção de dados»), pelo que a
-    responsabilidade de notificar a autoridade de controlo em caso de violação de dados pessoais continua a ser a
-    do responsável pelo tratamento, em conformidade com o artigo 27.º, n.º 5, do RGPD. No entanto, um
-    representante pode participar no processo de notificação se tal tiver sido explicitamente estipulado no mandato
-    escrito.
+        In line with guidelines 3/2018 on the territorial scope of the GDPR (Article 3), available at
+    https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-32018-territorial-scope-gdpr-
+    article-3-version_en, the EDPB considers the function of a representative in the Union as not compatible with
+    the role of an external data protection officer (“DPO”), therefore the responsibility to notify the supervisory
+    authority in case of a personal data breach remains that of the controller in line with Article 27(5) GDPR. A
+    representative can however be involved in the notification process if this has been explicitly stipulated in the
+    written mandate.
     38
-         Parecer 03/2014 do GT29, relativo à notificação da violação de dados pessoais
-    http://ec.europa.eu/justice/data-protection/article29/documentation/opinion-
-    recommendation/files/2014/wp213 en.pdf.
+       WP29, Opinion 03/2014 on breach notification, http://ec.europa.eu/justice/data-
+    protection/article29/documentation/opinion-recommendation/files/2014/wp213_en.pdf
+
+    Adopted                                                                                                     18
+
+    require communication to those individuals 39 . However, even where data is encrypted, a loss or
+    alteration can have negative consequences for data subjects where the controller has no adequate
+    backups. In that instance communication to data subjects would be required, even if the data itself
+    was subject to adequate encryption measures.
+
+77. WP29 also explained this would similarly be the case if personal data, such as passwords, were securely
+    hashed and salted, the hashed value was calculated with a state of the art cryptographic keyed hash
+    function, the key used to hash the data was not compromised in any breach, and the key used to hash
+    the data has been generated in a way that it cannot be ascertained by available technological means
+    by any person who is not authorised to access it.
+
+78. Consequently, if personal data have been made essentially unintelligible to unauthorised parties and
+    where the data are a copy or a backup exists, a confidentiality breach involving properly encrypted
+    personal data may not need to be notified to the supervisory authority. This is because such a breach
+    is unlikely to pose a risk to individuals’ rights and freedoms. This of course means that the individual
+    would not need to be informed either as there is likely no high risk. However, it should be borne in
+    mind that while notification may initially not be required if there is no likely risk to the rights and
+    freedoms of individuals, this may change over time and the risk would have to be re-evaluated. For
+    example, if the key is subsequently found to be compromised, or a vulnerability in the encryption
+    software is exposed, then notification may still be required.
+
+79. Furthermore, it should be noted that if there is a breach where there are no backups of the encrypted
+    personal data then there will have been an availability breach, which could pose risks to individuals
+    and therefore may require notification. Similarly, where a breach occurs involving the loss of encrypted
+    data, even if a backup of the personal data exists this may still be a reportable breach, depending on
+    the length of time taken to restore the data from that backup and the effect that lack of availability
+    has on individuals. As Article 32(1)(c) GDPR states, an important factor of security is the “the ability to
+    restore the availability and access to personal data in a timely manner in the event of a physical or
+    technical incident”.
+
+   Example
+
+   A breach that would not require notification to the supervisory authority would be the loss of a
+   securely encrypted mobile device, utilised by the controller and its staff. Provided the encryption key
+   remains within the secure possession of the controller and this is not the sole copy of the personal
+   data then the personal data would be inaccessible to an attacker. This means the breach is unlikely to
+   result in a risk to the rights and freedoms of the data subjects in question. If it later becomes evident
+   that the encryption key was compromised or that the encryption software or algorithm is vulnerable,
+   then the risk to the rights and freedoms of natural persons will change and thus notification may now
+   be required.
+
+80. However, a failure to comply with Article 33 GDPR will exist where a controller does not notify the
+    supervisory authority in a situation where the data has not actually been securely encrypted.
+    Therefore, when selecting encryption software controllers should carefully weigh the quality and the
+    proper implementation of the encryption offered, understand what level of protection it actually
+    provides and whether this is appropriate to the risks presented. Controllers should also be familiar
+    with the specifics of how their encryption product functions. For instance, a device may be encrypted
+    once it is switched off, but not while it is in stand-by mode. Some products using encryption have
+    “default keys” that need to be changed by each customer to be effective. The encryption may also be
+    considered currently adequate by security experts, but may become outdated in a few years’ time,
+
+
+
+
     39
-       Ver também o artigo 4.º, n.os 1 e 2, do Regulamento (UE) n.º 611/2013.
+         See also Article 4(1) and (2) of Regulation 611/2013.
 
-    Adotadas                                                                                                   20
+    Adopted                                                                                                19
 
-    em causa em qualquer violação da segurança, e essa mesma chave foi gerada de modo a que não possa
-    ser determinada, através de meios eletrónicos disponíveis, por qualquer pessoa que não esteja
-    autorizada a aceder a ela.
+    meaning it is questionable whether the data would be sufficiently encrypted by that product and
+    provide an appropriate level of protection.
 
-78. Consequentemente, se os dados pessoais foram tornados essencialmente ininteligíveis para partes
-    não autorizadas e sempre que os dados forem uma cópia ou exista uma cópia de segurança, uma
-    violação da confidencialidade que envolva dados pessoais encriptados pode não precisar de ser
-    notificada à autoridade de controlo. Isto porque tal violação não é suscetível de pôr em risco os direitos
-    e liberdades das pessoas singulares. Tal significa, obviamente, que a pessoa também não necessitaria
-    de ser informada, uma vez que provavelmente não existe risco elevado. No entanto, há que ter
-    presente que, embora a notificação possa não ser exigida inicialmente, se não existir risco provável
-    para os direitos e liberdades das pessoas, isto pode mudar com o decorrer do tempo e o risco teria de
-    ser reavaliado. Por exemplo, se a chave for posteriormente considerada comprometida, ou for exposta
-    uma vulnerabilidade no software de encriptação, então, a notificação pode ser exigida.
+    III. ARTICLE 34 – COMMUNICATION TO THE DATA SUBJECT
+    A. Informing individuals
+81. In certain cases, as well as notifying the supervisory authority, the controller is also required to
+    communicate a breach to the affected individuals.
 
-79. Além disso, deve observar-se que, se existir uma violação quando não existem cópias de segurança
-    dos dados pessoais encriptados, então, terá ocorrido uma violação da disponibilidade, que pode
-    colocar riscos para as pessoas e, por conseguinte, exigir notificação. De igual modo, sempre que ocorre
-    uma violação que envolve a perda de dados encriptados, mesmo que exista uma cópia de segurança
-    dos dados pessoais, esta pode ser uma violação comunicável, dependendo do tempo que se demora a
-    restaurar os dados a partir dessa cópia de segurança e o efeito que a falta de disponibilidade tem para
-    as pessoas. Como estabelecido no artigo 32.º, n.º 1, alínea c), do RGPD, um importante fator de
-    segurança é «a capacidade de restabelecer a disponibilidade e o acesso aos dados pessoais de forma
-    atempada no caso de um incidente físico ou técnico».
+    Article 34(1) GDPR states:
 
-   Exemplo
+    “When the personal data breach is likely to result in a high risk to the rights and freedoms of natural
+    persons, the controller shall communicate the personal data breach to the data subject without undue
+    delay.”
 
-   Uma violação que não exigiria notificação à autoridade de controlo seria a perda de um dispositivo
-   móvel encriptado de forma segura, utilizado pelo responsável pelo tratamento e pelo seu pessoal.
-   Desde que a chave de encriptação permaneça em segurança na posse do responsável pelo tratamento
-   e que esta não seja a única cópia dos dados pessoais, então, os dados pessoais não estariam acessíveis
-   a um atacante. Isto significa que a violação não é suscetível de resultar num risco para os direitos e
-   liberdades dos titulares de dados em causa. Se, mais tarde, se tornar evidente que a chave de
-   encriptação foi comprometida ou que o software ou algoritmo de encriptação é vulnerável, o risco
-   para os direitos e liberdades das pessoas singulares muda e, assim, a notificação pode ser exigida.
+82. Controllers should recall that notification to the supervisory authority is mandatory unless there is
+    unlikely to be a risk to the rights and freedoms of individuals as a result of a breach. In addition, where
+    there is likely a high risk to the rights and freedoms of individuals as the result of a breach, individuals
+    must also be informed. The threshold for communicating a breach to individuals is therefore higher
+    than for notifying supervisory authorities and not all breaches will therefore be required to be
+    communicated to individuals, thus protecting them from unnecessary notification fatigue.
 
-80. No entanto, existirá um incumprimento do artigo 33.º do RGPD sempre que um responsável pelo
-    tratamento não notificar a autoridade de controlo numa situação em que os dados não tenham sido
-    verdadeiramente encriptados de forma segura. Por conseguinte, quando escolhem o software de
-    encriptação, os responsáveis pelo tratamento devem avaliar cuidadosamente a qualidade e a aplicação
-    adequada da encriptação oferecida, compreender qual o nível de proteção que este realmente
-    proporciona e se é adequado aos riscos apresentados. Os responsáveis pelo tratamento devem
-    também estar familiarizados com as especificidades de como o seu produto de encriptação funciona.
-    Por exemplo, um dispositivo pode ser encriptado assim que é desligado, mas não enquanto está em
-    modo de espera. Alguns produtos que utilizam a encriptação têm «chaves predefinidas» que devem
-    ser alteradas por cada cliente para que sejam eficazes. A encriptação também pode ser considerada
-    atualmente adequada por peritos em segurança, mas pode ficar desatualizada em poucos anos, o que
-    significa que é questionável se os dados seriam suficientemente encriptados por esse produto e se
-    este fornece um nível adequado de proteção.
+83. The GDPR states that communication of a breach to individuals should be made “without undue delay,”
+    which means as soon as possible. The main objective of notification to individuals is to provide specific
+    information about steps they should take to protect themselves 40. As noted above, depending on the
+    nature of the breach and the risk posed, timely communication will help individuals to take steps to
+    protect themselves from any negative consequences of the breach.
 
+84. Annex B of these Guidelines provides a non-exhaustive list of examples of when a breach may be likely
+    to result in high risk to individuals and consequently instances when a controller will have to notify a
+    breach to those affected.
 
+    B. Information to be provided
+85. When notifying individuals, Article 34(2) GDPR specifies that:
 
+    “The communication to the data subject referred to in paragraph 1 of this Article shall describe in clear
+    and plain language the nature of the personal data breach and contain at least the information and
+    measures referred to in points (b), (c) and (d) of Article 33(3).”
 
-    Adotadas                                                                                              21
+86. According to this provision, the controller should at least provide the following information:
 
-    III. ARTIGO 34.º – COMUNICAÇÃO AO TITULAR DOS DADOS
-    A. Informar as pessoas singulares
-81. Nalguns casos, para além de notificar a autoridade de controlo, também é exigido que o responsável
-    pelo tratamento comunique uma violação às pessoas afetadas.
+           •   a description of the nature of the breach;
+           •   the name and contact details of the data protection officer or other contact point;
+           •   a description of the likely consequences of the breach; and
+           •   a description of the measures taken or proposed to be taken by the controller to address the
+               breach, including, where appropriate, measures to mitigate its possible adverse effects.
 
-   O artigo 34.º, n.º 1, do RGPD estabelece o seguinte:
-
-   «Quando a violação dos dados pessoais for suscetível de implicar um elevado risco para os direitos e
-   liberdades das pessoas singulares, o responsável pelo tratamento comunica a violação de dados
-   pessoais ao titular dos dados sem demora injustificada».
-
-82. Os responsáveis pelo tratamento devem recordar-se de que a notificação à autoridade de controlo é
-    obrigatória, a menos que não seja suscetível a existência de um risco para os direitos e liberdades das
-    pessoas em resultado de uma violação. Além disso, quando for suscetível a existência de um risco
-    elevado para os direitos e liberdades das pessoas em resultado de uma violação, as pessoas também
-    devem ser informadas. O limite para a comunicação de uma violação às pessoas é, por conseguinte,
-    mais elevado do que para a notificação das autoridades de controlo e, portanto, nem todas as violações
-    terão de ser comunicadas às pessoas, protegendo-as assim da desnecessária fadiga da notificação.
-
-83. O RGPD estabelece que a comunicação de uma violação às pessoas singulares deve ser efetuada «sem
-    demora injustificada», o que significa o mais rapidamente possível. O objetivo principal da notificação
-    às pessoas singulares consiste na prestação de informações específicas acerca das medidas que devem
-    tomar para se protegerem 40. Como observado acima, dependendo da natureza da violação e do risco
-    que coloca, a comunicação atempada irá ajudar as pessoas a tomarem medidas para se protegerem
-    de quaisquer consequências negativas de uma violação.
-
-84. O anexo B das presentes orientações fornece uma lista não exaustiva de exemplos de quando uma
-    violação é suscetível de resultar num risco elevado para as pessoas e, consequentemente, as
-    circunstâncias em que um responsável pelo tratamento terá que notificar uma violação aos afetados.
-
-    B. Informações a comunicar
-85. No que toca a notificar as pessoas, o artigo 34.º, n.º 2, do RGPD especifica o seguinte:
-
-   «A comunicação ao titular dos dados a que se refere o n.º 1 do presente artigo descreve em linguagem
-   clara e simples a natureza da violação dos dados pessoais e fornece, pelo menos, as informações e
-   medidas previstas no artigo 33.º, n.º 3, alíneas b), c) e d)».
-
-86. De acordo com esta disposição, o responsável pelo tratamento deve, pelo menos, prestar as seguintes
-    informações:
-
-           •   uma descrição da natureza da violação;
-           •   o nome e os contactos do encarregado da proteção de dados ou de outro ponto de contacto;
-           •   uma descrição das consequências prováveis da violação; e
-           •   uma descrição das medidas adotadas ou propostas pelo responsável pelo tratamento para
-               reparar a violação, incluindo, se for caso disso, medidas para atenuar os seus eventuais efeitos
-               negativos.
-
-87. Como exemplo das medidas tomadas para reparar a violação e atenuar os seus eventuais efeitos
-    adversos, o responsável pelo tratamento poderia declarar que, após ter notificado a violação à
-
+87. As an example of the measures taken to address the breach and to mitigate its possible adverse effects,
+    the controller could state that, after having notified the breach to the relevant supervisory authority,
+    the controller has received advice on managing the breach and lessening its impact. The controller
+    should also, where appropriate, provide specific advice to individuals to protect themselves from
 
 
     40
-         Ver igualmente o considerando 86 do RGPD.
+         See also Recital 86 GDPR.
 
-    Adotadas                                                                                                22
+    Adopted                                                                                                 20
 
-   autoridade de controlo relevante, recebeu aconselhamento sobre como gerir a violação e diminuir o
-   seu impacto. O responsável pelo tratamento deve também, se necessário, prestar aconselhamento
-   específico às pessoas para que estas se protejam de possíveis consequências adversas da violação,
-   como a redefinição de palavras-passe no caso das suas credenciais de acesso terem sido
-   comprometidas. Uma vez mais, o responsável pelo tratamento pode optar por fornecer informação
-   para além da que aqui é exigida.
+    possible adverse consequences of the breach, such as resetting passwords in the case where their
+    access credentials have been compromised. Again, a controller can choose to provide information in
+    addition to what is required here.
 
-   C. Contactar as pessoas singulares
-88. Em princípio, a violação relevante deve ser comunicada diretamente aos titulares de dados afetados,
-    a menos que isso implique um esforço desproporcionado. Nesse caso, deve ser feita uma comunicação
-    pública ou tomada uma medida semelhante através da qual os titulares dos dados sejam informados
-    de forma igualmente eficaz (artigo 34.º, n.º 3, alínea c), do RGPD).
+    C. Contacting individuals
+88. In principle, the relevant breach should be communicated to the affected data subjects directly, unless
+    doing so would involve a disproportionate effort. In such a case, there shall instead be a public
+    communication or similar measure whereby the data subjects are informed in an equally effective
+    manner (Article 34(3)(c) GDPR).
 
-89. Devem ser utilizadas mensagens específicas ao comunicar uma violação aos titulares de dados e não
-    devem ser enviadas com outras informações, tais como atualizações regulares, boletins informativos
-    ou mensagens normalizadas. Isto ajuda a tornar a comunicação de uma violação clara e transparente.
+89. Dedicated messages should be used when communicating a breach to data subjects and they should
+    not be sent with other information, such as regular updates, newsletters, or standard messages. This
+    helps to make the communication of the breach to be clear and transparent.
 
-90. Os exemplos de métodos de comunicação transparente incluem o envio direto de mensagens (por
-    exemplo, correio eletrónico, SMS, mensagem direta), faixas ou notificação de sítios Web
-    proeminentes, comunicações postais e anúncios em destaque nos meios de comunicação impressos.
-    Uma notificação confinada apenas a um comunicado de imprensa ou blogue empresarial não seria um
-    meio eficaz para comunicar uma violação a uma pessoa singular. O CEPD recomenda que os
-    responsáveis pelo tratamento escolham um meio que maximize a possibilidade de comunicar
-    informações de forma adequada a todas as pessoas afetadas. Dependendo das circunstâncias, isto
-    pode implicar que o responsável pelo tratamento utilize vários métodos de comunicação, ao invés de
-    utilizar um único canal de contacto.
+90. Examples of transparent communication methods include direct messaging (e.g. email, SMS, direct
+    message), prominent website banners or notification, postal communications and prominent
+    advertisements in print media. A notification solely confined within a press release or corporate blog
+    would not be an effective means of communicating a breach to an individual. The EDPB recommends
+    that controllers should choose a means that maximizes the chance of properly communicating
+    information to all affected individuals. Depending on the circumstances, this may mean the controller
+    employs several methods of communication, as opposed to using a single contact channel.
 
-91. Os responsáveis pelo tratamento também podem necessitar de garantir que a comunicação esteja
-    acessível em formatos alternativos apropriados e línguas relevantes, por forma a assegurar que as
-    pessoas são capazes de compreender a informação que lhes está a ser prestada. Por exemplo, ao
-    comunicar uma violação a uma pessoa, a língua utilizada durante o curso normal da atividade anterior
-    com o destinatário será, geralmente, apropriada. No entanto, se a violação afetar titulares de dados
-    com quem o responsável pelo tratamento não interagiu previamente, ou em especial aqueles que
-    residem num Estado-Membro ou num país terceiro diferente daquele onde o responsável pelo
-    tratamento se encontra estabelecido, a comunicação na língua nacional local pode ser aceitável, tendo
-    em conta o recurso exigido. O que é importante é ajudar os titulares de dados a compreender a
-    natureza da violação e as medidas que podem tomar para se protegerem.
+91. Controllers may also need to ensure that the communication is accessible in appropriate alternative
+    formats and relevant languages to ensure individuals are able to understand the information being
+    provided to them. For example, when communicating a breach to an individual, the language used
+    during the previous normal course of business with the recipient will generally be appropriate.
+    However, if the breach affects data subjects who the controller has not previously interacted with, or
+    particularly those who reside in a different Member State or other non-EU country from where the
+    controller is established, communication in the local national language could be acceptable, taking into
+    account the resource required. The key is to help data subjects understand the nature of the breach
+    and steps they can take to protect themselves.
 
-92. Os responsáveis pelo tratamento são quem está em melhor posição para determinar o canal de
-    contacto mais adequado para comunicar a violação às pessoas, sobretudo se interagem com os seus
-    clientes frequentemente. No entanto, é evidente que o responsável pelo tratamento deve ter cuidado
-    ao utilizar um canal de contacto comprometido pela violação, pois esse canal também pode ser
-    utilizado por atacantes a fazerem-se passar pelo responsável pelo controlo.
+92. Controllers are best placed to determine the most appropriate contact channel to communicate a
+    breach to individuals, particularly if they interact with their customers on a frequent basis. However,
+    clearly a controller should be wary of using a contact channel compromised by the breach as this
+    channel could also be used by attackers impersonating the controller.
 
-93. Simultaneamente, o considerando 86 do RGPD explica o seguinte:
+93. At the same time, Recital 86 GDPR explains that:
 
+   “Such communications to data subjects should be made as soon as reasonably feasible and in close
+   cooperation with the supervisory authority, respecting guidance provided by it or by other relevant
+   authorities such as law-enforcement authorities. For example, the need to mitigate an immediate risk
+   of damage would call for prompt communication with data subjects whereas the need to implement
+   appropriate measures against continuing or similar personal data breaches may justify more time for
+   communication.”
 
+94. Controllers might therefore wish to contact and consult the supervisory authority not only to seek
+    advice about informing data subjects about a breach in accordance with Article 34, but also on the
+    appropriate messages to be sent to, and the most appropriate way to contact, individuals.
 
-   «Essa comunicação aos titulares dos dados deverá ser efetuada logo que seja razoavelmente possível,
-   em estreita cooperação com a autoridade de controlo e em cumprimento das orientações fornecidas
-   por esta ou por outras autoridades competentes, como as autoridades de polícia. Por exemplo, a
-   necessidade de atenuar um risco imediato de prejuízo exigirá uma pronta comunicação aos titulares
-   dos dados, mas a necessidade de aplicar medidas adequadas contra violações de dados pessoais
-   recorrentes ou similares poderá justificar um período mais alargado para a comunicação».
+95. Linked to this is the advice given in Recital 88 GDPR that notification of a breach should “take into
+    account the legitimate interests of law-enforcement authorities where early disclosure could
+    unnecessarily hamper the investigation of the circumstances of a personal data breach”. This may
+    mean that in certain circumstances, where justified, and on the advice of law-enforcement authorities,
+    the controller may delay communicating the breach to the affected individuals until such time as it
 
+    Adopted                                                                                             21
 
+    would not prejudice such investigations. However, data subjects would still need to be promptly
+    informed after this time.
 
-   Adotadas                                                                                          23
+96. Whenever it is not possible for the controller to communicate a breach to an individual because there
+    is insufficient data stored to contact the individual, in that particular circumstance the controller should
+    inform the individual as soon as it is reasonably feasible to do so (e.g. when an individual exercises
+    their Article 15 right to access personal data and provides the controller with necessary additional
+    information to contact them).
 
-94. Por conseguinte, os responsáveis pelo tratamento podem desejar contactar e consultar a autoridade
-    de controlo, não apenas para obterem aconselhamento sobre como informar os titulares de dados de
-    uma violação em conformidade com o artigo 34.º, mas também sobre as mensagens apropriadas a
-    enviar e a maneira mais apropriada para contactar as pessoas singulares.
+    D. Conditions where communication is not required
+97. Article 34(3) GDPR states three conditions that, if met, do not require notification to individuals in the
+    event of a breach. These are:
 
-95. O considerando 88 do RGPD contém uma orientação relacionada com o que precede, ou seja, que a
-    notificação de uma violação deve «ter em conta os legítimos interesses das autoridades de polícia nos
-    casos em que a divulgação precoce de informações possa dificultar desnecessariamente a investigação
-    das circunstâncias da violação de dados pessoais». Isso pode significar que, em determinadas
-    circunstâncias, sempre que se justifique e mediante o aconselhamento das autoridades de polícia, o
-    responsável pelo tratamento pode atrasar a comunicação da violação às pessoas afetadas até que isso
-    não prejudique essas investigações. No entanto, os titulares de dados ainda precisariam de ser
-    informados imediatamente após esse período.
+         •   The controller has applied appropriate technical and organisational measures to protect
+             personal data prior to the breach, in particular those measures that render personal data
+             unintelligible to any person who is not authorised to access it. This could, for example, include
+             protecting personal data with state-of-the-art encryption, or by tokenization.
+         •   Immediately following a breach, the controller has taken steps to ensure that the high risk
+             posed to individuals’ rights and freedoms is no longer likely to materialise. For example,
+             depending on the circumstances of the case, the controller may have immediately identified
+             and taken action against the individual who has accessed personal data before they were able
+             to do anything with it. Due regard still needs to be given to the possible consequences of any
+             breach of confidentiality, again, depending on the nature of the data concerned.
+         •   It would involve disproportionate effort 41 to contact individuals, perhaps where their contact
+             details have been lost as a result of the breach or are not known in the first place. For example,
+             the warehouse of a statistical office has flooded and the documents containing personal data
+             were stored only in paper form. Instead, the controller must make a public communication or
+             take a similar measure, whereby the individuals are informed in an equally effective manner.
+             In the case of disproportionate effort, technical arrangements could also be envisaged to
+             make information about the breach available on demand, which could prove useful to those
+             individuals who may be affected by a breach, but the controller cannot otherwise contact.
 
-96. Sempre que não seja possível ao responsável pelo tratamento comunicar uma violação a uma pessoa
-    singular devido à insuficiência de dados armazenados para contactar a mesma, nessa circunstância
-    específica, o responsável pelo tratamento deve informar a pessoa logo que razoavelmente possível
-    (por exemplo, quando uma pessoa exerce o seu direito previsto no artigo 15.º de aceder aos dados
-    pessoais e fornece ao responsável pelo tratamento informação suplementar para a contactarem).
+98. In accordance with the accountability principle controllers should be able to demonstrate to the
+    supervisory authority that they meet one or more of these conditions 42. It should be borne in mind
+    that while notification may initially not be required if there is no risk to the rights and freedoms of
+    natural persons, this may change over time and the risk would have to be re-evaluated.
 
-   D. Condições em que não é exigida comunicação
-97. O artigo 34.º, n.º 3, do RGPD prevê três condições que, se preenchidas, não exigem notificação às
-    pessoas singulares em caso de violação. A saber:
-
-        •   O responsável pelo tratamento tiver aplicado medidas técnicas e organizativas adequadas
-            para proteger os dados pessoais antes da violação, especialmente medidas que tornem os
-            dados pessoais incompreensíveis para qualquer pessoa não autorizada a aceder-lhes. Tal pode
-            incluir, por exemplo, a proteção de dados pessoais com encriptação de ponta, ou através de
-            codificação.
-        •   Imediatamente a seguir a uma violação, o responsável pelo tratamento tiver tomado medidas
-            para assegurar que o risco elevado colocado aos direitos e liberdades das pessoas singulares
-            já não é suscetível de se concretizar. Por exemplo, dependendo das circunstâncias do caso, o
-            responsável pelo tratamento pode ter identificado imediatamente e tomado medidas contra
-            a pessoa que acedeu aos dados pessoais antes de esta ter conseguido fazer alguma coisa com
-            eles. Ainda devem ser tidas em devida consideração as possíveis consequências de qualquer
-            violação da confidencialidade, dependendo, mais uma vez, da natureza dos dados em causa.
-        •   Contactar as pessoas singulares implicar um esforço desproporcionado 41, talvez quando os
-            seus dados de contacto se tiverem perdido em resultado da violação ou nunca tiverem sido
-            conhecidos. Por exemplo, o armazém de um gabinete de estatística ficou inundado e os
-            documentos que continham dados pessoais encontravam-se armazenados apenas em papel.
-            Nesse caso, o responsável pelo tratamento deve fazer uma comunicação pública ou tomar
-            uma medida semelhante através da qual as pessoas singulares são informadas de forma
-            igualmente eficaz. No caso de um esforço desproporcionado, também poderiam ser previstas
-            disposições técnicas para disponibilizar a informação sobre a violação a pedido, o que poderia
-            ser útil para aquelas pessoas que podem ser afetadas por uma violação, mas que o
-            responsável pelo controlo não consegue contactar.
-
-98. De acordo com o princípio da responsabilidade, os responsáveis pelo tratamento devem poder
-    comprovar à autoridade de controlo que preenchem uma ou mais destas condições 42 . Há que ter
+99. If a controller decides not to communicate a breach to the individual, Article 34(4) GDPR explains that
+    the supervisory authority can require it to do so, if it considers the breach is likely to result in a high
+    risk to individuals. Alternatively, it may consider that the conditions in Article 34(3) GDPR have been
+    met in which case notification to individuals is not required. If the supervisory authority determines
+    that the decision not to notify data subjects is not well founded, it may consider employing its available
+    powers and sanctions.
 
 
-   41
-      Ver orientações do GT29 sobre a transparência, que têm em conta a questão do esforço desproporcionado,
-   disponíveis em http://ec.europa.eu/newsroom/just/document.cfm?doc id=48850.
-   42
-      Ver o artigo 5.º, n.º 2, do RGPD.
 
-   Adotadas                                                                                             24
 
-    presente que, embora a notificação possa não ser exigida inicialmente, se não existir risco provável
-    para os direitos e liberdades das pessoas singulares, isto pode mudar com o decorrer do tempo e o
-    risco teria de ser reavaliado.
+    41
+       See WP29 Guidelines on transparency, which will consider the issue of disproportionate effort, available at
+    http://ec.europa.eu/newsroom/just/document.cfm?doc_id=48850
+    42
+       See Article 5(2) GDPR.
 
-99. Se um responsável pelo tratamento decidir não comunicar uma violação à pessoa singular, o artigo
-    34.º, n.º 4, do RGPD explica que a autoridade de controlo pode exigir-lhe que o faça, se considerar que
-    a violação é suscetível de resultar num risco elevado para as pessoas singulares. Por outro lado, pode
-    considerar que as condições previstas no artigo 34.º, n.º 3, do RGPD se encontram preenchidas e,
-    nesse caso, não é exigida a notificação às pessoas singulares. Se a autoridade de controlo determinar
-    que a decisão de não notificar os titulares dos dados não se encontra bem fundamentada, pode
-    considerar a possibilidade de utilizar os seus poderes e sanções disponíveis.
+    Adopted                                                                                                      22
 
-    IV. AVALIAR O RISCO E O RISCO ELEVADO
-    A. O risco como um estímulo para a notificação
-100.       Apesar do RGPD introduzir a obrigação de notificar uma violação, não é obrigatório fazê-lo em
-   todas as circunstâncias.
+    IV. ASSESSING RISK AND HIGH RISK
+    A. Risk as a trigger for notification
+100.         Although the GDPR introduces the obligation to notify a breach, it is not a requirement to do
+   so in all circumstances:
 
-           •   A notificação à autoridade de controlo é obrigatória, a menos que uma violação não seja
-               suscetível de resultar num risco para os direitos e liberdades das pessoas singulares.
-           •   A comunicação de uma violação às pessoas singulares só é acionada quando é suscetível de
-               resultar num risco elevado para os seus direitos e liberdades.
+          •   Notification to the competent supervisory authority is required unless a breach is unlikely to
+              result in a risk to the rights and freedoms of individuals.
+          •   Communication of a breach to the individual is only triggered where it is likely to result in a
+              high risk to their rights and freedoms.
 
-101.       Isto significa que, logo após ter tido conhecimento de uma violação, é muito importante que o
-   responsável pelo tratamento procure não só conter o incidente, mas também avaliar o risco que dele
-   pode resultar. Existem duas razões importantes para isso: em primeiro lugar, conhecer a probabilidade
-   e a potencial gravidade do impacto sobre as pessoas irá ajudar o responsável pelo tratamento a tomar
-   medidas eficazes para conter e dar resposta à violação; em segundo lugar, irá ajudar a determinar se
-   é exigida notificação à autoridade de controlo e, se necessário, às pessoas em causa.
+101.        This means that immediately upon becoming aware of a breach, it is vitally important that the
+   controller should not only seek to contain the incident but it should also assess the risk that could
+   result from it. There are two important reasons for this: firstly, knowing the likelihood and the potential
+   severity of the impact on the individual will help the controller to take effective steps to contain and
+   address the breach; secondly, it will help it to determine whether notification is required to the
+   supervisory authority and, if necessary, to the individuals concerned.
 
-102.       Conforme explicado acima, a notificação de uma violação é exigida, a menos que não seja
-   suscetível de resultar num risco para os direitos e liberdades das pessoas, e o estímulo principal que
-   exige a comunicação de uma violação aos titulares de dados é esta ser suscetível de resultar num risco
-   elevado para os direitos e liberdades das pessoas. Este risco existe quando a violação pode causar
-   danos físicos, materiais ou imateriais às pessoas cujos dados foram violados. Exemplos destes danos
-   são a discriminação, o roubo ou a usurpação de identidade, as perdas financeiras e os danos para a
-   reputação. Quando a violação envolver dados pessoais que revelem a origem racial ou étnica, as
-   opiniões políticas, as convicções religiosas ou filosóficas e a filiação sindical, bem como dados genéticos
-   ou dados relativos à saúde ou à vida sexual ou a condenações penais e infrações ou medidas de
-   segurança conexas, tais danos devem ser considerados suscetíveis de ocorrer 43.
+102.       As explained above, notification of a breach is required unless it is unlikely to result in a risk to
+   the rights and freedoms of individuals, and the key trigger requiring communication of a breach to data
+   subjects is where it is likely to result in a high risk to the rights and freedoms of individuals. This risk
+   exists when the breach may lead to physical, material or non-material damage for the individuals
+   whose data have been breached. Examples of such damage are discrimination, identity theft or fraud,
+   financial loss and damage to reputation. When the breach involves personal data that reveals racial or
+   ethnic origin, political opinion, religion or philosophical beliefs, or trade union membership, or includes
+   genetic data, data concerning health or data concerning sex life, or criminal convictions and offences
+   or related security measures, such damage should be considered likely to occur 43.
 
-    B. Fatores a ter em conta ao avaliar o risco
-103.       Os considerandos 75 e 76 do RGPD sugerem que, de um modo geral, ao avaliar o risco, devem
-   ser tidas em conta a probabilidade e a gravidade do risco para os direitos e liberdades dos titulares de
-   dados. Declaram ainda que o risco deve ser aferido com base numa avaliação objetiva.
+    B. Factors to consider when assessing risk
+103.       Recitals 75 and 76 of the GDPR suggest that generally when assessing risk, consideration should
+   be given to both the likelihood and severity of the risk to the rights and freedoms of data subjects. It
+   further states that risk should be evaluated on the basis of an objective assessment.
 
-104.       Deve salientar-se que a avaliação do risco para os direitos e liberdades das pessoas em
-   resultado de uma violação tem uma incidência diferente do que para o risco considerado numa AIPD 44.
-   A AIPD tem em conta tanto os riscos do tratamento de dados a ser realizado conforme planeado como
-   os riscos em caso de violação. Ao considerar uma potencial violação, analisa em termos gerais a
+104.       It should be noted that assessing the risk to people’s rights and freedoms as a result of a breach
+   has a different focus to the risk considered in a DPIA) 44. The DPIA considers both the risks of the data
+   processing being carried out as planned, and the risks in case of a breach. When considering a potential
+   breach, it looks in general terms at the likelihood of this occurring, and the damage to the data subject
+   that might ensue; in other words, it is an assessment of a hypothetical event. With an actual breach,
+   the event has already occurred, and so the focus is wholly about the resulting risk of the impact of the
+   breach on individuals.
+
+    Example
+
+    A DPIA suggests that the proposed use of a particular security software product to protect personal
+    data is a suitable measure to ensure a level of security appropriate to the risk the processing would
+    otherwise present to individuals. However, if a vulnerability becomes subsequently known, this would
+    change the software’s suitability to contain the risk to the personal data protected and so it would
+    need to be re-assessed as part of an ongoing DPIA. A vulnerability in the product is later exploited and
+
+
 
 
     43
-         Ver considerandos 75 e 85.
+         See Recital 75 and Recital 85 GDPR.
     44
-         Ver as orientações do GT29 sobre as AIPD em: http://ec.europa.eu/newsroom/document.cfm?doc id=44137.
+         See WP Guidelines on DPIAs here: http://ec.europa.eu/newsroom/document.cfm?doc_id=44137
 
-    Adotadas                                                                                              25
+    Adopted                                                                                                 23
 
-    probabilidade da sua ocorrência e os danos que dela podem resultar para os titulares de dados; dito
-    de outra maneira, consiste na avaliação de um evento hipotético. Com uma violação real, o evento já
-    ocorreu e, como tal, incide inteiramente sobre o risco resultante do impacto da violação sobre as
-    pessoas.
+    a breach occurs. The controller should assess the specific circumstances of the breach, the data
+    affected, and the potential level of impact on individuals, as well as how likely this risk will materialise.
 
+105.       Accordingly, when assessing the risk to individuals as a result of a breach, the controller should
+   consider the specific circumstances of the breach, including the severity of the potential impact and
+   the likelihood of this occurring. The EDPB therefore recommends the assessment should take into
+   account the following criteria 45:
 
+         •   The type of breach
+106.       The type of breach that has occurred may affect the level of risk presented to individuals. For
+   example, a confidentiality breach whereby medical information has been disclosed to unauthorised
+   parties may have a different set of consequences for an individual to a breach where an individual’s
+   medical details have been lost, and are no longer available.
 
+         •   The nature, sensitivity, and volume of personal data
 
-   Exemplo
+107.        Of course, when assessing risk, a key factor is the type and sensitivity of personal data that has
+   been compromised by the breach. Usually, the more sensitive the data, the higher the risk of harm
+   will be to the people affected, but consideration should also be given to other personal data that may
+   already be available about the data subject. For example, the disclosure of the name and address of
+   an individual in ordinary circumstances is unlikely to cause substantial damage. However, if the name
+   and address of an adoptive parent is disclosed to a birth parent, the consequences could be very severe
+   for both the adoptive parent and child.
 
-   Uma AIPD sugere que a proposta de utilização de um produto de software de segurança específico
-   para proteger os dados pessoais é uma medida adequada para assegurar um nível de segurança
-   adequado ao risco que, de outra forma, o tratamento podia apresentar para as pessoas. No entanto,
-   se uma vulnerabilidade se tornar posteriormente conhecida, isso alteraria a adequação do software
-   para conter o risco para os dados pessoais protegidos e, como tal, necessitaria de ser reavaliado como
-   parte de uma AIPD em curso. Uma vulnerabilidade no produto é posteriormente explorada e ocorre
-   uma violação. O responsável pelo tratamento deve avaliar as circunstâncias específicas da violação, os
-   dados afetados, o nível potencial de impacto sobre as pessoas, bem como a probabilidade de o risco
-   se concretizar.
+108.        Breaches involving health data, identity documents, or financial data such as credit card
+   details, can all cause harm on their own, but if used together they could be used for identity theft. A
+   combination of personal data is typically more sensitive than a single piece of personal data.
 
-105.       Por conseguinte, ao avaliar o risco para as pessoas em resultado de uma violação, o
-   responsável pelo tratamento deve ter em conta as circunstâncias específicas da violação, incluindo a
-   gravidade do impacto potencial e a probabilidade de que este ocorra. O CEPD recomenda que a
-   avaliação tenha em conta os seguintes critérios 45:
+109.       Some types of personal data may seem at first relatively innocuous, however, what that data
+   may reveal about the affected individual should be carefully considered. A list of customers accepting
+   regular deliveries may not be particularly sensitive, but the same data about customers who have
+   requested that their deliveries be stopped while on holiday would be useful information to criminals.
 
-         •   Tipo de violação
-106.       O tipo de violação que ocorreu pode afetar o nível de risco para as pessoas. Por exemplo, uma
-   violação da confidencialidade em que foi divulgada informação médica a partes não autorizadas pode
-   ter um conjunto de consequências diferente para uma pessoa do que uma violação em que os dados
-   médicos dessa pessoa se perderam e já não se encontram disponíveis.
+110.       Similarly, a small amount of highly sensitive personal data can have a high impact on an
+   individual, and a large range of details can reveal a greater range of information about that individual.
+   Also, a breach affecting large volumes of personal data about many data subjects can have an effect
+   on a corresponding large number of individuals.
 
-         •   Natureza, sensibilidade e volume dos dados pessoais
-
-107.       Claro que, ao avaliar o risco, um fator importante é o tipo e a sensibilidade dos dados pessoais
-   que foram afetados pela violação. Normalmente, quanto mais sensível forem os dados mais elevado
-   será o risco de dano para a pessoa afetada, mas deve também ser dada atenção a outros dados
-   pessoais que podem já estar disponíveis sobre o titular de dados. Por exemplo, a divulgação do nome
-   e morada de uma pessoa em circunstâncias normais não é suscetível de causar dano substancial. No
-   entanto, se o nome e a morada de um pai adotivo forem divulgados ao pai biológico, as consequências
-   podem ser muito graves para o pai adotivo e para a criança.
-
-108.       As violações que envolvem dados relativos à saúde, documentos de identificação, ou dados
-   financeiros como dados do cartão de crédito, podem todas causar dano por si mesmas, mas se
+         •   Ease of identification of individuals
+111.        An important factor to consider is how easy it will be for a party who has access to
+   compromised personal data to identify specific individuals, or match the data with other information
+   to identify individuals. Depending on the circumstances, identification could be possible directly from
+   the personal data breached with no special research needed to discover the individual’s identity, or it
+   may be extremely difficult to match personal data to a particular individual, but it could still be possible
+   under certain conditions. Identification may be directly or indirectly possible from the breached data,
+   but it may also depend on the specific context of the breach, and public availability of related personal
+   details. This may be more relevant for confidentiality and availability breaches.
 
 
 
 
     45
-       O artigo 3.º, n.º 2, do Regulamento (UE) n.º 611/2013 fornece orientações sobre os fatores que devem ser
-    tidos em consideração em relação à notificação de violações no setor dos serviços de comunicações eletrónicas,
-    que     podem       ser    úteis  no    contexto     da    notificação    ao    abrigo   do    RGPD.     Ver:
-    http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:173:0002:0008:pt:PDF
+      Article 3.2 of Regulation 611/2013 provides guidance the factors that should be taken into consideration in
+    relation to the notification of breaches in the electronic communication services sector, which may be useful in
+    the context of notification under the GDPR. See http://eur-
+    lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:173:0002:0008:en:PDF
+
+    Adopted                                                                                                     24
+
+112.        As stated above, personal data protected by an appropriate level of encryption will be
+   unintelligible to unauthorised persons without the decryption key. Additionally, appropriately-
+   implemented pseudonymisation (defined in Article 4(5) GDPR as “the processing of personal data in
+   such a manner that the personal data can no longer be attributed to a specific data subject without the
+   use of additional information, provided that such additional information is kept separately and is
+   subject to technical and organisational measures to ensure that the personal data are not attributed
+   to an identified or identifiable natural person”) can also reduce the likelihood of individuals being
+   identified in the event of a breach. However, pseudonymisation techniques alone cannot be regarded
+   as making the data unintelligible.
+
+        •   Severity of consequences for individuals
+
+113.       Depending on the nature of the personal data involved in a breach, for example, special
+   categories of data, the potential damage to individuals that could result can be especially severe, in
+   particular where the breach could result in identity theft or fraud, physical harm, psychological distress,
+   humiliation or damage to reputation. If the breach concerns personal data about vulnerable
+   individuals, they could be placed at greater risk of harm.
+
+114.        Whether the controller is aware that personal data is in the hands of people whose intentions
+   are unknown or possibly malicious can have a bearing on the level of potential risk. There may be a
+   confidentiality breach, whereby personal data is disclosed to a third party, as defined in Article 4(10),
+   or other recipient in error. This may occur, for example, where personal data is sent accidentally to the
+   wrong department of an organisation, or to a commonly used supplier organisation. The controller
+   may request the recipient to either return or securely destroy the data it has received. In both cases,
+   given that the controller has an ongoing relationship with them, and it may be aware of their
+   procedures, history and other relevant details, the recipient may be considered “trusted”. In other
+   words, the controller may have a level of assurance with the recipient so that it can reasonably expect
+   that party not to read or access the data sent in error, and to comply with its instructions to return it.
+   Even if the data has been accessed, the controller could still possibly trust the recipient not to take any
+   further action with it and to return the data to the controller promptly and to co-operate with its
+   recovery. In such cases, this may be factored into the risk assessment the controller carries out
+   following the breach – the fact that the recipient is trusted may eradicate the severity of the
+   consequences of the breach but does not mean that a breach has not occurred. However, this in turn
+   may remove the likelihood of risk to individuals, thus no longer requiring notification to the supervisory
+   authority, or to the affected individuals. Again, this will depend on case-by-case basis. Nevertheless,
+   the controller still has to keep information concerning the breach as part of the general duty to
+   maintain records of breaches (see section V, below).
+
+115.      Consideration should also be given to the permanence of the consequences for individuals,
+   where the impact may be viewed as greater if the effects are long-term.
+
+        •   Special characteristics of the individual
+
+116.      A breach may affect personal data concerning children or other vulnerable individuals, who
+   may be placed at greater risk of danger as a result. There may be other factors about the individual
+   that may affect the level of impact of the breach on them.
+
+        •   Special characteristics of the data controller
+117.       The nature and role of the controller and its activities may affect the level of risk to individuals
+   as a result of a breach. For example, a medical organisation will process special categories of personal
+   data, meaning that there is a greater threat to individuals if their personal data is breached, compared
+   with a mailing list of a newspaper.
+
+        •   The number of affected individuals
 
 
 
-    Adotadas                                                                                                  26
+    Adopted                                                                                                25
 
-    utilizadas em conjunto podem ser utilizadas para roubo de identidade. A combinação de dados
-    pessoais é tipicamente mais sensível do que um único dado pessoal.
+118.        A breach may affect only one or a few individuals or several thousand, if not many more.
+   Generally, the higher the number of individuals affected, the greater the impact of a breach can have.
+   However, a breach can have a severe impact on even one individual, depending on the nature of the
+   personal data and the context in which it has been compromised. Again, the key is to consider the
+   likelihood and severity of the impact on those affected.
 
-109.       Alguns tipos de dados pessoais podem parecer à primeira vista relativamente inócuos;
-   contudo, o que esses dados podem revelar sobre a pessoa afetada deve ser cuidadosamente
-   considerado. Uma lista de clientes que aceitam entregas regulares pode não ser especialmente
-   sensível, mas os mesmos dados sobre clientes que solicitaram que as suas entregas fossem
-   interrompidas durante as férias seriam informações úteis para os criminosos.
+         •    General points
 
-110.      Do mesmo modo, uma pequena quantidade de dados pessoais altamente sensíveis pode ter
-   um impacto elevado numa pessoa, e uma grande variedade de dados pode revelar um maior leque de
-   informações sobre essa pessoa. Além disso, uma violação que afeta grandes volumes de dados
-   pessoais sobre muitos titulares de dados pode ter um efeito sobre um grande número correspondente
-   de pessoas.
+119.       Therefore, when assessing the risk that is likely to result from a breach, the controller should
+   consider a combination of the severity of the potential impact on the rights and freedoms of individuals
+   and the likelihood of these occurring. Clearly, where the consequences of a breach are more severe,
+   the risk is higher and similarly where the likelihood of these occurring is greater, the risk is also
+   heightened. If in doubt, the controller should err on the side of caution and notify. Annex B provides
+   some useful examples of different types of breaches involving risk or high risk to individuals.
 
-        •   Facilidade de identificação de pessoas singulares
-111.       Um fator importante a ter em conta é quão fácil será para um terceiro que tenha acesso a
-   dados pessoais afetados identificar pessoas específicas ou combinar os dados com outras informações
-   para identificar pessoas. Dependendo das circunstâncias, a identificação poderia ser possível
-   diretamente a partir dos dados pessoais violados sem ser necessária nenhuma pesquisa especial para
-   descobrir a identidade da pessoa, ou pode ser extremamente difícil fazer corresponder dados pessoais
-   a uma pessoa específica, mas continuar a ser possível sob certas condições. A identificação pode ser
-   direta ou indiretamente possível a partir dos dados violados, mas pode depender também do contexto
-   específico da violação e da disponibilidade ao público dos dados pessoais revelados. Isto pode ser mais
-   pertinente para as violações da confidencialidade e da disponibilidade.
+120.      The European Union Agency for Network and Information Security (ENISA) has produced
+   recommendations for a methodology of assessing the severity of a breach, which controllers and
+   processors may find useful when designing their breach management response plan 46.
 
-112.       Conforme indicado acima, os dados pessoais protegidos por um nível de encriptação adequado
-   serão ininteligíveis para pessoas não autorizadas sem uma chave de decifração. Além disso, uma
-   pseudonimização aplicada de forma adequada (definida no artigo 4.º, n.º 5, do RGPD como «o
-   tratamento de dados pessoais de forma que deixem de poder ser atribuídos a um titular de dados
-   específico sem recorrer a informações suplementares, desde que essas informações suplementares
-   sejam mantidas separadamente e sujeitas a medidas técnicas e organizativas para assegurar que os
-   dados pessoais não possam ser atribuídos a uma pessoa singular identificada ou identificável»)
-   também pode reduzir a probabilidade de as pessoas serem identificadas no caso de uma violação. No
-   entanto, as técnicas de pseudonimização, por si mesmas, não podem ser consideradas como tornando
-   os dados ininteligíveis.
+    V. ACCOUNTABILITY AND RECORD KEEPING
+    A. Documenting breaches
+121.       Regardless of whether or not a breach needs to be notified to the supervisory authority, the
+   controller must keep documentation of all breaches, as Article 33(5) GDPR explains:
 
-        •   Gravidade das consequências para as pessoas.
+   “The controller shall document any personal data breaches, comprising the facts relating to the
+   personal data breach, its effects and the remedial action taken. That documentation shall enable the
+   supervisory authority to verify compliance with this Article.”
 
-113.       Dependendo da natureza dos dados pessoais envolvidos numa violação, por exemplo, das
-   categorias especiais de dados, o dano potencial para as pessoas decorrente pode ser especialmente
-   severo, em especial se a violação resultar em roubo ou usurpação de identidade, dano físico, distúrbios
-   psicológicos, humilhação ou dano para a reputação. Se a violação disser respeito a dados pessoais de
-   pessoas vulneráveis, estas podem ser colocadas em maior risco de dano.
+122.       This is linked to the accountability principle of the GDPR, contained in Article 5(2) GDPR. The
+   purpose of recording non-notifiable breaches, as well notifiable breaches, also relates to the
+   controller’s obligations under Article 24 GDPR, and the supervisory authority can request to see these
+   records. Controllers are therefore encouraged to establish an internal register of breaches, regardless
+   of whether they are required to notify or not 47.
 
-114.       Se o responsável pelo tratamento está ciente, ou não, de que os dados pessoais estão nas
-   mãos de pessoas cujas intenções são desconhecidas ou possivelmente maliciosas, pode influenciar o
-   nível de risco potencial. Pode ocorrer uma violação da confidencialidade, em que os dados pessoais
-   são divulgados por engano a um terceiro, conforme definido no artigo 4.º, n.º 10, ou a outro
-   destinatário. Isto pode acontecer, por exemplo, quando os dados pessoais são enviados
-   acidentalmente para o departamento errado de uma organização, ou para uma organização
-   fornecedora comummente utilizada. O responsável pelo tratamento pode solicitar que o destinatário
-   devolva ou destrua de forma segura os dados que recebeu. Em ambos os casos, dado que o
-   responsável pelo tratamento tem uma relação contínua com eles, e pode ter conhecimento dos seus
-   procedimentos, história e outros pormenores relevantes, o destinatário pode ser considerado «de
+123.       Whilst it is up to the controller to determine what method and structure to use when
+   documenting a breach, in terms of recordable information there are key elements that should be
+   included in all cases. As is required by Article 33(5) GDPR, the controller needs to record details
+   concerning the breach, which should include its causes, what took place and the personal data
+   affected. It should also include the effects and consequences of the breach, along with the remedial
+   action taken by the controller.
 
-    Adotadas                                                                                          27
-
-   confiança». Dito de outra maneira, o responsável pelo tratamento pode ter um nível de confiança com
-   o destinatário para que possa razoavelmente esperar que a parte não leia ou aceda aos dados enviados
-   por engano e cumpra as suas instruções para os devolver. Mesmo que os dados tenham sido acedidos,
-   o responsável pelo tratamento poderia ainda confiar que o destinatário não tomasse mais nenhuma
-   medida e os devolvesse rapidamente e cooperasse na sua recuperação. Nesses casos, isto pode ser
-   tido em conta na avaliação do risco efetuada pelo responsável pelo tratamento na sequência de uma
-   violação – o facto de o destinatário ser confiável pode erradicar a gravidade das consequências da
-   violação, mas não significa que esta não ocorreu. No entanto, isso pode, por sua vez, eliminar a
-   probabilidade de risco para as pessoas, deixando de ser exigida notificação à autoridade de controlo
-   ou às pessoas afetadas. Mais uma vez, isso dependerá de cada caso. Contudo, o responsável pelo
-   tratamento ainda tem de guardar as informações referentes à violação como parte do dever geral de
-   conservar registos de violações (ver secção V abaixo).
-
-115.      Deve ter-se em conta a permanência das consequências para as pessoas, em que o impacto
-   pode ser considerado maior se os efeitos foram de longo prazo.
-
-        •   Características especiais das pessoas singulares
-
-116.       Uma violação pode afetar os dados pessoais relativos a crianças ou outras pessoas vulneráveis,
-   que podem ser postas em grande risco de perigo em resultado dela. Podem existir outros elementos
-   sobre a pessoa que podem afetar o nível do impacto da violação sobre ela.
-
-        •   Características especiais do responsável pelo tratamento de dados
-117.       A natureza e o papel do responsável pelo tratamento e das suas atividades podem afetar o
-   nível de risco para as pessoas resultante de uma violação. Por exemplo, uma organização médica irá
-   tratar categorias especiais de dados pessoais, o que significa que existe uma ameaça maior para as
-   pessoas, se os seus dados pessoais forem violados, em comparação com a lista de distribuição de um
-   jornal.
-
-        •   Número de pessoas afetadas
-
-118.       Uma violação pode afetar apenas uma ou poucas pessoas ou várias centenas, se não mais. De
-   um modo geral, quanto maior for o número de pessoas afetadas maior é o impacto que uma violação
-   pode ter. No entanto, uma violação pode ter um impacto grave numa só pessoa, dependendo da
-   natureza dos dados pessoais e do contexto em que foram afetados. Mais uma vez, o fundamental é
-   ter em conta a probabilidade e a gravidade do impacto sobre as pessoas afetadas.
-
-        •   Elementos gerais
-
-119.       Por conseguinte, ao avaliar o risco suscetível de resultar de uma violação, o responsável pelo
-   tratamento deve ter em conta uma combinação da gravidade do impacto potencial sobre os direitos e
-   liberdades das pessoas e da probabilidade de este ocorrer. Claramente, se as consequências de uma
-   violação forem mais graves, o risco é mais elevado, se a probabilidade de aquelas ocorrerem for maior,
-   o risco também aumenta. Em caso de dúvida, o responsável pelo tratamento deve optar pela
-   precaução e notificar. O anexo B fornece alguns exemplos úteis de diferentes tipos de violações que
-   envolvem risco ou risco elevado para as pessoas.
-
-120.      A Agência da União Europeia para a Segurança das Redes e da Informação (ENISA) elaborou
-   recomendações para uma metodologia de avaliação da gravidade de uma violação, que os
-   responsáveis pelo tratamento e subcontratantes podem considerar útil na elaboração do seu plano de
-   resposta para a gestão de violações 46.
+124.       The GDPR does not specify a retention period for such documentation. Where such records
+   contain personal data, it will be incumbent on the controller to determine the appropriate period of
+   retention in accordance with the principles in relation to the processing of personal data 48 and to meet
+   a lawful basis for processing 49. It will need to retain documentation in accordance with Article 33(5)
 
 
+    46
+       ENISA, Recommendations for a methodology of the assessment of severity of personal data breaches,
+    https://www.enisa.europa.eu/publications/dbn-severity
+    47
+       The controller may choose to document breaches as part of if its record of processing activities which is
+    maintained pursuant to Article 30 GDPR. A separate register is not required, provided the information relevant
+    to the breach is clearly identifiable as such and can be extracted upon request.
+    48
+       See Article 5 GDPR.
+    49
+       See Article 6 and also Article 9 GDPR.
 
-   46
-     ENISA, Recomendações para uma metodologia de avaliação da gravidade das violações de dados pessoais,
-   https://www.enisa.europa.eu/publications/dbn-severity
+    Adopted                                                                                                   26
 
-   Adotadas                                                                                          28
+    GDPR insofar as it may be called to provide evidence of compliance with that Article, or with the
+    accountability principle more generally, to the supervisory authority. Clearly, if the records themselves
+    contain no personal data then the storage limitation principle 50 of the GDPR does not apply.
 
-   V. RESPONSABILIDADE E MANUTENÇÃO DE REGISTOS
-   A. Documentação de violações
-121.       Independentemente de uma violação necessitar ou não de ser notificada à autoridade de
-   controlo, o responsável pelo tratamento deve conservar a documentação de todas as violações, como
-   o artigo 33.º, n.º 5, do RGPD explica:
+125.        In addition to these details, the EDPB recommends that the controller also document its
+   reasoning for the decisions taken in response to a breach. In particular, if a breach is not notified, a
+   justification for that decision should be documented. This should include reasons why the controller
+   considers the breach is unlikely to result in a risk to the rights and freedoms of individuals 51 .
+   Alternatively, if the controller considers that any of the conditions in Article 34(3) GDPR are met, then
+   it should be able to provide appropriate evidence that this is the case.
 
-   «O responsável pelo tratamento documenta quaisquer violações de dados pessoais, compreendendo
-   os factos relacionados com as mesmas, os respetivos efeitos e a medida de reparação adotada. Essa
-   documentação deve permitir à autoridade de controlo verificar o cumprimento do disposto no presente
-   artigo».
+126.      Where the controller does notify a breach to the supervisory authority, but the notification is
+   delayed, the controller must be able to provide reasons for that delay; documentation relating to this
+   could help to demonstrate that the delay in reporting is justified and not excessive.
 
-122.       Isto está relacionado com o princípio da responsabilidade do RGPD, constante do artigo 5.º,
-   n.º 2, do RGPD. O objetivo de registar violações não notificáveis, assim como violações notificáveis,
-   também está relacionado com as obrigações do responsável pelo tratamento previstas no artigo 24.º
-   do RGPD e a autoridade de controlo pode exigir ver estes registos. Os responsáveis pelo tratamento
-   são, por conseguinte, encorajados a criar um registo interno de violações, independentemente de
-   terem de notificar ou não 47.
+127.      Where the controller communicates a breach to the affected individuals, it should be
+   transparent about the breach and communicate in an effective and timely manner. Accordingly, it
+   would help the controller to demonstrate accountability and compliance by retaining evidence of such
+   communication.
 
-123.       Embora caiba ao responsável pelo tratamento determinar que método e estrutura utilizar na
-   documentação de uma violação, em termos de informação registada, existem elementos-chave que
-   devem ser incluídos em todos os casos. Como exigido pelo artigo 33.º, n.º 5, do RGPD, o responsável
-   pelo tratamento deve registar as informações relativas à violação, que devem incluir as suas causas, o
-   que aconteceu e os dados pessoais afetados. Deve também incluir os efeitos e consequências da
-   violação, juntamente com a medida de reparação adotada pelo responsável pelo tratamento.
+128.       To aid compliance with Articles 33 and 34 GDPR, it would be advantageous to both controllers
+   and processors to have a documented notification procedure in place, setting out the process to follow
+   once a breach has been detected, including how to contain, manage and recover the incident, as well
+   as assessing risk, and notifying the breach. In this regard, to show compliance with GDPR it might also
+   be useful to demonstrate that employees have been informed about the existence of such procedures
+   and mechanisms and that they know how to react to breaches.
 
-124.       O RGPD não especifica o período de conservação dessa documentação. Quando esses registos
-   contiverem dados pessoais, caberá ao responsável pelo tratamento determinar o período apropriado
-   de conservação em conformidade com os princípios relacionados com o tratamento de dados
-   pessoais 48 e atender a uma base legal para o tratamento 49. Será necessário conservar a documentação
-   de acordo com o artigo 33.º, n.º 5, do RGPD, na medida em que pode ser chamado a fornecer prova
-   do cumprimento do disposto nesse artigo ou, de um modo mais geral, do princípio da
-   responsabilidade, à autoridade de controlo. É claro que, se os próprios registos não contiverem dados
-   pessoais, então, o princípio da limitação da conservação 50 do RGPD não se aplica.
+129.       It should be noted that failure to properly document a breach can lead to the supervisory
+   authority exercising its powers under Article 58 GDPR and, or imposing an administrative fine in
+   accordance with Article 83 GDPR.
 
-125.        Além destas informações, o CEPD recomenda que o responsável pelo tratamento também
-   documente a sua fundamentação para as decisões tomadas em resposta a uma violação. Em especial,
-   se uma violação não for notificada, deve ser documentada a justificação para essa decisão. Isto deve
-   incluir as razões pelas quais o responsável pelo tratamento considera que a violação não é suscetível
-   de resultar num risco para os direitos e liberdades das pessoas singulares 51 . Por outro lado, se o
-   responsável pelo tratamento considera que se encontra preenchida qualquer uma das condições que
+    B. Role of the Data Protection Officer
+130.        A controller or processor may have a Data Protection Officer (DPO) 52, either as required by
+   Article 37 GDPR, or voluntarily as a matter of good practice. Article 39 of the GDPR sets a number of
+   mandatory tasks for the DPO, but does not prevent further tasks being allocated by the controller, if
+   appropriate.
 
+131.        Of particular relevance to breach notification, the mandatory tasks of the DPO includes,
+   amongst other duties, providing data protection advice and information to the controller or processor,
+   monitoring compliance with the GDPR, and providing advice in relation to DPIAs. The DPO must also
+   cooperate with the supervisory authority and act as a contact point for the supervisory authority and
+   for data subjects. It should also be noted that, when notifying the breach to the supervisory authority,
+   Article 33(3)(b) GDPR requires the controller to provide the name and contact details of its DPO, or
+   other contact point.
 
+132.        In terms of documenting breaches, the controller or processor may wish to obtain the opinion
+   of its DPO as to the structure, the setting up and the administration of this documentation. The DPO
+   could also be additionally tasked with maintaining such records.
 
-
-   47
-      O responsável pelo tratamento pode optar por documentar as violações como parte do seu registo de
-   atividades de tratamento mantido de acordo com o artigo 30.º do RGPD. Não é necessário um registo separado,
-   desde que a informação relevante para a violação seja claramente identificável como tal e possa ser extraída
-   mediante pedido.
-   48
-      Ver artigo 5.º do RGPD.
-   49
-      Ver artigo 6.º e também o artigo 9.º do RGPD.
-   50
-      Ver o artigo 5.º, n.º 1, alínea e), do RGPD.
-   51
-      Ver considerando 85 do RGPD.
-
-   Adotadas                                                                                                29
-
-    constam do artigo 34.º, n.º 3, do RGPD, então, deve conseguir fornecer prova adequada de que é esse
-    o caso.
-
-126.       Quando o responsável pelo tratamento notifica uma violação à autoridade de controlo, mas a
-   notificação está atrasada, deve ser capaz de justificar esse atraso; a documentação relacionada com
-   isto pode ajudar a demonstrar que o atraso na comunicação é justificado e não excessivo.
-
-127.      Quando o responsável pelo tratamento comunica uma violação às pessoas afetadas, deve ser
-   transparente quanto à violação e comunicar de forma eficaz e atempada. Por conseguinte, a
-   conservação de provas dessa comunicação ajudaria o responsável pelo tratamento a demonstrar
-   responsabilidade e conformidade.
-
-128.       Para ajudar a conformidade com os artigos 33.º e 34.º do RGPD, seria vantajoso tanto para os
-   responsáveis pelo tratamento como para os subcontratantes adotar um procedimento de notificação
-   documentado, que defina o processo a ser seguido após a deteção de uma violação, incluindo como
-   conter, gerir e recuperar do incidente, bem como avaliar o risco e notificar a violação. A este respeito,
-   por forma a demonstrar a conformidade com o RGPD, pode também ser útil demonstrar que os
-   trabalhadores foram informados da existência desses procedimentos e mecanismos e que sabem
-   como reagir a violações.
-
-129.       Deve ser observado que a incapacidade de documentar corretamente uma violação pode levar
-   a autoridade de controlo a exercer os seus poderes nos termos do artigo 58.º do RGPD e/ou a impor
-   uma coima em conformidade com o artigo 83.º do RGPD.
-
-    B. Função do Encarregado da Proteção de Dados
-130.       Um responsável pelo tratamento ou um subcontratante pode ter um encarregado da proteção
-   de dados (EPD) 52, quer seja exigido pelo artigo 37.º ou de forma voluntária, por uma questão de boas
-   práticas. O artigo 39.º do RGPD estabelece várias funções obrigatórias para o EPD, mas não impede
-   que sejam atribuídas outras funções pelo responsável pelo tratamento, se necessário.
-
-131.       De especial relevância para a notificação de violações, as funções obrigatórias do EPD incluem,
-   entre outros deveres, prestar aconselhamento e informações sobre proteção de dados ao responsável
-   pelo tratamento e subcontratante, controlar a conformidade com o RGPD e prestar aconselhamento
-   em relação às AIPD. O EPD deve igualmente cooperar com a autoridade de controlo e atuar como
-   ponto de contacto para a autoridade de controlo e para os titulares de dados. Importa notar que, ao
-   notificar a violação à autoridade de controlo, o artigo 33,º, n.º 3, alínea b), do RGPD exige que o
-   responsável pelo tratamento forneça o nome e os dados de contacto do seu EPD, ou de outro ponto
-   de contacto.
-
-132.     Em termos de documentação de violações, o responsável pelo tratamento ou subcontratante
-   pode desejar obter o parecer do seu EPD quanto à estrutura, elaboração e administração da sua
-   documentação. O EPD pode também ser encarregado de manter esses registos.
-
-133.       Estes elementos significam que o EPD deve desempenhar um papel fundamental na assistência
-   à prevenção ou à preparação para uma violação através da prestação de aconselhamento e do controlo
-   da conformidade, bem como durante uma violação (ou seja, ao notificar a autoridade de controlo), e
-   durante qualquer investigação subsequente por parte da autoridade de controlo. À luz do que precede,
-   o CEPD recomenda que o EPD seja prontamente informado acerca da existência de uma violação e
-   esteja envolvido em todo o processo de gestão e notificação de violações.
+133.      These factors mean that the DPO should play an key role in assisting the prevention of or
+   preparation for a breach by providing advice and monitoring compliance, as well as during a breach
 
 
-
-
+    50
+       See Article 5(1)(e) GDPR.
+    51
+       See Recital 85 GDPR.
     52
-       Ver as orientações do GT29 relativas aos EPD aqui: http://ec.europa.eu/newsroom/just/item-
-    detail.cfm?item id=50083 .
+       See WP Guidelines on DPOs here: http://ec.europa.eu/newsroom/just/item-detail.cfm?item_id=50083
 
-    Adotadas                                                                                            30
+    Adopted                                                                                              27
 
-   VI. OBRIGAÇÕES DE NOTIFICAÇÃO AO ABRIGO DE OUTROS
-   INSTRUMENTOS JURÍDICOS
-134.       Além e à parte da notificação e comunicação de violações ao abrigo do RGPD, os responsáveis
-   pelo tratamento devem também estar cientes de qualquer requisito para notificar incidentes de
-   segurança ao abrigo de outra legislação conexa que lhes possa ser aplicável e se esta também pode
-   exigir que notifiquem a autoridade de controlo de uma violação de dados pessoais ao mesmo tempo.
-   Tais requisitos podem variar entre Estados-Membros, mas os exemplos de requisitos de notificação
-   em outros instrumentos jurídicos e de como estes se interrelacionam com o RGPD incluem o seguinte:
+    (i.e. when notifying the supervisory authority), and during any subsequent investigation by the
+    supervisory authority. In this light, the EDPB recommends that the DPO is promptly informed about
+    the existence of a breach and is involved throughout the breach management and notification process.
 
-        •   Regulamento (UE) n.º 910/2014, relativo à identificação eletrónica e aos serviços de confiança
-            para as transações eletrónicas no mercado interno (Regulamento IDeSC) 53.
+   VI. NOTIFICATION OBLIGATIONS UNDER OTHER LEGAL INSTRUMENTS
+134.        In addition to, and separate from, the notification and communication of breaches under the
+   GDPR, controllers should also be aware of any requirement to notify security incidents under other
+   associated legislation that may apply to them and whether this may also require them to notify the
+   supervisory authority of a personal data breach at the same time. Such requirements can vary between
+   Member States, but examples of notification requirements in other legal instruments, and how these
+   inter-relate with the GDPR, include the following:
 
-135.       O artigo 19.º, n.º 2, do Regulamento IDeSC exige que os prestadores de serviços de confiança
-   notifiquem a sua entidade supervisora de uma violação da segurança ou perda de integridade que
-   tenha um impacto significativo sobre o serviço de confiança prestado ou sobre os dados pessoais por
-   ele conservados. Se aplicável – isto é, quando essa violação ou perda é também uma violação de dados
-   pessoais ao abrigo do RGPD – o prestador de serviços de confiança deve também notificar a autoridade
-   de controlo.
+         •   Regulation (EU) 910/2014 on electronic identification and trust services for electronic
+             transactions in the internal market (eIDAS Regulation) 53.
 
-        •   Diretiva (UE) 2016/1148, relativa a medidas destinadas a garantir um elevado nível comum de
-            segurança das redes e da informação em toda a União (Diretiva SRI) 54.
+135.        Article 19(2) of the eIDAS Regulation requires trust service providers to notify their supervisory
+   body of a breach of security or loss of integrity that has a significant impact on the trust service
+   provided or on the personal data maintained therein. Where applicable—i.e., where such a breach or
+   loss is also a personal data breach under the GDPR—the trust service provider should also notify the
+   supervisory authority.
 
-136.       Os artigos 14.º e 16.º da Diretiva SRI exigem que os operadores de serviços essenciais e os
-   prestadores de serviços digitais notifiquem incidentes de segurança à sua autoridade competente.
-   Conforme reconhecido no considerando 63 da Diretiva SRI 55 , os incidentes de segurança podem,
-   muitas vezes, incluir dados pessoais comprometidos. Embora a Diretiva SRI exija que as autoridades
-   competentes e as autoridades de supervisão cooperem e troquem informações nesse contexto,
-   continua a suceder que quando esses incidentes são, ou se tornam, violações de dados pessoais ao
-   abrigo do RGPD, esses operadores e/ou prestadores são obrigados a notificar a autoridade de controlo
-   separadamente dos requisitos de notificação de incidentes da Diretiva SRI.
+         •   Directive (EU) 2016/1148 concerning measures for a high common level of security of network
+             and information systems across the Union (NIS Directive) 54.
 
-   Exemplo
+136.       Articles 14 and 16 of the NIS Directive require operators of essential services and digital service
+   providers to notify security incidents to their competent authority. As recognised by Recital 63 of NIS 55,
+   security incidents can often include a compromise of personal data. Whilst NIS requires competent
+   authorities and supervisory authorities to co-operate and exchange information that context, it
+   remains the case that where such incidents are, or become, personal data breaches under the GDPR,
+   those operators and/or providers would be required to notify the supervisory authority separately
+   from the incident notification requirements of NIS.
 
-   Um prestador de serviços de computação em nuvem que notifica uma violação ao abrigo da Diretiva
-   SRI pode também ter de notificar um responsável pelo tratamento, se esta incluir uma violação de
-   dados pessoais. Do mesmo modo, um prestador de serviços de confiança que notifica ao abrigo do
-   IDeSC pode também ser obrigado a notificar a autoridade de proteção de dados relevante no caso de
-   uma violação.
+   Example
 
-        •   Diretiva 2009/136/CE (Diretiva Direitos dos Cidadãos) e Regulamento (UE) n.º 611/2013
-            (Regulamento Notificação de Violações).
+   A cloud service provider notifying a breach under the NIS Directive may also need to notify a controller,
+   if this includes a personal data breach. Similarly, a trust service provider notifying under eIDAS may
+   also be required to notify the relevant data protection authority in the event of a breach.
 
+         •    Directive 2009/136/EC (the Citizens’ Rights Directive) and Regulation 611/2013 (the Breach
+              Notification Regulation).
 
-
-
-   53
-      Ver http://eurlex.europa.eu/legalcontent/PT/TXT/?uri=uriserv%3AOJ.L.2014.257.01.0073.01.ENG.
-   54
-     Ver https://eur-lex.europa.eu/legal- content/PT/TXT/?uri=uriserv:OJ.L .2016.194.01.0001.01.ENG.
-   55
-      Considerando 63: «Os dados pessoais ficam em muitos casos comprometidos em consequência de incidentes.
-   Neste contexto, as autoridades competentes e as autoridades encarregadas da proteção dos dados deverão
-   cooperar e trocar informações sobre todas as questões pertinentes para combater as eventuais violações de
-   dados pessoais resultantes de incidentes».
-
-   Adotadas                                                                                              31
-
-137.       Os prestadores de serviços de comunicações eletrónicas disponíveis ao público no contexto da
-   Diretiva 2002/58/CE 56 devem notificar as violações às autoridades nacionais competentes.
-
-138.       Os responsáveis pelo tratamento devem também estar cientes de quaisquer deveres de
-   notificação jurídica, médica ou profissional ao abrigo de outros regimes aplicáveis.
+137.       Providers of publicly available electronic communication services within the context of
+   Directive 2002/58/EC 56 must notify breaches to the competent national authorities.
 
 
 
 
-   56
-      Em 10 de janeiro de 2017, a Comissão Europeia propôs um regulamento relativo à privacidade e às
-   comunicações eletrónicas, que irá substituir a Diretiva 2009/136/CE e remover os requisitos de notificação.
-   No entanto, até que esta proposta seja aprovada pelo Parlamento Europeu, o atual requisito de notificação
-   permanece em vigor, ver https://ec.europa.eu/digital-single-market/en/news/proposal-regulation-privacy-
-   and-electronic-communications
+    53
+       See http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG
+    54
+       See http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.194.01.0001.01.ENG
+    55
+       Recital 63: “Personal data are in many cases compromised as a result of incidents. In this context, competent
+    authorities and data protection authorities should cooperate and exchange information on all relevant matters
+    to tackle any personal data breaches resulting from incidents.”
+    56
+       On 10 January 2017, the European Commission proposed a Regulation on Privacy and Electronic
+    Communications which will replace Directive 2009/136/EC and remove notification requirements. However,
+    until this proposal is approved by the European Parliament the existing notification requirement remains in
 
-   Adotadas                                                                                                      32
+    Adopted                                                                                                      28
 
-VII. ANEXO
-A. Fluxograma que apresenta os requisitos de notificação
-
-
-
-
-Adotadas                                                   33
-
-B. Exemplos de violações de dados pessoais e quem notificar
-
-Os seguintes exemplos não exaustivos irão ajudar os responsáveis pelo tratamento a determinar se
-necessitam de notificar em diferentes cenários de violação de dados pessoais. Estes exemplos também
-podem ajudar a distinguir risco de risco elevado para os direitos e liberdades das pessoas singulares.
-
-      Exemplo               Notificar a autoridade      Notificar o titular de     Notas/recomendações
-                                 de controlo                   dados
-i    Um responsável      Não.                           Não.                      Desde que os dados
-     pelo tratamento                                                              estejam encriptados com
-     conservou uma                                                                um algoritmo de ponta,
-     cópia de segurança                                                           existam cópias de
-     de um arquivo de                                                             segurança dos dados, a
-     dados pessoais                                                               única chave não esteja
-     encriptados numa                                                             comprometida e os dados
-     chave USB. A chave                                                           possam ser restaurados em
-     foi roubada durante                                                          tempo útil, pode tratar-se
-     um assalto.                                                                  de uma violação não
-                                                                                  comunicável. No entanto,
-                                                                                  se for posteriormente
-                                                                                  comprometida, é exigida
-                                                                                  notificação.
-ii   Um responsável         Sim, comunicar à            Sim, comunicar às
-     pelo tratamento        autoridade de controlo se   pessoas singulares,
-     mantém um serviço      existirem consequências     dependendo da natureza
-     em linha. Em           prováveis para as pessoas   dos dados pessoais
-     resultado de um        singulares.                 afetados e se a
-     ataque cibernético a                               gravidade das
-     esse serviço, os                                   consequências prováveis
-     dados pessoais das                                 para as pessoas for
-     pessoas são                                        elevada.
-     infiltrados.
-
-     O responsável pelo
-     tratamento possui
-     clientes num único
-     Estado-Membro.
-
-iii Uma breve falha de Não.                             Não.                      Não se trata de uma violação
-     energia que dura                                                             comunicável, mas continua a
-     vários minutos na                                                            ser um incidente registável
-     central de                                                                   ao abrigo do artigo 33.º,
-     atendimento de um                                                            n.º 5.
-     responsável pelo
-                                                                                  Devem ser mantidos registos
-     tratamento, o que
-                                                                                  apropriados pelo
-     significa que os
-     clientes não podem                                                           responsável pelo
-     ligar para o                                                                 tratamento.
-     responsável pelo
-     tratamento e aceder
-     aos seus registos.
+138.       Controllers should also be aware of any additional legal, medical, or professional notification
+   duties under other applicable regimes.
 
 
 
 
-Adotadas                                                                                                  34
+   force,      see    https://ec.europa.eu/digital-single-market/en/news/proposal-regulation-privacy-and-
+   electroniccommunications
 
-iv Um responsável        Sim,      comunicar       à Sim, comunicar às           Se existisse uma cópia de
-    pelo tratamento      autoridade  de controlo, se pessoas singulares,         segurança e os dados
-    sofre um ataque de existirem consequências dependendo da                     pudessem ser restaurados
-    software de          prováveis para as pessoas natureza dos dados            em tempo útil, não seria
-    sequestro que        singulares e se tratar de pessoais afetados e do        necessário comunicar à
-    resulta na           uma         perda        de
-                                                     possível efeito da falta    autoridade de controlo ou
-    encriptação de       disponibilidade.
-                                                     de disponibilidade dos      às pessoas, uma vez que
-    todos os dados. Não                              dados, bem como             não teria existido uma
-    existem cópias de                                outras consequências        perda permanente de
-    segurança                                        prováveis.                  disponibilidade ou
-    disponíveis e os
-                                                                                 confidencialidade. No
-    dados não podem
-                                                                                 entanto, se a autoridade de
-    ser restaurados. Na
-                                                                                 controlo teve conhecimento
-    investigação, torna-
-                                                                                 do incidente por outros
-    se evidente que a
-    única funcionalidade                                                         meios, pode considerar uma
-    do software de                                                               investigação para avaliar a
-    sequestro consistia                                                          conformidade com os
-    em encriptar os                                                              requisitos de segurança
-    dados e que não                                                              mais alargados do artigo
-    existia outro                                                                32.º.
-    malware no sistema.
+   Adopted                                                                                                  29
 
+VII. ANNEX
+A. Flowchart showing notification requirements
 
-v   Uma pessoa           Sim.                         Só são notificadas as      Se, após investigação
-    singular telefona                                 pessoas afetadas se        adicional, se identificar que
-    para a central de                                 existir um risco elevado   foram afetadas mais
-    atendimento de um                                 e for claro que outras     pessoas, deve ser efetuada
-    banco para                                        pessoas não foram          uma atualização à
-    comunicar uma                                     afetadas.                  autoridade de controlo e o
-    violação de dados. A                                                         responsável pelo
-    pessoa recebeu o                                                             tratamento toma a medida
-    extrato mensal de                                                            adicional de notificar as
-    outra pessoa.                                                                outras pessoas se existir um
-    O responsável pelo                                                           risco elevado para elas.
-    tratamento realiza
-    uma pequena
-    investigação (ou
-    seja, concluída em
-    24 horas) e
-    estabelece com
-    razoável confiança
-    que a violação de
-    dados pessoais
-    ocorreu e se existe
-    uma falha sistémica
-    que possa significar
-    que outras pessoas
-    são ou podem vir a
-    ser afetadas.
+     Controll er detects/is made aware of a                           The controller becomes “aware” of a
+                                                                      personal data breach and assesses risk
+     security incident and establishes if
+                                                                      to individuals.
+     personal data beach has occurred.
 
 
 
 
-Adotadas                                                                                                   35
+                Is the breach likely                               No
+                to result in a risk to
+                individuals’ rights?
+                and freedoms?
+                                                                           No requirement to notify supervisory authority
+                                                                           or individuals.
 
-vi Um responsável        Sim, comunicar à              Sim, uma vez que pode     O responsável pelo
-    pelo tratamento      autoridade de controlo        implicar risco elevado.   tratamento deve tomar
-    explora um           se envolver tratamento                                  medidas, por exemplo,
-    mercado em linha e transfronteiriço.                                         forçar a redefinição das
-    possui clientes em                                                           palavras-passe das contas
-    vários Estados-                                                              afetadas, bem como outras
-    Membros. O                                                                   medidas para atenuar o
-    mercado sofre um                                                             risco.
-    ataque cibernético e
-                                                                                  O responsável pelo
-    os nomes dos
-                                                                                  tratamento deve também
-    utilizadores, as
-                                                                                  ter em conta quaisquer
-    palavras-passe e o
-                                                                                  outras obrigações de
-    histórico de
-    compras são                                                                   notificação, por exemplo,
-    publicados em linha                                                           ao abrigo da Diretiva SRI,
-    pelo atacante.                                                                enquanto prestador de
-                                                                                  serviço digital.
-vii Uma empresa que        Enquanto                    Se não for suscetível de A empresa que acolhe sítios
-    acolhe sítios Web      subcontratante, a           existir risco elevado para Web (subcontratante) deve
-    que atua como          empresa que acolhe          as pessoas singulares      ter em consideração
-    subcontratante         sítios Web deve notificar   estas não necessitam de quaisquer outras obrigações
-    identifica um erro     os seus clientes afetados   ser notificadas.           de notificação (por exemplo,
-    no código que          (os responsáveis pelo                                  ao abrigo da Diretiva SRI,
-    controla a             tratamento) sem demora                                 enquanto prestador de
-    autorização do         injustificada.                                         serviço digital).
-    utilizador. O efeito
-                                                                                 Se não existirem provas de
-    da falha significa     Partindo do princípio                                 que esta vulnerabilidade
-    que qualquer           que a empresa que
-    utilizador pode                                                              está a ser explorada com
-                           acolhe sítios Web                                     qualquer um dos seus
-    aceder aos dados da    conduziu a sua própria
-    conta de qualquer                                                            responsáveis pelo
-                           investigação, os
-    outro utilizador.                                                            tratamento pode não ter
-                           responsáveis pelo
-                           tratamento afetados                                   ocorrido uma violação
-                           devem estar                                           notificável, mas é suscetível
-                           razoavelmente                                         de ser registada ou de ser
-                           confiantes de que cada                                uma questão de
-                           um sofreu uma violação                                incumprimento nos termos
-                           e, por conseguinte, são                               do artigo 32.º.
-                           suscetíveis de serem
-                           considerados como
-                           «tendo conhecimento»
-                           após terem sido
-                           notificados pela empresa
-                           (o subcontratante).
-                            O responsável pelo
-                           tratamento deve,
-                           portanto, notificar a
-                           autoridade de controlo.
-viii Os registos médicos   Sim, o hospital é           Sim, comunicar às
-    de um hospital         obrigado a notificar, uma   pessoas afetadas.
-    encontram-se           vez que pode ocorrer um
-    indisponíveis por um   elevado risco para o
-    período de 30 horas    bem-estar e a
-    devido a um ataque     privacidade dos
-    cibernético.           pacientes.
+
+
+                   Yes
+                                                             Notify competent supervisory authority.
+
+                                                             If the breach affects individuals in more than
+                                                             one Member State and the conntroller has an
+                                                             establishment in the EEA, notify the lead
+                                                             supervisory authority.
+
+               Is the breach likely to                       If the breach affects individuals in more than
+               result in a high risk to                      one Member state and the controller does not
+               individuals’ rights and                       have any establishments in the EEA, but is
+               freedoms?                                     subject to the GDPR by virtue of Article 3(2),
+                                                             notify every supervisory authority for which
+                                                             affected data subjects reside in their Member
+                                                             state.
+
+                                                                     No requirement to notify
+                                                                     individuals.
+               Yes                       No
 
 
 
 
-Adotadas                                                                                                   36
-
-ix Os dados pessoais      Sim,     comunicar      à Sim, comunicar às
-    de um grande          autoridade de controlo.   pessoas singulares,
-    número de                                       dependendo do âmbito
-    estudantes foram                                e do tipo de dados
-    enviados por                                    pessoais envolvidos e da
-    engano para a lista                             gravidade das possíveis
-    de correio                                      consequências.
-    eletrónico errada
-    com mais de 1 000
-    destinatários.
-
-x   Uma mensagem de       Sim, notificar a            Sim, comunicar às          A notificação pode não ser
-    correio eletrónico    autoridade de controlo      pessoas singulares,        necessária se não forem
-    de comercialização    pode ser obrigatório se     dependendo do âmbito       revelados dados sensíveis e
-    direta é enviada      for afetado um grande       e do tipo de dados         se apenas for revelado um
-    para os               número de pessoas, se       pessoais envolvidos e da   pequeno número de
-    destinatários no      forem revelados dados       gravidade das possíveis    endereços de correio
-    campo «para» ou       sensíveis (por exemplo,     consequências.             eletrónico.
-    «CC», permitindo      uma lista de
-    assim que cada        destinatários de um
-    destinatário veja o   psicoterapeuta) ou se
-    endereço de correio
-                          outros fatores colocarem
-    eletrónico dos
-                          riscos elevados (por
-    outros
-                          exemplo, o correio
-    destinatários.
-                          eletrónico contém as
-                          palavras-passe iniciais).
+          Notify affected individuals and, where required, provide
+          information on steps they can take to prot ect themselves from
+          consequences of the breach.
 
 
 
 
-Adotadas                                                                                                  37
+                 All breaches recordable under Article 33(5). Breach should be documented and
+                 record maintained by the controller.
+
+
+
+
+Adopted                                                                                                                     30
+
+B. Examples of personal data breaches and who to notify
+
+The following non-exhaustive examples will assist controllers in determining whether they need to
+notify in different personal data breach scenarios. These examples may also help to distinguish
+between risk and high risk to the rights and freedoms of individuals.
+
+      Example                Notify the supervisory            Notify the data            Notes/recommendations
+                                   authority                      subject
+i    A controller stored a No.                              No.                           As long as the data are
+     backup of an archive                                                                 encrypted with a state of
+     of personal data                                                                     the art algorithm, backups
+     encrypted on a USB                                                                   of the data exist the unique
+     key. The key is                                                                      key is not compromised,
+     stolen during a                                                                      and the data can be
+     break-in.                                                                            restored in good time, this
+                                                                                          may not be a reportable
+                                                                                          breach. However if it is later
+                                                                                          compromised, notification
+                                                                                          is required.
+
+
+ii   A controller            Yes, report to the             Yes, report to individuals
+     maintains an online     supervisory authority if       depending on the nature
+     service. As a result    there are likely               of the personal data
+     of a cyber attack on    consequences to                affected and if the
+     that service,           individuals.                   severity of the likely
+     personal data of                                       consequences to
+     individuals are                                        individuals is high.
+     exfiltrated.
+
+     The controller has
+     customers in a
+     single Member
+     State.
+
+iii A brief power            No.                            No.                           This is not a notifiable
+     outage lasting                                                                       breach, but still a recordable
+     several minutes at a                                                                 incident under Article 33(5).
+     controller’s call
+     centre meaning                                                                       Appropriate records should
+     customers are                                                                        be maintained by the
+     unable to call the                                                                   controller.
+     controller and
+     access their records.
+
+iv A controller suffers      Yes,     report     to     the Yes, report to                If there was a backup
+     a ransomware            supervisory authority,         individuals, depending        available and data could be
+     attack which results    if there are likely            on the nature of the          restored in good time, this
+     in all data being       consequences to                personal data affected        would not need to be
+     encrypted. No back-     individuals as this is a loss and the possible effect        reported to the supervisory
+     ups are available       of availability.               of the lack of availability   authority or to individuals as
+     and the data cannot                                    of the data, as well as       there would have been no
+     be restored. On                                        other likely                  permanent loss of
+     investigation, it                                      consequences.                 availability or
+     becomes clear that                                                                   confidentiality. However, if
+     the ransomware’s
+                                                                                          the supervisory authority
+     only functionality
+                                                                                          became aware of the
+
+Adopted                                                                                                              31
+
+    was to encrypt the                                                                  incident by other means, it
+    data, and that there                                                                may consider an
+    was no other                                                                        investigation to assess
+    malware present in                                                                  compliance with the
+    the system.                                                                         broader security
+                                                                                        requirements of Article 32.
+
+
+
+
+v   An individual            Yes.                        Only the individuals           If, after further
+    phones a bank’s call                                 affected are notified if       investigation, it is identified
+    centre to report a                                   there is high risk and it is   that more individuals are
+    data breach. The                                     clear that others were         affected, an update to the
+    individual has                                       not affected.                  supervisory authority must
+    received a monthly                                                                  be made and the controller
+    statement for                                                                       takes the additional step of
+    someone else.                                                                       notifying other individuals if
+                                                                                        there is high risk to them.
+    The controller
+    undertakes a short
+    investigation (i.e.
+    completed within
+    24 hours) and
+    establishes with a
+    reasonable
+    confidence that a
+    personal data
+    breach has occurred
+    and whether it has a
+    systemic flaw that
+    may mean other
+    individuals are or
+    might be affected.
+
+vi A controller              Yes, report to lead         Yes, as could lead to          The controller should take
+    operates an online       supervisory authority if    high risk.                     action, e.g. by forcing
+    marketplace and          involves cross-border                                      password resets of the
+    has customers in         processing.                                                affected accounts, as well as
+    multiple Member                                                                     other steps to mitigate the
+    States. The                                                                         risk.
+    marketplace suffers
+                                                                                        The controller should also
+    a cyber-attack and
+                                                                                        consider any other
+    usernames,
+    passwords and                                                                       notification obligations, e.g.
+    purchase history are                                                                under the NIS Directive as a
+    published online by                                                                 digital service provider.
+    the attacker.
+
+vii A website hosting        As the processor, the       If there is likely no high     The website hosting
+    company acting as a      website hosting company     risk to the individuals        company (processor) must
+    data processor           must notify                 they do not need to be         consider any other
+    identifies an error in   its affected clients (the   notified.                      notification obligations (e.g.
+    the code which           controllers) without                                       under the NIS Directive as a
+    controls user            undue delay.                                               digital service provider).
+    authorisation. The
+                             Assuming that the                                          If there is no evidence of
+    effect of the flaw
+                             website hosting                                            this vulnerability being
+    means that any user
+
+Adopted                                                                                                              32
+
+    can access the           company has conducted                                     exploited with any of its
+    account details of       its own investigation the                                 controllers a notifiable
+    any other user           affected controllers                                      breach may not have
+                             should be reasonably                                      occurred but it is likely to be
+                             confident as to whether                                   recordable or be a matter of
+                             each has suffered a                                       non-compliance under
+                             breach and therefore is
+                                                                                       Article 32.
+                             likely to be considered as
+                             having “become aware”
+                             once they have been
+                             notified by the hosting
+                             company (the processor).
+                             The controller then must
+                             notify the supervisory
+                             authority
+viii Medical records in a    Yes, the hospital is         Yes, report to the
+    hospital        are      obliged to notify as high-   affected individuals.
+    unavailable for the      risk to patient’s well-
+    period of 30 hours       being and privacy may
+    due to a cyber-          occur.
+    attack.
+
+ix Personal data of a        Yes, report to supervisory Yes, report to individuals
+    large number of          authority.                 depending on the scope
+    students are                                        and type of personal
+    mistakenly sent to                                  data involved and the
+    the wrong mailing                                   severity of possible
+    list with 1000+                                     consequences.
+    recipients.
+
+x   A direct marketing       Yes, notifying the           Yes, report to individuals   Notification may not be
+    e-mail is sent to        supervisory authority        depending on the scope       necessary if no sensitive
+    recipients in the        may be obligatory if a       and type of personal         data is revealed and if only a
+    “to:” or “cc:” fields,   large number of              data involved and the        minor number of email
+    thereby enabling         individuals are affected,    severity of possible         addresses are revealed.
+    each recipient to        if sensitive data are        consequences.
+    see the email            revealed (e.g. a mailing
+    address of other         list of a psychotherapist)
+    recipients.              or if other factors
+                             present high risks (e.g.
+                             the mail contains the
+                             initial passwords).
+
+
+
+
+Adopted                                                                                                           33
 ```

@@ -11,7 +11,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2009-48
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2009-224817465
 eli: https://data.dre.pt/eli/decregul/25/2009/p/cons/20150422/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Decreto Regulamentar n.º 25/2009

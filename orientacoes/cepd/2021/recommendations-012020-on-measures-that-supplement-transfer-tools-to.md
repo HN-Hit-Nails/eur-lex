@@ -1,2760 +1,2484 @@
 ---
-titulo: "Recomendações 01/2020 relativas às medidas complementares aos instrumentos de transferência para assegurar o cumprimento do nível de proteção dos dados pessoais da UE"
+titulo: "Recommendations 01/2020 on measures that supplement transfer tools to ensure compliance with the EU level of protection of personal data"
 titulo_en: "Recommendations 01/2020 on measures that supplement transfer tools to ensure compliance with the EU level of protection of personal data"
 tipo: Recomendações
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2021-06-18'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/recommendation/recommendations-012020-on-measures-that-supplement-transfer-tools-to_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2022-04/edpb_recommendations_202001vo.2.0_supplementarymeasurestransferstools_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2021-06/edpb_recommendations_202001vo.2.0_supplementarymeasurestransferstools_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Recomendações 01/2020 relativas às medidas complementares aos instrumentos de transferência para assegurar o cumprimento do nível de proteção dos dados pessoais da UE
+# Recommendations 01/2020 on measures that supplement transfer tools to ensure compliance with the EU level of protection of personal data
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Translations proofread by EDPB Members.
-              This language version has not yet been proofread.
+Recommendations 01/2020 on measures that
+     supplement transfer tools to ensure compliance with
+          the EU level of protection of personal data
+                         Version 2.0
+                   Adopted on 18 June 2021
 
 
 
 
-      Recomendações 01/2020 relativas às medidas
-  complementares aos instrumentos de transferência para
-                 assegurar o cumprimento
-      do nível de proteção dos dados pessoais da UE
-                             Versão 2.0
-              Adotado em 18 de junho de 2021
+Adopted                                                    1
+
+Version history
+
+ Version 2.0   18 June 2021       Adoption of the Recommendations after public consultation
+
+ Version 1.0   10 November 2020   Adoption of the Recommendations for public consulation
 
 
 
 
-Adotado                                                           1
+Adopted                                                                                       2
 
-Histórico de versões
+Executive summary
 
- Versão 2.0   18 de junho de 2021   Adoção das Recomendações após consulta pública
-
- Versão 1.0   10 de novembro de Adoção das Recomendações para consulta pública
-              2020
-
-
-
-
-Adotado                                                                              2
-
-Resumo
-
-O Regulamento Geral sobre a Proteção de Dados da UE (RGPD) foi adotado com um duplo objetivo:
-facilitar a livre circulação de dados pessoais na União Europeia, preservando ao mesmo tempo os
-direitos e liberdades fundamentais das pessoas, nomeadamente o seu direito à proteção de dados
-pessoais.
-No seu recente acórdão Schrems II, no processo C-311/18, o Tribunal de Justiça da União Europeia (a
-seguir «Tribunal de Justiça») recorda-nos que a proteção concedida aos dados pessoais no Espaço
-Económico Europeu (a seguir «EEE») deve acompanhar os dados onde quer que os mesmos sejam
-utilizados. A transferência de dados pessoais para países terceiros não pode ser um meio de
-comprometer ou atenuar a proteção que lhe é concedida no EEE. O Tribunal de Justiça também afirma
-o que precede esclarecendo que o nível de proteção em países terceiros não precisa de ser idêntico
-ao garantido no EEE, mas essencialmente equivalente. Confirma igualmente a validade das cláusulas
-contratuais-tipo como instrumentos de transferência que podem servir para assegurar
-contratualmente um nível de proteção essencialmente equivalente para os dados transferidos para
-países terceiros.
-As cláusulas contratuais-tipo e outros instrumentos de transferência referidos no artigo 46.º do RGPD
-não funcionam num vazio. O Tribunal de Justiça declara que os responsáveis pelo tratamento dos
-dados ou os subcontratantes, agindo como exportadores, são responsáveis por verificar, caso a caso
-e, sempre que adequado, em colaboração com o importador no país terceiro, se o direito ou a prática
-do país terceiro afetam a eficácia das garantias adequadas contidas nos instrumentos de transferência
-do artigo 46.º do RGPD. Em tais casos, o Tribunal de Justiça deixa ainda em aberto a possibilidade de
-os exportadores aplicarem medidas complementares que colmatem as lacunas na proteção e a
-aproximem do nível exigido pela legislação da UE. O Tribunal de Justiça não especifica quais poderão
-ser as medidas. No entanto, sublinha que os exportadores devem identificá-las caso a caso. O que
-precede está em consonância com o princípio da responsabilidade constante do artigo 5.º, n.º 2, do
-RGPD, que exige que os responsáveis pelo tratamento sejam responsáveis pelo cumprimento dos
-princípios RGPD relativos ao tratamento dos dados pessoais e que sejam capazes de o comprovar.
-A fim de ajudar os exportadores (sejam estes responsáveis pelo tratamento dos dados ou
-subcontratantes, entidades privadas ou organismos públicos que tratam dados pessoais abrangidos
-pelo âmbito de aplicação do RGPD) na complexa tarefa de avaliar países terceiros e identificar medidas
-complementares adequadas sempre que necessário, o Comité Europeu para a Proteção de Dados (a
-seguir «CEPD») adotou as presentes recomendações. As presentes recomendações preveem várias
-etapas a seguir, possíveis fontes de informação e alguns exemplos de medidas complementares que
-podem ser aplicadas.
-Numa primeira etapa, o CEPD recomenda ao exportador que conheça as suas transferências. Fazer
-um levantamento de todas as transferências de dados pessoais para países terceiros pode ser um
-processo difícil. No entanto, é necessário ter conhecimento do destino dos dados pessoais para
-garantir que estes beneficiam de um nível de proteção essencialmente equivalente onde quer sejam
-tratados. O exportador deve igualmente verificar se os dados transferidos são adequados, pertinentes
-e limitados ao necessário relativamente aos fins para os quais são tratados.
-Numa segunda etapa, é necessário verificar o instrumento de transferência utilizado para a
-transferência entre os enumerados no capítulo V do RGPD. Se a Comissão Europeia já tiver declarado
-que o país, a região ou o setor para os quais são transferidos os dados são adequados, através de uma
-decisão de adequação ao abrigo do artigo 45.º do RGPD ou ao abrigo da anterior Diretiva 95/46,
-enquanto a decisão estiver em vigor, o exportador deverá apenas verificar se a decisão de adequação
-permanece válida. Na falta de uma decisão de adequação, o exportador deve recorrer a um dos
-instrumentos de transferência enumerados no artigo 46.º do RGPD. O exportador apenas poderá
-recorrer a uma das derrogações previstas no artigo 49.º do RGPD em alguns casos, desde que cumpra
+The EU General Data Protection Regulation (GDPR) was adopted to serve a dual-purpose: facilitating
+the free flow of personal data within the European Union, while preserving the fundamental rights and
+freedoms of individuals, in particular their right to the protection of personal data.
+In its recent judgment C-311/18 (Schrems II) the Court of Justice of the European Union (CJEU) reminds
+us that the protection granted to personal data in the European Economic Area (EEA) must travel with
+the data wherever it goes. Transferring personal data to third countries cannot be a means to
+undermine or water down the protection it is afforded in the EEA. The Court also asserts this by
+clarifying that the level of protection in third countries does not need to be identical to that guaranteed
+within the EEA but essentially equivalent. The Court also upholds the validity of standard contractual
+clauses, as a transfer tool that may serve to ensure contractually an essentially equivalent level of
+protection for data transferred to third countries.
+Standard contractual clauses and other transfer tools mentioned under Article 46 GDPR do not operate
+in a vacuum. The Court states that controllers or processors, acting as exporters, are responsible for
+verifying, on a case-by-case basis and, where appropriate, in collaboration with the importer in the
+third country, if the law or practice of the third country impinges on the effectiveness of the
+appropriate safeguards contained in the Article 46 GDPR transfer tools. In those cases, the Court still
+leaves open the possibility for exporters to implement supplementary measures that fill these gaps in
+the protection and bring it up to the level required by EU law. The Court does not specify which
+measures these could be. However, the Court underlines that exporters will need to identify them on
+a case-by-case basis. This is in line with the principle of accountability of Article 5.2 GDPR, which
+requires controllers to be responsible for, and be able to demonstrate compliance with the GDPR
+principles relating to processing of personal data.
+To help exporters (be they controllers or processors, private entities or public bodies, processing
+personal data within the scope of application of the GDPR) with the complex task of assessing third
+countries and identifying appropriate supplementary measures where needed, the European Data
+Protection Board (EDPB) has adopted these recommendations. These recommendations provide
+exporters with a series of steps to follow, potential sources of information, and some examples of
+supplementary measures that could be put in place.
+As a first step, the EDPB advises you, exporters, to know your transfers. Mapping all transfers of
+personal data to third countries can be a difficult exercise. Being aware of where the personal data
+goes is however necessary to ensure that it is afforded an essentially equivalent level of protection
+wherever it is processed. You must also verify that the data you transfer is adequate, relevant and
+limited to what is necessary in relation to the purposes for which it is processed.
+A second step is to verify the transfer tool your transfer relies on, amongst those listed under Chapter
+V GDPR. If the European Commission has already declared the country, region or sector to which you
+are transferring the data as adequate, through one of its adequacy decisions under Article 45 GDPR or
+under the previous Directive 95/46 as long as the decision is still in force, you will not need to take any
+further steps, other than monitoring that the adequacy decision remains valid. In the absence of an
+adequacy decision, you need to rely on one of the transfer tools listed under Articles 46 GDPR. Only in
+some cases you may be able to rely on one of the derogations provided for in Article 49 GDPR if you
+meet the conditions. Derogations cannot become “the rule” in practice, but need to be restricted to
+specific situations.
+A third step is to assess if there is anything in the law and/or practices in force of the third country
+that may impinge on the effectiveness of the appropriate safeguards of the transfer tools you are
+relying on, in the context of your specific transfer. Your assessment should be focused first and
+foremost on third country legislation that is relevant to your transfer and the Article 46 GDPR transfer
+tool you are relying on. Examining also the practices of the third country’s public authorities will allow
 
 
 
-Adotado                                                                                             3
+Adopted                                                                                                  3
 
-as condições estipuladas. As derrogações não podem, na prática, tornar-se a «regra», mas devem
-limitar-se a situações específicas.
-A terceira etapa consiste em avaliar se existe algo no direito ou nas práticas do país terceiro que possa
-afetar a eficácia das garantias adequadas dos instrumentos de transferência a que recorre o
-exportador, no contexto da transferência específica. A avaliação do exportador deve centrar-se, antes
-de mais, na legislação do país terceiro que é pertinente para a sua transferência e para o instrumento
-de transferência do artigo 46.º do RGPD utilizado. O exame das práticas das autoridades públicas do
-país terceiro permitir-lhe-á verificar se as garantias contidas no instrumento de transferência podem
-assegurar, na prática, a proteção efetiva dos dados pessoais transferidos. O exame destas práticas será
-especialmente relevante para a avaliação do exportador nos casos em que:
-(i.) a legislação do país terceiro que cumpre formalmente as normas da UE não é manifestamente
-aplicada ou cumprida na prática;
-(ii.) existem práticas incompatíveis com os compromissos do instrumento de transferência quando não
-existe legislação pertinente no país terceiro;
-(iii.) os dados transferidos do exportador e/ou o importador são ou podem ser abrangidos pelo âmbito
-de aplicação de legislação problemática (ou seja, que afeta a garantia contratual do instrumento de
-transferência de um nível de proteção essencialmente equivalente e não cumpre as normas da UE em
-matéria de direitos fundamentais, necessidade e proporcionalidade).
-Nas duas primeiras situações, o exportador deve suspender a transferência ou aplicar medidas
-complementares adequadas se desejar prosseguir com a transferência.
-Na terceira situação, tendo em conta as incertezas quanto à potencial aplicação de legislação
-problemática à transferência, o exportador pode decidir: suspender a transferência; implementar
-medidas complementares para prosseguir com a transferência; ou, em alternativa, decidir prosseguir
-com a transferência sem aplicar medidas complementares se considerar e puder demonstrar e
-documentar que não tem motivos para crer que a legislação relevante e problemática será
-interpretada e/ou aplicada, na prática, de modo a abranger os dados transferidos e o importador.
-Para avaliar os elementos a ter em consideração na avaliação da legislação de um país terceiro em
-matéria de acesso aos dados pelas autoridades públicas para fins de vigilância, o exportador deve
-consultar as Recomendações do CEPD sobre as garantias essenciais europeias.
-O exportador deve efetuar a referida avaliação com a devida diligência e documentá-la integralmente.
-As autoridades de controlo e/ou judiciais competentes podem solicitar a referida avaliação e
-responsabilizá-lo por qualquer decisão tomada com base na mesma.
-Numa quarta etapa, há que identificar e adotar as medidas complementares necessárias para
-aproximar o nível de proteção dos dados transferidos do nível da norma europeia de equivalência
-essencial. A etapa em causa apenas é necessária se a avaliação do exportador revelar que a legislação
-e/ou as práticas do país terceiro afetam a eficácia do instrumento de transferência do artigo 46.º do
-RGPD que o exportador utiliza ou pretende utilizar no contexto da transferência. As presentes
-recomendações contêm, no anexo 2, uma lista não exaustiva de exemplos de medidas
-complementares e algumas das condições necessárias à sua eficácia. À semelhança das garantias
-adequadas contidas nos instrumentos de transferência do artigo 46.º, algumas medidas
-complementares podem ser eficazes nuns países, mas não necessariamente noutros. O exportador
-será responsável por avaliar a respetiva eficácia no contexto da transferência e à luz da legislação e da
-prática do país terceiro e do instrumento de transferência utilizado, uma vez que será responsabilizado
-por qualquer decisão que venha a tomar a esse respeito. Tal poderá igualmente exigir a conjugação de
-diversas medidas complementares. Em última análise, é possível que nenhuma medida complementar
-possa assegurar um nível de proteção essencialmente equivalente à transferência específica. No caso
-de não haver nenhuma medida complementar adequada, o exportador deve evitar, suspender ou pôr
-termo à transferência a fim de não comprometer o nível de proteção dos dados pessoais. O exportador
-
-
-Adotado                                                                                                4
-
-deve igualmente efetuar a referida avaliação de medidas complementares com a devida diligência e
-documentá-la.
-Numa quinta etapa, o exportador deve adotar todas as medidas processuais formais que a adoção da
-sua medida complementar possa exigir, em função do instrumento de transferência do artigo 46.º do
-RGPD que utilizar. As presentes recomendações especificam algumas destas formalidades. Pode ser
-necessário consultar as autoridades de controlo competentes relativamente a algumas das referidas
-medidas.
-A sexta e última etapa consiste em reavaliar, com a periodicidade adequada, o nível de proteção
-concedido aos dados transferidos para países terceiros e controlar eventuais desenvolvimentos
-passados ou futuros que o possam afetar. O princípio da responsabilidade exige a vigilância
-permanente do nível de proteção dos dados pessoais.
-As autoridades de controlo continuarão a exercer o seu mandato que consiste em monitorizar a
-aplicação do RGPD e em impor a sua observância. As autoridades de controlo terão em devida
-consideração as medidas adotadas pelos exportadores para assegurar que os dados transferidos
-beneficiam de um nível de proteção essencialmente equivalente. Conforme recorda o Tribunal de
-Justiça, a autoridade de controlo competente suspenderá ou proibirá as transferências de dados
-sempre que considerar que não pode ser garantido um nível de proteção essencialmente equivalente.
-As autoridades de controlo continuarão a elaborar orientações destinadas aos exportadores e a
-coordenar as suas ações no seio do CEPD, a fim de garantir a coerência na aplicação da legislação da
-UE em matéria de proteção de dados.
+you to verify if the safeguards contained in the transfer tool can ensure, in practice, the effective
+protection of the personal data transferred. Examining these practices will be especially relevant for
+your assessment where:
+(i) legislation in the third country formally meeting EU standards is manifestly not applied/complied
+with in practice;
+(ii) there are practices incompatible with the commitments of the transfer tool where relevant
+legislation in the third country is lacking;
+(iii) your transferred data and/or importer fall or might fall within the scope of problematic legislation
+(i.e. impinging on the transfer tool’s contractual guarantee of an essentially equivalent level of
+protection and not meeting EU standards on fundamental rights, necessity and proportionality).
+In the first two situations, you will have to suspend the transfer or implement adequate supplementary
+measures if you wish to proceed with it.
+In the third situation, in light of uncertainties surrounding the potential application of problematic
+legislation to your transfer, you may decide to: suspend the transfer; implement supplementary
+measures to proceed with it; or alternatively, you may decide to proceed with the transfer without
+implementing supplementary measures if you consider and are able to demonstrate and document
+that you have no reason to believe that relevant and problematic legislation will be interpreted and/or
+applied in practice so as to cover your transferred data and importer.
+For evaluating the elements to be taken into account when assessing the law of a third country dealing
+with access to data by public authorities for the purpose of surveillance, please refer to the EDPB
+European Essential Guarantees recommendations.
+You should conduct this assessment with due diligence and document it thoroughly. Your competent
+supervisory and/or judicial authorities may request it and hold you accountable for any decision you
+take on that basis.
+A fourth step is to identify and adopt supplementary measures that are necessary to bring the level
+of protection of the data transferred up to the EU standard of essential equivalence. This step is only
+necessary if your assessment reveals that the third country legislation and/or practices impinge on the
+effectiveness of the Article 46 GDPR transfer tool you are relying on or you intend to rely on in the
+context of your transfer. These recommendations contain (in Annex 2) a non-exhaustive list of
+examples of supplementary measures with some of the conditions they would require to be effective.
+As is the case for the appropriate safeguards contained in the Article 46 transfer tools, some
+supplementary measures may be effective in some countries, but not necessarily in others. You will be
+responsible for assessing their effectiveness in the context of the transfer, and in light of the third
+country law and practices and the transfer tool you are relying on, as you will be held accountable for
+any decision you take on that basis. This might also require you to combine several supplementary
+measures. You may ultimately find that no supplementary measure can ensure an essentially
+equivalent level of protection for your specific transfer. In those cases where no supplementary
+measure is suitable, you must avoid, suspend or terminate the transfer to avoid compromising the
+level of protection of the personal data. You should also conduct this assessment of supplementary
+measures with due diligence and document it.
+A fifth step is to take any formal procedural steps the adoption of your supplementary measure may
+require, depending on the Article 46 GDPR transfer tool you are relying on. These recommendations
+specify some of these formalities. You may need to consult your competent supervisory authorities on
+some of them.
+The sixth and final step is to re-evaluate at appropriate intervals the level of protection afforded to
+the personal data you transfer to third countries and to monitor if there have been or there will be any
 
 
 
 
-Adotado                                                                                           5
+Adopted                                                                                                 4
 
-ÍNDICE
-Índice......................................................................................................................................................6
-Responsabilidade pelas transferências de dados ...................................................................................9
-Roteiro: aplicação do princípio da responsabilidade às transferências de dados na prática ................10
-   Etapa 1: Conhecer as transferências ................................................................................................11
-   Etapa 2: Identificar os instrumentos de transferência utilizados .....................................................12
-   Etapa 3: Avaliar se o instrumento de transferência do artigo 46.º do RGPD utilizado é eficaz tendo
-   em conta todas as circunstâncias da transferência ..........................................................................15
-   Etapa 4: Adotar medidas complementares ......................................................................................23
-   Etapa 5: Etapas do processo a seguir quando o exportador identifica medidas complementares
-   eficazes .............................................................................................................................................26
-   Etapa 6: Reavaliar com frequência adequada ..................................................................................27
-Conclusão .............................................................................................................................................28
-ANEXO 1: DEFINIÇÕES ..........................................................................................................................29
-ANEXO 2: EXEMPLOS DE MEDIDAS COMPLEMENTARES ......................................................................30
-   2.1 Medidas técnicas ........................................................................................................................30
-   2.2 Medidas contratuais adicionais ..................................................................................................39
-   2.3. Disposições organizativas ..........................................................................................................48
-ANEXO 3: POSSÍVEIS FONTES DE INFORMAÇÃO PARA A AVALIAÇÃO DE UM PAÍS TERCEIRO ..............52
+developments that may affect it. The principle of accountability requires continuous vigilance of the
+level of protection of personal data.
+Supervisory authorities will continue exercising their mandate to monitor the application of the GDPR
+and enforce it. Supervisory authorities will pay due consideration to the actions exporters take to
+ensure that the data they transfer is afforded an essentially equivalent level of protection. As the Court
+recalls, supervisory authorities will suspend or prohibit data transfers in those cases where they find
+that an essentially equivalent level of protection cannot be ensured, following an investigation or a
+complaint.
+Supervisory authorities will continue developing guidance for exporters and coordinating their actions
+in the EDPB to ensure consistency in the application of EU data protection law.
 
 
 
 
-Adotado                                                                                                                                                    6
+Adopted                                                                                                 5
 
-O Comité Europeu para a Proteção de Dados
-
-Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-seguir «RGPD»),
-
-Tendo em conta o Acordo sobre o Espaço Económico Europeu (Acordo EEE) e, nomeadamente, os seus
-anexo XI e protocolo n.º 37, com a redação que lhes foi dada pela Decisão n.º 154/2018 do Comité
-Misto do EEE, de 6 de julho de 2018 1,
-
-Tendo em conta os artigos 12.º e 22.º do seu Regulamento Interno,
-
-
-
-Considerando o seguinte:
-
-(1) O Tribunal de Justiça da União Europeia (a seguir «Tribunal de Justiça») conclui no seu Acórdão de
-16 de julho de 2020 Data Protection Commissioner/ Facebook Ireland LTD e Maximillian Schrems, C-
-311/18, que o artigo 46.º, n.º 1, e o artigo 46.º, n.º 2, alínea c), do Regulamento 2016/679 devem ser
-interpretados no sentido de que as garantias adequadas, os direitos oponíveis e as medidas jurídicas
-corretivas eficazes, exigidos por estas disposições, devem assegurar que os direitos das pessoas cujos
-dados pessoais são transferidos para um país terceiro com base em cláusulas-tipo de proteção de
-dados beneficiam de um nível de proteção substancialmente equivalente ao garantido na União
-Europeia por este regulamento, lido à luz da Carta dos Direitos Fundamentais da União Europeia 2.
-
-(2) Tal como sublinhado pelo Tribunal de Justiça, deve ser assegurado um nível de proteção das
-pessoas singulares essencialmente equivalente ao garantido na União Europeia pelo RGPD, tendo em
-consideração a Carta, independentemente do disposto no capítulo V com base no qual se realiza uma
-transferência de dados pessoais para um país terceiro. As disposições do capítulo V visam assegurar a
-continuidade do referido elevado nível de proteção sempre que dados pessoais são transferidos para
-um país terceiro. 3
-
-(3) O considerando 108 e o artigo 46.º, n.º 1, do RGPD preveem que, na falta de uma decisão da UE
-sobre o nível de proteção adequado, um responsável pelo tratamento ou um subcontratante deverá
-adotar as medidas necessárias para colmatar a insuficiência da proteção de dados no país terceiro
-dando para tal garantias adequadas ao titular dos dados. O responsável pelo tratamento ou
-subcontratante pode prever garantias adequadas, sem necessidade de qualquer autorização específica
-de uma autoridade de controlo, mediante a utilização de um dos instrumentos de transferência
-enumerados no artigo 46.º, n.º 2, do RGPD, tais como cláusulas-tipo de proteção de dados.
+TABLE OF CONTENTS
+1      Accountability in data transfers ...................................................................................................... 9
+2      Roadmap: applying the principle of accountability to data transfers in practice ......................... 10
+              Step 1: Know your transfers .................................................................................................. 10
+              Step 2: Identify the transfer tools you are relying on ........................................................... 11
+             Step 3: Assess whether the Article 46 GDPR transfer tool you are relying on is effective in
+    light of all circumstances of the transfer........................................................................................... 14
+              Step 4: Adopt supplementary measures ............................................................................... 21
+              Step 5: Procedural steps if you have identified effective supplementary measures ............ 23
+              Step 6: Re-evaluate at appropriate intervals ........................................................................ 25
+3      Conclusion ..................................................................................................................................... 25
+ANNEX 1: DEFINITIONS .......................................................................................................................... 27
+ANNEX 2: EXAMPLES OF SUPPLEMENTARY MEASURES ........................................................................ 28
+    2.1 Technical measures ..................................................................................................................... 28
+    2.2 Additional contractual measures ................................................................................................ 36
+    2.3 Organisational measures ............................................................................................................. 43
+ANNEX 3: POSSIBLE SOURCES OF INFORMATION TO ASSESS A THIRD COUNTRY ................................ 47
 
 
+
+
+Adopted                                                                                                                                                 6
+
+The European Data Protection Board
+
+Having regard to Article 70(1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter
+“GDPR”),
+
+Having regard to the European Economic Area (EEA) Agreement and in particular to Annex XI and
+Protocol 37 thereof, as amended by the Decision of the EEA joint Committee No 154/2018 of 6 July
+20181,
+
+Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+
+
+Whereas:
+
+(1) The Court of Justice of the European Union (CJEU) concludes in its judgment of 16 July 2020 Data
+Protection Commissioner v. Facebook Ireland LTD, Maximillian Schrems, C-311/18 that Article 46 (1)
+and 46 (2)(c) of the GDPR must be interpreted as meaning that the appropriate safeguards,
+enforceable rights and effective legal remedies required by those provisions must ensure that data
+subjects whose personal data are transferred to a third country pursuant to standard data protection
+clauses are afforded a level of protection essentially equivalent to that guaranteed within the
+European Union by that regulation, read in the light of the Charter of the Fundamental Rights of the
+European Union.2
+
+(2) As underlined by the Court, a level of protection of natural persons essentially equivalent to that
+guaranteed within the European Union by the GDPR, read in the light of the Charter, must be
+guaranteed irrespective of the provision of Chapter V on the basis of which a transfer of personal data
+to a third country is carried out. The provisions of Chapter V intend to ensure the continuity of that
+high level of protection where personal data is transferred to a third country.3
+
+(3) Recital 108 and Article 46 (1) GDPR provide that in the absence of an EU adequacy decision, a
+controller or processor should take measures to compensate for the lack of data protection in a third
+country by way of appropriate safeguards for the data subject. A controller or processor may provide
+appropriate safeguards, without requiring any specific authorisation from a supervisory authority,
+through its use of one of the transfer tools listed under Article 46 (2) GDPR, such as standard data
+protection clauses.
+
+(4) The Court clarifies that the standard data protection clauses adopted by the Commission are solely
+intended to provide contractual guarantees that apply uniformly in all third countries to controllers
+and processors established in the European Union. Due to their contractual nature, standard data
+protection clauses cannot bind the public authorities of third countries, since they are not party to the
+contract. Consequently, data exporters may need to supplement the guarantees contained in those
 
 1
-   As referências a «Estados-Membros» no presente documento devem ser entendidas como referências a
-«Estados-Membros do EEE».
+  References to “Member States” made throughout this document should be understood as references to “EEA
+Member States”.
 2
-  Acórdão do Tribunal de Justiça de 16 de julho de 2020, Data Protection Commissioner/ Facebook Ireland Ltd e
-Maximillian Schrems (C-311/18, a seguir «acórdão Schrems II)»), ponto 2) do dispositivo.
+  CJEU judgment of 16 July 2020, Data Protection Commissioner v Facebook Ireland Ltd, Maximillian Schrems,
+(hereinafter C-311/18 (Schrems II)), second finding.
 3
-  Acórdão Schrems II, n.os 92 e 93.
+  C-311/18 (Schrems II), paragraphs 92 and 93.
 
 
-Adotado                                                                                                    7
 
-(4) O Tribunal de Justiça esclarece que as cláusulas-tipo de proteção de dados adotadas pela Comissão
-se destinam exclusivamente a prever garantias contratuais aplicáveis de modo uniforme em todos os
-países terceiros aos responsáveis pelo tratamento e subcontratantes estabelecidos na União Europeia.
-Devido à sua natureza contratual, as cláusulas-tipo de proteção de dados não podem vincular as
-autoridades públicas de países terceiros, uma vez que estas não são parte signatária do contrato.
-Consequentemente, os exportadores de dados podem ter de complementar as garantias constantes
-das referidas cláusulas-tipo de proteção de dados com medidas complementares por forma a
-assegurar o cumprimento do nível de proteção exigido pela legislação da UE num determinado país
-terceiro. O Tribunal de Justiça faz referência ao considerando 109 do RGPD, que menciona tal
-possibilidade e incentiva os responsáveis pelo tratamento e subcontratantes a utilizá-la. 4
+Adopted                                                                                                 7
 
-(5) O Tribunal de Justiça afirmou que cabe, antes de mais, ao responsável pelo tratamento verificar,
-caso a caso e, se for caso disso, em colaboração com o importador dos dados, se o direito do país
-terceiro de destino assegura um nível de proteção essencialmente equivalente, à luz do direito da
-União, dos dados pessoais transferidos com base em cláusulas-tipo de proteção de dados, fornecendo,
-se necessário, medidas complementares às oferecidas por essas cláusulas. 5
+standard data protection clauses with supplementary measures to ensure compliance with the level
+of protection required under EU law in a particular third country. The Court refers to recital 109 of the
+GDPR, which mentions this possibility and encourages controllers and processors to use it.4
 
-(6) Se o responsável pelo tratamento ou subcontratante estabelecido na União Europeia não puder
-adotar medidas complementares adequadas para assegurar um nível de proteção essencialmente
-equivalente nos termos da legislação da UE, o responsável pelo tratamento ou subcontratante ou, na
-falta destes, a autoridade de controlo competente deve suspender ou pôr termo à transferência de
-dados pessoais para o país terceiro em causa. 6
+(5) The Court stated that it is above all, for the data exporter to verify, on a case-by-case basis and,
+where appropriate, in collaboration with the importer of the data, whether the law of the third country
+of destination ensures an essentially equivalent level of protection, under EU law, of personal data
+transferred pursuant to standard data protection clauses, by providing, where necessary,
+supplementary measures to those offered by those clauses.5
 
-(7) O RGPD ou o Tribunal de Justiça não definem nem especificam as «garantias adicionais», «medidas
-adicionais» ou «medidas complementares» das garantias dos instrumentos de transferência
-enumerados no artigo 46.º, n.º 2, do RGPD que os responsáveis pelo tratamento e os subcontratantes
-podem adotar para assegurar o cumprimento do nível de proteção exigido num determinado país
-terceiro ao abrigo da legislação da UE.
+(6) If the controller or a processor established in the European Union is not able to take appropriate
+supplementary measures to guarantee an essentially equivalent level of protection under EU law, the
+controller or processor or, failing that, the competent supervisory authority, are required to suspend
+or end the transfer of personal data to the third country concerned.6
 
-(8) Por iniciativa própria, o CEPD decidiu analisar esta questão e disponibilizar aos responsáveis pelo
-tratamento e subcontratantes, agindo como exportadores, recomendações sobre o processo que
-podem seguir para identificar e adotar medidas complementares. As presentes recomendações
-destinam-se a fornecer aos exportadores uma metodologia para determinar se devem ser adotadas
-medidas adicionais em relação às suas transferências e quais são essas medidas. A principal
-responsabilidade dos exportadores consiste em assegurar que os dados transferidos beneficiem no
-país terceiro de um nível de proteção essencialmente equivalente ao garantido no EEE. O CEPD
-procura, com as presentes recomendações, incentivar a aplicação coerente do RGPD e do acórdão do
-Tribunal de Justiça, em conformidade com o mandato do CEPD. 7
+(7) The GDPR or the Court do not define or specify the “additional safeguards”, “additional measures”
+or “supplementary measures” to the safeguards of the transfer tools listed under Article 46.2 of the
+GDPR that controllers and processors may adopt to ensure compliance with the level of protection
+required under EU law in a particular third country.
 
-ADOTOU AS PRESENTES RECOMENDAÇÕES:
+(8)The EDPB has decided, on its own initiative, to examine this question and to provide controllers and
+processors, acting as exporters, with recommendations on the process they may follow to identify and
+adopt supplementary measures. These recommendations aim at providing a methodology for the
+exporters to determine whether and which additional measures would need to be put in place for their
+transfers. It is the primary responsibility of exporters to ensure that the data transferred is afforded in
+the third country of a level of protection essentially equivalent to that guaranteed within the EEA. With
+these recommendations, the EDPB seeks to encourage consistent application of the GDPR and the
+Court’s ruling, pursuant to the EDPB’s mandate.7
+
+HAS ADOPTED THE FOLLOWING RECOMMENDATIONS:
+
 
 
 
 4
-  Acórdão Schrems II, n.os 132 e 133.
+  C-311/18 (Schrems II), paragraphs 132 and 133.
 5
-  Acórdão Schrems II, n.º 134.
+  C-311/18 (Schrems II), paragraph 134.
 6
-  Acórdão Schrems II, n.º 135.
+  C-311/18 (Schrems II), paragraphs 135.
 7
-  Artigo 70.º, n.º 1, alínea e), do RGPD.
+  Article 70.1.e GDPR.
 
 
-Adotado                                                                                              8
+Adopted                                                                                                  8
 
-RESPONSABILIDADE PELAS TRANSFERÊNCIAS DE DADOS
-    1.   O direito primário da UE considera o direito à proteção de dados um direito fundamental 8. Assim,
-         é atribuído um elevado nível de proteção ao direito à proteção de dados e apenas podem ser
-         implementadas restrições se forem previstas na legislação, respeitarem o conteúdo essencial do
-         direito, forem proporcionadas e necessárias e corresponderem efetivamente aos objetivos de
-         interesse geral reconhecidos pela União ou à necessidade de proteção dos direitos e liberdades
-         de terceiros. 9 O direito à proteção de dados pessoais não é absoluto; deve ser considerado em
-         relação à sua função na sociedade e ser equilibrado com outros direitos fundamentais, em
-         conformidade com o princípio da proporcionalidade. 10
+1 ACCOUNTABILITY IN DATA TRANSFERS
+    1.   EU primary law considers the right to data protection as a fundamental right.8 Accordingly, the
+         right to data protection is afforded a high level of protection and limitations may only be made if
+         they are provided for by law, respect the essence of its right, are proportionate, necessary and
+         genuinely meet objectives of general interest recognised by the Union or the need to protect the
+         rights and freedoms of others.9 The right to the protection of personal data is not an absolute
+         right; it must be considered in relation to its function in society and be balanced against other
+         fundamental rights, in accordance with the principle of proportionality.10
 
-    2. Os dados devem ser acompanhados de um nível de proteção essencialmente equivalente ao
-       garantido na UE sempre que estes são enviados para países terceiros fora do EEE, a fim de
-       assegurar que o nível de proteção garantido pelo RGPD não é comprometido durante e após a
-       transferência.
+    2. An essentially equivalent level of protection to that guaranteed within the EU must accompany
+       the data when it travels to third countries outside the EEA to ensure that the level of protection
+       guaranteed by the GDPR is not undermined, both during and after the transfer.
 
-    3. O direito à proteção de dados tem um caráter ativo, exigindo que os exportadores e importadores
-       (quer sejam responsáveis pelo tratamento e/ou subcontratantes) vão para além de um
-       reconhecimento ou cumprimento passivo deste direito. 11 Os responsáveis pelo tratamento e
-       subcontratantes devem procurar cumprir o direito à proteção de dados de forma ativa e contínua,
-       mediante a implementação de medidas jurídicas, técnicas e organizativas que garantam a sua
-       eficácia. Os responsáveis pelo tratamento e os subcontratantes devem igualmente poder
-       demonstrar tais esforços aos titulares dos dados e às autoridades de controlo em matéria de
-       proteção de dados. Trata-se do chamado princípio da responsabilidade. 12
+    3. The right to data protection has an active nature. It requires exporters and importers (whether
+       they are controllers and/or processors) to go beyond an acknowledgement or passive compliance
+       with this right.11 Controllers and processors must seek to comply with the right to data protection
+       in an active and continuous manner by implementing legal, technical and organisational measures
+       that ensure its effectiveness. Controllers and processors must also be able to demonstrate these
+       efforts to data subjects and data protection supervisory authorities. This is the so called principle
+       of accountability.12
 
-    4. O princípio da responsabilidade, necessário para assegurar a aplicação efetiva do nível de
-       proteção conferido pelo RGPD, é igualmente aplicável às transferências de dados para países
-       terceiros 13 , uma vez que estas constituem elas próprias uma forma de tratamento de dados. 14 Tal
-       como sublinhado pelo Tribunal de Justiça no seu acórdão, deve ser assegurado um nível de
-       proteção essencialmente equivalente ao garantido na União Europeia pelo RGPD, tendo em
-       consideração a Carta, independentemente do disposto no capítulo com base no qual se realiza
-       uma transferência de dados pessoais para um país terceiro. 15
+    4. The principle of accountability, which is necessary to ensure the effective application of the level
+       of protection conferred by the GDPR also applies to data transfers to third countries13 since they
+       are a form of data processing in themselves.14 As the Court underlined in its judgment, a level of
+       protection essentially equivalent to that guaranteed within the European Union by the GDPR read
+       in the light of the Charter must be guaranteed irrespective of the provision of that chapter on the
+       basis of which a transfer of personal data to a third country is carried out.15
 
-    5. No Acórdão Schrems II, o Tribunal de Justiça sublinha as responsabilidades dos exportadores e
-       importadores de assegurar que o tratamento de dados pessoais foi e continuará a ser efetuado
-       em conformidade com o nível de proteção estabelecido pela legislação da UE em matéria de
-
+    5. In the Schrems II judgment, the Court emphasizes the responsibilities of exporters and importers
+       to ensure that the processing of personal data has been and will continue to be carried out in
+       compliance with the level of protection set by EU data protection law and to suspend the transfer
+       and/or terminate the contract where the importer of the data is not, or is no longer, able to
+       comply with standard data protection clauses incorporated in the relevant contract between the
+       exporter and the importer.16 The controller or processor acting as exporter must ensure that the
+       importers collaborate with the exporter, where appropriate, in its performance of these
+       responsibilities, by keeping it informed, for instance, of any development affecting the level of
 
 
 8
-  Artigo 8.º, n.º 1, da Carta dos Direitos Fundamentais, artigo 16.º, n.º 1, do TFUE e artigo 1, n.º 2, do RGPD.
+  Article 8(1) Charter of Fundamental Rights and Article 16 (1) TFEU, preamble 1, Article 1 (2) GDPR.
 9
- Artigo 52.º, n.º 1, da Carta dos Direitos Fundamentais da UE.
+  Article 52(1) of the EU Charter of Fundamental Rights.
 10
-   Considerando 4 do RGPD e Acórdão Google LLC, sucessora da Google Inc./ Commission nationale de
-l’informatique et des libertés (CNIL), C-507/17, n.º 60.
+   Recital 4 of the GDPR and C-507/17 Google LLC, successor in law to Google Inc. v. Commission nationale de
+l’informatique et des libertés (CNIL), paragraph 60.
 11
-   Conclusões apresentadas pela advogada-geral E. Sharpston em 17 de junho de 2010 nos processos C-92/09 e
-C-93/02, Volker und Markus Schecke GbR/ Land Hessen, n.º 71.
+   C-92/09 and C-93/02, Volker und Markus Schecke GbR v. Land Hessen, Opinion of Advocate General Sharpston,
+17 June 2010, paragraph 71.
 12
-   Artigo 5.º, n.º 2, e artigo 28.º, n.º 3, alínea h), do RGPD.
+   Article 5.2 and Article 28.3 (h) GDPR.
 13
-   Artigo 44.º e considerando 101 do RGPD, bem como o artigo 47.º, n.º 2, alínea d), do RGPD.
+   Article 44 and recital 101 GDPR, as well as Article 47(2)(d) GDPR.
 14
-   Acórdão do Tribunal de Justiça de 6 de outubro de 2015, Maximillian Schrems/ Data Protection Commissioner
-(C-362/14, a seguir «Acórdão Schrems I»), n.º 45.
+   CJEU judgment of 6 October 2015, Maximillian Schrems v Data Protection Commissioner, (hereinafter C-362/14
+(Schrems I)), paragraph 45.
 15
-   Acórdão Schrems II, n.os 92 e 93.
-
-
-
-
-Adotado                                                                                                       9
-
-     proteção de dados e de suspender a transferência e/ou rescindir o contrato sempre que o
-     importador dos dados não esteja ou deixe de estar em condições de respeitar as cláusulas-tipo
-     de proteção de dados incorporadas no contrato pertinente entre o exportador e o importador. 16
-     O responsável pelo tratamento ou o subcontratante, agindo como exportador, devem assegurar
-     que os importadores colaboram com o exportador, sempre que adequado, no desempenho
-     destas responsabilidades, mantendo-o informado, por exemplo, de qualquer desenvolvimento
-     que afete o nível de proteção dos dados pessoais recebidos no país do importador. 17 As referidas
-     responsabilidades são uma aplicação do princípio da responsabilidade do RGPD às transferências
-     de dados. 18
-
-
-ROTEIRO: APLICAÇÃO DO PRINCÍPIO DA RESPONSABILIDADE ÀS
-  TRANSFERÊNCIAS DE DADOS NA PRÁTICA
- 6. O exportador de dados poderá encontrar a seguir um roteiro das medidas a adotar para saber se
-    deve aplicar medidas complementares para poder transferir legalmente dados para fora do EEE.
-    No presente documento, entende-se por «exportador de dados» ou «exportador» o responsável
-    pelo tratamento ou o subcontratante que age como exportador de dados, 19 e trata dados pessoais
-    abrangidos pelo âmbito de aplicação do RGPD (incluindo o tratamento por entidades privadas e
-    organismos públicos durante a transferência dos dados para entidades privadas). 20 No que
-    respeita às transferências de dados pessoais efetuadas entre organismos públicos, estão previstas
-    orientações específicas nas Diretrizes 2/2020 sobre a aplicação do artigo 46.º n.º 2, alínea a), e do
-    artigo 46.º, n.º 3, alínea b), do Regulamento (UE) 2016/679 às transferências de dados pessoais
-    entre autoridades e organismos públicos estabelecidos no EEE e fora do EEE. 21
-
- 7. O exportador deve documentar de forma adequada a avaliação e as medidas complementares
-    que selecionar e implementar e deve, mediante solicitação, disponibilizar a documentação à
-    autoridade de controlo competente. 22
-
-
-
-
+   C-311/18 (Schrems II), paragraphs 92 and 93.
 16
-   Acórdão Schrems II, n.os 134, 135, 139, 140, 141 e 142.
+   C-311/18 (Schrems II), paragraphs 134, 135, 139, 140, 141, 142.
+
+
+
+Adopted                                                                                                    9
+
+     protection of the personal data received in the importer’s country.17 These responsibilities are an
+     application of the GDPR principle of accountability to the data transfers.18
+
+
+2 ROADMAP: APPLYING THE PRINCIPLE OF ACCOUNTABILITY TO DATA
+  TRANSFERS IN PRACTICE
+ 6. What follows is a roadmap of the steps to take in order to find out if you (the data exporter) need
+    to put in place supplementary measures to be able to legally transfer data outside the EEA. “You”
+    in this document means the controller or processor acting as data exporter,19 processing personal
+    data within the scope of application of the GDPR – including processing by private entities and
+    public bodies when transferring data to private bodies-.20 As for transfers of personal data carried
+    out between public bodies, specific guidance is provided for in the Guidelines 2/2020 on Articles
+    46 (2) (a) and 46 (3) (b) of Regulation 2016/679 for transfers of personal data between EEA and
+    non-EEA public authorities and bodies.21
+
+ 7. You will need to document appropriately this assessment and the supplementary measures you
+    select and implement and make such documentation available to the competent supervisory
+    authority upon request.22
+
+     Step 1: Know your transfers
+ 8. To know what may be required for you (the data exporter) to be able to continue with or to
+    conduct new transfers of personal data,23 the first step is to ensure that you are fully aware of
+    your transfers (know your transfers). Recording and mapping all transfers can be a complex
+    exercise for entities engaging into multiple, diverse and regular transfers with third countries and
+    using a series of processors and sub-processors. Knowing your transfers is an essential first step
+    to fulfil your obligations under the principle of accountability.
+
+ 9. To gain full awareness of your transfers, you can build on the records of processing activities that
+    you may be obliged to maintain as controller or processor under Article 30 GDPR.24 Previous
+
+
 17
-   Acórdão Schrems II, n.º 134.
+   C-311/18 (Schrems II), paragraph 134.
 18
-   Artigo 5.º, n.º 2, e artigo 28.º, n.º 3, alínea h), do RGPD.
+   Article 5 (2) and Article 28 (3) (h) GDPR.
 19
-   Por conseguinte, por exemplo, não será considerado «exportador de dados» o titular de dados que fornece os
-seus dados pessoais através de um questionário em linha a um responsável pelo tratamento estabelecido num
-país terceiro.
+   Therefore, for example, you will not be considered a data exporter if you are a data subject providing your
+personal data via an online questionnaire to a controller established in a third country.
 20
-   Ver Diretrizes 3/2018 do CEPD sobre o âmbito de aplicação territorial do RGPD (artigo 3.º)
-https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-32018-territorial-scope-gdpr-
-article-3-version_en
+   See EDPB Guidelines 3/2018 on the territorial scope of the GDPR (Article 3) https://edpb.europa.eu/our-work-
+tools/our-documents/guidelines/guidelines-32018-territorial-scope-gdpr-article-3-version_en
 21
-   Diretrizes 2/2020 do CEPD sobre a aplicação do artigo 46.º n.º 2, alínea a), e do artigo 46.º, n.º 3, alínea b), do
-Regulamento (UE) 2016/679 às transferências de dados pessoais entre autoridades e organismos públicos
-estabelecidos no EEE e fora do EEE; ver https://edpb.europa.eu/our-work-tools/public-consultations-art-
-704/2020/guidelines-22020-articles-46-2-and-46-3-b_en
+   EDPB Guidelines 2/2020 on Articles 46 (2) (a) and 46 (3) (b) of Regulation 2016/679 for transfers of personal
+data between EEA and non-EEA public authorities and bodies; see https://edpb.europa.eu/our-work-
+tools/public-consultations-art-704/2020/guidelines-22020-articles-46-2-and-46-3-b_en
 22
-   Artigo 5.º, n.º 2, e artigo 24.º, n.º 1, do RGPD.
-
-
-
-
-Adotado                                                                                                            10
-
-Etapa 1: Conhecer as transferências
- 8. Para saber o que lhe poderá ser exigido para poder prosseguir as suas transferências ou para
-    realizar novas transferências de dados pessoais, 23 o exportador de dados deve começar por se
-    assegurar de que tem pleno conhecimento das suas transferências. O registo e o levantamento
-    de todas as transferências podem constituir um exercício complexo para as entidades envolvidas
-    em transferências múltiplas, diversas e regulares com países terceiros e que utilizam diversos
-    subcontratantes e subcontratantes ulteriores. Conhecer as suas transferências é uma primeira
-    etapa essencial para cumprir as obrigações que incumbem ao exportador de dados por força do
-    princípio da responsabilidade.
-
- 9. Para estar totalmente ciente das suas transferências, o exportador poderá apoiar-se nos registos
-    das atividades de tratamento que poderá estar obrigado a manter enquanto responsável pelo
-    tratamento ou subcontratante por força do artigo 30.º do RGPD. 24 Podem ser igualmente úteis as
-    medidas anteriores adotadas em cumprimento das obrigações de prestação de informações aos
-    titulares dos dados, nos termos dos artigos 13.º, n.º 1, alínea f), e 14.º, n.º 1, alínea f), do RGPD,
-    relativamente às transferências dos seus dados pessoais para países terceiros. 25
-
- 10. Aquando do levantamento das transferências, o exportador deve igualmente ter em conta as
-     transferências ulteriores, por exemplo, se os seus subcontratantes estabelecidos fora do EEE
-     transferem os dados pessoais que lhes foram confiados para um subcontratante ulterior
-     estabelecido noutro país terceiro ou no mesmo país terceiro. 26
-
- 11. Em consonância com o princípio da «minimização dos dados», 27 o exportador deve igualmente
-     verificar se os dados transferidos são adequados, pertinentes e limitados ao necessário
-     relativamente aos fins para os quais estes são transferidos e tratados no país terceiro.
-
-
-
-
+   Article 5(2) GDPR and Article 24 (1) GDPR.
 23
-   Considera-se igualmente uma transferência o acesso remoto por uma entidade de um país terceiro aos dados
-localizados no EEE.
+   Please note that remote access by an entity from a third country to data located in the EEA is also considered
+a transfer.
 24
-    Ver artigo 30.º do RGPD, nomeadamente o n.º 1, alínea e), e o n.º 2, alínea c). Além disso, os registos do
-tratamento de dados do exportador devem conter uma descrição das atividades de tratamento (incluindo, sem
-caráter limitativo, as categorias de titulares dos dados, as categorias de dados pessoais, as finalidades do
-tratamento e informações específicas sobre as transferências de dados). Alguns responsáveis pelo tratamento e
-subcontratantes estão isentos da obrigação de manter registos de tratamento (artigo 30.º, n.º 5, do RGPD). Para
-mais informação sobre a referida isenção, ver o Position Paper on the derogations from the obligation to maintain
-records of processing activities pursuant to Article 30.5 GDPR (documento de posição sobre as derrogações à
-obrigação de manter registos das atividades de tratamento, nos termos do artigo 30.º, n.º 5, do RGPD) do Grupo
-de Trabalho do Artigo 29.º (aprovado pelo CEPD em 25 de maio de 2018).
+   See Article 30 GDPR and in particular paragraphs 1.e and 2.c. Moreover, your records of processing should
+contain a description of your processing activities (including, but not limited to, the categories of data subjects,
+the categories of personal data and purposes of the processing and specific information about data transfers.
+Some controllers and processors are exempt from the obligation to keep records of processing (Article 30.5
+GDPR). For guidance on this exemption, see Article 29 Working Party, Position Paper on the derogations from
+the obligation to maintain records of processing activities pursuant to Article 30.5 GDPR (endorsed by the EDPB
+on 25 May 2018).
+
+
+
+Adopted                                                                                                          10
+
+     actions to fulfil the obligations to inform data subjects under Articles 13.1.f and 14.1.f GPDR about
+     your transfers of their personal data to third countries may also assist you.25
+
+ 10. When mapping transfers, do not forget to also take into account onward transfers, for instance
+     whether your processors outside the EEA transfer the personal data you entrusted to them to a
+     sub-processor in another third country or in the same third country.26
+
+ 11. In line with the GDPR principle of “data minimisation”,27 you must verify that the data you transfer
+     is adequate, relevant and limited to what is necessary in relation to the purposes for which it is
+     processed.
+
+ 12. These activities must be carried out before any transfer is made and updated prior to resuming
+     transfers after suspension of data transfer operations: you must know where the personal data
+     you exported may be located or processed by the importers (map of destinations).
+
+ 13. Keep in mind that remote access from a third country (for example in support situations) and/or
+     storage in a cloud situated outside the EEA offered by a service provider, is also considered to be
+     a transfer.28 More specifically, if you are using an international cloud infrastructure you must
+     assess if your data will be transferred to third countries and where, unless the cloud provider is
+     established in the EEA and it clearly states in its contract that the data will not be processed at all
+     in third countries.
+
+
+
+     Step 2: Identify the transfer tools you are relying on
+ 14. A second step you must take is to identify the transfer tools you are relying on amongst those
+     Chapter V GDPR lists and envisages.
+
+Adequacy decisions
+
+ 15. The European Commission may recognise through its adequacy decisions relating to some or all
+     of the third countries to which you are transferring personal data that they offer an adequate
+     level of protection for personal data.29
+
+
+
+
 25
-   Por força das regras sobre a transparência do RGPD, o exportador deve informar os titulares dos dados sobre
-as transferências de dados pessoais para países terceiros [artigo 13.º, n.º 1, alínea f), e artigo 14.º, n.º 1, alínea
-f), do RGPD]. Em especial, deve informar os titulares dos dados da existência ou falta de uma decisão de
-adequação da Comissão Europeia ou, no caso das transferências referidas nos artigos 46.º ou 47.º do RGPD, ou
-no artigo 49.º, n.º 1, segundo parágrafo, do RGPD, referir as garantias adequadas ou apropriadas e os meios para
-obter cópia das mesmas, ou o local onde podem ser encontradas. As informações prestadas ao titular dos dados
-devem ser corretas e atuais, especialmente à luz da jurisprudência do Tribunal de Justiça em matéria de
-transferências.
+   Under GDPR transparency rules, you must inform data subjects about transfers of personal data to third
+countries (Articles 13.1.f and 14.1.f GDPR). In particular, you must inform them of the existence or absence of an
+adequacy decision by the European Commission, or in the case of transfers referred to in Articles 46 or 47 GDPR,
+or the second subparagraph of Article 49.1 GDPR, refer to the appropriate or suitable safeguards and the means
+by which to obtain a copy of them or where they have been made available. The information provided to the
+data subject must be correct and current, especially in light of the Court’s case law concerning transfers.
 26
-   Sempre que o responsável pelo tratamento tiver dado, previamente e por escrito, autorização específica ou
-geral, em conformidade com o artigo 28.º, n.º 2, do RGPD.
+   Where the controller has granted its prior specific or general written authorisation in accordance with Article
+28.2 GDPR.
 27
-   Artigo 5.º, n.º 1, alínea c), do RGPD.
-
-
-
-
-Adotado                                                                                                            11
-
- 12. Estas atividades devem ser realizadas antes de qualquer transferência e atualizadas antes de
-     retomar as transferências após a suspensão das operações de transferência de dados: o
-     exportador deve saber onde podem estar localizados ou onde podem ser tratados pelos
-     importadores os dados pessoais exportados (mapa de destinos).
-
- 13. Recorde-se que o acesso remoto a partir de um país terceiro (por exemplo, em situações de
-     assistência) e/ou o armazenamento numa nuvem situada fora do EEE, é igualmente considerado
-     uma transferência. 28 Mais especificamente, se o exportador estiver a utilizar uma infraestrutura
-     de nuvem internacional, deve avaliar se os dados serão transferidos para países terceiros e quais,
-     salvo se o prestador de serviços na nuvem estiver estabelecido no EEE e indicar claramente no
-     contrato que os dados não serão tratados em países terceiros.
-
-
-
-Etapa 2: Identificar os instrumentos de transferência utilizados
- 14. A segunda etapa consiste em identificar os instrumentos de transferência a que o exportador
-     recorre entre os previstos e enumerados no capítulo V do RGPD.
-
-Decisões de adequação
-
- 15. Através das suas decisões de adequação relativas a alguns ou a todos os países terceiros para os
-     quais o exportador transfere dados pessoais, a Comissão Europeia pode reconhecer que estes
-     países oferecem um nível adequado de proteção dos dados pessoais. 29
-
- 16. Tal decisão de adequação permite que os dados pessoais sejam transferidos do EEE para o país
-     terceiro em causa sem que seja necessário um instrumento de transferência do artigo 46.º do
-     RGPD.
-
- 17. As decisões de adequação podem abranger um país na sua totalidade ou limitar-se a uma parte
-     do mesmo. As decisões de adequação podem abranger todas as transferências de dados para um
-     país ou limitar-se a alguns tipos de transferências (por exemplo, num único setor). 30
-
- 18. A Comissão Europeia publica a lista de decisões de adequação no respetivo sítio web. 31
-
- 19. Se o exportador transfere dados pessoais para países terceiros, regiões ou setores abrangidos por
-     uma decisão de adequação da Comissão (na medida em que seja aplicável), não deve adotar
-     outras medidas adicionais descritas nas presentes recomendações32. O exportador deve, no
-
-
+   Article 5.1.c GDPR.
 28
-   Ver a pergunta frequente n.º 11 «(deve-se ter em conta que fornecer acesso a dados de um país terceiro, por
-exemplo para fins administrativos, também equivale a uma transferência» , do documento Perguntas frequentes
-sobre o Acórdão do Tribunal de Justiça da União Europeia no Processo C-311/18 – Data Protection Commissioner
-contra Facebook Ireland Limited and Maximillian Schrems, de 23 de julho de 2020.
+   See FAQ nr. 11 “it should be borne in mind that even providing access to data from a third country, for instance
+for administration purposes, also amounts to a transfer”, EDPB Frequently Asked Questions on the judgment of
+the Court of Justice of the European Union in Case C-311/18 - Data Protection Commissioner v Facebook Ireland
+Ltd and Maximillian Schrems, 23 July 2020.
 29
-   A Comissão Europeia tem autoridade para determinar, com base no artigo 45.º do RGPD, se um país fora da
-UE oferece um nível adequado de proteção dos dados pessoais. A Comissão Europeia pode igualmente
-determinar que uma organização internacional oferece um nível adequado de proteção.
+   The European Commission has the power to determine, on the basis of Article 45 GDPR whether a country
+outside the EU offers an adequate level of data protection. Likewise the European Commission has the power to
+determine that an international organisation offers an adequate level of protection.
+
+
+
+Adopted                                                                                                         11
+
+ 16. The effect of such an adequacy decision is that personal data can flow from the EEA to that third
+     country without any Article 46 GDPR transfer tool being necessary.
+
+ 17. Adequacy decisions may cover a country as a whole or be limited to a part of it. Adequacy
+     decisions may cover all data transfers to a country or be limited to some types of transfers (e.g.
+     in one sector).30
+
+ 18. The European Commission publishes the list of its adequacy decisions on its website.31
+
+ 19. If you transfer personal data to third countries, regions or sectors covered by a Commission
+     adequacy decision (to the extent applicable), you do not need to take any further steps as
+     described in these recommendations.32 However, you must still monitor if adequacy decisions
+     relevant to your transfers are revoked or invalidated.33
+
+ 20. However, adequacy decisions do not prevent data subjects from filing a complaint. Nor do they
+     prevent supervisory authorities from bringing a case before a national court if they have doubts
+     about the validity of a decision, so that a national court can make a reference for a preliminary
+     ruling to the CJEU for the purpose of examining that validity.34
+
+Example:
+
+An EU citizen, Mr. Schrems, filed a complaint on June 2013 with the Irish Data Protection Commission
+(DPC) and asked this supervisory authority to prohibit or suspend the transfer of his personal data from
+Facebook Ireland to the United States, as he considered that the law and practice of the United States
+did not ensure adequate protection of the personal data held in its territory against the surveillance
+activities that were engaged in there by the public authorities. The DPC rejected the complaint, on the
+ground, in particular, that in Decision 2000/520 the European Commission considered that, under the
+‘safe harbour’ scheme, the United States ensured an adequate level of protection of the personal data
+transferred (the Safe Harbour Decision). Mr. Schrems challenged the decision of the DPC and the Irish
+High Court referred a question on the validity of Decision 2000/520 to the Court of Justice of the
+European Union (CJEU). The CJEU subsequently decided to invalidate the Commission Decision
+2000/520 on the adequacy of the protection provided by the safe harbour privacy principles.35
+
+
+
+
 30
-   Artigo 45.º, n.º 1, do RGPD.
+   Article 45.1 GDPR.
 31
-   https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-
+  https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-
 protection/adequacy-decisions_en
 32
-   Desde que o exportador e o importador de dados tenham implementado medidas para cumprirem as restantes
-obrigações nos termos do RGPD; caso contrário, as referidas medidas devem ser implementadas.
-
-
-
-
-Adotado                                                                                                    12
-
-      entanto, controlar sempre se as decisões de adequação pertinentes para as suas transferências
-      foram revogadas ou anuladas. 33
-
- 20. Contudo, as decisões de adequação não impedem que os titulares dos dados apresentem
-     reclamações. Também não impedem que as autoridades de controlo instaurem processos num
-     tribunal nacional, caso tenham dúvidas quanto à validade de uma decisão, para que o tribunal
-     nacional possa apresentar um pedido de decisão prejudicial ao Tribunal de Justiça para apreciação
-     da referida validade. 34
-
-Exemplo:
-
-Um cidadão da UE, M. Schrems, apresentou uma queixa em junho de 2013 à Comissão Irlandesa para
-a Proteção de Dados e solicitou à autoridade de controlo em causa que proibisse ou suspendesse a
-transferência pela Facebook Ireland dos seus dados pessoais para os Estados Unidos, pois considerava
-que o direito e as práticas em vigor neste país não asseguravam uma proteção suficiente dos dados
-pessoais conservados no seu território contra as atividades de vigilância aí exercidas pelas autoridades
-públicas. A Comissão Irlandesa para a Proteção de Dados rejeitou a queixa com o fundamento de que
-na Decisão 2000/520/CE a Comissão tinha constatado que, ao abrigo do regime «porto seguro», os
-Estados Unidos asseguravam um nível adequado de proteção dos dados pessoais transferidos (decisão
-relativa ao «porto seguro»). O Sr. Schrems contestou a decisão da Comissão Irlandesa para a Proteção
-de Dados e o Supremo Tribunal da Irlanda submeteu uma questão sobre a validade da Decisão
-2000/520/CE ao Tribunal de Justiça da União Europeia (Tribunal de Justiça). Subsequentemente, o
-Tribunal de Justiça declarou inválida a Decisão 2000/520/CE da Comissão relativa ao nível de proteção
-assegurado pelos princípios de «porto seguro». 35
-
-
-Instrumentos de transferência do artigo 46.º do RGPD
-
- 21. O artigo 46.º do RGPD enumera diversos instrumentos de transferência contendo «garantias
-     adequadas» que os exportadores podem utilizar para transferir dados pessoais para países
-     terceiros na ausência de decisões de adequação. Os principais tipos de instrumentos de
-     transferência do artigo 46.º do RGPD são os seguintes:
-
-     - cláusulas-tipo de proteção de dados;
-     - regras vinculativas aplicáveis às empresas;
-
-
+   Provided you and data importer have implemented measures to comply with the other obligations under the
+GDPR; otherwise implement those measures.
 33
-   A Comissão Europeia deve rever periodicamente todas as decisões de adequação e verificar se os países
-terceiros que beneficiam de decisões de adequação continuam a assegurar um nível adequado de proteção (ver
-artigo 45.º, n.os 3 e 4, do RGPD). O Tribunal de Justiça pode ainda declarar inválidas as decisões de adequação
-[ver os seus acórdãos nos processos C-362/14 (Schrems I) e C-311/18 (Schrems II)].
+   The European Commission must review periodically all adequacy decisions and monitor if the third countries
+benefitting from adequacy decisions continue to ensure an adequate level of protection (see Art. 45.3 and 45.4
+GDPR). Also, the CJEU may invalidate adequacy decisions (see its judgments on the cases C-362/14 (Schrems I)
+and C-311/18 (Schrems II).
 34
-   Acórdão Schrems II, n.os 118 a 120. As autoridades de controlo não podem ignorar a decisão de adequação e
-suspender ou proibir as transferências de dados pessoais para tais países, citando apenas a inadequação do nível
-de proteção. Apenas podem exercer o seu poder de suspender ou proibir transferências de dados pessoais para
-o país terceiro em causa por outros motivos (por exemplo, medidas de segurança insuficientes em violação do
-artigo 32.º do RGPD; inexistência de uma base jurídica para o tratamento dos dados enquanto tal em violação
-do artigo 6.º do RGPD). As autoridades de controlo podem examinar, com total independência, se a transferência
-desses dados respeita as exigências estabelecidas pelo RGPD e, sendo caso disso, intentar uma ação nos órgãos
-jurisdicionais nacionais para que estes últimos, caso tenham dúvidas quanto à validade da decisão de adequação,
-submetam um pedido de decisão prejudicial ao Tribunal de Justiça para efeitos da apreciação dessa validade.
+   C-311/18 (Schrems II), paragraphs 118 - 120. Supervisory authorities may not disregard the adequacy decision
+and suspend or prohibit transfers of personal data to such countries citing only the inadequacy of the level of
+protection. They may only exercise their power to suspend or prohibit transfers of personal data to that third
+country on other grounds (e.g. insufficient security measures in violation of Article 32 GDPR, no legal basis validly
+underpins the data processing as such in violation of Article 6 GDPR). Supervisory authorities may examine, with
+complete independence, whether the transfer of that data complies with the requirements laid down by the
+GDPR and, where relevant, bring an action before the national courts in order for them, if they have doubts as
+to the validity of the Commission adequacy decision, to make a reference for a preliminary ruling before the
+European Court of Justice for the purposes of examining its validity.
 35
-   Acórdão Schrems I.
+   Case C-362/14 (Schrems I).
 
 
+Adopted                                                                                                           12
 
+Article 46 GDPR transfer tools
 
-Adotado                                                                                                      13
+ 21. Article 46 GDPR lists a series of transfer tools containing “appropriate safeguards” that exporters
+     may use to transfer personal data to third countries in the absence of adequacy decisions. The
+     main types of Article 46 GDPR transfer tools are:
 
-     - códigos de conduta;
-     - procedimentos de certificação;
-     - cláusulas contratuais ad hoc.
+     -   standard data protection clauses clauses (SCCs);
+     -   binding corporate rules (BCRs);
+     -   codes of conduct;
+     -   certification mechanisms;
+     -   ad hoc contractual clauses.
 
- 22. Independentemente do instrumento de transferência do artigo 46.º do RGPD escolhido, o
-     exportador deve assegurar-se de que, em termos gerais, os dados pessoais transferidos
-     beneficiam de um nível de proteção essencialmente equivalente.
+ 22. Whatever Article 46 GDPR transfer tool you choose, you must ensure that, overall, the transferred
+     personal data will benefit from an essentially equivalent level of protection.
 
- 23. Os instrumentos de transferência do artigo 46.º do RGPD contêm principalmente garantias
-     adequadas de natureza contratual que podem ser aplicadas a transferências para todos os países
-     terceiros. A situação existente no país terceiro para o qual o exportador transfere dados pode
-     ainda exigir que este complemente os referidos instrumentos de transferência e as garantias aí
-     contidas com medidas adicionais («medidas complementares») para assegurar um nível de
-     proteção essencialmente equivalente. 36
+ 23. Article 46 GDPR transfer tools mainly contain appropriate safeguards of a contractual nature that
+     may be applied to transfers to all third countries. The situation in the third country to which you
+     are transferring data may still require that you supplement these transfer tools and the safeguards
+     they contain with additional measures (“supplementary measures”) to ensure an essentially
+     equivalent level of protection.36
 
-Derrogações
+Derogations
 
- 24. Para além das decisões de adequação e dos instrumentos de transferência do artigo 46.º do RGPD,
-     o RGPD contém uma terceira via que permite transferências de dados pessoais em determinadas
-     situações. Em determinadas condições específicas, o exportador pode ainda transferir dados
-     pessoais com base numa das derrogações previstas no artigo 49.º do RGPD.
+ 24. Besides adequacy decisions and Article 46 GDPR transfer tools, the GDPR contains a third avenue
+     allowing transfers of personal data in certain situations. Subject to specific conditions, you may
+     still be able to transfer personal data based on a derogation listed in Article 49 GDPR.
 
- 25. O artigo 49.º do RGPD tem caráter excecional. As derrogações que contém devem ser
-     interpretadas de uma forma que não contrarie a própria natureza das derrogações enquanto
-     exceções à regra segundo a qual os dados pessoais só podem ser transferidos para um país
-     terceiro se esse país proporcionar um nível adequado de proteção de dados ou, em alternativa,
-     se forem adotadas garantias adequadas. As derrogações não podem, na prática, tornar-se a
-     «regra», mas devem limitar-se a situações específicas. O CEPD emitiu as Diretrizes 2/2018
-     relativas às derrogações do artigo 49.º do Regulamento (UE) 2016/679. 37
+ 25. Article 49 GDPR has an exceptional nature. The derogations it contains must be interpreted in a
+     way which does not contradict the very nature of the derogations as being exceptions from the
+     rule that personal data may not be transferred to a third country unless the country provides for
+     an adequate level of data protection or, alternatively, appropriate safeguards are put in place.
+     Derogations cannot become “the rule” in practice, but need to be restricted to specific situations.
+     The EDPB has issued its Guidelines 2/2018 on derogations of Article 49 under Regulation
+     2016/679.37
 
- 26. Antes de invocar uma derrogação do artigo 49.º do RGPD, o exportador deve verificar se a sua
-     transferência cumpre as condições rigorosas estabelecidas na referida disposição para cada
-     derrogação.
+ 26. Before relying on an Article 49 GDPR derogation, you must check whether your transfer meets
+     the strict conditions this provision sets forth for each of them.
 
                                                    ***
 
- 27. Se a transferência não puder basear-se legalmente numa decisão de adequação, nem uma
-     derrogação do artigo 49.º, é necessário prosseguir para a etapa 3.
+ 27. If your transfer can neither be legally based on an adequacy decision, nor on an Article 49
+     derogation, you need to continue with Step 3.
 
 
 
 
 36
- Acórdão Schrems II, n.os 130 e 133. Ver também a subsecção 2.3 infra.
+  C-311/18 (Schrems II), paragraphs 130 and 133. See also sub-section 2.3 below.
 37
-  Para mais informações, ver      https://edpb.europa.eu/our-work-tools/our-
+  For further guidance on this see https://edpb.europa.eu/our-work-tools/our-
 documents/guidelines/guidelines-22018-derogations-article-49-under-regulation_en.
 
 
+Adopted                                                                                              13
 
+     Step 3: Assess whether the Article 46 GDPR transfer tool you are relying on is
+     effective in light of all circumstances of the transfer
+ 28. The selected Article 46 GDPR transfer tool must be effective in ensuring that the level of
+     protection guaranteed by the GDPR is not undermined by the transfer in practice.38
 
-Adotado                                                                                          14
+ 29. In particular, the protection afforded to the transferred personal data in the third country must
+     be essentially equivalent to that guaranteed in the EEA by the GDPR, read in light of the Charter
+     of Fundamental Rights of the EU.39 This is not the case if the data importer is prevented from
+     complying with its obligations under the chosen Article 46 GDPR transfer tool due to the third
+     country’s legislation and practices applicable to the transfer, including during the transit of data
+     from the exporter to the importer’s country.40
 
-Etapa 3: Avaliar se o instrumento de transferência do artigo 46.º do RGPD utilizado é
-    eficaz tendo em conta todas as circunstâncias da transferência
- 28. O instrumento de transferência do artigo 46.º do RGPD selecionado deve ser eficaz, assegurando
-     que o nível de proteção garantido pelo RGPD não é comprometido pela transferência. 38
+ 30. You must first assess, where appropriate in collaboration with the importer, if there is anything in
+     the law and/or practices in force41 in the third country that may impinge on the effectiveness of
+     the appropriate safeguards of the Article 46 GDPR transfer tool you are relying on, in the context
+     of your specific transfer. This implies determining whether your transfer falls within the scope of
+     legislation and/or practices which may impinge on the effectiveness of your Article 46 GDPR
+     transfer tool. The assessment required must be based first and foremost on legislation publicly
+     available.
 
- 29. Em especial, a proteção conferida aos dados pessoais transferidos para o país terceiro deve ser
-     essencialmente equivalente à que é garantida no EEE pelo RGPD, lido à luz da Carta dos Direitos
-     Fundamentais da UE. 39 Tal não ocorre se o importador de dados for impedido de cumprir as suas
-     obrigações ao abrigo do instrumento de transferência do artigo 46.º do RGPD escolhido devido
-     ao direito e às práticas do país terceiro aplicáveis à transferência, incluindo durante o trânsito de
-     dados do exportador para o país do importador 40.
+ 31. This assessment must contain elements concerning access to data by public authorities of the
+     third country of your importer such as:
 
- 30. Por conseguinte, o exportador deve, se necessário em colaboração com o importador, avaliar se
-     existe algo no direito ou na prática 41 do país terceiro que possa afetar a eficácia das garantias
-     adequadas do instrumento de transferência do artigo 46.º do RGPD que utilizou, no contexto da
-     transferência específica. Tal implica determinar se a sua transferência é abrangida pelo âmbito de
-     aplicação da legislação e/ou práticas suscetíveis de afetar a eficácia do instrumento de
-     transferência do artigo 46.º do RGPD que utiliza. A avaliação exigida deve basear-se sobretudo na
-     legislação disponível ao público.
-
- 31. Esta avaliação deve conter elementos relativos ao acesso aos dados das autoridades públicas do
-     país terceiro do importador, tais como:
-
-     - elementos que indiquem se as autoridades públicas do país terceiro do importador podem
-       procurar aceder aos dados com ou sem o conhecimento do importador de dados, à luz da
-       legislação, prática e precedentes comunicados;
-     - elementos que indiquem se as autoridades públicas do país terceiro do importador poderão
-       ter acesso aos dados através do importador de dados ou através dos fornecedores de
-       telecomunicações ou canais de comunicação, à luz da legislação, dos poderes legais, dos
-       recursos técnicos, financeiros e humanos de que dispõem e dos precedentes comunicados.
+     - Elements on whether public authorities of the third country of your importer may seek to
+       access the data with or without the data importer’s knowledge, in light of legislation, practice
+       and reported precedents;
+     - Elements on whether public authorities of the third country of your importer may be able to
+       access the data through the data importer or through the telecommunication providers or
+       communication channels in light of legislation, legal powers, technical, financial, and human
+       resources at their disposal and of reported precedents.
 
 
 
-Identificar leis e práticas pertinentes à luz de todas as circunstâncias da transferência
+Identifying laws and practices relevant in light of all circumstances of the transfer
 
- 32. O exportador deve analisar as características de cada uma das suas transferências e determinar
-     se o ordenamento jurídico nacional e/ou as práticas em vigor do país para o qual os dados são
-     transferidos (ou transferidos ulteriormente) afetam as suas transferências. O âmbito da avaliação
-     do exportador limita-se, por conseguinte, à legislação e prática pertinentes para a proteção dos
-     dados específicos que transfere, ao contrário das avaliações de adequação gerais e abrangentes
-     que a Comissão Europeia realiza em conformidade com o artigo 45.º do RGPD.
+ 32. You will need to look into the characteristics of each of your transfers and determine whether the
+     domestic legal order and/or practices in force of the country to which data is transferred (or
+     onward transferred) affect your transfers. The scope of your assessment is thus limited to the
+     legislation and practices relevant to the protection of the specific data you transfer, in contrast
+     with the general and wide encompassing adequacy assessments the European Commission
+     carries out in accordance with Article 45 GDPR.
 
 
 
 
 38
-   Artigo 44.º do RGPD e n.os 126, 137 e 148 do Acórdão Schrems II.
+   Article 44 GDPR and paragraphs 126, 137 and 148 of C-311/18 (Schrems II).
 39
-   Acórdão Schrems II, n.º 105 e ponto 2) do dispositivo.
+   C-311/18 (Schrems II), paragraphs 105 and second finding.
 40
-   Ver Acórdão Schrems II, n.º 183, em conjugação com o n.º 184.
+   See C-311/18 (Schrems II), paragraph 183 in conjunction with paragraph 184.
 41
-   Ver n.º 126 do Acórdão Schrems II, no qual o Tribunal de Justiça refere expressamente o «direito e das práticas
-em vigor no país terceiro em causa» e a necessidade de «[...] assegurar, na prática, a proteção efetiva dos dados
-pessoais transferidos para o país terceiro em causa» (sublinhado nosso), e n.º 158.
+   See paragraph 126 of the C-311/18 (Schrems II) Judgment in which the Court explicitly alludes to “the law and
+practices in force in the third country concerned” and requires “(...) ensuring, in practice, the effective protection
+of personal data transferred to the third country concerned.” (emphasis added), and paragraph 158.
 
 
-Adotado                                                                                                        15
+Adopted                                                                                                            14
 
-33. O contexto jurídico e/ou as práticas aplicáveis dependerão das circunstâncias específicas da
-    transferência, nomeadamente:
+33. The applicable legal context and/or practices will depend on the specific circumstances of your
+    transfer, in particular:
 
-     - as finalidades para as quais os dados são transferidos e tratados (por ex., marketing, RH,
-       armazenamento, apoio informático, ensaios clínicos);
-     - os tipos de entidade envolvidos no tratamento (pública/privada; responsável pelo
-       tratamento/subcontratante);
-     - o setor no qual a transferência ocorre (por ex., adtech, telecomunicações, financeiro, etc.);
-     - as categorias de dados pessoais transferidos (por ex., os dados pessoais relativos a crianças
-       podem ser abrangidos pelo âmbito de aplicação de uma legislação específica do país
-       terceiro) 42;
-     - se os dados serão armazenados no país terceiro ou se existe acesso remoto aos dados
-       armazenados na UE ou no EEE;
-     - o formato dos dados a transferir (ou seja, texto corrido/pseudonimizado ou encriptado 43);
-     - a possibilidade de ocorrência de transferências ulteriores dos dados do país terceiro em causa
-       para outro país terceiro. 44
+     - Purposes for which the data are transferred and processed (e.g. marketing, HR, storage, IT
+       support, clinical trials);
+     - Types of entities involved in the processing (public/private; controller/processor);
+     - Sector in which the transfer occurs (e.g. adtech, telecommunication, financial, etc);
+     - Categories of personal data transferred (e.g. personal data relating to children may fall within
+       the scope of specific legislation in the third country);42
+     - Whether the data will be stored in the third country or whether there is remote access to data
+       stored within the EU/EEA;
+     - Format of the data to be transferred (i.e. in plain text/ pseudonymised or encrypted43);
+     - Possibility that the data may be subject to onward transfers from the third country to another
+       third country.44
 
-34. A avaliação do exportador deve ter em consideração todos os intervenientes na transferência (por
-    exemplo, responsáveis pelo tratamento, subcontratantes e subcontratantes ulteriores que tratam
-    dados no país terceiro), tal como identificados no exercício de levantamento das transferências.
-    Quanto maior for o número de responsáveis pelo tratamento, subcontratantes ou importadores
-    envolvidos, mais complexa será a avaliação do exportador. O exportador deve igualmente ter em
-    consideração na referida avaliação qualquer possível transferência ulterior.
+34. Your assessment should take into consideration all the actors participating in the transfer (e.g.
+    controllers, processors and sub-processors processing data in the third country), as identified in
+    the mapping exercise of transfers. The more controllers, processors or importers involved, the
+    more complex your assessment will be. You will also need to factor into this assessment any
+    envisaged onward transfer.
 
- 35. O exportador deve, em todo o caso, prestar especial atenção a todas as leis pertinentes,
-     nomeadamente, as leis que estabeleçam requisitos de divulgação de dados pessoais a
-     autoridades públicas ou que concedam a tais autoridades públicas poderes de acesso a dados
-     pessoais (por exemplo, para fins de aplicação do direito penal, controlo regulamentar ou
-     segurança nacional). Se estes requisitos ou poderes limitarem os direitos fundamentais dos
-     titulares dos dados, respeitando simultaneamente a sua essência e sendo necessários e
-     proporcionados numa sociedade democrática para salvaguardar objetivos importantes, tal como
-     também reconhecidos no direito da União ou dos Estados-Membros da UE 45, poderão não colidir
+ 35. You should in any case pay specific attention to any relevant laws, in particular laws laying down
+     requirements to disclose personal data to public authorities or granting such public authorities
+     powers of access to personal data (for instance for criminal law enforcement, regulatory
+     supervision or national security purposes). If these requirements or powers restrict the
+     fundamental rights of data subjects while respecting their essence and being necessary and
+     proportionate measures in a democratic society to safeguard important objectives as also
+     recognised in Union or EU Member States’ law,45 they may not impinge on the commitments
+     contained in the Article 46 GDPR transfer tool you are relying on.
 
+ 36. You will need to assess relevant rules and practices of a general nature insofar as they have an
+     impact on the effective application of the safeguards contained in the Article 46 GDPR transfer
+     tool.
 
 
 
 42
-   A transferência de dados pessoais é uma operação de tratamento (artigo 4.º, n.º 2, do RGPD). Se o exportador
-pretender transferir dados sensíveis abrangidos pelos artigos 9.º e 10.º do RGPD, só poderá efetuar uma
-transferência se esta for abrangida por uma das derrogações e pelas condições estabelecidas nos artigos 9.º e
-10.º do RGPD e no direito dos Estados-Membros da UE. Em conformidade com o artigo 32.º do RGPD, deverá
-também aplicar, com o importador na qualidade de responsável pelo tratamento ou subcontratante, medidas
-técnicas e organizativas adequadas para garantir um nível de segurança adequado aos riscos para os direitos e
-liberdades dos titulares dos dados decorrentes de uma potencial violação de dados pessoais dos dados
-transferidos (artigo 4.º, n.º 12, do RGPD). As categorias de dados transferidos e a sua sensibilidade serão
-relevantes para a avaliação do risco e da adequação das medidas.
+   A transfer of personal data is a processing operation (Article 4.2 GDPR). If you wish to transfer sensitive data
+falling under Articles 9 and 10 GDPR you may only conduct a transfer if it falls within one of the derogations and
+conditions set forth in Articles 9 and 10 GDPR and EU Member States’ law. In accordance with Article 32 GDPR,
+you will also need to implement, with the importer acting as controller or processor, appropriate technical and
+organisational measures to ensure a level of security appropriate to the risks to the rights and freedoms of data
+subjects posed by a potential personal data breach of the data transferred (Article 4.12 GDPR). The categories of
+data transferred and their sensitiveness will be relevant to the assessment of the risk and the appropriateness
+of the measures.
 43
-   Alguns países terceiros não permitem a importação de dados encriptados.
+   Some third countries do not permit encrypted data to be imported.
 44
-   Sempre que o responsável pelo tratamento tiver dado, previamente e por escrito, autorização específica ou
-geral, em conformidade com o artigo 28.º, n.º 2, do RGPD.
+   Where the controller has granted its prior specific or general written authorisation in accordance with Article
+28.2 GDPR.
 45
-    Ver artigos 47.º e 52.º da Carta dos Direitos Fundamentais da UE, artigo 23.º, n.º 1, do RGPD e as
-Recomendações do CEPD 02/2020 sobre as garantias essenciais europeias relativas às medidas de vigilância, de
-10 de novembro de 2020, https://edpb.europa.eu/our-work-tools/our-documents/recommendations/edpb-
-recommendations-022020-european-essential_en.
+    See Articles 47 and 52 of the EU Charter of Fundamental Rights, Article 23.1 GDPR, and EDPB
+Recommendations 02/2020 on the European Essential Guarantees for surveillance measures, 10 November
+2020,      https://edpb.europa.eu/our-work-tools/our-documents/recommendations/edpb-recommendations-
+022020-european-essential_en .
 
 
-Adotado                                                                                                     16
 
-     com os compromissos contidos no instrumento de transferência do artigo 46.º do RGPD utilizado
-     pelo exportador.
+Adopted                                                                                                         15
 
- 36. O exportador deve avaliar as regras e práticas de natureza geral pertinentes, na medida em que
-     tenham impacto na aplicação efetiva das garantias contidas no instrumento de transferência do
-     artigo 46.º do RGPD.
+37. In carrying out this assessment, different aspects of the legal system of that third country, e.g. the
+    elements listed in Article 45(2) GDPR, are also relevant. For example, the rule of law situation in
+    a third country may be relevant to assess the effectiveness of available mechanisms for individuals
+    to obtain (judicial) redress against unlawful government access to personal data. The existence of
+    a comprehensive data protection law or an independent data protection authority, as well as
+    adherence to international instruments providing for data protection safeguards, may contribute
+    to ensuring the proportionality of government interference.
 
-37. Aquando da realização da referida avaliação, são igualmente pertinentes diferentes aspetos do
-    sistema jurídico do país terceiro em causa, por exemplo, os elementos enumerados no artigo 45.º,
-    n.º 2, do RGPD. A título de exemplo, a situação do Estado de direito no país terceiro pode ser
-    pertinente para avaliar a eficácia dos mecanismos colocados à disposição dos particulares para
-    que estes possam recorrer (judicialmente) contra o acesso ilícito do Governo a dados pessoais. A
-    existência de uma lei abrangente em matéria de proteção de dados ou de uma autoridade
-    independente para a proteção de dados, bem como a adesão a instrumentos internacionais que
-    preveem garantias em matéria de proteção de dados, podem contribuir para assegurar a
-    proporcionalidade da interferência do Governo.
+ 38. The obligations or powers resulting from such laws and practices will be considered to impinge
+     on/be incompatible with the commitments of the Article 46 GDPR transfer tool if they46:
 
- 38. Considera-se que as obrigações ou os poderes resultantes de tais leis e práticas colidem ou são
-     incompatíveis com os compromissos do instrumento de transferência do artigo 46.º do RGPD se 46:
+        Do not respect the essence of the fundamental rights and freedoms of the EU Charter of
+         Fundamental Rights, or
 
-     •   Não respeitam a essência dos direitos e liberdades fundamentais da Carta dos Direitos
-         Fundamentais da UE, ou
+        Exceed what is necessary and proportionate in a democratic society to safeguard one of the
+         important objectives as also recognised in Union or member state law such as those listed in
+         Article 23 (1) GDPR.
 
-     •   Excedem o que é necessário e proporcionado numa sociedade democrática para salvaguardar
-         um dos objetivos importantes também reconhecidos no direito da União ou dos Estados-
-         Membros, como os enumerados no artigo 23.º, n.º 1, do RGPD.
+ 39. You should verify if the data importer’s commitments enabling data subjects to exercise their
+     rights as provided in the Article 46 GDPR transfer tool (such as access, correction and deletion
+     requests for transferred data, as well as (judicial) redress) can be effectively applied in practice
+     and are not thwarted by the laws and/or practices in the third country of destination.
 
- 39. O exportador deve verificar se os compromissos do importador de dados que permitem aos
-     titulares dos dados exercer os seus direitos previstos no instrumento de transferência do artigo
-     46.º do RGPD [tais como pedidos de acesso, retificação e apagamento de dados transferidos, e as
-     vias de recurso (judicial)] podem ser aplicados de forma eficaz na prática e não são
-     comprometidos pela legislação e/ou práticas do país terceiro de destino.
+ 40. EU standards, such as Articles 47 and 52 of the EU Charter of Fundamental Rights, must be used
+     as a reference, in particular to assess whether access by public authorities is limited to what is
+     necessary and proportionate in a democratic society and whether data subjects are afforded
+     effective redress.
 
- 40. As normas da UE, tais como os artigos 47.º e 52.º da Carta dos Direitos Fundamentais da UE,
-     devem ser utilizadas como referência, em especial para avaliar se o acesso por parte das
-     autoridades públicas se limita ao que é necessário e proporcionado numa sociedade democrática
-     e se os titulares dos dados têm direito a uma via de recurso eficaz.
+ 41. The EDPB European Essential Guarantees (EEG) recommendations47 provide clarifications on the
+     elements which have to be assessed to determine whether the legal framework governing access
+     to personal data by public authorities in a third country, being national security agencies or law
+     enforcement authorities, can be regarded as a justifiable interference48 or not. In particular, this
+     should be carefully considered when the legislation governing the access to data by public
+     authorities is ambiguous or not publicly available. The first requirement of the European Essential
+     Guarantees is that there should be a legal framework providing for such access, when it is
+     envisaged, that is publicly available and sufficiently clear.
 
- 41. As recomendações do CEPD sobre as garantias europeias essenciais 47 proporcionam clarificações
-     sobre os elementos que têm de ser avaliados por forma a determinar se o quadro jurídico que
-     rege o acesso aos dados pessoais das autoridades públicas de um país terceiro (sejam estas
-     agências de segurança nacional ou autoridades policiais) pode ou não ser considerado uma
-     interferência justificável 48. Em especial, as referidas recomendações devem ser cuidadosamente
-
-
+42. Applied to the situation of data transfers based on Article 46 transfer tools, the EDPB European
+    Essential Guarantees recommendations can guide the data exporter in assessing whether such
+    powers unjustifiably interfere with the data exporter and importer’s obligations to ensure
+    essential equivalence pursuant to the GDPR or the commitments contained in the transfer tool.
+    The lack of an essentially equivalent level of protection will be especially evident where the
+    legislation and/or practices of the third country relevant to your transfer do not meet the
+    requirements of the European Essential Guarantees. The EDPB reiterates that the European
+    Essential Guarantees are a referential standard when assessing the interference, entailed by third
 
 46
-   Ver artigos 47.º e 52.º da Carta dos Direitos Fundamentais da UE, artigo 23.º, n.º 1, do RGPD, Acórdão Schrems
-II, n.os 174 e 187, e as Recomendações 02/2020 do CEPD sobre as garantias essenciais europeias relativas às
-medidas de vigilância, de 10 de novembro de 2020.
+   See Articles 47 and 52 of the EU Charter of Fundamental Rights, Article 23.1 GDPR, C-311/18 (Schrems II),
+paragraphs 174 and 187, and EDPB Recommendations 02/2020 on the European Essential Guarantees for
+surveillance measures, 10 November 2020.
 47
-   Recomendações 02/2020 do CEPD sobre as garantias essenciais europeias relativas às medidas de vigilância,
-de 10 de novembro de 2020.
+   EDPB Recommendations 02/2020 on the European Essential Guarantees for surveillance measures, 10
+November 2020.
 48
-   E, por conseguinte, não colide com os compromissos assumidos no instrumento de transferência do artigo 46.º
-do RGPD.
+   And therefore as not impinging on the commitments taken in the art 46 GDPR transfer tool.
 
 
-Adotado                                                                                                       17
+Adopted                                                                                                  16
 
-        consideradas sempre que a legislação que rege o acesso aos dados pelas autoridades públicas é
-        ambígua ou não está disponível ao público. O primeiro requisito das Garantias Essenciais
-        Europeias é a existência de um quadro jurídico que regula o acesso, quando previsto, que esteja
-        disponível ao público e seja suficientemente claro.
+        country surveillance measures, in the context of international data transfers. These standards
+        stem from EU law and the jurisprudence of the CJEU and the ECtHR, which is binding on EU
+        Member States.
 
-42. Aplicadas à situação das transferências de dados com base nos instrumentos de transferência do
-    artigo 46.º, as recomendações do CEPD sobre as Garantias Europeias Essenciais podem orientar
-    o exportador de dados na avaliação da questão de saber se tais poderes interferem de forma
-    injustificada com as obrigações do exportador e do importador de dados de assegurarem a
-    equivalência essencial nos termos do RGPD ou com os compromissos contidos no instrumento de
-    transferência. A ausência de um nível de proteção essencialmente equivalente será
-    especialmente evidente quando o direito ou a prática do país terceiro pertinente para a
-    transferência não cumprir os requisitos das Garantias Essenciais Europeias. O CEPD reitera que as
-    Garantias Essenciais Europeias constituem uma norma de referência para a avaliação da
-    ingerência inerente às medidas de vigilância de países terceiros, no contexto das transferências
-    internacionais de dados. Estas normas decorrem da legislação da UE e da jurisprudência do
-    Tribunal de Justiça e do TEDH que vinculam os Estados-Membros da UE.
+ 43. Your assessment must be based first and foremost on legislation publicly available. Examining also
+     the practices of the third country’s public authorities will allow you to verify if the safeguards
+     contained in the Article 46 GDPR transfer tool can be a sufficient means of ensuring, in practice,
+     the effective protection of the personal data transferred.49 Examining the practices in force in the
+     third country will be especially important for your assessment in the situations described below.
 
- 43. A avaliação do exportador deve, antes de mais, basear-se na legislação disponível ao público. O
-     exame das práticas das autoridades públicas do país terceiro permitir-lhe-á verificar se as
-     garantias contidas no instrumento de transferência do artigo 46.º do RGPD podem constituir um
-     meio suficiente para garantir, na prática, a proteção efetiva dos dados pessoais transferidos 49. A
-     análise das práticas em vigor no país terceiro será especialmente importante para a avaliação do
-     exportador nas situações a seguir descritas.
+     43.1 Relevant legislation in the third country may formally meet EU standards on fundamental
+         rights and freedoms and the necessity and proportionality of restrictions thereto. However,
+         the practices of its public authorities (e.g. accessing personal data held by the private sector or
+         when enforcing -or not- legislation as supervisory or judicial bodies) may clearly indicate that
+         they do not normally apply/comply with the legislation that governs, in principle, their activities.
+         In this case, you must take these practices into account in your assessment and consider that
+         the Article 46 GDPR tool will not be able to effectively ensure, by itself (i.e. without
+         supplementary measures), an essentially equivalent level of protection. In such case, if you wish
+         to proceed with the transfer, you will have to implement adequate supplementary measures.
 
-     43.1 A legislação pertinente do país terceiro pode cumprir formalmente as normas da UE em
-         matéria de direitos e liberdades fundamentais e a necessidade e proporcionalidade das
-         restrições a esses direitos e liberdades. No entanto, a prática das autoridades públicas (por
-         exemplo, quando acedem a dados pessoais na posse do setor privado ou quando impõem — ou
-         não — a legislação enquanto órgãos de supervisão ou judiciais) podem indicar claramente que,
-         normalmente, estas não aplicam ou não cumprem a legislação que rege, em princípio, as suas
-         atividades. Neste caso, o exportador deve ter em conta estas práticas na sua avaliação e
-         considerar que a ferramenta do artigo 46.º do RGPD não poderá assegurar eficazmente, por si
-         só (ou seja, sem medidas complementares), um nível de proteção essencialmente equivalente.
-         Nesse caso, se pretender prosseguir com a transferência, o exportador deverá aplicar medidas
-         complementares adequadas.
+     43.2 Relevant legislation in the third country (e.g. on access to personal data held by the private
+          sector) may be lacking. In this case you cannot automatically infer from this absence of relevant
+          legislation that your Article 46 GDPR transfer tool can be effectively applied. You will have to
+          check if there are indications of practices in force in the country that are incompatible with EU
+          law and the commitments of the Article 46 GDPR transfer tool. If there are incompatible
+          practices, the Article 46 GDPR transfer tool will not be able to effectively ensure, by itself (i.e.
+          without adequate supplementary measures), an essentially equivalent level of protection. In
+          such case, if you wish to proceed with the transfer, you will have to implement adequate
+          supplementary measures.
 
-     43.2 A legislação pertinente (por exemplo, sobre o acesso aos dados pessoais na posse do setor
-          privado) pode não existir no país terceiro. Neste caso, o exportador não pode deduzir
-          automaticamente desta ausência de legislação pertinente que o instrumento de transferência
-          do artigo 46.º do RGPD poderá ser efetivamente aplicado. O exportador deve verificar se
-          existem indicações de práticas em vigor no país que sejam incompatíveis com o direito da UE e
-          com os compromissos do instrumento de transferência do artigo 46.º do RGPD. Se existirem
-          práticas incompatíveis, o instrumento de transferência do artigo 46.º do RGPD não poderá
-          assegurar efetivamente, por si só (ou seja, sem medidas complementares adequadas), um nível
+     43.3 The assessment may reveal that relevant legislation in the third country may be problematic50
+          and that the transferred data and/or the importer at hand fall or might fall within the scope
+          of this problematic legislation.51
 
+         In light of uncertainties surrounding the potential application of problematic legislation to your
+         transfer, you may then decide to:
 
+               Suspend the transfer;
 
+               Implement supplementary measures52 to prevent the risk of potential application to your
+                importer and/or to your transferred data of laws and/or practices of the third country of
 
 49
-     Acórdão Schrems II, n.º 126.
-
-
-Adotado                                                                                              18
-
-         de proteção essencialmente equivalente. Nesse caso, se pretender prosseguir com a
-         transferência, o exportador deverá aplicar medidas complementares adequadas.
-
-     43.3 A avaliação pode revelar que a legislação pertinente do país terceiro pode ser problemática50
-          e que os dados transferidos e/ou o importador em causa são ou podem ser abrangidos pelo
-          âmbito de aplicação desta legislação problemática 51.
-
-         Tendo em conta as incertezas que rodeiam a eventual aplicação de legislação problemática à
-         transferência, o exportador poderá decidir:
-
-         •     Suspender a transferência;
-
-         •     Aplicar medidas complementares 52 para prevenir o risco da potencial aplicação ao
-               importador e/ou aos dados transferidos de leis e/ou práticas do país terceiro do
-               importador de dados suscetíveis de afetar as garantias contratuais do instrumento de
-               transferência de um nível de proteção essencialmente equivalente ao garantido no EEE;
-               ou
-
-         •     Em alternativa, o exportador pode decidir prosseguir com a transferência sem
-               necessidade de aplicar medidas complementares, se considerar que não tem motivos
-               para crer que a legislação pertinente e problemática será aplicada, na prática, aos dados
-               transferidos e/ou ao importador. O exportador deve demonstrar e documentar através
-               da sua avaliação, se for caso disso em colaboração com o importador, que a legislação
-               não é interpretada e/ou aplicada, na prática, de modo a abranger os dados transferidos e
-               o importador, tendo igualmente em conta a experiência de outros intervenientes que
-               operam no mesmo setor e/ou relacionada com dados pessoais transferidos semelhantes
-               e as fontes de informação adicionais descritas mais adiante 53.
-
-               Por conseguinte, o exportador deve demonstrar e documentar num relatório
-               pormenorizado 54 que a legislação problemática não será aplicada, na prática, aos dados
-
-
-
-
+   C-311/18 (Schrems II), paragraph 126.
 50
-   Entende-se por «legislação problemática» a legislação que 1) impõe ao destinatário de dados pessoais
-provenientes da União Europeia obrigações e/ou afeta os dados transferidos de uma forma que pode colidir com
-a garantia contratual dos instrumentos de transferência de um nível de proteção essencialmente equivalente e
-2) não respeita a essência dos direitos e liberdades fundamentais reconhecidos pela Carta dos Direitos
-Fundamentais da UE ou excede o que é necessário e proporcionado numa sociedade democrática para
-salvaguardar um dos objetivos importantes também reconhecidos no direito da União ou dos Estados-Membros
-da UE, como os enumerados no artigo 23.º, n.º 1, do RGPD.
+   ‘Problematic legislation’ is understood as legislation that 1) imposes on the recipient of personal data from the
+European Union obligations and/or affect the data transferred in a manner that may impinge on the transfer
+tools’ contractual guarantee of an essentially equivalent level of protection and 2) does not respect the essence
+of the fundamental rights and freedoms recognised by the EU Charter of Fundamental Rights or exceeds what is
+necessary and proportionate in a democratic society to safeguard one of the important objectives as also
+recognised in Union or EU Member States’ law, such as those listed in Article 23 (1) GDPR.
 51
-   Pode não ser claro se o importador e/ou os dados transferidos são abrangidos pelo âmbito de aplicação dos
-termos gerais frequentemente utilizados na legislação nacional em matéria de segurança para limitar o seu
-âmbito de aplicação, como, por exemplo, «prestador de serviços de comunicações eletrónicas» e «informações
-dos serviços de informação estrangeiros».
+   It may be unclear whether the importer and/or the data transferred fall under the scope of general terms often
+used in national security legislation to limit their scope of application, such as for instance "electronic
+communication service provider" and "foreign intelligence information".
 52
-   Ver considerando 109 do RGPD e Acórdão Schrems II, n.º 132.
+   See recital 109 GDPR and C-311/18 (Schrems II), paragraph 132.
+
+
+Adopted                                                                                                          17
+
+              the data importer, which are capable of impinging on the transfer tool’s contractual
+              guarantees of an essentially equivalent level of protection to that guaranteed in the EEA;
+              or
+
+             Alternatively, you may decide to proceed with the transfer without being required to
+              implement supplementary measures, if you consider that you have no reason to believe
+              that relevant and problematic legislation will be applied, in practice, to your transferred
+              data and/or importer. You will need to have demonstrated and documented through your
+              assessment, where appropriate in collaboration with the importer, that the law is not
+              interpreted and/or applied in practice so as to cover your transferred data and importer,
+              also taking into account the experience of other actors operating within the same sector
+              and/or related to similar transferred personal data and the additional sources of
+              information described further below.53
+
+              Therefore, you will need to have demonstrated and documented with a detailed report54
+              that problematic legislation will not be applied in practice to your transferred data and/or
+              importer, and, consequently, that it will not prevent the importer from fulfilling its
+              obligations under the Article 46 GDPR transfer tool.55
+
+
+
+Possible sources of information
+
+44. Your data importer should provide you with the relevant sources and information relating to the
+    third country in which it is established and the laws and practices in force applicable to the
+    transfer.
+
+45. You and your importer may complete your assessment with information obtained from sources,
+    such as those listed as examples in Annex 3.
+
+46. In addition to the legal framework of the third country applicable to the transfer, sources and
+    information should be relevant, objective, reliable, verifiable and publicly available or otherwise
+    accessible to determine whether your Article 46 transfer tool can be effectively applied56 and you
+    will have to assess and document that they are.
+
+
+
+
 53
-   Ver pontos 45 a 47.
+   See paragraphs 45 to 47.
 54
-   Os relatórios a elaborar deverão incluir informações completas sobre a avaliação jurídica da legislação e das
-práticas, bem como sobre a sua aplicação às transferências específicas, o procedimento interno de elaboração
-da avaliação (incluindo informações sobre os intervenientes envolvidos na avaliação, por exemplo, gabinetes de
-advogados, consultores ou departamentos internos) e as datas das verificações. Os relatórios devem ser
-aprovados pelo representante legal do exportador.
-
-
-
-
-Adotado                                                                                                      19
-
-              transferidos e/ou ao importador e, consequentemente, não impedirá o importador de
-              cumprir as suas obrigações ao abrigo do artigo 46.º do RGPD 55.
-
-
-
-Possíveis fontes de informação
-
-44. Sempre que adequado, o importador de dados deve fornecer ao exportador as fontes e
-    informações pertinentes relacionadas com o país terceiro no qual se encontra estabelecido e as
-    leis aplicáveis à transferência.
-
-45. O exportador e o importador podem completar a avaliação do exportador com informações
-    obtidas a partir de fontes, tais como as enumeradas como exemplos no anexo 3.
-
-46. Para além do quadro jurídico do país terceiro aplicável à transferência, as fontes e as informações
-    devem ser pertinentes, objetivas, fiáveis, verificáveis e acessíveis ao público ou de outro modo
-    acessíveis para determinar se o instrumento de transferência do artigo 46.º pode ser
-    efetivamente aplicado 56, o que deve ser avaliado e documentado pelo exportador.
-
-
-Relevantes: as informações devem ser relevantes para a transferência e/ou importador específicos e
-a sua conformidade com os requisitos estabelecidos no direito da UE e no instrumento de transferência
-do artigo 46.º do RGPD, e não devem ser demasiado gerais ou abstratas.
-
-Objetivas: informações corroboradas por dados empíricos baseados em conhecimentos adquiridos no
-passado e não em suposições de potenciais acontecimentos e riscos.
-
-Fiáveis: o exportador e o importador devem avaliar objetivamente a fiabilidade da fonte de informação
-e das próprias informações e avaliá-las separadamente.
-
-Verificáveis: as informações e as conclusões devem ser verificáveis ou contrastáveis com outros tipos
-de informações ou fontes, como parte de uma avaliação global, também para permitir à autoridade
-de supervisão ou judicial competente verificar, caso necessário, a objetividade e a fiabilidade dessas
-informações.
-
-Acessíveis ao público ou de outro modo acessíveis: as informações devem, de preferência, ser
-públicas ou, pelo menos, acessíveis para facilitar a verificação dos critérios acima referidos e assegurar
-a sua eventual partilha com as autoridades de controlo, as autoridades judiciais e, em última análise,
-os titulares dos dados.
-
-
-
-
+   Reports you will establish will have to include comprehensive information on the legal assessment of the
+legislation and practices, and of their application to the specific transfers, the internal procedure to produce the
+assessment (including information on actors involved in the assessment-e.g. law firms, consultants, or internal
+departments-) and dates of the checks. Reports should be endorsed by the legal representative of the exporter.
 55
-   A demonstração de que a legislação problemática não é aplicada, na prática, aos dados transferidos e ao
-importador, tendo também em conta a experiência de outros intervenientes que operam no mesmo setor e/ou
-relacionada com dados pessoais transferidos semelhantes, não isenta o exportador de prever as medidas
-complementares necessárias para proteger os dados pessoais durante a sua transmissão e tratamento no país
-terceiro de destino (por exemplo, encriptação de ponta a ponta dos dados — ver exemplos de medidas técnicas
-complementares no anexo 2) se a análise do exportador da legislação aplicável do país terceiro de destino indicar
-que o acesso aos dados também pode ter lugar, mesmo na ausência da intervenção do importador, neste
-momento da transferência. O exportador pode já ter previsto estas medidas com o importador na qualidade de
-responsável pelo tratamento ou subcontratante, em conformidade com o artigo 32.º do RGPD.
+   Demonstrating that problematic legislation is not applied in practice to your transferred data and importer,
+also taking into account the experience of other actors operating within the same sector and/or related to similar
+transferred personal data, does not exempt you from providing for the necessary supplementary measures to
+protect personal data during its transmission and processing in the third country of destination (e.g. end-to-end
+encryption of data – see examples of technical supplementary measures in Annex 2-) if your analysis of the
+applicable legislation of the third country of destination indicates that access to data may also take place, even
+in the absence of the importer’s intervention, at this moment of the transfer. You may have already foreseen
+such measures with the importer acting as controller or processor in accordance with Article 32 of the GDPR.
 56
-   Ver anexo 3 para uma lista não exaustiva das fontes de informação que podem ser utilizadas pelo exportador
-e pelo importador.
+   See Annex 3 for a non-exhaustive list of sources of information that you and the importer may use.
 
 
-Adotado                                                                                                       20
+Adopted                                                                                                          18
 
-47. O exportador também pode ter em conta a experiência prática documentada do importador em
-    casos anteriores pertinentes de pedidos de acesso recebidos de autoridades públicas do país
-    terceiro. O exportador só poderá utilizar a experiência do importador como fonte de informação
-    adicional se o quadro jurídico do país terceiro não proibir o importador de fornecer informações
-    sobre os pedidos de divulgação das autoridades públicas ou sobre a ausência de tais pedidos (e
-    deverá também documentar essa avaliação). Refira-se, no entanto, que a ausência de ocorrências
-    anteriores de pedidos recebidos pelo importador nunca poderá ser considerada, por si só, pelo
-    exportador como um fator decisivo da eficácia do instrumento de transferência do artigo 46.º do
-    RGPD que permitirá realizar a transferência sem medidas complementares. Esta informação
-    poderá ser considerada pelo exportador juntamente com outros tipos de informações obtidas de
-    outras fontes, como parte da sua avaliação global da legislação e das práticas do país terceiro em
-    relação à transferência. A experiência pertinente e documentada do importador deve ser
-    corroborada e não contrariada por informações pertinentes, objetivas, fiáveis, verificáveis e
-    acessíveis ao público ou de outro modo acessíveis sobre a aplicação prática da legislação aplicável
-    (por ex., a existência ou a ausência de pedidos de acesso recebidos por outros intervenientes que
-    operam no mesmo setor e/ou relacionados com dados pessoais transferidos semelhantes 57 e/ou
-    a aplicação da lei na prática, como a jurisprudência e os relatórios de organismos de supervisão
-    independentes).
+Relevant: the information must be relevant to the specific transfer and/or importer and their
+compliance with the requirements set in EU law and the Article 46 GDPR transfer instrument, and not
+overly general or abstract.
+
+Objective information: is information that is supported by empirical evidence based on knowledge
+gained from the past, not assumptions about potential events and risks.
+
+Reliable: the exporter and the importer must objectively assess the reliability of the source of
+information and of the information itself, and evaluate them separately.
+
+Verifiable: information and conclusions should be verifiable or contrastable with other types of
+information or sources, as part of an overall assessment, also to allow the competent supervisory or
+judicial authority to check the objectivity and reliability of this information if needed.
+
+Publicly available or otherwise accessible information: information should preferably be public or at
+least accessible to facilitate the verification of the criteria made above and ensure its possible sharing
+with supervisory authorities, judicial authorities and ultimately data subjects.
+
+47. You may also take into consideration documented practical experience of the importer with
+    relevant prior instances of requests for access received from public authorities in the third
+    country. You will only be able to use the experience of the importer as an additional source of
+    information if the legal framework of the third country does not prohibit the importer to provide
+    information on requests for disclosure from public authorities or on the absence of such requests
+    (and you should also document such an assessment). You must however note that the absence of
+    prior instances of requests received by the importer can never be considered, by itself, as a
+    decisive factor on the effectiveness of the Article 46 GDPR transfer tool that allows the transfer
+    to proceed without supplementary measures. You will be able to consider this information,
+    together with other types of information obtained from other sources, as part of your overall
+    assessment of the laws and practices of the third country in relation to your transfer. The relevant
+    and documented experience of the importer should be corroborated and not contradicted by
+    relevant, objective, reliable, verifiable and publicly available or otherwise accessible information
+    on the practical application of the relevant law (e.g. the existence or absence of requests for
+    access received by other actors operating within the same sector and/or related to similar
+    transferred personal data57 and/or the application of the law in practice, such as case law and
+    reports by independent oversight bodies).
 
 
 
-Resultados da avaliação do exportador
+Results of your assessment
 
-48. O exportador deve realizar esta avaliação global da legislação e da prática do país terceiro do
-    importador aplicáveis à transferência com a devida diligência e documentá-la exaustivamente. As
-    autoridades de controlo e/ou judiciais competentes podem solicitar a referida avaliação e
-    responsabilizar o exportador por qualquer decisão tomada com base na mesma. 58
+48. You should conduct this overall assessment of the law and practice of the third country of your
+    importer applicable to your transfer with due diligence and document it thoroughly. Your
+    competent supervisory and/or judicial authorities may request it and hold you accountable for
+    any decision you take on that basis.58
 
-49. A avaliação pode, em última análise, demonstrar que o instrumento de transferência do artigo
-    46.º do RGPD a que recorre o exportador:
-
-     - garante efetivamente que os dados pessoais transferidos beneficiam de um nível de proteção
-       no país terceiro essencialmente equivalente ao garantido no EEE. O direito e a prática do país
-       terceiro aplicáveis à transferência permitem ao importador de dados cumprir as obrigações
-       que lhe incumbem por força do instrumento de transferência escolhido. O exportador deve
-       reavaliar a situação com uma frequência adequada ou sempre que ocorram alterações
-       significativas (ver etapa 6); ou
-
-     - não garante efetivamente um nível de proteção essencialmente equivalente. O importador de
-       dados não pode cumprir as suas obrigações, devido à legislação e/ou práticas do país terceiro
-       aplicáveis à transferência que não cumprem as normas da UE em matéria de direitos e
-       liberdades fundamentais e a necessidade e proporcionalidade das respetivas restrições para
-       salvaguardar objetivos legítimos de interesse público. O Tribunal de Justiça sublinhou que nos
 
 
 
 57
-   A experiência pode ser a de outras entidades do conhecimento direto do exportador devido a transferências
-anteriores do mesmo tipo ou referidas na jurisprudência pertinente, em relatórios de ONG, etc. (ver anexo 3).
+   The experience could be that of other entities you directly know because of previous transfers of the same
+kind you put in place, or which is reported in relevant case-law, reports of NGOs, etc. (see Annex 3).
 58
-   Artigo 5.º, n.º 2, do RGPD.
+   Article 5(2) GDPR.
 
 
+Adopted                                                                                                   19
+
+49. Your assessment may ultimately reveal that the Article 46 GDPR transfer tool you rely on either:
+
+       - Effectively ensures that the transferred personal data is afforded a level of protection in the
+         third country that is essentially equivalent to that guaranteed in the EEA. The third country’s
+         legislation and practices applicable to the transfer allow the data importer to comply with its
+         obligations under the chosen transfer tool. You should re-evaluate at appropriate intervals, or
+         when significant changes come to light (see Step 6); or
+
+       - Does not effectively ensure an essentially equivalent level of protection. The data importer
+         cannot comply with its obligations, owing to the third country’s legislation and/or practices
+         applicable to the transfer not meeting EU standards on fundamental rights and freedoms and
+         the necessity and proportionality of restrictions thereto to safeguard legitimate objectives of
+         public interest. The CJEU underlined that where Article 46 GDPR transfer tools fall short, it is
+         the responsibility of the data exporter to either put in place effective supplementary measures
+         or to not transfer personal data.59
 
 
-Adotado                                                                                                   21
+Example:
 
-        casos em que os instrumentos de transferência do artigo 46.º do RGPD não são suficientes
-        cabe ao exportador de dados adotar medidas complementares eficazes ou não transferir
-        dados pessoais.59
+Background:
+The CJEU held that Section 702 of the U.S. FISA does not respect the minimum safeguards resulting
+from the principle of proportionality under EU law and cannot be regarded as limited to what is strictly
+necessary. This means that the level of protection of the programs authorised by Section 702 FISA is
+not essentially equivalent to the safeguards required under EU law.
 
+Assessment:
+If your assessment of the relevant U.S. legislation leads you to consider that your transfer might fall
+within the scope of Section 702 FISA, but you are unsure if it falls within its practical scope of
+application, you may decide either:
 
-Exemplo:
+1. To stop the transfer;
+2. To adopt appropriate supplementary measures that ensure effectively a level of protection of the
+data transferred essentially equivalent to that guaranteed in the EEA; or
+3. To look at other objective, reliable, relevant, verifiable and preferably publicly available information
+(which may include information provided to you by your data importer) to clarify the scope of
+application in practice of Section 702 FISA to your particular transfer. This information should provide
+answers to some relevant questions, such as the following:
 
-Contexto:
-O Tribunal de Justiça considerou, por exemplo, que o artigo 702.º da Lei de Vigilância de Informações
-Externas dos Estados Unidos (FISA) não cumpre os requisitos mínimos inerentes, no direito da União,
-ao princípio da proporcionalidade e não se pode considerar que se limite ao estritamente necessário.
-Por conseguinte, o nível de proteção dos programas autorizados pelo artigo 702.º da FISA não é
-essencialmente equivalente às garantias exigidas pela legislação da UE.
+- Does publicly available information show that there is a legal prohibition of informing about a specific
+request for access to data received and wide restrictions on providing general information about
+requests for access to data received or the absence of requests received?
 
-Avaliação:
-Se a sua avaliação da legislação pertinente dos EUA levar o exportador a considerar que a transferência
-pode ser abrangida pelo âmbito de aplicação do artigo 702.º da FISA, mas o mesmo tiver dúvidas de
-que a transferência seja abrangida pelo âmbito de aplicação prática deste artigo, o exportador poderá
-decidir:
-
-1. Interromper a transferência;
-2. Adotar medidas complementares adequadas que assegurem efetivamente um nível de proteção
-dos dados transferidos essencialmente equivalente ao garantido no EEE; ou
-3. Considerar outras informações objetivas, fiáveis, pertinentes, verificáveis e, de preferência,
-acessíveis ao público (que podem incluir informações que lhe tenham sido fornecidas pelo importador
-de dados), para clarificar o âmbito da aplicação prática do artigo 702.º da FISA à transferência
-específica. Estas informações devem dar resposta a algumas perguntas pertinentes, tais como:
-
-- As informações publicamente disponíveis mostram que existe uma proibição legal de informar sobre
-um pedido específico recebido de acesso a dados e restrições importantes à prestação de informações
-gerais sobre os pedidos recebidos de acesso a dados ou sobre a ausência de pedidos recebidos?
-
-- O importador de dados confirmou ter recebido pedidos de acesso a dados das autoridades públicas
-dos EUA no passado? Ou o importador de dados confirmou que, no passado, não recebeu pedidos de
-acesso a dados das autoridades públicas dos EUA e que não está proibido de fornecer informações
-sobre esses pedidos ou sobre a sua ausência?
-
-- As informações acessíveis ao público obtidas pelo exportador sobre a jurisprudência dos EUA e os
-relatórios de organismos de supervisão, organizações da sociedade civil e instituições académicas 60
-revelam que importadores de dados do mesmo setor que o importador em causa receberam no
-passado pedidos de acesso relativamente a dados transferidos semelhantes?
-
+- Has your data importer confirmed that it has received requests for access to data from U.S. public
+authorities in the past? Or has your data importer confirmed that it has not received requests for
+access to data from U.S. public authorities in the past and that it is not prohibited from providing
+information about such requests or their absence?
 
 
 
 59
-  Acórdão Schrems II, n.os 134 e 135.
+     CJEU C-311/18 (Schrems II), paragraphs 134 and 135.
+
+
+
+Adopted                                                                                                 20
+
+- Does publicly available information you obtained on U.S. case law and reports from oversight bodies,
+civil society organisations, and academic institutions60 reveal data importers of the same sector as your
+importer have received requests for access to data for similar transferred data in the past?
+
+The answers to these questions that you obtain through your overall assessment lead you to conclude
+that:
+
+- Section 702 FISA applies in practice to your particular transfer and therefore, impinges on the
+effectiveness of your Article 46 GDPR transfer tool. Consequently, if you wish to proceed with the
+transfer, you must consider, where appropriate in collaboration with the importer, if you can adopt
+supplementary measures that ensure effectively a level of protection of the transferred data
+essentially equivalent to that guaranteed in the EEA. If you cannot find effective supplementary
+measures, you must not transfer the personal data.
+
+Or
+
+- Section 702 FISA does not apply in practice to your particular transfer and therefore, does not impinge
+on the effectiveness of your Article 46 GDPR transfer tool. You may then proceed with the transfer
+without any supplementary measures.
+
+
+
+     Step 4: Adopt supplementary measures
+50. If your assessment under Step 3 has revealed that your Article 46 GDPR transfer tool is not
+    effective, then you will need to consider, where appropriate in collaboration with the importer, if
+    supplementary measures exist, which, when added to the safeguards contained in transfer tools,
+    could ensure that the data transferred is afforded in the third country a level of protection
+    essentially equivalent to that guaranteed within the EU.61 “Supplementary measures” are by
+    definition supplementary to the safeguards the Article 46 GDPR transfer tool already provides and
+    to any other applicable security requirements (e.g. technical security measures) established in the
+    GDPR.62
+
+51. You must identify on a case-by-case basis which supplementary measures could be effective for a
+    set of transfers to a specific third country when using a specific Article 46 GDPR transfer tool. You
+    do not need to repeat the assessment every time you conduct the same transfer of a specific type
+    of data to the same third country. Some of the data planned for transfer may require
+    supplementary measures whereas other data may not (considering formal and/or practical
+    application of the third country law). You will be able to build on your previous assessments and
+    conclusions under Steps 1, 2 and 3 above and check against their findings the potential
+    effectiveness of the supplementary measures in guaranteeing the required level of protection.
+
+
+
 60
-   Por ex., disposições do artigo 702.º da FISA; regulamento interno do Foreign Intelligence Surveillance Court
-(FISC), pareceres e decisões não confidenciais do FISC, jurisprudência dos tribunais dos EUA; relatórios e
-transcrições de audiências da Privacy and Civil Liberties Oversight Board (PCLOB); relatórios do Office of the
-Inspector General - U.S. Department of Justice; relatórios do NSA Director of Civil Liberties and Privacy Office;
-relatórios elaborados pelo Congressional Research Service; relatórios da American Civil Liberties Union
-Foundation (ACLU).
-
-
-Adotado                                                                                                       22
-
-As respostas a estas perguntas obtidas através da avaliação global do exportador levam-no a concluir
-que:
-
-- O artigo 702.º da FISA aplica-se, na prática, à transferência específica e, por conseguinte, colide com
-a eficácia do instrumento de transferência do artigo 46.º do RGPD utilizado. Por conseguinte, se o
-exportador pretender proceder à transferência, deve considerar, caso necessário em colaboração com
-o importador, se pode adotar medidas complementares que assegurem efetivamente um nível de
-proteção dos dados transferidos essencialmente equivalente ao garantido no EEE. Se não encontrar
-medidas complementares eficazes, não deve transferir os dados pessoais.
-
-Ou
-
-- O artigo 702.º da FISA não se aplica, na prática, à transferência específica e, por conseguinte, não
-afeta a eficácia do instrumento de transferência do artigo 46.º do RGPD utilizado. Nesse caso, o
-exportador pode realizar a transferência sem quaisquer medidas complementares.
-
-
-
-Etapa 4: Adotar medidas complementares
-
-50. Se resultar da avaliação efetuada pelo exportador na etapa 3 que o instrumento de transferência
-    do artigo 46.º do RGPD escolhido não é eficaz, o exportador deverá determinar, caso necessário
-    em colaboração com o importador, se existem medidas complementares que, em combinação
-    com as garantias contidas nos instrumentos de transferência, possam assegurar que os dados
-    transferidos beneficiem no país terceiro de um nível de proteção essencialmente equivalente ao
-    que é garantido na UE. 61 As «medidas complementares» são, por definição, complementares das
-    garantias já previstas no instrumento de transferência do artigo 46.º do RGPD e de quaisquer
-    outros requisitos de segurança aplicáveis (por ex., medidas técnicas de segurança) estabelecidos
-    no RGPD 62.
-
-51. O exportador deve identificar, caso a caso, as medidas complementares que podem ser eficazes
-    para um conjunto de transferências para um país terceiro específico quando utiliza um
-    instrumento de transferência específico do artigo 46.º do RGPD. O exportador não precisa de
-    repetir a avaliação sempre que efetuar a mesma transferência de um tipo específico de dados
-    para o mesmo país terceiro. Alguns dos dados previstos para transferência podem exigir medidas
-    complementares, ao passo que outros podem não exigir essas medidas (tendo em conta a
-    aplicação formal e/ou prática da legislação do país terceiro). O exportador poderá basear-se nas
-    suas avaliações e conclusões anteriores nas etapas 1, 2 e 3 supra e verificar, com base nas suas
-    conclusões, a potencial eficácia das medidas complementares para garantir o nível de proteção
-    exigido.
-
-52. Em princípio, as medidas complementares podem ter um caráter contratual, técnico ou
-    organizativo. A combinação de diferentes medidas de um modo que estas se suportem e reforcem
-
-
-
-
+   e.g. Provisions of Section 702 FISA; Rules of Procedure of the Foreign Intelligence Surveillance Court (FISC),
+declassified FISC opinions and decisions, case law of U.S. courts; reports and hearing transcripts of the Privacy
+and Civil Liberties Oversight Board (PCLOB); reports by the Office of the Inspector General - U.S. Department of
+Justice; reports by the NSA Director of Civil Liberties and Privacy Office; reports prepared by the Congressional
+Research Service; reports by the American Civil Liberties Union Foundation (ACLU).
 61
-     Acórdão Schrems II, n.º 96.
+   C-311/18 (Schrems II), paragraph 96.
 62
-     Considerando 109 do RGPD e Acórdão Schrems II, n.º 133.
+   Recital 109 of the GDPR and C-311/18 (Schrems II), paragraph 133.
 
 
 
+Adopted                                                                                                       21
 
-Adotado                                                                                               23
+52. In principle, supplementary measures may have a contractual, technical or organisational nature.
+    Combining diverse measures in a way that they support and build on each other may enhance the
+    level of protection and may therefore contribute to reaching EU standards.
 
-     mutuamente pode aumentar o nível de proteção e, por conseguinte, contribuir para o
-     cumprimento das normas da UE.
+53. Contractual and organisational measures alone will generally not overcome access to personal
+    data by public authorities of the third country based on problematic legislation and/or practices.63
+    Indeed there will be situations where only appropriately implemented technical measures might
+    impede or render ineffective access by public authorities in third countries to personal data, in
+    particular for surveillance purposes.64 In such situations, contractual or organisational measures
+    may complement technical measures and strengthen the overall level of protection of data (e.g.
+    by introducing checks and eliminating automatisms for attempts from public authorities to access
+    data in a manner not compliant with EU standards).
 
-53. As medidas contratuais e organizativas não poderão, por si só, regra geral, obstar ao acesso aos
-    dados pessoais das autoridades públicas do país terceiro com base em legislação e/ou práticas
-    problemáticas. 63 Com efeito, em determinadas situações, apenas as medidas técnicas
-    implementadas de forma adequada poderão impedir ou tornar ineficaz o acesso das autoridades
-    públicas de países terceiros aos dados pessoais, nomeadamente para fins de vigilância. 64 Nessas
-    situações, determinadas medidas contratuais ou organizativas podem complementar as medidas
-    técnicas e reforçar o nível geral de proteção dos dados (por ex., mediante a introdução de
-    controlos e a eliminação de automatismos em relação às tentativas de acesso aos dados das
-    autoridades públicas não conformes com as normas da UE.
+54. You may, in collaboration with the data importer where appropriate, look at the following (non-
+    exhaustive) list of factors to identify which supplementary measures would be most effective in
+    protecting the data transferred from public authorities’ requests for access to data based on
+    problematic legislation applied in practice:
 
-54. O exportador pode, caso necessário em colaboração com o importador de dados, consultar a
-    seguinte lista (não exaustiva) de fatores para identificar as medidas complementares mais
-    eficazes na proteção dos dados transferidos contra os pedidos de acesso a dados das autoridades
-    públicas baseados em legislação problemática aplicada na prática:
-
-     - formato dos dados a transferir (ou seja, texto corrido/pseudonimizado ou encriptado),
-     - natureza dos dados (por ex., é concedido um nível de proteção mais elevado no EEE às
-       categorias de dados abrangidas pelos artigos 9.º e 10.º do RGPD); 65
-     - duração e complexidade do fluxo de tratamento de dados, número de intervenientes
-       envolvidos no tratamento e relação entre os mesmos (por ex., as transferências envolvem
-       vários responsáveis pelo tratamento ou responsáveis pelo tratamento de dados e
-       subcontratantes, ou envolvem subcontratantes que transferirão os dados do exportador para
-       o importador de dados, considerando as disposições pertinentes que lhes são aplicáveis ao
-       abrigo da legislação do país terceiro de destino); 66
-     - técnica ou parâmetros de aplicação prática da legislação do país terceiro concluída na etapa 3;
+     - Format of the data to be transferred (i.e. in plain text/pseudonymised or encrypted);
+     - Nature of the data (e.g. a higher level of protection is afforded in the EEA to categories of data
+       covered by articles 9 and 10 GDPR);65
+     - Length and complexity of data processing workflow, number of actors involved in the
+       processing, and the relationship between them (e.g. do the transfers involve multiple
+       controllers or both controllers and processors, or involvement of processors which will transfer
+       the data from you to your data importer -considering the relevant provisions applicable to
+       them under the legislation of the third country of destination-);66
+     - Technique or parameters of practical application of the third country law concluded in Step 3;
+     - Possibility that the data may be subject to onward transfers, within the same third country or
+       even to other third countries (e.g. involvement of sub-processors of the data importer67).
 
 
 
 
 63
-    Entende-se por «legislação problemática» a legislação que 1) impõe ao destinatário de dados pessoais
-provenientes da União Europeia obrigações e/ou afeta os dados transferidos de uma forma que pode colidir com
-a garantia contratual dos instrumentos de transferência de um nível de proteção essencialmente equivalente e
-2) não respeita a essência dos direitos e liberdades fundamentais reconhecidos pela Carta dos Direitos
-Fundamentais da UE ou excede o que é necessário e proporcionado numa sociedade democrática para
-salvaguardar um dos objetivos importantes também reconhecidos no direito da União ou dos Estados-Membros
-da UE, como os enumerados no artigo 23.º, n.º 1, do RGPD.
+   ‘Problematic legislation’ is understood as legislation that 1) imposes on the recipient of personal data from the
+European Union obligations and/or affect the data transferred in a manner that may impinge on the transfer
+tools’ contractual guarantee of an essentially equivalent level of protection and 2) does not respect the essence
+of the fundamental rights and freedoms recognised by the EU Charter of Fundamental Rights or exceeds what is
+necessary and proportionate in a democratic society to safeguard one of the important objectives as also
+recognised in Union or EU Member States’ law, such as those listed in Article 23 (1) GDPR.
 64
-    Sempre que tal acesso vá além do que é necessário e proporcionado numa sociedade democrática; ver
-artigos 47.º e 52.º da Carta dos Direitos Fundamentais da UE, artigo 23.º, n.º 1, do RGPD e Recomendações
-02/2020 do CEPD sobre as garantias essenciais europeias relativas às medidas de vigilância, de 10 de novembro
-de 2020, https://edpb.europa.eu/our-work-tools/our-documents/recommendations/edpb-recommendations-
-022020-european-essential_en.
+   Where such access goes beyond what is necessary and proportionate in a democratic society; see Articles 47
+and 52 of the EU Charter of Fundamental Rights, Article 23.1 GDPR, and EDPB Recommendations 02/2020 on the
+European Essential Guarantees for surveillance measures, 10 November 2020, https://edpb.europa.eu/our-
+work-tools/our-documents/recommendations/edpb-recommendations-022020-european-essential_en.
 65
-   Ver nota de rodapé 42.
+   See footnote 42.
 66
-    O RGPD atribui obrigações diferentes aos responsáveis pelo tratamento e aos subcontratantes. As
-transferências podem ser de responsável pelo tratamento para responsável pelo tratamento, entre responsáveis
-pelo tratamento conjuntos, de responsável pelo tratamento para subcontratante, e, mediante autorização do
-responsável pelo tratamento, de subcontratante para responsável pelo tratamento ou de subcontratante para
-subcontratante.
+   The GDPR assigns distinct obligations to controllers and processors. Transfers can be controller-to-controller,
+between joint controllers, controller-to-processor, and, subject to the authorisation of the controller, processor-
+to-controller or processor-to-processor.
+67
+   See footnote 26.
 
 
+Adopted                                                                                                          22
 
+Examples of supplementary measures
 
-Adotado                                                                                                   24
-
-     - possibilidade da ocorrência de transferências ulteriores dos dados, no mesmo país terceiro ou
-       mesmo para outros países terceiros (por ex., envolvimento de subcontratantes ulteriores do
-       importador de dados). 67
-
-
-Exemplos de medidas complementares
-
-55. Alguns exemplos de medidas técnicas, contratuais e organizativas que poderão ser consideradas,
-    se já não estiverem incluídas no instrumento de transferência do artigo 46.º do RGPD, constam
-    das listas não exaustivas do anexo 2.
+55. Some examples of technical, contractual and organisational measures that could be considered,
+    where not already included in the used Article 46 GDPR transfer tool, may be found in the non-
+    exhaustive lists described in the Annex 2.
 
                                                         ***
 
-56. Se o exportador tiver adotado medidas complementares eficazes que em combinação com o
-    instrumento de transferência do artigo 46.º do RGPD escolhido atinjam um nível de proteção
-    essencialmente equivalente ao garantido no EEE, poderá realizar as transferências.
+56. If you have put in place effective supplementary measures, which combined with your chosen
+    Article 46 GDPR transfer tool reach a level of protection that is now essentially equivalent to the
+    level of protection guaranteed within the EEA: you may proceed with your transfers.
 
-57. Caso não consiga encontrar ou implementar medidas complementares eficazes que garantam que
-    os dados pessoais transferidos beneficiem de um nível de proteção essencialmente equivalente 68,
-    o exportador não deverá iniciar qualquer transferência de dados pessoais para o país terceiro em
-    causa utilizando o instrumento de transferência do artigo 46.º do RGPD por si escolhido. Se o
-    exportador já tiver iniciado transferências, deve suspender ou cessar a transferência de dados
-    pessoais.69 Nos termos das garantias contidas no instrumento de transferência do artigo 46.º do
-    RGPD a que recorreu o exportador, os dados já transferidos para o país terceiro em causa, bem
-    como as respetivas cópias, devem ser-lhe devolvidos ou ser integralmente destruídos pelo
-    importador. 70
+57. Where you are not able to find or implement effective supplementary measures that ensure that
+    the transferred personal data enjoys an essentially equivalent level of protection,68 you must not
+    start transferring personal data to the third country concerned on the basis of the Article 46 GDPR
+    transfer tool you are relying on. If you are already conducting transfers, you are required to
+    suspend or end the transfer of personal data.69 Pursuant to the safeguards contained in the Article
+    46 GDPR transfer tool you are relying on, the data that you have already transferred to that third
+    country and the copies thereof should be returned to you or destroyed in their entirety by the
+    importer.70
 
-Exemplo:
+Example:
 
-O direito do país terceiro proíbe as medidas complementares que o exportador identificou (por
-exemplo, proíbe a utilização de encriptação) ou impede, de outro modo, a sua eficácia. O exportador
-não deve iniciar qualquer transferência de dados pessoais para o país em causa ou deve interromper
-as transferências em curso para esse país.
+The law of the third country prohibits the supplementary measures you have identified (e.g. prohibits
+the use of encryption) or otherwise prevents their effectiveness. You must not start transferring
+personal data to this country, or you must stop ongoing existing transfers to this country.
 
 
 
-58. A autoridade de controlo competente pode impor quaisquer outras medidas corretivas (por ex.,
-    uma coima) se, apesar de não poder demonstrar um nível de proteção essencialmente
-    equivalente no país terceiro, o exportador iniciar ou prosseguir a transferência.
+58. The competent supervisory authority may impose any other corrective measure (e.g. a fine) if,
+    despite the fact that you cannot demonstrate an essentially equivalent level of protection in the
+    third country, you start or continue the transfer.
 
 
 
+     Step 5: Procedural steps if you have identified effective supplementary measures
+59. The procedural steps you may have to take in case you have identified effective supplementary
+    measures to be put in place may differ depending on the Article 46 GDPR transfer tool you are
+    using or you envisage to use.
 
-67
-   Ver nota de rodapé 26.
+2.5.1 Standard data protection clauses (“SCCs”) (Art. 46(2)(c) and (d) GDPR)
+60. When you intend to put in place supplementary measures in addition to SCCs, there is no need
+    for you to request an authorisation from the competent SA to add these kind of clauses or
+
 68
-   Sempre que tal acesso vá além do necessário e proporcionado numa sociedade democrática; ver artigos 47.º
-e 52.º da Carta dos Direitos Fundamentais da UE, artigo 23.º, n.º 1, do RGPD e Recomendações 02/2020 do CEPD
-sobre as garantias essenciais europeias relativas às medidas de vigilância, de 10 de novembro de 2020,
-https://edpb.europa.eu/our-work-tools/our-documents/recommendations/edpb-recommendations-022020-
-european-essential_en.
+   Where such access goes beyond what is necessary and proportionate in a democratic society; see Articles 47
+and 52 of the EU Charter of Fundamental Rights, Article 23.1 GDPR, and EDPB Recommendations 02/2020 on the
+European Essential Guarantees for surveillance measures, 10 November 2020, https://edpb.europa.eu/our-
+work-tools/our-documents/recommendations/edpb-recommendations-022020-european-essential_en .
 69
-   Acórdão Schrems II, n.º 135.
+   C-311/18 (Schrems II), paragraph 135.
 70
-   Ver, por exemplo, a cláusula 12 do anexo da Decisão 2010/87/UE relativa às CCT; ver a cláusula adicional de
-resolução (opcional) do anexo B da Decisão 2004/915/CE relativa às CCT.
-
-
-Adotado                                                                                                    25
-
-Etapa 5: Etapas do processo a seguir quando o exportador identifica medidas
-    complementares eficazes
-59. As etapas do processo que o exportador pode ter de seguir se tiver identificado medidas
-    complementares eficazes a adotar variam consoante o instrumento de transferência do artigo
-    46.º do RGPD que estiver a utilizar ou pretender utilizar.
-
-Cláusulas-tipo de proteção de dados [artigo 46.º, n.º 2, alíneas c) e d), do RGPD]
-60. Se o exportador pretender adotar medidas complementares em combinação com as cláusulas
-    contratuais-tipo, não é necessário solicitar autorização à autoridade de controlo competente para
-    adicionar este tipo de cláusulas ou garantias complementares, desde que as medidas
-    complementares identificadas não contradigam, direta ou indiretamente, as cláusulas-tipo de
-    proteção de dados e sejam suficientes para assegurar que o nível de proteção garantido pelo
-    RGPD não é comprometido. 71 O exportador e o importador de dados devem assegurar que as
-    cláusulas adicionais não podem ser interpretadas de modo a restringir os direitos e obrigações
-    previstos nas cláusulas contratuais-tipo ou, de qualquer outro modo, reduzir o nível de proteção
-    dos dados. O exportador deve poder demonstrar o que precede, incluindo a inequivocidade de
-    todas as cláusulas, em conformidade com o princípio da responsabilidade e a sua obrigação de
-    proporcionar um nível suficiente de proteção dos dados. As autoridades de controlo competentes
-    têm o poder de rever as cláusulas complementares sempre que necessário (por ex., em caso de
-    reclamação ou de um inquérito de iniciativa própria).
-
-61. Se o exportador pretender alterar as próprias cláusulas-tipo de proteção de dados ou se as
-    medidas complementares adicionadas «contradisserem», direta ou indiretamente, as cláusulas
-    contratuais-tipo, deixa de se considerar que o exportador recorreu às cláusulas-tipo contratuais72
-    e este deve solicitar uma autorização à autoridade de controlo competente, nos termos do artigo
-    46.º, n.º 3, alínea a), do RGPD.
+   E.g. see Clause 12 in the annex to the SCC Decision 87/2010; see the (optional) Extra termination clause in
+Annex B SCC 2004/915/EC.
 
 
 
+Adopted                                                                                                    23
+
+     additional safeguards as long as the identified supplementary measures do not contradict, directly
+     or indirectly, the SCCs and are sufficient to ensure that the level of protection guaranteed by the
+     GDPR is not undermined.71 The data exporter and importer need to ensure that additional clauses
+     cannot be construed in any way to restrict the rights and obligations in the SCCs or in any other
+     way to lower the level of data protection. You should be able to demonstrate this, including the
+     unambiguity of all clauses, according to the accountability principle and your obligation to provide
+     for a sufficient level of data protection. The competent supervisory authorities have the power to
+     review these supplementary clauses where required (e.g. in case of complaint or own-volition
+     inquiry).
+
+61. Where you intend to modify the standard data protection clauses themselves or where the
+    supplementary measures added ‘contradict’ directly or indirectly the SCCs, you are no longer
+    deemed to be relying on standard contractual clauses72 and must seek an authorisation with the
+    competent supervisory authority in accordance with Article 46(3)(a) GDPR.
+
+2.5.2 BCRs (Art. 46(2)(b) GDPR)
+62. The reasoning put forward by the Schrems II judgment also applies to other transfer instruments
+    pursuant to Article 46(2) GDPR since all of these instruments are basically of contractual nature,
+    so the guarantees foreseen and the commitments taken by the parties therein cannot bind third
+    country public authorities.73
+
+63. The Schrems II judgement is relevant for transfers of personal data on the basis of BCRs, since
+    third countries laws may affect the protection provided by such instruments.
+
+64. All commitments that need to be included will be referred to in the updated WP256/257
+    referentials74 to which all groups relying on BCRs as transfer tools will have to align their existing
+    and future BCRs.
+
+65. The Court highlighted that it is the responsibility of the data exporter and the data importer to
+    assess whether the level of protection required by EU law is respected in the third country
+    concerned in order to determine if the guarantees provided by the SCCs or the BCRs can be
 
 71
-   O considerando 109 do RGPD estipula: «A possibilidade de o responsável pelo tratamento ou o subcontratante
-utilizarem cláusulas-tipo de proteção de dados adotadas pela Comissão ou por uma autoridade de controlo não
-os deverá impedir de incluírem estas cláusulas num contrato mais abrangente, como um contrato entre o
-subcontratante e outro subcontratante, nem de acrescentarem outras cláusulas ou garantias adicionais desde
-que não entrem, direta ou indiretamente, em contradição com as cláusulas contratuais-tipo adotadas pela
-Comissão ou por uma autoridade de controlo, e sem prejuízo dos direitos ou liberdades fundamentais dos
-titulares dos dados.» Os conjuntos de cláusulas contratuais-tipo adotados pela Comissão Europeia ao abrigo da
-Diretiva 95/45/CE contêm disposições semelhantes.
+   Recital 109 of the GDPR states: “The possibility for the controller or processor to use standard data-protection
+clauses adopted by the Commission or by a supervisory authority should prevent controllers or processors
+neither from including the standard data-protection clauses in a wider contract, such as a contract between the
+processor and another processor, nor from adding other clauses or additional safeguards provided that they do
+not contradict, directly or indirectly, the standard contractual clauses adopted by the Commission or by a
+supervisory authority or prejudice the fundamental rights or freedoms of the data subjects.” Similar provisions
+are provided in sets of SCCs adopted by the European Commission under Directive 95/45/EC.
 72
-   Ver, por analogia, o Parecer 17/2020 do CEPD sobre o projeto de cláusulas contratuais tipo apresentado pela
-autoridade de controlo (AC) eslovena (artigo 28.º, n.º 8, do RGPD) relativamente à cláusula contratual-tipo do
-artigo 28.º já adotada que contém uma disposição semelhante («Além disso, o Comité recorda que a
-possibilidade de utilizar cláusulas contratuais-tipo adotadas por uma autoridade de controlo não impede as
-partes de acrescentarem outras cláusulas ou salvaguardas adicionais, desde que estas não contradigam, direta
-ou indiretamente, as cláusulas contratuais-tipo adotadas, nem prejudiquem os direitos ou liberdades
-fundamentais dos titulares de dados. Além disso, caso as cláusulas-tipo de proteção de dados sejam alteradas,
-deixará de se considerar que as partes aplicaram as cláusulas contratuais-tipo adotadas»),
-https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_opinion_202017_art28sccs_si_pt.pdf.
-
-
-
-
-Adotado                                                                                                    26
-
-Regras vinculativas aplicáveis às empresas [artigo 46.º, n.º 2, alínea b), do RGPD]
-62. O raciocínio apresentado pelo Acórdão Schrems II aplica-se igualmente a outros instrumentos de
-    transferência nos termos do artigo 46.º, n.º 2, do RGPD, uma vez que todos estes instrumentos
-    são basicamente de natureza contratual, de modo que as garantias previstas e os compromissos
-    assumidos pelas partes não podem vincular autoridades públicas de países terceiros 73.
-
-63. O Acórdão Schrems II é pertinente para as transferências de dados pessoais com base em regras
-    vinculativas aplicáveis às empresas, uma vez que as leis de países terceiros podem afetar a
-    proteção proporcionada por esses instrumentos.
-
-64. Todos os compromissos que devem ser incluídos serão referidos nas referências atualizadas do
-    documento de trabalho WP256/257 74 do Grupo de Trabalho do Artigo 29.º, com as quais todos
-    os grupos que utilizam as regras vinculativas para as empresas como instrumentos de
-    transferência devem alinhar os respetivos instrumentos de transferência atuais e futuras.
-
-65. O Tribunal de Justiça salientou que incumbe ao exportador e ao importador de dados avaliar se o
-    nível de proteção exigido pela legislação da UE é respeitado no país terceiro em causa, a fim de
-    determinar se as garantias fornecidas pelas cláusulas contratuais-tipo ou pelas regras vinculativas
-    aplicáveis às empresas podem ser cumpridas na prática. Se não for o caso, o exportador deve
-    avaliar se é possível prever medidas complementares para assegurar um nível de proteção
-    essencialmente equivalente ao garantido no EEE e se o direito ou a prática do país terceiro não
-    afetarão as medidas complementares, comprometendo a sua eficácia.
-
-Cláusulas contratuais ad hoc [artigo 46.º, n.º 3, alínea a), do RGPD]
-66. O raciocínio apresentado pelo Acórdão Schrems II aplica-se igualmente a outros instrumentos de
-    transferência nos termos do artigo 46.º, n.º 2, do RGPD, uma vez que todos estes instrumentos
-    são basicamente de natureza contratual, pelo que as garantias previstas e os compromissos
-    assumidos pelas partes nestes instrumentos não podem vincular autoridades públicas de países
-    terceiros 75. Por conseguinte, o Acórdão Schrems II é pertinente para as transferências de dados
-    pessoais com base nas cláusulas contratuais ad hoc, uma vez que as leis de países terceiros podem
-    afetar a proteção assegurada por tais instrumentos.
-
-
-
-Etapa 6: Reavaliar com frequência adequada
-67. O exportador deve controlar, permanentemente e sempre que adequado em colaboração com os
-    importadores de dados, os desenvolvimentos no país terceiro para o qual transferiu dados
-    pessoais que possam afetar a sua avaliação inicial do nível de proteção e as decisões que tenha
-    consequentemente adotado em relação às suas transferências. A responsabilidade é uma
-    obrigação permanente (artigo 5.º, n.º 2, do RGPD).
-
-
-
-
+   See by analogy, the EDPB Opinion 17/2020 on the draft Standard Contractual Clauses submitted by the
+Slovenian SA (Article 28(8) GDPR) on Art. 28 SCC already adopted which contains a similar provision (“In addition,
+the Board recalls that the possibility to use Standard Contractual Clauses adopted by a supervisory authority does
+not prevent the parties from adding other clauses or additional safeguards provided that they do not contradict,
+directly or indirectly, the adopted standard contractual clauses or prejudice the fundamental rights or freedoms
+of the data subjects. Furthermore, where the standard data protection clauses are modified, the parties will no
+longer      be     deemed      to     have      implemented      adopted      standard     contractual    clauses”),
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_opinion_202017_art28sccs_si_en.pdf .
 73
-   Acórdão Schrems II, n.º 132.
+   CJEU, C-311/18 (Schrems II), paragraph 132.
 74
-   Grupo de Trabalho do Artigo 29.º, Documento de trabalho que cria uma tabela com os elementos e os
-princípios que constam das regras vinculativas para as empresas, com a última redação revista e adotada em 6
-de fevereiro de 2018 (WP 256 rev.01); Grupo de Trabalho do Artigo 29.º,Documento de trabalho que cria uma
-tabela com os elementos e os princípios que constam das regras vinculativas para as empresas destinadas aos
-subcontratantes, com a última redação revista e adotada em 6 de fevereiro de 2018 (WP 257 rev.01).
+   Article 29 Working Party, Working Document setting up a table with the elements and principles to be found
+in Binding Corporate Rules, as last revised and adopted on 6 February 2018, WP 256 rev.01; Article 29 Working
+Party, Working Document setting up a table with the elements and principles to be found in Binding Corporate
+Rules, as last revised and adopted on 6 February 2018, WP 257 rev.01.
+
+
+
+Adopted                                                                                                          24
+
+        complied with in practice. If this is not the case, you should assess whether you can provide
+        supplementary measures to ensure an essentially equivalent level of protection as provided in the
+        EEA, and if the law or practice of the third country will not impinge on these supplementary
+        measures so as to prevent their effectiveness.
+
+2.5.3 Ad hoc contractual clauses (Art. 46.3(a) GDPR)
+66. The reasoning put forward by the Schrems II judgment also applies to other transfer instruments
+    pursuant to Article 46 (2) GDPR since all of these instruments are basically of contractual nature,
+    so the guarantees foreseen and the commitments taken by the parties therein cannot bind third
+    country public authorities.75 The Schrems II judgement is therefore relevant for transfers of
+    personal data on the basis of ad hoc contractual clauses, since third countries laws may affect the
+    protection provided by such instruments.
+
+
+
+        Step 6: Re-evaluate at appropriate intervals
+67. You must monitor, on an ongoing basis, and where appropriate in collaboration with data
+    importers, developments in the third country to which you have transferred personal data that
+    could affect your initial assessment of the level of protection and the decisions you may have
+    taken accordingly on your transfers. Accountability is a continuing obligation (Article 5(2) GDPR).
+
+68. You should put sufficiently sound mechanisms in place to ensure that you promptly suspend or
+    end transfers where:
+
+         - the importer has breached or is unable to honour the commitments it has taken in the Article
+           46 GDPR transfer tool; or
+         - the supplementary measures are no longer effective in that third country.
+
+
+3 CONCLUSION
+69. The GDPR lays down rules on processing personal data in the EEA and in doing so allows for free
+    movement of personal data within the EEA. Chapter V of the GDPR governs transfers of personal
+    data to third countries and sets a high bar: the transfer must not undermine the level of protection
+    of natural persons guaranteed by the GDPR (Article 44 GDPR). The CJEU C-311/18 (Schrems II)
+    judgement underscores the need to ensure the continuity of the level of protection afforded
+    under the GDPR to personal data transferred to a third country.76
+
+70. To ensure an essentially equivalent level of protection of your data, you must first and foremost
+    know thoroughly your transfers. You must also check that the data you transfer is adequate,
+    relevant and limited to what is necessary in relation to the purposes for which it is processed.
+
+71. You must also identify the transfer tool you are relying on for your transfers. If the transfer tool is
+    not an adequacy decision, you must verify on a case-by-case basis whether (or not) the law or
+    practice of the third country of destination undermines the safeguards contained in the Article 46
+    GDPR transfer tool in the context of your transfers. Where the Article 46 GDPR transfer tool alone
+
+
+
 75
-   Acórdão Schrems II, n.º 132.
+     CJEU, C-311/18 (Schrems II), paragraph 132.
+76
+     C-311/18 (Schrems II), paragraph 93.
 
 
-Adotado                                                                                                  27
+Adopted                                                                                                 25
 
-68. O exportador deve implementar mecanismos suficientemente seguros para assegurar a
-    suspensão ou a cessação imediatas das transferências sempre que:
+    fails to achieve for the personal data you transfer a level of protection essentially equivalent,
+    supplementary measures may fill the gap.
 
-         - o importador tenha violado ou não possa honrar os compromissos que assumiu no
-           instrumento de transferência do artigo 46.º do RGPD; ou
-         - as medidas complementares deixem de ser aplicáveis ao país terceiro em causa.
+72. Where you are not able to find or implement effective supplementary measures that ensure that
+    the transferred personal data enjoys an essentially equivalent level of protection, you must not
+    start transferring personal data to the third country concerned on the basis of your chosen
+    transfer tool. If you are already conducting transfers, you are required to promptly suspend or
+    end the transfer of personal data.
 
-
-CONCLUSÃO
-69. O RGPD estabelece regras relativas ao tratamento de dados pessoais no EEE, permitindo, deste
-    modo, a livre circulação de dados pessoais no EEE. O capítulo V do RGPD rege as transferências
-    de dados pessoais para países terceiros e estabelece uma fasquia elevada: a transferência não
-    deve comprometer o nível de proteção das pessoas singulares garantido pelo RGPD (artigo 44.º
-    do RGPD). O Acórdão Schrems II sublinha a necessidade de assegurar a continuidade do nível de
-    proteção concedido pelo RGPD aos dados pessoais transferidos para um país terceiro. 76
-
-70. Para garantir um nível de proteção essencialmente equivalente dos seus dados, o exportador
-    deve, antes de mais, conhecer perfeitamente as suas transferências. O exportador deve
-    igualmente verificar se os dados transferidos são adequados, pertinentes e limitados ao que é
-    necessário relativamente aos fins para os quais estes são tratados.
-
-71. Deve também identificar o instrumento de transferência a que recorreu para as suas
-    transferências. Se o instrumento de transferência não for uma decisão de adequação, o
-    exportador deve verificar, caso a caso, se o direito ou a prática do país terceiro de destino
-    comprometem (ou não) as garantias contidas no instrumento de transferência do artigo 46.º do
-    RGPD no contexto das suas transferências. Sempre que o instrumento de transferência do artigo
-    46.º do RGPD não permita atingir, por si só, em relação aos dados pessoais transferidos, um nível
-    de proteção essencialmente equivalente, a lacuna pode ser colmatada por medidas
-    complementares.
-
-72. Caso não consiga encontrar ou implementar medidas complementares eficazes que garantam que
-    os dados pessoais transferidos beneficiem de um nível de proteção essencialmente equivalente,
-    o exportador não deve iniciar a transferência de dados pessoais para o país terceiro em causa com
-    base no instrumento de transferência por si escolhido. Se o exportador já tiver iniciado
-    transferências, deve suspender ou cessar imediatamente a transferência de dados pessoais.
-
-73. A autoridade de controlo competente pode suspender ou cessar as transferências de dados
-    pessoais para o país terceiro se estiver assegurada a proteção dos dados transferidos exigida pela
-    legislação da UE e, nomeadamente, pelos artigos 45.º e 46.º do RGPD e pela Carta dos Direitos
-    Fundamentais.
+73. The competent supervisory authority has the power to suspend or end transfers of personal data
+    to the third country if the protection of the data transferred that EU law requires, in particular
+    Articles 45 and 46 GDPR and the Charter of Fundamental Rights, is not ensured.
 
 
 
-Pelo Comité Europeu para a Proteção de Dados
+For the European Data Protection Board
 
-A Presidente
+The Chair
 
 (Andrea Jelinek)
 
 
-76
-     Acórdão Schrems II, n.º 93.
 
 
-Adotado                                                                                            28
+Adopted                                                                                            26
 
-ANEXO 1: DEFINIÇÕES
- • «País terceiro», qualquer país que não é um Estado-Membro do EEE.
- • «EEE», o Espaço Económico Europeu; inclui os Estados-Membros da União Europeia, a Islândia, a
-   Noruega e o Listenstaine. O RGPD aplica-se a estes últimos por força do Acordo EEE, em especial
-   os seus anexo XI e protocolo 37.
- • «RGPD», o Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de
-   2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados
-   pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral
-   sobre a Proteção de Dados).
- • «Carta», a Carta dos Direitos Fundamentais da União Europeia, JO C 326 de 26.10.2012, p. 391–
-   407.
- • «Tribunal de Justiça», o Tribunal de Justiça da União Europeia. Constitui a autoridade judicial da
-   União Europeia e assegura, em cooperação com os tribunais dos Estados-Membros, a aplicação e
-   interpretação uniformes da legislação da UE.
- • «Exportador de dados», o responsável pelo tratamento ou subcontratante no EEE que transfere
-   dados pessoais para um responsável pelo tratamento ou subcontratante de um país terceiro.
- • «Importador de dados», o responsável pelo tratamento ou subcontratante num país terceiro que
-   recebe ou obtém acesso a dados pessoais transferidos do EEE.
- • «Instrumento de transferência do artigo 46.º do RGPD», as garantias adequadas ao abrigo do
-   artigo 46.º do RGPD que os exportadores de dados implementam quando transferem dados
-   pessoais para um país terceiro, na falta de uma decisão de adequação nos termos do artigo 45.º,
-   n.º 3, do RGPD. O artigo 46.º, n.os 2 e 3, do RGPD contém uma lista dos instrumentos de
-   transferência do artigo 46.º do RGPD que os responsáveis pelo tratamento e subcontratantes
-   podem utilizar.
- • «Cláusulas contratuais-tipo», as cláusulas-tipo de proteção de dados adotadas pela Comissão
-   Europeia para as transferências de dados pessoais entre responsáveis pelo tratamento ou
-   subcontratantes no EEE e responsáveis pelo tratamento ou subcontratantes fora do EEE. As
-   cláusulas contratuais-tipo adotadas pela Comissão Europeia constituem um instrumento de
-   transferência nos termos do RGPD, conforme previsto no artigo 46.º, n.º 2, alínea c), e n.º 5, do
-   RGPD.
+ANNEX 1: DEFINITIONS
+ • “Third country” means any country that is not a Member State of the EEA.
+ • “EEA” means the European Economic Area and it includes the Member States of the European
+   Union and Iceland, Norway and Liechtenstein. The GDPR applies to the latter by virtue of the EEA
+   Agreement, in particular its Annex XI and Protocol 37.
+ • “GDPR” refers to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27
+   April 2016 on the protection of natural persons with regard to the processing of personal data
+   and on the free movement of such data, and repealing Directive 95/46/EC (General Data
+   Protection Regulation).
+ • “The Charter” refers to the Charter of Fundamental Rights of the European Union, OJ C 326,
+   26.10.2012, p. 391–407.
+ • “CJEU” or “the Court” refer to the Court of Justice of the European Union. It constitutes the judicial
+   authority of the European Union and, in cooperation with the courts and tribunals of the Member
+   States, it ensures the uniform application and interpretation of EU law.
+ • “Data exporter” means the controller or processor within the EEA who transfers personal data to
+   a controller or processor in a third country.
+ • “Data importer” means the controller or processor in a third country who receives or gets access
+   to personal data transferred from the EEA.
+ • “Article 46 GDPR transfer tool”: refers to the appropriate safeguards under Article 46 GDPR that
+   data exporters shall put in place when transferring personal data to a third country, in the absence
+   of an adequacy decision pursuant to Article 45(3) GDPR. Article 46(2) and (3) of the GDPR contains
+   the list of Article 46 GDPR transfer tools that controllers and processors may use.
+ • “SCCs” means standard data protection clauses (or “standard contractual clauses”) adopted by
+   the European Commission for personal data transfers between controllers or processors in the
+   EEA and controllers or processors outside the EEA. Standard contractual clauses adopted by the
+   European Commission are a transfer tool under the GDPR, as per Article 46(2)(c) and (5) GDPR.
 
 
 
 
-Adotado                                                                                           29
+Adopted                                                                                               27
 
-ANEXO 2: EXEMPLOS DE MEDIDAS COMPLEMENTARES
-74. As medidas apresentadas a seguir constituem exemplos de medidas complementares que o
-    exportador de dados deve considerar na etapa 4 «Adotar medidas complementares». A presente
-    lista não é exaustiva. O exportador pode procurar outras medidas complementares. Os futuros
-    desenvolvimentos tecnológicos, jurídicos ou organizacionais podem conduzir ao surgimento de
-    novas medidas complementares a considerar pelo exportador. A seleção e implementação de
-    uma ou mais das referidas medidas não garantem necessária e sistematicamente que a
-    transferência cumpre a norma de equivalência essencial exigida pela legislação da UE. O
-    exportador deve selecionar medidas complementares que possam garantir efetivamente este
-    nível de proteção em relação às suas transferências.
+ANNEX 2: EXAMPLES OF SUPPLEMENTARY MEASURES
+74. The following measures are examples of supplementary measures you could consider when you
+    reach Step 4 “Adopt supplementary measures”. This list is not exhaustive. You may explore other
+    supplementary measures. Future technological, legal or organisational developments may lead to
+    the emergence of new supplementary measures for you to consider. Selecting and implementing
+    one or several of these measures will not necessarily and systematically ensure that your transfer
+    meets the essential equivalence standard that EU law requires. You should select those
+    supplementary measures that can effectively guarantee this level of protection for your transfers.
 
-75. Qualquer medida complementar só pode ser considerada eficaz na aceção do acórdão do Tribunal
-    de Justiça «Schrems II» se e na medida em que — por si só ou em combinação com outras —
-    corrija deficiências específicas identificadas na avaliação do exportador da situação no país
-    terceiro no que diz respeito à sua legislação e práticas aplicáveis à sua transferência. Se, em última
-    análise, o exportador não puder garantir um nível de proteção essencialmente equivalente, não
-    deve transferir os dados pessoais.
+75. Any supplementary measure may only be deemed effective in the meaning of the CJEU judgment
+    “Schrems II” if and to the extent that it - by itself or in combination with others - addresses the
+    specific deficiencies identified in your assessment of the situation in the third country as regards
+    its laws and practices applicable to your transfer. If, ultimately, you cannot ensure an essentially
+    equivalent level of protection, you must not transfer the personal data.
 
-76. Enquanto responsável pelo tratamento ou subcontratante, o exportador pode já estar obrigado a
-    aplicar algumas das medidas descritas no presente anexo para cumprir o RGPD. Isto significa que
-    poderão ser necessárias medidas semelhantes para os dados pessoais tratados no EEE,
-    transferidos para um importador de dados abrangido por uma decisão de adequação ou para
-    outros países terceiros 77.
+76. As a controller or processor, you may already be required to implement some of the measures
+    described in this annex in order to be compliant with the GDPR. This means similar measures
+    might need to be put in place for personal data processed in the EEA, transferred to a data
+    importer covered by an adequacy decision, or to other third countries.77
 
-2.1 Medidas técnicas
-77. A presente secção descreve de forma não exaustiva exemplos de medidas técnicas que podem
-    complementar as garantias contidas nos instrumentos de transferência do artigo 46.º do RGPD
-    por forma a assegurar o cumprimento do nível de proteção exigido pela legislação da UE no
-    contexto de uma transferência de dados pessoais para um país terceiro. Estas medidas serão
-    especialmente necessárias nos casos em que a legislação do país imponha aos importadores de
-    dados obrigações contrárias às garantias dos instrumentos de transferência do artigo 46.º do
-    RGPD e, nomeadamente, suscetíveis de afetar a garantia contratual de um nível de proteção
-    essencialmente equivalente contra o acesso aos dados pelas autoridades públicas do país
-    terceiro 78.
 
-78. Para maior clareza, a presente secção descreve, em primeiro lugar, alguns exemplos de cenários
-    em relação aos quais algumas medidas técnicas poderão potencialmente ser eficazes para
-    assegurar um nível de proteção essencialmente equivalente. A secção prossegue com alguns
-    cenários em relação aos quais não foram identificadas medidas técnicas para assegurar este nível
-    de proteção.
+
+2.1 Technical measures
+77. This section describes in a non-exhaustive manner examples of technical measures, which may
+    supplement safeguards found in Article 46 GDPR transfer tools to ensure compliance with the
+    level of protection required under EU law in the context of a transfer of personal data to a third
+    country. These measures will be especially needed where the law of that country imposes on the
+    data importer obligations which are contrary to the safeguards of Article 46 GDPR transfer tools
+    and are, in particular, capable of impinging on the contractual guarantee of an essentially
+    equivalent level of protection against access by the public authorities of that third country to that
+    data.78
+
+78. For further clarity, this section describes first some examples of scenarios for which some
+    technical measures could potentially be effective to ensure an essentially equivalent level of
+    protection. The section continues with some scenarios for which the technical measures to ensure
+    this level of protection are not identified.
 
 
 
 
 77
-     Artigo 5.º, n.º 2, e artigo 32.º, do RGPD.
+     Article 5.2 GDPR, Article 32 GDPR.
 78
-     Acórdão Schrems II, n.º 135.
+     C-311/18 (Schrems II), paragraph 135.
 
 
-Adotado                                                                                                30
+Adopted                                                                                               28
 
-     Exemplos de cenários referentes a casos em que são identificadas medidas
-                                        eficazes
-
-
-79. As medidas abaixo enumeradas destinam-se a assegurar que o acesso aos dados transferidos por
-    parte das autoridades públicas de países terceiros não afeta a eficácia das garantias adequadas
-    contidas nos instrumentos de transferência do artigo 46.º do RGPD. Estas medidas serão
-    necessárias para garantir um nível de proteção essencialmente equivalente ao garantido no EEE,
-    mesmo que o acesso das autoridades públicas seja conforme com a legislação do país do
-    importador, sempre que, na prática, esse acesso exceda o que é necessário e proporcionado numa
-    sociedade democrática 79. Estas medidas visam impedir o acesso potencialmente ilícito,
-    impedindo as autoridades de identificar os titulares dos dados, inferir informações a seu respeito,
-    distingui-los noutro contexto ou associar os dados transferidos a outros conjuntos de dados que
-    possam conter, entre outros dados, identificadores em linha fornecidos pelos dispositivos,
-    aplicações, ferramentas e protocolos utilizados pelos titulares dos dados noutros contextos.
-
-80. As autoridades públicas de países terceiros podem tentar aceder aos dados transferidos:
-
-        a) Durante o trânsito, mediante o acesso às linhas de comunicação utilizadas para transmitir
-           os dados para o país de destino. O referido acesso pode ser passivo, sendo o conteúdo da
-           comunicação simplesmente copiado, eventualmente após um processo de seleção. No
-           entanto, o acesso também pode ser ativo, no sentido de que as autoridades públicas
-           intervêm no processo de comunicação não só lendo o conteúdo, mas também manipulando
-           ou suprimindo partes do mesmo;
-
-        b) Durante a detenção dos dados por um destinatário previsto dos mesmos, mediante o
-           acesso às próprias instalações de tratamento ou mediante a solicitação ao destinatário dos
-           dados de que localize e extraia dados com interesse e os envie às autoridades.
-
-81. A presente secção analisa cenários nos quais são aplicadas medidas eficazes em ambos os casos.
-    Podem ser aplicáveis diferentes medidas complementares e estas podem ser suficientes numa
-    transferência específica, caso a legislação do país de destino preveja apenas um tipo de acesso.
-    Por conseguinte, é necessário que o exportador de dados analise cuidadosamente, com o apoio
-    do importador de dados, as obrigações impostas a este último.
-
-A título de exemplo, os importadores de dados dos Estados Unidos abrangidos pelo artigo 1881.º-A do
-título 50 do USC (artigo 702.º da FISA) têm a obrigação direta de conceder acesso ou entregar dados
-pessoais importados que se encontrem na sua posse, custódia ou controlo. O que precede pode
-aplicar-se a quaisquer chaves criptográficas necessárias para tornar os dados inteligíveis.
+     Examples of scenarios referring to cases in which effective measures are identified
 
 
-82. Os cenários descrevem circunstâncias específicas e são indicadas, a título de exemplo, as medidas
-    tomadas. Quaisquer alterações dos cenários podem conduzir a diferentes conclusões. Os cenários
-    referem situações em que se concluiu que eram, desde logo, necessárias medidas
+79. The measures listed below are intended to ensure that access to the transferred data by public
+    authorities in third countries does not impinge on the effectiveness of the appropriate safeguards
+    contained in the Article 46 GDPR transfer tools. These measures would be necessary to guarantee
+    an essentially equivalent level of protection to that guaranteed in the EEA, even if the public
+    authorities’ access complies with the law of the importer’s country, where, in practice, such access
+    goes beyond what is necessary and proportionate in a democratic society.79 These measures aim
+    to preclude potentially infringing access by preventing the authorities from identifying the data
+    subjects, inferring information about them, singling them out in another context, or associating
+    the transferred data with other datasets that may contain, among other data, online identifiers
+    provided by the devices, applications, tools and protocols used by data subjects in other contexts.
+
+80. Public authorities in third countries may endeavour to access transferred data
+
+        a) In transit by accessing the lines of communication used to convey the data to the recipient
+           country. This access may be passive in which case the contents of the communication,
+           possibly after a selection process, are simply copied. The access may, however, also be active
+           in the sense that the public authorities interpose themselves into the communication process
+           by not only reading the content, but also manipulating or suppressing parts of it.
+
+        b) While in custody by an intended recipient of the data by either accessing the processing
+           facilities themselves, or by requiring a recipient of the data to locate, and extract data of
+           interest and turn it over to the authorities.
+
+81. This section considers scenarios where measures are applied that are effective in both cases.
+    Different supplementary measures may apply and be sufficient in the given circumstance of a
+    concrete transfer if only one type of access is foreseen by the law of the recipient country. It is
+    therefore necessary for the data exporter to carefully analyse, with the support of the data
+    importer, the obligations laid upon the latter.
 
 
 
+As an example, U.S. data importers that fall under 50 USC § 1881a (FISA 702) are under a direct
+obligation to grant access to or turn over imported personal data that are in their possession, custody
+or control. This may extend to any cryptographic keys necessary to render the data intelligible.
+
+
+82. The scenarios describe specific circumstances, and measures taken to serve as an example. Any
+    changes to the scenarios may give rise to different conclusions. The scenarios refer to situations
+    where it has been concluded that supplementary measures are needed in the first place, i.e.
+    where in practice problematic legislation of the third country is applied to the transfer in question.
+
+83. Controllers may have to apply some or all of the measures described here irrespective of the level
+    of protection provided for by the laws applicable to the data importer because they are needed
+    to comply with Articles 25 and 32 GDPR in the concrete circumstances of the transfer. In other
 
 79
-  Ver artigos 47.º e 52.º da Carta dos Direitos Fundamentais da UE, artigo 23.º, n.º 1, do RGPD e Recomendações
-02/2020 do CEPD sobre as garantias essenciais europeias relativas às medidas de vigilância, de 10 de novembro
-de 2020.
+   See Articles 47 and 52 of the EU Charter of Fundamental Rights, Article 23.1 GDPR, and EDPB
+Recommendations 02/2020 on the European Essential Guarantees for surveillance measures, 10 November
+2020.
 
 
-Adotado                                                                                                     31
+Adopted                                                                                                29
 
-      complementares, ou seja, quando, na prática, é aplicada legislação problemática do país terceiro
-      à transferência em causa.
-
-83. Os responsáveis pelo tratamento podem ser obrigados a aplicar algumas ou todas as medidas
-    descritas na presente secção, independentemente do nível de proteção previsto nas leis aplicáveis
-    ao importador de dados, porque são necessárias para cumprir os artigos 25.º e 32.º do RGPD nas
-    circunstâncias específicas da transferência. Por outras palavras, os exportadores podem ser
-    obrigados a implementar as medidas descritas no presente diploma, mesmo que os respetivos
-    importadores de dados estejam abrangidos por uma decisão de adequação, tal como os
-    responsáveis pelo tratamento e os subcontratantes podem ser obrigados a implementar essas
-    medidas quanto os dados são tratados no EEE.
+     words, exporters may be required to implement the measures described in this paper even if their
+     data importers are covered by an adequacy decision, just as controllers and processors may be
+     required to implement them when data is processed within the EEA.
 
 
-Caso de utilização 1: Armazenamento de dados para fins de cópia de segurança e outros fins
-            que não exigem o acesso aos dados não encriptados
+Use Case 1: Data storage for backup and other purposes that do not require access to data in
+           the clear
 
-84. Um exportador de dados utiliza um prestador de serviços de alojamento num país terceiro para
-    armazenar dados pessoais, por exemplo, para fins de cópia de segurança.
+84. A data exporter uses a hosting service provider in a third country to store personal data, e.g. for
+    backup purposes.
 
-Se:
-      1. os dados pessoais são tratados utilizando uma encriptação forte antes da transmissão e a
-         identidade do importador é verificada,
-      2. o algoritmo de encriptação e a respetiva parametrização (por ex., comprimento da chave,
-         modo de funcionamento, se aplicável) estão em conformidade com os últimos avanços e
-         podem ser considerados robustos contra a criptoanálise realizada pelas autoridades públicas
-         do país de destino, tendo em conta os recursos e as capacidades técnicas (por ex., poder de
-         computação face a «ataques de força bruta») de que estes dispõem 80;
-      3. a robustez da encriptação e a extensão da chave têm em consideração o período de tempo
-         específico durante o qual a confidencialidade dos dados pessoais encriptados deve ser
-         mantida 81;
+If
+     1. the personal data is processed using strong encryption before transmission, and the identity
+        of the importer is verified,
+     2. the encryption algorithm and its parameterization (e.g., key length, operating mode, if
+        applicable) conform to the state-of-the-art and can be considered robust against cryptanalysis
+        performed by the public authorities in the recipient country taking into account the resources
+        and technical capabilities (e.g., computing power for brute-force attacks) available to them,80
+     3. the strength of the encryption and key length takes into account the specific time period during
+        which the confidentiality of the encrypted personal data must be preserved,81
+     4. the encryption algorithm is implemented correctly and by properly maintained software
+        without known vulnerabilities the conformity of which to the specification of the algorithm
+        chosen has been verified, e.g., by certification,
+     5. the keys are reliably managed (generated, administered, stored, if relevant, linked to the
+        identity of an intended recipient, and revoked),82 and
+     6. the keys are retained solely under the control of the data exporter, or by an entity trusted by
+        the exporter in the EEA or under a jurisdiction offering an essentially equivalent level of
+        protection to that guaranteed within the EEA,
+
+then the EDPB considers that the encryption performed provides an effective supplementary measure.
 
 
 
 
 80
-   Para a avaliação da solidez dos algoritmos de encriptação, da sua conformidade com os últimos avanços e da
-sua robustez em relação à análise criptográfica ao longo do tempo, os exportadores de dados podem basear-se
-em orientações técnicas publicadas pelas autoridades oficiais da cibersegurança da UE e dos seus Estados-
-Membros. Ver, por exemplo, o relatório da ENISA «What is "state of the art" in IT security?» (O que é o «estado-
-da-arte» em matéria de segurança informática?), 2019,https://www.enisa.europa.eu/news/enisa-news/what-
-is-state-of-the-art-in-it-security; orientações do Gabinete Federal alemão em matéria de segurança informática
-nas suas Orientações Técnicas da série TR-02102 e «Algorithms, Key Size and Protocols Report (2018), H2020-
-ICT-2014 – Project 645421, D5.4, ECRYPT-CSA, 02/2018» at https://www.ecrypt.eu.org/csa/documents/D5.4-
-FinalAlgKeySizeProt.pdf.
+   For the assessment of the strength of encryption algorithms, their conformity with the state-of-the-art, and
+their robustness against cryptanalysis over time, data exporters can rely on technical guidance published by
+official cybersecurity authorities of the EU and its member states. See e.g. ENISA Report « What is "state of the
+art" in IT security? », 2019, https://www.enisa.europa.eu/news/enisa-news/what-is-state-of-the-art-in-it-
+security; guidance given by the German Federal Office for Information Security in its Technical Guidelines of the
+TR-02102 series and ”Algorithms, Key Size and Protocols Report (2018), H2020-ICT-2014 – Project 645421, D5.4,
+ECRYPT-CSA, 02/2018” at https://www.ecrypt.eu.org/csa/documents/D5.4-FinalAlgKeySizeProt.pdf.
 81
-   A capacidade de proteção dos algoritmos criptográficos está sujeita a declínio ao longo do tempo, devido à
-descoberta de novas técnicas criptanalíticas, à emergência de novos paradigmas de computação, como a
-computação quântica, e ao aumento geral da capacidade computacional disponível, a menos que se prove que
-os algoritmos aplicados são teoricamente seguros em relação à informação. Esta preocupação aplica-se, em
-especial, aos algoritmos de chave pública que, no momento da redação, são de utilização comum. Por
-conseguinte, o exportador de dados deve ter em conta que as autoridades públicas podem aceder aos dados
-encriptados nas circunstâncias descritas no ponto 80 e armazená-los até que os seus recursos sejam suficientes
-para a desencriptação. A medida complementar só pode ser considerada eficaz se a desencriptação e o
-
-
-
-
-Adotado                                                                                                      32
-
-      4. o algoritmo de encriptação é implementado sem falhas através de software mantido de forma
-         correta, cuja conformidade com a especificação do algoritmo escolhido foi verificada, por
-         exemplo, mediante certificação;
-      5. as chaves são geridas de forma fiável (geradas, administradas, armazenadas, se aplicável,
-         associadas à identidade de um destinatário pretendido e revogadas) 82 e
-      6. as chaves são conservadas exclusivamente sob o controlo do exportador de dados, ou por uma
-         entidade de confiança do exportador no EEE ou sob uma jurisdição que ofereça um nível de
-         proteção essencialmente equivalente ao garantido no EEE,
-
-o CEPD considera que a encriptação efetuada constitui uma medida complementar eficaz.
-
-
-Caso de utilização 2: Transferência de dados pseudonimizados
-
-85. Um exportador de dados pseudonimiza primeiro os dados que detém e transfere-os, em seguida,
-    para um país terceiro para análise, por exemplo para fins de investigação.
-
-Se:
-      1. o exportador de dados transfere dados pessoais tratados de tal modo que já não podem ser
-         atribuídos a um titular de dados específico, nem ser utilizados para identificar o titular de
-         dados num grupo mais vasto sem a utilização de informações adicionais 83;
-      2. essas informações adicionais são detidas exclusivamente pelo exportador de dados e
-         conservadas separadamente num Estado-Membro ou num país terceiro, por uma entidade de
-         confiança do exportador no EEE ou numa jurisdição que ofereça um nível de proteção
-         essencialmente equivalente ao garantido no EEE,
-      3. a divulgação ou utilização não autorizada de tais informações adicionais são impedidas
-         mediante garantias técnicas e organizativas adequadas, é assegurado que o exportador de
-         dados mantém o controlo exclusivo do algoritmo ou repositório que permite a reidentificação
-         utilizando as informações adicionais; e
-      4. o responsável pelo tratamento determinou, através de uma análise exaustiva dos dados em
-         questão, tendo em conta as informações que as autoridades públicas do país de destino
-         possam possuir, que os dados pessoais pseudonimizados não podem ser atribuídos a uma
-         pessoa singular identificada ou identificável, mesmo que sejam combinados com tais
-         informações,
-
-
-
-tratamento posterior subsequente já não constituir, nessa data, uma violação dos direitos dos titulares dos
-dados, por exemplo, porque os dados já não podem ser utilizados para identificá-los direta ou indiretamente.
+   The protective capacity of cryptographic algorithms is subject to decline over time due to the discovery of new
+cryptanalytic techniques, the emergence of new computing paradigms like quantum computing, and the general
+increase of available computing power, unless the applied algorithms are proven to be information theoretically
+secure. This concern applies in particular to public key algorithms that are at the time of writing in common use.
+In consequence, the data exporter has to consider that public authorities may undertake to access encrypted
+data in the circumstances described in paragraph No. 80, and store it until their resources are sufficient for
+decryption. The supplementary measure can only be considered effective if such decryption and subsequent
+further processing at that time would no longer constitute an infringement of the rights of data subjects, e.g.,
+because the data can no longer be used to directly or indirectly identify them.
 82
-          NIST         Special         Publication     800-57,        Recommendation             for       Key
-Managementhttps://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final
+        NIST      Special     Publication      800-57,       Recommendation          for     Key       Management
+https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final
+
+
+
+Adopted                                                                                                        30
+
+Use Case 2: Transfer of pseudonymised Data
+
+85. A data exporter first pseudonymises data it holds, and then transfers it to a third country for
+    analysis, e.g., for purposes of research.
+
+If
+     1. a data exporter transfers personal data processed in such a manner that the personal data can
+        no longer be attributed to a specific data subject, nor be used to single out the data subject in
+        a larger group without the use of additional information,83
+     2. that additional information is held exclusively by the data exporter and kept separately in a
+        Member State or in a third country, by an entity trusted by the exporter in the EEA or under a
+        jurisdiction offering an essentially equivalent level of protection to that guaranteed within the
+        EEA,
+     3. disclosure or unauthorised use of that additional information is prevented by appropriate
+        technical and organisational safeguards, it is ensured that the data exporter retains sole
+        control of the algorithm or repository that enables re-identification using the additional
+        information, and
+     4. the controller has established by means of a thorough analysis of the data in question - taking
+        into account any information that the public authorities of the recipient country may be
+        expected to possess and use - that the pseudonymised personal data cannot be attributed to
+        an identified or identifiable natural person even if cross-referenced with such information,
+
+then the EDPB considers that the pseudonymisation performed provides an effective supplementary
+      measure.
+86. Note that in many situations, factors specific to the physical, physiological, genetic, mental,
+    economic, cultural or social identity of a natural person, their physical location or their interaction
+    with an internet based service at specific points in time84 may allow the identification of that
+    person even if their name, address or other plain identifiers are omitted.
+
+87. This is particularly true whenever the data concern the use of information services (time of access,
+    sequence of features accessed, characteristics of the device used etc.). These services might well
+    be, as for the importer of personal data, under the obligation to grant access to the same public
+    authorities in their jurisdiction, which will then likely possess data about the use of those
+    information services by the person(s) they target.
+
+88. Moreover, given the use of some information services is public by nature, or their exploitability
+     by parties with substantial resources, controllers will have to take extra care considering that
+
+
+
 83
-   Em consonância com o artigo 4.º, ponto 5), do RGPD: «“Pseudonimização”, o tratamento de dados pessoais
-de forma que deixem de poder ser atribuídos a um titular de dados específico sem recorrer a informações
-suplementares, desde que essas informações suplementares sejam mantidas separadamente e sujeitas a
-medidas técnicas e organizativas para assegurar que os dados pessoais não possam ser atribuídos a uma pessoa
-singular identificada ou identificável;» Os dados adicionais podem consistir em quadros que justapõem
-pseudónimos com os atributos identificadores que substituem, chaves criptográficas ou outros parâmetros para
-a transformação de atributos, ou outros dados que permitam a atribuição dos dados pseudonimizados a pessoas
-singulares identificadas ou identificáveis.
-
-
-
-
-Adotado                                                                                                    33
-
-o CEPD considera que a pseudonimização efetuada constitui uma medida complementar eficaz.
-86. É de salientar que em muitas situações, os fatores específicos da identidade física, fisiológica,
-    genética, mental, económica, cultural ou social de uma pessoa singular, a localização física ou a
-    sua interação com um serviço baseado na Internet em momentos específicos 84 podem permitir a
-    identificação da pessoa em causa, mesmo que o nome, a morada ou outros identificadores
-    simples sejam omitidos.
-
-87. O que é especialmente verdade nos casos em que os dados dizem respeito à utilização de serviços
-    de informação (tempo de acesso, sequência de funcionalidades acedidas, características do
-    dispositivo utilizado, etc.). Os referidos serviços podem perfeitamente ser, no que concerne ao
-    importador de dados pessoais, abrangidos pela obrigação de conceder acesso às mesmas
-    autoridades públicas na sua jurisdição, que por sua vez provavelmente possuem dados sobre a
-    utilização de tais serviços de informação pela(s) pessoa(s) visada(s).
-
-88. Além disso, dada a utilização de alguns serviços de informação ser pública por natureza, ou a sua
-      explorabilidade por partes com recursos substanciais, os responsáveis pelo tratamento terão de
-      ter um cuidado adicional considerando que as autoridades públicas na respetiva jurisdição
-      provavelmente possuem dados sobre a utilização de serviços de informação por uma pessoa por
-      estes visada.
-
-89. Se, no decurso da execução da pseudonimização, os atributos contidos nos dados pessoais forem
-    transformados utilizando um algoritmo criptográfico, aplicam-se as orientações constantes das
-    notas de rodapé 80 e 81. Doravante, recomenda-se a renúncia à utilização exclusiva da
-    criptografia e a aplicação de transformações baseadas em mecanismos de «look up table».
-
-
-Caso de utilização 3: Encriptação de dados para protegê-los do acesso das autoridades
-            públicas do país terceiro do importador durante o trânsito entre o exportador e o
-            importador
-
-90. O exportador de dados pretende transferir dados para um destino onde a legislação e/ou as
-    práticas permitem o acesso das autoridades públicas aos dados durante o trânsito entre o país do
-    exportador e o país de destino.
-
-Se:
-
-      1. o exportador de dados transfere dados pessoais para um importador de dados numa jurisdição
-         onde a legislação e/ou a prática permitem que as autoridades públicas acedam aos dados
-         durante o seu transporte através da Internet para o país terceiro sem as garantias essenciais
-         europeias relativas a esse acesso, sendo utilizada encriptação de transporte em relação à qual
-         é garantido que os protocolos de encriptação utilizados são de última geração e proporcionam
-         uma proteção eficaz contra ataques ativos e passivos com recursos que se sabe estarem à
-         disposição das autoridades públicas desse país terceiro,
-
-
-
-
+   In line with Article 4(5) GDPR: “‘pseudonymisation’ means the processing of personal data in such a manner
+that the personal data can no longer be attributed to a specific data subject without the use of additional
+information, provided that such additional information is kept separately and is subject to technical and
+organisational measures to ensure that the personal data are not attributed to an identified or identifiable
+natural person;” Additional data may consist of tables juxtaposing pseudonyms with the identifying attributes
+they replace, cryptographic keys or other parameters for the transformation of attributes, or other data
+permitting the attribution of the pseudonymised data to identified or identifiable natural persons.
 84
-   Artigo 4.º, ponto 1), do RGPD: «“Dados pessoais”, informação relativa a uma pessoa singular identificada ou
-identificável (“titular dos dados”); é considerada identificável uma pessoa singular que possa ser identificada,
-direta ou indiretamente, em especial por referência a um identificador, como por exemplo um nome, um número
-de identificação, dados de localização, identificadores por via eletrónica ou a um ou mais elementos específicos
-da identidade física, fisiológica, genética, mental, económica, cultural ou social dessa pessoa singular;».
+   Art. 4(1) GDPR: “’ personal data’ means any information relating to an identified or identifiable natural person
+(‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by
+reference to an identifier such as a name, an identification number, location data, an online identifier or to one
+or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of
+that natural person;”.
 
 
-Adotado                                                                                                      34
+Adopted                                                                                                             31
 
-      2. as partes envolvidas na comunicação acordam uma infraestrutura ou autoridade de
-         certificação de chave pública digna de confiança,
-      3. são utilizadas medidas específicas de proteção de última geração contra ataques ativos e
-         passivos contra os sistemas de envio e de receção que fornecem encriptação de transporte,
-         incluindo testes de vulnerabilidades do software e de eventuais backdoors,
-      4. para o caso de a encriptação de transporte não proporcionar por si só a segurança adequada
-         devido a experiência com vulnerabilidades da infraestrutura ou do software utilizado, os dados
-         pessoais são também encriptados de ponta a ponta na camada de aplicação utilizando
-         métodos de encriptação de última geração;
-      5. o algoritmo de encriptação e a respetiva parametrização (por ex., comprimento da chave,
-         modo de funcionamento, se aplicável) estão em conformidade com os últimos avanços e
-         podem ser considerados robustos contra a criptoanálise realizada pelas autoridades públicas
-         quando os dados transitam para este país terceiro, tendo em conta os recursos e as
-         capacidades técnicas (por ex., poder de computação face a «ataques de força bruta») de que
-         estes dispõem (ver nota de rodapé 80 supra) 85;
-      6. a robustez da encriptação tiver em consideração o período de tempo específico durante o qual
-         a confidencialidade dos dados pessoais encriptados deve ser mantida;
-      7. o algoritmo de encriptação é implementado sem falhas através de software mantido de forma
-         correta, cuja conformidade com a especificação do algoritmo escolhido foi verificada, por
-         exemplo, mediante certificação;
-      8. as chaves são geridas de forma fiável (geradas, administradas, armazenadas, se aplicável,
-         associadas à identidade de um destinatário pretendido e revogadas) pelo exportador ou por
-         uma entidade de confiança do exportador sob uma jurisdição que proporciona um nível de
-         proteção essencialmente equivalente,
+     public authorities in their jurisdiction likely possess data about the use of information services by
+     a person they target.
 
-o CEPD considera que a encriptação de transporte efetuada, se necessário em combinação com a
-encriptação de ponta a ponta do conteúdo, constitui uma medida complementar eficaz.
+89. If, in the course of performing pseudonymisation, attributes contained in the personal data are
+    transformed using a cryptographic algorithm, then the guidance in footnotes 80 and 81 applies.
+    Henceforth it is recommended to forego the exclusive use of cryptography, and apply
+    transformations based on table look-up mechanisms.
 
 
-Caso de utilização 4: Destinatário protegido
+Use Case 3: Encryption of data to protect it from access by the public authorities of the third
+           country of the importer when it transits between the exporter and its importer
 
-91.    Um exportador de dados transfere dados pessoais para um importador de dados num país
-       terceiro especificamente protegido pela legislação de tal país, por exemplo, com a finalidade de
-       providenciar conjuntamente tratamento médico a um paciente ou serviços jurídicos a um
-       cliente.
+90. A data exporter wishes to transfer data to a destination where the law and/or practices allow for
+    access by public authorities to data while it is transiting between the country of the exporter and
+    the country of destination.
 
-Se:
-      1. a lei de um país terceiro isenta o importador de dados residente de um possível acesso ilícito
-         aos dados detidos por tal destinatário para o fim em questão, por exemplo, em virtude do
-         dever de sigilo profissional aplicável ao importador de dados,
-      2. tal isenção abrange todas as informações na posse do importador de dados que podem ser
-         utilizadas para contornar a proteção de informações privilegiadas (chaves criptográficas,
-         palavras-passe, outras credenciais, etc.),
-      3. o importador de dados não recorre aos serviços de um subcontratante de forma a permitir
-         que as autoridades públicas tenham acesso aos dados na posse do subcontratante e o
+If
+
+     1. a data exporter transfers personal data to a data importer in a jurisdiction where the law
+        and/or practice allow the public authorities to access data while they are being transported
+        via the internet to this third country without the European essential guarantees concerning
+        these access, transport encryption is used for which it is ensured that the encryption protocols
+        employed are state-of-the-art and provide effective protection against active and passive
+        attacks with resources known to be available to the public authorities of this third country,
+     2. the parties involved in the communication agree on a trustworthy public-key certification
+        authority or infrastructure,
+     3. specific protective and state-of-the-art measures are used against active and passive attacks
+        on the sending and receiving systems providing transport encryption, including tests for
+        software vulnerabilities and possible backdoors,
+     4. in case the transport encryption does not provide appropriate security by itself due to
+        experience with vulnerabilities of the infrastructure or the software used, personal data is also
+        encrypted end-to-end on the application layer using state-of-the-art encryption methods,
+     5. the encryption algorithm and its parameterization (e.g., key length, operating mode, if
+        applicable) conform to the state-of-the-art and can be considered robust against cryptanalysis
+        performed by the public authorities when data is transiting to this third country taking into
+        account the resources and technical capabilities (e.g., computing power for brute-force
+        attacks) available to them (see footnote 80 above),85
+     6. the strength of the encryption takes into account the specific time period during which the
+        confidentiality of the encrypted personal data must be preserved,
+     7. the encryption algorithm is implemented correctly and by properly maintained software
+        without known vulnerabilities the conformity of which to the specification of the algorithm
+        chosen has been verified, e.g., by certification,
+     8. the keys are reliably managed (generated, administered, stored, if relevant, linked to the
+        identity of the intended recipient, and revoked), by the exporter or by an entity trusted by the
+        exporter under a jurisdiction offering an essentially equivalent level of protection,
+
 
 
 
 85
-  Ver nota de rodapé 80 para algumas referências às orientações técnicas publicadas pelas autoridades oficiais
-da cibersegurança da UE e dos seus Estados-Membros.
+  See footnote 80 for some references to technical guidance published by official cybersecurity authorities of
+the EU and its Member States.
 
 
-Adotado                                                                                                    35
+Adopted                                                                                                    32
 
-         importador de dados não transmite os dados a outra entidade que não esteja protegida com
-         base nos instrumentos de transferência do artigo 46.º do RGPD,
-      4. os dados pessoais são encriptados antes de serem transmitidos através de um método
-         conforme com os últimos avanços que assegura que a desencriptação não será possível sem o
-         conhecimento da chave de desencriptação (encriptação de ponta a ponta) durante todo o
-         período de tempo durante o qual os dados precisam de ser protegidos,
-      5. a chave de decifragem está sob o controlo exclusivo do importador de dados protegido e,
-         eventualmente, do próprio exportador ou de outra entidade de confiança do exportador,
-         situada no EEE ou numa jurisdição que oferece um nível de proteção essencialmente
-         equivalente ao garantido no EEE, e está devidamente protegida contra a utilização ou
-         divulgação não autorizadas através de medidas técnicas e organizativas conformes com os
-         últimos avanços, e
-      6. o exportador de dados determinou de forma fiável que a chave de encriptação que pretende
-         utilizar corresponde à chave de desencriptação detida pelo destinatário,
-
-o CEPD considera que a encriptação de transporte efetuada constitui uma medida complementar
-eficaz.
+then the EDPB considers that transport encryption, if needed in combination with end-to-end content
+encryption, provides an effective supplementary measure.
 
 
-Caso de utilização 5: Tratamento fracionado ou multipartido
+Use Case 4: Protected recipient
 
-92.    O exportador de dados pretende que os dados pessoais sejam tratados conjuntamente por dois
-       ou mais subcontratantes independentes localizados em jurisdições diferentes, sem lhes revelar
-       o conteúdo dos dados. Antes da transmissão, o exportador divide os dados de modo que
-       nenhum dos subcontratantes receba dados suficientes para reconstruir os dados pessoais, no
-       todo ou em parte. O exportador de dados recebe o resultado do tratamento de cada um dos
-       subcontratantes de forma independente e reúne as partes recebidas para obter o resultado
-       final, que pode consistir em dados pessoais ou agregados.
+91.    A data exporter transfers personal data to a data importer in a third country specifically
+       protected by that country’s law, e.g., for the purpose to jointly provide medical treatment for a
+       patient, or legal services to a client.
 
-Se:
-      1. o exportador de dados trata dados pessoais dividindo-os em duas ou mais frações, cada uma
-         das quais não pode ser interpretada ou atribuída a um titular de dados específico sem a
-         utilização de informações adicionais,
-      2. cada uma das frações dos dados é transferida para um subcontratante diferente localizado
-         numa jurisdição diferente,
-      3. os subcontratantes tratam, opcionalmente, os dados em conjunto, por exemplo, utilizando
-         cálculos seguros multipartes, de forma que estes não tenham acesso a qualquer informação
-         que não possuíssem antes da computação,
-      4. o algoritmo utilizado para a computação partilhada é seguro contra adversários ativos;
-      5. o responsável pelo tratamento determinou, através de uma análise exaustiva dos dados em
-         questão, tendo em conta quaisquer informações que as autoridades públicas dos países de
-         destino possam possuir, que as frações dos dados pessoais transmitidas aos subcontratantes
-         não podem ser atribuídas a uma pessoa singular identificada ou identificável, mesmo que
-         sejam comparadas com tais informações,
-      6. não há indícios de colaboração entre as autoridades públicas localizadas nas respetivas
-         jurisdições onde se encontram os subcontratantes, que lhes permitisse aceder a todos os
-         conjuntos de dados pessoais na posse dos subcontratantes e reconstituir e analisar o conteúdo
-         dos dados pessoais de uma forma clara em circunstâncias em que tal análise não respeitasse
-         os direitos e liberdades fundamentais dos titulares dos dados. De igual modo, as autoridades
+If
+      1. the law of a third country exempts a resident data importer from potentially infringing access
+         to data held by that recipient for the given purpose, e.g. by virtue of a duty to professional
+         secrecy applying to the data importer,
+      2. that exemption extends to all information in the possession of the data importer that may be
+         used to circumvent the protection of privileged information (cryptographic keys, passwords,
+         other credentials, etc.),
+      3. the data importer does not employ the services of a processor in a way that allows the public
+         authorities to access the data while held by the processor, nor does the data importer forward
+         the data to another entity that is not protected, on the basis of Article 46 GDPR transfer tools,
+      4. the personal data is encrypted before it is transmitted with a method conforming to the state
+         of the art guaranteeing that decryption will not be possible without knowledge of the
+         decryption key (end-to-end encryption) for the whole length of time the data needs to be
+         protected,
+      5. the decryption key is in the sole custody of the protected data importer, and, possibly, the
+         exporter itself or another entity trusted by the exporter that is located in the EEA or a
+         jurisdiction offering an essentially equivalent level of protection to that guaranteed within the
+         EEA, and appropriately secured against unauthorised use or disclosure by technical and
+         organisational measures conforming to the state of the art, and
+      6. the data exporter has reliably established that the encryption key it intends to use corresponds
+         to the decryption key held by the recipient,
 
-
-
-Adotado                                                                                            36
-
-         públicas de cada um destes países não devem estar habilitadas a aceder aos dados pessoais na
-         posse dos subcontratantes em todas as jurisdições em causa.
-
-o CEPD considera que o tratamento partilhado efetuado constitui uma medida complementar eficaz.
+then the EDPB considers that the transport encryption performed provides an effective supplementary
+measure.
 
 
+Use Case 5: Split or multi-party processing
 
-      Exemplos de cenários referentes a casos em que não são identificadas
-                                  medidas eficazes
+92.    The data exporter wishes personal data to be processed jointly by two or more independent
+       processors located in different jurisdictions without disclosing the content of the data to them.
+       Prior to transmission, it splits the data in such a way that no part an individual processor receives
+       suffices to reconstruct the personal data in whole or in part. The data exporter receives the
+       result of the processing from each of the processors independently, and merges the pieces
+       received to arrive at the final result which may constitute personal or aggregated data.
 
-
-93.    As medidas abaixo descritas não serão eficazes em determinados cenários para assegurar um
-       nível de proteção essencialmente equivalente dos dados transferidos para o país terceiro. Por
-       conseguinte, não são elegíveis como medidas complementares.
-
-
-Caso de utilização 6: Transferência para prestadores de serviços na nuvem ou outros
-            subcontratantes que necessitam de acesso aos dados não encriptados
-
-94.    O exportador de dados transfere dados pessoais, quer por transmissão eletrónica, quer
-       disponibilizando-os a um prestador de serviços de computação em nuvem ou a outro
-       subcontratante para que os dados pessoais sejam tratados de acordo com as suas instruções
-       num país terceiro (por ex., para a prestação de apoio técnico ou qualquer tipo de tratamento
-       em nuvem), e esses dados não são — ou não podem ser — pseudonimizados, conforme descrito
-       no Caso de Utilização 2, ou encriptados, conforme descrito no Caso de Utilização 1 porque o
-       tratamento exige acesso aos dados não encriptados,
-
-Se:
-      1. o responsável pelo tratamento transfere dados pessoais para um prestador de serviços na
-         nuvem ou outro subcontratante;
-      2. o prestador de serviços na nuvem ou outro subcontratante precisa de obter acesso aos dados
-         não encriptados, a fim de executar a tarefa que lhe foi atribuída, e
-      3. o poder conferido às autoridades públicas do país destinatário para aceder aos dados
-         transferidos em questão vai além do que é necessário e proporcionado numa sociedade
-         democrática, aplicando-se, na prática, a legislação problemática do país terceiro às
-         transferências em questão (ver etapa 3) 86.
-
-o CEPD não pode prever uma medida técnica eficaz para evitar que tal acesso viole os direitos do titular
-de dados, tendo em consideração o conhecimento atual. O CEPD não exclui que um desenvolvimento
-tecnológico futuro possa oferecer medidas que permitam alcançar os objetivos operacionais
-pretendidos, sem necessidade do acesso aos dados não encriptados.
-95.    Nos cenários indicados, sempre que os dados pessoais não encriptados sejam tecnicamente
-       necessários para a prestação do serviço pelo subcontratante, a encriptação do transporte e a
-       encriptação de dados estáticos, mesmo consideradas no seu conjunto, não constituem uma
+If
+      1. a data exporter processes personal data in such a manner that it is split into two or more parts
+         each of which can no longer be interpreted or attributed to a specific data subject without the
+         use of additional information,
+      2. each of the pieces is transferred to a separate processor located in a different jurisdiction,
 
 
+Adopted                                                                                                  33
+
+      3. the processors optionally process the data jointly, e.g. using secure multi-party computation,
+         in a way that no information is revealed to any of them that they do not possess prior to the
+         computation,
+      4. the algorithm used for the shared computation is secure against active adversaries,
+      5. the controller has established by means of a thorough analysis of the data in question, taking
+         into account the missing pieces of information that the public authorities of the recipient
+         countries may be expected to possess and use, that the pieces of personal data it transmits to
+         the processors cannot be attributed to an identified or identifiable natural person even if cross-
+         referenced with such information,
+      6. there is no evidence of collaboration between the public authorities located in the respective
+         jurisdictions where each of the processors are located, which would allow them access to all
+         sets of personal data held by the processors and enable them to reconstitute and exploit the
+         content of the personal data in a clear form in circumstances where such exploitation would
+         not respect the essence of the fundamental rights and freedoms of the data subjects. Similarly,
+         public authorities of either country should not have the authority to access personal data held
+         by processors in all jurisdictions concerned.
+
+then the EDPB considers that the split processing performed provides an effective supplementary
+measure.
+
+
+Examples of scenarios referring to cases in which effective measures are not identified
+
+
+93.    The measures described below under certain scenarios would not be effective in ensuring an
+       essentially equivalent level of protection for the data transferred to the third country. Therefore,
+       they would not qualify as adequate supplementary measures.
+
+
+Use Case 6: Transfer to cloud services providers or other processors which require access to
+           data in the clear
+
+94.    A data exporter transfers personal data, whether by electronic transmission or by making it
+       available to a cloud service provider or other processor to have personal data processed
+       according to its instructions in a third country (e.g., for the provision of technical support or any
+       type of cloud processing), and this data is not - or cannot- be pseudonymised as described in
+       Use Case 2 or encrypted as described in Use Case 1 because the processing requires accessing
+       data in the clear.
+
+If
+      1. a controller transfers personal data to a cloud service provider or other processor,
+      2. the cloud service provider or other processor needs access to the data in the clear in order to
+         execute the task assigned, and
+      3. the power granted to public authorities of the recipient country to access the transferred data
+         in question goes beyond what is necessary and proportionate in a democratic society, where
+
+
+
+
+Adopted                                                                                                  34
+
+         in practice problematic legislation of the third country applies to the transfers in question (see
+         Step 3).86
+
+then the EDPB is, considering the current state of the art, incapable of envisioning an effective
+technical measure to prevent that access from infringing on the data subject’s fundamental rights. The
+EDPB does not rule out that further technological development may offer measures that achieve the
+intended business purposes, without requiring access in the clear.
+95.    In the given scenarios, where unencrypted personal data is technically necessary for the
+       provision of the service by the processor, transport encryption and data-at-rest encryption even
+       taken together, do not constitute a supplementary measure that ensures an essentially
+       equivalent level of protection if the data importer is in possession of the cryptographic keys.
+
+
+Use Case 7: Transfer of personal data for business purposes including by way of remote
+           access
+
+96.    A data exporter transfers personal data to entities - in a third country to be used for shared
+       business purposes —whether by electronic transmission or by making it available to remote
+       access by the data importer—, and this data is not - or cannot- be -pseudonymised as described
+       in Use Case 2 or encrypted as described in Use Case 1 because the processing requires accessing
+       data in the clear. One typical constellation may consist of a controller or processor established
+       on the territory of a Member State transferring personal data to a controller or processor in a
+       third country belonging to the same group of undertakings, or group of enterprises engaged in
+       a joint economic activity. The data importer may, for example, use the data it receives to provide
+       personnel services for the data exporter for which it needs human resources data, or to
+       communicate with customers of the data exporter who live in the European Union by phone or
+       email.
+
+If
+      1. a data exporter transfers personal data to a data importer in a third country by making it
+         available in an information system in a way that allows the importer direct access to data of
+         its own choice, or by transferring it directly, individually or in bulk, through use of a
+         communication service,
+      2. the importer87 processes the data in the clear in the third country (including for its own
+         purposes where the importer is a controller),
+      3. the power granted to public authorities of the recipient country to access the transferred data
+         goes beyond what is necessary and proportionate in a democratic society, where in practice
+         problematic legislation of the third country applies to the transfers in question (see Step 3),
+
+then the EDPB is incapable of envisioning an effective technical measure to prevent that access from
+infringing on the data subject’s fundamental rights.
+
+97.    In the given scenarios, where unencrypted personal data is technically necessary for the
+       provision of the service by the processor, transport encryption and data-at-rest encryption even
 
 
 86
-  Ver artigos 47.º e 52.º da Carta dos Direitos Fundamentais da UE, artigo 23.º, n.º 1, do RGPD e Recomendações
-02/2020 do CEPD sobre as garantias essenciais europeias relativas às medidas de vigilância, de 10 de novembro
-de 2020.
-
-
-Adotado                                                                                                     37
-
-       medida complementar que assegura um nível de proteção essencialmente equivalente se o
-       importador de dados dispuser das chaves criptográficas.
-
-
-Caso de utilização 7: Transferência de dados pessoais para fins operacionais, incluindo através
-            de acesso remoto
-
-96.    O exportador de dados transfere dados pessoais para entidades — num país terceiro para serem
-       utilizados para fins operacionais partilhados — quer por transmissão eletrónica, quer
-       disponibilizando-os para acesso remoto pelo importador de dados, e esses dados não são — ou
-       podem ser - pseudonimizados, conforme descrito no Caso de Utilização 2, ou encriptados,
-       conforme descrito no Caso de Utilização 1, porque o tratamento exige acesso aos dados não
-       encriptados. Uma configuração típica pode consistir num responsável pelo tratamento ou
-       subcontratante estabelecido no território de um Estado-Membro que transfere dados pessoais
-       para um responsável pelo tratamento ou subcontratante num país terceiro pertencente ao
-       mesmo grupo de empresas, ou grupo de empresas envolvidas numa atividade económica
-       conjunta. O importador de dados pode, por exemplo, utilizar os dados que recebe para prestar
-       serviços de pessoal ao exportador de dados, para os quais necessita de dados de recursos
-       humanos, ou para comunicar com os clientes do exportador de dados que vivem na União
-       Europeia por telefone ou correio eletrónico.
-
-Se:
-      1. o exportador de dados transfere dados pessoais para o importador de dados num país terceiro,
-         mediante a disponibilização dos mesmos num sistema informático que permita ao importador
-         o acesso direto aos dados que pretende, mediante a transferência direta dos mesmos,
-         individualmente ou em massa, através da utilização de um serviço de comunicação;
-      2. o importador 87 trata os dados não encriptados no país terceiro (incluindo para os seus próprios
-         fins, quando o importador é responsável pelo tratamento),
-      3. o poder conferido às autoridades públicas do país destinatário para aceder aos dados
-         transferidos vai além do que é necessário e proporcionado numa sociedade democrática,
-         aplicando-se, na prática, a legislação problemática do país terceiro às transferências em
-         questão (ver etapa 3),
-
-o CEPD não pode prever uma medida técnica eficaz para evitar que tal acesso viole os direitos
-fundamentais do titular dos dados.
-
-97.    Nos cenários indicados, sempre que os dados pessoais não encriptados sejam tecnicamente
-       necessários para a prestação do serviço pelo subcontratante, a encriptação do transporte e a
-       encriptação de dados estáticos, mesmo consideradas no seu conjunto, não constituem uma
-       medida complementar que assegura um nível de proteção essencialmente equivalente se o
-       importador de dados dispuser das chaves criptográficas.
-
-
-
-
+    See Articles 47 and 52 of the EU Charter of Fundamental Rights, Article 23.1 GDPR, and EDPB
+Recommendations 02/2020 on the European Essential Guarantees for Surveillance Measures, 10 November
+2020.
 87
-  Quer seja responsável pelo tratamento ou subcontratante num país terceiro que recebe ou obtém acesso a
-dados pessoais transferidos do EEE.
+   Whether it is a controller or processor in a third country receiving or getting access to personal data transferred
+from the EEA.
 
 
-Adotado                                                                                               38
+Adopted                                                                                                            35
 
-2.2 Medidas contratuais adicionais
-     98.As medidas em causa consistirão, geralmente, em compromissos contratuais 88 unilaterais,
-        bilaterais ou multilaterais. 89 Se for utilizado um instrumento de transferência do artigo 46.º do
-        RGPD, este já contém, na maioria dos casos, vários compromissos (essencialmente contratuais)
-        do exportador e do importador de dados destinados a proteger os dados pessoais.90
-
-     99.Em determinadas situações, as referidas medidas podem complementar e reforçar as garantias
-        previstas no instrumento de transferência e na legislação pertinente do país terceiro, sempre que,
-        tendo em conta as circunstâncias da transferência, estas não cumpram todas as condições
-        necessárias para assegurar um nível de proteção essencialmente equivalente ao garantido no EEE.
-        Tendo em conta a natureza das medidas contratuais, que não são, regra geral, suscetíveis de
-        vincular as autoridades do país terceiro uma vez que estas não são partes no contrato 91 estas
-        medidas devem ser combinadas com outras medidas técnicas e organizativas para proporcionar
-        o nível de proteção de dados exigido. A seleção e implementação de uma ou mais das referidas
-        medidas não garantem necessária e sistematicamente que a transferência cumpre a norma de
-        equivalência essencial exigida pela legislação da UE.
-
-100. Dependendo das medidas contratuais já incluídas no instrumento de transferência do artigo 46.º
-     do RGPD utilizado, podem também ser úteis medidas contratuais adicionais para permitir aos
-     exportadores de dados baseados no EEE tomar conhecimento dos novos desenvolvimentos que
-     afetam a proteção dos dados transferidos para países terceiros.
-
-101. Conforme referido, estas medidas contratuais não poderão excluir a aplicação da legislação de
-     um país terceiro que não cumpre a norma das Garantias Essenciais Europeias do CEPD nos casos
-     em que esta legislação obriga os importadores a cumprir as ordens de divulgação de dados que
-     recebem das autoridades públicas. 92
-
-102. Alguns exemplos destas potenciais medidas contratuais são enumerados a seguir e classificados
-     de acordo com a sua natureza:
+         taken together, do not constitute a supplementary measure that ensures an essentially
+         equivalent level of protection if the data importer is in possession of the cryptographic keys.
 
 
-Cláusula que prevê a obrigação contratual de utilizar medidas técnicas específicas
 
-103. Consoante as circunstâncias específicas das transferências (incluindo a aplicação prática da
-     legislação do país terceiro), o contrato poderá ter de prever a implementação de medidas técnicas
-     específicas para permitir a realização das transferências (ver as medidas técnicas sugeridas supra).
+2.2 Additional contractual measures
+     98.These measures will generally consist of unilateral, bilateral or multilateral88 contractual
+        commitments.89 If an Article 46 GDPR transfer tool is used, it will in most cases already contain a
+        number of (mostly contractual) commitments by the data exporter and the data importer aimed
+        at serving as safeguards for the personal data.90
 
-104. Condições de eficácia:
+     99.In some situations, these measures may complement and reinforce the safeguards the transfer
+        tool and relevant legislation of the third country may provide, when, taking into account the
+        circumstances of the transfer, these do not meet all the conditions required to ensure a level of
+        protection essentially equivalent to that guaranteed within the EEA. Provided the nature of
+        contractual measures, generally not capable of binding the authorities of that third country when
+        they are not party to the contract,91 these measures may often need to be combined with other
+        technical and organisational measures to provide the level of data protection required. Selecting
+        and implementing one or several of these measures will not necessarily and systematically ensure
+        that your transfer meets the essential equivalence standard that EU law requires.
 
+100. Depending on what contractual measures are already included in the Article 46 GDPR transfer
+     tool that is relied on, additional contractual measures may also be helpful to allow EEA-based data
+     exporters to become aware of new developments affecting the protection of the data transferred
+     to third countries.
+
+101. As said, contractual measures will not be able to rule out the application of the legislation of a
+     third country which does not meet the EDPB European Essential Guarantees standard in those
+     cases in which the legislation obliges importers to comply with the orders to disclose data they
+     receive from public authorities.92
+
+102. Some examples of these potential contractual measures are listed below and classified in
+     accordance with their nature.
+
+
+Providing for the contractual obligation to use specific technical measures
+
+103. Depending on the specific circumstances of the transfers (including the practical application of
+     the third country legislation), the contract may need to provide that for transfers to take place,
 
 
 88
-   Por exemplo, nas regras vinculativas aplicáveis às empresas que deverão, em todo o caso, regular algumas das
-medidas a seguir referidas.
+   E.g. within BCRs which should in any case regulate some of the measures listed below.
 89
-   Serão de natureza privada e não serão considerados acordos internacionais nos termos do direito internacional
-público. Por conseguinte, não vincularão, em princípio, as autoridades públicas do país terceiro uma vez que não
-são partes no contrato celebrado com organismos privados em países terceiros, conforme sublinhado pelo
-Tribunal de Justiça no seu acórdão Schrems II, n.º 125.
+   They will have a private nature and not be considered as international agreements under public international
+law. Accordingly, they will normally fail to bind the third country’s public authority as non-parties to the contract
+when concluded with private bodies in third countries, as the Court underlined in its judgment C-311/18
+(Schrems II), paragraph 125.
 90
-   Ver Acórdão Schrems II, n.º 137, no qual o Tribunal de Justiça reconheceu que as cláusulas contratuais-tipo
-contêm «mecanismos efetivos que permit[e]m, na prática, garantir que o nível de proteção exigido pelo direito
-da União seja respeitado e que as transferências de dados pessoais, baseadas nessas cláusulas, sejam suspensas
-ou proibidas em caso de violação dessas cláusulas ou de impossibilidade de as honrar»; ver também o n.º 148.
+   See judgment C-311/18 (Schrems II), paragraph 137 where the Court as a result recognised that the SCC contain
+“effective mechanisms that make it possible, in practice, to ensure compliance with the level of protection
+required by EU law and that transfers of personal data pursuant to the clauses of such a decision are suspended
+or prohibited in the event of the breach of such clauses or it being impossible to honour them”; see also
+paragraph 148.
 91
-   Acórdão Schrems II, n.º 125.
+   C-311/18 (Schrems II), paragraph 125.
 92
-   Acórdão Schrems II, n.º 132.
+   CJEU judgment C-311/18 (Schrems II), paragraph 132.
 
 
-Adotado                                                                                                      39
+Adopted                                                                                                           36
 
-     - Esta cláusula poderá ser eficaz nas situações em que o exportador identificou a necessidade
-       de medidas técnicas. Deve revestir forma jurídica para garantir que o importador também se
-       compromete a adotar as medidas técnicas necessárias, caso necessário.
+     specific technical measures would have to be implemented (see supra the technical measures
+     suggested).
 
+104. Conditions for effectiveness:
 
-Obrigações de transparência:
-
-105. O exportador poderá adicionar anexos ao contrato com informações fornecidas pelo importador
-     antes da conclusão do contrato, com base nos seus melhores esforços, relativamente ao acesso
-     aos dados pelas autoridades públicas, incluindo no domínio da informação, desde que a legislação
-     do país de destino cumpra as garantias essenciais europeias do CEPD. O que poderá ajudar o
-     exportador de dados a cumprir a sua obrigação de documentar a avaliação do nível de proteção
-     no país terceiro. Pode igualmente sublinhar a obrigação do importador de ajudar o exportador na
-     sua avaliação e de assumir a sua responsabilidade na prestação de informações objetivas, fiáveis,
-     pertinentes, verificáveis e acessíveis ao público ou de outro modo acessíveis.
-
-106. O importador poderá, por exemplo, ser obrigado a:
-
-          (1) enumerar as leis e regulamentos do país de destino aplicáveis ao importador ou aos
-          respetivos subcontratantes (ulteriores) que permitiriam o acesso das autoridades públicas
-          aos dados pessoais sujeitos à transferência, nomeadamente, no domínio das informações,
-          da aplicação da lei, da supervisão administrativa e regulamentar aplicável aos dados
-          transferidos;
-
-          (2) na ausência de leis que regulamentem o acesso das autoridades públicas aos dados,
-          prestar informações e estatísticas baseadas na sua experiência ou em relatos de várias fontes
-          (por ex., parceiros, fontes abertas, jurisprudência nacional e decisões dos organismos de
-          controlo) no que concerne ao acesso das autoridades públicas aos dados pessoais em
-          situações do tipo da transferência de dados em causa (ou seja, no domínio regulamentar
-          específico, relativamente ao tipo de entidades a que pertence o importador de dados, etc.);
-
-          (3) indicar as medidas adotadas para impedir o acesso aos dados transferidos (caso
-          aplicável);
-
-          (4) fornecer informações suficientemente pormenorizadas sobre todos os pedidos de acesso
-          a dados pessoais das autoridades públicas recebidos pelo importador num determinado
-          período de tempo 93, em especial nas áreas acima mencionadas no ponto 1), incluindo
-          informações sobre os pedidos recebidos, os dados solicitados, o organismo requerente e a
-          base jurídica da divulgação e a divulgação pelo importador do pedido de dados 94;
-
-          (5) especificar se e em que medida o importador está legalmente proibido de fornecer as
-          informações mencionadas nos pontos 1) a 5) supra.
+     - This clause could be effective in those situations where the need for technical measures has
+       been identified by the exporter. It would then have to be provided in a legal form to ensure
+       that the importer also commits to put in place the necessary technical measures if need be.
 
 
+Transparency obligations:
+
+105. The exporter could add annexes to the contract with information that the importer would have
+     provided before the conclusion of the contract, based on its best efforts, on the access to data by
+     public authorities, including in the field of intelligence, provided the legislation complies with the
+     EDPB European Essential Guarantees, in the destination country. This might help the data
+     exporter to meet its obligation to document its assessment of the level of protection in the third
+     country. It may also underscore the obligation of the importer to assist the exporter in its
+     assessment and engage its liability in providing it with information that is objective, reliable,
+     relevant, verifiable and publicly available or otherwise accessible information.
+
+106. The importer could be for instance required to:
+
+     (1) enumerate the laws and regulations in the destination country applicable to the importer or
+         its (sub) processors that would permit access by public authorities to the personal data that
+         are subject to the transfer, in particular in the areas of intelligence, law enforcement,
+         administrative and regulatory supervision applicable to the transferred data;
+
+     (2) in the absence of laws governing the public authorities’ access to data, provide information
+         and statistics based on the importer’s experience or reports from various sources (e.g.
+         partners, open sources, national case law and decisions from oversight bodies) on access by
+         public authorities to personal data in situations of the kind of the data transfer at hand (i.e.
+         in the specific regulatory area; regarding the type of entities to which the data importer
+         belongs, etc.);
+
+     (3) indicate which measures are taken to prevent the access to transferred data (if any);
+
+     (4) provide sufficiently detailed information on all requests of access to personal data by public
+         authorities which the importer has received over a specified period of time,93 in particular in
+         the areas mentioned under (1) above and comprising information about the requests
+         received, the data requested, the requesting body and the legal basis for disclosure and to
+         what extent the importer has disclosed the data request;94
+
+     (5) specify whether and to what extent the importer is legally prohibited to provide the
+         information mentioned under (1) – (5) above.
 
 
 93
-   A duração do período deverá depender do risco para os direitos e liberdades dos titulares dos dados cujos
-dados são objeto da transferência em causa (por ex., o último ano antes da revogação do instrumento de
-exportação de dados com o exportador de dados).
+   The length of period should depend on the risk for the rights and freedoms of the data subjects whose data
+are subject to the transfer at stake – e.g. the last year before closure of the data export instrument with the data
+exporter.
 94
-   O cumprimento deste dever não equivale a proporcionar um nível de proteção adequado. Além, qualquer
-divulgação inadequada que tenha efetivamente ocorrido torna necessária a implementação de medidas
-complementares.
+   Complying with this duty does not as such amount to providing for an appropriate level of protection. At the
+same time any inappropriate disclosure that has actually happened leads to the necessity of implementing
+supplementary measures.
 
 
-Adotado                                                                                                  40
+Adopted                                                                                                          37
 
-107. Estas informações poderão ser prestadas por meio de questionários estruturados preenchidos e
-     assinados pelo importador e reforçadas pela obrigação contratual do importador de declarar,
-     num determinado prazo, qualquer potencial alteração desta informação, como é prática corrente
-     nos processos de diligência devida.
+107. This information could be provided by way of structured questionnaires that the importer would
+     fill in and sign and compounded by the importer’s contractual obligation to declare within a set
+     period of time any potential change to this information, as is current practice for due diligence
+     processes.
 
-108. Condições de eficácia:
+108. Conditions for effectiveness:
 
-     - O importador deve poder prestar este tipo de informação ao exportador, na medida dos seus
-       conhecimentos e depois de ter desenvolvido os seus melhores esforços para a obter.
-     - Esta obrigação imposta ao importador é uma forma de assegurar que o exportador se
-       consciencializa e se mantém consciente dos riscos associados à transferência de dados para
-       um país terceiro. Por conseguinte, permitirá ao exportador abster-se de celebrar o contrato
-       ou, se a informação sofrer alterações após a sua celebração, permitir-lhe-á cumprir a obrigação
-       de suspender a transferência e/ou rescindir o contrato, caso a legislação do país terceiro, as
-       garantias contidas no instrumento de transferência do artigo 46.º do RGPD utilizado e
-       quaisquer garantias adicionais que possa ter adotado deixem de assegurar um nível de
-       proteção essencialmente equivalente ao garantido no EEE. No entanto, tal obrigação não pode
-       justificar a divulgação de dados pessoais pelo importador, nem criar a expectativa de que não
-       haverá novos pedidos de acesso.
+     - The importer must be able to provide the exporter with these types of information to the best
+       of its knowledge and after having used its best efforts to obtain it.
+     - This obligation imposed on the importer is a means to ensure that the exporter becomes and
+       remains aware of the risks attached to the transfer of data to a third country. It will thus enable
+       the exporter to desist from concluding the contract, or if the information changes following its
+       conclusion, to fulfil its obligation to suspend the transfer and/or terminate the contract if the
+       law of the third country, the safeguards contained in the Article 46 GDPR transfer tool used
+       and any additional safeguards it may have adopted can no longer ensure a level of protection
+       essentially equivalent to that in the EEA. This obligation can however neither justify the
+       importer’s disclosure of personal data nor give rise to the expectation that there will be no
+       further access requests.
 
-                                                     ***
+                                                    ***
 
-109. O exportador pode igualmente adicionar cláusulas que permitam ao importador certificar que 1)
-     não criou deliberadamente «backdoors» ou programações semelhantes que possam ser utilizados
-     para aceder ao sistema e/ou aos dados pessoais, 2) não criou ou alterou propositadamente os
-     seus processos operacionais de forma a facilitar o acesso a sistemas ou dados pessoais, e que 3)
-     a legislação nacional ou a política do Governo não exige que o importador crie ou mantenha
-     «backdoors», facilite o acesso a sistemas ou dados pessoais ou que o importador detenha ou
-     transmita a chave de encriptação 95.
+109. The exporter could also add clauses whereby the importer certifies that (1) it has not purposefully
+     created back doors or similar programming that could be used to access the system and/or
+     personal data (2) it has not purposefully created or changed its business processes in a manner
+     that facilitates access to personal data or systems, and (3) that national law or government policy
+     does not require the importer to create or maintain back doors or to facilitate access to personal
+     data or systems or for the importer to be in possession or to hand over the encryption key.95
 
-110. Condições de eficácia:
+110. Conditions for effectiveness:
 
-     - A existência de legislação ou políticas do Governo que impeçam os importadores de divulgar
-       esta informação pode tornar esta cláusula ineficaz. Por conseguinte, o importador não poderá
-       celebrar o contrato ou deverá notificar o exportador da impossibilidade de cumprir os seus
-       compromissos contratuais.
-     - O contrato deve incluir sanções e/ou a possibilidade de o exportador rescindir o contrato a
-       curto prazo nos casos em que o importador não revelar a existência de backdoors ou
-       programas similares, de processos comerciais manipulados ou de qualquer obrigação de
-       adoção de qualquer um destes procedimentos ou não informar imediatamente o exportador
-       logo que tenha conhecimento da sua existência.
-     - Nos casos em que o importador de dados divulgou dados pessoais transferidos em violação
-       dos compromissos contidos no instrumento de transferência escolhido, o contrato pode
+     - The existence of legislation or government policies preventing importers from disclosing this
+       information may render this clause ineffective. The importer will thus not be able to enter into
+       the contract or will need to notify to the exporter of its inability to continue complying with its
+       contractual commitments.
+     - The contract must include penalties and/or the exporter’s ability to terminate the contract on
+       short notice in those cases in which the importer does not reveal the existence of a back door
+       or similar programming or manipulated business processes or any requirement to implement
+       any of these or fails to inform promptly the exporter once their existence comes to its
+       knowledge.
+     - In circumstances where the data importer disclosed personal data transferred in violation of
+       the commitments contained under the chosen transfer tool, the contract may also include
+       compensation from the data importer to a data subject for any material and non-material
+       damage suffered.
 
 
 
 
 95
-  A presente cláusula é importante para garantir um nível adequado de proteção dos dados pessoais transferidos
-e deve ser normalmente obrigatória.
+  This clause is important to guarantee an adequate level of protection of the personal data transferred and
+should usually be required.
 
 
-Adotado                                                                                                    41
 
-        também incluir a indemnização pelo importador de dados do titular de dados pelos danos
-        materiais e morais sofridos.
+Adopted                                                                                                  38
 
-                                                      ***
+                                                       ***
 
-111. O exportador poderá reforçar o seu poder de realizar auditorias 96 ou inspeções das instalações de
-     tratamento de dados do importador, no local e/ou à distância, por forma a verificar se os dados
-     foram divulgados às autoridades públicas e em que condições (acesso que não vai além do que é
-     necessário e proporcionado numa sociedade democrática), por exemplo, mediante o
-     estabelecimento de um pré-aviso a curto prazo e de mecanismos que garantam a intervenção
-     rápida dos organismos de inspeção e o reforço da autonomia do exportador na seleção dos
-     organismos de inspeção.
+111. The exporter could reinforce its power to conduct audits96 or inspections of the data processing
+     facilities of the importer, on-site and/or remotely, to verify if data was disclosed to public
+     authorities and under which conditions (access not beyond what is necessary and proportionate
+     in a democratic society), for instance by providing for a short notice and mechanisms ensuring the
+     rapid intervention of inspection bodies and reinforcing the autonomy of the exporter in selecting
+     the inspection bodies.
 
-112. Condições de eficácia:
+112. Conditions for effectiveness:
 
-     - Para que esta seja totalmente eficaz, o âmbito de aplicação da auditoria deve abranger, legal
-       e tecnicamente, qualquer tratamento dos dados pessoais transmitidos no país terceiro pelos
-       subcontratantes ou subcontratantes ulteriores do importador.
-     - Os registos de acesso e outras pistas semelhantes devem ser invioláveis (por ex., devem ser
-       inalteráveis utilizando técnicas de encriptação de ponta, como o hashing e ser
-       sistematicamente transmitidos ao exportador com uma determinada frequência), de modo
-       que os auditores possam encontrar elementos de prova da divulgação. Os registos de acesso
-       e outros registos semelhantes devem também distinguir entre os acessos devidos a operações
-       normais e os acessos devidos a ordens ou pedidos de acesso.
+     - The scope of the audit should legally and technically cover any processing by the importer’s
+       processors or sub-processors of the personal data transmitted in the third country to be fully
+       effective.
+     - Access logs and other similar trails should be tamper proof (e.g. they should be made
+       inalterable using state of the art encryption techniques, such as hashing, and also
+       systematically transmitted to the exporter on a periodic basis) so that the auditors can find
+       evidence of disclosure. Access logs and other similar trails should also distinguish between
+       accesses due to regular business operations and accesses due to orders or requests for access.
 
-                                                      ***
+                                                       ***
 
-113. Nos casos em que o direito e a prática do país terceiro do importador foram inicialmente avaliados
-     e se considerou que asseguravam um nível de proteção dos dados transferidos pelo exportador
-     essencialmente equivalente ao garantido na UE, o exportador poderá ainda reforçar a obrigação
-     do importador de dados de informar imediatamente o exportador de dados do facto de não poder
-     cumprir os compromissos contratuais e, por conseguinte, a norma exigida do «nível de proteção
-     de dados essencialmente equivalente». 97..
+113. Where the law and practice of the third country of the importer was initially assessed and deemed
+     to provide an essentially equivalent level of protection as provided in the EU for data transferred
+     by the exporter, the exporter could still strengthen the obligation of the data importer to inform
+     promptly, in case of a change of the situation, the data exporter of its inability to comply with the
+     contractual commitments, and as a result with the required standard of “essentially equivalent
+     level of data protection”.97.
 
-114. A referida impossibilidade de cumprimento pode resultar de alterações da legislação ou da prática
-     do país terceiro 98. As cláusulas podem estabelecer prazos e procedimentos específicos e rigorosos
-     para a suspensão rápida da transferência de dados e/ou rescisão do contrato, bem como para a
-     devolução ou eliminação dos dados recebidos pelo importador. O rastreamento dos pedidos
+114. This inability to comply may result from changes in the third country’s legislation or practice. 98
+     The clauses could set specific and strict time limits and procedures for the swift suspension of the
+     transfer of data and/or the termination of the contract and the importer’s return or deletion of
+     the data received. Keeping track of the requests received, their scope, and the effectiveness of
+     the measures adopted to counter them, should provide the exporter with sufficient indications to
+     exercise its duty to suspend or end the transfer and/or terminate the contract.
 
+115. Conditions for effectiveness:
 
+     - The notification needs to take place before access is granted to the data. Otherwise, by the
+       time the exporter receives the notification, the rights of the individual may have already been
+       violated if the request is based on laws of that third country that exceed what the level of data
 
 96
-   Ver, por exemplo, a cláusula 5, alínea f), das cláusulas contratuais-tipo entre responsáveis pelo tratamento e
-subcontratantes da Decisão 2010/87/UE; as auditorias também podem ser previstas no âmbito de um código de
-conduta ou através da certificação.
+   See for instance Clause 5.f of SCCs between controllers and processors Decision 2010/87/EU, the audits could
+also be provided within a code of conduct or through certification.
 97
-   Cláusula 5, alíneas a) e d), i), da Decisão 2010/87/UE.
+   Clause 5.a and d.i of SCCs Decision 2010/87/EU.
 98
-   Ver Acórdão Schrems II, n.º 139, no qual o Tribunal de Justiça afirma que «embora a cláusula 5, alínea d), i),
-permita ao destinatário da transferência de dados pessoais não comunicar ao responsável pelo tratamento
-estabelecido na União um pedido juridicamente vinculativo de divulgação dos dados pessoais por parte de uma
-autoridade competente para a aplicação da lei, em caso de legislação que o impeça, como uma proibição de
-caráter penal que vise preservar o segredo de um inquérito policial, está, no entanto, obrigado, em conformidade
-com a cláusula 5, alínea a), do anexo da Decisão CPT a informar o responsável pelo tratamento do facto de não
-poder cumprir as cláusulas-tipo de proteção de dados».
+   See C-311/18 (Schrems II), paragraph 139 in which the Court asserts that “although Clause 5(d)(i) allows a
+recipient of personal data not to notify a controller established in the European Union of a legally binding request
+for disclosure of the personal data by a law enforcement authority, in the event of legislation prohibiting that
+recipient from doing so, such as a prohibition under criminal law the aim of which is to preserve the
+confidentiality of a law enforcement investigation, the recipient is nevertheless required, pursuant to Clause 5(a)
+in the annex to the SCC Decision, to inform the controller of his or her inability to comply with the standard data
+protection clauses.”
 
 
-Adotado                                                                                                       42
+Adopted                                                                                                          39
 
-     recebidos, do respetivo âmbito e da eficácia das medidas adotadas para contrariá-los devem
-     fornecer ao exportador indicações suficientes para exercer o seu dever de suspensão ou cessação
-     da transferência e/ou de rescisão do contrato.
+       protection afforded under EU law permits. The notification may still serve to prevent future
+       violations and to allow the exporter to fulfil its duty to suspend the transfer of personal data
+       to the third country and/or terminate the contract.
+     - The data importer must monitor any legal or policy developments that might lead to its
+       inability to comply with its obligations, and promptly inform the data exporter of any such
+       changes and developments, and if possible ahead of their implementation to enable the data
+       exporter to recover the data from the data importer.
+     - The clauses should provide for a quick mechanism whereby the data exporter authorises the
+       data importer to promptly secure or return the data to the data exporter, or if this is not
+       feasible, delete or securely encrypt the data without necessarily waiting for the exporter’s
+       instructions, if a specific threshold99 to be agreed between the data exporter and the data
+       importer is met. The importer should implement this mechanism from the beginning of the
+       data transfer and test it regularly to ensure that it can be applied on short notice.
+     - Other clauses could enable the exporter to monitor the importer’s compliance with these
+       obligations via audits, inspections and other verification measures and to enforce them with
+       penalties on the importer and/or the exporter’s capacity to suspend the transfer and/or
+       terminate immediately the contract.
 
-115. Condições de eficácia:
+                                                      ***
 
-     - A notificação deve ser realizada antes de ser concedido o acesso aos dados. Caso contrário,
-       quando o exportador recebe a notificação, os direitos do indivíduo podem já ter sido violados,
-       se o pedido se basear em leis do país terceiro que vão além do nível de proteção de dados
-       permitido pela legislação da UE. A notificação pode ainda servir para prevenir futuras violações
-       e permitir ao exportador cumprir o seu dever de suspender a transferência de dados pessoais
-       para o país terceiro e/ou de rescindir o contrato.
-     - O importador de dados deve monitorizar os desenvolvimentos jurídicos ou políticos suscetíveis
-       de impedi-lo de cumprir as suas obrigações e deve informar imediatamente o exportador de
-       dados de tais alterações e desenvolvimentos, se possível antes da sua implementação, para
-       permitir ao exportador de dados recuperar os dados junto do importador de dados.
-     - As cláusulas deverão prever um mecanismo rápido através do qual o exportador de dados
-       autoriza o importador de dados a proteger ou a devolver-lhe imediatamente os dados ou, se
-       tal não for viável, a apagar ou encriptar os dados de um modo seguro sem necessariamente
-       esperar pelas instruções do exportador, caso seja atingido um limiar específico99 a acordar
-       entre o exportador de dados e o importador de dados. O importador de dados deve
-       implementar o referido mecanismo no início da transferência de dados e testá-lo regularmente
-       a fim de se assegurar de que este pode executado num curto prazo de tempo.
-     - Outras cláusulas poderão permitir ao exportador monitorizar o cumprimento destas
-       obrigações pelo importador por meio de auditorias, inspeções e outras medidas de verificação
-       e impor a sua observância mediante a aplicação de sanções ao importador e/ou do recurso à
-       possibilidade de o exportador suspender a transferência e/ou rescindir imediatamente o
-       contrato.
+116. Insofar as allowed by national law in the third country, the contract could reinforce the
+     transparency obligations of the importer by providing for a “Warrant Canary” method, whereby
+     the importer commits to regularly publish (e.g. at least every 24 hours) a cryptographically signed
+     message informing the exporter that as of a certain date and time it has received no order to
+     disclose personal data or the like. The absence of an update of this notification will indicate to the
+     exporter that the importer may have received an order.
 
-                                                  ***
+117. Conditions for effectiveness:
 
-116. Na medida do permitido pela legislação nacional do país terceiro, o contrato poderá reforçar as
-     obrigações de transparência do importador prevendo um método «warrant canary», segundo o
-     qual o importador se compromete a publicar regularmente (por ex., pelo menos cada 24 horas)
-     uma mensagem com uma assinatura encriptada a informar o exportador de que até uma
-     determinada data e hora não recebeu uma ordem de divulgação de dados pessoais ou afins. A
-     ausência de uma atualização desta notificação indicará ao exportador que o importador pode ter
-     recebido uma ordem nesse sentido.
+     - The regulations of the third country must permit the data importer to issue this form of passive
+       notification to the exporter.
+     - The data exporter must automatically monitor the warrant canary notifications.
+     - The data importer must ensure that its private key for signing the Warrant Canary is kept safe
+       and that it cannot be forced to issue false Warrant Canaries by the regulations of the third
+       country. To this end, it might be of use if several signatures by different persons are needed
+       and/or the Warrant Canary is issued by a person outside the third country’s jurisdiction.
 
-117. Condições de eficácia:
 
-     - Os regulamentos do país terceiro devem permitir que o importador de dados emita esta forma
-       de notificação passiva ao exportador.
-     - O exportador de dados deve monitorizar automaticamente as notificações do tipo «warrant
-       canary».
+Obligations to take specific actions
+
+118. The importer could commit to reviewing, under the law of the country of destination, the legality
+     of any order to disclose data, notably whether it remains within the powers granted to the
+     requesting public authority, and to challenge the order if, after a careful assessment, it concludes
+     that there are grounds under the law of the country of destination to do so. When challenging an
+     order, the data importer should seek interim measures to suspend the effects of the order until
 
 
 99
-  Este limiar deverá assegurar que os titulares dos dados continuam a beneficiar de um nível de proteção
-equivalente ao garantido no EEE.
+  This threshold should ensure that data subjects continue to be afforded a level of protection equivalent to that
+guaranteed within the EEA.
 
 
-Adotado                                                                                              43
+Adopted                                                                                                        40
 
-      - O importador de dados deve assegurar que a sua chave privada de assinatura do «warrant
-        canary» é mantida em segurança e não pode ser forçada para emitir falsas notificações
-        «warrant canary» pelos regulamentos do país terceiro. Para o efeito, poderá ser útil a
-        utilização de várias assinaturas por diferentes pessoas e/ou que o «warrant canary» seja
-        emitido por uma pessoa fora da jurisdição do país terceiro.
+      the court has decided on the merits. The importer would have the obligation not to disclose the
+      personal data requested until required to do so under the applicable procedural rules. The data
+      importer would also commit to providing the minimum amount of information permissible when
+      responding to the order, based on a reasonable interpretation of the order.
 
+119. Conditions for effectiveness:
 
-Obrigações de adotar medidas específicas
+      - The legal order of the third country must offer effective legal avenues to challenge orders to
+        disclose data.
+      - This clause will always offer a very limited additional protection as an order to disclose data
+        may be lawful under the legal order of the third country, but this legal order may not meet EU
+        standards. This contractual measure will necessarily need to be complementary to other
+        supplementary measures.
+      - The challenges to the orders must have a suspensive effect under the law of the third country.
+        Otherwise, public authorities would still have access to the individuals’ data and any ensuing
+        action in favor of the individual would have the limited effect of allowing him/her to claim
+        damages for negative consequences resulting from the data disclosure.
+      - The importer will need to be able to document and demonstrate to the exporter the actions it
+        has taken, exercising its best efforts, to fulfil this commitment.
 
-118. O importador poderá comprometer-se a examinar, ao abrigo da legislação do país de destino, a
-     legalidade de qualquer ordem de divulgação de dados, nomeadamente se se enquadra nos limites
-     dos poderes concedidos à autoridade pública requerente, e a impugnar a ordem se, após uma
-     avaliação minuciosa, concluir que existem fundamentos ao abrigo da lei do país de destino para
-     o fazer. No caso de impugnar uma ordem, o importador de dados deverá solicitar medidas
-     provisórias para suspender os efeitos da ordem até que o tribunal decida quanto ao mérito. O
-     importador não poderá divulgar os dados pessoais solicitados enquanto não for a tal obrigado por
-     força das regras processuais aplicáveis. O importador de dados comprometer-se-á igualmente a
-     fornecer a menor quantidade possível de informações permitida ao dar cumprimento à ordem,
-     com base numa interpretação razoável da mesma.
+                                                       ***
 
-119. Condições de eficácia:
+120. In the same situation as described above, the importer could commit to inform the requesting
+     public authority of the incompatibility of the order with the safeguards contained in the Article 46
+     GDPR transfer tool100 and the resulting conflict of obligations for the importer. The importer would
+     notify simultaneously and as soon as possible the exporter and/or the competent supervisory
+     authority from the EEA, insofar as possible under the third country legal order.
 
-      - O ordenamento jurídico do país terceiro deve oferecer vias jurídicas eficazes para impugnação
-        das ordens de divulgação de dados.
-      - Esta cláusula oferecerá sempre uma proteção adicional muito limitada, uma vez que uma
-        ordem de divulgação de dados pode ser legal ao abrigo do ordenamento jurídico do país
-        terceiro, mas o ordenamento jurídico pode não cumprir as normas da UE. Esta medida
-        contratual deverá necessariamente ser complementada por outras medidas complementares.
-      - A impugnação de uma ordem deve ter efeito suspensivo nos termos do direito do país terceiro.
-        Caso contrário, as autoridades públicas continuariam a ter acesso aos dados dos particulares
-        e qualquer ação subsequente a favor do particular teria o efeito limitado de lhe permitir
-        apresentar um pedido de indemnização pelas consequências negativas resultantes da
-        divulgação dos dados.
-      - O importador deve poder documentar e demonstrar ao exportador as medidas que adotou,
-        desenvolvendo os seus melhores esforços para cumprir tal compromisso.
+121. Conditions for effectiveness:
 
-                                                  ***
+      - Such information on the protection conferred by EU law and the conflict of obligations should
+        have some legal effect in the legal order of the third country, such as a judicial or administrative
+        review of the order or request for access, the requirement of a judicial warrant, and/or a
+        temporary suspension of the order to add some protection to the data.
+      - The legal system of the country must not prevent the importer from notifying the exporter or
+        at least the competent supervisory authority from the EEA of the order or request for access
+        received.
+      - The importer will need to be able to document and demonstrate to the exporter the actions it
+        has taken, exercising its best efforts, to fulfil this commitment.
 
-120. Na mesma situação acima descrita, o importador poderá obrigar-se a informar a autoridade
-     pública requerente da incompatibilidade da ordem com as garantias contidas no instrumento de
-     transferência do artigo 46.º do RGPD 100 e do conflito de obrigações daí resultante para o
 
 
 
 100
-    Por exemplo, as cláusulas contratuais-tipo preveem que o tratamento dos dados, incluindo a sua
-transferência, foi e continuará a ser efetuado em conformidade com a «legislação sobre proteção de dados
-aplicável». A referida legislação é definida como «a legislação que protege os direitos e as liberdades
-fundamentais das pessoas e, em especial, o seu direito à proteção da vida privada no que diz respeito ao
+   For instance, the SCCs provide that the processing of data, including the transfer thereof, has been and will
+continue to be carried out in accordance with “the applicable data protection law”. This law is defined as “the
+legislation protecting the fundamental rights and freedoms of individuals and, in particular, their right to privacy
+with respect to the processing of personal data applicable to a data controller in the Member State in which the
+data exporter is established”. The CJEU confirms that the provisions of the GDPR, read in light of the EU Charter
+of Fundamental rights, form part of that legislation, see CJEU C-311/18 (Schrems II), paragraph 138.
 
 
+Adopted                                                                                                          41
+
+Empowering data subjects to exercise their rights
+
+122. The contract could provide that personal data transmitted in plain text in the normal course of
+     business (including in support cases) may only be accessed with the express or implied agreement
+     of the exporter and/or the data subject for a specific access to data.
+
+123. Conditions for effectiveness:
+
+        - This clause could be effective in those situations in which importers receive requests from
+          public authorities to cooperate on a voluntary basis, as opposed to e.g. data access by public
+          authorities that occurs without the data importer’s knowledge or against its will.
+        - In some situations the data subject may not be in a position to oppose the access or to give a
+          consent that meets all the conditions set out under EU law (freely given, specific, informed,
+          and unambiguous) (e.g in the case of employees).101.
+        - National regulations or policies compelling the importer not to disclose the order for access
+          may render this clause ineffective, unless it can be backed with technical methods requiring
+          the exporter’s or the data subject’s intervention for the data in plain text to be accessible. Such
+          technical measures to restrict access may be envisaged in particular if access is only granted in
+          specific support or service cases, but the data itself is stored in the EEA.
+
+                                                      ***
+
+124. The contract could oblige the importer and/or the exporter to notify promptly the data subject of
+     the request or order received from the public authorities of the third country, or of the importer’s
+     inability to comply with the contractual commitments, to enable the data subject to seek
+     information and an effective redress (e.g. by lodging a claim with his/her competent supervisory
+     authority and/or judicial authority and demonstrate his/her standing in the courts of the third
+     country), including compensation from the data importer for any material and non-material
+     damage suffered because of the disclosure of his/her personal data transferred under the chosen
+     transfer tool in violation of the commitments it contains.
+
+125. Conditions for effectiveness:
+
+        - This notification could alert the data subject to potential accesses by public authorities in third
+          countries to his/her data. It could thus enable the data subject to seek additional information
+          with the exporters and to lodge a claim with his/her competent supervisory authority. This
+          clause could also address and compensate some of the difficulties an individual may face in
+          demonstrating his/her standing (locus standi) before third country courts to challenge the
+          public authorities’ access to his/her data.
+        - National regulations and policies may prevent this notification to the data subject. The
+          exporter and importer could nonetheless commit to informing the data subject as soon as the
+          restrictions on the disclosure of data are lifted and to make its best efforts to obtain the waiver
+          of the prohibition to disclose. At a minimum, the exporter or the competent supervisory
+          authority could notify the data subject of the suspension or termination of the transfer of
+          his/her personal data due to the importer’s inability to comply with its contractual
+          commitments as a result of its receipt of a request for access.
 
 
-Adotado                                                                                              44
-
-     importador. O importador informará simultaneamente e logo que possível o exportador e/ou a
-     autoridade de controlo competente do EEE, na medida em que tal seja permitido pelo
-     ordenamento jurídico do país terceiro.
-
-121. Condições de eficácia:
-
-     - Estas informações sobre a proteção conferida pela legislação da UE e o conflito de obrigações
-       deverão produzir efeitos jurídicos no ordenamento jurídico do país terceiro, como a
-       fiscalização jurisdicional ou administrativa da ordem ou do pedido de acesso, a exigência de
-       um mandado judicial e/ou a suspensão temporária da ordem para permitir adicionar proteção
-       aos dados.
-     - O sistema jurídico do país não deve impedir o importador de notificar o exportador ou, pelo
-       menos, a autoridade de controlo competente do EEE da ordem ou do pedido de acesso
-       recebidos.
-     - O importador deve poder documentar e demonstrar ao exportador as medidas que adotou,
-       no exercício dos seus melhores esforços para cumprir tal compromisso.
-
-
-Conferir aos titulares dos dados os meios para exercerem os seus direitos
-
-122. O contrato poderá prever que os dados pessoais transmitidos em texto corrido no desempenho
-     normal da atividade (incluindo nos casos de apoio) só podem ser acedidos com o consentimento
-     expresso ou implícito do exportador e/ou do titular dos dados.
-
-123. Condições de eficácia:
-
-     - Esta cláusula poderá ser eficaz nas situações em que os importadores recebem pedidos das
-       autoridades públicas de cooperação voluntária, por oposição, por exemplo, ao acesso das
-       autoridades públicas aos dados que ocorre sem o conhecimento do importador de dados ou
-       contra a sua vontade.
-     - Em determinadas situações, o titular dos dados pode não estar em condições de se opor ao
-       acesso ou de dar um consentimento que satisfaça todas as condições estabelecidas na
-       legislação da UE (livre, específico, informado e inequívoco) (por ex., no caso de
-       funcionários).101
-     - As políticas ou os regulamentos nacionais que obriguem o importador a não divulgar a ordem
-       de acesso podem tornar a presente cláusula ineficaz, a menos que possa ser complementada
-       com métodos técnicos que exijam a intervenção do exportador ou do titular dos dados para
-       que os dados possam ser acessíveis em «texto corrido». As referidas medidas técnicas de
-       restrição do acesso podem ser previstas nomeadamente se o acesso apenas for concedido em
-       casos específicos de apoio ou assistência, mas os dados propriamente ditos estiverem
-       armazenados no EEE.
-
-
-
-
-tratamento dos seus dados pessoais, aplicável a um responsável pelo tratamento dos dados no Estado‑Membro
-em que o exportador de dados está estabelecido». O Tribunal de Justiça confirma que as disposições do RGPD,
-lidas à luz da Carta dos Direitos Fundamentais da UE, fazem parte desta legislação (ver acórdão Schrems II,
-n.º 138).
 101
-    Artigo 4.º, n.º 11, do RGPD.
+      Article 4(11) GDPR.
 
 
-Adotado                                                                                                 45
+Adopted                                                                                                   42
 
-                                                 ***
+                                                  ***
 
-124. O contrato poderá obrigar o importador e/ou o exportador a notificar imediatamente o titular
-     dos dados do pedido ou da ordem recebida das autoridades públicas do país terceiro ou da
-     impossibilidade de o importador cumprir os compromissos contratuais, a fim de permitir ao titular
-     dos dados procurar informações e uma via de recurso eficaz (por ex., apresentando uma
-     reclamação junto da respetiva autoridade de controlo competente e/ou autoridade judicial e
-     demonstrando a sua legitimidade processual nos tribunais do país terceiro), incluindo a
-     indemnização pelo importador de dados dos eventuais danos materiais e morais sofridos por
-     causa da divulgação dos dados pessoais do titular dos dados transferidos ao abrigo do
-     instrumento de transferência escolhido em violação dos compromissos que este contém.
+126. The contract could commit the exporter and importer to assist the data subject in exercising
+     his/her rights in the third country jurisdiction through ad hoc redress mechanisms and legal
+     counselling.
 
-125. Condições de eficácia:
+127. Conditions for effectiveness
 
-    - Esta notificação poderá alertar o titular dos dados para possíveis acessos das autoridades
-      públicas de países terceiros aos seus dados. Poderá, por conseguinte, permitir ao titular dos
-      dados solicitar informações adicionais aos exportadores e apresentar uma reclamação à
-      autoridade de controlo competente. Esta cláusula poderá igualmente abordar e compensar
-      algumas das dificuldades que um indivíduo poderá enfrentar para demonstrar a sua
-      legitimidade processual (locus standi) nos tribunais de países terceiros para contestar o acesso
-      das autoridades públicas aos seus dados.
-    - A regulamentação e as políticas nacionais podem impedir a referida notificação do titular dos
-      dados. O exportador e o importador poderão, no entanto, comprometer-se a informar o titular
-      dos dados logo que as restrições de divulgação dos dados sejam levantadas e a desenvolver os
-      seus melhores esforços para obter a derrogação da proibição de divulgação. No mínimo, o
-      exportador ou a autoridade de controlo competente poderão notificar o titular dos dados da
-      suspensão ou da cessação da transferência dos seus dados pessoais devido à impossibilidade
-      de o importador cumprir os seus compromissos contratuais, na sequência da receção de um
-      pedido de acesso.
-
-                                                 ***
-
-126. O exportador e o importador poderão obrigar-se contratualmente a auxiliar o titular dos dados
-     no exercício dos seus direitos na jurisdição do país terceiro através de mecanismos de recurso ad
-     hoc e de aconselhamento jurídico.
-
-127. Condições de eficácia
-
-    - Algumas regulamentações nacionais podem não permitir que o importador de dados preste
-      este tipo de assistência diretamente aos titulares dos dados, embora possam permitir que o
-      importador de dados obtenha esta assistência aos titulares dos dados.
-    - As políticas ou os regulamentos nacionais podem impor condições que podem comprometer
-      a eficácia dos processos de recurso ad hoc previstos.
-    - O aconselhamento jurídico poderá ser útil ao titular dos dados, sobretudo tendo em conta a
-      complexidade e o custo que poderão representar para um titular dos dados a compreensão
-      do sistema jurídico de um país terceiro e os processos legais instaurados no estrangeiro,
-      possivelmente numa língua estrangeira. No entanto, esta cláusula proporcionará sempre uma
-      proteção adicional limitada, uma vez que a prestação de assistência e aconselhamento jurídico
-      aos titulares dos dados não pode, por si só, corrigir o facto de o ordenamento jurídico de um
-
-
-Adotado                                                                                            46
-
-     país terceiro não prever um nível de proteção essencialmente equivalente ao garantido no
-     EEE. Esta medida contratual deverá necessariamente ser complementada por outras medidas
-     complementares.
-   - Esta medida complementar apenas será eficaz se a legislação do país terceiro disponibilizar a
-     vias de recurso nos tribunais nacionais ou se existir um mecanismo de recurso ad hoc, incluindo
-     para impugnação das medidas de vigilância.
+    - Some national regulations may not allow the data importer to provide this type of assistance
+      directly to data subjects, although they may allow the data importer to procure this assistance
+      for the data subjects.
+    - National regulations and policies may impose conditions that may undermine the effectiveness
+      of the ad hoc redress mechanisms provided for.
+    - Legal counselling could be helpful for the data subject, especially considering how complex and
+      costly it can be for a data subject to understand a third country’s legal system and to exercise
+      legal actions from abroad, potentially in a foreign language. However, this clause will always
+      offer a limited additional protection, as providing assistance and legal counselling to data
+      subjects cannot in itself remedy a third country’s legal order failure to provide for a level of
+      protection essentially equivalent to that guaranteed within the EEA. This contractual measure
+      will necessarily need to be complementary to other supplementary measures.
+    - This supplementary measure would only be effective provided that the law of the third country
+      provides for redress before its national courts or that an ad hoc redress mechanism exists,
+      including against surveillance measures.
 
 
 
+2.3 Organisational measures
+128. Additional organisational measures may consist of internal policies, organisational methods, and
+     standards controllers and processors could apply to themselves and impose on the importers of
+     data in third countries. They may contribute to ensuring consistency in the protection of personal
+     data during the full cycle of the processing. Organisational measures may also improve the
+     exporters’ awareness of risk of and attempts to gain access to the data in third countries, and
+     their capacity to react to them. Selecting and implementing one or several of these measures will
+     not necessarily and systematically ensure that your transfer meets the essential equivalence
+     standard that EU law requires. Depending on the specific circumstances of the transfer and the
+     assessment performed on the legislation of the third country, organisational measures are
+     needed to complement contractual and/or technical measures, in order to ensure a level of
+     protection of the personal data essentially equivalent to that guaranteed within the EEA.
 
-Adotado                                                                                          47
-
-2.3. Disposições organizativas
-128. As medidas organizativas adicionais podem consistir em políticas internas, métodos organizativos
-     e normas que os responsáveis pelo tratamento e subcontratantes podem aplicar e impor aos
-     importadores de dados em países terceiros. Podem contribuir para assegurar a coerência na
-     proteção dos dados pessoais ao longo de todo o ciclo de tratamento. As medidas organizativas
-     também podem melhorar a sensibilização dos exportadores para os riscos e tentativas de
-     obtenção de acesso aos dados em países terceiros, bem como a sua capacidade de reação. A
-     seleção e implementação de uma ou várias das referidas medidas não asseguram necessária e
-     sistematicamente que a transferência cumpre a norma de equivalência essencial exigida pela
-     legislação da UE. Em função das circunstâncias específicas da transferência e da avaliação da
-     legislação do país terceiro, são necessárias medidas organizativas para complementar as medidas
-     contratuais e/ou técnicas, a fim de garantir um nível de proteção dos dados pessoais
-     essencialmente equivalente ao garantido na UE.
-
-129. A avaliação das medidas mais adequadas deve ser realizada caso a caso, tendo presente a
-     necessidade de os responsáveis pelo tratamento e subcontratantes cumprirem o princípio da
-     responsabilidade. O CEPD apresenta a seguir alguns exemplos de medidas organizativas que os
-     exportadores podem implementar, embora a lista não seja exaustiva e outras medidas possam
-     ser igualmente adequadas.
+129. The assessment of the most suitable measures has to be done on a case by cases basis keeping in
+     mind the need for controllers and processors to respect the accountability principle. Below, the
+     EDPB lists some examples of organisational measures that exporters can implement, albeit the
+     list is not exhaustive and other measures may also be appropriate.
 
 
-Políticas internas de gestão de transferências, em especial entre grupos de empresas
+Internal policies for governance of transfers especially with groups of enterprises
 
-130. Adoção de políticas internas adequadas com a atribuição clara de responsabilidades em matéria
-     de transferências de dados, canais de comunicação e procedimentos operacionais normalizados
-     no caso de pedidos formais ou informais das autoridades públicas de acesso aos dados. Em
-     especial no caso de transferências entre grupos de empresas, estas políticas podem incluir, entre
-     outras, a nomeação de uma equipa específica, composta por peritos de informática, legislação
-     em matéria de proteção de dados e de privacidade, para tratar os pedidos que envolvam dados
-     pessoais transferidos do EEE; a notificação à direção jurídica e à direção geral da empresa após a
-     receção de tais pedidos; as medidas processuais de impugnação dos pedidos desproporcionados
-     ou ilícitos e a prestação de informações transparentes aos titulares dos dados.
-
-131. Desenvolvimento de procedimentos de formação específicos para o pessoal responsável pela
-     gestão dos pedidos de acesso a dados pessoais das autoridades públicas, os quais devem ser
-     atualizados periodicamente para refletir os novos desenvolvimentos legislativos e
-     jurisprudenciais no país terceiro e no EEE. Os procedimentos de formação devem incluir os
-     requisitos da legislação da UE quanto ao acesso aos dados pessoais pelas autoridades públicas,
-     nomeadamente por força do artigo 52.º, n.º 1, da Carta dos Direitos Fundamentais. É necessária
-     uma maior sensibilização do pessoal, nomeadamente mediante a avaliação de exemplos práticos
-     de pedidos de acesso aos dados por parte das autoridades públicas e da aplicação da norma
-     decorrente do artigo 52.º, n.º 1, da Carta dos Direitos Fundamentais a tais exemplos práticos. A
-     referida formação deve ter em conta a situação específica do importador de dados, por exemplo,
-     a legislação e a regulamentação do país terceiro a que o importador de dados está sujeito, e deve
-     ser desenvolvida, sempre que possível, em cooperação com o exportador de dados.
-
-132. Condições de eficácia:
+130. Adoption of adequate internal policies with clear allocation of responsibilities for data transfers,
+     reporting channels and standard operating procedures for cases of formal or informal requests
 
 
 
+Adopted                                                                                               43
 
-Adotado                                                                                             48
+        from public authorities to access the data. Especially in case of transfers among groups of
+        enterprises, these policies may include, among others, the appointment of a specific team,
+        composed of experts on IT, data protection and privacy laws, to deal with requests that involve
+        personal data transferred from the EEA; the notification to the senior legal and corporate
+        management and to the data exporter upon receipt of such requests; the procedural steps to
+        challenge disproportionate or unlawful requests and the provision of transparent information to
+        data subjects.
 
-        - Estas políticas apenas podem ser consideradas nos casos em que o pedido das autoridades
-          públicas do país terceiro é compatível com a legislação da UE 102. Sempre que o pedido seja
-          incompatível, tais políticas não serão suficientes para assegurar um nível de proteção dos dados
-          pessoais equivalente, e, conforme referido, as transferências devem ser interrompidas ou
-          devem ser adotadas medidas complementares adequadas para evitar o acesso.
+131. Development of specific training procedures for personnel in charge of managing requests for
+     access to personal data from public authorities, which should be periodically updated to reflect
+     new legislative and jurisprudential developments in the third country and in the EEA. The training
+     procedures should include the requirements of EU law as to access by public authorities to
+     personal data, in particular as following from Article 52 (1) of the Charter of Fundamental Rights.
+     Awareness of personnel should be raised in particular by means of assessment of practical
+     examples of public authorities’ data access requests and by applying the standard following from
+     Article 52(1) of the Charter of Fundamental Rights to such practical examples. Such training should
+     take into account the particular situation of the data importer, e.g. legislation and regulations of
+     the third country to which the data importer is subject to, and should be developed where
+     possible in cooperation with the data exporter.
 
+132. Conditions for effectiveness:
 
-Medidas de transparência e responsabilidade
-
-133. Documentação e registo dos pedidos de acesso recebidos das autoridades públicas e da resposta
-     fornecida, juntamente com a fundamentação jurídica e os intervenientes envolvidos (por ex., se
-     o exportador foi notificado e a sua resposta, a avaliação da equipa responsável pelo tratamento
-     dos pedidos, etc.). Estes registos deverão ser colocados à disposição do exportador de dados que,
-     por sua vez, deverá disponibilizá-los aos titulares dos dados.
-
-134. Condições de eficácia:
-
-        - A legislação nacional do país terceiro pode impedir a divulgação dos pedidos ou de
-          informações pertinentes dos mesmos e, por conseguinte, tornar esta prática ineficaz. O
-          importador de dados deverá informar o exportador da sua impossibilidade de fornecer estes
-          documentos e registos, a fim de dar ao exportador a possibilidade de interromper as
-          transferências se daí resultar a impossibilidade de proporcionar um nível adequado de
-          proteção.
-
-                                                         ***
-
-135. Publicação regular de relatórios sobre a transparência ou de resumos dos pedidos de acesso a
-     dados da administração pública e o tipo de resposta fornecida, na medida em que a publicação
-     seja permitida pelo direito nacional.
-
-136. Condições de eficácia:
-
-        - As informações fornecidas devem ser pertinentes, claras e o mais detalhadas possível. A
-          legislação nacional do país terceiro pode impedir a divulgação de informações detalhadas.
-          Nesses casos, o importador de dados deve desenvolver os seus melhores esforços para
-          publicar informação estatística ou informação agregada semelhante.
+        - These policies may only be envisaged for those cases where the request from public authorities
+          in the third country is compatible with EU law.102 When the request is incompatible, these
+          policies would not suffice to ensure an equivalent level of protection of the personal data and,
+          as said above, transfers must be stopped or appropriate supplementary measures to avoid the
+          access must be put in place.
 
 
-Métodos organizativos e medidas de minimização dos dados
+Transparency and accountability measures
 
-137. No contexto de uma transferência, podem ser igualmente úteis os requisitos organizativos já
-     existentes ao abrigo do princípio da responsabilidade, como a adoção de políticas e melhores
-     práticas rigorosas e detalhadas sobre o acesso aos dados e a confidencialidade, baseadas na
-     aplicação do princípio da «necessidade estrita de saber», controladas por auditorias regulares e
-     impostas por meio de medidas disciplinares. A minimização dos dados deve ser considerada a
-     este respeito, a fim de limitar a exposição dos dados pessoais a acessos não autorizados. Em
-     alguns casos, por exemplo, poderá não ser necessário transferir determinados dados (por ex., em
+133. Document and record the requests for access received from public authorities and the response
+     provided, alongside the legal reasoning and the actors involved (e.g. if the exporter has been
+     notified and its reply, the assessment of the team in charge of dealing with such requests, etc.).
+     These records should be made available to the data exporter, who should in turn provide them to
+     the data subjects concerned.
+
+134. Conditions for effectiveness:
+
+        - National legislation in the third country may prevent disclosure of the requests or substantial
+          information thereof and therefore render this practice ineffective. The data importer should
+          inform the exporter of its inability to provide such documents and records, thus offering the
+          exporter the option to suspend the transfers if such inability would lead to the failure to
+          provide an adequate level of protection.
+
+                                                        ***
+
 
 
 
 102
-      Ver Acórdão Schrems I, n.º 94; Acórdão Schrems II, n.os 168, 174, 175 e 176.
+      See Case C-362/14 (« Schrems I »), par. 94; C-311/18 (Schrems II), paragraphs 168, 174, 175 and 176.
 
 
-Adotado                                                                                                49
+Adopted                                                                                                      44
 
-    caso de acesso remoto a dados do EEE, como em casos de apoio, em que é concedido acesso
-    restrito em vez de acesso total; ou quando a prestação de um serviço exige apenas a transferência
-    de um conjunto limitado de dados e não da base de dados completa).
+135. Regular publication of transparency reports or summaries regarding governmental requests for
+     access to data and the kind of reply provided, insofar publication is allowed by local law.
 
-138. Condições de eficácia:
+136. Conditions for effectiveness:
 
-    - Devem ser realizadas auditorias regulares e impostas medidas disciplinares rigorosas a fim de
-      controlar e impor o cumprimento das medidas de minimização dos dados também no contexto
-      da transferência.
-    - O exportador de dados deve realizar uma avaliação dos dados pessoais na sua posse antes da
-      transferência, a fim de identificar os conjuntos de dados que não são necessários para os fins
-      da transferência e que, por conseguinte, não serão partilhados com o importador de dados.
-    - As medidas de minimização de dados devem ser acompanhadas de medidas técnicas para
-      assegurar que os dados não são sujeitos a acessos não autorizados. Por exemplo, a
-      implementação de mecanismos de computação multipartidária segura e a propagação de
-      conjuntos de dados encriptados entre diferentes entidades de confiança podem impedir por
-      defeito que qualquer acesso unilateral conduza à divulgação de dados identificáveis.
-
-                                                ***
-
-139. Desenvolvimento de melhores práticas para envolver de forma adequada e atempada e dar
-     acesso à informação ao encarregado da proteção de dados, caso exista, e aos serviços jurídicos e
-     de auditoria interna em matérias relacionadas com as transferências internacionais de dados
-     pessoais.
-
-140. Condições de eficácia:
-
-    - O encarregado da proteção de dados, caso exista, e a equipa jurídica e de auditoria interna
-      devem receber todas as informações pertinentes antes da transferência e devem ser
-      consultados sobre a necessidade da transferência e de garantias adicionais, caso aplicável.
-    - As informações pertinentes devem incluir, por exemplo, a avaliação da necessidade da
-      transferência dos dados pessoais específicos, uma visão geral da legislação do país terceiro
-      aplicável e as garantias que o importador se comprometeu a implementar.
+     - The information provided should be relevant, clear and as detailed as possible. National
+       legislation in the third country may prevent disclosure of detailed information. In those cases,
+       the data importer should employ its best efforts to publish statistical information or similar
+       type of aggregated information.
 
 
-Adoção de normas e melhores práticas
+Organisation methods and data minimisation measures
 
-141. Adoção de políticas rigorosas em matéria de segurança e de confidencialidade dos dados,
-     baseadas na certificação da UE, nos códigos de conduta europeus ou nas normas internacionais
-     (por ex., normas ISO) e nas melhores práticas (por ex., ENISA), tendo em devida conta os últimos
-     avanços, em conformidade com o risco das categorias de dados tratados.
+137. Already existing organisational requirements under the accountability principle, such as the
+     adoption of strict and granular data access and confidentiality policies and best practices, based
+     on a strict need-to-know principle, monitored with regular audits and enforced through
+     disciplinary measures may also be useful measures in a transfer context. Data minimisation should
+     be considered in this regard, in order to limit the exposure of personal data to unauthorised
+     access. For example, in some cases it might not be necessary to transfer certain data (e.g. in case
+     of remote access to EEA data, such as in support cases, when restricted access is granted instead
+     of full access; or when the provision of a service only requires the transfer of a limited set of data,
+     and not an entire database).
+
+138. Conditions for effectiveness:
+
+     - Regular audits and strong disciplinary measures should be in place in order to monitor and
+       enforce compliance with the data minimisation measures also in the transfer context.
+     - The data exporter shall perform an assessment of the personal data in its possession before
+       the transfer takes place, in order to identify those sets of data that are not necessary for the
+       purposes of the transfer and, therefore, won’t be shared with the data importer.
+     - Data minimisation measures should be accompanied with technical measures so as to ensure
+       that data are not subject to unauthorised access. For example, the implementation of secure
+       multiparty computation mechanisms and the spread of encrypted datasets among different
+       trusted entities can prevent by design that any unilateral access leads to the disclosure of
+       identifiable data.
+
+                                                    ***
+
+139. Development of best practices to appropriately and timely involve and provide access to
+     information to the data protection officer, if existent, and to the legal and internal auditing
+     services on matters related to international transfers of personal data transfers.
+
+140. Conditions for effectiveness:
+
+     - The data protection officer, if existent, and the legal and internal auditing team shall be
+       provided with all the relevant information prior to the transfer, and shall be consulted on the
+       necessity of the transfer and the additional safeguards, if any.
+     - Relevant information should include, for example, the assessment on the necessity of the
+       transfer of the specific personal data, an overview of the laws of the third country applicable
+       and the safeguards the importer committed to implement.
 
 
-Outros
 
-142. Adoção e revisão regular das políticas internas para avaliar a adequação das medidas
-     complementares implementadas e para identificar e implementar soluções adicionais ou
-     alternativas sempre que necessário, por forma a assegurar a manutenção de um nível de proteção
-     dos dados pessoais transferidos equivalente ao garantido no EEE.
+Adopted                                                                                                  45
+
+Adoption of standards and best practices
+
+141. Adoption of strict data security and data privacy policies, based on EU certification or codes of
+     conducts or on international standards (e.g. ISO norms) and best practices (e.g. ENISA) with due
+     regard to the state of the art, in accordance with the risk of the categories of data processed.
 
 
+Others
 
+142. Adoption and regular review of internal policies to assess the suitability of the implemented
+     complementary measures and identify and implement additional or alternative solutions when
+     necessary, to ensure that an essentially equivalent level of protection to that guaranteed within
+     the EEA of the personal data transferred is maintained.
 
-Adotado                                                                                           50
+                                                       ***
 
-                                                ***
-
-143. Compromissos do importador de dados de não proceder a qualquer transferência ulterior dos
-     dados pessoais no país terceiro ou noutros países terceiros ou de suspender as transferências em
-     curso sempre que não puder ser assegurado no país terceiro um nível de proteção dos dados
-     pessoais equivalente ao garantido no EEE. 103
+143. Commitments from the data importer to not engage in any onward transfer of the personal data
+     within the same or other third countries, or suspend ongoing transfers, when an essentially
+     equivalent level of protection of the personal data to that afforded within the EEA cannot be
+     guaranteed in the third country.103
 
 
 
 
 103
-      Acórdão Schrems II, n.os 135 e 137.
+      C-311/18 (Schrems II), paragraphs 135 and 137.
 
 
-Adotado                                                                                           51
+Adopted                                                                                            46
 
-ANEXO 3: POSSÍVEIS FONTES DE INFORMAÇÃO PARA A AVALIAÇÃO DE
-UM PAÍS TERCEIRO
-144. O importador de dados deve poder fornecer ao exportador as fontes e as informações pertinentes
-     relativas ao país terceiro onde está estabelecido e à legislação que lhe é aplicável. O exportador
-     e o importador podem consultar várias fontes de informação, tais como as que a seguir se
-     enumeram de forma não exaustiva e por ordem de preferência:
+ANNEX 3: POSSIBLE SOURCES OF INFORMATION TO ASSESS A THIRD
+COUNTRY
+144. Your data importer should be in a position to provide you with relevant sources and information
+     relating to the third country in which it is established, including the laws and the practices
+     applicable to the importer and the data transferred. You and the importer may refer to several
+     sources of information, such as the ones non-exhaustively listed below and presented by order of
+     preference:
 
-      - jurisprudência do Tribunal de Justiça da União Europeia (Tribunal de Justiça) e do Tribunal
-        Europeu dos Direitos Humanos (TEDH) 104, conforme referido nas recomendações das
-        Garantias Essenciais Europeias 105;
-      - decisões de adequação no país de destino se a transferência assentar numa base jurídica
-        diferente 106;
-      - deliberações e relatórios de organizações intergovernamentais, tais como o Conselho da
-        Europa 107, outros organismos regionais108; e organismos e agências da ONU (por ex., o
-        Conselho dos Direitos Humanos da ONU 109 e o Comité dos Direitos Humanos 110);
-      - relatórios e análises de redes reguladoras competentes, como a Assembleia Mundial da
-        Privacidade (GPA) 111;
-      - jurisprudência nacional ou decisões adotadas por autoridades judiciais ou administrativas
-        independentes competentes em matéria de privacidade e proteção de dados de países
-        terceiros;
-      - relatórios de órgãos parlamentares ou de supervisão independentes;
-      - relatórios baseados na experiência prática com casos anteriores de pedidos de divulgação de
-        autoridades públicas ou, na ausência de tais pedidos, de entidades ativas no mesmo setor que
-        o importador;
-      - Warrant canaries de outras entidades que tratam dados no mesmo domínio que o importador;
-      - relatórios elaborados ou encomendados por câmaras de comércio, associações empresariais,
-        profissionais e comerciais, agências governamentais diplomáticas, comerciais e de
-        investimento do exportador ou de outros países terceiros que exportam para o país terceiro
-        para o qual a transferência é efetuada;
+      - Case-law of the Court of Justice of the European Union (CJEU) and of the European Court of
+        Human Rights (ECtHR)104 as referred to in the European Essential Guarantees
+        recommendations;105
+      - Adequacy decisions in the country of destination if the transfer relies on a different legal
+        basis;106
+      - Resolutions and reports from intergovernmental organisations, such as the Council of
+        Europe,107 other regional bodies,108; and UN bodies and agencies (e.g. UN Human Rights
+        Council,109 Human Rights Committee110);
+      - Reports and analysis from competent regulatory networks, such as the Global Privacy
+        Assembly (GPA);111
+      - National case-law or decisions taken by independent judicial or administrative authorities
+        competent on data privacy and data protection of third countries;
+      - Reports of independent oversight or parliamentary bodies;
+      - Reports based on practical experience with prior instances of requests for disclosure from
+        public authorities, or the absence of such requests, from entities active in the same sector as
+        the importer;
+      - Warrant canaries of other entities processing data in the same field as the importer;
+      - Reports produced or commissioned by Chambers of commerce, business, professional and
+        trade associations, governmental diplomatic, trade and investment agencies of the exporter
+        or other third countries exporting to the third country to which the transfer is made;
+      - Reports from academic institutions, and civil society organizations (e.g. NGOs);
 
 
 
 104
-       Ver     ficha    da     jurisprudência   do     TEDH     sobre    vigilância  em     grande   escala:
+    See factsheet of the ECtHR jurisprudence on mass surveillance:
 https://www.echr.coe.int/Documents/FS_Mass_surveillance_ENG.pdf
 105
-    Ver Recomendações 02/2020 do CEPD sobre as garantias essenciais europeias relativas às medidas de
-vigilância, de 10 de novembro de 2020, https://edpb.europa.eu/our-work-tools/our-
-documents/recommendations/edpb-recommendations-022020-european-essential_en
+    EDPB Recommendations 02/2020 on the European Essential Guarantees for surveillance measures, 10
+November 2020, https://edpb.europa.eu/our-work-tools/our-documents/recommendations/edpb-
+recommendations-022020-european-essential_en
 106
-    Acórdão Schrems II, n.º 141; ver decisões de adequação emhttps://ec.europa.eu/info/law/law-topic/data-
-protection/international-dimension-data-protection/adequacy-decisions_en
+    C-311/18 (Schrems II), paragraph 141; see adequacy decisions in https://ec.europa.eu/info/law/law-
+topic/data-protection/international-dimension-data-protection/adequacy-decisions_en
 107
     https://www.coe.int/en/web/data-protection/reports-studies-and-opinions
 108
-     Ver, por exemplo, os relatórios nacionais da Comissão Interamericana de Direitos Humanos (CIDH),
+     See for instance country reports of the Inter-American Commission on Human Rights (IACHR),
 https://www.oas.org/en/iachr/reports/country.asp.
 109
-    Ver https://www.ohchr.org/EN/HRBodies/UPR/Pages/Documentation.aspx
+    See https://www.ohchr.org/EN/HRBodies/UPR/Pages/Documentation.aspx
 110
-    Ver:
-https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/TBSearch.aspx?Lang=en&TreatyID=8&DocTypeID=5
+    See:
+https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/TBSearch.aspx?Lang=en&TreatyID=8&DocTypeID
+=5
 111
-    Ver, por exemplo, https://globalprivacyassembly.org/wp-content/uploads/2020/10/Day-1-1_2a-Day-3-3_2b-
-v1_0-Policy-Strategy-Working-Group-WS1-Global-frameworks-and-standards-Report-Final.pdf
+     See e.g. https://globalprivacyassembly.org/wp-content/uploads/2020/10/Day-1-1_2a-Day-3-3_2b-v1_0-
+Policy-Strategy-Working-Group-WS1-Global-frameworks-and-standards-Report-Final.pdf
 
 
 
+Adopted                                                                                             47
 
-Adotado                                                                                                  52
-
-      - relatórios de instituições académicas, e organizações da sociedade civil (por ex., ONG).
-      - relatórios de fornecedores privados de informações empresariais sobre os riscos financeiros,
-        regulamentares e de reputação para as empresas;
-      - Warrant canaries do próprio importador 112;
-      - relatórios sobre a transparência, na condição de mencionarem expressamente o facto de não
-        terem sido recebidos pedidos de acesso. Os relatórios sobre a transparência omissos sobre
-        este aspeto não serão considerados elementos de prova suficientes, uma vez que estes
-        relatórios se centram, na maior parte dos casos, nos pedidos de acesso recebidos das
-        autoridades policiais e fornecem dados apenas sobre este aspeto, não se pronunciando sobre
-        os pedidos de acesso recebidos para fins da segurança nacional. Tal não significa que não
-        tenham sido recebidos pedidos de acesso, mas que estas informações não podem ser
-        partilhadas 113;
-      - Declarações internas ou registos do importador que indiquem expressamente que não foram
-        recebidos pedidos de acesso durante um período suficientemente longo; de preferência que
-        incluam a assunção da responsabilidade pelo importador e/ou emitidos por cargos internos
-        com alguma autonomia como auditores internos, encarregados da proteção de dados, etc. 114
+      - Reports from private providers of business intelligence on financial, regulatory and
+        reputational risks for companies;
+      - Warrant canaries of the importer itself;112
+      - Transparency reports, on the condition that they expressly mention the fact that no access
+        requests were received. Transparency reports merely silent on this point would not qualify as
+        sufficient evidence as these reports most often focus on access requests received from law
+        enforcement authorities and provide figures only on this aspect while remaining silent on
+        access requests for national security purposes received. This does not mean that no access
+        requests were received but rather that this information cannot be shared;113
+      - Internal statements or records of the importer expressly indicating that no access requests
+        were received for a sufficiently long period; and with a preference for statements and records
+        engaging the liability of the importer and/or issued by internal positions with some autonomy
+        such as internal auditors, DPOs, etc.114
 
 
 
 
 112
-    Ver condições para a consideração da experiência prática documentada do importador com casos anteriores
-relevantes de pedidos de acesso recebidos de autoridades públicas do país terceiro no n.º 47.
+    See conditions for the consideration of the documented practical experience of the importer with relevant
+prior instances of requests for access received from public authorities in the third country in paragraph 47.
 113
     Ibid.
 114
     Ibid.
 
 
-Adotado                                                                                                 53
+Adopted                                                                                                   48
 ```

@@ -1,19 +1,21 @@
 ---
-titulo: "Diretrizes 8/2020 sobre o direcionamento para os utilizadores das redes sociais"
+titulo: "Guidelines 8/2020 on the targeting of social media users"
 titulo_en: "Guidelines 8/2020 on the targeting of social media users"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2021-04-13'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-82020-on-the-targeting-of-social-media-users_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2021-11/edpb_guidelines_082020_on_the_targeting_of_social_media_users_pt_0.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2021-04/edpb_guidelines_082020_on_the_targeting_of_social_media_users_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 8/2020 sobre o direcionamento para os utilizadores das redes sociais
+# Guidelines 8/2020 on the targeting of social media users
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
@@ -22,2473 +24,2175 @@ fonte: © Comité Europeu para a Proteção de Dados — reutilização autoriza
 
 
 
-       Diretrizes 8/2020 sobre o direcionamento para os
-                  utilizadores das redes sociais
-                                 Versão 2.0
-                Adotadas em 13 de abril de 2021
+    Guidelines 8/2020 on the targeting of social media users
+
+                           Version 2.0
 
 
-                    Translations proofread by EDPB Members.
-                This language version has not yet been proofread.
+                    Adopted on 13 April 2021
 
 
 
 
-                                       1
-Adotadas
+                                1
+Adopted
 
-Histórico das versões
+Version history
 
 
- Versão 2.0   13 de abril de 2021     Adoção das diretrizes após consulta pública
- Versão 1.0   2 de setembro de 2020   Adoção das diretrizes para consulta pública
+ Version 2.1   7 July 2021        References to EDPB Guidelines 07/2020 amended
+ Version 2.0   13 April 2021      Adoption of the Guidelines after public consultation
+ Version 1.0   2 September 2020   Adoption of the Guidelines for public consultation
 
 
 
 
                                           2
-Adotadas
+Adopted
 
- ÍNDICE
-1      Introdução ....................................................................................................................................... 4
-2      Âmbito ............................................................................................................................................. 5
-3 Riscos para os direitos e liberdades dos utilizadores colocados pelo tratamento de dados
-pessoais ................................................................................................................................................... 6
-4      Intervenientes e funções................................................................................................................. 9
-    4.1         Utilizadores.............................................................................................................................. 9
-    4.2         Prestadores de redes sociais ................................................................................................. 10
-    4.3         Responsáveis pelo direcionamento....................................................................................... 11
-    4.4         Outros intervenientes pertinentes........................................................................................ 11
-    4.5         Funções e responsabilidades................................................................................................. 12
-5      Análise de diferentes mecanismos de direcionamento ................................................................ 14
-    5.1         Panorâmica............................................................................................................................ 14
-    5.2         Direcionamento com base em dados fornecidos.................................................................. 16
-       5.2.1           Dados fornecidos pelo utilizador ao prestador de redes sociais................................... 16
-           A.      Funções.............................................................................................................................. 17
-           B.      Fundamento jurídico ......................................................................................................... 18
-       5.2.2    Dados fornecidos pelo utilizador da plataforma de redes sociais ao responsável pelo
-       direcionamento ............................................................................................................................. 21
-           A.      Funções.............................................................................................................................. 22
-           B.      Fundamento jurídico ......................................................................................................... 23
-    5.3         Direcionamento com base em dados observados ................................................................ 23
-       5.3.1           Funções.......................................................................................................................... 25
-       5.3.2           Fundamento jurídico ..................................................................................................... 25
-    5.4         Direcionamento com base em dados inferidos..................................................................... 27
-       5.4.1           Funções.......................................................................................................................... 28
-       5.4.2           Fundamento jurídico ..................................................................................................... 29
-6      Transparência e direito de acesso................................................................................................. 30
-    6.1         Essência do acordo e informações a fornecer (artigo 26.º, n.º 2, do RGPD) ........................ 31
-    6.2         Direito de acesso (artigo 15.º)............................................................................................... 33
-7      Avaliações de impacto sobre a proteção de dados (AIPD)............................................................ 34
-8      Categorias especiais de dados....................................................................................................... 36
-    8.1         O que constitui uma categoria especial de dados................................................................. 36
-       8.1.1           Categorias especiais de dados pessoais explícitas ........................................................ 37
-       8.1.2           Categorias especiais de dados inferidos e combinados ................................................ 37
+TABLE OF CONTENTS
+1     Introduction..................................................................................................................................... 4
+2     Scope ............................................................................................................................................... 5
+3     Risks to the rights and freedoms of users posed by the processing of personal data.................... 6
+4     Actors and Roles.............................................................................................................................. 8
+    4.1        Users........................................................................................................................................ 8
+    4.2        Social media providers ............................................................................................................ 9
+    4.3        Targeters................................................................................................................................ 10
+    4.4        Other relevant actors ............................................................................................................ 10
+    4.5        Roles and responsibilities ...................................................................................................... 11
+5     Analysis of different targeting mechanisms.................................................................................. 13
+    5.1        Overview................................................................................................................................ 13
+    5.2        Targeting on the basis of provided data................................................................................ 14
+      5.2.1           Data provided by the user to the social media provider............................................... 14
+          A.      Roles .................................................................................................................................. 14
+          B.      Legal basis.......................................................................................................................... 16
+      5.2.2           Data provided by the user of the social media platform to the targeter...................... 19
+          A.      Roles .................................................................................................................................. 19
+          B.      Legal basis.......................................................................................................................... 20
+    5.3        Targeting on the basis of observed data ............................................................................... 20
+      5.3.1           Roles .............................................................................................................................. 22
+      5.3.2           Legal basis...................................................................................................................... 22
+    5.4        Targeting on the basis of inferred data................................................................................. 24
+      5.4.1           Roles .............................................................................................................................. 25
+      5.4.2           Legal basis...................................................................................................................... 25
+6     Transparency and right of access .................................................................................................. 26
+    6.1        Essence of the arrangement and information to provide (Article 26 (2) GDPR)................... 27
+    6.2        Right of access (Article 15) .................................................................................................... 28
+7     Data protection impact assessments (DPIA) ................................................................................. 30
+8     Special categories of data.............................................................................................................. 31
+    8.1        What constitutes a special category of data ......................................................................... 31
+      8.1.1           Explicit special categories of data ................................................................................. 32
+      8.1.2           Inferred and combined special categories of data........................................................ 32
+    8.2        The Article 9(2) exception of special categories of data made manifestly public................. 34
+                                                                             3
+Adopted
 
-
-                                                                              3
-Adotadas
-
-    8.2    A exceção do artigo 9.º, n.º 2, de categorias especiais de dados manifestamente tornados
-    públicos ............................................................................................................................................. 40
-9      Controlo conjunto e responsabilidade .......................................................................................... 41
-    9.1     Acordo e determinação das responsabilidades dos responsáveis conjuntos pelo tratamento
-    (artigo 26.º do RGPD) ........................................................................................................................ 41
-    9.2        Níveis de responsabilidade.................................................................................................... 43
+9     Joint 07/2008ship and responsibility ............................................................................................ 36
+    9.1     Joint controller arrangement and determination of responsibilities (Art. 26 GDPR) ........... 36
+    9.2     Levels of responsibility .......................................................................................................... 38
 
 
-O Comité Europeu para a Proteção de Dados
 
-Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE.
+The European Data Protection Board
 
-
-ADOTOU AS SEGUINTES DIRETRIZES
+Having regard to Article 70(1)(e) of Regulation 2016/679/EU of the European Parliament and of the
+Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+data and on the free movement of such data, and repealing Directive 95/46/EC.
 
 
-1 INTRODUÇÃO
-Um dos desenvolvimentos significativos no ambiente em linha da última década foi o aumento da
-utilização das redes sociais. Cada vez mais pessoas singulares utilizam as redes sociais para manterem
-o contacto com a família e os amigos, interagirem em redes profissionais ou para se ligarem em torno
-de interesses e de ideias partilhadas. Para efeitos das presentes diretrizes, entende-se por redes sociais
-as plataformas em linha que permitem o desenvolvimento de redes e de comunidades de utilizadores,
-entre os quais são partilhados conteúdos e informações1. As principais características das redes sociais
-incluem a capacidade de as pessoas singulares se registarem, a fim de criarem «contas» ou «perfis»
-para si, interagirem através da partilha de conteúdos gerados pelos utilizadores, ou por outros, e
-desenvolverem ligações e redes com outros utilizadores2.
+HAS ADOPTED THE FOLLOWING GUIDELINES
 
-Como parte do seu modelo de negócio, muitos prestadores de redes sociais disponibilizam serviços de
-direcionamento. Os serviços de direcionamento permitem às pessoas singulares ou coletivas
-(«responsáveis pelo direcionamento») transmitir mensagens específicas aos utilizadores das redes
-sociais, a fim de promover interesses comerciais, políticos, ou outros3. Uma característica distintiva do
-direcionamento é a perceção de adequação entre a pessoa ou o grupo objeto do direcionamento e a
-mensagem enviada. Segundo o pressuposto subjacente, quanto melhor for a adequação, maior será a
+
+1 INTRODUCTION
+A significant development in the online environment over the past decade has been the rise of social
+media. More and more individuals use social media to stay in touch with family and friends, to engage
+in professional networking or to connect around shared interests and ideas. For the purposes of these
+guidelines, social media are understood as online platforms that enable the development of networks
+and communities of users, among which information and content is shared.1 Key characteristics of
+social media include the ability for individuals to register in order to create “accounts” or “profiles” for
+themselves, to interact with one another by sharing user-generated or other content and to develop
+connections and networks with other users.2
+
+As part of their business model, many social media providers offer targeting services. Targeting
+services make it possible for natural or legal persons (“targeters”) to communicate specific messages
+to the users of social media in order to advance commercial, political, or other interests. 3 A
+distinguishing characteristic of targeting is the perceived fit between the person or group being
+targeted and the message that is being delivered. The underlying assumption is that the better the fit,
+the higher the reception rate (conversion) and thus the more effective the targeting campaign (return
+on investment).
+
+Mechanisms to target social media users have increased in sophistication over time. Organisations
+now have the ability to target individuals on the basis of a wide range of criteria. Such criteria may
+have been developed on the basis of personal data which users have actively provided or shared, such
+as their relationship status. Increasingly, however, targeting criteria are also developed on the basis of
+
 
 1
-  Outras funcionalidades proporcionadas pelas redes sociais podem incluir, por exemplo, a personalização, a
-integração de aplicações, os módulos sociais, a autenticação de utilizadores, a análise de dados e a publicação.
-As funcionalidades das redes sociais podem consistir numa oferta autónoma de responsáveis pelo tratamento
-ou podem ser integradas numa oferta de serviços mais ampla.
+   Additional functions provided by social media may include, for example, personalization, application
+integration, social plug-ins, user authentication, analytics and publishing. Social media functions may be a
+standalone offering of controllers or they may be integrated as part of a wider service offering.
 2
-  Para além das plataformas de redes sociais «tradicionais», outros exemplos de redes sociais incluem:
-plataformas de encontros, nas quais os utilizadores registados se apresentam para descobrir parceiros que
-possam encontrar na vida real; plataformas nas quais os utilizadores registados podem carregar os seus próprios
-vídeos, bem como comentar e estabelecer ligações para os vídeos de outras pessoas; ou videojogos, nos quais
-os utilizadores registados podem jogar em grupos, trocar informações ou partilhar as suas experiências e
-conquistas no jogo.
+  In addition to “traditional” social media platforms, other examples of social media include: dating platforms
+where registered users present themselves to find partners they can date in real life; platforms where registered
+users can upload their own videos, comment on and link to other’s videos; or computer games where registered
+users may play together in groups, exchange information or share their experiences and successes within the
+game.
 3
-  O direcionamento foi definido como «o ato de dirigir ou visar algo a um determinado grupo de pessoas» e como
-«o ato de tentar apelar a uma pessoa ou a um grupo, ou de os influenciar de alguma forma».
-(https://www.collinsdictionary.com/dictionary/english/targeting).
-                                                        4
-Adotadas
+  Targeting has been defined as “the act of directing or aiming something at a particular group of people” and
+“the act of attempting to appeal to a person or group or to influence them in some way”.
+https://www.collinsdictionary.com/dictionary/english/targeting.
+                                                         4
+Adopted
 
-taxa de receção (conversão) e, portanto, mais eficaz será a campanha de direcionamento (retorno do
-investimento).
+personal data which has been observed or inferred, either by the social media provider or by third
+parties, and collected (aggregated) by the platform or by other actors (e.g. data brokers) to support
+ad-targeting options. In other words, the targeting of social media users involves not just the act of
+“selecting” the individuals or groups of individuals that are the intended recipients of a particular
+message (the ‘target audience’), but rather it involves an entire process carried out by a set of
+stakeholders which results in the delivery of specific messages to individuals with social media
+accounts.4
 
-Ao longo do tempo, a sofisticação dos mecanismos utilizados para efetuar o direcionamento para os
-utilizadores das redes sociais aumentou. As organizações têm agora a capacidade de efetuar o
-direcionamento a pessoas singulares com base num vasto leque de critérios. Esses critérios podem ter
-sido desenvolvidos com recurso a dados pessoais que os utilizadores forneceram ou partilharam de
-forma ativa, tais como informações sobre o seu estado civil. No entanto, os critérios de direcionamento
-são também cada vez mais desenvolvidos com base em dados pessoais que foram observados ou
-inferidos, pelo prestador de redes sociais ou por terceiros, e recolhidos (agregados) pela plataforma
-ou por outros intervenientes (por exemplo, corretores de dados), de modo a servir de apoio às opções
-de direcionamento de publicidade. Por outras palavras, o direcionamento para os utilizadores das
-redes sociais implica não só o ato de «selecionar» as pessoas singulares ou os grupos de pessoas
-singulares que são os destinatários visados de uma determinada mensagem (a «audiência-objetivo»),
-mas também todo um processo executado por um conjunto de partes interessadas que resulta no
-envio de mensagens específicas a pessoas singulares que têm contas nas redes sociais4.
-
-A combinação e análise de dados provenientes de diferentes fontes, em conjunto com a natureza
-potencialmente sensível dos dados pessoais tratados no contexto das redes sociais5, gera riscos para
-os direitos e liberdades fundamentais das pessoas singulares. Do ponto de vista da proteção de dados,
-muitos dos riscos dizem respeito à eventual falta de transparência e de controlo pelos utilizadores.
-Para as pessoas singulares em causa, o tratamento subjacente de dados pessoais que resulta no envio
-de uma mensagem direcionada é, frequentemente, opaco. Além disso, pode envolver utilizações
-imprevistas ou indesejadas de dados pessoais, o que suscita questões não só a respeito do direito em
-matéria de proteção de dados, mas também de outros direitos e liberdades fundamentais.
-Recentemente, o direcionamento nas redes sociais adquiriu maior interesse público e controlo
-regulamentar no contexto do processo democrático de tomada de decisões e dos processos eleitorais6.
+The combination and analysis of data originating from different sources, together with the potentially
+sensitive nature of personal data processed in the context of social media 5 , creates risks to the
+fundamental rights and freedoms of individuals. From a data protection perspective, many risks relate
+to the possible lack of transparency and user control. For the individuals concerned, the underlying
+processing of personal data which results in the delivery of a targeted message is often opaque.
+Moreover, it may involve unanticipated or undesired uses of personal data, which raise questions not
+only concerning data protection law, but also in relation to other fundamental rights and freedoms.
+Recently, social media targeting has gained increased public interest and regulatory scrutiny in the
+context of democratic decision making and electoral processes.6
 
 
-2 ÂMBITO
-O direcionamento para os utilizadores das redes sociais pode envolver uma série de intervenientes
-diferentes que, para efeitos das presentes diretrizes, serão divididos em quatro grupos: os prestadores
-de redes sociais, os seus utilizadores, os responsáveis pelo direcionamento e outros intervenientes que
-possam participar no processo de direcionamento. A importância da identificação correta das funções
-e das responsabilidades dos vários intervenientes foi recentemente sublinhada pelos acórdãos
-Wirtschaftsakademie e Fashion ID do Tribunal de Justiça da União Europeia (TJUE)7. Ambos os acórdãos
+2 SCOPE
+Targeting of social media users may involve a variety of different actors which, for the purposes of
+these guidelines, shall be divided into four groups: social media providers, their users, targeters and
+other actors which may be involved in the targeting process. The importance of correctly identifying
+the roles and responsibilities of the various actors has recently been highlighted with the judgments in
+Wirtschaftsakademie and Fashion ID of the Court of Justice of the European Union (CJEU). 7 Both
+judgments demonstrate that the interaction between social media providers and other actors may give
+rise to joint responsibilities under EU data protection law.
+
+Taking into account the case law of the CJEU, as well as the provisions of the GDPR regarding joint
+controllers and accountability, the present guidelines offer guidance concerning the targeting of social
+media users, in particular as regards the responsibilities of targeters and social media providers. Where
+joint responsibility exists, the guidelines will seek to clarify what the distribution of responsibilities
+might look like between targeters and social media providers on the basis of practical examples.8
+
+
+
 
 4
-  Normalmente, as mensagens enviadas consistem em imagens e texto, mas podem também envolver formatos
-de vídeo e/ou áudio.
+  The messages delivered typically consist of images and text, but may also involve video and/or audio formats.
 5
-  Os dados pessoais tratados no contexto das redes sociais podem constituir «categorias especiais de dados
-pessoais» nos termos do artigo 9.º do RGPD, dizer respeito a pessoas singulares vulneráveis, ou, de qualquer
-outro modo, ser de natureza altamente pessoal. Ver também Orientações relativas à Avaliação de Impacto sobre
-a Proteção de Dados (AIPD) e que determinam se o tratamento é «suscetível de resultar num elevado risco» para
-efeitos do Regulamento (UE) 2016/679, do Grupo de Trabalho do Artigo 29.º para a Proteção de Dados,
-WP 248 rev. 01, p. 9.
+  Personal data processed in the context of social media may constitute ‘special categories of personal data’
+pursuant to Article 9 GDPR, relate to vulnerable individuals, or otherwise be of a highly personal nature. See also
+Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and
+determining whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679, WP
+248 rev. 01, p. 9.
 6
-   Ver, por exemplo: https://edpb.europa.eu/sites/edpb/files/files/file1/edpb-2019-03-13-statement-on-
-elections_pt.pdf;        https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/07/findings-
+   See, for example: https://edpb.europa.eu/sites/edpb/files/files/file1/edpb-2019-03-13-statement-on-
+elections_en.pdf;         https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/07/findings-
 recommendations-and-actions-from-ico-investigation-into-data-analytics-in-political-campaigns/;
 https://ec.europa.eu/commission/sites/beta-political/files/soteu2018-data-protection-law-electoral-guidance-
 638_en.pdf; https://www.personuvernd.is/information-in-english/greinar/nr/2880.
 7
-  Acórdão do TJUE de 5 de junho de 2018 no processo C-210/16, Wirtschaftsakademie, ECLI:EU:C:2018:388;
-Acórdão do TJUE de 29 de julho de 2019 no processo C-40/17, Fashion ID, ECLI:EU:C:2019:629.
-                                                       5
-Adotadas
-
-demonstram que a interação entre os prestadores de redes sociais e outros intervenientes pode
-originar responsabilidades conjuntas ao abrigo do direito da UE em matéria de proteção de dados.
-
-Tendo em conta a jurisprudência do TJUE, bem como as disposições do RGPD relativas aos
-responsáveis conjuntos pelo tratamento e à responsabilidade, as presentes diretrizes proporcionam
-orientações a respeito do direcionamento para os utilizadores das redes sociais, em especial no que se
-refere às responsabilidades dos prestadores de redes sociais e dos responsáveis pelo direcionamento.
-Sempre que existir responsabilidade conjunta, as diretrizes procurarão clarificar como poderá ser
-configurada a repartição das responsabilidades entre os responsáveis pelo direcionamento e os
-prestadores de redes sociais, com base em exemplos práticos8.
-
-As presentes diretrizes têm como principal objetivo, por conseguinte, clarificar as funções e as
-responsabilidades do prestador de redes sociais e do responsável pelo direcionamento. Para tal, as
-diretrizes identificam também os potenciais riscos para os direitos e liberdades das pessoas singulares
-(secção 3) e os principais intervenientes e as respetivas funções (secção 4). Abordam igualmente a
-aplicação de requisitos fundamentais em matéria de proteção de dados (tais como a licitude e a
-transparência, a AIPD, etc.), bem como elementos fundamentais de acordos entre os prestadores de
-redes sociais e os responsáveis pelo direcionamento.
-
-Todavia, o âmbito das presentes diretrizes abrange as relações entre os utilizadores registados de uma
-rede social, os seus prestadores e os responsáveis pelo direcionamento. A análise exaustiva de
-cenários, tais como pessoas singulares não registadas em prestadores de redes sociais, não se
-enquadra no âmbito das presentes diretrizes.
-
-
-3 RISCOS PARA OS DIREITOS E LIBERDADES DOS UTILIZADORES
-  COLOCADOS PELO TRATAMENTO DE DADOS PESSOAIS
-O RGPD sublinha a importância de avaliar e atenuar adequadamente quaisquer riscos para os direitos
-e liberdades das pessoas singulares resultantes do tratamento de dados pessoais9. Os mecanismos que
-podem ser utilizados para o direcionamento para os utilizadores das redes sociais, bem como as
-operações de tratamento subjacentes que permitem o direcionamento, podem colocar riscos
-significativos. As presentes diretrizes não procuram facultar uma lista exaustiva dos eventuais riscos
-para os direitos e liberdades das pessoas singulares. Todavia, o CEPD considera importante assinalar
-determinados tipos de riscos e apresentar exemplos de como podem manifestar-se.
-
-O direcionamento para os utilizadores das redes sociais pode implicar utilizações de dados pessoais
-que colidam com as expectativas razoáveis das pessoas singulares, ou as excedam, violando assim os
-princípios e as regras aplicáveis em matéria de proteção de dados. Por exemplo, a combinação
-realizada pela plataforma de redes sociais, de dados pessoais de fontes terceiras com dados divulgados
-pelos utilizadores da sua plataforma pode resultar numa utilização dos dados pessoais que excede a
-
+  CJEU, Judgment in Wirtschaftsakademie, 5 June 2018, C-210/16, ECLI:EU:C:2018:388; CJEU, Judgment in
+Fashion ID, 29 July 2019, C-40/17, ECLI:EU:C:2019:629.
 8
-  As presentes orientações não prejudicam as «Guidelines 07/2020 on the concepts of controller and processor
-in the GDPR» (Diretrizes 07/2020 relativas aos conceitos de responsável pelo tratamento e de subcontratante
-do RGPD) do CEPD, adotadas em 2 de setembro de 2020, a respeito da repartição das responsabilidades noutros
-contextos.
+  The present guidance is without prejudice to the EDPB Guidelines 07/2020 on the concepts of controller and
+processor under the GDPR adopted on 07 July 2021, concerning the distribution of responsibilities in other
+contexts.
+                                                         5
+Adopted
+
+The main aim of these guidelines is therefore to clarify the roles and responsibilities among the social
+media provider and the targeter. In order to do so, the guidelines also identify the potential risks for
+the rights and freedoms of individuals (section 3), the main actors and their roles (section 4), and tackle
+the application of key data protection requirements (such as lawfulness and transparency, DPIA, etc.)
+as well as key elements of arrangements between social media providers and the targeters.
+
+Nevertheless, the scope of these Guidelines covers the relationships between the registered users of
+a social network, its providers, as well as the targeters. Thorough analysis, of scenarios, such as
+individuals that are not-registered with social media providers does not fall under the scope of the
+present guidelines.
+
+
+3 RISKS TO THE RIGHTS AND FREEDOMS OF USERS POSED BY THE
+  PROCESSING OF PERSONAL DATA
+The GDPR underlines the importance of properly evaluating and mitigating any risks to the rights and
+freedoms of individuals resulting from the processing of personal data.9 The mechanisms that can be
+used to target social media users, as well as the underlying processing activities that enable targeting,
+may pose significant risks. These guidelines do not seek to provide an exhaustive list of the possible
+risks to the rights and freedoms of individuals. Nonetheless, the EDPB considers it important to point
+out certain types of risks and to provide a number of examples how they may manifest themselves.
+
+Targeting of social media users may involve uses of personal data that go against or beyond individuals’
+reasonable expectations and thereby infringes applicable data protection principles and rules. For
+example, where a social media platform combines personal data from third-party sources with data
+disclosed by the users of its platform, this may result in personal data being used beyond their initial
+purpose and in ways the individual could not reasonably anticipate. The profiling activities that are
+connected to targeting might involve an inference of interests or other characteristics, which the
+individual had not actively disclosed, thereby undermining the individual’s ability to exercise control
+over his or her personal data.10 Moreover, a lack of transparency regarding the role of the different
+actors and the processing operations involved may undermine, complicate or hinder the exercise of
+data subject rights.
+
+A second type of risk concerns the possibility of discrimination and exclusion. Targeting of social media
+users may involve criteria that, directly or indirectly, have discriminatory effects relating to an
+individual’s racial or ethnic origin, health status or sexual orientation, or other protected qualities of
+the individual concerned. For example, the use of such criteria in the context of advertising related to
+job offers, housing or credit (loans, mortgages) may reduce the visibility of opportunities to persons
+within certain groups of individuals. The potential for discrimination in targeting arises from the ability
+for advertisers to leverage the extensive quantity and variety of personal data (e.g. demographics,
+
 9
-  De acordo com o artigo 24.º do RGPD, o responsável pelo tratamento deve aplicar as medidas técnicas e
-organizativas adequadas para assegurar e poder comprovar que o tratamento é realizado em conformidade com
-o RGPD, «[t]endo em conta a natureza, o âmbito, o contexto e as finalidades do tratamento dos dados, bem
-como os riscos para os direitos e liberdades das pessoas singulares». Ver também Orientações relativas à
-Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que determinam se o tratamento é «suscetível de
-resultar num elevado risco» para efeitos do Regulamento (UE) 2016/679, do Grupo de Trabalho do Artigo 29.º,
-WP 248 rev.01, de 4 de outubro de 2017.
-                                                      6
-Adotadas
-
-sua finalidade inicial, de formas que a pessoa singular não poderia razoavelmente prever. As operações
-de definição de perfis associadas ao direcionamento podem implicar uma inferência de interesses ou
-de outras características, que a pessoa singular não tinha divulgado de forma ativa, comprometendo
-assim a sua capacidade de exercer o controlo dos seus dados pessoais 10 . Além disso, a falta de
-transparência a respeito das funções dos diferentes intervenientes e das operações de tratamento
-envolvidas pode comprometer, complicar ou dificultar o exercício dos direitos do titular dos dados.
-
-Um segundo tipo de risco diz respeito à possibilidade de discriminação e de exclusão. O
-direcionamento para os utilizadores das redes sociais pode envolver critérios que, direta ou
-indiretamente, tenham efeitos discriminatórios relacionados com a origem racial ou étnica, o estado
-de saúde ou a orientação sexual, ou ainda com outras qualidades protegidas da pessoa singular em
-causa. Por exemplo, a utilização de tais critérios no contexto da publicidade relacionada com ofertas
-de emprego, com a habitação ou com o crédito (empréstimos, hipotecas) pode reduzir a visibilidade
-das oportunidades para pessoas que pertencem a determinados grupos. O potencial de discriminação
-no direcionamento deriva da capacidade de os anunciantes aproveitarem a extensa quantidade e
-variedade de dados pessoais (por exemplo, dados demográficos, comportamentais e relativos a
-interesses) que as plataformas de redes sociais reúnem sobre os seus utilizadores11. Estudos recentes
-indicam que o potencial para efeitos discriminatórios também existe sem a utilização de critérios
-diretamente associados a categorias especiais de dados pessoais na aceção do artigo 9.º do RGPD12.
-
-Uma segunda categoria de risco diz respeito a uma eventual manipulação dos utilizadores. Os
-mecanismos de direcionamento são, por definição, utilizados de modo a influenciar o comportamento
-e as escolhas das pessoas singulares, quer em termos das suas decisões de compra enquanto
-consumidores, quer em termos das suas decisões políticas enquanto cidadãos que participam na vida
-cívica 13 . No entanto, determinadas abordagens de direcionamento podem chegar ao ponto de
-comprometer a autonomia e a liberdade individuais (por exemplo, ao enviar mensagens
-individualizadas, que são concebidas com o objetivo de explorar ou até mesmo de acentuar certas
-vulnerabilidades, preocupações ou valores pessoais). Por exemplo, uma análise de conteúdos
-partilhados através das redes sociais pode revelar informações sobre o estado emocional (por
-exemplo, através de uma análise da utilização de determinadas palavras-chave). Essas informações
-poderiam ser utilizadas para o direcionamento para a pessoa singular de mensagens específicas e em
-momentos específicos, nos quais se prevê que esteja mais recetiva, influenciando assim sub-
-repticiamente o seu processo de reflexão, emoções e comportamento14.
-
-
-
+  According to Article 24 of the GDPR, the controller shall implement appropriate technical and organizational
+measures to ensure and be able to demonstrate that processing is performed in accordance with the GDPR,
+“taking into account the nature, scope, context and purposes of processing as well as the risks of varying
+likelihood and severity for the rights and freedoms of natural persons”. See also Article 29 Working Party,
+Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is “likely to result
+in a high risk” for the purposes of Regulation 2016/679, WP248 rev. 01, 4 October 2017.
 10
-   Ver também Parecer 3/2018 sobre a manipulação em linha, da Autoridade Europeia para a Proteção de Dados,
-de 19 de março de 2018, p. 15 («A preocupação quanto à utilização de dados de perfis para diferentes finalidades
-através de algoritmos é que os dados percam o seu contexto original. A atribuição de uma nova finalidade aos
-dados é suscetível de afetar a autodeterminação da informação de uma pessoa e reduzir ainda mais o controlo
-dos titulares dos dados sobre os seus dados, afetando assim a confiança nos ambientes e nos serviços digitais»).
+   See also European Data Protection Supervisor, EDPS Opinion on online manipulation, Opinion 3/2018, 19
+March 2018, p. 15 (“The concern of using data from profiles for different purposes through algorithms is that the
+data loses its original context. Repurposing of data is likely to affect a person’s informational self-determination,
+further reduce the control of data subjects’ over their data, thus affecting the trust in digital environments and
+services.”).
+                                                           6
+Adopted
+
+behavioral data and interests) that social media platforms gather about their users.11 Recent research
+suggests that the potential for discriminatory effects exists also without using criteria that are directly
+linked to special categories of personal data in the sense of Article 9 of the GDPR.12
+
+A second category of risk relates to potential possible manipulation of users. Targeting mechanisms
+are, by definition, used in order to influence the behaviour and choices of individuals, whether it be in
+terms of their purchasing decisions as consumers or in terms of their political decisions as citizens
+engaged in civic life.13 Certain targeting approaches may however go so far as to undermine individual
+autonomy and freedom (e.g. by delivering individualized messages designed to exploit or even
+accentuate certain vulnerabilities, personal values or concerns). For example, an analysis of content
+shared through social media can reveal information about the emotional state (e.g. through an analysis
+of the use of certain key words). Such information could be used to target the individual with specific
+messages and at specific moments to which he or she is expected to be more receptive, thereby
+surreptitiously influencing his or her thought process, emotions and behaviour.14
+
+Mechanisms to target social media users can also be used to unduly influence individuals when it
+comes to political discourse and democratic electoral processes.15 While ‘traditional’ offline political
+campaigning intends to influence voters’ behaviour via messages that are generally available and
+retrievable (verifiable), the available online targeting mechanisms enable political parties and
+campaigns to target individual voters with tailored messages, specific to the particular needs, interests
+and values of the target audience.16 Such targeting might even involve disinformation or messages that
+individuals find particularly distressing, and are therefore (more) likely to stimulate a certain emotion
+or reaction by them. When polarising or untruthful (disinformation) messages are targeted at specific
+individuals, with no or limited contextualisation or exposure to other viewpoints, the use of targeting
+mechanisms can have the effect of undermining the democratic electoral process.17
+
+In the same vein, the use of algorithms to determine which information is displayed to which
+individuals may adversely affect the likelihood of access to diversified sources of information in relation
+to a particular subject matter. This may in turn have negative consequences for the pluralism of public
+debate and access to information.18 Targeting mechanisms can be used to augment the visibility of
+certain messages, while giving less prominence to others. The potential adverse impact may be felt at
+two levels. On the one hand, there are risks related to so-called ‘filter-bubbles’ where people are
+exposed to ‘more-of-the-same’ information and encounter fewer opinions, resulting in increased
+
+
 11
-   T. Speicher et al., «Potential for Discrimination in Online Targeted Advertising» (Potencial para discriminação
-em publicidade direcionada em linha), «Proceedings of the 1st Conference on Fairness, Accountability and
-Transparency» (Procedimentos da 1.ª conferência sobre a lealdade, a responsabilidade e a transparência),
-Proceedings       of     Machine      Learning     Research,     PMLR     81:5-19,     2018,     disponível    em
+   T. Speicher a.o., Potential for Discrimination in Online Targeted Advertising, Proceedings of the 1st Conference
+on Fairness, Accountability and Transparency, Proceedings of Machine Learning Research PMLR 81:5-19, 2018,
 http://proceedings.mlr.press/v81/speicher18a.html.
 12
    Idem.
 13
-   Parecer 3/2018, da Autoridade Europeia para a Proteção de Dados, p. 18.
+   European Data Protection Supervisor, Opinion 3/2018, p. 18.
 14
-    Ver «Experimental evidence of massive-scale emotional contagion through social networks» (Dados
-experimentais de contágio emocional em massa através das redes sociais), Adam D. I. Kramer, Jamie E. Guillory
-e Jeffrey T. Hancock, PNAS, 17 de junho de 2014, 111 (24) 8788-8790; primeira publicação de 2 de junho de 2014,
-https://doi.org/10.1073/pnas.1320040111, disponível em: https://www.pnas.org/content/111/24/8788, Adam
-D. I. Kramer Core Data Science Team, Facebook, Inc., Menlo Park, CA 94025.
-                                                          7
-Adotadas
-
-Os mecanismos utilizados para o direcionamento para os utilizadores das redes sociais também podem
-ser utilizados para influenciar indevidamente as pessoas singulares no que diz respeito ao discurso
-político e aos processos eleitorais democráticos15. Embora a campanha política «tradicional» fora de
-linha pretenda influenciar o comportamento dos eleitores através de mensagens geralmente
-disponíveis e recuperáveis (verificáveis), os mecanismos disponíveis de direcionamento em linha
-permitem que as campanhas e os partidos políticos efetuem o direcionamento de mensagens
-personalizadas para eleitores individuais, específicas para as necessidades, interesses e valores
-particulares da audiência-objetivo16. Esse direcionamento pode mesmo envolver desinformação ou
-mensagens que as pessoas singulares considerem especialmente angustiantes e que sejam, por
-conseguinte, (mais) suscetíveis de estimular uma determinada emoção ou reação da sua parte.
-Quando são direcionadas mensagens polarizantes ou inverídicas (desinformação) para pessoas
-singulares específicas, com pouca ou nenhuma contextualização ou exposição a outros pontos de vista,
-a utilização de mecanismos de direcionamento pode comprometer o processo eleitoral democrático17.
-
-No mesmo sentido, a utilização de algoritmos para determinar que informações são apresentadas a
-pessoas singulares específicas pode afetar negativamente a probabilidade de acesso a fontes de
-informação diversificadas a respeito de um determinado assunto, o que pode, por sua vez, acarretar
-consequências negativas para o pluralismo do debate público e para o acesso à informação 18 . Os
-mecanismos de direcionamento podem ser utilizados para aumentar a visibilidade de determinadas
-mensagens, dando simultaneamente menos proeminência a outras. O potencial impacto negativo
-pode ser sentido a dois níveis. Por um lado, existem riscos relacionados com as chamadas «bolhas-
-filtro», nas quais as pessoas são expostas a informações iguais e encontram menos opiniões, o que
-resulta numa maior polarização política e ideológica 19 . Por outro lado, os mecanismos de
-direcionamento podem também criar riscos de «excesso de informações». Nessa situação, as pessoas
-singulares não conseguem tomar uma decisão informada, porque possuem demasiadas informações
-e não são capazes de apurar se são fiáveis.
-
-A recolha de dados pessoais pelos prestadores de redes sociais pode não se limitar às atividades que
-as pessoas singulares realizam na própria plataforma de redes sociais. O direcionamento para os
-utilizadores das redes sociais com base em informações relativas ao seu comportamento de
-navegação, ou a outras atividades fora da plataforma de redes sociais, pode dar às pessoas singulares
-a sensação de que o seu comportamento é sistematicamente controlado, o que pode ter um efeito
-inibidor sobre a liberdade de expressão, incluindo no acesso à informação20. Esses efeitos podem ser
-exacerbados se o direcionamento se basear igualmente na análise dos conteúdos partilhados pelos
-
-
-
+   See ‘Experimental evidence of massive-scale emotional contagion through social networks’, Adam D. I. Kramer,
+Jamie E. Guillory, and Jeffrey T. Hancock, PNAS June 17, 2014 111 (24) 8788-8790; first published June 2, 2014
+https://doi.org/10.1073/pnas.1320040111, available at: https://www.pnas.org/content/111/24/8788 Adam D.
+I. Kramer Core Data Science Team, Facebook, Inc., Menlo Park, CA 94025.
 15
-   Ver também Declaração 2/2019 relativa à utilização de dados pessoais no decurso das campanhas políticas, do
-Comité Europeu para a Proteção de Dados, de 13 de março de 2019, p. 1.
+   See also European Data Protection Board, Statement 2/2019 on the use of personal data in the course of
+political campaigns, 13 March 2019, p. 1.
 16
-   «Democracy disrupted? Personal information and political influence» (Democracia perturbada? Informações
-pessoais e influência política), do Gabinete do Comissário para a Informação (ICO), de 10 de julho de 2018, p. 14.
+   Information Commissioner’s Office (ICO), Democracy disrupted? Personal information and political influence,
+10 July 2018, p. 14.
 17
-   Ver também Orientações da Comissão sobre a aplicação do direito da União em matéria de proteção de dados
-no contexto eleitoral – Uma contribuição da Comissão Europeia para a reunião dos dirigentes em Salzburgo, de
-19 a 20 de setembro de 2018, da Comissão Europeia. Ver também L.M. Neudert e N.M. Marchal, «Polarisation
-and the use of technology in political campaigns and communication» (A polarização e a utilização de tecnologia
-na comunicação e campanhas políticas), Serviço de Estudos do Parlamento Europeu, 2019, p. 22 a 24.
+   See also European Commission, Commission Guidance on the application of Union data protection law in the
+electoral context, A contribution from the European Commission to the Leaders’ meeting in Salzburg on 19-20
+September 2018. See also L.M. Neudert and N.M. Marchal, Polarisation and the use of technology in political
+campaigns and communication, European Parliamentary Research Service, 2019, p. 22-24.
 18
-   Ver também Resolução do Parlamento Europeu, de 3 de maio de 2018, sobre o pluralismo e a liberdade dos
-meios de comunicação social na União Europeia.
+   See also European Parliament resolution of 3 May 2018 on media pluralism and media freedom in the
+European Union.
+                                                           7
+Adopted
+
+political and ideological polarisation.19 On the other hand, targeting mechanisms may also create risks
+of “information overload”, whereby individuals cannot make an informed decision because they have
+too much information and cannot tell if it is reliable.
+
+The collection of personal data by social media providers may not be limited to the activities performed
+by individuals on the social media platform itself. The targeting of social media users on the basis of
+information concerning their browsing behaviour or other activities outside the social media platform
+can give individuals the feeling that their behaviour is systematically being monitored. This may have
+a chilling effect on freedom of expression, including access to information. 20 Such effects may be
+exacerbated if targeting is also based on the analysis of content shared by social media users. If private
+messages, posts and comments are subject to analysis for commercial or political use, this may also
+give rise to self-censorship.
+
+The potential adverse impact of targeting may be considerably greater where vulnerable categories of
+individuals are concerned, such as children. Targeting can influence the shaping of children’s personal
+preferences and interests, ultimately affecting their autonomy and their right to development. Recital
+38 of the GDPR indicates that specific protection should apply to the use of personal data of children
+for the purposes of marketing or creating personality or user profiles and the collection of personal
+data with regard to children when using services offered directly to a child.21
+
+The use of social media in the EU is widespread as 54% of people aged 16-74 participated in social
+networks in 2019. Besides, this participation rate has steadily increased over the years.22 The EDPB
+recognizes that the increase in concentration in the markets of social media and targeting may also
+increase risks to the rights and freedoms of a substantial number of individuals. For example, certain
+social media providers may be able to combine, either alone or in connection with other companies, a
+higher quantity and diversity of personal data. This ability, in turn, may increase the ability to offer
+more advanced targeting campaigns. This aspect is relevant from both a data protection (more in-
+depth profiling of the persons concerned) and competition law viewpoint (the unrivalled insight
+capabilities provided by the platform may make it an 'unavoidable trading partner' for online
+marketers). The degree of market and informational power, in turn, as the EDPB has recognised, “has
+the potential to threaten the level of data protection and freedom enjoyed by consumers of digital
+services”.23
+
+The likelihood and severity of the aforementioned risks will depend, inter alia, on the nature of the
+targeting mechanism and how and for which exact purpose(s) it is used. Elements which may affect
+the likelihood and severity of risks in the context of the targeting of social media users will be discussed
+in greater detail in section 7.
+
+
+4 ACTORS AND ROLES
+4.1 Users
+
 19
-   Parecer 3/2018, da Autoridade Europeia para a Proteção de Dados, p. 7.
+   European Data Protection Supervisor, Opinion 3/2018, p. 7.
 20
-   Parecer 3/2018, da Autoridade Europeia para a Proteção de Dados, p. 9, e «Internet and electoral campaigns
-– Study on the use of internet in electoral campaigns» (A Internet e as campanhas eleitorais – Estudo sobre a
-utilização da Internet em campanhas eleitorais), do Comité sobre o pluralismo dos meios de comunicação e a
-transparência da propriedade dos meios de comunicação (MSI-MED), DGI(2017)11, abril de 2018, p. 19 a 21.
-                                                        8
-Adotadas
-
-utilizadores das redes sociais. Também pode ocorrer autocensura, se as mensagens privadas, as
-publicações e os comentários forem sujeitos a análise para utilização comercial ou política.
-
-O potencial impacto negativo do direcionamento pode ser consideravelmente superior, caso se trate
-de categorias de pessoas singulares vulneráveis, como as crianças. O direcionamento pode influenciar
-a formação das preferências e dos interesses pessoais das crianças, afetando, em última instância, a
-sua autonomia e o seu direito ao desenvolvimento. O considerando 38 do RGPD indica que deve ser
-aplicada proteção específica à utilização de dados pessoais de crianças para efeitos de comercialização
-ou de criação de perfis de personalidade ou de utilizador, bem como à recolha de dados pessoais em
-relação às crianças aquando da utilização de serviços disponibilizados diretamente às crianças21.
-
-A utilização das redes sociais na UE é uma prática generalizada, dado que, em 2019, 54 % das pessoas
-com idades compreendidas entre os 16 e os 74 anos participavam nas redes sociais. Além disso, esta
-taxa de participação aumentou de forma constante ao longo dos anos22. O CEPD reconhece que o
-aumento da concentração nos mercados das redes sociais e do direcionamento pode também
-aumentar os riscos para os direitos e liberdades de um número significativo de pessoas singulares. Por
-exemplo, determinados prestadores de redes sociais podem ter a faculdade de combinar uma maior
-quantidade e diversidade de dados pessoais, autonomamente ou em associação com outras empresas.
-Esta faculdade, por sua vez, pode aumentar a capacidade de disponibilização de campanhas de
-direcionamento mais avançadas. Este aspeto é pertinente tanto do ponto de vista da proteção de
-dados (definição de perfis mais aprofundada das pessoas em causa), como do ponto de vista do direito
-da concorrência (as capacidades inigualáveis de obtenção de conhecimentos proporcionadas pela
-plataforma podem torná-la um «parceiro comercial inevitável» para os comerciantes em linha). O grau
-de poder informativo e do mercado, por sua vez, como o CEPD reconheceu, «pode ameaçar o nível de
-proteção dos dados e a liberdade dos consumidores de serviços digitais23».
-
-A probabilidade e a gravidade dos riscos acima referidos dependerão, nomeadamente, da natureza do
-mecanismo de direcionamento e de como e para que finalidades exatas é utilizado. Os elementos
-suscetíveis de afetar a probabilidade e a gravidade dos riscos no contexto do direcionamento para os
-utilizadores das redes sociais serão abordados com mais pormenor na secção 7.
-
-
-4 INTERVENIENTES E FUNÇÕES
-4.1 Utilizadores
-As pessoas singulares utilizam as redes sociais com diferentes níveis de capacidade e para finalidades
-diferentes (por exemplo, para manter o contacto com amigos, para trocar informações sobre
-interesses comuns, ou para procurar oportunidades de emprego). O termo «utilizador» é
-normalmente utilizado para referir pessoas singulares registadas no serviço (ou seja, aquelas que têm
-uma «conta» ou um «perfil»). No entanto, as pessoas singulares não registadas (ou seja, que não
-criaram uma conta ou um perfil) também podem aceder a muitos serviços de redes sociais 24 .
-
-
+   European Data Protection Supervisor, Opinion 3/2018, p. 9 and Committee of experts on media pluralism and
+transparency of media ownership (MSI-MED), Internet and Electoral Campaigns, Study on the use of internet in
+electoral campaigns, Council of Europe study DGI(2017)11, April 2018, p. 19-21.
 21
-   Ver também Orientações sobre as decisões individuais automatizadas e a definição de perfis para efeitos do
-Regulamento (UE) 2016/679, do Grupo de Trabalho do Artigo 29.º para a Proteção de Dados, 6 de fevereiro de
-2018, WP251 rev.01, p. 32.
+   See also Article 29 Data Protection Working Party, Guidelines on Automated individual decision-making and
+Profiling for the purposes of Regulation 2016/679, 6 February 2018, WP251rev.01, p. 29.
 22
    https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/edn-20200630-2.
 23
-   Declaração sobre o impacto das concentrações na proteção dos dados, do CEPD, disponível em:
-https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_statement_economic_concentration_pt.pdf.
+   Statement of the EDPB on the data protection impacts of economic concentration, available at:
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_statement_economic_concentration_en.pdf
+                                                       8
+Adopted
+
+Individuals make use of social media in different capacities and for different purposes (e.g. to stay in
+touch with friends, to exchange information about shared interests, or to seek out employment
+opportunities). The term “user” is typically used to refer to individuals who are registered with the
+service (i.e. those who have an “account” or “profile”). Many social media services can, however, also
+be accessed by individuals without having registered (i.e. without creating an account or profile).24
+Such individuals are typically not able to make use of all of the same features or services offered to
+individuals who have registered with the social media provider. Both individuals that are and that are
+not registered with the social media providers may be considered “data subjects” within the meaning
+of Article 4(1) GDPR insofar as the individual is directly or indirectly identified or identifiable.25
+
+Whether or not individuals are expected to register with a real name or use a nickname or pseudonym
+may vary according to the social media service in question. It will generally still be possible, however,
+to target (or otherwise single out) the user in question even in the absence of a real name policy, as
+most types of targeting do not rely on user names but other types of personal data such as interests,
+sociographic data, behaviour or other identifiers. Social media providers often encourage their users
+to reveal “real world” data, such as telephone numbers.26 Finally, it is worth noting that social media
+providers may also enable targeting of individuals who do not have an account with the social media
+provider.27
+
+4.2 Social media providers
+Social media providers offer an online service that enables the development of networks and
+communities of users, among which information and content is shared. Social media services are
+typically offered through web browsers or dedicated apps, often after having requested the user to
+provide a set of personal data to constitute the user’s “account” or “profile”. They also often offer
+users associated account “controls” to enable them to access and control the personal data processed
+in the context of the use of their account.
+
+The social media provider determines the functionalities of the service. This in turn involves a
+determination of which data are processed, for which purpose, under which terms, as well as how
+personal data shall be processed. This allows for the provision of the social media service but also likely
+the provision of services, such as targeting, that can benefit business partners operating on the social
+media platform or in conjunction with it.
+
+The social media provider has the opportunity to gather large amounts of personal data relating to
+users’ and individuals’ that are not registered with social media providers behaviour and interactions,
+which enables it to obtain considerable insights into the users’ socio-demographic characteristics,
+interests and preferences. It is important to note that the ‘insights’ based on user activity often involve
+inferred or derived personal data. For example, where a user interacts with certain content (e.g. by
+“liking” a post on social media, or watching video content), this action can be recorded by the social
+
+
 24
-   Os dados pessoais e as informações da definição de perfis conservados pelos prestadores de redes sociais a
-respeito de pessoas singulares que não estão registadas nos seus serviços são, por vezes, referidos como
-«perfis-sombra».
-                                                       9
-Adotadas
-
-Normalmente, estas pessoas singulares não podem utilizar todas as funcionalidades ou os serviços
-disponibilizados a pessoas singulares que se registaram no prestador de redes sociais. Tanto as pessoas
-singulares registadas nos prestadores de redes sociais como as não registadas podem ser consideradas
-«titulares dos dados» na aceção do artigo 4.º, n.º 1, do RGPD, desde que sejam direta ou
-indiretamente identificadas ou identificáveis25.
-
-A possibilidade de as pessoas singulares se registarem ou não com um nome real ou utilizarem uma
-alcunha ou um pseudónimo pode variar consoante o serviço de redes sociais em questão. No entanto,
-continuará a ser possível, em geral, proceder ao direcionamento (ou selecionar de outro modo) ao
-utilizador em questão, mesmo na ausência de uma política de nomes reais, uma vez que a maioria dos
-tipos de direcionamento não depende dos nomes dos utilizadores, mas de outros tipos de dados
-pessoais, como os interesses, os dados sociográficos, o comportamento ou outros identificadores. Os
-prestadores de redes sociais frequentemente incentivam os seus utilizadores a revelar dados do
-«mundo real», como números de telefone26. Por último, importa notar que os prestadores de redes
-sociais podem também permitir o direcionamento para pessoas singulares que não têm uma conta
-nos seus serviços27.
-
-4.2 Prestadores de redes sociais
-Os prestadores de redes sociais disponibilizam um serviço em linha que permite o desenvolvimento
-de redes e de comunidades de utilizadores, entre os quais são partilhados conteúdos e informações.
-Os serviços de redes sociais são normalmente disponibilizados através de navegadores Web ou de
-aplicações específicas, muitas vezes depois de solicitar ao utilizador que forneça um conjunto de dados
-pessoais para a criação da «conta» ou do «perfil» de utilizador. Também é frequente colocarem à
-disposição dos utilizadores «controlos» de conta associados, de modo a permitir-lhes aceder e
-controlar os dados pessoais tratados no contexto da utilização da respetiva conta.
-
-O prestador de redes sociais determina as funcionalidades do serviço, o que, por sua vez, implica a
-determinação dos dados que são tratados, para que finalidade e em que termos, bem como a forma
-como os dados pessoais serão tratados. Tal permite a prestação dos serviços das redes sociais, mas
-também, provavelmente, a prestação de serviços como o direcionamento, que podem beneficiar os
-parceiros comerciais que operam na plataforma de redes sociais ou em conjunto com a mesma.
-
-O prestador de redes sociais tem a oportunidade de recolher grandes quantidades de dados pessoais
-a respeito do comportamento e das interações dos utilizadores e das pessoas singulares que não estão
-registadas nos seus serviços, o que lhe permite obter conhecimentos consideráveis sobre as
-características sociodemográficas, os interesses e as preferências dos utilizadores. Importa notar que
-os «conhecimentos» baseados na atividade do utilizador envolvem frequentemente dados pessoais
-inferidos ou derivados. Por exemplo, quando um utilizador interage com determinados conteúdos (por
-
+   The personal data and profiling information maintained by social media providers in relation to individuals that
+are not registered with social media providers are sometimes referred to as “shadow profiles”.
 25
-   Ver também o considerando 26 («seleção»). Ver também Parecer 4/2007 sobre o conceito de dados pessoais,
-do Grupo de Trabalho do Artigo 29.º para a Proteção de Dados, de 20 de junho de 2007, WP 136, p. 12 e
-seguintes.
+   See also recital (26) (“singling out”). See also Article 29 Data Protection Working Party, Opinion 4/2007 on the
+concept of personal data, 20 June 2007, WP 136, p. 12 and following.
 26
-   Em alguns casos, os prestadores de redes sociais solicitam documentação adicional, a fim de verificar mais
-aprofundadamente os dados fornecidos, por exemplo, ao solicitar aos utilizadores que carreguem os seus cartões
-de identificação ou um documento semelhante.
+   In some cases, social media providers ask for additional documentation to further verify the data provided, for
+example by requesting users to upload their ID cards or similar documentation.
 27
-   Esse direcionamento pode ser possibilitado com base em identificadores em linha disponibilizados pelos seus
-dispositivos, aplicações, ferramentas e protocolos, tais como endereços IP (protocolo Internet), identificadores
-de testemunho de conexão (cookie) ou outros identificadores. Estes identificadores podem deixar vestígios que,
-em especial quando combinados com identificadores únicos e outras informações recebidas pelos servidores,
-podem ser utilizados para a definição de perfis e a identificação das pessoas singulares. Ver também o
-considerando 30 do RGPD. Com base neste reconhecimento, a publicidade direcionada pode ser apresentada
-num sítio Web ao qual a pessoa singular aceda.
-                                                        10
-Adotadas
+    Such targeting may be rendered possible on the basis of online identifiers provided by their devices,
+applications, tools and protocols, such as internet protocol addresses, cookie identifiers or other identifiers. This
+may leave traces which, in particular when combined with unique identifiers and other information received by
+the servers, may be used to create profiles of the natural persons and identify them. See also recital (30) GDPR.
+Based on this recognition, targeted ads may be displayed on a website the individual visits.
+                                                             9
+Adopted
 
-exemplo, ao «gostar» de uma publicação nas redes sociais, ou ao visualizar conteúdos de vídeo), esta
-ação pode ser registada pelo prestador de redes sociais e é possível inferir que o utilizador em questão
-gostou do conteúdo com o qual interagiu.
+media provider, and an inference might be made that the user in question enjoyed the content he or
+she interacted with.
 
-De modo a gerar mais conhecimentos, os prestadores de redes sociais recolhem cada vez mais dados,
-não apenas de atividades na própria plataforma, mas também de atividades realizadas «fora da
-plataforma», através da combinação de dados provenientes de várias fontes, em linha e fora de linha.
-Os dados podem ser combinados com dados pessoais que as pessoas singulares divulguem ativamente
-ao prestador de redes sociais (por exemplo, um nome de utilizador, o endereço de correio eletrónico,
-a localização e o número de telefone) e também com dados que lhes sejam «atribuídos» pela
-plataforma (como identificadores únicos).
+Social media providers increasingly gather data not only from activities on the platform itself, but also
+from activities undertaken ‘off-platform’, combining data from multiple sources, online and offline, in
+order to generate further insights. The data can be combined with personal data that individuals
+actively disclose to the social media provider (e.g. a username, e-mail address, location, and phone
+number), alongside data which is “assigned” to them by the platform (such as unique identifiers).
 
-4.3 Responsáveis pelo direcionamento
-As presentes diretrizes utilizam o termo «responsável pelo direcionamento» para designar as pessoas
-singulares ou coletivas que utilizam os serviços de redes sociais com o objetivo de enviar mensagens
-específicas a um conjunto de utilizadores das redes sociais, com base em parâmetros ou em critérios
-específicos 28 . O que distingue os responsáveis pelo direcionamento dos restantes utilizadores das
-redes sociais é o facto de selecionarem as suas mensagens e/ou a audiência visada de acordo com as
-características, os interesses ou as preferências das pessoas singulares em causa, uma prática que, por
-vezes, também é referida como «microdirecionamento» 29 . Os responsáveis pelo direcionamento
-podem dedicar-se ao direcionamento a fim de promover interesses comerciais, políticos ou outros.
-Exemplos comuns incluem as marcas que utilizam as redes sociais para publicitar os seus produtos,
-incluindo para aumentar a divulgação da marca. Os partidos políticos também utilizam cada vez mais
-as redes sociais como parte da sua estratégia de campanha. As associações de beneficência e outras
-organizações sem fins lucrativos também utilizam as redes sociais a fim de direcionar mensagens a
-potenciais doadores ou para desenvolver comunidades.
+4.3 Targeters
+These guidelines use the term “targeter” to designate natural or legal persons that use social media
+services in order to direct specific messages at a set of social media users on the basis of specific
+parameters or criteria.28 What sets targeters apart from other users of social media is that they select
+their messages and/or their intended audience according to the perceived characteristics, interests or
+preferences of the individuals concerned, a practice which is sometimes also referred to as “micro-
+targeting”.29 Targeters can engage in targeting to advance commercial, political, or other interests.
+Typical examples include brands who use social media to advertise their products including to increase
+brand awareness. Political parties also increasingly make use of social media as part of their
+campaigning strategy. Charities and other non-profit organisations also use social media to target
+messages at potential contributors or to develop communities.
 
-Importa notar que é possível realizar o direcionamento para os utilizadores das redes sociais de
-diferentes formas. Por exemplo, o direcionamento pode ocorrer não só por meio da apresentação de
-publicidade personalizada (por exemplo, através de uma «faixa» mostrada na parte superior ou lateral
-de uma página Web), mas também – na medida em que ocorra dentro da plataforma de redes sociais
-– por meio da apresentação no «feed», na «cronologia» ou na «história» de um utilizador, onde os
-conteúdos publicitários aparecem juntamente com os conteúdos gerados pelo utilizador. O
-direcionamento pode implicar igualmente a criação de conteúdos alojados pelo prestador de redes
-sociais (por exemplo, através de uma «página» dedicada ou de outra presença nas redes sociais) ou
-noutro local (ou seja, em sítios Web de terceiros). Os responsáveis pelo direcionamento podem dispor
-dos seus próprios sítios Web e aplicações, nos quais integrem ferramentas ou funcionalidades
-comerciais específicas das redes sociais, como inícios de sessão ou módulos sociais, ou utilizar as
-interfaces de programações de aplicações (IPA) ou conjuntos de desenvolvimento de software (SDK)
-disponibilizados por prestadores de redes sociais.
+It is important to note that social media users can be targeted in different ways. For example, targeting
+might occur not only through displaying personalized advertisement (e.g. through a “banner” shown
+on the top or side of a webpage), but - as far as it is happening within the social media platform - also
+through display in a user’s “feed”, ”timeline“ or “story”, where the advertising content appears
+alongside user-generated content. Targeting may also involve the creation of content hosted by the
+social media provider (e.g. via a dedicated “page” or other social media presence) or elsewhere (i.e.
+on third-party websites). Targeters may have their own websites and apps, where they can integrate
+specific social media business tools or features such as social plugins or logins or by using the
+application programming interfaces (APIs) or software development kits (SDKs) offered by social media
+providers.
 
-4.4 Outros intervenientes pertinentes
-Os responsáveis pelo direcionamento podem utilizar diretamente os mecanismos de direcionamento
-disponibilizados pelos prestadores de redes sociais ou recorrer aos serviços de outros intervenientes,
+4.4 Other relevant actors
+Targeters may directly use targeting mechanisms offered by social media providers or enlist the
+services of other actors, such as marketing service providers, ad networks, ad exchanges, demand-side
+and supply-side platforms, data management providers (DMPs) and data analytics companies. These
+actors are part of the complex and evolving online advertising ecosystem (which is sometimes known
+as “adtech”) that collects and processes data relating to individuals (including social media users) by,
+for example, tracking their activities across websites and apps.30
+
+Data brokers and data management providers are also relevant actors playing an important role in the
+targeting of social media users. Data brokers and DMPs differentiate themselves from other adtech
 
 28
-   O tratamento de dados pessoais por uma pessoa singular no decurso de uma atividade exclusivamente pessoal
-ou doméstica não é abrangido pelo âmbito material do RGPD [artigo 2.º, n.º 2, alínea c)].
+   Processing of personal data by a natural person in the course of a purely personal or household activity does
+not fall under the material scope of the GDPR (Art. 2(2)(c)).
 29
-   A simples partilha de informações numa página de redes sociais destinada ao público em geral (por exemplo,
-informação sobre horários de funcionamento) sem uma seleção prévia da audiência visada não seria considerada
-como «direcionamento» para efeitos das presentes diretrizes.
-                                                     11
-Adotadas
-
-como prestadores de serviços de comercialização, redes publicitárias, partilhas publicitárias,
-plataformas do lado da procura e do lado da oferta, prestadores de gestão de dados (PGD) e empresas
-de análise de dados. Estes intervenientes fazem parte do ecossistema de publicidade em linha
-complexo e em evolução (por vezes conhecido como «tecnologia publicitária») que recolhe e trata
-dados relativos a pessoas singulares (incluindo os utilizadores das redes sociais), por exemplo, ao
-realizar a monitorização das suas atividades em sítios Web e em aplicações30.
-
-Os corretores de dados e os prestadores de gestão de dados são também intervenientes pertinentes
-que desempenham uma função importante no direcionamento para os utilizadores das redes sociais.
-Os corretores de dados e os PGD distinguem-se de outras empresas de tecnologia publicitária na
-medida em que não tratam dados recolhidos unicamente através de tecnologias de monitorização,
-mas também dados recolhidos por meio de outras fontes, que podem incluir fontes em linha e fora de
-linha. Por outras palavras, os corretores de dados e os PGD agregam dados recolhidos a partir de uma
-grande variedade de fontes, que podem depois vender a outras partes interessadas que participam no
-processo de direcionamento31.
-
-Embora cada um dos outros intervenientes acima referidos possa desempenhar uma função
-importante no direcionamento para os utilizadores das redes sociais, as presentes diretrizes centram-
-se na repartição das funções e das obrigações em matéria de proteção de dados dos prestadores de
-redes sociais e dos responsáveis pelo direcionamento. No entanto, podem ser aplicáveis considerações
-análogas aos restantes intervenientes envolvidos no ecossistema de publicidade em linha,
-dependendo da função de cada interveniente no processo de direcionamento.
-
-4.5 Funções e responsabilidades
-A fim de clarificar as respetivas funções e responsabilidades dos prestadores de redes sociais e dos
-responsáveis pelo direcionamento, importa ter em conta a jurisprudência pertinente do TJUE. Os
-acórdãos dos processos Wirtschaftsakademie (C-210/16), Testemunhas de Jeová (C-25/17) e Fashion
-ID (C-40/17) são especialmente pertinentes.
-
-O ponto de partida da análise é a definição jurídica de responsável pelo tratamento. De acordo com o
-artigo 4.º, n.º 7, do RGPD, entende-se por «“responsável pelo tratamento”, a pessoa singular ou
-coletiva [...] que, individualmente ou em conjunto com outras, determina as finalidades e os meios de
-tratamento de dados pessoais».
-
-No acórdão Wirtschaftsakademie, o TJUE decidiu que há que considerar que o administrador de uma
-chamada «página de fãs» no Facebook participa na determinação das finalidades e dos meios do
-tratamento de dados pessoais. Resulta das indicações fornecidas ao TJUE que a criação de uma página
-de fãs implica, por parte do seu administrador, uma ação de parametrização, que influi no tratamento
-de dados pessoais para efeitos de elaboração de estatísticas efetuadas a partir das visitas da página de
-fãs32. Ao utilizar filtros disponibilizados pelo Facebook, o administrador pode definir os critérios a partir
-dos quais estas estatísticas devem ser elaboradas e inclusivamente designar as categorias de pessoas
-que vão ser objeto de exploração dos respetivos dados pessoais pelo Facebook:
-
-
-
+   Simply sharing information on a social media page which is intended for the public at large (e.g. information
+about opening hours) without prior selection of the intended audience would not be considered as «targeting»
+for the purposes of these guidelines.
 30
-   Sobre a descrição dos diferentes intervenientes, ver Parecer 2/2010 sobre publicidade comportamental em
-linha, do Grupo de Trabalho do Artigo 29.º, p. 5. O parecer está disponível em:
-https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2010/wp171_pt.pdf.
+   On the description of the different actors, see WP29, Opinion 2/2010 on behavioural advertisement, at page
+5. The Opinion is available at:
+https://ec.europa.eu/justice/Article-29/documentation/opinion-recommendation/files/2010/wp171_en.pdf
+                                                        10
+Adopted
+
+companies to the extent that they not only process data collected by means of tracking technologies,
+but also by means of data collected from other sources, that can include both online and offline
+sources. In other words, data brokers and DMPs aggregate data collected from a wide variety of
+sources, which they then might sell to other stakeholders involved in the targeting process.31
+
+While each of the other actors mentioned above can play an important role in targeting of social media
+users, the focus of the current guidelines is on the distribution of roles and data protection obligations
+of social media providers and targeters. Analogous considerations may apply, however, to the other
+actors involved in the online advertising ecosystem, depending on the role of each actor in the
+targeting process.
+
+4.5 Roles and responsibilities
+In order to clarify the respective roles and responsibilities of social media providers and targeters, it is
+important to take account of the relevant case law of the CJEU. The judgments in Wirtschaftsakademie
+(C-210/16), Jehovah’s Witnesses (C-25/17) and Fashion ID (C-40/17) are particularly relevant here.
+
+The starting point of the analysis is the legal definition of controller. According to Article 4(7) GDPR, a
+“‘controller” means “the natural or legal person […] which, alone or jointly with others, determines the
+purposes and means of the processing of personal data”.
+
+In Wirtschaftsakademie, the CJEU decided that the administrator of a so-called “fan page” on Facebook
+must be regarded as taking part in the determination of the purposes and means of the processing of
+personal data. According to the submissions made to the CJEU, the creation of a fan page involves the
+definition of parameters by the administrator, which has an influence on the processing of personal
+data for the purpose of producing statistics based on visits to the fan page.32 Using the filters provided
+by Facebook, the administrator can define the criteria in accordance with which the statistics are to be
+drawn up, and even designate the categories of persons whose personal data is to be made use of by
+Facebook:
+
+         “In particular, the administrator of the fan page can ask for — and thereby request the
+        processing of — demographic data relating to its target audience, including trends in terms of
+        age, sex, relationship and occupation, information on the lifestyles and centers of interest of
+        the target audience and information on the purchases and online purchasing habits of visitors
+        to its page, the categories of goods and services that appeal the most, and geographical data
+        which tell the fan page administrator where to make special offers and where to organise
+        events, and more generally enable it to target best the information it offers.”
+
+As the definition of parameters depends inter alia on the administrator’s target audience “and the
+objectives of managing and promoting its activities”, the administrator also participates in determining
+the purposes of the processing of personal data.33 The administrator was therefore categorised as a
+controller jointly responsible for the processing of personal data of the visitors of its ‘page’, together
+with the social media provider.
+
+As further developed in section 9 of the present guidelines, controllers may be involved at different
+stages of the processing of personal data and to different degrees. In such circumstances, the level of
+responsibility of each of them must be assessed with regard to all the relevant circumstances of the
+particular case:
+
 31
-   Ver «A day in the life of data» (Um dia na vida dos dados), do Consumer Policy Research Centre (Centro de
-Investigação de Política dos Consumidores), disponível em:
-http://cprc.org.au/publication/research-report-a-day-in-the-life-of-data/.
+   See Consumer Policy Research Centre, “A day in the life of data”, available at:
+http://cprc.org.au/publication/research-report-a-day-in-the-life-of-data/
 32
-   Acórdão do TJUE, Wirtschaftsakademie, C-210/16, n.º 36.
-                                                       12
-Adotadas
-
-         «Em especial, o administrador da página de fãs pode pedir que lhe sejam concedidos — e, por
-        conseguinte, que sejam tratados — dados demográficos respeitantes à sua audiência alvo,
-        nomeadamente, tendências em matéria de idade, sexo, situação amorosa e profissão,
-        informações sobre o estilo de vida e os centros de interesse da sua audiência alvo, informações
-        respeitantes a compras e ao comportamento de compras em linha (online) dos visitantes da
-        sua página, as categorias de produtos ou de serviços que mais lhe interessam, bem como dados
-        geográficos que permitem ao administrador da página de fãs saber onde efetuar promoções
-        especiais ou organizar eventos e, de maneira mais geral, direcionar da melhor forma a sua
-        oferta de informações.»
-
-Uma vez que a ação de parametrização depende, nomeadamente, da audiência-alvo do administrador,
-«bem como de objetivos de gestão ou de promoção das suas atividades», o administrador também
-participa na determinação das finalidades do tratamento dos dados pessoais33. Por conseguinte, o
-administrador foi classificado como corresponsável por um tratamento de dados pessoais dos
-visitantes da sua «página», em conjunto com o prestador de redes sociais.
-
-Conforme desenvolvido mais aprofundadamente na secção 9 das presentes diretrizes, os responsáveis
-pelo tratamento podem estar envolvidos em diferentes fases do tratamento de dados pessoais e em
-diferentes graus. Em tais casos, deve ser avaliado o nível de responsabilidade de cada um, tendo em
-consideração todas as circunstâncias pertinentes do caso em apreço:
-
-     «[A] existência de uma responsabilidade conjunta não se traduz necessariamente numa
-     responsabilidade equivalente dos diferentes operadores em causa por um tratamento de dados
-     pessoais. Pelo contrário, esses operadores podem estar envolvidos em diferentes fases desse
-     tratamento e em diferentes graus, pelo que, para avaliar o nível de responsabilidade de cada um,
-     há que tomar em consideração todas as circunstâncias pertinentes do caso em apreço»34.
-
-Embora conclua que o administrador de uma página atua como responsável pelo tratamento, em
-conjunto com o Facebook, o TJUE assinalou igualmente que, no caso em apreço, deve considerar se
-que o Facebook determina, a título principal, as finalidades e os meios de tratamento dos dados
-pessoais dos utilizadores do Facebook, bem como das pessoas que já visitaram as páginas de fãs
-alojadas no Facebook35.
-
-No acórdão Fashion ID, o TJEU decidiu que um administrador de um sítio Web pode ser considerado
-responsável pelo tratamento, caso incorpore um módulo social do Facebook no seu sítio Web que
-permita que o navegador do visitante transmita dados pessoais do visitante ao Facebook 36 . A
-qualificação do administrador do sítio Web enquanto responsável pelo tratamento encontra-se, no
-entanto, limitada à operação ou ao conjunto de operações a respeito das quais determina
-efetivamente as finalidades e os meios. No caso em apreço, o TJUE considerou que o administrador do
-sítio Web só é suscetível de determinar, conjuntamente com o Facebook, as finalidades e os meios da
-recolha e da comunicação por transmissão dos dados pessoais dos visitantes do seu sítio Web. Em
-resultado, o TJUE decidiu que, no que diz respeito à incorporação de um módulo social num sítio Web,
-a responsabilidade do administrador do sítio Web é:
-
-
-
-
+   Judgment in Wirtschaftsakademie, C-210/16, paragraph 36.
 33
-   Acórdão do TJUE, Wirtschaftsakademie, C-210/16, n.º 39.
+   Judgment in Wirtschaftsakademie, C-210/16, paragraph 39.
+                                                      11
+Adopted
+
+     “[T]he existence of joint responsibility does not necessarily imply equal responsibility of the various
+     operators involved in the processing of personal data. On the contrary, those operators may be
+     involved at different stages of that processing of personal data and to different degrees, so that
+     the level of responsibility of each of them must be assessed with regard to all the relevant
+     circumstances of the particular case.”34
+
+While concluding that the administrator of a page acts as a controller, jointly with Facebook, the CJEU
+also noted that in the present case, Facebook must be regarded as primarily determining the purposes
+and means of processing the personal data of users of Facebook and persons visiting the fan pages
+hosted on Facebook.35
+
+In Fashion ID, the CJEU decided that a website operator can be a considered a controller when it
+embeds a Facebook social plugin on its website that causes the browser of a visitor to transmit personal
+data of the visitor to Facebook.36 The qualification of the website operator as controller is, however,
+limited to the operation or set of operations in respect of which it actually determines the purposes
+and means. In this particular case, the CJEU considered that the website operator is only capable of
+determining, jointly with Facebook, the purposes and means of the collection and disclosure by
+transmission of the personal data of visitors to its website. As a result, the CJEU ruled that, for what
+concerns the embedding of a social plug-in within a website, the liability of the website operator is:
+
+     “limited to the operation or set of operations involving the processing of personal data in respect
+     of which it actually determines the purposes and means, that is to say, the collection and disclosure
+     by transmission of the data at issue.”37
+
+The CJEU considered that the website operator was not a controller for subsequent38 operations
+involving the processing of personal data carried out by Facebook after their transmission to the latter,
+as the website operator was not in a position to determine the purposes and means of those
+operations by virtue of embedding the social plug-in:
+
+     “By contrast, in the light of that information, it seems, at the outset, impossible that Fashion ID
+     determines the purposes and means of subsequent operations involving the processing of personal
+     data carried out by Facebook Ireland after their transmission to the latter, meaning that Fashion ID
+     cannot be considered to be a controller in respect of those operations [...]”.39
+
+In case of joint controllership, pursuant to Article 26(1) GDPR, controllers are required to put in place
+an arrangement which, in a transparent manner, determines their respective responsibilities for
+
+
 34
-   Acórdão do TJUE, Wirtschaftsakademie, C-210/16, n.º 43; acórdão do TJUE, Testemunhas de Jeová, C-25/17,
-n.º 66; e acórdão do TJUE, Fashion ID, C-40/17, n.º 70.
+   Judgment in Wirtschaftsakademie, C-210/16, paragraph 43; Judgment in Jehovah’s Witnesses, C-25/17,
+paragraph 66 and Judgment in Fashion ID, C-40/17, paragraph 70.
 35
-   Acórdão do TJUE, Wirtschaftsakademie, C-210/16, n.º 30.
+   Judgment in Wirtschaftsakademie, C-210/16, paragraph 30.
 36
-   Acórdão do TJUE, Fashion ID, C-40/17, n.º 75 e seguintes e n.º 107.
-                                                        13
-Adotadas
-
-     «[L]imitada à operação ou ao conjunto de operações de tratamento de dados pessoais cujas
-     finalidades e meios são efetivamente determinados por esse administrador, a saber, a recolha e a
-     comunicação por transmissão dos dados em causa»37.
-
-O TJUE considerou que o administrador do sítio Web não era responsável pelo tratamento no caso de
-operações posteriores38 que envolviam o tratamento de dados pessoais efetuados pelo Facebook
-após a transmissão destes a esta última, uma vez que o administrador do sítio Web não se encontrava
-em posição de determinar as finalidades e os meios dessas operações em virtude da incorporação do
-módulo social:
-
-     «Em contrapartida, atendendo às referidas informações, parece, à primeira vista, ser de excluir que
-     a Fashion ID determine as finalidades e os meios das operações de tratamento de dados pessoais
-     posteriores, efetuadas pelo Facebook Ireland após a transmissão destes a esta última, pelo que a
-     Fashion ID não pode ser considerada responsável por essas operações [...]»39.
-
-Nos termos do artigo 26.º, n.º 1, do RGPD, em caso de controlo conjunto, os responsáveis pelo
-tratamento são obrigados a determinar, por acordo entre si e de modo transparente, as respetivas
-responsabilidades pelo cumprimento do RGPD, nomeadamente no que diz respeito ao exercício dos
-direitos do titular dos dados, e os respetivos deveres de fornecer as informações referidas nos
-artigos 13.º e 14.º.
-
-As secções que se seguem clarificam, por meio de exemplos específicos, as funções dos responsáveis
-pelo direcionamento e dos prestadores de redes sociais relativamente aos diferentes mecanismos de
-direcionamento. São apresentadas considerações específicas sobre a forma como os requisitos de
-licitude e de limitação das finalidades são aplicáveis neste contexto. Em seguida, são analisados os
-requisitos em matéria de transparência, de avaliações de impacto sobre a proteção de dados e de
-tratamento de categorias especiais de dados. Por último, as diretrizes abordam a obrigação de os
-responsáveis conjuntos pelo tratamento celebrarem um acordo adequado nos termos do artigo 26.º
-do RGPD, tendo em conta o nível de responsabilidade do prestador de redes sociais e do responsável
-pelo direcionamento.
-
-
-5 ANÁLISE DE DIFERENTES MECANISMOS DE DIRECIONAMENTO
-5.1 Panorâmica
-
-
-
-
+   Judgment in Fashion ID, C-40/17, paragraph 75 and following and paragraph 107.
 37
-   Acórdão do TJUE, Fashion ID, C-40/17, n.º 107.
+   Judgment in Fashion ID, C-40/17, paragraph 107.
 38
-   O tratamento posterior consiste em qualquer operação ou conjunto de operações de tratamento subsequente
-(ou seja, que ocorra posteriormente) à recolha de dados. No acórdão Fashion ID, o termo é utilizado para referir
-as operações de tratamento efetuadas pelo Facebook após a transmissão dos dados e para as quais a Fashion ID
-não deve ser considerada como responsável conjunto pelo tratamento (porque não participa efetivamente na
-determinação das finalidades e dos meios desses tratamentos).
-O tratamento posterior para uma finalidade diferente daquela para a qual os dados pessoais foram recolhidos
-só é autorizado se cumprir o artigo 6.º, n.º 4, do RGPD, que se refere ao tratamento posterior. Por exemplo, se
-uma empresa de venda em linha recolher dados relacionados com o endereço físico de uma pessoa singular, um
-tratamento posterior consistiria na conservação ou no apagamento ulterior desta informação. No entanto, se
-esta empresa de venda em linha mais tarde decidir tratar estes dados pessoais de modo a enriquecer o perfil do
-titular dos dados para efeitos de direcionamento, tal equivaleria a um tratamento posterior na aceção do
-artigo 6.º, n.º 4, do RGPD, uma vez que implica um tratamento para uma finalidade diferente daquela para a qual
-foram inicialmente recolhidos.
+   Subsequent processing is any processing operation or set of processing operations which follows (i.e. takes
+place after) the data collection. In Fashion ID, the term is used to refer to processing operations carried out by
+Facebook after their transmission and for which Fashion ID should not be considered as a joint controller
+(because it does not effectively participate in determining the purposes and means of those processing).
+Subsequent processing for a purpose other than that for which the personal data have been collected is only
+permissible insofar as Article 6(4) GDPR relating to further processing is complied with. For example, if an online
+retailer collects data relating to an individual’s home address, a subsequent processing would consist in the
+storage or later deletion of this information. However, if this online retailer later decides to process this personal
+data to enrich the profile of the data subject for targeting purposes, this would amount to further processing
+within the meaning of Article 6(4) GDPR as it involves processing for a purpose other than that for which they
+were initially collected.
 39
-   Acórdão do TJUE, Fashion ID, C-40/17, n.º 76.
-                                                        14
-Adotadas
+   Judgment in Fashion ID, C-40/17, paragraph 76.
+                                                         12
+Adopted
 
-Os utilizadores das redes sociais podem ser objeto de direcionamento com base em dados fornecidos,
-observados ou inferidos, ou de uma combinação dos mesmos:
+compliance with the GDPR, in particular as regards the exercising of the rights of the data subject and
+their respective duties to provide the information referred to in Articles 13 and 14 GDPR.
 
-     a) Direcionamento para pessoas singulares com base em dados fornecidos – Entende-se por
-        «dados fornecidos» as informações fornecidas de forma ativa pelo titular dos dados ao
-        prestador de redes sociais e/ou ao responsável pelo direcionamento40. Por exemplo:
+The following sections clarify, by way of specific examples, the roles of targeters and social media
+providers in relation to different targeting mechanisms. Specific considerations are given in particular
+as to how the requirements of lawfulness and purpose limitation apply in this context. Next, the
+requirements concerning transparency, data protection impact assessments and the processing of
+special categories of data are analysed. Finally, the Guidelines address the obligation for joint
+controllers to put in place an appropriate arrangement pursuant to Article 26 GDPR, taking into
+account the degree of responsibility of the targeter and of the social media provider.
 
-            Um utilizador das redes sociais pode indicar a respetiva idade na descrição do seu perfil
-             de utilizador. O prestador de redes sociais, por sua vez, pode permitir o direcionamento
-             com base neste critério;
 
-            Um responsável pelo direcionamento pode utilizar as informações que o titular dos dados
-             lhe forneceu, a fim de efetuar o direcionamento para essa pessoa singular em concreto,
-             por exemplo, por meio dos dados de clientes (como uma lista de endereços de correio
-             eletrónico) combinados com dados já conservados na plataforma de redes sociais, fazendo
-             com que todos os utilizadores que correspondam sejam objeto de direcionamento da
-             publicidade41.
+5 ANALYSIS OF DIFFERENT TARGETING MECHANISMS
+5.1 Overview
+Social media users may be targeted on the basis of provided, observed or inferred data, as well as a
+combination thereof:
 
-     b) Direcionamento com base em dados observados – O direcionamento para os utilizadores das
-        redes sociais pode ocorrer igualmente com base em dados observados42. Os dados observados
-        consistem em dados fornecidos pelo seu titular, em virtude da utilização de um serviço ou de
-        um dispositivo43. Por exemplo, um determinado utilizador das redes sociais pode ser objeto
-        de direcionamento com base:
+     a) Targeting individuals on the basis of provided data – “Provided data” refers to information
+        actively provided by the data subject to the social media provider and/or the targeter.40 For
+        example:
 
-            Na sua atividade na própria plataforma de redes sociais (por exemplo, os conteúdos que
-             o utilizador partilhou, consultou ou gostou);
+             A social media user might indicate his or her age in the description of his or her user profile.
+              The social media provider, in turn, might enable targeting on the basis of this criterion.
 
-            Na utilização de dispositivos nos quais as aplicações de redes sociais são executadas (por
-             exemplo, coordenadas GPS e número de telemóvel);
+             A targeter might use information provided by the data subject to the targeter in order to
+              target that individual specifically, for example by means of customer data (such as an e-
+              mail address list), to be matched with data already held on the social media platform,
+              leading to all those users who match being targeted with advertising41.
 
-            Nos dados obtidos por um programador de aplicações de terceiros, ao utilizar as interfaces
-             de programação de aplicações (IPA) ou os conjuntos de desenvolvimento de software
-             (SDK) disponibilizados por prestadores de redes sociais;
+     b) Targeting on the basis of observed data – Targeting of social media users can also take place
+        on the basis of observed data.42 Observed data are data provided by the data subject by virtue
+        of using a service or device.43 For example, a particular social media user might be targeted on
+        the basis of:
 
-            Nos dados recolhidos através de sítios Web de terceiros que integraram píxeis ou módulos
-             sociais;
+             his or her activity on the social media platform itself (for instance the content that the user
+              has shared, consulted or liked);
 
+             the use of devices on which the social media’s application is executed (for instance GPS
+              coordinates, mobile telephone number);
 
 
 
 40
-   Orientações sobre o direito à portabilidade dos dados, do Grupo de Trabalho do Artigo 29.º para a Proteção
-de Dados, WP 242 rev.01, 5 de abril de 2017, p. 10.
+   Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01, 5 April
+2017, p. 10.
 41
-   Ver, por exemplo, a decisão do Supremo Tribunal Administrativo da Baviera h (Alemanha), Beschluss
-v.26.09.2018 – 5 CS 18.1157, disponível em: www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-
-2018-N-25018.
+    See for example the decision by the Higher Administrative Court of Bavaria h (Germany), Beschluss
+v.26.09.2018 – 5 CS 18.1157, www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2018-N-25018.
 42
-   No seu Parecer 2/2010 sobre publicidade comportamental em linha, o Grupo de Trabalho do Artigo 29.º
-assinalou que «[e]xistem duas grandes abordagens para a criação de perfis de utilizadores: i) os perfis implícitos
-são criados por inferência, com base na observação do comportamento individual e coletivo dos utilizadores ao
-longo do tempo, especialmente através da monitorização das páginas que estes visitaram e dos anúncios que
-visualizaram ou em que clicaram; ii) os perfis explícitos são criados com base nos dados pessoais que os próprios
-fornecem a um serviço Web, nomeadamente na fase de registo» (Parecer 2/2010 sobre publicidade
-comportamental em linha, do Grupo de Trabalho do Artigo 29.º para a Proteção de Dados, WP 171, p. 8).
+   In its Opinion 2/2010 on online behavioural advertising the WP29 noted that “there are two main approaches
+to building user profiles: i) Predictive profiles are established by inference from observing individual and collective
+user behaviour over time, particularly by monitoring visited pages and ads viewed or clicked on. ii) Explicit profiles
+are created from personal data that data subjects themselves provide to a web service, such as by registering”
+(Article 29 Data Protection Working Party, Opinion 2/2010 on online behavioural advertising, WP 171, p. 7).
 43
-   Orientações sobre o direito à portabilidade dos dados, do Grupo de Trabalho do Artigo 29.º para a Proteção
-de Dados, WP 242 rev.01, 5 de abril de 2017, p. 10.
-                                                         15
-Adotadas
+   Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01, 5 April
+2017, p. 10.
+                                                             13
+Adopted
 
-                Nos dados recolhidos através de outros terceiros (por exemplo, partes com quem o titular
-                 dos dados interagiu, a quem comprou um produto ou subscreveu cartões de fidelização);
-                 ou
+                data obtained by a third-party application developer by using the application programming
+                 interfaces (APIs) or software development kits (SDKs) offered by social media providers;
 
-                Nos dados recolhidos através de serviços disponibilizados por empresas pertencentes ao
-                 prestador de redes sociais ou operadas pelo mesmo.
+                data collected through third-party websites that have incorporated social plugins or pixels;
 
-       c) Direcionamento com base em dados inferidos – Os «dados inferidos», ou «dados derivados»,
-          são criados pelo responsável pelo tratamento com base nos dados fornecidos pelo seu titular
-          ou conforme observados pelo responsável pelo tratamento44. Por exemplo, um prestador de
-          redes sociais ou um responsável pelo direcionamento pode inferir que uma pessoa singular
-          provavelmente está interessada numa determinada atividade ou produto com base no seu
-          comportamento de navegação na Internet e/ou nas suas ligações de rede.
+                data collected through other third parties (e.g. parties with whom the data subject has
+                 interacted, purchased a product, subscribed to loyalty cards); or
+
+                data collected through services offered by companies owned or operated by the social
+                 media provider.
+
+       c) Targeting on the basis of inferred data – “Inferred data” or “derived data” are created by the
+          data controller on the basis of the data provided by the data subject or as observed by the
+          controller.44 For example, a social media provider or a targeter might infer that an individual is
+          likely to be interested in a certain activity or product on the basis of his or her web browsing
+          behaviour and/or network connections.
 
 
 
-5.2 Direcionamento com base em dados fornecidos
-5.2.1 Dados fornecidos pelo utilizador ao prestador de redes sociais
-Ao utilizar as redes sociais, as pessoas singulares podem divulgar, de forma ativa, uma grande
-quantidade de informações sobre si. A criação de uma conta nas redes sociais (ou «perfil») implica a
-divulgação de uma série de atributos, que podem incluir o nome, a data de nascimento, o género, o
-local de residência, a língua, entre outros. Dependendo da natureza da plataforma de redes sociais, os
-utilizadores podem incluir informações adicionais, como o estado civil, os interesses ou o emprego
-atual. Os dados pessoais fornecidos pelos utilizadores das redes sociais podem ser utilizados pelo
-prestador dessas redes para desenvolver critérios, o que permite ao responsável pelo direcionamento
-enviar mensagens específicas aos utilizadores das redes sociais.
+5.2 Targeting on the basis of provided data
+5.2.1 Data provided by the user to the social media provider
+Individuals may actively disclose a great deal of information about themselves when making use of
+social media. The creation of a social media account (or “profile”) involves disclosure of a number of
+attributes, which may include name, date of birth, gender, place of residence, language, etc.
+Depending on the nature of the social media platform, users may include additional information such
+as relationship status, interests or current employment. Personal data provided by social media users
+can be used by the social media provider to develop criteria, which enables the targeter to address
+specific messages at the users of the social media.
 
-Exemplo 1:
+Example 1:
 
-A empresa X vende calçado masculino e pretende promover a venda da sua coleção de inverno. A
-empresa tem o objetivo de direcionar a sua campanha publicitária para homens entre os 30 e os
-45 anos que indicaram, no seu perfil das redes sociais, que são solteiros. Utiliza os critérios de
-direcionamento correspondentes disponibilizados pelo prestador de redes sociais como parâmetros
-para identificar a audiência-objetivo à qual a sua publicidade deve ser apresentada. Além disso, o
-responsável pelo direcionamento indica que a publicidade deve ser apresentada aos utilizadores entre
-as 17h00 e as 20h00, enquanto utilizam os serviços das redes sociais. A fim de permitir o
-direcionamento para os utilizadores das redes sociais com base em critérios específicos, o prestador
-de redes sociais determinou previamente os tipos de dados pessoais que devem ser utilizados para
-desenvolver os critérios de direcionamento e quais são os critérios de direcionamento que devem ser
-disponibilizados. O prestador de redes sociais também comunica determinadas informações
-estatísticas ao responsável pelo direcionamento, posteriormente à apresentação da publicidade (por
-exemplo, para dar conhecimento da composição demográfica das pessoas singulares que interagiram
-com a publicidade).
+Company X sells gentlemen’s shoes and wishes to promote a sale of its winter collection. For its
+advertising campaign, it wishes to target men between the age of 30 and 45 who have indicated that
+they are single in their social media profile. It uses the corresponding targeting criteria offered by the
+social media provider as parameters to identify the target audience to whom its advertisement should
+be displayed. Moreover, the targeter indicates that the advertisement should be displayed to social
+media users while they are using the social media service between the hours of 5pm and 8pm. To
+enable targeting of social media users on the basis of specific criteria, the social media provider has
+previously determined which types of personal data shall be used in order to develop the targeting
+criteria and which targeting criteria shall be offered. The social media provider also communicates
+certain statistical information once the advertisements has been displayed to the targeter (e.g. to
+report on the demographic composition of individuals that interacted with the advertisement).
+
+      A. Roles
+In Example 1, both the targeter and the social media provider participate in determining the purpose
+and means of the processing personal data. This results in the display of the advertisement to the
+target audience.
 
 
 
 
 44
      Idem.
-                                                     16
-Adotadas
+                                                       14
+Adopted
 
-     A. Funções
-No exemplo 1, tanto o responsável pelo direcionamento como o prestador de redes sociais participam
-na determinação da finalidade e dos meios de tratamento dos dados pessoais, o que resulta na
-apresentação da publicidade à audiência-objetivo.
+As far as the determination of purpose is concerned, Company X and the social media provider jointly
+determine the purpose of the processing, which is to display a specific advertisement to a set of
+individuals (in this case social media users) who make up the target audience, by choosing available
+targeting criteria associated with these users in order to reach a likely interested audience and to
+provide them more relevant advertisement content. Moreover, there is also mutual benefit arising
+from the same processing operation, which is an additional indicator that the purposes pursued by
+given Company X and the social media provider are inextricably be linked.45
 
-No que diz respeito à determinação da finalidade, a empresa X e o prestador de redes sociais
-determinam conjuntamente a finalidade do tratamento, que consiste na apresentação de publicidade
-específica a um conjunto de pessoas singulares (neste caso, aos utilizadores das redes sociais) que
-constituem a audiência-objetivo, ao selecionar critérios de direcionamento disponíveis associados a
-estes utilizadores, a fim de alcançar uma audiência provavelmente interessada e de lhe fornecer
-conteúdos publicitários mais relevantes. Além disso, existe também um benefício mútuo decorrente
-da mesma operação de tratamento, o que constitui um indicador adicional de que as finalidades
-prosseguidas pela empresa X e pelo prestador de redes sociais estão indissociavelmente ligadas45.
+As far as the determination of means is concerned, the targeter and the social media provider jointly
+determine the means, which results in the targeting. The targeter participates in the determination of
+the means by choosing to use the services offered by the social media provider46, and by requesting it
+to target an audience based on certain criteria (i.e. age range, relationship status, timing of display).47
+In doing so, the targeter defines the criteria in accordance with which the targeting takes place and
+designates the categories of persons whose personal data is to be made use of. The social media
+provider, on the other hand, has decided to process personal data of its users in such a manner to
+develop the targeting criteria, which it makes available to the targeter.48 In order to do so, the social
+media provider has made certain decisions regarding the essential means of the processing, such as
+which categories of data shall be processed, which targeting criteria shall be offered and who shall
+have access (to what types of) personal data that is processed in the context of a particular targeting
+campaign.49
 
-No que diz respeito à determinação dos meios, o responsável pelo direcionamento e o prestador de
-redes sociais determinam-nos em conjunto, o que resulta no direcionamento. O responsável pelo
-direcionamento participa na determinação dos meios ao optar pela utilização dos serviços
-disponibilizados pelo prestador de redes sociais46 e ao solicitar-lhe que proceda ao direcionamento
-para uma audiência com base em determinados critérios (ou seja, faixa etária, estado civil e momento
-da apresentação)47. Ao fazê-lo, o responsável pelo direcionamento define os critérios para a realização
-do direcionamento e designa as categorias de pessoas cujos dados pessoais devem ser utilizados. O
-prestador de redes sociais, por outro lado, decidiu tratar os dados pessoais dos seus utilizadores de
-modo a desenvolver os critérios de direcionamento, os quais disponibiliza ao responsável pelo
-direcionamento48. Para tal, o prestador de redes sociais tomou determinadas decisões relativas aos
-meios essenciais do tratamento, como as categorias de dados a tratar, os critérios de direcionamento
-a disponibilizar e quem terá acesso a (que tipos de) dados pessoais que são tratados no contexto de
-uma determinada campanha de direcionamento49.
+For the sake of completeness, the EDPB notes that the social media provider does not qualify as a
+processor as defined in Article 4 (8) GDPR. 50 In Example 1, the targeting criteria, as developed by the
+social media provider on the basis of user’s’ personal data can be used by the social media provider
+for future processing operations, which demonstrates that the later cannot qualify as a processor.
+Moreover, the social media provider does not appear to exclusively process the data on behalf of
+Company X and in accordance with its instructions.
 
-Por uma questão de exaustividade, o CEPD assinala que o prestador de redes sociais não é considerado
-como subcontratante, conforme definido no artigo 4.º, n.º 8, do RGPD. 50 No exemplo 1, os critérios de
-direcionamento desenvolvidos pelo prestador de redes sociais com base nos dados pessoais do
+The joint control among the targeter and social media provider only extends to those processing
+operations for which they effectively co-determine the purposes and means. It extends to the
+processing of personal data resulting from the selection of the relevant targeting criteria and the
+display of the advertisement to the target audience. It also covers the processing of personal data
+
 
 45
-   Ver Diretrizes 07/2020 relativas aos conceitos de responsável pelo tratamento e de subcontratante do RGPD,
-do CEPD («Além disso, quando as entidades não têm a mesma finalidade para o tratamento, é possível
-estabelecer igualmente o controlo conjunto, à luz da jurisprudência do TJUE, caso as entidades envolvidas
-prossigam finalidades estreitamente ligadas ou complementares. Tal pode ser o caso, por exemplo, quando existe
-um benefício mútuo decorrente da mesma operação de tratamento, desde que cada uma das entidades
-envolvidas participe na determinação das finalidades e dos meios da operação de tratamento pertinente»).
+   See EDPB Guidelines 7/2020 on concepts of the controller and the processor in the GDPR, para. 60 (“In
+addition, when the entities do not have the same purpose for the processing, joint controllership may also, in light
+of the CJEU case law, be established when the entities involved pursue purposes which are closely linked or
+complementary. Such may be the case, for example, when there is a mutual benefit arising from the same
+processing operation, provided that each of the entities involved participates in the determination of the purposes
+and means of the relevant processing operation”).
 46
-   Ver Diretrizes 07/2020 relativas aos conceitos de responsável pelo tratamento e de subcontratante do RGPD,
-do CEPD («Além disso, a escolha de uma entidade em utilizar, para as suas próprias finalidades, uma ferramenta
-ou outro sistema desenvolvido por outra entidade que permita o tratamento de dados pessoais, equivalerá
-provavelmente a uma decisão conjunta sobre os meios desse tratamento por essas entidades. Tal decorre do
-acórdão Fashion ID, no qual o TJUE concluiu que, ao incorporar no seu sítio Web o botão “gosto” disponibilizado
-pelo Facebook a administradores de sítios Web, a Fashion ID exerceu uma influência decisiva no que respeita às
-operações que envolvem a recolha e transmissão dos dados pessoais dos visitantes do seu sítio Web ao Facebook,
-tendo assim determinado conjuntamente com o Facebook os meios para esse tratamento»).
+   See EDPB Guidelines 7/2020 on concepts of the controller and the processor in the GDPR, para. 67
+(“Furthermore, the choice made by an entity to use for its own purposes a tool or other system developed by
+another entity, allowing the processing of personal data, will likely amount to a joint decision on the means of
+that processing by those entities. This follows from the Fashion ID case where the CJEU concluded, that by
+embedding on its website the Facebook Like button made available by Facebook to website operators, Fashion
+ID has exerted a decisive influence in respect of the operations involving the collection and transmission of the
+personal data of the visitors of its website to Facebook and had thus jointly determined with Facebook the means
+of that processing”).
 47
-   A este respeito, ver acórdão do TJUE no processo C-210/16, Wirtschaftsakademie, ECLI:EU:C:2018:388, n.º 39.
+   See in this respect Wirtschaftsakademie, C‑210/16, para. 39 - ECLI:EU:C:2018:388.
 48
-   No mesmo sentido, ver também acórdão do TJUE no processo C-40/17, Fashion ID, n.º 80: «[O]perações de
-tratamento são efetuadas no interesse económico tanto da Fashion ID como do Facebook Ireland, para quem o
-facto de poder dispor desses dados para os seus próprios fins comerciais constitui a contrapartida da vantagem
-oferecida à Fashion ID.»
+   See in the same vein also Fashion ID, C-40/17, para. 80: “those processing operations are performed in the
+economic interests of both Fashion ID and Facebook Ireland, for whom the fact that it can use those data for its
+own commercial purposes is the consideration for the benefit to Fashion ID”.
 49
-   Ver Parecer 1/2010.
+   See Opinion 1/2010.
 50
-   Ver Diretrizes 07/2020 relativas aos conceitos de responsável pelo tratamento e de subcontratante do RGPD.
-                                                        17
-Adotadas
+   See EDPB Guidelines 7/2020 on concepts of the controller and the processor in the GDPR.
+                                                         15
+Adopted
 
-utilizador podem ser utilizados pelo prestador de redes sociais para futuras operações de tratamento,
-o que demonstra que este último não pode ser considerado como subcontratante. Além disso, o
-prestador de redes sociais não parece tratar exclusivamente os dados em nome da empresa X e de
-acordo com as suas instruções.
+undertaken by the social media provider to report to the targeter about the results of the targeting
+campaign. The joint control does not, however, extend to operations involving the processing of
+personal data at other stages occurring before the selection of the relevant targeting criteria or after
+the targeting and reporting has been completed (e.g. the development of new targeting criteria by the
+social media provider on the basis of completed targeting campaigns) and in which the targeter has
+not participated in determining the purposes and means, likewise the social media provider, in
+principle, does not participate in phase of planning a targeting campaign prior to the moment where
+the targeter makes contact with the social media provider”.51
 
-O controlo conjunto entre o responsável pelo direcionamento e o prestador de redes sociais estende-
-se unicamente às operações de tratamento para as quais codeterminam efetivamente as finalidades
-e os meios. Estende-se ao tratamento de dados pessoais resultantes da seleção dos critérios de
-direcionamento pertinentes e da apresentação da publicidade à audiência-objetivo. Abrange
-igualmente o tratamento de dados pessoais efetuado pelo prestador de redes sociais a fim de informar
-o responsável pelo direcionamento dos resultados da campanha de direcionamento. O controlo
-conjunto não se estende, no entanto, a operações que envolvam o tratamento de dados pessoais em
-fases anteriores à seleção dos critérios de direcionamento pertinentes, ou posteriores à conclusão do
-direcionamento e à comunicação de resultados (por exemplo, o desenvolvimento de novos critérios
-de direcionamento pelo prestador de redes sociais, com base em campanhas de direcionamento
-concluídas) e nas quais o responsável pelo direcionamento não participou na determinação das
-finalidades e dos meios, do mesmo modo que o prestador de redes sociais, em princípio, não participa
-na fase de planeamento de uma campanha de direcionamento antes de o responsável pelo
-direcionamento estabelecer contacto com o prestador de redes sociais51.
+The above analysis remains the same even if the targeter only specifies the parameters of its intended
+audience and does not have access to the personal data of the users that are affected. Indeed, joint
+responsibility of several actors for the same processing does not require each of them to have access
+to the personal data concerned. 52 The EDPB recalls that actual access to personal data is not a
+prerequisite for joint responsibility.53
 
-A análise acima referida mantém-se, mesmo que o responsável pelo direcionamento apenas
-especifique os parâmetros da sua audiência visada e não tenha acesso aos dados pessoais dos
-utilizadores afetados. De facto, a responsabilidade conjunta de vários intervenientes pelo mesmo
-tratamento não exige que cada um tenha acesso aos dados pessoais em questão52. O CEPD recorda
-que o acesso efetivo aos dados pessoais não constitui um pré-requisito para a responsabilidade
-conjunta53.
+     B. Legal basis
+As joint controllers, both parties (the social media provider and the targeter) must be able to
+demonstrate the existence of a legal basis (Article 6 GDPR) to justify the processing of personal data
+for which each of the joint controllers is responsible. The EDPB recalls that no specific hierarchy is
+made between the different lawful basis of the GDPR: the controller needs to ensure that the selected
+lawful basis matches the objective and context of the processing operation in question. The
+identification of the appropriate lawful basis is tied to principles of fairness and purpose limitation.54
 
-     B. Fundamento jurídico
-Na qualidade de responsáveis conjuntos pelo tratamento, ambas as partes (o prestador de redes
-sociais e o responsável pelo direcionamento) devem poder demonstrar a existência de um fundamento
-jurídico (artigo 6.º do RGPD) que justifique o tratamento de dados pessoais, pelo qual cada um deles
-é responsável. O CEPD recorda que não é estabelecida uma hierarquia específica entre os diferentes
-fundamentos jurídicos do RGPD: o responsável pelo tratamento deve assegurar que o fundamento
-jurídico selecionado corresponde ao objetivo e ao contexto da operação de tratamento em questão.
-A identificação do fundamento jurídico adequado está vinculada aos princípios da lealdade e da
-limitação das finalidades54.
+Generally speaking, there are two legal bases which could justify the processing that supports the
+targeting of social media users: data subject’s consent (Article 6(1)(a) GDPR) or legitimate interests
+(Article 6(1)(f) GDPR). A controller must always consider what the appropriate legal basis is under the
+given circumstances. In respect to the social media providers Article 6 (1) b GDPR cannot provide a
+lawful basis for online advertising simply because such advertising indirectly funds the provision of
+their service. 55 The same applies to the targeter as targeting of social media users cannot be
+considered as an intrinsic aspect of any services or necessary to perform a contract with the user. 56
+While personalisation of content may, in certain circumstances, constitute an intrinsic and expected
 
-De um modo geral, existem dois fundamentos jurídicos que poderiam justificar o tratamento que
-sustenta o direcionamento para os utilizadores das redes sociais: o consentimento do titular dos dados
-[artigo 6.º, n.º 1, alínea a), do RGPD] ou para efeitos de interesses legítimos [artigo 6.º, n.º 1, alínea f),
-do RGPD]. Um responsável pelo tratamento deve ter sempre em consideração o fundamento jurídico
+
+
 
 51
-   Ver também acórdão do TJUE no processo C-40/17, Fashion ID, n.º 74 («[uma] pessoa singular ou coletiva não
-pode ser considerada responsável, na aceção da referida disposição, por operações anteriores ou posteriores da
-cadeia de tratamento cujas finalidades e meios não são por ela determinados») e n.º 101.
+   See also Judgment in Fashion ID, C-40/17, para. 74 (“[a] natural or legal person cannot be considered to be a
+controller, within the meaning of that provision, in the context of operations that precede or are subsequent in
+the overall chain of processing for which that person does not determine either the purposes or the means”) and
+paragraph 101.
 52
-   Acórdão do TJUE no processo C-210/16, Wirtschaftsakademie, ECLI:EU:C:2018:388, n.º 38; acórdão do TJUE
-no processo C-25/17, Testemunhas de Jeová, ECLI:EU:C:2018:551, n.º 69.
+   Judgment in Wirtschaftsakademie, C-210/16, para. 38 - ECLI:EU:C:2018:388; Judgment in Jehovah’s Witnesses,
+C-25/17, para. 69 - ECLI:EU:C:2018:551.
 53
-   Acórdão do TJUE de 10 de julho de 2018 (C-25/17, n.os 68 a 72).
+   CJEU Judgment 10 July 2018 (C-25/17, para. 68 to 72).
 54
-   Ver Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD
-no contexto da prestação de serviços em linha aos titulares dos dados, versão 2.0, 8 de outubro de 2019, n.º 18,
-disponível           em          https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-
-adopted_after_public_consultation_pt.pdf.
-                                                       18
-Adotadas
-
-adequado às circunstâncias em questão. No que diz respeito aos prestadores de redes sociais, o
-artigo 6.º, n.º 1, alínea b), do RGPD não constitui um fundamento jurídico para a publicidade em linha,
-pelo simples facto de essa publicidade financiar indiretamente a prestação do seu serviço. 55 O mesmo
-se aplica ao responsável pelo direcionamento, pois o direcionamento para os utilizadores das redes
-sociais não pode ser considerado como um aspeto intrínseco de quaisquer serviços, nem necessário
-para a execução de um contrato com o utilizador56. Embora a personalização dos conteúdos possa, em
-determinadas circunstâncias, constituir um elemento intrínseco e previsto de determinados serviços
-em linha 57 , o artigo 6.º, n.º 1, alínea b), do RGPD dificilmente será aplicável no contexto do
-direcionamento para os utilizadores das redes sociais, conforme ilustrado nos exemplos das presentes
-diretrizes58.
-
-A respeito do interesse legítimo como fundamento jurídico, o CEPD recorda que, no acórdão Fashion
-ID, o TJUE reiterou que devem ser cumpridas três condições cumulativas, de modo a um tratamento
-recorrer ao interesse legítimo, nomeadamente 59 , i) a prossecução de interesses legítimos do
-responsável pelo tratamento ou do terceiro ou terceiros a quem os dados sejam comunicados, ii) a
-necessidade do tratamento dos dados pessoais para a realização do interesse legítimo prosseguido e
-iii) o requisito de os direitos e as liberdades fundamentais da pessoa a que a proteção de dados diz
-respeito não prevalecerem. O TJUE especificou também que, numa situação de controlo conjunto, «é
-necessário que cada um desses responsáveis prossiga, com essas operações de tratamento, um
-interesse legítimo [...], a fim de que estas sejam justificadas em relação a cada um deles60».
-
-No que diz respeito ao exemplo 1, o responsável pelo direcionamento pode considerar que o seu
-interesse legítimo consiste nos interesses económicos em aumentar a publicidade dos seus artigos,
-através do direcionamento nas redes sociais. O prestador de redes sociais pode considerar que o seu
-interesse legítimo consiste em tornar o serviço de redes sociais rentável, através da venda de espaço
-publicitário. A possibilidade de o responsável pelo direcionamento e de o prestador de redes sociais
-recorrerem ao artigo 6.º, n.º 1, alínea f), do RGPD como fundamento jurídico depende do
-cumprimento das três condições cumulativas, como foi recentemente reiterado pelo TJUE. Mesmo
-que o responsável pelo direcionamento e o prestador de redes sociais considerem que os seus
-interesses económicos são legítimos, tal não significa necessariamente que poderão, de facto, recorrer
-ao artigo 6.º, n.º 1, alínea f), do RGPD.
-
-A segunda parte do teste de equilíbrio implica que os responsáveis conjuntos pelo tratamento
-estabeleçam que o tratamento é necessário para alcançar esses interesses legítimos. «Necessário»
-exige uma ligação entre o tratamento e os interesses prosseguidos. O requisito da «necessidade» é
-especialmente pertinente no contexto da aplicação do artigo 6.º, n.º 1, alínea f), a fim de assegurar
-que o tratamento de dados baseado em interesses legítimos não resulta numa interpretação
-
+   See paragraph 18, Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the
+context of the provision of online services to data subjects, Version 2.0, 8 October 2019, available at
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-
+adopted_after_public_consultation_en.pdf
 55
-   Ver Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD
-no contexto da prestação de serviços em linha aos titulares dos dados, versão 2.0, 8 de outubro de 2019, n.os 52
-e     53,     disponível  em      https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-
-adopted_after_public_consultation_pt.pdf.
+   See para. 52, 53, Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the
+context of the provision of online services to data subjects, Version 2.0, 8 October 2019, available at
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-
+adopted_after_public_consultation_en.pdf
 56
-    Verificar-se-ia uma ausência de necessidade, se o responsável pelo direcionamento passasse a utilizar
-prestadores de redes sociais, apesar da existência de uma relação contratual direta com o seu cliente e, por
-conseguinte, da possibilidade de publicidade direta.
+   There would be a lack of necessity if the targeter were to switch to social media providers despite a direct
+contractual relationship with its customer and thus the possibility of direct advertising.
+                                                        16
+Adopted
+
+element of certain online services57, Article 6 (1) b GDPR in the context of targeting of social media
+users is hardly applicable, as illustrated in the examples of these Guidelines.58
+
+For what concerns the legitimate interest lawful basis, the EDPB recalls that in Fashion ID, the CJEU
+reiterated that in order for a processing to rely on the legitimate interest, three cumulative conditions
+should be met, namely59 (i) the pursuit of a legitimate interest by the data controller or by the third
+party or parties to whom the data are disclosed, (ii) the need to process personal data for the purposes
+of the legitimate interests pursued, and (iii) the condition that the fundamental rights and freedoms
+of the data subject whose data require protection do not take precedence. The CJEU also specified
+that in a situation of joint controllership “it is necessary that each of those controllers should pursue a
+legitimate interest […] through those processing operations in order for those operations to be justified
+in respect of each of them”.60
+
+With regard to Example 1, the targeter might consider its legitimate interest to be the economic
+interest of having an increased publicity for its goods through social media targeting. The social media
+provider could consider that its legitimate interest consists of making the social media service
+profitable by selling advertising space. Whether the targeter and the social media provider can rely
+upon Article 6(1)(f) GDPR as legal basis depends on whether all three cumulative conditions are met,
+as recently reiterated by the CJEU. Even if the targeter and the social media provider consider their
+economic interests to be legitimate, it does not necessarily mean that they will be able to actually rely
+on Article 6(1)(f) GDPR.
+
+The second part of the balancing test entails that the joint controllers will need to establish that the
+processing is necessary to achieve those legitimate interests. “Necessary” requires a connection
+between the processing and the interests pursued. The ‘necessity’ requirement is particularly relevant
+in the context of the application of Article 6(1)f, in order to ensure that processing of data based on
+legitimate interests does not lead to an unduly broad interpretation of the necessity to process data.
+As in other cases, this means that it should be considered whether other less invasive means are
+available to serve the same end.61
+
+The third step in assessing whether the targeter and the social media provider can rely upon Article
+6(1)(f) GDPR as legal basis for the processing of personal data, is the balancing exercise necessary to
+determine whether the legitimate interest at stake is overridden by the data subject’s interests or
+fundamental rights and freedoms.62
+
+
 57
-   Ver Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD
-no contexto da prestação de serviços em linha aos titulares dos dados, versão 2.0, 8 de outubro de 2019, p. 15,
-disponível            em          https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-
-adopted_after_public_consultation_pt.pdf.
+   See p. 15 , Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of
+the provision of online services to data subjects,                  Version 2.0, 8 October 2019, available at
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-
+adopted_after_public_consultation_en.pdf
 58
-   Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD no
-contexto da prestação de serviços em linha aos titulares dos dados, n.º 57.
+   Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the
+provision of online services to data subjects, para 57.
 59
-   Acórdão do TJUE de 29 de julho de 2019, no processo C-40/17, Fashion ID, ECLI:EU:C:2019:629, n.º 95.
+   CJEU, Judgment in Fashion ID, 29 July 2019, C-40/17, para. 95 - ECLI:EU:C:2019:629.
 60
-   Idem, n.º 97.
-                                                       19
-Adotadas
-
-indevidamente lata da necessidade do tratamento de dados. Tal como nos outros casos, tal significa
-que deve verificar-se se existem outros meios menos invasivos para alcançar a mesma finalidade61.
-
-O terceiro passo para avaliar se o responsável pelo direcionamento e o prestador de redes sociais
-podem recorrer ao artigo 6.º, n.º 1, alínea f), do RGPD como fundamento jurídico para o tratamento
-de dados pessoais consiste no exercício de equilíbrio, necessário a fim de determinar se os interesses
-ou os direitos e liberdades fundamentais do titular dos dados se sobrepõem ao interesse legítimo em
-causa62.
-
-O CEPD recorda que, caso um responsável pelo tratamento pretenda recorrer ao interesse legítimo,
-os deveres de transparência e o direito de oposição devem ser apreciados cuidadosamente. Os
-titulares dos dados devem ter a oportunidade de se oporem ao tratamento dos seus dados para efeitos
-de direcionamento, antes do início do tratamento. Os utilizadores das redes sociais devem não só ter
-a possibilidade de se oporem à apresentação de publicidade direcionada quando acedem à plataforma,
-mas também dispor de controlos que assegurem que o tratamento subjacente dos seus dados pessoais
-para efeitos de direcionamento deixa de ocorrer após apresentarem a oposição.
-
-Um responsável pelo direcionamento que pretenda recorrer ao interesse legítimo deve, por seu lado,
-facilitar às pessoas singulares a manifestação de uma oposição prévia a respeito da sua utilização das
-redes sociais para efeitos de direcionamento. No entanto, na medida em que o responsável pelo
-direcionamento não tenha qualquer interação direta com o titular dos dados, deve pelo menos
-assegurar que a plataforma de redes sociais disponibiliza ao titular dos dados os meios para manifestar
-eficazmente o seu direito de oposição prévia. Enquanto responsáveis conjuntos pelo tratamento, o
-responsável pelo direcionamento e o prestador de redes sociais devem clarificar como o direito de
-oposição das pessoas singulares (bem como outros direitos) será previsto no contexto do acordo
-conjunto (ver secção 6). Se o exercício de equilíbrio indicar que os interesses ou os direitos e liberdades
-fundamentais do titular dos dados se sobrepõem ao interesse legítimo do prestador de redes sociais e
-do responsável pelo direcionamento, não é possível recorrer ao artigo 6.º, n.º 1, alínea f).
-
-No que diz respeito ao consentimento como fundamento jurídico, o responsável pelo tratamento deve
-ter em mente que existem situações claras nas quais o tratamento não seria lícito sem o
-consentimento válido das pessoas singulares em causa (artigo 6.º, n.º 1, alínea a), do RGPD). Por
-exemplo, o Grupo de Trabalho do Artigo 29.º considerou anteriormente que seria difícil para os
-responsáveis pelo tratamento justificar o exercício de interesses legítimos como fundamento jurídico
-para práticas de definição de perfis e seguimento intrusivas para efeitos de comercialização ou de
-
-
-
-
+   Idem, para 97.
 61
-    Parecer 06/2014 sobre o conceito de interesses legítimos do responsável pelo tratamento dos dados na aceção
-do artigo 7.º da Diretiva 95/46/CE, do Grupo de Trabalho do Artigo 29.º, WP 217, de 9 de abril de 2014, p. 29.
+   Article 29 Working Party Opinion 06/2014 on the concept of legitimate interests of the data controller under
+Article 7 of Directive 95/46/EC, WP217, 9 April 2014, p. 29.
 62
-    Ao avaliar o impacto nos interesses e nos direitos e liberdades fundamentais da pessoa singular em causa, as
-considerações que seguem são especialmente pertinentes no contexto do direcionamento para os utilizadores
-das redes sociais: i) as finalidades do direcionamento; ii) o nível de pormenor dos critérios de direcionamento
-utilizados (por exemplo, um grupo descrito de forma ampla, como «pessoas interessadas em literatura inglesa»,
-ou critérios mais pormenorizados, a fim de permitir a segmentação e o direcionamento a um nível mais granular);
-iii) o tipo (e a combinação) de critérios de direcionamento utilizados (ou seja, se o direcionamento se centra
-unicamente num pequeno aspeto do titular dos dados, ou se apresenta uma natureza mais abrangente); e iv) a
-natureza (sensibilidade), o volume e a fonte dos dados utilizados para o desenvolvimento dos critérios de
-direcionamento. Ver Parecer 06/2014 sobre o conceito de interesses legítimos do responsável pelo tratamento
-dos dados na aceção do artigo 7.º da Diretiva 95/46/CE, do Grupo de Trabalho do Artigo 29.º, WP 217, de 9 de
-abril      de     2014,     disponível    em     https://ec.europa.eu/justice/article-29/documentation/opinion-
-recommendation/files/2014/wp217_pt.pdf.
-                                                          20
-Adotadas
+   When assessing the impact on the interests, fundamental rights and freedoms of the individual concerned, the
+following considerations are particularly relevant in the context of targeting directed to users of social media (i)
+the purposes of the targeting, (ii) the level of detail of the targeting criteria used (e.g., a broadly described cohort
+such as ‘people with an interest in English literature’, or more detailed criteria to allow segmentation and
+targeting on a more granular level), (iii) the type (and combination) of targeting criteria used (i.e. whether the
+targeting only focuses on a small aspect of the data subject, or is more comprehensive in nature), and (iv) the
+nature (sensitivity), volume and source of the data used in order to develop the targeting criteria. See Article 29
+Working Party Opinion 06/2014 on the concept of legitimate interests of the data controller under Article 7 of
+                                                            17
+Adopted
 
-publicidade, nomeadamente quando envolvam o seguimento de pessoas em diversos sítios Web,
-localizações, dispositivos, serviços, ou a corretagem de dados63.
+The EDPB recalls that in cases where a controller envisages to rely on legitimate interest, the duties of
+transparency and the right to object require careful consideration. Data subjects should be given the
+opportunity to object to the processing of their data for targeted purposes before the processing is
+initiated. Users of social media should not only be provided with the possibility to object to the display
+of targeted advertising when accessing the platform, but also be provided with controls that ensure
+the underlying processing of his or her personal data for the targeting purpose no longer takes place
+after he or she has objected.
 
-Para que seja válido, o consentimento obtido para o tratamento tem de cumprir as condições
-estabelecidas nos artigos 4.º, n.º 11, e 7.º do RGPD. De um modo geral, o consentimento só pode
-constituir um fundamento jurídico adequado se o titular dos dados dispuser de controlo e de escolha
-genuína. Se o consentimento estiver agregado a uma parte não negociável das condições gerais do
-contrato, presume-se que não foi dado livremente. O consentimento deve também ser específico,
-informado e inequívoco e o titular dos dados deve poder recusar ou retirar o consentimento sem ser
-prejudicado64.
+The targeter seeking to rely on legitimate interest should, for its part, make it easy for individuals to
+express a prior objection to its use of social media for targeting purposes. However, insofar as the
+targeter does not have any direct interaction with the data subject, the targeter should at least ensure
+that the social media platform provide the data subject with means to efficiently express their right to
+prior objection. As joint controllers, the targeter and social media provider should clarify how the
+individuals’ right to object (as well as other rights) will be accommodated in the context of the joint
+arrangement (see section 6). If the balancing exercise points out that data subject’s interests or
+fundamental rights and freedoms override the legitimate interest of the social media provider and the
+targeter, the use of Article 6(1)(f) is not possible.
 
-Pode ser previsto o consentimento [artigo 6.º, n.º 1, alínea a), do RGPD], desde que sejam cumpridos
-todos os requisitos para um consentimento válido. O CEPD recorda que obter o consentimento
-também não nega nem diminui de forma alguma as obrigações do responsável pelo tratamento no
-que toca a observar os princípios relativos ao tratamento consagrados no RGPD, em especial no
-artigo 5.º, no que diz respeito à lealdade, à necessidade e à proporcionalidade, bem como à qualidade
-dos dados. Mesmo que o tratamento de dados pessoais se baseie no consentimento do seu titular, tal
-não legitima um direcionamento desproporcionado ou desleal65.
+For what concerns the consent lawful basis, the controller needs to keep in mind that there are clearly
+situations in which the processing would not be lawful without the valid consent of the individuals
+concerned (Article 6(1)(a) GDPR). For example, the WP29 has previously considered that it would be
+difficult for controllers to justify using legitimate interests as a legal basis for intrusive profiling and
+tracking practices for marketing or advertising purposes, for example those that involve tracking
+individuals across multiple websites, locations, devices, services or data-brokering.63
 
-Por último, o CEPD considera que o tratamento de dados pessoais descrito no exemplo 1 não pode ser
-justificado com base no artigo 6.º, n.º 1, alínea b), nem pela plataforma de redes sociais nem pelo
-responsável pelo direcionamento66.
+To be valid, the consent collected for the processing needs to fulfil the conditions laid out in Articles
+4(11) and 7 GDPR. Generally speaking, consent can only be an appropriate legal basis if a data subject
+is offered control and genuine choice. If consent is bundled up as a non-negotiable part of terms and
+conditions, it is presumed not to have been freely given. Consent must also be specific, informed and
+unambiguous and the data subject must be able to refuse or withdraw consent without detriment.64
 
-5.2.2 Dados fornecidos pelo utilizador da plataforma de redes sociais ao responsável pelo
-      direcionamento
-O direcionamento pode envolver também dados fornecidos pelo titular dos dados ao responsável pelo
-direcionamento, que depois utiliza os dados recolhidos para efetuar o direcionamento do seu titular
-nas redes sociais. Por exemplo, o direcionamento «baseado em listas» ocorre quando um responsável
-pelo direcionamento carrega listas pré-existentes de dados pessoais (como endereços de correio
-eletrónico ou números de telefone), para que o prestador de redes sociais proceda à correspondência
-com as informações na plataforma. Neste caso, o prestador de redes sociais compara os dados
-carregados pelo responsável pelo direcionamento com os dados do utilizador que já possui e os
-utilizadores que corresponderem são adicionados ou excluídos da audiência-objetivo (ou seja, o grupo
-de pessoas a quem a publicidade será apresentada na plataforma de redes sociais). O prestador de
-redes sociais pode também permitir que o responsável pelo direcionamento «verifique» a lista antes
-de a concluir, o que significa que uma parte do tratamento ocorre ainda antes da criação da audiência.
+Consent (Article 6(1)(a) GDPR) could be envisaged, provided that all the requirements for valid consent
+are met. The EDPB recalls that obtaining consent also does not negate or in any way diminish the
+controller’s obligations to observe the principles of processing enshrined in the GDPR, especially Article
+5 with regard to fairness, necessity and proportionality, as well as data quality. Even if the processing
+of personal data is based on consent of the data subject, this would not legitimize targeting which is
+disproportionate or unfair.65
+
+Finally, the EDPB is of the opinion that the processing of personal data described in the Example 1
+cannot be justified on the basis of Article 6(1)(b) by neither the social platform nor the targeter.66
 
 
+
+Directive 95/46/EC, WP217, 9 April 2014 https://ec.europa.eu/justice/Article-29/documentation/opinion-
+recommendation/files/2014/wp217_en.pdf
 63
-    Orientações sobre as decisões individuais automatizadas e a definição de perfis para efeitos do
-Regulamento (UE) 2016/679, do Grupo de Trabalho do Artigo 29.º, WP251 rev.01, p. 16. Ver também o parecer
-do Grupo de Trabalho do Artigo 29.º sobre o conceito de interesses legítimos, p. 110: «No cômputo geral, existe
-um desequilíbrio entre o interesse legítimo da empresa e a proteção dos direitos fundamentais dos utilizadores,
-e o artigo 7.º, alínea f), não deve ser invocado como fundamento jurídico para o tratamento. O artigo 7.º,
-alínea a), é um fundamento mais adequado, desde que estejam reunidas as condições para um consentimento
-válido.»
+   Article 29 Working Party, Opinion on profiling and automated decision making, WP 251, rev. 01, p. 15, see also
+Article 29 WP, Opinion on legitimate interest, p. 32 and 48: « Overall, there is an imbalance between the
+company’s legitimate interest and the protection of users’ fundamental rights and Article 7(f) should not be relied
+on as a legal ground for processing. Article 7(a) would be a more appropriate ground to be used, provided that
+the conditions for a valid consent are met ».
 64
-   Ver Orientações relativas ao consentimento na aceção do Regulamento (UE) 2016/679, do Grupo de Trabalho
-do Artigo 29.º, WP259 rev.01.
+   See Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev.01.
 65
-   Ver Orientações relativas ao consentimento na aceção do Regulamento (UE) 2016/679, do Grupo de Trabalho
-do Artigo 29.º, WP259 rev.01, p. 3 e 4.
+   See Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev.01, p. 3-4.
 66
-   Ver Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD
-no contexto da prestação de serviços em linha aos titulares dos dados, versão 2.0, 8 de outubro de 2019,
-disponível           em           https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-
-adopted_after_public_consultation_pt.pdf.
-                                                       21
-Adotadas
+   See Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the
+provision of online services to data subjects, Version 2.0, 8 October 2019, available at
+                                                        18
+Adopted
 
-Exemplo 2:
+5.2.2 Data provided by the user of the social media platform to the targeter
+Targeting can also involve data provided by the data subject to the targeter, who then uses the data
+collected in order to target the data subject on social media. For example, “list-based” targeting occurs
+where a targeter uploads pre-existing lists of personal data (such as e-mail addresses or phone
+numbers) for the social media provider to match against the information on the platform. In this case,
+the social media provider compares the data uploaded by the targeter with user data that it already
+possesses, and any users that match are added to or excluded from the target audience (that is, the
+‘cluster’ of persons to which the advertisement will be displayed on the social media platform). The
+social media provider may also allow the targeter to ‘check’ the list prior to finalising it, meaning that
+some processing takes place even before the audience has been created.
 
-A Sr.ª Jones, que está a comprar uma casa e entra em contacto com o banco X para marcar uma reunião
-sobre uma eventual hipoteca. Para marcar essa reunião, envia uma mensagem de correio eletrónico
-ao banco. Depois da reunião, a Sr.ª Jones decide não ficar cliente do banco. Todavia, o banco adicionou
-o endereço de correio eletrónico da Sr.ª Jones à sua base de dados de endereços de correio eletrónico
-de clientes. Em seguida, o banco utiliza esta base de dados para permitir que o prestador de redes
-sociais «cruze» a lista de endereços de correio eletrónico que possui com os da plataforma de redes
-sociais, a fim de efetuar o direcionamento de todo o leque de serviços financeiros para as pessoas
-singulares em causa através da plataforma de redes sociais.
+Example 2:
 
-Exemplo 3:
+Ms. Jones contacts Bank X to set up an appointment regarding a possible mortgage because she is
+buying a house. She contacts the bank via e-mail to set up the appointment. Following the
+appointment, Ms. Jones decides not to become a customer of the bank. The bank has nevertheless
+added the e-mail address of Ms. Jones to its customer e-mail database. Then, the bank uses its e-mail
+database, by allowing the social media provider to ‘matching’ the list of e-mail addresses it holds with
+those held by the social media platform, in order to target the individuals concerned with the full range
+of financial services on the social media platform.
 
-O Sr. Lopez é cliente do banco X há quase um ano. Quando se tornou cliente, forneceu um endereço
-de correio eletrónico e foi informado pelo banco X, no momento da recolha, de que: a) O seu endereço
-de correio eletrónico seria utilizado para o envio de publicidade de ofertas associadas aos serviços
-bancários que já utiliza; b) Pode opor-se a este tratamento em qualquer altura. O banco adicionou o
-endereço de correio eletrónico à sua base de dados de endereços de correio eletrónico de clientes.
-Posteriormente, o banco utiliza a sua base de dados de endereços de correio eletrónico para efetuar
-o direcionamento de todo o leque de serviços financeiros de que dispõe para os seus clientes através
-da plataforma de redes sociais67.
+Example 3:
 
-     A. Funções
-Nestes exemplos, o responsável pelo direcionamento, ou seja, o banco, atua como responsável pelo
-direcionamento, porque determina as finalidades e os meios do tratamento através da recolha, do
-tratamento e da transmissão de forma ativa dos dados pessoais das pessoas singulares em causa para
-o prestador de redes sociais para efeitos de publicidade. O prestador de redes sociais, por sua vez,
-atua como responsável pelo tratamento, porque tomou a decisão de utilizar dados pessoais adquiridos
-do utilizador das redes sociais (ou seja, o endereço de correio eletrónico que forneceu ao criar a sua
-conta), a fim de permitir ao responsável pelo direcionamento apresentar publicidade a uma audiência
-de pessoas singulares específicas.
+Mr. Lopez has been a customer at Bank X for almost a year. When he became a customer, he provided
+an e-mail address and was informed by Bank X, at the moment of collection, that: (a) his e-mail address
+would be used for advertising of offers linked to the bank services that he is already using; and (b) he
+may object to this processing at any time. The bank has added his e-mail address to its customer e-
+mail database. Afterwards, the bank uses its e-mail database to target its customers on the social
+media platform with the full range of financial services it has on offer.67
 
-Existe um controlo conjunto em relação às operações de tratamento para as quais o prestador de redes
-sociais e o responsável pelo direcionamento determinam conjuntamente as finalidades e os meios,
-neste caso, o carregamento de identificadores únicos relacionados com a audiência visada, a
-correspondência, a seleção de critérios de direcionamento e a subsequente apresentação da
-publicidade, bem como qualquer comunicação de resultados relacionados com a campanha de
-direcionamento68.
+    A. Roles
+In these examples, the targeter, i.e. the bank, acts as a controller because it determines the purposes
+and means of the processing by actively collecting, processing and transmitting the personal data of
+the individuals concerned to the social media provider for advertising purposes. The social media
+provider, in turn, acts as a controller because it has taken the decision to use personal data acquired
+from the social media user (i.e. the e-mail address provided when setting up his or her account) in
+order to enable the targeter to display advertising to an audience of specific individuals.
+
+Joint controllership exists in relation to the processing operations for which the social media provider
+and the targeter jointly determine the purposes and means, in this case, uploading unique identifiers
+related to the intended audience, matching, selection of targeting criteria and subsequent display of
+the advertisement, as well as any reporting relating to the targeting campaign.68
 
 
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-
+adopted_after_public_consultation_en.pdf
 67
-   Em situações nas quais são utilizados endereços de correio eletrónico para o envio de ações de comercialização
-direta aos utilizadores, os responsáveis pelo tratamento devem também ter em conta as disposições do
-artigo 13.º da Diretiva Privacidade Eletrónica.
+   In situations where e-mail addresses are used to send direct marketing to users controllers must also take into
+account the provisions of Article 13 of the ePrivacy Directive. ”.
 68
-   A determinação das finalidades e dos meios do tratamento do responsável pelo direcionamento e do prestador
-de redes sociais é semelhante (embora não idêntica) ao exemplo 1. Ao carregar a lista de endereços de correio
-eletrónico e ao estabelecer os critérios adicionais de direcionamento, o responsável pelo direcionamento define
-os critérios para a realização do direcionamento e designa as categorias de pessoas cujos dados pessoais devem
-ser utilizados. Do mesmo modo, o prestador de redes sociais determina os dados pessoais que devem ser
-tratados, ao permitir que determinadas categorias de dados sejam tratadas, os critérios de direcionamento a
-disponibilizar e quem terá acesso a (que tipos de) dados pessoais que são tratados no contexto de uma
-determinada campanha de direcionamento. A finalidade partilhada subjacente a estas operações de tratamento
-assemelha-se à finalidade identificada no exemplo 1, nomeadamente, a apresentação de publicidade específica
-                                                         22
-Adotadas
+   The determination of purposes and means of the processing of the targeter and social media provider is similar
+(albeit not identical) to Example 1. By uploading the list of email addresses and setting the additional targeting
+criteria, the targeter defines the criteria in accordance with which the targeting takes place and designates the
+                                                         19
+Adopted
 
-Em ambos os exemplos o banco atua como o único responsável pelo tratamento em relação à recolha
-inicial dos endereços de correio eletrónico da Sr.ª Jones e do Sr. Lopez, respetivamente. O prestador
-de redes sociais não participa de forma alguma na determinação das finalidades e dos meios desta
-recolha. O controlo conjunto tem início com a transmissão dos dados pessoais e com sua recolha
-simultânea pelo prestador de redes sociais. Continua ao longo da apresentação da publicidade
-direcionada e termina (na maioria dos casos) quando é concluída uma fase subsequente de
-comunicação de resultados. Em alguns casos, o controlo conjunto pode estender-se, inclusivamente,
-até à fase de apagamento dos dados, na medida em que o responsável pelo direcionamento continue
-a participar na determinação das finalidades e dos meios.
+In both examples the bank acts as the sole controller regarding the initial collection of the email
+addresses of Ms. Jones and Mr. Lopez respectively. The social media provider does not participate in
+any way to determine the means and purposes of this collection. The joint control begins with the
+transmission of the personal data and the simultaneous collection of it by the social media provider. It
+continues throughout the display of the targeted advertisement ends (in most of the cases) when a
+subsequent reporting phase is completed. In some cases, joint controllership can be further extended,
+even until the deletion of the data phase insofar as the targeter still continues to participate in the
+determination of purposes and means.
 
-O banco atua como o único responsável pelo tratamento ao recolher os endereços de correio
-eletrónico da Sr.ª Jones e do Sr. Lopez, respetivamente, porque a recolha de dados é anterior (e não
-está indissociavelmente ligada) à campanha de direcionamento. Por conseguinte, neste caso importa
-distinguir entre o conjunto inicial de operações de tratamento para as quais o banco é o único
-responsável pelo tratamento e um tratamento posterior para o qual existe o controlo conjunto. A
-responsabilidade do banco não se estende às operações que ocorram depois da conclusão do
-direcionamento e da comunicação de resultados e nas quais o responsável pelo direcionamento não
-participou nas finalidades e nos meios, onde o prestador de redes sociais atua como o único
-responsável pelo tratamento.
+The reason why the bank acts as sole controller when collecting the e-mail addresses from Ms. Jones
+and Mr. Lopez respectively, is because the collection of data occurs prior to (and is not inextricably
+linked to) the targeting campaign. Therefore, in this case one must distinguish between the initial set
+of processing operations for which only the bank is a controller and a subsequent processing for which
+joint control exists. The responsibility of the bank does not extend to operations occurring after the
+targeting and reporting has been completed and in which the targeter has not participated in the
+purposes and means and for which the social media provider acts as the sole controller.
 
-    B. Fundamento jurídico
+    B. Legal basis
 
-No Exemplo 2, o artigo 6.º, n.º 1, alínea f), do RGPD não faculta um fundamento jurídico adequado
-para justificar o tratamento no caso em apreço, tendo em conta o contexto em que os dados pessoais
-foram fornecidos. De facto, a Sr.ª Jones contactou o banco com o único objetivo de marcar uma
-reunião, após a qual comunicou a sua intenção de não utilizar os serviços oferecidos pelo banco. Assim,
-pode considerar-se que não existe uma expectativa razoável por parte da Sr.ª Jones de que os seus
-dados pessoais sejam utilizados para efeitos de direcionamento («redirecionamento»). Além disso, um
-teste de compatibilidade nos termos do artigo 6.º, n.º 4, do RGPD provavelmente demonstraria que
-este tratamento não é compatível com a finalidade para a qual os dados pessoais foram inicialmente
-recolhidos.
+In Example 2, Article 6(1)f GDPR does not provide an appropriate legal basis to justify the processing
+in this case, taking into account the context in which the personal data was provided. Indeed, Ms. Jones
+contacted the bank for the sole purpose of setting up an appointment, following which she
+communicated her intention not to make use of the services offered by the bank. Hence, one can
+consider that there is no reasonable expectation by Ms. Jones that her personal data shall be used for
+targeting purposes (‘re-targeting’). Moreover, a compatibility test under Article 6(4) GDPR would likely
+lead to the outcome that this processing is not compatible with the purpose for which the personal
+data are initially collected.
 
-No exemplo 3, o responsável pelo direcionamento poderá recorrer ao interesse legítimo para justificar
-o tratamento, tendo em conta, nomeadamente, que: a) o Sr. Lopez foi informado de que o seu
-endereço de correio eletrónico podia ser utilizado para efeitos de publicidade através das redes sociais,
-para serviços associados ao utilizado pelo titular dos dados; b) a publicidade diz respeito a serviços
-semelhantes aos contratados pelo Sr. Lopez; e c) foi dada ao Sr. Lopez a possibilidade de oposição
-prévia ao tratamento, no momento em que os dados pessoais foram recolhidos pelo banco. No
-entanto, o CEPD gostaria de clarificar que o cumprimento dos deveres em matéria de informação nos
-termos dos artigos 13.º e 14.º do RGPD e a ponderação dos interesses a efetuar de acordo com o
-artigo 6.º, n.º 1, alínea f), do RGPD são dois conjuntos diferentes de obrigações. Por conseguinte, o
-mero cumprimento dos deveres em matéria de informação de acordo com os artigos 13.º e 14.º do
-RGPD não é uma medida de transparência a ter em consideração para a ponderação dos interesses
-nos termos do artigo 6.º, n.º 1, alínea f), do RGPD.
+In Example 3, the targeter might be able to rely on legitimate interest to justify the processing, taking
+into account inter alia that Mr. Lopez was: (a) informed of the fact that his e-mail address may be used
+for purposes of advertising via social media for services linked to the one used by the data subject; (b)
+the advertisement relates to services similar to those for Mr. Lopez is already a customer, and (c) Mr.
+Lopez was given the ability to object prior to the processing, at the moment where the personal data
+were collected by the bank. However, the EDPB would like to clarify that the fulfillment of information
+duties as per Articles 13 and 14 GDPR and the weighing of interests to be performed according to
+Article 6 (1)(f) GDPR are two different sets of obligations. Therefore, the mere fulfilment of information
+duties according to Articles 13 and 14 GDPR is not a transparency measure to be taken into
+consideration for the weighing of interests according to Article 6 (1)(f) of GDPR.
 
-5.3 Direcionamento com base em dados observados
-
-a um conjunto de pessoas singulares (neste caso, os utilizadores das redes sociais) que constituem a audiência-
-objetivo.
+5.3 Targeting on the basis of observed data
 
 
-                                                      23
-Adotadas
 
-Os prestadores de redes sociais podem ter a capacidade de observar o comportamento dos seus
-utilizadores de várias formas. Por exemplo, a observação pode ser realizada através do próprio serviço
-de redes sociais ou pode também ser possível em sítios Web externos, em virtude de píxeis ou de
-módulos sociais.
 
-Exemplo 4: direcionamento baseado em píxeis
+categories of persons whose personal data is to be made use of. The social media provider likewise makes a
+determination as to whose personal data shall be processed, by allowing which categories of data shall be
+processed, which targeting criteria shall be offered and who shall have access (to what types of) personal data
+that is processed in the context of a particular targeting campaign. The shared purpose underlying these
+processing operations resembles the purpose identified in Example 1, namely the display a specific
+advertisement to a set of individuals (in this case: social media users) who make up the target audience.
 
-O Sr. Schmidt está a navegar na Internet com o objetivo de comprar uma mochila. Acede ao sítio Web
-«BestBags.com», visualiza uma série de artigos, mas decide não efetuar a compra. O administrador de
-«BestBags.com» pretende efetuar o direcionamento para os utilizadores das redes sociais que
-acederam ao seu sítio Web sem efetuar uma compra. Para o efeito, integra no seu sítio Web um
-chamado «píxel de monitorização»69, disponibilizado pelo prestador de redes sociais. Depois de sair
-do sítio Web BestBags.com e iniciar sessão na sua conta das redes sociais, o Sr. Schmidt começa a ver
-publicidade das mochilas que estava a ponderar enquanto navegava em BestBags.com.
 
-Exemplo 5: geodirecionamento
+                                                      20
+Adopted
 
-A Sr.ª Michu instalou a aplicação de um prestador de redes sociais no seu telemóvel inteligente. Está
-a passear por Paris durante as suas férias. O prestador de redes sociais recolhe continuamente
-informações sobre a localização da Sr.ª Michu através das funcionalidades GPS do seu telemóvel
-inteligente70, ao utilizar as permissões que foram concedidas ao prestador de redes sociais quando a
-aplicação foi instalada. A Sr.ª Michu está alojada num hotel localizado ao lado de uma pizaria. A pizaria
-utiliza a funcionalidade de geodirecionamento disponibilizada pelo prestador de redes sociais para
-efetuar o direcionamento a pessoas singulares que se encontram a 1 km das suas instalações pela
-primeira vez nos últimos seis meses. Ao abrir a aplicação do prestador de redes sociais no seu
-telemóvel inteligente, a Sr.ª Michu vê publicidade da pizaria e, como está com fome, compra uma piza
-através do sítio Web.
+There are several ways in which social media providers may be able to observe the behaviour of their
+users. For example, observation is possible through the social media service itself or may also be
+possible on external websites by virtue of social plug-ins or pixels.
 
-Exemplo 6:
+Example 4: Pixel-based targeting
 
-A Sr.ª Ghorbani cria uma conta numa plataforma de redes sociais. Durante o processo de registo é-lhe
-perguntado se concorda com o tratamento dos seus dados pessoais para ver publicidade direcionada
-na sua página de redes sociais, com base nos dados que fornece diretamente ao prestador de redes
-sociais (como a idade, o sexo e a localização), bem como com base na sua atividade noutros sítios Web
-fora da plataforma de redes sociais através da utilização de testemunhos de conexão. É informada de
-que estes dados serão recolhidos através de píxeis de monitorização ou de módulos das redes sociais.
-Os processos são-lhe claramente descritos, bem como o facto de o direcionamento envolver outras
-entidades que são conjuntamente responsáveis por assegurar a conformidade com o RGPD. Também
-lhe é explicado que pode retirar o seu consentimento em qualquer altura e é-lhe apresentada uma
-ligação para a política de privacidade. Como a Sr.ª Ghorbani está interessada em ver publicidade
+Mr Schmidt is browsing online in order to purchase a backpack. He visits the website “BestBags.com”,
+views a number of items, but decides not to make a purchase. The operator of “BestBags.com” wishes
+to target social media users who have visited their website without making a purchase. To this end, it
+integrates a so-called “tracking pixel”69 on its website, which is made available by the social media
+provider. After leaving the website of BestBags.com and logging into his social media account, Mr
+Schmidt begins to see advertisement for the backpacks he was considering when browsing
+BestBags.com.
+
+Example 5: Geo-targeting
+
+Mrs Michu has installed the application of a social media provider on her smartphone. She is walking
+around Paris during her holidays. The social media provider collects information regarding Mrs Michu’s
+whereabouts via the GPS functionalities of her smartphone on an ongoing basis 70 , using the
+permissions that have been granted to the social media provider when the application was installed.
+Mrs Michu is staying at a hotel that is located next to a pizzeria. The pizzeria uses the geo-targeting
+functionality offered by the social media provider to target individuals who are within 1km of its
+premises for the first time in the last 6 months. When opening the social media provider’s application
+on her smartphone, Mrs Michu sees an advertisement from the pizzeria, decides that she is hungry
+and buys a pizza via its website.
+
+Example 6:
+
+Mrs Ghorbani creates an account on a social media platform. During the process of registration she is
+asked if she consents to the processing of her personal data to see targeted advertisement on her
+social media page, on the basis of data she directly provides to the social media provider (such as her
+age, sex and location), as well as on the basis of her activity on other websites outside of the social
+media platform using cookies. She is informed that this data will be collected via social media plug-ins
+or tracking pixels, the processes are clearly described to her, as well as the fact that targeting involves
+other entities who are jointly responsible for ensuring compliance with the GDPR. It is also explained
+to her that she can withdraw her consent at any time, and she is provided with a link to the privacy
+policy. Because Mrs Ghorbani is interested in seeing targeted advertisement on her social media page,
+she gives her consent. No advertising cookies are placed or collected until Mrs Ghorbani expresses
+here consent.
+
+Later on, she visits the website “Thelatesthotnews.com” that has a social media button integrated on
+it. A small but clearly visible banner appears on the right edge of the screen, asking Mrs Ghorbani to
 
 69
-   Os píxeis de monitorização são compostos por pequenos fragmentos de código que são integrados no sítio
-Web do responsável pelo direcionamento. Quando uma pessoa singular acede ao sítio Web do responsável pelo
-direcionamento no seu navegador, este envia automaticamente um pedido ao servidor do prestador de redes
-sociais para obter o píxel de monitorização. Quando o píxel de monitorização é descarregado, o prestador de
-redes sociais normalmente consegue monitorizar a sessão do utilizador (ou seja, o comportamento da pessoa
-singular nos sítios Web em questão). Os dados observados podem ser utilizados, por exemplo, para adicionar um
-utilizador das redes sociais a uma determinada audiência-objetivo.
+   Tracking pixels are comprised of small snippets of code that are integrated into the website of the targeter.
+When an individual accesses the targeter’s website in their browser, the browser automatically sends a request
+to the social media provider’s server to obtain the tracking pixel. Once the tracking pixel is downloaded, the
+social media provider is typically able to monitor the user’s session (i.e. the individual’s behaviour on the
+website(s) in question). The observed data can be used in order for example to add a social media user to a
+particular target audience.
 70
-   Um prestador de redes sociais poderá também determinar a localização dos seus utilizadores com base
-noutros pontos de dados, incluindo o endereço IP e informações Wi-Fi de dispositivos móveis, ou os dados
-derivados do utilizador (por exemplo, se colocarem informações sobre a sua localização numa publicação na
-plataforma).
-                                                     24
-Adotadas
+   A social media provider may also be able to determine the whereabouts of their users on the basis of other
+data points, including IP address and WiFi information from mobile devices, or the user-derived data (e.g. if they
+place information about their location on the platform in a post).
+                                                       21
+Adopted
 
-direcionada na sua página de redes sociais, dá o seu consentimento. Não são colocados nem recolhidos
-testemunhos de conexão de publicidade até a Sr.ª Ghorbani manifestar o seu consentimento.
+consent to the transmission of her personal data to the social media provider using cookies and social
+media plug-ins. The website operator undertook technical measures so that no personal data is
+transferred to the social media platform until she gives her consent.
 
-Mais tarde, acede ao sítio Web «Thelatesthotnews.com», que integra um botão de redes sociais. Uma
-faixa pequena, mas claramente visível, surge na extremidade direita do ecrã, questionando se a Sr.ª
-Ghorbani concorda com a transmissão dos seus dados pessoais para o prestador de redes sociais
-através da utilização de testemunhos de conexão e de módulos das redes sociais. O administrador do
-sítio Web tomou medidas técnicas para que nenhum dado pessoal seja transferido para a plataforma
-das redes sociais até dar o seu consentimento.
+5.3.1 Roles
+In Example 4, both the targeter and the social media provider participate in determining the purposes
+and means of the processing of personal data, which results in the display of the advertisement to Mr.
+Schmidt.
 
+As far as the determination of purpose is concerned, Bestbags.com and the social media provider
+jointly determine the purpose of the processing, which is to display a specific advertisement on the
+social media platform to the individuals who make up the target audience. By embedding the pixel into
+its website, Bestbags.com exerts a decisive influence over the means of the processing. The collection
+and transmission of the personal data of visitors of the website to the social media provider would not
+have occurred without the embedding of that pixel. The social media provider, on the other hand, has
+developed and offers the software code (pixel) that leads to the automatic collection, transmission and
+evaluation for marketing purposes of personal data to the social media provider. As a result, joint
+controllership exists in relation to the collection of personal data and its transmission by way of pixels,
+as well as in relation to the matching and subsequent display of the advertisement to Mr Schmidt on
+the social platform, and for any reporting relating to the targeting campaign. Joint controllership also
+exists, for similar reasons, in Example 6.
 
-5.3.1 Funções
-No Exemplo 4, tanto o responsável pelo direcionamento como o prestador de redes sociais participam
-na determinação das finalidades e dos meios do tratamento de dados pessoais, o que resulta na
-apresentação da publicidade ao Sr. Schmidt.
+In Example 5, the pizzeria exercises a decisive influence over the processing of personal data by
+defining the parameters of the ad targeting in accordance with its business needs (for instance,
+opening hours of the pizzeria and geo-location of persons close to the pizzeria in this time-slot), and
+therefore must be regarded as taking part in the determination of the purposes and means of the data
+processing. The social media provider, on the other hand, has collected the information regarding Mrs.
+Michu’s location (via GPS) for its purpose of enabling such location-based targeted advertising. As a
+result, joint control exists between the targeter and the social platform in relation to the collection and
+analysis of Mrs. Michu’s location, as well as the display of the advertisement, in order to target her (as
+a person appearing within 1km of the pizzeria for the first time in the last 6 months) with the ad.
 
-No que diz respeito à determinação da finalidade, o sítio Web Bestbags.com e o prestador de redes
-sociais determinam conjuntamente a finalidade do tratamento, que consiste na apresentação de
-publicidade específica na plataforma de redes sociais às pessoas singulares que constituem a
-audiência-objetivo. Ao incorporar o píxel no seu sítio Web, a Bestbags.com exerce uma influência
-decisiva nos meios do tratamento. A recolha e a transmissão dos dados pessoais dos visitantes do sítio
-Web ao prestador de redes sociais não ocorreriam sem a incorporação desse píxel. O prestador de
-redes sociais, por outro lado, desenvolveu e disponibiliza o código de software (píxel) que conduz à
-recolha, à transmissão e à avaliação automáticas para efeitos de comercialização de dados pessoais
-para o prestador de redes sociais. Como resultado, existe um controlo conjunto no que diz respeito à
-recolha de dados pessoais e à sua transmissão por meio de píxeis, à correspondência e à posterior
-apresentação da publicidade ao Sr. Schmidt na plataforma social, bem como em relação a qualquer
-comunicação de resultados relacionados com a campanha de direcionamento. No exemplo 6, também
-se verifica a existência de controlo conjunto, por motivos semelhantes.
-
-No exemplo 5, a pizaria exerce uma influência decisiva no tratamento de dados pessoais, ao definir os
-parâmetros do direcionamento da publicidade de acordo com as suas necessidades empresariais (por
-exemplo, horário de funcionamento da pizaria e geolocalização de pessoas nas suas proximidades
-neste intervalo de tempo), e, por conseguinte, deve considerar-se que participa na determinação das
-finalidades e dos meios do tratamento de dados. O prestador de redes sociais, por outro lado, recolheu
-as informações a respeito da localização da Sr.ª Michu (através de GPS), com a finalidade de permitir
-essa publicidade direcionada baseada na localização. Como resultado, existe um controlo conjunto
-entre o responsável pelo direcionamento e a plataforma de redes sociais, no que se refere à recolha e
-à análise da localização da Sr.ª Michu, bem como à apresentação da publicidade, a fim de lhe direcionar
-(como uma pessoa que aparece a 1 km da pizaria pela primeira vez nos últimos seis meses) o anúncio.
-
-5.3.2 Fundamento jurídico
-Em primeiro lugar, dado que os exemplos 4, 5 e 6 envolvem a utilização de testemunhos de conexão,
-têm de ser tidos em conta os requisitos decorrentes do artigo 5.º, n.º 3, da Diretiva Privacidade
-Eletrónica.
-A este respeito, importa notar que o artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica exige que
-sejam fornecidas aos utilizadores informações claras e completas, nomeadamente sobre as finalidades
-
-
-
-
-                                                  25
-Adotadas
-
-do tratamento, antes de dar o seu consentimento 71 , sob reserva de exceções muito restritas 72 .
-Informações claras e completas implica que um utilizador esteja em condições de poder determinar
-facilmente as consequências de qualquer consentimento que possa dar e assegurar que o
-consentimento dado é informado73. Como resultado, o responsável pelo tratamento terá de informar
-os titulares dos dados sobre todas as finalidades relevantes do tratamento, incluindo qualquer
-tratamento posterior dos dados pessoais obtidos por meio do acesso a informações conservadas no
-equipamento terminal.
-Para que seja válido, o consentimento obtido para a aplicação de tecnologias de monitorização tem de
-cumprir as condições estabelecidas no artigo 7.º do RGPD 74. Por exemplo, o consentimento não é
-considerado válido se for permitida a utilização de testemunhos de conexão por meio de uma caixa de
-verificação previamente assinalada pelo prestador de serviços, que o utilizador deve desmarcar para
-recusar o seu consentimento75. Com base no considerando 32, os atos como o deslocamento ou o
-deslizar numa página Web ou uma atividade semelhante do utilizador não satisfazem, em caso algum,
-o requisito de um ato positivo claro: tais atos podem ser difíceis de distinguir de outras atividades ou
-interações de um utilizador e, por conseguinte, determinar que foi obtido um consentimento
-inequívoco também não é possível. Além disso, nesse caso, será difícil proporcionar ao utilizador uma
-forma de retirar o consentimento tão simples como a utilizada para dar o consentimento76.
-
-Qualquer responsável (conjunto) pelo tratamento que pretenda recorrer ao consentimento como
-fundamento jurídico é responsável por assegurar que o consentimento obtido é válido. No acórdão
-Fashion ID, o TJUE salientou a importância de assegurar a proteção eficaz e atempada dos direitos do
-titular dos dados e que o consentimento não deve ser dado unicamente ao responsável conjunto pelo
-tratamento que intervém posteriormente no tratamento dos dados. O consentimento válido deve ser
-obtido antes do tratamento, o que implica que os responsáveis (conjuntos) pelo tratamento têm de
-avaliar o momento e o modo do fornecimento das informações e da obtenção do consentimento. Por
-outras palavras, a questão de saber qual dos responsáveis conjuntos pelo tratamento deve ser
-responsável pela obtenção do consentimento resume-se a determinar qual deles interage primeiro
-com o titular dos dados. No exemplo 6, como a colocação de testemunhos de conexão e o tratamento
-de dados pessoais ocorre no momento da criação da conta, o prestador de redes sociais deve obter o
-consentimento válido antes da colocação de testemunhos de conexão para efeitos de publicidade.
-
-O CEPD recorda igualmente que, se o consentimento pretendido puder ser invocado por múltiplos
-responsáveis (conjuntos) pelo tratamento ou se os dados puderem ser transferidos ou tratados por
-outros responsáveis pelo tratamento que pretendam invocar o consentimento original, estas
-organizações devem ser todas identificadas 77 . Na medida em que não se conheçam todos os
-responsáveis conjuntos pelo tratamento no momento em que o prestador de redes sociais pede o
-consentimento, este último terá necessariamente de ser complementado por informações adicionais
-
+5.3.2 Legal basis
+First of all, because Examples 4, 5 and 6 involve the use of cookies, requirements resulting from Article
+5(3) of the ePrivacy Directive need to be taken into account.
+In this regard, it should be noted that Article 5(3) of the ePrivacy Directive requires that users are
+provided with clear and comprehensive information, inter alia about the purposes of the processing,
+prior to giving their consent 71 , subject to very narrow exceptions. 72 Clear and comprehensive
+information implies that a user is in a position to be able to determine easily the consequences of any
+consent he or she might give and ensure that the consent given is well informed.73 As a result, the
+controller will have to inform data subjects about all the relevant purposes of the processing –
+including any subsequent processing of the personal data obtained by accessing information in the
+terminal equipment.
 
 
 71
-   Acórdão do Tribunal de Justiça da União Europeia no processo C-673/17, Planet49 Gmbh, n.º 73.
+   Court of Justice of the European Union, Judgment in Planet 49 Gmbh, Case C-673/17, paragraph 73.
 72
-   Ver Parecer 5/2019 sobre a interação entre a Diretiva Privacidade Eletrónica e o RGPD, particularmente em
-matéria de competência, atribuições e poderes das autoridades de proteção de dados. Ver também acórdão do
-Tribunal de Justiça da União Europeia no processo C-40/17, Fashion ID, n.os 89 a 91.
+   See Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the
+competence, tasks and powers of data protection authorities. See also Court of Justice of the European Union,
+Judgment in Fashion ID, C-40/17, paragraphs 89-91.
 73
-   Idem, n.º 74.
+   Idem, paragraph 74.
+                                                       22
+Adopted
+
+To be valid, the consent collected for the implementation of tracking technologies needs to fulfil the
+conditions laid out in Article 7 GDPR.74 For instance, consent is not validly constituted if the use of
+cookies is permitted by way of a checkbox pre-ticked by the service provider, which the user must
+deselect to refuse his or her consent.75 Based on recital 32, actions such as scrolling or swiping through
+a webpage or similar user activity will not under any circumstances satisfy the requirement of a clear
+and affirmative action: such actions may be difficult to distinguish from other activity or interaction by
+a user and therefore determining that an unambiguous consent has been obtained will also not be
+possible. Furthermore, in such a case, it will be difficult to provide a way for the user to withdraw
+consent in a manner that is as easy as granting it.76
+
+Any (joint) controller seeking to rely on consent as a legal basis is responsible for ensuring that valid
+consent is obtained. In Fashion ID, the CJEU emphasized the importance of ensuring the efficient and
+timely protection of the data subject rights, and that consent should not be given only to the joint
+controller that is involved later in the processing. Valid consent must be obtained prior to the
+processing, which implies that (joint) controllers need to assess when and how information should be
+provided and consent should be obtained. In other words, the question as to which of the joint
+controllers should be in charge of collecting the consent comes down to determining which of them is
+involved first with the data subject. In example 6, as the placement of cookies and processing of
+personal data occurs at the moment of account creation, the social media provider must collect her
+valid consent before the placement of advertisement cookies.
+
+The EDPB also recalls that in a case where the consent sought is to be relied upon by multiple (joint)
+controllers or if the data is to be transferred to or processed by other controllers who wish to rely on
+the original consent, these organisations should all be named.77 Insofar as not all joint controllers are
+known at the moment when the social media provider seeks the consent, the latter will necessarily
+need to be complemented by further information and consent collected by the website operator
+embedding the social media plugin (i.e. Thelatesthotnews.com in Example 6).
+
+The EDPB emphasizes that the consent that should be collected by the website operator for the
+transmission of personal data triggered by its website (by embedding a social plug-in) relates only to
+the operation or set of operations involving the processing of personal data in respect of which the
+operator actually determines the purposes and means 78 . The collection of consent by a website
+operator, i.e. “Thelatesthotnews.com” in Example 6 for instance, does not negate or in any way
+diminish the obligation of the social media provider to ensure the data subject has provided a valid
+consent for the processing for which it is responsible as a joint controller 79 , as well as for any
+subsequent or further processing it carries out for which the website operator does not jointly
+determine the purposes and means (e.g. subsequent profiling operations for targeting purposes).
+
+In addition, any subsequent processing of personal data, including personal data obtained by cookies,
+social plug-ins or pixels, must also have a legal basis under Article 6 of the GDPR in order to be lawful.80
+For what concerns the legal basis of the processing in Examples 4, 5, and 6, the EDPB considers that
+
 74
-   Diretrizes 05/2020 do CEPD relativas ao consentimento na aceção do Regulamento (UE) 2016/679, versão 1.1,
-p. 6.
+   EDPB Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1, p. 6.
 75
-   Acórdão do Tribunal de Justiça da União Europeia no processo C-637/17, Planet 49, n.º 57.
+   Court of Justice of the European Union, Judgement in Planet 49, C-637/17, paragraph 57.
 76
-   Diretrizes 05/2020 do CEPD relativas ao consentimento na aceção do Regulamento (UE) 2016/679, versão 1.1,
-p. 19.
+   EDPB Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1, p. 19.
 77
-   Diretrizes 05/2020 do CEPD relativas ao consentimento na aceção do Regulamento (UE) 2016/679, versão 1.1,
-p. 18, n.º 65.
-                                                      26
-Adotadas
-
-e um novo consentimento, obtido pelo administrador do sítio Web que incorporou o módulo de redes
-sociais (ou seja, no exemplo 6, Thelatesthotnews.com).
-
-O CEPD sublinha que o consentimento que deve ser obtido pelo administrador do sítio Web para a
-transmissão de dados pessoais desencadeada pelo seu sítio Web (através da incorporação de um
-módulo social) diz unicamente respeito à operação, ou ao conjunto de operações, que envolve o
-tratamento de dados pessoais relativamente aos quais o administrador determina efetivamente as
-finalidades e os meios78. A obtenção do consentimento pelo administrador de um sítio Web, ou seja,
-no exemplo 6 «Thelatesthotnews.com», por exemplo, não nega nem diminui de forma alguma a
-obrigação do prestador de redes sociais no que toca a assegurar que o titular dos dados deu um
-consentimento válido para o tratamento pelo qual é responsável, na qualidade de responsável
-conjunto79, bem como para qualquer tratamento subsequente ou posterior que efetue e para o qual
-o administrador do sítio Web não determine conjuntamente as finalidades e os meios (por exemplo,
-operações subsequentes de definição de perfis para efeitos de direcionamento).
-
-Além disso, para que seja lícito, qualquer tratamento subsequente dos dados pessoais, incluindo dados
-pessoais obtidos por meio de testemunhos de conexão, píxeis ou módulos de redes sociais, também
-deve possuir um fundamento jurídico nos termos do artigo 6.º do RGPD80. No que diz respeito ao
-fundamento jurídico do tratamento nos exemplos 4, 5 e 6, o CEPD considera que o interesse legítimo
-não pode constituir um fundamento jurídico adequado, uma vez que o direcionamento recorre à
-monitorização do comportamento das pessoas singulares em vários sítios Web e localizações por meio
-da utilização de tecnologias de monitorização81.
-
-Por conseguinte, em tais circunstâncias, o fundamento jurídico adequado para qualquer tratamento
-posterior ao abrigo do artigo 6.º do RGPD é suscetível de ser, igualmente, o consentimento do titular
-dos dados. De facto, ao avaliar a conformidade com o artigo 6.º do RGPD, deve ter-se em conta que o
-tratamento no seu conjunto envolve atividades específicas para as quais o legislador da UE procurou
-proporcionar proteção adicional82. Além disso, os responsáveis pelo tratamento devem ter em conta
-o impacto nos direitos dos titulares dos dados ao identificarem o fundamento jurídico adequado, a fim
-de respeitarem o princípio da lealdade83.
-
-5.4 Direcionamento com base em dados inferidos
-
-
-
+  EDPB Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1, p. 16, paragraph 65.
 78
-   Acórdão do TJUE de 29 de julho de 2019 no processo C-40/17, Fashion ID, ECLI:EU:C:2019:629, n.os 100 e 101.
+   Judgment in Fashion ID, 29 July 2019, C-40/17, ECLI:EU:C:2019:629, paragraphs 100-101.
 79
-   Tanto mais que, para a maioria das ferramentas de direcionamento, são as redes sociais que realizam as
-operações de leitura/escrita no terminal do utilizador, porque recolhem os dados pessoais para efeitos de
-publicidade direcionada. Por conseguinte, o prestador de redes sociais é responsável por assegurar a obtenção
-do consentimento válido.
+   This is all the more the case insofar as that for most targeting tools, it is the social media that carries out the
+read/write operations on the terminal of the user, because it collects the personal data for the purpose of
+targeted advertisement. Therefore, the social media provider is responsible for ensuring that valid consent is
+obtained.
 80
-   Parecer 5/2019 sobre a interação entre a Diretiva Privacidade Eletrónica e o RGPD, particularmente em
-matéria de competência, atribuições e poderes das autoridades de proteção de dados, n.º 41.
+  Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the
+competence, tasks and powers of data protection authorities, paragraph 41.
+                                                           23
+Adopted
+
+legitimate interest cannot act as an appropriate legal basis, as the targeting relies on the monitoring
+of individuals’ behaviour across websites and locations using tracking technologies.81
+
+Therefore, in such circumstances, the appropriate legal basis for any subsequent processing under
+Article 6 GDPR is also likely to be the consent of the data subject. Indeed, when assessing compliance
+with Article 6 GDPR, one should take into account that the processing as a whole involves specific
+activities for which the EU legislature has sought to provide additional protection. 82 Moreover,
+controllers must take into account the impact on data subjects’ rights when identifying the appropriate
+legal basis in order to respect the principle of fairness.83
+
+5.4 Targeting on the basis of inferred data
+Inferred data refers to data which is created by the controller on the basis of the data provided by the
+data subject (regardless of whether these data were observed or actively provided by the data subject,
+or a combination thereof).84 Inferences about data subjects can be made both by the social media
+provider and the targeter.
+
+For example, by virtue of monitoring the behaviour of its users over a long period of time, both on and
+off the social media (e.g. pages visited, time spent on each page, number of reconnections to that
+page, words searched, hyperlinks followed, “likes” given), the social media provider may be able to
+infer information regarding the interests and other characteristics of the user of the social media. In
+the same vein, a targeter might also be able to infer data about specific individuals and use that
+knowledge when targeting him or her to display ads on his or her social media page.
+
+ Example 7:
+
+ Mrs Delucca often “likes” photos posted by the Art Gallery “Beautifulart” by impressionist painter
+ Pataolito on its social media page. Museum Z is looking to attract individuals who are interested in
+ impressionist paintings in light of its upcoming exhibition. Museum Z uses the following targeting
+ criteria offered by the social media provider: “interested in impressionism”, gender, age and place
+ of residence. Mrs Delucca subsequently receives targeted advertisement by Museum Z related to
+ the upcoming exhibition of Museum Z on her social media page.
+
+ Example 8:
+
+ Mr Leon has indicated on his social media page that he is interested in sports. He has downloaded
+ an application on his mobile phone to follow the latest results of his favorite sport games, has set
+ on his browser the page www.livesportsresults.com as his homepage on his laptop, often uses his
+ desktop computer at work to search for the latest sports results on the internet. He also visits a
+ number of online gambling websites. The social media provider tracks Mr Leon’ online activity across
+
 81
-    Orientações sobre as decisões individuais automatizadas e a definição de perfis para efeitos do
-Regulamento (UE) 2016/679, do Grupo de Trabalho do Artigo 29.º, WP251 rev.01, p. 16. Ver também o parecer
-do Grupo de Trabalho do Artigo 29.º sobre o conceito de interesses legítimos, p. 110: «No cômputo geral, existe
-um desequilíbrio entre o interesse legítimo da empresa e a proteção dos direitos fundamentais dos utilizadores,
-e o artigo 7.º, alínea f), não deve ser invocado como fundamento jurídico para o tratamento. O artigo 7.º,
-alínea a), é um fundamento mais adequado, desde que estejam reunidas as condições para um consentimento
-válido.»
+   Article 29 Working Party, Opinion on profiling and automated decision making, WP 251, rev. 01, p. 15, see
+also Article 29 WP, Opinion on legitimate interest, p. 32 and 48: «Overall, there is an imbalance between the
+company’s legitimate interest and the protection of users’ fundamental rights and Article 7(f) should not be
+relied on as a legal ground for processing. Article 7(a) would be a more appropriate ground to be used,
+provided that the conditions for a valid consent are met».
 82
-   Parecer 5/2019 sobre a interação entre a Diretiva Privacidade Eletrónica e o RGPD, particularmente em
-matéria de competência, atribuições e poderes das autoridades de proteção de dados, n.º 41.
+   Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the
+competence, tasks and powers of data protection authorities, paragraph 41.
 83
-   Diretrizes 2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD no
-contexto da prestação de serviços em linha aos titulares dos dados, do Comité Europeu para a Proteção de Dados,
-versão 2.0, 8 de outubro de 2019, n.º 1.
-                                                        27
-Adotadas
-
-Os dados inferidos são dados criados pelo responsável pelo tratamento, com base nos dados
-fornecidos pelo respetivo titular (independentemente de estes dados terem sido observados ou
-fornecidos de forma ativa pelo titular, ou resultado de uma combinação de ambos) 84 . Tanto o
-prestador de redes sociais como o responsável pelo tratamento podem inferir informações sobre os
-titulares dos dados.
-
-Por exemplo, em virtude da monitorização do comportamento dos seus utilizadores durante um longo
-período, tanto nas redes sociais como fora delas (por exemplo, páginas visitadas, tempo despendido
-em cada página, número de novas ligações a essa página, palavras pesquisadas, hiperligações seguidas,
-«gostos» colocados), o prestador de redes sociais pode ter a capacidade de inferir informações a
-respeito dos interesses e de outras características do utilizador das redes sociais. No mesmo sentido,
-um responsável pelo direcionamento poderá também ser capaz de inferir dados sobre pessoas
-singulares específicas e utilizar esse conhecimento quando lhes direcionar publicidade nas respetivas
-páginas das redes sociais.
-
- Exemplo 7:
-
- Na sua página das redes sociais, a Sr.ª Delucca muitas vezes coloca «gosto» nas fotografias
- publicadas pela galeria de arte «Beautifulart», do pintor impressionista Pataolito. No âmbito da sua
- próxima exposição, o museu Z procura atrair pessoas singulares interessadas em pinturas
- impressionistas. O museu Z utiliza os seguintes critérios de direcionamento disponibilizados pelo
- prestador de redes sociais: «interessado em impressionismo», género, idade e local de residência.
- Posteriormente, a Sr.ª Delucca recebe, na sua página das redes sociais, publicidade direcionada do
- museu Z relacionada com a próxima exposição.
-
- Exemplo 8:
-
- O Sr. Leon indicou na sua página das redes sociais que está interessado em desporto. Descarregou
- uma aplicação para o seu telemóvel de modo a seguir os últimos resultados dos seus desportos
- favoritos, definiu o sítio Web www.livesportsresults.com como a página inicial do navegador no seu
- computador portátil e utiliza frequentemente o computador de secretária no trabalho para
- pesquisar os últimos resultados desportivos na Internet. Também acede a uma série de sítios Web
- de jogos de azar em linha. O prestador de redes sociais monitoriza a atividade em linha do Sr. Leon
- nos seus vários dispositivos, ou seja, no computador portátil, no telemóvel e no computador de
- secretária. Com base nesta atividade e em todas as informações fornecidas pelo Sr. Leon, o
- prestador de redes sociais infere que estará interessado em apostas em linha. Além disso, a
- plataforma de redes sociais desenvolveu critérios de direcionamento que permitem às empresas
- efetuar o direcionamento para pessoas que são suscetíveis de agir por impulso e ter um rendimento
- mais baixo. A empresa de apostas em linha «bestpaydayloans» pretende efetuar o direcionamento
- para os utilizadores interessados em apostas e que são suscetíveis de apostar grandes quantias. Por
- conseguinte, seleciona os critérios disponibilizados pelo prestador de redes sociais para efetuar o
- direcionamento para a audiência à qual a sua publicidade deve ser apresentada.
-
-
-5.4.1 Funções
-No que diz respeito à determinação das funções dos diferentes intervenientes, o CEPD assinala o
-seguinte: no exemplo 7, existe um controlo conjunto entre o museu Z e o prestador de redes sociais
-
+   European Data Protection Board, Guidelines 2/2019 on the processing of personal data under Article 6(1)(b)
+GDPR in the context of the provision of online services to data subjects, Version 2.0, 8 October 2019, paragraph
+1.
 84
-  Ver também Orientações sobre o direito à portabilidade dos dados, do Grupo de Trabalho do Artigo 29.º para
-a Proteção de Dados, WP 242 rev.01, 5 de abril de 2017, p. 12.
-                                                     28
-Adotadas
+   See also Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01,
+5 April 2017, p. 10.
+                                                          24
+Adopted
 
-no que diz respeito ao tratamento de dados pessoais para efeitos de publicidade direcionada, tendo
-em conta a recolha destes dados por meio da funcionalidade «gosto» na plataforma de redes sociais
-e à «análise» realizada pelo prestador de redes sociais a fim de disponibilizar o critério de
-direcionamento («interessado em impressionismo») ao responsável pelo direcionamento, com o
-objetivo de, em última instância, apresentar a publicidade85.
+ his multiple devices, i.e. his laptop, his cell mobile phone, and his desktop computer. Based on this
+ activity and all the information provided by Mr Leon, the social media provider infers that he will be
+ interested in online betting. In addition, the social media platform has developed targeting criteria
+ enabling companies to target people who are likely to be impulsive and have a lower income. The
+ online betting company “bestpaydayloans” wishes to target users that are interested in betting and
+ that are likely to be betting heavily. It therefore selects the criteria offered by the social media
+ provider to target the audience to whom its advertisement should be displayed.
 
-No exemplo 8, existe um controlo conjunto entre «bestpaydayloans» e o prestador de redes sociais
-em relação às operações de tratamento determinadas conjuntamente, neste caso, a seleção dos
-critérios de direcionamento e a subsequente apresentação da publicidade, bem como qualquer
-comunicação de resultados relacionada com a campanha de direcionamento.
 
-5.4.2 Fundamento jurídico
-O direcionamento para os utilizadores das redes sociais com base em dados inferidos para efeitos de
-publicidade normalmente envolve a definição de perfis86. O Grupo de Trabalho do Artigo 29.º clarificou
-anteriormente que, de acordo com o RGPD, a definição de perfis consiste num tratamento
-automatizado de dados pessoais que visa avaliar aspetos pessoais, em especial, analisar ou efetuar
-previsões sobre as pessoas, acrescentando que «[o] recurso ao termo “avaliar” sugere que a definição
-de perfis envolve algum tipo de apreciação ou juízo sobre uma pessoa»87. A definição de perfis pode
-ser lícita por referência a qualquer dos fundamentos jurídicos do artigo 6.º, n.º 1, do RGPD, sujeito à
-validade deste fundamento jurídico.
+5.4.1 Roles
+For what concerns the determination of the roles of the different actors, the EDPB notes the following:
+in Example 7, joint controllership exists between Museum Z and the social media provider concerning
+the processing of personal data for the purposes of targeted advertising, taking into account the
+collection of these data via the ‘like’-functionality on the social media platform, and the ‘analysis’
+undertaken by the social media provider in order to offer the targeting criterion (“interested in
+impressionism”) to the targeter fitting the purpose of finally displaying the advertisement.85
 
-No exemplo 7, é aplicável o artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica, na medida em que a
-apresentação da publicidade a respeito do pintor Pataolito na página da Sr.ª Delucca requer uma
-operação de leitura/escrita, de modo a fazer corresponder este «gosto» às informações anteriormente
-conservadas sobre a utilizadora pelo prestador de redes sociais. Por conseguinte, será necessário o
-consentimento para estas operações.
+In Example 8, joint control exists between “bestpaydayloans” and the social media provider in relation
+to the processing operations jointly determined, in this case the selection of targeting criteria and
+subsequent display of the advertisement, as well as any reporting relating to the targeting campaign.
 
-No que diz respeito ao exemplo 8, o CEPD recorda que, no caso de decisões automatizadas que
-produzam efeitos jurídicos ou que afetem significativamente o titular dos dados de forma similar,
-conforme estabelecido no artigo 22.º do RGPD, os responsáveis pelo tratamento de dados podem
-recorrer às seguintes exceções:
+5.4.2 Legal basis
+Targeting of social media users on the basis of inferred data for advertising purposes typically involves
+profiling.86 The WP29 has previously clarified that according to the GDPR, profiling is an automated
+processing of personal data which aims at evaluating personal aspects, in particular to analyse or make
+predictions about individuals, adding that “[t]he use of the word ‘evaluating’ suggests that profiling
+involves some form of assessment or judgement about a person”.87 Profiling may be lawful by reference
+to any of the legal grounds in Article 6(1) GDPR, subject to the validity of this legal basis.
 
-        Consentimento explícito de um titular dos dados;
+In Example 7, Article 5(3) of the ePrivacy Directive is applicable, insofar as the display of the
+advertisement on Mrs. Delucca’s page related to the painter Pataolito requires a read/write operation
+to match this “like” with information previously held on her by the social media provider. Consent will
+therefore be required for these operations.
 
-        A necessidade da decisão automatizada para a celebração ou a execução de um contrato; ou
+For what concerns Example 8, the EDPB recalls that in the case of automated decision-making which
+produces legal effects or similarly significantly affects the data subject, as set out in Article 22 GDPR
+data controllers may rely on the following exceptions:
 
-        Autorização do direito da União ou do Estado-Membro ao qual o responsável pelo tratamento
-         está sujeito.
+        explicit consent of a data subject;
 
-O Grupo de Trabalho do Artigo 29.º já indicou que «[e]m muitos casos típicos, a decisão de apresentar
-publicidade personalizada com base na definição de perfis não terá efeitos similarmente significativos
-nas pessoas [...]. Todavia, estes efeitos podem fazer-se sentir, em função das características específicas
-de cada caso, incluindo:
+        the necessity of the automated decision-making for entering into, or performance of, a
+         contract; or
 
-        a dimensão intrusiva do processo de definição de perfis, nomeadamente o seguimento de
-         pessoas em diferentes sítios Web, dispositivos e serviços;
+        authorisation by Union or Member State law to which the controller is subject.
+
 
 
 85
-   No que se refere às páginas das redes sociais, as condições para o controlo conjunto também podem ser
-cumpridas em relação às informações estatísticas fornecidas pelo prestador de redes sociais ao administrador
-da página: ver acórdão do TJUE no processo C-210/16, Wirtschaftsakademie.
+   As regards social media pages, joint controllership conditions may also be met in relation to statistical
+information provided by the social media provider to the page administrator: see CJEU C-210/16,
+Wirtschaftsakademie.
 86
-   O CEPD assinala que a definição de perfis também pode ter ocorrido em exemplos anteriores.
+   The EDPB notes that profiling may have occurred in previous examples as well.
 87
-    Orientações sobre as decisões individuais automatizadas e a definição de perfis para efeitos do
-Regulamento (UE) 2016/679, WP251 rev.01, p. 7.
-                                                      29
-Adotadas
+   Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679,
+WP251rev.01, p. 7.
+                                                      25
+Adopted
 
-        as expectativas e a vontade das pessoas em causa;
+WP29 has already stated that “In many typical cases the decision to present targeted advertising based
+on profiling will not have a similarly significant effect on individuals (…). However, it is possible that it
+may do, depending upon the particular characteristics of the case, including:
 
-        a forma como o anúncio é apresentado; ou
+        the intrusiveness of the profiling process, including the tracking of individuals across different
+         websites, devices and services;
 
-        a utilização de vulnerabilidades conhecidas dos titulares de dados visados»88.
+        the expectations and wishes of the individuals concerned;
 
-Sempre que a definição de perfis realizada pelo prestador de redes sociais for suscetível de produzir
-um «[efeito] significativo de forma similar» num titular dos dados, será aplicável o artigo 22.º. O
-responsável pelo tratamento (ou os responsáveis conjuntos pelo tratamento, consoante aplicável) terá
-de realizar, em cada caso, uma avaliação para determinar se o direcionamento «[afeta]
-significativamente de forma similar» um titular dos dados, com referência aos factos específicos do
-direcionamento.
+        the way the advert is delivered; or
 
-Em tais circunstâncias, conforme descritas no exemplo 8, a apresentação de publicidade de apostas
-em linha pode enquadrar-se no âmbito do artigo 22.º do RGPD (direcionamento a pessoas
-financeiramente vulneráveis que estão interessadas em apostas em linha, suscetível de afetar
-significativa e negativamente a sua situação financeira). Por conseguinte, em conformidade com o
-artigo 22.º, seria necessário o consentimento explícito. Além disso, a utilização de técnicas de
-monitorização desencadeia a aplicação do artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica, o que
-resulta num requisito de consentimento prévio. Por último, o CEPD recorda que, com vista à licitude
-do tratamento, o responsável pelo tratamento deve proceder a uma avaliação caso a caso e que a
-obtenção do consentimento não reduz outras obrigações quanto ao cumprimento dos requisitos de
-lealdade, de necessidade, de proporcionalidade e de qualidade dos dados, conforme estabelecido no
-artigo 5.º do RGPD.
+        using knowledge of the vulnerabilities of the data subjects targeted.”88
+
+Where the profiling undertaken by the social media provider is likely to have a “similarly significant
+[effect]” on a data subject, Article 22 shall be applicable. An assessment as to whether targeting will
+“similarly significantly [effect]” a data subject will need to be conducted by the controller (or joint
+controllers, as the case may be) in each instance with reference to the specific facts of the targeting.
+
+In such circumstances as described in Example 8, the display of online betting advertisements may fall
+under the scope of Article 22 GDPR (targeting financially vulnerable persons that are interested in
+online betting which have the potential to significantly and adversely affect his financial situation).
+Therefore, in accordance with Article 22, explicit consent would be required. Furthermore, the use of
+tracking techniques triggers the applicability of Article 5(3) of the ePrivacy Directive, resulting in a
+requirement of prior consent. Finally, the EDPB recalls that for the processing to be lawful, the
+controller must conduct a case-by-case assessment, and that obtaining consent does not reduce other
+obligations to observe the requirements of fairness, necessity, proportionality and data quality, as
+stated in Article 5 GDPR.
 
 
-6 TRANSPARÊNCIA E DIREITO DE ACESSO
-O artigo 5.º, n.º 1, alínea a), do RGPD estabelece que os dados pessoais devem ser objeto de um
-tratamento lícito, leal e transparente em relação ao titular dos dados. O artigo 5.º, n.º 1, alínea a), do
-RGPD também estabelece que os dados pessoais devem ser recolhidos para finalidades determinadas,
-explícitas e legítimas. Os artigos 12.º, 13.º e 14.º do RGPD contêm disposições específicas a respeito
-das obrigações de transparência do responsável pelo tratamento. Por último, o considerando 39
-estabelece que «[d]everá ser transparente para as pessoas singulares que os dados pessoais que lhes
-dizem respeito são recolhidos, utilizados, consultados ou sujeitos a qualquer outro tipo de tratamento
-e a medida em que os dados pessoais são ou virão a ser tratados»89.
+6 TRANSPARENCY AND RIGHT OF ACCESS
+Article 5(1)(a) GDPR states that personal data shall be processed lawfully, fairly and in a transparent
+manner in relation to the data subject. Article 5(1)(b) GDPR also states that personal data shall be
+collected for specified, explicit and legitimate purposes. Articles 12, 13 and 14 GDPR contain specific
+provisions on the transparency obligations of the data controller. Finally, recital 39 states that “it
+should be transparent to natural persons that personal data concerning them are collected, used,
+consulted or otherwise processed and to what extent the personal data are or will be processed”.89
 
-As informações apresentadas aos titulares dos dados a respeito da forma como os seus dados pessoais
-são tratados devem ser, em todos os casos, concisas, transparentes, fornecidas de uma forma
-inteligível e de fácil acesso, numa linguagem clara e simples.
+Information presented to data subjects in respect of the way in which their personal data are
+processed, should be, in all cases, concise, transparent, in an intelligible and easily accessible form,
+using clear and plain language.
 
-O CEPD recorda que a mera utilização da palavra «publicidade» não seria suficiente para informar os
-utilizadores de que a sua atividade está a ser monitorizada para efeitos de publicidade direcionada. As
-pessoas singulares devem receber informações, de forma transparente, sobre os tipos de operações
-de tratamento que são realizadas e o que significam, na prática, para o titular dos dados. Os titulares
-dos dados devem ser informados, numa linguagem facilmente compreensível, se será elaborado um
-perfil com base no seu comportamento em linha na plataforma ou no sítio Web do responsável pelo
+The EDPB recalls that the mere use of the word “advertising” would not be enough to inform the users
+that their activity is being monitored for the purpose of targeted advertising. It should be made
+transparent to individuals what types of processing activities are carried out and what this means for
+the data subject in practice. Data subjects should be informed in an easily understandable language if
+a profile will be built based on their online behaviour on the platform or on the targeter’s website,
+respectively, by the social platform and by the targeter, providing information to the users on the types
+of personal data collected to build such profiles and ultimately allow targeting and behavioural
 
 88
-    Orientações sobre as decisões individuais automatizadas e a definição de perfis para efeitos do
-Regulamento (UE) 2016/679, WP251 rev.01, p. 24.
+   Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679,
+WP251rev.01, p. 22.
 89
-   Ver também Orientações relativas à transparência na aceção do Regulamento 2016/679, do Grupo de Trabalho
-do Artigo 29.º, WP260 rev.01, 11 de abril de 2018, disponível em
-https://ec.europa.eu/newsroom/Article29/item-detail.cfm?item_id=622227.
-                                                       30
-Adotadas
+   See also Article 29 Working Party, Guidelines on transparency under Regulation 2016/679, WP260 rev.01, 11
+April 2018, https://ec.europa.eu/newsroom/Article29/item-detail.cfm?item_id=622227
+                                                        26
+Adopted
 
-direcionamento, respetivamente, pela plataforma de redes sociais e pelo responsável pelo
-direcionamento, ao fornecer informações aos utilizadores sobre os tipos de dados pessoais recolhidos
-para a elaboração de tais perfis e ao permitir, em última análise, o direcionamento e a publicidade
-comportamental pelos responsáveis pelo direcionamento 90 . Os utilizadores devem receber as
-informações relevantes diretamente no ecrã, de forma interativa, e, sempre que adequado ou
-necessário, através de declarações estruturadas91.
+advertising by targeters. 90 Users should be provided with the relevant information directly on the
+screen, interactively and, where appropriate or necessary, through layered notices.91
 
-6.1 Essência do acordo e informações a fornecer (artigo 26.º, n.º 2, do RGPD)
+6.1 Essence of the arrangement and information to provide (Article 26 (2) GDPR)
 
-De acordo com o artigo 26.º, n.º 1, do RGPD, os responsáveis conjuntos pelo tratamento «determinam,
-por acordo entre si e de modo transparente as respetivas responsabilidades pelo cumprimento do
-presente regulamento, nomeadamente no que diz respeito ao exercício dos direitos do titular dos dados
-e aos respetivos deveres de fornecer as informações referidas nos artigos 13.º e 14.º, a menos e na
-medida em que as suas responsabilidades respetivas sejam determinadas pelo direito da União ou do
-Estado-Membro a que se estejam sujeitos. O acordo pode designar um ponto de contacto para os
-titulares dos dados».
+According to Article 26(1) GDPR, joint controllers “shall in a transparent manner determine their
+respective responsibilities for compliance with the obligations under this Regulation, in particular as
+regards the exercising of the rights of the data subject and their respective duties to provide the
+information referred to in Articles 13 and 14, by means of an arrangement between them unless, and
+in so far as, the respective responsibilities of the controllers are determined by Union or Member State
+law to which the controllers are subject. The arrangement may designate a contact point for data
+subjects”.
 
-Outra manifestação do princípio da transparência é a obrigação de disponibilizar a essência do acordo
-de controlo conjunto ao titular dos dados, nos termos do artigo 26.º, n.º 2, do RGPD. De facto, o
-artigo 26.º do RGPD exige que os responsáveis conjuntos pelo tratamento tomem medidas adequadas
-para assegurar que os titulares dos dados têm conhecimento da repartição de responsabilidades.
+A further expression of the transparency principle is the obligation to make the essence of the joint
+controllership arrangement available to the data subject according to Article 26 (2) GDPR. Indeed,
+Article 26 GDPR requires joint controllers to take appropriate measures to ensure that data subjects
+are made aware of the allocation of responsibilities.
 
-Por uma questão de princípio, as informações fornecidas ao titular dos dados devem abranger todos
-os aspetos das operações de tratamento de dados da responsabilidade de ambos os responsáveis
-conjuntos pelo tratamento. De facto, o titular dos dados tem direito a receber todas as informações
-(incluindo as que dizem respeito ao tratamento posterior previsto quando existe um controlo
-conjunto) desde o início, de modo que as informações sejam justas e adequadas. Mais concretamente,
-este acordo conjunto tem de assegurar que o titular dos dados receberá as informações exigidas pelos
-artigos 13.º e 14.º do RGPD, incluindo sobre as suas finalidades partilhadas ou estreitamente ligadas,
-os períodos de conservação, a transmissão a terceiros, entre outras, que têm de ser comunicadas ao
-titular dos dados no momento da recolha dos dados ou antes do início do tratamento. O acordo tem
-de deixar claro a quem cabem as responsabilidades a este respeito. A fim de cumprir estes requisitos,
-esse acordo deve conter (ou referenciar) informações claras e completas a respeito do tratamento a
-que se refere, com explicações, quando adequado, sobre as várias fases e intervenientes do
-tratamento92.
+As a matter of principle, the information provided to the data subject must cover all aspects of the
+data processing operation(s) for which the joint controllers are jointly responsible. Indeed, the data
+subject is entitled to receive all information (including regarding envisaged subsequent processing
+where there is joint controllership) at the outset, so that the information is fair and appropriate. More
+precisely, this joint arrangement needs to ensure that the data subject will be provided information
+required by Articles 13 and 14 GDPR, including on their shared or closely linked purposes, storage
+periods, transmission to third parties etc., which need to be communicated to the data subject upon
+collection of the data or before the processing starts. The arrangement needs to make it clear where
+the responsibilities lie in this regard. To meet these requirements, such arrangement must contain (or
+reference) clear and comprehensive information in respect of the processing to which it relates with
+explanations, where appropriate, on the various phases and actors of the processing.92
 
-Apesar de ambos os responsáveis conjuntos pelo tratamento estarem sujeitos ao dever de informação
-quando existe responsabilidade conjunta, podem concordar mutuamente que um deles ficará
-incumbido de fornecer as informações iniciais aos titulares dos dados, especialmente nos casos em
-que apenas um dos responsáveis pelo tratamento interage com os utilizadores antes do tratamento,
-por exemplo, no seu sítio Web93. Este intercâmbio de informações a fornecer ao titular dos dados deve
-fazer parte integrante do acordo conjunto (por exemplo, um apêndice). No caso de um dos
-responsáveis conjuntos pelo tratamento não dispor de todas as informações em pormenor porque,
-por exemplo, não tem conhecimento da execução técnica exata das operações de tratamento, o outro
-responsável conjunto pelo tratamento fornecerá todas as informações necessárias de modo a
+Although both joint controllers are subject to the duty to inform where there is joint responsibility,
+they can mutually agree that one of them shall be tasked with providing the initial information to data
+subjects, especially in cases where only one of the controllers interacts with the users prior to
+processing, for example on its website93. This exchange of information to provide to the data subject
+should be an integral part of the joint arrangement (e.g. an appendix). In case one of the joint
+controllers does not have all information in detail because, for example, it does not know the exact
+technical execution of the processing activities, the other joint controller shall provide all necessary
+information to enable him to provide the data subject with full information in accordance with Articles
+13 and 14 GDPR.
+
+The EDPB notes that controllers are not directly responsible for providing the information required by
+Articles 13 and 14 GDPR in relation to further processing operations that do not fall under the scope
+of joint controllership. Therefore, the targeter is not directly responsible for providing the information
+relating to any further processing which will be carried out by the social media platform.94
+
 
 90
-   Consultar Orientações relativas à transparência na aceção do Regulamento 2016/679, do CEPD.
+   Ref. to EDPB Guidelines on transparency under Regulation 2016/679.
 91
-   Orientações relativas ao consentimento na aceção do Regulamento (UE) 2016/679, do Grupo de Trabalho do
-Artigo 29.º, WP259 rev.01, n.os 24 e 35.
+   Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev. 01., para 24, 35.
 92
-   Parecer 1/2010 sobre os conceitos de «responsável pelo tratamento» e «subcontratante», WP 169, p. 33.
+   Opinion 1/2010 on the concepts of "controller" and "processor", WP 169, p. 28.
 93
-   TJUE, Fashion ID, n.os 102 e 105.
-                                                       31
-Adotadas
-
-permitir-lhe facultar as informações completas ao titular dos dados, em conformidade com os
-artigos 13.º e 14.º do RGPD.
-
-O CEPD assinala que os responsáveis pelo tratamento não são diretamente responsáveis pelo
-fornecimento das informações exigidas pelos artigos 13.º e 14.º do RGPD a respeito de operações de
-tratamento posterior que não se enquadrem no âmbito do controlo conjunto. Por conseguinte, o
-responsável pelo direcionamento não é diretamente responsável pelo fornecimento das informações
-relativas a qualquer tratamento posterior efetuado pela plataforma de redes sociais94.
-
-Porém, o CEPD destaca que o responsável conjunto pelo tratamento que pretenda continuar a utilizar
-os dados pessoais tem obrigações específicas de informação para este tratamento posterior quando
-não existe responsabilidade conjunta, de acordo com o artigo 14.º, n.º 4, do RGPD, bem como
-obrigações de compatibilidade do tratamento posterior nos termos do artigo 6.º, n.º 4. Por exemplo,
-o responsável pelo direcionamento e o prestador de redes sociais poderiam concordar que o
-responsável pelo direcionamento fornecerá determinadas informações em nome do prestador de
-redes sociais. No entanto, em última análise, o prestador de redes sociais continua a ser responsável
-por assegurar que o titular dos dados recebeu as informações relevantes a respeito de todas as
-operações de tratamento sob o seu controlo.
-
- No exemplo 3 (em que o foi direcionada publicidade do banco X à página de redes sociais do Sr.
- Lopez, depois de o banco ter efetuado o carregamento do seu endereço de correio eletrónico para
- o prestador de redes sociais), o banco tem de informar o Sr. Lopez de que o seu endereço de correio
- eletrónico será utilizado para publicidade, através do prestador de redes sociais, de ofertas
- associadas aos serviços do banco. Qualquer tratamento posterior pelo prestador de redes sociais
- deve ser lícito e compatível com as finalidades para as quais o banco recolheu os dados.
-
- Além disso, na medida em que o prestador de redes sociais tenha a intenção de proceder ao
- tratamento posterior do endereço de correio eletrónico do Sr. Lopez para outra finalidade, deve
- assegurar que o Sr. Lopez recebe as informações exigidas pelo artigo 14.º, n.º 4, do RGPD antes de
- o fazer.
-
- O prestador de redes sociais e o banco podem acordar que este último fornecerá as informações
- relevantes ao Sr. Lopez, em nome do prestador de redes sociais. No entanto, em última análise,
- mesmo que seja esse o caso, o prestador de redes sociais continua a ser responsável por assegurar
- que o titular dos dados recebeu as informações relevantes a respeito de todas as operações de
- tratamento pelas quais é (o único) responsável. Esta obrigação não seria aplicável, se o Sr. Lopez já
- tivesse sido informado deste tratamento pelo banco, de acordo com o artigo 14.º, n.º 5, alínea a),
- do RGPD.
-
- Estas obrigações de transparência devem ser tidas em conta sem prejuízo das obrigações específicas
- aplicáveis às considerações a respeito do fundamento jurídico.
-
-
+   CJEU Fashion ID, para 102, 105.
 94
-   Conforme clarificado nas Diretrizes 07/2020 relativas aos conceitos de responsável pelo tratamento e de
-subcontratante do RGPD, cada responsável pelo tratamento tem o dever de assegurar que os dados não são
-posteriormente tratados pelo responsável pelo tratamento que os partilha de uma forma incompatível com as
-finalidades para as quais foram inicialmente recolhidos. O responsável pelo tratamento que pretenda tratar
-dados pessoais para outras finalidades deve, num quadro de boas práticas, disponibilizar meios suficientes ao
-outro responsável pelo tratamento que transmite os dados pessoais, de modo a determinar se existe
-efetivamente um fundamento jurídico, que provavelmente seria o consentimento, e que os titulares dos dados
-tenham sido devidamente informados, uma vez que isso permitiria ao responsável pelo direcionamento
-assegurar que a transferência para o prestador de redes sociais é lícita.
-                                                      32
-Adotadas
+   As clarified in the EDPB Guidelines 7/2020 on concepts of the controller and processor in the GDPR, para.
+167, each controller’s duty, to ensure that the data are not further processed in a manner that is incompatible
+                                                        27
+Adopted
 
-Cabe a cada responsável conjunto pelo tratamento assegurar que a essência do acordo é
-disponibilizada ao titular dos dados. Na prática, a essência do acordo deve estar diretamente
-disponível na plataforma, deve ser referida na respetiva política de privacidade e deve ainda ser
-diretamente disponibilizada através de uma ligação, por exemplo, na página do responsável pelo
-direcionamento na plataforma de redes sociais, ou em ligações como «Porque estou a ver este
-anúncio?».
+However, the EDPB emphasizes that the joint controller who intends to further use the personal data
+has specific obligations of information for this further processing where there is no joint responsibility,
+according to Article 14(4) of the GDPR, as well as obligations of compatibility of the further processing
+under Article 6(4).For example, the targeter and social media provider could agree that the targeter
+will provide certain information on behalf of the social media provider. The social media provider,
+however, remains ultimately responsible for ensuring that the data subject has been provided with the
+relevant information in relation to all the processing activities under its control.
+
+ In Example 3 (Mr. Lopez being targeted for advertisement for Bank X on his social media page
+ following the upload by the Bank of his email address to the social media provider), the Bank needs
+ to inform Mr. Lopez that his email address will be used for advertising, via the social media provider,
+ of offers linked to the bank services. Any further processing by the social media provider must be
+ lawful and compatible with the purposes for which the Bank collected the data.
+
+ In addition, to the extent that the social media provider intends to further process Mr. Lopez’s email
+ for another purpose, it must ensure that Mr. Lopez is provided with the information required by
+ Article 14(4) GDPR prior to doing so.
+
+ The social media provider and the Bank may agree that the Bank will provide Mr. Lopez with the
+ relevant information on behalf of the social media provider. Even if that is the case, however, the
+ social media provider remains ultimately responsible for ensuring that the data subject has been
+ provided with the relevant information in relation to all the processing activities for which it is
+ (alone) responsible. This obligation would not apply if Mr. Lopez has already been informed by the
+ Bank of this processing, according to Article 14(5)(a) GDPR.
+
+ These transparency obligations are to be considered without prejudice of the specific obligations
+ applicable to legal basis considerations.
 
 
-6.2 Direito de acesso (artigo 15.º)
-Os responsáveis pelo tratamento de dados devem permitir que os utilizadores exerçam, de uma forma
-fácil e plena, os seus direitos enquanto titulares dos dados. Deve ser disponibilizada ao titular dos
-dados uma ferramenta eficaz e de fácil utilização, a fim de assegurar o exercício fácil de todos os seus
-direitos, em qualquer altura, em especial o direito ao apagamento, o direito de oposição e o direito de
-acesso, nos termos do artigo 15.º do RGPD95. Os números que se seguem centram-se na forma como
-o direito de acesso deve ser previsto e quem deve prevê-lo no contexto do direcionamento para os
-utilizadores das redes sociais96.
+Each joint controller is responsible for ensuring that that the essence of the arrangement is made
+available to the data subject. In practice, the essence of the arrangement should be directly available
+on the platform, referred to in its privacy policy, and also made directly accessible by a link, for
+example, in the targeter’s page on the social media platform or in links such as “why am I seeing this
+ad?”.
 
-Em geral, de modo a cumprir os requisitos do artigo 15.º, n.º 1, do RGPD e garantir total transparência,
-os responsáveis pelo tratamento poderão ponderar a aplicação de um mecanismo para que os titulares
-dos dados verifiquem o seu perfil, incluindo pormenores a respeito das informações e das fontes
-utilizadas para o seu desenvolvimento. O titular dos dados deve poder conhecer a identidade do
-responsável pelo direcionamento e os responsáveis pelo tratamento devem facilitar o acesso às
-informações relativas ao direcionamento, incluindo os critérios de direcionamento que foram
-utilizados, bem como as restantes informações exigidas pelo artigo 15.º do RGPD97.
 
-No que diz respeito ao tipo de acesso a prestar ao titular dos dados, o considerando 63 aconselha que
-«[q]uando possível, o responsável pelo tratamento deverá poder facultar o acesso a um sistema seguro
-por via eletrónica que possibilite ao titular aceder diretamente aos seus dados pessoais». As
-especificidades dos prestadores de redes sociais – o ambiente em linha e a existência de uma conta de
-utilizador – indicam que é possível conceder facilmente ao titular dos dados um acesso remoto aos
-dados pessoais que lhe dizem respeito, de acordo com o artigo 15.º, n.os 1 e 2, do RGPD. Neste caso, o
-acesso remoto pode ser considerado como a «medida [mais] adequada», na aceção do artigo 12.º,
-n.º 1, do RGPD, tendo igualmente em conta o facto de se tratar de uma situação típica «em que a
-proliferação de operadores e a complexidade tecnológica das práticas tornam difícil que o titular dos
-dados saiba e compreenda se, por quem e para que fins os seus dados pessoais estão a ser recolhidos»
-(ver considerando 58, que acrescenta explicitamente «publicidade por via eletrónica» como exemplo
+6.2 Right of access (Article 15)
+Data controllers must enable users to easily and fully exercise their data subjects’ rights. An easy-to-
+use and efficient tool should be available for the data subject to ensure the easy exercise of all of their
+rights, at any time, in particular the right to erasure, to object, and the right of access pursuant to
+
+
+
+
+with the purposes for which they were originally collected by the controller sharing the data. It should be good
+practice that the controller that intends to process personal data for further purposes provides sufficient
+means to the other controller that transmits personal data to ascertain that there is indeed a legal basis, which
+would likely be consent, and data subjects have been properly informed as this would enable the targeter to
+ensure that the transfer to the social media provider is lawful.
+                                                        28
+Adopted
+
+Article 15 GDPR.95 The following paragraphs focus on how and by whom the right of access should be
+accommodated in the context of targeting of social media users.96
+
+In general, to fulfill the requirements of Article 15 (1) GDPR and to ensure full transparency, controllers
+may want to consider implementing a mechanism for data subjects to check their profile, including
+details of the information and sources used to develop it. The data subject should be able to learn the
+identity of the targeter, and controllers should facilitate access to information regarding the targeting,
+including the targeting criteria that were used, as well as the other information required by Article 15
+GDPR.97
+
+As regards the kind of access to be provided to data subjects, recital 63 advises that “[w]here possible,
+the controller should be able to provide remote access to a secure system which would provide the data
+subject with direct access to his or her personal data.” The specific features of social media providers -
+the online environment, the existence of a user account - suggest the possibility to easily grant the
+data subject with remote access to the personal data concerning him or her in accordance with Article
+15 (1), (2) GDPR. Remote access in this case can be regarded as the most “appropriate measure” in the
+sense of Article 12(1) GDPR, also taking into account the fact that this is a typical situation “where the
+proliferation of actors and the technological complexity of practice make it difficult for the data subject
+to know and understand whether, by whom and for what purpose personal data relating to him or her
+are being collected” (see recital 58, which explicitly adds “online advertising” as concrete example). In
+addition, if requested, social media users who have been targeted should also be given a copy of the
+personal data relating to them in accordance with Article 15(3) GDPR.
+
+According to Article 15(1)(c) GDPR, the user shall have access in particular to information on “the
+recipients or categories of recipients to whom the personal data have been or will be disclosed, in
+particular recipients in third countries or international organisations”. According to Article 4(9), the
+term “recipient” refers to a natural or legal person, public authority, agency or another body, to which
+the personal data are disclosed, whether they are a third party or not. A targeter will not necessarily
+be a “recipient” of the personal data (see Example 1), as the personal data might not be disclosed to
+it, but it will receive statistics of the targeted customers in aggregated or anonymised form, e.g. as part
+of its campaign, or in a performance review of the same. Nevertheless, to the extent that the targeter
+acts as a joint controller, it must be identified as such to the social media user.
+
+Although Article 15 GDPR is not explicitly identified in Article 26(1) GDPR, the wording of this Article
+refers to all “responsibilities for compliance” under GDPR, which includes Article 15 GDPR.
+
+In order to enable data subjects to exercise their rights in an effective and easily accessible way, the
+arrangement between the social media provider and the targeter may designate a single point of
+contact for data subjects. Joint controllers are in principle free to determine amongst themselves who
+should be in charge of responding to and complying with data subject requests, but they cannot
 
 95
-   O artigo 15.º, n.os 1 e 2, do RGPD especifica as informações a fornecer ao titular que solicita o acesso aos seus
-dados. O artigo 15.º, n.os 3 e 4, do RGPD regulamenta o direito de obter uma cópia.
+   Article 15 (1), (2) GDPR detail the information to be given to the data subject asking for access to her data.
+Article 15 (3), (4) GDPR regulate the right to obtain a copy.
 96
-   Ver Orientações relativas à transparência na aceção do Regulamento 2016/679, do CEPD, p. 41.
+   See EDPB, Guidelines on transparency under Regulation 2016/679, p. 35.
 97
-   Para mais pormenores a respeito das informações nos termos do artigo 15.º do RGPD no contexto da definição
-de perfis, ver WP251 rev.01, do Grupo de Trabalho do Artigo 29.º, p. 18 («Nos termos do artigo 15.º, o titular dos
-dados tem o direito de obter informações acerca de quaisquer dados pessoais utilizados na definição de perfis,
-incluindo as categorias dos dados utilizados para criar um perfil. Além de informações genéricas sobre o
-tratamento, nos termos do artigo 15.º, n.º 3, o responsável pelo tratamento tem a obrigação de disponibilizar os
-dados utilizados como dados de entrada para criar o perfil, bem como facultar acesso a informações sobre o perfil
-e sobre os segmentos onde o titular dos dados foi inserido»). É importante que essas informações sejam
-adaptadas à situação específica do titular dos dados, complementando quaisquer informações já fornecidas nos
-termos dos artigos 1.º e 14.º.
+   For further details regarding information pursuant to Art. 15 GPDR in the context of profiling, see Art. 29
+Data Protection Working Party, WP 251rev.01, p. 17 for (“Article 15 gives the data subject the right to obtain
+details of any personal data used for profiling, including the categories of data used to construct a profile. In
+addition to general information about the processing, pursuant to Article 15(3), the controller has a duty to
+make available the data used as input to create the profile as well as access to information on the profile and
+details of which segments the data subject has been placed into”). It is important that such information should
+be tailored to the particular situation of the data subject, complementing any information already given under
+Articles 1 and 14.
 
-                                                        33
-Adotadas
+                                                       29
+Adopted
 
-concreto). Além disso, os utilizadores das redes sociais que foram objeto de direcionamento devem
-também receber uma cópia dos dados pessoais que lhes dizem respeito, se a solicitarem, em
-conformidade com o artigo 15.º, n.º 3, do RGPD.
-
-De acordo com o artigo 15.º, n.º 1, alínea c), do RGPD, o utilizador deve ter acesso, em especial, às
-informações sobre «[o]s destinatários ou categorias de destinatários a quem os dados pessoais foram
-ou serão divulgados, nomeadamente os destinatários estabelecidos em países terceiros ou
-pertencentes a organizações internacionais». De acordo com o artigo 4.º, n.º 9, entende-se por
-«destinatário» uma pessoa singular ou coletiva, a autoridade pública, agência ou outro organismo que
-recebem comunicações de dados pessoais, independentemente de se tratar ou não de um terceiro.
-Um responsável pelo direcionamento não será necessariamente um «destinatário» dos dados pessoais
-(ver exemplo 1), uma vez que os dados pessoais poderão não lhe ser divulgados, mas receberá
-estatísticas agregadas ou anonimizadas dos clientes que foram objeto de direcionamento, por
-exemplo, como parte da sua campanha, ou numa análise do desempenho da mesma. Todavia, na
-medida em que o responsável pelo direcionamento atue como responsável conjunto pelo tratamento,
-deve ser identificado como tal ao utilizador das redes sociais.
-
-Embora o artigo 15.º do RGPD não seja explicitamente identificado no artigo 26.º, n.º 1, do RGPD, a
-redação deste último refere-se a todas as «responsabilidades pelo cumprimento» no âmbito do RGPD,
-o que inclui o artigo 15.º do mesmo regulamento.
-
-A fim de permitir que os titulares dos dados exerçam os seus direitos de uma forma eficaz e facilmente
-acessível, o acordo entre o prestador de redes sociais e o responsável pelo direcionamento pode
-designar um ponto de contacto único para os titulares dos dados. Os responsáveis conjuntos pelo
-tratamento são, em princípio, livres de determinar entre si quem deve ser responsável pela resposta
-aos pedidos do titular dos dados e pelo seu cumprimento, mas não podem excluir a possibilidade de o
-titular dos dados exercer os seus direitos em relação e contra cada um deles (artigo 26.º, n.º 3, do
-RGPD). Assim, os responsáveis pelo direcionamento e os prestadores de redes sociais devem assegurar
-a existência de um mecanismo adequado que permita aos titulares dos dados acederem facilmente
-aos seus dados pessoais (incluindo aos critérios de direcionamento utilizados) e a todas as informações
-exigidas pelo artigo 15.º do RGPD.
+exclude the possibility for the data subject to exercise his or her rights in respect of and against each
+of them (Article 26 (3) of the GDPR). Hence, targeters and social media providers must ensure that a
+suitable mechanism is in place to allow the data subjects to obtain access to his or her personal data
+in a user-friendly manner (including the targeting criteria used) and all information required by Article
+15 of the GDPR.
 
 
-7 AVALIAÇÕES DE IMPACTO SOBRE A PROTEÇÃO DE DADOS (AIPD)
-Em princípio, antes de se iniciarem as operações de direcionamento previstas, ambos os responsáveis
-conjuntos pelo tratamento devem consultar a lista de operações de tratamento «suscetíve[is] de
-implicar um elevado risco» adotada a nível nacional nos termos do artigo 35.º, n.º 4, e dos
-considerandos 71, 75 e 91 do RGPD, a fim de determinar se o direcionamento previsto corresponde a
-algum dos tipos de operações de tratamento sujeitas ao requisito de realização de uma AIPD. De modo
-a avaliar se as operações de direcionamento previstas são «suscetíve[is] de implicar um elevado risco»
-e se é necessária uma AIPD, devem também ser tidos em conta os critérios identificados nas
-orientações relativas à AIPD98, bem como as listas dos tipos de operações de tratamento que estão
-sujeitas à exigência de uma avaliação do impacto sobre a proteção de dados (nos termos do artigo 35.º,
-n.º 4) que as autoridades de controlo elaboraram.
+7 DATA PROTECTION IMPACT ASSESSMENTS (DPIA)
+In principle, prior to initiating the envisaged targeting operations, both joint controllers should check
+the list of processing operations “likely to result in a high risk” adopted at national level under Article
+35(4) and recitals (71), (75) and (91) GDPR to determine if the designated targeting matches any of the
+types of processing operations subject to the requirement to conduct a DPIA. To assess whether the
+envisaged targeting operations are “likely to result in a high risk” and whether a DPIA is required, the
+criteria identified in the guidelines on DPIA should also be taken into account98, as well as the lists that
+supervisory authorities have established of the kind of processing operations which are subject to the
+requirement for a data protection impact assessment (pursuant to Article 35(4)).
 
-Em alguns casos, a natureza do produto ou do serviço publicitado, o teor da mensagem ou a forma
-como a publicidade é apresentada podem produzir efeitos nas pessoas singulares, cujo impacto tem
+In some cases, the nature of the product or service advertised, the content of the message or the way
+the advert is delivered might produce effects on individuals whose impact has to be further assessed.
+This might be the case, for example, with products which are targeted at vulnerable people. Additional
+risks may emerge depending on the purposes of the advertising campaign and its intrusiveness, or if
+the targeting involves the processing of observed, inferred or derived personal data.
+
+In addition to the obligations specifically referred to in Article 26 (1) GDPR, joint controllers should also
+consider other obligations when determining their respective obligations. As stated in the EDPB
+guidelines on DPIAs “When the processing operation involves joint controllers, they need to define
+their respective obligations precisely”.
+
+As a consequence, both joint controllers need to assess whether a DPIA is necessary. If a DPIA is
+necessary, they are both responsible for fulfilling this obligation. The EDPB recalls that the DPIA should
+tackle the entire processing of personal data, which means that in principle both joint controllers need
+to take part in the realization of the DPIA. In this context, both controllers need to ensure that they
+have a sufficient level of information on the processing to carry out the required DPIA.99This implies
+that “each data controller should express his needs and share useful information without either
+compromising secrets (e.g.: protection of trade secrets, intellectual property, confidential business
+information) or disclosing vulnerabilities”.100
+
+In practice, it is possible that joint controllers decide that one of them shall be tasked with carrying out
+the DPIA as such. This should then be specified in the joint arrangement, without prejudice to the
+existence of joint responsibility as such. It may indeed be that one of the controllers is better placed
+to assess certain processing operations. For example, this controller may, depending on the context,
+
+
 
 98
-  Ver Orientações relativas à Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que determinam se o
-tratamento é «suscetível de resultar num elevado risco» para efeitos do Regulamento (UE) 2016/679, do CEPD,
-WP 248 rev.01.
-                                                      34
-Adotadas
-
-de ser objeto de uma avaliação mais aprofundada. Pode ser o caso, por exemplo, de produtos
-direcionados a pessoas vulneráveis. Podem surgir riscos adicionais consoante as finalidades da
-campanha publicitária e da sua dimensão intrusiva, ou se o direcionamento envolver o tratamento de
-dados pessoais observados, inferidos ou derivados.
-
-Quando determinam as respetivas obrigações, os responsáveis conjuntos pelo tratamento devem
-também ter em consideração outras obrigações para além das especificamente referidas no
-artigo 26.º, n.º 1, do RGPD. Conforme afirmado nas orientações do CEPD relativas às AIPD, «[q]uando
-a operação de tratamento envolve responsáveis conjuntos pelo tratamento, estes devem definir
-pormenorizadamente as respetivas obrigações».
-
-Consequentemente, ambos os responsáveis conjuntos pelo tratamento têm de avaliar a necessidade
-de uma AIPD. Se for necessária uma AIPD, são ambos responsáveis pelo cumprimento desta obrigação.
-O CEPD recorda que a AIPD deve abranger todo o tratamento de dados pessoais, o que significa que,
-em princípio, ambos os responsáveis conjuntos pelo tratamento devem participar na sua realização.
-Neste contexto, ambos os responsáveis pelo tratamento têm de assegurar que dispõem de um nível
-de informação suficiente sobre o tratamento para a realização da AIPD necessária99, o que implica que
-«[c]ada responsável pelo tratamento de dados deve exprimir as suas necessidades e partilhar
-informações úteis sem comprometer segredos (p. ex.: proteção de segredos comerciais, propriedade
-intelectual, informações empresariais confidenciais) ou revelar vulnerabilidades»100.
-
-Na prática, os responsáveis conjuntos pelo tratamento podem decidir que um deles ficará incumbido
-da realização da AIPD enquanto tal, o que, então, deve ser especificado no acordo conjunto, sem
-prejuízo da existência de responsabilidade conjunta como tal. De facto, pode dar-se o caso de um dos
-responsáveis pelo tratamento se encontrar em condições mais favoráveis para avaliar determinadas
-operações de tratamento. Por exemplo, este responsável pelo tratamento pode, dependendo do
-contexto, ser o que detém um maior nível de controlo e de conhecimentos do processo de
-direcionamento, em especial sobre o apoio de retaguarda do sistema implementado, ou sobre os
-meios do tratamento.
-
-Todas as AIPD devem incluir medidas previstas para fazer face aos riscos, incluindo as garantias, as
-medidas de segurança e os procedimentos destinados a assegurar a proteção dos dados pessoais e
-demonstrar a conformidade com o RGPD, tendo em conta os direitos e os interesses legítimos dos
-titulares dos dados e de outros interessados afetados. Se não for possível dar uma resposta satisfatória
-aos riscos identificados (ou seja, os riscos residuais permanecem elevados), é da responsabilidade dos
-responsáveis conjuntos pelo tratamento assegurar uma consulta prévia com as autoridades de
-controlo competentes. Se o direcionamento violasse o RGPD, em especial porque os riscos não foram
-suficientemente identificados ou atenuados, o direcionamento não deveria ocorrer.
-
- Exemplo 9:
-
- O partido político «Letschangetheworld» pretende incentivar os utilizadores das redes sociais a
- votar num determinado candidato nas próximas eleições. Pretende efetuar o direcionamento a
-
-
-
+   See EDPB Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is
+"likely to result in a high risk" for the purposes of Regulation 2016/679, wp248rev.0.
 99
-   O CEPD reitera que não é necessária uma AIPD quando a natureza, o âmbito, o contexto e as finalidades do
-tratamento são muito semelhantes aos do tratamento para o qual a AIPD foi realizada. Em tais casos, podem ser
-utilizados os resultados da AIPD para um tratamento semelhante. Ver Orientações relativas à Avaliação de
-Impacto sobre a Proteção de Dados (AIPD) e que determinam se o tratamento é «suscetível de resultar num
-elevado risco» para efeitos do Regulamento (UE) 2016/679, do Grupo de Trabalho do Artigo 29.º para a Proteção
-de Dados, WP 248 rev.01, p. 14.
+   The EDPB reiterates that a DPIA is not required when the nature, scope, context and purposes of the
+processing are very similar to the processing for which DPIA have been carried out. In such cases, results of
+DPIA for similar processing can be used, see Article 29 Data Protection Working Party, Guidelines on Data
+Protection Impact Assessment (DPIA) and determining whether processing is “likely to result in a high risk” for
+the purposes of Regulation 2016/679, WP 248 rev.01, p. 12.
 100
-    Idem, p. 8.
-                                                     35
-Adotadas
+    Idem, page 8.
+                                                          30
+Adopted
 
- idosos que residem em zonas rurais do país, que vão regularmente à igreja e que não viajaram para
- o estrangeiro nos últimos dois anos.
+be the one with a higher degree of control and knowledge of the targeting process in particular on the
+back-end of the deployed system, or on the means of the processing.
+
+Every DPIA must include measures envisaged to address the risks, including safeguards, security
+measures and mechanisms to ensure the protection of personal data, and to demonstrate compliance
+with the GDPR taking into account the rights and legitimate interests of data subjects and other
+persons concerned. If the identified risks cannot be sufficiently addressed (i.e. the residual risks remain
+high), the joint controllers are each responsible for ensuring a prior consultation with the relevant
+supervisory authorities. If the targeting would infringe the GDPR, in particular because the risks have
+insufficiently been identified or mitigated, the targeting should not take place.
+
+ Example 9:
+
+ The political party “Letschangetheworld” wishes to encourage social media users to vote for a
+ particular political candidate in the upcoming elections. They wish to target elderly people living in
+ rural areas of the country, who regularly go to church, and who have not travelled abroad in the
+ past 2 years.
 
 
-Existe um controlo conjunto entre a plataforma de redes sociais e o partido político para a realização
-da correspondência dos perfis e a apresentação da publicidade direcionada. A avaliação da
-necessidade de uma AIPD tem de ser realizada pelo partido político Letschangetheworld e pela
-plataforma de redes sociais. De facto, neste exemplo, ambos possuem conhecimentos suficientes
-sobre os critérios que estão a ser utilizados para efetuar o direcionamento às pessoas singulares, a fim
-de verificar se o tratamento é suscetível de resultar num risco elevado.
+There is joint controllership between the social media platform and the political party, for the matching
+of the profile and the display of the targeted advertisement. The assessment of whether a DPIA is
+required needs to be carried out both by the Letschangetheworld political party and the social media
+platform. Indeed, in this example, they both have sufficient knowledge on the criteria that are being
+used to target the individuals in order to see that the processing is likely to result in a high risk.
 
-Se for necessária uma AIPD, o acordo conjunto deve abordar a forma como os responsáveis pelo
-tratamento a devem efetuar e assegurar a realização de um intercâmbio de conhecimentos relevante.
-Neste exemplo, pode dar-se o caso de a plataforma de redes sociais se encontrar em condições mais
-favoráveis para avaliar determinadas operações de tratamento, na medida em que o partido político
-se limite a selecionar os critérios gerais do direcionamento.
+If a DPIA is necessary, the joint arrangement should address the question of how the controllers should
+carry it and ensure that a relevant exchange of knowledge takes place. In this example, it may be that
+the social media platform is better placed to assess certain processing operations, insofar as the
+political party merely selects general targeting criteria.
 
 
-8 CATEGORIAS ESPECIAIS DE DADOS
-8.1 O que constitui uma categoria especial de dados
+8 SPECIAL CATEGORIES OF DATA
+8.1 What constitutes a special category of data
 
-O RGPD prevê proteção específica para dados pessoais que são especialmente sensíveis no que toca
-aos direitos e liberdades fundamentais das pessoas singulares. Esses dados encontram-se definidos no
-artigo 9.º do RGPD como categorias especiais de dados pessoais e incluem dados sobre a saúde, a
-origem racial ou étnica, as convicções religiosas ou filosóficas, as opiniões políticas, a filiação sindical,
-bem como dados biométricos e relativos à vida sexual ou à orientação sexual de uma pessoa singular.
+The GDPR provides specific protection for personal data that are particularly sensitive in relation to
+individuals’ fundamental rights and freedoms. Such data are defined in Article 9 GDPR as special
+categories of personal data and include data about an individual’s health, racial or ethnic origin,
+biometry, religious or philosophical belief, political opinion, trade union membership, sex life or sexual
+orientation.
 
-Os responsáveis pelo tratamento só podem tratar categorias especiais de dados se cumprirem uma
-das condições estabelecidas no artigo 9.º, n.º 2, do RGPD, como terem obtido o consentimento
-explícito do titular dos dados ou se os dados tiverem sido manifestamente tornados públicos pelo seu
-titular. Para além das condições do artigo 9.º do RGPD, o tratamento de categorias especiais de dados
-deve recorrer a um fundamento jurídico estabelecido no artigo 6.º do RGPD e ser efetuado de acordo
-com os princípios fundamentais estabelecidos no artigo 5.º do mesmo regulamento.
+Controllers may only process special categories of data if they can meet one of the conditions set out
+in Article 9(2) GDPR, such as having obtained the data subject’s explicit consent or the data have been
+manifestly made public by the data subject. In addition to the conditions in Article 9 GDPR, processing
+of special categories of data must rely on a legal basis laid down in Article 6 GDPR and be carried out
+in accordance with the fundamental principles set out in Article 5 GDPR.
 
-Além disso, o tratamento de categorias especiais de dados pessoais é relevante para a avaliação das
-medidas adequadas de acordo com os artigos 24.º, 25.º, 28.º e 32.º do RGPD, mas também para
-determinar se deve ser realizada uma AIPD de acordo com o artigo 35.º do RGPD e se deve ser
-nomeado um encarregado da proteção de dados ao abrigo do artigo 37.º desse regulamento.
+Furthermore, the processing of special categories of personal data is relevant when assessing
+appropriate measures according to Articles 24, 25, 28 and 32 GDPR, but also to determine whether a
+DPIA must be carried out according to Article 35 GDPR, and whether a data protection officer must be
+appointed under Article 37 GDPR.
 
-No contexto das redes sociais e do direcionamento, é necessário determinar se o tratamento de dados
-pessoais envolve «categorias especiais de dados» e se esses dados são tratados pelo prestador de
-redes sociais, pelo responsável pelo direcionamento ou por ambos. Se forem tratadas categorias
-especiais de dados pessoais, deve ser determinado se o prestador de redes sociais e o responsável
-pelo direcionamento podem tratá-los licitamente e sob que condições.
+                                                    31
+Adopted
 
-Se o prestador de redes sociais tratar dados de uma categoria especial para efeitos de direcionamento,
-deve encontrar um fundamento jurídico para o tratamento no artigo 6.º do RGPD e recorrer a uma
-isenção do artigo 9.º, n.º 2, do RGPD, como o consentimento explícito nos termos do artigo 9.º, n.º 2,
-alínea a), do mesmo regulamento. Se um responsável pelo direcionamento colaborar com um
-prestador de redes sociais e solicitar que este último efetue o direcionamento para os utilizadores com
+In the context of social media and targeting, it is necessary to determine whether the processing of
+personal data involves “special categories of data” and if such data are processed by the social media
+provider, the targeter or both. If special categories of personal data are processed, it must be
+determined whether and under what conditions the social media provider and the targeter can
+lawfully process such data.
 
-                                                     36
-Adotadas
+If the social media provider processes the special category of data for targeting purposes, it must find
+a legal basis for the processing in Article 6 GDPR and rely on an exemption in Article 9(2) GDPR, such
+as explicit consent according to Article 9(2)(a) GDPR. If a targeter engages a social media provider and
+requests that the social media provider targets users based on this special category of data, the
+targeter will be jointly responsible with the social media provider for the processing of the special
+category data.
 
-base nesta categoria especial de dados, o responsável pelo direcionamento será responsável pelo
-tratamento desses dados, em conjunto com o prestador de redes sociais.
+The following legal analysis will explore different situations when such processing may take place and
+their legal implications.
 
-A análise jurídica que se segue explorará diferentes situações nas quais esse tratamento pode ocorrer
-e as respetivas implicações jurídicas.
+8.1.1 Explicit special categories of data
+At times, personal data being processed clearly falls within the definition of special categories of data,
+e.g. in case of a direct statement about a person being member of a certain political party or religious
+association.
 
-8.1.1 Categorias especiais de dados pessoais explícitas
-Por vezes, os dados pessoais que estão a ser tratados enquadram-se claramente na definição de
-categorias especiais de dados, por exemplo, no caso de uma declaração direta sobre uma pessoa
-pertencer a um determinado partido político ou a uma associação religiosa.
+Example 10:
 
-Exemplo 10:
+Ms. Flora states explicitly in her social media profile that she is a member of the GreenestPlanet
+political Party. The environmental organisation “Long live the Earth” wants to target social media users
+that are members of the GreenestPlanet political party in order to address targeted messages to them.
 
-A Sr.ª Flora declara explicitamente no seu perfil das redes sociais que é membro do partido político
-GreenestPlanet. A organização ambientalista «Long live the Earth» quer efetuar o direcionamento para
-os utilizadores das redes sociais que são membros do partido político GreenestPlanet, a fim de lhes
-enviar mensagens direcionadas.
+In Example 10, the social media provider and the environmental organisation are acting as joint
+controllers.101 Insofar as the environmental organisation requests the social media provider to target
+users based on their political opinion, both controllers contribute to the processing of special
+categories of data as defined by Article 9 GDPR. Processing of these data are in principle prohibited
+according to Article 9(1). Both the social media provider and the environmental organisation must
+therefore be able to rely on one of the exemptions in Article 9(2) for their processing. In addition to
+that, they must also both have a legal basis according to Article 6. Out of the exemptions in Article 9(2),
+it appears that the only applicable exemptions in this situation would be to obtain the data subject’s
+explicit consent, under Article 9(2)(a) GDPR, or the exemption that Ms. Flora manifestly made the
+personal data public, under Article 9 (2)(e) GDPR.
 
-No exemplo 10, o prestador de redes sociais e a organização ambientalista atuam como responsáveis
-conjuntos pelo tratamento101. Na medida em que a organização ambientalista solicite ao prestador de
-redes sociais que efetue o direcionamento para os utilizadores com base na sua opinião política, ambos
-os responsáveis pelo tratamento contribuem para o tratamento de categorias especiais de dados,
-conforme definido no artigo 9.º do RGPD. Em princípio, o tratamento destes dados é proibido, de
-acordo com o artigo 9.º, n.º 1. Por conseguinte, para esse tratamento, tanto o prestador de redes
-sociais como a organização ambientalista devem poder recorrer a uma das isenções previstas no
-artigo 9.º, n.º 2. Para além disso, ambos devem possuir igualmente um fundamento jurídico de acordo
-com o artigo 6.º. Das isenções previstas no artigo 9.º, n.º 2, parece que as únicas isenções aplicáveis
-nesta situação seriam a obtenção do consentimento explícito do titular dos dados, ao abrigo do
-artigo 9.º, n.º 2, alínea a), do RGPD, ou a isenção de que a Sr.ª Flora tornou os dados pessoais
-manifestamente públicos, nos termos do artigo 9.º, n.º 2, alínea e), do mesmo regulamento.
+8.1.2 Inferred and combined special categories of data
+Assumptions or inferences regarding special category data, for instance that a person is likely to vote
+for a certain party after visiting a page preaching liberal opinions, would also constitute a special
+category of personal data. Likewise, as previously stated by the EDPB, “profiling can create special
+category of data by inference from data which is not special category of data in its own right, but
+becomes so when combined with other data. For example, it may be possible to infer someone’s state
+of health from the records of their food shopping combined with data on the quality and energy content
+of foods”. 102
 
-8.1.2 Categorias especiais de dados inferidos e combinados
-Os pressupostos ou as inferências a respeito de dados de uma categoria especial, por exemplo, que é
-provável que uma pessoa vote num determinado partido após aceder a uma página que proclama
-opiniões liberais, constituiriam também uma categoria especial de dados pessoais. Do mesmo modo,
-conforme anteriormente afirmado pelo CEPD, «[a] definição de perfis pode criar dados de categorias
-especiais por inferência a partir de dados que não sejam dados de categorias especiais per se, mas que
-passem a sê-lo quando combinados com outros dados. Por exemplo, existe a possibilidade de inferir o
-estado de saúde de uma pessoa a partir de registos das suas compras de produtos alimentares, em
-combinação com dados relativos à qualidade e ao valor energético dos alimentos»102.
-
-Por exemplo, o tratamento de uma simples declaração, ou de um único elemento de dados de
-localização ou semelhante, que revele que um utilizador visitou (uma ou algumas vezes) um local
-normalmente visitado por pessoas com determinadas convicções religiosas, geralmente não será, por
-si só, considerado como tratamento de dados de categorias especiais. No entanto, pode ser
-considerado como tratamento de dados de categorias especiais, se forem combinados com outros
 
 
 101
-   Ver a análise no ponto 5.2.1.
+   See the analysis in chapter 5.2.1.
 102
-    Orientações sobre as decisões individuais automatizadas e a definição de perfis para efeitos do
-Regulamento (UE) 2016/679, do Grupo de Trabalho do Artigo 29.º para a Proteção de Dados, WP251 rev.01,
-p. 16.
-                                                  37
-Adotadas
+   Article 29 Data Protection Working Party, Guidelines on Automated individual decision-making and Profiling
+for the purposes of Regulation 2016/679, WP251rev.01, page 15.
+                                                      32
+Adopted
 
-dados, ou tendo em conta o contexto em que são tratados ou as finalidades para as quais estão a ser
-utilizados.
+For instance, the processing of a mere statement, or a single piece of location data or similar, which
+reveals that a user has (either once or on a few occasions) visited a place typically visited by people
+with certain religious beliefs will generally not in and of itself be considered as processing of special
+categories of data. However, it may be considered as processing of special categories of data if these
+data are combined with other data or because of the context in which the data are processed or the
+purposes for which they are being used.
 
-Exemplo 11:
+Example 11:
 
-O perfil na conta de redes sociais do Sr. Novak revela apenas informações gerais, como o seu nome e
-o local de residência, mas uma atualização do estado revela que visitou frequentemente a igreja da
-paróquia, onde participou num serviço religioso. Mais tarde, essa igreja pretende efetuar o
-direcionamento de mensagens religiosas aos seus visitantes, a fim de incentivar os cristãos a aderirem
-à congregação. Nessas circunstâncias, a utilização de dados pessoais da atualização do estado do Sr.
-Novak para essas finalidades de direcionamento equivale ao tratamento de categorias especiais de
-dados pessoais.
+The profile on Mr. Novak’s social media account only reveals general information such as his name and
+domicile, but a status update reveals that he has visited the City Church frequently where he attended
+a religious service. Later on, the City Church wants to target its visitors with religious messages in order
+to encourage Christian people to join the congregation. In such circumstances, the use of personal data
+in Mr. Novak’s status update for such a targeting purposes amounts to the processing of special
+categories of personal data.
 
-Neste contexto, se um prestador de redes sociais ou um responsável pelo direcionamento utilizar
-dados observados para classificar os utilizadores como tendo determinadas convicções religiosas,
-filosóficas ou políticas – independentemente de a categorização ser correta/verdadeira ou não –, essa
-categorização do utilizador deve, obviamente, ser considerada como tratamento de uma categoria
-especial de dados pessoais. Desde que a categorização permita o direcionamento com base em dados
-de uma categoria especial, é irrelevante a forma como a categoria é rotulada.
+If a social media provider or a targeter uses observed data to categorise users as having certain
+religious, philosophical or political beliefs - regardless of whether the categorization is correct/true or
+not - this categorisation of the user must obviously be seen as processing of special category of
+personal data in this context. As long as the categorisation enables targeting based on special category
+data, it does not matter how the category is labelled.
 
-Exemplo 12:
+Example 12:
 
-O Sr. Sifuentes fornece informações no seu perfil de redes sociais sob a forma de atualizações regulares
-do estado, visitas, etc., que indicam que participa regularmente em atividades organizadas pelo «Mind,
-Body and Spirit Movement». Embora não seja fornecida nenhuma declaração explícita sobre uma
-convicção filosófica, quando se coligem todas as atualizações, «gostos», visitas e dados semelhantes
-fornecidos pelo utilizador, obtém-se uma forte indicação das convicções filosóficas do Sr. Sifuentes.
-
-
-
-Exemplo 13:
-
-Um prestador de redes sociais utiliza as informações que a Sr.ª Allgrove forneceu de forma ativa na
-sua página de perfil de redes sociais sobre a sua idade, os interesses e o endereço e combina-as com
-os dados observados sobre os sítios Web que visitou e os seus «gostos» na plataforma de redes sociais.
-O prestador de redes sociais utiliza os dados para inferir que a Sr.ª Allgrove é uma apoiante da política
-liberal de esquerda, coloca-a na categoria de direcionamento «interessada em política liberal de
-esquerda» e disponibiliza esta categoria aos responsáveis pelo direcionamento, para efeitos de
-direcionamento de publicidade.
+Mr. Sifuentes provides information in his social media profile in the shape of regular status updates,
+check-ins, etc., which indicate that he regularly takes part in activities arranged by the “Mind, Body
+and Spirit Movement”. Even though no explicit statement on philosophical belief is provided, all
+updates, likes, check-ins and similar data provided by the user when collated, strongly indicate that
+Mr. Sifuentes has a certain philosophical belief.
 
 
-No exemplo 12, a grande quantidade de informações e a inexistência de medidas que visem impedir o
-direcionamento com base em dados de uma categoria especial implica que está a ocorrer um
-tratamento de categorias especiais de dados. No entanto, o simples facto de um prestador de redes
-sociais tratar grandes quantidades de dados que poderiam ser utilizados para inferir categorias
-especiais de dados não significa automaticamente que o tratamento seja abrangido pelo artigo 9.º do
-RGPD. O artigo 9.º não será acionado, se o tratamento pelo prestador de redes sociais não resultar na
-inferência de categorias especiais de dados e o prestador de redes sociais tiver adotado medidas para
-evitar que esses dados sejam inferidos ou utilizados para efeitos de direcionamento. Em qualquer caso,
-o tratamento de uma grande quantidade de dados pessoais sobre os utilizadores pode implicar riscos
-específicos para os direitos e liberdades das pessoas singulares, aos quais é necessário dar resposta
-por meio da aplicação de medidas de segurança adequadas, conforme previsto no artigo 32.º do RGPD,
-e também tendo em conta o resultado da AIPD, a realizar nos termos do artigo 35.º do RGPD.
-                                                   38
-Adotadas
 
-No exemplo 13, a disponibilização e a utilização da categoria de direcionamento «interessados em
-política liberal de esquerda» equivale ao tratamento de categorias especiais de dados, uma vez que
-esta categoria poderia ser facilmente utilizada como um indicador para o direcionamento a pessoas
-singulares com convicções políticas liberais de esquerda. Ao atribuir uma opinião política inferida a um
-utilizador, o prestador de redes sociais trata categorias especiais de dados. Para efeitos do artigo 9.º
-do RGPD, é irrelevante se o utilizador é de facto um apoiante da política liberal de esquerda. Também
-não é relevante que a categoria de direcionamento seja denominada «interessado em...» e não
-«apoiante de...», uma vez que o utilizador é colocado na categoria de direcionamento com base em
-interesses políticos inferidos.
+Example 13:
 
-Exemplo 14:
+A social media provider uses information actively provided by Ms. Allgrove on her social media profile
+page about her age, interests and address and combines it with observed data about the websites
+visited by her and her “likes” on the social media platform. The social media provider uses the data to
+infer that Ms. Allgrove is a supporter of left-wing liberal politics and places her in the “interested in left
+wing liberal politics” targeting category, and makes this category available to targeters for targeted
+advertising.
 
-O Sr. Svenson faz um teste de aptidão vocacional, que contém uma avaliação psicológica, desenvolvido
-pela empresa «YourPerfectJob», disponibilizado numa plataforma de redes sociais e que utiliza a
-interface de programação de aplicações (IPA) fornecida pelo prestador de redes sociais. A
-YourPerfectJob recolhe dados sobre a formação do Sr. Svenson, a situação profissional, a idade, os
-passatempos, os cargos, o endereço de correio eletrónico e as ligações. A YourPerfectJob obtém os
-dados por meio da IPA, em conformidade com as «permissões» concedidas pelo Sr. Svenson através
-da sua conta nas redes sociais. A finalidade declarada da aplicação consiste em prever qual seria o
-melhor percurso profissional para um utilizador específico.
 
-Sem o conhecimento ou a aprovação do prestador de redes sociais, a YourPerfectJob utiliza estas
-informações para inferir uma série de aspetos pessoais, incluindo os seus traços de personalidade, o
-perfil psicológico e as convicções políticas. Posteriormente, a YourPerfectJob decide utilizar estas
-informações para efetuar o direcionamento ao Sr. Svenson, em nome de um partido político, utilizando
-a funcionalidade de direcionamento do prestador de redes sociais baseada nos endereços de correio
-eletrónico, sem acrescentar outros critérios de direcionamento disponibilizados pelo prestador de
-redes sociais.
+In Example 12, the vast information and the absence of measures to prevent targeting based on special
+category data implies that a processing of special categories of data is taking place. However, the mere
+fact that a social media provider processes large amounts of data which potentially could be used to
+infer special categories of data does not automatically mean that the processing falls under Article 9
+GDPR. Article 9 will not be triggered if the social media provider’s processing does not result in
+inference of special categories of data and the social media provider has taken measures to prevent
+that such data can be inferred or used for targeting. In any case, processing of a large amount of
+personal data about users may entail specific risks for the rights and freedoms of natural persons,
+which have to be addressed by implementing appropriate security measures, as prescribed under
+Article 32 GDPR, and also by taking into account the outcome of the DPIA to be performed pursuant
+to Article 35 GDPR.
+                                                     33
+Adopted
 
-No exemplo 14, o responsável pelo direcionamento trata categorias especiais de dados pessoais,
-enquanto o prestador de redes sociais não o faz. De facto, a avaliação e a identificação das convicções
-políticas do Sr. Svenson ocorrem sem a participação do prestador de redes sociais103. Para além de
-acionar a proibição geral do artigo 9.º do RGPD, o direcionamento referido no exemplo 14 constitui
-igualmente uma violação dos requisitos relativos à lealdade, à transparência e à limitação das
-finalidades. De facto, o Sr. Svenson não foi devidamente informado de que os seus dados pessoais
-serão objeto de tratamento para efeitos de direcionamento de conteúdos políticos, o que, além disso,
-não se afigura compatível com um teste vocacional.
+In Example 13, the offering as well as use of the targeting category “interested in left wing liberal
+politics” amounts to processing of special categories of data, as this category could easily be used as a
+proxy to target individuals who have left wing liberal political beliefs. By assigning an inferred political
+opinion to a user, the social media provider processes special categories of data. For the purpose of
+Article 9 GDPR, it is not relevant whether the user in fact is a supporter of left-wing liberal politics. Nor
+is it relevant that the targeting category is named “interested in…” and not “supporter of…”, since the
+user is placed in the targeting category based on inferred political interests.
 
-Embora as atividades de tratamento do prestador de redes sociais no exemplo 14 não correspondam
-ao tratamento de categorias especiais de dados na aceção do artigo 9.º do RGPD, o prestador de redes
-sociais é responsável pela integração das garantias necessárias no tratamento, a fim de cumprir os
+Example 14:
+
+Mr. Svenson takes a career aptitude test developed, containing a psychological evaluation, by the
+company “YourPerfectJob” which is made available on a social media platform and makes use of the
+Application Programming Interface (API) provided by the social media provider. YourPerfectJob
+collects data about Mr. Svenson‘s education, employment status, age, hobbies, posts, email-address
+and connections. YourPerfectJob obtains the data through the API in accordance with the
+“permissions” granted by Mr. Svenson through his social media account. The stated purpose of the
+application is to predict what would be the best career path for a specific user.
+
+Without the knowledge or approval of the social media provider, YourPerfectJob uses this information
+to infer a number of personal aspects, including his personality traits, psychological profile and political
+beliefs. YourPerfectJob later decides to use this information to target Mr. Svenson on behalf of a
+political party, using of the email-based targeting feature of the social media provider, without adding
+any other targeting criteria offered by the social media provider.
+
+In Example 14, the targeter processes special categories of personal data, whereas the social media
+provider does not. Indeed, the assessment and identification of Mr. Svenson’s political belief occurs
+without the involvement of the social media provider. 103 In addition to triggering the general
+prohibition of Article 9 GDPR, the targeting mentioned in Example 14 also constitutes an infringement
+of the requirements concerning fairness, transparency and purpose limitation. Indeed, Mr. Svenson is
+not properly informed of the fact that the personal relating to him will be processed for political
+targeting, which in addition, does not seem compatible with a career aptitude test.
+
+While processing activities of the social media provider in Example 14 do not amount to processing of
+special categories of data within the meaning of Article 9 GDPR, the social media provider is
+responsible for integrating the necessary safeguards into the processing in order to meet the
+requirements of the GDPR and protect the rights of data subjects in accordance with Article 24 and 25
+GDPR.
+
+
+
+8.2 The Article 9(2) exception of special categories of data made manifestly public
+
 
 
 103
-   No exemplo 14, não existe um controlo conjunto entre o prestador de redes sociais e a YourPerfectJob no
-momento da recolha dos dados pessoais, porque não determinam conjuntamente as finalidades da recolha e do
-tratamento subsequente ou posterior dos dados pessoais para os fins prosseguidos pela YourPerfectJob nesta
-fase do tratamento. O CEPD gostaria de recordar que a análise das funções e das responsabilidades deve ser
-efetuada numa base casuística e que a conclusão a respeito deste exemplo específico não prejudica qualquer
-trabalho adicional que seja elaborado pelo CEPD em matéria de IPA. A situação seria obviamente diferente, se o
-prestador de redes sociais, para além de disponibilizar os dados pessoais, também participasse na determinação
-da finalidade prosseguida pela YourPerfectJob. Em qualquer caso, continua a existir um controlo conjunto entre
-o responsável pelo direcionamento e o prestador de redes sociais no que se refere à utilização do direcionamento
-baseado em listas.
-                                                        39
-Adotadas
+   In Example 14, there is no joint controllership between the social media provider and YourPerfectJob at the
+moment of collection of personal data, because they do not jointly determine the purposes of the collection and
+subsequent or further processing of personal data for the purposes of Yourperfectjob at this stage of the
+processing. The EDPB would like to recall that the analysis on the roles and responsibilities needs to be done on
+a case by case basis, and that the conclusion on this specific example is without prejudice of any further work
+that can be carried out by the EDPB on APIs. The situation would of course be different if the social media
+provider, in addition to making the personal data available, also participated in the determination of purpose
+pursued by YourPerfectJob. In any event, joint controllership still exists between the targeter and the social
+media provider as regards the use of list-based targeting.
+                                                       34
+Adopted
 
-requisitos do RGPD e proteger os direitos dos titulares dos dados, de acordo com os artigos 24.º e 25.º
-do RGPD.
+Article 9(2)(e) of the GDPR allows processing of special category of data in cases where the data have
+been manifestly made public by the data subject. The word “manifestly” implies that there must be a
+high threshold for relying on this exemption. The EDPB notes that the presence of a single element
+may not always be sufficient to establish that the data have been “manifestly” made public by the data
+subject. In practice, a combination of the following or other elements may need to be considered for
+controllers to demonstrate that the data subject has clearly manifested the intention to make the data
+public, and a case-by-case assessment is needed. The following elements may be relevant to help
+inform this assessment:
 
+        (i) the default settings of the social media platform (i.e. whether the data subject took a specific
+        action to change these default private settings into public ones); or
 
+        (ii) the nature of the social media platform (i.e. whether this platform is intrinsically linked with
+        the idea of connecting with close acquaintances of the data subject or creating intimate
+        relations (such as online dating platforms), or if it is meant to provide a wider scope of
+        interpersonal relations, such as professional relations, or microblogging, media sharing, social
+        platforms to share online reviews, etc. ; or
 
-8.2 A exceção do artigo 9.º, n.º 2, de categorias especiais de dados manifestamente
-    tornados públicos
+        (iii) the accessibility of the page where the sensitive data is published (i.e. whether the
+        information is publicly accessible or if, for instance, the creation of an account is necessary
+        before accessing the information); or
 
-O artigo 9.º, n.º 2, alínea e), do RGPD permite o tratamento de categorias especiais de dados, caso
-estes tenham sido manifestamente tornados públicos pelo seu titular. A palavra «manifestamente»
-implica a existência de um limiar elevado para que seja possível recorrer a esta isenção. O CEPD
-assinala que a presença de um único elemento pode nem sempre ser suficiente para estabelecer que
-os dados foram «manifestamente» tornados públicos pelo seu titular. Na prática, pode ser necessário
-ter em consideração uma combinação dos elementos que se seguem, ou outros, para que os
-responsáveis pelo tratamento demonstrem que o titular dos dados manifestou claramente a intenção
-de tornar os dados públicos e é necessária uma avaliação caso a caso. Os elementos que se seguem
-podem ser relevantes para ajudar a informar esta avaliação:
+        (iv) the visibility of the information where the data subject is informed of the public nature of
+        the information that they publish (i.e. whether there is for example a continuous banner on
+        the page, or whether the button for publishing informs the data subject that the information
+        will be made public…); or
 
-        i) as predefinições da plataforma de redes sociais (ou seja, se o titular dos dados efetuou uma
-        ação específica para alterar estas predefinições de privadas para públicas), ou
+        (v) if the data subject has published the sensitive data himself/herself, or whether instead the
+        data has been published by a third party (e.g. a photo published by a friend which reveals
+        sensitive data) or inferred.
 
-        ii) a natureza da plataforma de redes sociais (ou seja, se esta plataforma está intrinsecamente
-        associada ao conceito de ligação a pessoas próximas do titular dos dados ou de criação de
-        relações íntimas [tais como as plataformas de encontros em linha], ou se se destina a
-        proporcionar um âmbito mais vasto de relações interpessoais, como relações profissionais, ou
-        microblogues, partilha de conteúdos multimédia, plataformas de redes sociais para a partilha
-        de críticas em linha, etc.), ou
+The EDPB notes that the presence of a single element may not always be sufficient to establish that
+the data have been “manifestly” made public by the data subject. In practice, a combination of these
+or other elements may need to be considered for controllers to demonstrate that the data subject has
+clearly manifested the intention to make the data public.
 
-        iii) a acessibilidade da página onde os dados sensíveis são publicados (ou seja, se a informação
-        está acessível ao público ou se, por exemplo, é necessária a criação de uma conta antes de
-        aceder às informações), ou
+Example 15:
 
-        iv) a visibilidade das informações através das quais o titular dos dados é informado da natureza
-        pública das informações que publica (ou seja, se existe, por exemplo, uma faixa contínua na
-        página, ou se o botão para confirmar a publicação informa o titular dos dados de que as
-        informações serão tornadas públicas, etc.), ou
+Mr Jansen has opened an account on a microblogging social media platform. While completing his
+profile, he indicated that he is homosexual. Being a conservative, he chose to join conservative groups,
+knowing that he has been informed while subscribing that the messages he exchanges on the platform
+are public. A conservative political party wishes to target people who share the same political
+affiliations and sexual orientation as Mr. Jansen using the social media targeting tools.
 
-        v) se foi o próprio titular a publicar os dados sensíveis, ou se os dados foram publicados por
-        terceiros (por exemplo, uma fotografia que revela dados sensíveis publicada por um amigo) ou
-        inferidos.
+Because members’ sexual orientation is by default “private” and that Mr. Jansen has not taken any
+step to make it public, it cannot be considered as having been manifestly made public. In addition, the
+data relating to his political affiliation has not been made manifestly public, despite of (i) the nature of
+the microblogging social media platform, which is meant to share information with the wide public,
+and (ii) the fact that he has been informed of the public nature of the messages he publishes on the
+forums. In addition, although he has joined public forums relating to conservatism, he cannot be
+targeted on the basis of this sensitive data, because it is the social media platform that makes a
+deduction on Mr Janssen’s political affiliation, and it was not the specific intention of the data subject
+to make this data manifestly public, all the more that this deduction may turn out to be false. He cannot
+                                                     35
+Adopted
 
-O CEPD assinala que a presença de um único elemento pode nem sempre ser suficiente para
-estabelecer que os dados foram «manifestamente» tornados públicos pelo seu titular. Na prática,
-pode ser necessário ter em consideração uma combinação destes elementos, ou outros, para que os
-responsáveis pelo tratamento demonstrem que o titular dos dados manifestou claramente a intenção
-de tornar os dados públicos.
-
-Exemplo 15:
-
-O Sr. Jansen criou uma conta numa plataforma de redes sociais dedicada a microblogues. Ao preencher
-o seu perfil, indicou que é homossexual. Por ser conservador, optou por aderir a grupos conservadores.
-Quando se registou, foi informado de que as mensagens que trocar na plataforma são públicas. Um
-
-                                                  40
-Adotadas
-
-partido político conservador pretende efetuar o direcionamento a pessoas que partilham a mesma
-filiação política e a mesma orientação sexual que o Sr. Jansen, utilizando as ferramentas de
-direcionamento das redes sociais.
-
-Como a orientação sexual dos membros é «privada» por defeito e o Sr. Jansen não efetuou qualquer
-ação para a tornar pública, não pode considerar-se que foi manifestamente tornada pública. Além
-disso, os dados relativos à sua filiação política não foram manifestamente tornados públicos, apesar i)
-da natureza da plataforma de redes sociais dedicada a microblogues, que se destina a partilhar
-informações com o público em geral, e ii) do facto de ter sido informado da natureza pública das
-mensagens que publica nos fóruns. Além disso, embora tenha aderido a fóruns públicos relacionados
-com o conservadorismo, não pode ser objeto de direcionamento com base nestes dados sensíveis,
-uma vez que foi a plataforma de redes sociais a efetuar uma dedução sobre a filiação política do Sr.
-Janssen e que o titular dos dados não tinha a intenção específica de tornar estes dados
-manifestamente públicos, tanto mais que esta dedução pode revelar-se falsa. Por conseguinte, não
-pode ser objeto de direcionamento com base em dados relativos à filiação política. Por outras palavras,
-é necessário ter em conta as circunstâncias em cada caso específico ao avaliar se os dados foram
-manifestamente tornados públicos pelo seu titular104.
+therefore be targeted on the basis of political affiliation data. In other words, the circumstances in
+each specific case have to be taken into account when assessing whether the data have manifestly
+been made public by the data subject.104
 
 
-9 CONTROLO CONJUNTO E RESPONSABILIDADE
-9.1 Acordo e determinação das responsabilidades dos responsáveis conjuntos pelo
-    tratamento (artigo 26.º do RGPD)
+9 JOINT CONTROLLERSHIP AND RESPONSIBILITY
+9.1 Joint controller arrangement and determination of responsibilities (Art. 26 GDPR)
 
-O artigo 26.º, n.º 1, do RGPD exige que os responsáveis conjuntos pelo tratamento determinem – de
-modo transparente – por meio de um acordo, as respetivas responsabilidades pelo cumprimento das
-obrigações do RGPD, incluindo, conforme explicado acima, os requisitos em matéria de transparência.
+Article 26 (1) GDPR requires joint controllers to determine – in a transparent manner – their respective
+responsibilities for compliance with the obligations of the GDPR in an arrangement, including, as
+explained above, the requirements for transparency.
 
-Em termos de âmbito, o CEPD considera que o acordo entre os responsáveis pelo direcionamento e os
-prestadores de redes sociais deve abranger todas as operações de tratamento pelas quais são
-conjuntamente responsáveis (ou seja, que estão sob o seu controlo conjunto). Ao celebrar um acordo
-que fosse meramente superficial e incompleto, os responsáveis pelo direcionamento e os prestadores
-de redes sociais violariam as suas obrigações nos termos do artigo 26.º do RGPD.
+In terms of scope, the EDPB considers that the arrangement between targeters and social media
+providers should encompass all processing operations for which they are jointly responsible (i.e. which
+are under their joint control). By concluding an arrangement that is only superficial and incomplete,
+targeters and social media providers would be in breach of non-compliance with their obligations
+under Article 26 of the GDPR.
 
- Por exemplo, no exemplo 4, o acordo deve abranger todo o tratamento de dados pessoais em que
- existe controlo conjunto, ou seja, desde a recolha de dados pessoais com um píxel de monitorização
- no contexto do acesso ao sítio Web «BestBags.com» pelo Sr. Schmidt, até à apresentação da
- publicidade na sua página de redes sociais, bem como qualquer eventual comunicação de resultados
- a respeito da campanha de direcionamento.
+ For instance, in Example 4 the arrangement should cover the entire processing of personal data
+ where there is joint controllership, i.e. from the collection of personal data in the context of the visit
+ by Mr. Schmidt of the website “BestBags.com” with a tracking pixel, to the display of the
+ advertisement on his social media page, as well as any eventual reporting relating to the targeting
+ campaign.
 
 
 
-A fim de elaborar um acordo abrangente, tanto o prestador de redes sociais como o responsável pelo
-direcionamento devem ter conhecimentos e informações suficientemente pormenorizadas sobre as
-operações específicas de tratamento de dados em curso. Por conseguinte, o acordo entre o
-responsável pelo direcionamento e o prestador de redes sociais deve conter (ou referir) todas as
+In order to develop a comprehensive arrangement, both the social media provider and the targeter
+must be aware of and have sufficiently detailed information regarding the specific data processing
+operations taking place. The arrangement between the targeter and the social media provider should
+therefore contain (or refer to) all necessary information to enable both parties to comply with their
+obligations under the GDPR, including their duty to comply with the principles under Article 5(1) GDPR
+and their duty to demonstrate their compliance according to Article 5(2) GDPR.
+
+If, for example, the controller is considering to rely on Article 6(1)(f) GDPR as a legal basis, it is
+necessary, among other things, to know the extent of the data processing in order to be able to assess
+whether the interest of the controller(s) are overridden by the interests or fundamental rights and
+freedoms of the data subjects. Without sufficient information concerning the processing, such an
+assessment cannot be performed. The importance of including or referencing the necessary
+information in the context of a joint arrangement cannot be overstated, especially in situations where
+one of the parties almost exclusive has the knowledge and access to the information necessary for
+both parties to comply with the GDPR.
+
+ For instance, in Example 1, when Company X is assessing whether it can rely on the legitimate
+ interest as a legal basis to target men between the age of 30 and 45 and who have indicated that
+ they are single, it is necessary that it has access to sufficient information concerning the processing
+ carried out by the social media platform, including for instance for what concerns the additional
+
 
 104
-    No seu Parecer sobre algumas questões importantes da Diretiva relativa à proteção de dados na aplicação da
-lei (WP 258, 29 de novembro de 2017, p. 11), o Grupo de Trabalho do Artigo 29.º clarificou que a expressão
-«manifestamente tornados públicos pelo seu titular» tem de ser interpretada de modo a implicar que o titular
-está ciente de que os seus dados serão disponibilizados ao público, o que significa a todos, incluindo às
-autoridades. Por conseguinte, «[e]m caso de dúvida, deve fazer-se uma interpretação restrita [...]».
-                                                     41
-Adotadas
+   The WP29 clarified in its Opinion on some key issues of the Law Enforcement Directive (WP 258, 29/11/2017,
+p. 10) that the expression “manifestly made public by the data subject” has to be interpreted to imply that the
+data subject was aware that the respective data will be publicly available which means to everyone, including
+authorities; therefore, “In case of doubt, a narrow interpretation should be applied…”.
+                                                        36
+Adopted
 
-informações necessárias para que ambas as partes possam cumprir as suas obrigações nos termos do
-RGPD, incluindo o seu dever de cumprir os princípios constantes do artigo 5.º, n.º 1, do RGPD e o seu
-dever de demonstrar o cumprimento de acordo com o artigo 5.º, n.º 2, do mesmo regulamento.
-
-Se, por exemplo, o responsável pelo tratamento estiver a ponderar recorrer ao artigo 6.º, n.º 1,
-alínea f), do RGPD como fundamento jurídico, é necessário, nomeadamente, conhecer a extensão do
-tratamento de dados para poder avaliar se os interesses ou os direitos e liberdades fundamentais dos
-titulares dos dados se sobrepõem ao interesse do(s) responsável(eis) pelo tratamento. Sem
-informações suficientes sobre o tratamento, não é possível efetuar essa avaliação. Não é possível
-sobrestimar a importância de incluir ou de referir as informações necessárias no contexto de um
-acordo conjunto, especialmente em situações nas quais uma das partes detém o conhecimento e o
-acesso quase exclusivos às informações necessárias para que ambas as partes cumpram o RGPD.
-
- A título exemplificativo, no exemplo 1, quando a empresa X está a avaliar se pode recorrer ao
- interesse legítimo como fundamento jurídico para efetuar o direcionamento a homens com idades
- compreendidas entre os 30 e os 45 anos e que indicaram que são solteiros, é necessário que tenha
- acesso a informações suficientes sobre o tratamento realizado pela plataforma de redes sociais,
- incluindo, nomeadamente, a respeito das medidas adicionais (como o direito de oposição prévia)
- adotadas por esta última, de modo a assegurar que os interesses legítimos não se sobrepõem aos
- interesses ou aos direitos e liberdades fundamentais do titular dos dados.
+ measures (such as the right to prior objection) put into place by the latter, to ensure that legitimate
+ interests are not overridden by the data subject’s interests or fundamental rights and freedoms.
 
 
 
-A fim de assegurar que os direitos do titular dos dados sejam efetivamente previstos, o CEPD considera
-que a finalidade do tratamento e o fundamento jurídico correspondente devem refletir-se igualmente
-no acordo conjunto entre os responsáveis pelo direcionamento e os prestadores de redes sociais que
-são responsáveis conjuntos pelo tratamento. Embora o RGPD não impeça os responsáveis conjuntos
-pelo tratamento de utilizarem fundamentos jurídicos diferentes para as diferentes operações de
-tratamento que realizarem, recomenda-se a utilização, sempre que possível, do mesmo fundamento
-jurídico para uma determinada ferramenta de direcionamento e para uma determinada finalidade. De
-facto, se cada fase do tratamento tiver por base um fundamento jurídico diferente, o exercício dos
-direitos do titular dos dados seria impraticável (por exemplo, para uma fase haveria um direito à
-portabilidade dos dados e para outra haveria um direito de oposição).
+In order to ensure that the rights of the data subject can be accommodated effectively, the EDPB takes
+the view that the purpose of the processing and the corresponding legal basis should be also reflected
+in the joint arrangement between targeters and social media providers who are joint controllers.
+Although the GDPR does not preclude joint controllers to use different legal basis for different
+processing operations they carry out, it is recommended to use, whenever possible, the same legal
+basis for a particular targeting tool and for a particular purpose. Indeed, if each stage of the processing
+is processed on a different legal basis, this would render the exercise of rights impracticable for the
+data subject (e.g. for one stage there would be a right to data portability, for another there would be
+a right to object).
 
-Na qualidade de responsáveis pelo tratamento, cabe ao responsável pelo direcionamento e ao
-prestador de redes sociais assegurar o cumprimento do princípio da limitação das finalidades e devem,
-por conseguinte, incorporar no acordo conjunto as disposições adequadas para esse efeito.
+As controllers the targeter and the social media provider are both responsible for ensuring that the
+principle of purpose limitation is complied with and should therefore incorporate appropriate
+provisions to that end within the joint arrangement.
 
- Por exemplo, se o responsável pelo direcionamento pretender utilizar os dados pessoais que lhe
- foram fornecidos pelo titular dos dados para efetuar o direcionamento nas redes sociais, deve
- adotar as medidas adequadas de modo a assegurar que os dados fornecidos não serão utilizados
- pelo prestador de redes sociais de forma incompatível com essas finalidades, salvo se tiver sido
- obtido o consentimento válido do titular dos dados, nos termos do artigo 6.º, n.º 4.
+ For example, if the targeter wishes to use personal data provided to it by the data subject in order
+ to target on social media, it must take appropriate measures to ensure that the data provided shall
+ not be further used by the social media provider in a manner that is incompatible with those
+ purposes, unless the valid consent of the data subject has been obtained pursuant to Article 6(4) of
+ the GDPR.
 
- No exemplo 3, o banco X deve assegurar que existem disposições adequadas no acordo conjunto
- com a plataforma de redes sociais, para que o endereço de correio eletrónico do Sr. Lopez não seja
- utilizado sem o seu consentimento para outras finalidades para além da publicidade de ofertas
- associadas aos serviços bancários que já utiliza.
+ In Example 3, the Bank X should ensure that there are appropriate provisions in the joint
+ arrangement with the social media platform that Mr. Lopez’ email address is not used for other
+ purposes that advertising of offers linked to the bank services that he is already using without Mr.
+ Lopez’ consent.
 
- Do mesmo modo, o prestador de redes sociais deve assegurar que a utilização dos dados para
- efeitos de direcionamento pelos responsáveis pelo direcionamento está em conformidade com os
- princípios de limitação das finalidades, de transparência e de licitude.
-
-                                                 42
-Adotadas
-
-Outras obrigações que devem ser tidas em consideração pelo responsável pelo direcionamento e pelo
-prestador de redes sociais no contexto do seu acordo conjunto incluem: outros princípios gerais da
-proteção de dados constantes do artigo 5.º do RGPD, a segurança do tratamento, a proteção de dados
-desde a conceção e por defeito, as notificações e as comunicações sobre as violações de dados
-pessoais, as avaliações de impacto sobre a proteção de dados e o recurso a subcontratantes e a
-transferências para países terceiros.
-
- A título exemplificativo, no exemplo 13, o acordo conjunto deve abordar qual dos responsáveis pelo
- tratamento deve efetuar uma AIPD e assegurar a realização de um intercâmbio de conhecimentos
- relevante. Por outras palavras, quando é realizada uma AIPD, o partido político
- «Letschangetheworld» deve assegurar que dispõe de um nível de informações suficiente, por
- exemplo, sobre as medidas de segurança adotadas pela plataforma de redes sociais.
+ Likewise, the social media provider must ensure that use of data for targeting purposes by the
+ targeters is in compliance with the principles of purpose limitation, transparency and lawfulness.
 
 
 
-Por último, o acordo conjunto entre o prestador de redes sociais e o responsável pelo direcionamento
-deve conter informações específicas sobre a forma como as obrigações nos termos do RGPD devem
-ser cumpridas na prática. Se não houver clareza quanto à forma como as obrigações devem ser
-cumpridas, em especial no que se refere aos direitos dos titulares dos dados, considerar-se-á que tanto
-o responsável pelo direcionamento como o prestador de redes sociais atuam em violação do
-artigo 26.º, n.º 1, do RGPD. Além disso, em tais casos, nenhum dos responsáveis (conjuntos) pelo
-tratamento terão adotado medidas técnicas e organizativas adequadas a fim de assegurar e poder
-demonstrar que o tratamento é efetuado em conformidade com o RGPD e, por conseguinte, terão
-violado as suas obrigações nos termos do artigo 5.º, n.º 2, e do artigo 24.º.
+Other obligations that should be considered by the targeter and social media provider in the context
+of their joint arrangement include: other general data protection principles contained in Article 5
+GDPR, security of processing, data protection by design and by default, notifications and
+communications of personal data breaches, data protection impact assessments, the use of processors
+and transfers to third countries.
 
-9.2 Níveis de responsabilidade
-
-O CEPD constata que os responsáveis pelo direcionamento que pretendam utilizar ferramentas de
-direcionamento disponibilizadas por um prestador de redes sociais podem deparar-se com a
-necessidade de aderir a acordos predefinidos, sem qualquer possibilidade de negociar ou proceder a
-alterações (condições de «pegar ou largar»). O CEPD considera que tal situação não nega a
-responsabilidade conjunta do prestador de redes sociais e do responsável pelo direcionamento e não
-pode servir para isentar nenhuma das partes das suas obrigações nos termos do RGPD. Ambas as
-partes do acordo conjunto são também obrigadas a assegurar que a repartição de responsabilidades
-reflete devidamente as respetivas funções e relações perante os dados dos titulares, de forma prática,
-verdadeira e transparente.
-
-Importa salientar que um acordo nos termos do artigo 26.º do RGPD não pode sobrepor-se às
-obrigações legais que incumbem a um responsável (conjunto) pelo tratamento. Os responsáveis
-conjuntos pelo tratamento, em conformidade com o artigo 26.º do RGPD, «determinam [...] as
-respetivas responsabilidades pelo cumprimento» do RGPD, mas cada responsável pelo tratamento
-continua a ser, por uma questão de princípio, responsável pela conformidade do tratamento. Tal
-significa que cada responsável pelo tratamento é, nomeadamente, responsável pela conformidade
-com os princípios estabelecidos no artigo 5.º, n.º 1, do RGPD, incluindo o princípio da licitude
-estabelecido no artigo 5.º, n.º 1, alínea a), do mesmo regulamento.
-
-No entanto, o nível de responsabilidade do responsável pelo direcionamento e do prestador de redes
-sociais pode variar no que diz respeito a obrigações específicas. No acórdão Wirtschaftsakademie, o
-TJUE assinalou que «a existência de uma responsabilidade conjunta não se traduz necessariamente
-numa responsabilidade equivalente dos diferentes operadores em causa por um tratamento de dados
-                                                  43
-Adotadas
-
-pessoais. [...] esses operadores podem estar envolvidos em diferentes fases desse tratamento e em
-diferentes graus, pelo que, para avaliar o nível de responsabilidade de cada um, há que tomar em
-consideração todas as circunstâncias pertinentes do caso em apreço»105.
-
-Por outras palavras, embora os responsáveis conjuntos pelo tratamento sejam ambos responsáveis
-pelo cumprimento das obrigações decorrentes do RGPD, e embora o titular dos dados possa exercer
-os seus direitos contra cada um dos responsáveis pelo tratamento, o seu nível de responsabilidade
-deve ser avaliado consoante a sua função efetiva no tratamento. No acórdão Google Spain, o TJUE
-clarificou que um responsável pelo tratamento deve assegurar, «no âmbito das suas
-responsabilidades, das suas competências e das suas possibilidades», que o tratamento de dados
-pessoais satisfaz as exigências do direito da UE em matéria de proteção de dados106.
-
-Quando se trata de avaliar o nível de responsabilidade dos responsáveis pelo direcionamento e dos
-prestadores de redes sociais, podem ser relevantes vários fatores, como a capacidade de influenciar o
-tratamento a nível prático, bem como o conhecimento efetivo ou presumido de cada um dos
-responsáveis conjuntos pelo tratamento. É igualmente importante ser claro quanto a que fases do
-tratamento, e em que medida ou grau, são da responsabilidade do prestador de redes sociais e do
-responsável pelo direcionamento107.
-
- No exemplo 1, a empresa X cria uma campanha publicitária para que seja apresentada, na
- plataforma de redes sociais, publicidade sobre a empresa aos utilizadores que correspondam a
- critérios específicos de direcionamento. No entanto, embora estabeleça os parâmetros da
- campanha publicitária, não recolhe nem tem acesso a quaisquer dados pessoais, nem tem qualquer
- contacto direto com o titular dos dados. Cada um destes elementos pode ser relevante ao avaliar o
- nível (ou «grau») de responsabilidade do prestador de redes sociais e do responsável pelo
- direcionamento, caso seja confirmada uma violação do RGPD (por exemplo, no caso de falta de
- transparência para com o titular dos dados ou de falha em assegurar a licitude do tratamento). Não
- obstante, conforme indicado anteriormente, ambas as partes são obrigadas a adotar medidas
- adequadas, a fim de cumprir os requisitos do RGPD e proteger os direitos dos titulares dos dados
- contra formas ilícitas de tratamento.
+ For instance, in Example 13, the joint arrangement should address the question of which of the
+ controllers should carry a DPIA and ensure that a relevant exchange of knowledge takes place. In
+ other words, the political party “Letschangetheworld” should ensure that it has a sufficient level of
+ information, for instance on the security measures put into place by the social media platform, when
+ a DPIA is carried out.
 
 
- No exemplo 3, que envolveu o direcionamento baseado em listas, a situação é ligeiramente
- diferente do exemplo 1. No exemplo 3, o banco recolheu inicialmente os dados pessoais e partilhou-
- os com o prestador de redes sociais para efeitos de direcionamento. Nesse caso, o responsável pelo
- direcionamento gerou voluntariamente as fases de recolha e de transmissão no tratamento de
- dados. Cada um destes elementos deve ser tido em conta ao avaliar o nível de responsabilidade de
- cada interveniente e deve ser devidamente refletido nos termos do acordo conjunto.
 
+Finally, the joint arrangement between the social media provider and the targeter must contain
+specific information about how the obligations under the GDPR shall be fulfilled in practice. If there is
+no clarity as to the manner in which the obligations are to be fulfilled, in particular in relation to data
+subject rights, both the targeter and the social media provider will be considered as acting in violation
+of Article 26(1) GDPR. Moreover, in such cases, both (joint) controllers will not have implemented
+                                                    37
+Adopted
 
- Do mesmo modo, no exemplo 4, no caso de direcionamento baseado em píxeis, deve ter-se em
- conta que o administrador do sítio Web permite a transmissão de dados pessoais para o prestador
- de redes sociais. De facto, é «BestBags.com» que integra um píxel de monitorização no seu sítio
+appropriate technical and organisational measures to ensure and to be able to demonstrate that
+processing is performed in accordance with the GDPR and therefore will have breached their
+obligations under Articles 5(2) and 24.
+
+9.2 Levels of responsibility
+
+The EDPB observes that targeters who wish to use targeting tools provided by a social media provider
+may be confronted with the need to adhere to pre-defined arrangements, without any possibility to
+negotiate or make modifications (‘take it or leave it’ conditions). The EDPB considers that such a
+situation does not negate the joint responsibility of the social media provider and the targeter and
+cannot serve to exempt either party from its obligations under the GDPR. Both parties to the joint
+arrangement are also bound to ensure that the allocation of responsibilities duly reflects their
+respective roles and relationships vis-à-vis data the subjects in a practical, truthful and transparent
+manner.
+
+It is important to stress that an arrangement pursuant to Article 26 GDPR cannot override the legal
+obligations incumbent upon a (joint) controller. While joint controllers shall, in accordance with Article
+26 GDPR “determine their respective responsibilities for compliance” with the GDPR, each controller
+remains, as a matter of principle, responsible for the compliance of processing. This means that each
+controller is – inter alia – responsible for compliance with the principles set out under Article 5(1)
+GDPR, including the principle of lawfulness established under Article 5(1)(a) GDPR.
+
+However, the degree of responsibility of the targeter and of the social media provider in relation to
+specific obligations may vary. In Wirtschaftsakademie, the CJEU noted that “the existence of joint
+responsibility does not necessarily imply equal responsibility of the various operators involved in the
+processing of personal data. […] those operators may be involved at different stages of that processing
+of personal data and to different degrees, so that the level of responsibility of each of them must be
+assessed with regard to all the relevant circumstances of the particular case”. 105
+
+In other words, although joint controllers are both responsible for complying with the obligations
+under the GDPR, and although the data subject may exercise his or her rights as against each of the
+controllers, their level of responsibility must be assessed on their actual role in the processing. In
+Google Spain, the CJEU clarified that a controller must ensure, “within the framework of its
+responsibilities, powers and capabilities”, that the processing of personal data meets the requirements
+of EU data protection law.106
+
+When it comes to assessing the level of responsibility of targeters and social media providers, several
+factors may be relevant, such as the ability to influence the processing on a practical level, as well as
+the actual or constructive knowledge of each of the joint controllers. It is also important to be clear at
+what stage of the processing and to what extent or degree the targeter and the social media provider
+are responsible for the processing.107
+
+ In Example 1, Company X sets up an advertising campaign so that users corresponding to specific
+ targeting criteria may be shown advertisements for the company on the social media platform.
+ However, although it sets the parameters for the advertising campaign, it does not collect or have
 
 
 105
-    Acórdão do TJUE de 5 de junho de 2018 no processo C-210/16, Wirtschaftsakademie, n.º 43.
+    CJEU judgment of 05 June 2018, Wirtschaftsakademie, C-210/16, paragraph 43.
 106
-    Ver também o acórdão do TJUE no processo C-131/12, Google Spain («das suas responsabilidades, das suas
-competências e das suas possibilidades»).
+    See also CJEU, C-131/12, Google Spain (“responsibilities, powers and capabilities").
 107
-    O CEPD considera que, em muitos casos, uma avaliação baseada nos critérios acima referidos (por exemplo,
-os dados utilizados para estabelecer os critérios de direcionamento, a correspondência do titular dos dados, a
-obtenção do consentimento) provavelmente terá como conclusão que é o prestador de redes sociais quem tem
-uma maior influência factual no tratamento e, por conseguinte, um nível de responsabilidade mais elevado,
-consoante o mecanismo específico de direcionamento utilizado.
-                                                        44
-Adotadas
+    The EDPB considers that in a variety of cases an assessment based on the criteria mentioned above (e.g. the
+data used to establish the targeting criteria, the matching of the data subject, the collection of consent) will
+likely lead to the outcome that it is the social media provider that has more factual influence on the processing
+and therefore has a higher degree of responsibility, depending on the specific targeting mechanism being used.
+                                                         38
+Adopted
 
- Web, de modo a poder efetuar o direcionamento ao Sr. Schmidt, embora este último tenha decidido
- não realizar uma compra108. Por conseguinte, o sítio Web participa de forma ativa na recolha e na
- transmissão dos dados. No entanto, na qualidade de responsável conjunto pelo tratamento, o
- prestador de redes sociais tem também a obrigação de adotar medidas adequadas a fim de cumprir
- os requisitos do RGPD e proteger os direitos dos titulares dos dados contra formas ilícitas de
- tratamento. Neste caso, se se pretender o consentimento do titular dos dados, os responsáveis
- conjuntos pelo tratamento devem acordar a forma como o consentimento é obtido na prática.
-
-
-Quando se trata de avaliar o nível de responsabilidade do prestador de redes sociais, o CEPD constata
-que vários mecanismos de direcionamento recorrem à definição de perfis e/ou a outras operações de
-tratamento previamente realizadas pelo prestador de redes sociais. É o prestador de redes sociais
-quem decide tratar os dados pessoais dos seus utilizadores de modo a desenvolver os critérios de
-direcionamento, os quais disponibiliza aos responsáveis pelo direcionamento. Para tal, o prestador de
-redes sociais tomou de modo independente determinadas decisões relativas ao tratamento, como as
-categorias de dados a tratar, os critérios de direcionamento a disponibilizar e quem terá acesso a (que
-tipos de) dados pessoais que são tratados no contexto de uma determinada campanha de
-direcionamento. Essas operações de tratamento devem também cumprir o RGPD, previamente à
-disponibilização de quaisquer serviços de direcionamento.
-
-Os exemplos referidos nos números anteriores indicam a importância de uma clara repartição de
-responsabilidades no acordo de controlo conjunto entre os prestadores de redes sociais e os
-responsáveis pelo direcionamento. Embora os termos do acordo devam, em qualquer caso, refletir o
-nível de responsabilidade de cada interveniente, é necessário um acordo abrangente que reflita
-devidamente a função e as capacidades de cada parte, não apenas para efeitos do cumprimento do
-artigo 26.º do RGPD, mas também a fim de cumprir outras regras e princípios do mesmo regulamento.
-
-Por último, o CEPD assinala que, na medida em que os termos do acordo conjunto entre o prestador
-de redes sociais e o responsável pelo direcionamento não vinculem as autoridades de controlo, estas
-podem exercer as suas competências e poderes em relação a qualquer dos responsáveis conjuntos
-pelo tratamento, desde que esse responsável esteja sujeito à competência dessa autoridade de
-controlo.
+ access to any personal data, nor does it have any direct contact with the data subject. Each of these
+ elements may be relevant when assessing the level (or “degree”) or responsibility of the targeter
+ and social media provider in case a violation of the GDPR is established (e.g. in case of lack of
+ transparency towards the data subject or failure to ensure lawfulness of processing). As indicated
+ earlier, notwithstanding, both parties are obliged to undertake appropriate measures in order to
+ meet the requirements of the GDPR and protect the rights of data subjects against unlawful forms
+ of processing.
 
 
+ In Example 3, which involved list-based targeting, the situation is slightly different than Example 1.
+ In Example 3, the bank initially collected the personal data and shared it with the social media
+ provider for targeting purposes. In that case, the targeter has voluntarily caused the collection and
+ transmission stage of the data processing. Each of these elements should be taken into account
+ when assessing the level of responsibility of each actor and should be duly reflected in the terms of
+ the joint arrangement.
+
+
+ Similarly, in Example 4, in case of pixel-based targeting, it should be taken into account that the
+ website operator enables the transmission of personal data to the social media provider. It is indeed
+ the website “BestBags.com” that integrates a tracking pixel on its website so that it can target Mr
+ Schmidt, although he has decided not to make a purchase 108 . The website is therefore actively
+ involved in the collection and transmission of the data. As a joint controller, however, the social
+ media provider is also under an obligation to undertake appropriate measures to meet the
+ requirements of the GDPR and protect the rights of data subjects against unlawful forms of
+ processing. In this case, if the data subject’s consent is sought, the joint controllers should agree
+ upon the way in which consent is collected in practice.
+
+
+When it comes to assessing the level of responsibility of social media provider, the EDPB observes that
+several targeting mechanisms rely on profiling and/or other processing activities previously
+undertaken by the social media provider. It is the social media provider who decides to process
+personal data of its users in such a manner to develop the targeting criteria which it makes available
+to targeters. In order to do so, the social media provider has independently made certain decisions
+regarding the processing, such as which categories of data shall be processed, which targeting criteria
+shall be offered and who shall have access (to what types of) personal data that is processed in the
+context of a particular targeting campaign. Such processing activities must also comply with the GDPR,
+prior to the offering of any targeting services.
+
+The examples mentioned in the preceding paragraphs indicate the importance of clearly allocating
+responsibilities in the joint controller arrangement between social media providers and targeters. Even
+though the terms of the arrangement should in any case mirror the level of responsibility of each actor,
+a comprehensive arrangement which duly reflects the role and capabilities of each party is necessary
+not only to comply with Article 26 of the GDPR, but also for complying with other rules and principles
+of the GDPR.
+
+Finally, the EDPB notes that insofar as the terms of the joint arrangement between the social media
+provider and the targeter do not bind supervisory authorities, supervisory authorities may exercise
 
 
 108
-   Além disso, uma vez que BestBags.com integrou o píxel de monitorização das redes sociais no seu sítio Web,
-é também responsável pelo cumprimento dos requisitos da Diretiva Privacidade Eletrónica no que diz respeito a
-esta ferramenta, o que é igualmente importante para a determinação do nível de responsabilidade, dado que o
-píxel facilita igualmente o tratamento de dados pessoais.
-                                                      45
-Adotadas
+   In addition, as BestBags.com has integrated the social media tracking pixel on its website, it is also responsible
+for complying with the ePrivacy Directive requirements regarding this tool, which, given that the pixel also
+facilitates the processing of personal data, is also of importance when determining the level of responsibility.
+                                                          39
+Adopted
+
+their competences and powers in relation to either joint controller, as long as the joint controller in
+question is subject to the competence of that supervisory authority.
+
+
+
+
+                                                  40
+Adopted
 ```

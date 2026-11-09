@@ -1,1064 +1,975 @@
 ---
-titulo: "Diretrizes 06/2022 relativas à aplicação prática dos acordos amigáveis"
+titulo: "Guidelines 06/2022 on the practical implementation of amicable settlements"
 titulo_en: "Guidelines 06/2022 on the practical implementation of amicable settlements"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2022-05-12'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-062022-on-the-practical-implementation-of-amicable-settlements_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2022-11/edpb_guidelines_202206_on_the_practical_implementation_of_amicable_settlements_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2022-06/edpb_guidelines_202206_on_the_practical_implementation_of_amicable_settlements_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 06/2022 relativas à aplicação prática dos acordos amigáveis
+# Guidelines 06/2022 on the practical implementation of amicable settlements
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 06/2022 relativas à aplicação prática
+Guidelines 06/2022 on the practical implementation
 
-                       dos acordos amigáveis
-
-
-
-
-                              Versão 2.0
-
-                   Adotadas em 12 de maio de 2022
+                  of amicable settlements
 
 
 
 
-                                                              1
-Adotadas
+                         Version 2.0
 
-Histórico de versões
-
- Versão 2.0   12 de maio de 2022   Adoção das Diretrizes 06/2022
-                                   Foram efetuados apenas pequenos ajustamentos
-                                   editoriais em comparação com a versão 1.0, para
-                                   efeitos de publicação.
- Versão 1.0   18 de novembro de    Adoção do Documento Interno do CEPD 06/2021
-              2021                 Os membros do Comité Europeu para a Proteção de
-                                   Dados (CEPD) decidiram debater a publicação do
-                                   documento após um período de seis meses, a fim de
-                                   adquirir experiência com a prática durante esse
-                                   período.
+                   Adopted on 12 May 2022
 
 
 
 
-                                                                                       2
-Adotadas
+                                                          1
+Adopted
 
-Índice
-1      ÂMBITO E OBJETIVO........................................................................................................................ 4
-2      DEFINIÇÃO DO TERMO «ACORDO AMIGÁVEL» .............................................................................. 5
-    2.1       Contexto geral ......................................................................................................................... 5
-    2.2       Contexto do RGPD................................................................................................................... 6
-    2.3       Objetivo dos acordos amigáveis em geral............................................................................... 9
-3      ANÁLISE JURÍDICA GERAL.............................................................................................................. 10
-    3.1       O poder de obter um acordo amigável como um dos poderes conferidos às AC ................ 10
-    3.2       O procedimento de acordo amigável no contexto do balcão único ..................................... 10
-       3.2.1    Acordo amigável alcançado pela ACI que recebe a reclamação na fase de apreciação
-       preliminar ...................................................................................................................................... 11
-       3.2.2          Tentativa de acordo amigável por parte da ACP........................................................... 12
-       3.2.3          Casos ao abrigo do artigo 56.º, n.º 2............................................................................. 16
-4      CONSEQUÊNCIAS JURÍDICAS E RECOMENDAÇÕES PRÁTICAS....................................................... 17
-    4.1    Aplicação do princípio da boa administração ao procedimento de acordo amigável no
-    contexto do balcão único .................................................................................................................. 17
-    4.2       Procedimento de cooperação na sequência da obtenção de um acordo amigável pela ACP
-              18
-    4.3       Acordo amigável nos casos previstos no artigo 56.º, n.º 2 ................................................... 19
-Anexo 1: ETAPAS PERTINENTES DO TRATAMENTO DE UM CASO POR MEIO DE UM ACORDO
-AMIGÁVEL ............................................................................................................................................. 21
-Anexo 2: PAÍSES EM QUE NÃO É POSSÍVEL CELEBRAR ACORDOS AMIGÁVEIS EM CONFORMIDADE
-COM A LEGISLAÇÃO NACIONAL ............................................................................................................ 24
+Version history
+
+ Version 2.0      12 May 2022        Adoption of Guidelines 06/2022
+                                     Only minor editorial adjustments were made in
+                                     comparison to Version 1.0, for the purpose of
+                                     publication.
+ Version 1.0      18 November 2021   Adoption of Internal EDPB Document 06/2021
+                                     The EDPB members decided to discuss the publication
+                                     of the document after a period of 6 months, allowing
+                                     the EDPB members to gain experience from practice
+                                     during that time
 
 
 
 
-                                                                                                                                                         3
-Adotadas
+                                                                                            2
+Adopted
 
-     O Comité Europeu para a Proteção de Dados
+Table of contents
+1      SCOPE AND AIM .............................................................................................................................. 4
+2      DEFINITION OF THE TERM “AMICABLE SETTLEMENT”.................................................................... 5
+    2.1        General context....................................................................................................................... 5
+    2.2        GDPR context........................................................................................................................... 6
+    2.3        The aim of amicable settlements in general ........................................................................... 8
+3      GENERAL LEGAL ANALYSIS .............................................................................................................. 9
+    3.1        The power to reach an amicable settlement as one of the powers vested in SAs ................. 9
+    3.2        The amicable settlement procedure in the OSS context ...................................................... 10
+       3.2.1     Amicable settlement achieved by the complaint-receiving CSA in the preliminary
+       vetting phase ................................................................................................................................. 10
+       3.2.2          Amicable settlement attempted by the LSA ................................................................. 11
+       3.2.3          Cases under Article 56(2) .............................................................................................. 15
+4      LEGAL CONSEQUENCES AND PRACTICAL RECOMMENDATIONS .................................................. 16
+    4.1    Application of the principle of good administration to the amicable settlement procedure in
+    the OSS context ................................................................................................................................. 16
+    4.2        The cooperation procedure following an amicable settlement achieved by the LSA .......... 17
+    4.3        Amicable settlement in Article 56(2) cases ........................................................................... 18
+Annex 1: RELEVANT STEPS WHEN HANDLING A CASE VIA AMICABLE SETTLEMENT............................ 19
+Annex 2: COUNTRIES WHERE AMICABLE SETTLEMENTS ARE NOT POSSIBLE IN ACCORDANCE WITH
+THE NATIONAL LEGISLATION................................................................................................................. 22
 
-     Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-     seguir designado por «RGPD»),
-     Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que
-     lhes foi dada pela Decisão do Comité Misto do EEE n.º 154/2018, de 6 de julho de 20181,
-
-     Tendo em conta os artigos 12.º e 22.º do seu regulamento interno,
 
 
 
-     ADOTOU AS SEGUINTES DIRETRIZES
+                                                                                                                                                       3
+Adopted
+
+     The European Data Protection Board
+
+     Having regard to Article 70(1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+     the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+     “GDPR”),
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 20181,
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
 
 
-     1 ÂMBITO E OBJETIVO
-1.   A prática demonstrou que muitas autoridades de controlo (a seguir designadas por «AC») aplicam o
-     instrumento «acordo amigável» no tratamento de reclamações. É também notório que existem
-     diversas modalidades de acordos amigáveis e que, por conseguinte, estes são tratados de forma
-     distinta pelas AC devido às diferentes legislações nacionais. O RGPD utiliza o termo «acordo amigável»
-     apenas no considerando 131, referindo-se ao tratamento de casos a nível local ao abrigo do artigo 56.º,
-     n.º 2, mas não limita explicitamente as possibilidades a esses casos. A lacuna resultante na
-     regulamentação dos acordos amigáveis no que se refere aos casos não locais tem sido colmatada de
-     várias formas, umas vezes através de legislação dos Estados-Membros, outras de interpretação. Dadas
-     as várias interpretações e as diferentes legislações nacionais que regem o tratamento das reclamações
-     e os acordos amigáveis (quando existem), a aplicação prática do instrumento acordo amigável difere
-     consideravelmente entre os Estados-Membros.
 
-2.   Os poderes das AC devem ser exercidos em conformidade com os requisitos específicos do direito
-     processual do respetivo Estado-Membro. O mesmo se aplica ao tratamento dos casos. No entanto, o
-     direito processual nacional tem de respeitar os princípios da equivalência e da eficácia, pelo que não
-     pode tornar excessivamente difícil ou praticamente impossível o exercício dos direitos conferidos pelo
-     direito da UE (ou seja, o RGPD). Por conseguinte, através das presentes diretrizes, o CEPD procura
-     fornecer boas práticas para uma aplicação coerente do RGPD a nível nacional e da UE, na medida
-     adequada à aplicação do instrumento acordo amigável, tendo em conta as várias legislações
-     processuais nacionais (desde que tal instrumento tenha sido explicitamente aplicado), o procedimento
-     do mecanismo de balcão único ao abrigo do RGPD e o ambiente técnico (IMI).
+     HAS ADOPTED THE FOLLOWING GUIDELINES
 
-3.   Os casos tratados pelas AC podem ter outras origens que não as reclamações, baseando-se, por
+
+     1 SCOPE AND AIM
+1.   Practice has shown that many supervisory authorities (hereinafter “SAs”) apply the instrument of
+     amicable settlement when dealing with complaints. It is as well noticeable that there are diverse
+     variations of amicable settlements and that they are therefore handled differently by SAs due to
+     differing domestic legislations. The GDPR uses the term “amicable settlement” only in Recital 131 in
+     reference to the handling of local cases under Article 56(2) GDPR, but does not explicitly limit the
+     possibilities to facilitate such local cases. The resulting lacuna in regulation of amicable settlements for
+     non-local cases has been filled in divergent ways, some by way of Member State law, others by way of
+     interpretation. Given these different interpretations and given the differing national laws governing
+     complaint handling and amicable settlements (if at all present), the practical implementation of the
+     instrument of amicable settlements differs considerably among Member States.
+
+2.   The powers of the SAs should be exercised in accordance with specific requirements in their Member
+     State procedural law. This applies also to the handling of cases. However, national procedural law must
+     comply with the principles of equivalence and effectiveness and may hence not render excessively
+     difficult or practically impossible the exercise of the rights conferred by EU law (i.e. the GDPR). Through
+     these Guidelines, the EDPB therefore seeks to provide best practices for a consistent application of the
+     GDPR at national and EU level, to the extent appropriate for the application of the instrument of
+     amicable settlement, taking into account the various national procedural legislations – insofar as such
+     an instrument has been implemented explicitly – the procedure of the OSS mechanism under the
+     GDPR, and the technical environment (IMI).
+
+3.   Cases handled by SAs can have origins other than complaints, for example cases based on media
+     reports or ex officio investigations. However, the present guidance will address the practical
 
 
      1
-      As referências a «Estados-Membros» efetuadas ao longo das presentes diretrizes devem ser entendidas como
-     referências a «Estados do EEE».
+       References to “Member States” made throughout these Guidelines should be understood as references to
+     “EEA Member States”.
 
-                                                                                                            4
-     Adotadas
+                                                                                                               4
+     Adopted
 
-     exemplo, em notícias dos meios de comunicação social ou investigações ex officio. No entanto, as
-     presentes diretrizes abordam a aplicação prática dos acordos amigáveis apenas nos casos que tenham
-     origem numa reclamação de um titular dos dados, uma vez que a possibilidade de um acordo postula
-     a existência de um litígio entre duas entidades, neste caso, a reclamação apresentada por um titular
-     dos dados contra um responsável pelo tratamento (ver também o ponto 2.1 infra). Além disso, essas
-     reclamações podem ser divididas em i) casos nacionais sem caráter transfronteiriço, ii) casos em que
-     o mecanismo de balcão único é aplicável porque são de natureza transfronteiriça e iii) casos
-     transfronteiriços que são tratados a nível local nos termos do artigo 56.º, n.º 2, do RGPD. Mais uma
-     vez, embora a prática demonstre que os acordos amigáveis constituem uma via possível em todas as
-     situações, as presentes diretrizes abordarão principalmente as reclamações de natureza
-     transfronteiriça.
+     implementation of amicable settlements only for cases that originated as a complaint from a data
+     subject since the possibility of a settlement postulates the existence of a dispute between two entities,
+     in this case the complaint lodged by a data subject against a data controller (see also paragraph 2.1
+     below). Furthermore, such complaints can be divided into (i) national cases without cross-border
+     character, (ii) cases where the OSS mechanism applies because the case is cross-border in nature, and
+     (iii) cross-border cases that are handled locally pursuant to Article 56(2) GDPR. Again, even though
+     practice shows that amicable settlements are a possible course of action for all situations, the present
+     guidance will mainly address those complaints that are cross-border in nature.
 
 
-     2 DEFINIÇÃO DO TERMO «ACORDO AMIGÁVEL»
-     2.1 Contexto geral
+     2 DEFINITION OF THE TERM “AMICABLE SETTLEMENT”
+     2.1 General context
 
-4.   O RGPD não define o significado do termo «acordo amigável» e só refere a expressão no considerando
-     1312. Os significados mais pertinentes de «acordo» são entendimento e convenção oficial destinada a
-     resolver um litígio ou conflito. O Oxford English Dictionary explica o adjetivo «amigável» como algo
-     caracterizado pela convivialidade e ausência de discórdia.
+4.   The GDPR does not define the meaning of the term “amicable settlement” and only refers to this
+     expression in Recital 131.2 The most relevant meanings of “settlement” are “an arrangement” and “an
+     official agreement intended to resolve a dispute or conflict”. The Oxford English Dictionary explains the
+     adjective “amicable” as “characterised by friendliness and absence of discord”.
 
-5.   A forma como os acordos amigáveis são definidos de forma mais geral na profissão jurídica e noutros
-     documentos internacionais fornece algumas orientações preliminares para determinar a definição. Por
-     exemplo, a Câmara de Comércio Internacional («CCI») prevê um conjunto de procedimentos de
-     resolução de litígios que podem ser considerados «acordos amigáveis»3. O principal procedimento de
-     acordo amigável na CCI parece ser a mediação, que é descrita como uma técnica flexível e consensual
-     em que um serviço neutro ajuda as partes a chegarem a um acordo negociado relativamente aos seus
-     litígios. De acordo com a CCI, os acordos obtidos através da mediação são contratualmente vinculativos
-     e amplamente executórios. A Organização Mundial do Comércio («OMC») utiliza os acordos amigáveis
+5.   The way amicable settlements are defined more generally in the legal profession and throughout other
+     international documents provides some preliminary guidance for determining the definition of
+     amicable settlements. For example, the International Chamber of Commerce (“ICC”) provides a range
+     of dispute resolution procedures that may be considered “amicable settlements”.3 The principle
+     amicable settlement procedure at the ICC appears to be mediation, which is described as a “flexible
+     and consensual technique in which a neutral facility helps the parties reach a negotiated settlement of
+     their disputes.” According to the ICC, such settlements achieved through mediation are contractually
+     binding and widely enforceable. The World Trade Organization (“WTO”) uses amicable settlements as
+     “mutually agreed solutions”, which constitutes a “negotiated solution” between the involved parties
+     that allows for swift and tailored solution of a dispute. 4 Moreover, the European Union Intellectual
+     Property Office (“EUIPO”) refers to amicable settlements as a “process outside of the court resulting in
 
 
      2
-       Considerando 131: «1 Nos casos em que as funções de autoridade principal de controlo devessem ser exercidas
-     por outra autoridade de controlo relativamente às atividades de tratamento do responsável pelo tratamento ou
-     do subcontratante, mas em que o conteúdo concreto da reclamação ou a eventual violação diga respeito apenas
-     às atividades de tratamento do responsável ou do subcontratante realizadas no Estado-Membro onde tenha sido
-     apresentada a reclamação ou detetada a eventual infração, e o assunto não afete nem seja suscetível de afetar
-     substancialmente titulares de dados noutros Estados-Membros, a autoridade de controlo que recebe uma
-     reclamação, deteta ou é de outro modo informada de situações que impliquem eventuais violações do presente
-     regulamento deverá procurar obter um acordo amigável. Se tal não lhe for possível, deverá exercer todos os
-     poderes de que dispõe. 2 Deverão ficar abrangidas: as atividades de tratamento específicas realizadas no
-     território do Estado-Membro da autoridade de controlo ou que digam respeito a titulares de dados em território
-     desse Estado-Membro; as atividades de tratamento realizadas no contexto de uma oferta de bens ou serviços
-     destinados especificamente a titulares de dados no território do Estado-Membro da autoridade de controlo; ou
-     as atividades de tratamento que tenham de ser analisadas tomando em consideração as obrigações legais
-     aplicáveis ao abrigo do direito do Estado-Membro».
+       Recital 131 : “1Where another supervisory authority should act as a lead supervisory authority for the processing
+     activities of the controller or processor but the concrete subject matter of a complaint or the possible
+     infringement concerns only processing activities of the controller or processor in the Member State where the
+     complaint has been lodged or the possible infringement detected and the matter does not substantially affect
+     or is not likely to substantially affect data subjects in other Member States, the supervisory authority receiving a
+     complaint or detecting or being informed otherwise of situations that entail possible infringements of this
+     Regulation should seek an amicable settlement with the controller and, if this proves unsuccessful, exercise its
+     full range of powers. 2This should include: specific processing carried out in the territory of the Member State of
+     the supervisory authority or with regard to data subjects on the territory of that Member State; processing that
+     is carried out in the context of an offer of goods or services specifically aimed at data subjects in the territory of
+     the Member State of the supervisory authority; or processing that has to be assessed taking into account relevant
+     legal obligations under Member State law. “
      3
-      https://iccwbo.org/dispute-resolution-services/mediation/icc-international-centre-for-adr/.
-
-
-                                                                                                                 5
-     Adotadas
-
-     como soluções mutuamente acordadas, que constituem uma solução negociada entre as partes
-     envolvidas que permite uma solução rápida e adaptada para um litígio4. Além disso, o Instituto da
-     Propriedade Intelectual da União Europeia («EUIPO») refere-se aos acordos amigáveis como um
-     processo fora do tribunal, que resulta numa solução negociada entre as partes através de mediação5.
-     O Centro Europeu do Consumidor («CEC») também se refere aos acordos amigáveis6 como uma forma
-     de «procedimento de resolução alternativa de litígios», conforme previsto na Diretiva sobre a
-     resolução alternativa de litígios de consumo7, como procedimentos que são propostos «por
-     organismos extrajudiciais independentes, tais como conciliadores, mediadores, árbitros, provedores e
-     comissões de resolução de litígios»8, e em que os consumidores e as empresas tentam resolver um
-     litígio em conjunto, ouvindo ambas as partes, analisando a situação jurídica, debatendo possíveis
-     soluções e, por último, apresentando uma proposta de arbitragem9.
-
-6.   Em suma, afigura-se que os acordos amigáveis se referem, em geral, a resoluções alternativas de litígios
-     através de processos que resultam no encerramento cordial de um caso. Enquanto o acordo entre as
-     partes é o resultado, o processo em si segue uma abordagem amigável. Os procedimentos podem ir
-     desde negociações entre as partes a mediações formais e até a práticas de conciliação facilitadas.
-
-
-     2.2 Contexto do RGPD
-
-7.   No contexto do tratamento de reclamações pelas autoridades de proteção de dados, a maioria dos
-     Estados-Membros considera os acordos amigáveis um processo de «resolução alternativa de litígios».
-     Na maior parte dos casos, o acordo amigável é facilitado quando é apresentada uma reclamação à AC
-     relativa à alegada violação do RGPD, em particular no que respeita aos direitos dos titulares dos dados,
-     a fim de resolver o caso a favor dos mesmos. Nessas situações, o acordo deve ser alcançado entre o
-     responsável pelo tratamento e o titular dos dados, sob a supervisão da AC, que modera o desenrolar
-     dos acontecimentos. Por conseguinte, a AC atua como uma espécie de facilitador do processo que visa
-     resolver a reclamação. No entanto, ao contrário de um verdadeiro «mediador», a AC participa
-     ativamente no processo, uma vez que ainda tem de cumprir as suas obrigações enquanto AC e, por
-     conseguinte, tem de tratar a reclamação, investigar o conteúdo da mesma, com as suas
-     especificidades, na medida adequada e informar o titular dos dados sobre o andamento ou o resultado
-     da reclamação.
-
-
+       https://iccwbo.org/dispute-resolution-services/mediation/icc-international-centre-for-adr/.
      4
-       Wolfgang Alschner, «Amicable Settlements of WTO Disputes: Bilateral Solutions in a Multilateral System»,
-     World Trade Review, vol. 13 (1), 2014, pp. 65-102.
+       Wolfgang Alschner, Amicable Settlements of WTO Disputes: Bilateral Solutions in a Multilateral System, World
+     Trade Review, Volume 13 (1), 2014, p. 65-102.
+
+
+                                                                                                                         5
+     Adopted
+
+     a solution negotiated between the parties […] through mediation”.5 The European Consumer Center
+     (“ECC”) also refers to amicable settlements6 as a form of “alternative dispute resolution procedures”,
+     as laid down in the Directive on alternative dispute resolution for consumer disputes 7, as procedures
+     that are “provided by neutral out-of-court bodies such as conciliators, mediators, arbitrators, the
+     ombudsman and complaints boards”,8 and in which “consumers and businesses attempt to resolve a
+     dispute jointly […] by hearing both parties, examining the legal situation, discussing possible solutions
+     and finally making a proposal for arbitration”.9
+
+6.   All in all, it appears that amicable settlements generally refer to alternative dispute resolutions through
+     proceedings that result in the cordial closure of a case. Whereas a settlement between the parties is
+     the outcome, the proceeding itself follows an amicable approach. The procedures can range from
+     party-to-party negotiations to formal mediations and even facilitated conciliation practices.
+
+
+     2.2 GDPR context
+
+7.   In the context of complaint handling by data protection authorities, most Member States see amicable
+     settlements as a process of “alternative dispute resolution”. In most cases, the amicable settlement is
+     facilitated where a complaint is lodged with the SA concerning the alleged violation of the GDPR, in
+     particular concerning data subjects’ rights, to resolve the case in the data subjects’ favour. In such
+     cases, the settlement is to be reached between the controller and the data subject, under the
+     supervision of the SA, which moderates the course of events. Thus, the SA acts as a sort of facilitator
+     of the process aimed at settling the complaint. The SA, unlike an actual “mediator”, takes an active
+     part in the proceeding as it still has to fulfil its obligations as SA and is therefore required to handle the
+     complaint, to investigate the subject matter of the complaint with its specifics to an appropriate extent,
+     and to inform the data subject on the progress or the outcome regarding the complaint.
+
+8.   Given the relative silence of the GDPR on amicable settlements, which alternative dispute resolution
+     process is followed and the requirements and conditions that govern that process, will largely depend
+     on each particular Member State’s law and policy. An analysis of standing practice shows that, when
+     dealing with amicable settlements, the majority of the national legal systems include the receiving SA,
+     the controller (or processor) and the data subject in the proceeding, as well as, if applicable, also the
+     Lead Supervisory Authority (LSA).
+
+9.   It should be noted that in some Member States, the data subject is not a party to the administrative
+
      5
        EUIPO, Decision No. 2013-3 of the Presidium of the Board of Appeal of 5 July 2013 on the amicable settlement
-     of disputes (“Decision on Mediation”) (não traduzida para português),
-     https://euipo.europa.eu/ohimportal/en/mediation#.
+     of disputes (“Decision on Mediation”), https://euipo.europa.eu/ohimportal/en/mediation#.
      6
        https://europa.eu/youreurope/citizens/consumers/consumers-dispute-resolution/informal-dispute-
-     resolution/index_pt.htm.
+     resolution/index_en.htm
      7
-       Diretiva 2013/11/UE sobre a resolução alternativa de litígios de consumo, que altera o Regulamento (CE)
-     n.º 2006/2004 e a Diretiva 2009/22/CE.
+       Directive 2013/11/EU on alternative dispute resolution for consumer disputes and amending Regulation (EC)
+     No 2006/2004 and Directive 2009/22/EC
      8
        https://europa.eu/youreurope/citizens/consumers/consumers-dispute-resolution/out-of-court-
-     procedures/index_pt.htm.
+     procedures/index_en.htm
      9
-       Por exemplo, o sítio Web alemão equivalente https://www.evz.de/einkaufen-internet/odr-adr/beratung-
-     schlichtung.html.
+       E.g. the German equivalent website https://www.evz.de/einkaufen-internet/odr-adr/beratung-
+     schlichtung.html
 
-                                                                                                                  6
-     Adotadas
+                                                                                                                 6
+     Adopted
 
-8.   Dada a relativa omissão do RGPD no que respeita aos acordos amigáveis, o processo de resolução
-     alternativa de litígios a seguir, bem como os requisitos e as condições que regem esse processo
-     dependerão, em grande medida, do direito e das políticas de cada Estado-Membro. Uma análise da
-     prática estabelecida mostra que, quando se trata de acordos amigáveis, a maioria dos sistemas
-     jurídicos nacionais inclui no processo a AC que recebe a reclamação, o responsável pelo tratamento
-     (ou subcontratante) e o titular dos dados, bem como, se aplicável, a autoridade de controlo principal
-     (ACP).
-
-9.   De salientar que, em alguns Estados-Membros, o titular dos dados não é parte no processo
-     administrativo contra o responsável pelo tratamento. Nesses Estados-Membros, a AC pode utilizar um
-     processo de resolução de litígios semelhante ao descrito nas presentes diretrizes e encerrar o caso se
-     considerar que o responsável pelo tratamento satisfez os pedidos, mas sem ouvir o titular dos dados.
-     Estes processos de resolução não serão, contudo, abordados nas presentes diretrizes.
+    proceedings against the controller. In such Member States, the SA may use a similar dispute resolution
+    process to what is described in these Guidelines and close a case if it deems that the controller has
+    fulfilled the claims, but without hearing the data subject. Such resolution processes will however not
+    be addressed in these Guidelines.
 
 
-10. Geralmente, considera-se que os acordos amigáveis são possíveis em qualquer fase de um processo,
-     apesar de algumas AC indicarem que só são possíveis nas fases iniciais de apreciação do caso, antes de
-     serem tomadas quaisquer outras medidas. Em alguns Estados-Membros, os acordos amigáveis só são
-     aplicáveis em casos a nível local, devido ao facto de o RGPD utilizar este termo apenas no considerando
-     131, que descreve a abordagem da autoridade de controlo interessada (ACI) em casos a nível local. No
-     entanto, a maioria das AC considera o instrumento acordo amigável admissível em qualquer tipo de
-     casos, independentemente da sua natureza transfronteiriça ou local.
+10. Amicable settlements are mainly regarded to be possible at any stage of a proceeding, even though
+    some SAs indicate that they are only possible in the early stages of case consideration, before any other
+    action has been taken. In some Member States, amicable settlements are only applicable in local cases,
+    due to the fact that the GDPR uses this term only in Recital 131, where an approach by the Concerned
+    Supervisory Authority (CSA) in local cases is described accordingly. However, the majority of the SAs
+    declare the instrument of an amicable settlement permissible in any kind of cases, regardless of their
+    cross-border or otherwise local nature.
 
 
-11. No que se refere ao considerando 131, o âmbito de aplicação desses acordos limita-se aos casos em
-     que a ACI que recebe a reclamação considera que o conteúdo concreto ou a eventual violação diz
-     respeito apenas às atividades de tratamento do responsável ou do subcontratante realizadas no
-     Estado-Membro onde foi apresentada a reclamação, ou não afeta (não é suscetível de afetar)
-     substancialmente titulares de dados noutros Estados-Membros. A decisão de procurar obter ou não
-     um acordo amigável deve então abranger, conforme refere o considerando: i) as atividades de
-     tratamento específicas realizadas no território do Estado-Membro ou que digam respeito a titulares
-     de dados em território desse Estado-Membro, ii) as atividades de tratamento realizadas no contexto
-     de uma oferta de bens ou serviços destinados especificamente a titulares de dados no território do
-     Estado-Membro, ou iii) as atividades de tratamento que tenham de ser analisadas tomando em
-     consideração as obrigações legais aplicáveis ao abrigo do direito do Estado-Membro. Por outro lado,
-     as legislações que permitem explicitamente os acordos amigáveis podem não estar limitadas a estes
-     requisitos.
+11. Regarding Recital 131, the scope for such agreements is limited to cases in which the CSA receiving the
+    complaint finds that the concrete subject matter or the possible infringement concerns only processing
+    activities of the controller or processor in the Member State where the complaint has been lodged, or
+    (likely) does not substantially affect data subjects in other Member States. The choice whether to seek
+    an amicable settlement should then include, as the Recital states, (i) the specific processing carried out
+    in the territory of the Member State or with regard to data subjects on the territory of that Member
+    State, (ii) processing that is carried out in the context of an offer of goods or services specifically aimed
+    at data subjects in the territory of the Member State, or (iii) processing that has to be assessed taking
+    into account relevant legal obligations under Member State law. Legislations explicitly allowing
+    amicable settlements, on the other hand, may not be limited to these requirements.
 
-12. Em princípio, a decisão de optar ou não por um acordo amigável depende do direito do
-     Estado-Membro e/ou da discrição da AC em causa. No que respeita aos critérios com base nos quais
-     se pode considerar que os casos se prestam a uma resolução amigável, tais critérios podem incluir,
-     nomeadamente, a forma como a AC teve conhecimento do caso. Por conseguinte, o procedimento de
-     acordo amigável só pode ser considerado aplicável nos casos em que tenha sido apresentada uma
+12. In principle, the choice whether an amicable settlement may or may not be pursued depends on
+    Member State law and/or the discretion of the SA involved. Regarding the criteria on the basis of which
+    cases may be considered appropriate for amicable resolution, such criteria could on the one hand
+    include the manner in which the SA has come to know of the case. The procedure of an amicable
+    settlement could therefore only be deemed applicable in cases where a complaint has been lodged.
 
+13. Amicable settlements should in general only be considered possible in cases concerning the data
+    subjects’ rights laid down in Articles 12 et seq. of the GDPR, given that only then the data subject can
+    dispose of his or her own rights as a party to the settlement. However, with due regard to national
+    legislation of individual Member States, such decision is subject to the discretion of the SA as it has to
+    assess the broader picture of the individual case.
 
-                                                                                                          7
-     Adotadas
+14. On the other hand, the factual circumstances of the case could be decisive. Such special circumstances
+    under which it is determined whether an amicable settlement may or may not be conducted can be
+    governed by national regulations, whereas the GDPR remains silent on the matter (apart from Recital
+    131). In practice, the following general criteria could guide the SA in taking the decision to initiate an
+    amicable settlement procedure: There is a likelihood for the case to be solved amicably at all; only a
+    limited amount of data subjects is affected and whether or not there is a systemic failure
 
-    reclamação.
+                                                                                                               7
+    Adopted
 
-13. Em geral, o acordo amigável só deve ser considerado possível em casos relativos aos direitos dos
-    titulares dos dados previstos nos artigos 12.º e seguintes do RGPD, uma vez que apenas nesses casos
-    o titular dos dados pode alienar os seus direitos enquanto parte no acordo. No entanto, tendo
-    devidamente em conta a legislação nacional de cada Estado-Membro, essa decisão está sujeita à
-    discrição da AC, uma vez que esta tem de avaliar o contexto mais alargado do caso concreto.
-
-14. Por outro lado, as circunstâncias factuais do caso em apreço podem ser determinantes. As
-    circunstâncias especiais com base nas quais se determina se um acordo amigável pode ou não
-    realizar-se podem ser regidas por regulamentos nacionais, considerando que o RGPD continua a ser
-    omisso na matéria (com exceção do considerando 131). Na prática, os seguintes critérios gerais
-    poderão orientar a AC na tomada de decisão de dar início a um procedimento de acordo amigável:
-    existir uma probabilidade de o caso ser resolvido de forma amigável; apenas um número limitado de
-    titulares de dados ser afetado e o facto de existir ou não uma falha sistémica reconhecível10; a violação
-    da proteção de dados ser incidental ou acidental (no sentido da negligência); o caso envolver o
-    tratamento de um número limitado de dados pessoais; os efeitos da violação não serem de duração e
-    natureza graves (o que significa que não existem consequências graves ou violações das liberdades e
-    dos direitos). A probabilidade de ocorrerem novas violações no futuro pode também ser um fator
-    determinante. Além disso, a importância societal mais ampla e o interesse público da aplicação de
-    medidas coercivas pela AC, tendo em conta, nomeadamente, domínios identificados como sendo de
-    especial vigilância, bem como o nível de capacidade de uma AC para tomar medidas eficazes e
-    eficientes, podem ser decisivos.
+    recognisable;10 the data protection violation is incidental or accidental (in the sense of negligence); the
+    case involves the processing of a limited number of personal data; the effects of the violation are not
+    of serious duration and nature (meaning that there are no severe consequences or infringements of
+    freedoms and rights). Moreover, the likelihood of further violations in the future might be a
+    determining factor. In addition, the broader societal significance and public interest of enforcement
+    action on the part of the SA, also in light of any identified areas of special vigilance, as well as the extent
+    to which an SA is able to take effective and efficient action can be decisive.
 
 
 
 
-    Exemplo 1:
-    Um responsável pelo tratamento ou subcontratante aceita fornecer as informações solicitadas por
-    uma autoridade de controlo para resolver uma reclamação, tais como provas claras de que cumpriu o
-    disposto nos artigos 33.º e 34.º do RGPD em caso de uma violação de dados pessoais. A razão pela
-    qual o pedido não foi satisfeito imediatamente (em conformidade com o artigo 12.º do RGPD)
-    baseou-se numa discrepância no processo de comunicação interna.
+    Example 1:
+    A controller or processor accepts to provide any information requested by a supervisory authority to
+    resolve a complaint, such as clear proof that it has complied with Articles 33 and 34 of the GDPR in
+    case of a personal data breach. The reason why the request was not fulfilled right away (in line with
+    Article 12 GDPR) was based on a discrepancy in the internal communication process.
 
-15. Não obstante, é importante notar que qualquer AC tem o direito de investigar mais aprofundadamente
-    a questão, mesmo depois de se ter chegado a um acordo amigável, embora no âmbito de um
-    procedimento diferente ou de outro procedimento por sua própria iniciativa. A autoridade pode
-    prosseguir o processo ex officio, por exemplo, se considerar que deve ser aplicada uma coima ou
-    receber outras reclamações semelhantes sobre o mesmo responsável pelo tratamento, que a levem a
-    concluir que este não cumpriu o seu compromisso de corrigir a(s) violação(ões) da proteção de dados,
-    ou se a reclamação e/ou as investigações revelarem outras infrações, possivelmente sistémicas, que
-    possam ter consequências ou impactos mais vastos para outros titulares de dados. O mesmo se aplica
-    quando o acordo amigável diz respeito apenas a partes de uma reclamação, ao passo que outras
+15. Notwithstanding, it is important to note that any SA has the right to further investigate the issue even
+    after an amicable settlement has been reached, albeit in a different or other procedure on own volition.
+    The authority may continue the proceedings ex officio if, for example, it considers that a fine should
+    be imposed or receives other similar complaints about the same controller, leading to the conclusion
+    that the controller has not fulfilled their commitment to remedy data protection violation(s), or if the
+    complaint and/or the investigations reveal other, possibly systemic infringements that may have wider
+    consequences or impacts on other data subjects. The same applies when the amicable settlement
+    concerns only parts of a complaint, whereas other or additional issues of the case are handled
+    otherwise. Furthermore, an amicable resolution does not preclude the data subject from reverting to
+    the SA, should it turn out (later) that the data controller did not comply with their resolution as agreed.
+    These circumstances should be communicated in a clear and transparent way to the controller and to
+    the complainant before an amicable settlement is reached.
+
+
+
+    Example 2:
+    The data subject makes a complaint that a controller is seeking a passport as a means of identification
+    in order to delete an account held by the data subject on the controller’s platform. The SA deems the
+    individual complaint suitable for attempted amicable settlement, in that the data subject may be
+    satisfied if the demand for a passport is rescinded, and the account deleted. However, the SA opens
+    an own-volition inquiry in to the controller’s policies around data processing in respect of platform
+    accounts, in order to ensure that the controller brings its policies into compliance with the provisions
+    of the GDPR.
+
+
+
+    2.3 The aim of amicable settlements in general
+
+16. In addition to reaching an outcome which is satisfactory for the data subject, amicable settlements are
+    tools to achieve compliance with the GDPR by the controller. In case a complaint is lodged because a
 
     10
-         Ver exemplo 2 infra relativo a este critério.
+         Cf. Example 2 below regarding this criterion.
 
-                                                                                                           8
-    Adotadas
+                                                                                                                 8
+    Adopted
 
-    questões ou questões ulteriores do caso são tratadas de outra forma. Além disso, uma resolução
-    amigável não impede o titular dos dados de voltar a recorrer à AC, caso se verifique (posteriormente)
-    que o responsável pelo tratamento dos dados não a cumpriu conforme acordado. Estas circunstâncias
-    devem ser comunicadas de forma clara e transparente ao responsável pelo tratamento e ao autor da
-    reclamação antes de se chegar a um acordo amigável.
+    controller has not fulfilled the data subject rights pursuant to Articles 12 to 22 GDPR, the enforcement
+    of data subject rights can be expedited by an amicable arrangement between the actors. The yardstick
+    against which the successful amicable resolution of the complaint is measured should include two
+    elements: on the one hand, the satisfaction of the data subject achieved in the specific case in relation
+    to the specific issues raised in the complaint and, on the other hand, where applicable and required by
+    national law, the proof provided by the controller to the SA that it has met the data subject's requests
+    and complied with the applicable data protection requirements. However, the SA should determine in
+    practice, and by having regard to the circumstances of the case and to the given cooperation with other
+    SAs involved in the case, whether the amicable settlement is enough to achieve full compliance with
+    the GDPR in the light of the legal issues surrounding or arising from the individual complaint against
+    the individual controller.
 
+17. Thus, amicable settlements should be understood broadly as one of the options for an SA to address
+    data subjects’ complaints and ensure the protection of data subject rights. At the same time, it must
+    be recognized that amicable settlements may not be an appropriate solution for every case. While it is
+    for the SAs themselves to determine whether an amicable settlement may or may not be pursued in a
+    given case, such assessment must be carried out on the basis of structured, uniform, transparent and
+    explainable criteria, such as the ones mentioned in paragraph 12 et seq., and taking into account
+    provisions of national law, where existent.
 
-
-    Exemplo 2:
-    O titular dos dados apresenta uma reclamação segundo a qual um responsável pelo tratamento solicita
-    um passaporte como meio de identificação para apagar uma conta detida pelo titular dos dados na
-    sua plataforma. A AC considera que a reclamação individual se presta a uma tentativa de acordo
-    amigável, na medida em que o titular dos dados pode ficar satisfeito se o pedido de passaporte for
-    anulado e a conta for apagada. No entanto, a AC abre um inquérito por sua própria iniciativa sobre as
-    políticas do responsável pelo tratamento no que respeita ao tratamento de dados relacionados com
-    as contas da plataforma, a fim de assegurar que este harmoniza as suas políticas com as disposições
-    do RGPD.
-
-
-
-    2.3 Objetivo dos acordos amigáveis em geral
-
-16. Além da obtenção de um resultado satisfatório para o titular dos dados, os acordos amigáveis são
-    instrumentos que permitem assegurar o cumprimento do RGPD por parte do responsável pelo
-    tratamento. Caso seja apresentada uma reclamação por um responsável pelo tratamento não ter
-    cumprido os direitos de um titular dos dados nos termos dos artigos 12.º a 22.º do RGPD, o exercício
-    dos direitos do titular dos dados pode ser acelerado através de um acordo amigável entre os
-    intervenientes. O critério com base no qual se mede o sucesso da resolução amigável da reclamação
-    deve incluir dois elementos: por um lado, a satisfação do titular dos dados no caso específico em
-    relação às questões específicas levantadas na reclamação; por outro, quando aplicável e exigido pelo
-    direito nacional, a prova apresentada à AC pelo responsável pelo tratamento de que satisfez os pedidos
-    do titular dos dados e cumpriu os requisitos aplicáveis em matéria de proteção de dados. No entanto,
-    a AC deve determinar, na prática, e tendo em conta as circunstâncias do caso e a cooperação com
-    outras AC envolvidas, se o acordo amigável é suficiente para alcançar a plena conformidade com o
-    RGPD à luz das questões jurídicas em torno ou decorrentes da reclamação individual contra o
-    responsável pelo tratamento.
-
-17. Por conseguinte, os acordos amigáveis devem ser entendidos em sentido lato como uma das opções
-    de que dispõe a AC para tratar as reclamações dos titulares dos dados e garantir a proteção dos direitos
-    dos mesmos. Ao mesmo tempo, há que reconhecer que os acordos amigáveis podem não ser a solução
-    adequada para todos os casos. Embora caiba às próprias AC determinar se um acordo amigável pode
-    ou não ser prosseguido num determinado caso, essa apreciação deve ser efetuada com base em
-    critérios estruturados, uniformes, transparentes e explicáveis, como os referidos nos pontos 12 e
-    seguintes, e tendo em conta as disposições do direito nacional, quando existam.
-
-18. Os poderes de correção da AC são de extrema importância para a aplicação e a manutenção do elevado
+18. The SA’s corrective powers are of paramount importance for the enforcement and maintenance of the
+    high level of protection which the GDPR seeks to create for all data subjects, who are often in a difficult
+    or even dependent position vis-à-vis the controller. Resolving a dispute through the procedure of
+    amicable settlements with an SA handling the process comparable to a facilitator can then be a way to
+    address and handle such imbalance and to find a solution that is acceptable for each party, especially
+    the data subject as regards the fulfilment of his or her rights.
 
 
-                                                                                                          9
-    Adotadas
+    3 GENERAL LEGAL ANALYSIS
+    3.1 The power to reach an amicable settlement as one of the powers vested in SAs
 
-    nível de proteção que o RGPD procura criar para todos os titulares dos dados, que se encontram
-    frequentemente numa posição difícil ou mesmo de dependência face ao responsável pelo tratamento.
-    A resolução de um litígio através do procedimento de acordo amigável com uma AC que trata do
-    processo de forma semelhante a um facilitador pode assim ser uma forma de resolver e tratar esse
-    desequilíbrio e de encontrar uma solução aceitável para cada parte, especialmente para o titular dos
-    dados no que respeita ao exercício dos seus direitos.
+19. An amicable settlement procedure finds its legal basis in the tasks directly conferred on SAs by the
+    GDPR (Article 57(1)(a) and (f) GDPR) and additionally in the powers granted to SAs by a national law
+    within the framework of Article 58(6) GDPR, where this exists.
 
+20. In the first case, Article 57(1)(a) and (f) GDPR generally apply, providing sound foundations for a SA to
+    seek all possible avenues to “handle” complaints (see paragraph 1(f) of Article 57) and “enforce” (see
+    paragraph 1(a) of Article 57) the application of the Regulation as appropriate. Article 57(1)(f) read in
+    conjunction with Article 77 and 78 implies an individual right to have every complaint (if admissible)
+    handled and investigated to the extent necessary to reach an outcome appropriate to the nature and
+    circumstances of that complaint. However, it falls within the discretion of each competent supervisory
+    authority to decide the extent to which a complaint should be investigated. An outcome could e.g. be
 
-    3 ANÁLISE JURÍDICA GERAL
-    3.1 O poder de obter um acordo amigável como um dos poderes conferidos às AC
+                                                                                                             9
+    Adopted
 
-19. A base jurídica de um procedimento de acordo amigável reside nas atribuições diretamente conferidas
-    às AC pelo RGPD [artigo 57.º, n.º 1, alíneas a) e f)] e, adicionalmente, nos poderes conferidos às AC por
-    uma lei nacional no âmbito do artigo 58.º, n.º 6, do RGPD, quando existente.
+    that the parties to the complaint through the intervention of the SA have settled the case amicably.
 
-20. No primeiro caso, o artigo 57.º, n.º 1, alíneas a) e f), do RGPD aplica-se de forma geral, proporcionando
-    bases sólidas para que uma AC procure todas as vias possíveis para «tratar» as reclamações [ver
-    artigo 57.º, n.º 1, alínea f)] e «executar» [ver artigo 57.º, n.º 1, alínea a)] a aplicação do regulamento,
-    conforme adequado. O artigo 57.º, n.º 1, alínea f), lido em conjugação com os artigos 77.º e 78.º,
-    implica um direito individual a que todas as reclamações (se admissíveis) sejam tratadas e investigadas
-    na medida do necessário para alcançar um resultado adequado à natureza e às suas circunstâncias. No
-    entanto, compete a cada autoridade de controlo competente decidir em que medida uma reclamação
-    deve ser investigada. Um resultado poderá ser, por exemplo, o facto de as partes na reclamação,
-    através da intervenção da AC, resolverem o caso de forma amigável.
-
-21. No segundo cenário, as AC podem ser habilitadas pelos Estados-Membros a exercer poderes adicionais
-    nos termos do direito nacional, em conformidade com o artigo 58.º, n.º 6, do RGPD. As especificidades
-    das questões relacionadas com o tratamento operacional dos casos para que uma AC (incluindo uma
-    ACP) possa chegar a uma resolução amigável figuram nas respetivas disposições nacionais.
+21. SAs may, in the second scenario, be empowered by Member States to exercise additional powers
+    pursuant to national law, as per Article 58(6) GDPR. The specifics of operational case handling matters
+    for a SA (including a LSA) to reach an amicable resolution are to be found in these national provisions.
 
 
-    3.2 O procedimento de acordo amigável no contexto do balcão único
+    3.2 The amicable settlement procedure in the OSS context
 
-22. A fim de avaliar o papel do acordo amigável no contexto do procedimento de balcão único, pode fazer-
-    se referência, em primeiro lugar, à lógica subjacente a esse procedimento, conforme estabelecida no
-    artigo 60.º, n.º 1, do RGPD. Tal como clarificado nas Diretrizes 02/2022 do CEPD relativas à aplicação
-    do artigo 60.º do RGPD11, «o artigo 60.º, n.º 1, estabelece princípios básicos e gerais, que se aplicam
-    ao longo de toda a cooperação entre as AC. De acordo com a redação deste artigo, os conceitos
-    fundamentais do procedimento de cooperação consistem em "procurar alcançar um consenso" e na
-    obrigação de "troca[r] entre si todas as informações pertinentes"». Além disso, «[…] estas obrigações
-    devem ser cumpridas pela ACP e por todas as [...] ACI (obrigação mútua)».
+22. In order to assess the role of the amicable settlement in the context of the OSS procedure, reference
+    can be made in the first place to the rationale of such procedure as set out in Article 60(1) GDPR. As
+    clarified in the EDPB Guidelines 02/2022 on the application of Article 60 GDPR11, “Article 60(1) lays
+    down basic and overarching principles, which apply throughout the entire cooperation between SAs.
+    In accordance with the wording of this Article, the key concepts of the cooperation procedure consist
+    of ‘an endeavour to reach consensus’ and the obligation to ‘exchange all relevant information’.”
+    Furthermore, “[…] these obligations are to be complied with by the LSA and every CSA (mutual
+    obligation).”
+
+
+
+    3.2.1 Amicable settlement achieved by the complaint-receiving CSA in the preliminary
+          vetting phase
+
+23. The EDPB wishes to point out that although amicable settlement is only mentioned in the context of
+    Recital 131, seeking for an amicable settlement may also be a good practice when an SA is handling a
+    case that does not fulfil the conditions laid down by Article 56.2 GDPR, depending on the national
+    procedural legislation.
+
+24. Recital 131 as such does not prevent the CSA receiving a complaint from attempting, as part of the
+    preliminary vetting, to seek such a settlement in addition to establishing the “fully" cross-border nature
+    of that complaint. Nevertheless, the specific approach may depend on whether the controller has an
+    establishment on the territory of that receiving SA or not. As already clarified in Section 2, an inherent
+    feature of amicable settlement is the mutual satisfaction of the parties involved, most particularly the
+    complainant. If this is the case and the CSA can objectify such a satisfaction in advance, in the vetting
+    phase of the complaint, after e.g. the controller complied with the data subjects rights request to the
+    satisfaction of both the data subject and the receiving SA, the receiving SA should no longer inform the
+    LSA of the case through an Article 56 IMI notification, as the object of the complaint is no longer
+    present. Accordingly, there is no need to start an OSS procedure by uploading the case to the IMI.
+
+25. According to Recital 125 the LSA is generally competent for adopting any legally binding decision on
+    the relevant controller or processor in an OSS context. Moreover, under Article 56(6) GDPR, the LSA is
+    the “sole interlocutor” of the controller/processor for the cross-border processing in question.
+    Therefore, the receiving SA should communicate the case and outcome to the LSA at an appropriate
 
 
     11
-         Pontos 37 e 38 das Diretrizes 02/2022 do CEPD relativas à aplicação do artigo 60.º do RGPD.
+         Paragraphs 37 and 38 of the EDPB Guidelines 02/2022 on the application of Article 60 GDPR.
 
-                                                                                                            10
-    Adotadas
+                                                                                                           10
+    Adopted
 
-    3.2.1 Acordo amigável alcançado pela ACI que recebe a reclamação na fase de apreciação
-          preliminar
+    time, for instance on a quarterly basis (i.e.: through the voluntary mutual assistance), in line with the
+    cooperation requirement that is inherent in the whole OSS mechanism, in order for the LSA to be able
+    to take any action it deems appropriate in respect of the given controller.
 
-23. O CEPD gostaria de salientar que, embora o acordo amigável seja referido apenas no contexto do
-    considerando 131, tentar obter um acordo amigável pode também ser uma boa prática quando uma
-    AC está a tratar um caso que não satisfaz as condições estabelecidas no artigo 56.º, n.º 2, do RGPD, em
-    função da legislação processual nacional.
+26. This means that the LSA should be kept informed about the successful amicable settlements achieved
+    by the CSA in such a preliminary phase, also in aggregate format. More specific guidance in this respect
+    is provided in Section 4 below (‘Recommendations’).
 
-24. O considerando 131, enquanto tal, não impede a ACI que recebe uma reclamação de, no âmbito da
-    apreciação preliminar, tentar obter esse acordo, além de estabelecer a natureza plenamente
-    transfronteiriça dessa reclamação. No entanto, a abordagem específica pode depender do facto de o
-    responsável pelo tratamento ter ou não um estabelecimento no território da AC que recebe a
-    reclamação. Conforme clarificado na secção 2, uma característica inerente ao acordo amigável é a
-    satisfação mútua das partes envolvidas, em especial do autor da reclamação. Se for esse o caso e a ACI
-    puder objetivar essa satisfação antecipadamente, na fase de apreciação da reclamação, por exemplo,
-    após o responsável pelo tratamento ter satisfeito o pedido de direitos dos titulares dos dados a
-    contento tanto do titular dos dados como da AC que recebe a reclamação, esta já não deve informar a
-    ACP do caso através de uma notificação no IMI ao abrigo do artigo 56.º, uma vez que o objeto da
-    reclamação já não existe. Por conseguinte, não é necessário iniciar um procedimento de balcão único,
-    carregando o caso no IMI.
+27. Needless to say, there are cases where the settlement achieved by the CSA with the
+    controller/processor may be only a partial one, i.e. not all the requests are granted, so that the
+    involvement of the LSA becomes indispensable with a view to providing all the remedies envisaged by
+    the GDPR to the data subject.
 
-25. De acordo com o considerando 125, a ACP é geralmente competente para adotar qualquer decisão
-    juridicamente vinculativa relativamente ao responsável pelo tratamento ou ao subcontratante em
-    causa no contexto do balcão único. Além disso, nos termos do artigo 56.º, n.º 6, do RGPD, a ACP é o
-    «único interlocutor» do responsável pelo tratamento/subcontratante no tratamento transfronteiriço
-    em questão. Por conseguinte, a AC que recebe a reclamação deve comunicar o caso e o resultado à
-    ACP em momento oportuno, por exemplo, trimestralmente (ou seja, através da assistência mútua
-    voluntária), em conformidade com o requisito de cooperação inerente a todo o mecanismo de balcão
-    único, para que a ACP possa tomar as medidas que considere adequadas relativamente ao responsável
-    pelo tratamento em causa.
-
-26. Tal significa que é necessário manter a ACP informada dos acordos amigáveis bem-sucedidos obtidos
-    pela ACI nessa fase preliminar, também em formato agregado. Na secção 4 infra («Recomendações»),
-    são dadas orientações mais específicas a este respeito.
-
-27. Evidentemente, há casos em que o acordo obtido pela ACI com o responsável pelo
-    tratamento/subcontratante pode ser apenas parcial, ou seja, nem todos os pedidos são deferidos, pelo
-    que a participação da ACP se torna indispensável para proporcionar ao titular dos dados todas as vias
-    de recurso previstas no RGPD.
-
-28. CONSEQUÊNCIAS JURÍDICAS: o acordo amigável que uma ACI está habilitada a obter no âmbito da
-    atividade de apreciação preliminar da reclamação recebida pode tornar desnecessário dar início a um
-
-                                                                                                        11
-    Adotadas
-
-    procedimento ao abrigo do artigo 60.º, na medida em que o acordo alcançado seja totalmente
-    satisfatório para as partes envolvidas. Se tal não for o caso, e devido ao princípio do direito a uma boa
-    administração previsto no artigo 41.º da Carta dos Direitos Fundamentais da União Europeia, que
-    também se aplica aos casos de balcão único, a ACP deve analisar as razões pelas quais não foi possível
-    à ACI chegar a um acordo amigável na fase preliminar e decidir se outra tentativa poderá levar a uma
-    conclusão da reclamação num prazo razoável.
+28. LEGAL CONSEQUENCES: The amicable settlement that a CSA is empowered to achieve as part of the
+    preliminary vetting activity in respect of the received complaint may make it unnecessary to initiate an
+    Article 60 procedure insofar as the settlement achieved is to the full satisfaction of the parties involved.
+    If this is not the case and due to the principle to the right to good administration in Art. 41 EUChFR
+    which also applies to OSS cases, the LSA should then consider the reasons why the amicable settlement
+    could not be reached within the preliminary phase by the CSA and decide whether another attempt
+    could lead to a conclusion of the complaint within a reasonable time.
 
 
-    3.2.2 Tentativa de acordo amigável por parte da ACP
+    3.2.2 Amicable settlement attempted by the LSA
 
-29. Quando a ACP decide tentar chegar a um acordo amigável após ter recebido o caso, um requisito
-    fundamental a cumprir decorre, uma vez mais, da lógica do procedimento de cooperação do balcão
-    único, ou seja, a necessidade de as ACI e a ACP cooperarem para procurarem alcançar um consenso.
+29. Where the LSA decides to attempt an amicable settlement after receiving the case, a key requirement
+    to be met stems, once again, from the rationale of the OSS cooperation procedure, i.e. the need for
+    CSAs and LSA to cooperate in an endeavour to reach consensus.
 
-30. É importante referir que o CEPD reconhece que, em qualquer fase do processo, a ACP é livre de
-    conceder uma audição formal ao titular dos dados (através da ACI que recebe a reclamação como
-    interlocutor) e, com o acordo de todas as partes envolvidas [por exemplo, o titular dos dados, o
-    responsável pelo tratamento, a(s) ACI e, eventualmente, terceiros] encerrar um caso depois de a
-    alegada infração ter sido corrigida, mesmo na ausência de regulamentação nacional específica. A ACP
-    pode fazê-lo se considerar que as informações recolhidas nas investigações do caso são suficientes
-    para levar a essa forma de encerramento. Tal forma de resolução pode ser entendida como uma
-    abordagem de devida diligência devido à margem de discrição na determinação das condições e
-    requisitos no tratamento dos casos, uma vez que proporciona uma solução que permite às AC manter
-    o elevado nível de proteção que o RGPD procura criar, reconhecendo que alguns casos podem ser
-    resolvidos de forma eficiente, facilitando a interação entre as partes. Pode trazer vantagens para o
-    autor da reclamação, cujos direitos ao abrigo do RGPD são rapidamente reivindicados, bem como para
-    o responsável pelo tratamento, a quem é dada a oportunidade de tornar o seu comportamento
-    conforme com o RGPD.
+30. It is important to state that the EDPB acknowledges that, in any stage of the proceeding, the LSA is at
+    liberty to give a formal hearing to the data subject (through the complaint-receiving CSA as
+    interlocutor) and, with the agreement of all parties involved (e.g. the data subject, the controller, the
+    CSA(s) and possibly third parties), to close a case after the alleged infringement has been rectified even
+    in the absence of specific domestic regulation. The LSA may do so if it considers the information
+    gathered from the case investigations sufficient to bring the case to such form of closure. This form of
+    settlement could be understood as a due diligence approach due to the margin of discretion in
+    determining the conditions and requirements in case handling, as it provides a solution that enables
+    SAs to maintain the high level of protection that the GDPR seeks to create by recognising that some
+    cases can be solved efficiently by facilitating interaction between the parties. It can carry advantages
+    for the complainant, whose rights under the GDPR are vindicated swiftly, as well as for the controller,
+    who is provided the opportunity to bring its behaviour into compliance with the GDPR.
 
-31. Tal significa que a ACP deve estar ciente da necessidade de manter as ACI informadas em todas as fases
-    do processo. Com efeito, embora a ACP seja incontestavelmente o único interlocutor do responsável
-    pelo tratamento em causa (ver, uma vez mais, o artigo 56.º, n.º 6, do RGPD), o autor da reclamação
-    tem o seu balcão único na ACI competente que recebeu a sua reclamação.
+31. This means that the LSA should be mindful of the need to keep the CSAs in the loop at all stages of the
+    proceeding. Indeed, whilst the LSA is unquestionably the sole interlocutor for the controller involved
 
-32. Este intercâmbio mútuo de informações é também um meio de garantir o respeito do direito a um
-    processo equitativo e do direito do autor da reclamação a ser ouvido no âmbito do procedimento
-    tentado pela ACP, em parte com vista a apresentar os seus pontos de vista para além das informações
-    já fornecidas pela ACI. É aqui que o papel da ACP é fundamental, atuando como facilitador de todo o
-    processo através do intercâmbio de informações e documentos com a ACI. Importa também recordar
-    que o poder discricionário da ACP no tratamento da reclamação através de uma tentativa de obter um
-    acordo amigável entre o titular dos dados e o responsável pelo tratamento é necessariamente
-    influenciado pelas informações e documentos trocados ao abrigo do artigo 60.º, n.º 1, do RGPD,
-    especialmente se a ACI já tiver tentado, sem êxito, chegar a tal acordo na fase de apreciação.
 
-                                                                                                          12
-    Adotadas
+                                                                                                             11
+    Adopted
 
-33. Com efeito, a ACP que escolhe o acordo amigável como forma de resolver o litígio com o responsável
-    pelo tratamento deve ter em conta a probabilidade de tal abordagem conduzir a um resultado positivo,
-    ou seja, ao reconhecimento dos direitos do titular dos dados, à luz de todas as circunstâncias
-    pertinentes, incluindo as expectativas da ACI que lhe transferiu a reclamação nos termos dos requisitos
-    do artigo 56.º, n.º 1, do RGPD. Sempre que uma ACI comunicar, nos termos do artigo 60.º, n.º 1, em
-    particular, que tal tentativa já foi feita sem êxito na fase de apreciação, quer devido à recusa do titular
-    dos dados em aceitar o acordo com o responsável pelo tratamento ou ao facto de o responsável pelo
-    tratamento não responder ao convite da ACI para satisfazer o pedido do titular dos dados, a ACP deve
-    analisar cuidadosamente se uma nova tentativa de resolver a reclamação de forma amigável serve os
-    interesses dos titulares dos dados e a legislação em matéria de proteção de dados em geral. Uma
-    abordagem mais formal, em que a ACP exerça toda a sua autoridade em relação ao responsável pelo
-    tratamento também nos termos do artigo 58.º do RGPD, pode ser a ação preferível. O mesmo se aplica
-    se a ACI não tiver feito qualquer tentativa nesse sentido antes de transferir a reclamação para a ACP,
-    independentemente do motivo, e, por conseguinte, não lhe tiver comunicado nada a este respeito. Em
-    ambos os casos, a atenção prestada pela ACP à probabilidade de êxito da opção acordo amigável
-    permitir-lhe-á escolher a forma mais adequada de resolver o caso em apreço, reduzindo os encargos
-    administrativos desnecessários e evitando o risco de procedimentos de balcão único que impliquem
-    uma utilização intensiva de recursos para dar resposta às preocupações e dúvidas, ou mesmo às
-    objeções fundamentadas e pertinentes, da(s) ACI.
+    (see, again, Article 56(6) GDPR), the complainant has his or her one-stop-shop in the competent CSA
+    that received his or her complaint.
 
-34. Se a ACP chegar à conclusão de que um acordo amigável é adequado no caso em apreço, terá de
-    considerar que o acordo faz parte de um procedimento de balcão único e terá de agir em
-    conformidade. O CEPD já esclareceu, nas Diretrizes relativas à aplicação do artigo 60.º, que, «[a] fim
-    de facilitar a obtenção de consenso, as informações devem ser partilhadas num momento em que
-    ainda seja possível à ACP ter em conta as posições das [...] ACI. Tal deverá [...] evitar que sejam
-    apresentados factos consumados às [...] ACI, por exemplo, porque determinadas fases do processo
-    podem ser excluídas ao abrigo do direito nacional»12.
+32. This mutual exchange of information is also a means to ensure compliance with due process and the
+    right of the complainant to be heard in the procedure attempted by the LSA, partly with a view to
+    submitting his or her views on top of the information already provided by the CSA. This is where the
+    LSA’s role is key in acting as the facilitator of the whole process through the exchange of information
+    and documents with the CSA. It should also be recalled that the LSA’s discretion in handling the
+    complaint by way of an attempt at achieving an amicable settlement between the data subject and the
+    controller is bound to be impacted by the information and documents exchanged under Article 60(1)
+    GDPR, especially if the CSA has already unsuccessfully attempted such an amicable settlement in the
+    vetting phase.
 
-35. No contexto de um procedimento de acordo amigável, tal significa que se espera que a ACP partilhe o
-    acordo proposto com a(s) ACI antes de o concluir, nos termos do artigo 60.º, n.º 3, primeira frase.
-    Conforme salientado pelo CEPD nas Diretrizes relativas à aplicação do artigo 60.º, «[...] a participação
-    das [...] ACI no procedimento de cooperação não se limita ao direito de expressar uma objeção
-    pertinente e fundamentada nos termos do artigo 60.º, n.º 4. Em especial, antes da elaboração do
-    projeto de decisão, as ACI devem poder contribuir para o procedimento global e podem expressar as
-    suas posições também antes da elaboração do projeto de decisão»13.
+33. Indeed, the LSA choosing the amicable settlement as a way to resolve the dispute with the controller
+    should be mindful of the likelihood for such an approach to lead to a successful outcome, i.e. to the
+    vindication of the data subject’s rights, in the light of all the relevant circumstances, including the
+    expectations of the CSA that has transferred the complaint to it under the requirements of Article 56(1)
+    GDPR. Where a CSA communicates under Article 60(1), in particular, that such an attempt has already
+    been made unsuccessfully in the vetting phase, whether on account of the data subject’s refusal to
+    accept the settlement with the controller or on account of the controller’s failure to reply to the CSA’s
+    invitation to comply with the data subject’s request, the LSA should consider very carefully whether a
+    new attempt to settle the complaint amicably does serve the interests of the data subjects, and data
+    protection law in general. A more formalised approach in which the LSA exerts all its authority vis-à-vis
+    the controller also under Article 58 GDPR might be the preferable action. The same applies if the CSA
+    has made no such attempt prior to transferring the complaint to the LSA, on whatever grounds, and
+    has accordingly communicated nothing in this respect to the LSA. In both cases, the attention paid by
+    the LSA to the likelihood for success of the amicable settlement option will enable the LSA to select the
+    most appropriate way for tackling the case at hand, reducing unnecessary administrative burden and
+    avoiding the risk of resource intensive OSS procedures to address the concerns and doubts, or even
+    the reasoned and relevant objections, of the CSA(s).
 
-36. Fica claramente ao critério da ACP, à luz de todos os fatores referidos nos pontos anteriores,
-    determinar se é efetivamente necessária uma consulta informal da(s) ACI no caso em apreço. Como
-    acima referido nos pontos 12 e seguintes, as características da própria reclamação a resolver de forma
+34. If the LSA comes to the conclusion that an amicable settlement is appropriate in the case at hand, it
+    will have to consider that the settlement is part of an OSS procedure and will have to act accordingly.
+    The EDPB has already clarified in the Article 60 Guidelines, that “in order to facilitate the reaching of
+    consensus, the information should be shared at a moment where it is still possible for the LSA to take
+    on board the viewpoints of the CSAs. This […] should prevent CSAs from being presented with
+    accomplished facts, for example because certain stages of the proceedings may be precluded under
+    national law.”12
+
+35. In the context of an amicable settlement procedure, this means that the LSA is expected to share the
+
 
     12
-         Ponto 55 das Diretrizes 02/2022 do CEPD relativas à aplicação do artigo 60.º do RGPD.
-    13
-         Ponto 93 das Diretrizes 02/2022 do CEPD relativas à aplicação do artigo 60.º do RGPD.
+         Paragraph 55 of the EDPB Guidelines 02/2022 on the application of Article 60 GDPR.
 
-                                                                                                            13
-    Adotadas
+                                                                                                          12
+    Adopted
 
-    amigável podem eventualmente permitir que a ACP e a ACI, com base, nomeadamente, nas
-    informações previamente trocadas nos termos do artigo 60.º, n.º 1, no momento em que a reclamação
-    é transferida para a ACP, formem logo uma opinião sobre a possibilidade de resolver a reclamação a
-    contento do autor da mesma, eliminando a causa do litígio na sua origem. Nesse caso, a ACP pode
-    determinar que o acordo pode ser diretamente objeto do projeto de decisão a apresentar nos termos
-    do artigo 60.º, n.º 3, do RGPD. Se a ACI tiver comunicado que não foi alcançado qualquer acordo com
-    êxito na fase de apreciação, ou que simplesmente não tentou obter um acordo antes de transferir o
-    caso para a ACP, esta deve, em contrapartida, estar ciente do objetivo de alcançar um consenso do
-    procedimento de balcão único e procurar essa consulta informal da(s) ACI antes de avaliar se uma (ou
-    outra) tentativa poderá levar a uma conclusão da reclamação de forma razoável.
+     proposed settlement with the CSA(s) prior to finalising it, pursuant to Article 60(3), first sentence. As
+     pointed out by the EDPB in the Article 60 Guidelines, “[…] the CSAs’ involvement in the cooperation
+     procedure is not limited to the right to express a relevant and reasoned objection pursuant to Article
+     60(4). In particular, before the creation of the draft decision the CSAs should be able to contribute to
+     the overall procedure and may express their views also before the creation of the draft decision.”13
 
-37. Em última análise, a ACP terá de apresentar um projeto de decisão às ACI que estabeleça as condições
-    do      acordo    (incluindo    as   medidas     tomadas     comprovadamente         pelo     responsável   pelo
-    tratamento/subcontratante para satisfazer plenamente os pedidos apresentados pelos autores da
-    reclamação), em conformidade com o artigo 60.º, n.º 3, do RGPD. Como clarificado nas Diretrizes
-    relativas à aplicação do artigo 60.º, a ACP é obrigada a enviar um projeto de decisão às ACI em todos
-    os casos, mesmo quando as reclamações são retiradas pelos respetivos autores após o início do
-    procedimento previsto no artigo 60.º, ou quando não é emitida uma decisão material (final) nos termos
-    do direito nacional14. O mesmo se aplica quando (apenas) se considera que os casos foram retirados,
-    por exemplo, por força do direito nacional. Nesse caso, o projeto de decisão serve de coordenação
-    final entre todas as autoridades de controlo envolvidas no procedimento de balcão único15.
+36. Clearly it is left to the LSA’s discretion, in light of all the factors mentioned in the foregoing paragraphs,
+     to establish whether an informal consultation of the CSA(s) is indeed necessary in the case at hand. As
+     recalled above in paragraphs 12 et seq., the features of the complaint lending itself to be settled
+     amicably may arguably enable the LSA and the CSA, based also on the information exchanged
+     beforehand under Article 60(1) at the time the complaint is transferred to the LSA, to already form
+     their views as to the possibility of settling the complaint to the full satisfaction of the complainant by
+     removing the cause of the dispute at its root. In such a case, the LSA may well determine that the
+     settlement of the complaint can be directly the subject of the draft decision to be submitted under
+     Article 60(3) GDPR. Where the CSA communicated that no settlement was achieved successfully by it
+     in the vetting phase or that it simply did not attempt any settlement prior to transferring the case to
+     the LSA, the LSA should conversely be mindful of the consensus objective of the OSS procedure and
+     seek such an informal consultation of the CSA(s) beforehand to assess whether an (or another) attempt
+     could lead to a conclusion of the complaint in a reasonable manner.
 
-38. Como acima referido, o projeto de decisão servirá para consolidar o acordo alcançado pela ACP com a
-    concordância das ACI. Trata-se de uma decisão sui generis, em que se conclui que a reclamação foi
-    resolvida pela ACP com a satisfação mútua das partes envolvidas (em especial, o titular dos dados e o
-    responsável pelo tratamento dos dados), devendo essa satisfação ser assinalada em conformidade com
-    os requisitos do direito nacional da ACP, e que o tratamento do caso será encerrado em conformidade.
-    Com efeito, a reclamação não é recusada nem rejeitada pela ACP, mas também não é deferida; o
-    acordo amigável alcançado representa, deste ponto de vista, um resultado diferente para pôr termo
-    ao procedimento de tratamento da reclamação no contexto do balcão único por meio de um acordo
-    entre as partes que elimina a causa do litígio através da ação da ACP.
+37. Ultimately, the LSA will be required to submit a draft decision to the CSAs setting out the terms of the
+     settlement (including the steps demonstrably taken by the data controller/processor to grant the
+     requests made by the complainants to their full satisfaction) in accordance with Article 60(3) GDPR. As
+     clarified in the Article 60 guidance, the LSA is required to submit a draft decision to the CSAs in all cases,
+     also when complaints are withdrawn by the complainant after the Article 60 procedure has been
+     initiated or where no material (final) decision is issued according to national law.14 The same applies
+     when cases are (only) deemed to be withdrawn, e.g. following national law. In such a case, the draft
+     decision serves as a final coordination between all supervisory authorities involved in the OSS
+     procedure.15
 
-39. Com a apresentação formal de tal instrumento, conforme exigido pelo procedimento de balcão único
-    por motivos de segurança jurídica e transparência, terá início o prazo de quatro semanas para a
-    apresentação de reações da(s) ACI nos termos do artigo 60.º, n.º 4, do RGPD. A este respeito, importa
-    sublinhar que, se tiver ocorrido uma troca de informações adequada antes da apresentação do projeto
-    de decisão, conforme explicado nos pontos anteriores, e as ACI nunca tiverem manifestado dúvidas
-    quanto ao facto de a reclamação poder ser resolvida de forma amigável, também num espírito de
-    cooperação, as ACI devem ponderar cuidadosamente se tencionam levantar objeções à conclusão do
+38. As stated above, the draft decision will serve to consolidate the settlement achieved by the LSA with
+     the agreement of the CSAs. It will be a ‘sui generis’ decision finding that the complaint has been settled
+     by the LSA with the mutual satisfaction of the parties involved (particularly data subject, data
+     controller), whereby such satisfaction will have to be signalled in line with the requirements of the
+     LSA’s national law, and that the handling of the case will be terminated accordingly. Indeed, the
+     complaint is neither dismissed nor rejected by the LSA, but it is not granted either; the amicable
+     settlement achieved represents from this standpoint a different outcome to terminate the complaint
+     handling procedure in the OSS context by way of an agreement between the parties that eliminates
+     the cause of the litigation through the action taken by the LSA.
 
+     13
+        Paragraph 93 of the EDPB Guidelines 02/2022 on the application of Article 60 GDPR.
+     14
+        Paragraph 99 of the EDPB Guidelines 02/2022 on the application of Article 60 GDPR.
+     15
+        Paragraph 100 of the EDPB Guidelines 02/2022 on the application of Article 60 GDPR.
 
-    14
-         Ponto 99 das Diretrizes 02/2022 do CEPD relativas à aplicação do artigo 60.º do RGPD.
-    15
-         Ponto 100 das Diretrizes 02/2022 do CEPD relativas à aplicação do artigo 60.º do RGPD.
+                                                                                                                13
+     Adopted
 
-                                                                                                                 14
-    Adotadas
+39. With the formal submission of such an instrument as necessitated by the OSS procedure for legal
+    certainty and transparency reasons, the 4-week period for reactions by the CSA(s) pursuant to Article
+    60(4) GDPR will start. In this respect, it should be emphasized that if proper exchange of information
+    took place before the submission of the draft decision as explained in the foregoing paragraphs, and
+    the CSA(s) never indicated any doubts that the complaint could be settled amicably, also in the spirit
+    of cooperation, they should carefully consider whether they intend to raise objections to the finding of
+    the achieved settlement.
 
-    acordo alcançado.
+40. This is not to say that CSAs are barred from raising reasoned and relevant objections in these situations;
+    however, the whole rationale of an amicable settlement lies in achieving substantiated satisfaction of
+    the data subject (and the controller) timely and on the basis of a mutual agreement whose chance of
+    success in the OSS context is gauged by the LSA in the light of several factors as recalled above. All in
+    all, reasoned and relevant objections should be exceptional in amicable settlement cases, if the
+    consensus objective has been taken into due account by the LSA in handling the procedure; thus,
+    rounds of revised draft decisions and/or dispute resolutions could (and should) be avoided.
 
-40. Tal não significa que as ACI estejam impedidas de apresentar objeções fundamentadas e pertinentes
-    nestas situações; no entanto, toda a lógica de um acordo amigável consiste em obter uma satisfação
-    fundamentada do titular dos dados (e do responsável pelo tratamento) em tempo útil e com base num
-    acordo mútuo, cujas possibilidades de êxito no contexto do balcão único são avaliadas pela ACP à luz
-    de vários fatores, como acima referido. Em suma, as objeções fundamentadas e pertinentes devem ser
-    excecionais em caso de acordo amigável, se o objetivo do consenso tiver sido devidamente tido em
-    conta pela ACP no tratamento do procedimento; por conseguinte, as sucessões de projetos de decisão
-    revistos e/ou resoluções de litígios podem (e devem) ser evitadas.
+41. If there are no (longer) reasoned and relevant objections, the procedure leads to the situation under
+    Article 60(6), i.e. the draft decision will become binding on the LSA and the CSAs. Subsequently, as per
+    Article 60(7), the lead supervisory authority shall adopt and notify the decision to the main
+    establishment or single establishment of the controller or processor, as the case may be including a
+    summary of the relevant facts and grounds. The CSA with which the complaint had been lodged shall
+    inform the complainant on the decision.
 
-41. Se não existirem (mais) objeções fundamentadas e pertinentes, o procedimento leva à situação
-    prevista no artigo 60.º, n.º 6, ou seja, o projeto de decisão tornar-se-á vinculativo para a ACP e para as
-    ACI. Subsequentemente, nos termos do artigo 60.º, n.º 7, a autoridade de controlo principal adota a
-    decisão e dela notifica o estabelecimento principal ou o estabelecimento único do responsável pelo
-    tratamento ou do subcontratante, consoante o caso, incluindo um sumário dos factos e motivos
-    pertinentes. A ACI à qual tenha sido apresentada a reclamação informa da decisão o autor da
-    reclamação.
+42. It was explained in paragraph 15 above that the amicable settlement is not intended necessarily to
+    cover the whole of the subject matter of a complaint, i.e. there may be parts of a complaint that the
+    LSA does not find amenable to being settled amicably. As already pointed out in paragraphs 33 et seq.,
+    this would probably require that LSA to carefully consider whether an amicable settlement is at all
+    appropriate even for the other parts. Nevertheless, should the LSA find that it is appropriate to settle
+    certain parts of a complaint and proceed with handling the remaining queries by way of a ‘standard’
+    (i.e. non-amicable) approach, this will clearly reflect on the whole procedure and its outcome.
 
-42. O ponto 15 supra explica que o acordo amigável não se destina necessariamente a cobrir a totalidade
-    do conteúdo da reclamação, ou seja, pode haver partes de uma reclamação que a ACP não considera
-    suscetíveis de serem resolvidas de forma amigável. Conforme referido no ponto 33 e seguintes, tal
-    exigiria provavelmente que a ACP ponderasse cuidadosamente se um acordo amigável é, de todo,
-    adequado, mesmo para as outras partes. No entanto, se a ACP considerar adequado resolver
-    determinadas partes de uma reclamação e proceder ao tratamento das restantes questões através de
-    uma abordagem «padrão» (ou seja, não amigável), tal refletir-se-á claramente em todo o
-    procedimento e no seu resultado.
-
-43. As diferentes opções em causa numa situação tão complexa terão de ser expostas às ACI antes do
-    carregamento do projeto de decisão, que deverá então conter uma fundamentação sobre os aspetos
-    da reclamação que acabaram por ser resolvidos por acordo amigável e quais os aspetos que levaram a
-    ACP a recusar ou rejeitar, ou então a deferir, os pedidos do titular dos dados. Relativamente a estes
-    últimos aspetos (ou seja, rejeição/recusa parcial), as etapas subsequentes do procedimento de balcão
-    único reger-se-ão pelo artigo 60.º, n.º 9, do RGPD. A ACP pode também decidir que essas partes da
-    reclamação terão de ser investigadas mais aprofundadamente e, por conseguinte, propor diferentes
-    soluções à(s) ACI, incluindo a abertura de um procedimento por iniciativa própria separado para as
-    mesmas; tal também terá de ser claramente referido nas informações que acompanham o projeto de
-    decisão.
-
-
-
-
-                                                                                                           15
-    Adotadas
-
-         Exemplo 3:
-         Numa reclamação recebida e apreciada pela ACI, o titular dos dados alega que o responsável pelo
-         tratamento não respondeu ao pedido para exercer o direito de acesso aos seus dados pessoais nos
-         termos do artigo 15.º do RGPD e, por conseguinte, não lhe permitiu solicitar a retificação, nos termos
-         do artigo 16.º do RGPD, do que considera serem informações inexatas que lhe dizem respeito. A ACI
-         não tentou resolver a reclamação por via amigável. A ACP que recebe a reclamação da ACI considera
-         que existe margem para tentar chegar a um acordo amigável à luz das características pertinentes;
-         informa então a ACI da sua intenção de o fazer e recebe o parecer favorável da mesma (que terá
-         contactado o autor da reclamação a esse respeito). A ACP contacta o responsável pelo tratamento e
-         convida-o a satisfazer os pedidos. O responsável pelo tratamento cumpre o pedido de acesso, mas
-         não pretende retificar as informações detidas sobre o autor da reclamação devido à existência de um
-         pedido de pagamento pendente contra o autor da reclamação com base nessas informações. A ACP
-         apresenta um projeto de decisão à ACI, com uma breve descrição do caso, a proposta de resolução
-         do pedido de acesso e as condições pertinentes; ao mesmo tempo, a ACP informa a ACI de que será
-         aberto um processo separado para investigar a rejeição do pedido de retificação do autor da
-         reclamação por parte do responsável pelo tratamento. Na ausência de objeções fundamentadas e
-         pertinentes por parte da ACI, a ACP adotará a decisão sobre o acordo amigável relativo ao pedido de
-         acesso e dela notificará o responsável pelo tratamento, ao passo que a ACI informará o autor da
-         reclamação desse facto, nos termos do artigo 60.º, n.º 7, segunda frase, do RGPD.
+43. The different options at issue in such a composite situation will have to be represented to the CSAs
+    prior to uploading the draft decision, which will then have to contain reasoning as to which aspects of
+    the complaint were settled finally by way of the amicable settlement and which aspects led the LSA to
+    dismiss or reject, or else grant, the data subject’s requests. For the latter aspects (i.e. partial
+    rejection/dismissal), the subsequent steps of the OSS procedure will be regulated by Article 60(9)
+    GDPR. The LSA may also decide that those other parts of the complaint will need to be investigated
+    further, and may therefore propose different solutions to the CSA(s), including the opening of a
+    separate own volition procedure for those parts; this will have to be referenced clearly in the
+    information accompanying the draft decision as well.
 
 
 
-    3.2.3 Casos ao abrigo do artigo 56.º, n.º 2
+                                                                                                           14
+    Adopted
 
-44. Os chamados «casos a nível local», nos termos do artigo 56.º, n.º 2, do RGPD, constituem uma
-    derrogação da regra do balcão único. A este respeito, pode fazer-se referência, conforme mencionado
-    anteriormente16, ao considerando 131, que refere o «acordo amigável» em relação a «atividades de
-    tratamento» transfronteiriças com impacto local.
+         Example 3:
+         In a complaint received and vetted by the CSA the data subject alleges that the controller did not
+         reply to his request to exercise his right of access to his personal data under Article 15 GDPR and
+         accordingly did not enable him to request rectification under Article 16 GDPR of what he believes is
+         inaccurate information held concerning him. The CSA did not attempt to settle the complaint
+         amicably. The LSA receiving the complaint from the CSA considers that there is room for attempting
+         an amicable settlement in light of the relevant features; it then informs the CSA of its intention to do
+         so and receives the assent of the CSA (which will have contacted the complainant in this respect).
+         The LSA contacts the controller and invites it to comply with the requests. The controller complies
+         with the access request, however it does not intend to rectify the information held on the
+         complainant on account of a payment claim that is pending against the complainant on the basis of
+         such information. The LSA submits a draft decision to the CSA containing a short description of the
+         case, the proposed settlement of the access request and the relevant terms; at the same time, the
+         LSA informs the CSA that a separate case will be opened to investigate the rejection of the
+         complainant’s rectification request by the controller. In the absence of reasoned and relevant
+         objections by the CSA, the LSA will adopt the decision on the amicable settlement of the access
+         request and notify it to the controller whilst the CSA will inform the complainant thereof in pursuance
+         of Article 60(7), second sentence, of the GDPR.
 
-45. Com efeito, o considerando 131 também deve ser tido em conta se se considerar que o caso deve ser
-    tratado a nível local, ou seja, pela ACI que recebeu a reclamação, nos termos do artigo 56.º, n.º 2.
-    Sustentando as opções de que as AC dispõem no que respeita ao tratamento de casos nessas situações,
-    o considerando 131 serve de auxílio à interpretação. As ACI são expressamente convidadas a procurar
-    obter um acordo amigável («deverá procurar obter um acordo amigável») sempre que exista um caso
-    que tenha apenas impactos locais e menores. Por conseguinte, o considerando 131 sugere que uma
-    ACI deve, preferencialmente, procurar obter um acordo amigável nos «casos a nível local» (se tal for
-    viável, mais uma vez, à luz das condições estabelecidas nos pontos 11 e 12).
 
-46. Como já foi referido, uma vez que a cooperação no contexto do balcão único visa alcançar um
-    «consenso» e exige o intercâmbio de «todas as informações pertinentes» entre a ACI e a ACP, a ACP
-    tem de ser informada dos acordos alcançados, se for caso disso, uma vez que as características
-    «sistémicas» da violação ou do incumprimento subjacentes à reclamação só podem ser avaliadas na
-    íntegra pela ACP.
 
-47. O CEPD recorda que, embora o autor da reclamação possa estar satisfeito com o acordo, em especial
+    3.2.3 Cases under Article 56(2)
 
+44. A derogation from the OSS rule is represented by the so-called “local case” situation under Article 56(2)
+    GDPR. Reference can be made in this respect, as already pointed out16, to Recital 131 which mentions
+    the “amicable settlement” in connection with cross-border “processing activities” having local impact.
+
+45. Indeed, Recital 131 has to be taken also into account if the case has been found to be handled locally,
+    i.e. by the CSA that has received the complaint, under Article 56(2). Underpinning the options that SAs
+    have when it comes to case handling in such cases, Recital 131 serves as an interpretation aid. CSAs
+    are expressly invited to seek amicable settlement (“should seek an amicable settlement with the
+    controller”) when there is a case with sole local as well as minor impacts. Thus, Recital 131 suggests
+    that a CSA should preferably seek an amicable settlement in “local cases” (if at all feasible, again in the
+    light of the conditions set out in paragraphs 11 and 12).
+
+46. As already pointed out, since cooperation in the OSS context is aimed at reaching “consensus” and
+    requires that “all relevant information” be exchanged between CSA and LSA, the LSA must be informed
+    of the settlements achieved, if any, as the “systemic” features of the infringement or non-compliance
+    underlying the complaint can only be assessed in full by the LSA.
+
+47. The EDPB recalls, whilst the complainant may be satisfied with the settlement, in particular because
+    access was granted in full, their data were rectified as requested, or erasure of their data took place,
+    that settlement as reached by the CSA does not exhaust the remedies available to the LSA. Indeed,
+    irrespective of whether an amicable settlement has been reached, the LSA has the option of initiating
 
     16
-         Ver pontos 23 e 24.
+         See paragraphs 23 and 24.
 
-                                                                                                            16
-    Adotadas
+                                                                                                              15
+    Adopted
 
-    porque o acesso lhe foi concedido na íntegra, os seus dados foram retificados conforme solicitado ou
-    foram apagados, o acordo alcançado pela ACI não esgota as vias de recurso à disposição da ACP. Com
-    efeito, independentemente de se ter alcançado um acordo amigável, a ACP tem a opção de iniciar uma
-    investigação oficial (ex officio) no caso, sendo então ativado todo o procedimento de balcão único em
-    conformidade com o artigo 60.º do RGPD. A ACP pode decidir, em todos os casos, investigar e aplicar
-    medidas corretivas, incluindo coimas, contra o estabelecimento principal do responsável pelo
-    tratamento em casos de violações repetidas ou de incumprimento dos pedidos dos titulares dos dados
-    comunicados, nomeadamente, por outras ACI em circunstâncias semelhantes.
+    an official investigation (ex officio) in this case, whereupon the entire OSS procedure is then activated
+    in accordance with Article 60 GDPR. The LSA may decide in all cases to investigate and take corrective
+    measures, including fines, against that controller’s main establishment in cases of repeated
+    infringements or of non-compliance with data subjects’ requests as communicated, inter alia, by other
+    CSAs in similar circumstances.
 
-48. No contexto de um procedimento nos termos do artigo 56.º, n.º 2, a ACI deve fornecer informações
-    pertinentes à ACP e ponderar a possibilidade de assistência mútua, devendo também adotar medidas
-    para uma cooperação eficaz, incluindo informações sobre o resultado do acordo e/ou sobre os
-    resultados do exercício de todos os poderes de que dispõe nos termos do artigo 56.º, n.º 5, do RGPD.
+48. In the context of an Article 56(2) procedure, the CSA should provide relevant information to the LSA as
+    well as consider mutual assistance, and should put in place measures for effective cooperation,
+    including information on the outcome of the settlement and/or of the results of the exercise of its full
+    range of powers under Article 56(5) GDPR.
 
 
-    4 CONSEQUÊNCIAS JURÍDICAS E RECOMENDAÇÕES PRÁTICAS
-    4.1 Aplicação do princípio da boa administração ao procedimento de acordo
-        amigável no contexto do balcão único
+    4 LEGAL CONSEQUENCES AND PRACTICAL RECOMMENDATIONS
+    4.1 Application of the principle of good administration to the amicable settlement
+        procedure in the OSS context
 
-49. O procedimento de acordo amigável no contexto do balcão único acima descrito17 deve ser lido à luz
-    do princípio geral do direito a uma boa administração, e em consonância com o princípio geral do
-    direito a um processo equitativo, conforme recordado no considerando 129 e no artigo 58.º, n.º 4, do
-    RGPD; ou seja, o procedimento de acordo amigável, aplicado por uma AC habilitada a recorrer a este
-    tipo de recurso administrativo, deve respeitar o princípio da boa administração e do direito a um
-    processo equitativo em todos os casos18.
+49. The amicable settlement procedure in the context of the OSS as outlined above17 should be read in
+    light of the general principle of the right to good administration – and in line with the general principle
+    of due process as recalled in Recital 129 and Article 58(4) GDPR: That is to say, the amicable settlement
+    procedure, being applied by an SA empowered to deploy this type of administrative remedy, should
+    respect the principle of good administration and due process in all cases.18
 
-50. Quando recebe uma reclamação, numa primeira fase, a ACI tem de clarificar o seu papel específico 19
-    em conformidade com os artigos 55.º e 56.º do RGPD. A este respeito, deve salientar-se a importância
-    da fase de «apreciação» que se segue à apresentação de uma reclamação a uma AC20,
-    independentemente do rumo ou da via que o caso específico siga depois, uma vez que os elementos
-    pertinentes devem ser incluídos no ficheiro desde o início.
+50. When it receives a complaint, the CSA, in the first step, has to clarify its specific role19 according to
+    Articles 55 and 56 GDPR. The importance of the “vetting” phase following the submission of a
+    complaint to an SA should be emphasized in this respect20, regardless of the route or pathway that the
+    particular case takes afterwards as the relevant elements shall be included in the file from an early
+    date.
 
-51. Na segunda fase, o caso em apreço tem também de ser considerado do ponto de vista das partes
-    envolvidas, nomeadamente o titular dos dados que apresentou a reclamação, o(s) responsável(eis)
-    pelo tratamento e o(s) possível(eis) subcontratante(s). A sua relação e a natureza da reclamação
+51. In the second step, the case in question must also be considered from the point of view of the parties
+    involved, namely the data subject who lodged the complaint, the controller(s) and possible
+    processor(s). Their relationship and the nature of the complaint will determine whether an amicable
+    settlement can lead to a solution, namely the controller's compliance with the GDPR and satisfaction
+    of the data subject. Last but not least, the outcome of such procedures for each SA and the legal
+    consequences for the parties involved will have to be examined in more detail to assess whether a case
+    is in the end suitable for an amicable settlement.
+
 
 
     17
-       Ver parte 3 «Análise jurídica geral».
+       See Part 3 “General legal analysis”.
     18
-       Que implica, no mínimo, o direito de qualquer pessoa a ser ouvida antes de a seu respeito ser tomada qualquer
-    medida individual que a afete desfavoravelmente; o direito de qualquer pessoa a ter acesso aos processos que
-    se lhe refiram, no respeito pelos legítimos interesses da confidencialidade e do segredo profissional e comercial;
-    a obrigação, por parte da administração, de fundamentar as suas decisões.
+       Which entails, as a minimum, the right of every person to be heard, before any individual measure which would
+    affect him or her adversely is taken; the right of every person to have access to his or her file, while respecting
+    the legitimate interests of confidentiality and of professional and business secrecy; the obligation of the
+    administration to give reasons for its decisions.
     19
-       Autoridade de controlo principal ou autoridade de controlo interessada, na aceção do artigo 56.º, n.º 1, do
-    RGPD.
+       Lead or concerned Supervisory Authority ex Art. 56(1) GDPR.
     20
-       Ver WP 244 rev. 1 e ponto 50 das Diretrizes 02/2022 do CEPD relativas à aplicação do artigo 60.º do RGPD.
+       See WP244 rev. 01 and paragraph 50 of the EDPB Guidelines 02/2022 on the application of Article 60 GDPR.
 
-                                                                                                                   17
-    Adotadas
+                                                                                                                    16
+    Adopted
 
-    determinarão se um acordo amigável pode conduzir a uma solução, nomeadamente à conformidade
-    do responsável pelo tratamento com o RGPD e à satisfação do titular dos dados. Por último, mas não
-    menos importante, o resultado de tais procedimentos para cada AC e as consequências jurídicas para
-    as partes envolvidas terão de ser analisados de forma mais aprofundada, a fim de avaliar se um caso
-    é, afinal, suscetível de um acordo amigável.
+52. If an amicable settlement is reached to the full satisfaction of all the parties concerned (objectified in
+    the manner recommended in the preceding section) within the preliminary vetting process (aimed also,
+    though not exclusively, to assess the applicability of Article 56(2) GDPR), the CSA where the complaint
+    was lodged should not pass on the complaint to the assumed LSA (e.g., through an Article 56 IMI
+    notification), as the object of the complaint is no longer present (cf. paragraph 24).
 
-52. Se se chegar a um acordo amigável a contento de todas as partes em causa (objetivado da forma
-    recomendada na secção anterior) no âmbito do processo de apreciação preliminar (destinado também,
-    embora não exclusivamente, a avaliar a aplicabilidade do artigo 56.º, n.º 2, do RGPD), a ACI a quem a
-    reclamação foi apresentada não deve transmiti-la à suposta ACP (por exemplo, através de uma
-    notificação no IMI ao abrigo do artigo 56.º), uma vez que o objeto da reclamação já não existe (ver
-    ponto 24).
-
-53. No entanto, a AC que recebe a reclamação deve comunicar o caso e o resultado à ACP em momento
-    oportuno, por exemplo, trimestralmente (ou seja, através do procedimento de assistência mútua
-    voluntária). Tal destina-se a permitir que a ACP desempenhe plenamente o seu papel de «único
-    interlocutor» (para todos os efeitos) do responsável pelo tratamento/subcontratante em causa (ver
-    artigo 56.º, n.º 6, do RGPD). Se, no decurso da fase de apreciação preliminar, a ACI não conseguir obter
-    de todo um acordo amigável ou conseguir obter um acordo apenas relativamente a partes da
-    reclamação que lhe foi apresentada e notificada à ACP, estas informações relativas à resolução
-    infrutífera devem, em qualquer caso, ser transmitidas à ACP como «informações pertinentes» na
-    aceção do artigo 60.º, n.º 1, do RGPD.
+53. However, the receiving SA should communicate the case and the outcome to the LSA at an appropriate
+    time, for instance on a quarterly basis (e.g., through the Voluntary Mutual Assistance procedure). This
+    is meant to enable the LSA to fully discharge its role as “sole interlocutor” (for all intents and purposes)
+    of the controller/processor at issue (see Article 56(6) GDPR). If the CSA, in the course of the preliminary
+    vetting phase, does not manage to achieve an amicable settlement at all or only a settlement regarding
+    parts of the complaint lodged with it and notified to the LSA, this information regarding the
+    unsuccessful settlement should in any case be passed on to the LSA being unquestionably “relevant
+    information” in the sense of Article 60(1) GDPR.
 
 
-    4.2 Procedimento de cooperação na sequência da obtenção de um acordo amigável
-        pela ACP
+    4.2 The cooperation procedure following an amicable settlement achieved by the
+        LSA
 
-54. O procedimento de acordo amigável deve respeitar as condições evocadas, em particular, no RGPD
-    (artigo 60.º, considerandos 129 e 143), uma vez que tem de resultar numa decisão da AC competente
-    (a ACP, no contexto do balcão único), depois de se ter chegado a esta decisão no âmbito do
-    procedimento de cooperação. A este respeito, importa referir a análise da fundamentação e do
-    conteúdo do projeto de decisão a apresentar pela ACP, conforme consta das Diretrizes relativas à
-    aplicação do artigo 60.º21 (ver, em especial, os pontos 109 a 111).
+54. The amicable settlement procedure should respect the conditions recalled, in particular, in the GDPR
+    (Article 60, Recitals 129 and 143) as it has to result in a decision by the competent SA (the LSA, in an
+    OSS context), after this decision has been found within the cooperation procedure. Reference should
+    be made in this regard to the analysis on the rationale and contents of the draft decision to be
+    submitted by the LSA, as contained in the Article 60 Guidance21 (see paragraphs 109-111 in particular).
 
-55. Por conseguinte, o acordo amigável alcançado no contexto do balcão único relativamente a uma
-    reclamação exige uma decisão da ACP em conformidade com o artigo 60.º, n.º 3, do RGPD, uma vez
-    que se trata de uma obrigação imposta à ACP em todos os casos de tratamento transfronteiriço. Trata-
-    se de uma decisão sui generis em que se conclui que a reclamação foi resolvida pela ACP com a
-    satisfação mútua das partes envolvidas (em especial, o titular dos dados e o responsável pelo
-    tratamento).
+55. Accordingly, the amicable settlement achieved in the OSS context regarding a complaint requires a
+    decision by the LSA in accordance with Article 60(3) GDPR as this is an obligation imposed on the LSA
+    in all cross-border processing cases. It will be a “sui generis” decision finding that the complaint has
+    been settled by the LSA with the mutual satisfaction of the parties involved (particularly data subject,
+    data controller).
 
 
+56. An amicable settlement could be considered as the use of some of the SA’s powers which do not imply
+    the corrective powers referred to in Article 58(2). Nevertheless, as stated above (see paragraphs 15
+    and 43), depending on national law the LSA might not be prevented from using such powers even in
+    amicable settlement cases.
 
+57. Accordingly, the draft decision should include the following information:
+               o   that the complaint was settled amicably, in whole or in part,
+               o   the reasons underlying the decision to seek an amicable settlement in the specific case,
+               o   the scope of the amicable settlement in light of the overall issues addressed in the
+                   complaint,
+               o   that the handling of the specific complaint will be terminated.
 
     21
-         Diretrizes 02/2022 do CEPD relativas à aplicação do artigo 60.º do RGPD.
+         EDPB Guidelines 02/2022 on the application of Article 60 GDPR.
 
-                                                                                                         18
-    Adotadas
+                                                                                                             17
+    Adopted
 
-56. Um acordo amigável pode ser considerado como fazendo uso de alguns dos poderes da AC que não
-    implicam os poderes de correção referidos no artigo 58.º, n.º 2. No entanto, como acima referido (ver
-    pontos 15 e 43), em função do direito nacional, a ACP não pode ser impedida de utilizar esses poderes
-    mesmo nos casos em que se chega a um acordo amigável.
+58. The draft decision may also indicate that the alleged infringement was remedied and how this was
+    done.
 
-57. Por conseguinte, o projeto de decisão deve incluir as seguintes informações:
-            o    que a reclamação foi resolvida de forma amigável, totalmente ou em parte,
-            o    as razões subjacentes à decisão de procurar obter um acordo amigável no caso concreto,
-            o    o âmbito de aplicação do acordo amigável, tendo em conta as questões gerais abordadas
-                 na reclamação,
-            o    que o tratamento da reclamação específica será encerrado.
+59. Furthermore, if applicable, the draft decision and/or the relevant information given to the CSA(s) may
+    include information about any intended corrective measures, which may especially be the case when
+    the amicable settlement was only reached in part.
 
-58. O projeto de decisão pode também indicar que a alegada infração foi sanada e de que forma tal foi
-    efetuado.
+60. In all cases the LSA should inform the data subject of the consequences of the amicable settlement in
+    a comprehensive way, in particular that the settlement will result in termination of the handling of the
+    complaint. This information on the scope of the amicable settlement and its consequences must be
+    conveyed by way of the CSA, which is the key interlocutor for the data subject in the whole process. To
+    that end, the informal procedures developed as part of the IMI-mechanisms can be used, in particular
+    an Art. 60 “Informal Consultation” procedure or an Art. 61 “Voluntary Mutual Assistance” procedure
+    can be launched by the LSA in order to convey the proposed outcome of the case and obtain views
+    from the CSAs involved before moving to the formal circulation of a draft decision.
 
-59. Ademais, se for caso disso, o projeto de decisão e/ou as informações pertinentes prestadas à(s) ACI
-    podem incluir informações sobre quaisquer medidas corretivas previstas, o que pode ser
-    especialmente o caso quando o acordo amigável foi apenas parcialmente alcançado.
-
-60. Em todos os casos, a ACP deve informar o titular dos dados das consequências do acordo amigável de
-    uma forma abrangente, em especial de que o acordo resultará no encerramento do tratamento da
-    reclamação. Estas informações sobre o âmbito do acordo amigável e as suas consequências devem ser
-    transmitidas através da ACI, que é o principal interlocutor do titular dos dados em todo o processo.
-    Para o efeito, podem ser utilizados os procedimentos informais desenvolvidos no âmbito dos
-    mecanismos IMI, em particular a ACP pode lançar um procedimento de «consulta informal» nos termos
-    do artigo 60.º ou um procedimento de «assistência mútua voluntária» ao abrigo do artigo 61.º, a fim
-    de transmitir o resultado proposto do caso e obter os pontos de vista das ACI envolvidas antes de
-    passar à difusão formal de um projeto de decisão.
-
-61. Uma vez que, na maioria dos Estados-Membros, um acordo amigável se aplica apenas às partes na
-    reclamação (titular dos dados, responsável pelo tratamento/subcontratante e, se for caso disso,
-    também a AC), e que o responsável pelo tratamento ou o subcontratante se compromete a corrigir a
-    violação e a aplicar medidas para assegurar o cumprimento do RGPD, o âmbito do acordo pode
-    abranger apenas partes da reclamação. Nesse caso, as restantes partes estão sujeitas a uma
-    investigação e a uma decisão complementares da ACP.
+61. As in the majority of Member States an amicable settlement applies only to the parties to the complaint
+    (data subject, controller/processor, and, if applicable, also SA), and the controller or processor commits
+    to a remedy of the infringement and the implementation of measures to ensure compliance with the
+    GDPR, the scope of the settlement may only cover parts of the complaint. In this case, the remaining
+    parts are subject to the LSA’s further investigation and decision.
 
 
 
-    4.3 Acordo amigável nos casos previstos no artigo 56.º, n.º 2
+    4.3 Amicable settlement in Article 56(2) cases
 
-62. No que respeita aos acordos amigáveis nos casos em que uma ACI trata uma reclamação ao abrigo do
-    artigo 56.º, n.º 2, (ou seja, como caso a nível local)22 a AC deve estar ciente da necessidade de
+62. Regarding amicable settlements in cases where a CSA handles a complaint under Article 56(2) (i.e., as
+    a local case) 22, the SA should be mindful of the need for transparency and consistency that underlies
+    the whole OSS system, and should therefore take care to provide regular (if aggregate) information to
+    other SAs regarding such cases.
+
+63. In particular, the CSA should inform the LSA about the settlement (if any) as outcome of the local case,
+    through the IMI system. Since the settlement may only cover part of the complaint handled locally by
+    the CSA, the CSA may take additional (including corrective) measures with regard to such remaining
+    parts that have not been settled to the satisfaction of the parties in the manner described above. The
+    CSA must inform the complainant according to Article 77(2) that the remaining parts of the complaint
+    will be processed.
+
+
+
 
     22
-      Nos termos do artigo 56.º, n.º 5, do RGPD, a ACI «trata [o caso] nos termos dos artigos 61.º e 62.º», ou seja,
-    exercendo plenamente os seus poderes (também nos termos do artigo 56.º, n.º 1, do RGPD).
+       Under Article 56(5) GDPR, the CSA “shall handle [the case] according to Articles 61 and 62”, i.e. by exercising
+    its full powers (also pursuant to Article 56(1) GDPR).
 
-                                                                                                                   19
-    Adotadas
+                                                                                                                    18
+    Adopted
 
-    transparência e coerência subjacentes a todo o sistema de balcão único, devendo, por conseguinte, ter
-    o cuidado de fornecer informações regulares (se agregadas) a outras AC sobre esses casos.
+    ANNEX 1: RELEVANT STEPS WHEN HANDLING A CASE VIA AMICABLE
+      SETTLEMENT
+64. The following check list intends to describe the concrete steps when handling cases that may be
+    suitable for an amicable settlement. The check list is therefore not to be understood in the sense of a
+    ‘yes/no’ chart showing different consequences, but rather as an overview of the concrete different
+    stages in the proceeding as well as of the relevant steps to take as a best practice. While section 1) is
+    to recall the basic facts of the case, not ticking one of the boxes in sections 2) to 5) could lead to the
+    authority having to take further steps.
 
-63. Em particular, a ACI deve informar a ACP sobre o acordo (se for caso disso) como resultado do caso a
-    nível local, através do sistema IMI. Uma vez que o acordo pode abranger apenas parte da reclamação
-    tratada a nível local pela ACI, esta pode tomar medidas adicionais (incluindo corretivas) em relação às
-    restantes partes que não tenham sido resolvidas a contento das partes da forma acima descrita. A ACI
-    tem de informar o autor da reclamação, em conformidade com o artigo 77.º, n.º 2, de que as restantes
-    partes da reclamação serão tratadas.
+            Checklist: Steps in handling a case via amicable settlement
 
+            1) Background of the case
 
+                   How has the proceeding been started?
+                    - Complaint                                                                        □
+                    - Media reports, ex officio investigations, etc.                                   □
+                    - Hints from third persons concerned                                               □
 
+                   What is the nature of the case?
+                    - Local case (Article 56(2) and Recital 131 GDPR)                                  □
+                    - Cross-border processing case                                                     □
 
-                                                                                                        20
-    Adotadas
-
-    ANEXO 1: ETAPAS PERTINENTES DO TRATAMENTO DE UM CASO POR
-      MEIO DE UM ACORDO AMIGÁVEL
-64. A lista de verificação que se segue pretende descrever as etapas concretas do tratamento de casos que
-    possam prestar-se a um acordo amigável. Por conseguinte, não deve ser entendida no sentido de um
-    diagrama «sim/não» que mostra diferentes consequências, mas como uma panorâmica das diferentes
-    fases concretas do processo, bem como das medidas pertinentes a adotar como melhores práticas.
-    Enquanto a secção 1 se destina a recordar os factos essenciais do caso, não assinalar uma das
-    quadrículas das secções 2 a 5 pode levar a autoridade a ter de tomar mais medidas.
-
-            Lista de verificação: etapas do tratamento de um caso por meio de um acordo amigável
-
-            1) Contexto do caso
-
-                   Como foi iniciado o processo?
-                    - Reclamação
-                          □
-                    - Notícias dos meios de comunicação social, investigações ex officio, etc.
-                                           □
-                    - Indicação de terceiros interessados                                         □
-
-                   Qual é a natureza do caso?
-                    - Caso a nível local (artigo 56.º, n.º 2, e considerando 131 do RGPD)
-                                   □
-                    - Caso de tratamento transfronteiriço
-                            □
-
-                   Caso que se presta a um acordo amigável, porque (ver ponto 14)
-                           o número limitado de titulares de dados afetados
-                                   □
-                           o falha sistémica não reconhecível                                     □
-                           o violação incidental ou acidental da proteção de dados
-                                   □
-                           o número limitado de dados pessoais                                    □
-                           o efeitos da violação não são de duração/natureza grave                □
-                           o probabilidade de novas violações no futuro                           □
-                           o sem/pouca importância societal/interesse público                     □
-                           o …
+                   Case suitable for amicable settlement, because (cf. paragraph 14)
+                            o limited amount of data subjects affected                                 □
+                            o systemic failure not recognisable                                        □
+                            o incidental or accidental data protection violation                       □
+                            o limited number of personal data                                          □
+                            o effects of the violation not of serious duration/nature                  □
+                            o likelihood of further violations in the future                           □
+                            o no/little societal significance/public interest                          □
+                            o …
 
 
-            2) Cooperação precoce com outras AC (se aplicável)
+            2) Early Cooperation with other SAs (where applicable)
 
-                   Efeitos de quaisquer medidas já tomadas no âmbito do procedimento
-                    (por exemplo, para a ACP, se aplicável: a ACI já tentou chegar a um acordo amigável
-                    no âmbito da apreciação preliminar?)
+                   Effects of any action already taken in the procedure
+                    (e.g. for the LSA, if applicable: Has the CSA already attempted an amicable
+                    settlement in the preliminary vetting?)
+                    ……………………………………………………………………………………………………………………
 
-
-                                                                                                      21
-    Adotadas
-
-               ……………………………………………………………………………………………………………………
-
-              ACP consultada (se aplicável)                                       □
-               - Versão traduzida da reclamação                                            □
-               - Comunicação anterior entre o titular dos dados e o responsável pelo tratamento
-                             □
-               - Outras informações importantes                                            □
-
-              Outra(s) ACI consultada(s)
-                      □
-               - Versão traduzida da reclamação                                           □
-               - Outras informações importantes                                           □
-
-      3) Consulta de todas as partes interessadas numa fase inicial
-
-            Titular dos dados
-             □
-             - Informações gerais fornecidas nos termos do artigo 77.º, n.º 2, do RGPD
-                      □
-             - Interesse geral numa resolução amigável                                    □
-             - Inexistência de outras razões para um tratamento específico do caso
-                                   □
-             - Estas informações foram partilhadas com a ACI envolvida e, se aplicável, com a
-                 ACP                                                                      □
-
-            Responsável pelo tratamento/subcontratante
-                            □
-             - Foi realizada uma audição oficial                                          □
-             - O responsável pelo tratamento/subcontratante está disposto a estabelecer a
-                conformidade com os requisitos
-                legais                                                            □
-             - Existe a possibilidade de assegurar a conformidade dentro de um prazo
-                adequado □
-             - Estas informações foram partilhadas com a ACI envolvida e, se aplicável, com a
-                ACP (por exemplo, através de uma consulta informal)
-                            □
-
-            Terceiros (se aplicável)                                            □
-             - Inexistência de direitos de terceiros afetados
-                             □
-             - Inexistência de direitos de terceiros que impeçam um acordo (por exemplo,
-                 porque o deferimento do pedido de acesso do autor da reclamação afeta os
-                 direitos de proteção de dados de um terceiro)
-                                            □
+                   LSA consulted (where applicable)                                                   □
+                    - Translated Version of complaint                                                  □
+                    - Previous communication between data subject and controller                       □
+                    - Other important information                                                      □
 
 
+                                                                                                           19
+    Adopted
 
-                                                                                                22
-Adotadas
+             Other CSA(s) consulted                                                       □
+              - Translated Version of complaint                                            □
+              - Other important information                                                □
 
-          4) Foi alcançado um acordo amigável?
+      3) Consultation of all concerned parties at an early stage
 
-               Demonstração da satisfação do titular dos dados
-                □
-                - A violação notificada está sanada           □
-                - Inexistência de objeções por parte do titular dos dados
-                              □
-                - O titular dos dados efetuou novo contacto num prazo adequado               □
+           Data subject                                                               □
+            - General information according to Article 77(2) GDPR provided             □
+            - General interest in an amicable resolution                               □
+            - No other reasons for specific treatment of the case                      □
+            - This information has been shared with the involved CSA and, where applicable,
+               the LSA                                                                 □
 
-               O responsável pelo tratamento/subcontratante apresentou prova da conformidade
-                                       □
+           Controller/processor                                                       □
+            - An official hearing has taken place                                      □
+            - The controller/processor is willing to establish compliance to legal
+               requirements                                                            □
+            - There is a chance to gain compliance within an appropriate time frame    □
+            - This information has been shared with the involved CSA and, where applicable,
+               the LSA (e.g. via informal consultation)                                □
 
-               Se aplicável: a ACP/ACI recebeu estas informações             □
+           Third party (where applicable)                                                 □
+            - No rights of a third party affected                                          □
+            - There are no rights of third parties precluding an agreement (e.g. because
+                granting the complainant’s request for access impacts the data protection rights
+                of a third party)                                                          □
 
 
-          5) A decisão final está em conformidade com o artigo 60.º do RGPD (nos casos do balcão
-único)?
+      4) Has an amicable settlement been reached?
 
-                A decisão contém todas as informações pertinentes (ver pontos 57 e seguintes)
-                         □
+           Satisfaction of the data subject demonstrated                                  □
+            - The infringement for which you have been notified is remedied                □
+            - No objections from the data subject                                          □
+            - The data subject came back to you in an appropriate time frame               □
 
-                O projeto de decisão (se aplicável: revisto) circulou através do IMI    □
-                 - O projeto de decisão foi enviado                                      □
-                 - Não foram apresentadas objeções fundamentadas e pertinentes
-                        □
-                 - Houve objeções fundamentadas e pertinentes, mas todas foram ultrapassadas
-                                                                                      □
+           The controller/processor provided proof of compliance                          □
 
-               A decisão final circulou através do IMI
-                - O responsável pelo tratamento/subcontratante foi notificado da decisão
-                                 □
-                - O titular dos dados foi informado da decisão                               □
+           Where applicable: The LSA/CSA was provided with this information               □
+
+
+      5) Does the final decision comply with Article 60 GDPR (in OSS cases)?
+
+             The decision contains all relevant information (cf. paragraphs 57 et seq.)   □
+
+             The (if applicable: revised) draft decision has been circulated via IMI      □
+              - The draft decision has been sent                                           □
+
+                                                                                               20
+Adopted
+
+             -   There have been no reasoned and relevant objections                       □
+             -   There have been reasoned and relevant objections, but all of them could be
+                 overcome                                                                  □
+
+           The final decision has been circulated via IMI
+            - The controller/processor has been notified of the decision                  □
+            - The data subject has been informed of the decision                          □
 
 
 
 
-                                                                                                   23
-Adotadas
+                                                                                               21
+Adopted
 
-    ANEXO 2: PAÍSES EM QUE NÃO É POSSÍVEL CELEBRAR ACORDOS
-      AMIGÁVEIS EM CONFORMIDADE COM A LEGISLAÇÃO NACIONAL
-65. Os seguintes países indicaram que a respetiva legislação nacional não permite a celebração de acordos
-    amigáveis:
+    ANNEX 2: COUNTRIES WHERE AMICABLE SETTLEMENTS ARE NOT
+      POSSIBLE IN ACCORDANCE WITH THE NATIONAL LEGISLATION
+65. The following countries have indicated that amicable settlements are not possible in accordance with
+    their national legislation:
 
 
-            -    Chipre
-            -    República Checa
-            -    Dinamarca
-            -    Estónia
-            -    Finlândia
-            -    França
-            -    Grécia
+            -    Cyprus
+            -    Czech Republic
+            -    Denmark
+            -    Estonia
+            -    Finland
+            -    France
+            -    Greece
             -    Malta
-            -    Polónia
+            -    Poland
             -    Portugal
-            -    Eslováquia
-            -    Eslovénia
-            -    Espanha
-            -    Suécia
+            -    Slovakia
+            -    Slovenia
+            -    Spain
+            -    Sweden
 
 
 
 
-                                                                                                      24
-    Adotadas
+                                                                                                     22
+    Adopted
 ```

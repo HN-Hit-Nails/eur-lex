@@ -1,7 +1,7 @@
 ---
 celex: 32009L0024
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 32009L0024 — Proteção jurídica de programas de computador — contexto

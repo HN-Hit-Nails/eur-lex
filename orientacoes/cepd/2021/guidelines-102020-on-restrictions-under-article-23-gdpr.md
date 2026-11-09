@@ -4,968 +4,889 @@ titulo_en: "Guidelines 10/2020 on restrictions under Article 23 GDPR"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2021-10-13'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-102020-on-restrictions-under-article-23-gdpr_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2023-07/edpb_guidelines_202010_art23_adopted_afterpublicconsultation_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/2026-04/edpb_guidelines202010_on_art23_adopted_after_consultation_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
 # Guidelines 10/2020 on restrictions under Article 23 GDPR
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 10/2020 relativas às limitações nos termos do
-                    artigo 23.º do RGPD
+Guidelines 10/2020 on restrictions under Article 23 GDPR
 
 
-                                       Versão 2.1
+                                      Version 2.1
 
 
-                      Adotadas em 13 de outubro de 2021
-                            Translations proofread by EDPB Members.
-                        This language version has not been proofread yet.
+                             Adopted on 13 October 2021
 
 
 
 
-Adotadas – após consulta pública                1
+Adopted - after public consultation        1
 
-Tabela das versões
- Versão 1.0                        15 de dezembro de 2020   Adoção das diretrizes para
-                                                            consulta pública
- Versão 2.0                        13 de outubro de 2021    Adoção das diretrizes após
-                                                            consulta pública
- Versão 2.1                        15 de março de 2022      Alteração da formatação
-
-
-
-
-Adotadas – após consulta pública                 2
-
-Índice
-1      Introdução .....................................................................................................................5
-2      Significado das limitações.................................................................................................6
-3      Requisitos do artigo 23.º, n.º 1, do RGPD............................................................................7
-    3.1      Respeito da essência dos direitos e das liberdades fundamentais ....................................7
-    3.2    Medidas legislativas que estabelecem limitações e necessidade de ser previsível
-    (considerando 41 e jurisprudência do TJUE) ...........................................................................7
-    3.3      Fundamentos das limitações ......................................................................................9
-       3.3.1        Segurança do Estado, defesa e segurança pública ..................................................9
-       3.3.2    Prevenção, investigação, deteção e repressão de infrações penais ou execução de
-       sanções penais, incluindo a salvaguarda da segurança pública e a prevenção de ameaças à
-       segurança pública ...........................................................................................................9
-       3.3.3        Outros objetivos importantes do interesse público geral ....................................... 10
-       3.3.4        Defesa da independência judiciária e dos processos judiciais ................................. 11
-       3.3.5     Prevenção, investigação, deteção e repressão de violações da deontologia das
-       profissões regulamentadas............................................................................................. 11
-       3.3.6    Missão de controlo, de inspeção ou de regulamentação associada ao exercício da
-       autoridade pública, nos casos referidos no artigo 23.º, alíneas a) a e) e g), do RGPD ............... 11
-       3.3.7        Defesa do titular dos dados ou dos direitos e liberdades de outrem........................ 11
-       3.3.8        Execução de ações cíveis .................................................................................. 11
-    3.4    Direitos dos titulares dos dados e obrigações do responsável pelo tratamento suscetíveis
-    de serem limitados ........................................................................................................... 11
-    3.5      Avaliação da necessidade e proporcionalidade ........................................................... 12
-4      Requisitos do artigo 23.º, n.º 2, do RGPD.......................................................................... 14
-    4.1      Categorias de dados pessoais ................................................................................... 14
-    4.2      Alcance das limitações ............................................................................................ 14
-    4.3      Garantias para evitar o abuso ou o acesso ou transferência ilícitos ................................ 15
-    4.4      Especificação do responsável pelo tratamento ........................................................... 15
-    4.5      Prazos de conservação ............................................................................................ 15
-    4.6      Riscos para os direitos e liberdades dos titulares dos dados.......................................... 15
-    4.7    Direito a ser informado da limitação, a menos que tal possa prejudicar o objetivo da
-    limitação ......................................................................................................................... 16
-5      Consulta das AC [artigo 36.º, n.º 4, e artigo 57.º, n.º 1, alínea c), do RGPD]............................ 17
-6      Não cumprimento dos requisitos do artigo 23.º do RGPD por um Estado-Membro ................. 17
-7      Elementos específicos para responsáveis pelo tratamento e subcontratantes........................ 17
-    7.1. Princípio da responsabilidade ....................................................................................... 17
-
-
-Adotadas – após consulta pública                                    3
-
-    7.2 Exercício dos direitos dos titulares dos dados após anulação da limitação............................ 18
-    7.3 Não cumprimento de uma medida legislativa que impõe tais limitações por um responsável
-    pelo tratamento ............................................................................................................... 18
-8      Conclusões................................................................................................................... 19
-9      Anexo: Listas de verificação – artigo 23.º do RGPD em resumo ............................................ 21
-    9.1      Requisitos do artigo 23.º, n.º 1, do RGPD................................................................... 21
-    9.2      Requisitos do artigo 23.º, n.º 2, do RGPD................................................................... 21
+Version Table
+ Version 1.0                      15 December 2020    Adoption of the Guidelines for
+                                                      public consultation
+ Version 2.0                      13 October 2021     Adoption of the Guidelines
+                                                      after public consultation
+ Version 2.1                      15 March 2022       Formatting change
 
 
 
 
-Adotadas – após consulta pública                                   4
+Adopted - after public consultation               2
 
-     O Comité Europeu para a Proteção de Dados
+Table of contents
+1      Introduction ...................................................................................................................5
+2      The meaning of restrictions ..............................................................................................6
+3      Requirements of Article 23(1) GDPR ..................................................................................7
+    3.1      Respect of the essence of the fundamental rights and freedoms .....................................7
+    3.2    Legislative measures laying down restrictions and the need to be foreseeable (Recital 41
+    and CJEU case law) .............................................................................................................7
+    3.3      Grounds for the restrictions .......................................................................................9
+       3.3.1        National security, defence and public security .......................................................9
+       3.3.2      Prevention, investigation, detection and prosecution of criminal offences or the
+       execution of criminal penalties including the safeguarding against and the prevention of threats
+       to public security ............................................................................................................9
+       3.3.3        Other important objectives of general public interest .............................................9
+       3.3.4        Protection of judicial independence and judicial proceedings ................................ 10
+       3.3.5    Prevention, investigation, detection and prosecution of breaches of ethics for
+       regulated professions .................................................................................................... 10
+       3.3.6     Monitoring, inspection or regulatory function connected to the exercise of official
+       authority in the cases referred to in points (a) to (e) and (g) of Article 23 GDPR...................... 10
+       3.3.7        Protection of the data subject or the rights and freedoms of others ....................... 11
+       3.3.8        Enforcement of civil law claims ......................................................................... 11
+    3.4      Data subjects’ rights and controller’s obligations which may be restricted ...................... 11
+    3.5      Necessity and proportionality test ............................................................................ 11
+4      Requirements of Article 23(2) GDPR ................................................................................ 13
+    4.1      Categories of personal data ..................................................................................... 13
+    4.2      Scope of the restrictions.......................................................................................... 14
+    4.3      Safeguards to prevent abuse or unlawful access or transfer.......................................... 14
+    4.4      Specification of the controller .................................................................................. 14
+    4.5      Storage periods...................................................................................................... 14
+    4.6      Risks to data subjects’ rights and freedoms ................................................................ 14
+    4.7     Right to be informed about the restriction, unless prejudicial to the purpose of the
+    restriction ....................................................................................................................... 15
+5      Consultation with the SAS (Articles 36(4) and 57(1)(c) GDPR) ............................................... 16
+6      Non - observation of article 23 GDPR requirements by a Member State................................ 16
+7      Specific elements for controllers and processors ............................................................... 16
+    7.1 Accountability Principle ................................................................................................ 16
 
-     Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-     ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-     seguir designado por «RGPD»),
-     Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-     foi dada pela Decisão do Comité Misto do EEE n.º 154/2018, de 6 de julho de 2018 1 ,
-
-     Tendo em conta os artigos 12.º e 22.º do seu regulamento interno,
 
 
+Adopted - after public consultation                                 3
 
-     ADOTOU AS SEGUINTES DIRETRIZES
+    7.2 Exercise of data subject’s rights after the lifting of the restriction ....................................... 17
+    7.3 Non-observation of a legislative measure imposing such restrictions by a controller ............. 17
+8     Conclusions .................................................................................................................. 18
+9     Annex: Check-lists - Article 23 GDPR in a nutshell............................................................... 19
+    9.1     Requirements under Article 23(1) GDPR .................................................................... 19
+    9.2     Requirements under Article 23(2) GDPR .................................................................... 19
 
 
-     1 INTRODUÇÃO
-1.   O presente documento procura fornecer orientação sobre a aplicação do artigo 23.º do RGPD. As
-     presentes diretrizes fornecem uma análise exaustiva dos critérios de aplicação das limitações, das
-     avaliações a observar, da forma como os titulares dos dados podem exercer os seus direitos, após ser
-     anulada a limitação, e das consequências da violação do artigo 23.º do RGPD.
-2.   A proteção das pessoas singulares no que toca ao tratamento de dados é um direito fundamental. Nos
-     termos do artigo 16.º, n.º 2, do Tratado sobre o Funcionamento da União Europeia, o Parlamento
-     Europeu e o Conselho devem estabelecer as normas relativas à proteção de dados pessoais e à livre
-     circulação desses dados. O RGPD defende os direitos e as liberdades das pessoas singulares,
-     nomeadamente o seu direito à proteção dos dados. Não é possível assegurar a proteção de dados sem
-     observar os direitos e princípios estabelecidos no RGPD (artigos 12.º a 22.º e 34.º, bem como o
-     artigo 5.º, na medida em que as suas disposições correspondam aos direitos e obrigações previstos
-     nos artigos 12.º a 22.º do RGPD). Todos estes direitos e obrigações constituem o cerne do direito
-     fundamental relativo à proteção de dados e a sua aplicação deve constituir a regra geral. Em particular,
-     qualquer limitação ao direito fundamental relativo à proteção de dados deve cumprir o disposto no
-     artigo 52.º da Carta dos Direitos Fundamentais da União Europeia («Carta»).
-3.   É neste contexto que o artigo 23.º do RGPD deve ser lido e interpretado. Tal disposição tem o título
-     «Limitações». Estabelece que, ao abrigo do direito da União ou de um Estado-Membro, a aplicação de
-     determinadas disposições do regulamento, relativas aos direitos dos titulares e às obrigações dos
-     responsáveis pelo tratamento, pode ser limitada nas situações nele enumeradas. As limitações devem
-     ser consideradas exceções à regra geral, que permitem o exercício de direitos e impõem as obrigações
-     consagradas no RGPD 2 . Como tal, as limitações devem ser interpretadas em sentido estrito e ser
+
+
+Adopted - after public consultation                               4
+
+     The European Data Protection Board
+
+     Having regard to Article 70 (1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+     the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+     ‘GDPR’),
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 1 ,
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+
+
+     HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+     1 INTRODUCTION
+1.   This document seeks to provide guidance as to the application of Article 23 GDPR. These Guidelines
+     provide a thorough analysis of the criteria to apply restrictions, the assessments that need to be
+     observed, how data subjects can exercise their rights once the restriction is lifted and the
+     consequences for infringements of Article 23 GDPR.
+2.   The protection of natural persons in relation to the processing of personal data is a fundamental right.
+     Article 16(2) of the Treaty on the Functioning of the European Union mandates the European
+     Parliament and the Council to lay down the rules in relation to the protection of personal data and the
+     rules relating to the free movement of personal data. The GDPR protects the rights and freedoms of
+     natural persons and in particular their right to data protection. Data protection cannot be ensured
+     without adhering to the rights and principles set out in the GDPR (Articles 12 to 22 and Article 34, as
+     well as Article 5 in so far as its provisions correspond to the rights and obligations provided in Articles
+     12 to 22 GDPR). All these rights and obligations are at the core of the fundamental right to data
+     protection and their application should be the general rule. In particular, any limitation to the
+     fundamental right to data protection needs to observe Article 52 of the Charter of fundamental rights
+     of the European Union (‘the Charter’).
+3.   It is against this background that Article 23 GDPR should be read and interpreted. This provision is
+     entitled ‘restrictions’. It provides that, under Union or Member State law, the application of certain
+     provisions of the Regulation, relating to the rights of the data subjects and controllers’ obligations,
+     may be restricted in the situations therein listed. Restrictions should be seen as exceptions to the
+     general rule allowing the exercise of rights and imposing the obligations enshrined in the GDPR 2 . As
 
 
      1
-       As referências a «Estados-Membros» ao longo do presente documento devem ser entendidas como referências
-     a «Estados do EEE».
-     2 Tais situações não incluem os cenários em que é aplicável a Diretiva (UE) 2016/680 do Parlamento Europeu e
+       References to ‘Member States’ made throughout this document should be understood as references to ‘EEA
+     Member States’.
+     2 These situations do not include the scenarios where the Directive (EU) 2016/680 of the European Parliament
 
-     do Conselho, de 27 de abril de 2016, relativa à proteção das pessoas singulares no que diz respeito ao tratamento
-     de dados pessoais pelas autoridades competentes para efeitos de prevenção, investigação, deteção ou repressão
-
-
-
-     Adotadas – após consulta pública                       5
-
-     aplicadas apenas em circunstâncias especificamente previstas, e unicamente se estiverem reunidas
-     determinadas condições.
-4.   Mesmo em situações excecionais, a proteção de dados pessoais não pode ser limitada na sua íntegra.
-     Deve ser cumprida em todas as medidas urgentes, nos termos do disposto no artigo 23.º do RGPD,
-     contribuindo, por conseguinte, para o cumprimento dos valores fundamentais da democracia, do
-     Estado de direito e dos direitos fundamentais nos quais assenta a União: qualquer medida tomada
-     pelos Estados-Membros deve respeitar os princípios gerais de direito, bem como a essência dos
-     direitos e liberdades fundamentais, e não deve ser irreversível, e os responsáveis pelo tratamento de
-     dados e os subcontratantes devem continuar a cumprir as regras de proteção de dados.
-
-5.   Em todos os casos em que o direito da União ou do Estado-Membro permita limitações aos direitos
-     dos titulares dos dados ou às obrigações dos responsáveis pelo tratamento (incluindo responsáveis
-     conjuntos pelo tratamento 3 ) e subcontratantes 4 , importa notar que o princípio da responsabilidade,
-     conforme disposto no artigo 5.º, n.º 2, do RGPD, continua a ser aplicável. Tal significa que o
-     responsável pelo tratamento deve ser capaz de demonstrar aos titulares dos dados a sua
-     conformidade com o quadro de proteção de dados da UE, nomeadamente os princípios relativos ao
-     tratamento dos respetivos dados.
-6.   Quando o legislador nacional ou da UE fixa limitações com base no artigo 23.º do RGPD, deve garantir
-     que as mesmas cumprem os requisitos dispostos no artigo 52.º, n.º 1, da Carta e, em particular, deve
-     realizar uma avaliação da proporcionalidade para que tais limitações sejam aplicadas na medida do
-     estritamente necessário.
+     and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+     data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of
+     criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing
+     Council Framework Decision 2008/977/JHA applies.
 
 
-     2 SIGNIFICADO DAS LIMITAÇÕES
-7.   O termo «limitações» não está definido no RGPD. O artigo 23.º e o considerando 73 do RGPD
-     enumeram apenas as condições em que as limitações são aplicáveis.
-8.   Nas presentes diretrizes, o termo limitações será definido como qualquer limitação do alcance das
-     obrigações e direitos previstos nos artigos 12.º a 22.º e 34.º do RGPD, bem como as disposições
-     correspondentes do artigo 5.º em conformidade com o artigo 23.º do RGPD. A limitação de um direito
-     individual tem de salvaguardar objetivos importantes, por exemplo, a proteção de direitos e liberdades
-     de outrem ou de objetivos importantes do interesse público geral da União ou de um Estado-Membro
-     conforme enumerados no artigo 23.º, n.º 1, do RGPD. Por conseguinte, as limitações dos direitos dos
-     titulares dos dados podem apenas ocorrer se os interesses enumerados estiverem em risco 5 e tais
-     limitações visarem salvaguardar tais interesses.
-9.   Consequentemente, o fundamento para a restrição deve ser claro. Para serem legítimas, as limitações
-     devem estar previstas numa medida legislativa, dizer respeito a um número limitado de direitos dos
+     Adopted - after public consultation                     5
+
+     such, restrictions should be interpreted narrowly, only be applied in specifically provided
+     circumstances and only when certain conditions are met.
+4.   Even in exceptional situations, the protection of personal data cannot be restricted in its entirety. It
+     must be upheld in all emergency measures, as per Article 23 GDPR thus contributing to the respect of
+     the overarching values of democracy, rule of law and fundamental rights on which the Union is
+     founded: any measure taken by Member States shall respect the general principles of law, the essence
+     of the fundamental rights and freedoms and shall not be irreversible and data controllers and
+     processors shall continue to comply with data protection rules.
+
+5.   In all cases, where Union or Member State law allows restrictions to data subjects’ rights or to the
+     obligations of the controllers (including joint controllers 3 ) and processors 4 , it should be noted that the
+     accountability principle, as laid down in Article 5(2) GDPR, is still applicable. This means that the
+     controller is responsible for, and shall be able to demonstrate to the data subjects his or her
+     compliance with the EU data protection framework, including the principles relating to the processing
+     of their data.
+6.   When the EU or national legislator lays down restrictions based on Article 23 GDPR, it shall ensure that
+     it meets the requirements set out in Article 52(1) of the Charter, and in particular conduct a
+     proportionality assessment so that restrictions are limited to what is strictly necessary.
 
 
-     de infrações penais ou execução de sanções penais, e à livre circulação desses dados, e que revoga a Decisão-
-     Quadro 2008/977/JAI do Conselho.
-     3 No caso de responsabilidade conjunta, especialmente nos casos em que os responsáveis pelo tratamento são
+     2 THE MEANING OF RESTRICTIONS
+7.   The term restrictions is not defined in the GDPR. Article 23 and Recital 73 GDPR only list the conditions
+     under which restrictions can be applied.
 
-     de diferentes Estados-Membros, as limitações aplicáveis em conformidade com o artigo 23.º devem ser
-     consideradas e tidas em conta para que os responsáveis conjuntos clarifiquem no acordo as suas respetivas
-     funções.
-     4 Apesar de as diretrizes se referirem, a partir de agora, apenas aos «responsáveis pelo tratamento», as
+8.   In these guidelines, the term restrictions will be defined as any limitation of scope of the obligations
+     and rights provided for in Articles 12 to 22 and 34 GDPR as well as corresponding provisions of Article 5
+     in accordance with Article 23 GDPR. A restriction to an individual right has to safeguard important
+     objectives, for instance, the protection of rights and freedoms of others or important objectives of
+     general public interest of the Union or of a Member State which are listed in Article 23(1) GDPR.
+     Therefore, restrictions of data subjects’ rights can only occur when the listed interests are at stake5
+     and these restrictions aim at safeguarding such interests.
 
-     recomendações destinam-se, se aplicável, também aos subcontratantes.
-     5 Tais interesses são enumerados de forma exaustiva no artigo 23.º, n.º 1, do RGPD.
+9.   Consequently, the grounds for the restriction need to be clear. To be lawful, restrictions shall be
+     provided for in a legislative measure, concern a limited number of rights of data subjects and/or
+     controller’s obligations which are listed in Article 23 GDPR 6 , respect the essence of the fundamental
+     rights and freedoms at issue, be a necessary and proportionate measure in a democratic society and
+     safeguard one of the grounds set out in Article 23(1) GDPR as described below.
 
 
 
 
-     Adotadas – após consulta pública                     6
+     3
+        In case of joint controllership, especially in case where controllers are from different Member States,
+     restrictions applicable in accordance with Article 23 should be considered and taken into account so that joint
+     controllers clarify in the arrangement their respective roles.
+     4 Although from now on the guidelines will refer to ‘controllers’ only, the recommendations are addressed, where
 
-      titulares dos dados e/ou de obrigações do responsável pelo tratamento enumerados no artigo 23.º do
-      RGPD 6 , respeitar a essência dos direitos e liberdades fundamentais em causa, ser uma medida
-      necessária e proporcionada numa sociedade democrática e salvaguardar um dos fundamentos
-      estabelecidos no artigo 23.º, n.º 1, do RGPD, conforme descrito infra.
-10.   Por conseguinte, conforme mencionado no considerando 73 do RGPD, as restrições deverão respeitar
-      as exigências estabelecidas na Carta e na Convenção Europeia para a Proteção dos Direitos do Homem
-      e das Liberdades Fundamentais.
-11.   Além disso, as limitações referidas no artigo 23.º do RGPD também estabelecem as disposições
-      relativas a situações específicas de tratamento em conformidade com o capítulo IX, em que os
-      Estados-Membros podem prever por lei medidas específicas que afetem os direitos dos titulares dos
-      dados, tais como isenções ou derrogações (por exemplo, artigos 85.º e 89.º do RGPD). Contudo, as
-      presentes diretrizes não abordam tais casos.
-12.   A limitação do alcance das obrigações e dos direitos definidos nos artigos 12.º a 22.º e 34.º pode
-      assumir diferentes formas, mas nunca pode atingir o ponto de uma suspensão geral de todos os
-      direitos. As medidas legislativas que estabelecem as limitações nos termos do artigo 23.º do RGPD
-      podem também prever que o exercício de um direito é adiado no tempo, que um direito é exercido
-      parcialmente ou circunscrito a determinadas categorias de dados ou que um direito pode ser exercido
-      indiretamente, por intermédio de uma autoridade de controlo independente.
+     applicable, also to processors.
+     5 These interests are exhaustively listed in Article 23(1) GDPR.
+     6 There are certain rights which cannot be restricted under Article 23 GDPR, such as the right to submit a
+
+     complaint to the supervisory authority (Article 77 GDPR).
 
 
-      3 REQUISITOS DO ARTIGO 23.º, N.º 1, DO RGPD
-13.   O artigo 23.º, n.º 1, do RGPD enumera vários requisitos, que são especificados infra. Todos os
-      requisitos referidos têm de ser cumpridos para que uma medida possa ser invocada legalmente.
+     Adopted - after public consultation                    6
 
-      3.1 Respeito da essência dos direitos e das liberdades fundamentais
-14.   Um dos principais objetivos do direito de proteção de dados consiste em melhorar o controlo dos
-      titulares dos dados sobre os seus dados pessoais. Todas as limitações devem respeitar a essência do
-      direito limitado. Tal significa que não é possível justificar limitações extensivas e intrusivas, na medida
-      em que anulam um direito fundamental do seu conteúdo básico. Em todo o caso, a exclusão geral de
-      direitos dos titulares dos dados em relação a todas as operações ou operações de tratamento de dados
-      específicas ou em relação aos responsáveis pelo tratamento específicos não respeitaria a essência do
-      direito fundamental à proteção dos dados pessoais, consagrado na Carta. Se a essência do direito
-      estiver comprometida, a limitação deve ser considerada ilícita, sem necessidade de avaliar se serve um
-      objetivo de interesse geral ou se satisfaz a necessidade e os critérios de proporcionalidade.
-15.   Para garantir este controlo, os titulares de dados têm determinados direitos ao abrigo do direito à
-      proteção dos dados e o responsável pelo tratamento tem determinadas obrigações perante o titular
-      dos dados, definidas nos artigos 12.º a 22.º e 34.º do RGPD, bem como no artigo 5.º, na medida em
-      que as suas disposições correspondam aos direitos e obrigações previstos nos artigos 12.º a 22.º do
-      RGPD. É neste contexto que o artigo 23.º do RGPD deve ser lido e interpretado.
-
-      3.2 Medidas legislativas que estabelecem limitações e necessidade de ser previsível
-          (considerando 41 e jurisprudência do TJUE)
+10.   Furthermore, as mentioned in Recital 73 GDPR, restrictions should be in accordance with the
+      requirements set out in the Charter and the European Convention for the Protection of Human Rights
+      and Fundamental Freedoms.
+11.   In addition to restrictions referred to in Article 23, the GDPR also lays down provision relating to
+      specific processing situations as per Chapter IX, where Member States may provide by law specific
+      measures impacting data subjects’ rights, such as exemptions or derogations (for instance, Articles 85
+      or 89 GDPR). However these guidelines do not address those cases.
+12.   Restricting the scope of the obligations and rights provided for in Article 12 to 22 and Article 34 may
+      take different forms but may never reach the point of a general suspension of all rights. Legislative
+      measures laying down restrictions under Article 23 GDPR may also foresee that the exercise of a right
+      is delayed in time, that a right is exercised partially or circumscribed to certain categories of data or
+      that a right can be exercised indirectly through an independent supervisory authority.
 
 
-      6 Existem determinados direitos que não podem ser limitados nos termos do artigo 23.º do RGPD,
-      designadamente o direito de apresentar reclamação a uma autoridade de controlo (artigo 77.º do RGPD).
+      3 REQUIREMENTS OF ARTICLE 23(1) GDPR
+13.   Article 23(1) GDPR lists a number of requirements, which are detailed below. All those requirements
+      need to be met in order for a measure to be lawfully relied upon.
+
+      3.1 Respect of the essence of the fundamental rights and freedoms
+14.   One of the main objectives of data protection law is to enhance data subjects’ control over personal
+      data concerning them. Any restriction shall respect the essence of the right that is being restricted.
+      This means that restrictions that are extensive and intrusive to the extent that they void a fundamental
+      right of its basic content, cannot be justified. In any case, a general exclusion of data subjects' rights
+      with regard to all or specific data processing operations or with regard to specific controllers would
+      not respect the essence of the fundamental right to the protection of personal data, as enshrined in
+      the Charter. If the essence of the right is compromised, the restriction shall be considered unlawful,
+      without the need to further assess whether it serves an objective of general interest or satisfies the
+      necessity and proportionality criteria.
+
+15.   In order to guarantee this control, data subjects have a number of rights within the right to data
+      protection and the controller has a number of obligations vis a vis the data subject, set out under
+      Articles 12 to 22 and Article 34 GDPR, as well as Article 5 in so far as its provisions correspond to the
+      rights and obligations provided for in Articles 12 to 22 GDPR. It is against this background that Article
+      23 GDPR should be read and interpreted.
+
+      3.2 Legislative measures laying down restrictions and the need to be foreseeable
+          (Recital 41 and CJEU case law)
+16.   The requirement of a legislative measure entails that controllers can only rely on a restriction provided
+      for by Article 23 GDPR to the extent that this restriction has been specified in Union or Member state
+      law. Without the corresponding legislative measure, controllers cannot rely directly on the grounds
+      listed in Article 23(1) GDPR. Recital 41 GDPR states that ‘[w]here this Regulation refers to a legal basis
+      or a legislative measure, this does not necessarily require a legislative act adopted by a parliament,
+      without prejudice to requirements pursuant to the constitutional order of the Member State
+      concerned. However, such a legal basis or legislative measure should be clear and precise and its
 
 
-      Adotadas – após consulta pública                    7
 
-16.   O requisito de uma medida legislativa implica que os responsáveis pelo tratamento possam apenas
-      invocar uma limitação prevista no artigo 23.º do RGPD na medida em que tal limitação tenha sido
-      especificada no direito da União ou do Estado-Membro. Sem a medida legislativa correspondente, os
-      responsáveis pelo tratamento não podem invocar diretamente os fundamentos enumerados no
-      artigo 23.º, n.º 1, do RGPD. O considerando 41 do RGPD especifica que «[c]aso o presente regulamento
-      se refira a um fundamento jurídico ou a uma medida legislativa, não se trata necessariamente de um
-      ato legislativo adotado por um parlamento, sem prejuízo dos requisitos que decorram da ordem
-      constitucional do Estado-Membro em causa. No entanto, esse fundamento jurídico ou essa medida
-      legislativa deverão ser claros e precisos e a sua aplicação deverá ser previsível para os seus
-      destinatários, em conformidade com a jurisprudência do Tribunal de Justiça da União Europeia
-      (“Tribunal de Justiça”) e pelo Tribunal Europeu dos Direitos do Homem» 7 .
-17.   Nos termos do artigo 52.º, n.º 1, da Carta, qualquer restrição ao exercício dos direitos e liberdades
-      reconhecidos pela Carta deve ser «prevista por lei». Tal reflete a expressão «prevista na lei» no
-      artigo 8, n.º 2, da Convenção Europeia dos Direitos do Homem 8 , que implica não só o cumprimento do
-      direito nacional, como também se refere à qualidade do direito em questão sem prejuízo da natureza
-      do ato, exigindo que o mesmo seja compatível com o Estado de direito. Em particular, o direito
-      nacional deve ser suficientemente claro nos seus termos para apresentar às pessoas uma indicação
-      adequada das circunstâncias e das condições em que os responsáveis pelo tratamento possuem
-      competência para recorrer a tais limitações. A mesma norma rigorosa deve ser aplicada a quaisquer
-      restrições suscetíveis ser impostas pelos Estados-Membros. Em conformidade com o RGPD e a
-      jurisprudência do Tribunal de Justiça da União Europeia (TJUE) e o Tribunal Europeu dos Direitos
-      Humanos (TEDH), é essencial que as medidas legislativas que visem limitar o alcance dos direitos dos
-      titulares de dados ou das obrigações do responsável pelo tratamento sejam previsíveis para os titulares
-      dos dados.
 
-18.   Embora qualquer medida legislativa deva ser adaptada, em qualquer processo, ao objetivo visado e
-      cumprir o critério de previsibilidade, uma medida legislativa que estabelece as disposições para a
-      aplicação de limitações nos termos do artigo 23.º do RGPD não tem de estar sempre limitada no tempo
-      ou associada a um período específico.
-             a. Em determinados casos, a limitação não está associada especificamente a um período, uma
-                vez que o fundamento para a salvaguarda da limitação pela medida legislativa não é em si
-                mesma limitada no tempo. À luz do princípio de necessidade e proporcionalidade, é
-                necessário garantir que tais medidas legislativas se referem a um fundamento de limitação
+      Adopted - after public consultation                 7
+
+      application should be foreseeable to persons subject to it, in accordance with the case-law of the Court
+      of Justice of the European Union [...] and the European Court of Human Rights’ 7 .
+
+17.   According to Article 52(1) of the Charter, any limitation on the exercise of the rights and freedoms
+      recognised by the Charter shall be ‘provided for by law’. This echoes the expression ‘in accordance
+      with the law’ in Article 8(2) of the European Convention of Human Rights 8 , which means not only
+      compliance with domestic law, but also relates to the quality of that law without prejudice to the
+      nature of the act, requiring it to be compatible with the rule of law. In particular, the domestic law
+      must be sufficiently clear in its terms to give individuals an adequate indication of the circumstances
+      in and conditions under which controllers are empowered to resort to any such restrictions. The
+      same strict standard should be applied for any restrictions that could be imposed by Member States.
+      In line with the GDPR and the case law of the Court of Justice of the European Union (CJEU) and of the
+      European Court of Human Rights (ECtHR), it is indeed essential that legislative measures, which seek
+      to restrict the scope of data subject rights or of controller’s obligations, are foreseeable for the data
+      subjects.
+18.   While any legislative measure must in any case be adapted to the objective pursued and meet the
+      foreseeability criterion, a legislative measure laying down the provisions for the application of
+      restrictions under Article 23 GDPR does not always have to be limited in time or linked to a specific
+      period.
+
+              a. In some cases, the restriction is not specifically linked to a timeframe because the ground
+                 for the restriction to be safeguarded by the legislative measure is not in itself limited in
+                 time. In light of the principle of necessity and proportionality, it is necessary to ensure that
+                 such legislative measures relate to a ground for restriction to be safeguarded on an ongoing
+                 basis, or permanently, in a democratic society. For instance, a legislative measure
+                 restricting the scope of the obligations and rights provided for in Article 12 to 22 and Article
+                 34, for safeguarding the protection of judicial independence and judicial proceedings may
+                 for example be considered as fulfilling a continuing objective in a democratic society and
+                 therefore may not be limited in time.
+
+              b. In other cases, the ground for the restriction to be safeguarded is in itself limited in time
+                 and therefore the legislative measure should provide a limitation in time in order to meet
+                 the foreseeability criterion. For example, where restrictions are adopted in the context of
+                 a state of emergency to safeguard public health, the EDPB considers that restrictions,
+                 imposed for a duration not precisely limited in time, do not meet the foreseeability
 
       7
-        O tipo de medidas legislativas consideradas deve estar em conformidade com o direito da UE ou o direito
-      nacional. Dependendo do grau de interferência da limitação, pode ser necessária uma medida legislativa
-      específica, a nível nacional, tendo em consideração o nível de norma.
-      8 Ver, nomeadamente, Tribunal Europeu dos Direitos Humanos, 14 de setembro de 2010, Sanoma Uitgevers
+        The type of legislative measures considered has to be in line with EU law or with the national law. Depending
+      on the degree of interference of the restriction, a particular legislative measure, taking into account the level of
+      norm, could be required at national level.
+      8 See in particular, European Court of Human Rights, 14 September 2010, Sanoma Uitgevers B.V. v. The
 
-      B.V./Países Baixos, EC:ECHR:2010:0914JUD003822403, n.º 83: «[a]dicionalmente, no que diz respeito à
-      expressão “prevista na lei” presente nos artigos 8.º a 11.º da Convenção, o [TEDH] constata que sempre
-      entendeu o termo “lei” no sentido “substantivo” e não no sentido “formal”; que incluiu tanto o “direito escrito”,
-      que abrange promulgações de estatutos de grau hierárquico inferior e medidas regulamentares tomadas por
-      entidades reguladoras profissionais ao abrigo de poderes reguladores que lhes tenham sido delegados pelo
-      Parlamento, bem como o direito não escrito. O termo “lei” deve ser entendido como abrangendo tanto o direito
-      comum como as “decisões dos juízes”. Em suma, a “lei” constitui a disposição em vigor conforme interpretada
-      pelos tribunais competentes». Sobre o conceito «prevista na lei», os critérios desenvolvidos pelo Tribunal
-      Europeu dos Direitos Humanos devem ser utilizados conforme proposto nos pareceres do advogado-geral do
-      TJUE nos processos apensos Tele2 Sverige AB, C‑203/15 e C‑ 698/15, ECLI:EU:C:2016:572, n. os 137-154, ou no
-      processo Scarlet Extended, C-70/10, ECLI:EU:C:2011:255, n.º 99.
-
-
-
-      Adotadas – após consulta pública                       8
-
-                    a salvaguardar de forma contínua, ou permanente, numa sociedade democrática. Por
-                    exemplo, uma medida legislativa que limite o alcance das obrigações e dos direitos
-                    previstos nos artigos 12.º a 22.º e 34.º, a fim de salvaguardar a proteção da independência
-                    judiciária e dos processos judiciais, pode ser considerada como cumprindo um objetivo
-                    contínuo numa sociedade democrática, não podendo, por conseguinte, ser limitada no
-                    tempo.
-                b. Noutros casos, o fundamento para a limitação ser salvaguardada é, em si mesmo, limitado
-                   no tempo e, por conseguinte, as medidas legislativas devem prever uma limitação no
-                   tempo para cumprir o critério da previsibilidade. Por exemplo, nos casos em que as
-                   limitações são adotadas no contexto de um estado de emergência para salvaguardar a
-                   saúde pública, o CEPD considera que as limitações impostas por um período não delimitado
-                   de forma precisa não cumprem o critério de previsibilidade, incluindo quando tais
-                   limitações são aplicáveis retroativamente ou sujeitas a condições indefinidas 9 .
-19.   A presente ligação entre as limitações previstas e o objetivo visado deve ser claramente estabelecida
-      e demonstrada na medida legislativa em questão ou nos documentos suplementares adicionais. Por
-      exemplo, a mera existência de uma pandemia, por si só, não é motivo suficiente para prever qualquer
-      tipo de limitação para os direitos dos titulares dos dados; ao invés disso, qualquer limitação deve
-      contribuir claramente para salvaguardar um objetivo importante do interesse público geral da União
-      ou de um Estado-Membro.
-
-      3.3 Fundamentos das limitações
-20.   Para adotar uma medida legislativa relativa a limitações e para aplicar uma limitação num caso
-      concreto, uma ou várias das seguintes condições especificadas no artigo 23.º, n.º 1, do RGPD devem
-      ser cumpridas. A presente lista é exaustiva, o que significa que as limitações não podem ser impostas
-      noutras condições que não as enumeradas infra.
-
-21.   A ligação entre as limitações previstas e o objetivo visado deve ser claramente estabelecida e
-      demonstrada na medida legislativa.
-
-      3.3.1 Segurança do Estado, defesa e segurança pública
-22.   Uma limitação dos direitos dos titulares dos dados pode ter como objetivo assegurar a segurança do
-      Estado ou a segurança pública e/ou a defesa dos Estados-Membros, conforme previsto no artigo 23.º,
-      n.º 1, alíneas a), b) e c), do RGPD.
-23.   Além disso, a segurança pública inclui a proteção da vida humana, especialmente em resposta a
-      catástrofes naturais ou provocadas pelo homem.
-
-      3.3.2 Prevenção, investigação, deteção e repressão de infrações penais ou execução de
-            sanções penais, incluindo a salvaguarda da segurança pública e a prevenção de ameaças
-            à segurança pública
-24.   Em determinados casos, a prestação de informações aos titulares dos dados que estejam a ser
-      investigados pode prejudicar o êxito dessa investigação. Por conseguinte, a limitação do direito à
-      informação ou de outros direitos dos titulares dos dados pode ser necessária, nos termos do
+      Netherlands, EC:ECHR:2010:0914JUD003822403, paragraph 83: ‘Further, as regards the words “in accordance
+      with the law” and “prescribed by law” which appear in Articles 8 to 11 of the Convention, the Court observes
+      that it has always understood the term “law” in its “substantive” sense, not its “formal” one; it has included both
+      “written law”, encompassing enactments of lower ranking statutes and regulatory measures taken by
+      professional regulatory bodies under independent rule-making powers delegated to them by Parliament, and
+      unwritten law. “Law” must be understood to include both statutory law and judge-made “law”. In sum, the “law”
+      is the provision in force as the competent courts have interpreted it’. On the notion of ‘provided for by law’, the
+      criteria developed by the European Court of Human Rights should be used as suggested in CJEU Advocate General
+      opinions in joined cases C‑203/15 and C‑ 698/15, Tele2 Sverige AB, ECLI:EU:C:2016:572, paragraphs137-154 or
+      in case C-70/10, Scarlet Extended, ECLI:EU:C:2011:255, paragraph 99.
 
 
 
+      Adopted - after public consultation                      8
+
+                 criterion, including when such restriction apply retroactively or are subject to undefined
+                 conditions 9 .
+
+19.   This link between the foreseen restrictions and the objective pursued should be clearly established
+      and demonstrated in the concerned legislative measure or additional supplementary documents. For
+      instance, the mere existence of a pandemic alone is not a sufficient reason to provide for any kind of
+      restriction on the rights of data subjects; rather, any restriction shall clearly contribute to the safeguard
+      of an important objective of general public interest of the Union or of a Member State.
+
+      3.3 Grounds for the restrictions
+20.   In order to adopt a legislative measure for restrictions and to apply a restriction in a concrete case, one
+      or several of the following conditions stated in Article 23(1) GDPR need to be met. This list is
+      exhaustive, meaning restrictions cannot be carried out under any other conditions than the ones listed
+      below.
+21.   The link between the foreseen restrictions and the objective pursued should be clearly stated in the
+      legislative measure.
+
+      3.3.1 National security, defence and public security
+22.   A restriction to data subject rights can have national or public security and/or defence of the Member
+      States as an objective to be safeguarded, as stated in Article 23(1)(a), (b) and (c) GDPR.
+23.   Moreover, public security includes protection of human life, especially in response to natural or
+      manmade disasters.
+
+      3.3.2 Prevention, investigation, detection and prosecution of criminal offences or the
+            execution of criminal penalties including the safeguarding against and the prevention
+            of threats to public security
+24.   In certain cases, providing information to the data subjects who are under investigation might
+      jeopardise the success of that investigation. Therefore, the restriction of the right to information or
+      other data subject’s rights may be necessary, under Article 23(1)(d) GDPR. This is relevant for instance
+      in the framework of anti-money laundering or the activities of forensic laboratories 10 .
+25.   Nonetheless, the omitted information shall, in accordance with the case law of the CJEU, be provided
+      once and if it is no longer possible for it to jeopardise the investigation being carried out 11 . This means
+      that a specific (tailor-made) data protection notice should be given to the data subject as soon as
+      possible, stating the different rights such as access, rectification etc.
+26.   Also, the objective of safeguarding public security includes the protection of human life especially in
+      response to natural or manmade disasters 12 .
+
+      3.3.3 Other important objectives of general public interest
+27.   Article 23(1)(e) GDPR mentions as other important objectives of general public interest of the Union
+      or of a Member State important economic or financial interest, including monetary, budgetary and
+      taxation matters, public health and social security. It may concern for instance the keeping of public
 
       9
-          Ver também o n.º 46 infra.
+        See also paragraph 46 below.
+      10 Recital 19 GDPR.
+      11 Opinion 1/15 of the CJEU (Grand Chamber) on the Draft PNR Agreement between Canada and the European
+
+      Union, 26 July 2017, ECLI:EU:C:2017:592.
+      12 Recital 73 GDPR.
 
 
 
-      Adotadas – após consulta pública                     9
 
-      artigo 23.º, n.º 1, alínea d), do RGPD. Tal possibilidade é importante, por exemplo, no quadro da luta
-      contra o branqueamento de capitais ou das atividades dos laboratórios de polícia científica 10 .
+      Adopted - after public consultation                  9
 
-25.   Todavia, a informação omitida só deve ser fornecida, em conformidade com a jurisprudência do TJUE,
-      a partir do momento em que não seja suscetível de comprometer as investigações levadas a cabo11 ,
-      ou seja, deve ser enviada ao titular dos dados, com a maior brevidade possível, uma notificação
-      específica (personalizada) relativa à proteção de dados, que enumera os diferentes direitos,
-      nomeadamente de acesso, retificação, etc.
-26.   Além disso, o objetivo de garantir a segurança pública inclui a proteção da vida humana, especialmente
-      em resposta a catástrofes naturais ou provocadas pelo homem 12 .
+      registers kept for reasons of general public interest or the further processing of archived personal data
+      to provide specific information related to the political behaviour under former totalitarian state
+      regimes 13 . However, the costs incurred as a consequence of providing information and thus the
+      financial burden on public budgets are not sufficient to justify a public interest in restricting the rights
+      of the data subjects. As an example a Direct Tax Administration may impose restrictions to the rights
+      of access by the data subject where he or she is under an investigation led by the Tax Administration
+      in the framework of its legal duty, in so far as this access would jeopardise the ongoing investigation.
+      However such restriction should be limited to the time necessary for the specific investigation and
+      should be lifted as soon as the Tax Administration closes the investigation. The data subject should be
+      informed without delay and be notified with the justifications contained in the decision of the
+      controller and with the date from which he or she may again exercise his or her right of access. Also
+      appropriate safeguards should be ensured such as for instance an indirect access 14 - when it is foreseen
+      in national law - so as to ensure that an independent Authority may check the lawfulness of the
+      processing.
+28.   In order to ensure the general public interest objective of accessibility of the law, a public
+      administration may impose restrictions to the right to object the processing of pseudonymised
+      personal data for the development of a benchmark document and information identifying, by type of
+      damage, the amounts claimed and offered by the parties to a dispute as well as the amounts allocated
+      to victims as compensation for their physical injury in court decisions delivered on appeal by
+      administrative courts and civil courts. Such restrictions may take place provided that the conditions
+      under Article 23(2) GDPR are met, and in particular through the implementation of safeguards such as
+      the approximation of compensation amounts, the deletion of the first and last names of the parties to
+      the dispute and the pseudonymisation of the personal data processed.
 
-      3.3.3 Outros objetivos importantes do interesse público geral
-27.   O artigo 23.º, n.º 1, alínea e), do RGPD menciona, como objetivos importantes do interesse público
-      geral da União ou de um Estado-Membro, o interesse económico ou financeiro importante, incluindo
-      nos domínios monetário, orçamental ou fiscal, da saúde pública e da segurança social. Pode referir-se,
-      por exemplo, à conservação de registos públicos por motivos de interesse público geral, para posterior
-      tratamento de dados pessoais arquivados para a prestação de informações específicas relacionadas
-      com o comportamento político no âmbito de antigos regimes totalitários 13 . Contudo, os custos
-      incorridos em consequência da prestação de informações e, por conseguinte, o encargo financeiro nos
-      orçamentos públicos não são suficientes para justificar um interesse público na limitação dos direitos
-      dos titulares dos dados. A título de exemplo, a administração fiscal direta pode impor limitações aos
-      direitos de acesso pelos titulares dos dados nos casos em que estes últimos estejam a ser investigados
-      pela administração fiscal no quadro da sua obrigação legal, se tal acesso for suscetível de prejudicar a
-      investigação em curso. Todavia, essa limitação deve ser aplicada pelo período necessário para a
-      investigação em causa, e deve ser anulada logo que a administração fiscal encerre a investigação. O
-      titular dos dados deve ser informado sem demora e notificado das justificações contidas na decisão do
-      responsável pelo tratamento, bem como da data em que poderá voltar a exercer o seu direito de
-      acesso. Além disso, importa assegurar as garantias adequadas como, por exemplo, um acesso
-      indireto 14 – quando previsto no direito nacional –, para permitir às autoridades independentes verificar
-      a licitude do tratamento.
+      3.3.4 Protection of judicial independence and judicial proceedings
+29.   Article 23(1)(f) GDPR also foresees the need to restrict certain data subjects’ rights or controller’s
+      obligations, in order to protect judicial independence and judicial proceedings.
+30.   The scope of these restrictions should be aligned with national legislation regulating these matters.
 
-28.   Para garantir o objetivo de acesso ao direito de interesse público geral, uma administração pública
-      pode impor limitações ao direito de oposição ao tratamento de dados pessoais sob pseudónimo para
-      a elaboração de um documento de referência e de informações que identifiquem, por tipo de danos,
-      os montantes solicitados e oferecidos pelas partes num litígio, bem como os montantes atribuídos às
-      vítimas a título de indemnização pelos danos físicos sofridos, em decisões judiciais proferidas no
-      âmbito de um recurso por tribunais administrativos e tribunais cíveis. Tais limitações podem ocorrer
-      contanto que as condições nos termos do artigo 23.º, n.º 2, do RGPD sejam cumpridas e, em particular,
+      3.3.5 Prevention, investigation, detection and prosecution of breaches of ethics for
+            regulated professions
+31.   Article 23(1)(g) GDPR mentions breaches of ethics for regulated professions, such as medical doctors
+      and lawyers.
+32.   These are cases in which an investigation does not relate in principle with criminal offences as, where
+      the investigation concerns a criminal offence, the ground set out under point 3.3.2 would be
+      applicable.
 
-
-      10
-         Considerando 19 do RGPD.
-      11
-         Parecer 1/15 do TJUE (Grande Secção) relativo ao Projeto de Acordo entre o Canadá e a União Europeia sobre
-      a transferência e o tratamento dos dados dos registos de identificação dos passageiros, de 26 de julho de 2017,
-      ECLI:EU:C:2017:592.
-      12 Considerando 73 do RGPD.
-      13 Considerando 73 do RGPD.
-
-      14 Ou seja, o titular dos dados pode solicitar à autoridade de controlo competente que realize os controlos e as
-
-      verificações necessárias das informações relativas ao titular dos dados. Esse acesso indireto pode ser
-      estabelecido, por exemplo, para proteger a segurança do Estado, a defesa ou a segurança pública. A autoridade
-      de controlo pode então aceder e verificar a informação e, se for caso disso, solicitar a retificação ou a eliminação
-      dos dados pessoais objeto de tratamento.
+      3.3.6 Monitoring, inspection or regulatory function connected to the exercise of official
+            authority in the cases referred to in points (a) to (e) and (g) of Article 23 GDPR
+      The ground for restriction mentioned in Article 23(2)(h) GDPR refers to a potential limitation when
+      there is an inspection or a monitoring exercise or a regulatory function connected, even if only
 
 
-      Adotadas – após consulta pública                        10
+      13Recital 73 GDPR.
+      14I.e. the data subject may ask the competent supervisory authority to proceed with the necessary checks and
+      verifications of the information concerning the data subject. Such indirect access may be established for instance
+      to protect security of the State, defence or public security. The Supervisory authority may then access and verify
+      the information and where relevant can request rectification or deletion of the personal data being processed.
 
-      através da aplicação de garantias tais como a aproximação dos montantes de indemnização, a
-      eliminação dos nomes próprios e apelidos das partes no litígio e a pseudonimização dos dados pessoais
-      tratados.
 
-      3.3.4 Defesa da independência judiciária e dos processos judiciais
-29.   O artigo 23.º, n.º 1, alínea f), do RGPD prevê também a necessidade de limitar determinados direitos
-      aos titulares dos dados ou obrigações dos responsáveis pelo tratamento, para proteger a
-      independência judicial e os processos judiciais.
-30.   O alcance destas limitações deve estar alinhado com a legislação nacional que regula esta matéria.
+      Adopted - after public consultation                    10
 
-      3.3.5 Prevenção, investigação, deteção e repressão de violações da deontologia das
-            profissões regulamentadas
-31.   O artigo 23.º, n.º 1, alínea g), do RGPD refere violações de deontologia para profissões
-      regulamentadas, tais como médicos e advogados.
-32.   Trata-se de casos em que uma investigação não está relacionada, em princípio, com infrações penais,
-      uma vez que, nos casos em que a investigação diga respeito a uma infração penal, é aplicável o
-      fundamento referido no ponto 3.3.2.
-
-      3.3.6 Missão de controlo, de inspeção ou de regulamentação associada ao exercício da
-            autoridade pública, nos casos referidos no artigo 23.º, alíneas a) a e) e g), do RGPD
-      O fundamento de limitação mencionado no artigo 23.º, n.º 2, alínea h), do RGPD refere-se a uma
-      potencial limitação quando exista uma inspeção ou regulamentação associada, ainda que
-      ocasionalmente, ao exercício da autoridade pública, nos casos referidos nos pontos 3.3.1 a 3.3.3 e
+      occasionally, to the exercise of official authority in the cases referred to in points 3.3.1 to 3.3.3 and
       3.3.5.
 
-      3.3.7 Defesa do titular dos dados ou dos direitos e liberdades de outrem
-33.   O artigo 23.º, n.º 1, alínea i), do RGPD refere-se a um fundamento para uma limitação que vise a defesa
-      do titular dos dados ou dos direitos e liberdades de outrem.
-34.   É possível ilustrar uma limitação para defender os direitos e as liberdades de outrem através de um
-      exemplo de um inquérito administrativo e/ou processo disciplinar ou investigação de alegações de
-      assédio no local de trabalho. Neste caso, uma medida legislativa pode prever a limitação do direito de
-      acesso da pessoa sujeita a um inquérito ou processo disciplinar, caso a identidade da alegada vítima
-      ou da testemunha ou do denunciante não possa ser divulgada, para evitar que esta sofra retaliações.
-      O direito de acesso da vítima ou da testemunha também pode ser limitado, a fim de respeitar os
-      direitos à privacidade e à proteção de dados da pessoa sujeita a um inquérito ou processo disciplinar.
+      3.3.7 Protection of the data subject or the rights and freedoms of others
+33.   Article 23(1)(i) GDPR refers to a ground for restriction that aims to protect the data subject or the rights
+      and freedoms of other persons.
+34.   One can illustrate a restriction to protect the rights and freedoms of others with an example of an
+      administrative inquiry and/or disciplinary proceedings or investigation on allegations of harassment in
+      the workplace. In this case, a legislative measure may provide that the person subject to an inquiry or
+      disciplinary proceedings may experience a limitation to his or her right of access, where the identity of
+      an alleged victim or witness or whistle-blower cannot be disclosed in order to protect him or her from
+      retaliation. The victim or witness may also see his or her right of access restricted to respect the rights
+      to privacy and data protection of the person subject to an inquiry or disciplinary proceedings.
 
-      3.3.8 Execução de ações cíveis
-35.   O artigo 23.º, n.º 1, alínea j), do RGPD inclui também a execução de ações cíveis como fundamento das
-      limitações. Enquanto o artigo 23.º, n.º 1, alínea j), do RGPD permite limitações para proteger os
-      interesses individuais de um (potencial) litigante, o artigo 23, n.º 1, alínea f), do RGPD permite
-      limitações para proteger os processos judiciais, bem como as normas processuais aplicáveis.
+      3.3.8 Enforcement of civil law claims
+35.   Article 23(1)(j) GDPR also includes the enforcement of civil law claims as a ground for restrictions.
+      While Article 23(1)(j) GDPR allows limitations to protect the individual interests of a (potential) litigant,
+      Article 23(1)(f) GDPR allows limitations to protect the court proceedings themselves as well as the
+      applicable procedural rules.
 
-      3.4 Direitos dos titulares dos dados e obrigações do responsável pelo tratamento
-          suscetíveis de serem limitados
-36.   Em conformidade com o artigo 23.º do RGPD, só podem ser limitados os artigos 12.º a 22.º e 34.º do
-      RGPD, bem como o artigo 5.º, na medida em que tais disposições correspondam aos direitos e
-      obrigações previstas nos artigos 12.º a 22.º.
+      3.4 Data subjects’ rights and controller’s obligations which may be restricted
+36.    In accordance with Article 23 GDPR, only Articles 12 to 22, Article 34 GDPR and Article 5 as far as its
+       provisions correspond to the rights and obligations provided for in Article 12 to 22 can be restricted.
+37.    The restrictions to obligations concern restrictions to the principles relating to the processing of
+       personal data as far as the provisions of Article 5 correspond to the obligations provided in Article 12
+       to 22 GDPR and to the communication of a personal data breach to the data subjects (Article 34
+       GDPR). Article 5 GDPR, which establishes the principles relating to the processing of personal data, is
+       one of the most important articles in the GDPR. Restrictions to the data protection principles need to
+       be duly justified by an exceptional situation, respecting the essence of the fundamental rights and
+       freedoms at issue and following a necessity and proportionality test 15 (see section 3.5 below). It
+       should be noted that Article 5 GDPR can be only restricted in so far as its provisions correspond to the
+       rights and obligations provided in Articles 12 to 22 GDPR.
 
+38.   The restrictions to rights concern the right to transparent information (Article 12 GDPR), right to
+      information (Articles 13 and 14 GDPR), right of access (Article 15 GDPR), right to rectification (Article 16
+      GDPR), right to erasure (Article 17 GDPR), right to restriction of processing (Article 18 GDPR),
+      notification obligation regarding rectification or erasure of personal data or restriction of processing
+      (Article 19 GDPR), right to data portability (Article 20 GDPR), right to object (Article 21 GDPR), right not
+      to be subject to an automated individual decision making (Article 22 GDPR).
 
+39.   This means that any other data subjects’ rights - such as the right to lodge a complaint to the
+      supervisory authority (Article 77 GDPR) - or other controllers’ obligations cannot be restricted.
 
-      Adotadas – após consulta pública                  11
+      3.5 Necessity and proportionality test
 
-37.    As limitações às obrigações dizem respeito às limitações aos princípios relativos ao tratamento de
-       dados pessoais, na medida em que as disposições do artigo 5.º correspondam às obrigações previstas
-       nos artigos 12.º a 22.º do RGPD e à comunicação de uma violação de dados pessoais aos titulares de
-       dados (artigo 34.º do RGPD). O artigo 5.º do RGPD, que estabelece os princípios relativos ao
-       tratamento de dados pessoais, é um dos artigos mais importantes no RGPD. As limitações aos
-       princípios da proteção de dados têm de ser devidamente justificadas por uma situação excecional,
-       respeitando a essência dos direitos e liberdades fundamentais em questão e na sequência de uma
-       avaliação da necessidade e proporcionalidade 15 (ver secção 3.5 infra). Importa notar que o artigo 5.º
-       do RGPD só pode ser limitado na medida em que as suas disposições correspondam aos direitos e
-       obrigações previstos nos artigos 12.º a 22.º do RGPD.
-
-38.   As limitações aos direitos dizem respeito à transparência das informações (artigo 12.º do RGPD), ao
-      direito à informação (artigos 13.º e 14.º do RGPD), ao direito de acesso (artigo 15.º do RGPD), ao
-      direito de retificação (artigo 16.º do RGPD), ao direito ao apagamento dos dados (artigo 17.º do RGPD),
-      ao direito à limitação do tratamento (artigo 18.º do RGPD), à obrigação de notificação da retificação
-      ou apagamento dos dados pessoais ou limitação do tratamento (artigo 19.º do RGPD), ao direito de
-      portabilidade dos dados (artigo 20.º do RGPD), ao direito de oposição (artigo 21.º do RGPD), e ao
-      direito de não ficar sujeito a nenhuma decisão tomada exclusivamente com base no tratamento
-      automatizado (artigo 22.º do RGPD).
-
-39.   Tal significa que não podem ser limitados quaisquer outros direitos dos titulares dos dados –
-      nomeadamente o direito de apresentar uma reclamação à autoridade de controlo (artigo 77.º do
-      RGPD) – ou obrigações do responsável pelo tratamento.
-
-      3.5 Avaliação da necessidade e proporcionalidade
-40.   As limitações apenas são lícitas na medida em que constituam uma medida necessária e proporcionada
-      numa sociedade democrática, conforme estabelecido no artigo 23.º, n.º 1, do RGPD, ou seja, têm de
-      aprovadas no âmbito da avaliação da necessidade e proporcionalidade para estarem em conformidade
-      com o RGPD 16 . A avaliação da necessidade e proporcionalidade deve ser realizada antes de o legislador
-      decidir aplicar uma limitação.
-41.   O objetivo a ser salvaguardado constitui a base para a avaliação da necessidade da medida. Por
-      conseguinte, é importante identificar o objetivo de forma suficientemente pormenorizada, para que
-      seja possível determinar se a medida é necessária. Por exemplo, se nos processos administrativos for
-      necessário limitar parte da investigação, mas for possível divulgar já alguma informação aos titulares
-      dos dados em questão, essa informação deve ser fornecida à pessoa em causa. A jurisprudência do
-      TJUE aplica uma avaliação de necessidade rigorosa a quaisquer limitações ao exercício dos direitos à
-      proteção dos dados pessoais e ao respeito pela vida privada no que toca ao tratamento dos dados
-      pessoais: «as isenções e derrogações à proteção dos dados [pessoais] [...] [têm de operar] na estrita
-      medida do necessário» 17 . O TEDH aplica uma avaliação estritamente necessária em função do contexto
-
-      15Ver European Data Protection Supervisor (EDPS) Guidelines – Assessing the necessity of measures that limit the
-      fundamental right to the protection of personal data: A Toolkit, EDPS Guidelines on assessing the proportionality
-      of measures that limit the fundamental rights to privacy and to the protection of personal data e The EDPS quick-
-      guide to necessity and proportionality (não traduzido para português).
-      16 No âmbito da missão das autoridades de controlo e para garantir segurança jurídica é recomendável
-
-      documentar a avaliação da proporcionalidade e necessidade. As autoridades de controlo podem solicitar
-      documentação adicional.
-      17 Ver Acórdão do Tribunal de Justiça de 16 de dezembro de 2008, Tietosuojavaltuutettu/Satakunnan
-
-      Markkinapörssi Oy e Satamedia Oy, C-73/07, ECLI:EU:C:2008:727, n.º 56.
+      15See European Data Protection Supervisor (EDPS) Guidelines - 'Assessing the necessity of measures that limit
+      the fundamental right to the protection of personal data: A Toolkit', the EDPS Guidelines on assessing the
+      proportionality of measures that limit the fundamental rights to privacy and to the protection of personal data
+      and the EDPS quick-guide to necessity and proportionality.
 
 
 
-      Adotadas – após consulta pública                       12
+      Adopted - after public consultation                   11
 
-      e de todas as circunstâncias em causa, designadamente que diz respeito às medidas de vigilância
-      secretas 18 .
+40.   Restrictions are only lawful when they are a necessary and proportionate measure in a democratic
+      society, as stated in Article 23(1) GDPR. This means that restrictions need to pass a necessity and
+      proportionality test in order to be compliant with the GDPR 16 . The necessity and proportionality test
+      should be carried out before the legislator decides to provide for a restriction.
+41.   The objective to be safeguarded provides the background against which the necessity of the measure
+      may be assessed. It is therefore important to identify the objective in sufficient detail so as to allow
+      the assessment on whether the measure is necessary. For example, if in administrative proceedings it
+      is necessary to restrict part of the investigation, but some information can already be disclosed to the
+      data subjects concerned, then that information should be provided to the person. The case law of the
+      CJEU applies a strict necessity test for any limitations on the exercise of the rights to personal data
+      protection and respect for private life with regard to the processing of personal data: ‛derogations and
+      limitations in relation to the protection of personal data (...) must apply only insofar as is strictly
+      necessary’ 17 . The ECtHR applies a test of strict necessity depending on the context and all
+      circumstances at hand, such as with regard to secret surveillance measures 18 .
+42.   If this test is satisfied, the proportionality of the envisaged measure will be assessed. Should the draft
+      measure not pass the necessity test, there is no need to examine its proportionality. A measure which
+      is not proved to be necessary should not be proposed unless and until it has been modified to meet
+      the requirement of necessity.
 
-42.   Se a avaliação produzir resultados satisfatórios, será avaliada a proporcionalidade da medida prevista.
-      Se o projeto de medida não for aprovado no âmbito da avaliação da necessidade, não é necessário
-      avaliar a sua proporcionalidade. Se não for demonstrada a necessidade de uma medida, esta não deve
-      ser proposta, a menos e até que seja alterada para cumprir o requisito de necessidade.
-43.   A avaliação da necessidade e proporcionalidade implica, normalmente, a avaliação dos riscos para os
-      direitos e as liberdades dos titulares dos dados. Os riscos para os direitos e as liberdades dos titulares
-      dos dados estão especificados no ponto 4.7 das presentes diretrizes.
+43.   The necessity and proportionality test typically implies assessing the risks to the rights and freedoms
+      of the data subjects. The risks to the rights and freedoms of data subjects are detailed in point 4.7 of
+      these guidelines.
+44.   According to the proportionality principle, the content of the legislative measure cannot exceed what
+      is strictly necessary to safeguard the objectives listed in Article 23(1)(a) to (j) GDPR. The restriction
+      must therefore be appropriate for attaining the legitimate objectives pursued by the legislation at issue
+      and not exceed the limits of what is appropriate and necessary in order to achieve those objectives.
+      According to the CJEU case law, Article 23 GDPR cannot be interpreted as being capable of conferring
+      on Member States the power to undermine respect for private life, disregarding Article 7 of the
+      Charter, or any of the other guarantees enshrined therein. In particular, the power conferred on
+      Member States by Article 23(1) GDPR may be exercised only in accordance with the requirement of
+      proportionality, according to which derogations and limitations in relation to the protection of
+      personal data must apply only in so far as is strictly necessary 19 .
+45.   A proposed restriction measure should be supported by evidence describing the problem to be
+      addressed by that measure, how it will be addressed by it, and why existing or less intrusive measures
+      cannot sufficiently address it. There is also a requirement to demonstrate how any proposed
 
-44.   Em conformidade com o princípio da proporcionalidade, o conteúdo da medida legislativa não pode
-      exceder o estritamente necessário para salvaguardar os objetivos enunciados no artigo 23.º, n.º 1,
-      alíneas a) a j), do RGPD. Por conseguinte, a limitação tem de ser adequada para alcançar os objetivos
-      legítimos visados pela legislação em causa, e não pode exceder os limites do que é adequado e
-      necessário para a consecução desses objetivos. De acordo com a jurisprudência do TJUE, o artigo 23.º
-      do RGPD não pode ser interpretado no sentido de que pode conferir aos Estados‑Membros o poder
-      de atentarem contra o respeito da vida privada, em violação do artigo 7.º da Carta, ou das outras
-      garantias nela previstas. Em particular, o poder que o artigo 23.º, n.º 1, do RGPD confere aos
-      Estados‑Membros apenas pode ser exercido se for respeitado o requisito da proporcionalidade,
-      segundo o qual as derrogações à proteção dos dados pessoais e as suas limitações devem ocorrer na
-      estrita medida do necessário 19 .
-45.   Uma medida de limitação proposta deve ser fundamentada por elementos que descrevam o problema
-      a ser abordado por tal medida, a forma como o mesmo será abordado, e os motivos pelos quais as
-      medidas existentes ou menos intrusivas não são suficientes para obter uma resposta satisfatória.
-      Existe também um requisito para demonstrar como qualquer interferência ou limitação propostas
-      correspondem efetivamente a objetivos de interesse geral do Estado e da UE ou à necessidade de
-      proteger os direitos e liberdades de outrem. A limitação dos direitos relativos à proteção de dados
-      deverá centrar-se em riscos específicos.
-46.   Por exemplo, se as limitações contribuírem para salvaguardar a saúde pública num estado de
-      emergência, o CEPD considera que as limitações devem ser estritamente limitadas no seu alcance (por
-      exemplo, quanto às finalidades, aos direitos dos titulares dos dados ou às categorias dos responsáveis
-      pelo tratamento em questão) e no tempo. Nomeadamente, deve limitar-se ao período do estado de
-      emergência. Os direitos dos titulares dos dados podem ser limitados, mas não negados.
+      16
+         Within the mission of the supervisory authorities and in order to ensure legal certainty it is advisable that the
+      proportionality and necessity test is documented. Supervisory authorities may request additional
+      documentation.
+      17 See CJEU, judgment of 16 December 2008, case C-73/07, Tietosuojavaltuutettu v. Satakunnan Markkinapörssi
 
+      Oy and Satamedia Oy, ECLI:EU:C:2008:727, paragraph 56.
+      18 See ECtHR, Szabo and Vissy v. Hungary, 12 January 2016, paragraph 73.
+      19 CJEU, judgment of 6 October 2020, La Quadrature du net and others joined cases C-511/18, C-512/18 and
 
-
-
-      18Ver TEDH, Szabo e Vissy/Hungria, 12 de janeiro de 2016, n.º 73.
-      19Acórdão do Tribunal de Justiça de 6 de outubro de 2020, La Quadrature du net e o., C-511/18, C-512/18 e C-
-      520/18, ECLI:EU:C:2020:791, n.º 210. Por exemplo, no que diz respeito à retenção dos dados pelos serviços
-      públicos de comunicação em linha e prestadores de serviços de armazenamento, o TJUE concluiu, no n.º 212,
-      que «[o] artigo 23.º, n.º 1, do [RGPD], lido à luz dos artigos 7.º, 8.º, 11.º e 52.º, n.º 1, da Carta, deve ser
-      interpretado no sentido de que se opõe a uma regulamentação nacional que impõe aos fornecedores de acesso
-      a serviços de comunicação ao público em linha e aos prestadores de serviços de armazenamento a conservação
-      generalizada e indiferenciada, nomeadamente, dos dados pessoais relativos a esses serviços».
-
-
-
-      Adotadas – após consulta pública                      13
-
-      4 REQUISITOS DO ARTIGO 23.º, N.º 2, DO RGPD
-47.   Em conformidade com a jurisprudência do TJUE, qualquer medida legislativa adotada com base no
-      artigo 23.º, n.º 1, do RGPD deve cumprir, nomeadamente, os requisitos específicos estabelecidos no
-      artigo 23.º, n.º 2, do RGPD 20 . O artigo 23.º, n.º 2, do RGPD estabelece que as medidas legislativas que
-      impõem limitações aos direitos dos titulares dos dados e às obrigações dos responsáveis pelo
-      tratamento devem conter, quando aplicável, disposições explícitas relativas a vários critérios descritos
-      a seguir. Como regra, todos os requisitos indicados a seguir devem ser incluídos na medida legislativa
-      que impõe limitações ao abrigo do artigo 23.º do RGPD.
-48.   As exceções a esta regra, baseadas no facto de que uma ou mais disposições no artigo 23.º, n.º 2, do
-      RGPD não são relevantes no que diz respeito à medida legislativa que prevê a limitação dos direitos
-      dos titulares dos dados, devem ser devidamente justificadas pelo legislador. A interpretação do CEPD
-      da expressão «quando for relevante» no artigo 23.º, n.º 2, do RGPD está associada às circunstâncias.
-49.   O artigo 23.º, n.º 2, alínea a), do RGPD menciona as finalidades do tratamento ou as diferentes
-      categorias de tratamento como uma das disposições específicas que devem ser mencionadas em
-      quaisquer medidas legislativas que limitem os direitos dos titulares dos dados ou as obrigações dos
-      responsáveis pelo tratamento. De acordo com o considerando 8 do RGPD, o motivo para a limitação
-      deve ser compreensível para as pessoas a quem se aplica. Tal inclui também uma compreensão clara
-      de como e quando a restrição poderá ser aplicada.
-50.   Por exemplo, a legislação nacional em matéria de prevenção e investigação de violações de
-      deontologia para profissões regulamentadas pode prever que, se se considerar que a divulgação do
-      facto de uma pessoa estar a ser investigada por uma violação grave é suscetível de prejudicar a
-      finalidade dessa investigação, a informação não pode ser divulgada ao titular dos dados por um certo
-      período.
-
-51.   As finalidades possíveis da necessidade de tratamento podem estar associadas aos fundamentos das
-      limitações mencionados no ponto 3.3 das presentes diretrizes.
-52.   É importante referir que, por vezes, o exercício dos direitos dos titulares dos dados ajuda os
-      responsáveis pelo tratamento no exercício da sua função. Por exemplo, o direito de retificação pode
-      contribuir para a qualidade dos dados.
-
-      4.1 Categorias de dados pessoais
-53.   O artigo 23.º, n.º 2, alínea b), refere que as categorias de dados pessoais sujeitas às limitações devem
-      ser indicadas na medida legislativa que prevê as limitações em questão 21 .
-
-54.   No mesmo sentido, as limitações relativas às categorias especiais de dados pessoais têm um impacto
-      maior nos titulares dos dados e, por conseguinte, a medida legislativa que define tal limitação deve
-      mencionar as respetivas categorias especiais de dados nela contidas.
-
-      4.2 Alcance das limitações
-55.   O artigo 23.º, n.º 2, alínea c), do RGPD estabelece que o alcance das limitações também deve ser
-      especificado, ou seja, que direitos estão em causa e em que medida serão limitados, por exemplo, que
-
-      20 Acórdão do Tribunal de Justiça de 6 de outubro de 2020, La Quadrature du net e o., C-511/18, C-512/18 e C-
-      520/18, ECLI:EU:C:2020:791, n.º 209.
-      21 Se possível, o responsável pelo tratamento pode ir mais além e enumerar os itens dos dados específicos aos
-
-      quais as limitações de direitos poderão ser aplicáveis, tais como os resultados preliminares de uma investigação,
-      a decisão de abrir um inquérito, etc.
+      C-520/18, ECLI:EU:C:2020:791, paragraph 210. For example, in relation to data retention by online public
+      communication services and hosting services providers, the CJEU concluded, paragraph 212, that ‘Article 23(1)
+      (GDPR), read in the light of Articles 7, 8 and 11 and Article 52(1) of the Charter, must be interpreted as precluding
+      national legislation which requires that providers of access to online public communication services and hosting
+      service providers retain, generally and indiscriminately, inter alia, personal data relating to those services’.
 
 
-      Adotadas – após consulta pública                       14
+      Adopted - after public consultation                      12
 
-      uma limitação apenas diz respeito ao direito à limitação do tratamento (artigo 18.º do RGPD), ou que
-      poderá ser referente ao acesso, à retificação ou ao apagamento.
-
-      4.3 Garantias para evitar o abuso ou o acesso ou transferência ilícitos
-56.   O artigo 23.º, n.º 2, alínea d), do RGPD refere que as medidas legislativas devem incluir garantias para
-      evitar o abuso ou o acesso ou transferência ilícitos. Tal refere-se, em particular, às medidas
-      organizacionais e/ou técnicas 22 que são necessárias para evitar violações ou transferências ilícitas
-      como o armazenamento seguro de documentos físicos. Por exemplo, em alguns Estados-Membros, o
-      exercício de direitos no que diz respeito ao tratamento efetuado em determinados setores pode ser
-      exercido através da mediação da autoridade de controlo («AC») da proteção de dados.
-57.   A medida legislativa pode também dizer respeito a medidas periódicas para rever uma decisão
-      proferida sobre limitações. O legislador pode propor que cada limitação aplicada pelo responsável pelo
-      tratamento deve ser revista periodicamente, a fim de garantir que a sua justificação se mantém válida.
-
-      4.4 Especificação do responsável pelo tratamento
-58.   O artigo 23.º, n.º 2, alínea e), do RGPD exige que a medida legislativa especifique quem é o responsável
-      pelo tratamento ou quais são as categoriais dos responsáveis pelo tratamento. A nomeação dos
-      responsáveis pelo tratamento na medida legislativa não só favorece a segurança jurídica no que toca
-      à responsabilidade pelas operações de tratamento em relação às limitações, como também permite
-      aos titulares dos dados saberem a quem se dirigir no exercício dos seus direitos, após a anulação da
-      limitação.
-
-      4.5 Prazos de conservação
-59.   O artigo 23.º, n.º 2, alínea f), do RGPD estabelece que a medida legislativa deve incluir uma disposição
-      específica no que diz respeito aos prazos de conservação e às garantias aplicáveis tendo em conta a
-      natureza, o âmbito e os objetivos do tratamento ou das categorias de tratamento. Por exemplo, o
-      prazo de retenção pode ser calculado como correspondendo à duração da operação de tratamento
-      somada ao tempo adicional para eventuais litígios.
-
-      4.6 Riscos para os direitos e liberdades dos titulares dos dados
-60.   O artigo 23.º, n.º 2, alínea g), do RGPD exige que a medida legislativa inclua os riscos para os direitos
-      e as liberdades dos titulares dos dados comportados pelas limitações. Este é um passo muito
-      importante, que ajuda na avaliação da necessidade e proporcionalidade das limitações.
-61.   O objetivo desta avaliação dos riscos para os direitos e as liberdades dos titulares dos dados é duplo.
-      Por um lado, fornece uma visão do potencial impacto das limitações nos titulares dos dados. Por outro
-      lado, fornece os elementos para a avaliação da necessidade e proporcionalidade das limitações. Neste
-      respeito e se aplicável, deve ser considerada uma avaliação de impacto da proteção de dados (AIPD)23 .
-62.   O legislador deve avaliar os riscos para os direitos e as liberdades dos titulares dos dados da perspetiva
-      dos titulares dos dados. Não é sempre obrigatório realizar uma AIPD, mas podem ser referidos os riscos
-      concretos para os titulares dos dados – designadamente a definição de perfis errónea, conducente à
+      interference or restriction genuinely meet objectives of general interest of the State and EU or the
+      need to protect the rights and freedoms of others. The restriction of data protection rights will need
+      to focus on specific risks.
+46.   For example, if restrictions contribute to safeguarding public health in a state of emergency, the EDPB
+      considers that the restrictions must be strictly limited in scope (e.g. as to the purpose, data subject
+      rights concerned or the categories of controllers concerned) and in time. In particular, it must be
+      limited to the emergency state period. Data subject rights can be restricted but not denied.
 
 
-      22 Ver EDPB Guidelines 4/2019 on Article 25 data protection by design and by default (não traduzido para
-      português).
-      23 Ver também as Orientações relativas à Avaliação de Impacto sobre a Proteção de Dados (AIPD) e que
+      4 REQUIREMENTS OF ARTICLE 23(2) GDPR
+47.   According to the CJEU case law, any legislative measure adopted on the basis of Article 23(1) GDPR
+      must, in particular, comply with the specific requirements set out in Article 23(2) of the GDPR 20 .
+      Article 23(2) GDPR states that the legislative measures imposing restrictions to the rights of data
+      subjects and the controllers’ obligations shall contain, where relevant, specific provisions about several
+      criteria outlined below. As a rule, all the requirements detailed below should be included in the
+      legislative measure imposing restrictions under Article 23 GDPR.
+48.   Exceptions to this rule, based on the fact that one or more provisions in Article 23(2) GDPR are not
+      relevant regarding the legislative measure foreseeing the restriction of data subjects’ rights, need to
+      be duly justified by the legislator. The EDPB’s interpretation of the expression “where relevant” in
+      Article 23(2) GDPR is linked to the circumstances.
 
-      determinam se o tratamento é «suscetível de resultar num elevado risco» para efeitos do
-      Regulamento (UE) 2016/679, do Grupo de Trabalho do Artigo 29.º para a Proteção de Dados, WP 248 rev.01,
-      aprovadas pelo CEPD em 25 de maio de 2018.
+49.   Article 23(2)(a) GDPR mentions the purposes of the processing or categories of processing as one of
+      the specific provisions that shall be mentioned in any legislative measures restricting the rights of data
+      subjects or controllers’ obligations. As per Recital 8 GDPR, the reason for the restriction should be
+      comprehensible to persons to whom it applies. This also involves a clear understanding of how and
+      when the restriction may apply.
+50.   For example, national legislation on prevention and investigation of breaches of ethics for regulated
+      professions might state that if the disclosure of the fact that a person is under investigation for a
+      serious breach may be prejudicial to the purpose of the investigation, the information may not be
+      disclosed to the data subject for a limited time.
+51.   The possible purposes of the processing need to be linked to the grounds for the restrictions
+      mentioned in point 3.3 of these guidelines.
+
+52.   It should be said that sometimes the exercise of data subjects’ rights helps the controllers performing
+      their function. For example, the right to rectification can contribute to the quality of the data.
+
+      4.1 Categories of personal data
+53.   Article 23(2)(b) GDPR states that the categories of personal data subject to restrictions are to be
+      indicated in the legislative measure foreseeing those restrictions 21 .
 
 
 
-      Adotadas – após consulta pública                   15
 
-      discriminação e a uma redução da dignidade humana 24 , da liberdade de expressão e do direito à
-      privacidade e à proteção de dados 25 , a um impacto maior nos grupos vulneráveis (como as crianças ou
-      as pessoas com deficiência), entre outros – na medida legislativa, se aplicável.
-63.   Quando estiver prevista a avaliação em questão, o CEPD considera ser necessário incluí-la nos
-      considerandos ou na exposição de motivos da legislação 26 ou na avaliação de impacto 27 .
+      20 CJEU, judgment of 6 October 2020, La Quadrature du Net and others joined cases C-511/18, C-512/18 and
+      C-520/18, ECLI:EU:C:2020:791, paragraph 209.
+      21 Where possible, the controller can go further and list the specific data items to which the restriction of rights
 
-      4.7 Direito a ser informado da limitação, a menos que tal possa prejudicar o objetivo
-          da limitação
-64.   O artigo 23.º, n.º 2, alínea h, do RGPD refere que, a menos que tal possa prejudicar o objetivo da
-      limitação, os titulares dos dados devem ser informados da limitação, ou seja, em regra, os titulares dos
-      dados devem ser informados da limitação ao seu direito de serem informados. Para o efeito, uma
-      notificação geral de proteção de dados pode ser suficiente.
-65.   Por exemplo, se um titular de dados solicitar especificamente que lhe seja possibilitado o exercício de
-      determinado direito num momento muito delicado de uma investigação administrativa, deve, se
-      possível, ser informado dos motivos da limitação. Todavia, se o facto de o titular dos dados ser
-      informado dos motivos da limitação resultar na anulação do efeito da limitação (ou seja, são
-      prejudicados os efeitos preliminares da investigação), tal informação não pode ser divulgada. As
-      limitações podem ser adotadas para proteger as investigações. Neste caso, as limitações têm de
-      permanecer necessárias e proporcionadas e, para tal, o responsável pelo tratamento deve efetuar uma
-      avaliação a fim de determinar se informar o titular dos dados da limitação é suscetível de prejudicar o
-      objetivo da limitação.
-66.   Por outras palavras, em circunstâncias extraordinárias, por exemplo nas fases muito preliminares de
-      uma investigação, se os titulares dos dados questionarem se estão a ser objeto de investigação, o
-      responsável pelo tratamento pode decidir não prestar essa informação naquela altura – se a limitação
-      for lícita e estritamente necessária naquele caso específico –, para não prejudicar o objetivo da
-      limitação.
-67.   Numa fase posterior, por exemplo, após a conclusão da fase preliminar da investigação ou do
-      inquérito, os titulares dos dados devem receber uma notificação (específica) de proteção dos dados.
-      Nesta fase, ainda é possível que determinados direitos continuem a ser limitados, tal como o direito
-      de acesso à informação sobre a abertura de uma investigação ou a alegações de potenciais vítimas de
-      assédio 28 . Este facto deve ser indicado na notificação de proteção de dados juntamente com uma
-      indicação do prazo para o pleno restabelecimento dos direitos, se possível.
+      may apply, such as the preliminary results of an investigation, a decision opening an inquiry, etc.
+
+
+      Adopted - after public consultation                     13
+
+54.   In the same vein, restrictions concerning special categories of personal data may have a bigger impact
+      on the data subjects and, therefore, the legislative measure setting such a restriction should mention
+      the concerned special categories of data therein.
+
+      4.2 Scope of the restrictions
+55.   Article 23(2)(c) GDPR prescribes that the scope of the restrictions shall also be specified, i.e. which
+      rights are concerned and how far they are going to be limited, for instance, that a restriction only
+      concerns the right to restriction of processing (Article 18 GDPR), or that it may concern access,
+      rectification and erasure.
+
+      4.3 Safeguards to prevent abuse or unlawful access or transfer
+56.   Article 23(2)(d) GDPR states that the legislative measure shall include safeguards to prevent abuse or
+      unlawful access or transfer. This refers in particular to organisational and/or technical measures22
+      which are necessary in order to avoid breaches or unlawful transfers such as the storage in a safe way
+      of physical documents. For example, in some Member States the exercise of rights in respect of
+      processing carried out in specific sectors can be exercised through the mediation of the national data
+      protection supervisory authority (‘SA’).
+57.   The legislative measure may also concern periodic measures to review a given decision on restrictions.
+      The legislator may propose that each restriction implemented by the controller should be reviewed
+      periodically to ensure that the justification for it is still valid.
+
+      4.4 Specification of the controller
+58.   Article 23(2)(e) GDPR requires that the legislative measure specifies who the controller is or who the
+      categories of controllers are. This appointment of the controllers in the legislative measure not only
+      favours legal certainty regarding the responsibility for the processing operations in relation to the
+      restrictions, but also allows data subjects to know whom to address when exercising their rights, once
+      the restriction is lifted.
+
+      4.5 Storage periods
+59.   Article 23(2)(f) GDPR establishes that the legislative measure must include a specific provision
+      regarding the storage periods and applicable safeguards taking into account the nature, scope and
+      purposes of the processing or categories of processing. For instance, the retention period could be
+      calculated as the duration of the processing operation plus additional time for potential litigation.
+
+      4.6 Risks to data subjects’ rights and freedoms
+60.   Article 23(2)(g) GDPR requires that the legislative measure include the risks to data subject’s rights and
+      freedoms entailed by the restrictions. This is a very important step, which helps in the necessity and
+      proportionality test of the restrictions.
+61.   The goal of this assessment of the risks to data subjects’ rights and freedoms is twofold. On the one
+      hand, it provides an overview of the potential impact of restrictions on data subjects. On the other
+      hand, it provides elements for the necessity and proportionality test of the restrictions. In this regard
+      and if applicable, a data protection impact assessment (‘DPIA’) should be considered 23 .
+
+
+      22See EDPB Guidelines 4/2019 on Article 25 data protection by design and by default.
+      23See also Article 29 Working Party Guidelines on Data Protection Impact Assessment (DPIA) and determining
+      whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, wp248rev.01,
+      endorsed by the EDPB on 25 may 2018.
+
+
+
+      Adopted - after public consultation                  14
+
+62.   The legislator should assess the risks to data subject’s rights and freedoms from the perspective of the
+      data subjects. It is not always mandatory to perform a DPIA, but concrete risks to data subjects - such
+      as erroneous profiling leading to discrimination, reduced human dignity 24 , freedom of speech, the right
+      to privacy and data protection 25 , a bigger impact on vulnerable groups (such as children or persons
+      with disability), to mention a few - may be stated in the legislative measure, if applicable.
+63.   When such assessment is provided, the EDPB considers necessary to include it in the recitals or
+      explanatory memorandum of the legislation 26 or in the impact assessment 27 .
+
+      4.7 Right to be informed about the restriction, unless prejudicial to the purpose of
+          the restriction
+64.   Article 23(2)(h) GDPR states that, unless it may be prejudicial to the purpose of the restriction, data
+      subjects shall be informed of the restriction. This means that data subjects should be informed about
+      the restriction to their right to information as a rule. To that purpose, a general data protection notice
+      may be sufficient.
+65.   For example, where a data subject specifically asks to exercise a particular right at a very delicate
+      moment of a given administrative investigation, the data subject should, if possible, be informed of
+      the reasons for the restriction. However, if informing the data subject of the reasons for the restriction
+      would result in cancelling the effect of the restriction (i.e. would hamper the preliminary effects of the
+      investigation), that information may not be disclosed. Restrictions may be adopted to protect
+      investigations. In this case, restrictions must remain necessary and proportionate and to do so an
+      assessment should be performed by the controller to check whether informing the data subject of the
+      restriction is prejudicial to the purpose of the restriction.
+
+66.   In other words, in extraordinary circumstances, for instance in the very preliminary stages of an
+      investigation, if the data subject requests information if he or she is being investigated, the controller
+      could decide not to grant that information at that moment - if this restriction is lawful and strictly
+      necessary in the specific case to what would be prejudicial to the purpose of the restriction.
+
+67.   At a later stage, such as after the preliminary phase of the investigation or inquiry is completed, data
+      subjects should receive a (specific) data protection notice. It is still possible at this stage that certain
+      rights continue to be restricted, such as the right of access to the information about the opening of an
+      investigation, or to the allegations of potential victims of harassment 28 . This fact should be indicated
+      in the data protection notice along with an indication of a period in which the rights will be fully
+      restored, if possible.
 
 
 
 
       24
-         A dignidade humana é um direito protegido pelo artigo 1.º da Carta.
+         Human dignity is a right protected by Article 1 of the Charter.
       25
-         Artigos 7.º e 8.º da Carta.
-      26 A exposição de motivos tem por objetivo explicar os motivos e o contexto de uma medida legislativa, com base
+         Articles 7 and 8 of the Charter.
+      26 The purpose of the explanatory memorandum is to explain the reasons for, and the context of a legislative
 
-      nas diferentes fases do processo preparatório.
-      27 Ver artigo 35.º, n.º 10, do RGPD.
-      28 Para mais informações, ver Acórdão do Tribunal de Justiça de 17 de julho de 2014, YS/Minister voor Immigratie,
+      measure drawing on the different stages of the preparatory process.
+      27 See Article 35(10) GDPR.
+      28 For further information, see CJEU, judgment of 17 July 2014, YS v Minister voor Immigratie, Integratie en Asiel
 
-      Integratie en Asiel e Minister voor Immigratie, Integratie en Asiel/M e S, C-141/12 e C-372/12,
-      ECLI:EU:C:2014:2081, n.os 45 e 46, e Acórdão do Tribunal de Justiça de 20 de dezembro de 2017, Novak, C-434/16,
-      ECLI:EU:C:2017:994, n.º 56.
-
-
-      Adotadas – após consulta pública                       16
-
-      5 CONSULTA DAS AC [ARTIGO 36.º, N.º 4, E ARTIGO 57.º, N.º 1,
-        ALÍNEA C), DO RGPD]
-68.   Em conformidade com o artigo 36.º, n.º 4, do RGPD, quando as limitações forem adotadas ao nível dos
-      Estados-Membros, as AC devem ser consultadas antes da adoção da medida legislativa a ser adotada
-      pelo parlamento nacional, ou de uma medida regulamentar baseada nessa medida legislativa que
-      prevê a limitação dos direitos dos titulares dos dados ao abrigo do artigo 23.º do RGPD.
-69.   Além disso, é de a responsabilidade das AC prestar aconselhamento sobre as medidas legislativas
-      relativas à proteção dos direitos e liberdades das pessoas no que diz respeito ao tratamento dos seus
-      dados pessoais, em conformidade com o artigo 57, n.º 1, alínea c), do RGPD.
-70.   Se as AC não forem devidamente consultadas, podem emitir, por iniciativa própria, nos termos do
-      artigo 58.º, n.º 3, alínea b), do RGPD, pareceres dirigidos ao parlamento nacional, ao governo do
-      Estado-Membro ou, nos termos do direito do Estado-Membro, a outras instituições ou organismos,
-      bem como ao público, sobre qualquer assunto relacionado com a proteção de dados pessoais.
-
-71.   Além disso, a legislação em matéria de proteção de dados a nível nacional pode prever procedimentos
-      específicos no que diz respeito à adoção de medidas legislativas que visem restringir os direitos
-      previstos nos artigos 12.º a 22.º e 34.º do RGPD, em conformidade com o artigo 23.º do RGPD. Tal
-      pode ser admissível unicamente se for garantida a conformidade com o RGPD.
+      and Minister voor Immigratie, Integratie en Asiel v M and S, cases C-141/12 and C-372/12, ECLI:EU:C:2014:2081,
+      paragraphs 45 and 46 and judgment of 20 December 2017, Novak, case C-434/16, ECLI:EU:C:2017:994,
+      paragraph 56.
 
 
-      6 NÃO CUMPRIMENTO DOS REQUISITOS DO ARTIGO 23.º DO RGPD
-        POR UM ESTADO-MEMBRO
-72.   A Comissão Europeia, na qualidade de Guardiã dos Tratados, tem o dever de acompanhar a aplicação
-      do direito primário e secundário da UE e de garantir a sua aplicação uniforme em toda a UE, incluindo
-      o desenvolvimento de ações nos casos em que as medidas nacionais não cumpram o direito da UE.
-73.   Além disso, em conformidade com o princípio de supremacia do direito da UE, «a referida obrigação
-      de não aplicar uma legislação nacional contrária ao direito da União incumbe não só aos órgãos
-      jurisdicionais nacionais mas também a todos os órgãos do Estado, incluindo as autoridades
-      administrativas, encarregados de aplicar, no âmbito das respetivas competências, o direito da
-      União» 29 .
+      Adopted - after public consultation                    15
+
+      5 CONSULTATION WITH THE SAS (ARTICLES 36(4) AND 57(1)(C)
+        GDPR)
+68.   In accordance with Article 36(4) GDPR, where restrictions are adopted at the level of the Member
+      States, SAs shall be consulted before the adoption of the legislative measure to be adopted by a
+      national parliament, or of a regulatory measure based on such a legislative measure envisaging the
+      restriction of data subjects’ rights under Article 23 GDPR.
+69.   Also, it is within the tasks of the SAs to provide advice on legislative measures relating to the protection
+      of individuals’ rights and freedoms regarding their personal data processing, in accordance with Article
+      57(1)(c) GDPR.
+70.   If SAs are not duly consulted, they can issue under Article 58(3)(b) GDPR on their own initiative opinions
+      to the national parliament, the Member State government or, in accordance with Member State law,
+      to other institutions or bodies as well as to the public on any issue related to the protection of personal
+      data.
+
+71.   In addition, data protection legislation at national level may set out specific procedures regarding the
+      adoption of legislative measures that aim at restricting the rights afforded by Articles 12 to 22 and
+      Article 34 GDPR, in line with Article 23 GDPR. This could be the case only if in line with the GDPR.
 
 
-      7 ELEMENTOS ESPECÍFICOS PARA RESPONSÁVEIS PELO
-        TRATAMENTO E SUBCONTRATANTES
-      7.1. Princípio da responsabilidade
-74.   À luz do princípio da responsabilidade (artigo 5.º, n.º 2, do RGPD) e apesar de não fazer parte dos
-      registos exigidos ao abrigo do artigo 30.º do RGPD, é boa prática que o responsável pelo tratamento
-      documente a aplicação de limitações relativamente a casos concretos, conservando um registo da sua
-      aplicação. Este registo deve incluir os motivos para as limitações, quais o(s) fundamento(s) que se
-      aplica(m) entre os enumerados no artigo 23.º, n.º 1, do RGPD (nos casos em que a medida legislativa
-
-      29Acórdão do Tribunal de Justiça de 4 de dezembro de 2018, Minister for Justice and Equality e The
-      Commissioner of the Garda Síochána/Workplace Relations Commission, C-378/17, ECLI:EU:C:2018:979, n.º 38.
+      6 NON - OBSERVATION OF ARTICLE 23 GDPR REQUIREMENTS BY A
+        MEMBER STATE
+72.   The European Commission, as Guardian of the Treaties, has the duty to monitor the application of EU
+      primary and secondary law and to ensure its uniform application throughout the EU, including by
+      taking actions where national measures would fail to comply with EU law.
+73.   Furthermore, according to the principle of supremacy of EU law, the ‘duty to disapply national
+      legislation that is contrary to EU law is owed not only by national courts, but also by all organs of the
+      State — including administrative authorities — called upon, within the exercise of their respective
+      powers, to apply EU law’ 29 .
 
 
-      Adotadas – após consulta pública                  17
+      7 SPECIFIC ELEMENTS FOR CONTROLLERS AND PROCESSORS
+      7.1 Accountability Principle
+74.   In light of the accountability principle (Article 5(2) GDPR) and although it is not part of the records
+      required under Article 30 GDPR, it is good practice that the controller documents the application of
+      restrictions on concrete cases by keeping a record of their application. This record should include the
+      applicable reasons for the restrictions, which ground(s) among those listed in Article 23(1) GDPR
+      apply(ies) (where the legislative measure allows for restrictions on different grounds), its timing and
+      the outcome of the necessity and proportionality test. The records should be made available on
+      request to the data protection supervisory authority.
+75.   In case the controller has a data protection officer (DPO), the DPO should be informed - at least in a
+      general manner - without undue delay whenever data subject rights are restricted in accordance with
 
-      permita limitações por diferentes fundamentos), o respetivo momento e o resultado da avaliação da
-      necessidade e proporcionalidade. Os registos deverão ser disponibilizados mediante pedido à
-      autoridade de controlo da proteção de dados.
-75.   No caso de o responsável pelo tratamento trabalhar com um encarregado da proteção de dados (EPD),
-      o EPD deve ser informado – pelo menos de uma forma geral –, sem demora injustificada, sempre que
-      os direitos dos titulares dos dados sejam limitados em conformidade com a medida legislativa. O EPD
-      deve ter acesso aos registos associados de quaisquer documentos relativos ao contexto factual ou
-      jurídico no qual a limitação ocorre. O envolvimento do EPD na aplicação das limitações também deve
-      ser documentado.
-
-      7.2 Exercício dos direitos dos titulares dos dados após anulação da limitação
-76.   O responsável pelo tratamento deve anular as limitações assim que deixem de se aplicar as
-      circunstâncias que as justificam. Se os titulares dos dados ainda não tiverem sido informados das
-      limitações até ao momento, devem-no ser pelo menos aquando da anulação da limitação.
-77.   Durante a aplicação de uma limitação, pode ser permitido aos titulares dos dados o exercício de todos
-      os seus direitos que não estejam limitados. Para avaliar o momento em que a limitação pode ser parcial
-      ou integralmente anulada, deve ser efetuado uma avaliação da necessidade e proporcionalidade várias
-      vezes durante a aplicação de uma limitação.
-78.   Aquando da anulação da limitação – que deve ser documentada no registo mencionado na secção 5 –
-      os titulares dos dados podem exercer todos os seus direitos.
-79.   Se o responsável pelo tratamento não permitir que os titulares dos dados exerçam os seus direitos
-      após a anulação da limitação, o titular dos dados pode apresentar uma reclamação à AC contra o
-      responsável pelo tratamento, em conformidade com o artigo 57.º, n.º 1, alínea f), do RGPD.
-
-      7.3 Não cumprimento de uma medida legislativa que impõe tais limitações por um
-      responsável pelo tratamento
-80.   Se as medidas legislativas que impõem limitações nos termos do artigo 23.º do RGPD estiverem em
-      conformidade com o RGPD, mas forem violadas por um responsável pelo tratamento, as AC podem
-      utilizar os seus poderes consultivos, de investigação e de correção para contrariar essa violação, como
-      em qualquer outro caso de não cumprimento das regras do RGPD.
-81.   Em conformidade com os poderes previstos no artigo 58.º, n.º 1, do RGPD, as AC dispõem dos
-      seguintes poderes de investigação:
-
-      •     ordenar que o responsável pelo tratamento e o subcontratante e, se existir, o seu representante,
-            lhe forneçam as informações de que necessite para o desempenho das suas funções,
-      •     realizar investigações sob a forma de auditorias sobre a proteção de dados,
-      •     Notificar o responsável pelo tratamento ou o subcontratante de alegadas violações do RGPD,
-      •     obter, da parte do responsável pelo tratamento e do subcontratante, acesso a todos os dados
-            pessoais e a todas as informações necessárias ao exercício das suas funções,
-      •     obter acesso a todas as instalações do responsável pelo tratamento e do subcontratante,
-            incluindo os equipamentos e meios de tratamento de dados, em conformidade com o direito
-            processual da União ou dos Estados-Membros.
+      29
+           CJEU, judgment 4 December 2018, Case C-378/17, ECLI:EU:C:2018:979, paragraph 38.
 
 
-82.   Se for necessário aplicar medidas corretivas, em conformidade com o artigo 58.º, n.º 2, do RGPD, as
-      AC podem:
+      Adopted - after public consultation                  16
+
+      the legislative measure. The DPO should be given access to the associated records and any documents
+      concerning the factual or legal context in which the restriction takes place. The involvement of the
+      DPO in the application of restrictions should also be documented.
+
+      7.2 Exercise of data subject’s rights after the lifting of the restriction
+76.   The controller should lift the restrictions as soon as the circumstances that justify them no longer
+      apply. If the data subjects have not yet been informed of the restrictions before that moment, they
+      should be at the latest when the restriction is lifted.
+
+77.   During the application of a restriction, data subjects may be allowed to exercise all their rights, that
+      are not restricted. In order to assess when the restriction can be partially or integrally lifted, a necessity
+      and proportionality test may be performed several times during the application of a restriction.
+78.   When the restriction is lifted - which should be documented in the record mentioned in section 5 -
+      data subjects can exercise all their rights.
+79.   If the controller does not allow data subjects to exercise their rights after the restriction has been
+      lifted, the data subject can submit a complaint to the SA against the controller, in accordance with
+      Article 57(1)(f) GDPR.
+
+      7.3 Non-observation of a legislative measure imposing such restrictions by a controller
+80.   Where the legislative measures imposing restrictions under Article 23 GDPR comply with the GDPR but
+      are infringed by a controller, SAs can make use of their advisory, investigative and corrective powers
+      against it, as in any other case of non-observation of GDPR rules.
+81.   In accordance with the powers foreseen in Article 58(1) GDPR, the SAs have the following investigative
+      powers:
+
+      •     order the controller and the processor, and, where applicable, the controller’s or processor's
+            representative to provide any information it requires for the performance of its tasks;
+      •     carry out investigations in the form of data protection audits;
+      •     notify the controller or the processor of an alleged infringement of the GDPR;
+      •     obtain, from the controller and the processor, access to all personal data and to all information
+            necessary for the performance of its tasks;
+      •     obtain access to any premises of the controller and the processor, including to any data
+            processing equipment and means, in accordance with Union or Member State procedural law.
 
 
-
-      Adotadas – após consulta pública                  18
-
-      •     fazer advertências ao responsável pelo tratamento ou ao subcontratante no sentido de que as
-            operações de tratamento previstas são suscetíveis de violar as disposições do RGPD,
-      •     repreender o responsável pelo tratamento ou o subcontratante sempre que operações de
-            tratamento tenham violado as disposições do RGPD,
-      •     ordenar que o responsável pelo tratamento ou o subcontratante satisfaçam os pedidos
-            apresentados pelos titulares dos dados para poderem exercer os seus direitos nos termos do
-            RGPD,
-      •     ordenar ao responsável pelo tratamento ou ao subcontratante que tome medidas para que as
-            operações de tratamento cumpram as disposições do RGPD e, se necessário, de uma forma
-            específica e dentro de um prazo determinado,
-      •     ordenar ao responsável pelo tratamento que comunique ao titular dos dados uma violação de
-            dados pessoais,
-      •     impor uma limitação temporária ou definitiva ao tratamento de dados, ou mesmo a sua
-            proibição,
-      •     ordenar a retificação ou o apagamento de dados pessoais ou a limitação do tratamento nos
-            termos dos artigos 16.º, 17.º e 18.º do RGPD, bem como a notificação dessas medidas aos
-            destinatários a quem tenham sido divulgados os dados pessoais nos termos do artigo 17.º, n.º 2,
-            e do artigo 19.º do RGPD,
-      •     impor uma coima nos termos do artigo 83.º, para além ou em vez das medidas referidas no
-            artigo 58.º, n.º 2, do RGPD, consoante as circunstâncias de cada caso,
-      •     ordenar a suspensão do envio de dados para destinatários em países terceiros ou para
-            organizações internacionais.
+82.   If corrective measures need to be applied, the SAs can in accordance with Article 58(2) GDPR:
+      •     issue warnings to a controller or processor that intended processing operations are likely to
+            infringe provisions of the GDPR;
+      •     issue reprimands to a controller or a processor where processing operations have infringed
+            provisions of the GDPR;
+      •     order the controller or the processor to comply with the data subject's requests to exercise his
+            or her rights pursuant to the GDPR;
+      •     order the controller or processor to bring processing operations into compliance with the
+            provisions of the GDPR, where appropriate, in a specified manner and within a specified period;
+      •     order the controller to communicate a personal data breach to the data subject;
+      •     impose a temporary or definitive limitation including a ban on processing;
+      •     order the rectification or erasure of personal data or restriction of processing pursuant to
+            Articles 16, 17 and 18 GDPR and the notification of such actions to recipients to whom the
+            personal data have been disclosed pursuant to Article 17(2) and Article 19 GDPR;
 
 
-83.   No que diz respeito aos poderes consultivos das AC previstos no artigo 58.º, n.º 3, do RGPD, estas
-      podem:
-      •     aconselhar os responsáveis pelo tratamento, em conformidade com o procedimento de
-            consulta prévia referido no artigo 36.º, n.os 1 e 5, do RGPD,
-      •     autorizar o tratamento previsto no artigo 36.º, n.º 5, do RGPD, se a lei do Estado-Membro exigir
-            tal autorização prévia.
+      Adopted - after public consultation                  17
+
+      •     impose an administrative fine pursuant to Article 83, in addition to, or instead of measures
+            referred to in Article 58(2) GDPR, depending on the circumstances of each individual case;
+      •     order the suspension of data flows to a recipient in a third country or to an international
+            organisation.
 
 
-      8 CONCLUSÕES
-84.   O artigo 23.º do RGPD permite, em condições específicas, a um legislador nacional ou da União limitar
-      por medida legislativa o alcance das obrigações e dos direitos previstos nos artigos 12.º a 22.º e 34.º,
-      bem como no artigo 5.º do RGPD, na medida em que tais disposições correspondam aos direitos e
-      obrigações previstos nos artigos 12.º a 22.º, desde que tal limitação respeite a essência dos direitos e
-      liberdades fundamentais e constitua uma medida necessária e proporcionada numa sociedade
-      democrática para assegurar, designadamente, objetivos importantes de interesse público geral da
-      União ou de um Estado-Membro.
-85.   As limitações dos direitos dos titulares dos dados devem respeitar os requisitos referidos no artigo 23.º
-      do RGPD. Os Estados-Membros ou a União, ao emitirem medidas legislativas que estabelecem tais
-      limitações, e os responsáveis pelo tratamento que as aplicam devem conhecer a natureza excecional
-      destas limitações.
-86.   A avaliação da proporcionalidade deve ser realizada antes da aplicação de limitações do direito da
-      União ou do Estado-Membro aos direitos dos titulares de dados.
+83.   Regarding the SAs advisory powers foreseen in Article 58(3) GDPR, they can:
+
+      •     advice the controllers in accordance with the prior consultation procedure referred to in Article
+            36(1) and (5) GDPR;
+      •     authorise processing referred to in Article 36(5) GDPR, if the law of the Member State requires
+            such prior authorisation.
+
+
+      8 CONCLUSIONS
+84.   Article 23 GDPR allows under specific conditions, a national or Union legislator to restrict, by way of a
+      legislative measure, the scope of the obligations and rights provided for in Articles 12 to 22 and
+      Article 34, as well as Article 5 GDPR in so far as its provisions correspond to the rights and obligations
+      provided for in Articles 12 to 22, when such a restriction respects the essence of the fundamental rights
+      and freedoms and is a necessary and proportionate measure in a democratic society to safeguard,
+      inter alia, important objectives of general public interest of the Union or of a Member State.
+
+85.   Restrictions of data subjects’ rights need to observe the requirements stated in Article 23 GDPR. The
+      Member States or the Union issuing the legislative measures setting those restrictions and the
+      controllers applying them should be aware of the exceptional nature of these restrictions.
+
+86.   The proportionality test should be carried out before introducing in Union or Member State law
+      restrictions on the rights of data subjects.
+87.   SAs should be consulted before the adoption of the legislative measures setting the restrictions and
+      have the powers to enforce its compliance with the GDPR.
+88.   Once restrictions are lifted, data subjects must be allowed to exercise their rights by the controller.
 
 
 
 
-      Adotadas – após consulta pública                   19
+      Adopted - after public consultation                18
 
-87.   As AC devem ser consultadas antes da adoção das medidas legislativas que estabelecem as limitações
-      e dispõem dos poderes para impor a sua conformidade com o RGPD.
-88.   Após a anulação das limitações, o responsável pelo tratamento tem de permitir aos titulares dos dados
-      exercer os seus direitos.
-
-
-
-
-      Adotadas – após consulta pública                 20
-
-9 ANEXO: LISTAS DE VERIFICAÇÃO – ARTIGO 23.º DO RGPD EM
-  RESUMO
-9.1 Requisitos do artigo 23.º, n.º 1, do RGPD
-       i.   Respeito da essência dos direitos e liberdades fundamentais;
-      ii.   Avaliação da proporcionalidade e necessidade;
-     iii.   Medidas legislativas que estabelecem limitações e necessidade de ser previsível
-            (considerando 41 e jurisprudência do TJUE);
-     iv.    Direitos dos titulares dos dados e obrigações do responsável pelo tratamento suscetíveis
-            de serem limitados:
-                a) Direito à transparência das informações (artigo 12.º do RGPD);
-                b) Direito à informação (artigos 13.º e 14.º do RGPD);
-                c) Direito de acesso (artigo 15.º do RGPD);
-                d) Direito de retificação (artigo 16.º do RGPD);
-                e) Direito de apagamento (artigo 17.º do RGPD);
-                f) Direito à limitação do tratamento (artigo 18.º do RGPD);
-                g) Obrigação de notificação da retificação ou apagamento dos dados pessoais ou
-                    limitação do tratamento (artigo 19.º do RGPD);
-                h) Direito de portabilidade dos dados (artigo 20.º do RGPD);
-                i) Direito de oposição (artigo 21.º do RGPD);
-                j) Direito de não ficar sujeito a nenhuma decisão tomada exclusivamente com base
-                    no tratamento automatizado (artigo 22.º do RGPD);
-                k) Obrigações previstas nos artigos 12.º a 22.º do RGPD (artigo 5.º do RGPD); e
-                l) Comunicação de uma violação de dados pessoais ao titular dos dados
-                    (artigo 34.º do RGPD)
-      v.    Fundamentos das limitações:
-                a) Segurança do Estado;
-                b) Defesa;
-                c) Segurança pública;
-                d) A prevenção, investigação, deteção ou repressão de infrações penais ou a
-                    execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à
-                    segurança pública;
-                e) Outros objetivos importantes do interesse público geral da União ou de um
-                    Estado-Membro, nomeadamente um interesse económico ou financeiro
-                    importante da União ou de um Estado-Membro, incluindo nos domínios
-                    monetário, orçamental ou fiscal, da saúde pública e da segurança social;
-                f) A defesa da independência judiciária e dos processos judiciais;
-                g) A prevenção, investigação, deteção e repressão de violações da deontologia de
-                    profissões regulamentadas;
-                h) Uma missão de controlo, de inspeção ou de regulamentação associada, ainda
-                    que ocasionalmente, ao exercício da autoridade pública, nos casos referidos nas
-                    alíneas a) a e) e g);
-                i) A defesa do titular dos dados ou dos direitos e liberdades de outrem;
-                j) A execução de ações cíveis.
+9 ANNEX: CHECK-LISTS - ARTICLE 23 GDPR IN A NUTSHELL
+9.1 Requirements under Article 23(1) GDPR
+       i.   Respect of the essence of the fundamental rights and freedoms
+      ii.   Proportionality and necessity test
+     iii.   Legislative measures laying down restrictions and the need to be foreseeable (Recital 41
+            and CJEU case law)
+     iv.    Data subjects’ rights and controller’s obligations which may be restricted
+                a) the right to transparent information (Article 12 GDPR),
+                b) right to information (Articles 13 and 14 GDPR),
+                c) right of access (Article 15 GDPR),
+                d) right to rectification (Article 16 GDPR),
+                e) right to erasure (Article 17 GDPR),
+                f) right to restriction of processing (Article 18 GDPR),
+                g) notification obligation regarding rectification or erasure of personal data or
+                     restriction of processing (Article 19 GDPR),
+                h) right to data portability (Article 20 GDPR),
+                i) right to object (Article 21 GDPR),
+                j) right not to be subject to an automated individual decision making (Article 22
+                     GDPR)
+                k) obligations provided in Article 12 to 22 GDPR (Article 5 GDPR) and
+                l) the communication of a personal data breach to the data subjects (Article 34
+                     GDPR)
+      v.    Grounds for the restrictions
+                a) national security;
+                b) defence;
+                c) public security;
+                d) the prevention, investigation, detection or prosecution of criminal offences or
+                     the execution of criminal penalties, including the safeguarding against and the
+                     prevention of threats to public security;
+                e) other important objectives of general public interest of the Union or of a
+                     Member State, in particular an important economic or financial interest of the
+                     Union or of a Member State, including monetary, budgetary and taxation a
+                     matters, public health and social security;
+                f) the protection of judicial independence and judicial proceedings;
+                g) the prevention, investigation, detection and prosecution of breaches of ethics for
+                     regulated professions;
+                h) a monitoring, inspection or regulatory function connected, even occasionally, to
+                     the exercise of official authority in the cases referred to in points (a) to (e) and
+                     (g);
+                i) the protection of the data subject or the rights and freedoms of others;
+                j) the enforcement of civil law claims.
 
 
-9.2 Requisitos do artigo 23.º, n.º 2, do RGPD
-       i.   As finalidades do tratamento ou as diferentes categorias de tratamento;
-      ii.   As categorias de dados pessoais;
-     iii.   O alcance das limitações impostas;
+9.2 Requirements under Article 23(2) GDPR
+       i.   The purposes of the processing or categories of processing;
+      ii.   The categories of personal data;
+     iii.   The scope of the restrictions introduced;
+     iv.    The safeguards to prevent abuse or unlawful access or transfer;
+      v.    The specification of the controller or categories of controllers;
 
 
 
-Adotadas – após consulta pública                21
+Adopted - after public consultation                19
 
-     iv.    As garantias para evitar o abuso ou o acesso ou transferência ilícitos;
-      v.    A especificação do responsável pelo tratamento ou as categorias de responsáveis pelo
-            tratamento;
-     vi.    Os prazos de conservação e as garantias aplicáveis, tendo em conta a natureza, o âmbito
-            e os objetivos do tratamento ou das categorias de tratamento;
-    vii.    Os riscos específicos para os direitos e liberdades dos titulares dos dados; e
-    viii.   O direito dos titulares dos dados a serem informados da limitação, a menos que tal possa
-            prejudicar o objetivo da limitação.
+     vi.    The storage periods and the applicable safeguards taking into account the nature, scope
+            and purposes of the processing or categories of processing;
+    vii.    The risks to the rights and freedoms of data subjects; and
+    viii.   The right of data subjects to be informed about the restriction, unless that may be
+            prejudicial to the purpose of the restriction.
 
 
 
 
-Adotadas – após consulta pública                 22
+Adopted - after public consultation              20
 ```

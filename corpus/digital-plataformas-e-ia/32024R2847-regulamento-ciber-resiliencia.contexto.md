@@ -1,7 +1,7 @@
 ---
 celex: 32024R2847
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32024R2847 — Regulamento Ciber-Resiliência — contexto

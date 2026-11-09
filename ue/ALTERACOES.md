@@ -1490,3 +1490,114 @@
 - OK: 770 actos em vigor por confirmar no Cellar: 31962H0623(04), 31992H0241, 31992H0441, 31998H0257, 32001H0483, 32005H0292, 32005H0309, 32005H0601, 32006H0525(01), 32008H0103
 - OK: consolidado_ate do catálogo coincide com as versões consolidadas em todos os actos
 - OK: 15 títulos de regulamentos/diretivas/decisões desde 2015 sem o número do acto (limite 50): 32015D1890, 32019D0485, 32019D1355, 32019D1721, 32019D2174
+
+## 2026-11-09
+
+- 94 actos novos ou com nova versão consolidada
+- 2 ficheiros removidos (actos que deixaram de estar em vigor)
+  - actualizado: 22003A1219(01)
+  - actualizado: 32002F0584
+  - actualizado: 32004R0261
+  - actualizado: 32008R0340
+  - actualizado: 32009R0703
+  - actualizado: 32009R1284
+  - actualizado: 32010D0638
+  - actualizado: 32011L0061
+  - actualizado: 32011L0065
+  - actualizado: 32011R0142
+  - actualizado: 32011R0349
+  - actualizado: 32012R0231
+  - actualizado: 32013R0149
+  - actualizado: 32014L0032
+  - actualizado: 32014L0041
+  - actualizado: 32015R0758
+  - actualizado: 32016R1139
+  - actualizado: 32016R2070
+  - actualizado: 32017D1869
+  - actualizado: 32017R0392
+  - actualizado: 32017R0587
+  - actualizado: 32017R0745
+  - actualizado: 32017R1509
+  - actualizado: 32018R1229
+  - actualizado: 32018R1861
+  - actualizado: 32019L2161
+  - actualizado: 32020D0472
+  - actualizado: 32021R0405
+  - actualizado: 32023R0265
+  - actualizado: 32023R0823
+  - actualizado: 32024R2750
+  - actualizado: 32025D0680
+  - actualizado: 32025L0001
+  - actualizado: 32025M11602
+  - actualizado: 32025R0666
+  - actualizado: 32025R1569
+  - actualizado: 32025R1706
+  - actualizado: 32025R2351
+  - actualizado: 32026B2254
+  - actualizado: 32026D05299
+  - actualizado: 32026D05943
+  - actualizado: 32026D05944
+  - actualizado: 32026D1108
+  - actualizado: 32026D1814
+  - actualizado: 32026D2316
+  - actualizado: 32026D2404
+  - actualizado: 32026D2405
+  - actualizado: 32026D2413
+  - actualizado: 32026D2468
+  - actualizado: 32026D2469
+  - actualizado: 32026D2475
+  - actualizado: 32026D2482
+  - actualizado: 32026D2483
+  - actualizado: 32026D2484
+  - actualizado: 32026D2493
+  - actualizado: 32026D2494
+  - actualizado: 32026D2495
+  - actualizado: 32026H05593
+  - actualizado: 32026H2394
+  - actualizado: 32026L2325
+  - actualizado: 32026L2383
+  - actualizado: 32026M12600
+  - actualizado: 32026M12661
+  - actualizado: 32026R0397
+  - actualizado: 32026R1512
+  - actualizado: 32026R1519
+  - actualizado: 32026R1536
+  - actualizado: 32026R1741
+  - actualizado: 32026R2228
+  - actualizado: 32026R2266
+  - actualizado: 32026R2289
+  - actualizado: 32026R2290
+  - actualizado: 32026R2293
+  - actualizado: 32026R2298
+  - actualizado: 32026R2299
+  - actualizado: 32026R2301
+  - actualizado: 32026R2302
+  - actualizado: 32026R2307
+  - actualizado: 32026R2309
+  - actualizado: 32026R2337
+  - actualizado: 32026R2381
+  - actualizado: 32026R2382
+  - actualizado: 32026R2387
+  - actualizado: 32026R2389
+  - actualizado: 32026R2401
+  - actualizado: 32026R2406
+  - actualizado: 32026R2409
+  - actualizado: 32026R2467
+  - actualizado: 32026R2473
+  - actualizado: 32026R2474
+  - actualizado: 32026R2476
+  - actualizado: 32026R2490
+  - actualizado: 32026R2496
+  - actualizado: 42026X0139
+  - removido: ue/decisoes/2026/32026D1833.md (fim de validade a 2026-11-07)
+  - removido: ue/decisoes/2022/32022D0607.md (fim de validade a 2026-11-04)
+
+### Verificação automática (2026-11-09)
+
+- **Aviso:** 2 actos 'em vigor (por confirmar)' há mais de 30 dias sem o Cellar os marcar: 32026D2306, 32026L0806
+- OK: 65288 actos em ue/INDICE.tsv, todos com ficheiro, e nenhum ficheiro sem linha
+- OK: número de actos: 65254 no último commit, 65288 agora
+- OK: 2 actos saem por já não estarem em vigor, todos com prova: 32022D0607 (fim de validade a 2026-11-04); 32026D1833 (fim de validade a 2026-11-07)
+- OK: 774 actos em vigor por confirmar no Cellar: 31962H0623(04), 31992H0241, 31992H0441, 31998H0257, 32001H0483, 32005H0292, 32005H0309, 32005H0601, 32006H0525(01), 32008H0103
+- OK: consolidado_ate do catálogo coincide com as versões consolidadas em todos os actos
+- OK: 15 títulos de regulamentos/diretivas/decisões desde 2015 sem o número do acto (limite 50): 32015D1890, 32019D0485, 32019D1355, 32019D1721, 32019D2174

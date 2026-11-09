@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34455475
 eli: https://data.dre.pt/eli/dec-lei/18/2008/p/cons/20260904/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Decreto-Lei n.º 18/2008
@@ -1084,15 +1084,11 @@ As entidades adjudicantes não devem iniciar procedimentos de formação de cont
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 37.º — Decisão de contratar nas parcerias públicas-privadas
+### Artigo 37.º — Decisão de contratar nas parcerias público-privadas
 
-Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure, nos termos de legislação própria, uma parceria público-privada, a decisão de contratar compete, conjuntamente, ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso.
+Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure, nos termos de legislação própria, uma parceria público-privada, a decisão de contratar compete, conjuntamente, ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo ou ao membro do Governo Regional da tutela sectorial, consoante o caso.
 
-> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
-
-> Alterado pelo/a Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19, em vigor a partir de 2020-03-19
-
-> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04, em vigor a partir de 2019-12-05
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 > Nota: Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19 Em virtude da cessação de vigência do Decreto-Lei n.º 170/2019, de 4 de dezembro, que procede à décima primeira alteração ao Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, operada pela Resolução da Assembleia da República n.º 16/2020, de 19 de março, é repristinado o artigo 37.º na redação do Decreto-Lei n.º 18/2008, de 29 de janeiro.
 
@@ -1190,9 +1186,11 @@ Sem prejuízo do disposto no artigo 42.º, os cadernos de encargos dos procedime
 
 > Rectificado pelo/a Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28, em vigor a partir de 2008-07-30
 
-### Artigo 45.º — Caderno de encargos das parcerias públicas-privadas
+### Artigo 45.º — Caderno de encargos das parcerias público-privadas
 
-Os cadernos de encargos dos procedimentos de formação de contratos que configurem parcerias públicas-privadas devem submeter à concorrência os aspectos da sua execução relativos aos encargos para a entidade adjudicante e aos riscos a ela directa ou indirectamente afectos decorrentes da configuração do modelo contratual.
+Os cadernos de encargos dos procedimentos de formação de contratos que configurem parcerias público-privadas devem submeter à concorrência os aspetos da sua execução relativos aos encargos para a entidade adjudicante e aos riscos a ela direta ou indiretamente afetos decorrentes da configuração do modelo contratual.
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 ### Artigo 46.º — Formulários de caderno de encargos
 
@@ -3942,13 +3940,13 @@ b) Com várias entidades, quando neles não estejam totalmente contemplados ou n
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-### Artigo 258.º — Celebração de contratos ao abrigo de acordos quadro cujos termos abranjam todos os seus aspectos submetidos à concorrência
+### Artigo 258.º — Celebração de contratos ao abrigo de acordos-quadro cujos termos abranjam todos os seus aspetos submetidos à concorrência
 
-1 - Deve adoptar-se o ajuste directo para a formação de contratos a celebrar ao abrigo de acordos quadro celebrados na modalidade prevista na alínea a) do n.º 1 do artigo 252.º 2 - Quando exista mais do que um cocontratante no acordo-quadro, o adjudicatário é selecionado de acordo com os critérios objetivos estabelecidos no caderno de encargos do acordo-quadro, não havendo reabertura da concorrência. 3 - O conteúdo dos contratos a que se refere o n.º 1 deve corresponder às condições contratuais estabelecidas no acordo-quadro, não sendo necessária a elaboração de um caderno de encargos. 4 - Caso tal se revele necessário, a entidade adjudicante pode solicitar ao cocontratante do acordo-quadro que pormenorize aspetos constantes da sua proposta.
+1 - Deve adotar-se o ajuste direto para a formação de contratos a celebrar ao abrigo de acordos-quadro na modalidade prevista na alínea a) do n.º 1 do artigo 252.º 2 - Quando exista mais do que um cocontratante no acordo-quadro, o adjudicatário é selecionado de acordo com os critérios objetivos estabelecidos no caderno de encargos do acordo-quadro, não havendo reabertura da concorrência. 3 - O conteúdo dos contratos a que se refere o n.º 1 deve corresponder às condições contratuais estabelecidas no acordo-quadro, não sendo necessária a elaboração de um caderno de encargos. 4 - Caso tal se revele necessário, a entidade adjudicante pode solicitar ao cocontratante do acordo-quadro que pormenorize aspetos constantes da sua proposta.
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
-### Artigo 259.º — Celebração de contratos ao abrigo de acordos quadro cujos termos não abranjam todos os seus aspectos submetidos à concorrência
+### Artigo 259.º — Celebração de contratos ao abrigo de acordos-quadro cujos termos não abranjam todos os seus aspetos submetidos à concorrência
 
 1 - Deve adotar-se o procedimento de consulta prévia para a formação de contratos a celebrar ao abrigo de acordos-quadro na modalidade prevista na alínea b) do n.º 1 do artigo 252.º 2 - O caderno de encargos do acordo-quadro deve prever as regras quanto aos cocontratantes a convidar em cada procedimento, designadamente em função do lote, se existente, ou do valor do contrato a celebrar. 3 - Quando o caderno de encargos do acordo-quadro preveja que a adjudicação da proposta seja determinada apenas com base no preço ou custo e a aquisição seja realizada através de sistemas de informação disponibilizados pela própria entidade adjudicante, ficam dispensadas outras formalidades previstas no presente Código, designadamente a elaboração de relatórios preliminar e final e audiência prévia. 4 - A entidade adjudicante deve convidar os cocontratantes do acordo-quadro a apresentar propostas circunscritas: a) Aos termos do acordo-quadro, concretizando, desenvolvendo ou complementando em virtude das particularidades da necessidade cuja satisfação se visa com a celebração do contrato; ou b) Aos aspetos da execução do contrato a celebrar submetidos à concorrência pelo caderno de encargos do acordo-quadro para os efeitos do procedimento de formação do contrato a celebrar ao seu abrigo. 5 - O convite deve indicar o prazo e o modo de apresentação das propostas, os termos ou aspetos referidos no número anterior e o critério de adjudicação de acordo com as regras para o efeito definidas no caderno de encargos de formação do acordo-quadro, não sendo necessária a elaboração de um caderno de encargos. 6 - O convite pode ainda prever a realização de leilão eletrónico, aplicando-se, com as necessárias adaptações, os artigos 140.º a 145.º 7 - Sempre que o critério de adjudicação adotado em função do disposto no caderno de encargos do acordo-quadro seja o da proposta economicamente mais vantajosa, na modalidade prevista na alínea a) do n.º 1 do artigo 74.º, é ainda aplicável o disposto no artigo 139.º
 
@@ -4888,41 +4886,35 @@ Nos contratos com objecto passível de acto administrativo e demais contratos so
 
 > Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
 
-## Secção III — Execução e modificação de parcerias públicas-privadas
+## Secção III — Execução e modificação de parcerias público-privadas
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 ### Artigo 339.º — Dever de informação
 
-Quando o serviço ou a entidade que represente o contraente público na execução do contrato que configure uma parceria pública-privada tomar conhecimento de situações susceptíveis de gerarem encargos adicionais para o parceiro público ou para o Estado, designadamente os decorrentes de atrasos imputáveis a entidades públicas intervenientes na respectiva implementação ou execução, devem, de imediato, comunicar tais factos ao ministro responsável pela área das finanças e ao ministro da tutela, indicando, sempre que possível, os valores estimados envolvidos.
+Quando o serviço ou a entidade que represente o contraente público na execução do contrato que configure uma parceria público-privada tomar conhecimento de situações suscetíveis de gerarem encargos adicionais para o parceiro público ou para o Estado, designadamente os decorrentes de atrasos imputáveis a entidades públicas intervenientes na respetiva implementação ou execução, devem, de imediato, comunicar tais factos ao membro do Governo responsável pela área das finanças e ao membro do Governo da tutela, indicando, sempre que possível, os valores estimados envolvidos.
 
-### Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias públicas-privadas
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
-1 - Nos contratos que configurem uma parceria pública-privada, compete ao ministro ou ao membro do Governo Regional responsável pela área das finanças ou ao ministro ou ao membro do Governo Regional da tutela sectorial, consoante o caso:
+### Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias público-privadas
 
-a) O exercício de poderes de fiscalização;
+1 - Nos contratos que configurem uma parceria público-privada, compete ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças ou ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso: a) O exercício de poderes de fiscalização; b) O acompanhamento do contrato, tendo por objetivo a avaliação dos seus custos e riscos, bem como a melhoria do processo de constituição de novas parcerias público-privadas. 2 - A modificação do contrato que configure uma parceria público-privada depende de decisão conjunta dos membros do Governo ou dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela setorial. 3 - No âmbito da administração indireta do Estado ou das Regiões Autónomas, a decisão de modificação depende de parecer favorável do membro do Governo ou do membro do Governo Regional da tutela setorial.
 
-b) O acompanhamento do contrato, tendo por objectivo a avaliação dos seus custos e riscos, bem como a melhoria do processo de constituição de novas parcerias públicas-privadas.
-
-2 - A modificação do contrato que configure uma parceria pública-privada depende de decisão conjunta dos ministros ou dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela sectorial.
-
-3 - No âmbito da administração indirecta do Estado ou das Regiões Autónomas, a decisão de modificação depende de parecer favorável do ministro ou do membro do Governo Regional da tutela sectorial.
-
-> Alterado pelo/a Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19, em vigor a partir de 2020-03-19
-
-> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04, em vigor a partir de 2019-12-05
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 > Nota: Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19 Em virtude da cessação de vigência do Decreto-Lei n.º 170/2019, de 4 de dezembro, que procede à décima primeira alteração ao Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, operada pela Resolução da Assembleia da República n.º 16/2020, de 19 de março, é respristinado o artigo 340.º na redação do Decreto-Lei n.º 18/2008, de 29 de janeiro.
 
 ### Artigo 341.º — Partilha de benefícios
 
-1 - Nos contratos que configurem uma parceria pública-privada, sempre que ocorrer um acréscimo anormal e imprevisível dos benefícios financeiros para o co-contratante que não resulte da sua eficiente gestão e das oportunidades por si criadas, há lugar à partilha equitativa desses benefícios entre o co-contratante e o contraente público.
+1 - Nos contratos que configurem uma parceria público-privada, sempre que ocorrer um acréscimo anormal e imprevisível dos benefícios financeiros para o cocontratante que não resulte da sua eficiente gestão e das oportunidades por si criadas, há lugar à partilha equitativa desses benefícios entre o cocontratante e o contraente público. 2 - Na falta de estipulação contratual, a partilha equitativa dos benefícios financeiros deve ser efetuada através da revisão de preços ou da assunção, por parte do cocontratante, do dever de prestar ao contraente público o valor correspondente ao acréscimo das receitas ou ao decréscimo dos encargos previstos com a execução do contrato.
 
-2 - Na falta de estipulação contratual, a partilha equitativa dos benefícios financeiros deve ser efectuada através da revisão de preços ou da assunção, por parte do co-contratante, do dever de prestar ao contraente público o valor correspondente ao acréscimo das receitas ou ao decréscimo dos encargos previstos com a execução do contrato.
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 ### Artigo 342.º — Acompanhamento de processos arbitrais
 
-1 - Quando, nos termos do contrato que configure uma parceria pública-privada, seja requerida a constituição de um tribunal arbitral para a resolução de litígios entre as partes, o respectivo contraente público deve comunicar imediatamente ao ministro ou ao membro do Governo Regional responsável pela área das finanças ou ao ministro ou ao membro do Governo Regional da tutela sectorial, consoante o caso, a ocorrência desse facto, fornecendo todos os elementos que se revelem úteis ao acompanhamento do processo arbitral.
+1 - Quando, nos termos do contrato que configure uma parceria público-privada, seja requerida a constituição de um tribunal arbitral para a resolução de litígios entre as partes, o respetivo contraente público deve comunicar imediatamente ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças ou ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso, a ocorrência desse facto, fornecendo todos os elementos que se revelem úteis ao acompanhamento do processo arbitral. 2 - Devem ser remetidas, periodicamente, à entidade diretamente incumbida de proceder ao acompanhamento do respetivo processo arbitral cópias dos atos processuais que sejam entretanto praticados por qualquer das partes e pelo tribunal, bem como dos pareces técnicos e jurídicos e quaisquer outros elementos relevantes para a compreensão, desenvolvimento ou desfecho da lide.
 
-2 - Devem ser remetidas, periodicamente, à entidade directamente incumbida de proceder ao acompanhamento do respectivo processo arbitral cópias dos actos processuais que sejam entretanto praticados por qualquer das partes e pelo tribunal, bem como dos pareces técnicos e jurídicos e quaisquer outros elementos relevantes para a compreensão, desenvolvimento ou desfecho da lide.
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 ## Título II — Contratos administrativos em especial
 
@@ -5222,7 +5214,7 @@ A suspensão é sempre formalizada em auto, cujo conteúdo deve compreender, no 
 
 > Alterado pelo/a Artigo 21.º do/a Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21, em vigor a partir de 2021-06-20
 
-> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 ### Artigo 373.º — Preço e prazo de execução dos trabalhos complementares
 
@@ -5630,29 +5622,15 @@ Da conta final da empreitada devem constar os seguintes elementos: a) Uma conta 
 
 ### Artigo 405.º — Resolução pelo dono da obra
 
-1 - Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o dono da obra pode resolver o contrato nos seguintes casos: a) Se o empreiteiro, de forma grave ou reiterada, não cumprir o disposto na legislação sobre segurança, higiene e saúde no trabalho; b) Se, tendo faltado à consignação sem justificação aceite pelo dono da obra, o empreiteiro não comparecer, após segunda notificação, no local, na data e na hora indicados pelo dono da obra para nova consignação desde que não apresente justificação de tal falta aceite pelo dono da obra; c) Se ocorrer um atraso no início da execução dos trabalhos imputável ao empreiteiro que seja superior a 1/40 do prazo de execução da obra; d) Se o empreiteiro não der início à execução dos trabalhos a mais decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução; e) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público; f) Se ocorrerem desvios ao plano de trabalhos e o empreiteiro não apresentar um plano de trabalhos modificado nos termos do disposto no n.º 2 do artigo 404.º; g) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º, sem prejuízo do disposto na alínea anterior; h) Se não foram corrigidos os defeitos detectados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º 2 - Em caso de resolução, o dono da obra deve informar, no prazo de 10 dias após ato de resolução se tornar inimpugnável, o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., para publicitação de tal facto na área pública do portal dos contratos públicos, e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho. 3 - O Instituto da Construção e do Imobiliário, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro. 4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da actividade de construção. 5 - Resolvido o contrato, o dono da obra toma logo, com a assistência do empreiteiro, posse administrativa da obra.
+1 - Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o dono da obra pode resolver o contrato nos seguintes casos: a) Se o empreiteiro, de forma grave ou reiterada, não cumprir o disposto na legislação sobre segurança, higiene e saúde no trabalho; b) Se, tendo faltado à consignação sem justificação aceite pelo dono da obra, o empreiteiro não comparecer, após segunda notificação, no local, na data e na hora indicados pelo dono da obra para nova consignação desde que não apresente justificação de tal falta aceite pelo dono da obra; c) Se ocorrer um atraso no início da execução dos trabalhos imputável ao empreiteiro que seja superior a 1/40 do prazo de execução da obra; d) Se o empreiteiro não der início à execução dos trabalhos complementares decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução; e) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público; f) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º; g) Se não foram corrigidos os defeitos detetados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º 2 - Em caso de resolução, o dono da obra deve informar o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho. 3 - O Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro. 4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da atividade de construção.
 
-> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04, em vigor a partir de 2026-10-01.
-
-> Alterado pelo/a Artigo 21.º do/a Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21, em vigor a partir de 2021-06-20
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 ### Artigo 406.º — Resolução pelo empreiteiro
 
-Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o empreiteiro tem o direito de resolver o contrato nos seguintes casos:
+Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o empreiteiro tem o direito de resolver o contrato nos seguintes casos: a) Se não for feita consignação da obra no prazo de seis meses contados da data da celebração do contrato por facto não imputável ao empreiteiro; b) Se, havendo sido feitas uma ou mais consignações parciais, o retardamento da consignação ou consignações subsequentes acarretar a interrupção dos trabalhos por mais de 120 dias, seguidos ou interpolados; c) Se, avaliados os trabalhos complementares e os trabalhos a menos, relativos ao contrato e resultantes de atos ou factos não imputáveis ao empreiteiro, ocorrer uma redução superior a 20 % do preço contratual; d) Se a suspensão da empreitada se mantiver: i) Por período superior a um quinto do prazo de execução da obra, quando resulte de caso de força maior; ii) Por período superior a um décimo do mesmo prazo, quando resulte de facto imputável ao dono da obra; e) Se, verificando-se os pressupostos do artigo 354.º, os danos do empreiteiro excederem 20 % do preço contratual.
 
-a) Se não for feita consignação da obra no prazo de seis meses contados da data da celebração do contrato por facto não imputável ao empreiteiro;
-
-b) Se, havendo sido feitas uma ou mais consignações parciais, o retardamento da consignação ou consignações subsequentes acarretar a interrupção dos trabalhos por mais de 120 dias, seguidos ou interpolados;
-
-c) Se, avaliados os trabalhos a mais, os trabalhos de suprimento de erros e omissões e os trabalhos a menos, relativos ao contrato e resultantes de actos ou factos não imputáveis ao empreiteiro, ocorrer uma redução superior a 20 % do preço contratual;
-
-d) Se a suspensão da empreitada se mantiver:
-
-i) Por período superior a um quinto do prazo de execução da obra, quando resulte de caso de força maior;
-
-ii) Por período superior a um décimo do mesmo prazo, quando resulte de facto imputável ao dono da obra;
-
-e) Se, verificando-se os pressupostos do artigo 354.º, os danos do empreiteiro excederem 20 % do preço contratual.
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, em vigor a partir de 2018-01-01.
 
 ## Capítulo II — Concessões de obras públicas e de serviços
 

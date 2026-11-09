@@ -11,6 +11,7 @@ texto: original (JO)
 rectificacoes_nao_incorporadas:
 - 32019L0882R(02)
 - 32019L0882R(03)
+- 32019L0882R(04)
 eli: http://data.europa.eu/eli/dir/2019/882/oj
 repertorio:
 - 02.40.10.10 Livre circulação de mercadorias
@@ -18,7 +19,7 @@ repertorio:
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32019L0882
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 32019L0882 — Ato Europeu da Acessibilidade
@@ -27,7 +28,7 @@ obtido_em: '2026-11-02'
 
 **Texto:** versão original publicada no Jornal Oficial.
 
-**Nota:** há rectificações publicadas no JO que este texto original não incorpora (32019L0882R(02), 32019L0882R(03)). Muitas rectificações dizem respeito só a algumas versões linguísticas; não foi verificado se alguma altera o texto português. Confirmar no EUR-Lex antes de citar um passo decisivo.
+**Nota:** há rectificações publicadas no JO que este texto original não incorpora (32019L0882R(02), 32019L0882R(03), 32019L0882R(04)). Muitas rectificações dizem respeito só a algumas versões linguísticas; não foi verificado se alguma altera o texto português. Confirmar no EUR-Lex antes de citar um passo decisivo.
 
 **Considerandos (preâmbulo):** ficheiro `32019L0882-ato-europeu-da-acessibilidade.considerandos.md`.
 

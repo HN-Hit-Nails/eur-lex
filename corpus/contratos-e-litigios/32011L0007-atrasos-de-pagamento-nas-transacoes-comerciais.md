@@ -19,7 +19,7 @@ repertorio:
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32011L0007
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 32011L0007 — Atrasos de pagamento nas transações comerciais

@@ -15,7 +15,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-2012-17
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-960670362
 eli: https://data.dre.pt/eli/decregul/47/2012/p/cons/20260213/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Decreto Regulamentar n.º 47/2012

@@ -1,7 +1,7 @@
 ---
 celex: 32000L0031
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 32000L0031 — Diretiva Comércio Eletrónico — contexto

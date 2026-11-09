@@ -6,16 +6,16 @@ relacionado_com: ['32003L0088']
 url: https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
 fonte: Agencia Estatal Boletín Oficial del Estado — API de dados abertos
 lingua: es
-consolidado_ate: '2026-10-29'
+consolidado_ate: '2026-11-05'
 versoes_futuras: []
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.
 
 **Nota:** Aprova o Estatuto de los Trabajadores (o texto refundido vem depois de `## TEXTO REFUNDIDO…`): art. 34.º, n.º 9, o registo diário da jornada e os quatro anos.
 
-**Texto:** versão consolidada do BOE (em espanhol), bloco a bloco, na última redacção já aplicável; as linhas `> Se modifica …` indicam o diploma que deu a redacção. Não tem valor jurídico: faz fé o publicado no BOE. Consolidado pelo BOE até 2026-10-29. 141 artigos e disposições.
+**Texto:** versão consolidada do BOE (em espanhol), bloco a bloco, na última redacção já aplicável; as linhas `> Se modifica …` indicam o diploma que deu a redacção. Não tem valor jurídico: faz fé o publicado no BOE. Consolidado pelo BOE até 2026-11-05. 141 artigos e disposições.
 
 **Fonte:** https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
 

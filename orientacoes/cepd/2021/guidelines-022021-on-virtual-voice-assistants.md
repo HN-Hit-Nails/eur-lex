@@ -1,2299 +1,2037 @@
 ---
-titulo: "Orientações 02/2021 sobre assistentes de voz virtuais"
+titulo: "Guidelines 02/2021 on virtual voice assistants"
 titulo_en: "Guidelines 02/2021 on virtual voice assistants"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2021-07-07'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-022021-on-virtual-voice-assistants_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2022-02/edpb_guidelines_202102_on_vva_v2.0_adopted_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2021-07/edpb_guidelines_202102_on_vva_v2.0_adopted_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Orientações 02/2021 sobre assistentes de voz virtuais
+# Guidelines 02/2021 on virtual voice assistants
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Orientações 02/2021 sobre assistentes de voz virtuais
+Guidelines 02/2021 on virtual voice assistants
 
 
-                                        Versão 2.0
+                                      Version 2.0
 
 
-                          Adotado em 7 de julho de 2021
-
-
-
-
-                             Translations proofread by EDPB Members.
-                         This language version has not yet been proofread.
+                                 Adopted on 7 July 2021
 
 
 
 
-Adotadas - após consulta pública                                             1
+Adopted - after public consultation                          1
 
-Histórico de versões
- Versão 2.0     7 de julho de 2021   Adoção das orientações após consulta pública
- Versão 1.0     9 de março de 2021   Adoção das orientações para consulta sobre a publicação
-
-
+Version history
+ Version 2.0     7 July 2021          Adoption of the Guidelines after public consultation
+ Version 1.0     9 March 2021         Adoption of the Guidelines for publication consultation
 
 
-Adotadas - após consulta pública                                                               2
-
-RESUMO
-Um assistente de voz virtual (AVV) é um serviço que compreende comandos vocais e que os executa
-ou que desempenha o papel de mediador com outros sistemas de TI caso necessário. Os AVV estão
-atualmente disponíveis na maior parte dos smartphones e tablets, computadores tradicionais e, nos
-últimos anos, inclusive em dispositivos autónomos, tais como colunas inteligentes.
-
-Os AVV funcionam como uma interface entre os utilizadores e os seus dispositivos informáticos e
-serviços em linha, tais como motores de busca ou lojas em linha. Devido ao seu papel, os AVV têm
-acesso a uma enorme quantidade de dados pessoais, incluindo todos os comandos (por ex., o histórico
-de navegação na Internet ou de buscas) e respostas (por ex., marcações na agenda) dos utilizadores.
-
-A grande maioria dos serviços de AVV foram concebidos por alguns criadores de AVV. No entanto, os
-AVV podem funcionar em conjunto com aplicações programadas por terceiros (programadores de
-aplicações para AVV) para proporcionar comandos mais sofisticados.
-
-Para funcionar adequadamente, um AVV necessita de um dispositivo terminal equipado com
-microfones e altifalantes. O dispositivo armazena a voz e outros dados que os atuais AVV transferem
-para servidores de AVV remotos.
-
-Os responsáveis pelo tratamento de dados que prestam serviços AVV e os respetivos subcontratantes
-devem, por conseguinte, ter em consideração o RGPD1 e a Diretiva Privacidade Eletrónica2.
-
-As presentes orientações identificam algumas das dificuldades de cumprimento mais importantes e
-oferecem recomendações às partes interessadas pertinentes sobre o modo como resolvê-las.
-
-Os responsáveis pelo tratamento de dados que proporcionam serviços de AVV através de dispositivos
-terminais sem ecrã devem ainda informar os utilizadores, de acordo com o RGPD, quando
-configurarem ou instalarem o AVV, ou quando utilizarem uma app do AVV pela primeira vez.
-Consequentemente, recomendamos aos fornecedores/criadores e aos programadores de AVV que
-desenvolvam interfaces baseadas na voz para facilitar as informações obrigatórias.
-
-Hoje em dia, todos os AVV exigem que, pelo menos, um utilizador se registe no serviço. Na sequência
-da obrigação de proteção de dados desde a conceção e por defeito, os fornecedores/criadores e
-programadores de AVV devem ponderar a necessidade de ter um utilizador registado para cada uma
-das suas funcionalidades.
-
-A conta de utilizador utilizada por muitos criadores de AVV agrega o serviço de AVV a outros serviços,
-tais como o correio eletrónico ou a transferência de vídeo em contínuo. O CEPD considera que os
-responsáveis pelo tratamento de dados devem abster-se dessas práticas porque estas envolvem a
-utilização de políticas de privacidade extensas e complexas que não respeitariam o princípio da
-transparência do RGPD.
 
 
+Adopted - after public consultation                                                             2
+
+EXECUTIVE SUMMARY
+A virtual voice assistant (VVA) is a service that understands voice commands and executes them or
+mediates with other IT systems if needed. VVAs are currently available on most smartphones and
+tablets, traditional computers, and, in the latest years, even standalone devices like smart speakers.
+
+VVAs act as interface between users and their computing devices and online services such as search
+engines or online shops. Due to their role, VVAs have access to a huge amount of personal data
+including all users’ commands (e.g. browsing or search history) and answers (e.g. appointments in the
+agenda).
+
+The vast majority of VVA services have been designed by few VVA designers. However, VVAs can work
+jointly with applications programmed by third parties (VVA application developers) to provide more
+sophisticated commands.
+
+To run properly, a VVA needs a terminal device provided with microphones and speakers. The device
+stores voice and other data that current VVAs transfer to remote VVA servers.
+
+Data controllers providing VVA services and their processors have therefore to consider both the
+GDPR1 and the e-Privacy Directive2.
+
+These guidelines identify some of the most relevant compliance challenges and provide
+recommendations to relevant stakeholders on how to address them.
+
+Data controllers providing VVA services through screenless terminal devices must still inform users
+according to the GDPR when setting up the VVA or installing, or using a VVA app for the first time.
+Consequently, we recommend to VVA providers/designers and developers to develop voice-based
+interfaces to facilitate the mandatory information.
+
+Currently, all VVAs require at least one user to register in the service. Following the obligation of data
+protection by design and by default, VVA providers/designers and developers should consider the
+necessity of having a registered user for each of their functionalities.
+
+The user account employed by many VVA designers bundle the VVA service with other services such
+as email or video streaming. The EDPB considers that data controllers should refrain from such
+practices as they involve the use of lengthy and complex privacy policies that would not comply with
+the GDPR’s transparency principle.
+
+The guidelines consider four of the most common purposes for which VVAs process personal data:
+executing requests, improving the VVA machine learning model, biometric identification and profiling
+for personalized content or advertising.
+
+Insofar the VVA data is processed in order to execute the user’s requests, i.e. as strictly necessary in
+order to provide a service requested by the user, data controllers are exempted from the requirement
+of prior consent under Article 5(3) e-Privacy Directive. Conversely, such consent as required by Article
 
 
 1
-  Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção
-das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e
-que revoga a Diretiva 95/46/CE (a seguir «RGPD»).
+  Regulation 2016/679/EU of the European Parliament and of the Council of 27 April 2016 on the protection of
+natural persons with regard to the processing of personal data and on the free movement of such data, and
+repealing Directive 95/46/EC (hereinafter “GDPR”).
 2
-  Diretiva 2002/58/CE do Parlamento Europeu e do Conselho, de 12 de julho de 2002, relativa ao tratamento de
-dados pessoais e à proteção da privacidade no setor das comunicações eletrónicas (Diretiva relativa à privacidade
-e comunicações eletrónicas), conforme alterada pela Diretiva 2006/24/CE e pela Diretiva 2009/136/CE (a seguir
-«Diretiva Privacidade Eletrónica»).
+  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing
+of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and
+electronic communications) as amended by Directive 2006/24/EC and Directive 2009/136/EC (hereinafter
+“e-Privacy Directive”).
 
 
-Adotadas - após consulta pública                                                                               3
+Adopted - after public consultation                                                                           3
 
-As orientações consideram quatro das finalidades mais comuns para as quais os AVV tramitam dados
-pessoais: a execução de pedidos, a melhoria do modelo de aprendizagem automática do AVV, a
-identificação biométrica e a definição de perfis para conteúdos e publicidade personalizados.
+5(3) e-Privacy Directive would be necessary for the storing or gaining of access to information for any
+purpose other than executing users’ request.
 
-Na medida em que os dados do AVV sejam tratados para executar os pedidos do utilizador, ou seja,
-conforme estritamente necessário para fornecer o serviço solicitado pelo utilizador, os responsáveis
-pelo tratamento de dados ficam isentos do requisito de consentimento prévio nos termos do artigo
-5.º, n.º 3, da Diretiva Privacidade Eletrónica. Inversamente, tal consentimento exigido pelo artigo 5.º,
-n.º 3, da Diretiva Privacidade Eletrónica seria necessário para o armazenamento ou o acesso a
-informações para quaisquer fins diferentes da execução do pedido do utilizador.
+Some VVA services retain personal data until their users require their deletion. This is not in line with
+the storage limitation principle. VVAs should store data for no longer than is necessary for the purposes
+for which the personal data are processed.
 
-Alguns serviços de AVV conservam dados pessoais até os respetivos utilizadores pedirem o seu
-apagamento. O que não está de acordo com o princípio da limitação da conservação. Os AVV devem
-armazenar dados apenas durante o período necessário para as finalidades para as quais os dados
-pessoais são tratados.
+If a data controller becomes aware (e.g. due to quality review processes) of the accidental collection
+of personal data, they should verify that there is a valid legal basis for each purpose of processing of
+such data. Otherwise, the accidentally collected data should be deleted.
 
-Se um responsável pelo tratamento dos dados tomar conhecimento (por ex., devido a processos de
-avaliação da qualidade) da recolha acidental de dados pessoais, deve verificar se existe uma base
-jurídica válida para cada finalidade do tratamento desses dados. Caso contrário, os dados recolhidos
-acidentalmente devem ser eliminados.
+VVAs may process data of multiple data subjects. VVA providers/designers should therefore
+implement access control mechanisms to ensure personal data confidentiality, integrity and
+availability. However, some traditional access control mechanisms such as passwords are not fit for
+the VVA context since they would have to by spoken aloud. The guidelines provide some
+considerations on this regard, including a section specific to the processing special categories of data
+for biometric identification.
 
-Os AVV podem tratar dados de titulares dos dados múltiplos. Os fornecedores/criadores de AVV
-devem, por conseguinte, implementar mecanismos de controlo do acesso para garantir a
-confidencialidade, integridade e disponibilidade dos dados pessoais. No entanto, alguns mecanismos
-de controlo do acesso tradicionais, tais como palavras-passe não são adequados para o contexto do
-AVV porque teriam de ser proferidos em voz alta. As orientações apresentam algumas considerações
-a este respeito, incluindo uma secção específica do tratamento de categorias especiais de dados para
-identificação biométrica.
+VVA providers/designers should consider that when collecting user’s voice, the recording might
+contain other individuals’ voice or data such as background noise that is not necessary for the service.
+Whenever possible, VVA designers should therefore consider technologies filtering the unnecessary
+data and ensuring that only the user voice is recorded.
 
-Os fornecedores/criadores de AVV devem ter em conta que, ao recolher a voz do utilizador, a gravação
-pode conter a voz de outros indivíduos ou dados, tais como ruído de fundo, que não são necessários
-para o serviço. Por conseguinte, sempre que possível, os criadores de AVV devem ponderar tecnologias
-que filtrem os dados desnecessários e que garantam que apenas é gravada a voz do utilizador.
+When evaluating the need for a Data Protection Impact Assessment (DPIA), the EDPB considers that it
+is very likely that VVA services fall into the categories and conditions identified as requiring a DPIA.
 
-Quanto à necessidade de uma Avaliação do Impacto da Proteção de Dados (AIPD), o CEPD considera
-que é muito provável que os serviços de AVV estejam abrangidos pelas categorias e condições que
-exigem uma AIPD.
-
-Os responsáveis pelo tratamento de dados que proporcionam serviços de AVV devem garantir que os
-utilizadores possam exercer os seus direitos de titulares dos dados utilizando comandos vocais fáceis
-de seguir. Os fornecedores/criadores de AVV, bem como os programadores de app devem, no final do
-processo, informar os utilizadores de que os seus direitos foram devidamente tidos em conta, por voz,
-ou enviando uma notificação por escrito para o telemóvel ou para a conta do utilizador, ou por
-qualquer outro meio escolhido pelo utilizador.
+Data controllers providing VVA services should ensure users can exercise their data subject rights using
+easy-to-follow voice commands. VVA providers/designers, as well as app developers should at the end
+of the process inform users that their rights have been duly factored, by voice or by providing a writing
+notification to the user’s mobile, account or any other mean chosen by the user.
 
 
 
 
-Adotadas - após consulta pública                                                                      4
+Adopted - after public consultation                                                                    4
 
-Índice
-RESUMO .................................................................................................................................................. 3
-1      GENERALIDADES.............................................................................................................................. 7
-2      CONTEXTO TECNOLÓGICO .............................................................................................................. 8
-    2.1        Características básicas dos Assistentes de Voz Virtuais.......................................................... 8
-    2.2        Intervenientes no ecossistema AVV........................................................................................ 9
-    2.3        Descrição passo a passo ........................................................................................................ 10
-    2.4        Expressões de despertar ....................................................................................................... 11
-    2.5        Trechos de voz e aprendizagem automática......................................................................... 11
-3      ELEMENTOS DA PROTEÇÃO DE DADOS......................................................................................... 12
-    3.1        Regime jurídico...................................................................................................................... 12
-    3.2        Identificação do tratamento de dados e das partes interessadas ........................................ 14
-       3.2.1          Tratamento de dados pessoais...................................................................................... 15
-       3.2.2          Tratamento pelos responsáveis pelo tratamento de dados e subcontratantes ........... 16
-    3.3        Transparência ........................................................................................................................ 18
-    3.4        Limitação da finalidade e base jurídica ................................................................................. 23
-       3.4.1          Execução dos pedidos dos utilizadores ......................................................................... 23
-       3.4.2    Aperfeiçoamento do AVV através da formação dos sistemas de aprendizagem
-       automática e da revisão manual da voz e das transcrições .......................................................... 25
-       3.4.3          Identificação do utilizador (mediante utilização de dados de voz)............................... 25
-       3.4.4          Definição de perfis do utilizador para conteúdos personalizados ou para publicidade26
-    3.5        Tratamento dos dados de crianças ....................................................................................... 27
-    3.6        Conservação de dados........................................................................................................... 28
-    3.7        Segurança .............................................................................................................................. 30
-    3.8        Tratamento das categorias específicas de dados.................................................................. 33
-       3.8.1          Considerações gerais relativas ao tratamento de categorias especiais de dados ........ 33
-       3.8.2          Considerações específicas relativas ao tratamento de dados biométricos .................. 33
-    3.9        Minimização dos dados ......................................................................................................... 35
-    3.10       Responsabilização ................................................................................................................. 36
-    3.11       Proteção de dados desde a conceção e por defeito ............................................................. 36
-4      Mecanismos para o exercício dos Direitos dos Titulares dos Dados............................................. 37
-    4.1        Direito de acesso ................................................................................................................... 38
-    4.2        Direito de retificação............................................................................................................. 39
-    4.3        Direito ao apagamento dos dados ........................................................................................ 39
-    4.4        Direito à portabilidade dos dados ......................................................................................... 40
-
-
-
-Adotadas - após consulta pública                                                                                                                         5
-
-5 Anexo: Reconhecimento Automático da Fala, Síntese da Fala e Tratamento da Linguagem
-Natural................................................................................................................................................... 42
-   5.1         Reconhecimento Automático da Fala ................................................................................... 42
-   5.2         Tratamento da Linguagem Natural ....................................................................................... 42
-   5.3         Síntese da Fala....................................................................................................................... 43
+Table of contents
+EXECUTIVE SUMARY ............................................................................................................................... 2
+1      GENERAL.......................................................................................................................................... 7
+2      TECHNOLOGY BACKGROUND .......................................................................................................... 8
+    2.1       Basic characteristics of Virtual Voice Assistants...................................................................... 8
+    2.2       Actors in the VVA ecosystem .................................................................................................. 9
+    2.3       Step-by-step description ....................................................................................................... 10
+    2.4       Wake-up expressions ............................................................................................................ 11
+    2.5       Voice snippets and machine learning.................................................................................... 11
+3      ELEMENTS OF DATA PROTECTION ................................................................................................ 12
+    3.1       Legal framework.................................................................................................................... 12
+    3.2       Identification of data processing and stakeholders .............................................................. 14
+       3.2.1          Processing of personal data .......................................................................................... 14
+       3.2.2          Processing by data controllers and processors ............................................................. 15
+    3.3       Transparency ......................................................................................................................... 17
+    3.4       Purpose limitation and legal basis......................................................................................... 21
+       3.4.1          Execute users’ requests................................................................................................. 21
+       3.4.2     Improve the VVA by training the ML systems and manually reviewing of the voice and
+       transcripts...................................................................................................................................... 22
+       3.4.3          User identification (using voice data)............................................................................ 23
+       3.4.4          User profiling for personalized content or advertising ................................................. 23
+    3.5       Processing of children’s data................................................................................................. 25
+    3.6       Data retention ....................................................................................................................... 25
+    3.7       Security.................................................................................................................................. 27
+    3.8       Processing of special categories of data ............................................................................... 29
+       3.8.1          General considerations when processing special categories of data ........................... 30
+       3.8.2          Specific considerations when processing biometric data ............................................. 30
+    3.9       Data minimization ................................................................................................................. 32
+    3.10      Accountability........................................................................................................................ 32
+    3.11      Data protection by design and by default............................................................................. 33
+4      Mechanisms to exercise Data Subject Rights................................................................................ 33
+    4.1       Right to access....................................................................................................................... 34
+    4.2       Right to rectification.............................................................................................................. 35
+    4.3       Right to erasure ..................................................................................................................... 35
+    4.4       Right to data portability ........................................................................................................ 36
 
 
 
+Adopted - after public consultation                                                                                                                      5
 
-Adotadas - após consulta pública                                                                                                                           6
-
-O Comité Europeu para a Proteção de Dados
-
-Tendo em conta o artigo 70.º, n.º 1, alíneas e) e j), do Regulamento (UE) 2016/679 do Parlamento
-Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz
-respeito ao tratamento de dados pessoais e à livre circulação desses dados, e que revoga a
-Diretiva 95/46/CE (a seguir «RGPD»),
-
-Tendo em conta o Acordo EEE e, nomeadamente, o anexo XI e o respetivo Protocolo 37, com a redação
-que lhe foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 20183,
-
-Tendo em conta o artigo 12.º e o artigo 22.º do seu Regulamento Interno,
+5     Annex: Automatic Speech Recognition, Speech Synthesis and Natural Language Processing ..... 37
+    5.1   Automatic Speech Recognition (ASR).................................................................................... 38
+    5.2   Natural Language Processing (NLP)....................................................................................... 38
+    5.3   Speech Synthesis ................................................................................................................... 38
 
 
-ADOTOU AS SEGUINTES LINHAS DE ORIENTAÇÃO
 
 
-1 GENERALIDADES
-    1.   Os avanços tecnológicos recentes aumentaram consideravelmente a precisão e a
-         popularidade dos assistentes de voz virtuais (AVV). Entre outros dispositivos, os AVV foram
-         integrados em smartphones, veículos conectados, colunas inteligentes e televisores
-         inteligentes. Esta integração concedeu aos AVV acesso a informações de natureza íntima que,
-         não sendo devidamente geridas, podem prejudicar os direitos do indivíduo à proteção de
-         dados e à privacidade. Consequentemente, os AVV e os dispositivos que os integram foram
-         controlados por diferentes autoridades de proteção dos dados.
+Adopted - after public consultation                                                                                                            6
 
-    2.   Existem diversas vantagens na utilização das interações baseadas na fala, a saber: a
-         naturalidade da interação que não envolve aprendizagem específica dos utilizadores, a
-         velocidade de execução do comando e a extensão do campo de ação que pode permitir o
-         acesso mais rápido a informações. No entanto, a dependência da fala também comporta
-         dificuldades na interpretação correta da mensagem: a variabilidade do sinal áudio entre
-         diferentes interlocutores, ambiente acústico, ambiguidade da linguagem, etc.
+The European Data Protection Board
 
-    3.   Na prática, a fluidez ou simplificação das tarefas mantém-se a principal motivação para alguém
-         se equipar com AVV. Tal pode envolver, por exemplo, o estabelecimento ou a resposta a uma
-         chamada, a programação de um temporizador, etc., sobretudo quando os utilizadores têm as
-         suas mãos ocupadas. A domótica é a principal aplicação proposta pelos criadores de AVV. Ao
-         propor a simplificação da execução de tarefas (acender a luz, ajustar o aquecimento, baixar as
-         persianas, etc.) e a sua centralização através de uma única ferramenta que pode ser facilmente
-         ativada de forma remota, os AVV enquadram-se no discurso enquanto facilitador doméstico.
-         Para além da utilização pessoal ou doméstica, os comandos vocais podem ser de interesse em
-         ambientes profissionais onde é difícil manusear ferramentas informáticas e utilizar comandos
-         escritos (por ex., no trabalho industrial).
+Having regard to Article 70 (1j) and (1e) of the Regulation 2016/679/EU of the European Parliament
+and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing
+of personal data and on the free movement of such data, and repealing Directive 95/46/EC,
+(hereinafter “GDPR”),
 
-    4.   Em teoria, os principais beneficiários da interface da voz podiam ser pessoas portadoras de
-         deficiência ou com problemas de dependência para quem a utilização das interfaces
+Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+by the Decision of the EEA joint Committee No 154/2018 of 6 July 20183,
+
+Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+
+HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+1 GENERAL
+         1. Recent technological advances have greatly increased the accuracy and popularity of virtual
+            voice assistants (VVA). Among other devices, VVAs have been integrated in smartphones,
+            connected vehicles, smart speakers and smart TVs. This integration has given the VVAs access
+            to information of an intimate nature that could, if not properly managed, harm the individuals’
+            rights to data protection and privacy. Consequently, VVAs and the devices integrating them
+            have been under the scrutiny of different data protection authorities.
+
+    2.       There are several advantages to using speech-based interactions such as: the naturalness of
+             the interaction which does not involve specific learning from the users, the speed of execution
+             of the command and the extension of the field of action which can allow faster access to
+             information. However, relying on speech also brings in difficulties in interpreting the message
+             correctly: variability of the audio signal between different speakers, acoustic environment,
+             ambiguity of the language, etc.
+
+    3.       In practice, the fluidity or simplification of tasks remains the primary motivation for equipping
+             oneself with VVAs. This may involve, for example, placing/answering a call, setting a timer,
+             etc., especially when the users have their hands unavailable. Home automation is the major
+             application put forward by the designers of VVAs. By proposing to simplify the execution of
+             tasks (turning on the light, adjusting the heating, lowering the shutters, etc.) and to centralize
+             them through a single tool that can be easily activated remotely, they fit into the discourse as
+             a domestic facilitator. In addition to personal or domestic use, voice commands can be of
+             interest in professional environments where it is difficult to handle computer tools and use
+             written commands (e.g. manufacturing work).
+
+    4.       In theory, the main beneficiaries of the voice interface could be people with disabilities or
+             dependency for whom the use of traditional interfaces is problematic. Virtual voice assistance
+             can provide easier access to information and computer resources and thus promote inclusive
+
+
 
 3
- As referências a «Estados Membros» no presente documento devem ser entendidas como referências a
-«Estados-Membros do EEE».
+ References to “Member States” made throughout this document should be understood as references to “EEA
+Member States”.
 
 
-Adotadas - após consulta pública                                                                     7
+Adopted - after public consultation                                                                          7
 
-          tradicionais é problemática. A assistência de voz virtual pode proporcionar o acesso mais fácil
-          a informações e recursos informáticos e, portanto, promover uma lógica inclusiva uma vez que
-          a utilização da voz permite ultrapassar as dificuldades associadas à palavra escrita, que pode
-          ser encontrada em determinadas classes de utilizadores.
+             logics as the use of the voice makes it possible to overcome the difficulties associated with the
+             written word, which can be found among certain classes of users.
 
-    5.    Por último, a saúde também é uma área onde há muitos casos de utilização de agentes de
-          conversação, vocais ou não. Por exemplo, durante a pandemia de Covid-19, foram utilizados
-          diversos callbots para oferecer um pré-diagnóstico aos utilizadores que telefonavam. A longo
-          prazo, há quem preveja que todo o processo de atenção ao doente poderia ser afetado por
-          interações humano/assistente: não só para bem-estar e prevenção, mas também para
-          tratamento e apoio.
+    5.       Finally, health is also an area where there are many cases of use for conversational agents,
+             vocal or not. For instance, during the Covid-19 pandemic, various callbots were deployed to
+             offer a pre-diagnosis to calling users. In the long term some anticipate that the entire patient
+             care process could be impacted by human/assistant interactions: not only for well-being and
+             prevention, but also for treatment and support.
 
-    6.    Existem atualmente mais de 3 mil milhões de smartphones e todos eles têm integrados AVV,
-          a maior parte deles ligados por defeito. Alguns dos sistemas operativos difundidos em
-          computadores pessoais e em computadores portáteis também integram AVV. O recente
-          aumento de colunas inteligentes (147 milhões foram vendidos em 20194) está a trazer os AVV
-          a milhões de lares e de escritórios. No entanto, os atuais desenhos de AVV não oferecem por
-          defeito autenticação ou mecanismos de controlo do acesso.
+         6. There are currently more than 3 billion smartphones and all of them have integrated VVAs,
+            most of them switched on by default. Some of the most widespread operating systems in
+            personal computers and laptops also integrate VVAs. The recent rise of smart speakers (147
+            million were sold in 20194) is bringing VVAs to millions of homes and offices. However, current
+            VVA designs do not offer by default authentication or access control mechanisms.
 
-    7.    Este documento procura proporcionar orientações quanto à aplicação do RGPD no contexto
-          dos AVV.
+         7. This document seeks to provide guidance as to the application of the GDPR in the context of
+            the VVAs.
 
 
-2 CONTEXTO TECNOLÓGICO
-2.1 Características básicas dos Assistentes de Voz Virtuais
-    8.    O AVV pode ser definido como uma aplicação de software que proporciona capacidades de
-          diálogo oral com um utilizador em linguagem natural.
+2 TECHNOLOGY BACKGROUND
+2.1 Basic characteristics of Virtual Voice Assistants
+    8.       A VVA can be defined as a software application that provides capabilities for oral dialogue with
+             a user in natural language.
 
-    9.    A linguagem natural tem uma semântica específica da linguagem humana. Dependendo das
-          características da linguagem e da diversidade do léxico, a mesma instrução pode ser formulada
-          de múltiplas formas, ao passo que alguns comandos podem parecer semelhantes, mas
-          referem-se a dois objetos diferentes. Nesse caso, são frequentemente utilizados mecanismos
-          de dedução para resolver estas ambiguidades, por exemplo, dependendo do que foi dito
-          anteriormente, a hora em que a instrução foi dada, o local, os interesses da pessoa, etc.
+    9.       Natural language has a semantics specific to human language. Depending on the
+             characteristics of the language and the diversity of the lexicon, the same instruction can be
+             formulated in multiple ways, whereas some commands may seem similar but relate to two
+             different objects. Inference mechanisms are then frequently used to resolve these
+             ambiguities, for example, depending on what has been said previously, the time when the
+             instruction was given, the place, the person's interests, etc.
 
-    10.   O AVV pode ser desagregado em módulos, o que permite executar diferentes tarefas: captura
-          do som e restituição, transcrição automática da fala (fala para texto), tratamento automático
-          da linguagem, estratégias de diálogo, acesso a ontologias (conjuntos de dados e conceitos
-          estruturados relativos a um determinado domínio) e fontes de conhecimento internas,
-          produção de linguagem, síntese da voz (texto para fala), etc. Concretamente, o assistente deve
-          permitir interação para executar ações (por ex., «ligar o rádio», «apagar a luz») ou aceder ao
-          conhecimento (por ex., «como estará o tempo amanhã?», «o comboio das 7:43 está a
-          funcionar?»). Desempenha, assim, o papel de intermediário e de orquestrador que deverá
-          facilitar a realização das tarefas do utilizador.
+    10.      A VVA can be broken down into modules allowing to perform different tasks: sound capture
+             and restitution, automatic speech transcription (speech to text), automatic language
+             processing, dialogue strategies, access to ontologies (data sets and structured concepts
+             related to a given domain) and external knowledge sources, language generation, voice
+             synthesis (text to speech), etc. Concretely, the assistant should allow interaction in order to
+             perform actions (e.g. "turn on the radio", "turn off the light") or to access knowledge (e.g.
+             "what will the weather be like tomorrow?", "is the 7:43 a.m. train running?"). It thus plays the
+             role of intermediary and orchestrator who is supposed to facilitate the accomplishment of the
+             user's tasks.
+
+    11.      In practice, a VVA is not a smart speaker but a smart speaker can be equipped with a voice
+             assistant. It is common to confuse both of them, however, the latter is only a material
+             incarnation of the former. A VVA can be deployed in a smartphone, a smart speaker, a
+             connected watch, a vehicle, a household appliance, etc.
 
 
 
 
 4
-  Por exemplo, ver o comunicado de imprensa de 1 de agosto de 2019 da Autoridade de Proteção de Dados e
-Informação de Hamburgo: https://datenschutz-hamburg.de/pressemitteilungen/2019/08/2019-08-01-google-
-assistant
+ For example, see a press release of 1 August 2019 by the Hamburg Data Protection and Information authority:
+https://datenschutz-hamburg.de/pressemitteilungen/2019/08/2019-08-01-google-assistant
 
 
-Adotadas - após consulta pública                                                                       8
+Adopted - after public consultation                                                                         8
 
- 11.   Na prática, o AVV não é uma coluna inteligente, mas esta pode ser equipada com um assistente
-       de voz. É comum confundir os dois, contudo este último é apenas uma encarnação material
-       do primeiro. O AVV pode ser utilizado num smartphone, numa coluna inteligente, num relógio
-       conectado, num veículo, num eletrodoméstico, etc.
+ 12.    The organization of the underlying data processing may involve multiple information flow
+        patterns. It is possible to isolate three main entities:
 
- 12.   A organização do tratamento dos dados subjacente pode envolver múltiplos padrões de fluxo
-       de informações. É possível isolar três entidades principais:
+       The physical instance: the hardware element in which the assistant is embodied (smartphone,
+       speaker, smart TV, etc.) and which carries microphones, speakers and network and computing
+       capacities (more or less developed depending on the case).
 
-       A instância física: o elemento de hardware onde o assistente está incorporado (smartphone,
-       coluna, televisor inteligente, etc.) e que inclui microfones, colunas, e capacidades de rede e de
-       computação (mais ou menos desenvolvidos, consoante o caso).
+       The software instance: the part implementing the human-machine interaction strictly
+       speaking and which integrates the modules for automatic speech recognition, natural language
+       processing, dialogue and speech synthesis. This can be operated directly within the physical
+       equipment, but in many cases is performed remotely.
 
-       A instância de software: a parte que implementa, em termos estritos, a interação humano-
-       máquina, e que integra os módulos do reconhecimento automático da fala, do tratamento da
-       linguagem natural, do diálogo e da síntese da fala. Pode ser operada diretamente no
-       equipamento físico, mas é realizada, em muitos casos, de forma remota.
+       The resources: external data such as content databases, ontologies or business applications
+       that provide knowledge (e.g. "tell the time on the West Coast of the United States", "read my
+       emails") or enable the requested action to be carried out in a concrete way (e.g. "increase the
+       temperature by 1.5°C").
 
-       Os recursos: dados externos, tais como bases de dados de conteúdos, ontologias ou aplicações
-       profissionais que proporcionam conhecimento (por ex., «indicar a hora na Costa Ocidental dos
-       Estados Unidos», «ler os meus e-mails») ou permitem que a ação solicitada seja realizada de
-       uma forma concreta (por ex., «aumentar a temperatura 1,5°C»).
+    13. VVAs allow the installation of third party components or apps that expand their core
+        functionalities. Each VVA name the components differently but all involve the exchange of
+        users’ personal data between the VVA designer and the app developer.
 
- 13.   Os AVV permitem a instalação de componentes ou apps de terceiros que expandem as suas
-       funcionalidades essenciais. Cada AVV nomeia os componentes de forma diferente, mas todos
-       envolvem o intercâmbio de dados pessoais dos utilizadores entre o criador do AVV e o
-       programador da app.
-
- 14.   Embora a maior parte dos AVV não partilhem o trecho de voz com os programadores de app,
-       estes intervenientes tratam, mesmo assim, dados pessoais. Além disso, dependendo da
-       natureza da funcionalidade proporcionada, o programador da app recebe intenções e slots
-       que poderão incluir inormações sensíveis, tais como dados de saúde.
+    14. Although most VVAs do not share the voice snippet with the app developers, these actors still
+        process personal data. Moreover, depending on the nature of the functionality provided, the
+        app developer receives intentions and slots which could include sensitive information like
+        health data.
 
 
 
-2.2 Intervenientes no ecossistema AVV
- 15.   O AVV pode envolver um grande número de intervenientes e intermediários através da cadeia
-       de execução. Na prática, podem ser identificados até cinco intervenientes diferentes.
-       Dependendo dos modelos profissionais e das escolhas tecnológicas, alguns intervenientes
-       podem, no entanto, adotar diversas combinações de funções, por exemplo, criador e
-       integrador ou criador e programador da aplicação:
+2.2 Actors in the VVA ecosystem
+    15. A VVA may involve a great number of actors and intermediaries throughout the execution
+        chain. In practice, up to five different actors can be identified. Depending on business models
+        and technological choices, some actors may however take on several combinations of roles,
+        for example, designer and integrator or designer and application developer:
 
-         a. O fornecedor (ou criador) do AVV: responsável pelo desenvolvimento do AVV, concebe
-            e define as suas possibilidades e funcionalidades por defeito: modalidades de ativação,
-            escolha de arquitetura, acesso aos dados, gestão das gravações, especificações do
-            hardware, etc.
+         a. The VVA provider (or designer): responsible for the development of the VVA, designs
+            and defines its possibilities and default functionalities: activation modalities, choice of
+            architecture, data access, record management, hardware specifications, etc.
 
-         b. O programador de aplicações do AVV: tal como em relação às aplicações móveis, cria
-            aplicações que ampliam as funcionalidades por defeito do AVV. Para fazê-lo, é necessário
-            respeitar as restrições de desenvolvimento impostas pelo criador.
+         b. The VVA application developer: as for mobile applications, creates applications
+            extending the VVA’s default functionalities. To do this, it is necessary to respect the
+            development constraints imposed by the designer.
 
-         c. O integrador: fabricante de objetos conectados, que deseja equipar estes objetos com
-            um AVV. Deve respeitar os requisitos definidos pelo criador.
+         c. The integrator: manufacturer of connected objects, who wishes to equip them with a
+            VVA. It should respect the requirements defined by the designer.
 
+         d. The owner: in charge of physical spaces receiving people (accommodation places,
+            professional environments, rental vehicles, etc.) he/she wishes to provide a VVA to
+            his/her audience (possibly with dedicated applications).
 
-
-Adotadas - após consulta pública                                                                      9
-
-         d. O proprietário: responsável por espaços físicos que recebem pessoas (locais de
-            alojamento, ambientes profissionais, veículos de aluguer, etc.), deseja proporcionar um
-            AVV à sua audiência (possivelmente com aplicações dedicadas).
-
-         e. O utilizador: elo final na cadeia de valor do AVV, que pode utilizá-lo em diversos
-            dispositivos (coluna, televisor, smartphone, relógio, etc.) dependendo de como e onde o
-            AVV foi utilizado e instalado.
-
-2.3 Descrição passo a passo
- 16.   Para que um AVV realize uma ação ou aceda a informações, é realizada uma sucessão de
-       tarefas:
-
-       1) Utilizado num equipamento (smartphone, coluna, veículo), o AVV encontra-se em modo
-          de espera. Mais precisamente, está constantemente a ouvir. No entanto, enquanto não
-          for detetada uma expressão específica de despertar, nenhum áudio será transmitido do
-          dispositivo que recebe a voz e nenhuma operação diferente da deteção da expressão de
-          despertar será executada. Para o efeito é utilizada uma reserva de alguns segundos (ver a
-          secção seguinte para mais detalhes).
-
-       2) O utilizador diz a expressão de despertar e o AVV compara localmente o áudio com a
-          expressão de despertar. Se correspondem, o AVV abre um canal de audição e o conteúdo
-          de áudio é imediatamente transmitido.
-
-       3) Em muitos casos, se o tratamento do comando for feito de forma remota, é feita uma
-          segunda verificação da pronunciação da palavra-chave do lado do servidor para limitar as
-          ativações não desejadas.
-
-       4) O utilizador apresenta o seu pedido que é rapidamente transmitido ao fornecedor do AVV.
-          A sequência do discurso falado é, em seguida, automaticamente transcrita (fala para
-          texto).
-
-       5) Mediante utilização das tecnologias de tratamento da linguagem natural (natural
-          language processing, NLP), o comando é interpretado. As intenções da mensagem são
-          extraídas e as variáveis da informação (slots) são identificadas. Em seguida, é utilizado um
-          gestor do diálogo para especificar o cenário de interação a implementar com o utilizador,
-          proporcionando o regime de resposta adequado.
-
-       6) Se o comando envolver uma funcionalidade proporcionada pela app de um terceiro
-          (competência, ação, atalho, etc.), o fornecedor do AVV envia ao programador da app as
-          intenções e as variáveis da informação (slots) da mensagem.
-
-       7) É identificada uma resposta adaptada ao pedido do utilizador – no mínimo, supostamente,
-          sendo a resposta «Não tenho uma resposta para a sua questão» uma resposta adaptada
-          no caso de o AVV não ter sido capaz de interpretar corretamente o pedido. Caso
-          necessário, são utilizados recursos remotos: bases de dados acessíveis ao público
-          (enciclopédia em linha, etc.) ou por autenticação (conta bancária, aplicação de música,
-          conta de cliente para aquisição em linha, etc.) e as informações variáveis (slots) são
-          preenchidas com o conhecimento recuperado.
+         e. The user: final link in the VVA value chain, who can use it on various devices (speaker,
+            TV, smartphone, watch, etc.) depending on how and where the VVA has been deployed
+            and set up.
 
 
 
 
-Adotadas - após consulta pública                                                                   10
+Adopted - after public consultation                                                                  9
 
-          8) É criada uma frase de resposta e/ou identificada uma ação (baixar as persianas, aumentar
-             a temperatura, reproduzir uma peça musical, responder a uma questão, etc.). A frase é
-             sintetizada (texto para fala) e/ou a ação a executar é enviada para o equipamento
-             executado.
+2.3 Step-by-step description
+    16.   In order for a VVA to carry out an action or to access information, a succession of tasks is
+          carried out:
 
-          9) O AVV regressa ao modo latente.
+          1) Deployed within a piece of equipment (smartphone, loudspeaker, vehicle), the VVA is on
+             standby. To be precise, it is constantly listening. However, until a specific wake-up
+             expression has been detected no audio is transmitted out of the device receiving the voice
+             and no other operation than wake-up expression detection is performed. For this purpose
+             a buffer of a few seconds is used (see following section for more details).
 
-          Refira-se que, embora atualmente a maior parte do tratamento relativo à voz seja executado
-          em servidores remotos, alguns fornecedores de AVV estão a desenvolver sistema que
-          poderiam efetuar parte deste tratamento localmente5.
+          2) The user says the wake-up expression and the VVA locally compares the audio with the
+             wake-up expression. If they match, the VVA opens a listening channel and the audio
+             content is immediately transmitted.
 
-2.4 Expressões de despertar
-    17.   Para ser utilizado, o AVV deve estar «desperto». Isto significa que o assistente muda para o
-          modo de escuta ativa para receber ordens e comandos do seu utilizador. Embora este
-          despertar também possa por vezes ser alcançado por uma ação física (por ex., premindo um
-          botão, premindo a coluna inteligente, etc.), quase todos os AVV do mercado se baseiam na
-          deteção de uma expressão ou palavra de despertar para passar para o modo de escuta ativa
-          (também conhecida como palavra de ativação ou palavra de despertar).
+          3) In many cases, if the processing of the command is done remotely, a second check of the
+             keyword pronunciation is done on the server side to limit unwanted activations.
 
-    18.   Para tal, o assistente baseia-se na utilização do microfone e capacidades computacionais
-          ligeiras para detetar se a palavra-chave foi proferida. Esta análise, que tem lugar de forma
-          contínua a partir do momento em que o AVV está ativado, é realizada de forma exclusivamente
-          local. Só depois de ter sido reconhecida a palavra-chave é que as gravações áudio são tratadas
-          para interpretação e execução do comando, o que significa, em muitos casos, enviá-las para
-          servidores remotos através da Internet. A deteção da palavra-chave baseia-se em técnicas de
-          aprendizagem automática. O maior desafio na utilização desses métodos consiste no facto de
-          a deteção ser probabilística. Assim, para cada palavra ou expressão pronunciada, o sistema
-          proporciona uma pontuação da confiança de que a palavra-chave foi realmente pronunciada.
-          Se esta pontuação for superior ao valor limiar predefinido, considera-se que este é, de facto,
-          o caso. Tal sistema não está, portanto, livre de erros: em alguns casos, a ativação pode não ser
-          detetada embora a palavra-chave tenha sido proferida (rejeição falsa) e, noutros casos, a
-          ativação pode ser detetada embora o utilizador não tenha proferido a palavra-chave
-          (aceitação falsa).
+          4) The user states his request that is transmitted on the fly to the VVA provider. The sequence
+             of speech spoken is then automatically transcribed (speech to text).
 
-    19.   Na prática, deveria encontrar-se um compromisso aceitável entre estes dois tipos de erros
-          para definir o valor do limiar. No entanto, uma vez que a consequência de uma deteção falsa
-          da palavra-chave poderia ser o envio de gravações áudio, poderão ocorrer transmissões de
-          dados inesperadas e indesejadas. Com frequência, os fornecedores do AVV que implementam
-          o tratamento remoto utilizam um mecanismo de dois passos para esta deteção: um primeiro
-          passo incorporado localmente ao nível do equipamento e um segundo executado em
-          servidores remotos onde tem lugar o próximo tratamento de dados. Neste caso, os
-          programadores tendem a definir um limiar relativamente baixo para reforçar a experiência do
-          utilizador e garantir que quando o utilizador diz uma palavra-chave, esta é quase sempre
-          reconhecida - mesmo que tal implique uma «sobredeteção» da palavra-chave -, adotando
-          depois um segundo teste de deteção do lado do servidor, que é mais restritivo.
+          5) Using natural language processing (NLP) technologies, the command is interpreted. The
+             intentions of the message are extracted and information variables (slots) are identified. A
+             dialogue manager is then used to specify the interaction scenario to be implemented with
+             the user by providing the appropriate response scheme.
 
-2.5 Trechos de voz e aprendizagem automática
+          6) If the command involves a functionality provided by a third party app (skill, action,
+             shortcut, etc.), the VVA provider sends to the app developer the intentions and
+             information variables (slots) of the message.
+
+          7) A response adapted to the user's request is identified – at least supposedly, the answer “I
+             don’t have the answer to your question” being an adapted response in the case the VVA
+             was not able to correctly interpret the request. If necessary, remote resources are used:
+             publicly accessible knowledge databases (online encyclopaedia, etc.) or by authentication
+             (bank account, music application, customer account for online purchase, etc.) and the
+             information variables (slots) are filled with the recovered knowledge.
+
+          8) An answer phrase is created and/or an action is identified (lowering the blinds, raising the
+             temperature, playing a piece of music, answering a question, etc.). The sentence is
+             synthesized (text to speech) and/or the action to be performed is sent to the equipment
+             executed.
+
+          9) The VVA returns to standby.
+
+          Please note that while currently most voice related processing is performed in remote servers,
+          some VVA providers are developing systems that could perform part of this processing locally5.
+
 
 5
- Isto foi comunicado, por exemplo, aqui: https://www.amazon.science/blog/alexas-new-speech-recognition-
+ This has been reported, for example, here: https://www.amazon.science/blog/alexas-new-speech-recognition-
 abilities-showcased-at-interspeech
 
 
-Adotadas - após consulta pública                                                                       11
+Adopted - after public consultation                                                                    10
 
-      20. Os AVV baseiam-se em métodos de aprendizagem automática para executar uma grande
-          variedade de tarefas (deteção da palavra-chave, reconhecimento automático da fala,
-          tratamento da linguagem natural, síntese da fala, etc.) e necessitam, portanto, da recolha,
-          seleção, etiquetagem, etc., de grandes conjuntos de dados.
+2.4 Wake-up expressions
+ 17.    In order to be used, a VVA should be “awake”. This means that the assistant switches to an
+        active listening mode in order to receive orders and commands from its user. While this wake-
+        up can also sometimes be achieved by a physical action (e.g. by pressing a button, pressing the
+        smart speaker, etc.), almost all VVAs on the market are based on the detection of a wake-up
+        expression or word to switch to active listening mode (also known as activation word or wake-
+        up word / hot word).
 
-      21. As sobre-representações ou as sub-representações de determinadas características
-          estatísticas podem influenciar o desenvolvimento de tarefas baseadas na aprendizagem
-          automática e, subsequentemente, refleti-lo nos seus cálculos e, por conseguinte, no seu modo
-          de funcionamento. Assim, tanto quanto a quantidade, a qualidade dos dados desempenha um
-          papel importante na precisão e na correção do processo de aprendizagem.
+ 18.    To do this, the assistant relies on the use of the microphone and slight computational
+        capabilities to detect whether the keyword has been spoken. This analysis, which takes place
+        continuously from the moment the VVA is on, is carried out exclusively locally. Only when the
+        keyword has been recognised are the audio recordings processed for interpretation and
+        execution of the command, which in many cases means sending them to remote servers via
+        the Internet. Keyword detection is based on machine learning techniques. The major challenge
+        in using such methods is that the detection is probabilistic. Thus, for each word or expression
+        pronounced, the system provides a confidence score as to whether the keyword has actually
+        been pronounced. If this score turns out to be higher than a predefined threshold value, this
+        is considered to be the case. Such a system is therefore not free of errors: in some cases
+        activation may not be detected even though the keyword has been said (false rejection) and
+        in other cases activation may be detected even though the user has not said the keyword (false
+        acceptance).
 
-      22. Para aumentar a qualidade do AVV e melhorar os métodos de aprendizagem automática
-          utilizados, os criadores de AVV podem desejar ter acesso a dados relativos à utilização do
-          dispositivo em condições reais – i. é, trechos de voz – para trabalhar no seu aperfeiçoamento.
+ 19.    In practice, an acceptable compromise should be found between these two types of errors to
+        define the threshold value. However, since the consequence of a false detection of the
+        keyword might be the sending of audio recordings, unexpected and unwanted transmissions
+        of data are likely to occur. Very often, VVA providers implementing remote processing use a
+        two-pass mechanism for this detection: a first pass embedded locally at the equipment level
+        and a second one performed on remote servers where the next data processing are taking
+        place. In this case, developers tend to set up a relatively low threshold in order to enhance the
+        user experience and ensure that when the user says the keyword, it is almost always
+        recognized - even if this means "over-detecting" it - and then implement a second detection
+        pass on the server side, which is more restrictive.
 
-      23. Quer seja para qualificar a base de dados de aprendizagem, quer para corrigir os erros
-          efetuados quando é utilizado o algoritmo, a aprendizagem e a formação dos sistemas de
-          inteligência artificial exigem necessariamente a intervenção humana. Esta parte do trabalho,
-          conhecida como trabalho digital (digital labor), suscita questões sobre as condições de
-          trabalho e a segurança. Neste contexto, os meios de comunicação social também noticiaram
-          transferências de dados entre criadores de AVV e subcontratantes alegadamente sem as
-          necessárias garantias de proteção da vida privada.
+2.5 Voice snippets and machine learning
+    20. VVAs rely on machine learning methods to perform a wide range of tasks (keyword detection,
+        automatic speech recognition, natural language processing, speech synthesis, etc.) and thus
+        necessitate large datasets to be collected, selected, labelled, etc.
+
+    21. The over- or under-representations of certain statistical characteristics can influence the
+        development of machine learning-based tasks and subsequently reflect it in its calculations,
+        and thus in its way of functioning. Thus, just as much as its quantity, the quality of the data
+        plays a major role in the finesse and accuracy of the learning process.
+
+    22. In order to increase the quality of the VVA and improve the machine learning methods
+        deployed, VVA designers might wish to have access to data relating to the use of the device in
+        real conditions – i.e. voice snippets – in order to work on its improvement.
+
+    23. Whether it is to qualify the learning database or to correct errors made when the algorithm is
+        deployed, learning and training of artificial intelligence systems necessarily require human
+        intervention. This part of the work, known as digital labor, raises questions about both working
 
 
-3 ELEMENTOS DA PROTEÇÃO DE DADOS
-3.1 Regime jurídico
-    24.   O quadro jurídico da UE pertinente para os AVV é, em primeiro lugar, o RGPD, porque o
-          tratamento de dados pessoais pertence à função essencial do AVV. Para além do RGPD, a
-          Diretiva Privacidade Eletrónica6 estabelece uma norma específica para todos os intervenientes
-          que desejem armazenar ou obter acesso à informação armazenada no equipamento terminal
-          de um assinante ou utilizador no EEE.
 
-    25.   De acordo com a definição de «equipamento terminal»7, os smartphones, os televisores
-          inteligentes e os dispositivos da Internet das coisas (IoT devices) semelhantes são exemplos de
-          equipamento terminal. Mesmo que os AVV sejam, em si mesmos, serviços de software,
-          sempre operam através de um dispositivo físico, como uma coluna inteligente ou um televisor
-          inteligente. Os AVV utilizam redes de comunicações eletrónicas para aceder a estes
-          dispositivos físicos que constituem «equipamento terminal» na aceção da Diretiva
-          Privacidade Eletrónica. Consequentemente, as disposições do artigo 5.º, n.º 3, da Diretiva
+Adopted - after public consultation                                                                   11
+
+          conditions and safety. In this context, news media have also reported data transfers between
+          VVA designers and subcontractors allegedly without the necessary privacy protection
+          guarantees.
+
+
+3 ELEMENTS OF DATA PROTECTION
+3.1 Legal framework
+    24.   The relevant EU legal framework for VVAs is in the first instance the GDPR, as processing of
+          personal data belongs to the core function of the VVAs. In addition to the GDPR, the e-Privacy
+          Directive6 sets a specific standard for all actors who wish to store or access information stored
+          in the terminal equipment of a subscriber or user in the EEA.
+
+    25.   In accordance with the definition of “terminal equipment”7, smartphones, smart TVs and
+          similar IoT devices are examples for terminal equipment. Even if VVAs in themselves are a
+          software services, they always operate through a physical device such as a smart speaker or a
+          smart TV. VVAs use electronic communications networks to access these physical devices
+          that constitute “terminal equipment” in the sense of the e-Privacy Directive. Consequently,
+          the provisions of Article 5 (3) e-Privacy Directive apply whenever VVA stores or accesses
+          information in the physical device linked to it.8
+
+      26. Any processing operations of personal data following the aforementioned processing
+          operations, including processing personal data obtained by accessing information in the
+          terminal equipment, must also have a legal basis under Article 6 GDPR in order to be lawful.9
+
+      27. Since the controller, when seeking consent for storing or gaining of access to information
+          pursuant to Article 5(3) e-Privacy Directive, will have to inform the data subject about all the
+          purposes of the processing (meaning the “subsequent processing”) – including any processing
+          following the aforementioned operations – consent under Article 6 GDPR will generally be the
+          most adequate legal basis to cover the subsequent processing of the personal data. Hence,
+          consent will likely constitute the legal basis both for the storing and gaining of access to
+          information already stored and the processing of personal data following the aforementioned
+          processing operations. Indeed, when assessing compliance with Article 6 GDPR, one should
+          take into account that the processing as a whole involves specific activities for which the EU
+          legislature has sought to provide additional protection.10 Moreover, controllers must take into
+          account the impact on data subjects’ rights when identifying the appropriate lawful basis in
 
 6
-  Diretiva 2002/58/CE do Parlamento Europeu e do Conselho, de 12 de julho de 2002, relativa ao tratamento de
-dados pessoais e à proteção da privacidade no setor das comunicações eletrónicas (Diretiva relativa à privacidade
-e comunicações eletrónicas), conforme alterada pela Diretiva 2006/24/CE e pela Diretiva 2009/136/CE (a seguir
-«Diretiva Privacidade Eletrónica»).
+  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing
+of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and
+electronic communications) as amended by Directive 2006/24/EC and Directive 2009/136/EC (hereinafter
+“e-Privacy Directive”).
 7
-  De acordo com o artigo 1.º da Diretiva 2008/63/CE, de 20 de junho de 2008, relativa à concorrência nos
-mercados de equipamentos terminais de telecomunicações, entende-se por «equipamento terminal» a)
-«Qualquer equipamento ligado direta ou indiretamente ao interface de uma rede pública de telecomunicações
-para transmitir, tratar ou receber informações; em ambos os casos, de ligação direta ou indireta, a ligação pode
-ser feita por cabo, fibra ótica ou por via eletromagnética; a conexão é indireta caso haja um aparelho intermédio
-entre o equipamento terminal e o interface da rede pública; b) [...] Equipamento para estações terrestres de
-satélites»;
-
-
-Adotadas - após consulta pública                                                                              12
-
-          Privacidade Eletrónica aplicam-se sempre que os AVV armazenem ou acedam a informações
-          no dispositivo físico que lhe está associado.8
-
-      26. Quaisquer operações de tratamento de dados pessoais posteriores às operações de
-          tratamento acima mencionadas, incluindo o tratamento de dados pessoais obtidos mediante
-          o acesso a informações no equipamento terminal, também devem ter uma base jurídica nos
-          termos do artigo 6.º RGPD para que sejam lícitas.9
-
-      27. Uma vez que, ao procurar o consentimento para o armazenamento e para a obtenção do
-          acesso a informações nos termos do artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica, o
-          responsável pelo tratamento terá de informar o titular dos dados sobre todas as finalidades
-          do tratamento (isto é do «tratamento subsequente») – incluindo todo o tratamento na
-          sequência das operações acima mencionadas – o consentimento nos termos do artigo 6.º
-          RGPD constituirá, regra geral, a base jurídica mais adequada para cobrir o tratamento
-          subsequente dos dados pessoais. Por conseguinte, o consentimento constitui provavelmente
-          a base jurídica tanto do armazenamento como da obtenção de acesso a informações já
-          armazenadas e o tratamento de dados pessoais na sequência das operações de tratamento já
-          mencionadas. Com efeito, ao avaliar o conta de utilizador do artigo 6.º RGPD, deve-se ter em
-          conta que o tratamento, no seu conjunto, envolve atividades específicas para as quais a
-          legislatura da UE procurou proporcionar proteção adicional.10 Além disso, os responsáveis pelo
-          tratamento devem ter em conta o impacto sobre os direitos dos titulares dos dados ao
-          identificarem o fundamento jurídico adequado, a fim de respeitarem o princípio da lealdade.11
-          A conclusão é a de que o artigo 6.º RGPD não pode ser invocado pelos responsáveis pelo
-          tratamento para reduzir a proteção adicional conferida pelo artigo 5.º, n.º 3, da Diretiva
-          Privacidade Eletrónica.
-
-    28.   Conforme mostrado na secção 2.3 (passos 2 e 3), os atuais AVV necessitam de ter acesso aos
-          dados de voz armazenados pelo dispositivo AVV.12 Por conseguinte, é aplicável o artigo 5.º, n.º
-          3, da Diretiva Privacidade Eletrónica. A aplicabilidade do artigo 5.º, n.º 3, da Diretiva
-          Privacidade Eletrónica significa que a armazenagem de informações e o acesso à informação
-          já armazenada num AVV exige, regra geral, o consentimento do utilizador final13 mas permite
-          duas exceções: em primeiro lugar, «efetuar ou facilitar a transmissão de uma comunicação
-          através de uma rede de comunicações eletrónicas» ou, em segundo lugar, «que sejam
-          estritamente necessários para fornecer um serviço no âmbito da sociedade de informação que
-          tenha sido explicitamente solicitado pelo assinante ou pelo utilizador».
-
-
-
-
+    Article 1 of Commission Directive 2008/63/EC of 20 June 2008 on competition in the markets in
+telecommunications terminal equipment, defines “terminal equipment” as (a) an “equipment directly or
+indirectly connected to the interface of a public telecommunications network to send, process or receive
+information; in either case (direct or indirect), the connection may be made by wire, optical fibre or
+electromagnetically; a connection is indirect if equipment is placed between the terminal and the interface of the
+network; (b) satellite earth station equipment”;
 8
-  Ver CEPD, Guidelines 1/2020 [Orientações 1/2020], n.º 12 relativamente a um raciocínio semelhante no que diz
-respeito aos veículos conectados (a seguir «Orientações 12/2020 do CEPD»). V. também CEPD, Parecer 5/2019
-sobre a interação entre a Diretiva Privacidade Eletrónica e o RGPD, particularmente em matéria de competência,
-atribuições e poderes das autoridades de proteção de dados, adotado em 12 de março de 2019.
+   See EDPB Guidelines 1/2020 paragraph 12 for similar reasoning regarding connected vehicles (hereinafter
+“EDPB Guidelines 1/2020”). See also EDPB, Opinion 5/2019 on the interplay between the e-Privacy Directive and
+the GDPR, in particular regarding to competence, tasks and powers of data protection authorities.
 9
-  Ibid, n.º 41.
+  Ibid, paragraph 41.
 10
-   Parecer 5/2019, n.º 41.
+   Opinion 5/2019, paragraph 41.
+
+
+Adopted - after public consultation                                                                            12
+
+           order to respect the principle of fairness.11 The bottom line is that Article 6 GDPR cannot be
+           relied upon by controllers in order to lower the additional protection provided by Article 5(3)
+           e-Privacy directive.
+
+     28.   As shown in section 2.3 (steps 2 and 3), current VVAs require access to the voice data stored
+           by the VVA device.12 Therefore, Article 5(3) e-Privacy Directive applies. The applicability of
+           Article 5 (3) e-Privacy Directive means that the storing of information as well as the accessing
+           to information already stored in a VVA requires, as a rule, end-user’s prior consent13 but allows
+           for two exceptions: first, carrying out or facilitating the transmission of a communication over
+           an electronic communications network, or, second, as strictly necessary in order to provide an
+           information society service explicitly requested by the subscriber or user.
+
+     29.   The second exception (“strictly necessary in order to provide an information society service
+           explicitly requested by the subscriber or user”) would allow a VVA service provider to process
+           users’ data to execute users’ requests (see par. 72 in section 3.4.1) without the consent
+           foreseen in Article 5(3) e-Privacy Directive. Conversely, such consent as required by Article
+           5(3) ePrivacy Directive would be necessary for the storing or gaining of access to information
+           for any purpose other than executing users’ request (e.g. user profiling). Data controllers
+           would need to attribute consent to specific users. Consequently, data controllers should only
+           process non-registered users data to execute their requests.
+
+     30.   VVAs can accidentally capture audio of individuals who did not intend to use a VVA service.
+           First, to a certain extent and depending on the VVAs, the wake-up expression can be changed.
+           Individuals who are not aware of this change could accidentally use the updated wake-up
+           expression. Second, VVAs can detect the wake-up expression by mistake or by error. It is highly
+           unlikely that either of the exceptions foreseen in Article 5(3) e-Privacy Directive are applicable
+           in the event of an accidental activation. Furthermore, consent as defined in the GDPR must be
+           the “unambiguous indication of the data subject’s wishes”. Thus, it is highly unlikely that an
+           accidental activation could be interpreted as a valid consent. If data controllers become aware
+           (e.g. through automated or human review) that the VVA service has accidentally processed
+           personal data, they should verify that there is a valid legal basis for each purpose of processing
+           of such data. Otherwise, the accidentally collected data should be deleted.
+
+     31.   Moreover, it should be noted that the personal data processed by VVAs may be highly sensitive
+           in nature. It may carry personal data both in its content (meaning of the spoken text) and its
+           meta-information (sex or age of the speaker etc.). The EDPB recalls that voice data is inherently
+           biometric personal data.14 As a result, when such data is processed for the purpose of uniquely
+           identifying a natural person or is inherently or determined to be special category personal
+           data, the processing must have a valid legal basis in Article 6 and be accompanied by a
+           derogation from Article 9 GDPR (see section 3.7 below).
+
+
+
+
 11
-   CEPD, Diretrizes 2/2019 do sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do
-RGPD no contexto da prestação de serviços em linha aos titulares dos dados, versão 2.0 de 8 de outubro de
-2019, n.º 1.
+   EDPB Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the
+provision of online services to data subjects, Version 2.0, 8 October 2019, paragraph 1.
 12
-   É possível que os futuros dispositivos AVV adotem o paradigma da computação periférica e possam
-proporcionar alguns serviços localmente. Nessa eventualidade, será necessário reavaliar a aplicabilidade da
-Diretiva Privacidade Eletrónica.
+   It is possible that future VVA devices will adopt the edge computing paradigm and be capable of providing
+some service locally. In such event, it will be necessary to reassess the applicability of the e-Privacy Directive.
 13
-   Ver também Diretrizes 1/2020 do CEPD, n.º 14.
-
-
-Adotadas - após consulta pública                                                                             13
-
-     29.   A segunda exceção («estritamente necessários para fornecer um serviço no âmbito da
-           sociedade de informação que tenha sido explicitamente solicitado pelo assinante ou pelo
-           utilizador») permitiria a um prestador de serviços AVV tratar dados dos utilizadores para
-           executar pedidos dos utilizadores (ver n.º 72 na secção 3.4.1) sem o consentimento previsto
-           no artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica. Inversamente, tal consentimento
-           exigido pelo artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica seria necessário para a
-           armazenagem ou para a obtenção de acesso a informações para quaisquer fins diferentes da
-           execução do pedido do utilizador (por ex., a definição de perfis do utilizador). Os responsáveis
-           pelo tratamento de dados necessitariam de atribuir o consentimento a utilizadores
-           específicos. Consequentemente, os responsáveis pelo tratamento de dados devem apenas
-           tratar dados dos utilizadores não registados para executar os seus pedidos.
-
-     30.   Os AVV podem acidentalmente captar áudio de indivíduos que não pretendiam utilizar um
-           serviço de AVV. Em primeiro lugar, até certo ponto e dependendo do AVV, a expressão de
-           despertar pode ser alterada. Os indivíduos que não tenham conhecimento desta alteração
-           podem utilizar acidentalmente a expressão de despertar atualizada. Em segundo lugar, os AVV
-           podem detetar a expressão de despertar por engano ou por erro. É extremamente improvável
-           que qualquer uma das exceções previstas no artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica
-           fossem aplicáveis no caso de uma ativação acidental. Além disso, o consentimento tal como
-           definido no RGPD deve ser a «manifestação de vontade [...] [do] titular dos dados [...],
-           mediante declaração ou ato positivo inequívoco». Assim, é altamente improvável que uma
-           ativação acidental pudesse ser interpretada como um consentimento válido. Se os
-           responsáveis pelo tratamento de dados tomarem conhecimento (por ex., através da revisão
-           automática ou humana) de que o serviço AVV tratou acidentalmente dados pessoais, devem
-           averiguar se existe uma base jurídica válida para cada finalidade do tratamento desses dados.
-           Caso contrário, os dados recolhidos acidentalmente devem ser eliminados.
-
-     31.   Além disso, refira-se que os dados pessoais tratados pelos AVV podem ser extremamente
-           sensíveis. Pode incluir dados pessoais, tanto no seu conteúdo (significado do texto falado)
-           como nas suas meta-informações (sexo ou idade do interlocutor etc.). O CEPD recorda que os
-           dados de voz são dados pessoais biométricos inerentes.14 Consequentemente, quando tais
-           dados são tratados para os efeitos da identificação única de uma pessoa singular ou são
-           inerentes ou são considerados categorias especiais de dados pessoais, o tratamento deve ter
-           uma base jurídica válida no artigo 6.º e ser acompanhado de uma derrogação do artigo 9.º
-           RGPD (ver secção 3.7 abaixo).
-
-
-
-3.2 Identificação do tratamento de dados e das partes interessadas
-     32.   Considerando as múltiplas possibilidades de assistência que um AVV pode prestar em tantos
-           ambientes diferentes da vida quotidiana de um titular dos dados,15 importa observar que deve
-
-
-
-
+   See also EDPB Guidelines 1/2020, paragraph 14.
 14
-   De acordo com o artigo 4.º, n.º 14, do RGPD, entende-se por «dados biométricos» «dados pessoais
-resultantes de um tratamento técnico específico relativo às características físicas, fisiológicas ou
-comportamentais de uma pessoa singular que permitam ou confirmem a identificação única dessa pessoa
-singular, nomeadamente imagens faciais ou dados dactiloscópicos»
-15 Por exemplo: em casa, num veículo, na rua, no trabalho ou em qualquer outro espaço privado, público ou
-
-profissional, ou numa combinação destes espaços.
+   Article 4(14) GDPR defines biometric data as ‘personal data resulting from specific technical processing
+relating to the physical, physiological or behavioural characteristics of a natural person, which allow or confirm
+the unique identification of that natural person, such as facial images or dactyloscopic data’
 
 
-Adotadas - após consulta pública                                                                            14
+Adopted - after public consultation                                                                              13
 
-           ser cuidadosamente ponderado o tratamento de dados pessoais que também pode ser
-           afetado por diferentes interessados.
+3.2 Identification of data processing and stakeholders
+     32.   Considering the multiple possibilities of assistance that a VVA can provide in so many different
+           environments of a data subject’s daily life,15 it is worth noting that careful consideration should
+           be taken with the processing of personal data, which can also be impacted by different
+           stakeholders.
 
-3.2.1 Tratamento de dados pessoais
-     33.   Numa perspetiva de proteção dos dados pessoais, há várias constantes que podem ser
-           observadas independentemente do tipo de AVV (ou seja, o tipo de dispositivo, as
-           funcionalidades, os serviços ou a sua combinação) que pode ser utilizado por um titular dos
-           dados. Tais constantes referem-se à pluralidade de dados pessoais, titulares dos dados e ao
-           tratamento de dados em causa.
+3.2.1 Processing of personal data
+     33.   From a personal data protection perspective, several constants can be observed irrespective
+           of the VVA type (i.e. type of device, functionalities, services or combination of them) that can
+           be used by a data subject. Such constants relate to the plurality of personal data, data subjects
+           and data processing at stake.
 
-Pluralidade dos tipos de dados pessoais
+Plurality of personal data types
 
-     34.   A definição de dados pessoais nos termos do artigo 4.º, n.º 1, RGPD inclui uma grande
-           diversidade de diferentes dados e aplica-se num contexto tecnologicamente neutro a
-           informação relativa «a uma pessoa singular identificada ou identificável».16 Qualquer
-           interação de um titular dos dados com um AVV pode ser abrangida pelo alcance desta
-           definição. Depois de ter lugar a interação, uma gama variada de dados pessoais pode ser
-           tratada ao longo da operação do AVV, conforme descrito na secção 2.4.
+     34.   The definition of personal data under Article 4(1) GDPR includes a wide variety of different
+           data and applies in a technologically neutral context to any information that relates “to an
+           identified or identifiable natural person”.16 Any interaction of a data subject with a VVA can fall
+           under the scope of this definition. Once the interaction takes place, diverse range of personal
+           data may be processed throughout the operation of the VVA as described in section 2.4.
 
-     35.    Desde o pedido inicial até à respetiva resposta, ação ou seguimento (por ex., a configuração
-           de um alerta semanal), a primeira introdução de dados pessoais irá, portanto, gerar dados
-           pessoais subsequentes. Tal inclui dados principais (por ex., dados da conta, gravações da voz,
-           histórico de pedidos), dados observados (por ex., dados do dispositivo relativos ao titular dos
-           dados, registos de atividade, atividades em linha), bem como dados inferidos ou derivados
-           (por ex., a definição de perfis do utilizador). Os AVV utilizam a fala para mediar entre
-           utilizadores e todos os serviços conectados (por ex., um motor de busca, uma loja em linha ou
-           um serviço de transferência em contínuo de música), mas ao contrário de outros
-           intermediários, os AVV podem ter acesso total ao conteúdo dos pedidos e,
-           consequentemente, proporcionar ao criador do AVV uma grande diversidade de dados
-           pessoais, dependendo das finalidades do tratamento.
+     35.    From the initial request to the related answer, action or follow-up (e.g. setting up a weekly
+           alert), the first personal data input will therefore generate subsequent personal data. This
+           includes primary data (e.g. account data, voice recordings, requests history), observed data
+           (e.g. device data that relates to a data subject, activity logs, online activities), as well as inferred
+           or derived data (e.g. user profiling). VVAs use speech to mediate between users and all the
+           connected services (e.g. a search engine, an online shop or a music streaming service) but
+           unlike other intermediaries, VVAs may have full access to the requests’ content and
+           consequently provide the VVA designer with a wide variety of personal data depending on the
+           purposes of the processing.
 
-     36.   A pluralidade de dados pessoais tratados ao utilizar um AVV também remete para uma
-           pluralidade de categorias de dados pessoais às quais se deve prestar atenção (ver abaixo a
-           secção 3.7). O CEPD recorda que quando são tratadas categorias especiais de dados17, o artigo
-           9.º RGPD exige que o responsável pelo tratamento identifique uma isenção válida da proibição
-           de tratamento prevista no artigo 9.º, n.º 1, e uma base jurídica válida nos termos do artigo 6.º,
-           n.º 1, utilizando um meio adequado identificado nos termos do artigo 9.º; n.º 2. O
-           consentimento explícito pode ser uma das derrogações adequadas sempre que o
-           consentimento seja a base jurídica invocada nos termos do artigo 6.º, n.º 1. O artigo 9.º
+     36.   The plurality of personal data processed when using a VVA, also refers to a plurality of personal
+           data categories for which attention should be paid (see below section 3.7). The EDPB recalls
+           that when special categories of data17 are processed, Article 9 GDPR requires the controller to
+           identify a valid exemption from the prohibition to processing in Article 9(1) and a valid legal
+           basis under Article 6(1), using an appropriate means identified under Article 9(2). Explicit
+           consent may be one of the appropriate derogations where consent is the legal basis relied on
+           under Article 6(1). Article 9 also notes (in detail) that the Member States may introduce further
+           conditions to processing of biometric or other special categories data.
 
 
 
+15
+   For example: at home, in a vehicle, in the street, at work or in any other private, public or professional spaces
+or a combination of these spaces.
+16
+   Article 4(1) GDPR also specifies that “an identifiable natural person is one who can be identified, directly or
+indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an
+online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic,
+cultural or social identity of that natural person”.
+17 Article 9(1) GDPR defines special categories of personal as “personal data revealing racial or ethnic origin,
 
-16 O artigo 4.º, n.º 1, do RGPD também especifica que «é considerada identificável uma pessoa singular que possa
-ser identificada, direta ou indiretamente, em especial por referência a um identificador, como por exemplo um
-nome, um número de identificação, dados de localização, identificadores por via eletrónica ou a um ou mais
-elementos específicos da identidade física, fisiológica, genética, mental, económica, cultural ou social dessa
-pessoa singular».
-17 De acordo com o artigo 9.º, n.º 1, do RGPD, entende-se por «categorias especiais de dados pessoais» «dados
-
-pessoais que revelem a origem racial ou étnica, as opiniões políticas, as convicções religiosas ou filosóficas, ou a
-filiação sindical, bem como o tratamento de dados genéticos, dados biométricos para identificar uma pessoa de
-forma inequívoca, dados relativos à saúde ou dados relativos à vida sexual ou orientação sexual de uma pessoa».
+political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic
+data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data
+concerning a natural person's sex life or sexual orientation shall be prohibited.”
 
 
-Adotadas - após consulta pública                                                                                 15
+Adopted - after public consultation                                                                              14
 
-           também observa (de forma detalhada) que os Estados-Membros podem impor novas
-           condições ao tratamento de dados biométricos ou outras categorias especiais de dados.
+     Plurality of data subjects
 
-     Pluralidade dos titulares dos dados
+     37.   When using a VVA, personal data are processed from the first interaction with the VVA. For
+           some data subjects this refers to the purchase of a VVA and/or the configuration of a user
+           account (i.e. registered users). For other data subjects it refers to the first time they knowingly
+           interact with the VVA of another data subject who purchased and/or configured this VVA (i.e.
+           non-registered users). Besides these two categories of data subjects, there is a third one:
+           accidental users who, registered or not, unknowingly make requests to the VVA (e.g. saying
+           the correct wake-up expression without knowing the VVA is active, or saying other words that
+           are mistakenly identified by the VVA as the wake-up expression).
 
-     37.   Ao utilizar um AVV, são tratados dados pessoais desde a primeira interação com o AVV. Em
-           relação a alguns titulares dos dados, tal refere-se à compra de um AVV e/ou à configuração de
-           uma conta de utilizador (i. é, utilizadores registados). Em relação a outros titulares dos dados,
-           tal refere-se à primeira vez que estes interagem, sabendo, com o AVV de outro titular dos
-           dados que adquiriu e/ou configurou este AVV (i. é, utilizadores não registados). Além destas
-           duas categorias de titulares dos dados, há uma terceira categoria: os utilizadores acidentais
-           que, registados ou não, apresentem sem querer pedidos ao AVV (por ex., proferindo a
-           expressão de despertar correta sem saber que o AVV está ativo, ou proferindo outras palavras
-           erradamente identificadas pelo AVV como a expressão de despertar).
+     38.   The term plurality of data subjects also refers to multiple users for one VVA (e.g. device shared
+           between registered and non-registered users, between colleagues, in a family, at school) and
+           different types of users based on their condition (e.g. an adult, a child, an elder or a disable
+           person). While a VVA can offer easier interaction with a digital tool and many benefits for some
+           categories of data subjects, it is important to take into consideration the specificities of each
+           category of data subjects and the context of use of the VVA.
 
-     38.   O termo pluralidade de titulares dos dados também se refere a múltiplos utilizadores de um
-           único AVV (por ex., um dispositivo partilhado entre utilizadores registados e não registados,
-           entre colegas, na família, na escola) e a diferentes tipos de utilizadores com base na sua
-           condição (por ex., um adulto, uma criança, um idoso ou uma pessoa com deficiência). Embora
-           o AVV possa oferecer uma interação mais fácil com uma ferramenta digital e muitos benefícios
-           em relação a algumas categorias de titulares dos dados, é importante tomar em consideração
-           as especificidades de cada categoria de titulares dos dados e o contexto de utilização do AVV.
+Plurality of data processing
 
-Pluralidade de tratamentos de dados
+     39.   The technologies used to provide a VVA also have an impact on the amount of the processed
+           data and the types of processing. The more a VVA provides services or features and is
+           connected to other devices or services managed by other parties, the more the amount of
+           personal data being processed and repurposing processing increases. This results in a plurality
+           of processing carried out by automated means as described in section 2. Besides automated
+           means, some processing may also involve human means. This is the case for example, when
+           the implemented technology involves human intervention, such as the review of transcription
+           of voices into texts, or the provision of annotations on personal data that can be used to insert
+           new models in a machine-learning technology. This is also the case when humans analyse
+           personal data (e.g. metadata) in order to improve the service provided by a VVA.
 
-     39.   As tecnologias utilizadas para proporcionar um AVV também têm impacto na quantidade dos
-           dados tratados e nos tipos do tratamento. Quanto mais serviços e funções proporciona um
-           AVV e quanto mais este está ligado a outros dispositivos ou serviços geridos por terceiros,
-           maior é a quantidade de dados pessoais tratada e mais se intensifica o tratamento de dados
-           para diferentes finalidades. Tal resulta na pluralidade do tratamento realizado por meios
-           automatizados conforme descrito na secção 2. Para além dos meios automatizados, algum
-           tratamento pode também envolver meios humanos. É o caso, por exemplo, sempre que a
-           tecnologia implementada envolve intervenção humana, como a revisão da transcrição de
-           vozes para texto, ou a realização de anotações sobre dados pessoais que podem ser utilizadas
-           para inserir novos modelos numa tecnologia de aprendizagem automática. Também é o caso
-           sempre que humanos analisam dados pessoais (por ex., metadados) para melhorar o serviço
-           prestado pelo AVV.
+3.2.2 Processing by data controllers and processors
+     40.   Data subjects should be in a position to understand and identify the roles at stake and should
+           be able to contact or act with each stakeholder as required under the GDPR. The distribution
+           of roles should not be to the detriment of the data subjects, even though scenarios can be
+           complicated or evolving. In order to assess their roles, stakeholders are referred to the EDPB
+           Guidelines 7/2020 on the concepts of controller and processor in the GDPR.18
 
-3.2.2 Tratamento pelos responsáveis pelo tratamento de dados e subcontratantes
-     40.   Os titulares dos dados devem estar em condições de compreender e identificar as funções em
-           causa e devem poder contactar ou intervir junto de cada interessado conforme exigido nos
-           termos do RGPD. A distribuição das funções não deve ser feita em detrimento dos titulares
-           dos dados, embora cenários possam ser complexos ou evolutivos. Para avaliarem as suas
-           funções, os interessados devem consultar as Guidelines 07/2020 on the concepts of controller
-           and processor in the GDPR18 do CEPD.
+     41.   As indicated in paragraph 15, the main stakeholders can be identified under the role of a
+           provider or designer, an application developer, an integrator, an owner, or a combination of
+           them. Different scenarios are possible, depending on who is doing what in the stakeholders’
+           business relationship, on the user’s request, the personal data, the data processing activities
+           and their purposes. They should clearly decide and inform data subjects on the conditions
+           under which each of them will act and comply with the resulting roles of controllers, joint-
+           controllers or processors as provided for by the GDPR.19 Each of them may take on one or
 
 
 
 18
-  CEPD, Guidelines 07/2020 on the concepts of controller and processor in the GDPR [Orientações 07/2020
-sobre os conceitos de responsável pelo tratamento e subcontratante no RGPD], V2.0, adotadas em 7 de julho
-de 2021 (a seguir «Guidelines 7/2020»).
-
-
-Adotadas - após consulta pública                                                                         16
-
-     41.    Conforme indicado no n.º 15, os principais interessados podem ser identificados na qualidade
-            de fornecedor ou de criador, de programador de uma aplicação, de integrador, de
-            proprietário, ou de uma combinação destas funções. São possíveis diferentes cenários,
-            dependendo de quem faz o quê na relação profissional dos interessados, do pedido do
-            utilizador, dos dados pessoais, das atividades de tratamento dos dados e das suas finalidades.
-            Deve decidir claramente e informar os titulares dos dados sobre as condições em que cada um
-            deles intervém e cumpre as funções daí resultantes de responsáveis pelo tratamento,
-            responsáveis conjuntos pelo tratamento ou subcontratantes conforme previsto no RGPD.19
-            Cada um deles pode assumir uma ou várias funções, porque pode ser o único responsável pelo
-            tratamento dos dados, um responsável conjunto pelo tratamento, ou um subcontratante para
-            o tratamento de dados, desempenhando simultaneamente outra função em relação a outro
-            tratamento de dados.
-
-     42.    Ao mais alto nível, o criador pode intervir como responsável pelo tratamento dos dados
-            quando determina as finalidades e os meios do tratamento, mas pode intervir como
-            subcontratante quando trata os dados pessoais em nome de outras partes, como um
-            programador da aplicação. O utilizador do AVV estará, por conseguinte, sujeito a vários
-            responsáveis pelo tratamento de dados: o programador da aplicação e o criador. Também é
-            possível que o criador, o integrador e o programador estejam agrupados num único órgão que
-            atua como um único responsável pelo tratamento dos dados. Em todo o caso, as qualificações
-            aplicáveis têm de ser estabelecidas com base numa análise caso a caso.
-
-              Exemplo 1:
-
-              O criador do AVV trata os dados do utilizador para muitas finalidades, incluindo o
-              aperfeiçoamento das competências de compreensão da voz do AVV e a resposta correta dos
-              pedidos. Por conseguinte, embora esta finalidade possa conduzir ao tratamento de dados
-              resultantes da utilização de aplicações fornecidas por terceiros, existe apenas um
-              responsável pelo tratamento dos dados: o criador do AVV, em cujo nome e para cujas
-              finalidades o tratamento é executado.
-
-
-              Exemplo 2:
-
-              Um banco oferece aos seus clientes uma aplicação que pode ser diretamente consultada
-              através do AVV para gerir as respetivas contas.
-
-              Dois intervenientes estão envolvidos no tratamento de dados pessoais: o criador do AVV e
-              o programador da aplicação bancária.
-
-              No cenário apresentado, o banco é o responsável pelo tratamento dos dados para a
-              prestação do serviço uma vez que determina as finalidades e os meios essenciais de
-              tratamento relativos à aplicação que permitem a interação com o assistente. Com efeito,
-              oferece uma aplicação dedicada que permite ao utilizador, um cliente do banco, gerir as
-              suas contas de forma remota. Além disso, decide sobre o meio de tratamento ao escolher o
-              subcontratante adequado, que é o criador do AVV e pode desempenhar um papel
-              importante assistindo com a sua perícia para determinar estes meios (por exemplo, pode
-              operar a plataforma de desenvolvimento que permite a aplicações de terceiros serem
-
-
+   EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR, V2.0, adopted on 7 July
+2021 (hereinafter “Guidelines 7/2020”).
 19
-     RGPD, artigos 12.º a 14.º, artigo 26.º.
+   GDPR, Articles 12-14, Article 26.
 
 
-Adotadas - após consulta pública                                                                       17
+Adopted - after public consultation                                                                           15
 
-             integradas no AVV e, portanto, define o quadro e as condições que devem ser respeitadas
-             pelos programadores de aplicações).
+           several roles, as they may be a unique data controller, a joint-controller, or a data processor
+           for one data processing whereas carrying out another role for another data processing.
 
-       43. Do lado do titular dos dados, importa observar que vários interessados podem tratar os
-           mesmos dados pessoais, mesmo que o titular dos dados não espere realmente que outras
-           partes diferentes do fornecedor do AVV estejam envolvidas na cadeia de tratamento. Assim,
-           quando um titular dos dados interage com o fornecedor do AVV em relação aos seus dados
-           pessoais (por ex., exercício dos direitos do titular dos dados), isso não significa
-           automaticamente que esta ação se aplique aos mesmos dados pessoais que são tratados por
-           outro interessado. Quando estes interessados são responsáveis pelo tratamento
-           independentes, é importante que seja dado um aviso de informação claro aos titulares dos
-           dados, explicando as diversas fases e os diferentes intervenientes do tratamento. Além disso,
-           nos casos de responsáveis pelo tratamento conjuntos, deve ser esclarecido se cada
-           responsável pelo tratamento é competente para cumprir todos os direitos dos titulares dos
-           dados ou que responsável pelo tratamento é competente para que direito.20
+     42.   From a high-level perspective, the designer may act as a data controller when determining the
+           purposes and means of a processing, but may intervene as a data processor when processing
+           personal data on behalf of other parties, such as an application developer. The VVA user would
+           therefore be subject to several data controllers: the application developer and the designer. It
+           is also possible that the designer, the integrator and the developer are grouped into a single
+           body acting as a unique data controller. In any case, the applicable qualifications have to be
+           established on a case-by-case analysis.
 
-             Exemplo 3:
+              Example 1:
 
-             Neste cenário, o criador do AVV pretende utilizar os dados recolhidos e tratados para o
-             serviço proporcionado pelo banco para melhorar o seu sistema de reconhecimento da voz.
-             O criador do AVV, que trata os dados para as suas próprias finalidades, terá, portanto, o
-             estatuto de responsável pelo tratamento para este tratamento específico.
+              The designer of the VVA processes user data for many purposes, including improving the
+              VVA voice comprehension skills and respond accurately to requests. Therefore, and
+              although this purpose may lead to the processing of data resulting from the use of
+              applications provided by third parties, there is only one data controller: the designer of the
+              VVA, on whose behalf and for whose purposes the processing is performed.
 
-     44.   Como podem estar envolvidos na cadeia de tratamento muitos interessados e, por
-           conseguinte, muitos efetivos, podem ocorrer situações de risco se não forem adotadas
-           medidas e salvaguardas adequadas. Os responsáveis pelo tratamento respondem perante os
-           mesmos e devem, portanto, concentrar-se na proteção dos dados pessoais, nomeadamente
-           escolhendo parceiros de negócio e subcontratantes para o tratamento dos dados adequados,
-           aplicando os princípios da privacidade por defeito e desde a conceção,21 implementando
-           condições de segurança adequadas e outras ferramentas do RGPD, tais como auditorias e
-           acordos jurídicos (por ex., o artigo 26.º relativo aos responsáveis conjuntos pelo tratamento
-           ou o artigo 28.º RGPD relativo aos subcontratantes).
 
-     45.   O ecossistema do AVV é um ecossistema complexo, onde potencialmente muitos
-           intervenientes podem trocar e tratar dados pessoais enquanto responsáveis pelo tratamento
-           de dados ou subcontratantes. É muito importante clarificar a função de cada interveniente a
-           respeito de cada tratamento e seguir o princípio da minimização dos dados também em
-           relação ao intercâmbio de dados.
 
-     46.   Além disso, os responsáveis pelo tratamento devem estar vigilantes relativamente às
-           transferências de dados pessoais e garantir o necessário nível de proteção ao longo de toda a
-           cadeia de tratamento, em especial quando utilizam serviços situados fora do EEE.
+              Example 2:
 
-3.3 Transparência
-     47.   Uma vez que os AVV tratam dados pessoais (por ex., a voz dos utilizadores, a localização, ou o
-           conteúdo da comunicação), devem satisfazer os requisitos de transparência do RGPD
-           conforme regulados no artigo 5.º, n.º 1, alínea a), bem como nos artigos 12.º e 13.º
+              A bank offers to its customers an application that can be directly queried via the VVA in
+              order to manage their accounts.
+
+              Two actors are involved in the processing of personal data: the designer of the VVA and the
+              developer of the banking application.
+
+              In the scenario presented, the bank is the data controller for the provision of the service
+              since it determines the purposes and essential means of processing related to the
+              application allowing interaction with the assistant. Indeed, it offers a dedicated application
+              that allows the user, a customer of the bank, to manage his/her accounts remotely. In
+              addition, it decides on the means of processing by choosing appropriate processor, which is
+              the designer of the VVA and can play an important role in assisting with its expertise to
+              determining these means (for example, it can operate the development platform that allows
+              third-party applications to be integrated into the VVA and, therefore, sets the framework
+              and conditions to be respected by application developers).
+
+       43. On the data subject side, it is worth noting that several stakeholders may process the same
+           personal data, even if the data subject does not really expect other parties than the VVA
+           provider to be involved in the processing chain. So when a data subject acts with the VVA
+           provider in relation to his/her personal data (e.g. exercise of data subject’s rights), this does
+           not automatically mean that this action will apply to the same personal data that is processed
+           by another stakeholder. When these stakeholders are independent controllers, it is important
+           that a clear information notice is given to the data subjects, explaining the various stages and
+           actors of the processing. Moreover, in cases of joint controllership, it should be made clear
+           if every controller is competent to comply with all data subject's rights or which controller
+           is competent for which right.20
+
 
 20
-  Guidelines 7/2020, n.º 165.
+     Guidelines 7/2020, par. 165.
+
+
+Adopted - after public consultation                                                                      16
+
+               Example 3:
+
+               In this scenario, the designer of the VVA wishes to use the data collected and processed for
+               the service provided by the bank in order to improve its voice recognition system. The
+               designer of the VVA, who processes the data for its own purposes, will then have the status
+               of controller for this specific processing.
+
+     44.   As many stakeholders may be involved in the processing chain, and respectively many staff,
+           risky situations may occur if no appropriate measures and safeguards are in place. Controllers
+           are accountable for them and therefore should focus on protecting personal data, notably by
+           choosing appropriate business partners and data processors, applying privacy by default and
+           by design principles,21 implementing adequate security and other GDPR tools such as audits
+           and legal agreements (e.g. Articles 26 for joint controllers or 28 GDPR for processors).
+
+     45.   VVA ecosystem is a complex one, where potentially many actors could exchange and process
+           personal data as data controllers or processors. It is of utmost importance to clarify the role of
+           each actor in respect of each processing and to follow the data minimisation principle also in
+           respect of the data exchange.
+
+     46.   In addition, controllers should be vigilant on personal data transfers and guarantee the
+           required level of protection throughout the processing chain, in particular when they use
+           services located outside of the EEA.
+
+3.3 Transparency
+     47.   Since VVAs process personal data (e.g. users’ voice, location or the content of the
+           communication), they must comply with the transparency requirements of the GDPR as
+           regulated in Article 5 (1) (a) as well as Article 12 and Article 13 (enlightened by Recital 58). Data
+           controllers are obliged to inform users of the processing of their personal data in a concise,
+           transparent, intelligible form, and in an easily accessible way.
+
+     48.   Failure to provide necessary information is a breach of obligations that may affect the
+           legitimacy of the data processing. Complying with the transparency requirement is an
+           imperative, since it serves as a control mechanism over the data processing and allows users
+           to exercise their rights. Informing users properly on how their personal data is being used
+           makes more difficult for data controllers to misuse the VVA for purposes that go far beyond
+           user expectations. For example, patented technologies aim to infer health status and
+           emotional states from a user’s voice and adapt the services provided accordingly.
+
+     49.   Complying with the transparency requirements can be particularly difficult for the VVA service
+           provider or any other entity acting as data controller. Given the specific nature of VVAs, data
+           controllers face several obstacles to comply with the GDPR’s transparency requirements:
+
+               Multiple users: data controllers should inform all users (registered, non-registered and
+                accidental users), not only the user setting up the VVA.
+
+
+
+
 21
-  Ver CEPD, Orientações 4/2019 relativas ao artigo 25.º - Proteção de Dados desde a Conceção e por Defeito,
-versão 2.0, adotadas em 20 de outubro de 2020.
+  See EDPB 4/2019 Guidelines on Article 25 Data Protection by Design and by Default, Version 2.0, adopted on
+20 October 2020.
 
 
-Adotadas - após consulta pública                                                                          18
+Adopted - after public consultation                                                                          17
 
-       (esclarecido pelo considerando 58). Os responsáveis pelo tratamento de dados estão
-       obrigados a informar os utilizadores do tratamento dos seus dados pessoais de uma forma
-       concisa, transparente, inteligível e facilmente acessível.
+              Ecosystem complexity: as explained in the technology background section, the identities
+               and roles of those processing personal data when using a VVA is far from evident for the
+               users.
+              Specificities of the vocal interface: digital systems are not yet fit for voice-only interactions
+               as the almost systemic use of a companion screen proves. However, adapting to the vocal
+               interface and being able to inform the user clearly and correctly through this means is a
+               necessity.
+     50.   VVAs can be regarded as finite states machines going through a number of states during their
+           ordinary functioning. They can be listening locally for the detection of wake-up expressions, or
+           interacting with a remote server to resolve a command, but they can assume many other
+           states depending on the context (e.g. if there is background environmental sound) or the user
+           talking to them (e.g. they may talk to an identified or unknown user). Unfortunately, these
+           situations take place in a substantial asymmetry of information with the user, who is hardly
+           aware if the device is listening, and even less on the status in which it lies.
 
- 48.   A não prestação das necessárias informações constitui uma violação de obrigações que pode
-       afetar a legitimidade do tratamento de dados. Cumprir o requisito da transparência é um
-       imperativo, uma vez que funciona como um mecanismo de controlo sobre o tratamento dos
-       dados e permite aos utilizadores exercer os seus direitos. Informar os utilizadores de forma
-       adequada sobre o modo como os seus dados pessoais está a ser utilizado torna mais difícil
-       para os responsáveis pelo tratamento de dados utilizar de forma abusiva o AVV para
-       finalidades que ultrapassam as expetativas do utilizador. Por exemplo, tecnologias
-       patenteadas procuram inferir o estado de saúde e os estados emocionais da voz do utilizador
-       e adaptar os serviços proporcionados em conformidade.
+     51.   It is highly recommended that VVA designers and developers take adequate steps to fill those
+           asymmetries, making the functioning of VVAs more interactive. Users should be informed of
+           the status in which the device currently lies. This enhancement in transparency can be
+           achieved both making the dialogue man-machine more interactive (e.g. the device might
+           acknowledge in some way the reception of a vocal command), or broadcasting the status of
+           the machine with specific signals. There are many options that can be explored in this regard,
+           ranging from the use of specific vocal acknowledgements and visible icons or lights, or the use
+           of displays on the device.
 
- 49.   Cumprir os requisitos de transparência pode ser especialmente difícil para o prestador de
-       serviços de AVV ou para qualquer outra entidade que intervenha como responsável pelo
-       tratamento dos dados. Tendo em conta a natureza específica do AVV, os responsáveis pelo
-       tratamento de dados enfrentam diversos obstáculos para cumprir os requisitos de
-       transparência do RGPD:
+     52.   These issues are especially relevant considering the plurality of users and the presence among
+           them of vulnerable categories of individuals, such as children, elderly people or users with
+           audio-visual disabilities.
 
-          Múltiplos utilizadores: os responsáveis pelo tratamento de dados devem informar todos
-           os utilizadores (registados, não registados e utilizadores acidentais), e não apenas o
-           utilizador que instala o AVV.
-          Complexidade do ecossistema: conforme explicado na secção relativa ao contexto
-           tecnológico, as identidades e as funções dos que tratam dados pessoais quando utilizam
-           um AVV estão longe de ser óbvias para utilizadores.
-          Especificidades da interface vocal: os sistemas digitais ainda não são adequados para as
-           interações exclusivas de voz, como é demonstrado pela utilização quase sistémica do ecrã
-           interligado. No entanto, a adaptação à interface vocal e a possibilidade de informar o
-           utilizador de forma clara e correta através deste meio são necessárias.
- 50.   Os AVV podem ser considerados máquinas de estados finitas que passam por vários estados
-       durante o seu funcionamento normal. Podem ouvir localmente a deteção de expressões de
-       despertar, ou interagir com um servidor remoto para resolver um comando, mas podem
-       assumir muitos outros estados dependendo do contexto (por ex., se há um fundo sonoro
-       ambiental) ou do facto de o utilizador lhe falar (por ex., podem falar para um utilizador
-       identificado ou desconhecido). Infelizmente, estas situações ocorrem numa importante
-       assimetria de informações com o utilizador, que dificilmente se dá conta de que o dispositivo
-       está a escutar, e menos ainda do estado em que este se encontra.
+     53.   Two important questions become evident from the issues above: what is it the most feasible
+           way to inform users and when is the appropriate time to inform them? These issues should be
+           further examined in two different situations, depending on whether the VVA has only one user
+           (such as a personal smart phone) or potentially multiple users (e.g. smart home device). Using
+           the VVA technology, a subversion of these two basic settings could also occur, e.g. when a user
+           has a personal smart phone and connects this to a car. The VVA of the smart phone, which
+           could reasonably be expected to be used by that user only, is now “extended” to the others in
+           the car.
 
- 51.   É vivamente recomendado que os criadores e os programadores de AVV tomem medidas
-       adequadas para preencher essas assimetrias, tornando o funcionamento do AVV mais
-       interativo. Os utilizadores devem ser informados do estado em que se encontra atualmente o
-       dispositivo. Este reforço da transparência pode ser alcançado tornando mais interativo o
-       diálogo homem-máquina (por ex., o dispositivo poderia reconhecer, de alguma forma, a
-       receção de um comando vocal), ou transmitindo o estado da máquina com sinais específicos.
-       Há muitas opções que podem ser exploradas a este respeito, desde a utilização de
-       reconhecimentos vocais específicos e ícones ou luzes visíveis, à utilização de ecrãs no
-       dispositivo.
-
-
-
-
-Adotadas - após consulta pública                                                                 19
-
-     52.   Estas questões são especialmente pertinentes tendo em conta a pluralidade de utilizadores e
-           a presença entre eles de categorias vulneráveis de indivíduos, tais como crianças, idosos ou
-           utilizadores portadores de deficiências audiovisuais.
-
-     53.   Duas questões importantes resultam claramente dos aspetos acima focados: qual é a forma
-           mais viável para informar os utilizadores e quando seria o momento oportuno para informá-
-           los? Estas questões devem ser melhor examinadas em duas situações diferentes, dependendo
-           da questão de saber se o AVV só tem um utilizador (como um smartphone pessoal) ou se tem
-           potencialmente múltiplos utilizadores (por ex., um dispositivo de casa inteligente). Utilizando
-           a tecnologia AVV, também poderia ocorrer a subversão destas duas configurações básicas, por
-           ex., quando o utilizador tem um smartphone pessoal e o liga ao automóvel. O AVV do
-           smartphone que se poderia razoavelmente esperar ser utilizado apenas por esse utilizador, é
-           então «alargado» aos outros passageiros do automóvel.
-
-     54.   Atualmente, todos os AVV estão ligados a uma conta de utilizador e/ou configurados por uma
-           aplicação que exige uma conta. A questão de saber de que modo os responsáveis pelo
-           tratamento de dados poderiam considerar informar estes utilizadores sobre a política de
-           privacidade enquanto configuram o AVV deve ser resolvida de acordo com o descrito nas
-           Orientações relativas à transparência do Grupo de trabalho do artigo 29.º . As apps deveriam
-           disponibilizar as necessárias informações numa loja em linha antes da descarga22. Deste modo,
-           as informações são dadas tão cedo quanto possível e o mais tardar no momento em que os
-           dados pessoais são obtidos. Alguns fornecedores do AVV incluem apps de terceiros na
-           configuração por defeito do AVV, para que estas apps possam executar aquelas apps utilizando
-           expressões de despertar específicas. Os AVV que utilizam esta estratégia de recurso a apps de
-           terceiros devem garantir que os utilizadores também obtenham as necessárias informações
-           sobre o tratamento.
-
-     55.   No entanto, muitos criadores de AVV exigem contas de utilizador do AVV que agrupam o
-           serviço de AVV com muitos outros serviços, como o correio eletrónico, a transferência de vídeo
-           em contínuo ou a realização de compras, para citar alguns exemplos. A decisão do criador do
-           AVV de associar a conta a muitos serviços diferentes tem o efeito de exigir muitas políticas de
-           privacidade extensas e complexas. A extensão e complexidade de tais políticas de privacidade
-           dificultam consideravelmente o cumprimento do princípio da transparência.
-
-             Exemplo 4:
-
-             O criador de AVV exige aos seus utilizadores que tenham uma conta para aceder ao serviço
-             de AVV. Esta conta de utilizador não é específica do serviço de AVV e pode ser utilizada para
-             outros serviços oferecidos pelo criador do AVV, tais como correio eletrónico,
-             armazenamento em nuvem e redes sociais. Para criar uma conta, os utilizadores têm de ler
-             e aceitar uma política de privacidade de 30 páginas. A política inclui informações sobre o
-             tratamento de dados pessoais por todos os serviços que podiam estar associados à conta.
-
-             As informações fornecidas pelo criador do AVV neste caso não devem ser consideradas
-             concisas e a sua complexidade reduz a necessária transparência. Por conseguinte, o criador
-             do AVV não cumpriria os requisitos de transparência estabelecidos nos artigos 12.º e 13.º
-             RGPD.
+     54.   Currently, all VVAs are connected to a user account and/or are set up by an application that
+           requires one. The question of how data controllers could consider informing these users about
+           the privacy policy while setting up the VVA should be addressed as described in the Article 29
+           Working Party Guidelines on transparency. Apps should make the necessary information
+           available in an online store prior to download22. This way the information is given the earliest
+           time possible and at the latest, at the time the personal data is obtained. Some VVA providers
+           include third-party apps in the VVA default setup so these apps can execute those apps by
+           using specific wake up expressions. VVAs using this third-party app deployment strategy
+           should ensure that users get the necessary information also on the third-party processing.
 
 
 22
-  Orientações relativas à transparência na aceção do Regulamento 2016/679, WP260 rev. 01, aprovadas pelo
-CEPD (a seguir «Orientações WP260 do Grupo de Trabalho do artigo 29.º»), n.º 11.
+  Guidelines on transparency under Regulation 2016/679, WP260 rev. 01, endorsed by EDPB (hereinafter
+“WP29 Guidelines WP260”), paragraph 11.
 
 
-Adotadas - após consulta pública                                                                       20
+Adopted - after public consultation                                                                          18
 
-     56.   Embora a forma mais comum de proporcionar as necessárias informações seja por escrito, o
-           RGPD também permite «outros meios». O considerando 58 refere expressamente que as
-           informações poderão ser fornecidas por via eletrónica, por exemplo num sítio web. Além
-           disso, ao escolher o método adequado para informar os titulares dos dados, devem ser tidas
-           em conta as circunstâncias específicas, tais como a forma de interação entre o responsável
-           pelo tratamento dos dados e o titular dos dados.23 Uma opção para os dispositivos sem ecrã
-           poderia ser o fornecimento de um link que seja fácil de entender, diretamente ou num e-mail.
-           As soluções já existentes podiam servir de exemplo da informação dos titulares de dados, por
-           ex., as práticas dos centros de atendimento telefónico de notificação do autor da chamada do
-           facto de a chamada estar a ser gravada e a sua remissão para as políticas de privacidade. As
-           limitações dos AVV sem ecrãs não isenta o responsável pelo tratamento dos dados da
-           obrigação de facultar a necessária informação de acordo com o RGPD ao configurar o AVV ou
-           ao instalar ou utilizar uma app do AVV. Os fornecedores e os programadores do AVV devem
-           desenvolver interfaces baseadas na voz para facilitar as informações obrigatórias.
+     55.   However, many VVA designers require VVA user accounts that bundle the VVA service with
+           multiple other services like email, video streaming or purchases to name a few. The decision
+           by the VVA designer of linking the account to many different services has the effect of requiring
+           very lengthy and complex privacy policies. The length and complexity of such privacy policies
+           greatly hinder fulfilling the transparency principle.
 
-     57.   Os AVV poderiam ser de grande interesse para os utilizadores com deficiências de visão uma
-           vez que proporcionam um meio de interação alternativo em relação aos serviços de IT que
-           tradicionalmente se baseiam em informações visuais. Nos termos do artigo 12.º, n.º 1, RGPD,
-           a informação pode ser prestada oralmente apenas se o titular dos dados o solicitar, mas não
-           como método por defeito. No entanto, as limitações dos AVV sem ecrãs exigiriam meios de
-           informação oral automatizados que poderiam ser aumentados por meios escritos. Ao utilizar
-           o áudio para informar os titulares dos dados, os responsáveis pelo tratamento de dados devem
-           proporcionar a necessária informação de uma forma que seja concisa e clara. Além disso,
-           titulares dos dados devem poder to ouvir de novo o áudio24.
+             Example 4:
 
-     58.   Tomar as medidas adequadas para cumprir os requisitos de transparência do RGPD é mais
-           complexo quando existem múltiplos utilizadores do AVV diferentes do proprietário do
-           dispositivo. Os criadores do AVV devem procurar informar de forma adequada os utilizadores
-           não registados e os utilizadores acidentais quando os seus dados pessoais são tratados.
-           Sempre que o consentimento constitua a base jurídica do tratamento dos dados dos
-           utilizadores, os utilizadores devem ser devidamente informados para que o consentimento
-           seja válido25.
+             A VVA designer requires its users to have an account to access the VVA service. This user
+             account is not specific to the VVA service and can be used for other services offered by the
+             VVA designer such as email, cloud storage and social media. To create the account, users
+             have to read and accept a 30 pages long privacy policy. The policy includes information on
+             the processing of personal data by all the services that could be linked with the account.
 
-     59.   Para cumprir o RGPD, os responsáveis pelo tratamento de dados devem encontrar um modo
-           de informar não só os utilizadores registados, mas também os utilizadores não registados e os
-           utilizadores do AVV acidentais. Estes utilizadores devem ser informados tão cedo quanto
-           possível e o mais tardar, no momento do tratamento. Esta condição poderia ser
-           especialmente difícil de cumprir na prática.
+             The information provided by the VVA designer in this case should not be deemed as concise
+             and its complexity reduces the required transparency. Therefore, the VVA designer would
+             not be complying with the transparency requirements as set out in Articles 12 and 13 GDPR.
 
-     60.   Determinadas especificidades da empresa também não devem ser prejudiciais para os
-           titulares dos dados. Como muitos interessados são empresas globais ou empresas conhecidas
-           por uma atividade específica (por ex., telecomunicações, comércio eletrónico, tecnologias da
-           informação, atividades Web), a forma como prestam o serviço de AVV deve ser clara. A
-           informação adequada a fornecer aos titulares dos dados deve permitir-lhes compreender se a
-           sua utilização do AVV estará ou não associada a outras atividades de tratamento geridas pelo
+     56.   Although the most common way to provide necessary information is in writing, the GDPR
+           allows “other means” as well. Recital 58 explicitly states that the information can be given in
+           electronic form, e.g. through a website. In addition, when choosing the appropriate method
+           to inform the data subjects, account should be taken to the specific circumstances, such as the
+           manner the data controller and the data subject otherwise interact with each other.23 An
+           option for devices without a screen could be to provide a link which is easy to understand,
+           either directly or in an e-mail. Already existing solutions could serve as example for the
+           information, e.g. call centres’ practices of notifying the caller about a phone call being
+           recorded and directing them to their privacy policies. The constraints of screen less VVA does
+           not exempt the data controller from providing the necessary information according to the
+           GDPR when setting up the VVA or installing or using a VVA app. VVA providers and developers
+           should develop voice-based interfaces to facilitate the mandatory information.
+
+     57.   VVAs could be of great interest for users with impaired vision since they provide an alternative
+           interaction means with the IT services that traditionally rely on visual information. According
+           to Article 12 (1) GDPR providing the necessary information orally is possible exclusively if
+           requested so by the data subject, but not as the default method. However, the constraints of
+           screen less VVAs would require automated oral information means that could be augmented
+           by written means. When using audio to inform data subjects, data controllers should provide
+           the necessary information in a way that is concise and clear. Furthermore, data subjects should
+           be able to re-listen24.
+
+     58.   Taking the appropriate measures to comply with GDPR transparency requirements is more
+           complex when there are multiple users of the VVA other than the owner of the device. VVA
+           designers must consider how to properly inform non-registered and accidental users when
+           their personal data is processed. When consent is the legal basis for processing users’ data,
+           users must be properly informed for the consent to be valid 25.
+
 
 
 
 23
-   Orientações WP260 do Grupo de Trabalho do artigo 29.º, n.º 19.
+   WP29 Guidelines WP260, paragraph 19.
 24
-   Orientações WP260 do Grupo de Trabalho do artigo 29.º, n.º 21.
+   WP29 Guidelines WP260, paragraph 21.
 25
-   RGPD, artigo 4.º, n.º 11.
+   GDPR, Article 4 (11).
 
 
-Adotadas - após consulta pública                                                                     21
+Adopted - after public consultation                                                                      19
 
-       prestador de serviços de AVV (por ex., telecomunicações, comércio eletrónico, tecnologias da
-       informação ou atividades Web) para além da utilização estrita do AVV.
+ 59.    In order to comply with the GDPR, data controllers should find a way to inform not only
+        registered users, but also non-registered users and accidental VVA users. These users should
+        be informed at the earliest time possible and at the latest, at the time of the processing. This
+        condition could be especially difficult to fulfil in practice.
 
-          Exemplo 5:
+ 60.    Certain corporate specificities should also not be detrimental to the data subjects. As many
+        stakeholders are global companies or are well known for a specific business activity (e.g.
+        telecommunication, e-commerce, information technologies, web activities), the way they
+        provide a VVA service should be clear. Adequate information should make the data subjects
+        understand whether or not their use of the VVA will be linked to other processing activities
+        managed by the VVA service provider (e.g. telecommunication, e-commerce, information
+        technologies or web activities) apart from the strict use of the VVA.
 
-          Para utilizar o seu assistente, um criador de AVV que também fornece uma plataforma de
-          redes e um motor de busca, exige que o utilizador associe a sua conta ao assistente. Ao
-          associar a sua conta à utilização do AVV, o criador pode, assim, reforçar o perfil dos seus
-          utilizadores através da utilização do assistente, das aplicações (ou skills) instaladas, das
-          encomendas efetuadas, etc. Por conseguinte, as interações com o assistente constituem
-          uma nova fonte de informações associada a um utilizador. O criador de AVV deve
-          proporcionar aos utilizadores informações claras sobre o modo como os seus dados serão
-          tratados em relação a cada serviço e controlos que permitam ao utilizador decidir se os
-          dados serão ou não utilizados para a definição de perfis.
+          Example 5:
 
-Recomendações
- 61.   Sempre que os utilizadores sejam informados sobre o tratamento de dados pessoais pelo AVV
-       mediante utilização da política de privacidade da conta de utilizador e a conta estiver associada
-       a outros serviços independentes (por ex., o correio eletrónico ou as compras em linha), o CEPD
-       recomenda que a política de privacidade tenha uma secção claramente separada relativa ao
-       tratamento de dados pessoais pelo AVV.
+          To use its assistant, a VVA designer which also provides a social media platform and a search
+          engine, requires the user to link his/her account to the assistant. By linking his/her account
+          to the use of the VVA, the designer can thus enhance the profile of its users through the use
+          of the assistant, the applications (or skills) that are installed, the orders placed, etc. Hence
+          assistant interactions are a new source of information attached to a user. VVA designer
+          should provide users’ with clear information as to how their data will be processed for each
+          service and with controls allowing the user to choose if the data will be used or not for
+          profiling.
 
- 62.   A informação fornecida ao utilizador deve corresponder exatamente à recolha e ao tratamento
-       realizados. Embora uma amostra de voz contenha alguma meta-informação (por ex., o nível
-       de stress do interlocutor), não é imediatamente claro que uma tal análise seja efetuada. É
-       crucial que os responsáveis pelo tratamento sejam transparentes em relação aos aspetos
-       específicos que tratam dos dados em bruto.
+Recommendations
+ 61.    When users are informed about the VVA processing of personal data using a user account’s
+        privacy policy and the account is linked to other independent services (e.g. email or online
+        purchases), the EDPB recommends the privacy policy to have a clearly separated section
+        regarding the VVA processing of personal data.
 
- 63.   Além disso, o estado em que se encontra o AVV deve ser sempre evidente. Os utilizadores
-       devem poder determinar se o AVV está realmente a escutar no seu ciclo fechado e, sobretudo,
-       se está a transmitir em contínuo informações para o seu sistema de retaguarda. Esta
-       informação deve também ser acessível em relação às pessoas com deficiências como o
-       daltonismo ou a surdez (anacusia). O facto de o AVV sugerir um cenário de utilização em que
-       o contacto visual com o dispositivo não é necessário deve ser objeto de atenção específica.
-       Assim, todas as reações do utilizador, incluindo as mudanças de estado, devem estar
-       disponíveis pelo menos na forma visual e acústica.
+ 62.    The information provided to the user should match the exact collection and processing that is
+        carried out. While some meta-information is contained in a voice sample (e.g. stress level of
+        the speaker), it is not automatically clear, whether such analysis is performed. It is crucial that
+        controllers are transparent on what specific aspects of the raw data they process.
 
- 64.   Deve ser prestada especial consideração ao facto de os dispositivos permitirem adicionar
-       funcionalidades de terceiros («apps» para AVV). Embora possam ser fornecidas algumas
-       informações gerais ao utilizador quando é este quem adiciona a funcionalidade (uma vez que
-       se trata de uma decisão do utilizador), durante a utilização normal do dispositivo, os limites
-       entre os diversos responsáveis pelo tratamento envolvidos pode ser muito menos claro, i. é o
-       utilizador poderá não estar suficientemente informado sobre o modo como e por quem os
-       seus dados são tratados (e até que ponto) numa consulta específica.
+ 63.    Furthermore it should at all times be apparent which state the VVA is in. Users should be able
+        to determine whether a VVA is currently listening on its closed-loop circuit and especially
+        whether it is streaming information to its back-end. This information should also be accessible
+        for people with disabilities such as colour blindness (daltonism), deafness (anaccousia).
+        Specific care should be given to the fact that VVAs suggest a usage scenario where eye-contact
+        to the device is not necessary. So, all user feedback, including state changes should be available
+        in visual and acoustic form at least.
 
- 65.   Todas as informações sobre tratamento baseado em dados recolhidos e resultantes do
-       tratamento da voz gravada também devem estar disponíveis para os utilizadores nos termos
-       do artigo 12.º RGPD.
-
- 66.   Os responsáveis pelo tratamento de AVV devem ser transparentes em relação ao tipo de
-       informações que o AVV pode extrair do ambiente circundante, incluindo sem limitação as
-
-
-Adotadas - após consulta pública                                                                     22
-
-           outras pessoas presentes no local, a música de fundo, qualquer tratamento da voz para outras
-           finalidades médicas ou de marketing, animais domésticos, etc.
-
-3.4 Limitação da finalidade e base jurídica
-     67.   O tratamento de pedidos vocais pelo AVV tem uma finalidade evidente, a execução do pedido.
-           No entanto, existem frequentemente finalidades adicionais que são menos evidentes, como o
-           aperfeiçoamento das capacidades de compreensão da linguagem natural do AVV através da
-           formação do modelo do AVV com técnicas de aprendizagem automática. As finalidades mais
-           comuns de tratamento de dados pessoais pelo AVV incluem:
-
-                A execução de pedidos dos utilizadores
-                O aperfeiçoamento do AVV através da formação do modelo da aprendizagem
-                 automática e da revisão humana e etiquetagem das transcrições da voz
-                A identificação do utilizador (mediante utilização de dados de voz)
-                A definição de perfis do utilizador para conteúdos personalizados ou para publicidade
-
-     68.   Devido ao seu papel de intermediários e ao modo como são concebidos, os AVV tramitam uma
-           grande variedade de dados pessoais e de dados não pessoais. Tal permite o tratamento de
-           dados pessoais para muitas finalidades que ultrapassam a simples resposta a pedidos dos
-           utilizadores e que podiam passar por despercebidos. Mediante a análise dos dados recolhidos
-           através dos AVV, é possível saber ou inferir os interesses, horários, percursos ou hábitos de
-           condução do utilizador. Isso poderia permitir o tratamento de dados pessoais para fins
-           imprevistos (por ex., a análise de sentimentos ou a avaliação da condição física26), o que estaria
-           muito além das expetativas razoáveis do utilizador.
-
-     69.   Os responsáveis pelo tratamento de dados devem especificar claramente a(s) sua(s)
-           finalidade(s) em relação ao contexto em que o AVV é utilizado, de modo que estas sejam
-           claramente entendidas pelos titulares dos dados (por ex., apresentando as finalidades por
-           categorias). De acordo com o artigo 5.º, n.º 1, RGPD, os dados pessoais devem ser recolhidos
-           para finalidades determinadas, explícitas e legítimas, não podendo ser tratados
-           posteriormente de uma forma incompatível com essas finalidades.
-
-3.4.1 Execução dos pedidos dos utilizadores
-     70.   A principal utilização de um AVV consiste em emitir comandos vocais que necessitam de ser
-           executados pelo AVV ou por uma app ou um serviço associados (por ex., um serviço de
-           transferência em contínuo de música, um serviço de localização ou uma fechadura eletrónica).
-           A voz do utilizador e, potencialmente, outros dados (por ex., a posição do utilizador ao solicitar
-           o percurso para um determinado destino) podem, por conseguinte ser tratados.
-
-             Exemplo 6:
-
-             O passageiro de um veículo inteligente que inclui um AVV solicita o percurso para a estação
-             de gás mais próxima. O AVV trata a voz do utilizador para compreender o comando e a
-             posição do veículo para encontrar o percurso e envia o percurso para o componente
-             inteligente para mostrá-lo no ecrã do veículo.
+ 64.    Particular consideration should be applied if devices allow adding third party functionality
+        (“apps” for VVAs). While some general information can be given to the user when they are the
+        ones adding such functionality (given that it is the user’s choice), during normal use of the
+        device, the boundaries between the various controllers involved can be much less clear, i.e.
+        the user might be not sufficiently informed how and by whom their data is processed (and to
+        which extent) in a specific query.
 
 
 
+
+Adopted - after public consultation                                                                     20
+
+     65.   All information about processing based on data collected and derived from the processing of
+           recorded voice should also be available to users according to article 12 GDPR.
+
+     66.   VVA controllers should make transparent what kind of information a VVA can derive about its
+           surroundings, such as but not limited to other people in the room, music running in the
+           background, any processing of the voice for medical or marketing other reasons, pets, etc.
+
+3.4 Purpose limitation and legal basis
+     67.   The processing of voice requests by VVAs has an evident purpose, the execution of the request.
+           However, there often are additional purposes which are not so evident, like the improvement
+           of the VVA natural language understanding capacities by training VVA model with machine
+           learning techniques. Among the most common purposes for processing personal data by VVAs
+           we find:
+
+                Execute users’ requests
+                VVA improvement by training of the machine learning model and human review and
+                 labelling of voice transcriptions
+                User identification (using voice data)
+                User profiling for personalized content or advertising
+
+     68.   Due to their role as intermediaries and the way they are designed, VVAs process a wide variety
+           of personal and non-personal data. This allows processing personal data for many purposes
+           that go beyond answering the users’ requests and that could go totally unnoticed. By analysing
+           data collected via VVAs, it is possible to know or infer user interests, schedules, driving routes
+           or habits. This could enable personal data processing for unforeseen purposes (e.g. sentiment
+           analysis or health condition assessment26), which would be far beyond the reasonable user
+           expectations.
+
+     69.   Data controllers should clearly specify their purpose(s) in relation to the context in which the
+           VVA is used, so that they are clearly understood by the data subjects (e.g. presenting purposes
+           in categories). In line with Article 5(1) GDPR, the personal data should be collected for specific,
+           explicit and legitimate purposes and not further processed in a manner that is incompatible
+           with these purposes.
+
+3.4.1 Execute users’ requests
+     70.   The main use for a VVA is to issue voice commands that need to be executed by the VVA or an
+           associated app or service (e.g. a music streaming service, a mapping service or an electronic
+           lock). The user’s voice and potentially other data (e.g. the user’s position when requesting a
+           route for a certain destination) might therefore be processed.
+
+             Example 6:
+
+             The passenger of a smart car including a VVA requests a route to the closest gas station. The
+             VVA processes the user voice to understand the command and the car’s position to find the
+             route and sends it to the smart component to show it in the car’s screen.
+
+     71.   Insofar as the processing of voice commands involves the storage or access to information
+           stored in the terminal devices of the end-user, Article 5(3) of the e-Privacy Directive must be
 
 26
-  Eoghan Furey, Juanita Blue, «Alexa, Emotion, Privacy and GDPR», comunicação apresentada na Human
-Computer Interaction Conference em julho [de 2018].
+  Eoghan Furey, Juanita Blue, “Alexa, Emotion, Privacy and GDPR”, Conference paper, Human Computer
+Interaction Conference, July [2018].
 
 
-Adotadas - após consulta pública                                                                          23
+Adopted - after public consultation                                                                        21
 
-     71.   Na medida em que o tratamento de comandos vocais envolva o armazenamento ou o acesso
-           a informações armazenadas nos dispositivos terminais do utilizador final, é necessário cumprir
-           o artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica. Embora o artigo 5.º, n.º 3, inclua o
-           princípio geral de que tal armazenamento ou acesso exige o consentimento prévio do
-           utilizador final, também prevê a isenção do requisito do consentimento sempre que «seja
-           estritamente necessário ao fornecedor para fornecer um serviço da sociedade da informação
-           que tenha sido expressamente solicitado pelo assinante ou pelo utilizador». Na medida em
-           que sejam tratados para executar os pedidos do utilizador, os dados de voz estão isentos do
-           requisito do consentimento prévio.
+           complied with. While Article 5(3) includes the general principle that such storage or access
+           requires the prior consent of the end-user, it also provides for an exemption to the consent
+           requirement where it is “strictly necessary in order for the provider of an information society
+           service explicitly requested by the subscriber or user to provide the service”. Insofar as the
+           voice data is processed in order to execute the user’s requests, it is exempted from the
+           requirement of prior consent.
 
-     72.   Conforme indicado anteriormente, todas as operações de tratamento de dados pessoais
-           subsequentes ao armazenamento ou ao acesso a informações no dispositivo terminal de
-           utilizadores finais devem ter uma base jurídica nos termos do artigo 6.º RGPD para serem
-           legais.
+     72.   As indicated earlier, any processing operations of personal data subsequent to the storage or
+           access to information in the terminal device of end-users must have a legal basis under Article
+           6 GDPR to be lawful.
 
-     73.   No AVV ocorrem duas operações de tratamento consecutivas. Conforme acima mencionado,
-           a primeira exige o acesso ao AVV (e, portanto, devem cumprir-se as condições do artigo 5.º,
-           n.º 3, da Diretiva Privacidade Eletrónica). Para além das condições do artigo 5.º, n.º 3, da
-           Diretiva Privacidade Eletrónica, o segundo passo também exige uma base jurídica nos termos
-           do artigo 6.º RGPD.
+     73.   There are two consecutive processing operations taking place on the VVA. As mentioned above
+           the first one requires access to the VVA (and therefore the conditions of Article 5(3) e-Privacy
+           Directive must be met). In addition to the conditions of Article 5(3) e-Privacy Directive, this
+           second step also requires a legal basis under Article 6 GDPR.
 
-     74.   Sempre que um indivíduo toma a decisão de utilizar um AVV, esta ação implica geralmente
-           que o utilizador inicial necessite primeiro de registar uma conta para ativar o AVV. Por outras
-           palavras, esta situação refere-se a uma relação contratual27 entre o utilizador registado e o
-           responsável pelo tratamento do AVV. Tendo em conta o seu conteúdo e objetivo fundamental,
-           este contrato tem essencialmente por objeto a utilização do AVV para executar o pedido de
-           assistência do utilizador.
+     74.   When an individual takes the decision to use a VVA, this action generally implies that the initial
+           user first needs to register an account to activate the VVA. In other words, this situation refers
+           to a contractual relationship27 between the registered user and the VVA controller. In view of
+           its substance and fundamental objective, the core purpose of this contract is to use the VVA
+           in order to execute the user’s request of assistance.
 
-     75.   Qualquer tratamento de dados pessoais que seja necessário para executar o pedido do
-           utilizador pode, portanto, invocar a base jurídica da execução do contrato28. Tal tratamento
-           inclui nomeadamente a captação do pedido vocal do utilizador, a sua transcrição para texto, a
-           sua interpretação, as informações trocadas com fontes de conhecimento para preparar a
-           resposta e, em seguida, a transcrição uma resposta vocal final que encerra o pedido do
-           utilizador.
+     75.   Any personal data processing that is necessary to execute the user’s request can therefore rely
+           on the legal basis of the performance of the contract28. Such processing notably includes the
+           capture of the user’s voice request, its transcription to text, its interpretation, the information
+           exchanged with knowledge sources to prepare the reply and then, the transcription to a vocal
+           final reply that ends the user’s request.
 
-     76.   A execução de um contrato pode ser a base jurídica do tratamento de dados pessoais
-           mediante utilização da aprendizagem automática sempre que este seja necessário para a
-           prestação do serviço. O tratamento de dados pessoais mediante utilização da aprendizagem
-           automática para outras finalidades não necessárias, tais como o aperfeiçoamento do serviço
-           não pode decorrer dessa base jurídica.
+     76.   Performance of a contract can be a legal basis for processing personal data using machine
+           learning (ML) when it is necessary for the provision of the service. Processing personal data
+           using ML for other purposes which are not necessary such as service improvement should not
+           rely on that legal basis.
 
-     77.   Por último, mas não menos importante, as bases jurídicas da execução do contrato e do
-           consentimento na aceção do RGPD não devem ser confundidas. O consentimento concedido
+     77.   Last but not least, the legal bases of the performance of the contract and consent under the
+           GDPR should not be confused. The consent provided for entering into, i. e. agreeing to the
+           contract is part of the validity of this contract and does not refer to the specific meaning of the
+           consent under the GDPR29.
 
+     78.   When using a VVA does not require to previously configure a user account to the VVA, consent
+           could be a possible legal basis.
 
-
+3.4.2 Improve the VVA by training the ML systems and manually reviewing of the voice and
+      transcripts
+     79.   The accents and variations of human speech are vast. While all VVAs are functional once out
+           of the box, their performance can improve by adjusting them to the specific characteristics of
 
 27
-   Desde que «o contrato [seja] válido nos termos do direito dos contratos nacional», extrato das Diretrizes
-2/2019 sobre o tratamento de dados pessoais ao abrigo do artigo 6.º, n.º 1, alínea b), do RGPD no contexto da
-prestação de serviços em linha a titulares dos dados (a seguir «Diretrizes 2/2019»), n.º 26.
+   Provided that “the contract is valid pursuant to applicable national contract laws”, extract from Guidelines
+2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online
+services to data subjects (“Guidelines 2/2019”), §26.
 28
-   De acordo com as Diretrizes 2/2019, que referem, além disso, que o Parecer 06/2014 continua a ser relevante
-para o artigo 6.º, n.º 1, alínea b), e o RGPD (ver, em especial, as páginas 11, 16, 17, 18 e 55 deste Parecer 06/2014).
-
-
-Adotadas - após consulta pública                                                                                    24
-
-           para a celebração ou aceitação do contrato constitui um elemento da validade do contrato e
-           não se refere ao significado específico do consentimento na aceção do RGPD29.
-
-     78.   Sempre que a utilização do AVV não exija a configuração prévia de uma conta de utilizador do
-           AVV, o consentimento poderá constituir uma eventual base jurídica.
-
-3.4.2 Aperfeiçoamento do AVV através da formação dos sistemas de aprendizagem
-      automática e da revisão manual da voz e das transcrições
-     79.   Existe uma quantidade incomensurável de sotaques e variações da fala humana. Embora todos
-           os AVV sejam operacionais de fábrica, o seu desempenho pode melhorar se forem ajustados
-           às características específicas da fala do utilizador. Conforme mencionado na secção 2.6, este
-           processo de adaptação baseia-se em métodos de aprendizagem automática e é constituído
-           por dois processos: o aditamento ao conjunto de dados de formação do AVV de novos dados
-           recolhidos dos seus utilizadores e a análise humana dos dados tratados para a execução de
-           uma fração dos pedidos.
-
-             Exemplo 7:
-
-             Um utilizador do AVV tem de emitir três vezes o mesmo comando de voz pelo facto do AVV
-             não o ter entendido. Os três comandos vocais e as transcrições associadas são transmitidos
-             a revisores humanos para que revejam e corrijam as transcrições. Os comandos vocais e as
-             transcrições são adicionados ao conjunto de dados de formação do AVV para melhorar o
-             seu desempenho.
-
-       80. As atividades de tratamento descritas no exemplo não devem ser consideradas (estritamente)
-           «necessári[as] para a execução de um contrato» na aceção do artigo 6.º, n.º 1, alínea b), RGPD
-           e, portanto, exigem uma base jurídica diferente do artigo 6.º RGPD. Com efeito, os AVV já
-           estão prontos a funcionar de fábrica e podem realizar as operações (estritamente) necessárias
-           para a execução do contrato. O CEPD não considera que o artigo 6.º, n.º 1, alínea b), constitua,
-           em geral, um fundamento jurídico adequado para o tratamento com a finalidade de melhorar
-           um serviço ou de desenvolver novas funções no âmbito de um serviço existente. Na maioria
-           dos casos, um utilizador celebra um contrato para utilizar um serviço existente. Embora a
-           possibilidade de melhorias e modificações de um serviço possa ser sistematicamente incluída
-           nas cláusulas contratuais, esse tratamento não pode, por regra, ser considerado
-           objetivamente necessário para a execução do contrato com o utilizador.
-
-3.4.3 Identificação do utilizador30 (mediante utilização de dados de voz)
-     81.   A utilização de dados de voz para a identificação do utilizador implica o tratamento de dados
-           biométricos na aceção do artigo 4.º, ponto 14) do RGPD. Consequentemente, o responsável
-
-
-
-
+   In accordance with the Guidelines 2/2019, which moreover states that the Opinion 06/2014 remains relevant
+to Article 6(1)(b) and the GDPR (see in particular pages 11, 16, 17, 18 and 55 in this Opinion 06/2014).
 29
-  Ver Diretrizes 2/2019, respetivamente n.os 18, 19, 20, 21 e 27.
+   See Guidelines 2/2019, respectively §18, §19, §20, §21 and §27.
+
+
+Adopted - after public consultation                                                                         22
+
+           users’ speech. As mentioned in section 2.6, this adjustment process relies on machine learning
+           methods and consists of two processes: adding to the VVA training dataset new data collected
+           from its users and the human review of the data processed for the execution of a fraction of
+           the requests.
+
+             Example 7:
+
+             A VVA user has to issue three times the same voice command due to the VVA not
+             understanding it. The three voice commands and the associated transcriptions are passed
+             to human reviewers to review and correct the transcriptions. The voice commands and
+             reviewed transcriptions are added to the VVA training dataset to improve its performance.
+
+       80. The processing activities described in the example should not be considered as (strictly)
+           “necessary for the performance of a contract” within the meaning of Article 6(1)(b) GDPR, and
+           therefore require another legal basis from Article 6 GDPR. The main reason being that VVAs
+           are already functional when they come out of the box and can already perform as (strictly)
+           necessary for the performance of the contract. The EDPB does not consider that Article 6(1)(b)
+           would generally be an appropriate lawful basis for processing for the purposes of improving a
+           service or developing new functions within an existing service. In most cases, a user enters into
+           a contract to avail of an existing service. While the possibility of improvements and
+           modifications to a service may routinely be included in contractual terms, such processing
+           usually cannot be regarded as being objectively necessary for the performance of the contract
+           with the user.
+
+3.4.3 User identification30 (using voice data)
+     81.   The use of voice data for user identification implies the processing of biometric data as defined
+           in Article 4.14 of the GDPR. Consequently, the data controller will need to identify an
+           exemption under Article 9 of the GDPR in addition to the identification of a legal basis under
+           Article 6 of the GDPR31.
+
+     82.   Of the exemptions listed in Article 9 of the GDPR, only data subjects’ explicit consent seems
+           applicable for this specific purpose.
+
+     83.   However, since this purpose requires to apply the specific legal regime of article 9 of the GDPR
+           further details follow in the section 3.8, related to the processing of special categories of data.
+
+3.4.4 User profiling for personalized content or advertising
+     84.   As mentioned above, VVAs have access to the content of all voice commands even when they
+           are aimed at services provided by third parties. This access would enable the VVA designer to
+
+
 30
-   Em termos técnicos, a noção de identificação tem de ser distinguida da verificação (autenticação). A
-identificação é uma busca e comparação um-para-muitos (1: N) e exige, em princípio, uma base de dados onde
-constam diversos indivíduos. Pelo contrário, o processamento para fins de verificação é uma comparação um-
-para-um (1:1) e é utilizado para verificar e confirmar por comparação biométrica se um indivíduo é a pessoa a
-quem pertencem os dados biométricos. Tanto quanto é do conhecimento do CEPD, o AVV no mercado baseia-
-se na utilização exclusiva das tecnologias de identificação do locutor.
-
-
-Adotadas - após consulta pública                                                                          25
-
-           pelo tratamento dos dados necessitará de identificar uma isenção ao abrigo do artigo 9.º do
-           RGPD para além da base jurídica identificada nos termos do artigo 6.º do RGPD31.
-
-     82.   Das isenções enumeradas no artigo 9.º do RGPD, apenas o consentimento explícito do titular
-           dos dados parece ser aplicável a esta finalidade específica.
-
-     83.   No entanto, uma vez que esta finalidade exige a aplicação do regime específico do artigo 9.º
-           do RGPD, é apresentada informação mais pormenorizada na secção 3.8, relativamente ao
-           tratamento de categorias especiais de dados.
-
-3.4.4 Definição de perfis do utilizador para conteúdos personalizados ou para publicidade
-     84.   Conforme acima mencionado, os AVV têm acesso ao conteúdo de todos os comandos vocais
-           mesmo quando estes visam serviços prestados por terceiros. Este acesso permitiria ao criador
-           do AVV construir perfis de utilizador muito exatos que poderiam ser utilizados para oferecer
-           serviços ou anúncios personalizados.
-
-             Exemplo 8:
-
-             Cada vez que o utilizador do AVV faz uma busca na Internet, o AVV adiciona etiquetas que
-             indicam assuntos de interesse para o perfil do utilizador. Os resultados de cada nova busca
-             são apresentados ao utilizador por ordem tendo em conta as referidas etiquetas.
-
-             Exemplo 9:
-
-             Cada vez que o utilizador do AVV faz uma compra de um serviço de comércio eletrónico, o
-             AVV armazena um registo da encomenda. O fornecedor do AVV permite a terceiros dirigir
-             ao utilizador do AVV anúncios direcionados com base em aquisições anteriores.
-
-     85.   A personalização do conteúdo pode constituir (mas nem sempre) um elemento intrínseco e
-           esperado do AVV. A possibilidade de esse tratamento ser considerado como um aspeto
-           intrínseco do serviço de AVV dependerá da natureza precisa do serviço prestado, das
-           expectativas do titular dos dados médio à luz não só das condições do serviço, mas também
-           da forma como o serviço é promovido aos utilizadores, e de o serviço poder ser prestado sem
-           personalização.32
-
-     86.   Sempre que a personalização ocorra no contexto de uma relação contratual e como parte de
-           um serviço expressamente solicitado pelo utilizador final (e o tratamento esteja limitado ao
-           estritamente necessário para prestar esse serviço), tal tratamento poderá basear-se no artigo
-           6.º, n.º 1, alínea b), do RGPD.
-
-     87.   Se o tratamento não for estritamente «necessário para a execução de um contrato», conforme
-           referido no artigo 6.º, n.º 1, alínea b), RGPD, o fornecedor do AVV deve, em princípio, pedir o
-           consentimento do titular dos dados. Com efeito, porque o consentimento será necessário nos
-           termos do artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica para o armazenamento ou o
-           acesso a informações (ver n.os 28 a 29 acima), o consentimento nos termos do artigo 6.º, n.º
-
-
+    Technically, the notion of identification has to be distinguished from verification (authentication).
+Identification is a one-to-many (1: N) search and comparison and requires in principle a database in which several
+individuals are listed. Differently, the processing for verification purposes is a one-to-one (1:1) comparison and
+is used to verify and to confirm by a biometric comparison whether an individual is the same person as the one
+from whom the biometric data originates. To the knowledge of the EDPB, VVA on the market rely on the sole use
+of speaker identification technologies.
 31
-   O RGPD considera que a simples natureza dos dados nem sempre é suficiente para determinar se estes dados
-constituem categorias especiais de dados uma vez que «o tratamento de fotografias [...] [é] apenas abrangid[o]
-pela definição de dados biométricos quando [for processado] por meios técnicos específicos que permitam a
-identificação inequívoca ou a autenticação de uma pessoa singular» (considerando 51). O mesmo raciocínio se
-aplica à voz.
+  GDPR considers that the mere nature of data is not always sufficient to determine if it qualifies as special
+categories of data since “the processing of photographs […] are covered by the definition of biometric data only
+when processed through a specific technical means allowing the unique identification or authentication of a
+natural person” (recital 51). The same reasoning applies to voice.
+
+
+Adopted - after public consultation                                                                            23
+
+           construct very accurate user profiles that could be used to offer personalized services or
+           advertisements.
+
+
+
+             Example 8:
+
+             Each time a VVA user makes an Internet search, the VVA adds labels signalling topics of
+             interest to the user profile. The results for each new search are presented to the user
+             ordered taking into account those labels.
+
+             Example 9:
+
+             Each time a VVA user makes a purchase from an e-commerce service, the VVA stores a
+             record of the purchase order. The VVA provider enables third parties to target the VVA user
+             with targeted advertisements on the basis of past purchases.
+
+     85.   Personalisation of content may (but does not always) constitute an intrinsic and expected
+           element of a VVA. Whether such processing can be regarded as an intrinsic aspect of the VVA
+           service will depend on the precise nature of the service provided, the expectations of the
+           average data subject in light not only of the terms of service but also the way the service is
+           promoted to users, and whether the service can be provided without personalisation.32
+
+     86.   Where personalisation takes place in the context of a contractual relationship and as part of a
+           service explicitly request by the end-user (and the processing is limited to what is strictly
+           necessary to provide this service), such processing may be based on article 6(1)(b) of the GDPR.
+
+     87.   If processing is not strictly “necessary for the performance of a contract” within the meaning
+           of Article 6(1)(b) GDPR, the VVA provider must, in principle, seek the consent of the data
+           subject. Indeed, because consent will be required under Article 5(3) of the e-Privacy directive
+           for the storing or gaining of access to information (see paragraphs 28-29 above), consent under
+           Article 6(1)(a) GDPR will also, in principle, be the appropriate legal basis for the processing of
+           personal data following those operations as reliance on legitimate interest could, in certain
+           cases, risk undermining the additional level of protection provided by Article 5(3) of the e-
+           Privacy directive.
+
+     88.   Regarding user profiling for advertisement, it should be noted that this purpose is never
+           considered as a service explicitly requested by the end-user. Thus, in case of processing for this
+           purpose users’ consent should be systematically collected.
+
+Recommendations
+     89.   Users should be informed of the purpose of processing personal data and that purpose should
+           accord with their expectations of the device they purchase. In case of a VVA, that purpose –
+           from a user’s point of view – clearly is the processing of their voice for the sole purpose of
+           interpreting their query and provide meaningful responses (be that answers to a query or
+           other reactions like remote-controlling a light switch).
+
+     90.   When the processing of personal data is based on consent, such consent “should be given in
+           relation to one or more specific purposes and that a data subject has a choice in relation to
+           each of them”. Moreover, “a controller that seeks consent for various different purposes should
+
 32
-   Ver também Diretrizes 2/2019, n.º 57.
+     See also Guidelines 2/2019, paragraph 57.
 
 
-Adotadas - após consulta pública                                                                           26
+Adopted - after public consultation                                                                       24
 
-           1, alínea a), RGPD também será, em princípio, a base jurídica adequada para o tratamento de
-           dados pessoais na sequências das referidas operações uma vez que a invocação do interesse
-           legítimo poderia, em determinados casos, ameaçar comprometer o nível de proteção adicional
-           garantido pelo artigo 5.º, n.º 3, da Diretiva Privacidade Eletrónica.
+           provide a separate opt-in for each purpose, to allow users to give specific consent for specific
+           purposes”33. For example, users should be able to separately consent or not for the manual
+           review and labelling of voice transcriptions or the use of their voice data for user
+           identification/authentication (see section 3.7).
 
-     88.   No que diz respeito à definição de perfis do utilizador para a publicidade, importa observar
-           que esta finalidade nunca é considerada um serviço expressamente solicitado pelo utilizador
-           final. Assim, no caso do tratamento para este efeito, o consentimento dos utilizadores deve
-           ser obtido de forma sistemática.
+3.5 Processing of children’s data
+     91.   Children can also interact with the VVAs or can create their own profiles connected to the ones
+           of the adults. Some VVAs are embedded in devices which are specifically aimed at children.
 
-Recomendações
-     89.   Os utilizadores devem ser informados da finalidade do tratamento de dados pessoais e essa
-           finalidade deve estar de acordo com as suas expetativas do dispositivo que adquirem. No caso
-           de um AVV, essa finalidade – na perspetiva do utilizador – é claramente o tratamento da sua
-           voz para a finalidade única de interpretar a sua questão e proporcionar respostas significativas
-           (sejam estas respostas a uma questão ou outras reações como o controlo remoto de um
-           interrutor da luz).
+     92.   When the legal basis for the processing is the performance of a contract, the conditions for
+           processing children data will depend on national contract laws.
 
-     90.   Sempre que o tratamento de dados pessoais se baseie no consentimento, tal consentimento
-           «deve ser dado em relação a uma ou mais finalidades específicas e [o] titular de dados tem
-           uma escolha em relação a cada uma delas». Além disso, «o responsável pelo tratamento que
-           procure obter consentimento para várias finalidades diferentes deve oferecer a possibilidade
-           de adesão separada para cada finalidade, por forma a permitir que os utilizadores deem
-           consentimento específico para finalidades específicas»33. Por exemplo, os utilizadores devem
-           poder autorizar ou não autorizar separadamente a revisão manual e a etiquetagem das
-           transcrições da voz ou a utilização dos seus dados de voz para a identificação/autenticação do
-           utilizador (ver secção 3.7).
+     93.   When the legal basis for the processing is consent and according to Article 8(1) GDPR,
+           processing of children’s data is only lawful “where the child is at least 16 years old. Where the
+           child is below the age of 16 years, such processing should be lawful only if and to the extent
+           that consent is given or authorized by the holder of parental responsibility over the child”.
+           Consequently, to comply with the GDPR, when consent is the legal basis, explicit permission
+           should be sought from parents or guardians to collect, process, and store children’s data
+           (voice, transcripts, etc.).
 
-3.5 Tratamento dos dados de crianças
-     91.   As crianças também podem interagir com o AVV ou criar os seus próprios perfis associados aos
-           dos adultos. Alguns AVV estão incorporados em dispositivos especificamente destinados a
-           crianças.
+     94.   Parental controls are available to a certain degree but in their current form they are not user
+           friendly (e.g. it is necessary to sign in a new service) or have limited capacities. Data controllers
+           should invest in developing means for parents or guardians to control children use of VVAs.
 
-     92.   Sempre que a base jurídica do tratamento for a execução de um contrato, as condições de
-           tratamento dos dados de crianças das legislações nacionais em matéria de contratos.
+3.6 Data retention
+     95.   VVAs process and generate a wide variety of personal data like voice, transcriptions of voice,
+           metadata or system logs. These types of data could be processed for a wide range of purposes
+           like provision of a service, NLP improvement, personalization or scientific research. Following
+           the GDPR data storage limitation principle, VVAs should store data for no longer than is
+           necessary for the purposes for which the personal data are processed. Therefore, the data
+           retention periods should be tied to different processing purposes. VVA service providers or
+           third-parties providing services through VVAs should assess the maximum retention period for
+           each data set and purpose.
 
-     93.   Sempre que a base jurídica do tratamento for o consentimento e nos termos do artigo 8.º, n.º
-           1, RGPD, o tratamento de dados de crianças só é lícito «se elas tiverem pelo menos 16 anos.
-           Caso a criança tenha menos de 16 anos, o tratamento só é lícito se e na medida em que o
-           consentimento seja dado ou autorizado pelos titulares das responsabilidades parentais da
-           criança». Consequentemente, para cumprir o RGPD, sempre que o consentimento constitua a
-           base jurídica, deve ser solicitada a autorização expressa dos pais ou tutores para recolher,
-           tratar, e conservar dados de crianças (voz, transcrições, etc.).
+     96.   The data minimization principle is closely related to the data storage limitation principle. Not
+           only do data controllers need to limit the data storage period, but also the type and quantity
+           of data.
 
-     94.   Os controlos parentais estão disponíveis até certo ponto, mas na sua atual forma não são de
-           fácil utilização (por ex., é necessário registar-se num novo serviço) ou têm capacidades
+     97.   Data controllers should ask themselves, among others the following questions: Is it necessary
+           to store all voice recordings or all transcriptions to achieve the purpose X? Is it necessary to
+           store the voice data once the transcription has been stored? In that case, for what purpose?
+           How long is voice or transcription data necessary for each purpose? The answer to these and
+           other similar questions will define the retention periods that should be part of the information
+           available to the data subjects.
+
+     98.   Some VVA store by default personal data like voice snippets or transcriptions for an undefined
+           period while providing users means to delete such data. Retaining personal data indefinitely
+           goes against the storage limitation principle. Providing data subjects with means to delete
 
 
 
 33
-  Ver CEPD Diretrizes 05/2020 relativas ao consentimento na aceção do Regulamento 2016/679, adotadas em
-4 de maio de 2020, secção 3.2.
+     See EDPB Guidelines 05/2020 on consent under Regulation 2016/679, adopted on 4 May 2020, section 3.2.
 
 
-Adotadas - após consulta pública                                                                        27
+Adopted - after public consultation                                                                          25
 
-           limitadas. Os responsáveis pelo tratamento de dados devem investir no desenvolvimento de
-           meios para pais ou tutores para controlar a utilização pelas crianças de AVV.
+           their personal data does not remove the data controller’s responsibility of defining and
+           enforcing a data retention policy.
 
-3.6 Conservação de dados
-     95.   Os AVV tratam e produzem uma grande diversidade de dados pessoais, tais como voz,
-           transcrições da voz, metadados ou registos do sistema. Estes tipos de dados podem ser
-           tratados para uma ampla gama de finalidades como a prestação de um serviço, o
-           aperfeiçoamento do tratamento da linguagem natural, personalização ou investigação
-           científica. De acordo com o princípio da limitação da conservação dos dados do RGPD, o AVV
-           deve conservar os dados apenas durante o período necessário para as finalidades para as quais
-           são tratados. Por conseguinte, os períodos de conservação dos dados devem estar ligados às
-           diferentes finalidades de tratamento. Os prestadores de serviços de AVV ou os terceiros que
-           proporcionam serviços através de AVV devem avaliar o período máximo de retenção para cada
-           conjunto de dados e para cada finalidade.
+     99.   VVA design needs to take into account users’ controls to delete their personal data in their
+           devices and in all remote storage systems. These controls may be required to resolve different
+           kind of users’ requests, for example, a request of erasure or the withdrawal of previously given
+           consent. The design of some VVAs did not take into account this requirement.34
 
-     96.   O princípio da minimização dos dados está estreitamente relacionado com o princípio da
-           limitação da conservação dos dados. Os responsáveis pelo tratamento de dados necessitam
-           não só de limitar o período de conservação dos dados, mas também o tipo e quantidade de
-           dados.
+     100. As in other contexts, data controllers may need to retain personal data as evidence of a service
+          provided to a user to comply with a legal obligation. The data controller may retain personal
+          data based on that basis. However, the data retained should remain the minimum necessary
+          to comply with such a legal obligation and for the minimum amount of time. Of course, the
+          data retained for the purpose of complying with a legal obligation should not be used for any
+          other purposes without a legal basis under Article 6 GDPR.
 
-     97.   Os responsáveis pelo tratamento de dados devem colocar-se, entre outras, as seguintes
-           questões: É necessário conservar todos os registos de voz ou todas as transcrições para
-           alcançar a finalidade X? É necessário conservar os dados de voz depois de ter sido conservada
-           a transcrição? Nesse caso, para que finalidade? Por quanto tempo são necessários os dados
-           de voz ou da transcrição em relação a cada finalidade? A resposta a estas e outras questões
-           semelhantes determinará os períodos de retenção que devem ser incluídos nas informações
-           disponíveis para os titulares dos dados.
+             Example 10:
 
-     98.   Alguns AVV conservam por defeito dados pessoais como trechos de voz ou transcrições por
-           um período indefinido, facultando simultaneamente aos utilizadores meios para apagar esses
-           dados. A conservação de dados pessoais de forma indefinida vai contra o princípio da limitação
-           da conservação. O facto de se facultar aos titulares dos dados meios para apagar os respetivos
-           dados pessoais não anula a responsabilidade do responsável pelo tratamento dos dados pela
-           definição e aplicação de uma política de conservação dos dados.
+             A user purchases a TV in an e-commerce service using a voice command issued to a VVA.
+             Even if the user requests afterwards the deletion of their data, the VVA provider or
+             developer could still retain some data on the grounds of their legal obligation set by tax
+             regulation to keep purchase evidence. However, the data stored for this purpose should not
+             exceed the minimum necessary to comply with the legal obligation and could not be
+             processed for any other purposes without a legal basis under Article 6 GDPR.
 
-     99.   A conceção do AVV deve ter em conta os controlos dos utilizadores para apagar os respetivos
-           dados pessoais nos seus dispositivos e em todos os sistemas remotos de armazenamento.
-           Estes controlos podem ser necessários para resolver diferentes tipos de pedidos dos
-           utilizadores, por exemplo, um pedido de apagamento ou de revogação do consentimento
-           previamente concedido. A conceção de alguns AVV não teve em conta este requisito.34
+       101.       As mentioned in section 2, VVAs voice recognition capacity improves by training
+          machine learning systems with users’ data. If users do not consent or withdraw their consent
+          to the use of their data for such purpose, their data could not be lawfully used to train any
+          more model and should be deleted by the data controller, assuming that there is no other
+          purpose justifying the continued retention. However, there is evidence that there may be risks
+          of re-identification in some machine learning models.35
 
-     100. Tal como noutros contextos, os responsáveis pelo tratamento de dados podem necessitar de
-          reter dados pessoais como prova do serviço prestado ao utilizador para cumprirem uma
-          obrigação jurídica. O responsável pelo tratamento dos dados pode reter dados pessoais com
-          esse fundamento. No entanto, os dados retidos devem ser limitados ao mínimo necessário
-          para cumprir a obrigação jurídica e ao menor período de tempo possível. Naturalmente, os
+       102.        Data controllers and processors should use models which do not restrict their ability
+          to stop processing if an individual revokes their consent, nor should they use models which
+          restrict their ability to facilitate data subject rights. Controllers and processors should apply
+          mitigation measures to reduce the re-identification risk to an acceptable threshold.
+
+       103.       In the event that the user withdraws his or her consent, the data collected from the
+          user can no longer be used for further training of the model. Nevertheless, the model
+          previously trained using this data does not have to be deleted. The EDPB however highlights
+          that there is evidence that there may be risks of personal data leaking in some machine
+          learning models In particular, numerous studies showed that reconstruction as well as
+          membership inference attacks can be performed, allowing attackers to retrieve information
+          about individuals.36 Data controllers and processors should therefore apply mitigation
+
+
 
 
 34
-   Ver a carta de 28 de junho de 2019 da Amazon em resposta ao senador dos EUA Christopher Coons:
+     See Amazon’s letter of 28 June 2019 in response to US Senator Christopher Coons:
 https://www.coons.senate.gov/imo/media/doc/Amazon%20Senator%20Coons__Response%20Letter__6.28.19
 [3].pdf
-
-
-Adotadas - após consulta pública                                                                      28
-
-           dados retidos para a finalidade de cumprir a obrigação jurídica não devem ser utilizados para
-           outras finalidades sem uma base jurídica nos termos do artigo 6.º RGPD.
-
-             Exemplo 10:
-
-             Um utilizador compra um televisor num serviço de comércio eletrónico mediante utilização
-             de um comando vocal dirigido a um AVV. Apesar de o utilizador solicitar, posteriormente, o
-             apagamento dos seus dados, o fornecedor ou programador do AVV pôde conservar alguns
-             dados com fundamento na sua obrigação jurídica estabelecida pela regulamentação fiscal
-             de conservar um comprovativo da compra. No entanto, os dados conservados para este
-             efeito não deviam exceder o mínimo necessário para cumprir a obrigação jurídica e não
-             podiam ser tratados para quaisquer outros fins sem uma base jurídica nos termos do artigo
-             6.º RGPD.
-
-     101. Conforme mencionado na secção 2, a capacidade de reconhecimento da voz dos AVV melhora
-          através da formação dos sistemas de aprendizagem automática com dados dos utilizadores.
-          Se os utilizadores não derem consentimento ou retirarem o seu consentimento para a
-          utilização dos seus dados para esse fim, os seus dados não poderão ser legalmente utilizados
-          para formação de modelos e deverão ser apagados pelo responsável pelo tratamento dos
-          dados, partindo do princípio de que não há outra finalidade que justifique a continuação da
-          retenção. No entanto, existem indícios de que pode haver riscos de re-identificação em alguns
-          modelos de aprendizagem automática.35
-
-     102. Os responsáveis pelo tratamento de dados e os subcontratantes devem utilizar modelos que
-          não limitem a sua capacidade de interromper o tratamento se um indivíduo revogar o seu
-          consentimento, e não devem utilizar modelos que limitem a sua capacidade de facilitar o
-          exercício dos direitos do titular dos dados. Os responsáveis pelo tratamento e os
-          subcontratantes devem aplicar medidas de atenuação para reduzir o risco de re-identificação
-          risk para um limiar aceitável.
-
-     103. No caso de o utilizador retirar o seu consentimento, os dados recolhidos do utilizador deixam
-          de poder ser utilizados para novas formações do modelo. Não obstante, o modelo
-          anteriormente formado mediante utilização destes dados não tem de ser apagado. O CEPD
-          sublinha, no entanto, que há indícios de que pode haver riscos de fuga de dados pessoais em
-          alguns modelos de aprendizagem automática. Mais especificamente, numerosos estudos
-          mostraram que podiam ser realizados ataques de reconstrução e de inferência da filiação
-          (membership inference), permitindo aos agressores extrair informações sobre os indivíduos.36
-          Os responsáveis pelo tratamento de dados e os subcontratantes devem, portanto, aplicar
-          medidas de atenuação para reduzir a um limiar aceitável o risco de reidentificação para
-          certificar-se de que utilizam modelos que não contêm dados pessoais.
-
-     104. Os titulares dos dados não devem ser forçados a manter os dados indefinidamente. Uma vez
-          que a eliminação dos dados conservados ou das transcrições poderá ter impacto na prestação
-          do serviço, tal impacto deve ser explicado aos utilizadores de forma clara e mensurável. Os
-          prestadores de serviços de AVV devem evitar afirmações gerais sobre a degradação do serviço
-          após o apagamento dos dados pessoais.
-
-
 35
-   Veale Michael, Binns Reuben e Edwards Lilian, 2018, «Algorithms that remember: model inversion attacks and
-data protection law», Phil. Trans. R. Soc. A.37620180083, doi: 10.1098/rsta.2018.0083
+   Veale Michael, Binns Reuben and Edwards Lilian 2018 “Algorithms that remember: model inversion attacks
+and data protection law” Phil. Trans. R. Soc. A.37620180083, doi: 10.1098/rsta.2018.0083
 36
-   N. Carlini et al, «Extracting Training Data from Large Language Models», dezembro de 2020.
+   N. Carlini et al, “Extracting Training Data from Large Language Models” Dec 2020.
 
 
-Adotadas - após consulta pública                                                                          29
+Adopted - after public consultation                                                                     26
 
-     105. A anonimização das gravações de voz é especialmente difícil, uma vez que é possível identificar
-          os utilizadores através do conteúdo da própria mensagem e das características da própria voz.
-          Contudo, está a ser realizada alguma investigação37 sobre as técnicas que podem permitir
-          remover informações sobre o contexto, tais como ruídos de fundo, e anonimizar a voz.
+           measures to reduce the re-identification risk to an acceptable threshold to make sure they use
+           models which do not contain personal data.
 
-Recomendações
-     106. Na perspetiva do utilizador, a principal finalidade do tratamento dos seus dados consiste na
-          realização de consultas e na receção de respostas e/ou no desencadeamento de ações como
-          a reprodução de música ou o acendimento ou o apagamento das luzes. Depois de uma
-          consulta ter sido respondida ou um comando executado, os dados pessoais devem ser
-          eliminados, salvo se o criador ou programador do AVV tiver uma base jurídica válida para reter
-          esses dados para uma finalidade específica.
+     104. Data subjects should not be nudged to keep their data indefinitely. While deleting stored voice
+          data or transcriptions might have an impact on the service performance, such impact should
+          be explained to users in a clear and measurable way. VVA service providers should avoid
+          making general statements on the degradation of the service after personal data is deleted.
 
-     107. Antes de ponderar a anonimização como um meio de observância do princípio da limitação da
-          conservação dos dados, os fornecedores e programadores de AVV devem verificar se o
-          processo de anonimização torna a voz inidentificável.
+     105. Anonymizing voice recordings is specially challenging, as it is possible to identify users through
+          the content of the message itself and the characteristics of voice itself. Nevertheless, some
+          research37 is being conducted on techniques that could allow to remove situational
+          information like background noises and anonymize the voice.
 
-     108. As configurações de origem devem refletir estes requisitos estabelecendo de origem um
-          mínimo absoluto das informações do utilizador que são conservadas. Se estas opções forem
-          apresentadas como parte de um assistente de configuração, a configuração de origem deve
-          refletir o acima exposto, e todas as opções devem ser apresentadas como possibilidades
-          equivalentes, sem discriminação visual.
+Recommendations
+     106. From a user’s perspective, the main purpose of processing their data is querying and receiving
+          responses and/or triggering actions like playing music or turning on or off lights. After a query
+          has been answered or a command executed, the personal data should be deleted unless the
+          VVA designer or developer has a valid legal basis to retain them for a specific purpose.
 
-     109. Sempre que, durante o processo de revisão, o fornecedor ou o programador do AVV detetar
-          uma gravação originada por um erro de ativação, a gravação e todos os dados associados
-          devem ser imediatamente apagados e não utilizados para qualquer finalidade.
+     107. Before considering anonymization as means for fulfilling the data storage limitation principle,
+          VVA providers and developers should check the anonymization process renders the voice
+          unidentifiable.
 
-3.7 Segurança
-     110. Para tratar de forma segura os dados pessoais, os AVV devem proteger a sua
-          confidencialidade, integridade e disponibilidade. Para além dos riscos decorrentes de
-          elementos do ecossistema do AVV, a utilização da voz como meio de comunicação cria um
-          novo conjunto de riscos de segurança.
+     108. Configuration defaults should reflect these requirements by defaulting to an absolute
+          minimum of stored user information. If these options are presented as part of a setup wizard,
+          the default setting should reflect this, and all options should be presented as equal possibilities
+          without visual discrimination.
 
-     111. Os AVV são dispositivos multiutilizador. Podem permitir mais do que um utilizador registado e
-          qualquer pessoa na sua proximidade pode emitir comandos e utilizar os seus serviços.
-          Qualquer serviço de AVV que exija confidencialidade deve ter algum mecanismo de controlo
-          do acesso e a autenticação do utilizador. Sem controlo do acesso, qualquer pessoa capaz de
-          emitir comandos vocais ao AVV poderá aceder, modificar ou apagar dados pessoais dos
-          utilizadores (por ex., pedir mensagens recebidas, a morada do utilizador ou eventos do
-          calendário). A emissão de comandos vocais ao AVV não exige a proximidade física deste uma
-          vez que os comandos vocais podem ser manipulados, por exemplo, através da transmissão do
+     109. When during the review process the VVA provider or developer detects a recording originated
+          on a mistaken activation, the recording and all the associated data should be immediately
+          deleted and not used for any purpose.
+
+3.7 Security
+     110. To securely process personal data, VVAs should protect their confidentiality, integrity and
+          availability. Apart from risks stemming from elements on the VVA ecosystem, using voice as
+          communication means creates a new set of security risks.
+
+     111. VVAs are multiuser. They may allow for more than one registered user and anyone on their
+          surroundings can issue commands and use their services. Any VVA service requiring
+          confidentiality will involve some access control mechanism and user authentication. Without
+          access control, anyone able to issue voice commands to the VVA could access, modify or delete
+          any users’ personal data it (e.g. ask for received messages, user’s address or calendar events).
+          Issuing voice commands to the VVA does not require being physically close to it since they can
 
 
 
 
-37Ver, por exemplo, VoicePrivacy (https://www.voiceprivacychallenge.org), uma iniciativa para desenvolver
-soluções para preservação da privacidade para a tecnologia da voz.
-Ver também as ferramentas de código aberto de anonimização da voz desenvolvidas pelo projeto de investigação
-e          inovação           COMPRISE          do         programa-quadro         Horizonte           2020:
+37See, for example, VoicePrivacy (https://www.voiceprivacychallenge.org), an initiative to develop privacy
+preservation solutions for speech technology.
+See also open-source voice anonymization tools developed by H2020 research and innovation project COMPRISE:
 https://gitlab.inria.fr/comprise/voice_transformation.
 
 
-Adotadas - após consulta pública                                                                         30
+Adopted - after public consultation                                                                       27
 
-           sinal38 (por ex., rádio ou televisor). Alguns dos métodos conhecidos para emitir comandos aos
-           AVV, como laser39 ou ondas ultrassónicas (inaudíveis)40nem sequer são detetáveis pelos
-           sentidos humanos.
+           be manipulated, for example, via signal broadcasting38 (e.g. radio or TV). Some of the known
+           methods to remotely issue commands to VVAs like laser39 or ultrasonic (inaudible) waves40are
+           not even detectable by human senses.
 
-     112. A autenticação do utilizador pode basear-se num ou mais dos seguintes fatores: algo que sabe
-          (por ex., uma palavra-passe), algo que tem (por ex., smart card) ou algo que é (por ex.,
-          impressão de voz). Uma análise mais atenta destes fatores de autenticação no contexto do
-          AVV mostra que:
+     112. User authentication can rely on one or more of the following factors: something you know
+          (such as a password), something you have (such as a smart card) or something you are (such
+          as a voice fingerprint). A closer look at these authentication factors in the VVA context shows
+          that:
 
-              A autenticação que utiliza algo que o utilizador sabe é problemática. O segredo que deve
-               permitir aos utilizadores provar a sua identidade deve ser proferido em voz alta, o que o
-               expõe a qualquer pessoa que se encontre nas proximidades. O canal de comunicação dos
-               AVV é o ar circundante, um tipo de canal que não pode ser fortificado da mesma forma
-               que os canais tradicionais (por ex., limitando o acesso ao canal ou cifrando o seu
-               conteúdo).
+              Authentication using something the user knows is problematic. The secret that would
+               allow users to prove their identity should be spoken aloud, exposing it to anyone in the
+               surroundings. VVAs communication channel is the surrounding air, a channel type that
+               cannot be fortified in the way traditional channels are (e.g. by limiting the access to the
+               channel or encrypting its content).
 
-              A autenticação que utiliza algo que o utilizador tem exigiria que os prestadores de serviços
-               de AVV criassem, distribuíssem e gerissem «tokens» que poderiam ser utilizados como
-               prova de identidade.
+              Authentication using something the user has would require the VVA service providers to
+               create, distribute and manage “tokens” that could be used as proof of identity.
 
-              A autenticação que utiliza algo que o utilizador é exige a utilização de dados biométricos
-               para efeitos de identificação de forma única da pessoa singular (ver secção 3.7 abaixo).
+              Authentication using something the user is implies the use of biometric data for the
+               purpose of uniquely identifying a natural person (see section 3.7 below).
 
-     113. As contas de utilizador do AVV estão associadas aos dispositivos onde o serviço é prestado.
-          Muitas vezes, a mesma conta utilizada para gerir o AVV é utilizada para gerir outros serviços.
-          Por exemplo, os proprietários de um telemóvel Android e de uma coluna Google Home coluna
-          podem associar e é muito provável que associem a sua conta Google a ambos os dispositivos.
-          A maior parte dos AVV não exigem nem oferecem um mecanismo de identificação ou de
-          autenticação quando o dispositivo que proporciona o serviço AVV só tem uma conta de
-          utilizador.
+     113. VVA user accounts are associated to the devices in which the service is provided. Often the
+          same account used to manage the VVA is used to manage other services. For example, owners
+          of an Android mobile phone and a Google Home speaker can and most likely associate their
+          Google account to both devices. Most VVAs do not require or offer an identification or
+          authentication mechanism when a device providing a VVA service has just one user account.
 
-     114. Sempre que existe mais do que uma conta de utilizador associada ao dispositivo, alguns AVV
-          oferecem um controlo do acesso básico opcional sob a forma de um número PIN sem uma
-          verdadeira autenticação do utilizador. Outros AVV têm a opção de utilizar o reconhecimento
-          da impressão de voz como mecanismo de identificação.
+     114. When there is more than one user account associated with the device, some VVAs offer an
+          optional basic access control in the form of PIN number with no real user authentication. Some
+          other VVAs have the option to use voice fingerprint recognition as identification mechanism.
 
-     115. Embora a identificação do utilizador ou autenticação possa não ser necessária para aceder a
-          todos os serviços do AVV, será definitivamente necessária para aceder a alguns desses
-          serviços. Sem um mecanismo de identificação ou autenticação, qualquer pessoa poderá
-          aceder a dados de outros utilizadores e modificá-los ou apagá-los livremente. Por exemplo,
-          qualquer pessoa na proximidade de uma coluna inteligente poderá apagar as listas de
-          reprodução de outros utilizadores do serviço de transferência em contínuo de música,
-          comandos do histórico de comandos ou contactos da lista de contactos.
+     115. Although user identification or authentication might not be necessary to access all VVA
+          services, it will definitely be for some. Without an identification or authentication mechanism,
+          anyone could access other users’ data and modify or erase them at will. For example, anyone
+          close to a smart speaker could delete other users’ playlists from the music streaming service,
+          commands from the command history or contacts from the contact list.
 
-     116. A maior parte dos AVV confiam cegamente nas suas redes locais. Qualquer dispositivo
-          comprometido da mesma rede poderá alterar as definições da coluna inteligente, permitir a
+     116. Most VVAs blindly trust their local networks. Any compromised device in the same network
+          could change the settings of the smart speaker or allow the installation of malware or to
+          associate fake apps/skills to it without the user’s knowledge or agreement.41
+
+
+
 
 38
-   X. Yuan et al., «All Your Alexa Are Belong to Us: A Remote Voice Control Attack against Echo», 2018 IEEE Global
-Communications Conference (GLOBECOM), Abu Dhabi, Emirados Árabes Unidos, 2018, págs. 1 a 6, doi:
+   X. Yuan et al., "All Your Alexa Are Belong to Us: A Remote Voice Control Attack against Echo" 2018 IEEE Global
+Communications Conference (GLOBECOM), Abu Dhabi, United Arab Emirates, 2018, pp. 1-6, doi:
 10.1109/GLOCOM.2018.8647762.
 39
-   Ver, por exemplo: https://lightcomandos.com
+   See, for example, https://lightcommands.com
 40
-   Ver, por exemplo: https://surfingattack.github.io
-
-
-Adotadas - após consulta pública                                                                               31
-
-           instalação de malware ou associar-lhe apps ou skills falsas sem o conhecimento ou o acordo
-           do utilizador.41
-
-     117. Os AVV, como qualquer outro software, estão sujeitos a vulnerabilidades do software. No
-          entanto, devido à concentração do mercado de AVV42 qualquer vulnerabilidade poderia afetar
-          milhões de utilizadores de AVV. Se estiverem a funcionar tal como efetivamente concebidos,
-          os AVV não enviam quaisquer informações para o serviço na nuvem de reconhecimento da
-          fala enquanto não for detetada a expressão de despertar. No entanto, as vulnerabilidades do
-          software podem permitir a um agressor contornar a configuração do AVV e as medidas de
-          segurança. Nesse caso, poderá ser possível, por exemplo, obter uma cópia de todos os dados
-          enviados para a nuvem do AVV e reencaminhá-los para um servidor controlado pelo agressor.
-
-     118. Os dados legalmente tratados ou obtidos pelo AVV permitem construir um perfil bastante
-          exato dos seus utilizadores porque o AVV conhece ou pode inferir a localização, as relações e
-          os interesses dos seus utilizadores. Os AVV estão cada vez mais presentes nos lares e nos e
-          smartphones dos utilizadores. Esta circunstância aumenta o risco de vigilância em massa e da
-          definição de perfis em massa. Consequentemente, as medidas de segurança para proteger os
-          dados em trânsito ou arquivados, nos dispositivos e na nuvem, devem ser adequadas a esses
-          riscos.
-
-     119. A utilização crescente do AVV em conjugação com os direitos de acesso pouco equilibrados
-          das autoridades policiais a poderia criar um efeito inibidor que comprometeria direitos
-          fundamentais como a liberdade de expressão.
-
-     120. As autoridades policiais, no interior43 e fora44 da UE, já manifestaram o seu interesse em aceder
-          aos trechos de voz captados pelos AVV. O acesso a dados tratados ou obtidos pelos AVV na UE
-          deve cumprir o quadro de regulamentação da proteção de dados e da privacidade da UE
-          existente. No caso de alguns Estados-Membros considerarem a possibilidade de adotar
-          legislação específica que limite os direitos fundamentais à privacidade e à proteção de dados,
-          tais restrições devem sempre cumprir os requisitos estabelecidos no artigo 23.º do RGPD45.
-
-     121. A revisão humana de gravações da voz e dados associados para melhorar a qualidade do
-          serviço do AVV constitui uma prática comum dos fornecedores de AVV. Devido à natureza
-          sensível dos dados tratados por estes revisores humanos e ao facto de este processo ser
-          frequentemente entregue a subcontratantes, é extremamente importante que sejam
-          adotadas medidas de segurança.
-
-Recomendações
-     122. Os criadores de AVV e os programadores de aplicações devem proporcionar procedimentos
-          de autenticação de ponta seguros aos utilizadores.
-
-
-
+   See, for example, https://surfingattack.github.io
 41
-   Ver, por exemplo, Deepak Kumar et al., Skill Squatting Attacks on Amazon Alexa, USENIX Security
-Symposium, agosto de 2018, https://www.usenix.org/conference/usenixsecurity18/presentation/kumar
+   See, for example, Deepak Kumar et al., Skill Squatting Attacks on Amazon Alexa, USENIX Security Symposium,
+August 2018, https://www.usenix.org/conference/usenixsecurity18/presentation/kumar
 Security Research Labs, Smart Spies: Alexa and Google Home expose users to vishing and eavesdropping,
-novembro de 2019, https://srlabs.de/bites/smart-spies
+November 2019, https://srlabs.de/bites/smart-spies
+
+
+Adopted - after public consultation                                                                           28
+
+     117. VVAs, like any other software, are subject to software vulnerabilities. However, due to the VVA
+          market concentration42 any vulnerability could affect millions of VVA users. If working as
+          currently designed, VVAs do not send any information to the speech recognition cloud service
+          until the wake-up expression is detected. However, software vulnerabilities could allow an
+          attacker to bypass the VVA set-up and security measures. It could then be possible for example
+          to get a copy of all data sent to the VVA cloud and forward it to a server controlled by the
+          attacker.
+
+     118. Data lawfully processed or derived by VVAs allow building a fairly accurate profile of their users
+          as VVA know or can infer the location, the relations and the interests of their users. VVAs are
+          increasingly present in users’ homes and smartphones. This circumstance increases the risk of
+          mass surveillance and mass profiling. Consequently, the security measures to protect the data
+          both in transit and at rest, in the devices and in the Cloud, should match those risks.
+
+     119. The increasing use of VVA in conjunction with not adequately balanced access rights by law
+          enforcement authorities could induce a chilling effect that would undermine fundamental
+          rights like freedom of speech.
+
+     120. Law enforcement authorities, both in43 and out44 of the EU, have already expressed their
+          interest in accessing the voice snippets captured by VVAs. Access to data processed or derived
+          by VVAs in the EU should comply with the existing EU data protection and privacy regulation
+          framework. In case some Member States consider issuing specific legislation restricting the
+          fundamental rights to privacy and data protection, such restrictions should always comply with
+          the requirement set out in Article 23 of the GDPR45.
+
+     121. The human review of voice recordings and associated data to improve VVA service quality is a
+          common practice among VVA providers. Due to the sensitive nature of the data that is
+          processed by this human reviewers and the fact that this process is often subcontracted to a
+          processors, it is of utmost relevance that adequate security measures are put in place.
+
+Recommendations
+     122. VVA designers and application developers should provide secure state-of-the-art
+          authentication procedures to users.
+
+     123. Human reviewers should always receive the strictly necessary pseudonymised data. The legal
+          agreements governing the review should expressly forbid any processing that could lead to
+          the identification of the data subject.
+
+     124. If emergency calling is provided as a service through the VVA, a stable uptime46 should be
+          guaranteed.
+
+3.8 Processing of special categories of data
+     125. As previously mentioned, VVAs have access to information of an intimate nature which can be
+          protected under article 9 of the GDPR (see section 3.7.1), such as biometric data (see section
+
+
 42
-   O mercado dos AVV é atualmente partilhado por menos de uma dúzia de prestadores de serviço.
+   The VVA market is currently shared among less than a dozen service providers.
 43
-   Ver, por exemplo: https://www.ft.com/content/ad765972-87a2-11e9-a028-86cea8523dc2.
+   See, for example, https://www.ft.com/content/ad765972-87a2-11e9-a028-86cea8523dc2.
 44
-   Ver, por exemplo: https://cdt.org/insights/alexa-is-law-enforcement-listening.
+   See, for example, https://cdt.org/insights/alexa-is-law-enforcement-listening.
 45
-   Ver também CEPD, Guidelines 10/2020 on restrictions under Article 23 GDPR [Orientações 10/2020 sobre as
-restrições ao abrigo do artigo 23.º RGPD].
-
-
-Adotadas - após consulta pública                                                                         32
-
-     123. Os revisores humanos devem sempre receber os dados pseudonimizados estritamente
-          necessários. Os acordos legais que regulam a revisão devem proibir expressamente todo o
-          tratamento que possa levar à identificação do titular dos dados.
-
-     124. Se as chamadas de emergência forem facultadas como um serviço através do AVV, deve ser
-          garantido um tempo operacional (uptime) estável46.
-
-3.8 Tratamento das categorias específicas de dados
-     125. Conforme acima mencionado, os AVV têm acesso a informações de natureza íntima que
-          podem ser protegidos ao abrigo do artigo 9.º do RGPD (ver secção 3.7.1), como os dados
-          biométricos (ver secção 3.7.2). Por conseguinte, os criadores e programadores do AVV devem
-          identificar cuidadosamente os casos em que está em causa o tratamento de categorias
-          especiais de dados.
-
-3.8.1 Considerações gerais relativas ao tratamento de categorias especiais de dados
-     126. Os AVV podem tratar categorias especiais de dados em diferentes circunstâncias:
-
-                 Como parte dos seus próprios serviços, por exemplo ao gerir marcações de consultas
-                  médicas nas agendas dos utilizadores.
-
-                 Quando intervêm como interface de serviços de terceiros, os fornecedores de AVV
-                  tratam o conteúdo dos comandos. Dependendo do tipo de serviço solicitado pelo
-                  utilizador, os fornecedores de AVV poderão tratar categorias especiais de dados. Um
-                  exemplo poderia ser o de uma utilizadora que emite comandos a um AVV para
-                  utilização de uma app de terceiros para o rastreio da sua ovulação.47
-
-                 Quando os dados de voz são utilizados para os fins de identificar de forma única o
-                  utilizador, conforme desenvolvido abaixo.
-
-3.8.2 Considerações específicas relativas ao tratamento de dados biométricos
-
-     127. Alguns AVV têm a capacidade de identificar de forma única os seus utilizadores com base
-          apenas na sua voz. Este processo é conhecido como reconhecimento de modelos de voz.
-          Durante a fase de inscrição do reconhecimento da voz, o AVV trata a voz do utilizador para
-          criar um modelo de voz (ou impressão de voz). Durante a sua utilização regular, o AVV pode
-          calcular um modelo de voz de quaisquer utilizadores e compará-lo com os modelos inscritos
-          para identificar de forma única o utilizador que executou o comando.
-
-             Exemplo 11:
-
-             Um grupo de utilizadores configura um AVV para utilizar o reconhecimento de modelos de
-             voz. Depois disso, cada um deles inscreve os respetivos modelos de voz.
-
-             Mais tarde, um utilizador solicita ao AVV acesso às reuniões da sua agenda. Uma vez que o
-             acesso à agenda exige a identificação do utilizador, o AVV extrai o modelo da voz do pedido,
-             calcula o modelo da sua voz e verifica se este corresponde ao utilizador registado e se esse
-             utilizador específico tem acesso à agenda.
-
-
+   See also EDPB, Guidelines 10/2020 on restrictions under Article 23 GDPR.
 46
-   O tempo durante o qual o dispositivo ou o serviço podem ser deixados sem vigilância, sem falharem, ou sem
-necessidade de serem reiniciados para fins administrativos ou de manutenção.
+   The time a device or a service can be left unattended without crashing, or needing to be rebooted for
+administrative or maintenance purposes.
+
+
+Adopted - after public consultation                                                                      29
+
+           3.7.2). Therefore, VVA designers and developers must carefully identify in which cases the
+           processing implies special categories of data.
+
+3.8.1 General considerations when processing special categories of data
+     126. VVAs may process special categories of data in different circumstances:
+
+                 As part of their own services, for example when managing medical appointments in
+                  users’ agendas.
+
+                 When acting as interface for third-party services, VVA providers process the content of
+                  the commands. Depending on the type of service requested by the user, VVA providers
+                  could process special categories of data. An example could be when a user issues
+                  commands to a VVA to use a third-party app used to keep track of her ovulation.47
+
+                 When voice data is used for the purpose of uniquely identify the user, as developed
+                  below.
+
+3.8.2 Specific considerations when processing biometric data
+
+     127. Some VVA have the capability of uniquely identifying their users merely based on their voice.
+          This process is known as voice model recognition. During the enrolment phase of voice
+          recognition, the VVA processes a user’s voice to create a voice model (or voiceprint). During
+          its regular use, the VVA can calculate the voice model of any users and compare it to the
+          enrolled models to uniquely identify the user who executed a command.
+
+             Example 11:
+
+             A group of users set up a VVA to use voice model recognition. After doing so, each of them
+             enrol their voice models.
+
+             Later, a user requests the VVA access to the meetings in his or her agenda. Since access to
+             the agenda requires user identification, the VVA extracts the model from the request’s
+             voice, calculates its voice model and checks if it matches an enrolled user and if that specific
+             user has access to the agenda.
+
+       128.        In the example above, the recognition of a the user’s voice on the basis of a voice
+          model amounts to the processing of special categories of personal data within the meaning of
+          Article 9 GDPR (processing of biometric data for the purpose of uniquely identifying a natural
+          person).48 The processing of biometric data for the purpose of user identification as required
+          in the example will require the explicit consent of the data subject(s) concerned (Article 9(2)(a)
+          GDPR). Therefore, when obtaining users’ consent, data controllers must comply with the
+          conditions of Article 7 and as clarified in recital 32 of the GDPR and should offer an alternative
+          identification method to biometrics, with regard to the free nature of consent.
+
+       129.      When using voice data for biometric identification or authentication, data controllers
+          are required to make transparent where biometric identification is used and how voiceprints
+
+
+
+
 47
-   Ver, por exemplo, um produto disponível aqui: https://www.amazon.com/Ethan-Fan-Ovulation-Period-
+   See for example, a product available here: https://www.amazon.com/Ethan-Fan-Ovulation-Period-
 Tracker/dp/B07CRLSHKY
 
 
-Adotadas - após consulta pública                                                                         33
-
- 128. No exemplo acima, o reconhecimento da voz do utilizador com base num modelo de voz
-      constitui tratamento de categorias especiais de dados pessoais na aceção do artigo 9.º RGPD
-      (tratamento de dados biométricos para efeitos de identificação de forma única de uma pessoa
-      singular).48 O tratamento de dados biométricos para efeitos da identificação do utilizador
-      conforme exigido no exemplo exigirá o consentimento explícito do(s) titular(es) dos dados em
-      causa [artigo 9.º, n.º 2, alínea a), RGPD]. Por conseguinte, ao obter o consentimento dos
-      utilizadores, os responsáveis pelo tratamento de dados devem satisfazer as condições do
-      artigo 7.º esclarecidas no considerando 32 do RGPD e devem oferecer um método de
-      identificação alternativo ao biométrico, tendo em conta a natureza livre do consentimento.
-
- 129. Ao utilizar dados de voz para a identificação ou autenticação biométrica, os responsáveis pelo
-      tratamento de dados devem apresentar de forma transparente as situações em que a
-      identificação biométrica é utilizada e o modo como as impressões de voz (modelos
-      biométricos) são conservadas e difundidas pelos dispositivos. Para preencher o requisito da
-      transparência, o CEPD recomenda que sejam proporcionadas as respostas às seguintes
-      questões:
-
-             A ativação da identificação da voz num dispositivo ativa automaticamente esta função
-              em todos os outros dispositivos que funcionam com a mesma conta?
-             A ativação da identificação da voz propaga-se através da infraestrutura do responsável
-              pelo tratamento do AVV aos dispositivos detidos por outros utilizadores?
-             Onde são gerados, armazenados e correspondidos os modelos biométricos?
-             São os modelos biométricos acessíveis aos fornecedores e aos programadores dos AVV
-              ou a outros?
-
- 130. Quando o utilizador registado configura os AVV para identificar a voz dos seus utilizadores, a
-      voz dos utilizadores não registados e dos utilizadores acidentais também será tratada para
-      efeitos da sua identificação única.
-
- 131. Com efeito, a deteção da voz do interlocutor certo também envolve a sua comparação com a
-      de outras pessoas nas proximidades do assistente. Por outras palavras, a funcionalidade do
-      reconhecimento do interlocutor implementada nos assistentes de voz pode exigir dados
-      biométricos da voz de pessoas que falam na casa que vai ser gravada, para permitir distinguir
-      as características da voz do utilizador das da pessoa que pretende ser reconhecida. A
-      identificação biométrica pode, portanto, ter a consequência de sujeitar pessoas não
-      informadas a tratamento biométrico, registando o seu modelo e comparando-o com o do
-      utilizador que pretende ser reconhecido.
-
- 132. Para evitar a recolha de dados biométricos sem o conhecimento dos titulares dos dados,
-      permitindo-se ao mesmo tempo que o utilizador seja reconhecido pelo assistente, deve ser
-      dada prioridade às soluções baseadas apenas nos dados do utilizador. Em termos concretos,
-      tal significa que o reconhecimento biométrico só é ativado em cada utilização por iniciativa do
-      utilizador, e não por uma análise permanente das vozes ouvidas pelo assistente. Por exemplo,
-      poderia ser facultada uma determinada palavra-chave ou uma determinada questão às
-      pessoas presentes para obter o seu consentimento para desencadear o tratamento
-      biométrico. Por exemplo, o utilizador pode dizer «identificação» ou o assistente pode
 
 
+Adopted - after public consultation                                                                       30
+
+           (biometric models) are stored and propagated across devices. To fulfil this transparency
+           requirement, the EDPB recommends to provide the answers to the following questions:
+
+                Does the activation of voice identification on one device automatically activate this
+                 feature on all other devices running with the same account?
+                Does the activation of voice identification propagate through the VVA controller’s
+                 infrastructure to devices owned by other users?
+                Where are biometric models generated, stored and matched?
+                Are biometric models accessible to VVA providers, developers or others?
+
+       130.       When the registered user configures the VVAs to identify the voice of its users, the
+          voice of non-registered and accidental users will also be processed for the purpose of uniquely
+          identifying them.
+
+       131.      Indeed, detecting the voice of the right speaker also involves comparing it with that of
+          other people in the assistant's vicinity. In other words, the speaker recognition functionality
+          implemented in voice assistants may require the voice biometrics of people speaking in the
+          household to be recorded, to allow the user's voice characteristics to be distinguished from
+          those of the person who wishes to be recognised. Biometric identification may therefore have
+          the consequence of subjecting uninformed persons to biometric processing, by registering
+          their model and comparing it with that of the user wishing to be recognised.
+
+       132.        In order to avoid such collection of biometric data without the knowledge of the data
+          subjects while allowing a user to be recognized by the assistant, solutions based on the user's
+          data alone should be given priority. In concrete terms, this means that biometric recognition
+          is only activated at each use at the user's initiative, and not by a permanent analysis of the
+          voices heard by the assistant. For instance, a specific keyword or question to the persons
+          present could be provided in order to obtain their consent to trigger biometric processing. For
+          example, the user can say "identification” or the assistant can ask "do you wish to be
+          identified" and wait for a positive response to activate biometric processing.
+
+            Example 12:
+
+            If the user wishes to set up biometric authentication for access to certain protected data
+            such as his/her bank account, the voice assistant could activate speaker verification, when
+            he/she launches the application only, and verify his/her identity in this way.
 
 
-Adotadas - após consulta pública                                                                  34
+Recommendations
+     133. Voice models should be generated, stored and matched exclusively on the local device, not in
+          remote servers.
 
-           perguntar «pretende ser identificado?» e esperar por uma resposta positiva para ativar o
-           tratamento biométrico.
-
-            Exemplo 12:
-
-            Se o utilizador desejar configurar a autenticação biométrica para acesso a determinados
-            dados protegidos, tais como a sua conta bancária, o assistente de voz poderá ativar a
-            verificação do interlocutor apenas quando este lançar a aplicação e verificar, deste modo, a
-            sua identidade.
-
-
-Recomendações
-     133. Os modelos de voz devem ser gerados, armazenados e correspondidos exclusivamente no
-          dispositivo local, e não em servidores remotos.
-
-     134. Devido à sensibilidade das impressões de voz, devem ser integralmente aplicadas normas
-          como a ISO/IEC 24745 e técnicas de proteção do modelo biométrico49.
-
-     135. Se um AVV utilizar a identificação biométrica baseada na voz, os fornecedores do AVV devem:
-
-                 Garantir que a identificação seja suficientemente exata para associar de forma
-                  fidedigna os dados pessoais aos titulares dos dados certos.
-
-                 Garantir que a exatidão seja semelhante para todos os grupos de utilizadores,
-                  verificando que não existe uma tendência substancial no sentido de diferentes grupos
-                  demográficos.
-
-3.9 Minimização dos dados
-     136. Os responsáveis pelo tratamento devem minimizar a quantidade de dados que é recolhida
-          direta ou indiretamente e obtida mediante tratamento e análise, por ex., não executar
-          qualquer análise da voz do utilizador ou de outras informações audíveis para obter
-          informações sobre o seu estado de saúde mental, possível doença ou circunstâncias da sua
-          vida.
-
-     137. Aplicar definições por defeito que limitem a recolha e/ou o tratamento de dados necessários
-          para prestar o serviço.
-
-     138. Dependendo da localização, do contexto da utilização e da sensibilidade do microfone, o AVV
-          pode captar dados de voz de terceiros como parte do ruído de fundo quando capta a voz dos
-          utilizadores. Mesmo que o ruído de fundo não inclua dados de voz, pode incluir ainda dados
-          contextuais que podem ser tratados para obter informações sobre o titular dos dados (por ex.,
-          a localização).
-
-
+     134. Due to the sensitiveness of the voiceprints, standards such as ISO/IEC 24745 and techniques
+          of biometric model protection49 should be thoroughly applied.
 
 
 49
-   Ver, por exemplo:
-Jain, Anil & Nandakumar, Karthik & Nagar, Abhishek. (2008), «Biometric Template Security», EURASIP Journal on
-Advances in Signal Processing, 2008, 10.1155/2008/579416.
-S. K. Jami, S. R. Chalamala e A. K. Jindal, «Biometric Template Protection Through Adversarial Learning» 2019 IEEE
-International Conference on Consumer Electronics (ICCE), Las Vegas, NV, EUA, 2019, págs. 1 a 6, doi:
+   See for example:
+Jain, Anil & Nandakumar, Karthik & Nagar, Abhishek. (2008). “Biometric Template Security”. EURASIP Journal on
+Advances in Signal Processing. 2008. 10.1155/2008/579416.
+S. K. Jami, S. R. Chalamala and A. K. Jindal, "Biometric Template Protection Through Adversarial Learning" 2019
+IEEE International Conference on Consumer Electronics (ICCE), Las Vegas, NV, USA, 2019, pp. 1-6, doi:
 10.1109/ICCE.2019.8661905.
 
 
-Adotadas - após consulta pública                                                                               35
+Adopted - after public consultation                                                                         31
 
-Recomendações
-     139. Os criadores do AVV devem considerar a possibilidade de utilizar tecnologias para eliminação
-          do ruído de fundo para evitar a gravação e o tratamento vozes de fundo e informações
-          contextuais.
+     135. If a VVA uses voice based biometric identification VVA providers should:
 
-3.10 Responsabilização
-     140. Em relação a todo o tratamento baseado no consentimento, os responsáveis pelo tratamento
-          devem poder provar o consentimento dos titulares dos dados nos termos do artigo 7.º, n.º 1,
-          RGPD. Os dados de voz podem ser utilizados para efeitos de responsabilização (por ex., para
-          provar o consentimento). A obrigação de retenção desses dados de voz é, nesse caso, imposta
-          pelos requisitos de responsabilização da legislação específica pertinente.
+                 Ensure that the identification is accurate enough to reliably associate personal data to
+                  the right data subjects.
 
-     141. Na avaliação da necessidade de uma Avaliação do Impacto da Proteção de Dados (AIPD), o
-          CEPD estabelece os critérios50 a utilizar pelas autoridades de proteção dos dados na criação de
-          listas de operações de tratamento que exigem obrigatoriamente uma AIPD e dá exemplos de
-          tratamento suscetíveis de carecer de uma AIPD. É muito provável que os serviços do AVV
-          estejam abrangidos pelas categorias e condições em que é identificada a necessidade de uma
-          AIPD. Tal inclui considerar a possibilidade de o dispositivo poder estar a observar, monitorizar
-          ou controlar os titulares dos dados ou a controlar sistematicamente em grande escala nos
-          termos do artigo 35.º, n.º 3, alínea c), a utilização de «nova tecnologia», ou o tratamento de
-          dados sensíveis e de dados relativos a titulares dos dados vulneráveis.
+                 Ensure that the accuracy is similar for all user groups by checking that there is no
+                  substantial bias towards different demographic groups.
 
-     142. Todas as atividades de recolha e de tratamento dos dados devem ser documentadas de acordo
-          com o artigo 30.º RGPD. Tal inclui todo o tratamento que envolva dados de voz.
+3.9 Data minimization
+     136. Controllers should minimize the amount of data that is collected directly or indirectly and
+          obtained by processing and analysis, e.g. not perform any analysis on the user’s voice or other
+          audible information to derive information about their mental state, possible disease or
+          circumstances of their life.
 
-Recomendações
-     143. Se forem utilizadas mensagens de voz para informar os utilizadores nos termos do artigo 13.º,
-          os responsáveis pelo tratamento de dados devem publicar as referidas mensagens no seu sítio
-          Web para que estas estejam acessíveis aos utilizadores e às autoridades de proteção dos
-          dados.
+     137. Roll out settings by default that limit any data collecting and/or processing to a minimum
+          required amount needed to provide the service.
 
-3.11 Proteção de dados desde a conceção e por defeito
-     144. Os prestadores de serviços e os programadores de AVV devem considerar a necessidade de
-          ter um utilizador registado para cada uma das suas funcionalidades. Embora seja clara a
-          necessidade de registo do utilizador do AVV para que este possa gerir uma agenda ou um livro
-          de endereços, tal necessidade de registo já não resulta de forma tão clara para a realização de
-          uma chamada telefónica ou de uma busca na Internet.
+     138. Depending on the location, use context and microphone sensitivity, VVA could collect third
+          parties’ voice data as part of the background noise when collecting the users’ voice. Even if
+          background noise does not include voice data, it can still include situational data that could be
+          processed to derive information about the subject (e.g. location).
 
-     145. Por defeito, os serviços que não exigem um utilizador identificado não devem associar nenhum
-          dos utilizadores identificados do AVV aos comandos. O AAV compatível com a proteção dos
-          dados e da privacidade por defeito deverá tratar apenas dados dos utilizadores para execução
-          de pedidos dos utilizadores e não deverá conservar dados de voz nem o registo dos comandos
-          executados.
+Recommendations
+     139. VVA designers should consider technologies deleting the background noise to avoid recording
+          and processing background voices and situational information.
+
+3.10 Accountability
+     140. For any processing that is based on consent, controllers are obliged to be able to prove the
+          consent of data subjects according to Article 7 (1) GDPR. Voice data can be used for
+          accountability (e.g. to prove consent). The retention obligation for such voice data would then
+          be dictated by the accountability requirements of the relevant specific legislation.
+
+     141. When evaluating the need for a Data Protection Impact Assessment (DPIA), the EDPB set out
+          criteria50 to be used by data protection authorities in creating lists of processing operations
+          that require a mandatory DPIA and provide examples of processing that are likely to require a
+          DPIA. It is very likely that VVA services fall into the categories and conditions identified as
+          needing a DPIA. This includes considering if the device may be observing monitoring or
+          controlling data subjects or systematically monitoring at large scale as per Article 35(3)(c), use
+          of “new technology”, or the processing of sensitive data and data concerning vulnerable data
+          subjects.
+
+     142. All data collection and processing activities must be documented in accordance with Article 30
+          GDPR. That includes all processing involving voice data.
 
 
 
 
 50
-  Grupo de Trabalho do artigo 29.º, Orientações relativas à Avaliação de Impacto sobre a Proteção de Dados
-(AIPD), wp248, rev.01, aprovadas pelo CEPD.
+  Article 29 Working Party, Guidelines on Data Protection Impact Assessment (DPIA), wp248, rev.01, endorsed
+by EDPB.
 
 
-Adotadas - após consulta pública                                                                             36
+Adopted - after public consultation                                                                      32
 
-     146. Embora alguns dispositivos só consigam operar um AVV, outros permitem escolher entre
-          diferentes AVV. Os fornecedores de AVV devem elaborar normas do setor que permitam a
-          portabilidade dos dados de acordo com o artigo 20.º do RGPD.
+Recommendations
+ 143. If voice messages are to be used to inform users according to Article 13, the data controllers
+      should publish such messages on their website so they are accessible to the users and the data
+      protection authorities.
 
-     147. Alguns fornecedores de AVV alegaram que os respetivos AVV não podiam eliminar todos os
-          dados dos utilizadores mesmo que tal lhes fosse solicitado pelo titular dos dados. Os
-          fornecedores de AVV devem garantir que todos os dados dos utilizadores podem ser apagados
-          a pedido do utilizador de acordo com o artigo 17.º do RGPD.
+3.11 Data protection by design and by default
+ 144. VVA providers and developers should consider the necessity of having a registered user for
+      each of their functionalities. While it is clear that it is necessary to have a registered user to
+      manage an agenda or an address book, it is not so clear that making a phone call or an Internet
+      search requires the VVA to have a registered user.
+
+ 145. By default, services which do not require an identified user should not associate any of the
+      VVA identified users to the commands. A privacy and data protection friendly default VVA
+      would only process users’ data for executing users’ requests and would store neither voice
+      data nor a register of executed commands.
+
+ 146. While some devices can only run one VVA, others can choose among different VVAs. VVA
+      providers should develop industry standards enabling data portability in accordance with
+      Article 20 of the GDPR.
+
+ 147. Some VVA providers alleged their VVAs could not delete all users’ data even when requested
+      by the data subject. VVA providers should ensure that all users’ data can be erased at the user’s
+      request in accordance with Article 17 of the GDPR.
 
 
-4 MECANISMOS PARA O EXERCÍCIO DOS DIREITOS DOS TITULARES
-  DOS DADOS
-     148. Em cumprimento do RGPD, os responsáveis pelo tratamento de dados que proporcionam
-          serviços de AVV devem permitir a todos os utilizadores, registados e não registados, exercer
-          os seus direitos de titulares dos dados.
+4 MECHANISMS TO EXERCISE DATA SUBJECT RIGHTS
+ 148. In compliance with the GDPR, data controllers providing VVA services must allow all users,
+      registered and non-registered, to exercise their data subject rights.
 
-     149. Os fornecedores e programadores de AVV devem facilitar o controlo dos respetivos dados
-          pelos titulares dos dados durante todo o período de tratamento, em especial facilitar os seus
-          direitos de acesso, retificação, apagamento, limitação do tratamento e, dependendo da base
-          jurídica do tratamento, os seus direitos de portabilidade dos dados e de oposição.
+ 149. VVA providers and developers should facilitate data subjects’ control over their data during
+      the entire processing period, in particular ease their right of access, rectification, erasure, their
+      right to restrict the processing and, depending on the legal basis of the processing, their right
+      to data portability and their right to object.
 
-     150. O responsável pelo tratamento dos dados deve proporcionar informações sobre os direitos do
-          titular dos dados no momento em que os titulares dos dados ligam o AVV e, o mais tardar, no
-          momento em que é tratado o primeiro pedido vocal do utilizador.
+ 150. The data controller should provide information on the data subject’s rights at the time when
+      data subjects switch on a VVA and at the latest, at the time when the first user’s voice request
+      is processed.
 
-     151. Uma vez que o principal meio de interação do AVV é a voz, os criadores do AVV devem garantir
-          que os utilizadores, registados ou não, possam exercer todos os direitos do titular dos dados
-          utilizando comandos vocais fáceis de seguir. Os criadores de AVV, bem como os
-          programadores de app no caso de estes fazerem parte da solução, devem, no final do
-          processo, informar o utilizador de que os seus direitos foram devidamente tidos em conta, por
-          voz ou enviando uma notificação por escrito para o telemóvel ou para a conta do utilizador,
-          ou por qualquer outro meio escolhido pelo utilizador.
+ 151. Given that the main interaction means for VVAs is voice, VVA designers should ensure that
+      users, registered or not, can exercise any data subject rights, using easy-to-follow voice
+      commands. VVA designers, as well as app developers in case they are part of the solution,
+      should at the end of the exercise process inform the user that his/her rights have been duly
+      factored, by voice or by providing a writing notification to the user’s mobile, account or any
+      other mean chosen by the user.
 
-     152. No mínimo, nomeadamente os criadores e os programadores de app do AVV devem
-          implementar ferramentas específicas que proporcionem um meio eficaz e efetivo para exercer
-          esses direitos. Devem, portanto, propor em relação aos seus dispositivos, uma forma de
-          exercer os direitos dos titulares dos dados, por exemplo proporcionando ao titular dos dados
-          ferramentas de autosserviço, como um sistema de gestão do perfil51. Isso poderia facilitar o
-          exercício eficaz e atempado dos direitos do titular dos dados e permitiria ao responsável pelo
-          tratamento dos dados incluir um mecanismo de identificação na ferramenta de autosserviço.
+ 152. At least, VVA designers and app developers, notably, should implement specific tools providing
+      an effective and efficient way to exercise such rights. They should therefore propose for their
+      devices, a way to exercise data subjects’ rights as by providing the data subject with self-
 
-     153. No que diz respeito ao exercício dos direitos dos titulares dos dados no caso de múltiplos
-          utilizadores, sempre que um utilizador, registado ou não, exercer um dos seus direitos, deverá
-          fazê-lo sem prejudicar os direitos de nenhum dos outros utilizadores. Todos os utilizadores,
-          registados e não registados podem exercer os seus direitos desde que o responsável pelo
+
+
+
+Adopted - after public consultation                                                                     33
+
+           service tools, as a profile management system51. This could facilitate an efficient and timely
+           handling of data subject’s rights and will enable the data controller to include the identification
+           mechanism in the self-service tool.
+
+     153. In regards of the exercise of data subjects rights in case of multiple users, when a user,
+          registered or not, exercises one of his or her rights, he or she should do so without prejudice
+          to any other users’ rights. All the users, registered and non-registered can exercise their rights
+          as long as the data controller is still processing the data. Data controller should set up a process
+          ensuring that data subject rights are exercised.
+
+4.1 Right to access
+     154. According to Article 12(1) GDPR, communication under Article 15 should be provided in
+          writing, or by other means, including, where appropriate, by electronic means. As regards
+          access to the personal data undergoing processing, Article 15(3) states that where the data
+          subject makes the request by electronic means, and unless otherwise requested by the data
+          subjects, the information should be provided in a commonly used electronic form. What could
+          be considered as a commonly used electronic form should be based upon the reasonable
+          expectations of the data subjects and not upon what format the data controller uses in its daily
+          operations. The data subject should not be obliged to buy specific software or hardware in
+          order to get access to the information.
+
+     155. On demand, data controllers should therefore send a copy of personal data, and audio data
+          (including voice recordings and transcriptions) in particular, in a common format readable by
+          the data subject.
+
+     156. When deciding about the type of format the information under Article 15 should be provided
+          in, the data controller needs to keep in mind that the format should enable the information to
+          be presented in a way that is both intelligible and easy accessible. Data controllers should also
+          tailor the information to the specific situation of the data subject making the request.
+
+           Example 13:
+
+           A data controller providing a VVA service receives, from a user, both a request of access and a
+           request for data portability. The data controller decides to provide the information under both
+           Article 15 and Article 20 in a PDF file. In such a case, the data controller should not be
+           considered to handle both requests in a correct manner. A PDF file technically fulfils the
+           obligations on the data controller under Article 15, but does not fulfil the obligations on the
+           data controller under Article 20.52
+
+           It should be noted that simply referring users to a history of their interactions with the voice
+           assistant does not appear to enable the data controller to meet all its obligations under the
+           right of access, as the accessible data generally represents only part of the information
+           processed in the context of providing the service.
+
 
 
 
 51
-  O sistema de gestão de perfis é um lugar dentro do sistema de AVV, onde os utilizadores podem, a todo o
-tempo, armazenar as suas preferências, definir as modificações e alterar facilmente as suas definições de
-privacidade
-
-
-Adotadas - após consulta pública                                                                      37
-
-            tratamento dos dados ainda esteja a tratar os dados. O responsável pelo tratamento dos dados
-            deve configurar um processo que garanta que os direitos do titular dos dados sejam exercidos.
-
-4.1 Direito de acesso
-     154. Nos termos do artigo 12.º, n.º 1, RGPD, qualquer comunicação prevista no artigo 15.º deve ser
-          prestada por escrito ou por outros meios, incluindo, se for caso disso, por meios eletrónicos.
-          No que diz respeito ao acesso aos dados pessoais em fase de tratamento, o artigo 15.º, n.º 3,
-          refere que se o titular dos dados apresentar o pedido por meios eletrónicos, e salvo pedido
-          em contrário do titular dos dados, a informação é fornecida num formato eletrónico de uso
-          corrente. Para saber o que deve ser considerado um formato eletrónico de uso corrente há
-          que ter em conta as expectativas razoáveis dos titulares dos dados e não o formato que o
-          responsável pelo tratamento dos dados utiliza nas suas operações diárias. O titular dos dados
-          não deve ser obrigado a adquirir software ou hardware específicos para ter acesso às
-          informações.
-
-     155. A pedido, os responsáveis pelo tratamento de dados devem, portanto, enviar uma cópia dos
-          dados pessoais, incluindo dados áudio (incluindo gravações da voz e transcrições), num
-          formato comum legível pelo titular dos dados.
-
-     156. Ao decidir sobre o tipo de formato em que as informações nos termos do artigo 15.º devem
-          ser fornecidas, o responsável pelo tratamento dos dados deve ter em conta que o formato
-          deve permitir que as informações sejam apresentadas de uma forma que seja
-          simultaneamente inteligível e facilmente acessível. Os responsáveis pelo tratamento de dados
-          devem também adaptar as informações à situação específica do titular dos dados que
-          apresenta o pedido.
-
-            Exemplo 13:
-
-            Um responsável pelo tratamento dos dados que presta um serviço de AVV recebe de um
-            utilizador um pedido de acesso e um pedido de portabilidade dos dados. O responsável pelo
-            tratamento dos dados decides fornecer as informações ao abrigo do artigo 15.º e do artigo
-            20.º num ficheiro PDF. Nesse caso, não se deve considerar que o responsável pelo tratamento
-            dos dados tratou os dois pedidos de forma correta. O ficheiro PDF cumpre, em termos
-            técnicos, as obrigações que incumbem ao responsável pelo tratamento dos dados nos termos
-            do artigo 15, mas não cumpre as obrigações que lhe incumbem nos termos do artigo 20.º.52
-
-            De notar que a simples remissão dos utilizadores para um histórico das suas interações com o
-            assistente de voz não parece permitir ao responsável pelo tratamento dos dados satisfazer
-            todas as suas obrigações ao abrigo do direito de acesso, porque os dados acessíveis
-            representam geralmente apenas uma parte das informações tratadas no contexto da
-            prestação do serviço.
-
-
-
-     157.   O direito de acesso não deve ser utilizado para contrariar ou para contornar os princípios da
-            minimização dos dados e da conservação dos dados.
-
-
-
-
+   Profile management system is understood as a place within the VVA system, where users may, anytime, store
+its preferences, set modification and change easily his/her privacy settings
 52
-  Grupo de Trabalho do artigo 29.º, Orientações sobre o direito à portabilidade dos dados - aprovadas pelo CEPD,
-p. 18.
+   WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 18.
 
 
-Adotadas - após consulta pública                                                                             38
+Adopted - after public consultation                                                                        34
 
-4.2 Direito de retificação
-     158. Para facilitar a retificação dos dados, os utilizadores, registados ou não, devem poder gerir e
-          atualizar, a todo o tempo, os seus dados por voz diretamente do dispositivo AVV, conforme
-          acima descrito. Além disso, a ferramenta de autosserviço deve ser implementada no
-          dispositivo ou numa aplicação para ajudá-lo a retificar facilmente os seus dados pessoais. Os
-          utilizadores devem ser notificados por voz ou por escrito da atualização.
+     157.   The right of access should not be used to counter / to get around the principles of
+            minimisation and data retention.
 
-     159. Mais genericamente, o direito de retificação aplica-se a quaisquer opiniões e conclusões53 do
-          responsável pelo tratamento dos dados, incluindo a definição de perfis, e deve ter em conta
-          que a grande maioria dos dados é altamente subjetiva.54
+4.2 Right to rectification
+     158. To facilitate data rectification, users, registered or not, should be able to manage and update,
+          at any time, their data by voice directly from the VVA device, as described above. Furthermore
+          self-service tool should be implemented inside the device or an application in order to help
+          them to rectify easily their personal data. Users should be notified by voice, or by writing of
+          the update.
 
-4.3 Direito ao apagamento dos dados
-     160. Os utilizadores, registados ou não, devem poder, a todo o tempo, por voz do dispositivo do
-          AVV, ou de uma ferramenta de autosserviço integrada em qualquer dispositivo associado ao
-          AVV, apagar os dados que lhe dizem respeito. Neste contexto, os dados pessoais podem ser
-          apagados pelo titular dos dados tão facilmente como foram submetidos. Devido às
-          dificuldades inerentes à anonimização dos dados de voz e à grande diversidade de dados
-          pessoais recolhidos, observados e inferidos acerca do titular dos dados,55 o direito de
-          apagamento neste contexto dificilmente poderia ser acomodado pela anonimização dos
-          conjuntos de dados pessoais. Uma vez que o RGPD é neutro, do ponto de vista tecnológico e
-          que a tecnologia evolve rapidamente, não se exclui, no entanto, que o direito ao apagamento
-          possa ser exercido através de anonimização.
+     159. More generally, the right to rectification applies to any opinions and inferences53 of the data
+          controller, including profiling, and should consider the vast majority of data is highly
+          subjective.54
 
-     161. Em alguns casos, sem o ecrã de um terceiro ou a possibilidade de mostrar os dados
-          armazenados (por ex., uma aplicação móvel ou um dispositivo tabular), é difícil ter uma
-          previsualização das faixas registadas, para apreciar a pertinência das sugestões. Com o
-          assistente de voz deve ser fornecido aos utilizadores um painel (ou uma aplicação) de
-          acessibilidade generalizada para facilitar a sua utilização para eliminar o histórico dos pedidos
-          apresentados e personalizar a ferramenta de acordo com as necessidades do utilizador.56
+4.3 Right to erasure
+     160. Users, registered or not, should be able, at any time, by voice from the VVA device, or from a
+          self-service tool integrated into any device associated to the VVA, to delete data concerning
+          them. In this respect, the personal data can be deleted by a data subject as easily as it is
+          submitted. Due to the inherent difficulties of anonymising voice data and the wide variety of
+          personal data collected from, observed and inferred about the data subject,55 in this context
+          the right to erasure could be hardly accommodated by anonymising personal datasets. As the
+          GDPR is technology neutral and technology evolves rapidly, it will nevertheless not be excluded
+          that right to erasure may be made effective through anonymization.
 
-     162. Em relação a qualquer tratamento de dados e, em especial, sempre que os titulares dos dados
-          tenham dado o consentimento para que as gravações da voz sejam transcritas e utilizadas pelo
-          fornecedor para o aperfeiçoamento dos seus serviços, os fornecedores do AVV devem, a
-          pedido do utilizador, poder apagar a gravação inicial da voz, bem como qualquer transcrição
-          associada dos dados pessoais.
+     161. In some cases, without a third party screen or the possibility of displaying data stored (e.g. a
+          mobile application or a tabular device), it is difficult to have a preview of the recorded tracks,
+          to judge the relevance of the suggestions. A dashboard (or an application) widely accessible to
+          users in order to ease its use should be supplied with the voice assistant to delete the history
+          of the requests asked and customize the tool according to user’s needs.56
 
-     163. O responsável pelo tratamento dos dados deve garantir que não possa ocorrer nenhum outro
-          tratamento, depois do exercício do direito ao apagamento dos dados. No que diz respeito às
+     162. For any data processing and, in particular, when registered data subjects consent to the voice
+          recordings to be transcribed and used by the provider for the improvement of its services, VVA
+          providers should, on demand of the user, be able to delete the initial voice recording as well
+          as any related transcription of the personal data.
+
+     163. The data controller should ensure that no more processing may occur, after the exercise of the
+          right of erasure. In regards to previous actions, the right to erasure may meet some legal and
+          technical limits, notably.
+
+
 
 
 53
-   O facto de as opiniões e conclusões poderem ser considerados dados pessoais foi confirmado pelo Tribunal de
-Justiça da União Europeia, que observou, no processo C-434/16, Peter Nowak/ Data Protection Commissioner
-ECLI:EU:C:2017:994, n.º 34, que a expressão «qualquer informação» no âmbito da definição de «dado pessoal»
-inclui informações “tanto objetivas como subjetivas sob forma de opiniões ou de apreciações, na condição de
-«dizerem respeito» [ao titular dos dados]”.
+   The fact that opinions and inferences can qualify as personal data has been confirmed by the CJEU, which
+noted that the term ‘any information’ in the definition of personal data includes information that is ‘not only
+objective but also subjective, in the form of opinions and assessments, provided that it ‘relates’ to the data
+subject’ - Case C-434/16 Peter Nowak v Data Protection Commissioner ECLI:EU:C:2017:994 [34].
 54
-   «Getting Data Subject Rights Right, A submission to the EDPB from data protection academics», novembro de
-2019.
+   Getting Data Subject Rights Right, A submission to the EDPB from data protection academics, November 2019.
 55
-   Grupo de Trabalho do artigo 29.º, Parecer 05/2014 sobre técnicas de anonimização, adotado em 10 de abril
-de 2014.
+   Article 29 Working Party Opinion 05/2014 on Anonymisation Techniques, adopted on 10 April 2014.
 56
-   «Assistants vocaux et enceintes connectées, l’impact de la voix sur l’offre et les usages culturels et médias»,
-«Conseil Supérieur de l’Audiovisuel» francês, maio de 2019.
+   "Assistants vocaux et enceintes connectées, l’impact de la voix sur l’offre et les usages culturels et médias",
+the French "Conseil Supérieur de l’Audiovisuel", May 2019.
 
 
-Adotadas - após consulta pública                                                                               39
+Adopted - after public consultation                                                                            35
 
-       ações anteriores, o direito ao apagamento poderá ficar sujeito nomeadamente a algumas
-       limitações jurídicas e técnicas.
+           Example 14:
 
-       Exemplo 14:
+           If prior to the deletion request, a user made an online purchase by means of his/her VVA, the
+           VVA provider may delete the voice recording relating to the online purchase and ensure no
+           more future further use. However, the purchase will still be effective as well as the vocal order
+           or the written transcription processed by the e-commerce website (here the exemption is
+           based of legal obligation of the e-commerce website).
 
-       Se antes do pedido de apagamento, um utilizador efetuou uma compra em linha por meio do
-       seu AVV, o fornecedor do AVV pode apagar a gravação da voz relativa à compra em linha e
-       garantir que não haverá nenhuma outra utilização futura. No entanto, a compra permanece
-       efetiva, assim como a encomenda vocal ou a transcrição por escrito tratada pelo sítio Web de
-       comércio eletrónico (neste caso, a isenção baseia-se na obrigação jurídica do sítio Web de
-       comércio eletrónico).
+           In the same vein, if prior to the deletion request, the user added a specific song to his/her
+           playlist, by means of his/her VVA, the VVA providers will be able to delete the oral request,
+           but not the past consequences of such request (the erasure will not impact the user’s playlist).
 
-       De igual modo, se antes do pedido de apagamento, o utilizador adicionou uma canção
-       específica à sua lista de reprodução, por meio do seu AVV, os fornecedores do AVV poderão
-       apagar o pedido vocal, mas não as consequências passadas de tal pedido (o apagamento não
-       afetará a lista de reprodução do utilizador).
+     164. Based on the above, in case the same personal data is processed for different processing
+          purposes, data controllers should interpret erasure requests as a clear signal to stop
+          processing of the data for all purposes that are not legally exempted.
 
- 164. Com base no acima exposto, no caso de os mesmos dados pessoais serem tratados para
-      diferentes finalidades de tratamento, os responsáveis pelo tratamento de dados devem
-      interpretar os pedidos de apagamento como um sinal claro de interrupção do tratamento dos
-      dados para todos os fins que não estejam legalmente isentos.
+           In accordance with the conditions set out in Article 21(1) of the GDPR, data processed on the
+           basis of legitimate interests of the VVA providers should not be an exemption to the right of
+           erasure, in particular, because data subjects do not reasonably expect further processing of
+           their personal data.
 
-       De acordo com as condições estabelecidas no artigo 21.º, n.º 1, do RGPD, os dados tratados
-       com base nos interesses legítimos dos fornecedores do AVV não devem estar isentos do direito
-       ao apagamento dos dados, em especial porque os titulares dos dados não esperam, em termos
-       razoáveis, a continuação do tratamento dos seus dados pessoais.
+4.4 Right to data portability
+     165. The data processing made by the VVA providers falls under the scope of data portability, as
+          processing operations are mainly based, on the data subject’s consent (under Article 6(1)(a),
+          or under Article 9(2)(a) when it comes to special categories of personal data) or, on a contract
+          to which the data subject is a party under Article 6(1)(b).
 
-4.4 Direito à portabilidade dos dados
- 165. O tratamento de dados efetuado pelos fornecedores do AVV está abrangido pelo âmbito de
-      aplicação da portabilidade dos dados porque as operações de tratamento baseiam-se
-      principalmente no consentimento do titular dos dados [nos termos do artigo 6.º, n.º 1, alínea
-      a), ou nos termos do artigo 9.º, n.º 2, alínea a), quando se trata de categorias especiais de
-      dados pessoais] ou, num contrato no qual o titular dos dados é parte nos termos do artigo 6.º,
-      n.º 1, alínea b).
+     166. In practice, the right to data portability should facilitate switching between different VVA
+          providers. VVAs operating in a digital environment in particular and data subject’s voice being
+          recorded in an application or a platform, the right to data portability should be granted for all
+          personal data provided by the data subject. Furthermore, the data controller should offer
+          users the possibility of directly retrieving their personal data from their user area, as a self-
+          service tool. The users should also be able to exercise this right through voice command.
 
- 166. Na prática, o direito à portabilidade dos dados deve facilitar a alternância entre diferentes
-      fornecedores de AVV. Uma vez que os AVV operam especificamente num ambiente digital e
-      que a voz do titular dos dados é gravada numa aplicação ou numa plataforma, o direito à
-      portabilidade dos dados deve ser concedido em relação a todos os dados pessoais fornecidos
-      pelo titular dos dados. Além disso, o responsável pelo tratamento dos dados deve oferecer
-      aos utilizadores a possibilidade de recuperar diretamente os seus dados pessoais da sua área
-      de utilizador, enquanto ferramenta de autosserviço. Os utilizadores também devem poder
-      exercer este direito através do comando de voz.
-
- 167. Os fornecedores e programadores de AVV devem dar aos titulares dos dados um amplo
-      controlo dos dados pessoais que lhe dizem respeito, para permitir-lhes transferir dados
-      pessoais de um fornecedor de AVV para outro. Os titulares dos dados devem, portanto,
-      receber os seus dados pessoais fornecidos ao responsável pelo tratamento dos dados, num
-
-
-
-
-Adotadas - após consulta pública                                                                 40
-
-           formato estruturado, de uso corrente e de leitura automática, bem como de meios57 que
-           contribuem para responder a pedidos de portabilidade dos dados (como as ferramentas de
-           transferência e as interfaces de programação de aplicações)58. Conforme referido nas
-           Orientações sobre o direito à portabilidade dos dados, no caso de uma recolha de dados
-           pessoais de grande dimensão ou complexa, como poderá acontecer neste caso, o responsável
-           pelo tratamento deve fornecer uma perspetiva geral « de forma concisa, transparente,
-           inteligível e de fácil acesso, utilizando uma linguagem clara e simples» (ver artigo 12.º, n.º 1,
-           RGPD) de um modo que permita ao titular dos dados dispor sempre de informações claras
-           sobre os dados que deve descarregar ou transmitir a outro responsável pelo tratamento em
-           relação a determinada finalidade. Por exemplo, os titulares dos dados devem ter a
-           possibilidade de utilizar aplicações informáticas para identificar, reconhecer e tratar
-           facilmente dados específicos próprios.
-
-     168. Este direito deve permitir ao utilizador recuperar para sua utilização pessoal, nomeadamente
-          os dados que comunicou por meio da sua voz (por ex., o histórico das interações por voz) e no
-          quadro da criação da sua conta de utilizador [por ex.: o(s) apelido e o(s) nome(s) próprio(s)].
-
-     169. Para a aplicação integral deste direito dos titulares dos dados no contexto do mercado único
-          digital, nomeadamente os criadores e os programadores de app dos AVV devem desenvolver
-          formatos comuns de leitura automática que facilitem a interoperabilidade do formato dos
-          dados entre sistemas de AVV59, incluindo os formatos comuns de dados de voz. As tecnologias
-          devem ser estruturadas para garantir que os dados pessoais tratados, incluindo os dados de
-          voz, sejam facilmente e integralmente reutilizáveis pelo novo responsável pelo tratamento60.
-
-     170. No que diz respeito ao formato, os fornecedores do AVV devem fornecer os dados pessoais
-          utilizando formatos abertos de uso corrente (por ex., mp3, wav, csv, gsm, etc.) juntamente
-
+     167. VVA providers and developers should give to the data subjects an extensive control over the
+          personal data concerning him or her, in order to allow them to transfer personal data from a
+          VVA provider to another. Data subjects should, therefore, receive his/her personal data
+          provided to the data controller, in a structured, commonly used and machine-readable format
+          as well as from means57 that contribute to answer data portability requests (such as download
 
 57
-   Ver, a título ilustrativo, o raciocínio do Grupo de Trabalho do artigo 29.º, Orientações sobre o direito à
-portabilidade dos dados, aprovadas pelo CEPD, p. 16:
-“No plano técnico, os responsáveis pelo tratamento devem explorar e avaliar duas vias diferentes e
-complementares para disponibilizar os dados portáveis aos titulares dos dados ou a outros responsáveis pelo
-tratamento:
-uma transmissão direta do conjunto global de dados portáveis (ou de várias partes extraídas do conjunto global
-de dados);
-uma ferramenta automatizada que permita a extração dos dados relevantes.
-Os responsáveis pelo tratamento darão possivelmente preferência à segunda via nos casos que envolvam
-conjuntos de dados amplos e complexos, uma vez que esta opção permite a extração de qualquer parte do
-conjunto de dados que interesse ao titular dos dados no contexto do seu pedido, pode ajudar a minimizar os riscos
-e permite, eventualmente, a utilização de mecanismos de sincronização dos dados (p. ex., no âmbito de uma
-comunicação regular entre os responsáveis pelo tratamento). A segunda via pode afigurar-se mais adequada no
-que respeita ao cumprimento das disposições por parte do «novo» responsável pelo tratamento, sendo suscetível
-de constituir uma boa prática na redução dos riscos para a privacidade por parte do primeiro responsável pelo
-tratamento.”
+   See as an illustration, the reasoning of the Article 29 Working Party in the Guidelines on the right to data
+portability - endorsed by the EDPB, p. 16:
+“On a technical level, data controllers should explore and assess two different and complimentary paths for
+making portable data available to the data subjects or to other data controllers:
+- a direct transmission of the overall dataset of portable data (or several extracts of parts of the global dataset);
+- an automated tool that allows extraction of relevant data.
+The second way may be preferred by data controllers in cases involving of complex and large data sets, as it
+allows for the extraction of any part of the data-set that is relevant for the data subject in the context of his or
+her request, may help minimizing risk, and possibly allows for use of data synchronization mechanisms (e.g. in
+the context of a regular communication between data controllers). It may be a better way to ensure compliance
+for the “new” data controller, and would constitute good practice in the reduction of privacy risks on the part of
+the initial data controller”.
+
+
+Adopted - after public consultation                                                                               36
+
+           tools and Application Programming Interfaces)58. As stated in the Guidelines on the right to
+           data portability, in case of large or complex personal data collection, that could be the case
+           here, the data controller should provide an overview “in a concise, transparent, intelligible and
+           easily accessible form, using clear and plain language” (see Article 12(1) of the GDPR) in such
+           a way that data subjects should always have clear information of what data to download or
+           transmit to another data controller in relation to a given purpose. For example, data subjects
+           should be in a position to use software applications to easily identify, recognize and process
+           specific data from it.
+
+     168. This right should allow the user to retrieve for his/her personal use, the data that he/she has
+          communicated by means of his/her voice (e.g. the history of voice interactions) and within the
+          framework of the creation of his/her user account (e.g.: name and first name), notably.
+
+     169. For the full application of this data subjects’ right in a context of one digital single market, VVA
+          designers and app developers, notably, should develop common machine-readable formats
+          that ease interoperability of the data format between VVA systems59, including the standard
+          formats for voice data. Technologies should be structured in order to ensure that personal
+          data, including voice data, processed are easily and fully reusable by the new controller60.
+
+     170. In regards to the format, VVA providers should provide personal data using commonly used
+          open formats (e.g. mp3, wav, csv, gsm, etc.) along with suitable metadata used in order to
+          accurately describe the meaning of exchanged information.61
+
+
+5 ANNEX: AUTOMATIC SPEECH RECOGNITION, SPEECH SYNTHESIS
+  AND NATURAL LANGUAGE PROCESSING
+     171. Following the theoretical foundations of signal processing, notably Claude Shannon's
+          information and sampling theories, automatic speech processing has become a fundamental
+          component of engineering sciences. At the crossroads of physics (acoustics, wave
+          propagation), applied mathematics (modelling, statistics), computer science (algorithms,
+          learning techniques) and human sciences (perception, reasoning), speech processing has
+          rapidly been broken down into numerous subjects of study: speaker identification and
+          verification, automatic speech recognition, voice synthesis, emotion detection, etc. Over the
+          last fifteen years or so, the discipline as a whole has made very significant progress, with
+          various factors contributing to this: improved methods, a significant increase in computing
+          capacities and greater volumes of data available.
+
+
+
+
 58
-   V. a este respeito: Grupo de Trabalho do artigo 29.º, Orientações sobre o direito à portabilidade dos dados,
-aprovadas pelo CEPD, p. 1.
+   In this respect: Article 29 Working Party Guidelines on the right to data portability - endorsed by the EDPB,
+p. 1.
 59
-   Ver, a este respeito, o considerando 68 do RGPD; Grupo de Trabalho do artigo 29.º, Orientações sobre o direito
-à portabilidade dos dados - aprovadas pelo CEPD, p. 17.
+   In this respect: recital (68) of the GDPR; WP29 Guidelines on the right to data portability - endorsed by the
+EDPB, p. 17.
 60
-   «A este respeito, o considerando 68 encoraja os responsáveis pelo tratamento de dados a desenvolver formatos
-interoperáveis que permitam a portabilidade dos dados, mas sem que tal implique para os responsáveis pelo
-tratamento a obrigação de adotar ou manter sistemas de tratamento que sejam tecnicamente compatíveis. O
-RGPD não proíbe, contudo, os responsáveis pelo tratamento de criar obstáculos à transmissão» - Grupo de
-Trabalho do artigo 29.º, Orientações sobre o direito à portabilidade dos dados - aprovadas pelo CEPD, p. 5.
-
-
-Adotadas - após consulta pública                                                                              41
-
-           com metadados adequados utilizados para descrever de forma correta o significado das
-           informações trocadas.61
-
-
-5 ANEXO: RECONHECIMENTO AUTOMÁTICO DA FALA, SÍNTESE DA
-  FALA E TRATAMENTO DA LINGUAGEM NATURAL
-     171. Na sequência dos fundamentos teóricos do tratamento de sinais, em especial as teorias da
-          informação e da amostragem de Claude Shannon, o tratamento automático da fala tornou-se
-          uma componente fundamental das ciências da engenharia. No cruzamento da física (acústica,
-          propagação da onda), da matemática aplicada (modelação, estatística), ciências da
-          computação (algoritmos, técnicas de aprendizagem) e ciências humanas (perceção,
-          raciocínio), o tratamento da fala foi rapidamente repartido por numerosos temas de estudo:
-          a identificação e verificação do interlocutor, o reconhecimento automático da fala, a síntese
-          da voz, a deteção de emoções, etc. Ao longo dos últimos quinze anos e pouco mais, a disciplina
-          no seu todo realizou progressos muito importantes, com diversos fatores a contribuir para tal:
-          métodos aperfeiçoados, o aumento significativo nas capacidades de computação e maiores
-          volumes de dados disponíveis.
-
-5.1 Reconhecimento Automático da Fala
-     172. O reconhecimento automático da fala (também conhecido como fala para texto) costumava
-          incluir três fases distintas destinadas a: 1) determinar os fonemas emitidos mediante a
-          utilização de um modelo acústico; 2) determinar as palavras emitidas mediante a utilização de
-          um dicionário fonético; 3) transcrever a sequência de palavras (frase) que terá sido mais
-          provavelmente proferida mediante a utilização de um modelo de linguagem. Hoje em dia, com
-          os progressos permitidos pela aprendizagem profunda (técnica de aprendizagem automática),
-          muitos sistemas oferecem o reconhecimento automático da fala de «extremo a extremo». Tal
-          evita a necessidade de passar por uma formação complexa de três modelos diferentes,
-          obtendo simultaneamente um melhor desempenho em termos de resultados e de tempo de
-          tratamento. Quase todos os principais operadores digitais oferecem atualmente as suas
-          próprias implementações de reconhecimento automático da fala que podem ser facilmente
-          utilizadas por sistemas de interfaces de programação de aplicações (API), mas também
-          existem sistemas de fontes aberta (DeepSpeech62 ou Kaldi63,por exemplo).
-
-5.2 Tratamento da Linguagem Natural
-     173. O Tratamento da Linguagem Natural é um domínio multidisciplinar que envolve a linguística,
-          as ciências informáticas e a inteligência artificial, que visa criar ferramentas de tratamento da
-          linguagem natural para uma diversidade de aplicações. Os domínios da investigação e as
-          aplicações são numerosos: análise sintática, tradução automática, geração automática de
-          texto e compactação, verificação ortográfica, sistemas de resposta a perguntas, mineração de
-          textos, reconhecimento de entidade mencionada, análise de sentimentos, etc. Mais
-          especificamente, o objetivo do tratamento da linguagem natural consiste em dar aos
-          computadores a capacidade para ler, compreender e extrair significado das linguagens
-
+   “In this respect, recital 68 encourages data controllers to develop interoperable formats that enable data
+portability but without creating an obligation for controllers to adopt or maintain processing systems which are
+technically compatible. The GDPR does, however, prohibit controllers from establishing barriers to the
+transmission” - WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 5.
 61
-   O CEPD incentiva vivamente a cooperação entre as partes interessadas do setor e as associações comerciais
-para trabalharem juntos num conjunto comum de normas e formatos interoperáveis para satisfazer os requisitos
-do direito à portabilidade dos dados.
+   EDPB strongly encourages cooperation between industry stakeholders and trade associations to work together
+on a common set of interoperable standards and formats to deliver the requirements of the right to data
+portability.
+
+
+Adopted - after public consultation                                                                          37
+
+5.1 Automatic Speech Recognition (ASR)
+       172.        The automatic speech recognition (also known as speech to text) used to involve three
+          distinct stages aimed at: 1) determine which phonemes were said using an acoustic model;
+          2) determine which words were said using a phonetic dictionary; 3) transcribe the sequence
+          of words (sentence) most likely to have been said using a language model. Today, with the
+          progress made possible by deep learning (a machine learning technique), many systems offer
+          "end to end" automatic speech recognition. This avoids the need to go through the complex
+          training of three different models while offering better performance in terms of results and
+          processing time. Almost all major digital players now offer their own ASR implementations
+          that can be easily used by API systems, but open-source systems also exist (DeepSpeech62 or
+          Kaldi63 for example).
+
+5.2 Natural Language Processing (NLP)
+       173.       Natural Language Processing is a multidisciplinary field involving linguistics, computer
+          science and artificial intelligence, which aims to create natural language processing tools for a
+          variety of applications. The fields of research and applications are numerous: syntactic
+          analysis, machine translation, automatic text generation and summarization, spell checking,
+          question answering systems, text mining, named entity recognition, sentiment analysis, etc.
+          Concretely, NLP’s goal is to give computers the ability to read, understand and derive meaning
+          from human languages. The development of NLP applications is challenging because computer
+          tools traditionally require humans to interact with them in a programming language that is
+          formal, meaning precise, unambiguous and highly structured. Human speech, however, is not
+          always precise. It is often ambiguous and the linguistic structure can depend on many complex
+          variables, including slang, regional dialects and social context.
+
+     174. Syntax and semantic analysis are two main techniques used with NLP. Syntax is the
+          arrangement of words in a sentence to make grammatical sense. NLP uses syntax to assess
+          meaning from a language based on grammatical rules. Syntax techniques used include parsing
+          (grammatical analysis for a sentence), word segmentation (which divides a large piece of text
+          to units), sentence breaking (which places sentence boundaries in large texts), morphological
+          segmentation (which divides words into groups) and stemming (which divides words with
+          inflection in them to root forms). Semantics involves the use and meaning behind words. NLP
+          applies algorithms to understand the meaning and structure of sentences. Techniques that
+          NLP uses with semantics include word sense disambiguation (which derives meaning of a word
+          based on context), named entity recognition (which determines words that can be categorized
+          into groups), and natural language generation (which will use a database to determine
+          semantics behind words). While earlier approaches to NLP involved rules-based approaches,
+          where simple machine learning algorithms were told what words and phrases to look for in
+          text and given specific responses when those phrases appeared, current approaches to NLP
+          are based on deep learning, a type of AI that examines and uses patterns in data to improve a
+          program's understanding.
+
+5.3 Speech Synthesis
+     175. Speech synthesis is the artificial production of human speech. Speech synthesis has mainly
+          been implemented by concatenation of vocal units that are stored in a database. This
+          technique consists in selecting, from all the recordings of an actor previously transcribed into
+
 62
-   https://github.com/mozilla/DeepSpeech
+     https://github.com/mozilla/DeepSpeech
 63
-   https://github.com/kaldi-asr/kaldi
+     https://github.com/kaldi-asr/kaldi
 
 
-Adotadas - após consulta pública                                                                         42
+Adopted - after public consultation                                                                     38
 
-           humanas. O desenvolvimento de aplicações de tratamento da linguagem natural é difícil
-           porque as ferramentas informáticas exigem tradicionalmente humanos para interagir com as
-           mesmas numa linguagem de programação que é formal, i. é precisa, inequívoca e
-           extremamente estruturada. Contudo, a fala humana nem sempre é precisa. É muitas vezes
-           ambígua e a estrutura linguística pode depender de muitas variáveis complexas, incluindo o
-           calão, os dialetos regionais e o contexto social.
-
-     174. A análise sintática e a análise semântica são duas técnicas principais utilizadas com o
-          tratamento da linguagem natural. A sintaxe consiste na organização significativa do ponto de
-          vista gramatical das palavras numa frase. O tratamento da linguagem natural utiliza a sintaxe
-          para avaliar o significado de uma linguagem baseada em regras gramaticais. As técnicas de
-          sintaxe utilizadas incluem a análise (a análise gramatical de uma frase), a segmentação por
-          palavras (que divide um texto de grande dimensão em unidades), a fragmentação por frases
-          (que estabelece os limites das frases num texto de grande dimensão), a segmentação
-          morfológica (que divide as palavras em grupos) e derivação (que reduz as palavras com flexão
-          às respetivas formas radicais). A semântica envolve a utilização e o significado por trás das
-          palavras. O tratamento da linguagem natural aplica algoritmos para compreender o significado
-          e a estrutura das frases. As técnicas utilizadas pelo tratamento da linguagem natural com a
-          semântica incluem a desambiguação do sentido das palavras (que obtém o significado da
-          palavra com base no contexto), o reconhecimento de entidade mencionada (que determina
-          as palavras que podem ser classificadas em grupos), e a geração de linguagem natural (que
-          utiliza uma base de dados para determinar a semântica por trás das palavras). Embora as
-          abordagens anteriores do tratamento da linguagem natural se baseassem em regras, em que
-          algoritmos simples de aprendizagem automática eram incumbidos de procurar determinadas
-          palavras e frases no texto e recebiam respostas específicas sempre que essas frases apareciam,
-          as atuais abordagens do tratamento da linguagem natural baseiam-se numa aprendizagem
-          profunda, um tipo de inteligência artificial que examina e utiliza padrões nos dados para
-          aperfeiçoar a compreensão do programa.
-
-5.3 Síntese da Fala
-     175. A síntese da fala é a produção artificial da fala humana. A síntese da fala tem sido sobretudo
-          implementada através da concatenação de unidades vocais armazenados numa base de
-          dados. Esta técnica consiste em selecionar, a partir das gravações de um ator previamente
-          transcritas em fonemas, sílabas e palavras, os tijolos do som que correspondem às palavras
-          que se pretende que sejam proferidas pelo AVV e reuni-las uma a uma de modo a formar uma
-          frase inteligível com dicção natural. Em alternativa, o sintetizador da fala pode incorporar um
-          modelo do aparelho vocal e outras características da voz humana para modelar os parâmetros
-          de uma voz, tais como a entoação, o ritmo, e o timbre, através de modelos estatísticos
-          geradores (tais como WaveNet64, Tacotron65 ou DeepVoice66) e criar uma reprodução de voz
-          completamente sintética.
+        phonemes, syllables and words, the bricks of sound that correspond to the words that one
+        wishes to have pronounced by the VVA and to assemble them one after the other to form an
+        intelligible sentence with natural diction. Alternatively, a speech synthesizer can incorporate
+        a model of the vocal tract and other human voice characteristics in order to model the
+        parameters of a voice such as intonation, rhythm, and timbre, by generative statistical models
+        (such as WaveNet64, Tacotron65 or DeepVoice66) and to create a completely synthetic voice
+        output.
 
 
 
 
 64
-   Aäron van den Oord e Sander Dieleman, «WaveNet: A generative model for raw audio», Deepmind blog,
-setembro de 2016, https://deepmind.com/blog/article/wavenet-generative-model-raw-audio
+   Aäron van den Oord et Sander Dieleman, WaveNet: A generative model for raw audio, Deepmind blog,
+september 2016, https://deepmind.com/blog/article/wavenet-generative-model-raw-audio
 65
-    Yuxuan Wang, Expressive Speech Synthesis with Tacotron, Google AI blog, março de 2018,
+    Yuxuan Wang, Expressive Speech Synthesis with Tacotron, Google AI blog, March 2018,
 https://ai.googleblog.com/2018/03/expressive-speech-synthesis-with.html
 66
-    Deep Voice 3: 2000-Speaker Neural Text-to-Speech, Baidu Research blog, outubro de 2017
+    Deep Voice 3: 2000-Speaker Neural Text-to-Speech, Baidu Research blog, October 2017
 http://research.baidu.com/Blog/index-view?id=91
 
 
-Adotadas - após consulta pública                                                                      43
+Adopted - after public consultation                                                                 39
 ```

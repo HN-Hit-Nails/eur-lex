@@ -6,16 +6,16 @@ relacionado_com: ['32006L0112']
 url: https://www.boe.es/buscar/act.php?id=BOE-A-1992-28925
 fonte: Agencia Estatal Boletín Oficial del Estado — API de dados abertos
 lingua: es
-consolidado_ate: '2026-03-02'
+consolidado_ate: '2026-11-05'
 versoes_futuras: []
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Real Decreto 1624/1992, de 29 de diciembre, por el que se aprueba el Reglamento del Impuesto sobre el Valor Añadido y se modifica el Real Decreto 1041/1990, de 27 de julio, por el que se regulan las declaraciones censales que han de presentar a efectos fiscales los empresarios, los profesionales y otros obligados tributarios; el Real Decreto 338/1990, de 9 de marzo, por el que se regula la composición y la forma de utilización del número de identificación fiscal, el Real Decreto 2402/1985, de 18 de diciembre, por el que se regula el deber de expedir y entregar factura que incumbe a los empresarios y profesionales, y el Real Decreto 1326/1987, de 11 de septiembre, por el que se establece el procedimiento de aplicación de las Directivas de la Comunidad Económica Europea sobre intercambio de información tributaria.
 
 **Nota:** Aprova o Reglamento del IVA (em anexo; os artigos do regulamento vêm depois de `## Anexo`).
 
-**Texto:** versão consolidada do BOE (em espanhol), bloco a bloco, na última redacção já aplicável; as linhas `> Se modifica …` indicam o diploma que deu a redacção. Não tem valor jurídico: faz fé o publicado no BOE. Consolidado pelo BOE até 2026-03-02. 143 artigos e disposições.
+**Texto:** versão consolidada do BOE (em espanhol), bloco a bloco, na última redacção já aplicável; as linhas `> Se modifica …` indicam o diploma que deu a redacção. Não tem valor jurídico: faz fé o publicado no BOE. Consolidado pelo BOE até 2026-11-05. 143 artigos e disposições.
 
 **Fonte:** https://www.boe.es/buscar/act.php?id=BOE-A-1992-28925
 

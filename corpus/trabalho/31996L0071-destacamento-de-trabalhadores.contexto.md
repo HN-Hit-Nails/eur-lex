@@ -1,7 +1,7 @@
 ---
 celex: 31996L0071
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Diretiva 31996L0071 — Destacamento de trabalhadores — contexto

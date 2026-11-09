@@ -7,7 +7,7 @@ data: '2026-10-13'
 lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en
 pdf: https://www.edpb.europa.eu/system/files/2026-10/20261013_edpb_statement_smart-glasses_en.pdf
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 

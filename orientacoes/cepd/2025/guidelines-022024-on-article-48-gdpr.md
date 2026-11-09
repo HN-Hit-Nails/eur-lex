@@ -1,596 +1,555 @@
 ---
-titulo: "Diretrizes 02/2024 relativas ao artigo 48.º do RGPD"
+titulo: "Guidelines 02/2024 on Article 48 GDPR"
 titulo_en: "Guidelines 02/2024 on Article 48 GDPR"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2025-06-05'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-022024-on-article-48-gdpr_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2025-11/edpb_guidelines_202402_article48_v2_pt_0.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2025-06/edpb_guidelines_202402_article48_v2_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 02/2024 relativas ao artigo 48.º do RGPD
+# Guidelines 02/2024 on Article 48 GDPR
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 02/2024 relativas ao artigo 48.º do RGPD
+Guidelines 02/2024 on Article 48 GDPR
 
-                               Versão 2.1
+                       Version 2.1
 
-                Adotadas em 4 de junho de 2025
+                  Adopted on 4 June 2025
 
-                   Translations proofread by EDPB Members.
 
-                This language version has not yet been proofread.
 
 
+Adopted
 
+Version history
 
-Adotadas
+ Version 1.0      2 December 2024   Adoption of the Guidelines for public consultation
+ Version 2.0      4 June 2025       Adoption of the Guidelines after public consultation
+ Version 2.1      20 June 2025      Improved resolution of Annex
 
-Histórico de versões
 
- Versão 1.0     2 de dezembro de 2024   Adoção das Diretrizes para consulta pública
- Versão 2.0     4 de junho de 2025      Adoção das Diretrizes após consulta pública
- Versão 2.1     20 de junho de 2025     Melhoria da resolução do anexo
 
 
+Adopted                                                                                    2
 
+EXECUTIVE SUMMARY
+Article 48 GDPR provides that: “Any judgment of a court or tribunal and any decision of an
+administrative authority of a third country requiring a controller or processor to transfer or disclose
+personal data may only be recognised or enforceable in any manner if based on an international
+agreement, such as a mutual legal assistance treaty, in force between the requesting third country and
+the Union or a Member State, without prejudice to other grounds for transfer pursuant to this Chapter”.
+The purpose of these guidelines is to clarify the rationale and objective of this article, including its
+interaction with the other provisions of Chapter V of the GDPR, and to provide practical
+recommendations for controllers and processors in the EU that may receive requests from third
+country authorities to disclose or transfer personal data.
+The main objective of the provision is to clarify that judgments or decisions from third country
+authorities cannot automatically and directly be recognised or enforced in an EU Member State, thus
+underlining the legal sovereignty vis-a-vis third country law. As a general rule, recognition and
+enforceability of foreign judgements and decisions is ensured by applicable international agreements.
+Regardless of whether an applicable international agreement exists, if a controller or processor in the
+EU receives and answers a request from a third country authority for personal data, such data flow is
+a transfer under the GDPR and must comply with Article 6 and the provisions of Chapter V.
+An international agreement may provide for both a legal basis (under Article 6(1)(c) or 6(1)(e)) and a
+ground for transfer (under Article 46(2)(a)).
+In the absence of an international agreement, or if the agreement does not provide for a legal basis
+under Article 6(1)(c) or 6(1)(e), other legal bases could be considered. Similarly, if there is no
+international agreement or the agreement does not provide for appropriate safeguards under Article
+46(2)(a), other grounds for transfer could apply, including the derogations in Article 49.
 
-Adotadas                                                                              2
 
-SÍNTESE
-O artigo 48.º do RGPD dispõe o seguinte: «As decisões judiciais e as decisões de autoridades
-administrativas de um país terceiro que exijam que o responsável pelo tratamento ou o subcontratante
-transfiram ou divulguem dados pessoais só são reconhecidas ou executadas se tiverem como base um
-acordo internacional, como um acordo de assistência judiciária mútua, em vigor entre o país terceiro
-em causa e a União ou um dos Estados-Membros, sem prejuízo de outros motivos de transferência nos
-termos do presente capítulo».
-O objetivo das presentes diretrizes é esclarecer a fundamentação e o objetivo do presente artigo,
-incluindo a sua interação com outras disposições do capítulo V do RGPD, e apresentar recomendações
-práticas aos responsáveis pelo tratamento e subcontratantes na UE que possam receber pedidos de
-autoridades de países terceiros para divulgar ou transferir dados pessoais.
-O principal objetivo da disposição é esclarecer que as decisões judiciais ou decisões de autoridades de
-países terceiros não podem ser automática e diretamente reconhecidas ou executadas num Estado-
-Membro da UE, sublinhando assim a soberania jurídica em relação à legislação de países terceiros.
-Regra geral, o reconhecimento e a executoriedade das decisões judiciais e decisões estrangeiras são
-assegurados por acordos internacionais aplicáveis.
-Independentemente da existência ou não de um acordo internacional aplicável, se um responsável
-pelo tratamento ou subcontratante na UE receber e responder a um pedido de dados pessoais
-apresentado por uma autoridade de um país terceiro, esse fluxo de dados constitui uma transferência
-ao abrigo do RGPD e deve cumprir o disposto no artigo 6.º e no capítulo V.
-Um acordo internacional pode prever uma base jurídica (nos termos do artigo 6.º, n.º 1, alínea c), ou
-do artigo 6.º, n.º 1, alínea e)) e um motivo de transferência (nos termos artigo 46.º, n.º 2, alínea a)).
-Na ausência de acordo internacional, ou se o acordo não previr uma base jurídica nos termos do
-artigo 6.º, n.º 1, alínea c), ou do artigo 6.º, n.º 1, alínea e), podem ser consideradas outras bases
-jurídicas. Do mesmo modo, se não existir acordo internacional ou se o acordo não previr garantias
-adequadas nos termos artigo 46.º, n.º 2, alínea a), poderão aplicar-se outros motivos para a
-transferência, incluindo as derrogações previstas no artigo 49.º.
 
 
+Adopted                                                                                               3
 
+Table of contents
+1      Introduction ..................................................................................................................................... 5
+2      What is the scope of these guidelines? ........................................................................................... 6
+3      What is the objective of Article 48? ................................................................................................. 7
+4      In which situations is article 48 applicable?..................................................................................... 7
+5 Under which conditions can controllers and processors respond to requests from third country
+authorities? .............................................................................................................................................. 8
+    5.1        Compliance with Article 6 GDPR .............................................................................................. 8
+    5.2        Compliance with Chapter V GDPR ......................................................................................... 11
+Annex - Practical steps...........................................................................................................................13
 
-Adotadas                                                                                             3
 
-Índice
-1      Introdução ........................................................................................................................................ 5
-2      Qual é o âmbito de aplicação das presentes diretrizes? ................................................................. 6
-3      Qual é o objetivo do artigo 48.º? ..................................................................................................... 7
-4      Em que situações é aplicável o artigo 48.º? .................................................................................... 7
-5 Em que condições podem os responsáveis pelo tratamento e os subcontratantes responder aos
-pedidos das autoridades de países terceiros? ......................................................................................... 8
-    5.1       Conformidade com o artigo 6.º do RGPD ................................................................................ 9
-    5.2       Conformidade com o capítulo V do RGPD ............................................................................. 11
-Anexo – Medidas práticas ...................................................................................................................... 14
 
 
+Adopted                                                                                                                                                    4
 
+The European Data Protection Board
 
-Adotadas                                                                                                                                               4
+Having regard to Article 70 (1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+“GDPR”),
 
-O Comité Europeu para a Proteção de Dados
+Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+by the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 1,
 
-Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-seguir designado por «RGPD»),
+Having regard to Article 12 and Article 22 of its Rules of Procedure,
 
-Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe
-foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 20181,
+HAS ADOPTED THE FOLLOWING GUIDELINES
 
-Tendo em conta os artigos 12.º e 22.º do seu Regulamento Interno,
 
-ADOTOU AS SEGUINTES DIRETRIZES
+1 INTRODUCTION
+1. Article 48 GDPR – with the title “Transfers or disclosures not authorised by Union law” – provides
+   that: “Any judgment of a court or tribunal and any decision of an administrative authority of a third
+   country requiring a controller or processor to transfer or disclose personal data may only be
+   recognised or enforceable in any manner if based on an international agreement, such as a mutual
+   legal assistance treaty, in force between the requesting third country and the Union or a Member
+   State, without prejudice to other grounds for transfer pursuant to this Chapter”.
 
+2. The purpose of these guidelines is to clarify the rationale and objective of Article 48 GDPR,
+   including its interaction with the other provisions of Chapter V of the GDPR, and to provide
+   practical recommendations for controllers and processors in the EU that may receive requests
+   from third country authorities to disclose or transfer 2 personal data.
 
-1 INTRODUÇÃO
-1. O artigo 48.º do RGPD, intitulado «Transferências ou divulgações não autorizadas pelo direito da
-   União», dispõe o seguinte: «As decisões judiciais e as decisões de autoridades administrativas de
-   um país terceiro que exijam que o responsável pelo tratamento ou o subcontratante transfiram ou
-   divulguem dados pessoais só são reconhecidas ou executadas se tiverem como base um acordo
-   internacional, como um acordo de assistência judiciária mútua, em vigor entre o país terceiro em
-   causa e a União ou um dos Estados-Membros, sem prejuízo de outros motivos de transferência nos
-   termos do presente capítulo».
+3. The provision is part of Chapter V of the GDPR on “Transfers of personal data to third countries or
+   international organisations”. This means that it has to be read in conjunction with Article 44 GDPR,
+   which clearly states that “all provisions in this Chapter shall be applied in order to ensure that the
+   level of protection of natural persons guaranteed by [the GDPR] is not undermined”. In addition,
+   Article 48 should be read in conjunction with Recital 102 GDPR, which makes clear that the GDPR
+   “(...) is without prejudice to international agreements concluded between the Union and third
+   countries regulating the transfer of personal data including appropriate safeguards for the data
+   subjects”.
 
-2. O objetivo das presentes diretrizes é esclarecer a fundamentação e o objetivo do artigo 48.º do
-   RGPD, incluindo a sua interação com outras disposições do capítulo V do RGPD, e apresentar
-   recomendações práticas aos responsáveis pelo tratamento e subcontratantes na UE que possam
-   receber pedidos de autoridades de países terceiros para divulgar ou transferir 2 dados pessoais.
 
-3. A disposição faz parte do capítulo V do RGPD relativo às «Transferências de dados pessoais para
-   países terceiros ou organizações internacionais». Isto significa que deve ser lido em conjugação
-   com o artigo 44.º do RGPD, que estabelece claramente que «todas as disposições do presente
-   capítulo são aplicadas de forma a assegurar que não é comprometido o nível de proteção das
-   pessoas singulares garantido pelo [RGPD]». Além disso, o artigo 48.º deve ser lido em conjunto
-   com o Considerando 102 do RGPD, que esclarece que o RGPD «(...) não prejudica os acordos
-   internacionais celebrados entre a União Europeia e países terceiros que regulem a transferência de
-   dados pessoais, incluindo as garantias adequadas em benefício dos titulares dos dados».
 
 
+1 References to “EU” and “Member States” made throughout this document should be understood as references
 
+to “EEA” and “EEA Member States” respectively.
+2 Article 48 refers to “transfers or disclosures”. Therefore, this will be the terminology used throughout the text
 
-1 As referências a «UE» e «Estados‑Membros» no presente documento devem ser entendidas como referências
-
-ao «EEE» e aos «Estados-Membros do EEE», respetivamente.
-2 O artigo 48.º refere-se a «transferências ou divulgações». Por conseguinte, esta será a terminologia utilizada
+of these guidelines, even though the EDPB made it clear in its Guidelines 05/2021 that a disclosure of personal
+data qualifies as a transfer provided that the three criteria of the guidelines are met (see part 2.2 of the EDPB
+Guidelines 05/2021 on the Interplay between the application of Article 3 and the provisions on international
+transfers as per Chapter V of the GDPR).
 
-ao longo do texto das presentes orientações, apesar de o CEPD ter deixado claro nas suas Diretrizes 05/2021 que
-uma divulgação de dados pessoais pode ser considerada uma transferência, desde que estejam preenchidos os
-três critérios das diretrizes (ver secção 2.2 das Diretrizes 05/2021 do CEPD sobre a interação entre a aplicação
-do artigo 3.º e as disposições relativas às transferências internacionais nos termos do capítulo V do RGPD).
 
 
+Adopted                                                                                                          5
 
-Adotadas                                                                                                    5
-
-2 QUAL É O ÂMBITO DE APLICAÇÃO DAS PRESENTES DIRETRIZES?
-4. As presentes diretrizes centram-se nos pedidos que visam a cooperação direta entre uma
-   autoridade de um país terceiro e uma entidade privada na UE (por oposição a outros cenários em
-   que os dados pessoais são trocados diretamente entre autoridades públicas da UE e de países
-   terceiros, respetivamente, por exemplo, com base num tratado de assistência judiciária mútua).
-   Tais pedidos podem provir de todos os tipos de autoridades públicas, incluindo as que
-   supervisionam o setor privado, como os reguladores bancários e as autoridades fiscais, bem como
-   de autoridades responsáveis pela aplicação da lei e pela segurança nacional3.
-
-5. As presentes diretrizes abrangem apenas a situação em que esses pedidos são dirigidos a
-   responsáveis pelo tratamento ou subcontratantes na UE e cujo tratamento de dados pessoais está
-   sujeito ao disposto no artigo 3.º, n.º 1, do RGPD.
-
-6. O artigo 48.º não distingue entre responsáveis pelo tratamento privados ou públicos e
-   subcontratantes que recebem um pedido de dados pessoais de autoridades de países terceiros.
-   No entanto, para efeitos das presentes orientações, a análise que se segue centra-se nos pedidos
-   diretos a entidades privadas na UE, tendo em conta que este parece ser o cenário mais comum de
-   aplicação do artigo 48.º e que os pedidos às autoridades públicas são geralmente abrangidos por
-   um quadro de cooperação internacional estabelecido em acordos internacionais.
+2 WHAT IS THE SCOPE OF THESE GUIDELINES?
+4. These guidelines focus on requests aiming at the direct cooperation between a third country
+   authority and a private entity in the EU (as opposed to other scenarios where personal data is
+   exchanged directly between public authorities in the EU and in third countries respectively, e.g. on
+   the basis of a mutual legal assistance treaty). Such requests may come from all kinds of public
+   authorities, including those supervising the private sector such as banking regulators and tax
+   authorities, as well as authorities dealing with law enforcement and national security 3.
 
-7. O CEPD salienta que, para além dos requisitos do RGPD, a cooperação com as autoridades públicas
-   de países terceiros pode ser regida por regras adicionais4, requisitos esses que não são abordados
-   nas presentes diretrizes.
+5. These guidelines only cover the situation where such requests are addressed to controllers or
+   processors in the EU and whose processing of personal data is subject to Article 3.1 of the GDPR.
 
-8. As presentes diretrizes não abrangem outro cenário que pode ocorrer na prática, em que uma
-   autoridade de um país terceiro solicita dados pessoais a uma entidade localizada no seu território
-   (empresa-mãe), que, por sua vez, solicita os dados à sua filial na UE para poder responder ao
-   pedido. Nesta situação, o fluxo de dados da filial da UE para a empresa-mãe num país terceiro
-   constitui uma transferência. A filial da UE enquanto exportador deve, por conseguinte, cumprir o
-   RGPD e, em especial, o artigo 6.º do RGPD e o capítulo V. Dependendo do seu âmbito de aplicação,
-   uma decisão de adequação nos termos do artigo 45.º pode ser um instrumento pertinente para
-   essas transferências. No entanto, dado que o pedido é inicialmente dirigido a uma entidade do
-   mesmo país terceiro que a autoridade pública requerente, este cenário não é abrangido pelo
-   âmbito de aplicação do artigo 48.º.
-
-
-
-
-3 Para efeitos de aplicação da lei e da segurança nacional, o intercâmbio de dados ocorre normalmente entre as
-
-autoridades envolvidas, pelo que o artigo 48.º não é aplicável, uma vez que estes tipos de transferências não são
-abrangidos pelo âmbito de aplicação do RGPD. Por conseguinte, o CEPD reitera a sua posição expressa nas suas
-diretrizes sobre o artigo 49.º do RGPD, segundo o qual: «Quando exista um acordo internacional, como um
-acordo de assistência judiciária mútua, as empresas da UE devem, de um modo geral, recusar os pedidos diretos
-e remeter a autoridade requerente do país terceiro para o acordo existente». No entanto, tem havido uma
-tendência recente para negociar acordos internacionais que prevejam também pedidos diretos de acesso aos
-dados pessoais tratados por entidades privadas na UE por parte das autoridades responsáveis pela aplicação da
-lei em países terceiros, por exemplo, o Segundo Protocolo Adicional à Convenção sobre o Cibercrime relativo ao
-reforço da cooperação e da divulgação de provas sob a forma eletrónica (STCE n.º 224).
-4 Por exemplo, quando se trata de cooperação com as autoridades de aplicação da lei de um país terceiro, são
-
-igualmente aplicáveis as normas processuais penais do Estado-Membro da entidade que recebe o pedido.
-
-
-
-Adotadas                                                                                                     6
-
-3 QUAL É O OBJETIVO DO ARTIGO 48.º?
-9. Nos termos do artigo 48.º, as decisões judiciais e decisões de autoridades de países terceiros que
-   exijam que um responsável pelo tratamento ou um subcontratante na UE transfira ou divulgue
-   dados pessoais só podem ser reconhecidas e executadas se se basearem num acordo internacional
-   aplicável5, como um tratado de auxílio judiciário mútuo (MLAT) em vigor entre o país requerente
-   e a UE ou um Estado-Membro6, sem prejuízo de outros motivos para a transferência nos termos
-   do capítulo V do RGPD. Este artigo regula o acesso dos tribunais e autoridades de países terceiros
-   aos dados pessoais sujeitos à proteção do RGPD. O Considerando 115 esclarece que a disposição
-   visa proteger os dados pessoais da aplicação extraterritorial da legislação de países terceiros que
-   pode «violar o direito internacional e obstar à realização do objetivo de proteção das pessoas
-   singulares, assegurado na União Europeia pelo [RGPD]».
-
-10. Assim, quando os dados tratados na UE são transferidos ou divulgados em resposta a um pedido
-    direto de uma autoridade de um país terceiro, essa divulgação está sujeita ao RGPD e constitui
-    uma transferência na aceção do capítulo V. Isto significa que, tal como para qualquer transferência
-    sujeita ao RGPD, tem de existir uma base jurídica para o tratamento previsto no artigo 6.º e um
-    motivo de transferência no capítulo V.
-
-11. O CEPD reafirma que um pedido de uma autoridade estrangeira não constitui, por si só, uma base
-    jurídica para o tratamento ou um fundamento para a transferência 7.
-
-
-4 EM QUE SITUAÇÕES É APLICÁVEL O ARTIGO 48.º?
-12. O artigo 48.º aplica-se em situações em que um responsável pelo tratamento ou subcontratante
-    na UE recebe uma decisão judicial ou uma decisão de uma autoridade administrativa de um país
-    terceiro que exija a transferência ou divulgação de dados pessoais. A redação da disposição,
-    «órgão jurisdicional», «tribunal» e «autoridade administrativa», refere-se a um organismo público
-    de um país terceiro. O CEPD considera que a terminologia utilizada pelo organismo do país terceiro
-    para qualificar o seu pedido como «decisão» ou «decisão judicial» não é decisiva para a aplicação
-    do artigo 48.º, desde que se trate de um pedido oficial de uma autoridade de um país terceiro.
-
-13. O CEPD considera que a redação do artigo 48.º abrange todas as formas possíveis de um
-    responsável pelo tratamento ou subcontratante na UE tornar os dados pessoais acessíveis a uma
-    autoridade de um país terceiro.
-
-5 No que diz respeito aos acordos internacionais celebrados pela União, ver acórdão do TJUE no processo C-
-
-327/91, República Francesa contra Comissão, n.º 27. Em relação ao artigo 228.º do Tratado de Roma, o TJUE
-observa que o artigo 228.º utiliza a expressão «acordo» num sentido geral para indicar qualquer compromisso
-assumido por entidades sujeitas ao direito internacional que tenha força vinculativa, independentemente da sua
-designação formal.
-6 Esta redação reflete as regras de direito internacional, na sequência das quais uma decisão de um órgão
-
-jurisdicional nacional ou de uma autoridade administrativa não produz efeitos jurídicos noutras jurisdições, a
-menos que um acordo internacional aplicável o preveja. Assim, quando são dirigidas decisões judiciais ou
-decisões de países terceiros a entidades na UE, tem de existir um acordo internacional em vigor entre esse país
-terceiro e a UE ou o Estado-Membro em causa para que essas decisões judiciais ou decisões sejam reconhecidas
-e executórias ao abrigo do direito da União ou do Estado-Membro. No entanto, a necessidade de um acordo
-internacional para que uma decisão judicial ou decisão de um país terceiro seja reconhecida e executória deve
-ser distinguida da questão de saber se os dados pessoais, mesmo na ausência de tal acordo, podem ser
-legalmente transferidos para um país terceiro.
-7 Para o efeito, ver também a resposta conjunta CEPD-AEPD à Comissão LIBE sobre o impacto da «Cloud Act» dos
-
-EUA no quadro jurídico europeu para a proteção dos dados pessoais (anexo), página 3.
-
-
-
-Adotadas                                                                                                   7
-
-14. O artigo 48.º não limita as finalidades para as quais os dados podem ser solicitados pela autoridade
-    do país terceiro. Assim, os pedidos de autoridades de países terceiros emitidos em diferentes
-    contextos e para diferentes fins seriam abrangidos pelo âmbito de aplicação da disposição, por
-    exemplo, os pedidos das autoridades de aplicação da lei ou das autoridades nacionais de
-    segurança, dos reguladores financeiros ou das autoridades públicas responsáveis pela aprovação
-    de produtos farmacêuticos, dispositivos médicos, etc.
-
-15. O artigo 48.º não estabelece nenhuma distinção entre a situação em que uma autoridade de um
-    país terceiro solicita a um responsável pelo tratamento ou subcontratante na UE que transfira ou
-    divulgue dados pessoais e o responsável pelo tratamento ou o subcontratante pode recusar-se a
-    satisfazer o pedido sem consequências jurídicas adversas ao abrigo do direito da UE ou de um país
-    terceiro e a situação em que a recusa pode conduzir a sanções por incumprimento. O CEPD recorda
-    que em todos os casos deve ser aplicado um «teste em duas fases» no que diz respeito a qualquer
-    transferência de dados pessoais para países terceiros: em primeiro lugar, deve existir uma base
-    jurídica para o tratamento de dados, juntamente com todas as disposições pertinentes do RGPD;
-    e, em segundo lugar, devem ser cumpridas as disposições do capítulo V. Por conseguinte, o
-    tratamento, ou seja, a transferência ou divulgação de dados pessoais, deve respeitar os princípios
-    gerais do artigo 5.º e basear-se num fundamento jurídico, tal como previsto no artigo 6.º do RGPD8.
-
-
-5 EM QUE CONDIÇÕES PODEM OS RESPONSÁVEIS PELO
-  TRATAMENTO E OS SUBCONTRATANTES RESPONDER AOS PEDIDOS
-  DAS AUTORIDADES DE PAÍSES TERCEIROS?
-16. O artigo 48.º faz parte do capítulo V do RGPD sobre «Transferências de dados pessoais para países
-    terceiros ou organizações internacionais» e deve ser lido em conjunto com o artigo 44.º do RGPD,
-    que estabelece que «qualquer transferência de dados pessoais que sejam ou venham a ser objeto
-    de tratamento após transferência para um país terceiro ou uma organização internacional só é
-    realizada se, sem prejuízo das outras disposições do presente regulamento, as condições
-    estabelecidas no presente capítulo forem respeitadas pelo responsável pelo tratamento e pelo
-    subcontratante, inclusivamente no que diz respeito às transferências ulteriores de dados pessoais
-    do país terceiro ou da organização internacional para outro país terceiro ou outra organização
-    internacional». Além disso, o Considerando 115 do RGPD esclarece que as transferências só devem
-    ser permitidas se estiverem preenchidas as condições do RGPD. Tal significa que qualquer
-    transferência ou divulgação de dados pessoais em resposta a um pedido de uma autoridade de
-    um país terceiro exige uma base jurídica para o tratamento (artigo 6.º do RGPD) e o cumprimento
-    dos requisitos aplicáveis às transferências de dados pessoais para países terceiros ou organizações
-    internacionais (capítulo V do RGPD).
-
-17. Como já foi referido, para além de garantir a conformidade com o RGPD, um responsável pelo
-    tratamento ou um subcontratante pode ter de cumprir requisitos adicionais decorrentes de outros
-    instrumentos jurídicos, por exemplo, regras processuais nacionais ou acordos internacionais que
-    prevejam a cooperação com a autoridade de um país terceiro.
-
-18. Além disso, se o destinatário do pedido for um subcontratante, este deve informar o responsável
-    pelo tratamento sem demora injustificada e seguir as instruções do responsável pelo tratamento
-
-8 Ver a resposta conjunta CEPD-AEPD à Comissão LIBE sobre o impacto da «Cloud Act» dos EUA no quadro jurídico
-
-europeu para a proteção de dados pessoais, p. 3. Consultar as Diretrizes 2/2018 do CEPD relativas às derrogações
-do artigo 49.º do Regulamento (CE) 2016/679, adotadas em 25 de maio de 2018.
-
-
-
-Adotadas                                                                                                    8
-
-    relativamente ao pedido, a menos que a legislação da União ou do Estado-Membro a que o
-    subcontratante está sujeito o proíba de informar o responsável pelo tratamento por «motivos
-    importantes de interesse público» 9.
-
-5.1 Conformidade com o artigo 6.º do RGPD
-19. Nos termos do artigo 44.º do RGPD, uma transferência de dados pessoais para um país terceiro só
-    pode ter lugar se, sob reserva das outras disposições do RGPD, forem cumpridas as condições
-    previstas no capítulo V. Por conseguinte, a transferência de dados pessoais para países terceiros
-    ou organizações internacionais deve também cumprir as condições das outras disposições do
-    RGPD.
-
-20. O artigo 5.º, n.º 1, do RGPD estabelece princípios gerais e obrigatórios para o tratamento de dados
-    pessoais. Nos termos do artigo 5.º, n.º 2, o responsável pelo tratamento é responsável pelo
-    cumprimento das obrigações estabelecidas no n.º 1 (o mesmo se aplica quando as atividades de
-    tratamento são realizadas por meio de um subcontratante). Nos termos do artigo 5.º, n.º 1,
-    qualquer tratamento de dados pessoais deve ter uma base jurídica nos termos do artigo 6.º. Por
-    conseguinte, é necessária uma análise jurídica relativamente a cada situação específica.
-
-21. O caso descrito no artigo 48.º pressupõe que exista uma decisão judicial ou uma decisão de uma
-    autoridade administrativa de um país terceiro que exija que um responsável pelo tratamento ou
-    um subcontratante na UE transfira ou divulgue dados pessoais. Além disso, este pedido de uma
-    autoridade de um país terceiro só pode ser reconhecido ou tornado executório se se basear num
-    acordo internacional, o que pode conferir a esse pedido o efeito de uma obrigação legal a que o
-    responsável pelo tratamento esteja sujeito e o seu incumprimento tenha consequências jurídicas.
-    Quando o tratamento de dados pessoais é efetuado a fim de cumprir uma obrigação jurídica, o
-    artigo 6.º, n.º 1, alínea c), prevê uma base jurídica explícita. Consequentemente, o CEPD considera
-    que, no caso previsto no artigo 48.º, em que exista um acordo internacional aplicável, o artigo 6.º,
-    n.º 1, alínea c), em conjugação com o artigo 6.º, n.º 3, será a base jurídica adequada para a
-    transferência, desde que as condições dessas disposições sejam cumpridas.
-
-22. Um acordo internacional aplicável implica um acordo internacional que prevê a possibilidade de
-    pedidos diretos de acesso a dados pessoais tratados por entidades privadas na UE por parte de
-    autoridades públicas de países terceiros. Caso não exista nenhum acordo dessa natureza, mas um
-    acordo internacional preveja a cooperação entre as autoridades públicas nesse domínio específico,
-    tal como um tratado de auxílio judiciário mútuo (MLAT), as entidades privadas da UE devem, de
-    um modo geral, remeter a autoridade do país terceiro requerente para a autoridade nacional
-    competente, em conformidade com o procedimento previsto pelo MLAT ou pelo acordo.
-
-23. Em caso de dúvida quanto à existência de um acordo internacional e à sua natureza, as entidades
-    da UE que recebam um pedido podem contactar e consultar as suas autoridades nacionais
-    competentes (por exemplo, Ministério da Justiça, Ministério dos Negócios Estrangeiros,
-    autoridades de supervisão sectoriais, etc.).
-
-24. Nos casos em que não exista nenhuma obrigação legal decorrente de um acordo internacional
-    para o responsável pelo tratamento, a utilização de outras bases jurídicas ao abrigo do artigo 6.º
-    continua a ser possível, desde que sejam cumpridos os requisitos legais estabelecidos no capítulo V
-    do RGPD. No entanto, a aplicação destas outras bases jurídicas deve ser cuidadosamente analisada
-
-
-9 Ver, para o efeito, o artigo 28.º, n.º 3, alínea a), do RGPD e as Orientações 07/2020 do CEPD sobre os conceitos
-
-de responsável pelo tratamento e subcontratante no RGPD, adotadas em 7 de julho de 2021.
-
-
-
-Adotadas                                                                                                      9
-
-    caso a caso. Devido ao grande número de situações possíveis, as declarações gerais sobre a
-    aplicabilidade do artigo 6.º só podem ser feitas de forma muito limitada.
-
-25. Em princípio, o consentimento nos termos do artigo 6.º, n.º 1, alínea a), pode ser considerado uma
-    base jurídica para uma transferência para países terceiros. No entanto, a utilização do
-    consentimento como base jurídica será normalmente inadequada em determinados domínios,
-    especialmente se o tratamento dos dados estiver relacionado com o exercício de poderes de
-    autoridade10.
-
-26. A aplicação do artigo 6.º, n.º 1, alínea b), parece ser excluída apenas pela sua redação. Por
-    conseguinte, o CEPD considera que o artigo 6.º, n.º 1, alínea b), não pode ser invocado por uma
-    entidade privada na UE como base jurídica adequada para responder a um pedido de transferência
-    ou divulgação de uma autoridade de um país terceiro.
-
-27. Nas situações em que a divulgação com base num acordo internacional não é obrigatória, mas essa
-    cooperação ainda é permitida pela legislação da UE ou dos Estados-Membros, o artigo 6.º, n.º 1,
-    alínea e), pode ser utilizado como base jurídica para o tratamento de dados pessoais, uma vez que
-    pode ser considerado necessário para o desempenho da função de interesse público 11. Nesses
-    casos, o tratamento tem de ter uma base no direito da União ou dos Estados-Membros, tal como
-    exigido no artigo 6.º, n.º 3, do RGPD.
-
-28. Quanto ao artigo 6.º, n.º 1, alínea d), o CEPD reconhece que, em circunstâncias específicas e
-    estabelecidas, os interesses vitais do titular dos dados podem ser citados como base jurídica para
-    uma transferência de dados pessoais desencadeada por um pedido de um país terceiro, desde que
-    estejam preenchidas as condições estabelecidas no direito internacional 12. No que diz respeito ao
-    interesse vital de outras pessoas, o CEPD recorda que «em princípio, o tratamento de dados
-    pessoais com base no interesse vital de outra pessoa singular só pode ter lugar quando o
-    tratamento não se puder basear manifestamente noutro fundamento jurídico»13.
-
-29. Dependendo do caso individual, o CEPD parte do princípio de que, em circunstâncias excecionais,
-    pode ser possível invocar o artigo 6.º, n.º 1, alínea f), para transferências ou divulgações para
-    autoridades de países terceiros14. Para o efeito, o CEPD recorda que qualquer tratamento baseado
-    nos interesses legítimos do responsável pelo tratamento ou de terceiros deve ser necessário e
-    ponderado em relação aos interesses ou direitos e liberdades fundamentais da pessoa em causa15.
-
-10 Ver, neste contexto, o conceito jurídico do considerando 43, primeira frase, relativo ao consentimento dado
-
-de livre vontade, que se aplica tanto mais se o caso estiver relacionado com organismos públicos de países
-terceiros. Ver também a resposta conjunta CEPD-AEPD à Comissão LIBE sobre o impacto da «Cloud Act» dos EUA
-no quadro jurídico europeu para a proteção dos dados pessoais, nota 28.
-11 Ver, por exemplo, o artigo 6.º do Segundo Protocolo Adicional à Convenção sobre o Cibercrime relativo ao
-
-reforço da cooperação e da divulgação de provas sob a forma eletrónica (STCE n.º 224).
-12 Tal pode ser, por exemplo, o caso de pedidos de acesso a dados pessoais relativos a menores raptados ou
-
-outras situações em que a transferência seja do interesse vital dos próprios titulares dos dados.
-13 Considerando 46 do RGPD.
-14 Para mais informações, ver Diretrizes 1/2024 do CEPD sobre o tratamento de dados pessoais com base no
-
-artigo 6.º, n.º 1, alínea f), do RGPD (versão 1.0), adotadas em 8 de outubro de 2024.
-15 A avaliação do impacto nos interesses do titular dos dados deve ter em conta as eventuais consequências
-
-(potenciais ou reais) do tratamento de dados para o titular dos dados, os princípios da proporcionalidade em
-matéria de proteção de dados, bem como elementos como, por exemplo, a gravidade das alegadas infrações
-que podem ser notificadas, o âmbito do pedido, as normas e garantias processuais aplicáveis no país terceiro e
-as garantias aplicáveis em matéria de proteção de dados. Essa avaliação deve também prestar especial atenção
-à natureza dos dados pessoais tratados e à forma como os dados pessoais estão a ser tratados. Além disso, o
-RGPD também introduziu a necessidade de ter em conta as expectativas razoáveis do titular dos dados. Para
-
-
-
-Adotadas                                                                                                 10
-
-    O resultado do teste de equilíbrio determina se a base jurídica do interesse legítimo pode ser
-    invocada para o tratamento. Em princípio, qualquer tratamento baseado no interesse legítimo
-    está, em qualquer caso, limitado ao que é comprovadamente necessário para prosseguir este
-    interesse específico do responsável pelo tratamento ou do terceiro.
-
-30. Apesar de, em alguns casos, um responsável pelo tratamento poder ter um interesse legítimo em
-    cumprir um pedido de divulgação de dados pessoais a uma autoridade de um país terceiro, um
-    operador comercial privado, agindo na qualidade de responsável pelo tratamento, não pode
-    invocar o artigo 6.º, n.º 1, alínea f), para a recolha e o armazenamento de dados pessoais de forma
-    preventiva, a fim de poder partilhar essas informações, mediante pedido, com as autoridades
-    responsáveis pela aplicação da lei, de modo a prevenir, detetar e reprimir infrações penais, sempre
-    que tais atividades de tratamento não estejam relacionadas com as suas próprias atividades
-    (económicas e comerciais)16. Além disso, no que diz respeito a uma situação específica, o CEPD
-    considerou anteriormente que os interesses ou os direitos e liberdades fundamentais do titular
-    dos dados nessas circunstâncias específicas prevalecem sobre o interesse do responsável pelo
-    tratamento de satisfazer o pedido de uma autoridade de aplicação da lei de um país terceiro, a fim
-    de evitar sanções por incumprimento17.
-
-5.2 Conformidade com o capítulo V do RGPD
-31. Como já foi referido, o artigo 48.º deve ser lido em conjugação com o artigo 44.º, o princípio geral
-    das transferências que introduz o capítulo. O artigo 44.º estabelece as seguintes condições para as
-    transferências ao abrigo do RGPD: qualquer transferência está sujeita às outras disposições
-    pertinentes do RGPD e deve cumprir as condições estabelecidas no capítulo V (teste em duas
-    fases), «de forma a assegurar que não é comprometido o nível de proteção das pessoas singulares
-    garantido pelo [...] regulamento». As disposições relativas às transferências internacionais
-    destinam-se a garantir que o elevado nível de proteção dos dados pessoais na UE seja mantido
-    quando os dados são transferidos para países terceiros com sistemas jurídicos e normas de
-    proteção de dados diferentes.
-
-32. Para o efeito, o capítulo V enumera os motivos para as transferências, começando pelas decisões
-    de adequação da Comissão Europeia nos termos do artigo 45.º. Se não for adotada nenhuma
-    decisão de adequação, podem ser previstas garantias adequadas através de um dos instrumentos
-    de transferência previstos no artigo 46.º. Na ausência de decisão de adequação ou de garantias
-    adequadas, as derrogações previstas no artigo 49.º podem aplicar-se num número limitado de
-    situações específicas.
-
-33. Ao contrário das outras disposições do capítulo V, o artigo 48.º não constitui motivo de
-    transferência. A disposição em si não contém salvaguardas em matéria de proteção de dados, mas
-    esclarece que as decisões judiciais e as decisões de autoridades de países terceiros não podem ser
-    reconhecidas nem executadas na UE, a menos que um acordo internacional o preveja. Por
-    conseguinte, antes de responder a um pedido de uma autoridade de um país terceiro abrangido
-
-
-
-mais informações sobre o critério da necessidade e do equilíbrio, ver também as Diretrizes 1/2024 do CEPD
-relativas ao tratamento de dados pessoais com base no artigo 6.º, n.º 1, alínea f), do RGPD (versão 1.0), adotadas
-em 8 de outubro de 2024.
-16 Acórdão do Tribunal de Justiça (Grande Secção) de 4 de julho de 2023, Meta Platforms Inc e o. contra
-
-Bundeskartellamt, processo C-252/21, n.os 124 e 132.
-17 Ver a posição já expressa pelo CEPD no que respeita ao domínio da aplicação da lei e da segurança nacional na
-
-resposta conjunta CEPD-AEPD à Comissão LIBE sobre o impacto da «Cloud Act» dos EUA no quadro jurídico
-europeu para a proteção de dados pessoais.
-
-
-
-Adotadas                                                                                                     11
-
-    pelo artigo 48.º, o responsável pelo tratamento ou o subcontratante na UE deve identificar um
-    motivo aplicável à transferência noutra parte do capítulo V.
-
-34. Nos termos do artigo 46.º, n.º 2, alínea a), podem ser previstas garantias adequadas através de
-    «um instrumento juridicamente vinculativo e com força executiva entre autoridades ou organismos
-    públicos», ou seja, um acordo internacional na aceção do artigo 48.º. Celebrados por Estados,
-    estes acordos permitem, normalmente, a cooperação entre autoridades públicas, mas podem
-    também prever a cooperação direta entre entidades privadas e autoridades públicas 18. Se um
-    acordo internacional abranger a cooperação entre o responsável pelo tratamento ou o
-    subcontratante na UE e a autoridade requerente do país terceiro, o referido acordo pode servir de
-    fundamento para a transferência, desde que preveja garantias adequadas em conformidade com
-    o artigo 46.º, n.º 2, alínea a).
-
-35. O CEPD elaborou uma lista de salvaguardas mínimas a incluir nos acordos internacionais
-    abrangidos pelo artigo 46.º, n.º 2, alínea a). Essas garantias devem ser capazes de assegurar que
-    os titulares dos dados cujos dados pessoais são transferidos beneficiem de um nível de proteção
-    essencialmente equivalente ao garantido na UE19. Por conseguinte, os acordos internacionais
-    aplicáveis20 que preveem transferências de dados pessoais devem, entre outros, exigir que os
-    princípios fundamentais da proteção de dados sejam garantidos por ambas as partes, ou seja, que
-    garantam direitos oponíveis e efetivos aos titulares dos dados, que contenham restrições às
-    transferências ulteriores e à partilha de dados, incluindo garantias adicionais para dados sensíveis
-    e que prevejam mecanismos independentes de reparação e controlo21. As garantias adequadas
-    podem ser incluídas diretamente no acordo internacional, que prevê a cooperação direta entre o
-    responsável pelo tratamento ou o subcontratante e as autoridades do país terceiro, ou num
-    instrumento juridicamente vinculativo distinto.
-
-36. O artigo 48.º faz referência a um acordo internacional «sem prejuízo de outros motivos de
-    transferência nos termos do presente capítulo». Na opinião do CEPD, no que diz respeito aos
-    requisitos do capítulo V22, esta redação pode abranger duas situações possíveis:
-    -    Em primeiro lugar, se não existir nenhum acordo internacional que preveja a cooperação
-         entre o responsável pelo tratamento ou o subcontratante e a autoridade do país terceiro, uma
-         transferência para uma autoridade de um país terceiro deve basear-se noutro fundamento
-
-
-18 O CEPD não tem conhecimento da existência de muitos acordos internacionais deste tipo. Um exemplo é o
-
-Conselho da Europa: Segundo Protocolo Adicional à Convenção sobre o Cibercrime relativo ao reforço da
-cooperação e da divulgação de provas sob a forma eletrónica (STCE n.º 224), que, no entanto, ainda não está em
-vigor.
-19 Tribunal de Justiça da União Europeia, processo C-311/18, Data Protection Commissioner contra Facebook
-
-Ireland Ltd e Maximillian Schrems («Schrems II»), n.º 96.
-20 Em caso de dúvida quanto à existência de um acordo internacional e à sua natureza, as entidades da UE que
-
-recebam um pedido podem contactar e consultar as suas autoridades nacionais competentes (por exemplo,
-Ministério da Justiça, Ministério dos Negócios Estrangeiros, autoridades de supervisão sectoriais, etc.).
-21 Ver, a este respeito, a parte 2 das Diretrizes 2/2020 sobre o artigo 46.º n.º 2, alínea a), e o artigo 46.º n.º 3,
-
-alínea b), do Regulamento 2016/679 no que concerne às transferências de dados pessoais entre autoridades e
-organismos públicos de países membros e não membros do EEE, versão 2.0; adotadas em 15 de dezembro de
-2020.
-22 No que diz respeito ao artigo 6.º do RGPD, pode haver uma terceira situação em que exista um acordo
-
-internacional em vigor que não proporcione uma base jurídica adequada nos termos do artigo 6.º, n.º 1, alínea
-c), ou do artigo 6.º, n.º 1, alínea e), do RGPD, por exemplo porque as disposições pertinentes do acordo não são
-suficientemente específicas (por exemplo, não refletem os elementos enumerados no artigo 6.º, n.º 3, do RGPD).
-
-
-
-Adotadas                                                                                                       12
-
-         jurídico nos termos do artigo 6.º do RGPD e noutro fundamento de transferência no capítulo
-         V.
-     -   Em segundo lugar, se existir um acordo internacional que preveja a base jurídica nos termos
-         do artigo 6.º, mas não contiver as garantias adequadas em conformidade com o artigo 46.º,
-         n.º 2, alínea a), e com as Diretrizes 2/2020 do CEPD, o responsável pelo tratamento deve
-         identificar outro motivo para a transferência no capítulo V.
-
-37. Na ausência de uma decisão de adequação aplicável23 ou de garantias adequadas, o artigo 49.º do
-    RGPD prevê um número limitado de situações específicas em que as transferências podem ter
-    lugar, por exemplo, se forem necessárias por razões importantes de interesse público ou para a
-    declaração, o exercício ou a defesa de ações judiciais24. No entanto, tal como explicado em
-    diretrizes anteriores emitidas pelo CEPD, as derrogações previstas no artigo 49.º do RGPD devem
-    ser interpretadas de forma restritiva e dizem sobretudo respeito a atividades de tratamento
-    ocasionais e não repetitivas25.
-
-
-
-
-23  A avaliação da aplicabilidade de uma decisão de adequação deve ser efetuada caso a caso, tendo
-especialmente em conta o âmbito da decisão de adequação.
-24 Ver artigo 49.º, n.º 1, alíneas d) e e), do RGPD.
-25 Ver as Diretrizes 2/2018 relativas às derrogações do artigo 49.º do Regulamento (CE) 2016/679, adotadas em
-
-25 de maio de 2018.
-
-
-
-Adotadas                                                                                                13
-
-Anexo – Medidas práticas
-
-
-
-
-Adotadas                   14
+6. Article 48 does not distinguish between private or public controllers and processors receiving a
+   request for personal data from third country authorities. However, for the purposes of these
+   guidelines, the following analysis focuses on direct requests to private entities in the EU,
+   considering that this appears to be the most common scenario of application of Article 48 and that
+   requests to public authorities usually fall within an international cooperation framework set forth
+   in international agreements.
+
+7. The EDPB highlights that, beyond the requirements of the GDPR, additional rules may govern the
+   cooperation with public authorities in third countries 4. Such requirements are not addressed in
+   these guidelines.
+
+8. These guidelines do not cover another scenario that can occur in practice, where a third country
+   authority requests personal data from an entity located in its territory (parent company) which
+   would then ask its subsidiary in the EU for the data in order to be able to reply to the request. In
+   such a situation, the flow of data from the EU subsidiary to the parent company in a third country
+   constitutes a transfer. The EU subsidiary as the exporter must therefore comply with the GDPR
+   and in particular article 6 GDPR and Chapter V. Depending on its scope, an adequacy decision under
+   Article 45 may be a relevant tool for such transfers. However, given that the request is initially
+   addressed to an entity in the same third country as that of the requesting public authority, this
+   scenario does not fall under the scope of Article 48.
+
+
+
+
+3 For the purposes of law enforcement and national security, the exchange of data takes place usually between
+
+the authorities involved, so Article 48 is not applicable as these types of transfers do not fall under the scope of
+the GDPR. The EDPB hence reiterates its position expressed in its guidelines on Article 49 GDPR that: “In
+situations where there is an international agreement such as a mutual legal assistance treaty (MLAT), EU
+companies should generally refuse direct requests and refer the requesting third country authority to an existing
+mutual legal assistance treaty or agreement”. However, there has been a recent tendency to negotiate
+international agreements to also provide for direct requests from law enforcement authorities in third countries
+for access to personal data processed by private entities in the EU, e.g. the Second Additional Protocol to the
+Convention on Cybercrime on enhanced co-operation and disclosure of electronic evidence (CETS No. 224).
+4 For example, when it comes to cooperation with law enforcement authorities of a third country, criminal
+
+procedural rules of the Member State of the entity receiving the request would also apply.
+
+
+
+Adopted                                                                                                           6
+
+3 WHAT IS THE OBJECTIVE OF ARTICLE 48?
+9. According to Article 48, third country authorities’ judgments and decisions requiring a controller
+   or processor in the EU to transfer or disclose personal data may only be recognised and enforced
+   if they are based on an applicable international agreement 5, such as a mutual legal assistance
+   treaty (MLAT) in force between the requesting country and the EU or a Member State 6, without
+   prejudice to other grounds for transfer pursuant to Chapter V of the GDPR. This Article regulates
+   access to personal data subject to the protection of the GDPR by courts and authorities in third
+   countries. Recital 115 clarifies that the provision aims to protect personal data from the
+   extraterritorial application of third country laws which “may be in breach of international law and
+   may impede the attainment of the protection of natural persons ensured in the Union by the
+   [GDPR]”.
+
+10. Thus, where data processed in the EU are transferred or disclosed in response to a direct request
+    from a third country authority, such disclosure is subject to the GDPR and constitutes a transfer
+    within the meaning of Chapter V. This means that, as for any transfer subject to the GDPR, there
+    has to be a legal basis for the processing in Article 6 and a ground for transfer in Chapter V.
+
+11. The EDPB reaffirms that a request from a foreign authority does not in itself constitute a legal basis
+    for the processing or a ground for the transfer 7.
+
+
+4 IN WHICH SITUATIONS IS ARTICLE 48 APPLICABLE?
+12. Article 48 applies in situations where a controller or processor in the EU receives a decision or
+    judgment from an administrative authority or a court in a third country requiring the transfer or
+    disclosure of personal data. The wording of the provision, “court”, “tribunal” and “administrative
+    authority”, refers to a public body in a third country. The EDPB finds that the terminology used by
+    the third country body to qualify its request as a “decision” or “judgment” is not decisive for the
+    application of Article 48, as long as it is an official request from a third country authority.
+
+13. The EDPB considers that the wording in Article 48 encompasses every possible way in which a
+    controller or processor in the EU could make personal data accessible to a third country authority.
+
+14. Article 48 does not limit the purposes for which data may be requested by the third country
+    authority. Thus, requests from third country authorities issued in different contexts and for
+    different purposes would fall within the scope of the provision e.g. requests from law enforcement
+
+
+5 As regards international agreement concluded by the Union, see CJEU Judgment Case C-327/91, French
+
+Republic v Commission, para. 27. In relation to Article 228 EEC Treaty, the CJEU notes that Article 228 uses the
+expression "agreement" in a general sense to indicate any undertaking entered into by entities subject to
+international law which has binding force, whatever its formal designation.
+6 This wording reflects the international law rules, following which a decision of a national court, tribunal or
+
+administrative authority has no legal effect in other jurisdictions unless an applicable international agreement
+provides for this. Thus, where third country judgments or decisions are directed at entities within the EU, there
+has to be an international agreement in place between that third country and the EU or the Member State in
+question in order for those judgments or decisions to be recognised and enforceable under Union or Member
+State law. However, the need for an international agreement in order for a third country judgment or decision
+to be recognised and enforceable is to be distinguished from the question of whether personal data, also in the
+absence of such agreement, can be lawfully transferred to a third country.
+7 See to that effect also the EDPB-EDPS Joint Response to the LIBE Committee on the impact of the US Cloud Act
+
+on the European legal framework for personal data protection (annex), page 3.
+
+
+
+Adopted                                                                                                        7
+
+    or national security authorities, financial regulators or public authorities responsible for approving
+    pharmaceutical products, medical devices, etc.
+
+15. Article 48 does not distinguish between the situation where a third country authority requests a
+    controller or processor in the EU to transfer or disclose personal data, and the controller or
+    processor can refuse to comply with the request without any adverse legal consequences under
+    EU or third country law and the situation where refusal may lead to sanctions for non-compliance.
+    The EDPB recalls that in all cases a “two-step test” must be applied when it comes to any transfer
+    of personal data to third countries: “first, there must be a legal basis for the data processing
+    together with all relevant provisions of the GDPR; and secondly, the provisions of Chapter V must
+    be complied with. Hence, the processing i.e., the transfer or disclosure of personal data must adhere
+    to the general principles of Article 5 and must rely on a legal basis as stated in Article 6 GDPR”8.
+
+
+5 UNDER WHICH CONDITIONS CAN CONTROLLERS AND PROCESSORS
+  RESPOND TO REQUESTS FROM THIRD COUNTRY AUTHORITIES?
+16. Article 48 is part of Chapter V of the GDPR on ‛Transfers of personal data to third countries or
+    international organisations’ and has to be read in conjunction with Article 44 GDPR, which states
+    that “any transfer of personal data which are undergoing processing or are intended for processing
+    after transfer to a third country or to an international organisation shall take place only if, subject
+    to the other provisions of this Regulation, the conditions laid down in this Chapter are complied
+    with by the controller and processor, including for onward transfers of personal data from the third
+    country or an international organisation to another third country or to another international
+    organisation”. Furthermore, Recital 115 GDPR clarifies that transfers should only be allowed where
+    the conditions of the GDPR are met. This means that any transfer or disclosure of personal data in
+    response to a request from a third country authority requires a legal basis for the processing
+    (Article 6 GDPR) and compliance with the requirements for transfers of personal data to third
+    countries or international organisations (Chapter V GDPR).
+
+17. As already mentioned, in addition to ensuring compliance with the GDPR, a controller or processor
+    may need to comply with additional requirements following from other legal instruments, e.g.
+    national procedural rules or international agreements providing for cooperation with the third
+    country authority.
+
+18. Additionally, if the recipient of the request is a processor, this processor must inform the controller
+    without undue delay and should follow the controller’s instructions with regard to the request,
+    unless Union law or Member State law to which the processor is subject prohibits them to inform
+    the controller on “important grounds of public interest” 9.
+
+5.1 Compliance with Article 6 GDPR
+19. According to Article 44 GDPR, a transfer of personal data to a third country shall take place only if,
+    subject to the other provisions of the GDPR, the conditions of Chapter V are complied with.
+    Therefore, transferring personal data to third countries or international organisations must also
+    meet the conditions of the other provisions of the GDPR.
+
+8 See EDPB-EDPS Joint Response to the LIBE Committee on the impact of the US Cloud Act on the European legal
+
+framework for personal data protection p. 3. See EDPB Guidelines 2/2018 on derogations of Article 49 under
+Regulation 2016/679, adopted on 25 May 2018.
+9 See to that effect Article 28(3)(a) GDPR and EDPB Guidelines 07/2020 on the concepts of controller and
+
+processor in the GDPR adopted on 7 July 2021.
+
+
+
+Adopted                                                                                                   8
+
+20. Article 5(1) of the GDPR sets out general and mandatory principles for the processing of personal
+    data. According to Article 5(2), the controller is responsible for compliance with the obligations set
+    out in paragraph 1 (this applies as well when the processing activities are carried out by means of
+    a processor). According to Article 5(1), any processing of personal data must have a legal basis
+    under Article 6. A legal analysis is therefore required with regard to each specific situation.
+
+21. The case described in Article 48 presupposes that there is a judgement of a court or tribunal or a
+    decision of an administrative authority of a third country that requires a controller or processor in
+    the EU to transfer or disclose personal data. Furthermore, this request from a third country
+    authority may only be recognised or made enforceable if it is based on an international agreement,
+    which may give such request the effect of a legal obligation to which the controller is subject and
+    non-compliance would have legal consequences. Where the processing of personal data is carried
+    out in order to fulfil a legal obligation, Article 6(1)(c) provides an explicit legal basis. As a result,
+    the EDPB is of the opinion that for the case outlined in Article 48, where there is an applicable
+    international agreement in place, Article 6(1)(c) in conjunction with Article 6(3) would be the
+    appropriate legal basis for the transfer provided that the conditions of these provisions are
+    fulfilled.
+
+22. An applicable international agreement would mean an international agreement providing for the
+    possibility of direct requests from public authorities in third countries for access to personal data
+    processed by private entities in the EU. If there is no such agreement but an international
+    agreement provides for cooperation between public authorities in that specific area, such as a
+    mutual legal assistance treaty (MLAT), private entities in the EU should generally refer the
+    requesting third country authority to the national competent authority, in line with the procedure
+    provided by the MLAT or the agreement.
+
+23. In case of doubt regarding the existence of an international agreement and its nature, entities in
+    the EU receiving a request may contact and consult their national relevant authorities (for example
+    Ministry of Justice, Ministry of Foreign Affairs, sectoral supervisory authorities, etc.).
+
+24. In cases where there is no legal obligation arising from an international agreement for the
+    controller, the use of other legal bases under Article 6 remains possible, provided that the legal
+    requirements set out by Chapter V of the GDPR are fulfilled. However, the application of these
+    other legal bases must be carefully examined on a case-by-case basis. Due to the large number of
+    possible situations, general statements on the applicability of Article 6 can only be made to a very
+    limited extent.
+
+25. In principle, consent pursuant to Article 6(1)(a) could be considered as a legal basis for a transfer
+    to third countries. However, the use of consent as a legal basis will usually be inappropriate in
+    certain areas, especially if the processing of the data is related to the exercise of authoritative
+    powers10.
+
+26. The application of Article 6(1)(b) appears to be excluded by its wording alone. The EDPB is
+    therefore of the view that Article 6(1)(b) cannot be relied upon by a private entity in the EU as an
+
+
+
+10 See in this context the legal concept of recital 43 s. 1 concerning the requirement of freely given consent. This
+
+applies all the more if the case related to public bodies from third countries. See also EDPB-EDPS Joint Response
+to the LIBE Committee on the impact of the US Cloud Act on the European legal framework for personal data
+protection, footnote 28.
+
+
+
+Adopted                                                                                                           9
+
+    appropriate legal basis to answer a request for transfer or disclosure from a third country
+    authority.
+
+27. In situations where disclosure based on an international agreement is not mandatory, but such
+    cooperation is still permitted under EU or Member State law, Article 6(1)(e) could be used as a
+    legal basis for the processing of personal data since it can be considered necessary for the
+    performance of the task carried out in the public interest 11. In such cases, the processing has to
+    have a basis in Union or Member State law as required in Article 6(3) GDPR.
+
+28. As for Article 6(1)(d), the EDPB recognises that in specific and established circumstances, the vital
+    interests of the data subject could be cited as a legal basis for a transfer of personal data triggered
+    by a third country request provided that the conditions set out in international law are met12. With
+    regards to the vital interest of other persons the EDPB recalls that “processing of personal data
+    based on the vital interest of another natural person should in principle take place only where the
+    processing cannot be manifestly based on another legal basis” 13.
+
+29. Depending on the individual case, the EDPB assumes that it may be possible to rely on
+    Article 6(1)(f) for transfers or disclosures to third country authorities14 in exceptional
+    circumstances. To this effect, the EDPB recalls that any processing based on the legitimate interests
+    of the controller or third parties must be necessary and balanced against the interests or
+    fundamental rights and freedoms of the data subject15. The outcome of the balancing test
+    determines whether the legal basis of legitimate interest may be relied upon for the processing.
+    In principle, any processing based on legitimate interest is in any case limited to what is
+    demonstrably necessary to pursue this specific interest of the controller or the third party.
+
+30. Despite the fact that a controller, in some cases, may have a legitimate interest in complying with
+    a request to disclose personal data to a third country authority, a private business operator, acting
+    as controller, cannot rely on Article 6(1)(f) for the collection and storing of personal data in a
+    preventive manner in order to be able to share such information, upon request, with law
+    enforcement authorities so as to prevent, detect and prosecute criminal offences, where such
+    processing activities are unrelated to its own actual (economic and commercial) activities 16.
+    Moreover, the EDPB has, with respect to a specific situation, previously taken the view that the
+    interests or fundamental rights and freedoms of the data subject in those particular circumstances
+
+
+11 See for example Article 6 of the Second Additional Protocol to the Convention on Cybercrime on enhanced co-
+
+operation and disclosure of electronic evidence (CETS No. 224).
+12 This could for instance be the case of requests to access personal data concerning abducted minors or other
+
+situations where the transfer is in the vital interest of data subjects themselves.
+13 Recital 46 GDPR.
+14 For further information see EDPB Guidelines 1/2024 on processing of personal data based on Article 6(1)(f)
+
+GDPR (version 1.0) adopted on 8 October 2024.
+15 Assessing the impact on the data subject’s interests shall take into account any possible (potential or actual)
+
+consequences of the data processing for the data subject, the data protection principles of proportionality, as
+well as elements such as, for example, the seriousness of the alleged offences that may be notified, the scope of
+the request, applicable standards and procedural guarantees in the third country, and applicable data protection
+safeguards. Such assessment shall also pay particular attention to the nature of the personal data processed and
+the way personal data are being processed. In addition, the GDPR also introduced the necessity to take into
+account the reasonable expectations of the data subject. For further information on the necessity and balancing
+test see also EDPB Guidelines 1/2024 on processing of personal data based on Article 6(1)(f) GDPR (version 1.0)
+adopted on 8 October 2024.
+16 Judgment of the Court (Grand Chamber) of 4 July 2023, Meta Platforms Inc and Others v Bundeskartellamt,
+
+Case C-252/21, para. 124 and 132.
+
+
+
+Adopted                                                                                                        10
+
+    would override the controller’s interest of adhering to the request of a third country law
+    enforcement authority in order to avoid sanctions for non-compliance17.
+
+5.2 Compliance with Chapter V GDPR
+31. As already stated above, Article 48 must be read in conjunction with Article 44, the general
+    principle for transfers introducing the chapter. Article 44 lays down the following conditions for
+    transfers under the GDPR: any transfer is subject to the other relevant provisions of the GDPR and
+    must comply with the conditions laid down in Chapter V (the two-step test), “in order to ensure
+    that the level of protection of natural persons guaranteed by the Regulation is not undermined”.
+    The provisions on international transfers are designed to ensure that the high level of protection
+    for personal data within the EU is upheld when data are transferred to third countries with
+    different legal systems and data protection standards.
+
+32. For this purpose, Chapter V lists the grounds for transfers, starting with the European
+    Commission’s adequacy decisions under Article 45. If there is no adequacy decision, appropriate
+    safeguards may be provided for by one of the transfer tools foreseen in Article 46. In the absence
+    of an adequacy decision or appropriate safeguards, the derogations in Article 49 could apply in a
+    limited number of specific situations.
+
+33. Unlike the other provisions of Chapter V, Article 48 is not a ground for transfer. The provision itself
+    contains no data protection safeguards but clarifies that decisions or judgments from third country
+    authorities cannot be recognised or enforced in the EU unless an international agreement provides
+    for this. Therefore, before responding to a request from a third country authority falling under
+    Article 48, the controller or processor in the EU must identify an applicable ground for the transfer
+    elsewhere in Chapter V.
+
+34. According to Article 46(2)(a) appropriate safeguards may be provided for by “a legally binding and
+    enforceable instrument between public authorities or bodies” i.e. an international agreement
+    within the meaning of Article 48. Such agreements are concluded by states and traditionally allow
+    for cooperation between public authorities, but may also provide for direct cooperation between
+    private entities and public authorities18. If an international agreement covers the cooperation
+    between the controller or processor in the EU and the requesting third country authority, this
+    agreement may serve as a ground for transfer if it provides for the appropriate safeguards in
+    accordance with Article 46(2)(a).
+
+35. The EDPB has elaborated a list of minimum safeguards to be included in international agreements
+    falling under Article 46(2)(a). Such safeguards must be capable of ensuring that data subjects
+    whose personal data are transferred are afforded a level of protection essentially equivalent to
+
+
+
+
+17 See EDPB position already expressed for the area of law enforcement and national security in the EDPB-EDPS
+
+Joint Response to the LIBE Committee on the impact of the US Cloud Act on the European legal framework for
+personal data protection.
+18 The EDPB is not aware of the existence of many international agreements of this kind. One example would be
+
+Council of Europe: Second Additional Protocol to the Convention on Cybercrime on enhanced co-operation and
+disclosure of electronic evidence (CETS No. 224), which is however not yet in force.
+
+
+
+Adopted                                                                                                   11
+
+    that, which is guaranteed within the EU19. Consequently, applicable international agreements20
+    providing for transfers of personal data should inter alia require that the core data protection
+    principles are guaranteed by both parties, i.e. ensuring enforceable and effective data subject
+    rights, containing restrictions on onward transfers and data sharing, including additional
+    safeguards for sensitive data and providing independent redress and supervision mechanisms 21.
+    The appropriate safeguards may be included directly in the international agreement, which
+    provides for the direct cooperation between the controller or processor and the third country
+    authorities, or in a separate legally binding instrument.
+
+36. Article 48 refers to an international agreement “without prejudice to other grounds for transfer
+    pursuant to this Chapter”. In the opinion of the EDPB, with regard to Chapter V requirements 22,
+    this wording might cover two possible situations:
+    -    First, if there is no international agreement providing for cooperation between the controller
+         or processor and the third country authority, a transfer to a third country authority must be
+         based on another legal basis under Article 6 GDPR and another ground for transfer in
+         Chapter V.
+    -    Second, if there is an international agreement providing for the legal basis under Article 6, but
+         it does not contain the appropriate safeguards in accordance with Article 46(2)(a) and the
+         EDPB Guidelines 2/2020, the controller must identify another ground for transfer in Chapter V.
+
+37. In the absence of an applicable adequacy decision 23 or appropriate safeguards, Article 49 GDPR
+    offers a limited number of specific situations in which transfers may take place, for instance if they
+    are necessary for important reasons of public interest or for the establishment to exercise or
+    defence of legal claims24. However, as explained in previous guidance issued by the EDPB, the
+    derogations in Article 49 GDPR must be interpreted restrictively and mainly relate to processing
+    activities that are occasional and non-repetitive25.
+
+
+
+
+19 Court of Justice of the European Union, Case C-311/18, Data Protection Commissioner v. Facebook Ireland and
+
+Maximillian Schrems (“Schrems II”), para. 96.
+20 In case of doubt regarding the existence of an international agreement and its nature, entities in the EU
+
+receiving a request may contact and consult their national relevant authorities (for example Ministry of Justice,
+Ministry of Foreign Affairs, sectoral supervisory authorities, etc.).
+21 See in this regard part 2 of the Guidelines 2/2020 on Articles 46 (2) (a) and 46 (3) (b) of Regulation 2016/679
+
+for transfers of personal data between EEA and non-EEA public authorities and bodies, version 2.0; adopted on
+15 December 2020.
+22 With regard to Article 6 GDPR, there could be a third situation where there is an international agreement in
+
+place that does not provide an appropriate legal basis under Articles 6(1)(c) or 6(1)(e) GDPR, for instance because
+the relevant provisions of the agreement are not specific enough (e.g. they do not reflect the elements listed in
+Article 6(3) GDPR).
+23 The assessment whether an adequacy decision is applicable should be done on a case by case basis, taking in
+
+particular into account the scope of the adequacy decision.
+24 See Article 49(1)(d) and (e) GDPR.
+25 See Guidelines 2/2018 on derogations of Article 49 under Regulation 2016/679 adopted on 25 May 2018.
+
+
+
+
+Adopted                                                                                                         12
+
+                                26
+
+
+
+
+26If the recipient of the request is a processor, this processor must inform the controller without undue delay and should follow the
+controller’s instructions with regard to the request, unless Union law or Member State law to which the processor is subject prohibits
+them to inform the controller on “important grounds of public interest” (see to that effect Article 28(3)(a) GDPR and EDPB Gu idelines
+07/2020 on the concepts of controller and processor in the GDPR, adopted on 7 July 2021).
+
+Adopted                                                                                                                                  13
 ```

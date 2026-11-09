@@ -1,2617 +1,2390 @@
 ---
-titulo: "Diretrizes 04/2022 sobre o cálculo das coimas ao abrigo do RGPD"
+titulo: "Guidelines 04/2022 on the calculation of administrative fines under the GDPR"
 titulo_en: "Guidelines 04/2022 on the calculation of administrative fines under the GDPR"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2023-05-24'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-042022-on-the-calculation-of-administrative-fines-under-the-gdpr_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2024-01/edpb_guidelines_042022_calculationofadministrativefines_pt_0.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-06/edpb_guidelines_042022_calculationofadministrativefines_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 04/2022 sobre o cálculo das coimas ao abrigo do RGPD
+# Guidelines 04/2022 on the calculation of administrative fines under the GDPR
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 04/2022 sobre o cálculo das coimas
-                         ao abrigo do RGPD
-                                   Versão 2.1
-                   Adotadas em 24 de maio de 2023
-                      Translations proofread by EDPB Members.
-                   This language version has not yet been proofread.
+Guidelines 04/2022 on the calculation of administrative
+                fines under the GDPR
+                       Version 2.1
+                 Adopted on 24 May 2023
 
 
 
 
-Adotadas
+Adopted
 
-                                     Histórico de versões
+                                  Version history
 
 
 
-Versão 1.0   12 de maio de 2022    Adoção das diretrizes para consulta pública
-Versão 2.0   24 de maio de 2023    Adoção das diretrizes após consulta pública
-Versão 2.1   29 de junho de 2023   Pequena correção
+Version 1.0   12 May 2022    Adoption of the Guidelines for public consultation
+Version 2.0   24 May 2023    Adoption of the Guidelines after public consultation
+Version 2.1   29 June 2023   Minor correction
 
 
 
 
-                                                                                 2
-Adotadas
+                                                                                    2
+Adopted
 
-                                                RESUMO
+                                       EXECUTIVE SUMMARY
 
-O Comité Europeu para a Proteção de Dados (CEPD) adotou as presentes diretrizes a fim de harmonizar a
-metodologia que as autoridades de controlo utilizam para calcular o montante das coimas. As presentes
-diretrizes complementam as Diretrizes de aplicação e fixação de coimas para efeitos do Regulamento
-2016/679 (WP 253), anteriormente adotadas, que se centram nas circunstâncias em que deve ser aplicada
-uma coima.
+The European Data Protection Board (EDPB) has adopted these guidelines to harmonise the methodology
+supervisory authorities use when calculating of the amount of the fine. These Guidelines complement the
+previously adopted Guidelines on the application and setting of administrative fines for the purpose of the
+Regulation 2016/679 (WP253), which focus on the circumstances in which to impose a fine.
 
-Compete à autoridade de controlo calcular o montante da coima, sob reserva das regras previstas no RGPD.
-Neste contexto, o RGPD exige que o montante da coima seja, em cada caso individual, efetivo, proporcionado
-e dissuasivo (artigo 83.º, n.º 1, do RGPD). Além disso, ao fixarem o montante da coima, as autoridades de
-controlo devem ter em devida consideração uma lista de circunstâncias relacionadas com as particularidades
-da infração (a sua gravidade) ou com o caráter do infrator (artigo 83.º, n.º 2, do RGPD). Por último, o
-montante da coima não pode exceder os montantes máximos previstos no artigo 83.º, n.os 4, 5 e 6, do RGPD.
-A quantificação do montante da coima baseia-se, desta forma, numa avaliação específica efetuada em cada
-caso, dentro dos parâmetros previstos no RGPD.
+The calculation of the amount of the fine is at the discretion of the supervisory authority, subject to the rules
+provided for in the GDPR. In that context, the GDPR requires that the amount of the fine shall in each
+individual case be effective, proportionate and dissuasive (Article 83(1) GDPR). Moreover, when setting the
+amount of the fine, supervisory authorities shall give due regard to a list of circumstances that refer to
+features of the infringement (its seriousness) or of the character of the perpetrator (Article 83(2) GDPR).
+Lastly, the amount of the fine shall not exceed the maximum amounts provided for in Articles 83(4) (5) and
+(6) GDPR. The quantification of the amount of the fine is therefore based on a specific evaluation carried out
+in each case, within the parameters provided for by the GDPR.
 
-Tendo em conta o que precede, o CEPD concebeu a metodologia a seguir exposta, que consiste em cinco
-etapas, para o cálculo das coimas por violações do RGPD.
+Taking the abovementioned into account, the EDPB has devised the following methodology, consisting of five
+steps, for calculating administrative fines for infringements of the GDPR.
 
-Em primeiro lugar, há que identificar as operações de tratamento no caso em apreço e avaliar a aplicação do
-artigo 83.º, n.º 3, do RGPD (capítulo 3). Em segundo lugar, é necessário identificar o ponto de partida para o
-cálculo ulterior do montante da coima (capítulo 4), avaliando a qualificação da infração no RGPD, a gravidade
-da infração à luz das circunstâncias do caso concreto e o volume de negócios da empresa. A terceira etapa
-consiste em avaliar as circunstâncias agravantes e atenuantes relacionadas com o comportamento passado
-ou presente do responsável pelo tratamento/subcontratante, aumentando ou reduzindo a coima em
-conformidade (capítulo 5). A quarta etapa consiste em identificar os limites máximos legais aplicáveis para
-as diferentes infrações. Os aumentos aplicados nas etapas anteriores ou seguintes não podem exceder este
-montante máximo (capítulo 6). Por último, é necessário analisar se o montante final calculado satisfaz os
-requisitos de efetividade, dissuasão e proporcionalidade. Continua a ser possível ajustar a coima em
-conformidade (capítulo 7), mas sem exceder o limite máximo legal aplicável.
+Firstly, the processing operations in the case must be identified and the application of Article 83(3) GDPR
+needs to be evaluated (Chapter 3). Second, the starting point for further calculation of the amount of the
+fine needs to be identified (Chapter 4). This is done by evaluating the classification of the infringement in the
+GDPR, evaluating the seriousness of the infringement in light of the circumstances of the case, and evaluating
+the turnover of the undertaking. The third step is the evaluation of aggravating and mitigating circumstances
+related to past or present behaviour of the controller/processor and increasing or decreasing the fine
+accordingly (Chapter 5). The fourth step is identifying the relevant legal maximums for the different
+infringements. Increases applied in previous or next steps cannot exceed this maximum amount (Chapter 6).
+Lastly, it needs to be analysed whether the calculated final amount meets the requirements of effectiveness,
+dissuasiveness and proportionality. The fine can still be adjusted accordingly (Chapter 7), however without
+exceeding the relevant legal maximum.
 
-Em todas as etapas acima referidas, há que ter em conta que o cálculo de uma coima não é um mero exercício
-matemático. Pelo contrário, as circunstâncias do caso concreto são os fatores determinantes que conduzem
-ao montante final, que pode, em todos os casos, ser qualquer montante até ao limite máximo legal, inclusive.
+Throughout all abovementioned steps, it must be borne in mind that the calculation of a fine is no mere
+mathematical exercise. Rather, the circumstances of the specific case are the determining factors leading to
+the final amount, which can – in all cases – be any amount up to and including the legal maximum.
 
-O CEPD procederá a uma reapreciação permanente das presentes diretrizes e da sua metodologia.
+These Guidelines and its methodology will remain under constant review of the EDPB.
 
 
 
 
-                                                                                                            3
-Adotadas
+                                                                                                               3
+Adopted
 
-Índice
-RESUMO .........................................................................................................................................................................3
-CAPÍTULO 1 – INTRODUÇÃO ............................................................................................................................................6
-    1.1 – Quadro jurídico ..................................................................................................................................................6
-    1.2 – Objetivo .............................................................................................................................................................7
-    1.3 – Âmbito de aplicação ..........................................................................................................................................7
-    1.4 – Aplicabilidade ....................................................................................................................................................8
+Table of Contents
+EXECUTIVE SUMMARY...................................................................................................................... 3
+CHAPTER 1 – INTRODUCTION ............................................................................................................ 6
+   1.1 - Legal framework.............................................................................................................................................................6
+   1.2 - Objective.........................................................................................................................................................................7
+   1.3 - Scope...............................................................................................................................................................................7
+   1.4 - Applicability ....................................................................................................................................................................8
 
-CAPÍTULO 2 – METODOLOGIA PARA CALCULAR O MONTANTE DA COIMA.........................................................................8
-    2.1 – Considerações gerais .........................................................................................................................................8
-    2.2 – Síntese da metodologia ...................................................................................................................................9
-    2.3 – Infrações com montantes fixos ........................................................................................................................9
+CHAPTER 2 – METHODOLOGY FOR CALCULATING THE AMOUNT OF THE FINE ............................................ 8
+   2.1 - General considerations..................................................................................................................................................8
+   2.2 - Overview of the methodology.....................................................................................................................................9
+   2.3 - Infringements with fixed amounts..............................................................................................................................9
 
-CAPÍTULO 3 – CONCURSO DE INFRAÇÕES E APLICAÇÃO DO ARTIGO 83.º, N.º 3, DO RGPD ...............................................10
-Diagrama .....................................................................................................................................................................11
-    3.1 – Uma conduta passível de sanção......................................................................................................................12
-    3.1.1 – Concurso de infrações...................................................................................................................................13
+CHAPTER 3 – CONCURRENT INFRINGEMENTS AND THE APPLICATION OF ARTICLE 83(3) GDPR ...................... 9
+Diagram...................................................................................................................................... 11
+   3.1 - One sanctionable conduct.......................................................................................................................................... 12
+   3.1.1 - Concurrence of Offences......................................................................................................................................... 13
 
-        3.1.2 – Unidade de ação (artigo 83.º, n.º 3, do RGPD) ...........................................................................................15
-    3.2 – Várias condutas passíveis de sanção ................................................................................................................16
+       3.1.2 - Unity of action - Article 83(3) GDPR................................................................................. 15
+   3.2 - Multiple sanctionable conducts ................................................................................................................................. 16
 
-CAPÍTULO 4 – PONTO DE PARTIDA PARA O CÁLCULO......................................................................................................17
-    4.1 – Categorização das infrações nos termos do artigo 83.º, n.os 4 a 6, do RGPD ......................................................18
-    4.2 – Gravidade da infração em cada caso individual ................................................................................................18
+CHAPTER 4 – STARTING POINT FOR CALCULATION .............................................................................. 17
+   4.1 - Categorisation of infringements under Articles 83(4)–(6) GDPR ............................................................................. 17
+   4.2 - Seriousness of the infringement in each individual case.......................................................................................... 17
 
-        4.2.1 – Natureza, gravidade e duração da infração ...............................................................................................18
-        4.2.2 – O caráter intencional ou negligente da infração ........................................................................................20
-        4.2.3 – Categorias específicas de dados pessoais afetadas ....................................................................................21
-        4.2.4 – Classificação da gravidade da infração e determinação do montante de partida adequado .......................21
-    4.3 – Volume de negócios da empresa com vista à aplicação de uma coima efetiva, dissuasiva e proporcionada ......24
+       4.2.1 - Nature, gravity and duration of the infringement............................................................... 18
+       4.2.2 - Intentional or negligent character of the infringement ....................................................... 19
+       4.2.3 - Categories of personal data affected ............................................................................... 20
+       4.2.4 - Classifying the seriousness of the infringement and identifying the appropriate starting amount
+       ........................................................................................................................................... 21
+   4.3 - Turnover of the undertaking with a view to imposing an effective, dissuasive and proportionate fine ............... 23
 
-CAPÍTULO 5 – CIRCUNSTÂNCIAS AGRAVANTES E ATENUANTES .......................................................................................27
-    5.1 – Identificação dos fatores agravantes e atenuantes ...........................................................................................27
-    5.2 – Iniciativas tomadas pelo responsável pelo tratamento ou pelo subcontratante para atenuar os danos sofridos
-         pelos titulares de dados ....................................................................................................................................27
-    5.3 – Grau de responsabilidade do responsável pelo tratamento ou do subcontratante............................................28
-    5.4 – Infrações anteriormente cometidas pelo responsável pelo tratamento ou pelo subcontratante .......................29
+CHAPTER 5 – AGGRAVATING AND MITIGATING CIRCUMSTANCES........................................................... 26
+   5.1 - Identification of aggravating and mitigating factors................................................................................................. 26
+   5.2 - Actions taken by controller or processor to mitigate damage suffered by data subjects...................................... 26
+   5.3 - Degree of responsibility of the controller or processor............................................................................................ 27
+   5.4 - Previous infringements by the controller or processor.......................................................................................... 27
 
-        5.4.1 – Período de tempo .....................................................................................................................................29
-        5.4.2 – Objeto ......................................................................................................................................................29
-        5.4.3 – Outras considerações ................................................................................................................................30
-    5.5 – Grau de cooperação com a autoridade de controlo, a fim de sanar a infração e atenuar os seus eventuais
-         efeitos negativos ..............................................................................................................................................30
-    5.6 – A forma como a autoridade de controlo tomou conhecimento da infração ......................................................31
-    5.7 – Cumprimento de medidas anteriormente impostas relativamente à mesma matéria .......................................31
-    5.8 – O cumprimento de códigos de conduta ou procedimentos de certificação aprovados ......................................32
+       5.4.1 - Time frame ................................................................................................................. 28
+       5.4.2 - Subject matter............................................................................................................. 28
+       5.4.3 - Other considerations .................................................................................................... 28
+   5.5 - Degree of cooperation with the supervisory authority in order to remedy the infringement and mitigate the
+         possible adverse effects of the infringement............................................................................................................ 29
+   5.6 - The manner in which the infringement became known to the supervisory authority ........................................... 29
+   5.7 - Compliance with measures previously ordered with regard to the same subject matter ..................................... 30
 
 
+                                                                                                                                                                                           4
+Adopted
 
-                                                                                                                                                                               4
- Adotadas
+   5.8 - Adherence to approved codes of conduct or approved certification mechanisms................................................ 30
+   5.9 - Other aggravating and mitigating circumstances...................................................................................................... 31
 
-   5.9 – Outras circunstâncias agravantes e atenuantes ................................................................................................32
+CHAPTER 6 – LEGAL MAXIMUM AND CORPORATE LIABILITY .................................................................. 34
+   6.1 - Determining the Legal Maximum............................................................................................................................... 34
 
-CAPÍTULO 6 – LIMITE MÁXIMO LEGAL E RESPONSABILIDADE DAS EMPRESAS ..................................................................36
-   6.1 – Determinação do limite máximo legal ..............................................................................................................36
+       6.1.1 - Static maximum amounts .............................................................................................. 34
+       6.1.2 - Dynamic maximum amounts .......................................................................................... 34
+   6.2 - Determining the undertaking’s turnover and corporate liability ............................................................................. 35
 
-       6.1.1 – Montantes máximos estáticos ...................................................................................................................36
-       6.1.2 – Montantes máximos dinâmicos .................................................................................................................36
-   6.2 – Determinação do volume de negócios e da responsabilidade da empresa........................................................38
+       6.2.1 - Determining an undertaking and corporate liability............................................................ 35
+       6.2.2 - Determining the turnover.............................................................................................. 38
+CHAPTER 7 – EFFECTIVENESS, PROPORTIONALITY AND DISSUASIVENESS ................................................. 39
+   7.1 - Effectiveness................................................................................................................................................................ 39
+   7.2 - Proportionality ............................................................................................................................................................ 39
+   7.3 - Dissuasiveness............................................................................................................................................................. 41
 
-       6.2.1 – Determinação de uma empresa e da responsabilidade da empresa...........................................................38
-       6.2.2 – Determinação do volume de negócios ......................................................................................................40
-CAPÍTULO 7 – EFETIVIDADE, PROPORCIONALIDADE E DISSUASÃO ...................................................................................41
-   7.1 – Efetividade ......................................................................................................................................................42
-   7.2 – Proporcionalidade ...........................................................................................................................................42
-   7.3 – Dissuasão ........................................................................................................................................................44
+CHAPTER 8 – FLEXIBILITY AND REGULAR EVALUATION.......................................................................... 41
+ANNEX – TABLE FOR ILLUSTRATION OF THE GUIDELINES 04/2022 ON THE CALCULATION OF ADMINISTRATIVE
+FINES UNDER THE GDPR ................................................................................................................. 43
 
-CAPÍTULO 8 – FLEXIBILIDADE E AVALIAÇÃO PERIÓDICA...................................................................................................44
-ANEXO – QUADRO ILUSTRATIVO DAS DIRETRIZES 04/2022 SOBRE O CÁLCULO DAS COIMAS AO ABRIGO DO
-RGPD ................................................................................................................................................... 45
-
 
 
 
-                                                                                                                                                                           5
-Adotadas
-
-     O Comité Europeu para a Proteção de Dados,
-
-     Tendo em conta o artigo 70.º, n.º 1, alíneas e), j) e k), do Regulamento (UE) 2016/679 do Parlamento Europeu
-     e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao
-     tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a seguir
-     designado por «RGPD»),
-
-     Tendo em conta o Acordo EEE, nomeadamente o anexo XI e o Protocolo n.º 37, com a redação que lhe foi
-     dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 2018 1,
-
-     Tendo em conta os artigos 12.º e 22.º do seu regulamento interno,
-
-     Tendo em conta as Diretrizes de aplicação e fixação de coimas para efeitos do Regulamento 2016/679,
-     WP 253, do Grupo do Artigo 29.º para a Proteção de Dados, que foram aprovadas pelo Comité Europeu para
-     a Proteção de Dados (a seguir designado por «CEPD») na sua primeira reunião plenária,
-
-
-     ADOTOU AS SEGUINTES DIRETRIZES
-
-
-     CAPÍTULO 1 – INTRODUÇÃO
-     1.1 – Quadro jurídico
-1.   Com o Regulamento Geral sobre a Proteção de Dados (a seguir designado por «RGPD»), aplicável desde 25
-     de maio de 2018, a UE concluiu uma reforma abrangente da regulamentação relativa à proteção de dados
-     na Europa. A proteção das pessoas singulares, no caso do tratamento dos dados pessoais, é um direito
-     fundamental. O regulamento assenta em várias componentes essenciais, uma das quais é o reforço dos
-     poderes de execução das autoridades de controlo. O regulamento impõe um novo nível de coimas
-     substancialmente maior, prevendo também uma harmonização das coimas entre os Estados-Membros.
-
-2.   Os responsáveis pelo tratamento de dados e os seus subcontratantes têm responsabilidades acrescidas para
-     garantir a proteção eficaz dos dados pessoais. As autoridades de controlo têm poderes para assegurar que
-     os princípios do RGPD, bem como os direitos das pessoas em causa, sejam respeitados de acordo com a
-     redação e o espírito do RGPD.
-
-3.   Neste contexto, o CEPD elaborou diretrizes que proporcionam uma base clara e transparente para a fixação
-     de coimas pelas autoridades de controlo. As Diretrizes de aplicação e fixação de coimas anteriormente
-     publicadas enunciam as circunstâncias em que uma coima seria um instrumento adequado e interpretam os
-     critérios do artigo 83.º do RGPD nesta matéria 2. As presentes diretrizes incidem sobre a metodologia para o
-     cálculo das coimas. Os dois conjuntos de diretrizes são aplicáveis simultaneamente e devem ser considerados
-     complementares.
-
-
-     1
-       As referências a «Estados-Membros» ao longo do presente documento devem ser entendidas como referências a
-     «Estados do EEE».
-     2
-       Diretrizes de aplicação e fixação de coimas para efeitos do Regulamento 2016/679, WP 253 (a seguir designadas por
-     «Diretrizes WP 253»). O CEPD aprovou as Diretrizes WP 253 na sua primeira reunião plenária, em 25 de maio de 2018.
-     Ver Endorsement 1/2018 (não traduzido para português), disponível em linha aqui.
-
-
-                                                                                                                      6
-     Adotadas
-
-      1.2 – Objetivo
-4.    As presentes diretrizes destinam-se a ser utilizadas pelas autoridades de controlo para assegurar uma
-      aplicação e execução coerentes do RGPD e expressar o entendimento comum do CEPD sobre as disposições
-      do artigo 83.º do RGPD.
-
-5.    O objetivo das presentes diretrizes é criar pontos de partida harmonizados a título de orientação comum,
-      com base nos quais seja possível efetuar o cálculo das coimas em casos individuais. No entanto, é
-      jurisprudência constante que tais diretrizes não têm de ser específicas de modo a permitir que um
-      responsável pelo tratamento ou subcontratante efetue um cálculo matemático preciso da coima prevista 3.
-      Nas presentes diretrizes, sublinha-se que o montante final da coima depende de todas as circunstâncias do
-      caso concreto. Por conseguinte, o CEPD preconiza uma harmonização dos pontos de partida e da
-      metodologia utilizada para calcular uma coima, em vez de uma harmonização do resultado.
-
-6.    Pode considerar-se que as presentes diretrizes seguem uma abordagem por etapas, embora as autoridades
-      de controlo não sejam obrigadas a seguir todas as etapas se não forem aplicáveis num determinado caso,
-      nem a apresentar uma fundamentação em torno dos aspetos das diretrizes que não sejam aplicáveis. No
-      entanto, a fundamentação deve incluir, pelo menos, os fatores que levaram à determinação do nível de
-      gravidade, o volume de negócios aplicável e os fatores agravantes e atenuantes que foram aplicados.
-
-7.    Não obstante as presentes diretrizes, as autoridades de controlo continuam sujeitas a todas as obrigações
-      processuais previstas no direito nacional e da UE, incluindo o dever de fundamentar as suas decisões e as
-      suas obrigações ao abrigo do mecanismo de balcão único. Neste contexto, embora as autoridades de
-      controlo sejam obrigadas a fundamentar suficientemente as suas conclusões em conformidade com o direito
-      nacional e da UE, as presentes diretrizes não devem ser interpretadas como exigindo que a autoridade de
-      controlo indique o montante de partida exato ou quantifique o impacto preciso de cada circunstância
-      agravante ou atenuante. Além disso, a simples referência às presentes diretrizes não pode substituir a
-      fundamentação a apresentar em cada caso concreto.
-
-8.    As diretrizes serão revistas numa base contínua, à medida que forem desenvolvidas práticas na UE e no EEE.
-      Importa referir que, com exceção da Dinamarca e da Estónia 4, as autoridades de controlo estão autorizadas
-      a aplicar coimas, que são vinculativas se não forem objeto de recurso. Assim, ao longo do tempo, verificar-
-      se-á um desenvolvimento contínuo das práticas administrativas e judiciais.
-
-      1.3 – Âmbito de aplicação
-9.    As presentes diretrizes destinam-se a reger e lançar as bases da fixação de coimas pelas autoridades de
-      controlo a um nível global. As orientações apresentadas aplicam-se a todos os tipos de responsáveis pelo
-      tratamento e subcontratantes nos termos do artigo 4.º, n.os 7 e 8, do RGPD, com exceção das pessoas
-      singulares quando não atuam como empresas. Tal não prejudica a competência das autoridades nacionais
-      para aplicar coimas às pessoas singulares.
-
-10.   De acordo com o artigo 83.º, n.º 7, do RGPD, os Estados-Membros podem prever normas que permitam
-      determinar se e em que medida as coimas podem ser aplicadas às autoridades e organismos públicos
-      estabelecidos no seu território. Desde que as autoridades de controlo disponham desta competência com
-      base no direito nacional, as presentes diretrizes aplicam-se ao cálculo da coima a impor às autoridades e
+                                                                                                                                                                                      5
+Adopted
+
+     The European Data Protection Board
+
+     Having regard to Article 70(1)(k), (1)(j) and (1)(e) of the Regulation 2016/679/EU of the European Parliament
+     and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+     referred to as the “GDPR”),
+
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended by
+     the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 1 .
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+     Having regard to Article 29 Working Party Guidelines on the application and setting of administrative fines
+     for the purposes of the Regulation 2016/679, WP253, which were endorsed by the European Data Protection
+     Board (hereinafter referred to as the “EDPB”) at its first Plenary meeting,
+
+
+     HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+     CHAPTER 1 – INTRODUCTION
+     1.1 - Legal framework
+1.   The EU has – with the General Data Protection Regulation (hereinafter referred to as the “GDPR”), which has
+     been applicable since 25 May 2018 – completed a comprehensive reform of data protection regulation in
+     Europe. The protection of natural persons in relation to the processing of personal data is a fundamental
+     right. The Regulation rests on several key components, one being stronger enforcement powers for
+     supervisory authorities. The Regulation imposes a new, substantially increased level of fines, as well as
+     providing for harmonization of fines between Member States.
+
+2.   Data controllers and data processors have increased responsibilities to ensure that the personal data of the
+     individuals are protected effectively. Supervisory authorities have powers to ensure that the principles of the
+     GDPR as well as the rights of the individuals concerned are upheld according to the wording and the spirit of
+     the GDPR.
+
+3.   Therefore, the EDPB developed guidance to provide a clear and transparent basis for the supervisory
+     authorities’ setting of fines. The previously published Guidelines on the application and setting of
+     administrative fines address the circumstances in which an administrative fine would be an appropriate tool
+     and interpret the criteria of Article 83 GDPR in this respect 2 . The present Guidelines address the
+     methodology for the calculation of administrative fines. The two sets of Guidelines are applicable
+     simultaneously and should be seen as complementary.
+
+
+     1 References to “Member States” made throughout this document should be understood as references to “EEA Member
+     States”.
+     2 Guidelines on the application and setting of administrative fines for the purpose of the Regulation 2016/679, WP 253
+
+     (hereinafter referred to as “Guidelines WP 253”). Guidelines WP 253 were endorsed by the EDPB in its first Plenary
+     meeting, on 25 May 2018. See Endorsement 1/2018, available online here.
+
+
+                                                                                                                         6
+     Adopted
+
+      1.2 - Objective
+4.    These Guidelines are intended for use by the supervisory authorities to ensure a consistent application and
+      enforcement of the GDPR and express the EDPB’s common understanding of the provisions of Article 83
+      GDPR.
+
+5.    The aim of these Guidelines is to create harmonised starting points as a common orientation, on the basis of
+      which the calculation of administrative fines in individual cases can take place. However, it is settled case law
+      that any such guidance need not be as specific as to allow a controller or processor to make a precise
+      mathematical calculation of the expected fine 3 . It is emphasised throughout these Guidelines that the final
+      amount of the fine depends on all the circumstances of the case. The EDPB therefore envisages
+      harmonisation on the starting points and methodology used to calculate a fine, rather than harmonisation
+      on the outcome.
+
+6.    These Guidelines can be seen as following a step-by-step approach, though supervisory authorities are not
+      obliged to follow all steps if they are not applicable in a given case, nor to provide reasoning surrounding
+      aspects of the Guidelines that are not applicable. Although, reasoning should at least include the factors
+      which led to determining the level of seriousness, the turnover which is applied, and the aggravating and
+      mitigating factors that were applied.
+
+7.    Notwithstanding these Guidelines, supervisory authorities remain subject to all procedural obligations under
+      national and EU law, including the duty to state reasons for their decisions and their obligations under the
+      one stop shop mechanism. In that light, although the supervisory authorities are required to provide
+      sufficient reasoning for their findings in accordance with national and EU law, these guidelines should not be
+      interpreted as requiring the supervisory authority to state the exact starting amount or quantify the precise
+      impact of each aggravating or mitigating circumstance. Moreover, mere reference to these Guidelines cannot
+      replace the reasoning to be provided in a specific case.
+
+8.    The Guidelines will be reviewed on an ongoing basis, as practices in the EU and the EEA are developed. It
+      should be noted that, with the exception of Denmark and Estonia 4 , supervisory authorities are authorised to
+      issue administrative fines, which are binding if not appealed. Thus, over time, both administrative and judicial
+      practice will further develop.
+
+      1.3 - Scope
+9.    These Guidelines are intended to govern and lay the foundation of the supervisory authorities’ setting of
+      fines on an overarching level. The guidance set out applies to all types of controllers and processors according
+      to Article 4(7) and (8) GDPR except natural persons when they do not act as undertakings. This is not
+      withstanding the powers of national authorities to fine natural persons.
+
+10.   According to Article 83(7) GDPR, each Member State may lay down the rules on whether and to what extent
+      administrative fines may be imposed on public authorities and bodies established in that Member State.
+      Provided that supervisory authorities have this power on the basis of national law, these Guidelines apply to
+      the calculation of the fine to be imposed on public authorities and bodies, with the exception of Chapter 4.3.
+      Supervisory authorities remain free, however, to apply a methodology similar to the one described in this
+      Chapter. In addition, Chapter 6 is not applicable to the calculation of the fine to be imposed on public
 
 
       3
-        Ver, por exemplo, os processos apensos C-189/02 P, C-202/02 P, C-205/02 P a C-208/02 P e C-213/02 P, Dansk
-      Rørindustri A/S e o./Comissão, n.º 172, e o processo T-91/11, InnoLux Corp./Comissão, n.º 88.
-      4
-        Ver considerando 151 do RGPD.
-
-
-                                                                                                                7
-      Adotadas
-
-      organismos públicos, com exceção do capítulo 4.3. No entanto, as autoridades de controlo são livres de
-      aplicar uma metodologia semelhante à descrita no referido capítulo. Além disso, o capítulo 6 não é aplicável
-      ao cálculo da coima a impor às autoridades e organismos públicos, caso o direito nacional preveja limites
-      máximos legais diferentes e a autoridade ou organismo público não atue como uma empresa na aceção do
-      capítulo 6.2.1.
-
-11.   As diretrizes abrangem tanto os casos transfronteiriços como os casos não transfronteiriços.
-
-12.   As diretrizes não são exaustivas, nem tão-pouco fornecem explicações acerca das diferenças entre os
-      sistemas nacionais de direito administrativo, civil ou penal ao aplicar coimas no geral.
-
-      1.4 – Aplicabilidade
-13.   Nos termos do artigo 70.º, n.º 1, alínea e), do RGPD, o CEPD está habilitado a emitir diretrizes,
-      recomendações e melhores práticas, a fim de incentivar a aplicação coerente do RGPD. O artigo 70.º, n.º 1,
-      alínea k), do RGPD especifica que o Comité deve assegurar a aplicação coerente do RGPD e, por iniciativa
-      própria ou, se for caso disso, a pedido da Comissão Europeia, em particular, elaborar diretrizes dirigidas às
-      autoridades de controlo em matéria de aplicação das medidas a que se refere o artigo 58.º e de fixação de
-      coimas nos termos do artigo 83.º.
-
-14.   A fim de alcançar uma abordagem coerente para a aplicação de coimas que reflita adequadamente todos os
-      princípios do RGPD, o CEPD chegou a acordo sobre um entendimento comum dos critérios de avaliação
-      previstos no artigo 83.º do RGPD. As autoridades de controlo individuais refletirão esta abordagem comum,
-      em conformidade com a legislação administrativa e judicial local que lhes é aplicável.
-
-
-
-      CAPÍTULO 2 – METODOLOGIA PARA CALCULAR O MONTANTE DA COIMA
-      2.1 – Considerações gerais
-15.   Não obstante os deveres de cooperação e de coerência, o cálculo do montante da coima fica ao critério da
-      autoridade de controlo. O RGPD exige que o montante da coima seja, em cada caso individual, efetivo,
-      proporcionado e dissuasivo (artigo 83.º, n.º 1, do RGPD). Além disso, ao fixarem o montante da coima, as
-      autoridades de controlo devem ter em devida consideração uma lista de circunstâncias relacionadas com as
-      particularidades da infração (a sua gravidade) ou com o caráter do infrator (artigo 83.º, n.º 2, do RGPD). A
-      quantificação do montante da coima baseia-se, desta forma, numa avaliação específica efetuada em cada
-      caso, tendo em conta os parâmetros incluídos no RGPD.
-
-16.   No caso de comportamentos que violem as regras em matéria de proteção de dados, o RGPD não prevê uma
-      coima mínima. Pelo contrário, o RGPD prevê apenas montantes máximos no artigo 83.º, n.os 4 a 6, do RGPD,
-      no qual são agrupados vários tipos diferentes de comportamentos. Em última análise, uma coima só pode
-      ser calculada ponderando todos os fatores expressamente identificados no artigo 83.º, n.º 2, alíneas a) a j),
-      do RGPD relevantes para o caso em apreço e quaisquer outros elementos pertinentes, mesmo que não sejam
-      explicitamente enumerados nas referidas disposições (uma vez que o artigo 83.º, n.º 2, alínea k), do RGPD
-      exige que se tenha devidamente em conta qualquer outro fator aplicável). Por último, o montante final da
-      coima resultante desta apreciação deve ser efetivo, proporcionado e dissuasivo em cada caso individual
-      (artigo 83.º, n.º 1, do RGPD). Qualquer coima aplicada deve ter suficientemente em conta todos estes
-      parâmetros e, ao mesmo tempo, não pode exceder o limite máximo legal previsto no artigo 83.º, n.os 4 a 6,
-      do RGPD.
+        See, for example, Case C-189/02 P, C-202/02 P, C-205/02 P to C-208/02 P and C-213/02 P, Dansk Rørindustri A/S and
+      others v. Commission, paragraph 172 and Case T-91/11, InnoLux Corp. v. Commission, paragraph 88.
+      4 See Recital 151 GDPR.
 
 
 
-                                                                                                                 8
-      Adotadas
 
-      2.2 – Síntese da metodologia
-17.   Tendo em conta estes parâmetros, o CEPD concebeu a metodologia a seguir exposta para o cálculo das
-      coimas por violações do RGPD.
+                                                                                                                       7
+      Adopted
 
-       Etapa 1 Identificar as operações de tratamento no caso em apreço e avaliar a aplicação do artigo 83.º,
-               n.º 3, do RGPD. (Capítulo 3)
+      authorities and bodies, in case national law provides for different legal maximums and the public authority
+      or body does not act as an undertaking as defined in Chapter 6.2.1.
 
-       Etapa 2 Determinar o ponto de partida para o cálculo ulterior, com base numa avaliação do seguinte:
-               (Capítulo 4)
-                   a) A qualificação no artigo 83.º, n.os 4 a 6, do RGPD;
-                   b) A gravidade da infração nos termos do artigo 83.º, n.º 2, alíneas a), b) e g), do RGPD;
-                   c) O volume de negócios da empresa como um elemento pertinente a ter em conta com
-                       vista à aplicação de uma coima efetiva, dissuasiva e proporcionada, nos termos do
-                       artigo 83.º, n.º 1, do RGPD.
+11.   The Guidelines cover cross border cases as well as non-cross border cases.
 
-       Etapa 3 Avaliar as circunstâncias agravantes e atenuantes relacionadas com o comportamento passado
-               ou presente do responsável pelo tratamento/subcontratante e aumentar ou reduzir a coima
-               em conformidade. (Capítulo 5)
+12.   The Guidelines are not exhaustive, neither will they provide explanations about the differences between
+      national administrative, civil or criminal law systems when imposing administrative sanctions in general.
 
-       Etapa 4 Identificar os limites máximos legais aplicáveis para as diferentes operações de tratamento. Os
-               aumentos aplicados nas etapas anteriores ou seguintes não podem exceder este montante.
-               (Capítulo 6)
+      1.4 - Applicability
+13.   According to Article 70(1)(e) GDPR, the EDPB is empowered to issue guidelines, recommendations and best
+      practices in order to encourage consistent application of the GDPR. Article 70(1)(k) GDPR specifies that the
+      Board shall ensure the consistent application of the GDPR and shall, on its own initiative or, where relevant,
+      at the request of the European Commission, in particular, draw up guidelines for supervisory authorities
+      concerning the application of measures referred to in Article 58 and the setting of administrative fines
+      pursuant to Article 83.
 
-       Etapa 5 Analisar se o montante final da coima calculada cumpre os requisitos de efetividade, dissuasão
-               e proporcionalidade, conforme exigido no artigo 83.º, n.º 1, do RGPD, e aumentar ou reduzir a
-               coima em conformidade. (Capítulo 7)
+14.   In order to achieve a consistent approach to the imposition of administrative fines that adequately reflects
+      all of the principles in the GDPR, the EDPB has agreed on a common understanding of the assessment criteria
+      in Article 83 GDPR. The individual supervisory authorities will reflect this common approach, in accordance
+      with the local administrative and judicial laws applicable to them.
 
-      2.3 – Infrações com montantes fixos
-18.   Em determinadas circunstâncias, a autoridade de controlo pode considerar que determinadas infrações são
-      passíveis de ser punidas com uma coima de montante fixo predeterminado. A aplicação de um montante fixo
-      a determinados tipos de infrações não pode prejudicar a aplicação do RGPD, em especial do artigo 83.º. Além
-      disso, a aplicação de montantes fixos não dispensa as autoridades de controlo de cumprirem as disposições
-      em matéria de cooperação e coerência (capítulo VII do RGPD).
 
-19.   Compete à autoridade de controlo determinar que tipos de infrações podem ser punidos com um montante
-      fixo predeterminado, em função da sua natureza, gravidade e duração. A autoridade de controlo não pode
-      proceder a essa determinação se tal for proibido ou, de outro modo, entrar em conflito com o direito nacional
-      do Estado-Membro.
 
-20.   Os montantes fixos podem ser estabelecidos ao critério da autoridade de controlo, tendo em conta,
-      nomeadamente, as circunstâncias sociais e económicas desse Estado-Membro, em relação à gravidade da
-      infração, conforme interpretado pelo artigo 83.º, n.º 2, alíneas a), b) e g), do RGPD. Recomenda-se que a
-      autoridade de controlo comunique previamente os montantes e as circunstâncias de aplicação.
+      CHAPTER 2 – METHODOLOGY FOR CALCULATING THE AMOUNT OF THE
+      FINE
+      2.1 - General considerations
+15.   Notwithstanding cooperation and consistency duties, the calculation of the amount of the fine is at the
+      discretion of the supervisory authority. The GDPR requires that the amount of the fine shall in each individual
+      case be effective, proportionate and dissuasive (Article 83(1) GDPR). Moreover, when setting the amount of
+      the fine, supervisory authorities shall give due regard to a list of circumstances that refer to features of the
+      infringement (its seriousness) or of the character of the perpetrator (Article 83(2) GDPR). The quantification
+      of the amount of the fine is therefore based on a specific evaluation carried out in each case, taking account
+      of the parameters included in the GDPR.
 
+16.   For conduct infringing data protection rules, the GDPR does not provide for a minimum fine. Rather, the
+      GDPR only provides for maximum amounts in Article 83(4)–(6) GDPR, in which several different types of
+      conduct are grouped together. A fine can ultimately only be calculated by weighing up all the factors
+      expressly identified in Article 83(2)(a)–(j) GDPR, relevant to the case and any other relevant elements, even
+      if not explicitly listed in the said provisions (as Article 83(2)(k) GDPR requires to give due regard to any other
+      applicable factor). Finally, the final amount of the fine resulting from this assessment must be effective,
+      proportionate and dissuasive in each individual case (Article 83(1) GDPR). Any fine imposed must sufficiently
+      take into account all of these parameters, whilst at the same time not exceeding the legal maximum provided
+      for in Article 83(4)–(6) GDPR.
 
 
 
-                                                                                                                 9
-      Adotadas
 
-      CAPÍTULO 3 – CONCURSO DE INFRAÇÕES E APLICAÇÃO DO ARTIGO 83.º,
-      N.º 3, DO RGPD
-21.   Antes de poder calcular uma coima com base na metodologia das presentes diretrizes, é importante começar
-      por considerar a conduta (circunstâncias factuais relativas ao comportamento) e as infrações (descrições
-      jurídicas abstratas do que é passível de sanção) em que se baseia a coima. Com efeito, um determinado caso
-      pode incluir circunstâncias que poderão ser consideradas como uma mesma conduta ou como condutas
-      distintas passíveis de sanção. Além disso, é possível que uma mesma conduta possa dar origem a várias
-      infrações diferentes, quando a imputação de uma infração excluir a imputação de outra infração ou quando
-      as infrações puderem ser imputadas em paralelo. Por outras palavras, podem existir casos de concurso de
-      infrações. Dependendo das regras de concorrência, tal pode conduzir a diferentes cálculos das coimas.
+                                                                                                                      8
+      Adopted
 
-22.   Examinando a análise das tradições dos Estados-Membros em matéria de regras de concorrência, conforme
-      sublinhado na jurisprudência do TJUE, 5
-      e tendo em conta os diferentes âmbitos de aplicação e consequências jurídicas, estes princípios podem ser
-      agrupados, de modo grosso, nas três categorias seguintes:
-                 - concurso de infrações (capítulo 3.1.1),
-                 - unidade de ação (capítulo 3.1.2),
-                 - pluralidade de ações (capítulo 3.2).
+      2.2 - Overview of the methodology
+17.   Taking into account these parameters, the EDPB has devised the following methodology for calculating
+      administrative fines for infringements of the GDPR.
 
-23.   Estas diferentes categorias de concursos não entram em conflito entre si, mas têm âmbitos de aplicação
-      diferentes e enquadram-se num sistema global coerente, prevendo um regime de comprovação lógica.
+       Step 1    Identifying the processing operations in the case and evaluating the application of Article 83(3)
+                 GDPR. (Chapter 3)
 
-24.   Por conseguinte, é importante começar por estabelecer:
-                 a. Se as circunstâncias devem ou não ser consideradas como uma mesma conduta
-                     (capítulo 3.1) ou
+       Step 2    Finding the starting point for further calculation based on an evaluation of (Chapter 4)
+                     a) the classification in Article 83(4)–(6) GDPR;
+                     b) the seriousness of the infringement pursuant to Article 83(2)(a), (b) and (g) GDPR;
+                     c) the turnover of the undertaking as one relevant element to take into consideration
+                         with a view to imposing an effective, dissuasive and proportionate fine, pursuant to
+                         Article 83(1) GDPR.
 
-                     como várias condutas passíveis de sanção (capítulo 3.2);
-                  b. No caso de uma conduta (capítulo 3.1), se a mesma dá origem a
+       Step 3    Evaluating aggravating and mitigating circumstances related to past or present behaviour of
+                 the controller/processor and increasing or decreasing the fine accordingly. (Chapter 5)
 
-                     uma ou mais infrações; e
-                  c. No caso de uma conduta que dá origem a várias infrações, se a imputação de uma infração
-                     exclui a imputação de outra infração (capítulo 3.1.1) ou se as infrações devem ser imputadas
-                     em paralelo (capítulo 3.1.2).
+       Step 4    Identifying the relevant legal maximums for the different processing operations. Increases
+                 applied in previous or next steps cannot exceed this amount. (Chapter 6)
 
+       Step 5    Analysing whether the final amount of the calculated fine meets the requirements of
+                 effectiveness, dissuasiveness and proportionality, as required by Article 83(1) GDPR, and
+                 increasing or decreasing the fine accordingly. (Chapter 7)
 
+      2.3 - Infringements with fixed amounts
+18.   In certain circumstances, the supervisory authority may consider that certain infringements can be punished
+      with a fine of a predetermined, fixed amount. The application of a fixed amount to certain types of
+      infringements cannot hamper the application of the GDPR, in particular, Article 83 thereof. Moreover,
+      applying fixed amounts does not relieve supervisory authorities from complying with cooperation and
+      consistency (Chapter VII GDPR).
 
+19.   It is at the discretion of the supervisory authority to establish which types of infringements can be punished
+      with a predetermined fixed amount , based on their nature, gravity and duration. The supervisory authority
+      cannot make such a determination if this is prohibited or would otherwise conflict with the national law of
+      the Member State.
 
-      5
-       Ver, em especial, a análise aprofundada nas conclusões do advogado-geral E. Tanchev no processo C-10/18 P,
-      Marine Harvest.
+20.   Fixed amounts can be established at the discretion of the supervisory authority, taking into account – inter
+      alia – the social and economic circumstances of that particular Member State, in relation to the seriousness
+      of the infringement as construed by Article 83(2)(a), (b) and (g) GDPR. It is recommended that the supervisory
+      authority communicates the amounts and circumstances for application beforehand.
 
 
-                                                                                                                    10
-      Adotadas
+      CHAPTER 3 – CONCURRENT INFRINGEMENTS AND THE APPLICATION OF
+      ARTICLE 83(3) GDPR
+21.   Before being able to calculate a fine based on the methodology of these guidelines, it is important to first
+      consider what conduct (factual circumstances regarding the behaviour) and infringements (abstract legal
+      descriptions of what is sanctionable) the fine is based upon. Indeed, a particular case might include
 
-DIAGRAMA
 
+                                                                                                                     9
+      Adopted
 
-                                          O caso envolve
+      circumstances that could either be considered as one and the same or separate sanctionable conducts. Also,
+      it is possible that one and the same conduct could give rise to a number of different infringements where the
+      attribution of one infringement precludes attribution of another infringement or can be attributed alongside
+      each other. In other words, there can be cases of concurrent infringements. Depending on the rules of
+      concurrences such can lead to different calculations of fines.
 
+22.   Examining the analysis of Member States’ traditions of rules on concurrences as outlined in CJEU case-law, 5
+      and considering the different scopes of application and legal consequences, these principles can be roughly
+      grouped into the following three categories:
+                 - Concurrence of offences (Chapter 3.1.1),
+                 - Unity of action (Chapter 3.1.2),
+                 - Plurality of actions (Chapter 3.2).
 
-       Uma conduta passível de sanção                      Condutas distintas passíveis de sanção
-               (capítulo 3.1)                                          (capítulo 3.2)
+23.   These different categories of concurrences do not conflict with each other, but have different scopes of
+      application and fit into place in a coherent overall system, providing for a logical testing scheme.
 
+24.   Therefore, it is important to first establish
+                   a. Whether or not the circumstances are to be considered as one (Chapter 3.1) or
+                        multiple sanctionable conducts (Chapter 3.2),
+                   b. In case of one conduct (Chapter 3.1), whether or not this conduct gives rise to
+                        one or more infringements, and
+                   c. In case of one conduct that gives rise to multiple infringements, attribution of one
+                        infringement precludes the attribution of another infringement (Chapter 3.1.1) or whether
+                        they are to be attributed alongside each other (Chapter 3.1.2).
+
+
+
+
+      5   In particular, see the in-depth analysis in the Opinion of AG Tanchev in case C-10/18 P, Marine Harvest.
+
+
+                                                                                                                     10
+      Adopted
+
+DIAGRAM
+
+
+
+
+          11
+Adopted
+
+      3.1 - One sanctionable conduct
+25.   As a first step, it is essential to establish whether there is one and the same sanctionable conduct (“idem”)
+      or there are multiple ones in order to identify the relevant sanctionable behaviour to be fined. Therefore, it
+      is important to understand what circumstances are considered as one and the same conduct, as opposed to
+      multiple conducts. The relevant sanctionable behaviour needs to be assessed and identified on a case-by-
+      case basis. For example, in a certain case, “the same or linked processing operations” might constitute one
+      and the same conduct.
+
+26.   The term “processing operation” is included in Article 4(2) GDPR, where “processing” is defined as “any
+      operation or set of operations which is performed on personal data or on sets of personal data, whether or
+      not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or
+      alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making
+      available, alignment or combination, restriction, erasure or destruction.”
+
+27.   When assessing ”the same or linked processing operations”, it should be kept in mind that all obligations
+      legally necessary for the processing operations to be lawfully carried out can be considered by the
+      supervisory authority for its assessment of infringements, including for instance transparency obligations
+      (e.g. Article 13 GDPR). This is also underlined by the phrase “for the same or linked processing operations”,
+      which indicates that the scope of this provision includes any infringement that relates to and may have an
+      impact on the same or linked processing operations.
+
+28.    The term “linked” refers to the principle that a unitary conduct might consist of several parts that are carried
+      out by a unitary will and are contextually (in particular, regarding identity in terms of data subject, purpose
+      and nature), spatially and temporally related in such a close way that, from an objective standpoint, they
+      would be considered as one coherent conduct. A sufficient link should not be assumed easily, in order for the
+      supervisory authority to avoid infringement of the principles of deterrence and effective enforcement of
+      European law. Therefore, these aspects of relations for a sufficient link need to be assessed on a case-by-
+      case basis.
+
+       Example 1a – The same or linked processing operations
+       A financial institution requests a credit check from a credit reporting agency (CRA). The financial institution
+       receives this information and stores it in its system.
+
+       Although the collection and storage of the creditworthiness data by the financial institution each are by
+       themselves processing operations, they form a set of processing operations that are carried out by a unitary
+       will and are contextually, spatially and temporally related in such a close way that, from an objective
+       standpoint, they would be considered as one coherent conduct. Therefore, the processing operations
+       performed by the financial institution are to be considered as being “linked” and form the same conduct.
+
+       Example 1b – The same or linked processing operations
+       A data broker decides to implement a new processing activity as follows: it decides to collect – as a third
+       party – the consumer transaction history from dozens of retailers without a legal basis, to perform
+       psychometric analysis to predict future behaviour of individuals, including political voting behaviour,
+       willingness to quit their job and more. In the same decision, the data broker decides to not include this
+       procedure in the records of processing activities, not to inform data subjects and to ignore any data subject
+
+
+
+                                                                                                                    12
+      Adopted
+
+          access requests related to the new processing operations. The processing operations involved in this
+          processing activity form a set of processing operations that are carried out by a unitary will and are
+          contextually, spatially and temporally related. They are to be considered as being “linked” and forming the
+          same conduct. This also includes the failure to register the processing activity in the records, to inform data
+          subjects and to establish procedures to give effect to the right of access with regard to the new processing
+          operations. These obligations have been infringed for linked processing operations.
+
+          Example 1c – Not the same or linked processing operations
+          (i) A building authority performs a background check of a job applicant. The background check also includes
+          the political affinity, union membership and sexual orientation. (ii) Five days later, the building authority
+          demands from its vendors (sole traders) excessive self-disclosure regarding their business deals with other
+          entities, irrespective of any relevance to the contract with or compliance obligations of the building
+          authority. (iii) Another week later, the building authority suffers a personal data breach. The network of
+          the building authority is hacked – despite having adequate technical and organisational measures in place
+          – and the hacker gains access to a system that processes personal data of citizens that had filed requests
+          with the building authority. Despite the data were adequately encrypted in line with applicable standards,
+          the hacker is able to break it with military decryption technology and sells the data in the dark net. The
+          building authority refrains from notifying the supervisory authority, despite its obligation to do so. The
+          processing operations concerned in this case i.e. the background check, the demands of self-disclosure from
+          vendors and the failure to notify a personal data breach, are not contextually related. Therefore, they are
+          not to be considered “linked”, but instead form different conducts.
+
+29.   Where it is established that the circumstances of the case form one and the same conduct and give rise to a
+      single infringement, the fine can be calculated based on that infringement and its legal maximum. However,
+      if the circumstances of the case form one and the same conduct, but this conduct gives rise to not only one,
+      but multiple infringements, it must be established whether the attribution of one infringement precludes
+      attribution of another infringement (Chapter 3.1.1) or can they be attributed alongside each other (Chapter
+      3.1.2). Where the circumstances of the case form multiple conducts, they are to be considered a plurality of
+      actions and handled in line with Chapter 3.2.
+
+      3.1.1 - Concurrence of Offences
+30.   The principle of concurrence of offences (also referred to as “apparent concurrence” 6 or “false concurrence”)
+      applies wherever the application of one provision precludes or subsumes the applicability of the other. In
+      other words, concurrence occurs already on the abstract level of statutory provisions. This could either be
+      on grounds of the principle of specialty 7 , subsidiarity or consumption, which often apply where provisions
+      protect the same legal interest. In such cases, it would be unlawful to sanction the offender for the same
+      wrongdoing twice 8 .
+
+31.   In such a case of concurrence of offences, the amount of the fine should be calculated only on the basis of
+      the infringement selected according to above rules (superseding infringement)” 9 .
 
-
-
-                                                                    Pluralidade de ações
-                                                           Coimas calculadas em separado numa
-                                                              ou em mais decisões para cada
-                                                             conduta, sob reserva dos limites
-                                                                máximos legais individuais.
-
-
-
-
-              Dá origem a uma infração                Dá origem a mais do que uma infração
-
-
-
-
-                Ausência de concurso
-              É aplicada uma coima para
-              uma infração, sob reserva
-                do limite máximo legal
-                    dessa infração.
-
-                                                      As infrações são aplicáveis em paralelo
-      As infrações excluem-se mutuamente                          (capítulo 3.1.2)
-                 (capítulo 3.1.1)
-
-
-
-
-                                                                  Unidade de ação
-                   Concurso de leis
-                                                               /unidade de tratamento
-           Apenas uma infração é aplicada à
-                                                     A coima é calculada tendo em conta todas as
-             conduta e a coima é calculada
-                                                     infrações aplicáveis, mas o seu limite máximo
-             com base nessa infração e sob
-                                                        legal é limitado pela infração mais grave
-            reserva do limite máximo legal.
-                                                              (artigo 83.º, n.º 3, do RGPD).
-
-
-
-
-                                                                                                     11
-Adotadas
-
-      3.1 – Uma conduta passível de sanção
-25.   Como primeiro passo, é essencial determinar se existe uma mesma conduta («idem») ou se existem várias
-      condutas passíveis de sanção, a fim de identificar o comportamento a que a coima deve ser aplicada. Por
-      conseguinte, é importante compreender que circunstâncias são consideradas uma mesma conduta, por
-      oposição a várias condutas. O comportamento passível de sanção tem de ser avaliado e identificado numa
-      base casuística. Por exemplo, num determinado caso, «[…]as mesmas operações de tratamento ou […]
-      operações ligadas entre si» podem constituir uma mesma conduta.
-
-26.   A expressão «operação de tratamento» consta do artigo 4.º, n.º 2, do RGPD, em que «tratamento» é definido
-      como «uma operação ou um conjunto de operações efetuadas sobre dados pessoais ou sobre conjuntos de
-      dados pessoais, por meios automatizados ou não automatizados, tais como a recolha, o registo, a
-      organização, a estruturação, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização,
-      a divulgação por transmissão, difusão ou qualquer outra forma de disponibilização, a comparação ou
-      interconexão, a limitação, o apagamento ou a destruição».
-
-27.   Ao avaliar «[…]as mesmas operações de tratamento ou […] operações ligadas entre si», há que ter presente
-      que a autoridade de controlo pode ter em conta, na sua avaliação das infrações, todas as obrigações
-      juridicamente necessárias para que as operações de tratamento sejam realizadas de forma lícita, incluindo,
-      por exemplo, obrigações de transparência (por exemplo, artigo 13.º do RGPD). O mesmo é sublinhado pela
-      expressão «no âmbito das mesmas operações de tratamento ou de operações ligadas entre si», que indica
-      que o âmbito de aplicação desta disposição inclui qualquer infração que diga respeito e possa ter impacto
-      nas mesmas operações de tratamento ou em operações ligadas entre si.
-
-28.   A expressão «ligadas entre si» refere-se ao princípio de que uma conduta unitária poderá consistir em várias
-      partes que são realizadas por uma vontade unitária e que estão relacionadas contextual (em especial, no que
-      diz respeito à identidade em termos de titular dos dados, finalidade e natureza), espacial e temporalmente
-      de uma forma tão estreita que, de um ponto de vista objetivo, seriam consideradas uma conduta coerente.
-      Não deve ser facilmente assumida uma ligação suficiente, para que a autoridade de controlo possa evitar a
-      violação dos princípios da dissuasão e da aplicação efetiva do direito europeu. Por conseguinte, estes aspetos
-      das relações para uma ligação suficiente devem ser avaliados caso a caso.
-
-       Exemplo 1a – As mesmas operações de tratamento ou operações ligadas entre si
-       Uma instituição financeira solicita a análise de um crédito a uma agência de informação de crédito. A
-       instituição financeira recebe estas informações e armazena-as no seu sistema.
-
-       Embora a recolha e o armazenamento dos dados relativos à capacidade de endividamento pela instituição
-       financeira sejam, por si só, operações de tratamento, constituem um conjunto de operações de tratamento
-       que são realizadas por uma vontade unitária e estão relacionadas contextual, espacial e temporalmente
-       de forma tão estreita que, de um ponto de vista objetivo, seriam consideradas uma conduta coerente. Por
-       conseguinte, as operações de tratamento efetuadas pela instituição financeira devem ser consideradas
-       como estando «ligadas entre si» e constituem a mesma conduta.
-
-       Exemplo 1b – As mesmas operações de tratamento ou operações ligadas entre si
-       Um corretor de dados decide implementar uma nova atividade de tratamento do seguinte modo: decide
-       recolher — na qualidade de terceiro — o historial das transações de consumo de dezenas de retalhistas
-       sem base jurídica, a fim de realizar análises psicométricas para prever o comportamento futuro dos
-       indivíduos, incluindo o comportamento de voto político, a vontade de abandonar o emprego, etc. Na
-
-
-
-                                                                                                                 12
-      Adotadas
-
-          mesma decisão, o corretor de dados decide não incluir este procedimento nos registos das atividades de
-          tratamento, não informar os titulares dos dados e ignorar quaisquer pedidos de acesso dos titulares de
-          dados relacionados com as novas operações de tratamento. As operações de tratamento envolvidas nesta
-          atividade de tratamento constituem um conjunto de operações de tratamento que são realizadas por uma
-          vontade unitária e estão relacionadas contextual, espacial e temporalmente. Devem ser consideradas
-          como estando «ligadas entre si» e como constituindo a mesma conduta. Tal inclui também a não inscrição
-          da atividade de tratamento nos registos, a ausência de informação dos titulares dos dados e o não
-          estabelecimento de procedimentos para a aplicação do direito de acesso no que diz respeito às novas
-          operações de tratamento. Estas obrigações foram infringidas relativamente a operações de tratamento
-          ligadas entre si.
-
-          Exemplo 1c – Operações de tratamento que não são as mesmas ou operações não ligadas entre si
-          i) Uma autoridade em matéria de construção realiza uma verificação de antecedentes de um candidato a
-          emprego. A verificação de antecedentes inclui igualmente a afinidade política, a filiação sindical e a
-          orientação sexual. ii) Cinco dias mais tarde, a autoridade em matéria de construção exige aos seus
-          fornecedores (comerciantes individuais) uma divulgação excessiva dos seus negócios com outras
-          entidades, independentemente de qualquer relevância para o contrato ou para as obrigações de
-          conformidade da autoridade em matéria de construção. iii) Outra semana mais tarde, a autoridade em
-          matéria de construção sofre uma violação de dados pessoais. A rede da autoridade em matéria de
-          construção é pirateada — apesar de terem sido adotadas medidas técnicas e organizativas adequadas —
-          e o pirata informático tem acesso a um sistema de tratamento de dados pessoais dos cidadãos que
-          apresentaram pedidos à autoridade em matéria de construção. Apesar de os dados terem sido
-          devidamente encriptados em conformidade com as normas aplicáveis, o pirata informático consegue
-          desencriptá-los com tecnologia de decifragem militar e vende os dados na Internet obscura. A autoridade
-          em matéria de construção abstém-se de notificar a autoridade de controlo, apesar de estar obrigada a
-          fazê-lo. As operações de tratamento em causa neste caso, ou seja, a verificação de antecedentes, as
-          exigências de divulgação por parte dos fornecedores e a não notificação de uma violação de dados
-          pessoais, não estão contextualmente relacionadas. Por conseguinte, não devem ser consideradas «ligadas
-          entre si», constituindo antes condutas diferentes.
-
-29.   Quando se provar que as circunstâncias do caso concreto constituem uma mesma conduta e dão origem a
-      uma infração única, a coima pode ser calculada com base nessa infração e no seu limite máximo legal. Porém,
-      se as circunstâncias do caso constituírem uma mesma conduta, mas essa conduta der origem não só a uma,
-      mas a várias infrações, há que determinar se a imputação de uma infração exclui a imputação de outra
-      infração (capítulo 3.1.1) ou se as infrações podem ser imputadas em paralelo (capítulo 3.1.2). Se as
-      circunstâncias do caso constituírem várias condutas, estas devem ser consideradas uma pluralidade de ações
-      e tratadas em conformidade com o capítulo 3.2.
-
-      3.1.1 – Concurso de infrações
-30.   O princípio do concurso de infrações (também designado por «concurso aparente» 6 ou «falso concurso») é
-      válido sempre que a aplicação de uma disposição exclua ou implique a aplicabilidade da outra. Por outras
-      palavras, já se verifica concurso no plano abstrato das disposições legais, com base nos princípios da
 
 
       6
-       Ver, por exemplo, o acórdão do Verwaltungsgerichtshof (Supremo Tribunal Administrativo) austríaco 2018/02/0123,
-      n.º 9.
-
-
-
-
-                                                                                                                    13
-      Adotadas
-
-      especialidade 7, da subsidiariedade ou da consunção, que muitas vezes se aplicam quando as disposições
-      protegem o mesmo interesse jurídico. Nesses casos, seria ilegal punir duas vezes o infrator pela mesma
-      infração 8.
-
-31.   Em caso de concurso de infrações, o montante da coima deve ser calculado apenas com base na infração
-      selecionada de acordo com as regras acima referidas (infração que prevalece) 9.
-
-
-      Princípio da especialidade 10
-
-32.   O princípio da especialidade (specialia generalibus derogant) é um princípio jurídico que significa que uma
-      disposição mais específica (derivada do mesmo ato jurídico ou de atos jurídicos diferentes com o mesmo
-      valor) se sobrepõe a uma disposição mais geral, embora ambas persigam o mesmo objetivo. A infração mais
-      específica é, por vezes, considerada um «tipo qualificado» em relação à infração menos específica. O tipo
-      qualificado de infração pode estar sujeito a um nível de coima mais elevado, a um limite máximo legal mais
-      elevado ou a um prazo de prescrição mais alargado.
-
-33.   No entanto, por vezes por via interpretativa, a especialidade também pode aplicar-se quando, por razões de
-      natureza e de sistemática, uma infração é considerada uma qualificação de uma infração aparentemente
-      mais específica, embora a sua redação, por si só, não mencione explicitamente um elemento adicional.
-
-34.   Quando, em vez disso, duas disposições perseguem objetivos autónomos, tal constitui um fator de
-      diferenciação que justifica a aplicação de coimas distintas. Por exemplo, se a violação de uma disposição
-      resultar automaticamente na violação da outra, mas o inverso não for verdade, essas violações perseguem
-      objetivos autónomos.
-
-35.   Estes princípios da especialidade só podem ser aplicados se e na medida em que os objetivos perseguidos
-      pelas infrações em causa sejam efetivamente congruentes no caso concreto. Uma vez que os princípios de
-      proteção de dados previstos no artigo 5.º do RGPD são definidos como conceitos gerais, podem existir
-      situações em que outras disposições constituam uma concretização de tal princípio, mas não circunscrevam
-      o princípio na sua totalidade. Por outras palavras, uma disposição nem sempre define todo o âmbito de
-      aplicação do princípio 11. Por conseguinte, dependendo das circunstâncias 12, em alguns casos, sobrepõem-se
-      de forma congruente e uma infração pode suplantar a outra, ao passo que, noutros casos, a sobreposição é
-      apenas parcial e, por conseguinte, não é totalmente congruente. Na medida em que não sejam congruentes,
-      não se verifica a existência de concurso de infrações. Em vez disso, podem ser aplicadas em paralelo no
-      cálculo da coima.
-
-
-
-
+        See, for example, Austrian Verwaltungsgerichtshof, Ra 2018/02/0123, paragraph 9.
       7
-        Conforme avaliado no processo C-10/18 P, Marine Harvest/Comissão.
-      8
-        Ver, por exemplo, o acórdão do Verwaltungsgerichtshof (Supremo Tribunal Administrativo) austríaco 2018/02/0123,
-      n.º 7.
-      9
-        Conforme avaliado no processo C-10/18 P, Marine Harvest/Comissão.
-      10
-         Conforme avaliado no processo C-10/18 P, Marine Harvest/Comissão.
-      11
-         Decisão vinculativa 1/2021 do CEPD sobre o litígio decorrente do projeto de decisão da autoridade de controlo
-      irlandesa relativo à WhatsApp Ireland, nos termos do artigo 65.º, n.º 1, alínea a), do RGPD (a seguir designada por
-      «Decisão vinculativa 1/2021 do CEPD), ponto 192.
-      12
-         Decisão vinculativa 1/2021 do CEPD, ponto 193.
+        As assessed in case C-10/18 P, Marine Harvest v. Commission.
+      8 See, for example, Austrian Verwaltungsgerichtshof, Ra 2018/02/0123, paragraph 7.
+      9 As assessed in case C-10/18 P, Marine Harvest v. Commission.
 
 
 
 
-                                                                                                                       14
-      Adotadas
+                                                                                                                       13
+      Adopted
 
-      Princípio da subsidiariedade
+      Principle of specialty 10
 
-36.   Outra forma de concurso de infrações é frequentemente referida como o princípio da subsidiariedade.
-      Aplica-se quando uma infração é considerada subsidiária em relação a outra infração. Tal pode dever-se quer
-      ao facto de a lei declarar formalmente a subsidiariedade, quer ao facto de a subsidiariedade ser concretizada
-      por razões materiais 13. Esta última situação pode constatar-se quando as infrações têm o mesmo objetivo,
-      mas uma delas contém uma acusação menor de imoralidade ou irregularidade (por exemplo, uma
-      contraordenação pode ser subsidiária à infração penal, etc.).
+32.   The principle of specialty (specialia generalibus derogant) is a legal principle that means that more specific
+      provision (derived from the same legal act or different legal acts of the same force) supersedes a more
+      general provision, although both pursue the same objective. The more specific infringement then is
+      sometimes considered a “qualified type” to the less specific one. Qualified type of infringement might be
+      subject to a higher tier of fine, higher legal maximum or more extensive period of limitation.
+
+33.   However, sometimes by way of interpretation, specialty can also apply, where for reasons of nature and
+      systematics one infringement is considered a qualification of an apparently more specific one, although its
+      wording alone does not explicitly name an additional element.
+
+34.   Where instead two provisions pursue autonomous objectives, this constitutes a differentiating factor that
+      justifies the imposition of separate fines. For example, if an infringement of one provision automatically
+      results in an infringement of the other, but the converse is not true, these infringements pursue autonomous
+      objectives.
+
+35.   These principles of specialty can only apply, if and as far as the objectives pursued by the concerned
+      infringements are actually congruent in the individual case. As the data protection principles in Article 5 GDPR
+      are established as overarching concepts, there can be situations where other provisions are a concretisation
+      of such principle, but not circumscribing the principle in its entirety. In other words, a provision does not
+      always define the full scope of the principle. 11 Therefore, depending on the circumstances, 12 in some cases,
+      they overlap in a congruent way and one infringement might supersede the other, while in other cases, the
+      overlap is only partial and therefore not fully congruent. As far as they are not congruent, there is no
+      concurrence of offences. Instead, they can be applied alongside each other, when calculating the fine.
+
+      Principle of subsidiarity
+
+36.   Another form of concurrence of offences is often referred to as the principle of subsidiarity. It applies were
+      one infringement is considered subsidiary to another infringement. This could be either because the law
+      formally declares subsidiarity or because subsidiarity is given for material reasons. 13 The latter can be the
+      case where the infringements have the same objective, but one contains a lesser accusation of immorality or
+      wrongdoing (e.g. an administrative offence can be subsidiary to criminal offence, etc.).
 
 
-      Princípio da consunção
 
-37.   O princípio da consunção aplica-se nos casos em que a violação de uma disposição conduz regularmente à
-      violação de outra, muitas vezes porque uma violação constitui uma fase preliminar da outra.
+      10 As assessed in case C-10/18 P, Marine Harvest v. Commission.
+      11 EDPB Binding Decision 1/2021 on the dispute arisen on the draft decision of the Irish Supervisory Authority
+      regarding WhatsApp Ireland under Article 65(1)(a) GDPR (hereinafter referred to as “EDPB Binding Decision 1/2021”),
+      paragraph 192.
+      12 EDPB Binding Decision 1/2021, paragraph 193.
+      13 The idea of a formal subsidiarity indirectly is also entailed in Article 35(2) of Directive (EU) 2022/2555 of the European
 
-
-      3.1.2 – Unidade de ação (artigo 83.º, n.º 3, do RGPD)
-38.   À semelhança da situação de concurso de infrações, o princípio da unidade de ação (também designado por
-      «concurso ideal») aplica-se nos casos em que um comportamento é abrangido por várias disposições legais,
-      com a diferença de que uma disposição não é excluída nem implicada pela aplicabilidade da outra, uma vez
-      que não são abrangidas pelo âmbito de aplicação dos princípios da especialidade, da subsidiariedade ou da
-      consunção e perseguem essencialmente objetivos diferentes.
-
-39.   O princípio da unidade de ação foi especificado mais pormenorizadamente a nível do direito derivado no
-      artigo 83.º, n.º 3, do RGPD, sob a forma de uma «unidade de tratamento». É importante compreender que
-      o artigo 83.º, n.º 3, do RGPD é limitado na sua aplicação e não se aplicará a todos os casos em que se verifique
-      terem ocorrido múltiplas infrações, mas apenas aos casos em que tenham ocorrido múltiplas infrações
-      resultantes «das mesmas operações de tratamento ou de operações ligadas entre si», conforme explicado
-      supra 14. Nesses casos, o montante total da coima não pode exceder o montante especificado para a infração
-      mais grave 15.
+      Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the
+      Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148
+      (“NIS 2 Directive”), although the conflict is solved on a procedural rather than material level. The provision regulates
+      that “where the supervisory authorities as referred to in Article 55 or 56 of Regulation (EU) 2016/679 impose an
+      administrative fine pursuant to Art. 58(2)(i) GDPR, the competent authorities shall not impose an administrative fine
+      pursuant to Article 34 NIS 2 Directive for an infringement referred to in Article 35(1) NIS 2 Directive arising from the
+      same conduct as that which was the subject of the administrative fine under Article 58(2)(i) GDPR.” Insofar as the
+      infringement referred to in Article 35(1) NIS 2 Directive is indirectly considered subsidiary to a fine based on GDPR where
+      this concerns the same conduct.
 
 
+                                                                                                                               14
+      Adopted
+
+      Principle of consumption
+
+37.   The principle of consumption applies in cases where the infringement of one provision regularly leads to the
+      infringement of the other, often because one infringement is a preliminary step to the other.
 
 
-      13
-         O conceito de uma subsidiariedade formal está também indiretamente previsto no artigo 35.º, n.º 2, da Diretiva (UE)
-      2022/2555 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, relativa a medidas destinadas a garantir
-      um elevado nível comum de cibersegurança na União que altera o Regulamento (UE) n.º 910/2014 e a Diretiva (UE)
-      2018/1972 e revoga a Diretiva (UE) 2016/1148 (Diretiva SRI 2), embora o conflito seja resolvido a um nível processual e
-      não material. A disposição regulamenta que «[s]e as autoridades de controlo a que se refere o artigo 55.º ou 56.º do
-      Regulamento (UE) 2016/679 aplicarem uma coima nos termos do artigo 58.º, n.º 2, alínea i), desse regulamento, as
-      autoridades competentes não aplicam uma coima nos termos do artigo 34.º da [Diretiva SRI 2] por uma infração prevista
-      no [artigo 35.º, n.º 1, da Diretiva SRI 2] que resulte do mesmo comportamento que foi objeto da coima nos termos do
-      artigo 58.º, n.º 2, alínea i), do [RGPD]». Na medida em que a infração a que se refere o artigo 35.º, n.º 1, da Diretiva
-      SRI 2 seja indiretamente considerada subsidiária a uma coima baseada no RGPD, quando estiver em causa o mesmo
-      comportamento.
+      3.1.2 - Unity of action - Article 83(3) GDPR
+38.   Similar to the situation of concurrence of offences the principle of unity of action (also referred to as “ideal
+      concurrence”) applies in cases where one conduct is caught by several statutory provisions, with the
+      difference that one provision is neither precluded nor subsumed by the applicability of the other, because
+      they do not fall in scope of the principles of specialty, subsidiarity or consumption and mostly pursue different
+      objectives.
+
+39.   The principle of unity of action was further specified on the level of secondary law in Article 83(3) GDPR in
+      form of a “unity of processing”. It is important to understand that Article 83(3) GDPR is limited in its
+      application and will not apply to every single case in which multiple infringements are found to have occurred,
+      but only to those cases where multiple infringements have arisen from “the same or linked processing
+      operations” as explained above. 14 In these cases, the total amount of the administrative fine shall not exceed
+      the amount specified for the gravest infringement 15 .
+
+40.   In some special cases, a unity of action might also be assumed, where a single action infringes the same
+      statutory provision several times. This could be particularly the case, where circumstances form an iterative
+      and congeneric infringement of the same statutory provision in a close spatial and temporal succession.
+
+      Example 2 – Unity of action
+      A controller sends bundles of marketing e-mails to groups of data subjects in different waves during the course
+      of one day without having a legal ground and thereby infringes Article 6(1) GDPR with one unity of action
+      several times.
+
+41.   The wording in Article 83(3) GDPR does not seem to directly cover this latter case of a unity of action, since
+      “several provisions” are not infringed. However, it would constitute unequal and unfair treatment, if an
+      offender that by one action infringes different provisions that pursue different objectives would be privileged
+      against an offender that infringes with the same action the same provision that pursues the same objective
+      multiple times. To avoid inconsistency of legal principle and in order to comply with the fundamental right
+      to equal treatment in the Charter, in such cases, Article 83(3) GDPR shall be applied mutatis mutandis.
+
+42.   In case of a unity of action the total amount of the administrative fine shall not exceed the amount specified
+      for the gravest infringement. “As regards the interpretation of Article 83(3) GDPR, the EDPB points out that
+      the effet utile principle requires all institutions to give full force and effect to EU law” 16 . In this regard, Article
+
+
+
+
       14
-         Decisão vinculativa 1/2021 do CEPD, ponto 320.
+         EDPB Binding Decision 1/2021, paragraph 320.
       15
-         O artigo 83.º, n.º 3, do RGPD dispõe que: «Se o responsável pelo tratamento ou o subcontratante violar,
-      intencionalmente ou por negligência, no âmbito das mesmas operações de tratamento ou de operações ligadas entre
-      si, várias disposições do presente regulamento, o montante total da coima não pode exceder o montante especificado
-      para a violação mais grave».
+         Article 83(3) GDPR states in full: “If a controller or processor intentionally or negligently, for the same or linked
+      processing operations, infringes several provisions of this Regulation, the total amount of the administrative fine shall
+      not exceed the amount specified for the gravest infringement.”
+      16 EDPB Binding Decision 1/2021, paragraph 322.
 
 
-                                                                                                                           15
-      Adotadas
-
-40.   Em alguns casos especiais, também se pode presumir uma unidade de ação, quando uma única ação viola
-      várias vezes a mesma disposição legal. Tal pode acontecer, em especial, quando as circunstâncias constituem
-      uma violação iterativa e congénere da mesma disposição legal numa sucessão espacial e temporal estreita.
-
-      Exemplo 2 – Unidade de ação
-      Um responsável pelo tratamento envia conjuntos de mensagens eletrónicas de publicidade a grupos de
-      titulares de dados, em diferentes vagas ao longo de um dia, sem ter fundamento jurídico, violando, por
-      conseguinte, o artigo 6.º, n.º 1, do RGPD, várias vezes, com uma unidade de ação.
-
-41.   A redação do artigo 83.º, n.º 3, do RGPD não parece abranger diretamente este último caso de unidade de
-      ação, uma vez que não são violadas «várias disposições». No entanto, constituiria um tratamento desigual e
-      injusto se um infrator que, através de uma ação, viola disposições diferentes que perseguem objetivos
-      diferentes fosse privilegiado face a um infrator que viola várias vezes com a mesma ação a mesma disposição
-      que persegue o mesmo objetivo. A fim de evitar a incoerência do princípio jurídico e respeitar o direito
-      fundamental à igualdade de tratamento consagrado na Carta, nesses casos, o artigo 83.º, n.º 3, do RGPD
-      deve ser aplicado mutatis mutandis.
-
-42.   Em caso de unidade de ação, o montante total da coima não pode exceder o montante especificado para a
-      infração mais grave. «No que se refere à interpretação do artigo 83.º, n.º 3, do RGPD, o CEPD menciona que
-      o princípio do efeito útil exige que todas as instituições confiram plena vigência e eficácia ao direito da UE» 16.
-      A este respeito, o artigo 83.º, n.º 3, do RGPD não deve ser interpretado de tal forma que «não importaria
-      que um responsável pelo tratamento cometesse uma ou várias infrações ao RGPD, uma vez que apenas uma
-      única infração, a mais grave, seria tida em conta na avaliação da coima» 17.
-
-43.   A expressão «montante total» implica que todas as infrações cometidas devem ser tidas em conta na
-      avaliação do montante da coima 18, e a expressão «montante especificado para a violação mais grave» refere-
-      se aos limites máximos legais das coimas (por exemplo, artigo 83.º, n.os 4 a 6, do RGPD). Por conseguinte,
-      «[e]mbora a coima em si mesma não possa exceder o limite máximo legal do nível de coimas mais elevado,
-      o autor da infração continua a ser expressamente considerado culpado de ter infringido várias disposições e
-      estas infrações têm de ser tidas em conta na avaliação do montante da coima final a aplicar» 19. Embora tal
-      não prejudique o dever de a autoridade de controlo que aplica a coima ter em conta a necessidade de a
-      coima ser proporcionada, as outras infrações cometidas não podem ser descartadas, devendo antes ser tidas
-      em conta no cálculo da coima.
 
 
-      3.2 – Várias condutas passíveis de sanção
+                                                                                                                            15
+      Adopted
 
-44.   O princípio da pluralidade de ações (também referido como «Realkonkurrenz», «concurso factual» ou
-      «concurso coincidente») descreve todos os casos não abrangidos pelos princípios do concurso de infrações
-      (capítulo 3.1.1) ou pelo artigo 83.º, n.º 3, do RGPD (capítulo 3.1.2).
+      83(3) GDPR must not be interpreted in a manner where “it would not matter if an offender committed one
+      or numerous infringements of the GDPR when assessing the fine” 17 .
 
-45.   A única razão para que estas infrações sejam tratadas numa única decisão é o facto de terem chegado
-      coincidentemente ao conhecimento da autoridade de controlo ao mesmo tempo, sem serem as mesmas
-      operações de tratamento ou as operações ligadas entre si na aceção do artigo 83.º, n.º 3, do RGPD. Por
+43.   The term “total amount” implies that all the infringements committed have to be taken into account when
+      assessing the amount of the fine, 18 and the wording “amount specified for the gravest infringement” refers
+      to the legal maximums of fines (e.g. Articles 83(4)–(6) GDPR). Therefore, “although the fine itself may not
+      exceed the legal maximum of the highest fining tier, the offender shall still be explicitly found guilty of having
+      infringed several provisions and these infringements have to be taken into account when assessing the
+      amount of the final fine that is to be imposed” 19 . While this is without prejudice to the duty for the
+      supervisory authority imposing the fine to take into account the need for the fine to be proportionate, the
+      other infringements committed cannot be discarded and instead have to be taken into account when
+      calculating the fine.
 
-      16
-         Decisão vinculativa 1/2021 do CEPD, ponto 322.
+      3.2 - Multiple sanctionable conducts
+
+44.   The principle of plurality of actions (also referred to as “Realkonkurrenz”, “factual concurrence” or
+      “coincidental concurrence”) describes all cases not caught by the principles of concurrence of offences
+      (Chapter 3.1.1) or Article 83(3) GDPR (Chapter 3.1.2).
+
+45.   The only reason that these infringements are handled in one decision is by having coincidentally come to the
+      attention of the supervisory authority at the same time without being the same or linked processing
+      operations in the meaning of Article 83(3) GDPR. Therefore, the offender is found to have infringed several
+      statutory provisions and separate fines are imposed according to the national procedure either in the same
+      fining decision or separate fining decisions. Moreover, since Article 83(3) GDPR does not apply, the total
+      amount of the administrative fine may exceed the amount specified for the gravest infringement
+      (argumentum e contrario). Cases of plurality of actions do not pose any reason to privilege the offender with
+      regard to the fining calculation. However, this is without prejudice to the obligation to still comply with the
+      general principle of proportionality.
+
+       Example 3 – Plurality of action
+       After conducting a data protection inspection at the premises of a controller, the supervisory authority finds
+       that the controller failed to establish a procedure for review and continued improvement of its website
+       security, to provide Article 13 information to employees regarding HR data processing and to inform the
+       supervisory authority of a recent data breach regarding its vendor data. None of the infringements is
+       precluded or subsumed by way of specialty, subsidiarity or consumption. Also, they do not qualify as the
+       same processing operation or linked processing operations: they do not form a unity of action, but a
+       plurality of actions. The supervisory authority therefore will find the controller to have infringed by different
+       conducts Articles 13, 32, and 33 GDPR. It will impose in its fining decision individual fines for each, without
+       there being a single legal maximum applicable to their sum.
+
+
+
+
       17
-         Ibid., ponto 323.
+         Ibid, paragraph 323.
       18
-         Ibid., ponto 325.
-      19
-         Ibid., ponto 326.
+         Ibid, paragraph 325.
+      19 Ibid, paragraph 326.
+
+
 
 
                                                                                                                       16
-      Adotadas
+      Adopted
 
-      conseguinte, considera-se que o autor da infração violou várias disposições legais e são aplicadas coimas
-      distintas de acordo com o procedimento nacional, quer na mesma decisão de aplicação de coimas, quer em
-      decisões de aplicação de coimas distintas. Além disso, uma vez que o artigo 83.º, n.º 3, do RGPD não é
-      aplicável, o montante total da coima pode exceder o montante especificado para a violação mais grave
-      (argumentum e contrario). Os casos de pluralidade de ações não constituem motivo para privilegiar o autor
-      da infração no que diz respeito ao cálculo das coimas. No entanto, tal não prejudica a obrigação de continuar
-      a respeitar o princípio geral da proporcionalidade.
+      CHAPTER 4 – STARTING POINT FOR CALCULATION
+46.   The EDPB considers that the calculation of administrative fines should commence from a harmonised starting
+      point 20 . This starting point forms the beginning for further calculation, in which all circumstances of the case
+      are taken into account and weighted, resulting in the final amount of the fine to be imposed upon the
+      controller or processor.
 
-       Exemplo 3 – Pluralidade de ações
-       Após a realização de uma inspeção em matéria de proteção de dados nas instalações de um responsável
-       pelo tratamento, a autoridade de controlo considera que o responsável pelo tratamento não estabeleceu
-       um procedimento de revisão e melhoria contínua da segurança do seu sítio Web, não forneceu informações
-       aos funcionários sobre o tratamento de dados de RH ao abrigo do artigo 13.º, nem informou a autoridade
-       de controlo de uma violação de dados recente no que respeita aos dados dos seus fornecedores. Nenhuma
-       das infrações é excluída ou implicada a título de especialidade, subsidiariedade ou consunção. Além disso,
-       não podem ser consideradas as mesmas operações de tratamento ou operações ligadas entre si: não
-       constituem uma unidade de ação, mas sim uma pluralidade de ações. Por conseguinte, a autoridade de
-       controlo considerará que o responsável pelo tratamento infringiu, por diferentes condutas, os artigos 13.º,
-       32.º e 33.º do RGPD. Na sua decisão de aplicação de coimas, aplicará coimas individuais para cada uma
-       das infrações, sem que exista um único limite máximo legal aplicável ao seu montante.
+47.   The identification of harmonised starting points in these Guidelines does not and should not preclude
+      supervisory authorities from assessing each case on its merits. The fine imposed upon a controller/processor
+      can range from any amount until the legal maximum of the fine, provided that this fine is effective, dissuasive
+      and proportionate. The existence of a starting point does not prevent the supervisory authority from lowering
+      or increasing the fine (up to its maximum) if the circumstances of the case so require.
+
+48.   The EDPB considers three elements to form the starting point for further calculation: the categorisation of
+      infringements by nature under Articles 83(4)–(6) GDPR, the seriousness of the infringement (as discussed in
+      section 4.2 below) and the turnover of the undertaking as one relevant element to take into consideration
+      with a view to imposing an effective, dissuasive and proportionate fine, pursuant to Article 83(1) GDPR. These
+      are outlined in Chapter 4.1, 4.2 and 4.3 below.
 
 
+      4.1 - Categorisation of infringements under Articles 83(4)–(6) GDPR
+49.   Almost all of the obligations of the controllers and processors according to the Regulation are categorised
+      according to their nature in the provisions of Article 83(4)–(6) GDPR. 21 The GDPR provides for two categories
+      of infringements: infringements punishable under Article 83(4) GDPR on the one hand, and infringements
+      punishable under Article 83(5) and (6) GDPR on the other. The first category of infringements is punishable
+      by a fine maximum of €10 million or 2% of the undertaking’s annual turnover, whichever is higher, whereas
+      the second is punishable by a fine maximum of €20 million or 4% of the undertaking’s annual turnover,
+      whichever is higher.
 
+50.   With this distinction, the legislator provided a first indication of the seriousness of the infringement in an
+      abstract sense. The more serious the infringement, the higher the fine is likely to be.
 
-      CAPÍTULO 4 – PONTO DE PARTIDA PARA O CÁLCULO
-46.   O CEPD considera que o cálculo das coimas deve começar a partir de um ponto de partida harmonizado 20.
-      Este ponto de partida constitui o início do cálculo ulterior, no qual todas as circunstâncias do caso são tidas
-      em conta e ponderadas, resultando no montante final da coima a aplicar ao responsável pelo tratamento ou
-      ao subcontratante.
-
-47.   A identificação de pontos de partida harmonizados nas presentes diretrizes não impede nem deve impedir
-      as autoridades de controlo de avaliarem cada caso quanto ao mérito. A coima aplicada a um responsável
-      pelo tratamento/subcontratante pode variar entre qualquer montante e o limite máximo legal da coima,
-      desde que esta seja efetiva, dissuasiva e proporcionada. A existência de um ponto de partida não impede a
-      autoridade de controlo de reduzir ou aumentar a coima (até ao limite máximo) se as circunstâncias do caso
-      o exigirem.
-
-48.   O CEPD considera que três elementos constituem o ponto de partida para o cálculo ulterior: a categorização
-      das infrações por natureza nos termos do artigo 83.º, n.os 4 a 6, do RGPD, a gravidade da infração (como
-      referido na secção 4.2 infra) e o volume de negócios da empresa como um elemento pertinente a ter em
-
-
-      20
-        Contanto que as diretrizes deixem margem suficiente para adaptar uma coima às circunstâncias do caso, o Tribunal
-      de Justiça da UE (a seguir designado por «TJUE») aceita geralmente que os cálculos comecem a partir de um ponto de
-      partida abstrato. Em especial nos processos apensos C-189/02 P, C-202/02 P, C-205/02 P a C-208/02 P e C-213/02 P,
-      Dansk Rørindustri, mas também, mais recentemente, no processo T-15/02, BASF AG/Comissão, n.os 120-121 e 134, no
-      processo C-227/14 P, LG Display Co. Ltd/Comissão, n.º 53, e no processo T-26/02, Daiichi Pharmaceutical Co.
-      Ltd/Comissão, n.º 50.
+      4.2 - Seriousness of the infringement in each individual case
+51.   The GDPR requires the supervisory authority to give due regard to the nature, gravity and duration of the
+      infringement, taking into account the nature, scope or purpose of the processing concerned, as well as the
+      number of data subjects affected and the level of damage suffered by them (Article 83(2)(a) GDPR); the
+      intentional or negligent character of the infringement (Article 83(2)(b) GDPR); and the categories of personal
+      data affected by the infringement (Article 83(2)(g) GDPR). For the purposes of these Guidelines, the EDPB
+      refers to these factors as the seriousness of the infringement.
 
 
 
-
-                                                                                                                     17
-      Adotadas
-
-      conta com vista à aplicação de uma coima efetiva, dissuasiva e proporcionada, nos termos do artigo 83.º,
-      n.º 1, do RGPD. Estes elementos são descritos nos capítulos 4.1, 4.2 e 4.3 infra.
-
-
-      4.1 – Categorização das infrações nos termos do artigo 83.º, n.os 4 a 6, do RGPD
-49.   Quase todas as obrigações dos responsáveis pelo tratamento e dos subcontratantes nos termos do
-      regulamento se encontram categorizadas de acordo com a sua natureza no artigo 83.º, n.os 4 a 6, do RGPD 21.
-      O RGPD prevê duas categorias de infrações: infrações puníveis nos termos do artigo 83.º, n.º 4, do RGPD, por
-      um lado, e infrações puníveis nos termos do artigo 83.º, n.os 5 e 6, do RGPD, por outro. A primeira categoria
-      de infrações é punível com uma coima máxima de 10 milhões de EUR ou 2 % do volume de negócios anual
-      da empresa, consoante o montante que for mais elevado, ao passo que a segunda é punível com uma coima
-      máxima de 20 milhões de EUR ou 4 % do volume de negócios anual da empresa, consoante o montante que
-      for mais elevado.
-
-50.   Ao fazer esta distinção, o legislador forneceu uma primeira indicação da gravidade da infração em sentido
-      abstrato. Quanto mais grave for a infração, mais elevada será provavelmente a coima.
-
-      4.2 – Gravidade da infração em cada caso individual
-51.   O RGPD exige que a autoridade de controlo tenha em devida consideração a natureza, a gravidade e a
-      duração da infração tendo em conta a natureza, o âmbito ou o objetivo do tratamento de dados em causa,
-      bem como o número de titulares de dados afetados e o nível de danos por eles sofridos (artigo 83.º, n.º 2,
-      alínea a), do RGPD); o caráter intencional ou negligente da infração (artigo 83.º, n.º 2, alínea b), do RGPD); e
-      as categorias específicas de dados pessoais afetadas pela infração (artigo 83.º, n.º 2, alínea g), do RGPD). Para
-      efeitos das presentes diretrizes, o CEPD refere-se a estes fatores como a gravidade da infração.
-
-52.   A autoridade de controlo tem de analisar estes fatores à luz das circunstâncias do caso específico e, com base
-      nessa análise, deve chegar a uma conclusão sobre o grau de gravidade, conforme indicado no ponto 60. A
-      este respeito, a autoridade de controlo pode também considerar se os dados em questão eram diretamente
-      identificáveis. Apesar de serem discutidos individualmente nas presentes diretrizes, na realidade, estes
-      fatores estão frequentemente interligados e devem ser considerados em relação aos factos do caso no seu
-      conjunto.
-
-      4.2.1 – Natureza, gravidade e duração da infração
-53.   O artigo 83.º, n.º 2, alínea a), do RGPD tem um âmbito de aplicação amplo e exige que a autoridade de
-      controlo proceda a uma análise completa de todos os elementos que constituem a infração e que são
-      adequados para a diferenciar de outras infrações do mesmo tipo. Esta apreciação deve, por conseguinte, ter
-      em conta os seguintes fatores específicos:
-
-                 a) A natureza da infração, determinada pelas circunstâncias concretas do caso em apreço. Nesse
-                    sentido, esta análise é mais específica do que a qualificação abstrata prevista no artigo 83.º, n.os 4
-                    a 6, do RGPD. A autoridade de controlo pode analisar o interesse que a disposição violada
-                    procura proteger e o lugar dessa disposição no quadro da proteção de dados. Além disso, a
-                    autoridade de controlo pode considerar em que medida a infração impediu a aplicação efetiva
-                    da disposição e o cumprimento do objetivo que pretendia proteger.
+      20 Provided that Guidelines leave sufficient room for the tailoring of an administrative fine to the circumstances of the
+      case, the Court of Justice of the EU (hereinafter “CJEU”) generally accepts calculations to commence from an abstract
+      starting point. Particularly in joined cases C-189/02 P, C-202/02 P, C-205/02 P to C-208/02 P and C‑213/02 P, Dansk
+      Rørindustri, but also more recently in case T-15/02, BASF AG v. Commission, paragraphs. 120-121; 134, case C-227/14
+      P, LG Display Co. Ltd v. Commission, paragraph 53 and case T-26/02, Daiichi Pharmaceutical Co. Ltd v. Commission,
+      paragraph 50.
+      21 See in this respect also Guidelines WP 253, p. 9.
 
 
 
-      21
-           Ver também, a este respeito, as Diretrizes WP 253, p. 9.
+
+                                                                                                                            17
+      Adopted
+
+52.   The supervisory authority has to review these factors in the light of the circumstances of the specific case
+      and has to conclude – on the basis of this analysis – on the degree of seriousness as indicated in paragraph
+      60. In this respect, the supervisory authority may also consider whether the data in question was directly
+      identifiable. Even though they are discussed individually in these Guidelines, in reality these factors are often
+      intertwined and should be viewed in relation to the facts of the case as a whole.
+
+      4.2.1 - Nature, gravity and duration of the infringement
+53.   Article 83(2)(a) GDPR is broad in scope and requires the supervisory authority to carry out a complete
+      examination of all the elements that constitute the infringement and that are suitable to differentiate it from
+      other infringements of the same kind. This assessment should therefore consider the following specific
+      factors:
+
+              a) The nature of the infringement, assessed by the concrete circumstances of the case. In that
+                 sense, this analysis is more specific than abstract classification of Article 83(4)–(6) GDPR. The
+                 supervisory authority may review the interest that the infringed provision seeks to protect and
+                 the place of this provision in the data protection framework. In addition, the supervisory
+                 authority may consider the degree to which the infringement prohibited the effective application
+                 of the provision and the fulfilment of the objective it sought to protect.
+
+              b) The gravity of the infringement, assessed on the basis of the specific circumstances. As stated in
+                 Article 83(2)(a) GDPR, this concerns the nature of the processing, but also the “scope or purpose
+                 of the processing concerned as well as the number of data subjects affected and the level of
+                 damage suffered by them,” will be indicative of the gravity of the infringement.
+
+                        i. The nature of the processing, including the context in which the processing is
+                           functionally based (e.g. business activity, non-profit, political party, etc.) and all the
+                           characteristics of the processing. 22 When the nature of processing entails higher risks,
+                           e.g. where the purpose is to monitor, evaluate personal aspects or to take decisions or
+                           measures with negative effects for the data subjects, depending on the context of the
+                           processing and the role of the controller or processor, the supervisory authority may
+                           consider to attribute more weight to this factor. Further, a supervisory authority may
+                           attribute more weight to this factor when there is a clear imbalance between the data
+                           subjects and the controller (e.g., when the data subjects are employees, pupils or
+                           patients) or the processing involves vulnerable data subjects, in particular, children.
+
+                       ii. The scope of the processing, with reference to the local, national or cross-border scope
+                           of the processing carried out and the relationship between this information and the
+                           actual extent of the processing in terms of the allocation of resources by the data
+                           controller. This element highlights a real risk factor, linked to the greater difficulty for
+                           the data subject and the supervisory authority to curb unlawful conduct as the scope of
+                           the processing increases. The larger the scope of the processing, the more weight the
+                           supervisory authority may attribute to this factor.
+
+
+      22By way of example, when analysing the element relating to the “nature of the infringement”, the EDPB in its
+      Decision 01/2020 on the dispute arisen on the draft decision of the Irish Supervisory Authority regarding Twitter
+      International Company under Article 65(1)(a) GDPR (hereinafter referred to as “EDPB Binding Decision 01/2020”) noted
+      that the “processing concerned” involved communications by data subjects who deliberately chose to restrict the
+      audience of such communications, and recommended that this aspect be taken into account when evaluating the nature
+      of the processing. In this context see also EDPB Binding Decision 01/2020, paragraph 186.
 
 
                                                                                                                        18
-      Adotadas
-
-        b) A gravidade da infração, determinada em função das circunstâncias específicas. Conforme
-           referido no artigo 83.º, n.º 2, alínea a), do RGPD, tal diz respeito à natureza do tratamento, mas
-           também serão indicativos da gravidade da infração o «âmbito ou o objetivo do tratamento de
-           dados em causa, bem como o número de titulares de dados afetados e o nível de danos por eles
-           sofridos».
-
-                  i. A natureza do tratamento, incluindo o contexto em que o tratamento se baseia
-                     funcionalmente (por exemplo, atividade empresarial, organismo sem fins lucrativos,
-                     partido político, etc.) e todas as características do tratamento 22. Quando a natureza do
-                     tratamento implicar riscos mais elevados, por exemplo, quando a finalidade é controlar,
-                     avaliar aspetos pessoais ou tomar decisões ou medidas com efeitos negativos para os
-                     titulares dos dados, dependendo do contexto do tratamento e do papel do responsável
-                     pelo tratamento ou do subcontratante, a autoridade de controlo pode equacionar a
-                     possibilidade de atribuir mais peso a este fator. Além disso, uma autoridade de controlo
-                     pode atribuir mais peso a este fator quando existir um desequilíbrio claro entre os
-                     titulares dos dados e o responsável pelo tratamento (por exemplo, quando os titulares
-                     dos dados forem funcionários, alunos ou pacientes) ou quando o tratamento envolver
-                     titulares de dados vulneráveis, em especial crianças.
-
-                  ii. O âmbito do tratamento, com referência ao âmbito local, nacional ou transfronteiriço
-                      do tratamento efetuado e à relação entre estas informações e a extensão efetiva do
-                      tratamento em termos de afetação de recursos pelo responsável pelo tratamento. Este
-                      elemento evidencia um verdadeiro fator de risco, associado à maior dificuldade do titular
-                      dos dados e da autoridade de controlo em reprimirem a conduta ilícita, à medida que o
-                      âmbito do tratamento aumenta. Quanto maior for o âmbito do tratamento, maior será
-                      o peso que a autoridade de controlo pode atribuir a este fator.
-
-                 iii. O objetivo do tratamento levará a autoridade de controlo a atribuir mais peso a este
-                      fator. A autoridade de controlo pode igualmente ponderar se o tratamento de dados
-                      pessoais se insere nas chamadas atividades principais do responsável pelo tratamento.
-                      Quanto mais central for o tratamento em relação às atividades principais do responsável
-                      pelo tratamento ou do subcontratante, mais graves serão as irregularidades no
-                      tratamento em causa. Nestas circunstâncias, a autoridade de controlo pode atribuir mais
-                      peso a este fator. No entanto, pode haver circunstâncias em que o tratamento de dados
-                      pessoais seja afastado das atividades principais do responsável pelo tratamento ou do
-                      subcontratante, mas tenha um impacto significativo na avaliação (é o caso, por exemplo,
-                      do tratamento de dados pessoais dos trabalhadores, em que a infração afeta
-                      significativamente a dignidade desses trabalhadores).
-
-                 iv. O número de titulares de dados concretamente, mas também potencialmente,
-                     afetados. Quanto maior for o número de titulares de dados envolvidos, maior será o peso
-                     que a autoridade de controlo pode atribuir a este fator. Em muitos casos, pode também
-
-22
-  A título de exemplo, ao analisar o elemento relativo à «natureza da infração», o CEPD, na sua
-Decisão 01/2020 sobre o litígio decorrente do projeto de decisão da autoridade de controlo irlandesa relativo à Twitter
-International Company, nos termos do artigo 65.º, n.º 1, alínea a), do RGPD (a seguir designada por «Decisão vinculativa
-01/2020 do CEPD»), observou que o «tratamento em causa» envolvia comunicações de titulares de dados que
-deliberadamente optaram por restringir o público dessas comunicações, e recomendou que este aspeto fosse tido em
-conta na avaliação da natureza do tratamento. Neste contexto, ver também a Decisão vinculativa 01/2020 do CEPD,
-ponto 186.
-
-
-                                                                                                                     19
-Adotadas
-
-                              considerar-se que a infração assume conotações «sistémicas» e, por conseguinte, é
-                              suscetível de afetar, mesmo em momentos diferentes, outros titulares de dados que não
-                              tenham apresentado reclamações ou denúncias à autoridade de controlo. A autoridade
-                              de controlo pode, em função das circunstâncias do caso, considerar o rácio entre o
-                              número de titulares de dados afetados e o número total de titulares de dados nesse
-                              contexto (por exemplo, o número de cidadãos, clientes ou funcionários), a fim de
-                              determinar se a infração é de natureza sistémica.
-
-                          v. O nível de danos sofridos e a medida em que a conduta pode afetar os direitos e as
-                             liberdades individuais. A referência ao «nível» de danos sofridos destina-se, por
-                             conseguinte, a chamar a atenção das autoridades de controlo para os danos sofridos ou
-                             suscetíveis de terem sido sofridos como outro parâmetro distinto no que diz respeito ao
-                             número de titulares de dados envolvidos (por exemplo, nos casos em que o número de
-                             pessoas afetadas pelo tratamento ilícito é elevado, mas em que os danos por elas sofrido
-                             é marginal). De acordo com o considerando 75 do RGPD, o nível de danos sofridos refere-
-                             se a danos físicos, materiais ou imateriais. Em todo o caso, a apreciação dos danos deve
-                             limitar-se ao que é funcionalmente necessário para alcançar uma avaliação correta do
-                             nível de gravidade da infração, como indica o ponto 60 infra, sem sobreposição com as
-                             atividades das autoridades judiciais encarregadas de determinar as diferentes formas de
-                             danos individuais.
-
-                 c) A duração da infração, no sentido em que uma autoridade de controlo pode, em geral, atribuir
-                    mais peso a uma infração com uma duração mais longa. Quanto mais longa for a duração da
-                    infração, maior será o peso que a autoridade de controlo pode atribuir a este fator. Sob reserva
-                    do direito nacional, se uma determinada conduta for igualmente ilícita no âmbito do quadro
-                    regulamentar anterior, tanto o período posterior à data de produção de efeitos do RGPD como
-                    o período anterior podem ser tidos em conta na quantificação da coima, atendendo às condições
-                    desse quadro.
-
-54.   A autoridade de controlo pode atribuir peso aos fatores acima referidos, em função das circunstâncias do
-      caso. Se não forem de especial relevância, podem também ser considerados neutros.
-
-      4.2.2 – O caráter intencional ou negligente da infração
-55.   Nas suas diretrizes anteriores, o CEPD indicava que «[g]eralmente, a "intenção" inclui tanto conhecimento
-      como vontade, no que se refere às características da violação, ao passo que a "negligência" significa que não
-      houve intenção de provocar a infração, embora o responsável pelo tratamento/subcontratante tenha violado
-      o dever de diligência exigido por lei» 23. Neste sentido, «negligência» não equivale a involuntário.
-
-       Exemplo 4 – Ilustrações do caráter intencional ou negligente (WP 253) 24
-       Circunstâncias reveladoras de violações intencionais podem ser o tratamento ilícito explicitamente
-       autorizado pelos quadros superiores do responsável pelo tratamento, ou o tratamento que ignore
-       aconselhamento do encarregado da proteção de dados ou as políticas existentes, como, por exemplo, a
-       obtenção e tratamento de dados sobre funcionários de um concorrente com a intenção de desacreditar esse
-       concorrente no mercado. Outros exemplos são:
-
-
-
-
-      23
-           Ver Diretrizes WP 253, p. 11.
-      24
-           Exemplos citados diretamente das Diretrizes WP 253, p. 12.
-
-
-                                                                                                                  20
-      Adotadas
-
-       -   a alteração de dados pessoais para fazer passar uma impressão enganadora (positiva) relativamente à
-           consecução de metas – o que já aconteceu no contexto de metas relativas aos tempos de espera
-           hospitalares
-       -   a venda de dados pessoais para fins de comercialização, ou seja, a sua venda como se o titular tivesse
-           dado o seu consentimento, sem verificar ou simplesmente desrespeitando a opinião dos titulares dos
-           dados quanto à forma como os mesmos devem ser utilizados.
-
-       Outras circunstâncias, como a ausência de leitura e o desrespeito por políticas em vigor, erro humano,
-       ausência de verificação da existência de dados pessoais em informações publicadas, ausência de aplicação
-       tempestiva de atualizações técnicas, ausência de adoção de políticas (mais do que a mera ausência de
-       aplicação das mesmas) podem igualmente ser reveladoras de negligência.
-
-56.   O caráter intencional ou negligente da infração (artigo 83.º, n.º 2, alínea b), do RGPD) deve ser avaliado tendo
-      em conta os elementos de conduta objetivos determinados a partir dos factos do caso. O CEPD salientou que
-      é geralmente reconhecido que as violações intencionais, «que revelam incumprimento da lei, são mais graves
-      do que as negligentes» 25. Em caso de violação intencional, é provável que a autoridade de controlo atribua
-      mais peso a este fator. Em função das circunstâncias do caso, a autoridade de controlo pode igualmente
-      atribuir peso ao grau de negligência. Na melhor das hipóteses, a negligência poderá ser considerada neutra.
-
-      4.2.3 – Categorias específicas de dados pessoais afetadas
-57.   No que diz respeito ao requisito de ter em conta as categorias específicas de dados pessoais afetadas
-      (artigo 83.º, n.º 2, alínea g), do RGPD), o RGPD destaca claramente os tipos de dados que merecem uma
-      proteção especial e, por conseguinte, uma resposta mais rigorosa em termos de coimas. Trata-se, no mínimo,
-      dos tipos de dados abrangidos pelos artigos 9.º e 10.º do RGPD e dos dados fora do âmbito de aplicação
-      destes artigos cuja divulgação poderia causar danos ou inconvenientes imediatos ao titular dos dados 26 (por
-      exemplo, dados de localização, dados sobre comunicações privadas, números de identificação nacionais ou
-      dados financeiros, tais como sínteses de transações ou números de cartões de crédito) 27. Em geral, quanto
-      mais categorias de dados desse género estiverem envolvidas ou quanto mais sensíveis forem os dados, maior
-      será o peso que a autoridade de controlo pode atribuir a este fator.
-
-58.   Além disso, é relevante a quantidade de dados relativos a cada titular de dados, tendo em conta que a
-      violação do direito à privacidade e à proteção dos dados pessoais aumenta em função da quantidade de
-      dados relativos a cada titular de dados.
-
-      4.2.4 – Classificação da gravidade da infração e determinação do montante de partida adequado
-59.   A apreciação dos fatores acima referidos (capítulos 4.2.1 a 4.2.3) determina a gravidade da infração no seu
-      conjunto. Esta apreciação não constitui um cálculo matemático em que os fatores acima referidos sejam
-      considerados individualmente, mas sim uma avaliação aprofundada das circunstâncias concretas do caso,
-      em que todos os fatores supramencionados estão interligados. Por conseguinte, ao analisar a gravidade da
-      infração, há que ter em conta a infração no seu conjunto.
-
-
-      25
-         Ver Diretrizes WP 253, p. 12.
-      26
-         Ibid., p. 14.
-      27
-         A divulgação de comunicações privadas e de dados de localização pode causar danos ou inconvenientes imediatos ao
-      titular dos dados, o que foi salientado pela proteção especial concedida pelo legislador da UE às comunicações privadas
-      no artigo 7.º da Carta dos Direitos Fundamentais e na Diretiva 2002/58/CE e pelo TJUE no que se refere aos dados de
-      localização em determinados processos; ver processos apensos C-511/18, C-512/18 e C-520/18, La Quadrature du Net
-      e o., n.º 117, e a jurisprudência aí citada.
-
-
-                                                                                                                          21
-      Adotadas
-
-60.   Com base na avaliação dos fatores acima referidos, considera-se que a infração é de i) baixo, ii) médio ou iii)
-      elevado nível de gravidade. Estas categorias não prejudicam a questão de saber se pode ou não ser aplicada
-      uma coima.
-
-          -   Ao calcular a coima por infrações de nível baixo de gravidade, a autoridade de controlo determinará
-              o montante de partida para o cálculo ulterior num ponto compreendido entre 0 % e 10 % do limite
-              máximo legal aplicável.
-
-          -   Ao calcular a coima por infrações de nível médio de gravidade, a autoridade de controlo determinará
-              o montante de partida para o cálculo ulterior num ponto compreendido entre 10 % e 20 % do limite
-              máximo legal aplicável.
-
-          -   Ao calcular a coima por infrações de nível elevado de gravidade, a autoridade de controlo
-              determinará o montante de partida para o cálculo ulterior num ponto compreendido entre 20 % e
-              100 % do limite máximo legal aplicável.
-
-61.   Regra geral, quanto mais grave for a infração dentro da sua própria categoria, mais elevado será
-      provavelmente o montante de partida.
-
-62.   O CEPD e os seus membros continuam a analisar os intervalos dentro dos quais o montante de partida é
-      determinado, podendo adaptá-los quando necessário.
-
-       Exemplo 5a – Qualificação da gravidade de uma infração (nível elevado de gravidade)
-       Após ter investigado numerosas reclamações de clientes de uma empresa de telecomunicações
-       relativamente a chamadas não solicitadas, a autoridade de controlo competente constatou que a
-       empresa de telecomunicações utilizou os dados de contacto dos seus clientes para efeitos de venda
-       por via telefónica sem uma base jurídica válida (violação do artigo 6.º do RGPD). Em especial, a
-       empresa de telecomunicações tinha oferecido a terceiros, para efeitos de comercialização, os nomes
-       e os números de telefone registados dos seus clientes. A empresa de telecomunicações fê-lo apesar
-       do aconselhamento contrário do encarregado da proteção de dados, sem ter envidado quaisquer
-       esforços para erradicar a prática ou para oferecer aos clientes uma forma de oposição. Com efeito,
-       a prática estava em curso desde maio de 2018 e estava ainda em curso no momento da investigação.
-       A empresa de telecomunicações em causa operava a nível nacional e a prática afetava a totalidade
-       dos seus 4 milhões de clientes. A autoridade de controlo constatou que todos estes clientes tinham
-       sido regularmente sujeitos a chamadas não solicitadas por terceiros, sem qualquer meio eficaz para
-       impedir essa prática.
-
-       A autoridade de controlo foi incumbida de avaliar a gravidade deste caso. Como ponto de partida, a
-       autoridade de controlo observou que uma violação do artigo 6.º do RGPD figura entre as violações
-       do artigo 83.º, n.º 5, do RGPD e, por conseguinte, é abrangida pelo nível mais elevado do artigo 83.º
-       do RGPD. Em segundo lugar, a autoridade de controlo avaliou as circunstâncias do caso em apreço.
-       Neste contexto, a autoridade de controlo atribuiu um peso significativo à natureza da infração, uma
-       vez que a disposição violada (artigo 6.º do RGPD) está na base da legalidade do tratamento de dados
-       no seu conjunto. O incumprimento desta disposição elimina a licitude do tratamento no seu
-       conjunto. Além disso, a autoridade de controlo atribuiu um peso significativo à duração da infração,
-       que teve início aquando da entrada em vigor do RGPD e não tinha cessado no momento da
-       investigação. O facto de a empresa de telecomunicações operar a nível nacional aumentou o peso
-       do âmbito do tratamento. O número de titulares de dados envolvidos foi considerado muito elevado
-       (4 milhões, em comparação com uma população total de 14 milhões de pessoas), ao passo que o
-
-
-
-                                                                                                                  22
-      Adotadas
-
-nível de danos por eles sofridos foi considerado moderado (danos imateriais, sob a forma de
-incómodos). Esta última apreciação foi efetuada tendo em conta as categorias específicas de dados
-afetadas (nome e número de telefone). A infração foi, no entanto, agravada pelo facto de ter sido
-cometida em violação do aconselhamento do encarregado da proteção de dados e, portanto,
-considerada intencional.
-
-Tendo em conta o que precede (natureza grave, longa duração, elevado número de titulares de
-dados, âmbito nacional, natureza intencional, face a danos moderados), a autoridade de controlo
-conclui que a infração apresenta um nível elevado de gravidade. A autoridade de controlo
-determinará o montante de partida para o cálculo ulterior num ponto entre 20 % e 100 % do limite
-máximo legal previsto no artigo 83.º, n.º 5, do RGPD.
-
-
-Exemplo 5b – Qualificação da gravidade de uma infração (nível médio de gravidade)
-Uma autoridade de controlo recebeu uma notificação de violação de dados pessoais de um hospital.
-A partir desta notificação, verificou-se que vários membros do pessoal tinham podido ver partes das
-fichas médicas dos pacientes que não lhes deveriam ter sido acessíveis, atendendo ao serviço em
-que trabalham. O hospital tinha elaborado procedimentos para regular o acesso às fichas dos
-pacientes e aplicado medidas rigorosas de acesso restrito. Tal implicava que o pessoal de um serviço
-só podia aceder a informações médicas relativas a esse serviço específico. Além disso, o hospital
-tinha investido na sensibilização do seu pessoal para a privacidade. No entanto, como se constatou,
-havia problemas relacionados com o controlo das autorizações. Os membros do pessoal transferidos
-entre serviços continuavam a ter acesso às fichas dos pacientes dos seus «antigos» serviços e o
-hospital não dispunha de procedimentos que permitissem fazer corresponder a posição atual do
-membro do pessoal à respetiva autorização. A investigação interna realizada pelo hospital revelou
-que, pelo menos, 150 membros do pessoal (dos 3 500) tinham autorizações incorretas, afetando,
-pelo menos, 20 000 das 95 000 fichas de pacientes. O hospital pôde demonstrar que, pelo menos em
-16 casos, os membros do pessoal tinham utilizado as suas autorizações para ver as fichas dos
-pacientes. A autoridade de controlo considera que houve uma violação do artigo 32.º do RGPD.
-
-Ao avaliar a gravidade do caso, a autoridade de controlo observou primeiro que uma violação do
-artigo 32.º do RGPD figura entre as violações do artigo 83.º, n.º 4, do RGPD e, por conseguinte, é
-abrangida pelo nível mais baixo do artigo 83.º do RGPD. Em segundo lugar, a autoridade de controlo
-avaliou as circunstâncias do caso em apreço. Neste contexto, a autoridade de controlo considerou
-que, embora o número de titulares de dados afetados pela violação fosse de apenas 16, poderia ter
-sido de 20 000 nas circunstâncias do caso e mesmo de 95 000, dada a natureza sistémica do
-problema. Além disso, a autoridade de controlo categorizou a infração como negligente, mas em
-grau reduzido, o que foi considerado um fator neutro nas circunstâncias do caso em apreço, devido
-ao facto de o hospital não ter adotado políticas de autorização quando certamente o deveria ter
-feito, mas ter, de outra forma, dado passos para aplicar medidas rigorosas que restringissem o
-acesso. Esta avaliação não foi afetada pelo facto de outras políticas de proteção de dados e de
-segurança terem sido aplicadas com êxito, como exige o RGPD. Por último, a autoridade de controlo
-atribuiu um peso significativo ao facto de as fichas dos pacientes incluírem dados de saúde, que
-constituem categorias especiais de dados nos termos do artigo 9.º do RGPD.
-
-Tendo em conta o que precede (natureza do tratamento e categorias especiais de dados em relação
-ao número de titulares de dados efetiva e potencialmente afetados), a autoridade de controlo
-conclui que a infração apresenta um nível médio de gravidade. A autoridade de controlo
-
-
-
-
-                                                                                                       23
-Adotadas
-
-       determinará o montante de partida para o cálculo ulterior num ponto entre 10 % e 20 % do limite
-       máximo legal previsto no artigo 83.º, n.º 4, do RGPD.
-
-       Exemplo 5c – Qualificação da gravidade de uma infração (nível baixo de gravidade)
-       Uma autoridade de controlo recebeu numerosas reclamações sobre a forma como uma loja em linha
-       trata o direito de acesso dos seus titulares de dados. De acordo com os autores das reclamações, o
-       tratamento dos seus pedidos de acesso demorou entre quatro e seis meses, o que está fora do prazo
-       permitido pelo RGPD. A autoridade de controlo investiga as reclamações e conclui que a loja em
-       linha responde aos pedidos de acesso com um atraso máximo de três meses em 5 % dos casos. No
-       total, a loja recebeu cerca de 1 000 pedidos de acesso por ano e confirmou que 950 deles foram
-       tratados a tempo. Além disso, a loja em linha tinha políticas em vigor para garantir que todos os
-       pedidos de acesso fossem tratados de forma correta e completa. Ainda assim, a autoridade de
-       controlo concluiu que a loja em linha violou o artigo 12.º, n.º 3, do RGPD e decidiu aplicar uma coima.
-
-       No cálculo do montante da coima a aplicar, a autoridade de controlo foi incumbida de determinar a
-       gravidade do caso. Como ponto de partida, a autoridade de controlo observou que uma violação do
-       artigo 12.º do RGPD figura entre as violações do artigo 83.º, n.º 5, do RGPD e, por conseguinte, é
-       abrangida pelo nível mais elevado do artigo 83.º do RGPD. Em segundo lugar, a autoridade de
-       controlo avaliou as circunstâncias do caso em apreço. Neste contexto, a autoridade de controlo
-       analisou cuidadosamente a natureza da infração. Embora o direito de acesso atempado aos dados
-       pessoais seja uma das pedras angulares dos direitos dos titulares de dados, a autoridade de controlo
-       considerou que a infração era de gravidade limitada nesta matéria, uma vez que todos os pedidos
-       acabaram por ser tratados e com um atraso limitado. Analisando o objetivo do tratamento, a
-       autoridade de controlo concluiu que o tratamento de dados pessoais não era a atividade principal
-       da loja em linha, mas, ainda assim, um elemento importante para cumprir o seu objetivo de vender
-       bens em linha. A autoridade de controlo considerou que esse facto aumenta a gravidade da infração.
-       Por outro lado, o nível de danos sofridos pelos titulares de dados foi considerado mínimo, uma vez
-       que todos os pedidos de acesso foram tratados no prazo de seis meses.
-
-       Tendo em conta o que precede (natureza da infração, objetivo do tratamento e nível de danos), a
-       autoridade de controlo conclui que a infração apresenta um nível baixo de gravidade. A autoridade
-       de controlo determinará o montante de partida para o cálculo ulterior num ponto entre 0 % e 10 %
-       do limite máximo legal previsto no artigo 83.º, n.º 5, do RGPD.
-
-      4.3 – Volume de negócios da empresa com vista à aplicação de uma coima efetiva,
-            dissuasiva e proporcionada
-63.   O RGPD exige que cada autoridade de controlo assegure que a aplicação de coimas seja, em cada caso
-      individual, efetiva, proporcionada e dissuasiva (artigo 83.º, n.º 1, do RGPD). A aplicação destes princípios do
-      direito da União Europeia pode ter consequências de grande alcance em determinados casos, uma vez que
-      os pontos de partida que o RGPD oferece para o cálculo das coimas são aplicáveis tanto às microempresas
-      como às empresas multinacionais. A fim de aplicar uma coima efetiva, proporcionada e dissuasiva em todos
-      os casos, espera-se que as autoridades de controlo adaptem as coimas dentro de todo o intervalo disponível
-      até ao limite máximo legal, o que pode conduzir a aumentos ou reduções significativas do montante da
-      coima, em função das circunstâncias do caso.
-
-
-
-
-                                                                                                                  24
-      Adotadas
-
-64.   O CEPD entende que é justo refletir uma distinção da dimensão da empresa nos pontos de partida a seguir
-      identificados, pelo que toma em consideração o seu volume de negócios 28 . O CEPD segue os requisitos
-      previstos no artigo 83.º do RGPD, no RGPD no seu conjunto e na jurisprudência constante do TJUE, indicando
-      que o volume de negócios de uma empresa pode constituir uma indicação da dimensão e do poder
-      económico da empresa em questão 29 . No entanto, tal não dispensa a autoridade de controlo da
-      responsabilidade de proceder a uma análise da efetividade, dissuasão e proporcionalidade no final do cálculo
-      (ver capítulo 7). Esta última abrange todas as circunstâncias do caso, incluindo, por exemplo, a acumulação
-      de infrações múltiplas, aumentos e reduções por circunstâncias agravantes e atenuantes e circunstâncias
-      financeiras/socioeconómicas. Porém, cabe à autoridade de controlo assegurar que as mesmas circunstâncias
-      não sejam contabilizadas duas vezes. Em especial, as autoridades de controlo não devem, nos termos do
-      capítulo 7, repetir os aumentos ou reduções em relação ao volume de negócios da empresa, mas antes rever
-      a sua avaliação do montante de partida adequado.
-
-65.   Pelas razões acima expostas, a autoridade de controlo pode equacionar a possibilidade de ajustar o montante
-      de partida correspondente à gravidade da infração nos casos em que a mesma seja cometida por uma
-      empresa com um volume de negócios anual não superior a 2 milhões de EUR, um volume de negócios anual
-      não superior a 10 milhões de EUR ou um volume de negócios anual não superior a 50 milhões de EUR 30.
-
-          -   Para as empresas com um volume de negócios anual ≤ 2 milhões de EUR, as autoridades de controlo
-              podem equacionar a possibilidade de efetuar os cálculos com base num valor compreendido entre
-              0,2 % e 0,4 % do montante de partida identificado.
-
-          -   Para as empresas com um volume de negócios anual entre 2 milhões de EUR e 10 milhões de EUR,
-              as autoridades de controlo podem equacionar a possibilidade de efetuar os cálculos com base num
-              valor compreendido entre 0,3 % e 2 % do montante de partida identificado.
-
-          -   Para as empresas com um volume de negócios anual entre 10 milhões de EUR e 50 milhões de EUR,
-              as autoridades de controlo podem equacionar a possibilidade de efetuar os cálculos com base num
-              valor compreendido entre 1,5 % e 10 % do montante de partida identificado.
-
-66.   Pelas mesmas razões, a autoridade de controlo pode equacionar a possibilidade de ajustar o montante de
-      partida correspondente à gravidade da infração nos casos em que a mesma seja cometida por uma empresa
-      com um volume de negócios anual não superior a 100 milhões de EUR, um volume de negócios anual não
-      superior a 250 milhões de EUR ou um volume de negócios anual não superior a 500 milhões de EUR 31.
-
+      Adopted
+
+                     iii. The purpose of the processing, will lead the supervisory authority to attribute more
+                          weight to this factor. The supervisory authority may also consider whether the
+                          processing of personal data falls within the so-called core activities of the controller. The
+                          more central the processing is to the controller’s or processor’s core activities, the more
+                          severe irregularities in this processing will be. The supervisory authority may attribute
+                          more weight to this factor in these circumstances. There may be circumstances though,
+                          in which the processing of personal data is further removed from the core activities of
+                          the controller or processor, but significantly impacts the evaluation nonetheless (this is
+                          the case, for example, of processing concerning personal data of workers where the
+                          infringement significantly affects those workers’ dignity).
+
+                     iv. The number of data subjects concretely but also potentially affected. The higher the
+                         number of data subjects involved, the more weight the supervisory authority may
+                         attribute to this factor. In many cases, it may also be considered that the infringement
+                         takes on "systemic" connotations and can therefore affect, even at different times,
+                         additional data subjects who have not submitted complaints or reports to the
+                         supervisory authority. The supervisory authority may, depending on the circumstances
+                         of the case, consider the ratio between the number of data subjects affected and the
+                         total number of data subjects in that context (e.g. the number of citizens, customers or
+                         employees) in order to assess whether the infringement is of a systemic nature.
+
+                      v. The level of damage suffered and the extent to which the conduct may affect individual
+                         rights and freedoms. The reference to the "level" of damage suffered, therefore, is
+                         intended to draw the attention of the supervisory authorities to the damage suffered, or
+                         likely to have been suffered as a further, separate parameter with respect to the number
+                         of data subjects involved (for example, in cases where the number of individuals affected
+                         by the unlawful processing is high but the damage suffered by them is marginal).
+                         Following Recital 75 GDPR, the level of damage suffered refers to physical, material or
+                         non-material damage. The assessment of the damage, in any case, be limited to what is
+                         functionally necessary to achieve correct evaluation of the level of seriousness of the
+                         infringement as indicated in paragraph 60 below, without overlapping with the activities
+                         of judicial authorities as tasked with ascertaining the different forms of individual harm.
+
+              c) The duration of the infringement, meaning that a supervisory authority may generally attribute
+                 more weight to an infringement with longer duration. The longer the duration of the
+                 infringement, the more weight the supervisory authority may attribute to this factor. Subject to
+                 national law, if a given conduct was also illicit within the previous regulatory framework, both
+                 the period after the GDPR's effective date and the previous period may be taken into account
+                 when quantifying the fine, taking into account the conditions of that framework.
+
+54.   The supervisory authority may attribute weight to the abovementioned factors, depending on the
+      circumstances of the case. If not of particular relevance, they may also be considered as neutral.
+
+      4.2.2 - Intentional or negligent character of the infringement
+55.   In its previous guidance, the EDPB stated that “in general, intent includes both knowledge and willfulness in
+      relation to the characteristics of an offence, whereas ’unintentional’ means that there was no intention to
+
+
+
+
+                                                                                                                    19
+      Adopted
+
+      cause the infringement although the controller/processor breached the duty of care which is required in the
+      law.” 23 Unintentional in this sense does not equate to non-voluntary.
+
+       Example 4 – Illustrations of intent and negligence (from WP 253) 24
+       “Circumstances indicative of intentional breaches might be unlawful processing authorised explicitly by the
+       top management hierarchy of the controller, or in spite of advice from the data protection officer or in
+       disregard for existing policies, for example obtaining and processing data about employees at a competitor
+       with an intention to discredit that competitor in the market. Other examples here might be:
+       - amending personal data to give a misleading (positive) impression about whether targets have been met
+           – we have seen this in the context of targets for hospital waiting times
+       - the trade of personal data for marketing purpose i.e. selling data as ‘opted in’ without
+           checking/disregarding data subjects’ views about how their data should be used
+
+       Other circumstances, such as failure to read and abide by existing policies, human error, failure to check for
+       personal data in information published, failure to apply technical updates in a timely manner, failure to adopt
+       policies (rather than simply failure to apply them) may be indicative of negligence”;
+
+56.   The intentional or negligent character of the infringement (Article 83(2)(b) GDPR) should be assessed taking
+      into account the objective elements of conduct gathered from the facts of the case. The EDPB highlighted
+      that it is generally admitted that intentional infringements, “demonstrating contempt for the provisions of
+      the law, are more severe than unintentional ones” 25 . In case of an intentional infringement, the supervisory
+      authority is likely to attribute more weight to this factor. Depending on the circumstances of the case, the
+      supervisory authority may also attach weight to the degree of negligence. At best, negligence could be
+      regarded as neutral.
+
+      4.2.3 - Categories of personal data affected
+57.   Concerning the requirement to take account of the categories of personal data affected (Article 83(2)(g)
+      GDPR), the GDPR clearly highlights the types of data that deserve special protection and therefore a stricter
+      response in terms of fines. This concerns, at the very least, the types of data covered by Articles 9 and 10
+      GDPR, and data outside the scope of these Articles the dissemination of which causes immediate damages
+      or distress to the data subject 26 (e.g. location data, data on private communication, national identification
+      numbers, or financial data, such as transaction overviews or credit card numbers). 27 In general, the more of
+      such categories of data involved or the more sensitive the data, the more weight the supervisory authority
+      may attribute to this factor.
+
+58.   Further, the amount of data regarding each data subject is of relevance, considering that the infringement
+      of the right to privacy and protection of personal data increases with the amount of data regarding each data
+      subject.
+
+
+
+      23 Guidelines WP 253, p. 11.
+      24 Examples quoted directly from Guidelines WP 253, p. 12.
+      25 Guidelines WP 253, p. 12.
+
+      26 Ibid, p. 14.
+      27 Dissemination of private communications and location data can cause immediate damages or distress to the data
+
+      subject, which has been highlighted by the special protection awarded by the EU Legislator to private communications
+      in Article 7 of the Charter of Fundamental Rights and Directive 2002/58/EC and by the CJEU for location data in certain
+      cases, see joined cases C-511/18, C-512/18 and C-520/18, La Quadrature du Net et al, paragraph 117 and the case law
+      there cited.
+
+
+                                                                                                                          20
+      Adopted
+
+      4.2.4 - Classifying the seriousness of the infringement and identifying the appropriate starting
+              amount
+59.   The assessment of the factors above (Chapter 4.2.1–4.2.3) determines the seriousness of the infringement
+      as a whole. This assessment is no mathematical calculation in which the abovementioned factors are
+      considered individually, but rather a thorough evaluation of the concrete circumstances of the case, in which
+      all of the abovementioned factors are interlinked. Therefore, in reviewing the seriousness of the
+      infringement, regard should be given to the infringement as a whole.
+
+60.   Based on the evaluation of the factors outlined above, the infringement is considered to be of a (i) low, (ii)
+      medium, or (iii) high level of seriousness. These categories are without prejudice to the question whether or
+      not a fine can be imposed.
+
+          -   When calculating the administrative fine for infringements of a low level of seriousness, the
+              supervisory authority will determine the starting amount for further calculation at a point between
+              0 and 10% of the applicable legal maximum.
+
+          -   When calculating the administrative fine for infringements of a medium level of seriousness, the
+              supervisory authority will determine the starting amount for further calculation at a point between
+              10 and 20% of the applicable legal maximum.
+
+          -   When calculating the administrative fine infringements of a high level of seriousness, the supervisory
+              authority will determine the starting amount for further calculation at a point between 20 and 100%
+              of the applicable legal maximum.
+
+61.   As a general rule, the more severe the infringement within its own category, the higher the starting amount
+      is likely to be.
+
+62.   The ranges within which the starting amount is determined remains under review by the EDPB and its
+      members and can be adapted when necessary.
+
+       Example 5a – Qualifying the seriousness of an infringement (high level of seriousness)
+       After investigating numerous complaints about unsolicited calls from customers of a telephone
+       company, the competent supervisory authority found that the telephone company used contact
+       details of its customers for telemarketing purposes without a valid legal basis (infringement of Article
+       6 GDPR). In particular, the telephone company had offered the names and registered phone numbers
+       of its customers to third parties for marketing purposes. The telephone company did this despite
+       advice against it from the data protection officer, without undertaking any efforts to curb the
+       practice or to offer customers a way of objecting. In fact, the practice had been going on since May
+       2018 and was still ongoing at the time of the investigation. The telephone company in question
+       operated nationwide and the practice affected all of its 4 million customers. The supervisory
+       authority found that all of these customers had been regularly subjected to unsolicited calls by third
+       parties, without any effective means to stop them.
+
+       The supervisory authority was tasked with assessing the seriousness of this case. As a starting point,
+       the supervisory authority noted that an infringement of Article 6 GDPR is listed among the
+       infringements of Article 83(5) GDPR and therefore falls within the higher tier of Article 83 GDPR.
+       Secondly, the supervisory authority assessed the circumstances of the case. In that regard, the
+       supervisory authority attributed significant weight to nature of the infringement, as the infringed
+       provision (Article 6 GDPR) underpins the legality of the data processing as a whole. Non-compliance
+
+
+                                                                                                                  21
+      Adopted
+
+with this provision removes the lawfulness of the processing as a whole. Also, the supervisory
+authority attributed significant weight to the duration of the infringement, which started at the
+entry into force of the GDPR and had not ceased at the time of the investigation. The fact that the
+telephone company operated nationwide increased the weight of the scope of the processing. The
+number of data subjects involved was considered very high (4 million, offset against a total
+population of 14 million people), while the level of damage suffered by them was considered
+moderate (non-material damage, in the form of nuisance). The latter assessment was made taking
+into account the categories of data affected (name and phone number). The seriousness of the
+infringement was increased, however, by the fact that the infringement was committed in contrary
+to an advice from the data protection officer and, thus, considered intentional.
+
+Taking all the above into account (serious nature, long duration, high number of data subjects,
+nationwide scope, intentional nature, vis-à-vis moderate damage), the supervisory concludes that
+the infringement is considered to be at a high level of seriousness. The supervisory authority will
+determine the starting amount for further calculation at a point between 20 and 100% of the legal
+maximum included in Article 83(5) GDPR.
+
+
+Example 5b – Qualifying the seriousness of an infringement (medium level of seriousness)
+A supervisory authority received a personal data breach notification from a hospital. From this
+notification, it appeared that several staff members had been able to view parts of patients’ health
+files that – based on their department – should not have been accessible to them. The hospital had
+been working on procedures to regulate access to patient files, and had implemented strict measures
+for restricted access. That entailed that staff from one department could only access medical
+information relevant to that specific department. In addition, the hospital had invested in privacy
+awareness amongst its staff members. However, as it turned out, there were issues concerning the
+monitoring of authorisations. Staff members that transferred between departments were still able
+to gain access to the patient files from their “old” departments and the hospital had no procedures
+in place to match the current position of the staff member with their authorisation. Internal
+investigation by the hospital showed that at least 150 staff members (out of the 3500) had inaccurate
+authorisations, affecting at least 20,000 of the 95,000 patient files. The hospital could show that in
+at least 16 instances staff members had used their authorisations to view patient files. The
+supervisory authority considers that there has been a breach of Article 32 GDPR.
+
+In assessing the seriousness of the case, the supervisory authority first noted that an infringement of
+Article 32 GDPR is listed among the infringements of Article 83(4) GDPR and therefore falls within
+the lower tier of Article 83 GDPR. Secondly, the supervisory authority assessed the circumstances of
+the case. In that regard, the supervisory authority considered that even though the number of data
+subjects affected by the breach was only 16, this could potentially have been 20,000 in the
+circumstances of the case and even 95,000 given the systemic nature of the issue. Furthermore, the
+supervisory authority categorised the infringement as negligent, but to a low degree, which was
+considered a neutral factor in the circumstances of this particular case due to the fact that the
+hospital failed to adopt authorisation policies where it surely should have done so but had, otherwise,
+taken steps to implement strict measures to restrict access. This evaluation was not impacted by the
+fact that other data protection and security policies were implemented successfully, as the GDPR
+requires. Lastly, the supervisory authority attributed significant weight to the fact that the patient
+files include health data, which are special categories of data according to Article 9 GDPR.
+
+
+
+
+                                                                                                          22
+Adopted
+
+       Taking all the above into account (nature of the processing and special categories of data vis-à-vis
+       the number of data subjects actually and potentially affected, the supervisory authority concludes
+       that the infringement is considered to be at a medium level of seriousness. The supervisory authority
+       will determine the starting amount for further calculation at a point between 10 and 20% of the legal
+       maximum included in Article 83(4) GDPR.
+
+       Example 5c – Qualifying the seriousness of an infringement (low level of seriousness)
+       A supervisory authority has received numerous complaints about the way in which an online store
+       handles the right of access of its data subjects. According to the complainants, the handling of their
+       access requests has taken between 4 and 6 months, which is outside the timeframe permitted by the
+       GDPR. The supervisory authority investigates the complaints and finds that the online store responds
+       to access requests a maximum of three months too late in 5% of the cases. In total the store received
+       around 1,000 access requests on an annual basis and confirmed that 950 of these were handled on
+       time. Moreover, the online store had policies in place to safeguard that all access requests were
+       handled correctly and fully. Nevertheless, the supervisory authority concluded that the online store
+       infringed Article 12(3) GDPR and decided to impose a fine.
+
+       During the calculation of the amount of the fine to be imposed, the supervisory authority was tasked
+       with assessing the seriousness of this case. As a starting point, the supervisory authority noted that
+       an infringement of Article 12 GDPR is listed among the infringements of Article 83(5) GDPR and
+       therefore falls within the higher tier of Article 83 GDPR. Secondly, the supervisory authority assessed
+       the circumstances of the case. In that regard, the supervisory authority carefully analysed the nature
+       of the infringement. Even though the timely right to access to personal data is one of the
+       cornerstones of the data subject rights, the supervisory authority considered that the infringement
+       was of limited seriousness in this respect, given that all requests were handled eventually and with
+       a limited delay. Considering the purpose of the processing, the supervisory authority found that the
+       processing of personal data was not the core activity of the online store, but still an important
+       ancillary in fulfilling its objective of selling goods online. The supervisory authority considered this to
+       increase the seriousness of the infringement. On the other hand, the level of damage suffered by the
+       data subjects was considered minimal, as all access requests were handled within 6 months.
+
+       Taking all the above into account (nature of the infringement, purpose of the processing and level of
+       damage), the supervisory authority concludes that the infringement is considered to be at a low level
+       of seriousness. The supervisory authority will determine the starting amount for further calculation
+       at a point between 0 and 10% of the legal maximum included in Article 83(5) GDPR.
+
+      4.3 - Turnover of the undertaking with a view to imposing an effective, dissuasive and
+            proportionate fine
+63.   The GDPR requires each supervisory authority to ensure that the imposition of administrative fines is
+      effective, proportionate and dissuasive in each individual case (Article 83(1) GDPR). The application of these
+      principles of European Union law can have far-reaching consequences in individual cases, as the starting
+      points that the GDPR offers for calculating administrative fines apply to micro-enterprises and multinational
+      corporations alike. In order to impose a fine that is effective, proportionate and dissuasive in all cases,
+      supervisory authorities are expected to tailor administrative fines within the entire range available up until
+      the legal maximum. This can lead to significant increases or decreases of the amount of the fine, depending
+      on the circumstances of the case.
+
+
+
+
+                                                                                                                     23
+      Adopted
+
+64.   The EDPB considers that it is fair to reflect a distinction of the size of the undertaking in the starting points
+      identified below and therefore takes into account its turnover. 28 The EDPB follows the requirements of Article
+      83 GDPR, the GDPR as a whole and the established case law of the CJEU stating that the turnover of an
+      undertaking can constitute an indication of the size and economic power of an undertaking. 29 However, this
+      does not dismiss a supervisory authority from the responsibility to carry out a review of effectiveness,
+      dissuasiveness and proportionality at the end of the calculation (see Chapter 7). The latter covers all the
+      circumstances of the case, including e.g. the accumulation of multiple infringements, increases and decreases
+      for aggravating and mitigating circumstances and financial/socio-economic circumstances. It is, however,
+      incumbent upon the supervisory authority to ensure that the same circumstances are not counted twice. In
+      particular, supervisory authorities should not, under Chapter 7, repeat the increases or decreases relative to
+      the turnover of the company, but rather revisit their evaluation of the appropriate starting amount.
+
+65.   For the reasons outlined above, the supervisory authority may consider adjusting the starting amount
+      corresponding to the seriousness of the infringement in cases where this infringement is committed by an
+      undertaking with an annual turnover not exceeding 2 million euros, an annual turnover not exceeding 10
+      million euros, or an annual turnover not exceeding 50 million euros 30 .
+
+           -   For undertakings with an annual turnover of ≤ €2m, supervisory authorities may consider to proceed
+               calculations on the basis of a sum between 0.2% and 0.4% of the identified starting amount.
+
+           -   For undertakings with an annual turnover of €2m up until €10m, supervisory authorities may
+               consider to proceed calculations on the basis of a sum between 0.3% and 2% of the identified starting
+               amount.
+
+           -   For undertakings with an annual turnover of €10m up until €50m, supervisory authorities may
+               consider to proceed calculations on the basis of a sum between 1.5% and 10% of the identified
+               starting amount.
+
+66.   For the same reasons, the supervisory authority may consider adjusting the starting amount corresponding
+      to the seriousness of the infringement in cases where this infringement is committed by an undertaking with
+      an annual turnover not exceeding 100 million euros, an annual turnover not exceeding 250 million euros and
+      an annual turnover not exceeding 500 million euros 31 .
+
+           -   For undertakings with an annual turnover of €50m up until €100m, supervisory authorities may
+               consider to proceed calculations on the basis of a sum between 8% and 20% of the identified starting
+               amount.
 
 
       28
-         Ver também a Decisão vinculativa 1/2021 do CEPD, pontos 411 e 412: «[Na medida em que] o volume de negócios de
-      uma empresa não é relevante exclusivamente para a determinação do montante máximo da coima em conformidade
-      com o artigo 83.º, n.os 4 a 6, do RGPD, podendo também ser tido em linha de conta [como um elemento relevante entre
-      outros] para o cálculo da própria coima, se for caso disso, para garantir que a mesma é efetiva, proporcionada e
-      dissuasiva, em conformidade com o artigo 83.º, n.º 1, do RGPD». O volume de negócios da empresa em causa é
-      abordado em maior pormenor no capítulo 6.2 das presentes diretrizes.
-      29
-         Tal foi afirmado pelo Tribunal Geral no processo T-25/06, Alliance One International, Inc./Comissão Europeia,
-      n.º 211, remetendo para outra jurisprudência, por exemplo, o processo T-9/99, HFB e o./Comissão, n.os 528 e 529, e o
-      processo T-175/05, Akzo Nobel e o./Comissão, n.º 114.
-      30
-         Estes valores do volume de negócios inspiram-se na Recomendação da Comissão, de 6 de maio de 2003, relativa à
-      definição de micro, pequenas e médias empresas. Para determinar os pontos de partida, o CEPD baseia-se apenas no
-      volume de negócios anual da empresa (ver capítulo 6 infra).
-      31
-         Estes valores são adicionados para colmatar a diferença entre o limiar mais elevado do ponto anterior e o limiar do
-      volume de negócios identificado no artigo 83.º, n.os 4 a 6, do RGPD.
+         See also EDPB Binding Decision 1/2021, paragraphs 411 and 412: “[Insofar] the turnover of an undertaking is not
+      exclusively relevant for the determination of the maximum fine amount in accordance with Article 83(4)-(6) GDPR, but
+      it may also be considered [as one relevant element among others] for the calculation of the fine itself, where
+      appropriate, to ensure the fine is effective, proportionate and dissuasive in accordance with Article 83(1) GDPR.” The
+      turnover of the undertaking concerned is further elaborated on in Chapter 6.2 of these Guidelines.
+      29 This has been stated by the General Court in case T-25/06, Alliance One International, Inc. v European Commission,
+
+      paragraph 211, referencing other case law for instance case T-9/99, HFB and Others v Commission, paragraphs 528
+      and 529 and case T-175/05, Akzo Nobel and Others v Commission, paragraph 114.
+      30 These turnover figures are inspired by the Commission Recommendation of 6 May 2003 concerning the definition of
+
+      micro, small and medium-sized enterprises. In determining the starting points, the EDPB relies on the annual turnover
+      of the undertaking alone (see Chapter 6 below).
+      31 These figures are added to bridge the gap between the highest threshold of the previous paragraph and the turnover
+
+      threshold identified in Article 83(4)–(6) GDPR.
 
 
-                                                                                                                         25
-      Adotadas
+                                                                                                                         24
+      Adopted
 
-          -   Para as empresas com um volume de negócios anual entre 50 milhões de EUR e 100 milhões de
-              EUR, as autoridades de controlo podem equacionar a possibilidade de efetuar os cálculos com base
-              num valor compreendido entre 8 % e 20 % do montante de partida identificado.
+          -   For undertakings with an annual turnover of €100m up until €250m, supervisory authorities may
+              consider to proceed calculations on the basis of a sum between 15% and 50 % of the identified
+              starting amount.
 
-          -   Para as empresas com um volume de negócios anual entre 100 milhões de EUR e 250 milhões de
-              EUR, as autoridades de controlo podem equacionar a possibilidade de efetuar os cálculos com base
-              num valor compreendido entre 15 % e 50 % do montante de partida identificado.
+          -   For undertakings with an annual turnover of €250m up until €500m,, supervisory authorities may
+              consider to proceed calculations on the basis of a sum between 40% and 100% of the identified
+              starting amount.
 
-          -   Para as empresas com um volume de negócios anual entre 250 milhões de EUR e 500 milhões de
-              EUR, as autoridades de controlo podem equacionar a possibilidade de efetuar os cálculos com base
-              num valor compreendido entre 40 % e 100 % do montante de partida identificado.
+          -   For undertakings with an annual turnover above €500m, supervisory authorities may consider to
+              proceed without an adjustment of the identified starting amount. Indeed, such undertakings will
+              exceed the static legal maximum and, thus, the size of the undertaking is already reflected in the
+              dynamic legal maximum used to determine the starting amount for further calculation based on the
+              evaluation of the seriousness of the infringement.
 
-          -   Para as empresas com um volume de negócios anual superior a 500 milhões de EUR, as autoridades
-              de controlo podem equacionar a possibilidade de proceder sem um ajustamento do montante de
-              partida identificado. Com efeito, essas empresas excederão o limite máximo legal estático e, por
-              conseguinte, a dimensão da empresa já se reflete no limite máximo legal dinâmico utilizado para
-              determinar o montante de partida para o cálculo ulterior baseado na avaliação da gravidade da
-              infração.
+67.   As a general rule, the higher the turnover of the undertaking within its applicable tier, the higher the starting
+      amount is likely to be. The latter holds particularly true for the largest of undertakings, for which the category
+      of starting amounts has the widest range.
 
-67.   Regra geral, quanto maior for o volume de negócios da empresa dentro do nível aplicável, mais elevado será
-      provavelmente o montante de partida. Tal é particularmente válido para as empresas de maiores dimensões,
-      para as quais a categoria dos montantes de partida tem o intervalo mais amplo.
+68.   Moreover, the supervisory authority is under no obligation to apply this adjustment if it is not necessary from
+      the point of view of effectiveness, dissuasiveness and proportionality to adjust the starting amount of the
+      fine.
 
-68.   Além disso, a autoridade de controlo não é obrigada a aplicar este ajustamento, caso não seja necessário, do
-      ponto de vista da efetividade, da dissuasão e da proporcionalidade, ajustar o montante de partida da coima.
+69.   It should be reiterated that these figures are the starting points for further calculation, and not fixed amounts
+      (price tags) for infringements of provisions of the GDPR. The supervisory authority has the discretion to utilise
+      the full fining range from any amount until the legal maximum, ensuring that the fine is tailored to the
+      circumstances of the case, as the Court of Justice requires in case an abstract starting point is used.
 
-69.   Importa reiterar que estes valores são os pontos de partida para o cálculo ulterior e não montantes fixos
-      (etiquetas de preços) das infrações às disposições do RGPD. A autoridade de controlo tem o poder
-      discricionário de utilizar a totalidade do intervalo de coimas, desde qualquer montante até ao limite máximo
-      legal, assegurando que a coima é adaptada às circunstâncias do caso, como exige o Tribunal de Justiça no
-      caso de se utilizar um ponto de partida abstrato.
+       Example 6a – Identifying the starting points for further calculation
+       A supermarket chain with a turnover of €450 million has infringed Article 12 GDPR. The supervisory
+       authority, based on a careful analysis of the circumstances of the case, decided that the infringement
+       is of a low level of seriousness. To determine the starting point for further calculation, the supervisory
+       authority first identifies that Article 12 GDPR is listed in Article 83(5)(b) GDPR and that, based on the
+       turnover of the undertaking (€450 million), a legal maximum of €20 million ,- applies.
 
-       Exemplo 6a – Identificar os pontos de partida para o cálculo ulterior
-       Uma cadeia de supermercados com um volume de negócios de 450 milhões de EUR violou o
-       artigo 12.º do RGPD. A autoridade de controlo, com base numa análise cuidadosa das circunstâncias
-       do caso, decidiu que a infração apresenta um nível baixo de gravidade. A fim de determinar o ponto
-       de partida para o cálculo ulterior, a autoridade de controlo começa por identificar que o artigo 12.º
-       do RGPD está enumerado no artigo 83.º, n.º 5, alínea b), do RGPD e que, com base no volume de
-       negócios da empresa (450 milhões de EUR), é aplicável um limite máximo legal de 20 milhões de
-       EUR.
+       Based on the level of seriousness determined by the supervisory authority (low), a starting amount
+       between €0 and €2 million,- should be considered (between 0 and 10% of the applicable legal
+       maximum, see paragraph 60 above).
 
-       Tendo em conta o nível de gravidade determinado pela autoridade de controlo (baixo), deve ser
-       equacionado um montante de partida entre 0 EUR e 2 milhões de EUR (entre 0 % e 10 % do limite
-       máximo legal aplicável; ver ponto 60).
-
-       A autoridade de controlo considera que se justifica um ajustamento até 90 % do montante de partida
-       com base na dimensão da empresa, que tem um volume de negócios de 450 milhões de EUR. Este
-       montante constitui a base para o cálculo ulterior, que deverá resultar num montante final não
-       superior ao limite máximo legal aplicável de 20 milhões de EUR.
+       The supervisory authority considers that an adjustment down to 90% of the starting amount is
+       justified based on the size of the undertaking, which has a turnover of €450 million. This amount
+       forms the basis for further calculation, which should result in a final amount not exceeding the
+       applicable legal maximum of €20 million.
 
 
 
-                                                                                                               26
-      Adotadas
-
-       Exemplo 6b – Identificar os pontos de partida para o cálculo ulterior
-       Descobriu-se que uma aplicação de encontros em fase de arranque com um volume de negócios de
-       500 000 EUR vendeu dados pessoais sensíveis dos seus clientes a vários corretores de dados para
-       análise, violando assim o artigo 9.º e o artigo 5.º, n.º 1, alínea a), do RGPD. A autoridade de controlo,
-       com base numa análise cuidadosa das circunstâncias do caso, decidiu que a infração apresenta um
-       nível elevado de gravidade. A fim de determinar o ponto de partida para o cálculo ulterior, a
-       autoridade de controlo começa por identificar que os artigos 9.º e 5.º do RGPD estão enumerados
-       no artigo 83.º, n.º 5, alínea a), do RGPD e que, com base no volume de negócios da empresa
-       (500 000 EUR), é aplicável um limite máximo legal de 20 000 000 EUR.
-
-       Tendo em conta o nível de gravidade determinado pela autoridade de controlo (elevado), deve ser
-       equacionado um montante de partida entre 4 000 000 EUR e 20 000 000 EUR (entre 20 % e 100 %
-       do limite máximo legal aplicável; ver ponto 60).
-
-       A autoridade de controlo considera que se justifica um ajustamento até 0,25 % do montante de
-       partida com base na dimensão da empresa, que tem um volume de negócios de 500 000 EUR. Este
-       montante constitui a base para o cálculo ulterior, que deverá resultar num montante final não
-       superior ao limite máximo aplicável de 20 milhões de EUR.
+       Example 6b – Identifying the starting points for further calculation
+       A start-up dating app with a turnover of €500,000,- is discovered to have sold sensitive personal data
+       of its customers to several data brokers for analytics and thereby infringed Articles 9 and 5(1)(a)
+       GDPR. The supervisory authority, based on a careful analysis of the circumstances of the case,
 
 
 
-      CAPÍTULO 5 – CIRCUNSTÂNCIAS AGRAVANTES E ATENUANTES
-      5.1 – Identificação dos fatores agravantes e atenuantes
-70.   De acordo com a estrutura do RGPD, após ter avaliado a natureza, a gravidade e a duração da infração, bem
-      como o caráter intencional ou negligente da infração e as categorias específicas de dados pessoais afetadas,
-      a autoridade de controlo deve ter em conta os restantes fatores agravantes e atenuantes enumerados no
-      artigo 83.º, n.º 2, do RGPD.
+                                                                                                                     25
+      Adopted
 
-71.   No que diz respeito à apreciação destes elementos, os aumentos ou reduções de uma coima não podem ser
-      predeterminados através de quadros ou percentagens. Reitera-se que a quantificação efetiva da coima
-      dependerá de todos os elementos recolhidos durante a investigação e de outras considerações também
-      relacionadas com experiências anteriores da autoridade de controlo no que diz respeito à aplicação de
-      coimas.
+       decided that the infringement is of a high level of seriousness. To determine the starting point for
+       further calculation, the supervisory authority first identifies that Articles 9 and 5 GDPR are listed in
+       Article 83(5)(a) GDPR and that, based on the turnover of the undertaking (€500,000,-), a legal
+       maximum of €20,000,000,- applies.
 
-72.   Por razões de clareza, importa salientar que cada critério do artigo 83.º, n.º 2, do RGPD, independentemente
-      de ser avaliado ao abrigo do capítulo 4 ou do presente capítulo, só deve ser tido em conta uma vez no âmbito
-      da avaliação global do artigo 83.º, n.º 2, do RGPD.
+       Based on the level of seriousness determined by the supervisory authority (high), a starting amount
+       between €4,000,000,- and €20,000,000,- should be considered (between 20 and 100% of the
+       applicable legal maximum, see paragraph 60 above).
 
-      5.2 – Iniciativas tomadas pelo responsável pelo tratamento ou pelo subcontratante para
-            atenuar os danos sofridos pelos titulares de dados
-73.   Um primeiro passo para determinar se ocorreram circunstâncias agravantes ou atenuantes é rever o
-      artigo 83.º, n.º 2, alínea c), que diz respeito à «iniciativa tomada pelo responsável pelo tratamento ou pelo
-      subcontratante para atenuar os danos sofridos pelos titulares».
-
-74.   Conforme recordado nas Diretrizes WP 253, os responsáveis pelo tratamento e os subcontratantes já têm a
-      obrigação de «aplicar medidas técnicas e organizativas que garantam um nível de segurança adequado ao
+       The supervisory authority considers that an adjustment down to 0.25 % of the starting amount is
+       justified based on the size of the undertaking, which has a turnover of €500,000. This amount forms
+       the basis for further calculation, which should result in a final amount not exceeding the applicable
+       maximum of €20 million.
 
 
 
-                                                                                                                   27
-      Adotadas
+      CHAPTER 5 – AGGRAVATING AND MITIGATING CIRCUMSTANCES
+      5.1 - Identification of aggravating and mitigating factors
+70.   Following the structure of the GDPR, after having evaluated the nature, gravity and duration of the
+      infringement as well as its intentional or negligent character of the infringement and the categories of
+      personal data affected, the supervisory authority must take account of the remaining aggravating and
+      mitigating factors as listed in Article 83(2) GDPR.
 
-      risco, assim como de realizar avaliações do impacto em matéria de proteção de dados e atenuar os riscos
-      para os direitos e liberdades das pessoas decorrentes do tratamento de dados pessoais». Contudo, em caso
-      de infração, o responsável pelo tratamento ou o subcontratante devem «envidar todos os esforços para
-      limitar as consequências da violação para a(s) pessoa(s) em causa» 32.
+71.   With regard to the assessment of these elements, increases or decreases of a fine cannot be predetermined
+      through tables or percentages. It is reiterated that the actual quantification of the fine will depend on all the
+      elements collected during the course of the investigation and on further considerations also linked to
+      previous fining experiences of the supervisory authority.
 
-75.   A adoção de medidas adequadas para atenuar os danos sofridos pelos titulares dos dados pode ser
-      considerada um fator atenuante, reduzindo o montante da coima.
+72.   For clarity, it should be noted that each criterion of Article 83(2) GDPR – whether it is assessed under Chapter
+      4 or this Chapter – should only be taken into account once as part of the overall assessment of Article 83(2)
+      GDPR.
 
-76.   As medidas adotadas devem ser avaliadas, em especial, no que diz respeito à atualidade, ou seja, ao
-      momento em que são aplicadas pelo responsável pelo tratamento ou pelo subcontratante, e à sua eficácia.
-      Nesse sentido, é mais provável que as medidas aplicadas espontaneamente antes de a investigação da
-      autoridade de controlo chegar ao conhecimento do responsável pelo tratamento ou do subcontratante
-      sejam consideradas um fator atenuante do que as medidas que tenham sido aplicadas após esse momento.
+      5.2 - Actions taken by controller or processor to mitigate damage suffered by data subjects
+73.   A first step in determining whether aggravating or mitigating circumstances have occurred, is to review
+      Articles 83(2)(c), which concerns “any action taken by the controller or processor to mitigate the damage
+      suffered by data subjects.”
 
-      5.3 – Grau de responsabilidade do responsável pelo tratamento ou do subcontratante
-77.   De acordo com o artigo 83.º, n.º 2, alínea d), o grau de responsabilidade do responsável pelo tratamento ou
-      do subcontratante terá de ser avaliado, tendo em conta as medidas por eles implementadas nos termos dos
-      artigos 25.º e 32.º do RGPD. Em conformidade com as Diretrizes WP 253, «[a] questão à qual a autoridade
-      de controlo deve dar resposta é a de saber em que medida é que o responsável pelo tratamento "fez aquilo
-      que era expectável que fizesse" atendendo à natureza, finalidades ou dimensão do tratamento, à luz das
-      obrigações que lhe incumbem por força do regulamento 33».
+74.   As recalled in Guidelines WP253, data controllers and processors are already obliged to “implement technical
+      and organisational measures to ensure a level of security appropriate to the risk, to carry out data protection
+      impact assessments and mitigate risks arising from the processing of personal data to the rights and freedoms
+      of the individuals.” However, in case of an infringement, the controller or processor should “do whatever
+      they can do in order to reduce the consequences of the breach for the individual(s) concerned 32 .
 
-78.   Em especial, no que diz respeito a este critério, há que avaliar o risco residual para as liberdades e os direitos
-      dos titulares dos dados, o prejuízo causado aos titulares dos dados e os danos que persistem após a adoção
-      das medidas pelo responsável pelo tratamento, bem como o grau de solidez das medidas adotadas nos
-      termos dos artigos 25.º e 32.º do RGPD.
+75.   The adoption of appropriate measures to mitigate the damage suffered by the data subjects may be
+      considered a mitigating factor, decreasing the amount of the fine.
 
-79.   A este respeito, a autoridade de controlo pode também considerar se os dados em questão eram
-      diretamente identificáveis e/ou estavam disponíveis sem proteção técnica 34. No entanto, há que recordar
-      que a existência de tal proteção não constitui necessariamente um fator atenuante (ver ponto 82 infra),
-      dependendo das circunstâncias do caso.
 
-80.   A fim de avaliar adequadamente os elementos acima referidos, a autoridade de controlo deve ter em conta
-      toda a documentação pertinente fornecida pelo responsável pelo tratamento ou pelo subcontratante,
-      nomeadamente no contexto do exercício do seu direito de defesa. Em especial, essa documentação pode
-      fornecer provas do momento em que as medidas foram tomadas e da forma como foram aplicadas, se houve
-      interações entre o responsável pelo tratamento e o subcontratante (se aplicável) ou se houve contacto com
-      o encarregado da proteção de dados ou os titulares dos dados (se aplicável).
+      32   Guidelines WP253, p. 12.
 
-81.   Dado o aumento do nível de responsabilidade ao abrigo do RGPD em comparação com a Diretiva 95/46/CE 35,
-      é provável que o grau de responsabilidade do responsável pelo tratamento ou do subcontratante seja
-      considerado um fator agravante ou neutro. Só em circunstâncias excecionais, se o responsável pelo
-      tratamento ou o subcontratante tiverem ultrapassado as obrigações que lhes são impostas, é que este facto
-      será considerado um fator atenuante.
 
-      32
-         Ver Diretrizes WP 253, p. 12.
+                                                                                                                    26
+      Adopted
+
+76.   The measures adopted must be assessed, in particular, with regard to the element of timeliness, i.e. the time
+      when they are implemented by the controller or processor, and their effectiveness. In that sense, measures
+      spontaneously implemented prior to the commencement of the supervisory authority’s investigation
+      becoming known to the controller or processor are more likely to be considered a mitigating factor, than
+      measures that have been implemented after that moment.
+
+      5.3 - Degree of responsibility of the controller or processor
+77.   Following Article 83(2)(d), the degree of responsibility of the controller or processor will have to be assessed,
+      taking into account measures implemented by them pursuant to Articles 25 and 32 GDPR. In line with
+      Guidelines WP253, “the question that the supervisory authority must then answer is to what extent the
+      controller ‘did what it could be expected to do’ given the nature, the purposes or the size of the processing,
+      seen in light of the obligations imposed on them by the Regulation 33 ”.
+
+78.   In particular, with regard to this criterion, the residual risk for the freedoms and rights of the data subjects,
+      the impairment caused to the data subjects and the damage persisting after the adoption of the measures
+      by the controller as well as the degree of robustness of the measures adopted pursuant to Articles 25 and 32
+      GDPR must be assessed.
+
+      79.             In this respect, the supervisory authority may also consider whether the data in question was
+      directly identifiable and/or available without technical protection. 34 However, it should be borne in mind that
+      the existence of such protection does not necessarily constitute a mitigating factor (see paragraph 82 below).
+      This depends on all the circumstances of the case.
+
+80.   In order to adequately assess the above elements, the supervisory authority should take into account any
+      relevant documentation provided by the controller or processor, e.g. in the context of the exercise of their
+      right of defence. In particular, such documentation could provide evidence of when the measures were taken
+      and how they were implemented, whether there were interactions between the controller and the processor
+      (if applicable), or whether there has been contact with the DPO or data subjects (if applicable).
+
+81.   Given the increased level of accountability under the GDPR in comparison with Directive 95/46/EC, 35 it is
+      likely that the degree of responsibility of the controller or processor will be considered an aggravating or a
+      neutral factor. Only in exceptional circumstances, where the controller or processor has gone above and
+      beyond the obligations imposed upon them, will this be considered a mitigating factor.
+
+
+      5.4 - Previous infringements by the controller or processor
+82.   Previous infringements are infringements already established before the decision is issued. In case of
+      cooperation under Chapter VII GDPR, prior infringements are those already established before the draft
+      decision (in the sense of Article 60 GDPR) is issued.
+
+83.   According to Article 83(2)(e) GDPR, any relevant previous infringements committed by the controller or
+      processor must be considered when deciding whether to impose an administrative fine and deciding on the
+      amount of the administrative fine. Similar wording is found in Recital 148 GDPR.
+
+
       33
-         Ibid., p. 13.
-      34
-         Ibid., pp. 14-15.
-      35
-         Ibid., p. 13.
-
-
-                                                                                                                     28
-      Adotadas
-
-      5.4 – Infrações anteriormente cometidas pelo responsável pelo tratamento ou pelo
-          subcontratante
-82.   As infrações anteriores são infrações já apuradas antes da emissão da decisão. Em caso de cooperação ao
-      abrigo do capítulo VII do RGPD, as infrações anteriores são as já estabelecidas antes da emissão do projeto
-      de decisão (na aceção do artigo 60.º do RGPD).
-
-83.   Nos termos do artigo 83.º, n.º 2, alínea e), do RGPD, ao decidir da aplicação de uma coima e ao decidir sobre
-      o montante da mesma, há que ter em conta quaisquer infrações relevantes anteriormente cometidas pelo
-      responsável pelo tratamento ou pelo subcontratante. O considerando 148 do RGPD contém uma redação
-      semelhante.
-
-      5.4.1 – Período de tempo
-84.   Em primeiro lugar, há que ter em conta o momento em que ocorreu a infração anterior, considerando que
-      quanto mais longo for o período entre uma infração anterior e a infração atualmente em investigação, menor
-      o seu significado. Consequentemente, quanto mais distante no tempo estiver a infração cometida, menor
-      relevância será atribuída pelas autoridades de controlo. Esta apreciação é deixada ao critério da autoridade
-      de controlo, sob reserva do direito e dos princípios nacionais e europeus aplicáveis.
-
-85.   Porém, uma vez que as infrações cometidas há muito tempo podem ainda ter interesse na avaliação dos
-      «antecedentes» do responsável pelo tratamento ou do subcontratante, não devem ser fixados prazos de
-      prescrição fixos para este efeito. Contudo, algumas legislações nacionais impedem a autoridade de controlo
-      de considerar as infrações anteriores após um período determinado. Do mesmo modo, certas legislações
-      nacionais impõem uma obrigação de supressão de registos após um determinado período de tempo, o que
-      impede as autoridades de controlo em exercício de terem em conta estes precedentes.
-
-86.   Pela mesma razão, importa salientar que as violações do RGPD, uma vez que serão mais recentes, devem ser
-      consideradas mais relevantes do que as violações das disposições nacionais adotadas para a aplicação da
-      Diretiva 95/46/CE (se as legislações nacionais permitirem que essas violações sejam tidas em conta pela
-      autoridade de controlo).
-
-      5.4.2 – Objeto
-87.   Para efeitos do artigo 83.º, n.º 2, alínea e), do RGPD, as infrações anteriores relativamente ao mesmo objeto
-      ou a um diferente daquele que está a ser investigado podem ser consideradas «pertinentes».
-
-88.   Embora todas as infrações anteriores possam fornecer uma indicação sobre a atitude geral do responsável
-      pelo tratamento ou do subcontratante em relação à observância do RGPD, deve ser dada maior importância
-      às infrações relativamente ao mesmo objeto, uma vez que estão mais próximas da infração atualmente em
-      investigação, especialmente quando o responsável pelo tratamento ou o subcontratante cometeram
-      anteriormente a mesma infração (infrações repetidas). Assim, as infrações relativas ao mesmo objeto devem
-      ser consideradas mais relevantes do que as infrações anteriores relativas a um tema diferente.
-
-89.   Por exemplo, o facto de, no passado, o responsável pelo tratamento ou o subcontratante não terem
-      respondido aos titulares dos dados que exerceram os seus direitos em tempo útil deve ser considerado mais
-      relevante quando a infração objeto de investigação se refere também à falta de resposta a um titular de
-      dados que exerce os seus direitos do que quando se refere a uma violação de dados pessoais.
-
-
-
-                                                                                                                29
-      Adotadas
-
-90.   No entanto, devem ser tidas em devida conta as infrações anteriores relativas a um objeto diferente, mas
-      que foram cometidas da mesma forma, uma vez que podem ser indicativas de problemas persistentes no
-      seio da organização do responsável pelo tratamento ou do subcontratante. Tal seria o caso, por exemplo,
-      das infrações resultantes de ter ignorado o aconselhamento prestado pelo encarregado da proteção de
-      dados.
-
-      5.4.3 – Outras considerações
-91.   Se considerarem uma infração anteriormente cometida às disposições nacionais adotadas para a aplicação
-      da Diretiva 95/46/CE, as autoridades de controlo devem ter em conta o facto de os requisitos da diretiva e
-      do RGPD poderem diferir (se as legislações nacionais permitirem que tais infrações sejam tidas em conta pela
-      autoridade de controlo).
-
-92.   Ao ponderar a pertinência de uma infração anterior, a autoridade de controlo deve ter em conta a situação
-      do processo em que a infração anterior foi constatada — em especial, quaisquer medidas tomadas pela
-      autoridade de controlo ou pela autoridade judicial — em conformidade com o direito nacional.
-
-93.   As infrações anteriores também podem ser tidas em conta quando tiverem sido detetadas por uma
-      autoridade de controlo diferente relativamente ao mesmo responsável pelo tratamento/subcontratante. Por
-      exemplo, a autoridade de controlo principal que age no âmbito de uma infração através do mecanismo de
-      cooperação (balcão único), em conformidade com o artigo 60.º do RGPD, poderá ter em conta infrações
-      previamente determinadas em casos locais, por outra autoridade de controlo, relativamente ao mesmo
-      responsável pelo tratamento/subcontratante. Do mesmo modo, as infrações anteriormente determinadas
-      pela autoridade de controlo principal podem ser tidas em conta quando uma autoridade diferente tiver de
-      tratar uma reclamação que lhe seja apresentada em casos com impacto apenas local, nos termos do
-      artigo 56.º, n.º 2, do RGPD. Se não existir uma autoridade de controlo principal (por exemplo, no caso de o
-      responsável pelo tratamento ou o subcontratante não estar estabelecido na União Europeia), as autoridades
-      de controlo podem também ter em conta infrações anteriormente determinadas por outra autoridade de
-      controlo relativamente ao mesmo responsável pelo tratamento/subcontratante.
-
-94.   A existência de infrações anteriores pode ser considerada um fator agravante no cálculo da coima. O peso
-      atribuído a este fator deve ser determinado atendendo à natureza e à frequência das infrações anteriores.
-      No entanto, a ausência de infrações anteriores não pode ser considerada um fator atenuante, uma vez que
-      o cumprimento do RGPD é a norma. Na ausência de infrações anteriores, este fator pode ser considerado
-      neutro.
-
-
-      5.5 – Grau de cooperação com a autoridade de controlo, a fim de sanar a infração e atenuar
-            os seus eventuais efeitos negativos
-95.   O artigo 83.º, n.º 2, alínea f), exige que a autoridade de controlo tenha em conta o grau de cooperação do
-      responsável pelo tratamento ou do subcontratante com a autoridade de controlo, a fim de sanar a infração
-      e atenuar os seus eventuais efeitos negativos.
-
-96.   Antes de avaliar em pormenor o nível de cooperação que o responsável pelo tratamento ou o subcontratante
-      estabeleceu com a autoridade de controlo, deve reiterar-se que incumbe ao responsável pelo tratamento e
-      ao subcontratante, nos termos do artigo 31.º do RGPD, uma obrigação geral de cooperação e que a falta de
-      cooperação pode conduzir à aplicação da coima prevista no artigo 83.º, n.º 4, alínea a), do RGPD. Neste
-      contexto, deve considerar-se que o direito comum de cooperação é obrigatório, pelo que deve ser
-      considerado neutro (e não um fator atenuante).
-
-
-
-                                                                                                               30
-      Adotadas
-
-97.    No entanto, sempre que a cooperação com a autoridade de controlo tenha tido por efeito limitar ou evitar
-       consequências negativas para os direitos das pessoas singulares que de outro modo poderiam ter ocorrido,
-       a autoridade de controlo pode considerar que se trata de um fator atenuante na aceção do artigo 83.º, n.º 2,
-       alínea f), do RGPD, reduzindo assim o montante da coima. Tal pode ser o caso, por exemplo, quando, «aos
-       pedidos da autoridade de controlo durante a fase de investigação», um responsável pelo tratamento ou
-       subcontratante «respondeu de uma forma […] que limitou significativamente o impacto para os direitos das
-       pessoas» 36.
-
+         Ibid, p. 13.
+      34 Ibid, p. 14-15.
+      35 Ibid, p. 13.
+
+
+
+
+                                                                                                                    27
+      Adopted
+
+      5.4.1 - Time frame
+84.   Firstly, regard must be given to the point in time when the prior infringement took place, considering that
+      the longer the time between a previous infringement and the infringement currently being investigated, the
+      lower its significance. Consequently, the longer ago the infringement was committed, the less relevance shall
+      be given by the supervisory authorities. This assessment is left at the discretion of the supervisory authority,
+      subject to applicable national- and European law and principles.
 
+85.   However, since infringements committed a long time ago might still be of interest when assessing the “track
+      record” of the controller or processor, fixed limitation periods are not to be set to this purpose. However,
+      some national laws do prevent the supervisory authority from considering previous infringements after a
+      settled period. Likewise, certain national laws impose a record deletion obligation after a certain period of
+      time, which prevents the acting supervisory authorities from taking into account these precedents.
 
-       5.6 – A forma como a autoridade de controlo tomou conhecimento da infração
-98.    Nos termos do artigo 83.º, n.º 2, alínea h), a forma como a autoridade de controlo tomou conhecimento da
-       infração pode constituir um fator agravante ou atenuante relevante. Na apreciação deste aspeto, pode ser
-       dado especial peso à questão de saber se, e em que medida, o responsável pelo tratamento ou o
-       subcontratante notificaram a infração por sua própria iniciativa, antes de a autoridade de controlo ter
-       conhecimento da mesma através, por exemplo, de uma reclamação ou de uma investigação. Esta
-       circunstância não é pertinente quando o responsável pelo tratamento está sujeito a obrigações de
-       notificação específicas (nomeadamente no caso de violações de dados pessoais nos termos do artigo 33.º) 37.
-       Nesses casos, esta notificação deve ser considerada um fator neutro 38.
+86.   For the same reason, it should be noted that infringements of the GDPR, since they will be more recent, must
+      be considered as more relevant than infringements of the national provisions adopted for the
+      implementation of Directive 95/46/EC (if national laws allow such infringements to be taken into account by
+      the supervisory authority).
 
-99.    Sempre que a autoridade de controlo tenha tomado conhecimento da infração através, por exemplo, de uma
-       reclamação ou de uma investigação, este elemento deve também, regra geral, ser considerado neutro. A
-       autoridade de controlo pode considerar esta circunstância atenuante, se o responsável pelo tratamento ou
-       o subcontratante notificarem a infração por sua própria iniciativa, antes de a autoridade de controlo ter
-       conhecimento do caso.
+      5.4.2 - Subject matter
+87.   For the purpose of Article 83(2)(e) GDPR, previous infringements of either the same or different subject
+      matter to the one being investigated might be considered as “relevant”.
 
+88.   Even though all prior infringements might provide an indication about the controller’s or processor’s general
+      attitude towards the observance of the GDPR, infringements of the same subject matter must be given more
+      significance, as they are closer to the infringement currently under investigation, especially when the
+      controller or processor previously committed the same infringement (repeated infringements). Thus, same
+      subject-matter infringements must be considered as more relevant than previous infringements concerning
+      a different topic.
 
-       5.7 – Cumprimento de medidas anteriormente impostas relativamente à mesma matéria
-100.   O artigo 83.º, n.º 2, alínea i), do RGPD estabelece que «[o] cumprimento das medidas a que se refere o
-       artigo 58.º, n.º 2, caso as mesmas tenham sido previamente impostas ao responsável pelo tratamento ou ao
-       subcontratante em causa relativamente à mesma matéria» deve ser tido em conta ao decidir aplicar ou não
-       uma coima e ao decidir sobre o seu montante.
+89.   For example, the fact that the controller or the processor had failed in the past to respond to data subjects
+      exercising their rights in a timely manner must be considered more relevant when the infringement being
+      investigated refers also to a lack of response to a data subject exercising their rights than when it refers to a
+      personal data breach.
+
+90.   However, due account must be taken of previous infringements of a different subject matter, but that were
+      committed in the same manner, as they might be indicative of persisting problems within the controller or
+      processor organisation. For example, this would be the case for infringements arising as a consequence of
+      having ignored the advice provided by the Data Protection Officer.
+
+      5.4.3 - Other considerations
+91.   If considering a previous infringement of the national provisions adopted for the implementation of the
+      Directive 95/46/EC, the supervisory authorities must take into account the fact that the requirements in the
+      Directive and the GDPR might differ (if national laws allow such infringements to be taken into account by
+      the supervisory authority).
 
-101.   Contrariamente ao disposto no artigo 83.º, n.º 2, alínea e), do RGPD, esta apreciação refere-se apenas a
-       medidas que as próprias autoridades de controlo emitiram anteriormente ao mesmo responsável pelo
-       tratamento ou subcontratante relativamente à mesma matéria 39.
+92.   When considering the relevance of a previous infringement, the supervisory authority should take account
+      of the status of the procedure in which the previous infringement was established – particularly of any
+      measures taken by the supervisory authority or by the judicial authority – in accordance with national law.
 
-102.   A este respeito, o responsável pelo tratamento ou o subcontratante podem ter expectativas razoáveis de
-       que o cumprimento das medidas anteriormente emitidas contra eles impediria uma infração relativamente
-       à mesma matéria no futuro. No entanto, uma vez que o cumprimento das medidas anteriormente impostas
-       é obrigatório para o responsável pelo tratamento ou para o subcontratante, não deve ser tido em conta
-       como fator atenuante per se. Pelo contrário, é necessário um compromisso reforçado por parte do
-       responsável pelo tratamento ou do subcontratante no cumprimento de medidas anteriores para que este
 
+                                                                                                                    28
+      Adopted
+
+93.   Previous infringements could also be considered when they were found by a different supervisory authority
+      concerning the same controller/processor. For example, the lead supervisory authority dealing with an
+      infringement through the cooperation (one-stop-shop) mechanism in accordance with Article 60 GDPR could
+      take into account infringements previously determined in local cases, by another supervisory authority,
+      concerning the same controller/processor. Likewise, infringements previously determined by the lead
+      supervisory authority could be taken into account when a different authority must handle a complaint lodged
+      with it in cases with only local impacts under Article 56(2) GDPR. Where there is no lead supervisory authority
+      (for example, in case the controller or processor is not established in the European Union), supervisory
+      authorities could also take into account infringements previously determined by another supervisory
+      authority concerning the same controller/processor.
 
-       36
-          Diretrizes WP 253, p. 14.
-       37
-          Importa sublinhar que uma violação de dados pessoais não implica necessariamente uma violação do RGPD.
-       38
-          Conforme sublinhado nas Diretrizes WP 253, p. 15.
-       39
-          Ibid.
-
-
-                                                                                                                   31
-       Adotadas
-
-       fator seja considerado atenuante, por exemplo, adotando medidas adicionais para além das impostas pela
-       autoridade de controlo.
-
-103.   Inversamente, o incumprimento de um poder de correção anteriormente imposto pode ser considerado um
-       fator agravante ou uma infração diferente em si mesma, nos termos do artigo 83.º, n.º 5, alínea e), e do
-       artigo 83.º, n.º 6, do RGPD. Por conseguinte, há que ter em devida conta que o mesmo comportamento não
-       conforme não pode conduzir a uma situação em que seja punido duas vezes.
-
-
-       5.8 – O cumprimento de códigos de conduta ou procedimentos de certificação aprovados
-104.   O artigo 83.º, n.º 2, alínea j), do RGPD estabelece que o cumprimento de códigos de conduta nos termos do
-       artigo 40.º do RGPD ou de procedimentos de certificação aprovados nos termos do artigo 42.º do RGPD pode
-       ser um fator relevante.
-
-105.   Conforme recordado nas Diretrizes WP 253, o cumprimento de códigos de conduta nos termos do artigo 40.º
-       do RGPD ou de procedimentos de certificação aprovados nos termos do artigo 42.º do RGPD pode, em
-       determinadas circunstâncias, constituir um fator atenuante. Os códigos de conduta aprovados devem, de
-       acordo com o artigo 40.º, n.º 4, do RGPD, prever «procedimentos que permitam ao organismo [de
-       supervisão] […] efetuar a supervisão obrigatória do cumprimento das suas disposições». Certas sanções por
-       comportamentos não conformes podem ser aplicadas através do mecanismo de supervisão, em
-       conformidade com o artigo 41.º, n.º 4, do RGPD, incluindo a suspensão ou exclusão do responsável pelo
-       tratamento ou do subcontratante em causa da comunidade do código. Embora a autoridade de controlo
-       possa ter em conta sanções previamente impostas através do mecanismo de autorregulação, as
-       competências do organismo de supervisão, nos termos do artigo 41.º, n.º 4, do RGPD, não prejudicam as
-       «funções e competências da autoridade de controlo competente», o que significa que a autoridade de
-       controlo não é obrigada a ter em conta quaisquer sanções impostas pelo organismo de supervisão 40.
-
-106.   Por outro lado, se o incumprimento dos códigos de conduta ou da certificação for diretamente relevante
-       para a infração, a autoridade de controlo pode considerar que se trata de uma circunstância agravante.
-
-
-       5.9 – Outras circunstâncias agravantes e atenuantes
-107.   O artigo 83.º, n.º 2, alínea k), do RGPD confere à autoridade de controlo margem de manobra para ter em
-       conta quaisquer outros fatores agravantes ou atenuantes aplicáveis às circunstâncias do caso. No caso
-       concreto, pode haver muitos elementos envolvidos, que não podem ser todos codificados ou listados e que
-       terão de ser tidos em conta para garantir que a sanção aplicada é efetiva, proporcionada e dissuasiva em
-       cada caso individual.
-
-108.   O artigo 83, n.º 2, alínea k), do RGPD menciona exemplos de «[q]ualquer outro fator agravante ou atenuante
-       aplicável às circunstâncias do caso, como os benefícios financeiros obtidos ou as perdas evitadas, direta ou
-       indiretamente, por intermédio da infração». Considera-se que esta disposição é de importância fundamental
-       para ajustar o montante da coima ao caso concreto. Neste sentido, entende-se que deve ser interpretada
-       como uma forma do princípio da equidade e da justiça aplicado ao caso individual.
-
-
-
-
-       40
-            Ibid.
-
-
-
-
-                                                                                                                32
-       Adotadas
-
-109.   O âmbito de aplicação desta disposição, que é necessariamente aberto, deve incluir todas as considerações
-       fundamentadas sobre o contexto socioeconómico em que opera o responsável pelo tratamento ou o
-       subcontratante, as considerações relacionadas com o contexto jurídico e as considerações relativas ao
-       contexto do mercado 41.
-
-110.   Em especial, o benefício económico obtido por intermédio da infração pode constituir uma circunstância
-       agravante se o processo fornecer informações sobre os lucros obtidos em resultado da violação do RGPD.
-
-111.   As circunstâncias excecionais que podem conduzir a alterações significativas no contexto socioeconómico
-       (por exemplo, o início de uma emergência pandémica grave suscetível de alterar radicalmente a forma como
-       o tratamento de dados pessoais é efetuado) também podem ser consideradas ao abrigo do artigo 83.º, n.º 2,
-       alínea k), do RGPD.
-
-        N. B.: os exemplos deste capítulo ilustram o efeito que as circunstâncias agravantes e atenuantes
-        podem ter no montante da coima. Os aumentos ou reduções mencionados nestes casos
-        imaginários não podem ser considerados precedentes ou indicações de percentagens a utilizar em
-        casos da vida real.
-
-        Exemplo 7a – Ponderação das circunstâncias agravantes e atenuantes
-        Um clube desportivo utilizou câmaras com tecnologia de reconhecimento facial à entrada de um dos
-        seus recintos para identificar os seus clientes à entrada. Como o clube desportivo agiu em violação
-        do artigo 9.º do RGPD (tratamento de dados biométricos sem exceção válida), a autoridade de
-        controlo competente para investigar a infração decidiu aplicar uma coima. Tendo em conta todas as
-        circunstâncias pertinentes do caso, a autoridade de controlo considerou que se tratava de uma
-        infração com um nível elevado de gravidade e, uma vez que o clube desportivo tinha um volume de
-        negócios anual de 150 milhões de EUR, considerou adequado um montante de partida de
-        2 000 000 EUR (no topo da categoria).
-
-        Contudo, o mesmo clube desportivo recebeu uma coima dois anos antes por ter utilizado tecnologia
-        de impressões digitais nos torniquetes de outro recinto. A autoridade de controlo decidiu ter este
-        facto em conta como reincidência (artigo 83.º, n.º 2, alínea e), do RGPD). Ao fazê-lo, atribuiu peso
-        ao facto de se tratar quase da mesma matéria e de a infração ter sido cometida apenas dois anos
-        antes. Devido a este fator agravante, a autoridade de controlo decidiu aumentar a coima, neste caso
-        específico, para 2 600 000 EUR 42, não excedendo o limite máximo legal aplicável de 20 milhões de
-        EUR.
-
-        N. B.: os exemplos deste capítulo ilustram o efeito que as circunstâncias agravantes e atenuantes
-        podem ter no montante da coima. Os aumentos ou reduções mencionados nestes casos
-        imaginários não podem ser considerados precedentes ou indicações de percentagens a utilizar em
-        casos da vida real.
-
-       41
-          O CEPD decidiu sobre esta matéria na Decisão vinculativa 3/2022 do CEPD relativa ao litígio apresentado pela AC
-       irlandesa sobre a Meta Platforms Ireland Limited e o seu serviço Facebook (artigo 65.º do RGPD) (a seguir designada
-       por «Decisão vinculativa 3/2022 do CEPD»), ponto 368.
-       42
-          Tal demonstra que as categorias de montantes de partida não limitam a capacidade das autoridades de controlo de
-       terem em conta circunstâncias agravantes e atenuantes para definirem um montante superior ou inferior às categorias.
-       Conforme reiterado no capítulo 4.3, estes valores são os pontos de partida para o cálculo ulterior e não montantes fixos
-       (etiquetas de preços) das infrações às disposições do RGPD. A autoridade de controlo conserva o poder discricionário
-       de utilizar a totalidade do intervalo de coimas desde um ponto superior a 0 EUR até ao limite máximo legal, assegurando
-       que a coima é adaptada às circunstâncias do caso em apreço.
-
-
-                                                                                                                            33
-       Adotadas
-
- Exemplo 7b – Ponderação das circunstâncias agravantes e atenuantes
- O operador de uma plataforma de aluguer de automóveis de curta duração sofreu uma violação de
- dados, que fez com que os dados pessoais dos seus clientes estivessem vulneráveis durante um curto
- período de tempo. Tendo em conta todas as circunstâncias relevantes do caso, a autoridade de
- controlo considerou que a falha do operador em garantir a segurança da sua plataforma viola o
- artigo 32.º do RGPD e constitui uma infração de baixa gravidade, e, uma vez que o operador tinha
- um volume de negócios anual de 255 milhões de EUR, considerou adequado um montante de partida
- de 260 000 EUR.
-
- Os dados pessoais comprometidos incluíam cópias das cartas de condução e dos documentos de
- identificação. Por esse motivo, todos os clientes afetados pela violação de dados foram forçados a
- pedir uma nova emissão destes documentos, a fim de limitar a possibilidade de usurpação de
- identidade. Ao mesmo tempo que informou os titulares dos dados deste incidente, o operador
- ofereceu a todos assistência na apresentação de um novo pedido de emissão destes documentos
- junto das instituições públicas corretas e criou um sistema para reembolsar quaisquer taxas pagas
- pelo pedido. A autoridade de controlo considerou que se tratava de iniciativas destinadas a «atenuar
- os danos sofridos pelos titulares» (artigo 83.º, n.º 2, alínea c), do RGPD), o que teve um efeito
- atenuante na coima aplicada. Tendo em conta a atitude proativa e a eficácia das medidas tomadas
- pelo operador, a autoridade de controlo decidiu reduzir a coima para 225 000 EUR 43, não excedendo,
- uma vez mais, o limite máximo legal de 10 milhões de EUR.
-
-
- os exemplos deste capítulo ilustram o efeito que as circunstâncias agravantes e atenuantes
- podem ter no montante da coima. Os aumentos ou reduções mencionados nestes casos
- imaginários não podem ser considerados precedentes ou indicações de percentagens a utilizar em
- casos da vida real.
-
- Exemplo 7c – Ponderação das circunstâncias agravantes e atenuantes
- Verificou-se que uma pequena agência de notação de risco violou várias disposições que
- salvaguardam os direitos dos titulares dos dados, nomeadamente por cobrar aos seus clientes uma
- taxa para poderem exercer o seu direito de acesso. A agência procedia dessa forma em relação a
- todos os pedidos de acesso e não apenas em relação aos referidos no artigo 12.º, n.º 5, alínea a), do
- RGPD. Tendo em conta todas as circunstâncias relevantes do caso, a autoridade de controlo
- considerou que as infrações detetadas tinham um nível elevado de gravidade e, uma vez que a
- agência tinha um volume de negócios anual de 35 milhões de EUR, considerou adequado um
- montante de partida de 100 000 EUR.
-
- Porém, a autoridade de controlo considerou que o facto de a agência ter podido lucrar com a
- infração constitui uma circunstância agravante (artigo 83.º, n.º 2, alínea k), do RGPD). A fim de
- contrabalançar os benefícios da infração, mantendo ao mesmo tempo uma coima efetiva, dissuasiva
- e proporcionada no caso em apreço, a autoridade de controlo decidiu aumentar a coima para
- 130 000 EUR, não excedendo o limite máximo legal aplicável de 20 milhões de EUR.
-
- os exemplos deste capítulo ilustram o efeito que as circunstâncias agravantes e atenuantes
- podem ter no montante da coima. Os aumentos ou reduções mencionados nestes casos
-
-
-
-43
-     Ver nota de rodapé anterior.
-
-
-                                                                                                         34
-Adotadas
-
-imaginários não podem ser considerados precedentes ou indicações de percentagens a utilizar em
-casos da vida real.
-
-Exemplo 7d – Ponderação das circunstâncias agravantes e atenuantes
-Verificou-se que uma empresa violou as disposições do RGPD, designadamente por ter vendido a sua
-base de dados a parceiros para efeitos de prospeção comercial, base de dados essa que continha
-dados pessoais relativos a pessoas que não deram o seu consentimento para serem alvo de
-prospeção para fins comerciais.
-
-Tendo em conta todas as circunstâncias relevantes do caso, a autoridade de controlo considerou que
-as infrações detetadas tinham um nível médio de gravidade e, uma vez que a empresa tinha um
-volume de negócios anual de 45 milhões de EUR, considerou adequado um montante de partida de
-150 000 EUR.
-
-Além disso, a autoridade considerou que se tratava de uma infração que beneficiava o responsável
-pelo tratamento, uma vez que o facto de não ter recolhido o consentimento das pessoas para a
-transmissão dos seus dados para efeitos de envio de publicidade direcionada aumentou a massa de
-dados que pôde revender posteriormente. Assim, a autoridade de controlo considerou que o facto
-de a empresa ter podido lucrar com a infração constitui uma circunstância agravante (artigo 83.º,
-n.º 2, alínea k), do RGPD).
-
-A fim de contrabalançar os benefícios da infração, mantendo ao mesmo tempo uma coima efetiva,
-dissuasiva e proporcionada no caso em apreço, a autoridade de controlo decidiu aumentar a coima
-para 200 000 EUR, não excedendo o limite máximo legal aplicável de 20 milhões de EUR.
-
-
-
-
-                                                                                                     35
-Adotadas
-
-       CAPÍTULO 6 – LIMITE MÁXIMO LEGAL E RESPONSABILIDADE DAS
-       EMPRESAS
-       6.1 – Determinação do limite máximo legal
-112.   Conforme já referido nas Diretrizes WP 253, o RGPD não estabelece montantes fixos para infrações
-       específicas. Em vez disso, o RGPD prevê montantes máximos globais 44, seguindo, assim, a tradição geral do
-       direito da UE em matéria de sanções já estabelecida por outros atos jurídicos 45.
-
-113.   Os montantes previstos no artigo 83.º, n.os 4 a 6, do RGPD constituem o limite máximo legal, ficando as
-       autoridades de controlo proibidas de aplicarem coimas que, em resultado disso, excedam os montantes
-       máximos aplicáveis. A fim de determinar o limite máximo legal correto, há que ter em conta o artigo 83.º,
-       n.º 3, do RGPD 46, se for caso disso (ver capítulo 3.1.2). Por conseguinte, as autoridades de controlo devem
-       assegurar que estes montantes máximos não sejam excedidos no cálculo das coimas com base nas presentes
-       diretrizes. Consoante o caso individual, podem tornar-se relevantes montantes máximos diferentes.
-
-       6.1.1 – Montantes máximos estáticos
-114.   O artigo 83.º, n.os 4 a 6, do RGPD prevê montantes estáticos, como regra geral, e estabelece uma distinção
-       entre infrações a diferentes categorias de obrigações ao abrigo do RGPD. Conforme explicado supra, o
-       artigo 83.º, n.º 4, do RGPD prevê coimas de até 10 milhões de EUR por violação das obrigações nele definidas,
-       ao passo que os n.os 5 e 6 do mesmo artigo do RGPD preveem coimas de até 20 milhões de EUR por violação
-       das obrigações neles definidas.
-
-       6.1.2 – Montantes máximos dinâmicos
-115.   No caso de uma empresa 47, o intervalo de coimas pode mudar no sentido de um montante máximo mais
-       elevado baseado no volume de negócios 48 . Este montante máximo baseado no volume de negócios é
-       dinâmico e individualizado em relação à empresa em causa, a fim de alcançar os princípios da efetividade,
-       da proporcionalidade e da dissuasão.
-
-116.   Mais especificamente, o artigo 83.º, n.º 4, do RGPD prevê um montante máximo de 2 % e o artigo 83.º, n.os 5
-       e 6, um montante máximo de 4 % do volume de negócios anual total da empresa no exercício financeiro
-       anterior. A redação do RGPD exige a tomada em consideração do montante máximo estático ou do montante
-       máximo dinâmico baseado no volume de negócios, «consoante o montante que for mais elevado». Por
-       conseguinte, estes montantes máximos baseados no volume de negócios só se aplicam se excederem o limite
-
-
-
-       44
-          Considerando 150 do RGPD, segunda frase: «O presente regulamento deverá definir as violações e o montante
-       máximo e o critério de fixação do valor das coimas daí decorrentes, que deverá ser determinado pela autoridade de
-       controlo competente, em cada caso individual, tendo em conta todas as circunstâncias relevantes da situação específica,
-       ponderando devidamente, em particular, a natureza, a gravidade e a duração da violação e das suas consequências e
-       as medidas tomadas para garantir o cumprimento das obrigações constantes do presente regulamento e para prevenir
-       ou atenuar as consequências da infração».
-       45
-          Mais concretamente, artigo 23.º, n.º 2, do Regulamento (CE) n.º 1/2003 do Conselho, de 16 de dezembro de 2002,
-       relativo à execução das regras de concorrência estabelecidas nos artigos 81.º e 82.º do Tratado.
-       46
-          Ver também a Decisão vinculativa 1/2021 do CEPD, ponto 326.
-       47
-          Quanto ao termo «empresa», consultar o capítulo 6.2.1 das presentes diretrizes.
-       48
-          Quanto ao termo «volume de negócios», consultar o capítulo 6.2.2 das presentes diretrizes.
+94.   The existence of previous infringements can be considered an aggravating factor in the calculation of the
+      fine. The weight given to this factor is to be determined in view of the nature and frequency of the previous
+      infringements. The absence of any previous infringements, however, cannot be considered a mitigating
+      factor, as compliance with the GDPR is the norm. If there are no previous infringements, this factor can be
+      regarded as neutral.
 
+
+      5.5 - Degree of cooperation with the supervisory authority in order to remedy the
+            infringement and mitigate the possible adverse effects of the infringement
+95.   Article 83(2)(f) requires the supervisory authority to take account of the degree of the controller’s or
+      processor’s cooperation with the supervisory authority in order to remedy the infringement and mitigate the
+      possible adverse effects of the infringement.
+
+96.   Before further assessing the level of cooperation the controller or processor has established with the
+      supervisory authority, it must be reiterated that a general obligation to cooperate is incumbent on the
+      controller and the processor pursuant to Article 31 GDPR, and that lack of cooperation may lead to the
+      application of the fine provided for in Article 83(4)(a) GDPR. It should therefore be considered that the
+      ordinary duty of cooperation is mandatory and should therefore be considered neutral (and not a mitigating
+      factor).
+
+97.   However, where cooperation with the supervisory authority has had the effect of limiting or avoiding
+      negative consequences for the rights of the individuals that might otherwise have occurred, the supervisory
+      authority may consider this a mitigating factor in the sense of Article 83(2)(f) GDPR, thereby decreasing the
+      amount of the fine. This may for instance be the case when a controller or processor “has responded in a
+      particular manner to the supervisory authority’s requests during the investigation phase in that specific case
+      which has significantly limited the impact on individuals’ rights as a result” 36 .
+
+
+
+
+      5.6 - The manner in which the infringement became known to the supervisory authority
+98.   Following Article 83(2)(h), the manner in which the infringement became known to the supervisory authority
+      could be a relevant aggravating or mitigating factor. In assessing this, particular weight can be given to the
+      question whether, and if so to what extent, the controller or processor notified the infringement out of its
+
+
+      36
+           Guidelines WP253, p. 14.
+
+
+                                                                                                                  29
+      Adopted
+
+      own motion, before the infringement was known to the supervisory authority by – for instance – a complaint
+      or an investigation. This circumstance is not relevant when the controller is subject to specific notification
+      obligations (such as in the case of personal data breaches according to Article 33) 37 . In such cases, this
+      notification should be considered as neutral 38 .
+
+99.   Where the infringement became known to the supervisory authority by, for instance, a complaint or an
+      investigation, this element should also, as a rule, be considered as neutral. The supervisory authority may
+      consider this a mitigating circumstance if the controller or processor notified the infringement out of its own
+      motion, prior to the supervisory authority’s knowledge of the case.
+
+
+      5.7 - Compliance with measures previously ordered with regard to the same subject matter
+100. Article 83(2)(i) GDPR states that “where measures referred to in Article 58(2) have previously been ordered
+      against the controller or processor concerned with regard to the same subject-matter, compliance with those
+      measures” must be considered when deciding whether to impose an administrative fine and deciding on its
+      amount.
+
+101. As opposed to Article 83(2)(e) GDPR, this assessment only refers to measures that supervisory authorities
+      themselves have previously issued to the same controller or processor with regard to the same subject
+      matter 39 .
+
+102. In this respect, the controller or processor might hold reasonable expectations that compliance with
+      measures previously issued against them would prevent a same subject-matter infringement from taking
+      place in the future. However, since compliance with measures previously ordered is mandatory for the data
+      controller or processor, it should not be taken into account as a mitigating factor per se. On the contrary, a
+      reinforced commitment on the part of the controller or processor in the fulfilment of previous measures is
+      required for this factor to apply as mitigating, e.g. taking additional measures beyond those ordered by the
+      supervisory authority.
+
+103. Conversely, non-compliance with a corrective power previously ordered may be considered either as an
+      aggravating factor, or as a different infringement in itself, pursuant to Article 83(5)(e) and Article 83(6) GDPR.
+      Therefore, due note should be taken that the same non-compliant behaviour cannot lead to a situation where
+      it is punished twice.
+
+
+
+      5.8 - Adherence to approved codes of conduct or approved certification mechanisms
+104. Article 83(2)(j) GDPR states that adherence to codes of conduct pursuant to Article 40 GDPR or approved
+      certification mechanisms pursuant to Article 42 GDPR may be a relevant factor.
+
+105. As recalled by Guidelines WP253, adherence to codes of conduct pursuant to Article 40 GDPR or approved
+      certification mechanisms pursuant to Article 42 GDPR may in some circumstances constitute a mitigating
+      factor. Approved codes of conduct will, according to Article 40(4) GDPR, contain “mechanisms which enable
+      the (monitoring) body to carry out mandatory monitoring of compliance with its provisions.” Certain forms
+      of sanctioning non-compliant behaviour may be made through the monitoring scheme, according to Article
+
+      37
+         It should be underlined that a personal data breach does not necessarily imply a GDPR infringement.
+      38 This is underlined by Guidelines WP 253, p. 15.
+      39 Ibid.
+
+
+
+
+                                                                                                                     30
+      Adopted
+
+      41(4) GDPR, including suspension or exclusion of the controller or processor concerned from the code
+      community. Although the supervisory authority can take into account previously imposed sanctions
+      pertaining to the self-regulatory scheme, the powers of the monitoring body are pursuant to Article 41(4)
+      GDPR “without prejudice to the tasks and powers of the competent supervisory authority”, which means
+      that the supervisory authority is not under an obligation to take into account any sanctions by the monitoring
+      body 40 .
+
+106. On the other hand, if failure to comply with the codes of conduct or certification is directly relevant to the
+      infringement, the supervisory authority may consider this an aggravating circumstance.
+
+
+      5.9 - Other aggravating and mitigating circumstances
+107. Article 83(2)(k) GDPR gives the supervisory authority room to take into account any other aggravating or
+      mitigating factors applicable to the circumstances of the case. In the individual case there may be many
+      elements involved, which cannot all be codified or listed and which will have to be taken into account in order
+      to ensure that the sanction applied is effective, proportionate and dissuasive in each individual case.
+
+108. Article 83(2)(k) GDPR mentions examples of “any other aggravating or mitigating factor applicable to the
+      circumstances of the case,” i.e. financial benefits gained, or losses avoided, directly or indirectly, from the
+      infringement. It is considered that this provision is of fundamental importance for adjusting the amount of
+      the fine to the specific case. In this sense, it is considered that it should be interpreted as an instance of the
+      principle of fairness and justice applied to the individual case.
+
+109. The scope of this provision, which is necessarily open-ended, should include all the reasoned considerations
+      regarding the socio-economic context in which the controller or processor operates, those relating to the
+      legal context and those concerning the market context 41 .
+
+110. In particular, economic gain from the infringement could be an aggravating circumstance if the case provides
+      information about profit obtained as a result of the infringement of the GDPR.
+
+111. Exceptional circumstances that can lead to significant changes in the socio-economic context (e.g. the onset
+      of a serious pandemic emergency that could radically change the way processing of personal data is carried
+      out) could also be considered under Article 83(2)(k) GDPR.
+
+       NB: The examples in this Chapter are illustrations of the effect that aggravating and mitigating
+       circumstances may have on the amount of the fine. The increases or decreases mentioned in these
+       imaginary cases cannot be considered precedents or indications of percentages to be used in real
+       life cases.
+
+       Example 7a – Weighing aggravating and mitigating circumstances
+       A sports club used cameras with facial recognition technology at the entrance of one of their
+       locations for the purpose of identifying their clients upon entry. As the sports club did so in
+       contravention of Article 9 GDPR (processing of biometric data without a valid exception), the
+       supervisory authority competent to investigate the infringement decided to impose a fine. Taking
+
+      40
+        Ibid.
+      41
+        The EDPB decided on this matter in EDPB Binding Decision 3/2022 on the dispute submitted by the Irish SA on Meta
+      Platforms Ireland Limited and its Facebook Service (Art. 65 GDPR) (hereinafter referred to as “EDPB Binding Decision
+      3/2022”), paragraph 368.
+
+
+                                                                                                                       31
+       Adopted
+
+ into account all the relevant circumstances of the case, the supervisory authority considered this an
+ infringement with a high level of seriousness, and since the sports club had an annual turnover of
+ €150 million, a starting amount of €2,000,000 (at the very top of the category) was considered
+ appropriate.
+
+ However, the same sports club was fined two years earlier for using fingerprint technology at the
+ turnstiles in another location. The supervisory authority decided to take this into account as a repeat
+ offence (Article 83(2)(e) GDPR). In doing so, it attributed weight to the fact that this concerned nearly
+ the same subject matter and the infringement was committed only two years prior. Because of this
+ aggravating factor, the supervisory authority decided to increase the fine in this particular case to
+ €2,600,000, 42 not exceeding the applicable legal maximum of €20 million.
+
+ NB: The examples in this Chapter are illustrations of the effect that aggravating and mitigating
+ circumstances may have on the amount of the fine. The increases or decreases mentioned in these
+ imaginary cases cannot be considered precedents or indications of percentages to be used in real
+ life cases.
+
+ Example 7b – Weighing aggravating and mitigating circumstances
+ The operator of a short-term car rental platform suffered a data breach, causing the personal data
+ of its clients to have been vulnerable for a short amount of time. Taking into account all the relevant
+ circumstances of the case, the supervisory authority considered the shortcomings of the operator in
+ securing its platform to infringe Article 32 GDPR, to be an infringement of a low level of seriousness,
+ and since the operator had an annual turnover of €255 million, a starting amount of €260,000 was
+ considered appropriate.
+
+ The compromised personal data included copies of drivers’ licences and IDs. For that reason, all
+ clients that suffered from the data breach were forced to reapply for these documents in order to
+ limit the possibility of identity theft. While informing the data subjects of this incident, the operator
+ offered all data subjects assistance in reapplying for these documents with the correct public
+ institutions and created a system to reimburse any fees paid for the application. The supervisory
+ considered this as ‘actions to mitigate the damage suffered by data subjects’ (Article 83(2)(c) GDPR),
+ which had a mitigating effect on the fine. Given the proactive attitude and the effectiveness of the
+ measures taken by the operator, the supervisory authority decided to lower the fine to €225,000, 43
+ again not exceeding the legal maximum of €10 million.
+
+
+
+ The examples in this Chapter are illustrations of the effect that aggravating and mitigating
+ circumstances may have on the amount of the fine. The increases or decreases mentioned in these
+ imaginary cases cannot be considered precedents or indications of percentages to be used in real
+ life cases.
+
+ Example 7c – Weighing aggravating and mitigating circumstances
+
+42 This illustrates that the categories for starting amounts do not limit the supervisory authorities’ abilities to take into
+account aggravating and mitigating circumstances to an amount above or below the categories. As is reiterated in
+Chapter 4.3., these figures are the starting points for further calculation, and not fixed amounts (price tags) for
+infringements of provisions of the GDPR. The supervisory authority retains the discretion to utilise the full fining range
+from a point above €0 until the legal maximum, ensuring that the fine is tailored to the circumstances of the case.
+43 Please see previous footnote.
+
+
+
+
+                                                                                                                         32
+Adopted
+
+A small credit rating agency was found to have infringed several provisions safeguarding data
+subject rights, most notably because it charged its clients a fee for exercising their right to access.
+The agency did so for all access requests, not just those mentioned in Article 12(5)(a) GDPR. Taking
+into account all the relevant circumstances of the case, the supervisory authority considered the
+infringements found to be of a high level of seriousness, and since the agency had an annual turnover
+of €35 million, a starting amount of €100,000 was considered appropriate.
+
+However, the supervisory authority considered the fact that the agency was able to profit from the
+infringement an aggravating circumstance (Article 83(2)(k) GDPR. With a view to counterbalancing
+the gains from the infringement, while maintaining an effective, dissuasive and proportionate fine
+in this case, the supervisory authority decided to increase the fine to €130,000, not exceeding the
+applicable legal maximum of €20 million.
+
+The examples in this Chapter are illustrations of the effect that aggravating and mitigating
+circumstances may have on the amount of the fine. The increases or decreases mentioned in these
+imaginary cases cannot be considered precedents or indications of percentages to be used in real
+life cases.
+
+Example 7d – Weighing aggravating and mitigating circumstances
+A company was found to have infringed provisions of GDPR, most notably because of selling its
+database for commercial prospecting to partners containing personal data related to people who
+did not give their consent to be prospected for commercial purposes.
+
+Considering all the relevant circumstances of the case, the supervisory authority considered the
+infringements found to be of a medium level of seriousness, and since the company had an annual
+turnover of €45 million, a starting amount of €150,000- was considered appropriate.
+
+Moreover, the authority considered that this was an infringement that benefited the controller
+because the fact of not having collected the consent of the people for the transmission of their data
+for the purpose of sending targeting advertising increased the mass of data that it has been able to
+resell afterwards. Thus, the supervisory authority considered the fact that the agency was able to
+profit from the infringement an aggravating circumstance (Article 83(2)(k) GDPR).
+
+With a view to counterbalancing the gains from the infringement, while maintaining an effective,
+dissuasive and proportionate fine in this case, the supervisory authority decided to increase the fine
+to €200,000 not exceeding the applicable legal maximum of €20 million.
+
+
+
+
+                                                                                                          33
+Adopted
+
+      CHAPTER 6 – LEGAL MAXIMUM AND CORPORATE LIABILITY
+      6.1 - Determining the Legal Maximum
+112. As already outlined in the Guidelines WP253, the GDPR does not tag fixed sums to specific infringements.
+      Instead, the GDPR provides for overall maximum amounts 44 and thereby follows the general tradition of EU
+      law on sanctions already established by other legal acts 45 .
+
+113. The amounts in Article 83(4)–(6) GDPR constitute the legal maximum and prohibit the supervisory authorities
+      from imposing fines that in their outcome exceed the applicable maximum amounts. In order to determine
+      the correct legal maximum, Article 83(3) GDPR needs to be taken into account 46 , where applicable (see
+      Chapter 3.1.2). Each supervisory authority therefore has to ensure that these maximum amounts are not
+      exceeded when calculating fines based on these Guidelines. Depending on the individual case, different
+      maximum amounts may become relevant.
+
+      6.1.1 - Static maximum amounts
+114. Article 83(4)–(6) GDPR provide for static amounts as a rule and differentiate between infringements of
+      different categories of obligations under the GDPR. As explained above, Article 83(4) GDPR allows for fines
+      up to €10 million for infringing the obligations outlined therein, while Article 83(5) and (6) GDPR allow for
+      fines up to €20 million for infringing the obligations outlined in them.
+
+      6.1.2 - Dynamic maximum amounts
+115. In case of an undertaking 47 , the fining range may shift towards a higher turnover-based 48 maximum amount.
+      This turnover-based maximum amount is dynamic and individualised towards the respective undertaking in
+      order to achieve the principles of effectiveness, proportionality and deterrence.
+
+116. More specifically, Article 83(4) GDPR allows for a maximum amount of 2% and Article 83(5) and (6) for a
+      maximum amount of 4% of the undertaking’s total annual turnover of the previous financial year. The
+      wording of the GDPR requires consideration of the static maximum amount or the dynamic turnover-based
+      maximum amount, “whichever is higher”. Consequently, these turnover-based maximum amounts only
+      apply if they exceed the static maximum in the individual case. That is the case when the undertaking’s total
+      annual turnover of the previous financial year amounts to more than €500 million.49 .
+
+
+
+
+      44
+         Recital 150 GDPR, second sentence: “This Regulation should indicate infringements and the upper limit and criteria
+      for setting the related administrative fines, which should be determined by the competent supervisory authority in each
+      individual case, taking into account all relevant circumstances of the specific situation, with due regard in particular to
+      the nature, gravity and duration of the infringement and of its consequences and the measures taken to ensure
+      compliance with the obligations under this Regulation and to prevent or mitigate the consequences of the
+      infringement.”
+      45 In particular, Article 23(2) of Regulation (EC) No. 1/2003 of 16 December 2002 on the implementation of the rules on
+
+      competition laid down in Articles 81 and 82 of the Treaty.
+      46 Please see also EDPB Binding Decision 1/2021, paragraph 326.
+      47 As for the term “undertaking”, please note Chapter 6.2.1 of these Guidelines.
+      48 As for the term “turnover”, please note Chapter 6.2.2 of these Guidelines.
+
+      49 2% of 500 million amounts to 10 million (the static maximum amount envisaged in Article 83(4) GDPR) and 4% of
+
+      500 million amounts to 20 million (the static maximum amount envisaged in Article 83(5) GDPR).
+
+
+                                                                                                                             34
+      Adopted
+
+       Example 8a – Dynamic maximum
+       A credit reporting agency (CRA) collects and sells all creditworthiness data of all EU citizens to advertising
+       and retailing companies without a legal basis. The CRA’s annual worldwide turnover of the preceding year
+       amounts to €3 billion. Here, the CRA infringed inter alia Article 6, which can be punished with a fine
+       pursuant to Article 83(5) GDPR. The static maximum would amount to €20 million. The dynamic maximum
+       would amount to €120 million (4% of €3 billion). The fine can amount up to €120 million as this dynamic
+       maximum is higher than the static maximum of €20 million. As a consequence, the fine is allowed to exceed
+       the static maximum of €20 million, but must not exceed the applicable legal maximum of €120 million.
+
+       Example 8b – Static maximum
+       A retailer of sunglasses operates an online shop, which allows customers to place their orders. By way of
+       the order form the retailer processes also personal data, including bank account details. The retailer fails
+       to provide for a proper https transport encryption so that third parties are potentially able to intercept the
+       personal data during the transaction. The retailer infringes Article 32(1) GDPR and can be fined pursuant
+       to Article 83(4) GDPR. The retailer’s annual worldwide turnover of the preceding year amounts to €450
+       million. In this case the static maximum of €10 million is higher than the dynamic maximum of €9 million
+       (=2% of €450 million), so that the maximum of €10 million takes precedence. Therefore, the fine must not
+       exceed the legal maximum of €10 million.
+
+       Example 8c – Controllers and processors that are not an undertaking
+       A municipality has an online system that allows its citizens to register for appointments, such as to apply
+       for a passport or a marriage license. The municipality is the sole controller for this online system.
+       Unfortunately, it is found that the system also transmits on a permanent basis the collected data to external
+       servers of a processor in an inadequate third country, where they are stored. No adequate safeguards are
+       put in place with regard to the third country transfer. Except for the transfer, the data are collected and
+       processed on the basis of valid consent. The municipality infringed Article 44 GDPR by transferring special
+       categories of personal data into an inadequate third country without appropriate safeguards. Therefore, it
+       can be fined pursuant to Article 83(5). As the municipality does not meet the definition of an undertaking
+       the static legal maximum applies, so that the fine must not exceed €20 million. However, this is only the
+       case if the Member State in which this municipality is located has not laid down specific rules on whether
+       and to what extent administrative fines may be imposed on public authorities and bodies established in
+       that Member State (Article 83(7) GDPR).
+
+      6.2 - Determining the undertaking’s turnover and corporate liability
+117. In order to determine the correct turnover for the dynamic legal maximum, it is important to understand the
+      concepts of undertaking and turnover as used in Article 83(4)–(6) GDPR. In this regard, utmost consideration
+      must be given to the recitals of the GDPR, provided by the European legislator for guidance on GDPR
+      interpretation.
+
+      6.2.1 - Determining an undertaking and corporate liability
+118. As for the term “undertaking”, the European legislator provides explicit further clarification. Recital 150 GDPR
+      states: “Where administrative fines are imposed on an undertaking, an undertaking should be understood to
+      be an undertaking in accordance with Articles 101 and 102 TFEU for those purposes.”
+
+
+
+
+                                                                                                                   35
+       Adopted
+
+119. Therefore, Article 83(4)–(6) GDPR in light of recital 150 relies on the concept of undertaking in accordance
+      with Articles 101 and 102 TFEU, 50 without prejudice to Article 4(18) GDPR (which gives a definition of an
+      enterprise) and Article 4(19) GDPR (which defines a group of undertakings). The former concept is mainly
+      used in Chapter V GDPR, in the phrase group of enterprises engaged in a joint economic activity. Besides that,
+      the term is applied in a general sense, not as the addressee of a provision or obligation.
+
+120. Accordingly, in cases where the controller or processor is (part of) an undertaking in the sense of Articles 101
+      and 102 TFEU, the combined turnover of such undertaking as a whole can be used to determine the dynamic
+      upper limit of the fine (see Chapter 6.2.2), and to ensure that the resulting fine is in line with the principles
+      of effectiveness, proportionality and dissuasiveness (Article 83(1) GDPR) 51 .
+
+121. The CJEU has developed a vast body of case law on the concept of undertaking. The term “undertaking”,
+      “encompasses every entity engaged in an economic activity, regardless of the legal status of the entity and
+      the way in which it is financed.” 52 For the purpose of competition law, "undertakings” are therefore identified
+      with economic units rather than legal units. Different companies belonging to the same group can form an
+      economic unit and therefore an undertaking within the meaning of Articles 101 and 102 TFEU 53 .
+
+122. In line with settled CJEU case law, the term undertaking in Articles 101 and 102 TFEU can refer to a single
+      economic unit (SEU), even if that economic unit consists of several natural or legal persons. Whether several
+      entities form a SEU depends largely on whether the individual entity is free in its decision-making ability or
+      whether a leading entity, namely the parent company, exercises decisive influence over the others. 54 The
+      criteria for determining this are based on the economic, legal and organisational links between the parent
+      company and its subsidiary, for example, the amount of the participation, personnel or organisational ties,
+      instructions and the existence of company contracts 55 .
+
+123. In line with the SEU doctrine, Article 83(4)–(6) GDPR follow the principle of direct corporate liability, which
+      entails that all acts performed or neglected by natural persons authorised to act on behalf of undertakings
+
+
+      50 As already clarified in WP 253 and later confirmed by the EDPB in Endorsement 1/2018 on 25 May 2018. See also
+      EDPB Binding Decision 1/2021, paragraph 292 and Regional Court LG Bonn, case 29 OWi 1/20, 11 November 2020,
+      paragraph 92.
+      51 See EDPB Binding Decision 1/2021, paragraphs 412 and 423, and also cases C-286/13 P, Dole food and Dole Fresh Fruit
+
+      Europe v. European Commission, paragraph 149 and C-189/02 P, Dansk Rørindustri and Others v. Commission, paragraph
+      258.
+      52 Case C-41/90, Klaus Höfner and Fritz Elser v. Macrotron GmbH, paragraph 21. See also, for example, joined cases C-
+
+      159 and 160/91, Poucet and Pistre v. Assurances Générales de France, paragraph 17; case C-364/92, SAT Fluggesellschaft
+      mbH v. Eurocontrol, paragraph 18; joined cases C-180 to 184/98, Pavlov and Others, paragraph 74; and case C-138/11,
+      Compass-Datenbank GmbH v. Republik Österreich, paragraph 35.
+      53 Case C-516/15 P, Akzo Nobel and Others v Commission, paragraph 48.
+      54 To clarify, the “decision-making ability” that falls to be assessed for the purpose of establishing whether a parent
+
+      company exercises decisive influence over others in the group relates to the decision-making ability in relation to the
+      conduct of the subsidiary “on the market”. This is different to, and entirely separate from, the influence that a parent
+      company may or may not have over the processing concerned and, in particular, the ability to make decisions in
+      relation to “the purposes and means” of the processing. Such matters fall to be assessed as part of any examination of
+      the identity of the data controller, and are not relevant to the assessment of decisive influence for the purpose of
+      establishing a single economic unit.
+      55 See case C-90/09 P, General Química and Others v Commission. The main criterion to establish this is “decisive
+
+      influence”, which should be constructed based on factual evidence (economic, organisational and legal links). Moreover,
+      there is a rebuttable presumption of influence in case of a wholly owned subsidiary. See case C-97/08 P, Akzo Nobel and
+      Others v Commission and joined cases C-293/13 and 294/13 P, Fresh Del Monte.
 
 
 
                                                                                                                            36
-       Adotadas
+       Adopted
 
-máximo estático no caso individual. É esse o caso quando o volume de negócios anual total da empresa no
-exercício financeiro anterior for superior a 500 milhões de EUR 49.
+      are attributable to the latter and are considered as an act and infringement directly committed by the
+      undertaking itself. 56 The fact that certain employees did not comply with a code of conduct is not sufficient
+      to disrupt this attribution. 57 .Rather it is only disrupted where the natural person acts solely for its own private
+      purposes or for purposes of a third party, thereby becoming itself a separate controller (i.e. the natural
+      person has acted in excess of their permitted remit) 58 . This European Union law principle and scope of
+      corporate liability takes precedence and must not be undermined by limiting it to the acts of certain
+      functionaries (like principal managers) by contradicting national law. It is not relevant which natural person
+      acted on behalf of which of the entities. The supervisory authority and national courts therefore must not be
+      required to determine or identify a natural person in the investigations or the fining decision 59.
 
+124. In the specific case where a parent company holds 100% of shares or almost 100% of shares in a subsidiary
+      which has infringed Article 83 GDPR and therefore is able to exercise decisive influence over the conduct of
+      its subsidiary, a presumption arises that the parent company does in fact exercise this decisive influence over
+      the conduct of its subsidiary (so-called Akzo presumption) 60 . This also applies if the parent company does not
+      directly hold the shares in the total capital directly, but indirectly through one or more subsidiaries. 61 For
+      example, there might also be a chain of subsidiaries, where one entity holds 100% or almost 100% of shares
+      of an intermediate entity that holds 100% or almost 100% of shares of another entity, and so forth. Also a
+      parent company might hold 100% or almost 100% of shares of two entities that each hold about 50% of an
+      entity, thereby providing the parent company with decisive influence on all of them. In those circumstances,
+      it is sufficient for the supervisory authority to prove that the subsidiary is directly or indirectly wholly or
+      almost wholly owned by the parent company in order to presume – as a rule of practical experience – that
+      the parent exercises a decisive influence.
 
- Exemplo 8a – Limite máximo dinâmico
- Uma agência de informação de crédito recolhe e vende todos os dados relativos à capacidade de
- endividamento de todos os cidadãos da UE a empresas de publicidade e de venda a retalho sem base
- jurídica. O volume de negócios anual da agência a nível mundial correspondente ao ano anterior ascende
- a 3 mil milhões de EUR. Neste caso, a agência de informação de crédito violou, nomeadamente, o
- artigo 6.º, o que é passível de punição com uma coima nos termos do artigo 83.º, n.º 5, do RGPD. O limite
- máximo estático ascenderia a 20 milhões de EUR e o limite máximo dinâmico situar-se-ia nos 120 milhões
- de EUR (4 % de 3 mil milhões de EUR). A coima pode ascender a 120 milhões de EUR, uma vez que este
- limite máximo dinâmico é superior ao limite máximo estático de 20 milhões de EUR. Consequentemente, a
- coima pode exceder o limite máximo estático de 20 milhões de EUR, mas não pode exceder o limite máximo
- legal aplicável de 120 milhões de EUR.
+125. However, the Akzo presumption is not an absolute one, but can be rebutted by other evidence 62 . In order to
+      rebut the presumption, the company (ies) must provide evidence relating to the organisational, economic
+      and legal links between the subsidiary and its parent company which are apt to demonstrate that they do
+      not constitute a SEU despite holding 100% or almost 100% of shares. In order to ascertain whether a
+      subsidiary itself acts autonomously, account must be taken of all the relevant factors relating to those links
+      that tie the subsidiary to the parent company, which may vary from case to case and cannot therefore be set
+      out in an exhaustive list.
 
- Exemplo 8b – Limite máximo estático
- Um retalhista de óculos de sol explora uma loja em linha, que permite aos clientes fazer as suas
- encomendas. Através da nota de encomenda, o retalhista trata também os dados pessoais, incluindo os
- dados de conta bancária. O retalhista não assegura uma cifragem adequada de transporte https, sendo,
- assim, possível que terceiros intercetem os dados pessoais durante a transação. O retalhista viola o
- artigo 32.º, n.º 1, do RGPD e pode ser alvo de uma coima nos termos do artigo 83.º, n.º 4, do RGPD. O
- volume de negócios anual do retalhista a nível mundial correspondente ao ano anterior ascende a
- 450 milhões de EUR. Neste caso, o limite máximo estático de 10 milhões de EUR é superior ao limite
- máximo dinâmico de 9 milhões de EUR (= 2 % de 450 milhões de EUR), pelo que prevalece o limite máximo
- de 10 milhões de EUR. Por conseguinte, a coima não pode exceder o limite máximo legal de 10 milhões de
- EUR.
+126. If, on the other hand, the parent company does not hold all or almost all of the capital, additional facts must
+      be evidenced by the supervisory authority to justify the existence of an SEU. In such a case, the supervisory
+      authority has to demonstrate, not only that the parent company has the ability to exercise decisive influence
+      over the subsidiary, but also that it has actually exercised such decisive influence so that it can intervene at
+      any time in the subsidiary's freedom of choice and determine its behaviour. The nature or type of instruction
+      is irrelevant when determining the parent company’s influence.
 
- Exemplo 8c – Responsáveis pelo tratamento e subcontratantes que não são empresas
- Um município dispõe de um sistema em linha que permite aos seus cidadãos registarem-se para efeitos de
- atendimento, nomeadamente para solicitar um passaporte ou uma licença de casamento. O município é o
- único responsável pelo tratamento em relação a este sistema em linha. Infelizmente, verifica-se que o
- sistema também transmite, de forma permanente, os dados recolhidos para servidores externos de um
- subcontratante num país terceiro inadequado, onde são armazenados. Não existem salvaguardas
- adequadas no que diz respeito à transferência para o país terceiro. Com exceção da transferência, os dados
- são recolhidos e tratados com base num consentimento válido. O município violou o artigo 44.º do RGPD
- ao transferir categorias especiais de dados pessoais para um país terceiro inadequado sem garantias
- adequadas. Por conseguinte, pode ser alvo de coima nos termos do artigo 83.º, n.º 5. Uma vez que o
- município não corresponde à definição de empresa, aplica-se o limite máximo legal estático, pelo que a
- coima não pode exceder 20 milhões de EUR. No entanto, só é esse o caso se o Estado-Membro em que se
- situa o município não tiver estabelecido regras específicas para determinar se, e em que medida, podem
- ser aplicadas coimas às autoridades e organismos públicos estabelecidos nesse Estado-Membro
- (artigo 83.º, n.º 7, do RGPD).
+      56
+         See joined cases C-100 to 103/80, SA Musique Diffusion française and others v Commission, paragraph 97 and case C-
+      338/00 P, Volkswagen v Commission, paragraphs 93 to 98.
+      57 Case C-501/11 P, Schindler Holding and Others v Commission, paragraph 114; Therefore, it is important for
 
+      corporations that their compliance management system is not a mere “paper shield”, but actually effective in practice.
+      58 See in particular Guidelines 07/2020 on the concepts of controller and processor in the GDPR (hereinafter referred to
 
+      as “EDPB Guidelines 07/2020”), paragraph 19.
+      59 Case C-338/00 P, Volkswagen v Commission, paragraphs 97 and 98; any conflicting national legislation is incompliant
 
+      with the GDPR and the principle of effectiveness and insofar must not be applied.
+      60 Case C-97/08 P, Akzo Nobel and Others v Commission, paragraphs 59 and 60.
 
-49
-  2 % de 500 milhões corresponde a 10 milhões (o montante máximo estático previsto no artigo 83.º, n.º 4, do RGPD)
-e 4 % de 500 milhões corresponde a 20 milhões (o montante máximo estático previsto no artigo 83.º, n.º 5, do RGPD).
+      61 Cases T-38/05, Agroexpansión v Commission and C-508/11 P, Eni v Commission, paragraph 48.
+      62 See, among others, case C-595/18 P, The Goldman Sachs Group v Commission, ECLI: EU: C: 2021:73, paragraph 32,
 
-
-                                                                                                                 37
-Adotadas
-
-       6.2 – Determinação do volume de negócios e da responsabilidade da empresa
-117.   A fim de determinar o volume de negócios correto para o limite máximo legal dinâmico, é importante
-       compreender os conceitos de empresa e de volume de negócios utilizados no artigo 83.º, n.os 4 a 6, do RGPD.
-       A este respeito, deve ser dada a máxima atenção aos considerandos do RGPD, fornecidos pelo legislador
-       europeu para orientação sobre a interpretação do RGPD.
-
-       6.2.1 – Determinação de uma empresa e da responsabilidade da empresa
-118.   Quanto ao termo «empresa», o legislador europeu fornece esclarecimentos adicionais explícitos. O
-       considerando 150 do RGPD determina: «Sempre que forem impostas coimas a empresas, estas deverão ser
-       entendidas como empresas nos termos dos artigos 101.º e 102.º do TFUE para esse efeito».
-
-119.   Por conseguinte, o artigo 83.º, n.os 4 a 6, do RGPD, à luz do considerando 150, baseia-se no conceito de
-       empresa em conformidade com os artigos 101.º e 102.º do TFUE 50, sem prejuízo do artigo 4.º, n.º 18, do
-       RGPD (que apresenta uma definição de empresa) e do artigo 4.º, n.º 19, do RGPD (que define um grupo
-       empresarial). O primeiro conceito é utilizado principalmente no capítulo V do RGPD, na frase «grupo de
-       empresas envolvidas numa atividade económica conjunta». Além disso, o termo é aplicado em termos gerais
-       e não como destinatário de uma disposição ou de uma obrigação.
-
-120.   Desta forma, nos casos em que o responsável pelo tratamento ou o subcontratante é (parte de) uma empresa
-       na aceção dos artigos 101.º e 102.º do TFUE, o volume de negócios combinado dessa empresa no seu
-       conjunto pode ser utilizado para determinar o limite máximo dinâmico da coima (ver capítulo 6.2.2) e para
-       assegurar que a coima resultante está em conformidade com os princípios da efetividade, da
-       proporcionalidade e da dissuasão (artigo 83.º, n.º 1, do RGPD) 51.
-
-121.   O TJUE desenvolveu uma vasta jurisprudência sobre o conceito de empresa. O termo «empresa» «abrange
-       qualquer entidade que exerça uma atividade económica, independentemente do seu estatuto jurídico e do
-       seu modo de financiamento» 52 . Na aceção do direito da concorrência, as «empresas» são, portanto,
-       identificadas como unidades económicas e não como unidades jurídicas. As diferentes sociedades
-       pertencentes ao mesmo grupo podem constituir uma unidade económica e, portanto, uma empresa na
-       aceção dos artigos 101.º e 102.º do TFUE 53.
-
-122.   Em conformidade com a jurisprudência constante do TJUE, o termo «empresa» nos artigos 101.º e 102.º do
-       TFUE pode referir-se a uma unidade económica única, mesmo que essa unidade económica seja constituída
-       por várias pessoas singulares ou coletivas. O facto de várias entidades constituírem uma unidade económica
-       única depende, em grande medida, da questão de saber se a entidade individual é livre na sua capacidade
-       de decisão ou se uma entidade líder, ou seja, a sociedade-mãe, exerce uma influência determinante sobre
-
-
-       50
-          Conforme já clarificado nas Diretrizes WP 253 e posteriormente confirmado pelo CEPD na Aprovação 1/2018 de 25
-       de maio de 2018. Ver também a Decisão vinculativa 1/2021 do CEPD, ponto 292, e o acórdão do Tribunal Regional LG
-       Bonn no processo 29 OWi 1/20, de 11 de novembro de 2020, n.º 92.
-       51
-          Ver Decisão vinculativa 1/2021 do CEPD, pontos 412 e 423, bem como os processos C-286/13 P, Dole food e Dole
-       Fresh Fruit Europe/Comissão Europeia, n.º 149, e C-189/02 P, Dansk Rørindustri e o./Comissão, n.º 258.
-       52
-          Processo C-41/90, Klaus Höfner e Fritz Elser/Macroton GmbH, n.º 21. Ver também, por exemplo, os processos
-       apensos C-159 e 160/91, Poucet e Pistre/Assurances Générales de France, n.º 17; o processo C-364/92, SAT
-       Fluggesellschaft mbH/Eurocontrol, n.º 18; os processos apensos C-180 a 184/98, Pavlov e o., n.º 74; e o processo C-
-       138/11, Compass-Datenbank GmbH/Republik Österreich, n.º 35.
-       53
-          Processo C-516/15 P, Akzo Nobel e o./Comissão, n.º 48.
+      quoting case C 611/18 P, Pirelli & C. v Commission, not published, paragraph 68, and the case-law cited.
 
 
 
+                                                                                                                          37
+       Adopted
 
-                                                                                                                       38
-       Adotadas
-
-       as outras 54. Os critérios de determinação baseiam-se nos vínculos económicos, jurídicos e organizacionais
-       entre a sociedade-mãe e a filial, por exemplo, o montante da participação, as relações de pessoal ou de
-       organização, as instruções e a existência de contratos de sociedade 55.
-
-123.   Em consonância com a doutrina da unidade económica única, o artigo 83.º, n.os 4 a 6, do RGPD segue o
-       princípio da responsabilidade direta das empresas, que implica que todos os atos praticados ou
-       negligenciados por pessoas singulares autorizadas a agir em nome de empresas são imputáveis a estas
-       últimas e são considerados um ato e uma infração diretamente cometidos pela própria empresa 56. O facto
-       de certos funcionários não terem respeitado um código de conduta não basta para perturbar esta
-       imputação 57. Ao invés, a imputação só é perturbada quando a pessoa singular atua exclusivamente para os
-       seus próprios fins privados ou para fins de terceiros, tornando-se assim outro responsável pelo tratamento
-       (ou seja, a pessoa singular agiu para além das competências que lhe foram atribuídas) 58. Este princípio do
-       direito da União Europeia e âmbito de aplicação da responsabilidade das empresas prevalece e não pode ser
-       posto em causa ao limitá-lo aos atos de certos funcionários (como os principais dirigentes), contrariando o
-       direito nacional. Não é relevante qual a pessoa singular que atuou em nome de qual das entidades. Por
-       conseguinte, a autoridade de controlo e os tribunais nacionais não podem ser obrigados a determinar ou
-       identificar uma pessoa singular na investigação ou na decisão de aplicação de coimas 59.
-
-124.   No caso especial de uma sociedade-mãe deter 100 % do capital ou quase 100 % do capital de uma filial que
-       violou o artigo 83.º do RGPD e, por conseguinte, poder exercer uma influência determinante no
-       comportamento dessa filial, presume-se que a sociedade-mãe exerce efetivamente essa influência
-       determinante no comportamento da sua filial (a chamada presunção Akzo) 60 . O mesmo se aplica se a
-       sociedade-mãe não detiver diretamente as participações no capital total, mas antes indiretamente através
-       de uma ou várias filiais 61. Por exemplo, pode também existir uma cadeia de filiais, em que uma entidade
-       detém 100 % ou quase 100 % do capital de uma entidade intermediária que detém 100 % ou quase 100 %
-       do capital de outra entidade, e por aí adiante. Além disso, uma sociedade-mãe pode deter 100 % ou quase
-       100 % do capital de duas entidades, em que cada uma detém cerca de 50 % de uma entidade, conferindo
-       assim à sociedade-mãe uma influência determinante sobre todas elas. Nestas condições, basta que a
+127. The fine is imposed 63 on the (joint-) controller(s)/processor(s), and the competent supervisory authority has
+      the option to hold the parent company jointly and severally liable 64 for the payment of the fine.
 
 
-       54
-          A título de esclarecimento, a «capacidade de decisão» que deve ser avaliada para determinar se uma sociedade-mãe
-       exerce uma influência determinante sobre outras do grupo diz respeito à capacidade de decisão em relação à conduta
-       da filial «no mercado». Tal é diferente e totalmente distinto da influência que uma sociedade-mãe pode ou não ter
-       sobre o tratamento em causa e, em especial, a capacidade de tomar decisões em relação às «finalidades e meios» do
-       tratamento. Essas questões devem ser apreciadas no âmbito de qualquer exame da identidade do responsável pelo
-       tratamento e não são relevantes para a avaliação da influência determinante para efeitos de estabelecimento de uma
-       unidade económica única.
-       55
-          Ver processo C-90/09 P, General Química e o./Comissão. O principal critério para apuramento desta questão é a
-       «influência determinante», que deve ser calculada com base em elementos factuais (vínculos económicos,
-       organizacionais e jurídicos). Além disso, existe uma presunção ilidível de influência no caso de uma filial a 100 %. Ver
-       processo C-97/08 P, Akzo Nobel e o./Comissão e processos apensos C-293/13 e 294/13 P, Fresh Del Monte.
-       56
-          Ver processos apensos C-100 a 103/80, SA Musique Diffusion française e o./Comissão, n.º 97, e processo C-338/00 P,
-       Volkswagen/Comissão, n.os 93 a 98.
-       57
-          Processo C-501/11 P, Schindler Holding e o./Comissão, n.º 114. Desta forma, é importante para as sociedades que o
-       seu sistema de gestão da conformidade não seja um mero «escudo em papel», revelando-se realmente eficaz na prática.
-       58
-          Ver, em especial, as Diretrizes 07/2020 sobre os conceitos de responsável pelo tratamento e subcontratante no RGPD
-       (a seguir designadas por «Diretrizes 07/2020 do CEPD»), ponto 19.
-       59
-          Processo C-338/00 P, Volkswagen/Comissão, n.os 97 e 98; qualquer legislação nacional contrária não está em
-       conformidade com o RGPD e com o princípio da efetividade, pelo que, nessa medida, não pode ser aplicada.
-       60
-          Processo C-97/08 P, Akzo Nobel e o./Comissão, n.os 59 e 60.
-       61
-          Processo T-38/05, Agroexpansión/Comissão, e processo C-508/11 P, Eni/Comissão, n.º 48.
+      6.2.2 - Determining the turnover
+128. Turnover is taken from the annual accounts of an undertaking, which are drawn up with reference to its
+      business year and provide an overview of the past financial year of a company or of a group of companies
+      (consolidated accounts). Turnover is defined as the sum of all goods and services sold. Net turnover means
+      the amount derived from the sale of products and the provision of services after deducting sales rebates and
+      value added tax (VAT) and other taxes directly linked to turnover 65 .
 
+129. Turnover is taken from the presentation of the profit and loss account. 66 Net turnover includes revenue from
+      the sale, rental and leasing of products and revenue from the sale of services less sales deductions (e.g.
+      rebates, discounts) and VAT.
+
+130. If the undertaking is subject to the obligation to prepare consolidated annual financial statements, 67 these
+      consolidated financial statements of the parent company heading the group are relevant for reflecting the
+      combined turnover of the undertaking. 68 If such statements do not exist, any other documents shall be
+      obtained and used that are apt to infer the worldwide annual turnover of the undertaking in the relevant
+      business year.
+
+131. Article 83(4)–(6) GDPR state that the total worldwide annual turnover of the preceding financial year is to be
+      used. As to the question of which event the term “preceding” relates to, the CJEU case law in competition
+      law is also to be applied for GDPR fines so that the relevant event is the fining decision issued by the
+      supervisory authority and neither the time of infringement nor the court decision. 69 In case of cross-border
+      processing the relevant fining decision is not the draft decision, but rather the final decision issued by the
+      Lead Supervisory Authority. 70 Where the draft decision enters the Article 60 co-decision-making process
+      towards the end of a calendar year, such that the final decision is unlikely to be adopted within that same
+      calendar year, the Lead Supervisory Authority will calculate any proposed fine by reference to the most up
+      to date financial information available as at the date on which the draft decision is circulated to the
+
+      63 The decision in which the fine is imposed is addressed and delivered to the controller(s)/processor(s) as the
+
+      offender(s) of the infringement and can additionally be addressed and delivered to other legal entities of the SEU that
+      are jointly and severally liable for the fine.
+      64 EDPB Binding Decision 1/2021, paragraph 290.
+      65 See e.g., Article 2(5) of Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the
+
+      annual financial statements, consolidated financial statements and related reports of certain types of undertakings,
+      amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives
+      78/660/EEC and 83/349/EEC (hereinafter “Directive 2013/34/EU”), which is applicable to companies with limited
+      liability, or similar applicable legislation and Article 5(1) of Council Regulation (EC) No. 139/2004 on the control of
+      concentrations between undertakings (hereinafter “EC Merger Regulation”).
+      66 See e.g., Annexes V or VI to Article 13(1) of Directive 2013/34/EU under the heading “net turnover”, or similar
+
+      applicable legislation.
+      67 See, for example, Article 21 et seq. of Directive 2013/34/EU, or similar applicable legislation.
+      68 C-58/12 P Groupe Gascogne SA v European Commission, ECLI:EU:C:2013:770, paragraphs 54-55.
+      69 Regional Court LG Bonn, case 29 OWi 1/20, 11 November 2020, paragraph95, referencing case C-637/13 P,
+
+      Badezimmerkartell Laufen Austria, para. 49 and case C-408/12 P, YKK et al, para. 90..
+      70 EDPB Binding Decision 1/2021, paragraph 298.
+
+
+
+
+                                                                                                                          38
+       Adopted
+
+      supervisory authorities concerned for their views. That information will then be updated, as required, prior
+      to the finalisation and adoption of the final national decision by the Lead Supervisory Authority.
+
+
+      CHAPTER 7 – EFFECTIVENESS, PROPORTIONALITY AND DISSUASIVENESS
+132. It is required that the administrative fine imposed for infringements of the GDPR referred to in Article 83(4)–
+      (6) shall in each individual case be effective, proportionate and dissuasive. In other words, the amount of the
+      fine imposed is tailored to the infringement committed in its specific context. The EDPB considers it
+      incumbent upon the supervisory authorities to verify whether the amount of the fine meets these
+      requirements, or whether further adjustments to the amount are necessary.
+
+133. As explained in Chapter 4, the evaluation performed in this Chapter covers the entirety of the fine imposed
+      and all the circumstances of the case, including e.g. the accumulation of multiple infringements, increases
+      and decreases for aggravating and mitigating circumstances and financial/socio-economic circumstances. It
+      is, however, incumbent upon the supervisory authority to ensure that the same circumstances are not
+      counted twice.
+
+134. In case these adjustments merit an increase in fine, such increase can – by definition – not exceed the legal
+      maximum identified in Chapter 6 above.
+
+      7.1 - Effectiveness
+135. Generally speaking, a fine can be considered effective if it achieves the objectives with which it was imposed.
+      This could be to re-establish compliance with the rules, to punish unlawful behaviour, or both. 71 Moreover,
+      Recital 148 GDPR emphasises that administrative fines should be imposed “in order to strengthen the
+      enforcement of the rules of this Regulation.” The amount of the fine imposed on the basis of these Guidelines
+      should therefore be sufficient to meet these objectives.
+
+136. As Article 83(2) GDPR requires, the supervisory authority has to evaluate the effectiveness of the fine in each
+      individual case. To that end, due regard must be given to the circumstances of the case, and in particular to
+      the assessment made above, 72 bearing in mind that the fine should also be proportionate and dissuasive as
+      outlined below.
+
+      7.2 - Proportionality
+137. The principle of proportionality requires that measures adopted do not exceed the limits of what is
+      appropriate and necessary in order to attain the objectives legitimately pursued by the legislation in question;
+      where there is a choice between several appropriate measures, recourse must be had to the least onerous,
+      and the disadvantages caused must not be disproportionate to the aims pursued 73 .
+
+
+
+      71
+         Guidelines WP 253, p. 6.
+      72
+         As Recital 148 GDPR also outlines: “the nature, gravity and duration of the infringement, the intentional character of
+      the infringement, actions taken to mitigate the damage suffered, degree of responsibility or any relevant previous
+      infringements, the manner in which the infringement became known to the supervisory authority, compliance with
+      measures ordered against the controller or processor, adherence to a code of conduct and any other aggravating or
+      mitigating factor”.
+      73 Case T-704/14, Marine Harvest v Commission, paragraph 580, referencing case T‑332/09, Electrabel v Commission,
+
+      paragraph 279.
 
 
 
                                                                                                                             39
-       Adotadas
+       Adopted
 
-       autoridade de controlo prove que a filial é detida direta ou indiretamente, no todo ou na quase totalidade,
-       pela sociedade-mãe para presumir — como regra da experiência prática — que a sociedade-mãe exerce uma
-       influência determinante.
+138. It follows that fines must not be disproportionate to the aims pursued (i.e. compliance with the rules relating
+      to the protection of natural persons with regard to the processing of personal data and rules relating to the
+      free movement of personal data), and that the amount of the fine imposed must be proportionate to the
+      infringement, viewed as a whole, account being taken, in particular, of the gravity of the infringement 74 .
 
-125.   No entanto, a presunção Akzo não é absoluta, podendo ser ilidida por outros elementos de prova 62. Para
-       ilidir a presunção, as sociedades devem fornecer elementos de prova relativos aos vínculos organizacionais,
-       económicos e jurídicos entre a filial e a sua sociedade-mãe, suscetíveis de demonstrar que não constituem
-       uma unidade económica única apesar de deterem 100 % ou quase 100 % do capital. Para apurar se uma filial
-       atua ela própria de forma autónoma, há que ter em conta todos os elementos relevantes relativos a esses
-       vínculos de união da filial à sociedade-mãe, que podem variar de caso para caso e não podem, portanto, ser
-       enumerados de forma exaustiva.
+139. The supervisory authority shall therefore verify that the amount of the fine is proportionate both to the
+      severity of the infringement and to the size of the undertaking to which the entity that committed the
+      infringement belongs, 75 and that the fine imposed shall thereby not exceed what is necessary to achieve the
+      objectives pursued by the GDPR.
 
-126.   Se, pelo contrário, a sociedade-mãe não detiver a totalidade ou a quase totalidade do capital, a autoridade
-       de controlo deve provar factos adicionais que justifiquem a existência de uma unidade económica única.
-       Nesse caso, a autoridade de controlo tem de demonstrar não só que a sociedade-mãe tem capacidade para
-       exercer uma influência determinante sobre a filial, mas também que exerceu efetivamente essa influência
-       determinante para poder intervir a qualquer momento na liberdade de escolha da filial e determinar o seu
-       comportamento. A natureza ou o tipo de instrução é irrelevante para determinar a influência da sociedade-
-       mãe.
+140. As a particular derivative of the principle of proportionality, the supervisory authority may consider – in
+      accordance with national law – to further reduce the fine on the basis of the principle of inability to pay. Any
+      such reduction requires exceptional circumstances. In line with the European Commission’s Guidelines on
+      the method of setting fines 76 , there has to be objective evidence that the imposition of the fine would
+      irretrievably jeopardise the economic viability of the undertaking concerned. Furthermore, the risks need to
+      be analysed in a specific social and economic context.
 
+            a) Economic viability: The undertaking is required to provide detailed financial data (for the last five
+               years as well as projections for the current and next two years) to allow the supervisory authority
+               to examine the likely future development of key factors such as solvency, liquidity and profitability.
+               The European Courts have stated that, the mere circumstance that an undertaking is in a poor
+               financial situation, or will be after a large fine, does not meet the requirement “since recognition
+               of such an obligation would be tantamount to giving an unjustified competitive advantage to
+               undertakings least well adapted to the market conditions.” 77 The assessment of the undertaking’s
+               ability to pay the fine considers also possible restructuring plans and their state of implementation,
+               relations with external financial partners/institutions such as banks and relations with
+               shareholders 78 .
 
-127.   A coima é aplicada 63 ao ou aos responsáveis (conjuntos) pelo tratamento/subcontratantes, e a autoridade
-       de controlo competente tem a possibilidade de responsabilizar solidariamente a sociedade-mãe 64 pelo
-       pagamento da coima.
+            b) Proof of value loss: A fine reduction may be granted only if the imposition of the fine would
+               jeopardise the economic viability of an undertaking and cause its assets to lose all or most of their
+               value. 79 A direct causal link between the fine and the significant loss of value of the assets must be
+               shown. There is no automatic acceptance that bankruptcy or insolvency will necessarily result in
+               significant loss of asset value. Furthermore, there can be no question of the fine having threatened
 
+      74 Ibid.
+      75 See, to this effect, case C-387/97, Commission v Greece, paragraph 90, and case C-278/01, Commission v Spain,
+      paragraph 41, in which the fine needed to be “appropriate to the circumstances and proportionate both to the breach
+      that has been established and to the ability to pay of the Member State concerned.”
+      76 See on this principle, for instance, the Commission Guidelines on the method of setting fines imposed pursuant to
 
-       6.2.2 – Determinação do volume de negócios
-128.   O volume de negócios é apurado com base nas contas anuais de uma empresa, que são elaboradas em função
-       do exercício fiscal e fornecem uma panorâmica do exercício anterior de uma sociedade ou de um grupo de
-       sociedades (contas consolidadas). O volume de negócios é definido como a soma de todos os bens e serviços
-       vendidos. Por «volume de negócios líquido» entende-se o montante que resulta da venda dos produtos e da
-       prestação de serviços, após dedução dos descontos e abatimentos sobre vendas, do imposto sobre o valor
-       acrescentado (IVA) e de outros impostos diretamente ligados ao volume de negócios 65.
+      Article 23(2)(a) of Regulation No 1/2003 (2006/C 210/02).
+      77 See joined cases C-189/02 P, C-202/02 P, C-205/02 P to C-208/02 P and C-213/02 P, Dansk Rørindustri and Others v
 
+      Commission, paragraph 327, citing joined cases 96/82 to 102/82, 104/82, 105/82, 108/82 and 110/82, NV IAZ
+      International Belgium and others v Commission, paragraphs 54 and 55. This was repeated more recently in case C-
+      308/04 P, SGL Carbon v Commission, paragraph 105, and case T-429/10 (Joined Cases T-426/10, T-427/10, T-428/10, T-
+      429/10, T-438/12, T-439/12, T-440/12, T-441/12), Global Steel Wire v Commission, paragraphs 492-493.
+      78 See case T-429/10 (Joined Cases T-426/10, T-427/10, T-428/10, T-429/10, T-438/12, T-439/12, T-440/12, T-441/12),
 
+      Global Steel Wire v Commission, paragraphs. 521 to 527.
+      79 See joined cases T-236/01, T-239/01, T-244/01 to T-246/01, T-251/01 and T-252/01, Tokai Carbon and Others v
 
-
-       62
-          Ver, entre outros, o processo C-595/18 P, The Goldman Sachs Group/Comissão, ECLI: EU: C: 2021:73, n.º 32, citando
-       o processo C-611/18 P, Pirelli & C./Comissão, não publicado, n.º 68 e jurisprudência referida.
-       63
-          A decisão pela qual a coima é aplicada é dirigida e entregue ao ou aos responsáveis pelo tratamento/subcontratantes
-       enquanto autores da infração e pode também ser dirigida e entregue a outras entidades jurídicas da unidade económica
-       única que sejam solidariamente responsáveis pela coima.
-       64
-          Decisão vinculativa 1/2021 do CEPD, ponto 290.
-       65
-          Ver, por exemplo, o artigo 2.º, n.º 5, da Diretiva 2013/34/UE do Parlamento Europeu e do Conselho, de 26 de junho
-       de 2013, relativa às demonstrações financeiras anuais, às demonstrações financeiras consolidadas e aos relatórios
-       conexos de certas formas de empresas, que altera a Diretiva 2006/43/CE do Parlamento Europeu e do Conselho e revoga
-       as Diretivas 78/660/CEE e 83/349/CEE do Conselho (a seguir designada por «Diretiva 2013/34/UE»), que é aplicável às
-       sociedades de responsabilidade limitada, ou legislação aplicável semelhante, e o artigo 5.º, n.º 1, do Regulamento (CE)
-       n.º 139/2004 do Conselho relativo ao controlo das concentrações de empresas (a seguir designado por «Regulamento
-       das concentrações comunitárias»).
-
-
+      Commission, paragraph 372 and case T-64/02, Heubach v Commission, paragraph 163. See case T-393/10 INTP,
+      Westfälische Drahtindustrie and Others v Commission, paragraphs 293 and294.
 
 
-                                                                                                                           40
-       Adotadas
 
-129.   O volume de negócios é obtido a partir da apresentação da demonstração de resultados 66. O volume de
-       negócios líquido inclui as receitas da venda, aluguer e locação financeira de produtos e as receitas da venda
-       de serviços menos as deduções sobre as vendas (por exemplo, abatimentos, descontos) e o IVA.
+                                                                                                                       40
+       Adopted
 
-130.   Se a empresa estiver sujeita à obrigação de elaborar demonstrações financeiras anuais consolidadas 67, estas
-       demonstrações financeiras consolidadas da sociedade-mãe que lidera o grupo são relevantes para refletir o
-       volume de negócios combinado da empresa 68 . Se essas declarações não existirem, devem ser obtidos e
-       utilizados quaisquer outros documentos suscetíveis de inferir o volume de negócios anual da empresa a nível
-       mundial no exercício em causa.
+                 the economic viability of an undertaking when that undertaking had itself decided to terminate its
+                 activities and to sell all its assets. The undertaking must prove that it will likely exit the market, and
+                 its assets will be dismantled or sold at substantially discounted prices with no alternatives for the
+                 undertaking (or its assets) to continue operations. This means that the supervisory authority should
+                 require the undertaking to prove that there are no clear indications that the undertaking (or its
+                 assets) will be acquired another undertaking/owner and continue operations.
 
-131.   O artigo 83.º, n.os 4 a 6, do RGPD estabelece que deve ser utilizado o volume de negócios anual a nível
-       mundial correspondente ao exercício financeiro anterior. Quanto à questão de saber a que acontecimento
-       se refere o termo «anterior», a jurisprudência do TJUE em matéria de direito da concorrência também deve
-       ser aplicada às coimas do RGPD, de modo que o acontecimento relevante seja a decisão de aplicação de
-       coimas emitida pela autoridade de controlo e não o momento da infração nem a decisão judicial 69. Em caso
-       de tratamento transfronteiriço, a decisão de aplicação de coimas relevante não é o projeto de decisão, mas
-       sim a decisão final emitida pela autoridade de controlo principal 70. Se o projeto de decisão entrar no processo
-       de codecisão do artigo 60.º no final de um ano civil, de tal modo que seja improvável que a decisão final seja
-       adotada nesse mesmo ano civil, a autoridade de controlo principal calculará qualquer coima proposta por
-       referência às informações financeiras mais atualizadas disponíveis à data em que o projeto de decisão é
-       transmitido às autoridades de controlo em causa para que estas se pronunciem. Essas informações serão
-       então atualizadas, conforme necessário, antes da finalização e adoção da decisão nacional final pela
-       autoridade de controlo principal.
+            c) Specific social and economic context: The specific economic context can be considered if the sector
+               concerned is going through a cyclical crisis (e.g. suffering from overcapacity or falling prices) or if
+               companies have difficulties in obtaining access to capital or credit as a result of the prevailing
+               economic conditions. The specific social context is likely to be present in the context of high and/or
+               mounting unemployment at a regional or wider level. It can also be assessed considering the
+               consequences that the payment of the fine may have in terms of increase of unemployment or
+               deterioration of the economic sectors up and downstream 80 .
+
+141. If the criteria are met, the supervisory authorities may take the undertaking’s inability to pay into account,
+      and reduce the fine accordingly.
+
+      7.3 - Dissuasiveness
+142. Finally, a dissuasive fine is one that has a genuine deterrent effect. 81 In that respect, a distinction can be
+      made between general deterrence (discouraging others from committing the same infringement in the
+      future) and specific deterrence (discouraging the addressee of the fine from committing the same
+      infringement again) 82 . When imposing a fine, the supervisory authority takes into account both general and
+      specific deterrence.
+
+143. A fine is dissuasive where it prevents an individual from infringing the objectives pursued and rules laid down
+      by Union law. What is decisive in this regard is not only the nature and level of the fine but also the likelihood
+      of it being imposed. Anyone who commits an infringement must fear that the fine will in fact be imposed on
+      them. There is an overlap here between the criterion of dissuasiveness and that of effectiveness 83 .
+
+144. The supervisory authorities may consider increasing the fine if they do not consider the amount to be
+      sufficiently dissuasive. In some circumstances, the imposition of a deterrence multiplier can be justified 84 .
+      This multiplier can be set on the discretion of the supervisory authority, in order to reflect the goals of
+      deterrence as outlined above.
 
 
-       CAPÍTULO 7 – EFETIVIDADE, PROPORCIONALIDADE E DISSUASÃO
-132.   Exige-se que a coima aplicada pelas violações do RGPD a que se refere o artigo 83.º, n.os 4 a 6, seja, em cada
-       caso individual, efetiva, proporcionada e dissuasiva. Por outras palavras, o montante da coima aplicada é
-       adaptado à infração cometida no seu contexto específico. O CEPD considera que incumbe às autoridades de
-       controlo verificar se o montante da coima cumpre estes requisitos ou se são necessários ajustamentos
-       adicionais do montante.
 
-133.   Conforme explicado no capítulo 4, a avaliação realizada no presente capítulo abrange a totalidade da coima
-       aplicada e todas as circunstâncias do caso, incluindo, por exemplo, a acumulação de infrações múltiplas,
-       aumentos e reduções por circunstâncias agravantes e atenuantes e circunstâncias
-       financeiras/socioeconómicas. Porém, cabe à autoridade de controlo assegurar que as mesmas circunstâncias
-       não sejam contabilizadas duas vezes.
+      CHAPTER 8 – FLEXIBILITY AND REGULAR EVALUATION
+145. The above Chapters outline a general method for the calculation of fines and shall facilitate further
+      harmonisation and transparency on the fining practice of supervisory authorities. However, this general
+      method should not be misunderstood as a form of automatic or arithmetical calculation. The individual
 
-134.   No caso de estes ajustamentos justificarem um aumento da coima, esse aumento não pode, por definição,
-       exceder o limite máximo legal indicado no capítulo 6 supra.
 
-       66
-          Ver, por exemplo, os anexos V ou VI do artigo 13.º, n.º 1, da Diretiva 2013/34/UE, sob o título «volume de negócios
-       líquido», ou legislação similar aplicável.
-       67
-          Ver, por exemplo, os artigos 21.º e seguintes da Diretiva 2013/34/UE ou legislação similar aplicável.
-       68
-          C-58/12 P, Groupe Gascogne SA/Comissão Europeia, ECLI:EU:C:2013:770, n.os 54-55.
-       69
-          Tribunal Regional LG Bonn, processo 29 OWi 1/20, 11 de novembro de 2020, n.º 95, que remete para o processo C-
-       637/13 P, Badezimmerkartell Laufen Austria, n.º 49, e para o processo C-408/12 P, YKK e o., n.º 90.
-       70
-          Decisão vinculativa 1/2021 do CEPD, ponto 298.
+
+      80 See case C-308/04 P, SGL Carbon v Commission, paragraph 106.
+      81
+         See Opinion of AG Geelhoed in case C-304/02, Commission v France, paragraph 39.
+      82 See, inter alia, case C-511/11 P, Versalis Spa v Commission, paragraph 94.
+
+      83 Opinion of AG Kokott in joined cases C-387/02, C-391/02 and C-403/02, Silvio Berlusconi and Others, paragraph 89.
+      84 See specifically case C-289/04 P, Showa Denko v Commission, paragraphs 28-39.
 
 
 
 
-                                                                                                                          41
-       Adotadas
+                                                                                                                        41
+       Adopted
 
-       7.1 – Efetividade
-135.   De um modo geral, uma coima pode ser considerada efetiva se atingir os objetivos com que foi aplicada, quer
-       se trate de restaurar o cumprimento das normas, quer de punir um comportamento ilícito (ou ambos) 71.
-       Além disso, o considerando 148 do RGPD salienta que as coimas devem ser aplicadas «[a] fim de reforçar a
-       execução das regras do presente regulamento». O montante da coima aplicada com base nas presentes
-       diretrizes deve, portanto, ser suficiente para cumprir os objetivos em causa.
+      setting of a fine must always be based on a human assessment of all relevant circumstances of the case and
+      must be effective, proportionate and deterrent with regard to that specific case.
 
-136.   Conforme exigido pelo artigo 83.º, n.º 2, do RGPD, a autoridade de controlo tem de avaliar a efetividade da
-       coima em cada caso individual. Para o efeito, há que ter em devida consideração as circunstâncias do caso
-       concreto e, em especial, a apreciação acima efetuada 72, tendo em conta que a coima também deve ser
-       proporcionada e dissuasiva, como se indica a seguir.
-
-       7.2 – Proporcionalidade
-137.   O princípio da proporcionalidade exige que os atos adotados não ultrapassem os limites do que é adequado
-       e necessário para a realização dos objetivos legitimamente perseguidos pela regulamentação em causa,
-       sendo que, quando haja uma escolha entre várias medidas adequadas, se deve recorrer à menos restritiva,
-       não devendo os inconvenientes causados ser desproporcionados relativamente aos objetivos pretendidos 73.
-
-138.   Daqui resulta que os montantes das coimas não devem ser desproporcionados relativamente aos objetivos
-       (ou seja, o cumprimento das regras relativas à proteção das pessoas singulares no que diz respeito ao
-       tratamento de dados pessoais e das regras relativas à livre circulação de dados pessoais), e que o montante
-       da coima aplicada deve ser proporcionado à infração, apreciada no seu conjunto, tendo em conta,
-       nomeadamente, a gravidade desta 74.
-
-139.   A autoridade de controlo deve, por conseguinte, verificar se o montante da coima é proporcionado tanto em
-       relação à gravidade da infração como à dimensão da empresa à qual pertence a entidade que cometeu a
-       infração 75 e assegurar, assim, que a coima aplicada não exceda o necessário para alcançar os objetivos
-       perseguidos pelo RGPD.
-
-140.   A autoridade de controlo pode equacionar, em conformidade com o direito nacional, reduzir ainda mais a
-       coima com base no princípio da incapacidade de pagamento, que constitui um derivado específico do
-       princípio da proporcionalidade. Tal redução exige circunstâncias excecionais. Em conformidade com as
-       Orientações da Comissão Europeia para o cálculo das coimas aplicadas 76, devem existir provas objetivas de
-
-
-       71
-          Ver Diretrizes WP 253, p. 6.
-       72
-          Também referido no considerando 148 do RGPD: «a natureza, gravidade e duração da infração, o seu caráter doloso,
-       as medidas tomadas para atenuar os danos sofridos, o grau de responsabilidade ou eventuais infrações anteriores, a via
-       pela qual a infração chegou ao conhecimento da autoridade de controlo, o cumprimento das medidas ordenadas contra
-       o responsável pelo tratamento ou subcontratante, o cumprimento de um código de conduta ou quaisquer outros
-       fatores agravantes ou atenuantes».
-       73
-          Processo T-704/14, Marine Harvest/Comissão, n.º 580, remetendo para o processo T-332/09, Electrabel/Comissão,
-       n.º 279.
-       74
-          Ibid.
-       75
-          Ver, para o efeito, o processo C-387/97, Comissão/Grécia, n.º 90, e o processo C-278/01, Comissão/Espanha, n.º 41,
-       segundo o qual a coima devia ser, «por um lado, adaptada às circunstâncias e, por outro, proporcionada tanto ao
-       incumprimento verificado como à capacidade de pagamento do Estado-Membro em causa».
-       76
-          Ver, quanto a este princípio, por exemplo, as Orientações da Comissão para o cálculo das coimas aplicadas por força
-       do n.º 2, alínea a), do artigo 23.º do Regulamento (CE) n.º 1/2003 (2006/C 210/02).
+146. It should be kept in mind that these guidelines cannot anticipate each and every possible particularity of a
+      case and in this regard cannot provide an exhaustive guidance for supervisory authorities. Consequently,
+      these guidelines are subject to regular review in order to evaluate whether their application effectively
+      achieves the objectives called for by GDPR. The EDPB may revise these guidelines based on supervisory
+      authorities’ further experiences in everyday practical application and may discontinue, change, limit, amend
+      or replace these guidelines at any given time with effect for the future.
 
 
 
 
-                                                                                                                          42
-       Adotadas
+                                                                                                               42
+      Adopted
 
-que a aplicação da coima poria irremediavelmente em perigo a viabilidade económica da empresa em causa.
-Além disso, os riscos devem ser analisados num contexto social e económico específico.
+ANNEX – TABLE FOR ILLUSTRATION OF THE GUIDELINES 04/2022 ON THE
+  CALCULATION OF ADMINISTRATIVE FINES UNDER THE GDPR
 
-     a) Viabilidade económica: a empresa é obrigada a facultar dados financeiros pormenorizados
-        (relativos aos últimos cinco anos, bem como projeções para o ano em curso e para os dois anos
-        seguintes), a fim de permitir à autoridade de controlo examinar a evolução futura provável de
-        fatores essenciais como a solvência, a liquidez e a rendibilidade. Os tribunais europeus declararam
-        que a mera circunstância de uma empresa estar em situação financeira deficitária, ou de ficar nessa
-        situação após uma coima avultada, não cumpre o requisito, «dado que o reconhecimento de tal
-        obrigação implicaria dar uma vantagem concorrencial injustificada às empresas menos adaptadas
-        às condições do mercado» 77. A apreciação da capacidade de pagamento da coima por parte da
-        empresa tem também em conta os possíveis planos de reestruturação e o seu estado de execução,
-        as relações com instituições/parceiros financeiros externos como os bancos e as relações com as
-        partes interessadas 78.
+Reading guide
 
-     b) Prova da perda de valor: só pode ser concedida uma redução da coima se a aplicação da mesma
-        puser em perigo a viabilidade económica de uma empresa e levar a que os seus ativos percam a
-        totalidade ou a maior parte do seu valor 79. Deve ser demonstrado um nexo de causalidade direto
-        entre a coima e a perda significativa de valor dos ativos. Não existe qualquer aceitação automática
-        de que a falência ou insolvência resulte necessariamente numa perda significativa do valor dos
-        ativos. Além disso, está fora de questão que a coima tenha ameaçado a viabilidade económica de
-        uma empresa quando esta última decidiu, ela própria, pôr termo às suas atividades e vender todos
-        os seus ativos. A empresa deve provar que irá provavelmente sair do mercado e que os seus ativos
-        serão desmantelados ou vendidos a preços substancialmente reduzidos, sem alternativas para que
-        a empresa (ou os seus ativos) prossiga a sua atividade. Assim sendo, a autoridade de controlo deve
-        exigir à empresa que prove que não existem indícios claros de que ela (ou os seus ativos) será
-        adquirida por outra empresa/proprietário e prosseguirá as suas atividades.
-
-     c) Contexto social e económico específico: é possível ter em conta o contexto económico específico
-        se o setor em causa atravessar uma crise cíclica (por exemplo, se sofrer de excesso de capacidade
-        ou de queda dos preços) ou se as sociedades tiverem dificuldades em obter acesso ao capital ou ao
-        crédito devido às condições económicas prevalecentes. É provável que o contexto social específico
-        se verifique num contexto de desemprego elevado e/ou crescente a um nível regional ou mais
-        vasto. Pode igualmente ser avaliado tendo em conta as consequências que o pagamento da coima
-        pode ter em termos de aumento do desemprego ou de deterioração dos setores económicos a
-        montante e a jusante 80.
-
-
-
-77
-   Ver processos apensos C-189/02 P, C-202/02 P, C-205/02 P a C-208/02 P e C-213/02 P, Dansk Rørindustri e
-o./Comissão, n.º 327, citando os processos apensos 96/82 a 102/82, 104/82, 105/82, 108/82 e 110/82, NV IAZ
-International Belgium e o./Comissão, n.os 54 e 55. O mesmo foi reiterado mais recentemente no processo C-308/04 P,
-SGL Carbon/Comissão, n.º 105, e no processo T-429/10 (processos apensos T-426/10, T-427/10, T-428/10, T-429/10, T-
-438/12, T-439/12, T-440/12, T-441/12), Global Steel Wire/Comissão, n.os 492-493.
-78
-   Ver processo T-429/10 (processos apensos T-426/10, T-427/10, T-428/10, T-429/10, T-438/12, T-439/12, T-440/12,
-T-441/12), Global Steel Wire/Comissão, n.os 521 a 527.
-79
-   Ver processos apensos T-236/01, T-239/01, T-244/01 a T-246/01, T-251/01 e T-252/01, Tokai Carbon e o./Comissão,
-n.º 372, e processo T-64/02, Heubach/Comissão, n.º 163. Ver processo T-393/10 INTP, Westfälische Drahtindustrie e
-o./Comissão, n.os 293 e 294.
-80
-   Ver processo C-308/04 P, SGL Carbon/Comissão, n.º 106.
+     -   This table is to be read in conjunction with the entirety of the Guidelines, and is not intended to serve
+         as a complete summary of the Guidelines, or as an alternative to considering the Guidelines as a
+         whole.
+     -   This table is for illustrative purposes only, and is neither a complete nor a conclusive representation
+         of the position of the EDPB on the calculation of administrative fines.
+     -   The table has two steps: one illustrating the range for the starting amount based on seriousness, and
+         one illustrating the range for the starting amount after adjustment applied for the size of the
+         company.
+     -   The numbers used as starting amounts correspond, on the one hand, to the Commission's SME
+         Recommendation and how the turnovers mentioned in that Recommendation relate to the turnover
+         derived from Article 83 of the GDPR 85 . On the other hand, where the seriousness of the infringement
+         is concerned, the numbers are based on insights from current fining practice and extensive internal
+         testing with fining models over the course of multiple years. The EDPB is convinced that these starting
+         points do justice to the principles of effectiveness, proportionality and dissuasiveness, as prescribed
+         in Article 83(1) GDPR.
+     -   However, as always, the EDPB is mindful that the calculation of an administrative fine is no purely
+         mathematical exercise, and that real life cases and practice will inevitably lead to a further sharpening
+         of the starting points in this table. To that end, the Guidelines mention that the table and the
+         numbers therein remain under close review by the EDPB and will be adapted if needed.
+     -   It should also be reiterated that these figures are the starting points for further calculation, and not
+         fixed amounts (price tags). The supervisory authority has the discretion to utilise the full fining range
+         from any amount up to and including the legal maximum.
+     -   In the first step, the more serious the infringement is within its own category, the higher the starting
+         amount is likely to be.
+     -   In the second step, the percentages are leading in determining the final starting amount, whereas
+         adjustments can be made down to a certain percentage of the starting amount identified in step 1.
+         This means that the percentage chosen in step 2 shall be used as a multiplier to the starting amount
+         determined in step 1. The higher the turnover of the undertaking is within its applicable tier, the
+         higher the starting amount is likely to be in step 2.
+     -   The amounts in the second step illustrate merely the lowest of lows and the highest of highs that can
+         be applied in the category. The final starting amount will fall somewhere within these extremities.
+         These ranges in the second step therefore serve as a sanity check for the case handler.
+     -   Note that there is no adjustment in step 2 for undertakings with a turnover of 500 million euros and
+         higher, since those undertakings will exceed the static legal maximum and, thus, the size of the
 
 
+
+85Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized
+enterprises (notified under document number C(2003) 1422), (2003/361/EC).
 
 
                                                                                                                43
-Adotadas
-
-141.   Se os critérios estiverem preenchidos, as autoridades de controlo podem ter em conta a incapacidade de
-       pagamento da empresa e reduzir a coima em conformidade.
-
-       7.3 – Dissuasão
-142.   Por último, uma coima dissuasiva é uma coima que tem um efeito genuinamente dissuasor 81. A este respeito,
-       pode ser feita uma distinção entre dissuasão geral (desencorajar outros de cometerem a mesma infração no
-       futuro) e dissuasão específica (desencorajar o destinatário da coima de cometer novamente a mesma
-       infração) 82. Ao aplicar uma coima, a autoridade de controlo tem em conta a dissuasão geral e específica.
-
-143.   Uma coima é dissuasiva quando inibe um particular de violar os objetivos perseguidos e as regulamentações
-       estabelecidas pelo direito da União, não sendo determinante apenas o tipo e o rigor, mas também a
-       probabilidade da sua aplicação: quem comete uma violação deve também recear a punição efetiva através
-       de uma coima. Neste aspeto, o critério do caráter dissuasivo sobrepõe‑se ao critério do caráter efetivo 83.
-
-144.   As autoridades de controlo podem equacionar o aumento da coima, se considerarem que o montante não é
-       suficientemente dissuasivo. Em algumas circunstâncias, pode justificar-se a imposição de um multiplicador
-       de dissuasão 84. Este multiplicador pode ser fixado à discrição da autoridade de controlo, a fim de refletir os
-       objetivos de dissuasão acima referidos.
-
-
-
-       CAPÍTULO 8 – FLEXIBILIDADE E AVALIAÇÃO PERIÓDICA
-145.   Os capítulos anteriores definem um método geral de cálculo das coimas e facilitam uma maior harmonização
-       e transparência das práticas das autoridades de controlo em matéria de coimas. No entanto, este método
-       geral não deve ser erradamente interpretado como uma forma de cálculo automático ou aritmético. A
-       fixação individual de uma coima deve sempre basear-se numa apreciação humana de todas as circunstâncias
-       relevantes do caso e deve ser efetiva, proporcionada e dissuasiva relativamente a esse caso concreto.
-
-146.   Importa notar que as presentes diretrizes não podem antecipar todas as especificidades possíveis de um caso
-       e, neste contexto, não podem fornecer indicações exaustivas às autoridades de controlo. Por conseguinte,
-       as presentes diretrizes são objeto de revisão periódica, a fim de avaliar se a sua aplicação atinge efetivamente
-       os objetivos previstos no RGPD. O CEPD pode rever as presentes diretrizes com base na experiência adquirida
-       pelas autoridades de controlo com a aplicação prática quotidiana e pode suspender, alterar, limitar, corrigir
-       ou substituir as mesmas em qualquer momento, com efeitos para o futuro.
-
-
-
-
-       81
-          Ver as conclusões do advogado-geral L. A. Geelhoed no processo C-304/02, Comissão/França, n.º 39.
-       82
-          Ver, entre outros, o processo C-511/11 P, Versalis Spa/Comissão, n.º 94.
-       83
-          Conclusões da advogada-geral J. Kokott nos processos apensos C-387/02, C-391/02 e C-403/02, Silvio Berlusconi e o.,
-       n.º 89.
-       84
-          Ver, em concreto, o processo C-289/04 P, Showa Denko/Comissão, n.os 28-39.
-
-
-                                                                                                                          44
-       Adotadas
-
-ANEXO – QUADRO ILUSTRATIVO DAS DIRETRIZES 04/2022 SOBRE O
-  CÁLCULO DAS COIMAS AO ABRIGO DO RGPD
-
-Guia de leitura
-
-     -   Este quadro deve ser lido em conjugação com a totalidade das diretrizes e não se destina a servir
-         como um resumo completo das mesmas, nem como uma alternativa à apreciação das diretrizes no
-         seu conjunto.
-     -   Este quadro é meramente ilustrativo e não constitui uma representação completa nem conclusiva
-         da posição do CEPD sobre o cálculo das coimas.
-     -   O quadro tem duas etapas: uma que ilustra o intervalo do montante de partida com base na
-         gravidade e outra que ilustra o intervalo do montante de partida após ajustamento aplicado em
-         função da dimensão da empresa.
-     -   Os números utilizados como montantes de partida correspondem, por um lado, à Recomendação da
-         Comissão relativa às PME e à forma como os volumes de negócios mencionados nessa recomendação
-         se relacionam com o volume de negócios decorrente do artigo 83.º do RGPD 85. Por outro lado, no
-         que diz respeito à gravidade da infração, os números baseiam-se em informações da prática atual
-         em matéria de coimas e em ensaios internos exaustivos com modelos de coimas ao longo de vários
-         anos. O CEPD está convicto de que estes pontos de partida respeitam os princípios da efetividade,
-         da proporcionalidade e da dissuasão, conforme previsto no artigo 83.º, n.º 1, do RGPD.
-     -   No entanto, como sempre, o CEPD está ciente de que o cálculo de uma coima não é um exercício
-         puramente matemático e de que os casos e a prática da vida real conduzirão inevitavelmente a um
-         aperfeiçoamento dos pontos de partida neste quadro. Para o efeito, as diretrizes mencionam que o
-         quadro e os respetivos números continuam a ser objeto de uma revisão atenta pelo CEPD e serão
-         adaptados, se necessário.
-     -   Importa igualmente reiterar que estes valores são os pontos de partida para o cálculo ulterior e não
-         montantes fixos (etiquetas de preços). A autoridade de controlo tem o poder discricionário de utilizar
-         todo o intervalo de coimas, desde qualquer montante até ao limite máximo legal, inclusive.
-     -   Na primeira etapa, quanto mais grave for a infração dentro da sua própria categoria, mais elevado
-         será provavelmente o montante de partida.
-     -   Na segunda etapa, as percentagens são fundamentais para determinar o montante de partida final,
-         podendo ser efetuados ajustamentos até uma determinada percentagem do montante de partida
-         identificado na etapa 1. Tal significa que a percentagem escolhida na etapa 2 deve ser utilizada como
-         multiplicador do montante de partida determinado na etapa 1. Quanto maior for o volume de
-         negócios da empresa dentro do nível aplicável, mais elevado será provavelmente o montante de
-         partida na etapa 2.
-     -   Os montantes da segunda etapa ilustram apenas os valores mínimos e máximos absolutos que
-         podem ser aplicados na categoria. O montante de partida final situar-se-á algures entre estas
-         extremidades. Desta forma, os intervalos da segunda etapa servem como teste de sanidade a aplicar
-         pelo responsável pelos processos.
+Adopted
 
+        undertaking is already reflected in the dynamic legal maximum used to determine the starting
+        amount for further calculation in step 1.
+    -   The application of the methodology, including the use of the tables, is illustrated by two examples at
+        the end of this Annex.
 
-85
-  Recomendação da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas
-[notificada com o número C(2003) 1422] (2003/361/CE).
 
 
-                                                                                                              45
-Adotadas
 
-   -    Note-se que não existe qualquer ajustamento na etapa 2 para as empresas com um volume de
-        negócios igual ou superior a 500 milhões de EUR, uma vez que essas empresas excederão o limite
-        máximo legal estático e, por conseguinte, a dimensão da empresa já se reflete no limite máximo legal
-        dinâmico utilizado para determinar o montante de partida para cálculo ulterior na etapa 1.
-   -    A aplicação da metodologia, incluindo a utilização dos quadros, é ilustrada por dois exemplos no final
-        do presente anexo.
+    Step 1: Calculation of the starting amount based on seriousness
+NB. The more serious the infringement is within its own category, the higher the starting amount is likely to
+be in this first step.
 
 
-   Etapa 1: Cálculo do montante de partida com base na gravidade
-N. B. Quanto mais grave for a infração dentro da sua própria categoria, mais elevado será provavelmente o
-montante de partida nesta primeira etapa.
+                  Low level of seriousness        Medium level of                High level of seriousness
+                                                  seriousness
+                                Dynamic                                                       Dynamic
+                                                                Dynamic range
+                                range in the                                                  range in the
+                  Static                          Static        in the case of a Static
+                                case of a                                                     case of a
+                  range                           range         turnover         range
+                                turnover                                                      turnover
+                                                                 > 500 m
+                                 > 500 m                                                      > 500 m
+ 83(4) GDPR       0 - 1m        0 - 0.2% of the   1m - 2m       0.2% - 0.4% of   2m - 10m     0.4% - 2% of
+                                annual                          the annual                    the annual
+                                turnover                        turnover                      turnover
+ 83(5)(6) GDPR 0 – 2m           0 - 0.4% of the   2m - 4m       0.4% - 0.8% of   4m - 20m     0.8% - 4% of
+                                annual                          the annual                    the annual
+                                turnover                        turnover                      turnover
 
 
-                  Nível baixo de gravidade        Nível médio de gravidade      Nível elevado de
-                                                                                gravidade
-                                 Intervalo                    Intervalo                     Intervalo
-                                 dinâmico no                  dinâmico no                   dinâmico no
-                  Intervalo      caso de um       Intervalo   caso de um        Intervalo caso de um
-                  estático       volume de        estático    volume de         estático    volume de
-                                 negócios                     negócios                      negócios
-                                  > 500 M€                     > 500 M€                     > 500 M€
- Artigo 83.º,     0 – 1 M€       0 % – 0,2 % do   1 M€ –      0,2 % – 0,4 %     2 M€ –      0,4 % – 2 % do
- n.º 4, do                       volume de        2 M€        do volume de      10 M€       volume de
- RGPD                            negócios anual               negócios anual                negócios anual
- Artigo 83.º,     0 – 2 M€       0 % – 0,4 % do   2 M€ –      0,4 % – 0,8 %     4 M€ –      0,8 % – 4 % do
- n.os 5 e 6, do                  volume de        4 M€        do volume de      20 M€       volume de
- RGPD                            negócios anual               negócios anual                negócios anual
 
+    Step 2: Adjustment of the starting amount based on the size of the undertaking
+          (only applicable to undertakings to which the static legal range applies)
 
+NB. The higher the turnover of the undertaking is within its applicable tier, the higher the starting amount is
+likely to be in this second step.
 
-   Etapa 2: Ajustamento do montante de partida com base na dimensão da
-         empresa (aplicável apenas às empresas às quais se aplica o intervalo
-         legal estático)
+Article 83(4) GDPR
+                            Low level of seriousness Medium level of               High level of seriousness
+                                                     seriousness
 
-N. B. Quanto maior for o volume de negócios da empresa dentro do nível aplicável, mais elevado será
-provavelmente o montante de partida nesta segunda etapa.
 
-Artigo 83.º, n.º 4, do RGPD
-                              Nível baixo de            Nível médio de            Nível elevado de
-                              gravidade                 gravidade                 gravidade
 
+                                                     40-100% of the starting amount
+ Undertakings with a
+ turnover of €250m up
+ until €500m
+                            0 – 1m                         400,000 – 2m            800,000 – 10m
 
-                                                  40 % – 100 % do montante de partida
- Empresas com um
- volume de negócios
- entre 250 M€ e 500 M€        0 – 1 M€                  400 000 – 2 M€            800 000 – 10 M€
 
 
 
+                                                                                                             44
+Adopted
 
-                                                                                                           46
-Adotadas
+                        Low level of seriousness Medium level of         High level of seriousness
+                                                 seriousness
 
-                         Nível baixo de         Nível médio de          Nível elevado de
-                         gravidade              gravidade               gravidade
 
 
-                                          15 % – 50 % do montante de partida
-Empresas com um
-volume de negócios
-entre 100 M€ e 250 M€
-                         0 – 500 000            150 000 – 1 M€          300 000 – 5 M€
+                                             15 - 50% of the starting amount
+Undertakings with a
+turnover of €100m up
+until €250m
+                        0 – 500,000             150,000 – 1m             300,000 – 5m
 
 
 
-                                           8 % – 20 % do montante de partida
-Empresas com um
-volume de negócios
-entre 50 M€ e 100 M€
-                         0 – 200 000            80 000 – 400 000        160 000 – 2 M€
+                                             8 - 20% of the starting amount
+Undertakings with a
+turnover of €50m up
+until €100m
+                        0 – 200,000             80,000 – 400,000         160,000 – 2m
 
 
 
-                                          1,5 % – 10 % do montante de partida
-Empresas com um
-volume de negócios
-entre 10 M€ e 50 M€
-                         0 – 100 000            15 000 – 200 000        30 000 – 1 M€
+                                            1.5 - 10% of the starting amount
+Undertakings with a
+turnover of €10m up
+until €50m
+                        0 – 100,000             15,000 – 200,000         30,000 – 1m
 
 
 
-                                          0,3 % – 2 % do montante de partida
-Empresas com um
-volume de negócios
-entre 2 M€ e 10 M€
-                         0 – 20 000             3 000 – 40 000          6 000 – 200 000
+                                             0.3 - 2% of the starting amount
+Undertakings with a
+turnover of €2m up
+until €10m
+                        0 – 20,000              3,000 – 40,000           6,000 – 200,000
 
 
 
-                                          0,2 % – 0,4 % do montante de partida
-Empresas com um
-volume de negócios até
-2 M€
-                         0 – 4 000              2 000 – 8 000           4 000 – 40 000
+                                            0.2 - 0.4% of the starting amount
+Undertakings with a
+turnover up until €2m
+                        0 – 4,000               2,000 – 8.000            4,000 – 40,000
 
 
 
 
-                                                                                           47
-Adotadas
+                                                                                                 45
+Adopted
 
-Artigo 83.º, n.os 5 e 6, do RGPD
+Article 83(5)(6) GDPR
+                         Low level of            Medium level of          High level of seriousness
+                         seriousness             seriousness
 
 
-                            Nível baixo de         Nível médio de          Nível elevado de gravidade
-                            gravidade              gravidade
 
+                         40 - 100% of the starting amount
+ Undertakings with a
+ turnover of €250m up
+ until €500m
+                         0 – 2m                  800,000 – 4m             1.6m – 20m
 
-                            40 % – 100 % do montante de partida
- Empresas com um
- volume de negócios
- entre 250 M€ e 500 M€
-                            0 – 2 M€               800 000 – 4 M€          1,6 M€ – 20 M€
+ Undertakings with a
+ turnover of €100m up                          15 - 50% of the starting amount
+ until €250m
 
- Empresas com um
- volume de negócios                            15 % – 50 % do montante de partida
- entre 100 M€ e 250 M€
 
+                         0 – 1m                  300,000 – 2m             600,000 – 10m
 
-                            0 – 1 M€               300 000 – 2 M€          600 000 – 10 M€
 
 
+                                                8 - 20% of the starting amount
+ Undertakings with a
+ turnover of €50m up
+ until €100m
+                         0 – 400,000             160,000 – 800,000        320,000 – 4m
 
-                                                8 % – 20 % do montante de partida
- Empresas com um
- volume de negócios
- entre 50 M€ e 100 M€
-                            0 – 400 000            160 000 – 800 000       320 000 – 4 M€
 
 
+                                               1.5 - 10% of the starting amount
+ Undertakings with a
+ turnover of €10m up
+ until €50m
+                         0 – 200,000             30,000 – 400,000         60,000 – 2m
 
-                                               1,5 % – 10 % do montante de partida
- Empresas com um
- volume de negócios
- entre 10 M€ e 50 M€
-                            0 – 200 000            30 000 – 400 000        60 000 – 2 M€
 
 
+                                                0.3 - 2% of the starting amount
+ Undertakings with a
+ turnover of €2m up
+ until €10m
+                         0 – 40,000              6,000 – 80,000           12,000 – 400,000
 
-                                               0,3 % – 2 % do montante de partida
- Empresas com um
- volume de negócios
- entre 2 M€ e 10 M€
-                            0 – 40 000             6 000 – 80 000          12 000 – 400 000
 
+ Undertakings with a
+                                               0.2 - 0.4% of the starting amount
+ turnover up until €2m
 
 
-                                               0,2 % – 0,4 % do montante de partida
- Empresas com um
- volume de negócios até
- 2 M€
-                            0 – 8 000              4 000 – 16 000          8 000 – 80 000
 
+                                                                                                      46
+Adopted
 
+                            Low level of               Medium level of            High level of seriousness
+                            seriousness                seriousness
 
 
-                                                                                                    48
-Adotadas
 
-Abordagem por etapas sobre a forma de aplicar o capítulo 4 das Diretrizes para
-o cálculo das coimas, incluindo os quadros
+                            0 – 8,000                  4,000 – 16,000             8,000 – 80,000
 
-Exemplo A
-Descobriu-se que uma empresa de rede social com um volume de negócios de 200 milhões de EUR
-vendeu dados sensíveis dos seus utilizadores a vários corretores de dados. Para efeitos deste
-exemplo, a empresa apenas violou o artigo 9.º do RGPD. A autoridade de controlo, após ter
-analisado todas as circunstâncias relevantes do caso ao abrigo do artigo 83.º, n.º 2, alíneas a), b) e
-g), decidiu que a infração apresenta um nível elevado de gravidade.
+   Step by step approach on how to apply Chapter 4 of the Fining Guidelines,
+         including the tables
 
-Em seguida, a autoridade de controlo tem de decidir sobre o montante de partida para o cálculo
-ulterior. O artigo 9.º está enumerado no artigo 83.º, n.º 5, alínea a), do RGPD, que estabelece que o
-limite máximo legal é de 20 milhões de EUR ou 4 % do volume de negócios anual. Neste caso, o
-volume de negócios da empresa é inferior a 500 milhões de EUR, o que significa que é aplicável o
-limite máximo e o intervalo estáticos. Por conseguinte, deve ser considerado um montante de
-partida entre 20 % e 100 % do limite máximo legal aplicável, ou seja, entre 4 milhões de EUR e
-20 milhões de EUR. Tendo em conta que quanto mais grave for a infração dentro da sua própria
-categoria, mais elevado será provavelmente o montante de partida, a autoridade de controlo decide
-que o montante de partida baseado na gravidade da infração, conforme referido na etapa 1, deve
-ser de 10 milhões de EUR.
+Example A
+A social media company with a turnover of €200 million is discovered to have sold sensitive data of
+its users to several data brokers. For the purposes of this example, the company only has infringed
+Article 9 of the GDPR. The supervisory authority, after having analysed all relevant circumstances in
+the case under Articles 83(2)(a), (b) and (g), decided that the infringement is of a high level of
+seriousness.
 
-Na etapa 2, o montante de partida identificado na etapa 1 será ajustado com base na dimensão da
-empresa. A empresa tem um volume de negócios anual de 200 milhões de EUR, enquadrando-se
-assim no intervalo entre 100 milhões de EUR e 250 milhões de EUR. Tal significa que o montante de
-partida será ajustado para um montante compreendido entre 15 % e 50 % do montante de partida.
-Tendo em conta que quanto maior for o volume de negócios da empresa dentro do seu nível
-aplicável, mais elevado será provavelmente o montante de partida, a autoridade de controlo decide
-que se justifica um ajustamento até 40 % do montante de partida identificado na etapa 1 com base
-na dimensão da empresa. O montante de partida após o ajustamento será então de 4 milhões de
-EUR neste caso.
+After this, the supervisory authority has to decide on the starting amount for further calculation.
+Article 9 is listed in Article 83(5)(a) GDPR, which states that the legal maximum is either €20 million
+or 4% of the annual turnover. In this case, the turnover of the undertaking is less than €500 million,
+which means that the static maximum and range is applicable. Therefore, a starting amount
+between 20 and 100% of the applicable legal maximum, i.e. €4 million and €20 million, should be
+considered. Considering that the more serious the infringement is within its own category, the higher
+the starting amount is likely to be, the supervisory authority decides that the starting amount based
+on the seriousness of the infringement as noted in step 1 should be €10 million.
 
-A fim de assegurar que o montante de partida em causa esteja em conformidade com as diretrizes,
-é possível cruzar este montante com os intervalos incluídos no quadro aplicável. Tendo em conta que
-o artigo 83.º, n.º 5, do RGPD é aplicável, que a empresa tem um volume de negócios entre
-100 milhões de EUR e 250 milhões de EUR e que o nível de gravidade é elevado, o montante de
-partida deve situar-se entre 600 000 EUR e 10 milhões de EUR. A autoridade de controlo conclui que
-um montante de partida de 4 milhões de EUR se situa entre 600 000 EUR e 10 milhões de EUR. Por
-conseguinte, o montante de partida está em conformidade com as diretrizes.
+In step 2, the starting amount identified in step 1 will be adjusted based on the size of the
+undertaking. The undertaking has an annual turnover of €200 million and therefore falls within the
+range between €100 million and €250 million. This means that the starting amount will be adjusted
+to an amount between 15% and 50% of the starting amount. Considering that the higher the
+turnover of the undertaking is within its applicable tier, the higher the starting amount is likely to be,
+the supervisory authority decides that an adjustment down to 40% of the starting amount identified
+in step 1 is justified based on the size of the undertaking. The starting amount after the adjustment
+will then be€4 million in this case.
 
-Em seguida, a autoridade de controlo procede ao cálculo da coima com base no resto das diretrizes.
+To ensure that this starting amount is in line with the Guidelines, it is possible to cross-check this
+amount against the ranges included in the applicable table. Considering that Article 83(5) GDPR is
+applicable, the undertaking has a turnover between €100 million and €250 million and the level of
+seriousness is high, the starting amount should be between €600,000 and €10 million. The
+supervisory authority concludes that a starting amount of €4 million, falls within the range between
+€600,000 and €10 million. Therefore, the starting amount is in line with the Guidelines.
 
+After this, the supervisory authority proceeds with the calculation of the fine on the basis of the
+remainder of the Guidelines.
 
-Exemplo B
-Uma cadeia de hotéis com um volume de negócios de 2 mil milhões de EUR violou o artigo 12.º do
-RGPD. A autoridade de controlo, após ter analisado as circunstâncias do caso ao abrigo do
-artigo 83.º, n.º 2, alíneas a), b) e g), decidiu que a infração apresenta um nível médio de gravidade.
 
-Em seguida, a autoridade de controlo tem de decidir sobre o montante de partida para o cálculo
-ulterior. A autoridade de controlo começa por identificar que o artigo 12.º do RGPD está enumerado
+Example B
 
 
-                                                                                                         49
-Adotadas
 
-no artigo 83.º, n.º 5, alínea b), do RGPD. O volume de negócios da empresa é de 2 mil milhões de
-EUR, ou seja, mais de 500 milhões de EUR, pelo que se aplica o limite máximo dinâmico. Tal significa
-que o limite máximo legal é de 4 % do volume de negócios anual da empresa, ou seja, 80 milhões de
-EUR. O nível de gravidade é médio, pelo que o montante de partida deve ser considerado entre 10 %
-e 20 % do limite máximo legal aplicável, ou seja, entre 0,4 % e 0,8 % do volume de negócios anual, o
-que equivale a um montante de partida entre 8 milhões de EUR e 16 milhões de EUR.
 
-Tendo em conta que quanto mais grave for a infração dentro da sua própria categoria, mais elevado
-será provavelmente o montante de partida, a autoridade de controlo considera que, devido à
-gravidade da infração, o montante de partida deve ser de 12 milhões de EUR, ou seja, 15 % do limite
-máximo legal aplicável e 0,6 % do volume de negócios anual da empresa.
+                                                                                                              47
+Adopted
 
-Uma vez que a empresa tem um volume de negócios anual superior a 500 milhões de EUR, sendo
-aplicável o limite máximo legal dinâmico, a dimensão da empresa já está refletida no limite máximo
-legal dinâmico utilizado para determinar o montante de partida. Consequentemente, não é aplicado
-qualquer outro ajustamento.
+A hotel chain with a turnover of €2 billion has infringed Article 12 GDPR. The supervisory authority,
+after analysing the circumstances of the case under Articles 83(2)(a), (b) and (g), decided that the
+infringement is of a medium level of seriousness.
 
-Em seguida, a autoridade de controlo procede ao cálculo da coima com base no resto das diretrizes.
+After this, the supervisory authority has to decide on the starting amount for further calculation. The
+supervisory authority first identifies that Article 12 GDPR is listed in Article 83(5)(b) GDPR. The
+turnover of the undertaking is €2 billion, which is more than €500 million and therefore the dynamic
+maximum applies. This means that the legal maximum is 4% of the annual turnover of the
+undertaking, which is €80 million. The level of seriousness is medium and, therefore, the starting
+amount should be considered between 10 and 20 % of the applicable legal maximum, i.e. 0.4% and
+0.8% of the annual turnover, which equals to a starting amount between €8 million and €16 million.
 
+Considering that the more serious the infringement is within its own category, the higher the starting
+amount is likely to be, the supervisory authority considers that, due to the seriousness of the
+infringement, the starting amount should be €12 million, i.e. 15 % of the applicable legal maximum
+and 0.6% of the annual turnover of the undertaking.
 
+Since the undertaking has an annual turnover over €500 million and the dynamic legal maximum
+applies, the size of the undertaking is already reflected in the dynamic legal maximum used to
+determine the starting amount. As a result, no further adjustment is applied.
 
+After this, the supervisory authority proceeds with the calculation of the fine on the basis of the
+remainder of the Guidelines.
 
-                                                                                                       50
-Adotadas
+
+
+
+                                                                                                          48
+Adopted
 ```

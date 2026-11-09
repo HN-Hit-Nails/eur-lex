@@ -11,7 +11,7 @@ transpoe:
 url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2012-477078
 eli: https://data.dre.pt/eli/decregul/1/2012/01/06/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Decreto Regulamentar n.º 1/2012

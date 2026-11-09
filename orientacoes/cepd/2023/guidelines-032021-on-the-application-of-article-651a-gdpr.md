@@ -1,19 +1,21 @@
 ---
-titulo: "Diretrizes 03/2021 relativas à aplicação do artigo 65.º, n.º 1, alínea a), do RGPD"
+titulo: "Guidelines 03/2021 on the application of Article 65(1)(a) GDPR"
 titulo_en: "Guidelines 03/2021 on the application of Article 65(1)(a) GDPR"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2023-05-24'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-032021-on-the-application-of-article-651a-gdpr_en
-pdf: https://www.edpb.europa.eu/system/files/documents/2024-10/edpb_guidelines_202103_article65-1-a_v2_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/2023-06/edpb_guidelines_202103_article65-1-a_v2_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 03/2021 relativas à aplicação do artigo 65.º, n.º 1, alínea a), do RGPD
+# Guidelines 03/2021 on the application of Article 65(1)(a) GDPR
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
@@ -22,1781 +24,1578 @@ fonte: © Comité Europeu para a Proteção de Dados — reutilização autoriza
 
 
 
-Diretrizes 03/2021 relativas à aplicação do artigo 65.º, n.º 1,
-                     alínea a), do RGPD
-
-                              Versão 2.0
-
-               Adotadas em 24 de maio de 2023
-               This language version has not yet been proofread.
-
-
-
-
-Adotadas
-
-Histórico de versões
-
-
- Versão 1.0   13 de abril de 2021   Adoção das diretrizes para consulta pública
- Versão 2.0   24 de maio de 2023    Adoção das diretrizes após consulta pública
-
-
+    Guidelines 03/2021 on the application of Article 65(1)(a)
+                            GDPR
+
+                          Version 2.1
 
+                     Adopted on 24 May 2023
+
 
-                                                                                  2
-Adotadas
 
-Resumo
+
+Adopted
+
+Version history
+
+
+ Version 1.0   13 April 2021   Adoption of the Guidelines for public consultation
+ Version 2.0   24 May 2023     Adoption of the Guidelines after public consultation
+ Version 2.1   15 July 2024    Editorial corrections
 
-O artigo 65.º, n.º 1, alínea a), do RGPD é um mecanismo de resolução de litígios destinado a assegurar
-a aplicação correta e coerente do RGPD em casos que envolvam o tratamento transfronteiriço de
-dados pessoais. Visa resolver posições contraditórias entre a(s) ACP e a(s) ACI sobre a questão de
-fundo, sobretudo a questão de saber se há violação do RGPD, a fim de assegurar a aplicação correta
-e coerente do RGPD em casos concretos. As presentes diretrizes clarificam a aplicação do
-procedimento de resolução de litígios nos termos do artigo 65.º, n.º 1, alínea a), do RGPD.
-
-O artigo 65.º, n.º 1, alínea a), do RGPD exige que o CEPD emita uma decisão vinculativa sempre que
-uma autoridade de controlo principal (ACP) emita um projeto de decisão e receba objeções de
-autoridades de controlo interessadas (ACI) e não as siga ou não as considere pertinentes e
-fundamentadas.
-
-As presentes diretrizes clarificam o quadro jurídico aplicável e as principais fases do procedimento,
-em conformidade com as disposições pertinentes da Carta dos Direitos Fundamentais da União
-Europeia, do RGPD e do Regulamento Interno do CEPD. As diretrizes clarificam igualmente a
-competência do CEPD ao adotar uma decisão juridicamente vinculativa com base no artigo 65.º, n.º 1,
-alínea a), do RGPD. Em conformidade com o artigo 65.º, n.º 1, alínea a), do RGPD, a decisão vinculativa
-do CEPD diz respeito a todos os assuntos que são objeto da objeção pertinente e fundamentada. Por
-conseguinte, o CEPD começará por avaliar se as objeções apresentadas cumprem a norma «pertinente
-e fundamentada» estabelecida no artigo 4.º, ponto 24, do RGPD. Apenas no caso de objeções que
-atinjam este limiar, o CEPD tomará uma posição sobre as questões de fundo substanciais levantadas.
-As diretrizes analisam exemplos de objeções que assinalam desacordos entre a ACP e a(s) ACI sobre
-assuntos específicos e clarificam a competência do CEPD em cada caso.
-
-As diretrizes clarificam igualmente as garantias processuais e as vias de recurso aplicáveis, em
-conformidade com as disposições pertinentes da Carta dos Direitos Fundamentais da União Europeia,
-do RGPD e do Regulamento Interno do CEPD. Em especial, as presentes diretrizes abordam o direito
-de ser ouvido, o direito de acesso ao processo, o dever de o CEPD fundamentar as suas decisões, bem
-como uma descrição das vias de recurso judiciais disponíveis.
-
-As presentes diretrizes não dizem respeito à resolução de litígios pelo CEPD caso: 1) haja posições
-divergentes sobre a questão de saber qual das autoridades de controlo interessadas é competente
-para o estabelecimento principal [artigo 65.º, n.º 1, alínea b), do RGPD]; ou 2) a autoridade de
-controlo competente não solicite o parecer do Comité nos casos referidos no artigo 64.º, n.º 1, ou não
-dê seguimento ao parecer do Comité emitido nos termos do artigo 64.º [artigo 65.º, n.º 1, alínea c),
-do RGPD].
-
-
-
-
-                                                                                                     3
-Adotadas
-
-Índice
-1     Introdução e âmbito de aplicação .................................................................................................. 6
-2     Quadro jurídico e Regulamento Interno ......................................................................................... 7
-    2.1      Direito a uma boa administração............................................................................................ 7
-    2.2      RGPD ....................................................................................................................................... 8
-    2.3      Regulamento Interno do CEPD ............................................................................................... 8
-3     Principais fases do procedimento (panorâmica) ............................................................................ 8
-    3.1      Condições para a adoção de uma decisão vinculativa............................................................ 8
-    3.2      Avaliação da exaustividade do processo ................................................................................ 9
-    3.3      Fixação do(s) prazo(s) ........................................................................................................... 12
-      3.3.1         Cálculo ........................................................................................................................... 13
-      3.3.2         Decisão de prorrogação por um mês ............................................................................ 13
-      3.3.3         Prorrogação por duas semanas .................................................................................... 13
-    3.4      Elaboração do projeto de decisão vinculativa do CEPD........................................................ 14
-    3.5      Adoção da decisão vinculativa do CEPD ............................................................................... 15
-    3.6      Notificação às autoridades de controlo interessadas........................................................... 15
-    3.7      Decisão final da(s) autoridade(s) de controlo ....................................................................... 16
-      3.7.1         «Com base»................................................................................................................... 16
-      3.7.2         Decisão(ões) da ACP e/ou da ACI .................................................................................. 17
-      3.7.3         Prestação de informações ao CEPD .............................................................................. 17
-    3.8      Publicação da decisão vinculativa do CEPD .......................................................................... 17
-4     Competência do CEPD .................................................................................................................. 18
-    4.1      Apreciação da pertinência e fundamentação das objeções ................................................. 19
-    4.2      Assuntos da objeção pertinente e fundamentada ............................................................... 20
-      4.2.1         Existência de uma determinada violação do RGPD ...................................................... 20
-      4.2.2         Violações adicionais ou alternativas do RGPD .............................................................. 21
-      4.2.3    Lacunas no projeto de decisão que justificam a necessidade de uma investigação mais
-      aprofundada a realizar pela ACP ................................................................................................... 22
-      4.2.4         Informações factuais ou fundamentação insuficientes ................................................ 23
-      4.2.5         Aspetos processuais ...................................................................................................... 24
-      4.2.6         Ação prevista................................................................................................................. 25
-5     Direito de ser ouvido..................................................................................................................... 25
-    5.1      Aplicabilidade ........................................................................................................................ 25
-    5.2      Finalidade .............................................................................................................................. 26
-    5.3      Calendário ............................................................................................................................. 27
-
-
-                                                                                                                                                         4
-Adotadas
-
-      5.3.1         A nível nacional e antes de remeter o assunto para o CEPD ........................................ 27
-      5.3.2         Durante a avaliação da exaustividade do processo ...................................................... 27
-6     Acesso ao processo ....................................................................................................................... 28
-7     Dever de fundamentação ............................................................................................................. 30
-8     Recursos judiciais .......................................................................................................................... 31
-    8.1      Autoridades de controlo ....................................................................................................... 32
-    8.2      Responsável pelo tratamento, subcontratante, autor da reclamação ou outra entidade ... 34
-
-
-
-
-                                                                                                                                                    5
-Adotadas
-
-     1 INTRODUÇÃO E ÂMBITO DE APLICAÇÃO
-1.   O artigo 65.º, n.º 1, alínea a), do RGPD exige que o CEPD emita uma decisão juridicamente vinculativa
-     sempre que uma autoridade de controlo principal (ACP) emita um projeto de decisão na aceção do
-     artigo 60.º, n.º 3, do RGPD e decida não seguir uma objeção pertinente e fundamentada expressa por
-     uma autoridade de controlo interessada (ACI) ou considere que a objeção não é pertinente ou
-     fundamentada 1.
-
-2.   O artigo 65.º, n.º 1, alínea a), do RGPD é um mecanismo de resolução de litígios destinado a assegurar
-     a aplicação correta e coerente do RGPD em casos que envolvam o tratamento transfronteiriço de
-     dados pessoais 2. Visa resolver posições contraditórias entre a(s) ACP e a(s) ACI sobre a questão de
-     fundo, sobretudo a questão de saber se há violação do RGPD, a fim de assegurar a aplicação correta
-     e coerente do RGPD em casos concretos 3.
-
-3.   No âmbito do chamado «mecanismo de balcão único», aplicável ao tratamento transfronteiriço de
-     dados pessoais, a ACP atua como interlocutor único do responsável pelo tratamento ou do
-     subcontratante para o tratamento em causa 4. A ACP é responsável pela realização das investigações
-     necessárias, pela comunicação das informações pertinentes a todas as ACI e pela elaboração de um
-     projeto de decisão 5. Antes da adoção do projeto de decisão, a ACP deve cooperar com as ACI para
-     procurar alcançar um consenso e procederem ao intercâmbio de todas as informações pertinentes 6.
-
-4.   Após a elaboração de um projeto de decisão, a ACP envia-o a todas as ACI para que emitam parecer e
-     toma as suas posições em devida consideração 7. No prazo de quatro semanas após ter sido
-     consultada, a ACI pode expressar uma «objeção pertinente e fundamentada» ao projeto de decisão 8.
-     Caso nenhuma ACI apresente objeções, a ACP pode proceder à adoção da decisão. Se uma ACI
-     expressar uma objeção, a ACP deve decidir se dará seguimento à objeção pertinente e fundamentada
-     ou se considera que a objeção não é pertinente ou fundamentada. Se a ACP não tencionar dar
-
-
-     1
-       Sobre o conceito de objeção pertinente e fundamentada, ver Comité Europeu para a Proteção de Dados,
-     Diretrizes 9/2020 relativas à objeção pertinente e fundamentada nos termos do Regulamento 2016/679,
-     versão 2.0, adotadas em 9 de março de 2021 («diretrizes relativas à objeção pertinente e fundamentada»),
-     disponíveis em https://www.edpb.europa.eu/system/files/2021-06/edpb guidelines 202009 rro final pt.pdf.
-     2
-        O procedimento de cooperação e de controlo da coerência é aplicável a «casos concretos»,
-     independentemente de o processo dizer respeito a uma reclamação ou a um inquérito/investigação ex officio.
-     3
-       Considerando 136 e artigo 65.º, n.º 1, alínea a), do RGPD.
-     4
-       Artigo 56.º, n.º 6, do RGPD. Nos casos que envolvam reclamações apresentadas por titulares de dados, cada
-     ACI atua como principal ponto de contacto para o(s) titular(es) de dados no território do seu Estado-Membro.
-     Ver artigo 60.º, n.os 7 a 9, artigo 65.º, n.º 6, e artigo 77.º, n.º 2, do RGPD. Ver igualmente considerandos 130 e
-     141 do RGPD.
-     5
-       Ver artigo 60.º, n.º 3, do RGPD. Em conformidade com o artigo 60.º, n.º 2, do RGPD, a ACP pode, a qualquer
-     momento, solicitar que as outras ACI prestem assistência mútua nos termos do artigo 61.º e pode realizar
-     operações conjuntas nos termos do artigo 62.º do RGPD.
-     6
-       Este dever de cooperação aplica-se a todas as fases do procedimento, desde o início do processo e estendendo-
-     se a todo o processo de decisão; ver artigo 60.º, n.º 1, do RGPD e diretrizes relativas à objeção pertinente e
-     fundamentada, ponto 1. No âmbito do procedimento de cooperação, a ACP e as ACI são igualmente obrigadas
-     a proceder ao intercâmbio de todas as informações pertinentes (artigo 60.º, n.º 1, do RGPD).
-     7
-       Artigo 60.º, n.º 3, do RGPD.
-     8
-       Artigo 60.º, n.º 4, do RGPD.
-
-
-                                                                                                                     6
-     Adotadas
-
-     seguimento às objeções ou considerar que não são pertinentes nem fundamentadas, a ACP é obrigada
-     a remeter o caso ao CEPD para efeitos de resolução de litígios 9.
-
-5.   O CEPD atuará então como uma entidade de resolução de litígios e adotará uma decisão
-     juridicamente vinculativa. A ACP e, em algumas situações, a ACI à qual a reclamação foi apresentada 10
-     devem adotar a sua decisão final com base na decisão do CEPD. A decisão final da autoridade de
-     controlo competente será dirigida ao responsável pelo tratamento ou ao subcontratante e, se for caso
-     disso, ao autor da reclamação.
-
-6.   As presentes diretrizes clarificam a aplicação do artigo 65.º, n.º 1, alínea a), do RGPD. Em especial,
-     clarificam a aplicação das disposições pertinentes do RGPD e do Regulamento Interno, delimitam as
-     principais fases do procedimento e clarificam a competência do CEPD aquando da adoção de uma
-     decisão juridicamente vinculativa com base no artigo 65.º, n.º 1, alínea a), do RGPD. As diretrizes
-     incluem igualmente uma descrição das garantias processuais e das vias de recurso aplicáveis.
-
-7.   As presentes diretrizes não dizem respeito à resolução de litígios pelo CEPD caso:
-     •   haja posições divergentes sobre a questão de saber qual das autoridades de controlo interessadas
-         é competente para o estabelecimento principal [artigo 65.º, n.º 1, alínea b), do RGPD],
-     •   a autoridade de controlo competente não solicite o parecer do Comité nos casos referidos no
-         artigo 64.º, n.º 1, ou não dê seguimento ao parecer do Comité emitido nos termos do artigo 64.º
-         [artigo 65.º, n.º 1, alínea c), do RGPD].
-
-
-     2 QUADRO JURÍDICO E REGULAMENTO INTERNO
-     2.1 Direito a uma boa administração
-8.   O CEPD está sujeito à Carta dos Direitos Fundamentais da União Europeia («Carta»), incluindo o
-     artigo 41.º (Direito a uma boa administração). Tal está igualmente refletido no artigo 11.º, n.º 1, do
-     Regulamento Interno do CEPD 11, que confirma que o CEPD deve respeitar o direito a uma boa
-     administração, conforme previsto no artigo 41.º da Carta.
-
-9.   O artigo 41.º da Carta garante a todas as pessoas o direito a que os seus assuntos sejam tratados pelas
-     instituições, órgãos e organismos da União de forma imparcial, equitativa e num prazo razoável. Tal
-     inclui o direito de todas as pessoas:
-     •   serem ouvidas antes de a seu respeito ser tomada qualquer medida individual que as afete
-         desfavoravelmente, bem como
-
-
-
-     9
-       Artigo 60.º, n.º 4, artigo 63.º e artigo 65.º, n.º 1, alínea a), do RGPD. Se a ACP pretender dar seguimento às
-     objeções consideradas pertinentes e fundamentadas, envia um projeto de decisão revisto a todas as ACI. As ACI
-     dispõem então de um prazo de duas semanas durante o qual podem expressar as suas objeções pertinentes e
-     fundamentadas ao projeto de decisão revisto (artigo 60.º, n.º 5, do RGPD). Ver igualmente as diretrizes relativas
-     à objeção pertinente e fundamentada, pontos 2 e 3.
-     10
-        Tal aplicar-se-á, em especial, se a reclamação for total ou parcialmente recusada (artigo 60.º, n.os 8 e 9, do
-     RGPD). Ver ainda o ponto 51 e seguintes.
-     11
-        CEPD, Regulamento Interno, adotado em 25 de maio de 2018, conforme a última alteração e adotado em 8
-     de                  outubro                  de                   2020,              disponível               em
-     https://www.edpb.europa.eu/sites/default/files/files/file1/edpb rop version 7 adopted 20201008 pt.pdf
-     («Regulamento Interno»).
-
-                                                                                                                    7
-     Adotadas
-
-    •    terem acesso aos processos que se lhes refiram, no respeito pelos interesses legítimos da
-         confidencialidade e do segredo profissional e comercial.
-    O direito a uma boa administração inclui igualmente a obrigação, por parte da administração, de
-    fundamentar as suas decisões.
-
-    2.2 RGPD
-10. O artigo 65.º, n.º 1, do RGPD identifica três situações distintas em que o CEPD atua como entidade de
-    resolução de litígios. As principais regras aplicáveis aos procedimentos de resolução de litígios estão
-    estabelecidas no artigo 65.º, n.os 2 a 6, do RGPD.
-
-11. Em caso de resolução de litígios com base no artigo 65.º, n.º 1, alínea a), do RGPD, deve ter-se
-    igualmente em conta o artigo 60.º do RGPD, que se aplica à cooperação entre a ACP e a ACI em casos
-    concretos que envolvam tratamento transfronteiriço e especifica em que casos a ACP apresenta o
-    assunto ao CEPD para efeitos de resolução de litígios. Embora as presentes diretrizes se centrem
-    principalmente na aplicação do artigo 65.º, n.º 1, alínea a), do RGPD, será igualmente feita referência
-    às disposições do artigo 60.º do RGPD, na medida em que sejam pertinentes para clarificar as
-    principais fases do procedimento e competência do CEPD nos termos do artigo 65.º, n.º 1, alínea a),
-    do RGPD 12.
-
-    2.3 Regulamento Interno do CEPD
-12. O artigo 11.º do Regulamento Interno clarifica ainda as regras aplicáveis nos casos em que o CEPD é
-    chamado a tomar uma decisão vinculativa, nomeadamente no contexto do procedimento de
-    resolução de litígios. O artigo 11.º, n.º 2, do Regulamento Interno contém regras que se aplicam
-    especificamente ao procedimento de resolução de litígios previsto no artigo 65.º, n.º 1, alínea a), do
-    RGPD.
-
-13. Embora não sejam objeto das presentes diretrizes, serão igualmente tidos em conta o artigo 22.º
-    (Procedimentos de votação relacionados com as reuniões plenárias), o artigo 32.º (Acesso a
-    documentos), o artigo 33.º (Confidencialidade dos debates) e o artigo 40.º (Cálculo dos termos) do
-    Regulamento Interno, conforme adequado.
-
-
-    3 PRINCIPAIS FASES DO PROCEDIMENTO (PANORÂMICA)
-    3.1 Condições para a adoção de uma decisão vinculativa
-14. As condições gerais para a adoção de uma decisão vinculativa pelo CEPD estão estabelecidas no
-    artigo 60.º, n.os 4 e 5, e no artigo 65.º, n.º 1, alínea a), do RGPD.
-
-15. O CEPD é competente para emitir decisões vinculativas com base no artigo 65.º, n.º 1, alínea a), do
-    RGPD quando estiverem preenchidas as seguintes condições:
-    •    o envio de um projeto de decisão na aceção do artigo 60.º, n.º 3, pela ACP às ACI,
-
-
-
-
-    12
-       Para mais orientações relativas ao artigo 60.º do RGPD, ver Diretrizes 02/2022 relativas à aplicação do
-    artigo 60.º do Regulamento Geral sobre a Proteção de Dados (RGPD), adotadas em 14 de março de 2022,
-    disponíveis                       em                       https://www.edpb.europa.eu/system/files/2022-
-    10/guidelines_202202_on_the_application_of_article_60_gdpr_pt.pdf.
-
-                                                                                                            8
-    Adotadas
-
-    •    pelo menos uma ACI levantou (uma ou várias) objeções ao projeto de decisão (revisto) da ACP
-         dentro do prazo previsto no artigo 60.º, n.os 4 e 5, do RGPD, bem como
-    •    a ACP decidiu não dar seguimento às objeções ao projeto de decisão ou rejeitou-as por não serem
-         pertinentes ou fundamentadas.
-
-16. Quando estas condições estiverem preenchidas, o CEPD é competente para adotar uma decisão
-    vinculativa com base no artigo 65.º, n.º 1, alínea a), do RGPD, que diga respeito a todos os assuntos
-    que são objeto das objeções pertinentes e fundamentadas, sobretudo a questão de saber se há
-    violação do RGPD 13.
-
-17. Uma mera «observação» manifestada por uma ACI em relação a um projeto de decisão não constitui
-    uma objeção na aceção do artigo 4.º, ponto 24, do RGPD. Por conseguinte, a existência de
-    observações não implica a obrigação de acionar o procedimento previsto no artigo 65.º, n.º 1,
-    alínea a), caso a ACP decida não dar qualquer efeito à observação. Além disso, uma observação
-    manifestada não constitui, enquanto tal, um assunto a decidir pelo CEPD no âmbito da sua decisão
-    vinculativa. Todavia, a ACP é obrigada a tomar as posições expressas por todas as ACI em devida
-    consideração 14 e, nos casos em que as condições do artigo 56.º, n.º 2, estejam preenchidas, a ter na
-    melhor conta as posições expressas pela ACI à qual a reclamação foi apresentada quando prepara o
-    projeto de decisão e a ter devidamente em conta as posições expressas por todas as ACI 15.
-
-    3.2 Avaliação da exaustividade do processo
-18. O artigo 11.º, n.º 2, do Regulamento Interno prevê que incumbe ao presidente e à ACP decidir se o
-    processo está completo 16. A avaliação da exaustividade do processo é uma etapa importante do
-    procedimento, concebida para assegurar que estão preenchidas todas as condições para a adoção de
-    uma decisão vinculativa e que o CEPD dispõe de todas as informações necessárias para o efeito 17. A
-    avaliação da exaustividade do processo também serve de ponto de partida para os prazos legais
-    mencionados no artigo 65.º, n.os 2 e 3, do RGPD 18. Por último, a avaliação da exaustividade do
-    processo visa igualmente garantir o respeito do direito de ser ouvido previsto no artigo 41.º da Carta.
-
-19. Ao apresentar o assunto ao CEPD para efeitos de resolução de litígios, a ACP deve incluir:
-
-    a) O projeto de decisão ou o projeto de decisão revisto sujeito à(s) objeção(ões);
-
-    b) Um sumário dos factos e motivos pertinentes;
-
-    c) A(s) objeção(ões) apresentada(s) pela(s) autoridade(s) de controlo interessada(s) em conformidade
-    com o artigo 60.º, n.º 4 (e, se for caso disso, com o artigo 60.º, n.º 5, do RGPD);
-
-    d) Uma indicação sobre se a ACP não dá seguimento à objeção pertinente e fundamentada ou se
-    considera que a objeção não é pertinente ou fundamentada;
-
-
-
-    13
-       Ver secção 4 para mais pormenores sobre a competência do CEPD em conformidade com o artigo 65.º, n.º 1,
-    alínea a), do RGPD.
-    14
-       Artigo 60.º, n.º 3, do RGPD.
-    15
-       Artigo 56.º, n.º 4, e artigo 60.º, n.º 1, do RGPD.
-    16
-       O secretariado efetua a análise relativa à exaustividade do processo em nome do presidente.
-    17
-       Sempre que necessário, os documentos apresentados pela autoridade competente serão traduzidos para
-    inglês pelo secretariado do CEPD.
-    18
-       Ver artigo 11.º, n.º 4, do Regulamento Interno e secção 3.3.
-
-
-                                                                                                            9
-    Adotadas
-
-    e) Documentação que comprove o calendário e o formato da apresentação do projeto de decisão
-    (revisto) e da(s) objeção(ões) apresentada(s) pela(s) autoridade(s) de controlo interessada(s) 19; bem
-    como
-
-    f) Em conformidade com o artigo 41.º da Carta dos Direitos Fundamentais da União Europeia, as
-    observações escritas recolhidas pela ACP junto das pessoas que possam ser negativamente afetadas
-    pela decisão do Comité, juntamente com uma confirmação e elementos de prova quanto aos
-    documentos apresentados ao Comité que lhes foram fornecidos quando foram convidadas a exercer
-    o direito de serem ouvidas ou uma identificação clara dos elementos em relação aos quais não é esse
-    o caso 20.
-
-20. A redação do artigo 60.º, n.º 4, do RGPD e do artigo 11.º, n.º 2, do Regulamento Interno deixa claro
-    que a ACP é responsável por assegurar que o processo está completo e por apresentar todas as
-    informações pertinentes ao CEPD. Todavia, se necessário, o secretariado pode solicitar à ACP e/ou às
-    ACI informações adicionais num prazo determinado 21. A capacidade de solicitar informações
-    adicionais deve ser interpretada à luz do objetivo de assegurar que o CEPD recebe todas as
-    informações necessárias para tomar uma decisão vinculativa sobre todos os assuntos que são objeto
-    da(s) objeção(ões) pertinente(s) e fundamentada(s), sobretudo a questão de saber se há violação do
-    RGPD.
-
-    Exemplo 1:
-
-    Um projeto de decisão inclui várias referências a documentação interna do responsável pelo
-    tratamento. Embora a conclusão (contestada) da ACP quanto à existência de uma violação seja
-    evidenciada no seu projeto de decisão no que se refere ao conteúdo desta documentação, a ACP não
-    inclui uma cópia da mesma ao apresentar o assunto ao CEPD para efeitos de resolução de litígios. O
-    secretariado pode solicitar à ACP que faculte uma cópia da documentação referenciada dentro de um
-    prazo específico, se tal for necessário para ajudar a tomar uma decisão sobre o assunto da(s)
-    objeção(ões) pertinente(s) e fundamentada(s).
-
-    A capacidade de solicitar informações adicionais numa fase posterior não diminui a responsabilidade
-    da ACP de fornecer todas as informações pertinentes desde o início, aquando da apresentação do
-    assunto ao CEPD. Uma vez que a responsabilidade de assegurar que o processo está completo cabe à
-    ACP, o pedido de informações adicionais à ACP e/ou à ACI só deve, em princípio, ser necessário em
-    circunstâncias excecionais. Além disso, uma vez que a ACP e a ACI são obrigadas a proceder ao
-    intercâmbio de todas as informações pertinentes durante o procedimento de cooperação, as
-    informações pertinentes já deveriam ter sido facultadas às ACI antes do início do procedimento de
-    resolução de litígios. Se todas as informações necessárias para tomar uma decisão vinculativa sobre
-    as objeções levantadas forem igualmente transmitidas pela ACP ao remeter o assunto para o CEPD, o
-    secretariado não terá de solicitar informações adicionais antes de declarar o processo completo.
-
-21. Importa assinalar que um pedido de informações adicionais se limita a garantir a exaustividade do
-    processo. Não implica qualquer juízo sobre a questão de fundo das objeções apresentadas, nem altera
-
-
-    19
-       O objetivo desta informação consiste em permitir ao secretariado verificar se a objeção foi apresentada por
-    escrito e dentro do prazo legal. O calendário e o formato da apresentação do projeto de decisão (revisto) e da(s)
-    objeção(ões) podem ser comprovados, por exemplo, através do relatório de objeções pertinentes e
-    fundamentadas do sistema de informação e comunicação mencionado no artigo 17.º do Regulamento Interno.
-    20
-       Artigo 11.º, n.º 2, do Regulamento Interno. Ver também secção 5.
-    21
-       Artigo 11.º, n.º 2, do Regulamento Interno.
-
-
-                                                                                                                  10
-    Adotadas
-
-    de modo algum o assunto remetido para o CEPD. Quando o processo for considerado completo e o
-    assunto remetido para o CEPD, em circunstâncias excecionais, podem também ser solicitadas
-    informações adicionais numa fase posterior do procedimento (ou seja, depois de o assunto ser
-    remetido para o Comité), se necessário para sanar eventuais omissões. Tal será objeto de uma decisão
-    do CEPD 22.
-
-22. Sempre que necessário, os documentos apresentados pela ACP e/ou pela ACI serão traduzidos para
-    inglês pelo secretariado do CEPD 23. A tradução pode também limitar-se às partes específicas
-    suscetíveis de serem relevantes para ajudar a tomar uma decisão sobre o assunto da(s) objeção(ões)
-    pertinente(s) e fundamentada(s). A ACP e/ou a ACI terão de chegar a acordo sobre a tradução 24.
-
-    Exemplo 2:
-
-    No seu projeto de decisão, a ACP conclui que só se concretizou uma das violações do RGPD alegadas
-    pelo autor da reclamação. A ACI considera, na sua objeção pertinente e fundamentada, que as outras
-    violações alegadas pelo autor da reclamação também foram cometidas, embora o projeto de decisão
-    não explique cabalmente os elementos factuais necessários para concluir que as violações não
-    ocorreram. Por conseguinte, o secretariado solicita à ACP que faculte uma cópia das partes
-    necessárias do relatório de investigação num prazo específico 25. Se a tradução destas partes for
-    necessária, serão traduzidas para inglês pelo secretariado e a ACP terá de chegar a acordo sobre a
-    tradução.
-
-23. Quando o presidente e a ACP tiverem decidido que o processo está completo (e a autoridade de
-    controlo competente tiver chegado a acordo sobre quaisquer traduções para inglês necessárias), o
-    secretariado, em nome do presidente, remeterá o assunto para os membros do CEPD sem demora
-    injustificada 26.
-
-24. Se a ACP não facultar as informações enumeradas supra dentro do prazo fixado 27, o presidente
-    solicitará ao secretariado que remeta o assunto para o CEPD. O CEPD avaliará então, caso a caso, se
-    pode adotar a sua decisão com base nas informações já facultadas ou se é necessário obter, antes de
-    adotar uma decisão, as informações solicitadas (por exemplo, confirmação e elementos de prova
-    quanto aos documentos apresentados ao Comité que foram fornecidos às pessoas em causa quando
-    foram convidadas a exercer o direito de serem ouvidas ou uma identificação clara dos elementos em
-    relação aos quais não é esse o caso).
-
-    Relação com o direito de ser ouvido
-
-25. A avaliação da exaustividade do processo visa igualmente garantir o respeito do direito de ser ouvido
-    previsto no artigo 41.º da Carta. O artigo 11.º, n.º 2, do Regulamento Interno prevê que o CEPD deve
-
-    22
-       O artigo 11.º, n.º 2, do Regulamento Interno prevê que, em circunstâncias excecionais, o CEPD pode decidir
-    examinar outros documentos que considere necessários. Consequentemente, o secretariado/presidente pode
-    solicitar informações adicionais, mas o CEPD terá de decidir se irá ou não ter em consideração as informações
-    adicionais recebidas.
-    23
-       A autoridade competente deve manifestar o seu acordo em relação à tradução facultada (artigo 11.º, n.º 2,
-    do Regulamento Interno).
-    24
-       Artigo 11.º, n.º 2, do Regulamento Interno.
-    25
-       Artigo 11.º, n.º 2, do Regulamento Interno.
-    26
-       Artigo 11.º, n.º 2, do Regulamento Interno.
-    27
-       Esse prazo deve ser decidido caso a caso, tendo em conta a natureza e o volume dos documentos solicitados.
-    O secretariado deve consultar a ACP (ou, se for caso disso, a ACI) para obter as respetivas posições sobre o que
-    constitui um prazo adequado.
-
-
-                                                                                                                 11
-    Adotadas
-
-    ter em conta apenas os documentos fornecidos pela ACP e pela ou pelas outras ACI antes de o assunto
-    ser remetido para o Comité. Por conseguinte, qualquer pessoa que possa ser afetada
-    desfavoravelmente deveria, em princípio, já ter sido convidada a exercer o seu direito de ser ouvida 28.
-    Sempre que necessário, o Comité tomará medidas adicionais para assegurar o direito das pessoas
-    afetadas a serem ouvidas em relação aos elementos dos documentos que fazem parte do processo
-    que serão tidos em conta pelo CEPD na tomada de decisão 29.
-
-26. Quando o processo for declarado completo, a ACP e a(s) ACI não podem, em princípio, apresentar
-    quaisquer informações adicionais sobre o assunto do litígio (a menos que o secretariado as solicite
-    com vista a sanar uma omissão em conformidade com o artigo 11.º, n.º 2, do Regulamento Interno 30).
-    Só em circunstâncias excecionais é que o Comité pode decidir ter outros documentos em consideração
-    que julgue necessários. Por exemplo, a ACP não pode introduzir novos elementos de facto que
-    fundamentem a sua decisão de não dar seguimento a uma ou várias objeções que não tenham sido
-    previamente comunicadas antes de o assunto ser remetido para o CEPD 31. Além disso, todas as
-    informações pertinentes para a avaliação das objeções levantadas devem já ter sido objeto de
-    intercâmbio entre a ACP e a ACI antes do início do procedimento previsto no artigo 65.º, n.º 1,
-    alínea a), num esforço para chegar a um consenso (uma vez que essa ação pode também ajudar a
-    evitar a necessidade de desencadear o mecanismo de resolução de litígios).
-
-27. Depois de o processo ser declarado completo e o assunto remetido para o CEPD, este último deve
-    emitir uma decisão vinculativa em relação a cada objeção levantada, a menos que a ACI que levantou
-    uma determinada objeção decida retirá-la. Uma vez que a retirada da objeção significa o termo do
-    litígio entre a ACP e a ACI, deixa de ser necessário que o CEPD resolva o assunto 32. Do mesmo modo,
-    a ACP pode retirar um assunto remetido para o CEPD com base no artigo 60.º, n.º 4, do RGPD, caso
-    decida posteriormente que gostaria de dar seguimento a cada uma das objeções levantadas. Todavia,
-    a retirada de uma objeção ou de um assunto remetido só deve ocorrer em casos muito excecionais,
-    pois a obrigação de a ACP e as ACI procurarem alcançar um consenso nos termos do artigo 60.º do
-    RGPD exige que o mecanismo de resolução de litígios só seja desencadeado em caso de desacordo
-    persistente e em que não tenha sido possível chegar a um consenso.
-
-    3.3 Fixação do(s) prazo(s)
-28. O prazo legal por defeito para o CEPD adotar uma decisão vinculativa é de um mês após o presidente
-    e a autoridade de controlo competente decidirem que o processo está completo 33. O prazo pode ser
-
-
-
-    28
-       Ver, em especial, o artigo 11.º, n.º 2, do Regulamento Interno: «[…] juntamente com uma confirmação e
-    elementos de prova quanto aos documentos apresentados ao Comité que lhes foram fornecidos quando foram
-    convidadas a exercer o direito de serem ouvidas ou uma identificação clara dos elementos em relação aos quais
-    não é esse o caso».
-    29
-       Ver secção 5 para mais informações sobre o exercício do direito de ser ouvido.
-    30
-       Ver ponto 20 supra.
-    31
-       Com efeito, a redação do artigo 11.º, n.º 2, alínea d), do Regulamento Interno confirma que, ao lançar o
-    procedimento, a ACP deve apresentar «elementos que indiquem» se não dá seguimento à objeção pertinente e
-    fundamentada ou se considera que a objeção não é pertinente ou fundamentada (ou seja, apenas elementos
-    que indiquem se dá seguimento ou não às objeções). Consequentemente, não podem ser apresentados novos
-    elementos para além daqueles de que as ACI foram informadas antes da apresentação ao Comité.
-    32
-       Caso a retirada diga respeito à única objeção à qual a ACP decidiu não dar seguimento ou que considerou não
-    ser pertinente e fundamentada, o CEPD deixa de ser obrigado a emitir uma decisão vinculativa em conformidade
-    com o artigo 65.º, n.º 1, alínea a), do RGPD.
-    33
-       Artigo 65.º, n.º 2, do RGPD em conjugação com o artigo 11.º, n.º 4, do Regulamento Interno.
-
-
-                                                                                                               12
-    Adotadas
-
-    prorrogado por mais um mês em virtude da complexidade do assunto em apreço 34. Caso o CEPD não
-    tenha podido adotar uma decisão nos prazos referidos, deve fazê-lo no prazo de duas semanas a
-    contar do termo da prorrogação 35.
-
-    3.3.1 Cálculo
-29. O cálculo do prazo para a adoção da decisão vinculativa deve ser efetuado com base no Regulamento
-    n.º 1182/71 36. Nos termos do artigo 3.º, n.º 2, alínea c), do Regulamento n.º 1182/71,
-            «Um prazo fixado em semanas, em meses ou em anos começa a correr no início da primeira
-            hora do primeiro dia do prazo e termina com o decurso da última hora do dia que, na última
-            semana, mês ou ano, tenha a mesma denominação ou o mesmo número que o dia do início
-            do prazo».
-    O Tribunal de Justiça confirmou que, por exemplo, se um facto que constitui o ponto de partida de
-    um prazo de uma semana ocorrer numa segunda-feira, o prazo terminará na segunda-feira seguinte,
-    que será o dies ad quem (dia do termo do prazo) 37. Do mesmo modo, se o prazo for expresso em
-    meses e o facto gerador ocorrer em 20 de março, o prazo terminará em 20 de abril.
-
-30. A data de início (dies a quo) da aplicação do artigo 65.º, n.º 1, alínea a), do RGPD consiste no dia em
-    que o presidente e a autoridade de controlo competente decidiram que o processo está completo e
-    o secretariado remete o assunto para o CEPD através do sistema de informação e comunicação
-    mencionado no artigo 17.º do Regulamento Interno do CEPD.
-
-31. Uma vez que o RGPD não prevê prazos em dias úteis, os prazos em causa compreendem os dias
-    feriados, os domingos e os sábados 38. Todavia, quando o último dia de um prazo for um dia feriado,
-    um domingo ou um sábado, o prazo termina com o decurso da última hora do dia útil seguinte 39, ou
-    seja, o dia do termo do prazo (dies ad quem) é o dia útil seguinte.
-
-    3.3.2 Decisão de prorrogação por um mês
-32. O artigo 65.º, n.º 2, do RGPD permite que o primeiro prazo de um mês seja prorrogado por mais um
-    mês, em virtude da complexidade do assunto em apreço. A prorrogação deve ser decidida pelo
-    presidente do CEPD, por sua própria iniciativa ou a pedido de, pelo menos, um terço dos membros do
-    CEPD 40. A decisão de prorrogação deve ser tomada antes do termo do prazo de um mês.
-
-    3.3.3 Prorrogação por duas semanas
-33. A decisão vinculativa deve, em princípio, ser adotada por maioria de dois terços, o mais tardar dois
-    meses após o processo ser considerado completo e o assunto remetido para o CEPD. Todavia, caso o
-    CEPD não tenha podido adotar uma decisão dentro do prazo prorrogado por não ter sido alcançada a
-
-    34
-       Artigo 65.º, n.º 2, do RGPD.
-    35
-       Artigo 65.º, n.º 3, do RGPD. Ver também o ponto 32.
-    36
-       Regulamento (CEE, Euratom) n.º 1182/71 do Conselho, de 3 de junho de 1971, relativo à determinação das
-    regras aplicáveis aos prazos, às datas e aos termos (JO L 124 de 8.6.1971, p. 1). O artigo 40.º do Regulamento
-    Interno confirma que «[d]e forma a calcular os prazos e termos expressos no RGPD e no presente Regulamento
-    Interno, aplica-se o Regulamento n.º 1182/71 do Conselho, de 3 de junho de 1971, relativo à determinação das
-    regras aplicáveis aos prazos, às datas e aos termos».
-    37
-        Ver acórdão do Tribunal de Justiça de 11 de novembro de 2004, Maatschap Toeters, M. C.
-    Verberk/Productschap Vee en Vlees, C-171/03, ECLI:EU:C:2004:714, n.º 33.
-    38
-       Artigo 3.º, n.º 3, do Regulamento (CEE, Euratom) n.º 1182/71.
-    39
-       Artigo 3.º, n.º 4, do Regulamento (CEE, Euratom) n.º 1182/71.
-    40
-       Artigo 11.º, n.º 4, do Regulamento Interno.
-
-
-                                                                                                               13
-    Adotadas
-
-    maioria exigida, o CEPD adota a decisão no prazo de duas semanas a contar do termo do segundo
-    mês, por maioria simples dos seus membros 41.
-
-34. Durante as duas semanas adicionais, o projeto de decisão vinculativa do CEPD, que foi anteriormente
-    apresentado para adoção por maioria de dois terços, pode ser objeto de alterações, caso tal seja
-    necessário para alcançar a maioria simples. Por outras palavras, o projeto de decisão vinculativa do
-    CEPD pode ser adaptado e ajustado, caso não seja alcançada a maioria de dois terços.
-
-    3.4 Elaboração do projeto de decisão vinculativa do CEPD
-35. Nos termos do artigo 11.º, n.º 5, do Regulamento Interno, as decisões vinculativas «são preparad[a]s
-    e redigid[a]s pelo secretariado e, mediante decisão do presidente, juntamente com um relator e
-    membros dos subgrupos de peritos» 42. Por conseguinte, o secretariado do CEPD deve atuar como
-    relator principal e o presidente deve decidir sobre a participação de um subgrupo de peritos e de
-    correlatores.
-
-36. Assim que a ACP apresentar o assunto ao CEPD para efeitos de resolução de litígios, o secretariado
-    deve iniciar a avaliação da exaustividade do processo. Durante esta avaliação, o presidente é
-    convidado a decidir sobre a possível participação de correlatores e convidará os membros do CEPD a
-    manifestarem interesse em desempenhar essa função (a menos que o presidente decida não envolver
-    correlatores nesse caso) 43. A fim de garantir a equidade e a imparcialidade, o correlator ou o grupo de
-    correlatores não devem incluir delegações da ACP ou das ACI que tenham apresentado objeções em
-    relação ao projeto de decisão 44.
-
-37. Por último, importa notar que o presidente pode também decidir envolver os membros de um ou
-    vários subgrupos de peritos, em função das necessidades do caso.
-
-38. Conforme indicado anteriormente, o artigo 11.º, n.º 2, do Regulamento Interno estabelece que o
-    CEPD deve ter em conta apenas os documentos fornecidos pela ACP e pela ou pelas outras ACI quando
-    o assunto for remetido para o CEPD, o que significa que a ACP ou a(s) ACI não podem, durante a fase
-    de redação, introduzir novos elementos de facto que apoiem as respetivas posições.
-
-39. Em conformidade com o artigo 76.º, n.º 1, do RGPD, os debates do Comité e dos subgrupos de peritos
-    são confidenciais caso digam respeito ao procedimento de controlo da coerência 45. Além disso, é
-    igualmente imposta uma obrigação de segredo profissional ao pessoal de todas as autoridades
-    nacionais de controlo do EEE 46, à AEPD e ao secretariado do CEPD 47. Tal significa que o dever de
-    confidencialidade e de segredo profissional, que é da maior importância, deve ser respeitado pelo
-
-
-
-    41
-       Ver artigo 65.º, n.º 3, do RGPD. No que diz respeito ao cálculo da maioria e dos direitos de voto dos membros
-    do CEPD, ver secção 3.5 (Adoção da decisão vinculativa do CEPD).
-    42
-       Ver igualmente o artigo 75.º, n.º 6, alínea g), do RGPD, que prevê que o secretariado é responsável, em
-    especial, pela preparação, redação e publicação das decisões em matéria de resolução de litígios entre
-    autoridades de controlo.
-    43
-       Se o convite à manifestação de interesse para desempenhar a função de correlator for feito antes da avaliação
-    de que o processo está completo, deve ter-se o cuidado de não divulgar quaisquer elementos do processo antes
-    de a avaliação ser efetuada e o assunto remetido para o CEPD.
-    44
-       Ver também acórdão do Tribunal de Justiça de 27 de março de 2019, Dr. August Wolff GmbH & Co. KG
-    Arzneimittel, C-680/16 P, ECLI:EU:C:2019:257, n.os 29 a 41.
-    45
-       Artigo 33.º do Regulamento Interno.
-    46
-       Artigo 54.º, n.º 2, do RGPD.
-    47
-       Artigo 56.º do Regulamento (UE) 2018/1725.
-
-
-                                                                                                                 14
-    Adotadas
-
-    CEPD e pelos seus membros também em relação aos casos de resolução de litígios nos termos do
-    artigo 65.º, n.º 1, alínea a), a respeito dos debates e dos documentos que são objeto de intercâmbio.
-
-    3.5 Adoção da decisão vinculativa do CEPD
-40. Todas as maiorias mencionadas no RGPD (ou no Regulamento Interno) referem-se ao número total
-    de membros do CEPD com direito de voto, independentemente de estarem ou não presentes 48.
-
-41. Embora não tenham direito de voto, as autoridades de controlo dos Estados EFTA membros do EEE
-    (ou seja, a Islândia, o Listenstaine e a Noruega) têm o direito de expressar as suas posições sobre todos
-    os pontos debatidos e/ou votados 49.
-
-42. Nos termos do artigo 68.º, n.º 6, do RGPD, a AEPD apenas tem direito de voto nas decisões que digam
-    respeito a princípios e normas aplicáveis às instituições, órgãos, organismos e agências da União que
-    correspondam, em substância, às do RGPD. Se for esse o caso, a AEPD tem o direito de votar a decisão
-    no seu conjunto.
-
-43. Todos os membros do CEPD com direito de voto que não estejam representados numa reunião
-    plenária podem delegar esses direitos noutro membro do Comité com direito de voto e que participe
-    na reunião plenária 50.
-
-44. A maioria necessária para a adoção de uma decisão vinculativa nos termos do artigo 65.º, n.º 1,
-    alínea a), do RGPD é de dois terços dos membros do CEPD com direito de voto 51. Caso o CEPD não
-    tenha podido adotar uma decisão por maioria de dois terços, adota a sua decisão por maioria simples
-    no prazo de duas semanas. Se houver empate na votação, a decisão é adotada pelo voto qualificado
-    do presidente 52.
-
-    3.6 Notificação às autoridades de controlo interessadas
-45. Quando o CEPD tiver adotado a sua decisão vinculativa, o presidente do CEPD notifica a decisão a
-    todas as autoridades de controlo interessadas sem demora injustificada 53. Por conseguinte, todas as
-    ACI no caso em apreço têm de ser notificadas da decisão vinculativa.
-
-46. A notificação será efetuada pelo secretariado, em nome do presidente, através do sistema de
-    informação e comunicação mencionado no artigo 17.º do Regulamento Interno 54. A notificação da
-    decisão vinculativa é efetuada através da notificação da decisão em inglês, que é a única língua que
-
-
-
-
-    48
-       Artigo 22.º, n.º 3, do Regulamento Interno.
-    49
-       Ver Decisão do Comité Misto do EEE n.º 154/2018, de 6 de julho de 2018, que altera o Anexo XI (Comunicações
-    eletrónicas, serviços audiovisuais e sociedade da informação) e o Protocolo n.º 37 (que contém a lista prevista
-    no artigo 101.º) do Acordo EEE [2018/1022]. Ver também considerando 7 e artigo 4.º, n.º 1, do Regulamento
-    Interno.
-    50
-       O presidente e o secretariado são notificados quanto a qualquer delegação de direitos de voto. Artigo 22.º,
-    n.º 5, do Regulamento Interno.
-    51
-       Artigo 65.º, n.º 2, do RGPD em conjugação com o artigo 22.º, n.º 3, do Regulamento Interno.
-    52
-       Artigo 65.º, n.º 3, do RGPD.
-    53
-       Artigo 65.º, n.º 5, do RGPD.
-    54
-       Artigo 11.º, n.º 6, do Regulamento Interno.
-
-
-                                                                                                                15
-    Adotadas
-
-    faz fé 55. Considerar-se-á que as autoridades de controlo interessadas estão perfeitamente ao corrente
-    da decisão conforme notificada 56.
-
-
-
-    3.7 Decisão final da(s) autoridade(s) de controlo
-47. No prazo de um mês após a notificação da decisão do CEPD às autoridades de controlo, a ACP e/ou a
-    ACI (consoante o caso 57) devem adotar uma decisão final 58. Cada decisão final deve ser adotada «com
-    base» na decisão do CEPD. Além disso, as decisões finais devem remeter para a decisão do CEPD e
-    especificar que serão publicadas no sítio Web do CEPD. As decisões finais da ACP e/ou da ACI devem
-    também ser acompanhadas da decisão do CEPD 59.
-
-    3.7.1 «Com base»
-48. O requisito de adotar uma decisão final «com base» na decisão do CEPD reflete o facto de a decisão
-    do CEPD ser juridicamente vinculativa para a ACP (e/ou, eventualmente, para a ou as ACI caso seja
-    necessário adotar uma decisão final em relação aos titulares dos dados 60) enquanto destinatária da
-    decisão 61.
-
-49. O objetivo da decisão vinculativa consiste em resolver posições contraditórias entre a(s) ACP e a(s)
-    ACI sobre a questão de fundo, sobretudo a questão de saber se há violação do RGPD, a fim de
-    assegurar a aplicação correta e coerente do RGPD em casos concretos 62.
-
-50. A decisão final deve ser adotada com base na decisão do CEPD e, por conseguinte, deve dar pleno
-    efeito à(s) orientação(ões) vinculativa(s) estabelecida(s) na decisão do CEPD. Por exemplo, se o CEPD
-    determinar que houve efetivamente uma violação do RGPD, a ACP ou a ACI não podem determinar o
-    contrário. Na mesma ordem de ideias, caso o CEPD determine que a ação prevista em relação ao
-    responsável pelo tratamento ou ao subcontratante não cumpre o RGPD, a ACP ou a ACI devem adaptar
-    a sua linha de ação em conformidade 63.
-
-
-
-
-    55
-       Artigo 11.º, n.º 6, do Regulamento Interno.
-    56
-       Artigo 11.º, n.º 6, do Regulamento Interno. As autoridades obrigadas a adotar uma decisão ou a tomar
-    medidas a nível nacional com base na decisão vinculativa do CEPD podem receber traduções urgentes noutra
-    língua da UE. As outras autoridades de controlo interessadas podem, a título excecional, solicitar uma tradução
-    urgente, fundamentando esse pedido. Uma vez que a língua que faz fé da decisão do CEPD é o inglês, o CEPD
-    não é responsável pela utilização que possa ser feita das traduções disponibilizadas (artigo 11.º, n.º 7, do
-    Regulamento Interno).
-    57
-       Em caso de recusa parcial ou total de uma reclamação, ver artigo 60.º, n.os 8 e 9, do RGPD.
-    58
-       Artigo 65.º, n.º 6, do RGPD.
-    59
-       O requisito de que a decisão final seja acompanhada da decisão do CEPD não significa que a decisão do CEPD
-    deva ser anexada à decisão final num único documento (basta que a decisão do CEPD seja comunicada ao
-    responsável pelo tratamento ou ao subcontratante juntamente com a decisão final).
-    60
-       Ver artigo 60.º, n.os 8 e 9, do RGPD.
-    61
-       Considerandos 136 e 143 do RGPD.
-    62
-       Considerando 136 e artigo 65.º, n.º 1, alínea a), do RGPD.
-    63
-        Ver secção 4 (Competência do CEPD), em especial a secção 4.2 (Assuntos da objeção pertinente e
-    fundamentada).
-
-
-                                                                                                                16
-    Adotadas
-
-    3.7.2 Decisão(ões) da ACP e/ou da ACI
-51. A decisão final da ACP e, consoante o caso, da ACI à qual foi apresentada a reclamação deve ser
-    adotada nos termos do artigo 60.º, n.os 7, 8 e 9, do RGPD 64.
-
-52. O ponto de partida é que a ACP terá de adotar e notificar a sua decisão final ao estabelecimento
-    principal ou ao estabelecimento único do responsável pelo tratamento ou do subcontratante e
-    informar as outras autoridades de controlo interessadas, bem como o CEPD, da sua decisão final
-    (incluindo um sumário dos factos e motivos pertinentes) 65. Uma derrogação importante a este
-    requisito diz respeito à recusa ou rejeição de uma reclamação.
-
-53. Caso seja recusada ou rejeitada uma reclamação, a autoridade de controlo à qual a reclamação tiver
-    sido apresentada adota a decisão, notifica o autor da reclamação e informa desse facto o responsável
-    pelo tratamento 66.
-
-54. Caso seja necessário tomar uma decisão de modo a recusar apenas parcialmente uma reclamação, a
-    ACP adota a decisão na parte respeitante às medidas relativas ao responsável pelo tratamento ou ao
-    subcontratante e informa desse facto o estabelecimento principal ou o estabelecimento único do
-    responsável pelo tratamento ou do subcontratante no território do seu Estado-Membro, informando
-    desse facto o autor da reclamação, enquanto a autoridade de controlo do autor da reclamação adota
-    a decisão na parte relativa à recusa ou à rejeição da referida reclamação e notifica o autor da
-    reclamação, informando desse facto o responsável pelo tratamento ou o subcontratante 67.
-
-55. Todas as pessoas, singulares ou coletivas, têm direito a intentar uma ação judicial perante os tribunais
-    nacionais competentes contra as decisões das autoridades de controlo que produzam efeitos jurídicos
-    que lhes digam respeito, em consonância com o artigo 78.º do RGPD 68.
-
-    3.7.3 Prestação de informações ao CEPD
-56. A ACP ou, consoante o caso, a ACI à qual foi apresentada a reclamação deve informar o CEPD da data
-    em que a sua decisão final é notificada, respetivamente, ao responsável pelo tratamento ou ao
-    subcontratante e ao titular dos dados 69.
-
-    3.8 Publicação da decisão vinculativa do CEPD
-57. Em conformidade com o artigo 65.º, n.º 5, do RGPD, a publicação da decisão vinculativa do CEPD no
-    sítio Web do Comité deve ocorrer «sem demora injustificada» depois de a ACP notificar a decisão
-    nacional final ao responsável pelo tratamento/subcontratante e/ou de a ACI notificar o titular dos
-    dados (em caso de recusa de uma reclamação). Sempre que possível, a expressão «sem demora
-    injustificada» deve ser interpretada como uma sugestão de que a publicação da decisão vinculativa
-    do CEPD deve ocorrer no mesmo dia em que a decisão nacional final é notificada ao responsável pelo
-    tratamento/subcontratante/autor da reclamação.
-
-58. A fim de permitir que o CEPD publique a sua decisão vinculativa «sem demora injustificada» após a
-    notificação da decisão nacional final, o artigo 65.º, n.º 6, do RGPD exige que a autoridade de controlo
-
-
-    64
-       Artigo 65.º, n.º 6, do RGPD.
-    65
-       Artigo 60.º, n.º 7, do RGPD.
-    66
-       Artigo 60.º, n.º 8, do RGPD.
-    67
-       Artigo 60.º, n.º 8, do RGPD.
-    68
-       Ver igualmente o considerando 143 do RGPD. Para mais informações, consultar a secção 8 (Recursos judiciais).
-    69
-       Artigo 65.º, n.º 6, do RGPD.
-
-
-                                                                                                                17
-    Adotadas
-
-    competente informe o Comité da data em que a decisão final é notificada, respetivamente, ao
-    responsável pelo tratamento ou ao subcontratante e ao titular. A fim de evitar atrasos indevidos, cada
-    autoridade de controlo competente deve informar o secretariado da data prevista para a notificação
-    da decisão nacional, de preferência com pelo menos um dia de antecedência.
-
-59. O artigo 339.º do TFUE exige que os membros e o pessoal das instituições da UE não divulguem as
-    informações que, pela sua natureza, estejam abrangidas pelo segredo profissional, designadamente
-    as respeitantes às empresas e respetivas relações comerciais ou elementos dos seus preços de custo 70.
-    Consequentemente, algumas partes da decisão vinculativa do CEPD podem ter de ser ocultadas, a fim
-    de evitar a divulgação de informações abrangidas pelo segredo profissional. O secretariado avaliará a
-    necessidade de ocultar esses elementos com base no direito da UE e na jurisprudência do TJUE 71.
-
-60. O CEPD publicará igualmente a ou as decisões nacionais finais no seu registo 72, tendo em conta
-    eventuais restrições ao abrigo do direito nacional da autoridade de controlo competente no que diz
-    respeito à publicação das suas decisões. Sempre que tais restrições se apliquem, as AC devem informar
-    o secretariado em relação às mesmas.
-
-
-    4 COMPETÊNCIA DO CEPD
-61. O objetivo do procedimento de controlo da coerência, incluindo o artigo 65.º, n.º 1, alínea a), do
-    RGPD, é contribuir para a aplicação coerente do RGPD em toda a União. O considerando 136 indica
-    claramente que a competência do CEPD para emitir uma decisão vinculativa em caso de posições
-    contraditórias entre a ACP e as ACI no âmbito da cooperação diz respeito à questão de fundo,
-    designadamente se há violação do RGPD 73.
-
-62. Em conformidade com o artigo 65.º, n.º 1, alínea a), do RGPD, a decisão vinculativa do CEPD diz
-    respeito a todos os assuntos que são objeto da objeção pertinente e fundamentada. Por
-    conseguinte, o CEPD apreciará apenas as questões incluídas nas objeções levantadas em relação ao
-
-    70
-       O Estatuto dos Funcionários impõe igualmente uma obrigação de segredo profissional ao pessoal das
-    instituições da UE e o artigo 56.º do Regulamento (UE) 2018/1725 também o impõe ao pessoal da AEPD,
-    incluindo o secretariado do CEPD. O artigo 54.º, n.º 2, do RGPD também impõe uma obrigação de segredo
-    profissional aos membros e ao pessoal de cada autoridade de controlo.
-    71
-       Ver, por exemplo, acórdão do Tribunal de Primeira Instância de 30 de maio de 2006, Bank Austria
-    Creditanstalt, T-198/03, ECLI:EU:T:2006:136; acórdão do Tribunal Geral de 28 de janeiro de 2015, Evonik
-    Degussa, T-341/12, ECLI:EU:T:2015:51; acórdão do Tribunal Geral de 28 de janeiro de 2015, Akzo Nobel NV, T-
-    345/12, ECLI:EU:T:2015:50; acórdão do Tribunal Geral de 9 de setembro de 2014, MasterCard, Inc., T-516/11,
-    ECLI:EU:T:2014:759; acórdão do Tribunal Geral de 21 de novembro de 2018, Stichting Greenpeace Nederland,
-    T-545/11 RENV, ECLI:EU:T:2018:817; acórdão do Tribunal Geral de 25 de setembro de 2018, Amicus
-    Therapeutics UK Ltd, T-33/17, ECLI:EU:T:2018:595; acórdão do Tribunal de Primeira Instância de 12 de outubro
-    de 2007, Pergan Hilfsstoffe für industrielle Prozesse GmbH, T-474/04, ECLI:EU:T:2007:306, Colet., p. II-4225.
-    72
-       O artigo 70.º, n.º 1, alínea y), do RGPD exige que o CEPD conserve um registo eletrónico, acessível ao público,
-    das decisões tomadas pelas autoridades de controlo e pelos tribunais sobre questões tratadas no âmbito do
-    procedimento de controlo da coerência. Ver https://www.edpb.europa.eu/our-work-tools/consistency-
-    findings/register-for-decisions pt.
-    73
-        O considerando 136 estipula que «[…] O Comité deverá também ser habilitado a adotar decisões
-    juridicamente vinculativas em caso de litígio entre as autoridades de controlo. Para esse efeito, deverá emitir,
-    em princípio por maioria de dois terços dos seus membros, decisões vinculativas em casos claramente definidos
-    em que as autoridades de controlo tenham posições contraditórias, em especial no âmbito da cooperação entre
-    a autoridade de controlo principal e as autoridades de controlo interessadas, a respeito da questão de fundo,
-    designadamente se há violação do presente regulamento».
-
-
-                                                                                                                   18
-    Adotadas
-
-    projeto de decisão ou ao projeto de decisão revisto da ACP. O CEPD não reapreciará todo o processo
-    nem abordará questões que possam ser levantadas no decurso do procedimento ao abrigo do
-    artigo 65.º, mas que não foram objeto das objeções fundamentadas e pertinentes enviadas antes da
-    apresentação do litígio ao CEPD.
-
-63. O litígio entre a ACP e a(s) ACI pode dizer respeito ao facto de a ACP não dar seguimento a uma ou
-    várias objeções pertinentes e fundamentadas ou de a ACP considerar que uma ou várias objeções não
-    são pertinentes ou fundamentadas. O CEPD avaliará, em relação a cada objeção levantada, se a
-    objeção cumpre os requisitos do artigo 4.º, ponto 24, do RGPD e, caso cumpra, abordará as questões
-    de fundo da objeção na decisão vinculativa.
-
-    4.1 Apreciação da pertinência e fundamentação das objeções
-64. Nas suas diretrizes relativas à objeção pertinente e fundamentada, o CEPD clarificou as condições que
-    devem estar preenchidas para que uma objeção seja considerada «pertinente e fundamentada» na
-    aceção do artigo 4.º, ponto 24, do RGPD 74.
-
-65. Quando uma ACP remete um litígio para o CEPD para efeitos de resolução em conformidade com o
-    artigo 60.º, n.º 4, e o artigo 63.º do RGPD, o CEPD deve, em primeiro lugar, apreciar se as objeções
-    levantadas cumprem, de facto, as condições para serem pertinentes e fundamentadas 75.
-
-66. O CEPD relembra que, para que uma objeção seja considerada «pertinente», tem de existir uma
-    ligação direta entre a mesma e a substância do projeto de decisão em questão. Mais especificamente,
-    a objeção deve incidir sobre a existência de uma violação do RGPD ou a conformidade da ação prevista
-    relativamente ao responsável pelo tratamento ou ao subcontratante com o RGPD 76.
-
-67. Para que uma objeção seja «fundamentada», deve ser coerente, clara, precisa e circunstanciada na
-    explicação dos motivos da objeção. Deve expor, de forma clara e precisa, os elementos essenciais nos
-    quais a ACI baseou a sua avaliação, bem como a ligação entre as consequências previstas do projeto
-    de decisão (se emitida sem alterações) e a gravidade dos riscos previstos para os direitos e liberdades
-    fundamentais dos titulares dos dados e, eventualmente, para a livre circulação de dados pessoais no
-    território da União 77.
-
-68. Ao apreciar se as objeções preenchem efetivamente as condições para serem pertinentes e
-    fundamentadas, a avaliação realizada pelo CEPD será substancial e formal. Por outras palavras, o
-    CEPD terá em conta a redação específica utilizada pela ACI em cada uma das objeções levantadas e se
-
-
-    74
-       Diretrizes relativas à objeção pertinente e fundamentada, pontos 12 a 21.
-    75
-       Conforme clarificado anteriormente, a ACP deve apresentar o assunto ao CEPD, caso não dê seguimento à
-    objeção pertinente e fundamentada ou considere que a objeção não é pertinente ou fundamentada. Ver
-    secção 3.1 supra.
-    76
-       Diretrizes relativas à objeção pertinente e fundamentada, ponto 12. Uma objeção levantada cumpre o critério
-    de ser «pertinente» quando, tendo-lhe sido dado seguimento, implica uma alteração que conduz a uma
-    conclusão diferente quanto à existência de uma violação do RGPD ou quanto à conformidade da ação prevista
-    relativamente ao responsável pelo tratamento ou ao subcontratante, tal como proposta pela ACP, com o RGPD.
-    Diretrizes relativas à objeção pertinente e fundamentada, ponto 13.
-    77
-       Diretrizes relativas à objeção pertinente e fundamentada, ponto 19. Ver igualmente as diretrizes relativas à
-    objeção pertinente e fundamentada, ponto 16. [«Para que a objeção seja “fundamentada”, é necessário que
-    inclua esclarecimentos e argumentos sobre o motivo pelo qual é proposta uma alteração da decisão (ou seja, os
-    erros jurídicos/factuais do projeto de decisão da ACP). Tem igualmente de demonstrar que a alteração conduzirá
-    a uma conclusão diferente quanto à existência de uma violação do RGPD ou à conformidade da ação prevista
-    relativamente ao responsável pelo tratamento ou ao subcontratante com o RGPD.»].
+
+
+
+                                                                                      2
+Adopted
+
+Executive summary
+
+Article 65(1)(a) GDPR is a dispute resolution mechanism meant to ensure the correct and consistent
+application of the GDPR in cases involving cross-border processing of personal data. It aims to resolve
+conflicting views among the LSA(s) and CSA(s) on the merits of the case, in particular whether there is
+an infringement of the GDPR or not, in order to ensure the correct and consistent application of the
+GDPR in individual cases. These Guidelines clarify the application of the dispute resolution procedure
+under Article 65(1)(a) GDPR.
+
+Article 65(1)(a) GDPR requires the EDPB issues a binding decision whenever a Lead Supervisory
+Authority (LSA) issues a draft decision and receives objections from Concerned Supervisory Authorities
+(CSAs) that either it does not follow or it deems to be not relevant and reasoned.
+
+These Guidelines clarify the applicable legal framework and main stages of the procedure, in
+accordance with the relevant provisions of the Charter of Fundamental Rights of the European Union,
+the GDPR and EDPB Rules of Procedure. The Guidelines also clarify the competence of the EDPB when
+adopting a legally binding decision on the basis of Article 65(1)(a) GDPR. In accordance with Article
+65(1)(a) GDPR, the EDPB binding decision shall concern all the matters which are the subject of the
+relevant and reasoned objection. Consequently, the EDPB will first assess whether the objection(s)
+raised meet the “relevant and reasoned” standard set in Article 4(24) GDPR. Only for the objections
+meeting this threshold, the EDPB will take a position on the merits of the substantial issues raised. The
+Guidelines analyse examples of objections signalling disagreements between the LSA and CSA(s) on
+specific matters and clarify the EDPB’s competence in each case.
+
+The Guidelines also clarify the applicable procedural safeguards and remedies, in accordance with the
+relevant provisions of the Charter of Fundamental Rights of the European Union, the GDPR and EDPB
+Rules of Procedure. In particular, these Guidelines address the right to be heard, the right of access to
+the file, the duty for the EDPB to provide reasoning for its decisions, as well as a description of the
+available judicial remedies.
+
+These Guidelines do not concern dispute resolution by the EDPB in cases where: (1) there are
+conflicting views on which of the supervisory authorities concerned is competent for the main
+establishment (Article 65(1)(b) GDPR); or (2) a competent supervisory authority does not request the
+opinion of the Board in the cases referred to in Article 64(1), or does not follow the opinion of the
+Board issued under Article 64 (Article 65(1)(c) GDPR).
+
+
+
+
+                                                                                                       3
+Adopted
+
+Table of contents
+1     Introduction and scope .................................................................................................................... 6
+2     Legal framework and Rules of Procedure........................................................................................ 7
+    2.1      Right to good administration ................................................................................................... 7
+    2.2      GDPR ........................................................................................................................................ 8
+    2.3      EDPB Rules of procedure (RoP) ............................................................................................... 8
+3     Main stages of the procedure (overview) ....................................................................................... 8
+    3.1      Conditions for adopting a binding decision ............................................................................. 8
+    3.2      Assessment of the completeness of the file ............................................................................ 9
+    3.3      Establishment of deadline(s) ................................................................................................. 12
+      3.3.1         Calculation .....................................................................................................................12
+      3.3.2         Decision to extend by one month .................................................................................13
+      3.3.3         Extension by two weeks ................................................................................................13
+    3.4      Preparation of the draft EDPB binding decision .................................................................... 13
+    3.5      Adoption of the EDPB binding decision ................................................................................. 14
+    3.6      Notification to the supervisory authorities concerned ......................................................... 14
+    3.7      Final Decision of the supervisory authority(ies) .................................................................... 15
+      3.7.1         “On the basis of” ............................................................................................................15
+      3.7.2         Decision(s) by LSA and/or CSA .......................................................................................16
+      3.7.3         Information to the EDPB ................................................................................................16
+    3.8      Publication of the EDPB binding decision .............................................................................. 16
+4     Competence of the EDPB............................................................................................................... 17
+    4.1      Assessment of whether the objections are relevant and reasoned ..................................... 18
+    4.2      Matters subject of the relevant and reasoned objection ..................................................... 19
+      4.2.1         Existence of a given infringement of the GDPR .............................................................19
+      4.2.2         Additional or alternative infringements of the GDPR ...................................................19
+      4.2.3         Gaps in the draft decision justifying the need for further investigation by the LSA .....20
+      4.2.4         Insufficient factual information or reasoning ................................................................21
+      4.2.5         Procedural aspects.........................................................................................................22
+      4.2.6         Action envisaged ............................................................................................................23
+5     The Right to be heard .................................................................................................................... 23
+    5.1      Applicability ........................................................................................................................... 23
+    5.2      Purpose .................................................................................................................................. 25
+    5.3      Timing .................................................................................................................................... 25
+      5.3.1         At national level and prior to referral to the EDPB .......................................................25
+
+
+                                                                                                                                                          4
+Adopted
+
+      5.3.2         During the assessment of completeness of the file ......................................................25
+6     Access to the file ............................................................................................................................ 26
+7     The duty to give reasons ................................................................................................................ 28
+8     Judicial remedies ........................................................................................................................... 29
+    8.1      Supervisory authorities .......................................................................................................... 30
+    8.2      Controller, processor, complainant, or other entity ............................................................. 31
+
+
+
+
+                                                                                                                                                      5
+Adopted
+
+     1 INTRODUCTION AND SCOPE
+1.   Article 65(1)(a) GDPR requires the EDPB to issue a legally binding decision whenever a Lead
+     Supervisory Authority (LSA) issues a draft decision within the meaning of Article 60(3) GDPR and
+     decides not to follow a relevant and reasoned objection expressed by a Concerned Supervisory
+     Authority (CSA) or is of the opinion that the objection is not relevant or reasoned 1.
+
+2.   Article 65(1)(a) GDPR is a dispute resolution mechanism meant to ensure the correct and consistent
+     application of the GDPR in cases involving cross-border processing of personal data2. It aims to resolve
+     conflicting views among the LSA(s) and CSA(s) on the merits of the case, in particular whether there is
+     an infringement of the GDPR or not, in order to ensure the correct and consistent application of the
+     GDPR in individual cases3.
+
+3.   Under the so-called ‘one-stop-shop mechanism’, which applies to cross-border processing of personal
+     data, the LSA acts as the sole interlocutor for the controller or processor for the processing at issue4.
+     The LSA is responsible for carrying out the necessary investigations, communicating the relevant
+     information to all CSAs and preparing a draft decision5. Prior to the adoption of the draft decision, the
+     LSA is required to cooperate with the CSAs in an endeavour to reach consensus and the LSA and CSAs
+     to exchange all relevant information 6.
+
+4.   Once a draft decision has been prepared, the LSA shall submit this draft decision to all CSAs for their
+     opinion and take due account of their views7. Within four weeks after having been consulted, a CSA
+     can express a “relevant and reasoned objection” to the draft decision8. When no CSA objects, the LSA
+     may proceed to adopt the decision. If any CSA expresses an objection, the LSA must decide whether
+     it will follow the relevant and reasoned objection or is of the opinion that the objection is not relevant
+     or reasoned. If the LSA does not intend to follow the objection(s) or considers the objection(s) are not
+     relevant and reasoned, the LSA is obliged to refer the case to the EDPB for dispute resolution 9.
+
+
+     1 On the concept of relevant an reasoned objection see European Data Protection Board, Guidelines 9/2020 on
+
+     relevant and reasoned objection under Regulation 2016/679, Version 2.0, 9 March 2021 (hereafter, “RRO
+     Guidelines”), https://edpb.europa.eu/sites/edpb/files/files/file1/edpb guidelines 202009 rro final en.pdf.
+     2 The cooperation and consistency mechanism is applicable to ‘individual cases’ regardless of whether the case
+
+     concerns a complaint or ex officio inquiry/investigation.
+     3 Recital (136) and Article 65(1)(a) GDPR.
+     4 Article 56(6) GDPR. In cases involving data subject complaint(s), each CSA acts as the main point of contact for
+
+     the data subject(s) in the territory of its Member State. See Article 60(7)-(9), Article 65(6) and article 77(2) GDPR.
+     See also Recitals (130) and (141) GDPR.
+     5 See Article 60(3) GDPR. In accordance with Article 60(2) GDPR, the LSA may request at any time the other CSA
+
+     to provide mutual assistance pursuant to Article 61 and may conduct joint operations pursuant to Article 62
+     GDPR.
+     6 This duty of cooperation applies to every stage of the procedure, starting with the inception of the case and
+
+     extending to the whole decision-making process, see Article 60(1) GDPR and RRO Guidelines, paragraph 1. As
+     part of the cooperation procedure, the LSA and CSAs are also required to exchange all relevant information with
+     each other (Article 60(1) GDPR).
+     7 Article 60(3) GDPR.
+     8 Article 60(4) GDPR.
+     9 Articles 60(4), 63 and 65(1)(a) GDPR. If the LSA intends to follow the objection(s) that are deemed relevant and
+
+     reasoned, it shall submit a revised draft decision to all the CSAs. The CSAs then have a period of two weeks
+
+
+                                                                                                                         6
+     Adopted
+
+5.   The EDPB will then act as a dispute resolution body and adopt a legally binding decision. The LSA, and
+     in some situations the CSA with which the complaint was lodged10, must adopt its final decision on the
+     basis of the EDPB decision. The final decision of the competent supervisory authority will be addressed
+     to the controller or processor and, where relevant, to the complainant.
+
+6.   These Guidelines clarify the application of Article 65(1)(a) GDPR. In particular, they clarify the
+     application of the relevant provisions of the GDPR and Rules of Procedure, delineate the main stages
+     of the procedure and clarify the competence of the EDPB when adopting a legally binding decision on
+     the basis of Article 65(1)(a) GDPR. The Guidelines also include a description of the applicable
+     procedural safeguards and remedies.
+
+7.   The present Guidelines do not concern dispute resolution by the EDPB in cases where:
+     •   there are conflicting views on which of the supervisory authorities concerned is competent for the
+         main establishment (Article 65(1)(b) GDPR);
+     •   a competent supervisory authority does not request the opinion of the Board in the cases referred
+         to in Article 64(1), or does not follow the opinion of the Board issued under Article 64 (Article
+         65(1)(c) GDPR).
+
+
+     2 LEGAL FRAMEWORK AND RULES OF PROCEDURE
+     2.1 Right to good administration
+8.   The EDPB is subject to the Charter of fundamental rights of the European Union (CFEU), including
+     Article 41 (right to good administration). This is also reflected in Article 11(1) EDPB Rules of
+     Procedure11, which confirms that the EDPB must respect the right to good administration as set out
+     by Article 41 CFEU.
+
+9.   Article 41 CFEU grants every person the right to have his or her affairs handled impartially, fairly and
+     within a reasonable time by the institutions, bodies, offices and agencies of the Union. This includes
+     the right of every person:
+     •   to be heard before any individual measure, which would affect him or her adversely is taken; and
+
+     •   to have access to his or her file, while respecting the legitimate interests of confidentiality and of
+         professional and business secrecy.
+     The right to good administration also includes the obligation of the administration to give reasons for
+     its decisions.
+
+
+
+
+     during which they can express their relevant and reasoned objections to the revised draft decision (Article 60(5)
+     GDPR). See also RRO GLS, paragraphs 2-3.
+     10 This will apply in particular if the complaint is totally or partially dismissed (Article 60 (8)-(9) GDPR). See further
+
+     at paragraph 51 and following.
+     11 EDPB Rules of Procedure, adopted on 25 May 2018, as last modified and adopted on 8 October 2020, available
+
+     at          https://edpb.europa.eu/sites/edpb/files/files/file1/edpb rop version 7 adopted 20201008 en.pdf
+     (hereafter ‘RoP’).
+
+                                                                                                                             7
+     Adopted
+
+    2.2 GDPR
+10. Article 65(1) GDPR identifies three different situations in which the EDPB acts as a dispute resolution
+    body. The main rules applicable to the dispute resolution procedures are set out in Article 65(2)-(6)
+    GDPR.
+
+11. In case of a dispute resolution on the basis of Article 65(1)(a) GDPR, regard must also be given to
+    Article 60 GDPR, which applies to the cooperation between the LSA and CSA in individual cases
+    involving cross-border processing and specifies in which cases the LSA submit the matter to the EDPB
+    for dispute resolution. While these Guidelines focus primarily on the application of Article 65(1)(a)
+    GDPR, reference will also be made to the provisions of Article 60 GDPR insofar as they are relevant to
+    clarify the main stages of the procedure and competence of the EDPB under Article 65(1)(a) GDPR 12.
+
+    2.3 EDPB Rules of procedure (RoP)
+12. Article 11 RoP further clarifies the rules applicable in cases where the EDPB is called upon to take a
+    binding decision, including in the context of the dispute resolution procedure. Article 11(2) RoP
+    contains rules that apply specifically to the dispute resolution procedure of Article 65(1)(a) GDPR.
+
+13. While not the focus of these Guidelines, regard will also be had to Article 22 (Voting), Article 32 (Access
+    to documents), Article 33 (Confidentiality of discussions) and Article 40 (Calculation of time limits) of
+    the RoP, as appropriate.
+
+
+    3 MAIN STAGES OF THE PROCEDURE (OVERVIEW)
+    3.1 Conditions for adopting a binding decision
+14. The general conditions for the adoption of a binding decision by the EDPB are set forth in Article 60(4)-
+    (5) and Article 65(1)(a) GDPR.
+
+15. The EDPB shall be competent to issue binding decisions on the basis of Article 65(1)(a) GDPR when the
+    following conditions are met:
+    •    the submission of a draft decision within the meaning of Article 60(3) by the LSA to the CSAs;
+
+    •    at least one CSA has raised (one or more) objection(s) to the (revised) draft decision of the LSA
+         within the deadline provided by Article 60(4)-(5) GDPR; and
+
+    •    the LSA has decided to not follow the objection(s) on the draft decision or rejected it (them) as
+         not relevant or reasoned.
+
+16. When these conditions are met, the EDPB shall be competent to adopt a binding decision on the basis
+    of Article 65(1)(a) GDPR, which shall concern all the matters which are the subject of the relevant and
+    reasoned objection(s), in particular whether there is an infringement of the GDPR 13.
+
+17. A mere “comment” expressed by a CSA in relation to a draft decision does not amount to an objection
+    within the meaning of Article 4(24) GDPR. The existence of comments shall therefore not give rise to
+
+    12 For additional guidance regarding Article 60 GDPR, see Guidelines 02/2022 on the application of Article 60
+
+    GDPR,        14       March        2022,      available    at      https://edpb.europa.eu/system/files/2022-
+    03/guidelines 202202 on the application of article 60 gdpr en.pdf.
+    13 See Section 4 for further details concerning the competence of the EDPB in accordance with Article 65(1)(a)
+
+    GDPR.
+
+                                                                                                                8
+    Adopted
+
+    the obligation to trigger the Article 65(1)(a) procedure if the LSA decides not to give any effect to the
+    comment. Moreover, any comment expressed does not constitute as such a matter to be decided by
+    the EDPB as part of its binding decision. The LSA is required, however, to take due account of the views
+    expressed by all CSAs14 and, in cases where the conditions of Article 56(2) are met, take utmost
+    account of the views expressed by the CSA with whom the complaint has been lodged when preparing
+    the draft decision and take due account of the views expressed by all CSAs 15.
+
+    3.2 Assessment of the completeness of the file
+18. Article 11(2) RoP provides that the Chair and the LSA are responsible for deciding whether the file is
+    complete16. The assessment of the completeness of the file is an important step in the procedure,
+    designed to ensure that all conditions for adopting a binding decision are met and that the EDPB has
+    all the information necessary for doing so17. The assessment of completeness of the file also serves as
+    the starting point for the legal deadlines mentioned in Article 65(2)-(3) GDPR18. Finally, the assessment
+    of completeness of the file also seeks to ensure compliance with the right to be heard contained in
+    Article 41 CFEU.
+
+19. When submitting the matter to the EDPB for dispute resolution, the LSA shall include:
+
+    a) the draft decision or revised draft decision subject to the objection(s);
+
+    b) a summary of the relevant facts and grounds;
+
+    c) the objection(s) made by the supervisory authority(/-ies) concerned in accordance with Article 60
+    (4) (and where relevant Article 60(5) GDPR);
+
+    d) an indication as to whether the LSA does not follow the relevant and reasoned objection or is of
+    the opinion that the objection is not relevant or reasoned;
+
+    e) documentation proving the timing and format of the provision of the (revised) draft decision and
+    of the objection(s) by the concerned supervisory authority (/-ies)19; and
+
+    f) in accordance with Article 41 of the European Charter on Fundamental Rights, the written
+    observations the LSA collected from the persons that might be adversely affected by the Board ́s
+    decision, together with confirmation and evidence of which documents submitted to the Board were
+    provided to them when they were invited to exercise their right to be heard or a clear identification
+    of the elements for which it is not the case20.
+
+20. The wording of Article 60(4) GDPR and Article 11(2) RoP makes clear that the LSA is responsible for
+    ensuring that the file is complete and submitting all relevant information to the EDPB. Where
+    necessary, however, the Secretariat may request from the LSA and/or CSAs additional information
+
+
+
+    14 Article 60(3) GDPR.
+    15 Article 56(4) and Article 60(1) GDPR.
+    16 The Secretariat carries out the analysis on the completeness of the file on behalf of the Chair.
+    17 When necessary, the documents submitted by the competent authority will be translated into English by the
+
+    EDPB Secretariat.
+    18 See Article 11(4) RoP and see further Section 3.3.
+    19 The aim of providing this information is to allow the Secretariat to verify the objection has been provided in
+
+    writing and within the legal deadline. The timing and format of the provision of the (revised) draft decision and
+    of the objection(s) can be proven, for example, via the relevant and reasoned objections report from the
+    information and communication system mentioned in Article 17 of the RoP.
+    20 Article 11(2) RoP. See also section 5.
+
+
+                                                                                                                   9
+    Adopted
+
+    within a specific timeframe21. The ability to request additional information should be interpreted in
+    light of the objective of ensuring that the EDPB is provided with all information necessary to take a
+    binding decision concerning all the matters which are the subject of the relevant and reasoned
+    objection(s), in particular whether there is an infringement of the GDPR.
+
+    Example 1:
+
+    A draft decision includes several references to internal documentation of the controller. Even though
+    the LSA’s (disputed) finding of an infringement is evidenced in its draft decision with reference to the
+    contents of this documentation, the LSA does not include a copy thereof when submitting the matter
+    to the EDPB for dispute resolution. The Secretariat may request the LSA to provide a copy of the
+    documentation that is referenced within a specific timeframe if needed to help decide the subject
+    matter of the relevant and reasoned objection(s).
+
+    The ability to request additional information at a later stage does not diminish the responsibility of
+    the LSA to provide all relevant information from the outset when submitting the matter to the EDPB.
+    As the responsibility for ensuring that the file is complete lies with the LSA, the requesting of additional
+    information from the LSA and/or CSA should in principle only be necessary in exceptional
+    circumstances. Moreover, as the LSA and CSA are obliged to exchange all relevant information in the
+    course of the cooperation procedure, the relevant information should already have been provided to
+    CSAs prior to launching the dispute resolution procedure. If all information necessary to take a binding
+    decision on the objections raised is also transmitted by the LSA when referring the subject matter to
+    the EDPB, it will not be necessary for the Secretariat to request additional information before declaring
+    the file complete.
+
+21. It should be noted that a request for additional information merely seeks to ensure the completeness
+    of the file. It does not imply any judgement regarding the merit of the objections raised, nor does it
+    alter in any way the subject matter referred to the EDPB. Once the file is deemed complete and the
+    subject matter is referred to the EDPB, in exceptional circumstances, additional information may also
+    be requested at a later stage in the procedure (i.e. once the subject matter has been referred to the
+    Board) if necessary to remedy any omissions. This will be subject to a decision by the EDPB22.
+
+22. When necessary, the documents submitted by the LSA and/or CSA will be translated into English by
+    the Secretariat23. The translation may also be limited to the specific parts which are likely to be
+    relevant to help decide the subject matter of the relevant and reasoned objection(s). The LSA and/or
+    CSA will have to agree on the translation 24.
+
+    Example 2:
+
+    In its draft decision, the LSA concludes that only one of the infringements of the GDPR alleged by the
+    complainant materialised. The CSA considers in its relevant and reasoned objection that the other
+    infringements alleged by the complainant were also committed while the draft decision does not fully
+    explain the factual elements necessary to conclude the infringements did not occur. Therefore, the
+    Secretariat requests the LSA to provide a copy of the necessary parts of the investigation report within
+
+
+    21 Article 11(2) RoP.
+    22 Article 11(2) RoP provides  that in exceptional circumstances, the EDPB can decide to consider further
+    documents it deems necessary. As a result, the additional information may be requested by the Secretariat/Chair
+    but the EDPB will have to decide if it will consider or not the additional info received.
+    23 The competent authority must express its agreement with the translation provided (Article 11(2) RoP).
+    24 Article 11(2) RoP.
+
+
+                                                                                                                10
+    Adopted
+
+    a specific timeframe 25. If the translation of these parts is necessary, it will be translated into English
+    by the Secretariat and the LSA will have to agree on the translation.
+
+23. Once the Chair and the LSA have decided that the file is complete (and the competent supervisory
+    authority agreed on any required English translations), the Secretariat on behalf of the Chair will refer
+    the subject-matter to the members of the EDPB without undue delay26.
+
+24. If the LSA fails to provide the information listed above within the set timeframe27, the Chair will ask
+    the Secretariat to refer the subject-matter to the EDPB. The EDPB will then assess, on a case-by-case
+    basis, whether it can proceed to adopt its decision on the basis of the information already provided,
+    or whether it is necessary to first obtain the information requested (e.g., confirmation and evidence
+    of which documents submitted to the Board were provided to them when they were invited to
+    exercise their right to be heard or a clear identification of the elements for which it is not the case)
+    before adopting a decision.
+
+    Relationship with the right to be heard
+
+25. The assessment of completeness of the file also seeks to ensure compliance with the right to be heard
+    contained in Article 41 CFEU. Article 11(2) RoP provides that the EDPB shall take into account only the
+    documents which were provided by the LSA and the other CSA(s) before the matter is referred to the
+    Board. Any person who might be adversely affected should therefore in principle already have been
+    invited to exercise their right to be heard28. Where necessary, the Board will take further actions
+    ensuring the right to be heard of the affected persons in relation to the elements within the
+    documents that are part of the file that will be considered by the EDPB in making its decision 29.
+
+26. Once the file has been declared complete, LSA and CSA(s) are in principle not able to submit any
+    additional information concerning the subject matter of the dispute (unless requested by the
+    Secretariat with a view of remedying an omission in accordance with Article 11(2) RoP30). Only in
+    exceptional circumstances can the Board decide to consider further documents that it deems
+    necessary. For example, the LSA cannot introduce new elements of fact supporting its decision not to
+    follow one or more objections which were not previously communicated before the matter was
+    referred to the EDPB31. Moreover, all information relevant to the assessment of the objections raised
+    should already be exchanged between the LSA and CSA prior to the initiation of the Article 65(1)(a)
+    procedure in an endeavour to reach consensus (as in doing so it may also help avoid the need for
+    trigger the dispute resolution mechanism).
+
+
+
+    25 Article 11(2) RoP.
+    26 Article 11(2) RoP.
+    27 Such a time-frame should be decided on a case-by-case basis, taking into account the nature and volume of
+
+    the documents requested. The Secretariat should consult with the LSA (or where applicable, CSA) to seek their
+    views as to what constitutes an appropriate timeframe.
+    28 See in particular Article 11(2) RoP: “[ ...] together with confirmation and evidence of which documents
+
+    submitted to the Board were provided to them when they were invited to exercise their right to be heard or a
+    clear identification of the elements for which it is not the case.”
+    29 See Section 5 for additional information regarding the exercise of the right to be heard.
+    30 See paragraph 20 above.
+    31 Indeed, the wording of Article 11(2)d RoP confirms that when launching the procedure, the LSA should give
+
+    an “indication” as to whether it does not follow the relevant and reasoned objection or is of the opinion that
+    the objection is not relevant or reasoned (i.e. simply an indication as to whether it follows or not the objections).
+    As a result, no new elements may be submitted going beyond those of which the CSAs were informed prior to
+    the submission to the Board.
+
+                                                                                                                      11
+    Adopted
+
+27. Once the file has been declared complete and the subject matter has been referred to the EDPB, the
+    EDPB must issue a binding decision in relation to each objection raised, unless the CSA who raised a
+    particular objection decides to withdraw it. As the withdrawal of the objection signifies the end of the
+    dispute between the LSA and CSA, it is no longer necessary for the EDPB to resolve the matter 32.
+    Similarly, the LSA may be able to withdraw a referral to the EDPB on the basis of Article 60(4) GDPR in
+    cases where it later decides that it would like to follow each of the objections raised. The withdrawal
+    of either an objection or referral should occur only in very exceptional cases, however, as the
+    obligation for LSA and CSAs to seek consensus under Article 60 GDPR requires that the dispute
+    resolution mechanism will only be triggered in cases of persistent disagreement and where reaching
+    consensus was not possible.
+
+    3.3 Establishment of deadline(s)
+28. The default legal deadline for the EDPB to adopt a binding decision is one month after the Chair and
+    the competent supervisory authority have decided that the file is complete 33. The deadline may be
+    extended by a further month on account of the complexity of the subject-matter34. If the EDPB has
+    not been able to adopt a decision, upon expiry of such an extension, it shall do so within two weeks
+    following the expiration of the extension 35.
+
+    3.3.1 Calculation
+29. The calculation of the deadline for the adoption of the binding decision must be done on the basis of
+    Regulation 1182/7136. According to Article 3(2)(c) of Regulation 1182/71,
+             “a period expressed in weeks, months or years shall start at the beginning of the first hour of
+             the first day of the period, and shall end with the expiry of the last hour of whichever day in
+             the last week, month or year is the same day of the week, or falls on the same date, as the day
+             from which the period runs”.
+    The Court of Justice has confirmed that, for instance, if an event which is the point from which a period
+    of a week starts to run happens on a Monday, the period will end on the following Monday, which will
+    be the dies ad quem (deadline expiration date).37 Likewise, if the time limit is expressed in months and
+    the triggering event occurs on the 20th March, the period will end on the 20th April.
+
+30. The start date (‘dies a quo’) in the application of Article 65(1)(a) GDPR consists of the day when the
+    Chair and the competent supervisory authority have decided that the file is complete and the subject
+    matter is referred to the EDPB by the Secretariat via the information and communication system
+    mentioned in Article 17 of the EDPB Rules of Procedure.
+
+
+
+
+    32 In cases where the withdrawal concerns the only objection which the LSA has decided not to follow or
+
+    considered as not relevant and reasoned, the EDPB shall no longer be required to issue a binding decision in
+    accordance with Article 65(1)(a) GDPR.
+    33 Article 65(2) GDPR in conjunction with Article 11(4) RoP.
+    34 Article 65(2) GDPR.
+    35 Article 65(3) GDPR. See also paragraph 32.
+    36 Regulation (EEC, Euratom) No 1182/71 of the Council of 3 June 1971 determining the rules applicable to
+
+    periods, dates and time limits, O.J. 8.6.197, L 124/1. Article 40 RoP confirms that “In order to calculate the periods
+    and time limits expressed in the GDPR and in these Rules of Procedure, Regulation 1182/71 of the Council of 3
+    June 1971 determining the rules applicable to periods, dates and time limits shall apply”.
+    37 See the Judgment in Maatschap Toeters, MC Verberk v. Productschap Vee en Vlees, C-171/03,
+
+    ECLI:EU:C:2004:714, paragraph 33.
+
+                                                                                                                       12
+    Adopted
+
+31. Since the GDPR does not express periods in working days, the time limits concerned include public
+    holidays, Sundays and Saturdays38. However, when the last day of a period is a public holiday, Sunday
+    or Saturday, the period shall end with the expiry of the last hour of the following working day 39, thus
+    the deadline expiration date (‘dies ad quem’) shall be the following working day.
+
+    3.3.2 Decision to extend by one month
+32. Article 65(2) GDPR allows the first one-month deadline to be extended by a further month, taking into
+    account the complexity of the subject-matter. The extension needs to be decided by the Chair of the
+    EDPB, either on its own initiative or at the request of at least one third of the members of the EDPB40.
+    The extension decision must be taken prior to the expiration of the one month deadline.
+
+    3.3.3 Extension by two weeks
+33. The binding decision must in principle be adopted by two-thirds majority at the latest two months
+    after the file has been considered complete and the subject-matter has been referred to the EDPB.
+    However, if the EDPB has not been able to adopt a decision within the extended timeframe because
+    the required majority is not reached, the EDPB shall then adopt the decision within two weeks
+    following the expiration of the second month by simple majority of its members 41.
+
+34. During the two additional weeks, modifications can be made to the draft EDPB binding decision that
+    was previously submitted for adoption by two-thirds majority if necessary to achieve the simple
+    majority. In other words, the draft EDPB binding decision may be adapted and adjusted in case the
+    two-thirds majority is not reached.
+
+    3.4 Preparation of the draft EDPB binding decision
+35. According to Article 11(5) RoP, the binding decisions “shall be prepared and drafted by the secretariat
+    and, upon decision of the Chair, together with a rapporteur and expert subgroups members”42.
+    Therefore, the EDPB Secretariat should act as lead rapporteur and the Chair should decide on the
+    involvement of an expert subgroup and of co-rapporteurs.
+
+36. As soon as the LSA has submitted the matter to the EDPB for dispute resolution, the Secretariat should
+    start the assessment of the completeness of the file. During this assessment, the Chair is invited to
+    decide on the possible involvement of co-rapporteurs and will invite EDPB members to express an
+    interest to become co-rapporteurs (unless the Chair decides not to involve co-rapporteurs for this
+    case)43. In order to ensure fairness and impartiality, the (group of) co-rapporteur(s) should not include
+    delegations from either the LSA or CSAs that submitted objections in relation to the draft decision 44.
+
+
+
+    38 Article 3(3) of Regulation 1182/71.
+    39 Article 3(4) of Regulation 1182/71.
+    40 Article 11(4) RoP.
+    41 See Article 65(3) GDPR. Regarding the calculation of the majority and voting rights of EDPB members see
+
+    further Section 3.5 (Adoption of the EDPB binding decision).
+    42 See also Article 75(6)(g) GDPR, which provides that the Secretariat shall be responsible in particular for the
+
+    preparation, drafting and publication of decisions on the settlement of disputes between supervisory
+    authorities.
+    43 If the call for expression of interests to serve as co-rapporteur is made prior to the assessment that the file is
+
+    complete, care should be taken not to disclose any elements of the file until after the assessment has been made
+    and the subject matter has been referred to the EDPB.
+    44 See also the Judgment in Dr. August Wolff GmbH & Co. KG Arzneimittel, Case C-680/16 P, 27 March 2019,
+
+    ECLI:EU:C:2019:257, paragraphs 29-41.
+
+                                                                                                                      13
+    Adopted
+
+37. Finally, it should be noted that the Chair may also decide to involve the members of one or more other
+    expert subgroups, depending on the needs of the case.
+
+38. As indicated earlier, Article 11(2) RoP states that the EDPB shall take into account only the documents
+    which were provided by the LSA and the other CSA(s) once the matter is referred to the EDPB. This
+    means that the LSA or CSA(s) cannot during the drafting stage introduce new elements of fact
+    supporting their respective positions.
+
+39. In accordance with Article 76(1) GDPR, discussions of the Board and of expert subgroups shall be
+    confidential when they concern the consistency mechanism45. Moreover, an obligation of professional
+    secrecy is also imposed on the staff of all EEA national supervisory authorities 46, the EDPS and the
+    EDPB Secretariat47. This means that the duty of confidentiality and professional secrecy, which is of
+    paramount importance, shall be respected by the EDPB and its members also in relation to Article
+    65(1)(a) dispute resolution cases. This concerns both the discussions and the documents exchanged.
+
+    3.5 Adoption of the EDPB binding decision
+40. All majorities referred to by the GDPR (or by the RoP) refer to the total number of members of the
+    EDPB entitled to vote, regardless of whether they are present or not48.
+
+41. While not having the right to vote, EFTA EEA supervisory authorities (i.e. Iceland, Liechtenstein and
+    Norway) shall have the right to express their positions on all items discussed and/or voted49.
+
+42. In accordance with Article 68(6) GDPR, the EDPS shall have voting rights only on decisions which
+    concern principles and rules applicable to the Union institutions, bodies, offices and agencies which
+    correspond in substance to those of the GDPR. Where that is the case, the EDPS is entitled to vote on
+    the decision as a whole.
+
+43. Every EDPB member entitled to vote who is not represented at a plenary meeting can delegate its
+    voting rights to another member of the Board entitled to vote and attending the plenary meeting50.
+
+44. The majority required for the adoption of a binding decision under Article 65(1)(a) GDPR is two-thirds
+    of the EDPB members entitled to vote51. Where the EDPB has been unable to adopt a decision by two-
+    thirds majority, the EDPB shall adopt its decision within the following two weeks by simple majority.
+    Where the members of the Board are split, the decision shall by adopted by the vote of the Chair52.
+
+    3.6 Notification to the supervisory authorities concerned
+45. Once the EDPB has adopted its binding decision, the Chair of the EDPB shall notify the decision to all
+    the supervisory authorities concerned without undue delay53. Therefore, all the CSAs in the case need
+    to be notified of the binding decision.
+
+
+    45 Article 33 RoP.
+    46 Article 54 (2) GDPR.
+    47 Article 56 of Regulation (EU) 2018/1725.
+    48 Article 22(3) RoP.
+    49 See the Decision of the EEA joint Committee No 154/2018 of 6 July 2018 amending Annex XI (Electronic
+
+    communication, audiovisual services and information society) and Protocol 37 (containing the list provided for
+    in Article 101) to the EEA Agreement [2018/1022], See also Recital (7) and Article 4(1) RoP.
+    50 The Chair and the secretariat shall be notified of any delegation of voting rights. Article 22(5)5 RoP.
+    51 Article 65(2) GDPR in conjunction with Article 22(3) RoP.
+    52 Article 65(3) GDPR.
+    53 Article 65(5) GDPR.
+
+
+                                                                                                               14
+    Adopted
+
+46. The notification will be performed by the Secretariat on behalf of the Chair via the information and
+    communication system mentioned in Article 17 RoP 54. The notification of the binding decision is
+    performed via the notification of the decision in English, which is the only authentic language of the
+    decision55. The supervisory authorities concerned will be deemed to be fully acquainted with the
+    decision as notified56.
+
+
+
+    3.7 Final Decision of the supervisory authority(ies)
+47. Within one month after the notification of the EDPB decision to the supervisory authorities, the LSA
+    and/or CSA (as the case may be57) must adopt a final decision58. Each final decision must be adopted
+    “on the basis of” the decision of the EDPB. Moreover, the final decision(s) must refer to the decision
+    by the EDPB and must specify that this decision will be published on the EDPB website. The final
+    decision(s) of the LSA and/or CSA shall also “attach” the decision of the EDPB59.
+
+    3.7.1 “On the basis of”
+48. The requirement of adopting a final decision “on the basis of” the EDPB decision reflects the fact that
+    the EDPB’s decision is legally binding upon the LSA (and/or eventually the CSA(s) in case of need to
+    adopt a final decision toward the data subjects60) as addressee(s) of the decision 61.
+
+49. The aim of the binding decision is to resolve conflicting views among the LSA(s) and CSA(s) on the
+    merits of the case, in particular whether there is an infringement of the GDPR, in order to ensure the
+    correct and consistent application of the GDPR in individual cases62.
+
+50. The final decision must be adopted on the basis of the EDPB’s decision and must, therefore, give full
+    effect to the binding direction(s) as set out in the EDPB’s decision. For example, if the EDPB has
+    determined that there has indeed been an infringement of the GDPR, the LSA or CSA may not
+    determine otherwise. In the same vein, if the EDPB has determined that envisaged action in relation
+    to the controller or processor does not comply with the GDPR, the LSA or CSA must adapt their course
+    of action accordingly63.
+
+
+
+
+    54 Article 11.6 RoP.
+    55 Article 11.6 RoP.
+    56 Article 11.6 RoP. Urgent translations may be provided to authorities required to adopt a decision or take
+
+    measures at national level on the basis of the EDPB binding decision in another EU language. Other supervisory
+    authorities concerned can exceptionally request an urgent translation providing the reasons for such request.
+    As the authentic language of the EDPB decision is English, the EDPB is not responsible for any use of the
+    translations provided (Article 11.7 RoP).
+    57 In case of partial or complete dismissal of a complaint, see Article 60(8) and (9) GDPR.
+    58 Article 65(6) GDPR.
+    59 The requirement that the final decision « attach » the EDPB decision does not mean that the EDPB decision
+
+    must be annexed to the final decision within a single document (it is sufficient that the EDPB decision is
+    communicated to the controller or processor together with the final decision).
+    60 See Article 60(8) and (9) GDPR.
+    61 Recital (136) and (143) GDPR.
+    62 Recital (136) and Article 65(1)(a) GDPR.
+    63 See Section 4 (Competence of the EDPB), in particular section 4.2 (Matters subject of the relevant and
+
+    reasoned objection).
+
+                                                                                                               15
+    Adopted
+
+    3.7.2 Decision(s) by LSA and/or CSA
+51. The final decision of the LSA and, as the case may be, the CSA with whom the complaint has been
+    lodged, shall be adopted under the terms of Article 60(7), (8) and (9) GDPR64.
+
+52. The point of departure is that the LSA will be required to adopt and notify its final decision to the main
+    establishment or single establishment of the controller or processor and inform the other supervisory
+    authorities concerned as well as the EDPB of its final decision (including a summary of the relevant
+    facts and grounds)65. One important derogation to this requirement concerns the situation where a
+    complaint has been dismissed or rejected.
+
+53. In cases where a complaint has been dismissed or rejected, the supervisory authority with which the
+    complaint was lodged shall adopt the decision and notify it to the complainant and shall inform the
+    controller thereof66.
+
+54. In case of need to take a decision to only partially dismiss a complaint, the LSA shall adopt the decision
+    for the part concerning actions in relation to the controller or the processor, shall notify it to the main
+    establishment or single establishment of the controller or processor on the territory of its Member
+    State and shall inform the complainant thereof, while the supervisory authority of the complainant
+    shall adopt the decision for the part concerning dismissal or rejection of that complaint, and shall
+    notify it to that complainant and shall inform the controller or processor thereof 67.
+
+55. Each natural or legal person has the right to an effective judicial remedy before the competent
+    national court against a decision of a supervisory authority which produces legal effects concerning
+    that person, in line with Article 78 GDPR68.
+
+    3.7.3 Information to the EDPB
+56. The LSA or, as the case may be, the CSA with which the complaint has been lodged, is required to
+    inform the EDPB of the date when its final decision is notified respectively to the controller or the
+    processor and to the data subject69.
+
+    3.8 Publication of the EDPB binding decision
+57. In accordance with Article 65(5) GDPR, the publication of the EDPB binding decision on the website of
+    the Board shall occur “without undue delay” after the LSA has notified the final national decision to
+    the controller/processor and/or the CSA has notified the data subject (in case of a dismissal of a
+    complaint). Whenever possible, “without undue delay” should be interpreted as suggesting that the
+    publication of the EDPB binding decision should happen on the same day where the final national
+    decision is notified to the controller/processor/complainant.
+
+58. In order to allow the EDPB to publish its binding decision “without undue delay” after the notification
+    of the final national decision, Article 65(6) GDPR requires the competent supervisory authority to
+    inform the Board of the date when its final decision is notified respectively to the controller or
+    processor and to the data subject. To avoid undue delays, each competent supervisory authority
+
+
+
+    64 Article 65(6) GDPR.
+    65 Article 60(7) GDPR.
+    66 Article 60(8) GDPR.
+    67 Article 60(9) GDPR.
+    68 See also Recital (143) GDPR. See further Section 8 (Judicial remedies).
+    69 Article 65(6) GDPR.
+
+
+                                                                                                            16
+    Adopted
+
+    should inform the Secretariat of the date on which notification of the national decision is expected to
+    take place, preferably at least one day in advance.
+
+59. Article 339 TFEU requires the members and staff of the EU institutions not to disclose information of
+    the kind covered by the obligation of professional secrecy, in particular information about
+    undertakings, their business relations or their cost components70. As a consequence, some portions
+    of the EDPB binding decision may need to be redacted in order to avoid disclosure of information
+    covered by professional secrecy. The Secretariat will evaluate the need to redact such elements on
+    the basis of EU law and the case law of the CJEU71.
+
+60. The EDPB will also publish the final national decision(s) in its register72, taking into consideration
+    possible restrictions under national law of the competent supervisory authority concerning the
+    publication of its decisions. Where such restrictions apply, the SAs should inform the Secretariat of
+    any such restrictions.
+
+
+    4 COMPETENCE OF THE EDPB
+61. The aim of the consistency mechanism, including Article 65(1)(a) GDPR, is to contribute to the
+    consistent application of the GDPR throughout the Union. Recital (136) clearly indicates that the
+    competence of the EDPB to issue a binding decision in case of conflicting views among LSA and CSAs
+    in the context of the cooperation mechanism relates to the merits of the case, in particular whether
+    there is an infringement of the GDPR73.
+
+62. According to Article 65(1)(a) GDPR, the EDPB binding decision shall concern all the matters which are
+    the subject of the relevant and reasoned objection. Therefore, the EDPB will assess only issues
+    included in the objections that have been raised in relation to the draft or revised draft decision of the
+    LSA. The EDPB will not reassess the whole case nor will it address issues that might be raised in the
+    course of the Article 65 procedure but were not the subject of the reasoned and relevant objections
+    submitted prior to the submission of the dispute to the EDPB.
+
+63. The dispute between the LSA and the CSA(s) may concern either the fact that the LSA does not follow
+    one or more relevant and reasoned objections or that the LSA is of the opinion that one or more
+
+    70 An obligation of professional secrecy is also imposed on the staff of the EU institutions by the Staff Regulations
+
+    and on the staff of the EDPS, including the EDPB Secretariat, also by Article 56 of Regulation (EU) 2018/1725. An
+    obligation of professional secrecy is also imposed by Article 54 (2) GDPR on the members and staff of each
+    supervisory authority.
+    71 See, for instance, Judgments in Bank Austria Creditanstalt, T-198/03, 30 May 2006, ECLI:EU:T:2006:136; in
+
+    Evonik Degussa, T-341/12, 28 January 2015, ECLI:EU:T:2015:51; in Akzo Nobel NV, T-345/12, 28 January 2015,
+    ECLI:EU:T:2015:50; in MasterCard, Inc., T-516/11, 9 September 2014, EU:T:2014:759; in Stichting Greenpeace
+    Nederland, T-545/11 RENV, 21 November 2018, ECLI:EU:T:2018:817; in Amicus Therapeutics UK Ltd, T-33/17, 25
+    September 2018, ECLI:EU:T:2018:595; in Pergan Hilfsstoffe für industrielle Prozesse GmbH, Case T-474/04 , 12
+    October 2007, [2007] ECR II-4225.
+    72 Article 70(1)(y) GDPR requires the EDPB to maintain a publicly accessible electronic register of decisions taken
+
+    by supervisory authorities and courts on issues handled in the consistency mechanism. See
+    https://edpb.europa.eu/our-work-tools/consistency-findings/register-for-decisions.
+    73 Recital (136) stipulates that "[...] The Board should also be empowered to adopt legally binding decisions where
+
+    there are disputes between supervisory authorities. For that purpose, it should issue, in principle by a two-thirds
+    majority of its members, legally binding decisions in clearly specified cases where there are conflicting views
+    among supervisory authorities, in particular in the cooperation mechanism between the lead supervisory
+    authority and supervisory authorities concerned on the merits of the case, in particular whether there is an
+    infringement of this Regulation.”
+
+                                                                                                                      17
+    Adopted
+
+     objections is not relevant or reasoned. The EDPB will assess, in relation to each objection raised,
+     whether the objection meets the requirements of Article 4(24) GDPR and, if so, address the merits of
+     the objection in the binding decision.
+
+     4.1 Assessment of whether the objections are relevant and reasoned
+64. In its Guidelines on relevant and reasoned objections, the EDPB has clarified the conditions that must
+    be met in order for an objection to be considered “relevant and reasoned” within the meaning of
+    Article 4(24) GDPR74.
+
+65. When a LSA refers a dispute to the EDPB for resolution in accordance with Article 60(4) and 63 GDPR,
+    the EDPB must first assess whether the objection(s) raised in fact meet the conditions of being relevant
+    and reasoned75.
+
+66. The EDPB recalls that in order for an objection to be considered as “relevant”, there must be a direct
+    connection between the objection and the substance of the draft decision at issue. More specifically,
+    the objection needs to concern either whether there is an infringement of the GDPR or whether the
+    envisaged action in relation to the controller or processor complies with the GDPR76.
+
+67. In order for an objection to be “reasoned”, it should be coherent, clear, precise and detailed in
+    explaining the reasons for the objection. It should set forth, clearly and precisely, the essential
+    elements on which the CSA based its assessment, and the link between the envisaged consequences
+    of the draft decision (if it was to be issued as it is) and the significance of the anticipated risks for data
+    subjects’ fundamental rights and freedoms and, where applicable, for the free flow of personal data
+    within the Union77.
+
+68. When assessing whether the objections in fact meet the conditions of being relevant and reasoned,
+    the assessment carried out by the EDPB will be both substantial and formal. In other words, the EDPB
+    will take into account the specific wording used by the CSA within each of the objections raised and
+    whether each element of Article 4(24) GDPR is explicitly mentioned in relation to each specific
+    objection; thus requiring an explicit reference to the risks posed by the draft decision as regards the
+    fundamental rights and freedoms of data subjects78.
+
+69. In its binding decision, the EDPB will not take any position on the merits of any substantial issues raised
+    by objections that do not meet the conditions of Article 4(24) GDPR. If an objection does not meet the
+    conditions of Article 4(24) GDPR, the binding decision of the EDPB remains without any prejudice to
+    any assessments the EDPB may be called upon to make in other cases, including with the same parties,
+    taking into account the contents of the relevant draft decision and the objections raised by the CSAs.
+
+
+     74 RRO GLS, paragraphs 12-21.
+     75 As clarified earlier, the LSA shall submit the matter to the EDPB either if it does not follow the relevant and
+
+     reasoned objection or if it is of the opinion that the objection is not relevant or reasoned. See section 3.1 above.
+     76 RRO GLS, paragraph 12. An objection raised fulfils the criterion of being “relevant” when, if followed, it would
+
+     entail a change leading to a different conclusion as to whether there is an infringement of the GDPR or as to
+     whether the envisaged action in relation to the controller or processor, as proposed by the LSA, complies with
+     the GDPR. RRO GLS, paragraph 13.
+     77 RRO GLS, paragraph 19. See also RRO GLS, paragraph 16. (“In order for the objection to be “reasoned”, it needs
+
+     to include clarifications and arguments as to why an amendment of the decision is proposed (i.e. the legal /
+     factual mistakes of the LSA's draft decision). It also needs to demonstrate how the change would lead to a
+     different conclusion as to whether there is an infringement of the GDPR or whether the envisaged action in
+     relation to the controller or processor complies with the GDPR.”).
+     78 See also RRO GLS, paragraphs 7 and 37.
+
+
+                                                                                                                      18
+     Adopted
+
+    4.2 Matters subject of the relevant and reasoned objection
+70. In its Guidelines on relevant and reasoned objections, the EDPB also clarified the possible subject
+    matter (substance) of a relevant and reasoned objection79. Those Guidelines describe a number of
+    examples of objections that may meet the requirements of Article 4(24) GDPR. These examples relate
+    to possible disagreements between the LSA and CSA on the following matters:
+
+        1.   the existence of a given infringement of the GDPR;
+        2.   the existence of additional or alternative infringements of the GDPR;
+        3.   gaps in the draft decision justifying the need for further investigation;
+        4.   insufficient factual information or reasoning;
+        5.   procedural aspects; and
+        6.   the specific action envisaged by the draft decision.
+
+    4.2.1 Existence of a given infringement of the GDPR
+71. A first example of a possible relevant and reasoned objection involves the disagreement between the
+    LSA and CSA as to whether or not a given provision of the GDPR has been infringed80. Such a
+    disagreement may arise where the draft decision adopted by the LSA either:
+        •    explicitly confirms the existence of an infringement of a specific article of the GDPR, but the
+             CSA considers that this article of the GDPR has not been infringed 81;
+
+        •    explicitly confirms that a particular article of the GDPR has not been infringed, whereas the
+             CSA considers that the article in question has been infringed.
+
+72. In accordance with Article 65(1)(a) GDPR, the EDPB shall take a binding decision concerning all the
+    matters which are the subject of the relevant and reasoned objections, “in particular whether there is
+    an infringement of the GDPR”. The EDPB must make a binding decision which shall whenever possible,
+    taking into account the elements of the file and the right to be heard, provide a final conclusion on
+    the application of the GDPR in relation to the case at hand. In other words, the EDPB shall assess the
+    merits of the arguments raised by the CSA in the objection against those of the LSA and make a final
+    determination as to whether or not the given infringement of the GDPR took place or not. The EDPB
+    will instruct the LSA to alter a finding of an infringement or to include one whenever necessary. In
+    such cases, the LSA will then be obliged to implement the change in its final decision, taking into
+    account the binding decision of the EDPB in relation to the objection raised.
+
+    4.2.2 Additional or alternative infringements of the GDPR
+73. A second example of a possible relevant and reasoned objection involves disagreement between the
+    LSA and CSA as to the conclusions to be drawn from the findings of the investigation. For instance, the
+    objection may state that the findings amount to the infringement of a provision of the GDPR other
+    than (and/or in addition to) those already analysed by the draft decision 82.
+74. As previously indicated, the EDPB must make a binding decision which shall whenever possible, taking
+    into account the elements of the file and the respondent’s right to be heard, provide a final conclusion
+
+    79 RRO GLS, paragraphs 22-48.
+    80 RRO GLS, paragraphs 24-25.
+    81 The RRO GLS include the following example : The CSA argues that LSA did not take into consideration the fact
+
+    that the household exemption is not applicable to some of the processing operations conducted by a controller
+    and involving the use of CCTV, hence that there is no infringement of the GDPR.
+    82 RRO GLS, paragraph 26.
 
 
                                                                                                                 19
-    Adotadas
+    Adopted
 
-    cada elemento do artigo 4.º, ponto 24, do RGPD é explicitamente mencionado em relação a cada
-    objeção específica, o que exige uma referência explícita aos riscos colocados pelo projeto de decisão
-    no que diz respeito aos direitos e liberdades fundamentais dos titulares dos dados 78.
+    on the application of the GDPR in relation to the case at hand. This can potentially include a
+    determination of the existence of additional (or alternative) infringements, provided that the file
+    contains sufficient factual elements to substantiate the alleged infringement and the persons who
+    would be adversely affected have been or can be heard in relation to the objections alleging the
+    existence of an additional or alternative infringement 83.
 
-69. Na sua decisão vinculativa, o CEPD não tomará qualquer posição sobre a questão de fundo de
-    quaisquer questões substanciais levantadas por objeções que não cumpram as condições constantes
-    do artigo 4.º, ponto 24, do RGPD. Se uma objeção não satisfizer as condições constantes do artigo 4.º,
-    ponto 24, do RGPD, a decisão vinculativa do CEPD não prejudica quaisquer avaliações que o CEPD
-    possa ser chamado a efetuar noutros casos, incluindo com as mesmas partes, tendo em conta o
-    conteúdo do projeto de decisão pertinente e as objeções levantadas pelas ACI.
+    Example 3:
+    The draft decision of a LSA states that the controller failed to comply with the duty to inform pursuant
+    to Article 14 GDPR (information to be provided where personal data have not been obtained from the
+    data subject). The draft decision states that the controller should have provided the information in
+    paragraphs 14(1) and 14(2)(a) and (e) GDPR and finds no other infringements of Article 14. One of the
+    CSAs considers that the controller should have provided all the information referred to in Article
+    14(2)(b) and (f) GDPR, as the default position is that all such information set out in that subarticle
+    should be provided to the data subject unless one or more categories of the information does not
+    exist or is not applicable.84 Provided the objection raised by the CSA meets the requirements of Article
+    4(24), and taking into account the elements of the file and the right to be heard, the EDPB will decide
+    whether or not the controller additionally infringed Article 14(2)(b) and (f) GDPR, in addition to Article
+    14(1) and Art. 14(2)(a) and (e) GDPR.
+75. If the EDPB determines, following a relevant and reasoned objection to this effect, that additional
+    and/or alternative provisions of the GDPR have been infringed, the LSA will be obliged to reflect this
+    in its final decision, taking into account the binding decision of the EDPB in relation to the objection
+    raised.
+76. It may be possible, in exceptional cases, that the file submitted to the EDPB does not contain sufficient
+    factual elements to allow the EDPB to make a final conclusion regarding the existence of the
+    infringement identified by the relevant and reasoned objection. In most cases, however, the
+    information exchanged during the cooperation procedure should be sufficient to enable the CSA to
+    substantiate its objection in such a way that the EDPB shall be able make a final determination
+    whether or not there has been an infringement of the GDPR85. Furthermore, when the LSA submits
+    the matter to the Secretariat to obtain a binding decision on the basis of Article 65(1)(a) GDPR, the
+    Secretariat may also request the LSA and/or CSA to provide additional information that is necessary
+    to ensure the file is complete 86.
+    4.2.3 Gaps in the draft decision justifying the need for further investigation by the LSA
+77. A third example of a possible relevant and reasoned objection involves disagreement between the
+    LSA and CSA as to whether the draft decision has sufficiently investigated the relevant infringements
+    of the GDPR87.
 
-    4.2 Assuntos da objeção pertinente e fundamentada
-70. Nas suas diretrizes relativas à objeção pertinente e fundamentada, o CEPD também clarificou o
-    possível objeto (substância) de uma objeção pertinente e fundamentada 79. Essas diretrizes descrevem
-    vários exemplos de objeções que podem cumprir os requisitos do artigo 4.º, ponto 24, do RGPD. Os
-    exemplos dizem respeito a possíveis desacordos entre a ACP e a ACI sobre os seguintes assuntos:
-
-         1. A existência de uma determinada violação do RGPD;
-         2. A existência de violações adicionais ou alternativas do RGPD;
-         3. Lacunas no projeto de decisão que justificam a necessidade de uma investigação mais
-            aprofundada;
-         4. Informações factuais ou fundamentação insuficientes;
-         5. Aspetos processuais; bem como
-         6. A ação específica prevista no projeto de decisão.
-
-    4.2.1 Existência de uma determinada violação do RGPD
-71. Um primeiro exemplo de uma possível objeção pertinente e fundamentada envolve o desacordo entre
-    a ACP e a ACI quanto à questão de saber se uma determinada disposição do RGPD foi ou não violada80.
-    Esse desacordo pode surgir quando o projeto de decisão adotado pela ACP:
-         •   confirma explicitamente a existência de uma violação de um artigo específico do RGPD, mas
-             a ACI considera que esse artigo do RGPD não foi violado 81,
-
-         •   confirma explicitamente que um determinado artigo do RGPD não foi violado, enquanto a ACI
-             considera que o artigo em questão foi violado.
-
-72. Em conformidade com o artigo 65.º, n.º 1, alínea a), do RGPD, o CEPD toma uma decisão vinculativa
-    em relação a todos os assuntos que são objeto de objeções pertinentes e fundamentadas, «sobretudo
-    à questão de saber se há violação» do RGPD. O CEPD deve tomar uma decisão vinculativa que, sempre
-    que possível, tendo em conta os elementos do processo e o direito de ser ouvido, proporcione uma
-    conclusão final sobre a aplicação do RGPD em relação ao caso em apreço. Por outras palavras, o CEPD
-    deve apreciar a questão de fundo dos argumentos apresentados pela ACI na objeção em comparação
-
-    78
-       Ver igualmente as diretrizes relativas à objeção pertinente e fundamentada, pontos 7 e 37.
-    79
-       Diretrizes relativas à objeção pertinente e fundamentada, pontos 22 a 48.
-    80
-       Diretrizes relativas à objeção pertinente e fundamentada, pontos 24 e 25.
-    81
-       As diretrizes relativas à objeção pertinente e fundamentada incluem o seguinte exemplo: «A ACI alega que a
-    ACP não teve em consideração o facto de a isenção para atividades domésticas não ser aplicável a algumas das
-    operações de tratamento conduzidas por um responsável pelo tratamento e que pressuponham a utilização de
-    CCTV, pelo que não existe violação do RGPD».
-
-                                                                                                              20
-    Adotadas
-
-    com os argumentos da ACP e emitir uma decisão definitiva sobre a existência ou não da violação em
-    causa do RGPD. O CEPD dará instruções à ACP no sentido de alterar a conclusão relativa a uma violação
-    ou de incluir uma, caso seja necessário. Nesses casos, a ACP será então obrigada a aplicar a alteração
-    na sua decisão final, tendo em conta a decisão vinculativa do CEPD em relação à objeção levantada.
-
-    4.2.2 Violações adicionais ou alternativas do RGPD
-73. Um segundo exemplo de uma possível objeção pertinente e fundamentada envolve o desacordo entre
-    a ACP e a ACI quanto às conclusões a extrair dos resultados da investigação. Por exemplo, pode
-    alegar-se na objeção que esses resultados apontam para a violação de uma disposição do RGPD
-    diferente das (e/ou adicional às) já analisadas no projeto de decisão 82.
-74. Conforme indicado anteriormente, o CEPD deve tomar uma decisão vinculativa que, sempre que
-    possível, tendo em conta os elementos do processo e o direito do respondente a ser ouvido,
-    proporcione uma conclusão final sobre a aplicação do RGPD em relação ao caso em apreço. Tal pode
-    incluir a determinação da existência de violações adicionais (ou alternativas), desde que o processo
-    contenha elementos factuais suficientes para fundamentar a alegada violação e que as pessoas que
-    seriam afetadas desfavoravelmente tenham sido ou possam ser ouvidas em relação às objeções
-    relativas à existência de uma violação adicional ou alternativa 83.
-    Exemplo 3:
-    O projeto de decisão de uma ACP estabelece que o responsável pelo tratamento não cumpriu o dever
-    de informar nos termos do artigo 14.º do RGPD («Informações a facultar quando os dados pessoais
-    não são recolhidos junto do titular»). O projeto de decisão estabelece que o responsável pelo
-    tratamento deveria ter fornecido as informações previstas no artigo 14.º, n.º 1, e no artigo 14.º, n.º 2,
-    alíneas a) e e), do RGPD e não deteta outras violações do artigo 14.º. Uma das ACI considera que o
-    responsável pelo tratamento deveria ter fornecido todas as informações referidas no artigo 14.º,
-    n.º 2, alíneas b) e f), do RGPD, pois a posição por defeito é que todas essas informações estabelecidas
-    no artigo em causa devem ser fornecidas ao titular dos dados, a menos que uma ou várias categorias
-    de informações não existam ou não sejam aplicáveis 84. Desde que a objeção levantada pela ACI
-    cumpra os requisitos do artigo 4.º, ponto 24, e tendo em conta os elementos do processo e o direito
-    de ser ouvido, o CEPD decidirá se o responsável pelo tratamento violou adicionalmente o artigo 14.º,
-    n.º 2, alíneas b) e f), do RGPD, para além do artigo 14.º, n.º 1, e do artigo 14.º, n.º 2, alíneas a) e e), do
-    RGPD.
-75. Se o CEPD determinar, na sequência de uma objeção pertinente e fundamentada para o efeito, que
-    foram violadas disposições adicionais e/ou alternativas do RGPD, a ACP será obrigada a refletir esse
-    facto na sua decisão final, tendo em conta a decisão vinculativa do CEPD em relação à objeção
-    levantada.
-76. Pode ser possível, em casos excecionais, que o processo apresentado ao CEPD não contenha
-    elementos factuais suficientes que lhe permitam chegar a uma conclusão final sobre a existência da
-    violação identificada pela objeção pertinente e fundamentada. Todavia, na maioria dos casos, as
-    informações trocadas durante o procedimento de cooperação devem ser suficientes para permitir à
+    Example 4:
+    The LSA, upon receiving a complaint, considers that not all of the allegations of infringements
+    contained in the complaint merit investigation. In its draft decision, the LSA only addresses those
 
 
-    82
-       Diretrizes relativas à objeção pertinente e fundamentada, ponto 26.
-    83
-       Ver secção 5 sobre o direito de ser ouvido.
-    84
-       Ver também Grupo de Trabalho do Artigo 29.º, «Orientações relativas à transparência na aceção do
-    Regulamento 2016/679», adotadas em 29 de novembro de 2017, WP260 rev.01, revistas e adotadas pela última
-    vez em 11 de abril de 2018, ponto 46.
+    83 See section 5 regarding the right to be heard.
+    84 See also Article 29 Working Party Guidelines on transparency under Regulation 2016/679, 29 November 2017,
+
+    WP260 rev.01, 11 April 2018, paragraph 46.
+    85 Where appropriate, the CSA and LSA can make use of Article 61 and 62 GDPR with a view of obtaining the
+
+    necessary information prior to the issuance of the draft decision.
+    86 See section 3.2 above.
+    87 RRO GLS, paragraph 27.
+
+
+                                                                                                             20
+    Adopted
+
+     aspects of the complaint which it decided to investigate without any statement regarding the other
+     alleged infringements of the GDPR. The CSA considers that the LSA in its investigation unjustifiably
+     failed to address a number of alleged infringements raised by the complainant and submits a relevant
+     and reasoned objection based on the failure of the LSA to properly handle the complaint to safeguard
+     the rights of the data subject.
+
+78. Article 57(1)(f) GDPR imposes a duty upon supervisory authorities to handle each and every complaint
+    submitted to them and to investigate the subject matter of the complaint “to the extent appropriate”.
+    The term “to the extent appropriate” provides the competent supervisory authority with a margin of
+    discretion as regards the extent or depth of the investigation needed. However, this discretionary
+    power must be exercised with all due diligence88 and in accordance with the relevant provisions of the
+    GDPR implying mutual cooperation.
+79. If the EDPB, on the basis of a relevant and reasoned objection, determines that the LSA has
+    unjustifiably failed to investigate or in any other way address some of the issues raised by the
+    complaint, the EDPB can issue a binding decision specifying the need for LSA to handle the matter
+    further and to investigate – to the extent appropriate – the remaining subject matter of the complaint.
+    To the extent that the draft decision allows it, the LSA should in principle first seek to finalise its draft
+    decision as regards those matters that do not require further investigation within the deadline
+    specified by Article 65(6).
+80. For those matters requiring further investigation, it may be necessary for the LSA to open a new case
+    file. In case a new case file is opened to address the remaining issues, the LSA is required to comply
+    with all cooperation provisions under the GDPR. This may lead to submitting a new draft decision in
+    accordance with A60(3) GDPR which addresses the outstanding alleged infringement.
+    In situations where it is not possible for the LSA to follow this course of action (e.g., when there is
+    inextricable link between the matter requiring further investigation and the other parts of the LSA’s
+    draft decision that are to be finalised), it may be necessary for the LSA to first investigate the matter
+    further and prepare an updated draft decision.
+81. In any event, the LSA shall be required to further address the matter and keep the members of the
+    EDPB informed of the steps taken. Moreover, the CSAs can seek to use the cooperation and
+    consistency mechanisms provided for in the GDPR in case the LSA does not fulfil its obligations flowing
+    from the Article 65 decision (i.e addressing the remaining issues to be resolved) 89.
+     4.2.4 Insufficient factual information or reasoning
+82. A fourth example of a possible relevant and reasoned objection involves disagreement between the
+    LSA and CSA as to whether sufficient factual elements and/or reasoning have been included in the
+    draft decision90. For instance, a CSA might consider that the conclusion by the LSA included the draft
+
+
+     88 Judgment in Schrems, C-362/14, 6 October 2015, ECLI:EU:C:2015:650, paragraph 63.
+     89 The EDPB recalls the possibility for CSAs make use, where appropriate, of the ability to request mutual
+
+     assistance pursuant to Article 61 GDPR (which also allow CSAs, in case the LSA fails to comply, to adopt a
+     provisional measure in accordance with Article 66) or requests for an opinion pursuant to Article 64(2) GDPR
+     (which is explicitly deemed by the legislator as particularly appropriate where a SA does not comply with its
+     obligations for mutual assistance under Article 61 GDPR). The latter procedure may, eventually, produce a
+     binding decision of the EDPB in accordance with Article 65(1)(c) GDPR. See also Advocate General Bobek,
+     Opinion in Facebook Ireland Limited, C-645/19, ECLI:EU:C:2021:5, paragraphs 115-121. Additionally, the EDPB
+     may also, in its binding decision under Article 65(1)(a) GDPR, invite the CSA to request the LSA to further
+     investigate via an Article 61 Mutual Assistance request.
+     90 RRO GLS, paragraph 29.
 
 
                                                                                                                21
-    Adotadas
-
-    ACI fundamentar a sua objeção de modo que o CEPD possa determinar definitivamente se houve ou
-    não uma violação do RGPD 85. Além disso, quando a ACP apresenta a questão ao secretariado para
-    obter uma decisão vinculativa com base no artigo 65.º, n.º 1, alínea a), do RGPD, o secretariado
-    também pode solicitar à ACP e/ou à ACI que facultem as informações adicionais necessárias para
-    assegurar que o processo está completo 86.
-    4.2.3 Lacunas no projeto de decisão que justificam a necessidade de uma investigação mais
-          aprofundada a realizar pela ACP
-77. Um terceiro exemplo de uma possível objeção pertinente e fundamentada envolve o desacordo entre
-    a ACP e a ACI quanto à questão de saber se o projeto de decisão investigou suficientemente as
-    violações pertinentes do RGPD 87.
-    Exemplo 4:
-    A ACP, ao receber uma reclamação, considera que nem todas as alegações de violações contidas na
-    mesma merecem investigação. No seu projeto de decisão, a ACP aborda apenas os aspetos da
-    reclamação que decidiu investigar sem qualquer declaração sobre as outras alegadas violações do
-    RGPD. A ACI considera que, na sua investigação, a ACP não abordou injustificadamente uma série de
-    alegadas violações levantadas pelo autor da denúncia e apresenta uma objeção pertinente e
-    fundamentada com base no facto de a ACP não ter tratado corretamente a reclamação para
-    salvaguardar os direitos do titular dos dados.
-
-78. O artigo 57.º, n.º 1, alínea f), do RGPD impõe às autoridades de controlo o dever de tratarem todas as
-    reclamações que lhes sejam apresentadas e de investigarem o conteúdo da reclamação «na medida
-    do necessário». A expressão «na medida do necessário» confere à autoridade de controlo competente
-    uma margem de apreciação quanto à extensão ou profundidade da investigação necessária. Todavia,
-    este poder discricionário deve ser exercido com toda a diligência exigida 88 e em conformidade com as
-    disposições pertinentes do RGPD, o que implica uma cooperação mútua.
-79. Se o CEPD, com base numa objeção pertinente e fundamentada, determinar que a ACP não investigou
-    injustificadamente ou de qualquer outra forma não abordou algumas das questões levantadas pela
-    reclamação, o CEPD pode emitir uma decisão vinculativa que especifique a necessidade de a ACP tratar
-    mais aprofundadamente a questão e investigar, na medida do necessário, o restante conteúdo da
-    reclamação. Na medida em que o projeto de decisão o permita, a ACP deve, em princípio, procurar,
-    em primeiro lugar, finalizar o seu projeto de decisão no que respeita aos assuntos que não exigem
-    uma investigação mais aprofundada, no prazo especificado no artigo 65.º, n.º 6.
-80. No caso de assuntos que exigem uma investigação mais aprofundada, a ACP pode ter de iniciar um
-    novo processo. Caso seja iniciado um novo processo para resolver as questões pendentes, a ACP é
-    obrigada a cumprir todas as disposições em matéria de cooperação ao abrigo do RGPD. Tal pode levar
-    à apresentação de um novo projeto de decisão em conformidade com o artigo 60.º, n.º 3, do RGPD,
-    que             aborde              a           alegada             violação            pendente.
-    Em situações em que não seja possível à ACP seguir esta linha de ação (por exemplo, quando existe
-    uma ligação inextricável entre o assunto que requer uma investigação mais aprofundada e as outras
-
-
-
-    85
-       Se for caso disso, a ACI e a ACP podem recorrer aos artigos 61.º e 62.º do RGPD com vista a obter as
-    informações necessárias antes da emissão do projeto de decisão.
-    86
-       Ver secção 3.2 supra.
-    87
-       Diretrizes relativas à objeção pertinente e fundamentada, ponto 27.
-    88
-       Acórdão do Tribunal de Justiça de 6 de outubro de 2015, Schrems, C-362/14, ECLI:EU:C:2015:650, n.º 63.
-
-                                                                                                          22
-    Adotadas
-
-    partes do projeto de decisão da ACP que devem ser finalizadas), a ACP pode ter de, em primeiro lugar,
-    investigar melhor o assunto e elaborar um projeto de decisão atualizado.
-81. Em qualquer caso, a ACP é obrigada a abordar mais aprofundadamente o assunto e a manter os
-    membros do CEPD informados das medidas tomadas. Além disso, caso a ACP não cumpra as suas
-    obrigações decorrentes da decisão nos termos do artigo 65.º (ou seja, abordando as questões
-    pendentes a resolver), as ACI podem procurar utilizar os procedimentos de cooperação e de controlo
-    da coerência previstos no RGPD 89.
-    4.2.4 Informações factuais ou fundamentação insuficientes
-82. Um quarto exemplo de uma possível objeção pertinente e fundamentada envolve o desacordo entre
-    a ACP e a ACI quanto à inclusão de elementos factuais e/ou fundamentação suficientes no projeto de
-    decisão 90. Por exemplo, uma ACI pode considerar que a conclusão da ACP incluída no projeto de
-    decisão não é adequadamente apoiada pela avaliação realizada e pelos elementos de prova
-    apresentados 91. Nesse caso, o CEPD é igualmente competente para emitir uma decisão vinculativa,
-    desde que a objeção levantada atinja todo o limiar previsto no artigo 4.º, ponto 24, do RGPD, incluindo
-    uma ligação entre a análise alegadamente insuficiente e a existência de uma violação ou a ação
-    prevista 92.
-83. Numa situação em que o projeto de decisão da ACP contém elementos factuais ou fundamentação
-    insuficientes, existem essencialmente dois cenários possíveis.
-84. No primeiro cenário, o processo com base no qual o CEPD deve tomar a sua decisão já contém
-    informações suficientes que permitam resolver a falta de elementos factuais ou de fundamentação
-    suficientes no projeto de decisão. Nesses casos, o CEPD deve, no âmbito da objeção pertinente e
-    fundamentada, determinar em que medida a ACP deve alterar o seu projeto de decisão a fim de
-    corrigir a insuficiência de fundamentação, fazendo referência aos elementos pertinentes incluídos no
-    processo.
-    Exemplo 5:
-    O projeto de decisão da ACP estabelece uma violação do RGPD com base em constatações factuais
-    baseadas em elementos de prova documentais facultados no processo ao CEPD. Várias ACI
-    apresentam objeções pertinentes e fundamentadas, indicando que a ligação entre os elementos de
-    prova documentais e a constatação da violação não está suficientemente fundamentada no projeto
-    de decisão. A decisão do CEPD considera que a ou as objeções são pertinentes e fundamentadas e
-    indica a interpretação jurídica e o raciocínio corretos que a ACP deve incorporar na sua decisão final.
-
-
-
-
-    89
-       O CEPD recorda a possibilidade de as ACI recorrerem, se for caso disso, à capacidade de solicitar assistência
-    mútua nos termos do artigo 61.º do RGPD (que também permite às ACI, caso a ACP não cumpra, adotarem uma
-    medida provisória em conformidade com o artigo 66.º), ou a pedidos de parecer nos termos do artigo 64.º, n.º 2,
-    do RGPD (o que é explicitamente considerado pelo legislador como especialmente adequado caso uma AC não
-    cumpra as suas obrigações de assistência mútua nos termos do artigo 61.º do RGPD). Este último procedimento
-    pode, eventualmente, produzir uma decisão vinculativa do CEPD em conformidade com o artigo 65.º, n.º 1,
-    alínea c), do RGPD. Ver igualmente as conclusões do advogado-geral M. Bobek, apresentadas em 13 de janeiro
-    de 2021, Facebook Ireland Limited, C-645/19, ECLI:EU:C:2021:5, n.os 115 a 121. Além disso, o CEPD também
-    pode, na sua decisão vinculativa ao abrigo do artigo 65.º, n.º 1, alínea a), do RGPD, convidar a ACI a solicitar à
-    ACP que investigue mais aprofundadamente através de um pedido de assistência mútua ao abrigo do artigo 61.º.
-    90
-       Diretrizes relativas à objeção pertinente e fundamentada, ponto 29.
-    91
-       Ibidem.
-    92
-       Diretrizes relativas à objeção pertinente e fundamentada, ponto 29.
-
-                                                                                                                   23
-    Adotadas
-
-85. No segundo cenário, o processo com base no qual o CEPD deve tomar a sua decisão não contém
-    elementos factuais suficientes para resolver a insuficiência de elementos factuais ou de
-    fundamentação.
-
-
-
-
-    Exemplo 6:
-    O projeto de decisão da ACP conclui que não existe violação do artigo 6.º, n.º 1, alínea a), do RGPD e
-    que o tratamento em causa é lícito com base no consentimento do titular dos dados. Todavia, nem o
-    projeto de decisão nem qualquer outro documento do processo facultam elementos ou análises
-    adicionais para determinar se as condições do artigo 7.º do RGPD foram cumpridas. O projeto de
-    decisão limita-se a afirmar que o tratamento se baseou legalmente no consentimento, sem apresentar
-    mais fundamentação ou elementos de prova. Uma ACI levanta uma objeção contra esta falta de
-    fundamentação, alegando que a ausência desta análise gera incerteza quanto à conclusão de que não
-    houve violação no caso em apreço.
-
-    Caso o CEPD determine que o processo com base no qual toma a sua decisão não contém elementos
-    factuais suficientes que permitam corrigir a insuficiência de fundamentação, o CEPD pode emitir uma
-    decisão vinculativa que especifique a necessidade de a ACP investigar ou tratar o assunto de forma
-    mais aprofundada, com vista a obter informações factuais suficientes, em conformidade com o
-    especificado nos pontos 79 a 81 supra.
-    4.2.5 Aspetos processuais
-86. Um quinto exemplo de uma possível objeção pertinente e fundamentada envolve um desacordo entre
-    a ACP e a ACI quanto à questão de saber se os requisitos processuais impostos pelo RGPD foram
-    devidamente respeitados, o que afeta a conclusão a que se chegou no projeto de decisão 93.
-87. O CEPD recorda que o objetivo do mecanismo de resolução de litígios previsto no artigo 65.º, n.º 1,
-    alínea a), do RGPD consiste em resolver posições contraditórias sobre a questão de fundo 94. Não se
-    destina a resolver eventuais litígios relativos a requisitos processuais ou deveres de cooperação 95.
-88. Uma objeção que envolva um desacordo relativo aos requisitos processuais só será considerada
-    pertinente e fundamentada se também apresentar argumentos que clarifiquem a conclusão diferente
-    à qual a ACP deveria ter chegado no seu projeto de decisão. Na sua decisão, o CEPD resolverá o litígio
-    em torno das conclusões a que se chegou no projeto de decisão.
-89. Caso as deficiências processuais não permitam ao CEPD resolver o litígio em torno das conclusões a
-    que se chegou no projeto de decisão (por exemplo, devido à falta de elementos factuais suficientes),
-    o CEPD recordará a importância do dever de cooperação e emitirá uma decisão vinculativa que
-    especifique a necessidade de a ACP investigar ou tratar o assunto de forma mais aprofundada, em
-    consonância com o especificado nos pontos 79 a 81 supra e assegurando o pleno cumprimento dos
-    requisitos processuais do RGPD que não foram cumpridos.
-
-
-
-
-    93
-       Diretrizes relativas à objeção pertinente e fundamentada, ponto 30.
-    94
-       Ver supra no ponto 61.
-    95
-       A este respeito, o CEPD recorda o artigo 61.º, o artigo 64.º, n.º 2, o artigo 65.º, n.º 1, alínea c), e o artigo 66.º
-    do RGPD.
-
-
-                                                                                                                         24
-    Adotadas
-
-    4.2.6 Ação prevista
-90. Um sexto exemplo de uma possível objeção pertinente e fundamentada envolve o desacordo entre a
-    ACP e a ACI quanto à questão de saber se a ação prevista em relação ao responsável pelo tratamento
-    ou ao subcontratante cumpre o RGPD 96.
-91. O CEPD relembra que o considerando 150 do RGPD refere que o procedimento de controlo da
-    coerência pode ser utilizado igualmente para a promoção de uma aplicação coerente das coimas.
-    Consequentemente, caso a avaliação do CEPD neste contexto identifique deficiências na
-    fundamentação que motivou a aplicação da coima em causa, a ACP será instruída para reavaliar a
-    coima e suprir as deficiências identificadas 97.
-92. As coimas não são, de modo algum, a única ação que uma autoridade de controlo pode prever. Por
-    conseguinte, uma objeção pertinente e fundamentada pode também dizer respeito a outras ações
-    previstas, tendo em conta o leque de poderes enumerados no artigo 58.º, n.º 2, do RGPD. Cada
-    medida prevista deverá ser adequada, necessária e proporcionada a fim de garantir a conformidade
-    com o RGPD, tendo em conta as circunstâncias de cada caso concreto 98. Neste contexto, importa
-    recordar que a decisão de rejeitar ou recusar, total ou parcialmente, uma reclamação constitui
-    igualmente uma ação prevista suscetível de ser objeto de uma objeção pertinente e fundamentada.
-    Se, com base numa objeção pertinente e fundamentada, o CEPD determinar que a ação prevista
-    incluída no projeto de decisão não está em conformidade com o RGPD, deve dar instruções à ACP
-    para reavaliar a ação prevista e alterar o projeto de decisão em conformidade com a decisão
-    vinculativa do CEPD.
-
-
-    5 DIREITO DE SER OUVIDO
-    5.1 Aplicabilidade
-93. O direito de ser ouvido antes de uma administração tomar uma medida que afete desfavoravelmente
-    uma pessoa está consagrado no artigo 41.º da Carta e é, há muito, reconhecido como um princípio
-    geral do direito da UE 99. O direito de ser ouvido está igualmente incluído no artigo 16.º do Código
-    Europeu de Boa Conduta Administrativa e refletido no artigo 11.º do Regulamento Interno.
-
-94. O artigo 41.º da Carta não se destina aos Estados-Membros, mas unicamente às instituições, órgãos e
-    organismos da União Europeia 100. Todavia, o direito de ser ouvido também foi reconhecido como
-    «parte integrante do respeito dos direitos de defesa, princípio geral do direito da União» 101 e, por
-    conseguinte, também é aplicável quando os Estados-Membros adotam decisões abrangidas pelo
-    âmbito de aplicação do direito da União 102.
-
-    96
-       Ver igualmente as diretrizes relativas à objeção pertinente e fundamentada, ponto 32 e seguintes.
-    97
-       Diretrizes relativas à objeção pertinente e fundamentada, ponto 34.
-    98
-       Considerando 129 do RGPD.
-    99
-       Ver, por exemplo, acórdão do Tribunal de Justiça de 14 de fevereiro de 1980, França/Comissão, C-301/87,
-    ECLI:EU:C:1990:67, n.º 29.
-    100
-         Ver, por exemplo, acórdão do Tribunal de Justiça de 21 de dezembro de 2011, Cicala, C-482/10,
-    ECLI:EU:C:2011:868, n.º 28.
-    101
-         Ver, por exemplo, acórdão do Tribunal de Justiça de 5 de novembro de 2014, Mukarubega, C-166/13,
-    ECLI:EU:C:2014:2336, n.º 45.
-    102
-        Ibidem, n.º 46. Ver igualmente acórdão do Tribunal de Justiça de 16 de outubro de 2019, Glencore Agriculture
-    Hungary Kft., C-189/18, ECLI:EU:C:2019:861, n.º 39 («[…] Esta obrigação incumbe às Administrações dos
-
-
-                                                                                                                 25
-    Adotadas
-
-95. O direito de ser ouvido é aplicável a processos administrativos cujo resultado seja suscetível de afetar
-    os interesses das pessoas (coletivas ou singulares). Aplica-se igualmente a situações em que a
-    administração do direito da UE é dividida ou partilhada entre a UE e os Estados-Membros (os
-    chamados «procedimentos mistos» 103). O artigo 41.º, n.º 2, alínea a), da Carta está redigido em
-    termos de medidas individuais que afetariam desfavoravelmente a pessoa, sem qualquer requisito
-    específico de que a medida contestada seja instaurada contra essa pessoa 104.
-
-96. O artigo 65.º, n.º 2, do RGPD estabelece que a decisão do CEPD «é […] dirigida à autoridade de
-    controlo principal, bem como a todas as autoridades de controlo interessadas, e é vinculativa para as
-    partes». O artigo 65.º, n.º 2, do RGPD reflete o facto de a decisão vinculativa do CEPD ter por objetivo
-    resolver um litígio que tenha surgido entre duas ou várias autoridades nacionais de controlo. Em
-    conformidade com o procedimento previsto no artigo 60.º do RGPD, a ACP terá partilhado, no projeto
-    de decisão, a sua análise jurídica e em relação às objeções levantadas durante o procedimento de
-    cooperação. A ou as ACI terão igualmente partilhado as suas objeções em relação ao projeto de
-    decisão, incluindo quaisquer elementos que as fundamentem. Além disso, tanto a ACP como as ACI
-    podem partilhar as suas posições durante a elaboração e adoção da decisão do CEPD 105.
-
-97. O artigo 65.º, n.º 2, do RGPD confirma igualmente que a decisão do CEPD não se dirige diretamente a
-    qualquer outra parte para além da ACP e das ACI. Todavia, a decisão adotada pelo CEPD a nível
-    europeu é vinculativa para a ACP ou, consoante o caso, para a ACI à qual a reclamação foi apresentada
-    e é, por conseguinte, decisiva para o resultado do procedimento a nível nacional. Assim, pode
-    igualmente afetar os interesses das pessoas que faziam parte do processo que deu origem ao projeto
-    de decisão.
-
-98. Consequentemente, qualquer uma dessas pessoas que seja afetada desfavoravelmente pela decisão,
-    em especial os responsáveis pelo tratamento e/ou os subcontratantes visados pelo projeto de decisão
-    da ACP, bem como qualquer outra pessoa que seja afetada desfavoravelmente pela decisão, deve ter
-    o direito de ser ouvida sobre o assunto submetido à apreciação do CEPD nos termos do artigo 60.º,
-    n.º 4, do artigo 63.º e do artigo 65.º, n.º 1, alínea a), do RGPD.
-
-    5.2 Finalidade
-99. O direito de ser ouvido é descrito pelo Tribunal como garantindo «que qualquer pessoa tenha a
-    possibilidade de dar a conhecer, de maneira útil e efetiva, o seu ponto de vista no decurso do
-    procedimento administrativo e antes da adoção de qualquer decisão suscetível de afetar
-
-
-    Estados‑Membros, sempre que estas tomem decisões que entram no âmbito de aplicação do direito da União,
-    mesmo que a legislação da União aplicável não preveja expressamente essa formalidade») e acórdão do Tribunal
-    de Justiça de 9 de novembro de 2017, Teodor Ispas, C-298/16, ECLI:EU:C:2017:843, n.º 26. Ver igualmente as
-    conclusões do advogado-geral M. Bobek, apresentadas em 7 de setembro de 2017, Teodor Ispas, C-298/16,
-    ECLI:EU:C:2017:650, n.os 35 a 69.
-    103
-        No que diz respeito aos procedimentos administrativos mistos, ver, por exemplo, as conclusões do
-    advogado-geral M. Compos Sánchez-Bordana, apresentadas em 27 de junho de 2018, Silvio Berlusconi,
-    C-219/17, ECLI:EU:C:2018:502, n.os 57 a 79. Ver também Brito Bastos, F., «Beyond Executive Federalism – The
-    Judicial Crafting of the Law of Composite Administrative Decision-Making – Thesis submitted for assessment
-    with a view to obtaining the degree of Doctor of Laws of the European University Institute», Florença, 13 de
-    junho de 2018, em especial p. 120 a 163.
-    104
-        Craig, P., «Article 41 – The Right to Good Administration», in «The EU Charter of Fundamental Rights: A
-    Commentary», editado por Steve Peers, et al., Bloomsbury Publishing, 2014, p. 1079.
-    105
-        Contudo, de acordo com o Regulamento Interno, em circunstâncias excecionais, o CEPD pode decidir
-    examinar outros documentos (artigo 11.º, n.º 2, in fine, do Regulamento Interno).
-
-
-                                                                                                             26
-    Adotadas
-
-    desfavoravelmente os seus interesses» 106. Conforme clarificado pelo TJUE, a regra segundo a qual
-    deve ser dada ao destinatário de uma decisão lesiva dos seus interesses a possibilidade de apresentar
-    as suas observações antes de a mesma ser tomada destina-se a permitir que a autoridade competente
-    tenha utilmente em conta todos os elementos pertinentes. A fim de assegurar uma proteção efetiva
-    da pessoa em causa, essa regra tem, designadamente, por objeto permitir que esta pessoa possa
-    corrigir um erro ou invocar determinados elementos relativos à sua situação pessoal que militem no
-    sentido de a decisão ser tomada, não ser tomada ou ter determinado conteúdo 107.
-
-100. O direito de resposta faz igualmente parte do direito de ser ouvido, uma vez que um «[…]
-     procedimento administrativo exige que a parte interessada tenha a oportunidade […] de tomar
-     posição e de apresentar de modo útil o seu ponto de vista sobre a pertinência dos factos bem como,
-     se for caso disso, sobre os documentos de que a instituição comunitária dispõe» 108. Salvo nos casos
-     em que a legislação preveja expressamente a possibilidade de uma audição oral, como em
-     procedimentos de concorrência, o direito de ser ouvido não exige necessariamente uma audição
-     oral 109.
-
-    5.3 Calendário
-    5.3.1 A nível nacional e antes de remeter o assunto para o CEPD
-101. Antes de ser atribuída ao CEPD a função de emitir uma decisão vinculativa, cada autoridade de
-     controlo tem a obrigação de respeitar o direito de ser ouvido no contexto do seu procedimento
-     nacional, enquanto princípio geral do direito da UE 110. Com efeito, todas as autoridades de controlo
-     devem «respeitar o direito de todas as pessoas a serem ouvidas antes de ser tomada qualquer medida
-     individual que as prejudique» 111. O direito de ser ouvido aplica-se independentemente de o caso ser
-     de natureza transfronteiriça ou não.
-
-102. Mesmo na ausência de disposições específicas ao abrigo do direito nacional, a ACP deve, antes de
-     acionar o artigo 65.º, n.º 1, alínea a), do RGPD, assegurar que o procedimento conduzido a nível
-     nacional tem em conta os requisitos do direito de ser ouvido enquanto princípio geral do direito da
-     UE.
-
-    5.3.2 Durante a avaliação da exaustividade do processo
-103. Quando a ACP apresenta o assunto ao secretariado com vista a obter uma decisão vinculativa do CEPD
-     nos termos do artigo 65.º, n.º 1, alínea a), do RGPD, o secretariado deve avaliar que pessoas poderão
-     ser afetadas desfavoravelmente pela decisão do CEPD na aceção do artigo 41.º da Carta. Deve
-     igualmente apreciar se foi dada a cada uma dessas pessoas a oportunidade de exercerem o seu direito
-     de serem ouvidas.
-
-
-
-    106
-         Ver, por exemplo, acórdão do Tribunal de Justiça de 22 de novembro de 2012, M. M., C-277/11,
-    ECLI:EU:C:2012:744, n.º 87; Mukarubega, n.º 46; Glencore Agriculture Hungary, n.º 39 e jurisprudência nele
-    referida.
-    107
-        Acórdão Glencore, n.os 41 e 52.
-    108
-        Ver, por exemplo, acórdão do Tribunal de Justiça de 21 de novembro de 1991, Technische Universität
-    Munchen, C-269/90, ECLI:EU:C:1991:438, n.º 25.
-    109
-        Ver artigo 12.º do Regulamento (CE) n.º 773/2004 (JO L 123 de 27.4.2004, p. 18). Ver igualmente as
-    conclusões do advogado-geral N. Wahl, apresentadas em 3 de setembro de 2015, SKW Stahl-Metallurgie GmbH
-    e Holding AG/Comissão Europeia, C-154/14 P, ECLI:EU:C:2015:543, n.os 45 a 47.
-    110
-        Ver ponto 95 supra.
-    111
-        Considerando 129 do RGPD.
-
-                                                                                                           27
-    Adotadas
-
-104. Não é suficiente que a ACP tenha ouvido as pessoas que podem ser afetadas desfavoravelmente
-     durante o procedimento nacional antes da adoção do seu projeto de decisão na aceção do artigo 60.º,
-     n.º 3, do RGPD. Antes de o CEPD estar em condições de resolver o litígio, o direito de ser ouvido deve
-     também ser concedido em relação a quaisquer objeções levantadas em relação ao projeto de decisão,
-     em especial se a ACP optar por não dar seguimento à objeção (ou considerar que não é pertinente
-     e/ou fundamentada).
-
-105. Ao apresentar o assunto ao secretariado, a ACP deverá demonstrar de que forma o direito de ser
-     ouvido foi concedido às pessoas que beneficiam do mesmo, no decurso do procedimento nacional
-     conducente ao projeto de decisão. No que diz respeito aos documentos partilhados aquando da
-     apresentação do assunto ao secretariado, a ACP deve mencionar especificamente se esses
-     documentos (ou o seu conteúdo relevante 112) foram ou não sujeitos ao direito de ser ouvido e em
-     relação a que pessoas 113. Devem igualmente ser facultadas respostas ou sumários da(s) audição(ões).
-
-106. O respeito do direito de ser ouvido é um elemento essencial do procedimento, na ausência do qual o
-     assunto do litígio não pode ser resolvido pelo CEPD. Consequentemente, a recolha e a verificação das
-     informações pertinentes são efetuadas no contexto da verificação da exaustividade do processo,
-     antes de o assunto ser remetido para o CEPD. Só depois de o secretariado efetuar todas as verificações
-     pertinentes é que o presidente pode declarar o processo completo 114.
-
-107. Se existirem documentos ou informações pertinentes que não tenham sido sujeitos ao direito de ser
-     ouvido, o presidente pode incumbir o secretariado de solicitar às autoridades de supervisão (ACP/ACI)
-     que tomem as medidas necessárias para permitir que qualquer parte que possa ser afetada seja
-     ouvida. Se necessário, o presidente pode incumbir o secretariado de tomar medidas para assegurar
-     diretamente o direito de ser ouvido a nível do CEPD. Em ambos os casos, as pessoas que seriam
-     afetadas desfavoravelmente são convidadas a exercer o direito de serem ouvidas sobre os
-     documentos ou informações pertinentes num prazo específico, tendo em conta a complexidade do
-     assunto (bem como as eventuais necessidades de tradução).
-
-
-    6 ACESSO AO PROCESSO
-108. O direito a uma boa administração inclui o direito de qualquer pessoa a ter acesso ao processo, no
-     respeito pelos legítimos interesses da confidencialidade e do segredo profissional e comercial 115.
-
-
-    112
-        Para efeitos do procedimento previsto no artigo 65.º, n.º 1, alínea a), do RGPD, cujo âmbito de aplicação é
-    limitado à resolução de litígios relativos às objeções levantadas, o direito de ser ouvido não tem de ser alargado
-    a elementos para além do assunto do litígio.
-    113
-        Ver artigo 11.º, n.º 2, alínea f), do Regulamento Interno, que especifica que a ACP, ao apresentar o assunto
-    ao secretariado, deve incluir, nomeadamente, «em conformidade com o artigo 41.º da Carta dos Direitos
-    Fundamentais da União Europeia, as observações escritas recolhidas pela autoridade de controlo principal junto
-    das pessoas que possam ser negativamente afetadas pela decisão do Comité, juntamente com uma confirmação
-    e elementos de prova quanto aos documentos apresentados ao Comité que lhes foram fornecidos quando foram
-    convidadas a exercer o direito de serem ouvidas ou uma identificação clara dos elementos em relação aos quais
-    não é esse o caso».
-    114
-        Ver igualmente secção 3.2 supra.
-    115
-        Artigo 41.º, n.º 2, alínea b), da Carta. A AC que atua em nome do CEPD não pode fazer uma referência geral
-    à confidencialidade para justificar uma recusa total de divulgação de documentos do seu processo a pessoas
-    afetadas desfavoravelmente, nem pode facultar páginas em branco com o fundamento de que continham
-    segredos comerciais sem apresentar uma versão não confidencial mais compreensível ou um sumário dos
-    documentos.
-
-
-                                                                                                                   28
-    Adotadas
-
-109. O acesso aos documentos e informações com base nos quais é adotada uma decisão administrativa
-     possui uma estreita ligação com o direito de ser ouvido 116. De acordo com este princípio, «os
-     destinatários de decisões que afetam de modo sensível os seus interesses devem ter possibilidade de
-     dar a conhecer utilmente o seu ponto de vista sobre os elementos com base nos quais a Administração
-     tenciona tomar a sua decisão» 117.
-
-110. O direito de acesso ao processo do CEPD como parte do direito a uma boa administração é distinto do
-     direito geral de acesso aos documentos na posse das instituições, órgãos e organismos europeus nos
-     termos do Regulamento (CE) n.º 1049/2001 118, do artigo 15.º, n.º 3, do TFUE ou do artigo 42.º da
-     Carta 119. O direito de acesso ao processo e o direito de acesso aos documentos estão sujeitos a
-     critérios e exceções diferentes e têm finalidades distintas.
-
-111. O direito de acesso ao processo estende-se aos documentos partilhados com o CEPD para resolver o
-     litígio em conformidade com o procedimento previsto no artigo 65.º, n.º 1, alínea a), exceto se
-     envolverem segredos comerciais de outras empresas ou informações confidenciais, conforme
-     avaliação casuística do CEPD.
-
-112. O direito de acesso ao processo não abrange as informações confidenciais e os documentos internos
-     do CEPD ou das AC (por exemplo, correspondência de correio eletrónico ou documentos
-     preparatórios). Em especial, o direito de acesso não abrange os intercâmbios entre o CEPD e os seus
-     membros após o início do procedimento 120.
-
-
-
-
-    116
-        Conclusões do advogado-geral M. Bobek, apresentadas em 7 de setembro de 2017, Teodor Ispas, C-298/16,
-    ECLI:EU:C:2017:650, n.º 117 e seguintes.
-    117
-        Conclusões do advogado-geral M. Bobek, apresentadas em 7 de setembro de 2017, Teodor Ispas, C-298/16,
-    ECLI:EU:C:2017:650, n.º 117 e seguintes. Ver igualmente, no mesmo sentido, as conclusões do advogado-geral
-    M. Bobek, apresentadas em 16 de outubro de 2019, Glencore Agriculture Hungary Kft., C-189/18,
-    ECLI:EU:C:2019:861, n.º 51.
-    118
-        Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de maio de 2001, relativo ao
-    acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão (JO L 145 de 31.5.2001,
-    p. 43). O artigo 2.º, n.º 1, do Regulamento (CE) n.º 1049/2001 estabelece que todos os cidadãos da UE e todas
-    as pessoas singulares ou coletivas que residam ou tenham a sua sede social num Estado-Membro têm direito de
-    acesso aos documentos das instituições da UE, sob reserva dos princípios, condições e limites estabelecidos
-    nesse regulamento.
-    119
-        Artigo 32.º do Regulamento Interno.
-    120
-        Ver igualmente artigo 33.º do Regulamento Interno.
-
-                                                                                                              29
-    Adotadas
-
-    7 DEVER DE FUNDAMENTAÇÃO
-113. O direito a uma boa administração previsto no artigo 41.º da Carta inclui igualmente a obrigação, por
-     parte da administração, de fundamentar as suas decisões 121.
-
-114. O dever de fundamentação implica informar o destinatário da decisão sobre os fundamentos de facto
-     e de direito em que se baseia, permitindo assim ao interessado decidir se deve ou não pedir a
-     fiscalização jurisdicional e facilitar o exercício dessa fiscalização pelos tribunais 122.
-
-115. O CEPD deve articular a fundamentação subjacente à sua decisão de forma clara e inequívoca, de
-     modo a permitir às pessoas afetadas conhecerem as razões da sua decisão. Embora o CEPD não tenha
-     de indicar todos os motivos de direito e de facto que conduziram à sua decisão, deve explicar os que
-     revestiram uma importância essencial 123. Na mesma ordem de ideias, o CEPD também não é obrigado
-     a adotar uma posição explícita sobre todos os argumentos invocados. Basta que a decisão exponha,
-     de forma clara e inequívoca, as principais questões de direito e de facto em que se baseia e que são
-     necessárias para possibilitar a compreensão da fundamentação que levou o CEPD à sua decisão. O que
-     importa, em última análise, é que a fundamentação do CEPD permita a todas as pessoas afetadas pela
-     decisão verificarem se as disposições pertinentes foram corretamente aplicadas.
-
-116. Na sua exposição de motivos, o CEPD deve expor todos os fundamentos e razões pertinentes para a
-     adoção da sua decisão, incluindo os que emanam do nível nacional. Tal significa que, na medida em
-     que os factos estabelecidos no projeto de decisão ou nos documentos conexos sejam decisivos para
-     a decisão do CEPD, este deve incluí-los na sua exposição de motivos 124.
-
-117. Em relação às objeções em que o CEPD se limita a concordar com os motivos constantes do projeto
-     de decisão da ACP ou com a decisão da ACP de não dar seguimento à objeção pertinente e
-     fundamentada (ou de não a considerar pertinente ou fundamentada), o CEPD pode cumprir o seu
-     dever de fundamentação remetendo simplesmente para a posição da ACP, desde que as pessoas
-     afetadas tenham sido informadas dessas posições da ACP e tenham tido a oportunidade de serem
-     ouvidas em relação a essas posições 125.
-
-118. À luz das considerações referidas supra, a decisão vinculativa adotada pelo CEPD com base no
-     artigo 65.º, n.º 1, alínea a), do RGPD deve, em princípio, incluir um sumário do litígio, bem como uma
-
-
-
-
-    121
-        Artigo 41.º, n.º 2, alínea c), da Carta.
-    122
-        Ver, por exemplo, acórdão do Tribunal de Primeira Instância de 21 de março de 2011, Métropole Télévision
-    SA, T-206/99, ECLI:EU:T:2001:101, n.º 44. Ver igualmente Craig, P., «Article 41 – The Right to Good
-    Administration», in «The EU Charter of Fundamental Rights: A Commentary», editado por Steve Peers, et al.,
-    Bloomsbury Publishing, 2014, p. 1085.
-    123
-         Ver, por exemplo, acórdão do Tribunal Geral de 16 de junho de 2011, L’Air liquide, T-185/06,
-    ECLI:EU:T:2011:275, n.º 64; acórdão do Tribunal Geral de 28 de março de 2012, Ryanair Ltd, T-123/09,
-    ECLI:EU:T:2012:164, n.os 178 e 179; e acórdão do Tribunal Geral de 15 de setembro de 2016, FIH Holding A/S,
-    T-386/14, ECLI:EU:T:2016:474, n.º 94.
-    124
-        Com base em Brito Bastos, F., «Beyond Executive Federalism – The Judicial Crafting of the Law of Composite
-    Administrative Decision-Making – Thesis submitted for assessment with a view to obtaining the degree of Doctor
-    of Laws of the European University Institute», Florença, 13 de junho de 2018, p. 176 e seguintes.
-    125
-        Ibidem.
-
-
-                                                                                                               30
-    Adotadas
-
-    avaliação do cumprimento das condições para a adoção de uma decisão vinculativa. Para cada objeção
-    levantada, o CEPD, em princípio 126:
-
-          •   resumirá os principais elementos do projeto de decisão relacionados com o assunto da objeção,
-          •   resumirá os principais elementos da objeção levantada,
-          •   resumirá a posição da ACP ou da ACI em relação à objeção levantada, bem como
-          •   resumirá a posição das pessoas que podem ser afetadas desfavoravelmente em relação à
-              objeção.
-
-    Após o apuramento dos elementos pertinentes, o CEPD avaliará, em relação a cada objeção levantada,
-    se o CEPD cumpre os requisitos do artigo 4.º, ponto 24, do RGPD e, caso cumpra, abordará as questões
-    de fundo da objeção na decisão vinculativa 127.
-
-119. Os elementos do dispositivo da decisão devem ser claramente identificados como tal e incluídos no
-     final da decisão, explicitando em que medida a autoridade competente é obrigada ou não a alterar o
-     seu projeto de decisão antes da respetiva finalização.
-
-
-    8 RECURSOS JUDICIAIS
-120. O artigo 47.º da Carta garante o direito à ação e a um tribunal imparcial, o que está relacionado com
-     a necessidade de assegurar a compatibilidade dos atos das instituições da UE com a ordem jurídica da
-     mesma, que é uma missão geralmente confiada ao Tribunal de Justiça e aos órgãos jurisdicionais da
-     União Europeia.
-
-121. Um bom comportamento administrativo implica informar as pessoas afetadas pela medida sobre o
-     mecanismo de recurso disponível 128. A decisão do CEPD referirá as possibilidades de apresentar
-     recurso sobre a mesma (ou seja, para pedir a anulação), ao passo que a autoridade de controlo
-     competente fará referência aos mecanismos de recurso disponíveis a nível nacional. A autoridade de
-
-    126
-        O projeto de decisão vinculativa do CEPD deve, em princípio, sintetizar os principais elementos dos factos
-    anteriores ao litígio, juntamente com um sumário dos principais argumentos apresentados, a menos que a
-    redação específica utilizada seja essencial para um debate/compreensão adequado da questão em causa.
-    127
-        Importa notar que o CEPD não toma qualquer posição sobre a questão de fundo de quaisquer questões
-    substanciais levantadas por objeções que se considere não cumprirem os requisitos estabelecidos no artigo 4.º,
-    ponto 24, do RGPD. Se for o caso, a decisão do CEPD não prejudica quaisquer avaliações que o CEPD possa ser
-    chamado a efetuar noutros casos, incluindo com as mesmas partes, tendo em conta o conteúdo do projeto de
-    decisão pertinente e as objeções levantadas pelas ACI.
-    128
-        Ver também o «Código de Boa Conduta Administrativa» da Comissão, ponto 3, terceiro subtítulo: «Sempre
-    que o direito comunitário o previr, as decisões notificadas a um interessado direto devem indicar claramente a
-    possibilidade de recurso prevista e descrever a forma como deve ser apresentado (nome e endereço
-    administrativo da pessoa ou da entidade à qual deve ser apresentado o recurso, bem como o respetivo prazo).
-    Se for o caso, as decisões devem mencionar a possibilidade de interpor um recurso judicial e/ou apresentar uma
-    queixa junto do Provedor de Justiça Europeu em conformidade com o artigo 230.º ou o artigo 195.º do Tratado
-    que institui a Comunidade Europeia». Ver igualmente o «Código Europeu de Boa Conduta Administrativa» do
-    Provedor de Justiça Europeu, artigo 19.º – Indicação das possibilidades de recurso: «Uma decisão da instituição
-    que prejudique os direitos ou interesses de uma pessoa singular deve indicar as possibilidades de recurso que
-    podem ser utilizadas para impugnar a decisão. Deve, nomeadamente, indicar a natureza dos meios de recurso,
-    os organismos junto dos quais se pode recorrer e os prazos para a execução do recurso. As decisões devem,
-    nomeadamente, fazer referência à possibilidade de recorrer judicialmente e apresentar queixas ao Provedor de
-    Justiça Europeu nos termos do disposto, respetivamente, nos artigos 263.º e 228.º do Tratado sobre o
-    Funcionamento da União Europeia».
-
-
-                                                                                                                31
-    Adotadas
-
-    controlo competente pode também, na sua decisão final, optar por fazer referência às possibilidades
-    de pedir a anulação da decisão do CEPD com base na qual a decisão final foi adotada, conforme
-    clarificado no considerando 143 do RGPD (além de facultar informações sobre possíveis mecanismos
-    de recurso a nível nacional em relação à sua decisão final).
-
-122. Embora o considerando 143 se refira à possibilidade de as pessoas direta e individualmente afetadas
-     por uma decisão do CEPD interporem um recurso de anulação no TJUE, a posição sobre a legitimidade
-     para agir será, em última análise, apreciada pelo TJUE à luz das condições previstas no artigo 263.º do
-     TFUE 129.
-
-123. Um recurso de anulação no Tribunal de Justiça não suspende os efeitos da decisão do CEPD 130. Por
-     conseguinte, não obstante o recurso, as AC competentes continuarão a ter de cumprir a decisão do
-     CEPD adotada com base no artigo 65.º, n.º 1, alínea a), do RGPD. Tal não prejudica o direito ao recurso
-     judicial efetivo do responsável pelo tratamento ou do subcontratante a nível nacional, em
-     conformidade com o artigo 78.º do RGPD.
-
-    8.1 Autoridades de controlo
-124. O artigo 65.º, n.º 2, do RGPD deixa claro que as decisões adotadas pelo CEPD com base no artigo 65.º,
-     n.º 1, alínea a), do RGPD são vinculativas para a autoridade de controlo principal e para todas as
-     autoridades de controlo interessadas. As AC nacionais devem adotar a sua decisão final com base na
-     decisão do CEPD. O artigo 65.º, n.º 2, deixa igualmente claro que a decisão é um ato «dirigido» à ACP
-     e às ACI, não se dirigindo diretamente a terceiros 131.
-
-125. De acordo com o considerando 143 do RGPD, enquanto destinatárias das decisões do Comité, as
-     autoridades de controlo interessadas que as pretendam contestar têm de interpor recurso no prazo
-     de dois meses a contar da sua notificação, em conformidade com o artigo 263.º do TFUE. Tal significa,
-     nomeadamente, que as autoridades de controlo que atuem perante o Tribunal de Justiça contra uma
-     decisão vinculativa do CEPD teriam de o fazer com base num dos fundamentos de anulação
-     enumerados no artigo 263.º do TFUE.
-
-126. Embora apenas a ACP e algumas ACI (nos termos do artigo 60.º, n.os 8 e 9, do RGPD) devam adotar a
-     sua decisão nacional com base na decisão vinculativa do CEPD, a decisão é dirigida a todas as ACI
-     envolvidas no processo transfronteiriço. O artigo 65.º, n.º 2, do RGPD refere que todas as ACI são
-     destinatárias da decisão e que a decisão nacional final é o produto de um processo de codecisão
-     fortemente afetado pela decisão do CEPD. Consequentemente, a decisão é «dirigida» a todas as
-     autoridades de controlo envolvidas num determinado caso transfronteiriço (ver artigo 4.º, ponto 22,
-     do RGPD) e, por conseguinte, estas têm o direito de interpor um recurso de anulação da decisão do
-     CEPD.
-
-127. Embora as autoridades de controlo interessadas, enquanto membros do CEPD, tomem conhecimento
-     do conteúdo da decisão vinculativa do CEPD aquando da sua adoção nos termos do artigo 65.º, n.º 2,
-     do RGPD, o prazo para intentar uma ação começará quando a decisão lhes for notificada pelo
-
-
-    129
-        Ver despacho do Tribunal Geral de 7 de dezembro de 2022, WhatsApp Ireland Ltd, T-709/21,
-    ECLI:EU:T:2022:783, em especial os n.º 33 e seguintes.
-    130
-        Artigo 278.º do TFUE (ex-artigo 242.º TCE): «Os recursos interpostos para o Tribunal de Justiça da União
-    Europeia não têm efeito suspensivo. Todavia, o Tribunal pode ordenar a suspensão da execução do ato
-    impugnado, se considerar que as circunstâncias o exigem.»
-    131
-        Ver igualmente ponto 98 supra.
-
-
-                                                                                                             32
-    Adotadas
-
-secretariado do CEPD, agindo em nome do presidente 132 e utilizando o sistema interno de informação
-e comunicação 133.
-
-
-
-
-132
-    Ver, por exemplo, acórdão do Tribunal Geral de 22 de março de 2011, Access Info Europe/Conselho, T-233/09,
-ECLI:EU:T:2011:105, n.º 28 («Na presença de uma notificação ao destinatário para o cálculo do prazo de
-interposição do recurso […] é esta data que deve ser tida em consideração e não a data da tomada de
-conhecimento, que apenas é tida em conta a título subsidiário quando não haja notificação»).
-133
-    Ver artigo 17.º do Regulamento Interno do CEPD.
-
-                                                                                                           33
-Adotadas
-
-    8.2 Responsável pelo tratamento, subcontratante, autor da reclamação ou outra
-        entidade
-128. As entidades que não sejam os destinatários podem intentar uma ação junto do Tribunal de Justiça
-     com vista à anulação da decisão vinculativa do CEPD, caso a decisão lhes diga direta e individualmente
-     respeito, nas condições estabelecidas no artigo 263.º do TFUE 134.
-
-129. O considerando 143 refere explicitamente que uma decisão vinculativa do CEPD pode dizer direta e
-     individualmente respeito aos responsáveis pelo tratamento, subcontratantes ou autores de
-     reclamações. No entanto, estes requisitos são interpretados restritivamente pelo Tribunal de Justiça,
-     pelo que é necessária uma análise caso a caso 135.
-
-130. Sem prejuízo do direito que lhes assiste ao abrigo do artigo 263.º do TFUE, todas as pessoas, singulares
-     ou coletivas, têm direito a interpor junto dos tribunais nacionais competentes recurso efetivo das
-     decisões finais das autoridades de controlo que produzam efeitos jurídicos em relação a essas
-     pessoas 136. Este direito deve ser exercido em conformidade com a legislação nacional aplicável. O
-     artigo 78.º, n.º 4, do RGPD especifica que, quando for interposto recurso de uma decisão de uma
-     autoridade de controlo que tenha sido precedida de um parecer ou uma decisão do Comité no âmbito
-     do procedimento de controlo da coerência, a autoridade de controlo transmite esse parecer ou
-     decisão ao tribunal.
-
-131. Se a decisão de uma autoridade de controlo que dá execução a uma decisão do CEPD nos termos do
-     artigo 65.º do RGPD for contestada junto de um tribunal nacional e estiver em causa a validade desta
-     última decisão, o tribunal nacional não tem competência para a declarar inválida ao abrigo do
-     artigo 65.º do RGPD. Quando considerar a decisão inválida, deve reenviar a questão da validade para
-     o Tribunal de Justiça nos termos do artigo 267.º do TFUE 137.
-
-132. No entanto, o tribunal nacional não pode reenviar a questão da validade da decisão do CEPD caso a
-     pessoa singular ou coletiva requerente se encontrasse em condições legais para interpor um recurso
-     de anulação dessa decisão junto do TJUE (em especial se era direta e individualmente afetada), mas
-     não o tivesse feito no prazo de dois meses fixado no artigo 263.º do TFUE. Por conseguinte, quando
-     as pessoas direta e individualmente afetadas decidem não interpor recurso de anulação da decisão
-     vinculativa do CEPD, tal impedi-las-á de contestar a validade da decisão vinculativa do CEPD perante
-     os tribunais nacionais.
-
-
-
-
-    134
-        Considerando 143 do RGPD.
-    135
-        Ver igualmente as conclusões do advogado-geral M. Bobek, apresentadas em 13 de janeiro de 2021,
-    Facebook Ireland Limited, C-645/19, ECLI:EU:C:2021:5, nota de rodapé 52, e despacho do Tribunal Geral de 7 de
-    dezembro de 2022, WhatsApp Ireland Ltd, T-709/21, ECLI:EU:T:2022:783, em especial o n.º 33 e seguintes.
-    136
-        Considerando 143 do RGPD. Tal inclui o exercício de poderes de investigação, correção e autorização, ou a
-    recusa ou rejeição de reclamações, mas não inclui medidas juridicamente não vinculativas.
-    137
-        Considerando 143 do RGPD.
-
-                                                                                                              34
-    Adotadas
+     Adopted
+
+    decision is not adequately supported by the assessment carried out and the evidence presented 91. In
+    such a case the EDPB shall also be competent to issue a binding decision, provided the objection raised
+    meets the whole threshold of Article 4(24) GDPR, including a link between the allegedly insufficient
+    analysis and the existence of an infringement or the envisaged action92.
+83. In a situation where the draft decision of the LSA contains insufficient factual elements or reasoning,
+    there are essentially two possible scenarios.
+84. In the first scenario, the file on the basis of which the EDPB shall make its decision already contains
+    sufficient information that would allow to address the lack of sufficient factual elements or reasoning
+    in the draft decision. In such cases, the EDPB shall, within the scope of the relevant and reasoned
+    objection, determine to what extent the LSA should amend its draft decision in order to remedy the
+    insufficiency of reasoning, by making reference to the relevant elements included in the file.
+
+    Example 5:
+    The draft decision of the LSA establishes an infringement of the GDPR based on findings of fact
+    supported by documentary evidence which were provided in the file to the EDPB. A number of CSAs
+    submit relevant and reasoned objections outlining that the link between the documentary evidence
+    and the finding of infringement is not sufficiently reasoned in the draft decision. The EDPB decision
+    finds that the objection(s) are relevant and reasoned and indicates the correct legal interpretation and
+    reasoning that the LSA should incorporate in its final decision.
+
+85. In the second scenario, the file on the basis of which the EDPB shall make its decision does not contain
+    sufficient factual elements to address the insufficiency of factual elements or reasoning.
+
+    Example 6:
+    The draft decision of the LSA finds that there is no infringement of Article 6(1)(a) GDPR and that the
+    processing in question is lawful on the basis of the data subject’s consent. However, neither the draft
+    decision nor any other document in the file provides any further materials or analysis as to whether
+    the conditions of Article 7 GDPR have been met. The draft decision simply states that the processing
+    has been lawfully based on consent, without providing further reasoning or evidence. A CSA raises an
+    objection against this lack of reasoning, arguing that the absence of this analysis gives rise to
+    uncertainty surrounding the finding of no infringement in this case.
+
+    If the EDPB determines that the file on the basis of which the EDPB shall make its decision does not
+    contain sufficient factual elements that would allow to remedy the insufficiency of reasoning, the
+    EDPB can issue a binding decision specifying the need for LSA to investigate or address the matter
+    further with a view of obtaining sufficient factual information, in line with what is specified in
+    paragraphs 79-81 above.
+    4.2.5 Procedural aspects
+86. A fifth example of a possible relevant and reasoned objection involves a disagreement between the
+    LSA and CSA as to whether the procedural requirements imposed by the GDPR have been properly
+    respected and this affects the conclusion reached in the draft decision 93.
+
+
+
+
+    91 Ibid.
+    92 RRO GLS, paragraph 29.
+    93 RRO GLS, paragraph 30.
+
+
+                                                                                                         22
+    Adopted
+
+87. The EDPB recalls that the aim of the dispute resolution mechanism of Article 65(1)(a) GDPR is to
+    resolve conflicting views on the merits of the case 94. It is not intended to resolve possible disputes
+    regarding procedural requirements or duties of cooperation95.
+88. An objection involving a disagreement concerning procedural requirements will only be considered
+    relevant and reasoned if the objection also puts forward arguments clarifying the different conclusion
+    that the LSA should have reached in its draft decision. In its decision, the EDPB will resolve the dispute
+    surrounding the conclusions reached in the draft decision.
+89. If the procedural deficiencies leave the EDPB unable to resolve the dispute surrounding the
+    conclusions reached by the draft decision (e.g. due to a lack of sufficient factual elements), the EDPB
+    will recall the importance of the duty of cooperation and issue a binding decision specifying the need
+    for LSA to investigate or address the matter further, in line with what is specified in paragraphs 79-81
+    above and ensuring full compliance with the procedural requirements in the GDPR which were not
+    met.
+    4.2.6 Action envisaged
+90. A sixth example of a possible relevant and reasoned objection involves disagreement between the LSA
+    and CSA as to whether the envisaged action in relation to the controller or processor complies with
+    the GDPR96.
+91. The EDPB recalls that Recital (150) GDPR states that the consistency mechanism may also be used to
+    promote a consistent application of administrative fines. As a result, if the assessment of the EDPB
+    within this context identifies shortcomings in the reasoning leading to the imposition of the fine at
+    stake, the LSA will be instructed to re-assess the fine and remedy the identified shortcomings 97.
+92. Fines are by no means the only action a supervisory authority can envisage. A relevant and reasoned
+    objection may therefore also relate to other envisaged actions, taking into account the range of
+    powers listed in Article 58(2) GDPR. Each envisaged measure should be appropriate, necessary and
+    proportionate in view of ensuring compliance with this Regulation, taking into account the
+    circumstances of each individual case98. In this context, it should be recalled that the decision to reject
+    or dismiss a complaint, in whole or in part, also constitutes an envisaged action capable of being
+    subject of a relevant and reasoned objection.
+    If the EDPB, on the basis of a relevant and reasoned objection, determines that the envisaged action
+    included in the draft decision does not comply with the GDPR, it shall instruct the LSA to re-assess
+    the envisaged action and change the draft decision in accordance with the binding decision of the
+    EDPB.
+
+
+    5 THE RIGHT TO BE HEARD
+    5.1 Applicability
+93. The right to be heard before an administration takes a measure that would adversely affect a person
+    is enshrined in Article 41 CFEU and has long been recognised as a general principle of EU law99. The
+
+    94 See above at paragraph 61.
+    95 In this regard, the EDPB recalls Articles 61, 64(2), 65(1)(c) and 66 of the GDPR.
+    96 See also RRO GLS, paragraphs 32 et seq.
+    97 RRO GLS, paragraph 34.
+    98 Recital (129) GDPR.
+    99 See e.g. Judgment in France v. Commission, C-301/87, 14 February 1980, paragraph 29.
+
+
+                                                                                                            23
+    Adopted
+
+    right to be heard is also included in Article 16 of the European Code of Good Administrative Behaviour
+    and reflected in Article 11 RoP.
+
+94. Article 41 CFEU is addressed not to the Member States but solely to the institutions, bodies, offices
+    and agencies of the European Union100. Nevertheless, the right to be heard has also been recognised
+    as “inherent in respect for the rights of the defence, which is a general principle of EU law”101 and
+    therefore also applies when Member States adopt decisions which come within the scope of EU law102.
+
+95. The right to be heard applies to administrative proceedings of which the outcome is likely to affect
+    the (legal or natural) person’s interests. It also applies in situations where the administration of EU
+    law is divided or shared between EU and the Member States (so-called “composite procedures”103).
+    Article 41(2)(a) CFEU is framed in terms of individual measures that would adversely affect the person,
+    with no specific requirement that the contested measure should be initiated against that person 104.
+
+96. Article 65(2) GDPR provides that the EDPB’s decision “shall be [...] addressed to the lead supervisory
+    authority and all the supervisory authorities concerned and binding on them”. Article 65(2) GDPR
+    reflects the fact that the binding decision of the EDPB aims to resolve a dispute that has emerged
+    among two or more national supervisory authorities. In accordance with the procedure under Article
+    60 GDPR, LSA will have shared its legal analysis in the draft decision and in relation the objections
+    raised during the cooperation procedure. The CSA(s) likewise will have shared its (their) objection(s)
+    in relation to the draft decision, including any materials to substantiate their objection. In addition,
+    both the LSA and CSAs can share their views in the course of the preparation and adoption of the EDPB
+    decision105.
+
+97. Article 65(2) GDPR also confirms that the EDPB decision does not address directly any party other than
+    the LSA and CSAs. Nevertheless, the decision adopted by the EDPB at European level shall be binding
+    on the LSA or, as the case may be, the CSA with which the complaint has been lodged and is therefore
+    decisive for the outcome of the procedure at national level. It therefore also may affect the interests
+    of persons who were part of the procedure that gave rise to the draft decision.
+
+98. As a result, any of these persons which would be adversely affected by the decision, in particular the
+    controller(s) and/or processor(s) who are addressed by the draft decision of the LSA, as well as any
+    other person which would be adversely affected by the decision, must be afforded the right to be
+
+
+
+
+    100 See e.g. Judgment in Cicala, C-482/10, 21 December 2011, ECLI:EU:C:2011:868, paragraph 28.
+    101 See e.g. Judgment in Mukarubega, C-166/13, 5 November 2014, ECLI:EU:C:2014:2336, paragraph 45.
+    102 Ibid., paragraph 46. See also Judgments in Glencore Agriculture Hungary Kft., C-189/18, 16 October 2019,
+
+    ECLI:EU:C:2019:861, paragraph 39 (“[....] The authorities of the Member States are subject to that obligation
+    when they take decisions which come within the scope of EU law, even though the EU law applicable does not
+    expressly provide for such a procedural requirement”) and in Teodor Ispas, Case C-298/16, 9 November 2017,
+    ECLI:EU:C:2017:843, paragraph 26. See also the Opinion of Advocate General Bobek in Teodor Ispas, Case
+    C-298/16, 7 September 2017, ECLI:EU:C:2017:650, paragraphs 35-69.
+    103 Regarding composite administrative procedures, see e.g. the Opinion of Advocate General Compos Sánchez-
+
+    Bordana in Silvio Berlusconi, Case C-219/17, 27 June 2018, ECLI:EU:C:2018:502, paragraphs 57-79. See also F.
+    Brito Bastos, “Beyond Executive Federalism. The Judicial Crafting of the Law of Composite Administrative
+    Decision-Making”, Thesis submitted for assessment with a view to obtaining the degree of Doctor of Laws of the
+    European University Institute, Florence, 13 June 2018, in particular at p. 120-163.
+    104 P. Craig, “Article 41 - Right to Good Administration”, in EU Charter of Fundamental Rights : A Commentary,
+
+    edited by Steve Peers, et al., Bloomsbury Publishing, 2014, p. 1079.
+    105 However, according to the RoP, in exceptional circumstances, the EDPB can decide to consider further
+
+    documents (Article 11(2) in fine RoP).
+
+                                                                                                               24
+    Adopted
+
+    heard in relation to the subject matter which is brought before the EDPB pursuant to Articles 60(4),
+    63 and 65(1)(a) GDPR.
+
+    5.2 Purpose
+99. The right to be heard is described by the Court as guaranteeing “every person the opportunity to make
+    known his views effectively during an administrative procedure and before the adoption of any decision
+    liable to affect his interests adversely”106. As clarified by the CJEU, the purpose of the rule, that the
+    addressee of an adverse decision must be placed in a position to submit his observations before that
+    decision is taken, is to put the competent authority in a position effectively to take all relevant
+    information into account. In order to ensure that the person concerned is in fact protected, the
+    purpose of that rule is, inter alia, to enable that person to correct an error or submit such information
+    relating to his or her personal circumstances as will argue in favour of the adoption or non-adoption
+    of the decision, or in favour of it having a specific content107.
+
+100. The right to respond is also part of the right to be heard since an “administrative procedure requires
+     that the person concerned should be able [...] to put his own case and properly make his views known
+     on the relevant circumstances and, where necessary, on the documents taken into account by the
+     Community institutions”108. Except in cases where legislation expressly provides for the possibility of
+     an oral hearing, such as in the competition proceedings, the right to be heard does not necessarily
+     require an oral hearing 109.
+
+    5.3 Timing
+    5.3.1 At national level and prior to referral to the EDPB
+101. Before the EDPB is given the task of issuing a binding decision, every supervisory authority is under
+     and obligation to respect the right to be heard in the context of its national procedure, as a general
+     principle of EU law110. Indeed, every supervisory authority needs to “respect the right of every person
+     to be heard before any individual measure which would affect him or her adversely is taken”111. The
+     right to be heard applies regardless of whether the case is cross-border in nature or not.
+
+102. Even in the absence of specific provisions under national law, the LSA should, in advance of triggering
+     Article 65(1)(a) GDPR, ensure that procedure conducted at national level takes into account the
+     requirements of the right to be heard as a general principle of EU law.
+
+    5.3.2 During the assessment of completeness of the file
+103. When the LSA submits the matter to the Secretariat with a view of obtaining a binding decision of the
+     EDPB under Article 65(1)(a) GDPR, the Secretariat should assess which persons would possibly be
+     adversely affected by the EDPB decision in the sense of Article 41 of the Charter. It should also assess
+     whether each of those persons was offered the opportunity to exercise its right to be heard.
+
+
+
+    106 See e.g. Judgments in M.M., C-277/11, 22 November 2012, EU:C:2012:744, paragraph 87; Mukarubega,
+
+    paragraph 46; Glencore Agriculture Hungary, paragraph 39 and the case law cited therein.
+    107 Judgment in Glencore, paragraph 41 and 52.
+    108 See e.g. the Judgment in Technische Universität Munchen, C-269/90, 21 November 1991, paragraph 25.
+    109 See Article 12 of Regulation 773/2004 (O.J 27 April 2004, L 123, p. 18). See also the Opinion of Advocate
+
+    General Wahl in SKW Stahl-Metallurgie GmbH and Holding AG v European Commission, C-154/14, 3 September
+    2015, ECLI:EU:C:2015:543, paragraphs 45-47.
+    110 See paragraph 94 above.
+    111 Recital (129) GDPR.
+
+
+                                                                                                              25
+    Adopted
+
+104. It is not sufficient that the LSA has heard the persons who might be adversely affected in the course
+     of the national procedure prior to the adoption of its draft decision within the meaning of Article 60(3)
+     GDPR. Before the EDPB will be in a position to resolve the dispute, the right to be heard must also be
+     afforded in relation to any objections raised in relation to the draft decision, in particular where the
+     LSA chooses not to follow the objection (or considers it as not being relevant and/or reasoned).
+
+105. When submitting the matter to the Secretariat, the LSA is expected to demonstrate how the right to
+     be heard has been afforded to persons benefitting from this right in the course of the national
+     procedure leading to the draft decision. As regards the documents shared when submitting the matter
+     to the Secretariat, the LSA should specifically mention whether or not these documents (or the
+     relevant contents thereof112) were subject to the right to be heard and with regard to which
+     persons113. Replies or summaries of the hearing(s) should be provided as well.
+
+106. The accommodation of the right to be heard is an essential element of the procedure, in the absence
+     of which the subject matter of the dispute cannot be settled by the EDPB. As a result, the gathering
+     and verification of the relevant information is carried out in the context of the check on the
+     completeness of the file, before the subject matter is referred to the EDPB. Only after all the relevant
+     verifications have been made by the Secretariat, the Chair shall be in the position to declare the file
+     complete114.
+
+107. If there are relevant documents or information that have not been subject to the right to be heard,
+     the Chair may instruct the Secretariat to ask the supervisory authorities (LSA / CSA) to take the
+     necessary actions to enable any party that could be affected to be heard. If necessary, the Chair may
+     instruct the Secretariat to take measures to directly ensure the right to be heard at the EDPB level. In
+     both instances, the persons who would be adversely affected shall be invited to exercise the right to
+     be heard on the relevant documents or information within a specific timeframe, taking into account
+     the complexity of the subject matter (as well as possible needs for translation).
+
+
+    6 ACCESS TO THE FILE
+108. The right to good administration includes the right of every person to have access to the file, while
+     respecting the legitimate interests of confidentiality and of professional and business secrecy 115.
+
+109. Access to the documents and information that form the basis of an administrative decision is closely
+     connected with the right to be heard 116. In accordance with that principle, ‘the addressees of decisions
+
+    112 For purposes of the procedure under Article 65(1)(a) GDPR, the scope of which is limited resolving disputes
+
+    concerning the objections raised, the right to be heard does not need to extend to elements beyond the subject
+    matter of the dispute.
+    113 See Article 11(2)(f) RoP, which specifies that the LSA when submitting the matter to the Secretariat should
+
+    include, inter alia, ““in accordance with Article 41 of the European Charter on Fundamental Rights, the written
+    observations the LSA collected from the persons that might be adversely affected by the Board ́s decision,
+    together with confirmation and evidence of which documents submitted to the Board were provided to them
+    when they were invited to exercise their right to be heard or a clear identification of the elements for which it is
+    not the case”.
+    114 See also section 3.2 above.
+    115 Article 41(2)b CFEU. The SA acting on behalf of the EDPB cannot make a general reference to confidentiality
+
+    to justify a total refusal to disclose documents in its file to persons adversely affected, nor can it give blank pages
+    on the ground that they contained business secrets without providing a more comprehensible non-confidential
+    version, or a summary of the documents.
+    116 Opinion of Advocate General Bobek in Teodor Ispas, Case C-298/16, 7 September 2017, ECLI:EU:C:2017:650,
+
+    paragraphs 117 and following.
+
+                                                                                                                       26
+    Adopted
+
+    which significantly affect their interests must be placed in a position in which they can effectively make
+    known their views as regards the information on which the authorities intend to base their decision’117.
+
+110. The right of access to the file of the EDPB as part of the right to good administration is distinct from
+     the general right of access to documents held by the European institutions, bodies, offices and
+     agencies pursuant to Regulation (EC) No 1049/2001 118, Article 15(3) TFEU or Article 42 of the
+     Charter119. The right of access to the file and the right of access to documents are subject to different
+     criteria and exceptions and pursue different purposes.
+
+111. The right of access to the file extends to the documents shared with the EDPB to resolve the dispute
+     in accordance with Article 65(1)(a) procedure, save where they involve business secrets of other
+     undertakings, confidential information, as assessed by the EDPB on a case by case basis.
+
+112. The right of access to the file shall not extend to confidential information and internal documents of
+     the EDPB or the SAs (e.g. email correspondence or preparatory documents). In particular, the right of
+     access shall not extend to exchanges between the EDPB and its members once the procedure has
+     been launched120.
+
+
+
+
+    117 Opinion of Advocate General Bobek in Teodor Ispas, Case C-298/16, 7 September 2017, ECLI:EU:C:2017:650,
+
+    paragraphs 117 and following. See in the same vein also Opinion of Advocate General Bobek in Glencore
+    Agriculture Hungary Kft., C-189/18, 16 October 2019, ECLI:EU:C:2019:861, paragraph 51
+    118 Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public
+
+    access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43). Article 2(1) of
+    Regulation (EC) No 1049/2001 sets out that any citizen of the EU, and any natural or legal person residing or
+    having its registered office in a Member State, has a right of access to documents of the EU institutions, subject
+    to the principles, conditions and limits defined in that Regulation.
+    119 Article 32 RoP.
+    120 See also Article 33 RoP.
+
+
+                                                                                                                   27
+    Adopted
+
+     7 THE DUTY TO GIVE REASONS
+113. The right to good administration contained in Article 41 CFEU also includes the obligation of the
+     administration to give reasons for its decisions121.
+
+114. The duty to give reasons entails informing the addressee of the decision of the factual and legal
+     grounds on which it is based, thereby enabling the person to decide whether to seek judicial review
+     and facilitate the exercise of that review by the courts122.
+
+115. The EDPB must articulate, in a clear and unequivocal fashion the reasoning underlying in its decision
+     in such a way as to enable the persons affected to ascertain the reasons for its decision. While the
+     EDPB does not need to state all legal and factual reasons leading to its decision, it must explain those
+     which were of decisive importance123. In the same vein, the EDPB is also not obliged to adopt an
+     explicit position on all the arguments raised. It is sufficient for the decision to set out, in a clear and
+     unambiguous manner, the principal issues of law and of fact upon which it is based and which are
+     necessary in order that the reasoning which has led the EDPB to its decision may be understood. What
+     ultimately matters is that the statement of reasons by the EDPB enables all persons affected by the
+     decision to ascertain whether the relevant provisions have been applied correctly.
+
+116. The EDPB must in its statement of reasons set out all the relevant grounds and motives for the
+     adoption of its decision – including those that originate from the national level. This means that insofar
+     as the facts set out in the draft decision or related documents are decisive for the decision of the EDPB,
+     then the EDPB should include them in its statement of reasons 124.
+
+117. In relation to objections where the EDPB simply agrees with the reasons contained in the draft decision
+     by the LSA or the decision of the LSA not to follow the relevant and reasoned objection (or to consider
+     them not relevant or reasoned), the EDPB may fulfil its duty to state reasons by simply referring back
+     to the position of the LSA, provided the affected persons were informed of those positions of the LSA
+     and given the opportunity to be heard in relating to those positions125.
+
+118. In light of the aforementioned considerations, the binding decision adopted by the EDPB on the basis
+     of Article 65(1)(a) GDPR should in principle include a summary of dispute as well as an assessment of
+     whether the conditions for adopting a binding decision are met. For each objection raised, the EDPB
+     will then in principle126:
+
+        •   summarise main elements of the draft decision which are related to the subject matter of the
+            objection;
+
+
+     121 Article 41(2)c CFEU.
+     122 See e.g., Judgment in Métropole Télévision SA, T-206/99, 21 March 2011, paragraph 44. See also P. Craig,
+
+     “Article 41 - Right to Good Administration”, in EU Charter of Fundamental Rights: A Commentary, edited by Steve
+     Peers, et al., Bloomsbury Publishing, 2014, p. 1085.
+     123 See e.g. Judgments of the General Court in L’Air liquide, Cases T-185/06, 16 June 2011, EU:T:2011:275,
+
+     paragraph 64; in Ryanair Ltd, T-123/09, 28 March 2012, EU:T:2012:164, paragraph 178-179; and in FIH Holding
+     A/S, T-386/14, 15 September 2016, EU:T:2016:474, paragraph 94.
+     124 Based on F. Brito Bastos, “Beyond Executive Federalism. The Judicial Crafting of the Law of Composite
+
+     Administrative Decision-Making”, Thesis submitted for assessment with a view to obtaining the degree of Doctor
+     of Laws of the European University Institute, Florence, 13 June 2018, p. 176 and following.
+     125 Ibid.
+     126 The draft binding decision of the EDPB should in principle synthesize the main elements of facts preceding
+
+     the dispute, together with a summary of the main arguments put forth, unless the specific wording used is
+     essential for a proper discussion/understanding of the issue at stake.
+
+                                                                                                                 28
+     Adopted
+
+       •   summarise the main elements of the objection raised;
+       •   summarise the position of the LSA or CSA in relation to the objection raised; and
+       •   summarise the position of the persons who may be adversely affected in relation to the
+           objection.
+
+    Once the relevant elements have been set out, the EDPB will assess, in relation to each objection
+    raised, whether the EDPB meets requirements of Article (24) GDPR and, if so, address the merits of
+    the objection in the binding decision127.
+
+119. The operative parts of the decision should be clearly identified as such and included at the end of the
+     decision, rendering explicit to what extent the competent authority is required/not required to amend
+     its draft decision before finalisation.
+
+
+    8 JUDICIAL REMEDIES
+120. Article 47 of the Charter guarantees the right to an effective remedy and to a fair trial. This is linked
+     to the need to ensure the compatibility of the acts of the EU institutions with the European Union
+     legal order, which is a task generally entrusted to the Court of Justice and to the courts of the European
+     Union.
+
+121. Good administrative behaviour entails informing persons affected by the measure of the available
+     appeal mechanism128. The EDPB decision will refer to the possibilities open to appeal it (i.e. to seek
+     annulment), whereas the competent supervisory authority will refer to the appeal mechanisms
+     available at national level. The competent supervisory authority may in its final decision also choose
+     make reference to the possibilities to seek annulment of the decision of the EDPB on the basis of which
+     the final decision was adopted, as clarified by Recital (143) GDPR (in addition to providing information
+     regarding possible appeal mechanisms at national level in relation to its final decision).
+
+122. While Recital (143) refers to the possibility of persons directly and individually concerned by a decision
+     of the EDPB bringing an action for annulment before the CJEU, the position on standing will ultimately
+     be assessed by the CJEU in light of the conditions provided for in Article 263 TFEU 129.
+
+
+    127 It should be noted that the EDPB does not take any position on the merit of any substantial issues raised by
+
+    objections deemed not to meet the requirements stipulated by Article 4(24) GDPR. Where that is the case, the
+    decision of the EDPB is without any prejudice to any assessments the EDPB may be called upon to make in other
+    cases, including with the same parties, taking into account the contents of the relevant draft decision and the
+    objections raised by the CSAs.
+    128 See also Commission ‘Code of Good administrative behaviour’, Point 3, third indent: ‘Where Community law
+
+    so provides, measures notified to an interested party should clearly state that an appeal is possible and describe
+    how to submit it, (the name and office address of the person or department with whom the appeal must be
+    lodged and the deadline for lodging it).Where appropriate, decisions should refer to the possibility of starting
+    judicial proceedings and/ or of lodging a complaint with the European Ombudsman in accordance with Article
+    230 or 195 of the Treaty establishing the European Community.’ European Ombudsman ‘Code of Good
+    administrative behaviour’, Article 19 - indication of the possibilities of appeal: ‘A decision of the Institution which
+    may adversely affect the rights or interests of a private person shall contain an indication of the appeal
+    possibilities available for challenging the decision. It shall in particular indicate the nature of the remedies, the
+    bodies before which they can be exercised, as well as the time limits for exercising them. Decisions shall in
+    particular refer to the possibility of judicial proceedings and complaints to the European Ombudsman under the
+    conditions specified in, respectively, Articles [263] and Articles [228 TFEU].’
+    129 See Order of the General Court of 7 December 2022, WhatsApp Ireland Ltd, T‑709/21, ECLI:EU:T:2022:783
+
+    in particular at paragraphs 33 and following.
+
+                                                                                                                        29
+    Adopted
+
+123. An action for annulment before the Court of Justice does not suspend the effects of the decision of
+     the EDPB130. The competent SAs will therefore still have to comply with the decision of the EDPB
+     adopted on the basis of Article 65(1)(a) GDPR, notwithstanding the appeal. This is without prejudice
+     to the right to effective judicial remedy by the controller or processor at national level in accordance
+     with Article 78 GDPR.
+
+    8.1 Supervisory authorities
+124. Article 65(2) GDPR makes clear that decisions adopted by the EDPB on the basis of Article 65(1)(a)
+     GDPR are binding upon the lead supervisory authority and all the concerned supervisory authorities.
+     National SAs must adopt their final decision on the basis of the EDPB decision. Article 65(2) also makes
+     clear the decision is an act “addressed to” the LSA and the CSAs - it does not directly address any third
+     parties131.
+
+125. According to Recital (143) GDPR, as addressees of the decisions of the Board, the concerned
+     supervisory authorities which wish to challenge them have to bring action within two months of being
+     notified of them, in accordance with Article 263 TFEU. This means, inter alia, that the supervisory
+     authorities acting before the Court of Justice against a binding decision of the EDPB would need to do
+     so relying on one of the listed grounds for annulment contained in Article 263 TFEU.
+
+126. Although only the LSA and some CSAs (pursuant to Article 60(8) and (9) GDPR) shall adopt their
+     national decision on the basis of the EDPB binding decision, the decision is addressed to all the CSAs
+     involved in the cross-border case. Article 65(2) GDPR mentions all the CSAs as addressees of the
+     decision and the final national decision is the product of a co-decision making process which is strongly
+     affected by the decision of the EDPB. As a consequence, all the supervisory authorities that are
+     concerned in a given cross-border case (see Article 4(22) GDPR) are “addressed“ by the decision and
+     therefore entitled to bring action for annulment of the EDPB decision.
+
+127. Although the supervisory authorities concerned, as Members of the EDPB, gain knowledge of the
+     content of the EDPB binding decision in the occasion of its adoption pursuant to Article 65(2) GDPR,
+     the time limitation for them to bring action will start when the decision is notified to them by the EDPB
+     Secretariat, acting on behalf of the Chair132 and using the internal information and communication
+     system133.
+
+
+
+
+    130 Article 278 TFEU (ex Article 242 TEC): “Actions brought before the Court of Justice of the European Union shall
+
+    not have suspensory effect. The Court may, however, if it considers that circumstances so require, order that
+    application of the contested act be suspended.”
+    131 See also paragraph 97 above.
+    132 See, e.g. Judgment of the General Court in Access Info Europe v Council, T-233/09, ECLI:EU:T:2011:105,
+
+    paragraph 28 (“Where the addressee has been notified, it is the date of notification which is to be taken into
+    consideration for the purposes of calculating the time allowed [...] for bringing proceedings, not the date on
+    which cognisance was taken, which comes into play only as an alternative in cases where there is no
+    notification”).
+    133 See Article 17 EDPB RoP.
+
+
+                                                                                                                    30
+    Adopted
+
+    8.2 Controller, processor, complainant, or other entity
+128. Entities other than the addressees may be entitled to act before the Court of Justice for the annulment
+     of the EDPB binding decision if the decision is of direct and individual concern to them, under the
+     conditions set in Article 263 TFEU 134.
+
+129. Recital (143) explicitly mentions that controllers, processors, or complainants may be directly and
+     individually concerned by an EDPB binding decision. These requirements are, however, interpreted
+     restrictively by the Court of Justice and therefore a case-by-case analysis is necessary135.
+
+130. Without prejudice to the right under Article 263 TFEU, each natural or legal person also has an
+     effective judicial remedy before the competent national court against those final decisions taken by
+     supervisory authorities, which produces legal effects concerning that person136. This right has to be
+     exercised in accordance to the applicable national legislation. Article 78(4) GDPR specifies that where
+     proceedings are brought against a decision of a supervisory authority which was preceded by an
+     opinion or decision of the Board in the consistency mechanism, the supervisory authority shall forward
+     that opinion or decision to the court.
+
+131. Where a decision of a supervisory authority implementing an Article 65 GDPR decision of the EDPB is
+     challenged before a national court and the validity of the decision of the EDPB is at issue, the national
+     court does not have the power to declare the EDPB’s Article 65 GDPR decision invalid. Where it
+     considers the decision invalid, it must refer the question of validity to the Court of Justice in
+     accordance with Article 267 TFEU137.
+
+132. However, a national court may not refer a question on the validity of a decision of the EDPB when the
+     requesting natural or legal person was under the legal conditions to bring an action for annulment of
+     that decision before the CJEU (in particular if it was directly and individually concerned), but had not
+     done so within the two-month period laid down in Article 263 TFEU. Therefore, when the directly and
+     individually concerned persons decide to not bring an action for annulment of the EDPB binding
+     decision, this will prevent them from challenging the validity of the EDPB binding decision in front of
+     national courts.
+
+
+
+
+    134 Recital (143) GDPR.
+    135 See also the Opinion of Advocate General Bobek in Facebook Ireland Limited, C-645/19, ECLI:EU:C:2021:5,
+
+    footnote 52 and Order of the General Court of 7 December 2022, WhatsApp Ireland Ltd, T‑709/21,
+    ECLI:EU:T:2022:783 in particular at paragraphs 33 and following.
+    136 Recital (143) GDPR. This includes the exercise of investigative, corrective, and authorisation powers, or the
+
+    dismissal or rejection of complaints, but not including non-legally binding measures.
+    137 Recital (143) GDPR.
+
+
+                                                                                                                  31
+    Adopted
 ```

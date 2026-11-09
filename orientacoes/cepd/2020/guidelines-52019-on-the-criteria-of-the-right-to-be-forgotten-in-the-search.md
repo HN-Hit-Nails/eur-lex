@@ -1,832 +1,781 @@
 ---
-titulo: "Diretrizes 5/2019 relativas aos critérios do direito a ser esquecido pelos motores de busca ao abrigo do RGPD (Parte 1) - version adopted after public consultation"
+titulo: "Guidelines 5/2019 on the criteria of the Right to be Forgotten in the search engines cases under the GDPR (part 1)"
 titulo_en: "Guidelines 5/2019 on the criteria of the Right to be Forgotten in the search engines cases under the GDPR (part 1)"
 tipo: Diretrizes
 autor: Comité Europeu para a Proteção de Dados (CEPD / EDPB)
 data: '2020-07-07'
-lingua: português
+lingua: inglês
 pagina: https://www.edpb.europa.eu/documents/guideline/guidelines-52019-on-the-criteria-of-the-right-to-be-forgotten-in-the-search_en
-pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_201905_rtbfsearchengines_afterpublicconsultation_pt.pdf
-obtido_em: '2026-11-02'
+pdf: https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_201905_rtbfsearchengines_afterpublicconsultation_en.pdf
+obtido_em: '2026-11-09'
 fonte: © Comité Europeu para a Proteção de Dados — reutilização autorizada com indicação da fonte (edpb.europa.eu/copyright_en)
 ---
 
-# Diretrizes 5/2019 relativas aos critérios do direito a ser esquecido pelos motores de busca ao abrigo do RGPD (Parte 1) - version adopted after public consultation
+# Guidelines 5/2019 on the criteria of the Right to be Forgotten in the search engines cases under the GDPR (part 1)
 
 **Não é legislação:** orientação do CEPD sobre a aplicação do RGPD (ou de legislação conexa). Não vincula os tribunais, mas as autoridades de proteção de dados (em Portugal, a CNPD) seguem-na. Texto extraído automaticamente do PDF: quebras de linha e tabelas podem estar desalinhadas.
+
+**Língua:** o CEPD não publicou versão portuguesa deste documento (verificado nas páginas em inglês e português); o texto abaixo está em **inglês**.
 ## Texto
 
 ```text
-Diretrizes 5/2019 relativas aos critérios do direito a ser
-    esquecido pelos motores de busca ao abrigo do RGPD
-                                  (Parte 1)
-                                Versão 2.0
-                  Adotadas em 7 de julho de 2020
+Guidelines 5/2019 on the criteria of the Right to be
+    Forgotten in the search engines cases under the GDPR
+                           (part 1)
 
 
-                    Translations proofread by EDPB Members.
+                         Version 2.0
 
-                 This language version has not yet been proofread.
 
+                    Adopted on 7 July 2020
 
 
 
-                                                                     1
-Adotadas
 
-Histórico de versões
+                                                            1
+Adopted
 
- Versão         7 de julho de 2020   Adoção das Diretrizes após discussão
- 2.0                                 pública
+Version history
 
- Versão         17 de fevereiro de Pequenas correções
- 1.1            2020
 
- Versão         2 de dezembro de Adoção das Diretrizes para discussão
- 1.0            2019             pública
+ Version 2.0   7 July 2020        Adoption of the Guidelines after public consultation
 
+ Version 1.1   17 February 2020   Minor corrections
 
+ Version 1.0   2 December 2019    Adoption of the Guidelines for public consultation
 
 
-                                                                            2
-Adotadas
 
-Índice
-Introdução ............................................................................................................................................... 4
-1      Os fundamentos do direito de solicitar a supressão ao abrigo do RGPD........................................ 7
-    1.1 Fundamento 1: O direito de solicitar a supressão quando os dados pessoais deixarem de ser
-        necessários no âmbito do tratamento pelo operador do motor de busca [artigo 17.º, n.º 1,
-        alínea a)]........................................................................................................................................ 7
-    1.2 Fundamento 2: O direito de solicitar a supressão quando o titular dos dados retirar o
-        consentimento em que se baseia o tratamento dos dados nos termos do artigo 6.º, n.º 1,
-        alínea a) ou do artigo 9.º, n.º 2, alínea a) do RGPD e quando não existir outra base jurídica para
-        o tratamento [artigo 17.º, n.º 1, alínea b)] ................................................................................... 8
-    1.3 Fundamento 3: Direito de solicitar a supressão quando o titular dos dados tiver exercido o seu
-        direito de oposição ao tratamento dos seus dados pessoais [artigo 17.º, n.º 1, alínea c)].......... 9
-    1.4 Fundamento 4: Direito de solicitar a supressão quando os dados pessoais tenham sido objeto
-        de um tratamento ilícito [artigo 17.º, n.º 1, alínea d)] ............................................................... 11
-    1.5 Fundamento 5: O direito de solicitar a supressão dos dados pessoais quando estes têm de ser
-        apagados para fins de cumprimento de uma obrigação jurídica [artigo 17.º, n.º 1, alínea e)].. 11
-    1.6 Fundamento 6: Direito de solicitar a supressão quando os dados pessoais tiverem sido
-        recolhidos de uma criança no contexto da oferta de serviços da sociedade da informação (SSI)
-        [artigo 17.º, n.º 1, alínea f)] ........................................................................................................ 11
-2      As exceções ao direito de solicitar a supressão nos termos do artigo 17.º, n.º 3 ........................ 12
-    2.1 O tratamento revela-se necessário ao exercício da liberdade de expressão e de informação.. 13
-    2.2 O tratamento revela-se necessário ao cumprimento de uma obrigação legal a que o
-        responsável esteja sujeito ou ao exercício de funções de interesse público ou ao exercício da
-        autoridade pública de que esteja investido o responsável pelo tratamento ............................. 15
-       2.2.1          Obrigação legal.............................................................................................................. 15
-       2.2.2          Exercício de funções de interesse público ou exercício da autoridade pública............ 16
-    2.3 Motivos de interesse público no domínio da saúde pública ...................................................... 17
-    2.4 Fins de arquivo de interesse público, fins de investigação científica ou histórica ou fins
-        estatísticos, nos termos do artigo 89.º, n.º 1, na medida em que o direito referido no n.º 1 seja
-        suscetível de tornar impossível ou prejudicar gravemente a obtenção dos objetivos desse
-        tratamento .................................................................................................................................. 18
-    2.5 Declaração, exercício ou defesa de um direito num processo judicial....................................... 18
-
 
+                                                                                         2
+Adopted
 
-
-                                                                                                                                                          3
-Adotadas
-
-O Comité Europeu para a Proteção de Dados
-
-Tendo em conta o artigo 70.º, n.º 1, alínea e), do Regulamento (UE) 2016/679 do Parlamento Europeu
-e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito
-ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (a
-seguir «RGPD»),
-
-Tendo em conta o Acordo EEE e, nomeadamente, o anexo XI e o respetivo Protocolo 37, com a redação
-que lhe foi dada pela Decisão n.º 154/2018 do Comité Misto do EEE, de 6 de julho de 20181,
-
-Tendo em conta o artigo 12.º e o artigo 22.º do seu Regulamento Interno,
-
-
-
-ADOTOU AS SEGUINTES DIRETRIZES
-
-
-INTRODUÇÃO
-    1. Na sequência do acórdão Costeja do Tribunal de Justiça da União Europeia («CJUE») de 13 de
-       maio de 20142, os titulares dos dados podem solicitar ao operador de um motor de busca em
-       linha («operador do motor de busca»)3 que apague uma ou mais ligações para páginas Web
-       da lista de resultados exibidos após uma pesquisa efetuada a partir do seu nome.
-    2. De acordo com o Relatório de Transparência da Google4, a percentagem dos URL cuja
-       referenciação a Google não suprime não aumentou nos últimos 5 anos deste essa avaliação.
-       Contudo, na sequência do acórdão do TJUE, os titulares dos dados parecem ter mais
-       conhecimento do seu direito de apresentar queixa em caso de recusa de suprimir uma
-       referenciação, uma vez que as autoridades de controlo têm assistido a um aumento do
-       número de reclamações relativas à recusa dos operadores de motores de busca de suprimir a
-       referenciação a ligações.
-    3. O Comité Europeu para a Proteção de Dados (o «CEPD»), em conformidade com o seu Plano
-       de Ação, está a elaborar diretrizes sobre o direito previsto no artigo 17.º do Regulamento Geral
-       sobre a Proteção de Dados («RGDP»). Enquanto essas diretrizes não estiverem concluídas, as
-       autoridades de controlo devem continuar a tratar e a investigar, na medida do possível, as
-       reclamações dos titulares dos dados e de forma tão atempada quanto possível.
-    4. Por conseguinte, o presente documento visa interpretar o direito a ser esquecido nos casos
-       dos motores de busca à luz do disposto no artigo 17.º do RGPD (o «direito de solicitar
-       supressão»). Com efeito, o direito a ser esquecido foi especialmente consagrado pelo
-
-
-
-
-1 As referências a «Estados-Membros» nas presentes diretrizes devem ser entendidas como referências a «Estados
-
-membros do EEE».
-2 TJUE, Processo C-131/12, Google Spain SL e Google Inc. c. Agencia Española de Protección de Datos (AEPD) e Mario
-
-Costeja González, acórdão de 13 de maio de 2014.
-3 incluindo arquivos Web, como archive.org
-4 https://transparencyreport.google.com/eu-privacy/overview?hl=en
-
-                                                                                                                     4
-Adotadas
-
-        artigo 17.º do RGPD para ter em conta o direito de solicitar a supressão de ligações de listas
-        de resultados estabelecido no acórdão Costeja.
-    5. Todavia, tal como previsto na Diretiva 95/46/CE, de 24 de outubro de 1995, (a «Diretiva») e
-        tal como declarado pelo TJUE no seu acórdão Costeja5 acima referido o direito de solicitar a
-        supressão implica dois direitos (direito de oposição e direito ao apagamento dos dados, RGPD).
-        Com efeito, a aplicação do artigo 21.º está expressamente prevista como terceiro fundamento
-        para o direito ao apagamento dos dados. Consequentemente, tanto o artigo 17.º como o
-        artigo 21.º do RGPD podem servir de base jurídica para pedidos de supressão. O direito de
-        oposição e o direito de obter o apagamento de dados foram já concedidos ao abrigo da
-        Diretiva. No entanto, tal como será abordado, a redação do RGPD exige um ajustamento na
-        interpretação destes direitos.
-    6. A título preliminar, importa salientar que, embora o artigo 17.º do RGPD seja aplicável a todos
-        os responsáveis pelo tratamento de dados, o presente documento centra-se exclusivamente
-        no tratamento por parte de operadores de motores de busca e nos pedidos de supressão
-        apresentados pelos titulares dos dados.
-    7. Na aplicação do artigo 17.º do RGPD, existem algumas considerações relativas ao tratamento
-        de dados por parte do operador de um motor de busca. A este respeito, é necessário referir
-        que o tratamento de dados pessoais efetuado no contexto da atividade do operador de um
-        motor de busca deve ser distinguido do tratamento efetuado por editores dos sítios Web de
-        terceiros, como os meios de comunicação que fornecem conteúdos de jornais em linha6.
-    8. Se o titular dos dados obtiver a supressão de um determinado conteúdo, tal resultará no
-        apagamento desse conteúdo específico da lista de resultados da pesquisa relativamente ao
-        titular dos dados, quando a pesquisa for efetuada, como regra geral, a partir do seu nome. No
-        entanto, esse conteúdo continuará a estar disponível usando outros critérios de pesquisa.
-    9. Os pedidos de supressão não resultam no apagamento completo dos dados pessoais.
-        Efetivamente, os dados pessoais não serão apagados do sítio Web de origem nem do índice e
-        da cache do operador do motor de busca. Por exemplo, um titular de dados pode solicitar a
-        supressão de dados pessoais do índice de um motor de busca que tenham tido origem num
-        meio de comunicação social, como um artigo de jornal. Neste caso, a ligação aos dados
-        pessoais pode ser suprimida do índice do motor de busca; no entanto, o artigo em questão
-        continuará a estar sob o controlo do meio de comunicação social e poderá permanecer
-        publicamente disponível e acessível, mesmo que já não seja visível nos resultados da pesquisa
-        com base em consultas que incluam, em princípio, o nome do titular dos dados.
-    10. Todavia, os operadores de motores de busca não estão, de um modo geral, isentos da
-        obrigação de apagamento total. Em alguns casos excecionais, terão de proceder a um
-
-
-
-
-5 TJUE, Processo C 131/12, acórdão de 13 de maio de 2014, n.º 88: «Os artigos 12.°, alínea b), e 14.°, primeiro parágrafo,
-
-alínea a), da Diretiva 95/46 devem ser interpretados no sentido de que, para respeitar os direitos previstos nestas
-disposições e desde que as condições por elas previstas estejam efetivamente satisfeitas, o operador de um motor de busca
-é obrigado a suprimir da lista de resultados, exibida na sequência de uma pesquisa efetuada a partir do nome de uma
-pessoa, as ligações a outras páginas Web publicadas por terceiros e que contenham informações sobre essa pessoa,
-também na hipótese de esse nome ou de essas informações não serem prévia ou simultaneamente apagadas dessas
-páginas Web, isto, se for caso disso, mesmo quando a sua publicação nas referidas páginas seja, em si mesma, lícita».
-6 TJUE, Processo C 131/12, acórdão de 13 de maio de 2014; Tribunal Europeu dos Direitos Humanos, «M.L. and W.W. vs
-
-Germany», 28 de junho de 2018.
-                                                                                                                             5
-Adotadas
-
-        apagamento real e completo nos seus índices ou caches. Por exemplo, se os operadores de
-        motores de busca deixarem de respeitar as solicitações robots.txt implementadas pelo editor
-        original, teriam efetivamente o dever de apagar completamente o URL do conteúdo, em vez
-        de procederem à supressão, que se baseia principalmente no nome do titular dos dados.
-    11. O presente documento está dividido em dois tópicos. O primeiro tópico diz respeito aos
-        fundamentos que o titular dos dados pode invocar para apresentar um pedido de supressão
-        enviado a um operador de motores de busca nos termos do artigo 17.º, n.º 1, do RGPD. O
-        segundo tópico diz respeito às exceções ao direito de solicitar a supressão de acordo com o
-        artigo 17.º, n.º 3, do RGPD. O presente documento será complementado por um anexo
-        dedicado à avaliação dos critérios aplicados no tratamento das reclamações relativas a recusas
-        de supressão.
-    12. O presente documento não aborda matérias relacionadas com o artigo 17.º, n.º 27, do RGPD.
-        Com efeito, este artigo exige que os responsáveis pelo tratamento de dados que tenham
-        tornado públicos os dados pessoais informem os responsáveis pelo tratamento que tenham
-        depois reutilizado esses dados pessoais através de ligações, cópias ou reproduções. Esta
-        obrigação de informação não se aplica aos operadores de motores de busca quando
-        encontrarem informações que contenham dados pessoais publicados ou colocados na Internet
-        por terceiros, as indexarem automaticamente, as armazenarem temporariamente e as
-        disponibilizarem aos utilizadores da Internet de acordo com uma determinada ordem de
-        preferência8. Além disso, não exige que os operadores de motores de busca, que tenham
-        recebido um pedido de supressão de um titular dos dados, informem o terceiro que tornou
-        pública essa informação na Internet. Esta obrigação visa conferir uma maior responsabilidade
-        aos responsáveis pelo tratamento iniciais e evitar a multiplicação das iniciativas dos titulares
-        dos dados. A este respeito, permanece válida a declaração do Grupo do Artigo 29.º, segundo
-        a qual os operadores de motores de busca «não devem, como prática geral, informar os
-        administradores das páginas Web afetadas pela supressão do facto de algumas páginas Web
-        não poderem ser acedidas pelo motor de busca na sequência de pesquisas específicas» porque
-        «essa comunicação não tem base jurídica ao abrigo da legislação da UE em matéria de
-        proteção de dados»9. Deverão ser elaboradas diretrizes específicas separadas relativamente
-        às matérias relacionadas com o artigo 17.º, n.º 2, do RGPD.
-
-
-
-
-7 Regulamento (UE) 2016/679 (RGPD), artigo 17.º, n.º 2: «Quando o responsável pelo tratamento tiver tornado públicos os
-
-dados pessoais e for obrigado a apagá-los nos termos do n.º 1, toma as medidas que forem razoáveis, incluindo de caráter
-técnico, tendo em consideração a tecnologia disponível e os custos da sua aplicação, para informar os responsáveis pelo
-tratamento efetivo dos dados pessoais de que o titular dos dados lhes solicitou o apagamento das ligações para esses dados
-pessoais, bem como das cópias ou reproduções dos mesmos.»
-8 Cf. TJUE, Processo C 136/17, GC e o. contra CNIL, acórdão de 24 de setembro de 2019, n.º 35, e Processo C-131/12,
-
-acórdão de 13 de maio de 2014, n.º 41.
-9 Grupo de Trabalho do artigo 29.º, «Diretrizes sobre a execução do acórdão do Tribunal de Justiça da União Europeia Google
-
-Spain e Inc c. Agencia Española de Protección de Datos (AEPD) e Mario Costeja González”» C-131/12, WP 225, Bruxelas, 26 de
-novembro de 2014, pág. 23.
-                                                                                                                          6
-Adotadas
-
-1 OS FUNDAMENTOS DO DIREITO DE SOLICITAR A SUPRESSÃO AO
-  ABRIGO DO RGPD
-   13. O direito de solicitar a supressão previsto no artigo 17.º do RGPD não altera as conclusões do
-       acórdão Costeja, no qual o TJUE considerou que um pedido de supressão se baseava no direito
-       de retificação/apagamento dos dados e no direito de oposição, nos termos dos artigos 12.º e
-       14.º da Diretiva, respetivamente.
-   14. O n.º 1 do artigo 17.º estabelece um princípio geral de apagamento dos dados nos seis casos
-       seguintes:
-
-   a) Os dados pessoais deixaram de ser necessários para a finalidade que motivou a sua recolha ou
-   tratamento [artigo 17.º, n.º 1, alínea a)];
-   b) O titular retira o consentimento em que se baseia o tratamento [Artigo 17.º, n.º 1, alínea b)];
-   c) O titular dos dados exerceu o seu direito de se opor ao tratamento dos seus dados pessoais
-   nos termos do artigo 21.º, n.º 1 e n.º 2, do RGPD;
-   d) Os dados pessoais foram tratados ilicitamente [artigo 17.º, n.º 1, alínea d)];
-   e) O apagamento resulta do cumprimento de uma obrigação jurídica [artigo 17.º, n.º 1, alínea
-   e)];
-   f) Os dados pessoais foram recolhidos no contexto da oferta de serviços da sociedade da
-   informação a um menor [artigo 17.º, n.º 1, alínea f), que remete para o artigo 8.º, n.º 1].
-
-   15. Embora todos os fundamentos do artigo 17.º sejam teoricamente aplicáveis quando se trata
-       de suprimir dados, na prática, alguns destes fundamentos serão raramente ou nunca
-       utilizados, como é o caso da retirada do consentimento (ver fundamento 2, infra).
-   16. No entanto, o titular dos dados pode apresentar um pedido de supressão ao operador de um
-       motor de busca com base em mais de um fundamento. Por exemplo, o titular dos dados pode
-       solicitar a supressão de dados por considerar que já não é necessário que os seus dados
-       pessoais sejam tratados pelo motor de busca [artigo 17.º, n.º 1, alínea a)] e para exercer o seu
-       direito de oposição ao tratamento nos termos do artigo 21.º, n.º 1 do RGPD [artigo 17.º, n.º 1,
-       alínea c)].
-   17. Para que as autoridades de controlo apreciem as reclamações relativas ao operador de um
-       motor de busca que se tenha recusado a apagar um determinado resultado de pesquisa nos
-       termos do artigo 17.º do RGPD, as autoridades de controlo deverão determinar se o conteúdo
-       a que se refere um URL deve ou não ser suprimido. Assim, quando analisarem o mérito da
-       reclamação, deverão ter em conta a natureza do conteúdo disponibilizado pelos editores de
-       sítios Web de terceiros.
-
-1.1 Fundamento 1: O direito de solicitar a supressão quando os dados pessoais
-    deixarem de ser necessários no âmbito do tratamento pelo operador do motor
-    de busca [artigo 17.º, n.º 1, alínea a)]
-   18. De acordo com o artigo 17.º, n.º 1, alínea a) do RGPD, o titular dos dados pode solicitar ao
-       operador de um motor de busca, na sequência de uma pesquisa efetuada, como regra geral,
-       a partir do seu nome, que suprima um conteúdo dos seus resultados de pesquisa, sempre que
-
-
-                                                                                                     7
-Adotadas
-
-       os dados pessoais do titular apresentados nos resultados dessa pesquisa deixem de ser
-       necessários para as finalidades do tratamento pelo motor de busca.
-   19. Esta disposição permite que o titular dos dados solicite a supressão de informações pessoais
-       que lhe digam respeito e que tenham sido disponibilizadas por um período mais longo do que
-       o necessário para o tratamento pelo operador do motor de busca. Porém, este tratamento é
-       designadamente efetuado com a finalidade de tornar a informação mais facilmente acessível
-       aos utilizadores da Internet. No contexto do direito de solicitar a supressão, deve ser
-       assegurado o equilíbrio entre a proteção da privacidade e os interesses dos utilizadores da
-       Internet no acesso à informação. Em especial, há que avaliar se, ao longo do tempo, os dados
-       pessoais se tornaram desatualizados ou não foram atualizados.
-   20. Por exemplo, um titular de dados pode exercer o seu direito de solicitar a supressão nos
-       termos do artigo 17.º, n.º 1, alínea a) quando:
-
-      as informações sobre o(a) mesmo(a) detidas por uma empresa tenham sido retiradas do
-       registo público;
-      uma ligação para o sítio Web de uma empresa contiver os seus contactos que já não trabalha
-       nessa empresa;
-      as informações tiveram de ser publicadas na Internet durante vários anos para cumprir uma
-       obrigação jurídica e permaneceram em linha durante mais tempo do que o prazo especificado
-       na legislação.
-
-
-   21. Tal como demonstrado pelos exemplos, o titular dos dados pode, nomeadamente, solicitar a
-       supressão de um conteúdo em que as informações pessoais sejam manifestamente inexatas
-       devido ao tempo decorrido ou estão desatualizadas. Essa avaliação dependerá,
-       incidentalmente, das finalidades do tratamento inicial. Por conseguinte, os períodos de
-       conservação originais dos dados pessoais, quando disponíveis, deverão também ser tidos em
-       conta pelas autoridades de controlo quando procedem à análise dos pedidos de supressão nos
-       termos do artigo 17.º, n.º 1, alínea a) do RGPD.
-
-1.2 Fundamento 2: O direito de solicitar a supressão quando o titular dos dados
-    retirar o consentimento em que se baseia o tratamento dos dados nos termos do
-    artigo 6.º, n.º 1, alínea a) ou do artigo 9.º, n.º 2, alínea a) do RGPD e quando não
-    existir outra base jurídica para o tratamento [artigo 17.º, n.º 1, alínea b)]
-   22. De acordo com o artigo 17.º, n.º 1, alínea b), do RGPD, o titular dos dados pode obter o
-       apagamento de dados pessoais que lhe digam respeito caso retire o consentimento para o
-       tratamento.
-   23. Em caso de supressão, tal significaria que o operador do motor de busca teria utilizado o
-       consentimento do titular dos dados como base jurídica para o seu tratamento. O artigo 17.º,
-       n.º 1, do RGPD levanta, de facto, a questão da base jurídica do tratamento de dados invocada
-       pelo operador de um motor de busca quando os resultados de uma pesquisa no seu motor de
-       busca incluírem dados pessoais.
-   24. Por essa razão, parece improvável que um pedido de supressão seja apresentado por um
-       titular dos dados com base no facto de pretender retirar o consentimento pelo facto de o
-       responsável pelo tratamento a quem o titular dos dados deu o seu consentimento ser o editor
-                                                                                                 8
-Adotadas
-
-        Web e não o operador do motor de busca que indexa os dados. Esta interpretação foi
-        confirmada pelo TJUE no seu acórdão C-136-17 de 24 de setembro de 2019 (o «Acórdão
-        Google 2»).10 O Tribunal indica que «(...) este consentimento deve ser "específic[o]" e, por
-        conseguinte, incidir especificamente sobre o tratamento efetuado no âmbito da atividade do
-        motor de busca (...). (...) na prática, dificilmente se concebe (...) que o operador de um motor
-        de busca solicite o consentimento específico das pessoas em causa antes de proceder, para
-        efeitos das necessidades da sua atividade de referências a dados pessoais, ao tratamento dos
-        dados pessoais que lhes dizem respeito. Seja como for, (...) o facto de uma pessoa apresentar
-        um pedido de supressão de referências significa, em princípio, que, pelo menos na data em que
-        esse pedido é apresentado, essa pessoa já não consente no tratamento efetuado pelo operador
-        do motor de busca.»
-    25. Todavia, no caso de o titular dos dados ter retirado o seu consentimento para a utilização dos
-        seus dados numa determinada página Web, o editor original dessa página deverá informar os
-        operadores de motores de busca que tenham indexado esses dados nos termos do artigo 17.º,
-        n.º 2, do RGPD. Assim, o titular dos dados continuaria a ter direito a obter a supressão dos
-        dados pessoais que lhe dizem respeito, mas nos termos previstos no artigo 17.º, n.º 1, alínea
-        c).
-
-1.3 Fundamento 3: Direito de solicitar a supressão quando o titular dos dados tiver
-    exercido o seu direito de oposição ao tratamento dos seus dados pessoais [artigo
-    17.º, n.º 1, alínea c)]
-    26. Nos termos do artigo 17.º, n.º 1, alínea c), do RGPD, o titular dos dados pode obter do operador
-        do motor de busca o apagamento dos dados pessoais que lhe digam respeito sempre que se
-        oponha ao tratamento de acordo com o artigo 21.º, n.º 1, do RGPD e não existam interesses
-        legítimos prevalecentes que justifiquem o tratamento pelo responsável pelo tratamento dos
-        dados.
-    27. O direito de oposição confere maiores garantias aos titulares dos dados, uma vez que não
-        restringe os fundamentos segundo os quais os titulares dos dados podem solicitar a sua
-        supressão nos termos do artigo 17.º, n.º 1, do RGPD.
-    28. O direito de oposição ao tratamento foi previsto no artigo 14.º da Diretiva11 e constituiu um
-        fundamento para solicitar a supressão desde o acórdão Costeja. No entanto, as diferenças
-        entre a redação do artigo 21.º do RGPD e a redação do artigo 14.º da Diretiva sugerem que
-        também podem existir diferenças na sua aplicação.
-    29. Nos termos da Diretiva, o titular dos dados tinha de basear o seu pedido em «razões
-        preponderantes e legítimas relacionadas com a sua situação particular». No que respeita ao
-        RGPD, o titular dos dados pode opor-se a um tratamento «por motivos relacionados com a sua
-
-
-
-
-10 TJUE, Processo C-136/17, Commission nationale de l’informatique et des libertés (CNIL) c. Google LLC, acórdão de 24 de
-
-setembro de 2019.
-11 Artigo 14.º da Diretiva 95/46/CE: «Os Estados-Membros reconhecerão à pessoa em causa o direito de: a) Pelo menos nos
-
-casos referidos nas alíneas e) e f) do artigo 7º, se opor em qualquer altura, por razões preponderantes e legítimas
-relacionadas com a sua situação particular, a que os dados que lhe digam respeito sejam objeto de tratamento, salvo
-disposição em contrário do direito nacional. Em caso de oposição justificada, o tratamento efetuado pelo responsável deixa
-de poder incidir sobre esses dados».
-                                                                                                                            9
-Adotadas
-
-       situação particular». Assim, o mesmo já não tem de demonstrar «razões preponderantes e
-       legítimas».
-   30. Por conseguinte, o RGPD altera o ónus da prova, conferindo uma presunção a favor do titular
-       dos dados, obrigando, pelo contrário, o responsável pelo tratamento a demonstrar «razões
-       imperiosas e legítimas para esse tratamento» (artigo 21.º, n.º 1). Consequentemente, quando
-       o operador de um motor de busca recebe um pedido de supressão com base na situação
-       particular do titular dos dados, deve agora apagar os dados pessoais, nos termos do artigo
-       17.º, n.º 1, alínea c), do RGPD, a menos que possa demonstrar a existência de «interesses
-       legítimos prevalecentes» para a listagem do resultado da pesquisa específica, que, lido em
-       conjugação com o artigo 21.º, n.º 1, constituam «razões imperiosas e legítimas (...) que
-       prevaleçam sobre os interesses, direitos e liberdades do titular dos dados». O operador do
-       motor de busca pode determinar quaisquer «interesses legítimos prevalecentes», incluindo
-       qualquer isenção prevista no artigo 17.º, n.º 3, do RGPD. No entanto, se o operador do motor
-       de busca não demonstrar a existência de interesses legítimos prevalecentes, o titular dos
-       dados tem direito a obter a supressão nos termos do artigo 17.º, n.º 1, alínea c), do RGPD. Na
-       realidade, os pedidos de supressão implicam agora estabelecer o equilíbrio entre os motivos
-       relacionados com a situação particular do titular dos dados e as razões imperiosas e legítimas
-       do operador do motor de busca. O equilíbrio entre a proteção da privacidade e os interesses
-       dos utilizadores da Internet no acesso à informação, tal como decidido pelo TJUE no acórdão
-       Costeja, pode ser relevante para a realização dessa avaliação, bem como o equilíbrio alcançado
-       pelo Tribunal Europeu dos Direitos do Homem (TEDH) em matéria de imprensa.
-   31. Por conseguinte, os critérios de supressão estabelecidos pelo Grupo de Trabalho do Artigo 29.º
-       nas diretrizes sobre a implementação do acórdão do Tribunal de Justiça da União Europeia
-       referente à “Google Spain e Inc v. Agencia Española de Protección de Datos (AEPD) e Mario
-       Costeja González” C-131/12 continuam a poder ser utilizados pelos operadores de motores de
-       busca e pelas autoridades de controlo para avaliar um pedido de supressão com base no
-       direito de oposição [artigo 17.º, n.º 1, alínea c), do RGPD].
-   32. A este respeito, a «situação particular» do titular dos dados estará subjacente ao pedido de
-       supressão (por exemplo, um resultado da pesquisa pode prejudicar um titular dos dados
-       quando se candidata a um emprego ou comprometer a sua reputação na vida pessoal) e será
-       tida em conta ao determinar o equilíbrio entre os direitos pessoais e o direito à informação,
-       além dos critérios clássicos de tratamento dos pedidos de supressão, tais como:
-     a pessoa não desempenhar um papel relevante na vida pública;
-     as informações em causa não estarem relacionadas com a sua vida profissional, mas afetarem
-        a sua privacidade;
-     as informações constituírem um discurso de ódio, calúnia, difamação ou infrações similares
-        no domínio da expressão contra si nos termos de uma decisão judicial;
-     os dados parecerem ser factos verificados, mas factualmente estarem incorretos;
-     os dados se referirem a uma infração penal relativamente menor que tenha ocorrido há muito
-        tempo e que cause prejuízo ao titular dos dados.
-   33. No entanto, estes critérios não terão de ser examinados na ausência de provas de razões
-       imperiosas e legítimas para recusar o pedido.
-
-
-
-
-                                                                                                  10
-Adotadas
-
-1.4 Fundamento 4: Direito de solicitar a supressão quando os dados pessoais
-    tenham sido objeto de um tratamento ilícito [artigo 17.º, n.º 1, alínea d)]
-   34. De acordo com o artigo 17.º, n.º 1, alínea d), do RGPD, o titular dos dados pode solicitar o
-       apagamento dos dados pessoais que lhe digam respeito quando estes tenham sido tratados
-       ilicitamente.
-   35. O conceito de tratamento ilícito deve ser interpretado em primeiro lugar à luz do artigo 6.º do
-       RGPD dedicado à licitude do tratamento. Outros princípios estabelecidos pelo RGPD (tais como
-       os princípios enunciados no artigo 5.º do RGPD ou noutras disposições do Capítulo II) podem
-       auxiliar essa interpretação.
-   36. Em segundo lugar, este conceito deve ser interpretado em termos mais latos, como a violação
-       de uma disposição legal que não o RGPD. Essa interpretação deve ser feita objetivamente pelas
-       autoridades de controlo, de acordo com a legislação nacional ou com uma decisão judicial. Por
-       exemplo, um pedido de supressão será deferido no caso de a listagem de informações pessoais
-       ter sido expressamente proibida por uma decisão judicial.
-
-      Nos casos em que o operador de um motor de busca não possa fundamentar o tratamento de
-      dados numa base jurídica, um pedido de supressão pode justificar-se à luz do artigo 17.º, n.º
-      1, alínea d), do RGPD, uma vez que o tratamento de dados pessoais nesses casos deve ser
-      considerado ilícito. No entanto, importa recordar que, em caso de ilicitude do tratamento
-      inicial, o titular dos dados continua a ter o direito de solicitar a supressão nos termos do artigo
-      17.º, n.º 1, alínea c), do RGPD.
-
-1.5 Fundamento 5: O direito de solicitar a supressão dos dados pessoais quando
-    estes têm de ser apagados para fins de cumprimento de uma obrigação jurídica
-    [artigo 17.º, n.º 1, alínea e)]
-   37. De acordo com o artigo 17.º, n.º 1, alínea e) do RGPD, o titular dos dados pode solicitar ao
-       operador de um motor de busca que suprima um ou mais resultados de busca se os dados
-       pessoais tiverem de ser apagados por força de uma obrigação jurídica prevista no direito da
-       União ou do Estado-Membro a que o operador de um motor de busca esteja sujeito.
-   38. O cumprimento de uma obrigação jurídica pode resultar de uma ordem, de um pedido
-       expresso do direito nacional ou da UE por estar sujeito a uma «obrigação jurídica de apagar»
-       ou da simples violação do período de conservação pelo fornecedor do motor de busca. A título
-       de exemplo, existe um prazo fixado para a conservação de dados, mas esse prazo não é
-       respeitado (esta hipótese diz principalmente respeito aos ficheiros públicos). Este caso poderia
-       eventualmente incluir a hipótese de dados não anonimizados ou de dados de identificação
-       disponíveis em fontes abertas.
-
-1.6 Fundamento 6: Direito de solicitar a supressão quando os dados pessoais
-    tiverem sido recolhidos de uma criança no contexto da oferta de serviços da
-    sociedade da informação (SSI) [artigo 17.º, n.º 1, alínea f)]
-   39. Nos termos do artigo 17.º, n.º 1, alínea f), do RGPD, o titular dos dados pode solicitar ao
-       operador de um motor de busca que suprima um ou mais resultados se tiverem sido recolhidos
-
-
-                                                                                                      11
-Adotadas
-
-        dados pessoais relativos à oferta de SSI a uma criança, conforme previsto no artigo 8.º, n.º 1,
-        do RGPD.
-    40. O artigo abrange a oferta direta de SSI e nenhum outro tipo de tratamento. O RGPD não define
-        SSI; ao invés, refere-se às definições existentes no direito da UE12. Existem algumas
-        dificuldades de interpretação, uma vez que o considerando 18 da Diretiva 2000/31/CE do
-        Parlamento Europeu e do Conselho, de 8 de junho de 2000, estabelece uma definição ampla
-        e ambígua do conceito de «prestação direta de serviços da sociedade da informação». Indica
-        sobretudo que estes serviços «abrangem uma grande diversidade de atividades económicas.
-        Tais atividades podem, nomeadamente, consistir na venda de mercadorias em linha», mas
-        especifica que «não dão apenas a possibilidade de celebrar contratos em linha, mas também,
-        tratando-se de uma atividade económica, serviços que não são remunerados pelo respetivo
-        destinatário, como os que consistem em prestar informações em linha ou comunicações
-        comerciais, ou ainda os que fornecem ferramentas de pesquisa, acesso e descarregamento de
-        dados», definindo os critérios da atividade económica.
-    41. Decorre do exposto que as atividades dos operadores de motores de busca são suscetíveis de
-        se enquadrar no âmbito da prestação direta de SSI. No entanto, os operadores de motores de
-        busca não questionam se os dados pessoais que indexam dizem ou não respeito a uma criança.
-        Porém, tendo em conta as suas responsabilidades específicas, e sem prejuízo da aplicação do
-        artigo 17.º, n.º 3, do RGPD, teriam de suprimir um conteúdo que dissesse respeito a uma
-        criança, em conformidade com o artigo 17.º, n.º 1, alínea c), do RGPD, reconhecendo-se que
-        ser uma criança é um “motivo válido numa situação particular” (artigo 21. Do RGPD) e que “as
-        crianças merecem proteção específica no que toca aos seus dados pessoais” (considerando
-        38.º do RGPD). Nesse caso, tem de ser considerado o contexto da recolha de dados pessoais
-        pelo responsável pelo tratamento inicial. Em especial, a data de início do tratamento pelo sítio
-        Web original deve ser tida em conta quando o titular dos dados solicitar a supressão de um
-        conteúdo.
-
-
-
-
-2 AS EXCEÇÕES AO DIREITO DE SOLICITAR A SUPRESSÃO NOS
-  TERMOS DO ARTIGO 17.º, N.º 3
-    42. O artigo 17.º, n. 3, do RGPD estabelece que os n.ºs 1 e 2 do mesmo artigo não se aplicam na
-        medida em que o tratamento se revele necessário:
-
-   a)    Ao exercício da liberdade de expressão e de informação [artigo 17.º, n.º 3, alínea a)];
-   b)    Ao cumprimento de uma obrigação legal que exija o tratamento prevista pelo direito da União
-         ou de um Estado-Membro a que o responsável esteja sujeito, ao exercício de funções de
-         interesse público ou ao exercício da autoridade pública de que esteja investido o responsável
-         pelo tratamento [artigo 17.º, n.º 3, alínea b)];
-
-
-
-
-12 Especificamente, o artigo 1.º, n.º 1, alínea b), da Diretiva (UE) 2015/1535 do Parlamento Europeu e do Conselho, de 9 de
-
-setembro de 2015, relativa a um procedimento de informação no domínio das regulamentações técnicas e das regras
-relativas aos serviços da sociedade da informação (codificação)
+Table of contents
+Introduction............................................................................................................................................. 4
+1      The grounds of the Right to request delisting under GDPR ............................................................ 6
+    1.1     Ground 1: The Right to request delisting when the personal data are no longer necessary in
+    relation to the search engine provider’s processing (Article 17.1.a) .................................................. 7
+    1.2     Ground 2: The Right to request delisting when the data subject withdraws consent where
+    the legal basis for the processing is pursuant to Article 6.1.a or Article 9.2.a GDPR and where there
+    is no other legal basis for the processing (Article 17.1.b) ................................................................... 7
+    1.3     Ground 3: The Right to request delisting when the data subject has exercised his or her
+    Right to object to the processing of his or her personal data (Article 17.1.c) .................................... 8
+    1.4    Ground 4: The Right to request delisting when the personal data have been unlawfully
+    processed (Article 17.1.d) ................................................................................................................... 9
+    1.5    Ground 5: The Right to request delisting when the personal data have to be erased for
+    compliance with a legal obligation (Article 17.1.e)........................................................................... 10
+    1.6     Ground 6: The Right to request delisting when the personal data have been collected in
+    relation to the offer of information society services (ISS) to a child (Article 17.1.f)......................... 10
+2      The exceptions to the Right to request delisting under Article 17.3 ............................................ 11
+    2.1        Processing is necessary for exercising the right of freedom of expression and information 11
+    2.2      Processing is necessary for compliance with a legal obligation to which the controller is
+    subject or for the performance of a task carried out in the public interest or in the exercise of
+    official authority vested in the controller ......................................................................................... 13
+       2.2.1          Legal obligation ............................................................................................................. 13
+       2.2.2     Performance of a task carried out in public interest or in the exercise of official
+       authority 14
+    2.3        Reasons of public interest in the area of public health......................................................... 15
+    2.4      Archiving purposes in the public interest, scientific or historical research purposes, or
+    statistical purposes in accordance with Article 89 (1) in so far as the Right referred to in paragraph
+    1 is likely to render impossible or seriously impair the achievement of the objectives of that
+    processing.......................................................................................................................................... 15
+    2.5        Establishment, exercise or defence of legal claims............................................................... 16
+
+
+
+
+                                                                                                                                                         3
+Adopted
+
+     The European Data Protection Board
+
+     Having regard to Article 70 (1)(e) of the Regulation 2016/679/EU of the European Parliament and of
+     the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+     personal data and on the free movement of such data, and repealing Directive 95/46/EC, (hereinafter
+     “GDPR”),
+
+     Having regard to the EEA Agreement and in particular to Annex XI and Protocol 37 thereof, as amended
+     by the Decision of the EEA joint Committee No 154/2018 of 6 July 20181,
+
+     Having regard to Article 12 and Article 22 of its Rules of Procedure,
+
+
+
+     HAS ADOPTED THE FOLLOWING GUIDELINES
+
+
+     INTRODUCTION
+1.   Following the Costeja judgment of the Court of Justice of the European Union (“CJEU”) of the 13th of
+     May 20142, a data subject may request the provider of an online search engine (“search engine
+     provider”)3, to erase one or more links to web pages from the list of results displayed following a search
+     made on the basis of his or her name.
+
+2.   According to Google’s Transparency Report4, the percentage of URLs that Google has not delisted has
+     not increased over the past 5 years since that judgement. However, further to the CJEU judgement,
+     data subjects seem to be more aware of their right to lodge a complaint for refusals of their delisting
+     requests since Supervisory Authorities have observed an increase in the number of complaints
+     regarding the refusal by search engine providers to delist links.
+
+3.   The European Data Protection Board (the “EDPB”), in accordance with its Action Plan, is developing
+     guidelines in respect of Article 17 of the General Data Protection Regulation (“GDPR”). Until those
+     guidelines are finalised, Supervisory Authorities must continue to handle and investigate, to the extent
+     possible, complaints from data subjects and in a timely manner as possible.
+
+4.   Accordingly, this document aims to interpret the Right to be Forgotten in the search engines cases in
+     light of the provisions of Article 17 GDPR (the “Right to request delisting”). Indeed, the Right to be
+     Forgotten has been especially enacted under Article 17 GDPR to take into account the Right to request
+     delisting established in the Costeja judgement.
+
+5.   Nonetheless, as under the Directive 95/46/EC of 24 October 1995 (the “Directive”) and as stated by
+     the CJEU in its aforementioned Costeja judgement5, the Right to request delisting implies two rights
+
+
+     1 References to “Member States” made throughout these guidelines should be understood as references to “EEA Member
+
+     States”.
+     2 CJEU, Case C-131/12, Google Spain SL and Google Inc. v Agencia Española de Protección de Datos (AEPD) and Mario Costeja
+
+     González, judgment of 13 May 2014.
+     3 including web archives such as archive.org
+     4 https://transparencyreport.google.com/eu-privacy/overview?hl=en
+     5 CJEU, Case C-131/12, judgment of 13 May 2014, paragraph 88: “Article 12(b) and subparagraph (a) of the first paragraph of
+
+     Article 14 of Directive 95/46 are to be interpreted as meaning that, in order to comply with the rights laid down in those
+
+                                                                                                                              4
+     Adopted
+
+      (Right to Object and Right to Erasure GDPR). Indeed, the application of Article 21 is expressly foreseen
+      as the third ground for the Right to erasure. As a result, both Article 17 and Article 21 GDPR can serve
+      as a legal basis for delisting requests. The right to object and the right to obtain erasure were already
+      granted under the Directive. Nonetheless, as it will be addressed, the wording of the GDPR requires an
+      adjustment of the interpretation of these rights.
+
+6.    As a preliminary point, it should be noted that, while Article 17 GDPR is applicable to all data
+      controllers, this paper focuses solely on processing by search engine providers and delisting requests
+      submitted by data subjects.
+
+7.    There are some considerations when applying Article 17 GDPR in respect of a search engine provider’s
+      data processing. In this regard, it is necessary to state that the processing of personal data carried out
+      in the context of the activity of the search engine provider must be distinguished from processing that
+      is carried out by the publishers of the third-party websites such as media outlets that provide online
+      newspaper content6.
+
+8.    If a data subject obtains the delisting of a particular content, this will result in the deletion of that
+      specific content from the list of search results concerning the data subject when the search is, as a
+      main rule, based on his or her name. This content will however still be available using other search
+      criteria.
+
+9.    Delisting requests do not result in the personal data being completely erased. Indeed, the personal
+      data will neither be erased from the source website nor from the index and cache of the search engine
+      provider. For example, a data subject may seek the delisting of personal data from a search engine’s
+      index which have originated from a media outlet, such as a newspaper article. In this instance, the link
+      to the personal data may be delisted from the search engine’s index; however, the article in question
+      will still remain within the control of the media outlet and may remain publicly available and accessible,
+      even if no longer visible in search results based on queries that include in principle the data subject’s
+      name.
+
+10.   Nevertheless, search engine providers are not exempt in a general manner from the duty to fully erase.
+      In some exceptional cases, they will need to carry out actual and full erasure in their indexes or caches.
+      For example, in the event that search engine providers would stop respecting robots.txt requests
+      implemented by the original publisher, they would actually have a duty to fully erase the URL to the
+      content, as opposed to delist which is mainly based on data subject’s name.
+
+11.   This paper is divided into two topics. The first topic concerns the grounds a data subject can rely on for
+      a delisting request sent to a search engine provider pursuant to Article 17.1 GDPR. The second topic
+      concerns the exceptions to the Right to request delisting according to Article 17.3 GDPR. This paper
+      will be supplemented by an appendix dedicated to the assessment of criteria for handling complaints
+      for refusals of delisting.
+
+
+
+
+      provisions and in so far as the conditions laid down by those provisions are in fact satisfied, the operator of a search engine is
+      obliged to remove from the list of results displayed following a search made on the basis of a person’s name links to web
+      pages, published by third parties and containing information relating to that person, also in a case where that name or
+      information is not erased beforehand or simultaneously from those web pages, and even, as the case may be, when its
+      publication in itself on those pages is lawful”.
+      6 CJEU, Case C 131/12, judgment of 13 May 2014; European Court of Human Rights (ECHR), “M.L. and W.W. vs Germany”, 28
+
+      June 2018.
+
+                                                                                                                                      5
+      Adopted
+
+12.   This paper does not address Article 17.27 GDPR. Indeed, this Article requires data controllers who have
+      made the personal data public to inform controllers who have then reused those personal data
+      through links, copies or replications. Such obligation of information does not apply to search engine
+      providers when they find information containing personal data published or placed on the internet by
+      third parties, index it automatically, store it temporarily and make it available to internet users
+      according to a particular order of preference8. In addition, it does not require search engine providers,
+      who have received a data subject’s delisting request, to inform the third party which made public that
+      information on the internet. Such obligation seeks to give greater responsibility to original controllers
+      and try to prevent from multiplying data subjects’ initiatives. In this regard, the statement by the
+      Article 29 Working Party, saying that search engine providers “should not as a general practice inform
+      the webmasters of the pages affected by de-listing of the fact that some webpages cannot be acceded
+      from the search engine in response to specific queries” because “such communication has no legal basis
+      under EU data protection law”9 remains valid. It is also planned to have separate specific guidelines in
+      respect of Article 17.2 GDPR.
+
+
+      1 THE GROUNDS OF THE RIGHT TO REQUEST DELISTING UNDER
+        GDPR
+13.   The Right to request delisting as provided by Article 17 GDPR does not change the findings of the
+      Costeja judgement, in which the CJEU held that a request for delisting was based on the Right to
+      rectification/erasure and on the Right to object, pursuant to Article 12 and Article 14 of the Directive
+      respectively.
+
+14.   Article 17.1 sets out a general principle to erase the data in the six following cases:
+
+          a. the personal data are no longer necessary in relation to the purposes for which they were
+             collected or otherwise processed (Article 17.1.a);
+          b. the data subject withdraws consent on which the processing is based (Article 17.1.b);
+          c. the data subject exercised his or her Right to object to processing of his or her personal data
+             pursuant to Article 21.1 and 21.2 GDPR;
+          d. the personal data have been unlawfully processed (Article 17.1.d);
+          e. the erasure is compliant with a legal obligation (Article 17.1.e);
+          f. the personal data have been collected in relation to the offer of information society services
+             to a minor (Article 17.1.f which refers to Article 8.1).
+
+15.   While all the grounds of Article 17 are theoretically applicable when it comes to delisting, in practice,
+      some will be rarely or never used, such as in case of withdrawal of consent (see ground 2 below).
+
+16.   A data subject could however make a delisting request to a search engine provider based on more than
+      one ground. For example, a data subject could request delisting because he or she considers it no
+
+      7 Regulation 2016/679 (GDPR), Article 17.2: “Where the controller has made the personal data public and is obliged pursuant
+
+      to paragraph 1 to erase the personal data, the controller, taking account of available technology and the cost of
+      implementation, shall take reasonable steps, including technical measures, to inform controllers which are processing the
+      personal data that the data subject has requested the erasure by such controllers of any links to, or copy or replication of,
+      those data.”
+      8 See CJEU, Case C-136/17, GC and Others v CNIL, judgment of 24 September 2019, paragraph 35 and Case C-131/12,
+
+      judgment of 13 May 2014, paragraph 41.
+      9 Article 29 Data Protection Working Party, “Guidelines on the implementation of the Court of Justice of the European Union
+
+      judgment on “Google Spain and inc v. Agencia Española de Protección de Datos (AEPD) and Mario Costeja González” C-
+      131/12, WP 225, 26 November 2014, p. 23.
+
+                                                                                                                                 6
+      Adopted
+
+      longer necessary that his or her personal data are processed by the search engine (Article 17.1.a) and
+      also exercise his or her Right to object to the processing pursuant to Article 21.1 GDPR (Article 17.1.c).
+
+17.   In order for Supervisory Authorities to assess complaints regarding a search engine provider who has
+      refused to erase a particular search result pursuant to Article 17 GDPR, Supervisory Authorities should
+      establish whether the content to which an URL is referring to should be delisted or not. They should
+      thus, in their analysis of the substance of the complaint, take into account the nature of the content
+      made available by the publishers of the third-party websites.
+
+      1.1 Ground 1: The Right to request delisting when the personal data are no longer
+          necessary in relation to the search engine provider’s processing (Article 17.1.a)
+18.   According to Article 17.1.a GDPR, a data subject may request a search engine provider, following a
+      search carried out as a general rule on the basis of his or her name, to delist content from its search
+      results, where the data subject’s personal data returned in those search results are no longer necessary
+      in relation to the purposes of the processing by the search engine.
+
+19.   This provision enables a data subject to request the delisting of personal information concerning him
+      or her that have been made accessible for longer than it is necessary for the search engine provider’s
+      processing. Yet, this processing is notably carried out for the purposes of making information more
+      easily accessible for internet users. Within the context of the Right to request delisting, the balance
+      between the protection of privacy and the interests of Internet users in accessing the information must
+      be undertaken. In particular, it must be assessed whether or not, over the course of time, the personal
+      data have become out-of-date or have not been updated.
+
+20.   For example, a data subject may exercise his or her Right to request delisting pursuant to Article 17.1.a
+      when:
+
+             information about him or her held by a company has been removed from the public register;
+             a link to a firm’s website contains his or her contact details although he or she is no longer
+              working in that firm;
+             information has to be published on the Internet for a number of years to meet a legal
+              obligation and remained online longer than the time limit specified by the legislation.
+
+21.   As demonstrated by the examples, a data subject may notably request the delisting of a content where
+      the personal information are obviously inaccurate due to the course of time, or outdated. Such an
+      assessment will incidentally be dependent on the purposes of the original processing. Consequently,
+      the original retention periods of personal data, when available, should also be considered by
+      Supervisory Authorities when they conduct their analysis of delisting requests pursuant to Article
+      17.1.a GDPR.
+
+      1.2 Ground 2: The Right to request delisting when the data subject withdraws
+          consent where the legal basis for the processing is pursuant to Article 6.1.a or
+          Article 9.2.a GDPR and where there is no other legal basis for the processing
+          (Article 17.1.b)
+22.   According to Article 17.1.b GDPR, a data subject may obtain the erasure of personal data concerning
+      him or her where he or she withdraws consent for the processing.
+
+23.   In case of delisting, it would mean that the search engine provider would have utilised the consent of
+      the data subject as lawful basis for its processing. Article 17.1 GDPR indeed raises the question of the
+
+
+                                                                                                              7
+      Adopted
+
+      lawful basis for processing relied upon by a search engine provider for the purpose of returning search
+      engine results including personal data.
+
+24.   For that reason, it appears unlikely that a delisting request would be submitted by a data subject on
+      the basis that he or she wishes to withdraw consent because the controller to whom the data subject
+      gave his or her consent is the web publisher, not the search engine operator that indexes the data.
+      This interpretation has been endorsed by the CJEU in its judgement C-136-17 of 24 September 2019
+      (the “Google 2 judgment”).10 The Court indicates that “(…) the consent must be ‘specific’ and must
+      therefore relate specifically to the processing carried out in connection with the activity of the search
+      engine (…). In practice, it is scarcely conceivable (…) that the operator of a search engine will seek the
+      express consent of data subjects before processing personal data concerning them for the purposes of
+      his referencing activity. In any event, (…) the mere fact that a person makes a request for de-referencing
+      means, in principle, at least at the time of making the request, that he or she no longer consents to the
+      processing carried out by the operator of the search engine.”
+
+25.   Nonetheless, in the event where a data subject would have withdrawn his or her consent for the use
+      of his or her data on a particular web page, the original publisher of that web page should inform
+      search engine providers who have indexed that data pursuant to Article 17.2 GDPR. The data subject
+      would thus still be entitled to obtain the delisting of personal data concerning him or her but according
+      to Article 17.1.c in such case.
+
+      1.3 Ground 3: The Right to request delisting when the data subject has exercised his
+          or her Right to object to the processing of his or her personal data (Article 17.1.c)
+26.   Pursuant to Article 17.1.c GDPR, a data subject can obtain from the search engine provider the erasure
+      of personal data concerning him or her where he or she objects to the processing according to Article
+      21.1 GDPR and where there are no overriding legitimate grounds for the processing by the data
+      controller.
+
+27.   The Right to object affords stronger safeguards to data subjects since it does not restrict the grounds
+      according to which data subjects may request delisting as under Article 17.1 GDPR.
+
+28.   The Right to object to the processing was provided for by Article 14 of the Directive11 and constituted
+      a ground to request the delisting since the Costeja judgement. However, the differences in the wording
+      of Article 21 GDPR and Article 14 of the Directive suggest that there may also be differences in their
+      application.
+
+29.   Under the Directive, the data subject had to base his or her request “on compelling legitimate grounds
+      relating to his [or her] particular situation”. In respect of the GDPR, a data subject can object to a
+      processing “on grounds relating to his or her particular situation”. He or she thus no longer has to
+      demonstrate “compelling legitimate grounds”.
+
+30.   The GDPR therefore changes the burden of proof, providing a presumption in favour of the data subject
+      by obliging on the contrary the controller to demonstrate “compelling legitimate grounds for the
+      processing” (Article 21.1). As a result, when a search engine provider receives a request to delist based
+      on the data subject’s particular situation, it must now erase the personal data, pursuant to Article
+
+      10 CJEU, Case C‑136/17, Commission nationale de l’informatique et des libertés (CNIL) v. Google LLC,                judgment of 24
+      September 2019.
+      11 Directive 95/46/CE, Article 14: “Member States shall grant the data subject the right: (a) at least in the cases referred to in
+
+      Article 7 (e) and (f), to object at any time on compelling legitimate grounds relating to his particular situation to the processing
+      of data relating to him, save where otherwise provided by national legislation. Where there is a justified objection, the
+      processing instigated by the controller may no longer involve those data”
+
+                                                                                                                                        8
+      Adopted
+
+      17.1.c GDPR, unless it can demonstrate “overriding legitimate grounds” for the listing of the specific
+      search result, which read in conjunction with Article 21.1 are “compelling legitimate grounds (…) which
+      override the interests, rights and freedoms of the data subject”. The search engine provider can
+      establish any “overriding legitimate grounds”, including any exemption provided for under Article 17.3
+      GDPR. Nonetheless, if the search engine provider fails to demonstrate the existence of overriding
+      legitimate grounds, the data subject is entitled to obtain the delisting pursuant to Article 17.1.c GDPR.
+      As a matter of fact, delisting requests now imply to make the balance between the reasons related to
+      the particular situation of the data subject and the compelling legitimate grounds of the search engine
+      provider. The balance between the protection of privacy and the interests of Internet users in accessing
+      to the information as ruled by the CJEU in the Costeja judgement can be relevant to conduct such
+      assessment, as well as the balance operated by the European Court of Human Rights (ECHR) in press
+      matters.
+
+31.   Therefore, the criteria of delisting developed by the Article 29 Working Party in guidelines on the
+      implementation of the Court of Justice of the European Union judgment on “Google Spain and Inc v.
+      Agencia Española de Protección de Datos (AEPD) and Mario Costeja González” C-131/12 can still be
+      used by search engine providers and Supervisory Authorities to assess a delisting request based on the
+      Right to object (Article 17.1.c GDPR).
+
+32.   In this regard, the “particular situation” of the data subject will underlie the delisting request (for
+      example, a search result creates detriment for a data subject when applying for jobs, or undermines
+      his or her reputation in personal life) and will be taken into account when undertaking the balance
+      between personal rights and right to information, in addition to the classic criteria for handling
+      delisting requests, such as:
+
+               he or she does not play a role in public life;
+               the information at stake is not related to his or her professional life but affects his or her
+                privacy;
+               the information constitutes hate speech, slander, libel or similar offences in the area of
+                expression against him or her pursuant to a court order;
+               the data appears to be a verified fact but is factually inaccurate;
+               the data relates to a relatively minor criminal offence that happened a long time ago and
+                causes prejudice to the data subject.
+
+33.   Nonetheless, these criteria won’t have to be examined in the absence of proof of compelling legitimate
+      grounds to refuse the request.
+
+      1.4 Ground 4: The Right to request delisting when the personal data have been
+          unlawfully processed (Article 17.1.d)
+34.   According to Article 17.1.d GDPR, a data subject may request the erasure of personal data concerning
+      him or her in the instance where they have been unlawfully processed.
+
+35.   The notion of unlawful processing shall first be interpreted in view of Article 6 GDPR dedicated to
+      lawfulness of processing. Other principles established under the GDPR (such as principles of Article 5
+      GDPR or of other provisions of Chapter II) may serve such interpretation.
+
+36.   This notion shall secondly be interpreted broadly, as the infringement of a legal provision other than
+      the GDPR. Such interpretation must be conducted objectively by Supervisory Authorities, according to
+      national laws or to a court decision. For instance, a delisting request shall be granted in the event
+      where the listing of personal information has been expressly prohibited by a court order.
+
+
+                                                                                                             9
+      Adopted
+
+      In cases where a search engine provider is not able to demonstrate a legal basis for its processing, a
+      delisting request may fall under the scope of art 17.1.d GDPR, as the processing of personal data in
+      such cases must be considered unlawful. Nonetheless, it must be reminded that in case of unlawfulness
+      of the original processing, the data subject remains entitled to request delisting under Article 17.1.c
+      GDPR.
+
+      1.5 Ground 5: The Right to request delisting when the personal data have to be
+          erased for compliance with a legal obligation (Article 17.1.e)
+37.   According to Article 17.1.e GDPR, a data subject may request a search engine provider to delist one or
+      more search results if the personal data need to be erased in compliance with a legal obligation in
+      Union or Member State Law to which the search engine provider is subject.
+
+38.   Compliance with a legal obligation may result from an injunction, an express request by national or EU
+      law for being under a “legal obligation to erase” or the mere breach by the search engine provider of
+      the retention period. For illustrative purposes, the retention period of data is set by a text but would
+      not be complied with (but this hypothesis mainly concerns public files). This case could maybe
+      encompass the hypothesis of non-anonymized or identifying data available in open data.
+
+      1.6 Ground 6: The Right to request delisting when the personal data have been
+          collected in relation to the offer of information society services (ISS) to a child
+          (Article 17.1.f)
+39.   According to Article 17.1.f GDPR, a data subject may request a search engine provider to delist one or
+      more results if personal data have been collected in relation to the offer of ISS to a child referred to in
+      Article 8.1 GDPR.
+
+40.   The Article covers the direct provision of ISS and no other types of processing. The GDPR does not
+      define ISS; rather, it refers to existing definitions in EU law12. There are some difficulties in
+      interpretation as Recital 18 of Directive 2000/31/CE of the European Parliament and of the Council of
+      June 8, 2000 provides a definition both broad and ambiguous of the notion of “the direct provision of
+      information society services”. It mainly indicates that these services “span a wide range of economic
+      activities which take place on-line”, but specifies that they are not restricted to “services giving rise to
+      on-line contracting but also, in so far as they represent an economic activity, extend to services which
+      are not remunerated by those who receive them, such as those offering on-line information or
+      commercial communications, or those providing tools allowing for search, access and retrieval of data”,
+      outlining the criteria of economic activity.
+
+41.   It stems from the above that search engine providers’ activities are likely to fall within the scope of
+      direct provision of ISS. Nonetheless, search engine providers do not question whether the personal
+      data they are indexing concern or not a child. Yet, in view of their specific responsibilities, and subject
+      to the application of Article 17.3 GDPR, they would have to delist a content relating to a child pursuant
+      to Article 17.1.c GDPR, acknowledging that being a child is a valid “ground relating to a particular
+      situation” (Article 21 GDPR) and that “children merit specific protection with regard to their personal
+      data” (Recital 38 GDPR). In such case, the context of the collection of personal data by the original
+
+
+
+
+      12 Specifically, Article 1(1)(b) of Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015
+
+      laying down a procedure for the provision of information in the field of technical regulations and of rules on Information
+      Society services (codification).
+
+                                                                                                                                 10
+      Adopted
+
+      controller must be considered. In particular, the date of the beginning of the processing by the original
+      website must be taken into account when a data subject requests the delisting of a content.
+
+
+
+
+      2 THE EXCEPTIONS TO THE RIGHT TO REQUEST DELISTING UNDER
+        ARTICLE 17.3
+42.   Article 17.3 GDPR states that paragraphs 1 and 2 of Article 17 GDPR will not apply when processing is
+      necessary:
+
+          a. for exercising the right of freedom of expression and information (Article 17.3.a);
+          b. for compliance with a legal obligation that requires processing by Union or Member State law
+             to which the controller is subject or for the performance of a task carried out in the public
+             interest or in the exercise of official authority vested in the controller (Article 17.3.b);
+          c. for reasons of public interest in the area of public health in accordance with points (h) and (i)
+             of Article 9.2 as well as Article 9.3 (Article 17.3.c);
+          d. for archiving purposes in the public interest, scientific or historical research purposes, or
+             statistical purposes in accordance with Article 89 (1) in so far as the right referred to in
+             paragraph 1 is likely to render impossible or seriously impair the achievement of the objectives
+             of that processing (Article 17.3.d); or
+          e. for the establishment, exercise or defense of legal claims (Article 17.3.e).
+
+43.   This part aims to demonstrate that most of the exceptions under Article 17.3 GDPR do not appear
+      suitable in case of a delisting request. Such inadequacy pleads in favor of the application of Article 21
+      GDPR for delisting requests. In any event, it must be remembered that exceptions provided for under
+      Article 17.3 GDPR can be invoked as compelling legitimate grounds pursuant to Article 17.1.c GDPR.
+
+      2.1 Processing is necessary for exercising the right of freedom of expression and
+          information
+44.   This exemption to the application of Article 17.1 GDPR must be interpreted and applied in the context
+      of the characteristics that define erasure. Article 17.1 GDPR is described as a clear and unconditional
+      mandate addressed to controllers. If the conditions set forth in Article 17.1 GDPR are met, the
+      controller shall "have the obligation to delete personal data without undue delay". Nonetheless, this is
+      not an absolute right. The exemptions of Article 17.3 GDPR identify cases in which this obligation does
+      not apply.
+
+45.   However, the balance between protecting the rights of interested parties and freedom of expression,
+      including free access to information, is an intrinsic part of Article 17 GDPR.
+
+46.   The CJEU recognised in the Costeja judgement and repeated recently in the Google 2 judgment that
+      the processing carried out by a search engine provider can significantly affect the fundamental rights
+      to privacy and data protection law when the search is performed using the name of a data subject.
+
+47.   When weighing up the rights and freedoms of data subjects and the interests of Internet users in
+      accessing the information through the search engine provider, the Court understood that "Whilst it is
+      true that the data subject's rights are protected by those articles also override, as a general rule, that
+      interest of internet users, that balance may however depend, in specific cases, on the nature of the
+      information in question and its sensitivity for the data subject's private life and on the interest of the
+
+
+                                                                                                             11
+      Adopted
+
+      public in having that information, an interest which may vary, in particular, according to the role played
+      by the data subject in public life.”13
+
+48.   The Court also considered that the rights of the data subjects will prevail, in general14, on the interest
+      of Internet users in accessing information through the search engine provider. However, it identified
+      several factors that may influence such determination. Among them include: the nature of the
+      information or its sensitivity, and especially the interest of Internet users in accessing information, an
+      interest that can vary depending on the role played by the interested party in public life.
+
+49.   The analysis of the delisting by the Court implies that, when assessing requests for delisting, the
+      decision on the maintenance or blocking of the search results by a search engine provider necessarily
+      has to consider what would be the impact of a delisting decision on the access to information by
+      Internet users15. This impact does not necessarily entail the rejection of a delisting request. As
+      confirmed by the Court, such interference with the fundamental rights of the data subject has to be
+      justified by the preponderant interest of the general public in having access to the information in
+      question.
+
+50.   The Court also distinguished between the legitimacy that a web publisher can have to disseminate
+      information against the legitimacy of the search engine provider. The Court recognised that the activity
+      of a web publisher can be undertaken exclusively for the purposes of journalism, in which case the
+      web publisher would benefit from the exemptions that Member States could establish in these cases
+      on the basis of Article 9 of the Directive (currently , Article 85.2 GDPR). In this regard, in the judgment
+      “M.L. and W.W. vs Germany” of June 28th, 2018, the ECHR indicates that the balancing of the interests
+      at issue may lead to different results depending on the request at stake (distinguishing (i) a request for
+      erasure brought against the original publisher whose activity is at the heart of what freedom of
+      expression aims to protect from (ii) a request brought against the search engine whose first interest is
+      not to publish the original information on the data subject but notably to enable identifying any
+      available information on this person and thus establishing his or her profile).
+
+51.   Those considerations should be assessed in respect of Article 17 GDPR complaints as in those decisions,
+      the rights of the data subjects that have requested the delisting must be weighed with the interests of
+      Internet users to access the information.
+
+52.   As explained by the CJEU in its Google 2 judgment, Article 17.3.a GDPR is “an expression of the fact
+      that the right to protection of personal data is not an absolute right but (…) must be considered in
+      relation to its function in society and be balanced against other fundamental rights, in accordance with
+      the principle of proportionality”.16 It “expressly lays down the requirement to strike a balance between
+      the fundamental rights to privacy and protection of personal data guaranteed by Articles 7 and 8 of
+      the Charter, on the one hand, and the fundamental right of freedom of information guaranteed by
+      Article 11 of the Charter, on the other.”17
+
+53.   The Court concludes that "where the operator of a search engine has received a request for de-
+      referencing relating to a link to a web page on which personal data falling within the special categories
+      (…), the operator must, on the basis of all the relevant factors of the particular case and taking into
+      account the seriousness of the interference with the data subject’s fundamental rights to privacy and
+
+      13 CJEU, C-131/12, judgment of 13 May 2014, paragraph 81; CJEU, C-136/17, judgment of 24 September 2019, paragraph 66.
+      14 CJEU, Case C-131/12, judgment of 13 May 2014, paragraph 99; CJEU, Case C-136/17, judgment of 24 September 2019,
+
+      paragraph 53.
+      15 CJEU, Case C-136/17, judgment of 24 September 2019, paragraph 56 et seq.
+      16 CJEU, Case C-136/17, judgment of 24 September 2019, paragraph 57.
+      17 CJEU, Case C-136/17, judgment of 24 September 2019, paragraph 59.
+
+
                                                                                                                          12
-Adotadas
+      Adopted
 
-   c)    Por motivos de interesse público no domínio da saúde pública, nos termos do artigo 9.º, n.º 2,
-         alíneas h) e i), bem como do artigo 9.º, n.º 3 [artigo 17.º, n.º 3, alínea c)];
-   d)    Para fins de arquivo de interesse público, para fins de investigação científica ou histórica ou
-         para fins estatísticos, nos termos do artigo 89.º, n.º 1, na medida em que o direito referido no
-         n.º 1 seja suscetível de tornar impossível ou prejudicar gravemente a obtenção dos objetivos
-         desse tratamento [artigo 17.º, n.º 3, alínea d)]; ou
-   e)    Para efeitos de declaração, exercício ou defesa de um direito num processo judicial [artigo
-         17.º, n.º 3, alínea e)].
+      protection of personal data laid down in Articles 7 and 8 of the Charter, ascertain, having regard to the
+      reasons of substantial public interest (…), whether the inclusion of that link in the list of results displayed
+      following a search on the basis of the data subject’s name is strictly necessary for protecting the
+      freedom of information of internet users potentially interested in accessing that web page by means of
+      such a search, protected by Article 11 of the Charter.”18
 
-    43. Esta parte visa demonstrar que a maioria das exceções previstas no artigo 17.º, n.º 3, do RGPD
-        não parece adequada no caso de um pedido de supressão. Tal inadequação justifica a aplicação
-        do artigo 21.º do RGPD aos pedidos de supressão. De qualquer modo, importa recordar que
-        as exceções previstas no artigo 17.º, n.º 3, do RGPD podem ser invocadas como razões
-        imperiosas e legítimas nos termos do artigo 17.º, n.º 1, alínea c), do RGPD.
+54.   To conclude, depending on the circumstances of the case, search engine providers may refuse to delist
+      a content in the event where they can demonstrate that its inclusion in the list of results is strictly
+      necessary for protecting the freedom of information of internet users.
 
-2.1 O tratamento revela-se necessário ao exercício da liberdade de expressão e de
-    informação
-    44. Esta isenção à aplicação do artigo 17.º, n.º 1, do RGPD deve ser interpretada e aplicada no
-        contexto das características que definem o apagamento. O artigo 17.º, n.º 1, do RGPD é
-        descrito como um mandato claro e incondicional dirigido aos responsáveis pelo tratamento.
-        Se as condições estabelecidas no artigo 17.º, n.º 1, do RGPD estiverem preenchidas, o
-        responsável pelo tratamento «tem a obrigação de apagar os dados pessoais, sem demora
-        injustificada». Contudo, isto não é um direito absoluto. As isenções previstas no artigo 17.º,
-        n.º 3, do RGPD identificam os casos em que esta obrigação não se aplica.
-    45. No entanto, o equilíbrio entre a proteção dos direitos das partes interessadas e a liberdade de
-        expressão, incluindo o livre acesso à informação, é uma parte intrínseca do artigo 17.º do
-        RGPD.
-    46. O TJUE reconheceu no acórdão Costeja e reiterou recentemente no acórdão Google 2 que o
-        tratamento efetuado pelo operador de um motor de busca pode afetar significativamente os
-        direitos fundamentais à privacidade e a lei de proteção de dados quando a pesquisa é efetuada
-        utilizando o nome de um titular dos dados.
-    47. Ao ponderar os direitos e liberdades dos titulares dos dados e os interesses dos utilizadores
-        da Internet no acesso à informação através do operador de motores de busca, o Tribunal
-        entendeu que «Embora seja verdade que, regra geral, os direitos da pessoa em causa
-        protegidos por esses artigos prevalecem também sobre o referido interesse dos internautas,
-        este equilíbrio pode, todavia, depender, em determinados casos particulares, da natureza da
-        informação em questão e da sua sensibilidade para a vida privada da pessoa em causa, bem
-        como do interesse do público em dispor dessa informação, que pode variar, designadamente,
-        em função do papel desempenhado por essa pessoa na vida pública.»13
+      2.2 Processing is necessary for compliance with a legal obligation to which the
+          controller is subject or for the performance of a task carried out in the public
+          interest or in the exercise of official authority vested in the controller
+55.   The content of this exemption makes it difficult to apply to the activity of search engine providers and
+      it may have influence on the decisions of delisting certain results, as the processing of data by search
+      engine providers is based, in principle, on the legitimate interest of the search engine provider.
 
+      2.2.1 Legal obligation
+56.   It is difficult to imagine the existence of legal provisions that oblige search engine providers to
+      disseminate certain information. This is a consequence of the type of activity they develop. Search
+      engine providers do not produce or present information.
 
+57.   Therefore, it seems unlikely that Member State law includes obligations for search engine providers to
+      publish some type of information, instead of setting the obligation for that publication to be carried
+      out in other web pages that will then be linked by search engine providers.
 
+58.   This assessment may also be extended to the possibility that Union or Member State law enables a
+      public authority to take decisions that oblige search engine providers to publish information directly,
+      and not through the URL links to the web page where that information is contained.
 
-13 TJUE, Processo C-131/12, acórdão de 13 de maio de 2014, n.º 81; TJUE, Processo C-136/17, acórdão de 24 de setembro
+59.   If there are cases in which the law of a Member State establishes the obligation for the search engine
+      providers to publish decisions or documents containing personal information, or which authorises
+      public authorities to demand such publication, the exemption contained in Article 17.3.b GDPR should
+      be applied.
 
-de 2019, n.º66.
-                                                                                                                    13
-Adotadas
+60.   This application must take into account the terms in which it is established, that is, that the
+      maintenance of the information in questions is necessary to meet the legal obligation of publication.
+      For example, that a legal obligation, or the decision of an authority legally entitled to adopt it, may
+      include a time limit to the publication, or expressly stated purposes that may have been reached within
+      a certain time period. In these cases, if the request for delisting occurs having exceeded these time
+      limits, it should be considered that the exemption is no longer applicable.
 
-    48. O Tribunal considerou igualmente que os direitos dos titulares dos dados prevalecerão, em
-        geral14, sobre o interesse dos utilizadores da Internet no acesso à informação através do
-        operador do motor de busca. No entanto, identificou vários fatores que podem influenciar
-        essa determinação. Entre eles incluem-se: a natureza da informação ou a sua sensibilidade e,
-        em especial, o interesse dos utilizadores da Internet no acesso à informação, um interesse que
-        pode variar em função do papel desempenhado pela parte interessada na vida pública.
-    49. A análise da supressão pelo Tribunal implica que, na apreciação dos pedidos de supressão, a
-        decisão sobre a manutenção ou o bloqueio dos resultados da pesquisa por parte do operador
-        de um motor de busca deve necessariamente ter em conta o impacto de uma decisão de
-        supressão no acesso à informação por parte dos utilizadores da Internet15. Este impacto não
-        implica necessariamente a rejeição de um pedido de supressão. Tal como confirmado pelo
-        Tribunal, essa ingerência nos direitos fundamentais do titular dos dados deve ser justificada
-        pelo interesse preponderante do grande público em ter acesso à informação em questão.
-    50. O Tribunal distinguiu igualmente a legitimidade que um editor Web pode ter para divulgar
-        informações face à legitimidade do operador do motor de busca. O Tribunal reconheceu que
-        a atividade de um editor Web pode ser exercida exclusivamente para fins de jornalismo, caso
-        em que o editor Web beneficiaria das isenções que os Estados-Membros poderiam estabelecer
-        nestes casos com base no artigo 9.º da Diretiva (atualmente, artigo 85.º, n.º 2, do RGPD). A
-        este respeito, no acórdão «M.L. e W.W. c. Alemanha» de 28 de junho de 2018, o TEDH indica
-        que o equilíbrio dos interesses em causa pode conduzir a resultados diferentes em função do
-        pedido em questão (distinguindo (i) os pedidos de apagamento apresentados contra um editor
-        original cuja atividade esteja no centro do que a liberdade de expressão pretende proteger (ii)
-        os pedidos apresentados contra um motor de busca cujo primeiro interesse não seja publicar
-        as informações originais sobre os dados, mas sim, nomeadamente, permitir a identificação de
-        quaisquer informações disponíveis sobre esta pessoa e, por conseguinte, definir o seu perfil).
-    51. Estas considerações deverão ser apreciadas relativamente às reclamações relacionadas com
-        os casos previstos no artigo 17.º do RGPD, na medida em que neste tipo de decisões, os
-        direitos dos titulares dos dados que tenham solicitado a supressão devem ser ponderados face
-        aos interesses dos utilizadores da Internet de aceder à informação.
-    52. Tal como explicado pelo TJUE no seu acórdão Google 2, o artigo 17.º, n.º 3, alínea a), constitui
-        «uma expressão do facto de o direito à proteção dos dados pessoais não ser um direito
-        absoluto devendo (...) ser considerado em relação à sua função na sociedade e ser equilibrado
-        com outros direitos fundamentais, em conformidade com o princípio da proporcionalidade».16
-        «consagra assim expressamente a exigência de uma ponderação entre, por um lado, os direitos
-        fundamentais ao respeito pela vida privada e à proteção dos dados pessoais, consagrados
-        pelos artigos 7.° e 8.° da Carta, e, por outro, o direito fundamental à liberdade de informação,
-        garantido pelo artigo 11.° da Carta.»17
+61.   On the contrary, it is frequent that Member State law provides for the publication on web pages of
+      information containing personal data. That legal obligation to publish or maintain the published
+      information cannot be considered as covered by the exemption contained in Article 17.3.b GDPR, since
+      it is not directed to the search engine provider, but to the web publishers whose content is linked by
 
 
 
 
-14 TJUE, Processo C-131/12, acórdão de 13 de maio de 2014, n.º 99; TJUE, Processo C-136/17, acórdão de 24 de setembro de
-
-2019, n.º53.
-15 TJUE, Processo C-136/17, acórdão de 24 de setembro de 2019, n.º 56 e seguintes.
-16 Processo C-136/17, acórdão de 24 de setembro de 2019, n.º 57.
-17 TJUE, Processo C-136/17, acórdão de 24 de setembro de 2019, n.º 59.
-
-                                                                                                                     14
-Adotadas
-
-    53. O Tribunal conclui que «quando um pedido de supressão de referências relativo a uma
-        hiperligação que conduz a uma página Web na qual estão publicados dados sensíveis
-        pertencentes a categorias específicas visadas (...) é apresentado a um operador de um motor
-        de busca, este, baseando-se em todos os elementos pertinentes do caso concreto e tomando
-        em consideração a gravidade da ingerência nos direitos fundamentais da pessoa em causa ao
-        respeito pela vida privada e à proteção dos dados pessoais, consagrados nos artigos 7.° e 8.°
-        da Carta, deve verificar, a título dos motivos de interesse público importante (...), se a inclusão
-        dessa hiperligação na lista de resultados, que é exibida após uma pesquisa efetuada a partir
-        do nome dessa pessoa, é estritamente necessária para proteger a liberdade de informação dos
-        internautas potencialmente interessados em aceder a essa página Web através dessa
-        pesquisa, consagrada no artigo 11.° da Carta.»18
-    54. Para concluir, dependendo das circunstâncias do caso, os operadores de motores de busca
-        podem recusar-se a suprimir um conteúdo caso possam demonstrar que a sua inclusão na lista
-        de resultados é estritamente necessária para proteger a liberdade de informação dos
-        utilizadores da Internet.
-
-2.2 O tratamento revela-se necessário ao cumprimento de uma obrigação legal a
-    que o responsável esteja sujeito ou ao exercício de funções de interesse público
-    ou ao exercício da autoridade pública de que esteja investido o responsável pelo
-    tratamento
-    55. O conteúdo desta isenção dificulta a sua aplicação à atividade dos operadores de motores de
-        busca e pode influenciar as decisões de suprimir determinados resultados, uma vez que o
-        tratamento de dados por operadores de motores de busca se baseia, em princípio, no
-        interesse legítimo do operador de motores de busca.
-
-2.2.1 Obrigação legal
-    56. É difícil imaginar a existência de disposições legais que obriguem os operadores de motores
-        de busca a divulgar determinadas informações. Trata-se de uma consequência inerente ao tipo
-        de atividade que exercem. Os operadores de motores de busca não produzem nem
-        apresentam informações.
-    57. Por conseguinte, parece pouco provável que o direito dos Estados-Membros preveja a
-        obrigação de os operadores de motores de busca publicarem algum tipo de informação, em
-        vez de estabelecer a obrigação de essa publicação ser efetuada noutras páginas Web às quais
-        se acede através de uma ligação providenciada por operadores de motores de busca.
-    58. Esta avaliação pode também ser alargada à possibilidade de o direito da União ou dos Estados-
-        Membros permitir que uma autoridade pública tome decisões que obriguem os operadores
-        de motores de busca a publicar informações diretamente, e não através das ligações URL para
-        a página Web onde essas informações estão contidas.
-    59. Se existirem casos em que o direito de um Estado-Membro estabeleça a obrigação de os
-        operadores de motores de busca publicarem decisões ou documentos que contenham
+      18 CJEU, Case C-136/17, judgment of 24 September 2019, paragraph 69.
 
 
+                                                                                                                  13
+      Adopted
+
+      the search engine provider’s index. Therefore, the search engine provider cannot invoke the existence
+      of the obligation to reject a request for delisting.
+
+62.   However, the legal obligation of publication addressed to other web publishers should be taken into
+      consideration when establishing the balance between the rights of data subjects and the interest of
+      the Internet users in accessing the information. The fact that information must be published online by
+      legal mandate, or following the decision of an authority legally entitled to adopt it, is indicative of an
+      interest in the public being able to access that information.
+
+63.   That presumption of existence of a prevalent interest of the public does not operate in the same way
+      in respect of the originating web pages compared to the results index of a search engine provider.
+      Although the legal obligation to publish information on a certain web site may lead to the conclusion
+      that this information should not be deleted from that web page, the decision regarding the results
+      offered by the search engine provider when the name of a data subject is generally used as search
+      term may be different.
+
+64.   The assessment of the request for delisting in these cases should not assume that the existence of the
+      legal obligation of publication necessarily implies that, to the extent that this obligation is imposed on
+      the original web publishers, it is not possible to accept the delisting by the search engine provider.
+
+65.   The decision should be taken, as is the general rule, by balancing the rights of the data subject and the
+      interest of the Internet users to access this information through the search engine provider.
+
+      2.2.2 Performance of a task carried out in public interest or in the exercise of official
+            authority
+66.   Search engine providers are not public authorities and therefore do not exercise public powers by
+      themselves.
+
+67.   However, they could exercise those powers if they were attributed by the law of a Member State or of
+      the Union. In the same way that they could carry out missions of public interest if their activity was
+      considered necessary to satisfy that public interest in accordance with national legislation19.
+
+68.   Given the characteristics of search engine providers, it is unlikely that Member States will grant them
+      public powers or consider that their activity or part of it is necessary for the achievement of a legally
+      established public interest.
+
+69.   If, in spite of that, there is a case in which the law of the Member States grants search engines public
+      powers or links their activity to the achievement of a public interest, they could avail of the exemption
+      provided for in Article 17.3.b GDPR. The considerations previously made on the cases in which the law
+      of a Member State had established a legal obligation to process information for search engine
+      providers are also valid in this case.
+
+70.   To decide not to follow a delisting request for reasons related to this exemption, it is necessary to
+      determine whether the maintenance of the information in the search engine results is necessary for
+      the achievement of the public interest pursued or for the exercise of the powers of attorney.
+
+71.   On the other hand, the legal definition of powers or public interest would be carried out by a Member
+      State, and if the search engine rejects a request for delisting on the basis of this exemption, it must
 
 
-18 TJUE, Processo C-136/17, acórdão de 24 de setembro de 2019, n.º 69.
+      19 GDPR, Article 6.3: “The basis for the processing referred to in point (c) and (e) of paragraph 1 shall be laid down by:
 
-                                                                                                        15
-Adotadas
+                (a) Union law; or
+                (b) Member State law to which the controller is subject (…)”
 
-       informações pessoais, ou que autorize as autoridades públicas a exigir essa publicação, deverá
-       ser aplicada a isenção prevista no artigo 17.º, n.º 3, alínea b), do RGPD.
-   60. Na aplicação dessa isenção, devem ser tidas em conta as condições em que a mesma é
-       estabelecida, ou seja, se a manutenção das informações em causa é necessária para cumprir
-       a obrigação legal de publicação. Por exemplo, se uma obrigação legal, ou a decisão de uma
-       autoridade legalmente autorizada a adotar tal obrigação, pode incluir um prazo para a
-       publicação ou finalidades expressamente enunciadas que possam ter sido alcançadas num
-       determinado período. Nestes casos, se o pedido de supressão tiver ultrapassado estes prazos,
-       deve considerar-se que a isenção deixou de ser aplicável.
-   61. Pelo contrário, é frequente que o direito dos Estados-Membros preveja a publicação nas
-       páginas Web de informações que contenham dados pessoais. Essa obrigação legal de publicar
-       ou manter as informações publicadas não pode ser considerada como uma isenção a que se
-       refere o artigo 17.º, n.º 3, alínea b), do RGPD, uma vez que não se destina ao operador de um
-       motor de busca, mas sim aos editores Web cujo conteúdo esteja acessível através de ligação
-       pelo índice do operador do motor de busca. Por conseguinte, o operador de um motor de
-       busca não pode invocar a existência da obrigação de rejeitar um pedido de supressão.
-   62. No entanto, a obrigação legal de publicação dirigida a outros editores Web deverá ser tomada
-       em consideração ao estabelecer o equilíbrio entre os direitos dos titulares dos dados e o
-       interesse dos utilizadores da Internet no acesso à informação. O facto de uma informação
-       dever ser publicada em linha por mandato legal ou na sequência da decisão de uma autoridade
-       legalmente habilitada a adotá-la é indicativo de um interesse no acesso do público a essa
-       informação.
-   63. Essa presunção de existência de um interesse predominante do público não funciona da
-       mesma forma no que se refere às páginas Web de origem em comparação com o índice de
-       resultados de um operador de motores de busca. Embora a obrigação legal de publicar
-       informações num determinado sítio Web possa levar à conclusão de que estas informações
-       não devem ser apagadas dessa página Web, a decisão relativa aos resultados oferecidos pelo
-       operador do motor de busca quando o nome de um titular dos dados é geralmente utilizado
-       como termo de pesquisa pode ser diferente.
-   64. A apreciação do pedido de supressão nestes casos não deverá partir do princípio de que a
-       existência da obrigação legal de publicação implica necessariamente que, na medida em que
-       esta obrigação é imposta aos editores Web originais, não é possível aceitar a supressão pelo
-       operador do motor de busca.
-   65. A decisão deverá ser tomada, como é regra geral, ponderando um equilíbrio entre os direitos
-       do titular dos dados e o interesse dos utilizadores da Internet em aceder a esta informação
-       através do operador do motor de busca.
+                                                                                                                                   14
+      Adopted
 
-2.2.2 Exercício de funções de interesse público ou exercício da autoridade pública
-   66. Os operadores de motores de busca não são autoridades públicas e, por conseguinte, não
-       exercem por si só poderes públicos.
-   67. No entanto, poderiam exercer tais poderes se estes fossem atribuídos pelo direito de um
-       Estado-Membro ou da União. Do mesmo modo que poderiam realizar missões de interesse
+      also be understood that it does so because it considers that its activity is necessary to achieve public
+      interests. The search engine provider should, in that event, provide reasons why it considers its activity
+      to be carried out in the public interest. Without such an explanation, the denial to follow a data
+      subject’s delisting request does not have the possibility of relying on the exemption.
 
+72.   Consequently, it would also be the Supervisory Authority of the Member State whose law is applicable
+      that will have to deal with a potential complaint pursuant to Article 55.2 GDPR.
 
+      2.3 Reasons of public interest in the area of public health
+73.   This exemption is a specific case based on the fact that processing is necessary for the performance of
+      a public interest.
 
-                                                                                                  16
-Adotadas
+74.   In this case, the public interest is limited to the area of public health, but, as with the public interest in
+      any other area, the lawful basis for the processing must be established in Union law or Member State
+      law.
 
-         público se a sua atividade fosse considerada necessária para satisfazer esse interesse público
-         em conformidade com a legislação nacional.19
-     68. Dadas as características dos operadores de motores de busca, não é provável que os Estados-
-         Membros lhes concedam poderes públicos ou considerem que a sua atividade ou parte dela é
-         necessária para a realização de um interesse público legalmente estabelecido.
-     69. Se, apesar disso, o direito dos Estados-Membros conceder poderes públicos aos motores de
-         busca ou associar a sua atividade à realização de um interesse público, estes poderão
-         beneficiar da isenção prevista no artigo 17.º, n.º 3, alínea b), do RGPD. As considerações
-         anteriormente feitas sobre os casos em que o direito de um Estado-Membro tivesse
-         estabelecido uma obrigação legal de processar informações para os operadores de motores
-         de busca também são válidas neste caso.
-     70. Para decidir não dar seguimento a um pedido de supressão por motivos relacionados com esta
-         isenção, é necessário determinar se a manutenção das informações nos resultados do motor
-         de busca é necessária para a realização do interesse público pretendido ou para o exercício
-         dos poderes de representação.
-     71. Por outro lado, a definição legal de poderes ou de interesse público seria efetuada por um
-         Estado-Membro e, se o motor de busca rejeitar um pedido de supressão com base nesta
-         isenção, deve também entender-se que o faz porque considera que a sua atividade é
-         necessária para alcançar interesses públicos. O operador de um motor de busca deverá, nesse
-         caso, apresentar as razões pelas quais considera que a sua atividade é realizada no interesse
-         público. Sem essa explicação, a rejeição de um pedido de supressão apresentado por um titular
-         de dados não pode ser baseada na isenção.
-     72. Consequentemente, caberia também à Autoridade de Controlo do Estado-Membro cuja lei é
-         aplicável tratar de uma potencial reclamação nos termos do artigo 55.º, n.º 2, do RGPD.
+75.   From the point of view of the application of this exemption in the context of the activity of the search
+      engine provider, the same conclusions as stated above can be reached. It does not seem likely that the
+      law of a Member State or of the Union can establish a relationship between the activity of the search
+      engine provider and the maintenance of information or of a category of information in the results of
+      the search engine provider with the achievement of purposes of public interest in respect of public
+      health.
 
-2.3 Motivos de interesse público no domínio da saúde pública
-     73. Esta isenção é um caso específico e baseia-se no facto de o tratamento ser necessário para a
-         realização de um interesse público.
-     74. Neste caso, o interesse público está limitado ao domínio da saúde pública, mas, tal como o
-         interesse público em qualquer outro domínio, a base legal para o tratamento deve estar
-         estabelecida no direito da União ou no direito de um Estado-Membro.
-     75. Do ponto de vista da aplicação desta isenção no contexto da atividade do operador de um
-         motor de busca, podem ser obtidas as conclusões acima expostas. Não parece provável que o
-         direito de um Estado-Membro ou da União possa estabelecer uma relação entre, por um lado,
-         a atividade do operador de um motor de busca e a manutenção de informações ou de uma
-         categoria de informações nos resultados de pesquisas em motores de busca e, por outro lado,
-         a realização de objetivos de interesse público em matéria de saúde pública.
-     76. Esta conclusão é tanto mais evidente se se considerar que o efeito da supressão se limita ao
-         apagamento de alguns resultados da página de resultados obtida quando principalmente um
+76.   This conclusion is more evident if one takes into account that the effect of delisting is only that some
+      results are deleted from the results page that is obtained when mainly a name is entered as a search
+      criterion. But the information is not deleted from the search engine providers’ indexes and can be
+      retrieved using other search terms.
+
+77.   It is, therefore, difficult to imagine that keeping those results visible when searches are mainly made
+      on the basis of a data subject's name can be considered, in general, as something necessary for reasons
+      of public interest in the area of public health.
+
+78.   The criteria on the applicability of national standards and the identification of the Supervisory
+      Authority that must deal with possible claims in a case relating to Article 17 GDPR that was rejected
+      using this exemption have been discussed above.
+
+      2.4 Archiving purposes in the public interest, scientific or historical research
+          purposes, or statistical purposes in accordance with Article 89 (1) in so far as the
+          Right referred to in paragraph 1 is likely to render impossible or seriously impair
+          the achievement of the objectives of that processing
+79.   In this scenario, the search engine provider must be able to demonstrate that the delisting of a certain
+      content on the results page is a serious obstacle or completely prevents the achievement of scientific
+      or historical research purposes or statistical purposes.
+
+80.   It should be understood that these purposes must be objectively pursued by the search engine
+      provider. The possibility that the suppression of results could significantly affect research purposes or
+      statistical purposes pursued by users of the search engine provider’s service is not relevant for the
+      application of this exemption. Those purposes, if they exist, should be taken into consideration when
+      establishing a balance between the rights of the data subject and the interests of the Internet users in
+      accessing the information through the search engine provider.
+
+                                                                                                                 15
+      Adopted
+
+81.   It must also be noted that these purposes may be objectively pursued by the search engine provider,
+      without a link between in principle the name of the data subject and the search results being
+      necessary.
+
+      2.5 Establishment, exercise or defence of legal claims
+82.   In principle, it is very unlikely that search engine providers can use this exemption to reject Article 17
+      GDPR delisting requests.
+
+83.   It must be further emphasised that a delisting request supposes the suppression of certain results from
+      the search results page provided by the search engine provider when the name of a data subject is
+      normally used as search criteria. The information remains accessible using other search terms.
 
 
 
 
-19 RGPD, artigo 6.º, n.º 3:«O fundamento jurídico para o tratamento referido no n.º 1, alíneas c) e e), é definido:
-
-         (a) pelo direito da União; ou
-         (b) pelo direito do Estado-Membro ao qual o responsável pelo tratamento está sujeito (...)»
-                                                                                                                      17
-Adotadas
-
-       nome é inserido como critério de pesquisa. Mas as informações não são apagadas dos índices
-       dos operadores de motores de busca e podem ser recuperadas usando outros termos de
-       pesquisa.
-   77. É, portanto, difícil imaginar que a manutenção desses resultados visíveis quando as buscas são
-       principalmente feitas com base no nome de um titular de dados possa ser considerada, em
-       geral, algo necessário por motivos de interesse público no domínio da saúde pública.
-   78. Os critérios relativos à aplicabilidade de normas nacionais e à identificação da Autoridade de
-       Controlo que deve tratar de eventuais reclamações num caso relacionado com o artigo 17.º
-       do RGPD que tenha sido rejeitado com base nesta isenção foram discutidos acima.
-
-2.4 Fins de arquivo de interesse público, fins de investigação científica ou histórica
-    ou fins estatísticos, nos termos do artigo 89.º, n.º 1, na medida em que o direito
-    referido no n.º 1 seja suscetível de tornar impossível ou prejudicar gravemente a
-    obtenção dos objetivos desse tratamento
-   79. Neste cenário, o operador de um motor de busca deve poder demonstrar que a supressão de
-       um determinado conteúdo numa página de resultados constitui um obstáculo grave ou não
-       permite alcançar totalmente os fins de uma investigação científica ou histórica ou fins
-       estatísticos.
-   80. Deverá entender-se que estes objetivos devem ser objetivamente perseguidos pelo operador
-       do motor de busca. A possibilidade de a supressão dos resultados poder afetar
-       significativamente os fins de uma investigação ou fins estatísticos desejados pelos utilizadores
-       do serviço do operador do motor de busca não é relevante para efeitos de aplicação desta
-       isenção. Esses objetivos, caso existam, deverão ser tomados em consideração ao estabelecer
-       um equilíbrio entre os direitos do titular dos dados e os interesses dos utilizadores da Internet
-       no acesso à informação através do operador do motor de busca.
-   81. Importa igualmente notar que estes objetivos podem ser objetivamente perseguidos pelo
-       operador do motor de busca, sem que seja necessário haver, em princípio, uma ligação entre
-       o nome do titular dos dados e os resultados da pesquisa.
-
-2.5 Declaração, exercício ou defesa de um direito num processo judicial
-   82. Em princípio, é muito pouco provável que os operadores de motores de busca possam utilizar
-       esta isenção para rejeitar os pedidos de supressão do artigo 17.º do RGPD.
-   83. Há que salientar ainda que um pedido de supressão supõe a supressão de determinados
-       resultados da página de resultados da pesquisa fornecida pelo operador do motor de busca
-       quando o nome de um titular dos dados é normalmente usado como critério de pesquisa. As
-       informações permanecem acessíveis usando outros termos de pesquisa.
-
-
-
-
-                                                                                                     18
-Adotadas
+                                                                                                             16
+      Adopted
 ```

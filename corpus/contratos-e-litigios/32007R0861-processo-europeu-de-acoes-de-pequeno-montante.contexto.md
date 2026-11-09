@@ -1,7 +1,7 @@
 ---
 celex: 32007R0861
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32007R0861 — Processo europeu de ações de pequeno montante — contexto

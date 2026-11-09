@@ -1,7 +1,7 @@
 ---
 celex: 32008R0593
 parte: contexto
-obtido_em: '2026-11-02'
+obtido_em: '2026-11-09'
 ---
 
 # Regulamento 32008R0593 — Roma I (lei aplicável aos contratos) — contexto
